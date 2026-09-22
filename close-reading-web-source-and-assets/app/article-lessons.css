@@ -1,0 +1,27 @@
+/* Article 02–05 content uses the established notebook and vocabulary file components. */
+.article-one-notebook:not([data-article-id="01"]) .notebook-jump nav{max-height:min(65vh,620px);overflow:auto}
+.article-one-notebook .lesson-dictionary-sources{display:flex;align-items:flex-start;flex-direction:column;gap:4px}
+.article-one-notebook .lesson-source-caption{display:block;margin-top:12px;color:#746654;font:14px/1.6 Georgia,"Songti SC",serif}
+.article-one-notebook .lesson-activities>p{line-height:1.9}
+.article-one-notebook .lesson-reading-cue{margin-top:24px;border-top:1px solid #cbbda3;padding-top:18px}
+.article-one-notebook .lesson-reading-cue>span{color:#98543e;font-size:16px}
+.article-one-notebook .lesson-context-paragraph>p{display:flex;gap:18px;padding:12px 16px;margin:5px 0;font:21px/1.8 Georgia,serif;color:#776b58;border-left:3px solid transparent}
+.article-one-notebook .lesson-context-paragraph>p[aria-current="true"]{color:#3f3427;background:#eae1ce;border-left-color:#a76047}
+.article-one-notebook .lesson-context-paragraph small{flex-shrink:0;font:13px/2.8 var(--notebook-type);color:#9d694e}
+.article-one-notebook .lesson-reuse>details{padding:15px 0;border-bottom:1px solid #cbbda3}
+.article-one-notebook .lesson-reuse summary{cursor:pointer;min-height:36px;font:22px/1.5 var(--notebook-type);color:#895039}
+.article-one-notebook .lesson-writing-label{display:block;margin-top:26px;font-size:17px}
+.article-one-notebook .lesson-writing-label textarea{display:block;box-sizing:border-box;width:100%;min-height:132px;resize:vertical;margin-top:10px;padding:16px;border:1px solid #c1b297;border-radius:5px;background:#fffaf066;color:#443627;font:20px/1.7 Georgia,"Songti SC",serif}
+.article-one-notebook .lesson-writing-label textarea:focus-visible{outline:2px solid #a55f45;outline-offset:3px}
+@media(max-width:650px){.article-one-notebook .lesson-context-paragraph>p{padding:10px 6px;gap:10px;font-size:18px}.article-one-notebook .lesson-writing-label textarea{font-size:18px}}
+
+.student-workspace-v2 .lesson-pdf-notes{margin:28px 0 0;padding:22px 24px;background:#faf4e8;border:1px solid #d4c5ab;border-left:3px solid #a78965;border-radius:3px;box-shadow:0 3px 9px #684f2610}
+.student-workspace-v2 .lesson-pdf-notes>h3{margin:0 0 16px;font:18px/1.5 var(--notebook-type,Georgia),"Songti SC",serif;color:#655342}
+.student-workspace-v2 .lesson-pdf-note{padding:12px 0;border-top:1px dashed #d9cbb5}
+.student-workspace-v2 .lesson-pdf-note summary{cursor:pointer;font:17px/1.7 Georgia,"Songti SC",serif;color:#574a3b;min-height:32px}
+.student-workspace-v2 .lesson-pdf-note p{font:16px/1.9 Georgia,"Songti SC",serif;color:#544839;margin:14px 0;white-space:pre-line}
+.student-workspace-v2 .lesson-note-correction{display:inline-block;margin-left:10px;padding:1px 6px;border:1px solid #bb9678;border-radius:3px;font:12px/1.5 Georgia,"Songti SC",serif;color:#815a3f;vertical-align:middle}
+.student-workspace-v2 .lesson-note-sources{display:flex;flex-wrap:wrap;gap:8px 18px}
+.student-workspace-v2 .lesson-note-sources a{font:13px/1.6 Georgia,"Songti SC",serif;color:#746245;text-underline-offset:3px}
+.student-workspace-v2 .lesson-pdf-note summary:focus-visible,.student-workspace-v2 .lesson-note-sources a:focus-visible{outline:2px solid #85613f;outline-offset:4px}
+@media(max-width:600px){.student-workspace-v2 .lesson-pdf-notes{padding:18px 15px}.student-workspace-v2 .lesson-pdf-note summary{font-size:16px}}

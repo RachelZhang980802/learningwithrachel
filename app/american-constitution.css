@@ -1,0 +1,1092 @@
+
+.constitution-archive,.constitution-archive *{box-sizing:border-box}
+.constitution-archive{--paper:#f5f2eb;--sheet:#faf8f3;--ink:#252522;--soft:#66625c;--line:#cec7ba;--red:#a44529;--red2:#7d311d;box-sizing:border-box;background:radial-gradient(circle at 30% 0,#fbfaf6 0,transparent 43%),linear-gradient(120deg,#f2eee6,#f8f6f1 58%,#f1ece3);color:var(--ink);font-family:Arial,Helvetica,sans-serif}.constitution-archive{min-height:100svh;padding:clamp(22px,3.2vw,52px);overflow:hidden}.constitution-archive:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.2;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.75' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.06'/%3E%3C/svg%3E")}.constitution-archive>header{height:54px;display:flex;align-items:flex-start;gap:14px;position:relative;z-index:5}:where(.constitution-archive) .book{color:var(--red);font-size:32px;line-height:1;transform:rotate(90deg)}:where(.constitution-archive) header b{display:block;color:var(--red);font:600 17px/1 Georgia,serif;letter-spacing:.14em}:where(.constitution-archive) header span{display:block;margin-top:6px;color:#55514b;font-size:14px}:where(.constitution-archive) header button{margin-left:auto;border:0;border-bottom:1px solid var(--red);background:none;padding:7px;color:#55514b;font-size:11px;letter-spacing:.19em;cursor:pointer}:where(.constitution-archive) .title{text-align:center;margin:16px auto 34px}:where(.constitution-archive) .title>p,:where(.constitution-archive) .eyebrow{font-size:11px;letter-spacing:.22em;color:var(--red);font-weight:bold}:where(.constitution-archive) .title h1,:where(.constitution-archive) .chapter-head h1{font:400 clamp(46px,5.6vw,82px)/1 Georgia,serif;margin:12px 0}:where(.constitution-archive) .title>span{font:italic 18px Georgia,serif;color:var(--soft)}:where(.constitution-archive) .toc-folio{max-width:1200px;height:560px;margin:auto;display:grid;grid-template-columns:1fr 1.7fr 1.1fr;align-items:center}:where(.constitution-archive) .toc-page{height:500px;border:1px solid var(--line);background:linear-gradient(135deg,rgba(255,255,255,.76),rgba(240,235,225,.82));box-shadow:0 10px 25px rgba(40,35,29,.14);padding:42px 34px;color:var(--ink);text-align:center;font-family:Georgia,serif;cursor:pointer;transition:.55s cubic-bezier(.2,.8,.25,1);position:relative}:where(.constitution-archive) .toc-page:hover,:where(.constitution-archive) .toc-page:focus-visible{transform:translateY(-16px) scale(1.015);z-index:4;box-shadow:0 22px 42px rgba(40,35,29,.2)}:where(.constitution-archive) .toc-page small{font:11px Arial,sans-serif;letter-spacing:.22em}:where(.constitution-archive) .toc-page h2{color:var(--red);font-size:25px;font-weight:400;letter-spacing:.1em;margin:23px 0 8px}:where(.constitution-archive) .toc-page em{font-size:17px}:where(.constitution-archive) .toc-page p{font:italic 20px/1.5 Georgia,serif;margin:22px auto;max-width:250px}:where(.constitution-archive) .toc-page strong{position:absolute;bottom:32px;left:0;right:0;color:var(--red);font:11px Arial,sans-serif;letter-spacing:.18em}:where(.constitution-archive) .pre{border-radius:22px 4px 4px 22px;transform:rotate(-1.2deg)}:where(.constitution-archive) .art{height:540px;border-radius:18px;z-index:2}:where(.constitution-archive) .amend{border-radius:4px 22px 22px 4px;transform:rotate(1.2deg)}:where(.constitution-archive) .script{font:52px/1 "Brush Script MT",cursive;transform:rotate(-4deg);margin-top:54px}:where(.constitution-archive) .mini-tree{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid #999;padding-top:62px;margin-top:70px;position:relative;gap:15px}:where(.constitution-archive) .mini-tree i{position:absolute;left:50%;top:-52px;height:52px;border-left:1px solid #999}:where(.constitution-archive) .mini-tree span{font:9px Arial,sans-serif;letter-spacing:.08em}:where(.constitution-archive) .selected{display:grid;grid-template-columns:repeat(4,42px);justify-content:center;gap:10px;margin-top:55px}:where(.constitution-archive) .selected span{width:42px;height:42px;border:1px solid var(--line);border-radius:50%;display:grid;place-items:center;font:15px Georgia,serif}:where(.constitution-archive) .chapter{max-width:1280px;margin:28px auto 80px}:where(.constitution-archive) .chapter-head{text-align:center;position:relative;border-bottom:1px solid var(--line);padding:8px 0 24px}:where(.constitution-archive) .chapter-head button{position:absolute;left:0;top:25px;border:0;background:none;color:var(--soft);font-size:11px;letter-spacing:.18em;cursor:pointer}:where(.constitution-archive) .chapter-head p{color:var(--red);font-size:11px;letter-spacing:.22em}:where(.constitution-archive) .chapter-head h1{font-size:64px;margin:10px}:where(.constitution-archive) .preamble-grid{display:grid;grid-template-columns:1.3fr .7fr;gap:28px;margin-top:36px}:where(.constitution-archive) .document,:where(.constitution-archive) .preamble-grid aside,:where(.constitution-archive) .concept,:where(.constitution-archive) .amendment-card,:where(.constitution-archive) .context-file,:where(.constitution-archive) .think{border:1px solid var(--line);background:rgba(251,249,244,.74);box-shadow:0 7px 18px rgba(40,35,29,.09)}:where(.constitution-archive) .document{padding:50px 58px}:where(.constitution-archive) .document .script{text-align:left;margin:0 0 25px;font-size:70px}:where(.constitution-archive) .document>p:last-child{font:21px/1.9 Georgia,serif;margin:0}:where(.constitution-archive) .document mark{background:linear-gradient(transparent 65%,rgba(164,69,41,.16) 65%);color:inherit}:where(.constitution-archive) .preamble-grid aside{padding:50px}:where(.constitution-archive) .preamble-grid aside h3{font:36px/1.15 Georgia,serif;font-weight:400}:where(.constitution-archive) .preamble-grid dl{margin-top:35px}:where(.constitution-archive) .preamble-grid dl div{border-top:1px solid var(--line);padding:18px 0}:where(.constitution-archive) .preamble-grid dt{font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--soft)}:where(.constitution-archive) .preamble-grid dd{margin:8px 0 0;font:18px Georgia,serif}:where(.constitution-archive) .goal-strip{display:grid;grid-template-columns:repeat(6,1fr);margin:24px 0;border:1px solid var(--line)}:where(.constitution-archive) .goal-strip div{padding:22px 18px;min-height:110px;border-right:1px solid var(--line);font:15px/1.4 Georgia,serif}:where(.constitution-archive) .goal-strip div:last-child{border:0}:where(.constitution-archive) .goal-strip span{display:block;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em;margin-bottom:12px}:where(.constitution-archive) .think{padding:38px 48px;position:relative}:where(.constitution-archive) .think>p{font-size:11px;letter-spacing:.2em;color:var(--red)}:where(.constitution-archive) .think h3{font:30px/1.35 Georgia,serif;font-weight:400;max-width:850px}:where(.constitution-archive) .think>button,:where(.constitution-archive) .context-file>button{position:absolute;right:40px;bottom:35px;border:0;border-bottom:1px solid var(--red);background:none;color:var(--red);font-size:11px;letter-spacing:.15em;cursor:pointer}:where(.constitution-archive) .think>div{margin-top:25px;border-top:1px solid var(--line);padding-top:24px;max-width:850px}:where(.constitution-archive) .think>div b{font-size:11px;letter-spacing:.15em;color:var(--red)}:where(.constitution-archive) .think>div p{font:17px/1.7 Georgia,serif}:where(.constitution-archive) .intro{max-width:740px;margin:28px auto;text-align:center;font:18px/1.6 Georgia,serif;color:var(--soft)}:where(.constitution-archive) .subnav{display:flex;justify-content:center;margin:34px 0}:where(.constitution-archive) .subnav button{border:1px solid var(--line);border-right:0;background:rgba(250,248,243,.65);padding:16px 28px;font:15px Georgia,serif;cursor:pointer}:where(.constitution-archive) .subnav button:last-child{border-right:1px solid var(--line)}:where(.constitution-archive) .subnav button span{color:var(--red);margin-right:12px}:where(.constitution-archive) .subnav button.active{background:var(--red);color:white}:where(.constitution-archive) .subnav button.active span{color:white}:where(.constitution-archive) .concept{display:grid;grid-template-columns:1fr 1fr;min-height:420px}:where(.constitution-archive) .concept>div:first-child{padding:64px}:where(.constitution-archive) .concept h2,:where(.constitution-archive) .amendment-copy h2,:where(.constitution-archive) .context-file h2{font:46px/1.1 Georgia,serif;font-weight:400;margin:20px 0}:where(.constitution-archive) .concept>div:first-child>p:not(.eyebrow){font:18px/1.7 Georgia,serif;color:var(--soft)}:where(.constitution-archive) .concept blockquote{margin:35px 0 0;padding-left:22px;border-left:2px solid var(--red);font:italic 22px/1.5 Georgia,serif}:where(.constitution-archive) .concept-visual{border-left:1px solid var(--line);display:grid;place-items:center;padding:45px}:where(.constitution-archive) .houses{display:grid;grid-template-columns:1fr auto 1fr;gap:22px;align-items:center;width:100%}:where(.constitution-archive) .houses>div{border:1px solid var(--line);padding:38px 15px;text-align:center}:where(.constitution-archive) .houses b,:where(.constitution-archive) .houses span{display:block;font-size:11px;letter-spacing:.1em}:where(.constitution-archive) .houses strong{display:block;color:var(--red);font:58px Georgia,serif;margin:10px}:where(.constitution-archive) .branches-v{display:grid;grid-template-columns:repeat(3,1fr);gap:13px;width:100%;border-top:1px solid #999;padding-top:70px;position:relative}:where(.constitution-archive) .branches-v:before{content:"";position:absolute;left:50%;top:-60px;height:60px;border-left:1px solid #999}:where(.constitution-archive) .branches-v span{text-align:center;font-size:10px;letter-spacing:.08em}:where(.constitution-archive) .branches-v small{display:block;font:italic 13px Georgia,serif;letter-spacing:0;margin-top:10px}:where(.constitution-archive) .federal{display:flex;align-items:center;gap:25px;text-align:center;font:17px/1.5 Georgia,serif}:where(.constitution-archive) .federal span{border:1px solid var(--line);padding:40px 28px}:where(.constitution-archive) .federal i{font-size:34px;color:var(--red)}:where(.constitution-archive) .timeline-nav{display:grid;grid-template-columns:repeat(7,1fr);max-width:1000px;margin:36px auto;position:relative}:where(.constitution-archive) .timeline-nav:before{content:"";position:absolute;top:46px;left:7%;right:7%;height:1px;background:var(--line)}:where(.constitution-archive) .timeline-nav button{border:0;background:none;cursor:pointer;z-index:1}:where(.constitution-archive) .timeline-nav span{display:block;font:12px Georgia,serif;color:var(--soft);margin-bottom:9px}:where(.constitution-archive) .timeline-nav b{display:inline-grid;place-items:center;width:54px;height:54px;border:1px solid var(--line);border-radius:50%;background:var(--paper);font:20px Georgia,serif}:where(.constitution-archive) .timeline-nav small{font-size:10px}:where(.constitution-archive) .timeline-nav button.active b{background:var(--red);color:white;border-color:var(--red);transform:scale(1.12)}:where(.constitution-archive) .amendment-card{display:grid;grid-template-columns:.36fr 1fr;max-width:1000px;margin:0 auto 28px;min-height:340px}:where(.constitution-archive) .amendment-number{display:flex;flex-direction:column;align-items:center;justify-content:center;border-right:1px solid var(--line)}:where(.constitution-archive) .amendment-number>span{font-size:10px;letter-spacing:.2em}:where(.constitution-archive) .amendment-number strong{font:100px/1 Georgia,serif;color:var(--red)}:where(.constitution-archive) .amendment-number em{font:16px Georgia,serif}:where(.constitution-archive) .amendment-copy{padding:52px 60px}:where(.constitution-archive) .amendment-copy>p:not(.eyebrow){font:19px/1.7 Georgia,serif;color:var(--soft)}:where(.constitution-archive) .keywords{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}:where(.constitution-archive) .keywords span{border:1px solid var(--line);border-radius:30px;padding:9px 16px;font-size:12px;letter-spacing:.05em}:where(.constitution-archive) .context-file{max-width:1000px;margin:auto;padding:45px 220px 45px 50px;position:relative;min-height:270px}:where(.constitution-archive) .context-file>div:first-child p:not(.eyebrow){font:17px/1.65 Georgia,serif;color:var(--soft)}:where(.constitution-archive) .context-file>div:first-child small{display:block;color:var(--red);margin-top:18px}:where(.constitution-archive) .fraction{position:absolute;right:45px;top:35px;width:125px;text-align:center}:where(.constitution-archive) .fraction strong{display:block;font:56px/1 Georgia,serif}:where(.constitution-archive) .fraction i{display:block;height:1px;background:var(--ink);margin:8px 0}:where(.constitution-archive) .fraction span{display:block;margin-top:15px;font:italic 13px Georgia,serif}:where(.constitution-archive) .context-file blockquote{border-top:1px solid var(--line);padding-top:22px;font:italic 20px/1.5 Georgia,serif}:where(.constitution-archive) .surprise{max-width:1000px;margin:auto;border:1px solid var(--line);padding:28px;display:flex;align-items:center;justify-content:center;gap:24px}:where(.constitution-archive) .surprise span{font-size:10px;letter-spacing:.15em}:where(.constitution-archive) .surprise strong{font:38px Georgia,serif;color:var(--red)}:where(.constitution-archive) .surprise i{font:italic 16px Georgia,serif;color:var(--soft)}
+@media(max-width:720px){.constitution-archive{padding:20px}.constitution-archive>header span{display:none}:where(.constitution-archive) .title h1{font-size:46px}:where(.constitution-archive) .toc-folio{height:auto;display:flex;flex-direction:column;gap:14px}:where(.constitution-archive) .toc-page,:where(.constitution-archive) .art{width:100%;height:340px!important;transform:none!important}:where(.constitution-archive) .script{margin-top:20px}:where(.constitution-archive) .mini-tree,:where(.constitution-archive) .selected{margin-top:28px}:where(.constitution-archive) .preamble-grid,:where(.constitution-archive) .concept,:where(.constitution-archive) .amendment-card{grid-template-columns:1fr}:where(.constitution-archive) .document,:where(.constitution-archive) .preamble-grid aside,:where(.constitution-archive) .concept>div:first-child,:where(.constitution-archive) .amendment-copy{padding:30px}:where(.constitution-archive) .goal-strip{grid-template-columns:1fr 1fr}:where(.constitution-archive) .goal-strip div{border-bottom:1px solid var(--line)}:where(.constitution-archive) .think{padding:30px}:where(.constitution-archive) .think>button,:where(.constitution-archive) .context-file>button{position:static;margin-top:20px}:where(.constitution-archive) .subnav{display:grid;grid-template-columns:1fr}:where(.constitution-archive) .subnav button{border-right:1px solid var(--line);border-bottom:0}:where(.constitution-archive) .subnav button:last-child{border-bottom:1px solid var(--line)}:where(.constitution-archive) .concept-visual{border-left:0;border-top:1px solid var(--line);min-height:300px}:where(.constitution-archive) .timeline-nav{overflow-x:auto;justify-content:start}:where(.constitution-archive) .timeline-nav button{min-width:86px}:where(.constitution-archive) .amendment-number{border-right:0;border-bottom:1px solid var(--line);padding:25px}:where(.constitution-archive) .context-file{padding:30px}:where(.constitution-archive) .fraction{position:static;margin:25px auto}:where(.constitution-archive) .chapter-head button{position:static;display:block;margin:auto}:where(.constitution-archive) .chapter-head h1{font-size:48px}:where(.constitution-archive) .houses{grid-template-columns:1fr}:where(.constitution-archive) .houses>i{display:none}:where(.constitution-archive) .selected{grid-template-columns:repeat(7,36px)}:where(.constitution-archive) .selected span{width:36px;height:36px}}
+@media(prefers-reduced-motion:reduce){:where(.constitution-archive) *{scroll-behavior:auto!important;transition:none!important}}
+
+/* Preamble promise-card refinement */
+:where(.constitution-archive) .preamble-question{display:flex;min-height:100%;flex-direction:column;justify-content:center}:where(.constitution-archive) .preamble-question h3{max-width:420px;margin:14px 0 0;font:400 clamp(38px,4.6vw,64px)/1.05 Georgia,serif!important}:where(.constitution-archive) .preamble-question>p:last-child{max-width:300px;margin:30px 0 0;color:var(--soft);font:italic 17px/1.5 Georgia,serif}:where(.constitution-archive) .goal-strip{gap:0;border:0}:where(.constitution-archive) .goal-strip .promise-card{height:178px;padding:0;border:0;background:transparent;cursor:pointer;perspective:1000px}:where(.constitution-archive) .promise-card-inner{position:relative;display:block;width:100%;height:100%;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.22,.68,.25,1)}:where(.constitution-archive) .promise-card.is-flipped .promise-card-inner{transform:rotateY(180deg)}:where(.constitution-archive) .promise-card-face{position:absolute;inset:0;display:flex!important;flex-direction:column;align-items:center;justify-content:center;padding:18px 14px;overflow:auto;border:1px solid var(--line);border-right:0;background:rgba(251,249,244,.9);backface-visibility:hidden}:where(.constitution-archive) .promise-card:last-child .promise-card-face{border-right:1px solid var(--line)}:where(.constitution-archive) .promise-card-front{gap:12px}:where(.constitution-archive) .promise-card-face small{display:block!important;margin:0!important;color:var(--red);font:700 10px/1 Arial,Helvetica,sans-serif!important;letter-spacing:.18em}:where(.constitution-archive) .promise-card-front b{color:var(--ink);font:400 17px/1.25 Georgia,serif;letter-spacing:.02em}:where(.constitution-archive) .promise-card-front b::after{content:"↗";display:block;margin-top:14px;color:var(--red);font:16px Arial,Helvetica,sans-serif}:where(.constitution-archive) .promise-card-back{align-items:flex-start;text-align:left;transform:rotateY(180deg)}:where(.constitution-archive) .promise-card-back strong{display:block;margin:12px 0 10px;font:400 clamp(16px,1.55vw,22px)/1.18 Georgia,serif}:where(.constitution-archive) .promise-card-back em{display:block;color:var(--red2);font:400 clamp(14px,1.3vw,18px)/1.45 Georgia,serif;font-style:normal;word-break:break-all}:where(.constitution-archive) .promise-card:focus-visible{outline:3px solid var(--red);outline-offset:4px}:where(.constitution-archive) .promise-card:focus-visible .promise-card-face{outline:0}
+@media(max-width:720px){:where(.constitution-archive) .preamble-question h3{font-size:42px!important}:where(.constitution-archive) .goal-strip{grid-template-columns:repeat(2,1fr)}:where(.constitution-archive) .goal-strip .promise-card{height:168px}:where(.constitution-archive) .promise-card:nth-child(2n) .promise-card-face{border-right:1px solid var(--line)}:where(.constitution-archive) .promise-card:nth-child(n+3) .promise-card-face{border-top:0}:where(.constitution-archive) .promise-card-back strong{font-size:19px}:where(.constitution-archive) .promise-card-back em{font-size:16px}}
+@media(prefers-reduced-motion:reduce){:where(.constitution-archive) .promise-card-inner{transition:none}}
+:where(.constitution-archive) .promise-card:last-child .promise-card-back strong{font-size:17px;line-height:1.16}:where(.constitution-archive) .promise-card:last-child .promise-card-back em{font-size:14px;line-height:1.38}
+
+/* Seven Articles: progressive reading lessons */
+:where(.constitution-archive) .article-lesson{border:1px solid var(--line);background:rgba(251,249,244,.78);box-shadow:0 7px 18px rgba(40,35,29,.09)}:where(.constitution-archive) .article-lesson{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);overflow:hidden}:where(.constitution-archive) .lesson-copy{padding:58px 64px}:where(.constitution-archive) .lesson-copy h2{margin:18px 0;font:400 clamp(40px,4.5vw,62px)/1.04 Georgia,serif}:where(.constitution-archive) .lesson-copy>p:not(.eyebrow),:where(.constitution-archive) .reveal-reading>p{margin:0 0 9px;color:var(--soft);font:18px/1.65 Georgia,serif}:where(.constitution-archive) .cn-copy{color:var(--red2)!important;font:16px/1.65 "Songti SC","SimSun",serif!important}:where(.constitution-archive) .think-prompt{margin-top:36px;padding:23px 0 0;border-top:1px solid var(--line)}:where(.constitution-archive) .think-prompt>p:first-child{margin:0 0 12px;color:var(--red);font:11px Arial,sans-serif;letter-spacing:.18em}:where(.constitution-archive) .think-prompt h3{margin:0;font:italic 25px/1.38 Georgia,serif;font-weight:400}:where(.constitution-archive) .think-prompt button,:where(.constitution-archive) .reveal-reading>button,:where(.constitution-archive) .federal-actions>button{margin-top:24px;border:1px solid var(--red);background:var(--red);color:#fff;padding:12px 15px;font:11px Arial,sans-serif;letter-spacing:.14em;cursor:pointer}:where(.constitution-archive) .think-prompt button:hover,:where(.constitution-archive) .reveal-reading>button:hover,:where(.constitution-archive) .federal-actions>button:hover{background:#8d341e}:where(.constitution-archive) .reveal-reading{margin-top:34px;padding-top:24px;border-top:1px solid var(--line)}:where(.constitution-archive) .lesson-mantra{display:block;margin-top:20px;color:var(--red);font:italic 23px Georgia,serif}:where(.constitution-archive) .lesson-conclusion{grid-column:1/-1;border-top:1px solid var(--line);padding:28px 64px;background:rgba(238,230,214,.38)}:where(.constitution-archive) .lesson-conclusion>p{max-width:900px;margin:0 0 9px;font:18px/1.65 Georgia,serif}:where(.constitution-archive) .lesson-conclusion>strong{font:400 24px/1.45 Georgia,serif}:where(.constitution-archive) .lesson-conclusion blockquote{margin:24px 0 0;padding-left:18px;border-left:2px solid var(--red);font:italic 21px/1.45 Georgia,serif}
+:where(.constitution-archive) .bicameral-map{position:relative;display:grid;place-content:center;min-height:550px;padding:60px 38px;border-left:1px solid var(--line);background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}:where(.constitution-archive) .congress-node{z-index:1;display:grid;justify-items:center;gap:9px;width:230px;margin:0 auto;padding:22px;border:1px solid var(--red);background:var(--paper);text-align:center}:where(.constitution-archive) .congress-node small{color:var(--red);font:10px Arial,sans-serif;letter-spacing:.16em}:where(.constitution-archive) .congress-node strong{font:28px Georgia,serif}:where(.constitution-archive) .congress-node span{font-size:10px;letter-spacing:.14em}:where(.constitution-archive) .branch-lines{position:absolute;top:240px;left:21%;right:21%;height:80px}:where(.constitution-archive) .branch-lines i{position:absolute;top:0;width:1px;height:105px;background:var(--line);transform-origin:top}:where(.constitution-archive) .branch-lines i:first-child{left:30%;transform:rotate(49deg)}:where(.constitution-archive) .branch-lines i:last-child{right:30%;transform:rotate(-49deg)}:where(.constitution-archive) .chamber-placeholders,:where(.constitution-archive) .chamber-comparison{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px;width:100%;margin-top:124px}:where(.constitution-archive) .chamber-placeholders span{padding:40px 10px;border:1px dashed var(--line);color:var(--soft);text-align:center;font:11px Arial,sans-serif;letter-spacing:.17em}:where(.constitution-archive) .chamber{padding:24px;border:1px solid var(--line);background:rgba(251,249,244,.92)}:where(.constitution-archive) .chamber .eyebrow{margin:0 0 20px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em}:where(.constitution-archive) .chamber>strong{display:block;font:22px/1.25 Georgia,serif}:where(.constitution-archive) .chamber ul{margin:20px 0 0;padding:0;list-style:none}:where(.constitution-archive) .chamber li{padding:10px 0;border-top:1px solid rgba(167,154,133,.46);font:14px/1.38 Georgia,serif}:where(.constitution-archive) .chamber li:nth-child(2){color:var(--red)}
+:where(.constitution-archive) .branches-stage{position:relative;display:grid;place-content:center;min-height:590px;padding:54px 42px;border-left:1px solid var(--line);background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}:where(.constitution-archive) .branch-rail{position:absolute;top:31%;left:15%;right:15%;display:flex;justify-content:space-between}:where(.constitution-archive) .branch-rail i{width:28%;height:1px;background:var(--line)}:where(.constitution-archive) .branch-cards{z-index:1;display:grid;grid-template-columns:repeat(3,1fr);gap:15px;width:100%}:where(.constitution-archive) .branch-card{display:grid;gap:12px;min-height:220px;padding:24px 17px;border:1px solid var(--line);background:var(--paper);opacity:.34;transform:translateY(10px);transition:opacity .36s ease,transform .36s ease;transition-delay:calc(var(--step)*.17s)}:where(.constitution-archive) .branches-stage.is-revealed .branch-card{opacity:1;transform:none}:where(.constitution-archive) .branch-card small{color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em}:where(.constitution-archive) .branch-card strong{font:18px/1.1 Georgia,serif}:where(.constitution-archive) .branch-card b{font:italic 16px Georgia,serif}:where(.constitution-archive) .branch-card span{margin-top:auto;color:var(--soft);font:14px/1.4 Georgia,serif}:where(.constitution-archive) .structure-trigger{z-index:1;margin:30px auto 0;padding:12px;border:1px solid var(--line);background:rgba(251,249,244,.85);cursor:pointer;transition:transform .2s ease}:where(.constitution-archive) .structure-trigger:hover{transform:translateY(-2px)}:where(.constitution-archive) .structure-trigger small{display:block;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.15em}:where(.constitution-archive) .structure-trigger span{display:block;margin-top:7px;color:var(--soft);font:italic 14px Georgia,serif}:where(.constitution-archive) .structure-modal{position:absolute;z-index:6;inset:0;display:grid;place-items:center;padding:20px;background:rgba(38,33,28,.42);animation:structure-in .2s ease}:where(.constitution-archive) .structure-modal>div{position:relative;max-width:min(92%,720px);max-height:92%;overflow:auto;padding:30px;background:var(--paper);box-shadow:0 18px 40px rgba(0,0,0,.24)}:where(.constitution-archive) .structure-modal button{position:absolute;right:8px;top:6px;border:0;background:none;font-size:28px;cursor:pointer}:where(.constitution-archive) .structure-modal .eyebrow{margin:0 25px 16px 0;color:var(--red);font:11px Arial,sans-serif;letter-spacing:.13em}:where(.constitution-archive) .structure-modal img{display:block;width:100%;height:auto;border:1px solid var(--line)}:where(.constitution-archive) .structure-modal div>p:not(.eyebrow){margin:16px 0 0;font:15px/1.5 Georgia,serif}@keyframes structure-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+:where(.constitution-archive) .checks-diagram{width:100%;min-height:450px}:where(.constitution-archive) .checks-nodes{position:relative;height:210px;max-width:480px;margin:auto}:where(.constitution-archive) .checks-nodes span{position:absolute;display:grid;gap:5px;min-width:132px;padding:15px;border:1px solid var(--red);background:var(--paper);text-align:center;font:13px Georgia,serif}:where(.constitution-archive) .checks-nodes b{font-size:17px}:where(.constitution-archive) .node-leg{left:50%;top:0;transform:translateX(-50%)}:where(.constitution-archive) .node-exec{left:0;bottom:0}:where(.constitution-archive) .node-jud{right:0;bottom:0}:where(.constitution-archive) .check-links{display:grid;grid-template-columns:repeat(2,1fr);gap:9px;margin-top:22px}:where(.constitution-archive) .check-links button{min-height:75px;padding:11px;border:1px solid var(--line);background:rgba(251,249,244,.92);text-align:left;cursor:pointer}:where(.constitution-archive) .check-links small,:where(.constitution-archive) .check-links strong,:where(.constitution-archive) .check-links span,:where(.constitution-archive) .check-links em{display:block}:where(.constitution-archive) .check-links small{color:var(--red);font:9px Arial,sans-serif;letter-spacing:.08em}:where(.constitution-archive) .check-links strong{margin:6px 0;font:15px/1.25 Georgia,serif}:where(.constitution-archive) .check-links span,:where(.constitution-archive) .check-links em{display:none;font:13px/1.35 Georgia,serif}:where(.constitution-archive) .check-links em{margin-top:7px;color:var(--red2);font-style:normal}:where(.constitution-archive) .check-links button:hover,:where(.constitution-archive) .check-links button:focus-visible{background:#f2e3cb}:where(.constitution-archive) .check-links button:hover span,:where(.constitution-archive) .check-links button:hover em,:where(.constitution-archive) .check-links button:focus-visible span,:where(.constitution-archive) .check-links button:focus-visible em{display:block}:where(.constitution-archive) .contrast-summary{display:flex;gap:16px;margin-top:25px}:where(.constitution-archive) .contrast-summary span{flex:1;padding:14px;border-top:2px solid var(--red);font:16px Georgia,serif}:where(.constitution-archive) .contrast-summary b{display:block;margin-bottom:7px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.12em}
+:where(.constitution-archive) .horizontal-vertical{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center;margin:24px 0 8px;color:var(--soft);font:italic 15px/1.45 Georgia,serif}:where(.constitution-archive) .horizontal-vertical i{color:var(--red);font-size:22px}:where(.constitution-archive) .federal-actions{display:flex;gap:9px;flex-wrap:wrap}:where(.constitution-archive) .federal-actions>button{background:transparent;color:var(--red)}:where(.constitution-archive) .federal-actions>button:first-child{background:var(--red);color:#fff}:where(.constitution-archive) .constitutional-basis,:where(.constitution-archive) .reading-note{margin-top:22px;padding:19px;border-left:2px solid var(--red);background:rgba(238,230,214,.43)}:where(.constitution-archive) .constitutional-basis .eyebrow,:where(.constitution-archive) .reading-note .eyebrow{margin:0 0 12px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em}:where(.constitution-archive) .constitutional-basis p,:where(.constitution-archive) .reading-note p{margin:0 0 7px;font:15px/1.48 Georgia,serif}:where(.constitution-archive) .constitutional-basis .cn-copy,:where(.constitution-archive) .reading-note .cn-copy{margin-bottom:14px;font-size:14px!important}:where(.constitution-archive) .federal-powers{display:grid;place-content:center;min-height:570px;padding:45px;border-left:1px solid var(--line);background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}:where(.constitution-archive) .federal-empty{display:grid;grid-template-columns:1fr auto 1fr;gap:18px;align-items:center;text-align:center;font:17px/1.35 Georgia,serif}:where(.constitution-archive) .federal-empty span{padding:33px 15px;border:1px dashed var(--line)}:where(.constitution-archive) .federal-empty i{color:var(--red);font-size:30px}:where(.constitution-archive) .power-columns{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;width:100%}:where(.constitution-archive) .power-column{min-height:330px;padding:19px 15px;border:1px solid var(--line);background:rgba(251,249,244,.85);opacity:.32;transition:opacity .35s ease}:where(.constitution-archive) .power-column.is-visible{opacity:1}:where(.constitution-archive) .power-column .eyebrow{min-height:28px;margin:0 0 18px;color:var(--red);font:10px/1.35 Arial,sans-serif;letter-spacing:.12em}:where(.constitution-archive) .power-column div{padding:12px 0;border-top:1px solid rgba(167,154,133,.46)}:where(.constitution-archive) .power-column strong,:where(.constitution-archive) .power-column span{display:block}:where(.constitution-archive) .power-column strong{font:16px/1.3 Georgia,serif}:where(.constitution-archive) .power-column div span{margin-top:5px;color:var(--red2);font:14px "Songti SC","SimSun",serif}:where(.constitution-archive) .awaiting{display:block;padding-top:75px;color:var(--soft);text-align:center;font:italic 14px Georgia,serif}
+@media(max-width:720px){:where(.constitution-archive) .article-lesson{grid-template-columns:1fr}:where(.constitution-archive) .lesson-copy{padding:34px 30px}:where(.constitution-archive) .lesson-conclusion{padding:25px 30px}:where(.constitution-archive) .bicameral-map,:where(.constitution-archive) .branches-stage,:where(.constitution-archive) .federal-powers{min-height:auto;border-left:0;border-top:1px solid var(--line);padding:42px 25px}:where(.constitution-archive) .chamber-placeholders,:where(.constitution-archive) .chamber-comparison{margin-top:108px}:where(.constitution-archive) .branch-cards{grid-template-columns:1fr}:where(.constitution-archive) .branch-card{min-height:0}:where(.constitution-archive) .branch-rail{display:none}:where(.constitution-archive) .checks-nodes{height:280px}:where(.constitution-archive) .checks-nodes span{min-width:118px}:where(.constitution-archive) .check-links{grid-template-columns:1fr}:where(.constitution-archive) .contrast-summary{flex-direction:column}:where(.constitution-archive) .power-columns{grid-template-columns:1fr}:where(.constitution-archive) .power-column{min-height:auto}:where(.constitution-archive) .federal-empty{grid-template-columns:1fr}:where(.constitution-archive) .structure-modal{position:fixed}:where(.constitution-archive) .structure-trigger{width:100%}}
+@media(prefers-reduced-motion:reduce){:where(.constitution-archive) .branch-card,:where(.constitution-archive) .structure-trigger{transition:none}:where(.constitution-archive) .structure-modal{animation:none}}
+
+/* Use the supplied instructional diagrams directly, rather than recreating them. */
+:where(.constitution-archive) .branches-stage{display:block;min-height:590px;padding:28px;background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}:where(.constitution-archive) .branches-stage .branch-rail,:where(.constitution-archive) .branches-stage .branch-cards,:where(.constitution-archive) .branches-stage .structure-trigger{display:none}:where(.constitution-archive) .unrevealed-image-space{min-height:520px}:where(.constitution-archive) .teaching-figure{display:grid;justify-items:center;gap:12px;margin:0}:where(.constitution-archive) .teaching-figure img{display:block;width:min(100%,720px);max-height:530px;object-fit:contain;background:#fff}:where(.constitution-archive) .teaching-figure figcaption{color:var(--soft);font:italic 15px Georgia,serif}:where(.constitution-archive) .checks-figure img{max-height:340px}:where(.constitution-archive) .checks-legend{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;width:100%;margin-top:8px}:where(.constitution-archive) .checks-legend span{padding:9px;border-top:1px solid var(--line);font:12px/1.35 Georgia,serif}:where(.constitution-archive) .checks-legend b{display:block;margin-bottom:4px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.08em}
+:where(.constitution-archive) .bicameral-map{display:grid;place-items:center;min-height:550px}:where(.constitution-archive) .congress-figure img{max-height:500px}:where(.constitution-archive) .federal-powers{display:grid;place-items:center}:where(.constitution-archive) .states-map-figure img{max-height:430px}
+@media(max-width:720px){:where(.constitution-archive) .branches-stage{min-height:auto;padding:20px}:where(.constitution-archive) .unrevealed-image-space{min-height:280px}:where(.constitution-archive) .teaching-figure img{max-height:none}:where(.constitution-archive) .checks-legend{grid-template-columns:1fr}}
+
+/* Retained as a superseded draft; the live classroom layout below uses content-aware proportions. */
+@media(min-width:9999px){
+  .constitution-archive{min-height:0;padding:9px 16px;overflow:hidden}
+  .constitution-archive>header{height:32px;min-height:32px;align-items:center;gap:9px}
+  :where(.constitution-archive) .book{font-size:21px}
+  :where(.constitution-archive) header b{font-size:12px;letter-spacing:.12em}
+  :where(.constitution-archive) header span{display:none}
+  :where(.constitution-archive) header button{padding:4px 2px;font-size:9px;letter-spacing:.15em}
+
+  :where(.constitution-archive) .contents{height:calc(100% - 32px);min-height:0;display:grid;grid-template-rows:58px minmax(0,1fr);overflow:hidden}
+  :where(.constitution-archive) .title{display:grid;align-content:center;margin:0 auto}
+  :where(.constitution-archive) .title>p{margin:0;font-size:8px}
+  :where(.constitution-archive) .title h1{margin:3px 0;font-size:32px}
+  :where(.constitution-archive) .title>span{font-size:11px}
+  :where(.constitution-archive) .toc-folio{width:100%;height:100%;gap:8px;align-items:stretch;padding:4px 0 2px}
+  :where(.constitution-archive) .toc-page,:where(.constitution-archive) .art{height:auto;min-height:0;padding:10px 9px}
+  :where(.constitution-archive) .toc-page h2{margin:7px 0 3px;font-size:17px}
+  :where(.constitution-archive) .toc-page em{font-size:12px}
+  :where(.constitution-archive) .toc-page p{margin:7px auto;font-size:12px;line-height:1.25}
+  :where(.constitution-archive) .toc-page strong{bottom:10px;font-size:8px}
+  :where(.constitution-archive) .toc-page small{font-size:8px}
+  :where(.constitution-archive) .toc-page .script{margin-top:14px;font-size:28px}
+  :where(.constitution-archive) .mini-tree{margin-top:24px;padding-top:25px;gap:6px}
+  :where(.constitution-archive) .mini-tree i{top:-22px;height:22px}
+  :where(.constitution-archive) .selected{grid-template-columns:repeat(7,24px);gap:4px;margin-top:21px}
+  :where(.constitution-archive) .selected span{width:24px;height:24px;font-size:10px}
+
+  :where(.constitution-archive) .chapter{width:100%;height:calc(100% - 32px);margin:0 auto;overflow:hidden}
+  :where(.constitution-archive) .chapter-head{height:42px;padding:1px 0 5px}
+  :where(.constitution-archive) .chapter-head button{top:13px;font-size:8px;letter-spacing:.14em}
+  :where(.constitution-archive) .chapter-head p{margin:0;font-size:8px}
+  :where(.constitution-archive) .chapter-head h1{margin:2px;font-size:29px}
+
+  :where(.constitution-archive) .preamble-chapter{display:grid;grid-template-rows:42px 98px 64px minmax(62px,1fr);gap:5px}
+  :where(.constitution-archive) .preamble-grid{height:98px;grid-template-columns:1.45fr .55fr;gap:7px;margin:0}
+  :where(.constitution-archive) .document{display:grid;grid-template-columns:124px 1fr;align-items:center;gap:10px;padding:8px 11px}
+  :where(.constitution-archive) .document .script{margin:0;font-size:27px;white-space:nowrap}
+  :where(.constitution-archive) .document>p:last-child{font-size:10.5px;line-height:1.28}
+  :where(.constitution-archive) .preamble-grid aside{padding:8px 11px}
+  :where(.constitution-archive) .preamble-question h3{margin:4px 0 0;font-size:17px!important;line-height:1.08}
+  :where(.constitution-archive) .preamble-question>p:last-child{margin:6px 0 0;font-size:9px;line-height:1.25}
+  :where(.constitution-archive) .eyebrow{font-size:7px;letter-spacing:.16em}
+  :where(.constitution-archive) .goal-strip{height:64px;margin:0}
+  :where(.constitution-archive) .goal-strip .promise-card{height:64px}
+  :where(.constitution-archive) .promise-card-face{padding:6px 5px}
+  :where(.constitution-archive) .promise-card-face small{font-size:7px!important;letter-spacing:.1em}
+  :where(.constitution-archive) .promise-card-front{gap:4px}
+  :where(.constitution-archive) .promise-card-front b{font-size:9px}
+  :where(.constitution-archive) .promise-card-front b::after{display:none}
+  :where(.constitution-archive) .promise-card-back strong,:where(.constitution-archive) .promise-card:last-child .promise-card-back strong{margin:4px 0 2px;font-size:9px;line-height:1.05}
+  :where(.constitution-archive) .promise-card-back em,:where(.constitution-archive) .promise-card:last-child .promise-card-back em{font-size:8px;line-height:1.12}
+  :where(.constitution-archive) .think{min-height:62px;padding:7px 110px 7px 11px;overflow:auto}
+  :where(.constitution-archive) .think>p{margin:0;font-size:7px}
+  :where(.constitution-archive) .think h3{margin:3px 0;font-size:12px;line-height:1.2}
+  :where(.constitution-archive) .think>button{right:10px;bottom:9px;font-size:7px}
+  :where(.constitution-archive) .think>div{margin-top:4px;padding-top:3px}
+  :where(.constitution-archive) .think>div b{font-size:7px}
+  :where(.constitution-archive) .think>div p{margin:2px 0;font-size:9px;line-height:1.25}
+
+  :where(.constitution-archive) .articles-chapter,:where(.constitution-archive) .amendments-chapter{display:grid;grid-template-rows:42px 30px 34px minmax(0,1fr);gap:4px}
+  :where(.constitution-archive) .intro{align-self:center;margin:0 auto;font-size:10px;line-height:1.3}
+  :where(.constitution-archive) .subnav{height:34px;margin:0}
+  :where(.constitution-archive) .subnav button{padding:5px 18px;font-size:10px}
+  :where(.constitution-archive) .article-lesson{height:100%;min-height:0}
+  :where(.constitution-archive) .lesson-copy{padding:12px 15px;overflow:auto}
+  :where(.constitution-archive) .lesson-copy h2{margin:4px 0;font-size:22px}
+  :where(.constitution-archive) .lesson-copy>p:not(.eyebrow),:where(.constitution-archive) .reveal-reading>p{margin-bottom:3px;font-size:10px;line-height:1.3}
+  :where(.constitution-archive) .cn-copy{font-size:9px!important;line-height:1.3!important}
+  :where(.constitution-archive) .think-prompt,:where(.constitution-archive) .reveal-reading{margin-top:7px;padding-top:6px}
+  :where(.constitution-archive) .think-prompt>p:first-child{margin-bottom:4px;font-size:7px}
+  :where(.constitution-archive) .think-prompt h3{font-size:13px;line-height:1.2}
+  :where(.constitution-archive) .think-prompt button,:where(.constitution-archive) .reveal-reading>button,:where(.constitution-archive) .federal-actions>button{margin-top:6px;padding:6px 8px;font-size:7px}
+  :where(.constitution-archive) .bicameral-map,:where(.constitution-archive) .branches-stage,:where(.constitution-archive) .federal-powers{min-height:0;height:100%;padding:9px 12px;overflow:auto}
+  :where(.constitution-archive) .unrevealed-image-space{min-height:100%}
+  :where(.constitution-archive) .teaching-figure{gap:4px}
+  :where(.constitution-archive) .teaching-figure img,:where(.constitution-archive) .congress-figure img,:where(.constitution-archive) .states-map-figure img{max-height:170px}
+  :where(.constitution-archive) .teaching-figure figcaption{font-size:8px}
+  :where(.constitution-archive) .lesson-conclusion{padding:7px 12px}
+  :where(.constitution-archive) .lesson-conclusion>p{margin-bottom:3px;font-size:9px;line-height:1.25}
+  :where(.constitution-archive) .checks-legend{gap:3px;margin-top:3px}
+  :where(.constitution-archive) .checks-legend span{padding:3px;font-size:7px}
+
+  :where(.constitution-archive) .timeline-nav{height:34px;margin:0 auto}
+  :where(.constitution-archive) .timeline-nav:before{top:19px}
+  :where(.constitution-archive) .timeline-nav span{margin-bottom:2px;font-size:7px}
+  :where(.constitution-archive) .timeline-nav b{width:25px;height:25px;font-size:11px}
+  :where(.constitution-archive) .timeline-nav small{font-size:7px}
+  :where(.constitution-archive) .amendment-card{height:100%;min-height:0;margin:0 auto;overflow:hidden}
+  :where(.constitution-archive) .amendment-number strong{font-size:54px}
+  :where(.constitution-archive) .amendment-number em{font-size:10px}
+  :where(.constitution-archive) .amendment-copy{padding:14px 20px;overflow:auto}
+  :where(.constitution-archive) .amendment-copy h2{margin:5px 0;font-size:25px}
+  :where(.constitution-archive) .amendment-copy>p:not(.eyebrow){font-size:11px;line-height:1.35}
+  :where(.constitution-archive) .keywords{gap:4px;margin-top:7px}
+  :where(.constitution-archive) .keywords span{padding:4px 7px;font-size:8px}
+  :where(.constitution-archive) .amendments-chapter:has(.context-file),:where(.constitution-archive) .amendments-chapter:has(.surprise){grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr)}
+  :where(.constitution-archive) .amendments-chapter:has(.context-file)>.chapter-head,:where(.constitution-archive) .amendments-chapter:has(.context-file)>.intro,:where(.constitution-archive) .amendments-chapter:has(.context-file)>.timeline-nav,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.chapter-head,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.intro,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.timeline-nav{grid-column:1/-1}
+  :where(.constitution-archive) .amendments-chapter:has(.context-file)>.amendment-card,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.amendment-card{grid-column:1;grid-row:4;width:100%}
+  :where(.constitution-archive) .context-file,:where(.constitution-archive) .surprise{grid-column:2;grid-row:4;width:100%;height:100%;min-height:0;margin:0;padding:10px 11px;overflow:auto}
+  :where(.constitution-archive) .context-file{padding-right:58px}
+  :where(.constitution-archive) .context-file h2{margin:4px 0;font-size:15px}
+  :where(.constitution-archive) .context-file>div:first-child p:not(.eyebrow){font-size:8px;line-height:1.28}
+  :where(.constitution-archive) .context-file>div:first-child small{margin-top:4px;font-size:7px;line-height:1.2}
+  :where(.constitution-archive) .context-file>button{right:8px;bottom:7px;font-size:7px}
+  :where(.constitution-archive) .context-file blockquote{margin:5px 0 0;padding-top:4px;font-size:8px;line-height:1.25}
+  :where(.constitution-archive) .fraction{right:9px;top:26px;width:38px}
+  :where(.constitution-archive) .fraction strong{font-size:22px}
+  :where(.constitution-archive) .fraction i{margin:2px 0}
+  :where(.constitution-archive) .fraction span{margin-top:4px;font-size:7px}
+  :where(.constitution-archive) .surprise{display:grid;grid-template-columns:1fr;place-content:center;gap:3px;text-align:center}
+  :where(.constitution-archive) .surprise span{font-size:7px}
+  :where(.constitution-archive) .surprise strong{font-size:24px}
+  :where(.constitution-archive) .surprise i{font-size:8px}
+}
+
+
+/* Content-aware 16:9 classroom layout. Large reading blocks receive the most space;
+   short prompts and controls stay compact instead of forcing one uniform scale. */
+@media(min-width:721px) and (min-height:640px){
+  .constitution-archive{min-height:0;padding:11px 18px;overflow:hidden}
+  .constitution-archive>header{height:35px;min-height:35px;align-items:center;gap:10px}
+  :where(.constitution-archive) .book{font-size:23px}
+  :where(.constitution-archive) header b{font-size:13px;letter-spacing:.13em}
+  :where(.constitution-archive) header span{display:none}
+  :where(.constitution-archive) header button{padding:5px 2px;font-size:9px;letter-spacing:.16em}
+  :where(.constitution-archive) .eyebrow,:where(.constitution-archive) .title>p{font-size:8px;letter-spacing:.17em}
+
+  /* Contents: three equal destinations, with the central structure card carrying more visual weight. */
+  :where(.constitution-archive) .contents{height:calc(100% - 35px);min-height:0;display:grid;grid-template-rows:62px minmax(0,1fr);overflow:hidden}
+  :where(.constitution-archive) .title{display:grid;align-content:center;margin:0 auto}
+  :where(.constitution-archive) .title>p{margin:0}
+  :where(.constitution-archive) .title h1{margin:4px 0 3px;font-size:34px}
+  :where(.constitution-archive) .title>span{font-size:12px}
+  :where(.constitution-archive) .toc-folio{width:100%;height:100%;gap:10px;align-items:stretch;padding:5px 0 2px}
+  :where(.constitution-archive) .toc-page,:where(.constitution-archive) .art{height:auto;min-height:0;padding:14px 12px}
+  :where(.constitution-archive) .toc-page h2{margin:8px 0 4px;font-size:19px}
+  :where(.constitution-archive) .toc-page em{font-size:13px}
+  :where(.constitution-archive) .toc-page p{margin:9px auto;font-size:13px;line-height:1.3}
+  :where(.constitution-archive) .toc-page strong{bottom:11px;font-size:8px}
+  :where(.constitution-archive) .toc-page small{font-size:8px}
+  :where(.constitution-archive) .toc-page .script{margin-top:16px;font-size:31px}
+  :where(.constitution-archive) .mini-tree{margin-top:27px;padding-top:28px;gap:7px}
+  :where(.constitution-archive) .mini-tree i{top:-24px;height:24px}
+  :where(.constitution-archive) .selected{grid-template-columns:repeat(7,25px);gap:4px;margin-top:24px}
+  :where(.constitution-archive) .selected span{width:25px;height:25px;font-size:10px}
+
+  /* Shared chapter heading: present but deliberately shallow. */
+  :where(.constitution-archive) .chapter{width:100%;height:calc(100% - 35px);margin:0 auto;overflow:hidden}
+  :where(.constitution-archive) .chapter-head{height:50px;padding:2px 0 7px}
+  :where(.constitution-archive) .chapter-head button{top:17px;font-size:8px;letter-spacing:.15em}
+  :where(.constitution-archive) .chapter-head p{margin:0;font-size:8px}
+  :where(.constitution-archive) .chapter-head h1{margin:3px;font-size:31px}
+
+  /* Preamble: source text is largest; questions are medium; the six short cards are smallest. */
+  :where(.constitution-archive) .preamble-chapter{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,.95fr) minmax(0,.95fr);grid-template-rows:50px repeat(2,minmax(0,1fr));gap:7px}
+  :where(.constitution-archive) .preamble-chapter>.chapter-head{grid-column:1/-1;grid-row:1}
+  :where(.constitution-archive) .preamble-grid{display:contents}
+  :where(.constitution-archive) .preamble-grid>.document{grid-column:1;grid-row:2/4;min-height:0;padding:15px 17px;overflow:auto}
+  :where(.constitution-archive) .document .script{margin:0 0 10px;font-size:34px}
+  :where(.constitution-archive) .document>p:last-child{font-size:11.5px;line-height:1.38}
+  :where(.constitution-archive) .preamble-grid>aside{grid-column:2;grid-row:2;min-height:0;padding:12px 14px;overflow:hidden}
+  :where(.constitution-archive) .preamble-question{justify-content:flex-start}
+  :where(.constitution-archive) .preamble-question h3{margin:6px 0 0;font-size:20px!important;line-height:1.08}
+  :where(.constitution-archive) .preamble-question>p:last-child{margin:9px 0 0;font-size:10px;line-height:1.3}
+  :where(.constitution-archive) .goal-strip{grid-column:3;grid-row:2/4;height:auto;min-height:0;margin:0;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(3,minmax(0,1fr))}
+  :where(.constitution-archive) .goal-strip .promise-card{height:auto;min-height:0}
+  :where(.constitution-archive) .promise-card-face{padding:8px 6px;border-bottom:0}
+  :where(.constitution-archive) .promise-card:nth-child(2n) .promise-card-face{border-right:1px solid var(--line)}
+  :where(.constitution-archive) .promise-card:nth-child(n+5) .promise-card-face{border-bottom:1px solid var(--line)}
+  :where(.constitution-archive) .promise-card-front{gap:6px}
+  :where(.constitution-archive) .promise-card-face small{font-size:7px!important;letter-spacing:.11em}
+  :where(.constitution-archive) .promise-card-front b{font-size:10px}
+  :where(.constitution-archive) .promise-card-front b::after{display:none}
+  :where(.constitution-archive) .promise-card-back strong,:where(.constitution-archive) .promise-card:last-child .promise-card-back strong{margin:5px 0 3px;font-size:10px;line-height:1.08}
+  :where(.constitution-archive) .promise-card-back em,:where(.constitution-archive) .promise-card:last-child .promise-card-back em{font-size:8.5px;line-height:1.18}
+  :where(.constitution-archive) .preamble-chapter>.think{grid-column:2;grid-row:3;min-height:0;padding:10px 70px 9px 13px;overflow:auto}
+  :where(.constitution-archive) .preamble-chapter:has(.think.revealed){grid-template-columns:minmax(0,1.48fr) minmax(0,1.07fr) minmax(0,.95fr)}
+  :where(.constitution-archive) .think>p{margin:0;font-size:7px}
+  :where(.constitution-archive) .think h3{margin:5px 0;font-size:13.5px;line-height:1.22}
+  :where(.constitution-archive) .think>button{right:9px;bottom:9px;max-width:56px;font-size:7px;line-height:1.25}
+  :where(.constitution-archive) .think>div{margin-top:5px;padding-top:4px}
+  :where(.constitution-archive) .think>div b{font-size:7px}
+  :where(.constitution-archive) .think>div p{margin:2px 0;font-size:9px;line-height:1.28}
+
+  /* Seven Articles: text and visual share the remaining stage; expanded notes scroll only inside their panel. */
+  :where(.constitution-archive) .articles-chapter{display:grid;grid-template-rows:48px 27px 33px minmax(0,1fr);gap:4px}
+  :where(.constitution-archive) .articles-chapter>.chapter-head{height:48px}
+  :where(.constitution-archive) .intro{align-self:center;margin:0 auto;font-size:10px;line-height:1.25}
+  :where(.constitution-archive) .subnav{height:33px;margin:0}
+  :where(.constitution-archive) .subnav button{padding:5px 19px;font-size:10px}
+  :where(.constitution-archive) .article-lesson{height:100%;min-height:0;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr)}
+  :where(.constitution-archive) .article-lesson:has(.unrevealed-image-space){grid-template-columns:minmax(0,1.42fr) minmax(0,.58fr)}
+  :where(.constitution-archive) .article-lesson:has(.federal-empty){grid-template-columns:minmax(0,1.24fr) minmax(0,.76fr)}
+  :where(.constitution-archive) .article-lesson:has(.lesson-conclusion){grid-template-rows:minmax(0,1fr) auto}
+  :where(.constitution-archive) .articles-chapter:has(.lesson-conclusion){grid-template-rows:48px 0 33px minmax(0,1fr)}
+  :where(.constitution-archive) .articles-chapter:has(.lesson-conclusion)>.intro{height:0;overflow:hidden;opacity:0}
+  :where(.constitution-archive) .lesson-copy{min-height:0;padding:13px 16px;overflow:auto}
+  :where(.constitution-archive) .lesson-copy h2{margin:5px 0;font-size:24px}
+  :where(.constitution-archive) .lesson-copy>p:not(.eyebrow),:where(.constitution-archive) .reveal-reading>p{margin-bottom:4px;font-size:10.5px;line-height:1.35}
+  :where(.constitution-archive) .cn-copy{font-size:9.5px!important;line-height:1.35!important}
+  :where(.constitution-archive) .think-prompt,:where(.constitution-archive) .reveal-reading{margin-top:8px;padding-top:7px}
+  :where(.constitution-archive) .think-prompt>p:first-child{margin-bottom:5px;font-size:7px}
+  :where(.constitution-archive) .think-prompt h3{font-size:14px;line-height:1.24}
+  :where(.constitution-archive) .think-prompt button,:where(.constitution-archive) .reveal-reading>button,:where(.constitution-archive) .federal-actions>button{margin-top:7px;padding:6px 9px;font-size:7px}
+  :where(.constitution-archive) .bicameral-map,:where(.constitution-archive) .branches-stage,:where(.constitution-archive) .federal-powers{min-height:0;height:100%;padding:10px 13px;overflow:auto}
+  :where(.constitution-archive) .unrevealed-image-space{min-height:100%}
+  :where(.constitution-archive) .teaching-figure{gap:5px}
+  :where(.constitution-archive) .teaching-figure img,:where(.constitution-archive) .congress-figure img,:where(.constitution-archive) .states-map-figure img{max-height:160px}
+  :where(.constitution-archive) .teaching-figure figcaption{font-size:8px}
+  :where(.constitution-archive) .checks-legend{gap:3px;margin-top:3px}
+  :where(.constitution-archive) .checks-legend span{padding:3px;font-size:7px}
+  :where(.constitution-archive) .lesson-conclusion{padding:7px 14px}
+  :where(.constitution-archive) .lesson-conclusion>p{margin-bottom:3px;font-size:9px;line-height:1.25}
+
+  /* Amendments: ordinary entries get one generous card; contextual entries split into unequal columns. */
+  :where(.constitution-archive) .amendments-chapter{display:grid;grid-template-rows:50px 29px 43px minmax(0,1fr);gap:5px}
+  :where(.constitution-archive) .timeline-nav{height:43px;margin:0 auto}
+  :where(.constitution-archive) .timeline-nav:before{top:24px}
+  :where(.constitution-archive) .timeline-nav span{margin-bottom:3px;font-size:8px}
+  :where(.constitution-archive) .timeline-nav b{width:30px;height:30px;font-size:13px}
+  :where(.constitution-archive) .timeline-nav small{font-size:7px}
+  :where(.constitution-archive) .amendment-card{width:min(92%,900px);height:100%;min-height:0;margin:0 auto;overflow:hidden}
+  :where(.constitution-archive) .amendment-number strong{font-size:61px}
+  :where(.constitution-archive) .amendment-number em{font-size:11px}
+  :where(.constitution-archive) .amendment-copy{padding:16px 22px;overflow:auto}
+  :where(.constitution-archive) .amendment-copy h2{margin:6px 0;font-size:27px}
+  :where(.constitution-archive) .amendment-copy>p:not(.eyebrow){font-size:12px;line-height:1.4}
+  :where(.constitution-archive) .keywords{gap:5px;margin-top:9px}
+  :where(.constitution-archive) .keywords span{padding:4px 8px;font-size:8.5px}
+  :where(.constitution-archive) .amendments-chapter:has(.context-file),:where(.constitution-archive) .amendments-chapter:has(.surprise){grid-template-columns:minmax(0,1.35fr) minmax(0,.65fr)}
+  :where(.constitution-archive) .amendments-chapter:has(.context-file)>.chapter-head,:where(.constitution-archive) .amendments-chapter:has(.context-file)>.intro,:where(.constitution-archive) .amendments-chapter:has(.context-file)>.timeline-nav,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.chapter-head,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.intro,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.timeline-nav{grid-column:1/-1}
+  :where(.constitution-archive) .amendments-chapter:has(.context-file)>.amendment-card,:where(.constitution-archive) .amendments-chapter:has(.surprise)>.amendment-card{grid-column:1;grid-row:4;width:100%}
+  :where(.constitution-archive) .context-file,:where(.constitution-archive) .surprise{grid-column:2;grid-row:4;width:100%;height:100%;min-height:0;margin:0;padding:12px 13px;overflow:auto}
+  :where(.constitution-archive) .context-file{padding-right:67px}
+  :where(.constitution-archive) .context-file h2{margin:5px 0;font-size:16px}
+  :where(.constitution-archive) .context-file>div:first-child p:not(.eyebrow){font-size:8.5px;line-height:1.3}
+  :where(.constitution-archive) .context-file>div:first-child small{margin-top:5px;font-size:7px;line-height:1.2}
+  :where(.constitution-archive) .context-file>button{right:9px;bottom:8px;font-size:7px}
+  :where(.constitution-archive) .context-file blockquote{margin:6px 0 0;padding-top:5px;font-size:8.5px;line-height:1.28}
+  :where(.constitution-archive) .fraction{right:10px;top:29px;width:43px}
+  :where(.constitution-archive) .fraction strong{font-size:24px}
+  :where(.constitution-archive) .fraction i{margin:3px 0}
+  :where(.constitution-archive) .fraction span{margin-top:4px;font-size:7px}
+  :where(.constitution-archive) .surprise{display:grid;grid-template-columns:1fr;place-content:center;gap:4px;text-align:center}
+  :where(.constitution-archive) .surprise span{font-size:7px}
+  :where(.constitution-archive) .surprise strong{font-size:26px}
+  :where(.constitution-archive) .surprise i{font-size:8px}
+}
+
+/* Preamble composition: natural reading rhythm instead of stretched equal-height columns. */
+@media(min-width:721px) and (min-height:640px){
+  :where(.constitution-archive) .preamble-chapter{
+    display:grid;
+    grid-template-columns:minmax(0,1.48fr) minmax(0,.52fr);
+    grid-template-rows:48px 135px 68px 90px;
+    align-content:center;
+    gap:7px;
+  }
+  :where(.constitution-archive) .preamble-chapter>.chapter-head{grid-column:1/-1;grid-row:1;height:48px}
+  :where(.constitution-archive) .preamble-grid{display:contents}
+  :where(.constitution-archive) .preamble-grid>.document{grid-column:1;grid-row:2;padding:13px 17px;display:grid;grid-template-columns:145px 1fr;align-items:center;gap:15px;overflow:hidden}
+  :where(.constitution-archive) .document .script{margin:0;font-size:33px;white-space:nowrap}
+  :where(.constitution-archive) .document>p:last-child{font-size:11.5px;line-height:1.38}
+  :where(.constitution-archive) .preamble-grid>aside{grid-column:2;grid-row:2;padding:10px 13px;overflow:hidden}
+  :where(.constitution-archive) .preamble-question h3{margin:5px 0 0;font-size:18px!important;line-height:1.08}
+  :where(.constitution-archive) .preamble-question>p:last-child{margin:7px 0 0;font-size:9px;line-height:1.25}
+  :where(.constitution-archive) .goal-strip{grid-column:1/-1;grid-row:3;height:68px;grid-template-columns:repeat(6,minmax(0,1fr));grid-template-rows:1fr;margin:0}
+  :where(.constitution-archive) .goal-strip .promise-card{height:68px}
+  :where(.constitution-archive) .promise-card-face{border-right:0;border-bottom:1px solid var(--line)}
+  :where(.constitution-archive) .promise-card:last-child .promise-card-face{border-right:1px solid var(--line)}
+  :where(.constitution-archive) .preamble-chapter>.think{grid-column:1/-1;grid-row:4;padding:9px 125px 8px 14px;overflow:auto}
+  :where(.constitution-archive) .preamble-chapter:has(.think.revealed){grid-template-columns:minmax(0,1.48fr) minmax(0,.52fr)}
+  :where(.constitution-archive) .think h3{font-size:13px;line-height:1.2}
+  :where(.constitution-archive) .think>button{right:13px;max-width:100px}
+}
+
+/* Spacious laptop/desktop tier: cards keep a natural height and the composition is centred vertically. */
+@media(min-width:1000px) and (min-height:800px){
+  .constitution-archive{padding:clamp(18px,2.1vw,30px) clamp(28px,3vw,48px)}
+  .constitution-archive>header{height:50px;min-height:50px}
+  :where(.constitution-archive) .book{font-size:30px}
+  :where(.constitution-archive) header b{font-size:16px}
+  :where(.constitution-archive) header span{display:block;margin-top:4px;font-size:12px}
+  :where(.constitution-archive) header button{font-size:10px}
+  :where(.constitution-archive) .chapter{height:calc(100% - 50px)}
+  :where(.constitution-archive) .chapter-head{height:76px;padding:5px 0 14px}
+  :where(.constitution-archive) .chapter-head button{top:28px;font-size:10px}
+  :where(.constitution-archive) .chapter-head p{font-size:9px}
+  :where(.constitution-archive) .chapter-head h1{margin:5px;font-size:43px}
+
+  :where(.constitution-archive) .preamble-chapter{
+    max-width:1480px;
+    display:grid;
+    grid-template-columns:minmax(0,1.42fr) minmax(300px,.58fr);
+    grid-template-rows:76px auto 108px auto;
+    align-content:center;
+    gap:14px;
+  }
+  :where(.constitution-archive) .preamble-chapter>.chapter-head{height:76px}
+  :where(.constitution-archive) .preamble-grid>.document{min-height:205px;padding:28px 34px;display:block}
+  :where(.constitution-archive) .document .script{margin:0 0 17px;font-size:50px}
+  :where(.constitution-archive) .document>p:last-child{font-size:17px;line-height:1.55}
+  :where(.constitution-archive) .preamble-grid>aside{min-height:205px;padding:28px 32px}
+  :where(.constitution-archive) .preamble-question h3{margin-top:11px;font-size:33px!important;line-height:1.08}
+  :where(.constitution-archive) .preamble-question>p:last-child{margin-top:18px;font-size:14px;line-height:1.4}
+  :where(.constitution-archive) .goal-strip{height:108px}
+  :where(.constitution-archive) .goal-strip .promise-card{height:108px}
+  :where(.constitution-archive) .promise-card-face{padding:12px 9px}
+  :where(.constitution-archive) .promise-card-face small{font-size:9px!important}
+  :where(.constitution-archive) .promise-card-front{gap:9px}
+  :where(.constitution-archive) .promise-card-front b{font-size:14px}
+  :where(.constitution-archive) .promise-card-back strong,:where(.constitution-archive) .promise-card:last-child .promise-card-back strong{margin:8px 0 5px;font-size:15px;line-height:1.15}
+  :where(.constitution-archive) .promise-card-back em,:where(.constitution-archive) .promise-card:last-child .promise-card-back em{font-size:12px;line-height:1.25}
+  :where(.constitution-archive) .preamble-chapter>.think{min-height:92px;padding:20px 190px 18px 28px}
+  :where(.constitution-archive) .think>p{font-size:9px}
+  :where(.constitution-archive) .think h3{margin:8px 0;font-size:22px;line-height:1.28}
+  :where(.constitution-archive) .think>button{right:28px;bottom:24px;max-width:145px;font-size:9px}
+  :where(.constitution-archive) .think>div{margin-top:9px;padding-top:8px}
+  :where(.constitution-archive) .think>div p{font-size:13px;line-height:1.4}
+
+  :where(.constitution-archive) .contents{height:calc(100% - 50px);grid-template-rows:108px minmax(0,560px);align-content:center}
+  :where(.constitution-archive) .title h1{font-size:52px}
+  :where(.constitution-archive) .title>span{font-size:16px}
+  :where(.constitution-archive) .toc-folio{max-width:1350px;height:100%}
+  :where(.constitution-archive) .toc-page,:where(.constitution-archive) .art{height:auto;padding:34px 28px}
+  :where(.constitution-archive) .toc-page h2{margin:18px 0 7px;font-size:25px}
+  :where(.constitution-archive) .toc-page em{font-size:16px}
+  :where(.constitution-archive) .toc-page p{margin:18px auto;font-size:18px}
+  :where(.constitution-archive) .toc-page .script{margin-top:40px;font-size:47px}
+  :where(.constitution-archive) .toc-page strong{bottom:27px;font-size:10px}
+  :where(.constitution-archive) .mini-tree{margin-top:58px;padding-top:50px}
+  :where(.constitution-archive) .mini-tree i{top:-43px;height:43px}
+  :where(.constitution-archive) .selected{grid-template-columns:repeat(4,38px);gap:8px;margin-top:45px}
+  :where(.constitution-archive) .selected span{width:38px;height:38px;font-size:14px}
+
+  :where(.constitution-archive) .articles-chapter{grid-template-rows:76px 44px 48px minmax(320px,470px);align-content:center;gap:10px}
+  :where(.constitution-archive) .articles-chapter>.chapter-head{height:76px}
+  :where(.constitution-archive) .articles-chapter:has(.lesson-conclusion){grid-template-rows:70px 0 44px minmax(360px,500px)}
+  :where(.constitution-archive) .intro{font-size:15px}
+  :where(.constitution-archive) .subnav{height:48px}
+  :where(.constitution-archive) .subnav button{padding:12px 28px;font-size:14px}
+  :where(.constitution-archive) .lesson-copy{padding:30px 36px}
+  :where(.constitution-archive) .lesson-copy h2{font-size:38px}
+  :where(.constitution-archive) .lesson-copy>p:not(.eyebrow),:where(.constitution-archive) .reveal-reading>p{font-size:15px;line-height:1.5}
+  :where(.constitution-archive) .cn-copy{font-size:13px!important;line-height:1.5!important}
+  :where(.constitution-archive) .think-prompt h3{font-size:21px}
+  :where(.constitution-archive) .think-prompt button,:where(.constitution-archive) .reveal-reading>button,:where(.constitution-archive) .federal-actions>button{padding:10px 13px;font-size:9px}
+  :where(.constitution-archive) .bicameral-map,:where(.constitution-archive) .branches-stage,:where(.constitution-archive) .federal-powers{padding:24px 28px}
+  :where(.constitution-archive) .teaching-figure img,:where(.constitution-archive) .congress-figure img,:where(.constitution-archive) .states-map-figure img{max-height:390px}
+  :where(.constitution-archive) .teaching-figure figcaption{font-size:13px}
+  :where(.constitution-archive) .lesson-conclusion{padding:16px 34px}
+  :where(.constitution-archive) .lesson-conclusion>p{font-size:13px}
+
+  :where(.constitution-archive) .amendments-chapter{grid-template-rows:76px 42px 74px minmax(300px,390px);align-content:center;gap:10px}
+  :where(.constitution-archive) .timeline-nav{height:74px}
+  :where(.constitution-archive) .timeline-nav:before{top:41px}
+  :where(.constitution-archive) .timeline-nav span{font-size:11px}
+  :where(.constitution-archive) .timeline-nav b{width:48px;height:48px;font-size:18px}
+  :where(.constitution-archive) .amendment-card{width:min(88%,1080px)}
+  :where(.constitution-archive) .amendment-number strong{font-size:90px}
+  :where(.constitution-archive) .amendment-copy{padding:40px 48px}
+  :where(.constitution-archive) .amendment-copy h2{font-size:40px}
+  :where(.constitution-archive) .amendment-copy>p:not(.eyebrow){font-size:17px;line-height:1.55}
+  :where(.constitution-archive) .keywords{margin-top:20px}
+  :where(.constitution-archive) .keywords span{padding:8px 14px;font-size:11px}
+  :where(.constitution-archive) .context-file,:where(.constitution-archive) .surprise{padding:26px 28px}
+  :where(.constitution-archive) .context-file{padding-right:105px}
+  :where(.constitution-archive) .context-file h2{font-size:27px}
+  :where(.constitution-archive) .context-file>div:first-child p:not(.eyebrow){font-size:13px;line-height:1.45}
+  :where(.constitution-archive) .fraction{right:24px;top:55px;width:64px}
+  :where(.constitution-archive) .fraction strong{font-size:38px}
+  :where(.constitution-archive) .surprise strong{font-size:39px}
+}
+
+/* Preamble redesign · the constitutional text is the focal point. */
+@media(min-width:721px) and (min-height:640px){
+  :where(.constitution-archive) .preamble-chapter{
+    display:grid;
+    grid-template-columns:1fr;
+    grid-template-rows:48px minmax(170px,1.15fr) minmax(150px,.9fr);
+    align-content:stretch;
+    gap:10px;
+  }
+  :where(.constitution-archive) .preamble-chapter>.chapter-head{grid-column:1;grid-row:1;height:48px}
+  :where(.constitution-archive) .preamble-feature{
+    grid-row:2;
+    min-height:0;
+    display:grid;
+    grid-template-columns:max-content minmax(0,1fr);
+    align-items:center;
+    column-gap:clamp(36px,4vw,64px);
+    padding:20px 26px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    border-left:4px solid var(--red);
+    border-radius:2px 14px 14px 2px;
+    background:linear-gradient(115deg,rgba(235,221,195,.6),rgba(251,249,244,.92) 43%,rgba(255,255,255,.72));
+    box-shadow:0 10px 24px rgba(55,45,34,.09),inset 0 1px 0 rgba(255,255,255,.8);
+  }
+  :where(.constitution-archive) .preamble-feature .script{
+    margin:0;
+    color:var(--ink);
+    font-size:clamp(35px,4.7vw,52px);
+    line-height:1;
+    white-space:nowrap;
+  }
+  :where(.constitution-archive) .preamble-text{
+    margin:0;
+    color:#2d2924;
+    font:400 clamp(13px,1.55vw,17px)/1.52 Georgia,"Times New Roman",serif;
+  }
+  :where(.constitution-archive) .preamble-learning-grid{
+    grid-row:3;
+    min-height:0;
+    display:grid;
+    grid-template-columns:minmax(0,1.32fr) minmax(260px,.68fr);
+    gap:10px;
+  }
+  :where(.constitution-archive) .preamble-learning-grid>.goal-strip{
+    grid-column:1;
+    grid-row:1;
+    width:100%;
+    height:100%;
+    min-height:0;
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    grid-template-rows:repeat(2,minmax(0,1fr));
+    gap:7px;
+    margin:0;
+    border:0;
+    background:transparent;
+  }
+  :where(.constitution-archive) .preamble-learning-grid .promise-card{height:auto;min-height:0}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-face{
+    padding:8px 10px;
+    border:1px solid rgba(173,160,138,.68);
+    border-radius:9px;
+    background:linear-gradient(145deg,rgba(255,255,255,.84),rgba(241,234,220,.7));
+    box-shadow:0 3px 9px rgba(51,43,33,.06);
+  }
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-face small{font-size:7px!important;letter-spacing:.13em}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-front{gap:5px}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-front b{font-size:10px}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-back strong,:where(.constitution-archive) .preamble-learning-grid .promise-card:last-child .promise-card-back strong{margin:4px 0 3px;font-size:10px;line-height:1.1}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-back em,:where(.constitution-archive) .preamble-learning-grid .promise-card:last-child .promise-card-back em{font-size:8.5px;line-height:1.18}
+  :where(.constitution-archive) .preamble-study-panel{
+    grid-column:2;
+    grid-row:1;
+    min-height:0;
+    display:grid;
+    grid-template-rows:76px minmax(0,1fr);
+    padding:10px 13px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    border-radius:12px;
+    background:rgba(250,247,239,.86);
+    box-shadow:0 6px 16px rgba(55,45,34,.07);
+  }
+  :where(.constitution-archive) .preamble-study-panel .preamble-question{min-height:0;display:block;padding:0 0 7px;overflow:hidden;border-bottom:1px solid var(--line)}
+  :where(.constitution-archive) .preamble-study-panel .preamble-question h3{max-width:none;margin:3px 0;font-size:15px!important;line-height:1.04}
+  :where(.constitution-archive) .preamble-study-panel .preamble-question>p:last-child{max-width:none;margin:3px 0 0;font-size:8px;line-height:1.15}
+  :where(.constitution-archive) .preamble-study-panel .think{
+    min-height:0;
+    margin:0;
+    padding:7px 68px 1px 0;
+    overflow:auto;
+    border:0;
+    background:transparent;
+    box-shadow:none;
+  }
+  :where(.constitution-archive) .preamble-study-panel .think h3{margin:3px 0;font-size:10.5px;line-height:1.16}
+  :where(.constitution-archive) .preamble-study-panel .think>button{right:0;bottom:1px;max-width:62px;font-size:7px}
+  :where(.constitution-archive) .preamble-study-panel .think>div{margin-top:4px;padding-top:4px}
+  :where(.constitution-archive) .preamble-study-panel .think>div p{font-size:8.5px;line-height:1.22}
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  :where(.constitution-archive) .preamble-chapter{
+    max-width:1480px;
+    grid-template-rows:76px minmax(270px,320px) minmax(225px,270px);
+    align-content:center;
+    gap:18px;
+  }
+  :where(.constitution-archive) .preamble-chapter>.chapter-head{height:76px}
+  :where(.constitution-archive) .preamble-feature{
+    grid-template-columns:max-content minmax(0,1fr);
+    column-gap:clamp(56px,5vw,80px);
+    padding:38px 48px;
+    border-left-width:6px;
+    border-radius:3px 20px 20px 3px;
+  }
+  :where(.constitution-archive) .preamble-feature .script{font-size:clamp(58px,5vw,78px)}
+  :where(.constitution-archive) .preamble-text{font-size:clamp(18px,1.45vw,23px);line-height:1.62}
+  :where(.constitution-archive) .preamble-learning-grid{grid-template-columns:minmax(0,1.34fr) minmax(340px,.66fr);gap:18px}
+  :where(.constitution-archive) .preamble-learning-grid>.goal-strip{gap:12px}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-face{padding:16px 18px;border-radius:13px}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-face small{font-size:9px!important}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-front{gap:10px}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-front b{font-size:14px}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-back strong,:where(.constitution-archive) .preamble-learning-grid .promise-card:last-child .promise-card-back strong{margin:8px 0 5px;font-size:16px;line-height:1.15}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-back em,:where(.constitution-archive) .preamble-learning-grid .promise-card:last-child .promise-card-back em{font-size:13px;line-height:1.3}
+  :where(.constitution-archive) .preamble-study-panel{padding:24px 28px;border-radius:17px}
+  :where(.constitution-archive) .preamble-study-panel .preamble-question{padding-bottom:18px}
+  :where(.constitution-archive) .preamble-study-panel .preamble-question h3{margin:8px 0;font-size:28px!important;line-height:1.08}
+  :where(.constitution-archive) .preamble-study-panel .preamble-question>p:last-child{margin-top:9px;font-size:13px;line-height:1.4}
+  :where(.constitution-archive) .preamble-study-panel .think{padding:18px 120px 6px 0}
+  :where(.constitution-archive) .preamble-study-panel .think h3{margin:8px 0;font-size:18px;line-height:1.3}
+  :where(.constitution-archive) .preamble-study-panel .think>button{right:0;bottom:7px;max-width:105px;font-size:9px}
+  :where(.constitution-archive) .preamble-study-panel .think>div p{font-size:12px;line-height:1.35}
+}
+
+@media(max-width:720px){
+  :where(.constitution-archive) .preamble-feature{display:block;margin-top:18px;padding:24px;border:1px solid var(--line);border-left:4px solid var(--red);background:rgba(251,249,244,.9)}
+  :where(.constitution-archive) .preamble-feature .script{margin:0 0 18px;font-size:45px}
+  :where(.constitution-archive) .preamble-text{margin:0;font:17px/1.65 Georgia,"Times New Roman",serif}
+  :where(.constitution-archive) .preamble-learning-grid{display:block;margin-top:16px}
+  :where(.constitution-archive) .preamble-learning-grid>.goal-strip{grid-template-columns:repeat(2,1fr);gap:8px;margin:0}
+  :where(.constitution-archive) .preamble-learning-grid .promise-card-face{border:1px solid var(--line)!important;border-radius:9px}
+  :where(.constitution-archive) .preamble-study-panel{margin-top:16px;padding:20px;border:1px solid var(--line);background:rgba(250,247,239,.86)}
+  :where(.constitution-archive) .preamble-study-panel .think{margin-top:16px}
+}
+
+
+/* Chapter navigation model: selecting a chapter replaces the catalogue screen. */
+.constitution-archive:not(.constitution-contents)>header{display:none}
+:where(.constitution-archive) .constitution-preamble>.chapter,:where(.constitution-archive) .constitution-articles>.chapter,:where(.constitution-archive) .constitution-amendments>.chapter{
+  height:100%;
+  max-width:none;
+  animation:constitution-view-in .28s ease both;
+}
+:where(.constitution-archive) .constitution-preamble .chapter-head button,:where(.constitution-archive) .constitution-articles .chapter-head button,:where(.constitution-archive) .constitution-amendments .chapter-head button{
+  padding:7px 11px;
+  border:1px solid rgba(164,69,41,.32);
+  border-radius:999px;
+  background:rgba(250,247,239,.88);
+  color:var(--red2);
+}
+@keyframes constitution-view-in{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+
+@media(min-width:721px) and (min-height:640px){
+  :where(.constitution-archive) .constitution-preamble .preamble-chapter{height:100%}
+  :where(.constitution-archive) .constitution-articles .articles-chapter{height:100%}
+  :where(.constitution-archive) .constitution-amendments .amendments-chapter{height:100%}
+}
+
+@media(prefers-reduced-motion:reduce){
+  :where(.constitution-archive) .constitution-preamble>.chapter,:where(.constitution-archive) .constitution-articles>.chapter,:where(.constitution-archive) .constitution-amendments>.chapter{animation:none}
+}
+
+/* Guided classroom sequence: one question or answer per state. */
+:where(.constitution-archive) .source-note{display:block;margin-top:6px;color:var(--soft);font:8px/1.25 Arial,sans-serif;letter-spacing:.04em}
+:where(.constitution-archive) .source-note a{color:var(--red2);text-decoration:underline;text-underline-offset:2px}
+
+/* Keep the preamble reflection readable at the same scale as the document text. */
+@media(min-width:721px){
+  :where(.constitution-archive) .preamble-think h3{font-size:20px;line-height:1.28}
+  :where(.constitution-archive) .preamble-think>p{font-size:10px}
+  :where(.constitution-archive) .preamble-answer p{font-size:15px;line-height:1.45}
+  :where(.constitution-archive) .preamble-answer .cn-copy{font-size:13px!important;line-height:1.45!important}
+}
+
+@media(min-width:721px) and (min-height:640px){
+  /* Preamble: the reading prompt sits directly above the six promises. */
+  :where(.constitution-archive) .preamble-chapter{
+    grid-template-columns:1fr;
+    grid-template-rows:48px minmax(158px,.9fr) minmax(225px,1.1fr);
+    align-content:stretch;
+    gap:9px;
+  }
+  :where(.constitution-archive) .preamble-feature{grid-row:2;padding:18px 25px;background:rgba(251,249,244,.9)}
+  :where(.constitution-archive) .preamble-learning-grid{
+    grid-row:3;
+    display:grid;
+    grid-template-columns:1fr;
+    grid-template-rows:minmax(104px,1fr) 56px;
+    gap:8px;
+  }
+  :where(.constitution-archive) .promise-workshop{
+    min-height:0;
+    display:grid;
+    grid-template-rows:44px minmax(0,1fr);
+    overflow:hidden;
+    border:1px solid var(--line);
+    border-radius:12px;
+    background:rgba(250,247,239,.9);
+    box-shadow:0 6px 16px rgba(55,45,34,.07);
+  }
+  :where(.constitution-archive) .promise-workshop .preamble-question{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:7px 13px;
+    border-bottom:1px solid var(--line);
+    text-align:center;
+  }
+  :where(.constitution-archive) .promise-workshop .preamble-question h3{margin:2px 0 0;font:400 18px/1 Georgia,serif;white-space:nowrap}
+  :where(.constitution-archive) .promise-workshop .goal-strip{
+    grid-column:auto;
+    grid-row:auto;
+    width:100%;
+    height:100%;
+    min-height:0;
+    display:grid;
+    grid-template-columns:repeat(6,minmax(0,1fr));
+    grid-template-rows:1fr;
+    gap:0;
+    margin:0;
+    border:0;
+    background:transparent;
+  }
+  :where(.constitution-archive) .promise-workshop .promise-card{height:100%;min-height:0}
+  :where(.constitution-archive) .promise-workshop .promise-card-face{
+    padding:7px 6px;
+    border:0;
+    border-right:1px solid var(--line);
+    border-bottom:0!important;
+    border-radius:0;
+    background:rgba(255,255,255,.38);
+    box-shadow:none;
+  }
+  :where(.constitution-archive) .promise-workshop .promise-card:last-child .promise-card-face{border-right:0}
+  :where(.constitution-archive) .promise-workshop .promise-card-face small{font-size:8px!important}
+  :where(.constitution-archive) .promise-workshop .promise-card-front{gap:5px}
+  :where(.constitution-archive) .promise-workshop .promise-card-front b{font-size:10px}
+  :where(.constitution-archive) .promise-workshop .promise-card-back strong,:where(.constitution-archive) .promise-workshop .promise-card:last-child .promise-card-back strong{margin:5px 0 3px;font-size:10.5px;line-height:1.12}
+  :where(.constitution-archive) .promise-workshop .promise-card-back em,:where(.constitution-archive) .promise-workshop .promise-card:last-child .promise-card-back em{font-size:9.2px;line-height:1.18}
+  :where(.constitution-archive) .preamble-think{
+    min-height:0;
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto;
+    align-items:center;
+    gap:18px;
+    padding:9px 14px;
+    border:1px solid var(--line);
+    border-left:3px solid var(--red);
+    background:rgba(251,249,244,.82);
+  }
+  :where(.constitution-archive) .preamble-think h3{max-width:620px;margin:3px 0 0;font:400 12px/1.2 Georgia,serif}
+  :where(.constitution-archive) .preamble-think>button{border:0;border-bottom:1px solid var(--red);background:none;color:var(--red2);padding:5px 0;font:700 8px Arial,sans-serif;letter-spacing:.12em;cursor:pointer}
+  :where(.constitution-archive) .preamble-think.is-revealed{grid-template-columns:minmax(220px,.58fr) minmax(0,1.42fr) auto;align-items:start;gap:16px}
+  :where(.constitution-archive) .preamble-learning-grid:has(.preamble-think.is-revealed){grid-template-rows:124px;align-content:start}
+  :where(.constitution-archive) .preamble-learning-grid:has(.preamble-think.is-revealed) .promise-workshop{display:none}
+  :where(.constitution-archive) .preamble-learning-grid:has(.preamble-think.is-revealed) .preamble-think{grid-row:1;height:124px;padding:14px 18px}
+  :where(.constitution-archive) .preamble-answer{padding-left:16px;border-left:1px solid var(--line)}
+  :where(.constitution-archive) .preamble-answer>b{color:var(--red);font:700 9px Arial,sans-serif;letter-spacing:.14em}
+  :where(.constitution-archive) .preamble-answer p{margin:4px 0;font:12.5px/1.32 Georgia,serif}
+  :where(.constitution-archive) .preamble-answer .cn-copy{font-size:11px!important;line-height:1.34!important}
+
+  /* Two Houses: the answer follows the diagram instead of crowding the question. */
+  :where(.constitution-archive) .houses-lesson{grid-template-columns:minmax(0,.88fr) minmax(0,1.12fr);grid-template-rows:1fr}
+  :where(.constitution-archive) .houses-lesson .lesson-copy{border-right:1px solid var(--line);display:flex;flex-direction:column;padding:26px 32px}
+  :where(.constitution-archive) .houses-lesson .think-prompt{margin-top:auto;padding-top:18px}
+  :where(.constitution-archive) .houses-lesson .think-prompt h3{font-size:17px;line-height:1.28}
+  :where(.constitution-archive) .houses-lesson .think-prompt .cn-copy{font-size:12px!important;line-height:1.35!important}
+  :where(.constitution-archive) .houses-lesson .bicameral-map{display:grid;grid-template-rows:minmax(0,1fr) auto;gap:10px;padding:16px 20px;overflow:hidden}
+  :where(.constitution-archive) .houses-lesson .congress-figure{min-height:0;height:100%;width:100%;grid-template-rows:minmax(0,1fr) auto;gap:7px}
+  :where(.constitution-archive) .congress-crop{height:100%;min-height:0;width:100%;overflow:hidden;display:grid;place-items:center;background:#fff}
+  :where(.constitution-archive) .houses-lesson .congress-crop img{display:block;width:100%;height:100%;max-width:100%;max-height:100%;transform:none;object-fit:contain;object-position:center}
+  :where(.constitution-archive) .figure-note{padding:10px 13px;border-top:1px solid var(--line);background:rgba(238,226,204,.46)}
+  :where(.constitution-archive) .figure-note>p:not(.eyebrow){margin:4px 0;font:12.5px/1.34 Georgia,serif}
+  :where(.constitution-archive) .figure-note .cn-copy{font-size:11px!important;line-height:1.35!important}
+  :where(.constitution-archive) .figure-note .note-summary{margin-top:5px!important;color:var(--red2);font-weight:700!important}
+
+  /* Separation of powers: question, answer, diagram and checks are four distinct states. */
+  :where(.constitution-archive) .separation-lesson{grid-template-columns:minmax(0,1.05fr) minmax(210px,.95fr);grid-template-rows:1fr}
+  :where(.constitution-archive) .separation-lesson .lesson-copy{border-right:1px solid var(--line)}
+  :where(.constitution-archive) .separation-stage-think .lesson-copy,:where(.constitution-archive) .separation-stage-answer .lesson-copy{display:flex;flex-direction:column;justify-content:center;padding:18px 26px}
+  :where(.constitution-archive) .question-answer{margin-top:8px;padding:12px 15px;border-left:3px solid var(--red);background:rgba(238,226,204,.48)}
+  :where(.constitution-archive) .question-answer>p:not(.eyebrow){margin:5px 0;font:13px/1.4 Georgia,serif}
+  :where(.constitution-archive) .question-answer .cn-copy{font-size:11.5px!important;line-height:1.4!important}
+  :where(.constitution-archive) .question-answer>button{margin-top:8px;border:0;background:var(--red);color:white;padding:7px 10px;font:700 8px Arial,sans-serif;letter-spacing:.1em;cursor:pointer}
+  :where(.constitution-archive) .question-stage-marker{width:100%;display:flex;align-items:center;justify-content:center;gap:10px;color:var(--red)}
+  :where(.constitution-archive) .question-stage-marker span{width:42px;height:42px;display:grid;place-items:center;border:1px solid var(--line);border-radius:50%;background:var(--sheet);font:18px Georgia,serif}
+  :where(.constitution-archive) .question-stage-marker i{width:28px;height:1px;background:var(--line)}
+  :where(.constitution-archive) .branches-crop{width:100%;height:100%;min-height:0;display:grid;grid-template-rows:minmax(0,1fr) auto}
+  :where(.constitution-archive) .cropped-diagram{width:100%;height:100%;min-height:0;overflow:hidden;background:#fff}
+  :where(.constitution-archive) .cropped-diagram img{width:100%;height:100%;max-width:none;max-height:none;transform:none;object-fit:contain}
+  :where(.constitution-archive) .checks-only-lesson{grid-template-columns:minmax(205px,.42fr) minmax(0,1.58fr);grid-template-rows:1fr}
+  :where(.constitution-archive) .checks-copy{min-height:0;padding:16px 18px;border-right:1px solid var(--line);display:flex;flex-direction:column;justify-content:center;background:rgba(238,226,204,.38)}
+  :where(.constitution-archive) .checks-copy h2{margin:5px 0 8px;font:400 24px/1.05 Georgia,serif}
+  :where(.constitution-archive) .checks-copy>p:not(.eyebrow){margin:3px 0;font:10px/1.32 Georgia,serif}
+  :where(.constitution-archive) .checks-copy .cn-copy{font-size:9px!important;line-height:1.32!important}
+  :where(.constitution-archive) .compact-conclusion{display:grid;grid-template-columns:auto 1fr;gap:4px 8px;margin-top:12px;padding-top:10px;border-top:1px solid var(--line);font:9px/1.2 Arial,sans-serif}
+  :where(.constitution-archive) .compact-conclusion b{color:var(--red);font-size:7px;letter-spacing:.1em}
+  :where(.constitution-archive) .checks-only-lesson .branches-stage{padding:9px 12px;overflow:hidden}
+  :where(.constitution-archive) .checks-only-lesson .checks-figure{height:100%;display:grid;grid-template-rows:220px auto minmax(0,1fr);gap:7px;overflow:hidden}
+  :where(.constitution-archive) .checks-only-lesson .checks-figure>img{display:block;width:min(100%,450px);height:220px;max-width:100%;max-height:none;transform:none;object-fit:contain;object-position:center}
+  :where(.constitution-archive) .checks-only-lesson .checks-legend{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;overflow:auto}
+  :where(.constitution-archive) .checks-only-lesson .checks-legend span{padding:7px 10px;font-size:12px;line-height:1.3}
+  :where(.constitution-archive) .checks-only-lesson .checks-legend b{font-size:9px}
+
+  :where(.constitution-archive) .federalism-lesson .lesson-conclusion{padding:8px 18px}
+  :where(.constitution-archive) .federalism-lesson .lesson-conclusion>strong{font-size:14px;line-height:1.25}
+  :where(.constitution-archive) .federalism-lesson .lesson-conclusion>p{margin:2px 0;font-size:10px;line-height:1.28}
+  :where(.constitution-archive) .federalism-lesson .lesson-conclusion blockquote{margin:6px 0 0;padding-left:10px;font-size:12px;line-height:1.28}
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  :where(.constitution-archive) .preamble-chapter{grid-template-rows:76px minmax(250px,300px) minmax(270px,320px);gap:16px}
+  :where(.constitution-archive) .preamble-learning-grid{grid-template-rows:minmax(170px,1fr) minmax(92px,auto);gap:12px}
+  :where(.constitution-archive) .promise-workshop{grid-template-rows:62px minmax(0,1fr);border-radius:16px}
+  :where(.constitution-archive) .promise-workshop .preamble-question{padding:12px 22px}
+  :where(.constitution-archive) .promise-workshop .preamble-question h3{font-size:22px}
+  :where(.constitution-archive) .promise-workshop .preamble-question>p{max-width:410px;font-size:12px}
+  :where(.constitution-archive) .promise-workshop .promise-card-face{padding:13px 10px}
+  :where(.constitution-archive) .promise-workshop .promise-card-face small{font-size:9px!important}
+  :where(.constitution-archive) .promise-workshop .promise-card-front b{font-size:13px}
+  :where(.constitution-archive) .promise-workshop .promise-card-back strong,:where(.constitution-archive) .promise-workshop .promise-card:last-child .promise-card-back strong{font-size:14px}
+  :where(.constitution-archive) .promise-workshop .promise-card-back em,:where(.constitution-archive) .promise-workshop .promise-card:last-child .promise-card-back em{font-size:11px}
+  :where(.constitution-archive) .preamble-think{padding:15px 22px}
+  :where(.constitution-archive) .preamble-think h3{font-size:18px}
+  :where(.constitution-archive) .preamble-think>button{font-size:9px}
+  :where(.constitution-archive) .preamble-answer p{font-size:12px}
+  :where(.constitution-archive) .preamble-answer .cn-copy{font-size:11px!important}
+  :where(.constitution-archive) .houses-lesson .congress-figure img{max-height:245px}
+  :where(.constitution-archive) .figure-note{padding:12px 16px}
+  :where(.constitution-archive) .figure-note>p:not(.eyebrow){font-size:13px}
+  :where(.constitution-archive) .figure-note .cn-copy{font-size:11.5px!important}
+  :where(.constitution-archive) .question-answer>p:not(.eyebrow){font-size:15px}
+  :where(.constitution-archive) .question-answer .cn-copy{font-size:13px!important}
+  :where(.constitution-archive) .cropped-diagram img{width:100%;height:100%;transform:none;object-fit:contain}
+  :where(.constitution-archive) .checks-copy{padding:28px 34px}
+  :where(.constitution-archive) .checks-copy h2{font-size:38px}
+  :where(.constitution-archive) .checks-copy>p:not(.eyebrow){font-size:15px}
+  :where(.constitution-archive) .checks-copy .cn-copy{font-size:13px!important}
+  :where(.constitution-archive) .checks-only-lesson .checks-figure>img{max-height:245px}
+  :where(.constitution-archive) .checks-only-lesson .checks-legend span{padding:8px 10px;font-size:10px}
+}
+
+@media(max-width:720px){
+  :where(.constitution-archive) .promise-workshop{margin-top:16px;border:1px solid var(--line);background:rgba(250,247,239,.9)}
+  :where(.constitution-archive) .promise-workshop .preamble-question{padding:16px}
+  :where(.constitution-archive) .promise-workshop .preamble-question h3{margin:4px 0;font:24px/1.1 Georgia,serif}
+  :where(.constitution-archive) .promise-workshop .goal-strip{margin:0;padding:0 12px 12px}
+  :where(.constitution-archive) .preamble-think{margin-top:12px;padding:18px;border:1px solid var(--line);border-left:3px solid var(--red)}
+  :where(.constitution-archive) .preamble-think>button{margin-top:14px}
+  :where(.constitution-archive) .preamble-answer{margin-top:14px;padding-left:14px;border-left:1px solid var(--line)}
+  :where(.constitution-archive) .article-lesson,:where(.constitution-archive) .checks-only-lesson{display:block}
+  :where(.constitution-archive) .figure-note,:where(.constitution-archive) .question-answer,:where(.constitution-archive) .checks-copy{padding:18px}
+  :where(.constitution-archive) .cropped-diagram{height:280px;overflow:hidden}
+  :where(.constitution-archive) .cropped-diagram img{width:125%;max-width:none;transform:translate(-10%,-4%)}
+}
+
+/* Amendment reading pass: the timeline tracks the card width and each card carries a
+   short bilingual explanation. Keep the ordinal suffix beside the number so it stays
+   legible at the compact classroom viewport. */
+@media(min-width:721px){
+  .constitution-archive.constitution-amendments .amendments-chapter{
+    width:100%;
+    height:calc(100% - 15px);
+    grid-template-rows:50px 64px minmax(0,1fr);
+  }
+  .constitution-archive.constitution-amendments .timeline-nav{
+    width:min(92%,900px);
+    max-width:1000px;
+    height:64px;
+    margin:0 auto;
+    grid-template-columns:repeat(7,minmax(0,1fr));
+  }
+  .constitution-archive.constitution-amendments .timeline-nav:before{top:42px;left:7%;right:7%}
+  .constitution-archive.constitution-amendments .timeline-nav button{
+    min-height:64px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-start;
+    padding:0;
+  }
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-year{
+    display:block;
+    margin:0 0 5px;
+    color:var(--soft);
+    font:11px/1.1 Georgia,serif;
+  }
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark{
+    display:inline-flex;
+    align-items:center;
+    gap:3px;
+    height:44px;
+    font:inherit;
+  }
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark b{
+    display:inline-grid;
+    place-items:center;
+    width:44px;
+    height:44px;
+    font:18px/1 Georgia,serif;
+  }
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark small{
+    display:inline-block;
+    margin:0;
+    color:var(--soft);
+    font:12px/1 Georgia,serif;
+  }
+  .constitution-archive.constitution-amendments .timeline-nav button.active .timeline-mark small{color:var(--red2)}
+  .constitution-archive.constitution-amendments .amendment-copy>p:not(.eyebrow){font-size:12.5px;line-height:1.45}
+  .constitution-archive.constitution-amendments .amendment-copy>.cn-copy{
+    margin-top:9px;
+    color:var(--red2)!important;
+    font:11.5px/1.45 "Songti SC","SimSun",serif!important;
+  }
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  .constitution-archive.constitution-amendments .amendments-chapter{grid-template-rows:76px 88px minmax(0,1fr)}
+  .constitution-archive.constitution-amendments .timeline-nav{width:min(88%,1080px);height:88px}
+  .constitution-archive.constitution-amendments .timeline-nav button{min-height:88px}
+  .constitution-archive.constitution-amendments .timeline-nav:before{top:54px}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-year{font-size:12px;margin-bottom:7px}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark{height:56px}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark b{width:56px;height:56px;font-size:21px}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark small{font-size:14px}
+  .constitution-archive.constitution-amendments .amendment-copy>p:not(.eyebrow){font-size:17px;line-height:1.5}
+  .constitution-archive.constitution-amendments .amendment-copy>.cn-copy{font-size:15px!important;line-height:1.5!important}
+}
+
+@media(max-width:720px){
+  .constitution-archive.constitution-amendments .amendments-chapter{grid-template-rows:50px 43px minmax(0,1fr)}
+  .constitution-archive.constitution-amendments .timeline-nav{width:100%;grid-template-columns:repeat(7,minmax(86px,1fr));}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark{display:inline-flex;align-items:center;gap:2px;height:36px}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark b{width:32px;height:32px;font-size:14px}
+  .constitution-archive.constitution-amendments .timeline-nav .timeline-mark small{font-size:10px}
+  .constitution-archive.constitution-amendments .amendment-copy>.cn-copy{margin-top:7px;font-size:11px!important;line-height:1.4!important}
+}
+
+/* Final reading layout: keep amendment details aligned, and place the historical
+   note inside the Preamble answer where it explains the unfinished promise. */
+@media(min-width:721px){
+  .constitution-archive.constitution-amendments .amendments-chapter:has(.surprise){
+    grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);
+  }
+  .constitution-archive.constitution-amendments .amendments-chapter:has(.surprise)>.chapter-head,
+  .constitution-archive.constitution-amendments .amendments-chapter:has(.surprise)>.timeline-nav{grid-column:1/-1}
+  .constitution-archive.constitution-amendments .amendments-chapter:has(.surprise)>.amendment-card{
+    grid-column:1;
+    grid-row:3;
+    width:100%;
+  }
+  .constitution-archive.constitution-amendments .amendments-chapter:has(.surprise)>.surprise{
+    grid-column:2;
+    grid-row:3;
+    width:100%;
+    height:100%;
+    min-height:0;
+    margin:0;
+    overflow:auto;
+  }
+  .constitution-archive.constitution-amendments .amendment-card .amendment-copy{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+  .constitution-archive.constitution-amendments .amendment-copy>p:not(.eyebrow){font-size:15px;line-height:1.48}
+  .constitution-archive.constitution-amendments .amendment-copy>.cn-copy{font-size:13px!important;line-height:1.48!important}
+  .constitution-archive.constitution-preamble .preamble-learning-grid:has(.preamble-think.is-revealed){
+    grid-template-rows:minmax(300px,1fr);
+    align-content:stretch;
+  }
+  .constitution-archive.constitution-preamble .preamble-chapter:has(.preamble-think.is-revealed){overflow:visible}
+  .constitution-archive.constitution-preamble .preamble-think.is-revealed{
+    grid-template-columns:minmax(155px,.45fr) minmax(0,1.55fr);
+    grid-template-rows:minmax(0,1fr) auto;
+    align-items:start;
+    gap:10px 16px;
+    height:100%;
+    min-height:300px;
+    padding:14px 18px;
+  }
+  .constitution-archive.constitution-preamble .preamble-think.is-revealed>div:first-child{
+    grid-column:1;
+    grid-row:1;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    height:100%;
+  }
+  .constitution-archive.constitution-preamble .preamble-think.is-revealed>.preamble-answer{grid-column:2;grid-row:1;min-width:0;min-height:0;overflow:auto}
+  .constitution-archive.constitution-preamble .preamble-think.is-revealed>button{grid-column:2;grid-row:2;justify-self:end}
+  .constitution-archive.constitution-preamble .preamble-context-note{
+    margin-top:7px;
+    padding-top:6px;
+    border-top:1px solid var(--line);
+  }
+  .constitution-archive.constitution-preamble .preamble-context-note .eyebrow{margin:0 0 2px;font-size:9px}
+  .constitution-archive.constitution-preamble .preamble-context-note h4{margin:0 0 3px;font:400 13px/1.1 Georgia,serif}
+  .constitution-archive.constitution-preamble .preamble-context-note p:not(.eyebrow){margin:2px 0;font:10px/1.2 Georgia,serif}
+  .constitution-archive.constitution-preamble .preamble-context-note .cn-copy{font-size:9px!important;line-height:1.24!important}
+  .constitution-archive.constitution-preamble .preamble-answer p{font-size:14.5px;line-height:1.38}
+  .constitution-archive.constitution-preamble .preamble-answer .cn-copy{font-size:12.5px!important;line-height:1.4!important}
+  .constitution-archive.constitution-preamble .preamble-context-note>small{display:block;margin-top:3px;color:var(--soft);font:7.5px/1.15 Arial,sans-serif}
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  .constitution-archive.constitution-preamble .preamble-learning-grid:has(.preamble-think.is-revealed){grid-template-rows:minmax(280px,1fr)}
+  .constitution-archive.constitution-preamble .preamble-think.is-revealed{min-height:280px}
+  .constitution-archive.constitution-preamble .preamble-context-note h4{font-size:16px}
+  .constitution-archive.constitution-preamble .preamble-context-note p:not(.eyebrow){font-size:12px;line-height:1.3}
+  .constitution-archive.constitution-preamble .preamble-context-note .cn-copy{font-size:11px!important;line-height:1.34!important}
+  .constitution-archive.constitution-preamble .preamble-context-note>small{font-size:9px}
+}
+
+@media(max-width:720px){
+  .constitution-archive.constitution-preamble .preamble-context-note{margin-top:12px;padding-top:10px;border-top:1px solid var(--line)}
+  .constitution-archive.constitution-preamble .preamble-context-note h4{margin:4px 0;font:400 20px/1.1 Georgia,serif}
+  .constitution-archive.constitution-preamble .preamble-context-note p:not(.eyebrow){margin:5px 0;font:14px/1.45 Georgia,serif}
+  .constitution-archive.constitution-preamble .preamble-context-note .cn-copy{font-size:12px!important;line-height:1.45!important}
+  .constitution-archive.constitution-preamble .preamble-context-note>small{display:block;margin-top:6px;color:var(--soft);font:9px/1.3 Arial,sans-serif}
+}
+
+/* Visual QA: constrain replaced images to their grid cell, and show all six checks. */
+@media(min-width:721px) and (min-height:640px){
+  .constitution-archive.constitution-articles>.articles-chapter{height:100%}
+  :where(.constitution-archive) .houses-lesson{grid-template-columns:minmax(0,.75fr) minmax(0,1.25fr)}
+  :where(.constitution-archive) .houses-lesson .congress-crop{position:relative;grid-template-rows:minmax(0,1fr)}
+  :where(.constitution-archive) .houses-lesson .congress-crop img{position:absolute;inset:0;min-height:0;width:100%;height:100%;max-height:100%;object-fit:contain}
+  :where(.constitution-archive) .checks-only-lesson .checks-figure{grid-template-rows:190px auto minmax(0,1fr)}
+  :where(.constitution-archive) .checks-only-lesson .checks-figure>img{height:190px;width:min(100%,390px)}
+  :where(.constitution-archive) .checks-only-lesson .checks-legend{grid-template-columns:repeat(3,minmax(0,1fr));gap:5px 8px;margin-top:0}
+  :where(.constitution-archive) .checks-only-lesson .checks-legend span{padding:5px 7px;font-size:12px;line-height:1.3}
+}
+
+
+
+/* Final readability override for the preamble THINK panel. */
+@media(min-width:721px){
+  .constitution-preamble .preamble-think h3{font-size:clamp(24px,2vw,34px)!important;line-height:1.24!important}
+  .constitution-preamble .preamble-think>p{font-size:12px!important}
+  .constitution-preamble .preamble-answer p{font-size:18px!important;line-height:1.45!important}
+  .constitution-preamble .preamble-answer .cn-copy{font-size:15px!important;line-height:1.45!important}
+  .constitution-preamble .preamble-learning-grid:has(.preamble-think.is-revealed){grid-template-rows:minmax(220px,auto)!important}
+  .constitution-preamble .preamble-learning-grid:has(.preamble-think.is-revealed) .preamble-think{height:auto!important;min-height:220px!important}
+}
+
+.surprise p{flex-basis:100%;margin:8px 0 0;color:var(--soft);font:15px/1.45 Georgia,serif;text-align:center}
+@media(max-width:720px){.surprise p{font-size:12px;line-height:1.35}}
+
+.new-yorker-reading{margin-top:28px;padding:28px 30px;border-top:4px solid var(--ink);border-bottom:1px solid var(--line);background:rgba(255,253,248,.86);box-shadow:0 8px 20px rgba(45,37,28,.09)}
+.new-yorker-reading header{height:auto;display:block;border-bottom:1px solid var(--line);padding-bottom:18px}
+.new-yorker-reading header h4{margin:8px 0 4px;font:400 clamp(28px,3vw,44px)/1.08 Georgia,serif}
+.new-yorker-byline{margin:0;color:var(--soft);font:italic 16px/1.45 Georgia,serif}
+.new-yorker-reading-grid{display:grid;grid-template-columns:minmax(180px,.36fr) minmax(0,1fr);gap:28px;margin-top:24px}
+.new-yorker-reading figure{margin:0}
+.new-yorker-reading figure img{display:block;width:100%;max-height:520px;object-fit:cover;object-position:top;filter:grayscale(.08) contrast(.96)}
+.new-yorker-reading figcaption{margin-top:8px;color:var(--soft);font:12px/1.4 Georgia,serif}
+.new-yorker-copy{max-height:760px;overflow:auto;padding-right:12px}
+.new-yorker-copy p{margin:0 0 18px;color:var(--ink);font:18px/1.65 Georgia,serif}
+.reading-exercise{margin-top:28px;padding:18px 20px;border-left:4px solid var(--red);background:#f2e6bf}
+.reading-exercise>p{margin:0 0 8px!important;color:var(--red)!important;font:700 11px/1.4 Arial,sans-serif!important;letter-spacing:.16em}
+.reading-exercise button{width:100%;display:flex;justify-content:space-between;gap:18px;padding:0;border:0;background:transparent;color:var(--ink);cursor:pointer;text-align:left;font:italic 21px/1.4 Georgia,serif}
+.reading-exercise button span{color:var(--red);font-style:normal;font-size:26px;line-height:1}
+.reading-exercise-answer{margin:14px 0 0!important;padding-top:12px;border-top:1px solid rgba(125,49,29,.28);font-size:17px!important}
+@media(max-width:720px){.new-yorker-reading{padding:20px 16px}.new-yorker-reading-grid{grid-template-columns:1fr;gap:18px}.new-yorker-reading figure img{max-height:360px}.new-yorker-copy{max-height:none;overflow:visible}.new-yorker-copy p{font-size:17px;line-height:1.6}.reading-exercise button{font-size:18px}}
+
+.context-reading-trigger{width:100%;display:flex;justify-content:space-between;align-items:center;margin:6px 0 12px;padding:0 0 7px;border:0;border-bottom:1px solid var(--line);background:transparent;color:var(--red2);cursor:pointer;text-align:left;font:400 clamp(22px,2.4vw,34px)/1.15 Georgia,serif}
+.context-reading-trigger span:last-child{font-size:24px}
+.context-reading-trigger:hover{color:var(--red)}
+.new-yorker-screen{max-width:1280px;margin:0 auto;padding:28px 0 80px;animation:constitution-view-in .28s ease both}
+.new-yorker-screen-head{position:relative;text-align:center;border-bottom:1px solid var(--line);padding:8px 0 30px}
+.new-yorker-screen-head button{position:absolute;left:0;top:8px;border:1px solid rgba(164,69,41,.32);border-radius:999px;background:rgba(250,247,239,.88);color:var(--red2);padding:8px 12px;cursor:pointer;font:11px Arial,sans-serif;letter-spacing:.12em}
+.new-yorker-screen-head h1{margin:18px 0 7px;font:400 clamp(38px,5vw,72px)/1.06 Georgia,serif}
+.new-yorker-screen-head>p:last-child{margin:0;color:var(--soft);font:italic 19px/1.45 Georgia,serif}
+.new-yorker-screen>.new-yorker-reading-grid{margin-top:38px;grid-template-columns:minmax(260px,.38fr) minmax(0,1fr);gap:42px}
+.new-yorker-screen .new-yorker-reading-grid figure img{max-height:760px}
+.new-yorker-screen .new-yorker-copy{max-height:none;overflow:visible}
+.new-yorker-screen .new-yorker-copy p{font-size:21px;line-height:1.72}
+@media(max-width:720px){.new-yorker-screen{padding:18px 0 50px}.new-yorker-screen-head{padding-top:48px}.new-yorker-screen-head button{top:0}.new-yorker-screen>.new-yorker-reading-grid{grid-template-columns:1fr;gap:24px}.new-yorker-screen .new-yorker-copy p{font-size:18px}}
+
+/* Editorial spread matching the supplied magazine-page reference. */
+.new-yorker-screen{max-width:1320px;padding:34px 42px 90px;background:rgba(255,253,248,.72);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.new-yorker-screen-head{text-align:left;padding:10px 0 26px;border-bottom:2px solid var(--ink)}
+.new-yorker-screen-head .eyebrow{margin:0 0 10px;font-size:12px;letter-spacing:.2em}
+.new-yorker-screen-head h1{max-width:980px;margin:0 0 8px;font-size:clamp(44px,5.2vw,78px);line-height:1.02}
+.new-yorker-screen-head>p:last-child{font-size:20px}
+.new-yorker-screen>.new-yorker-reading-grid{grid-template-columns:minmax(360px,.82fr) minmax(0,1.18fr);gap:54px;margin-top:34px;align-items:start}
+.new-yorker-screen .new-yorker-reading-grid figure img{width:100%;height:auto;max-height:none;object-fit:contain;object-position:top}
+.new-yorker-screen .new-yorker-reading-grid figcaption{font-size:13px}
+.new-yorker-screen .new-yorker-copy{columns:2;column-gap:32px}
+.new-yorker-screen .new-yorker-copy>p{font-size:19px;line-height:1.58;break-inside:avoid}
+.new-yorker-screen .reading-exercise{column-span:all;break-inside:avoid}
+@media(max-width:900px){.new-yorker-screen{padding:24px 20px 60px}.new-yorker-screen>.new-yorker-reading-grid{grid-template-columns:1fr;gap:26px}.new-yorker-screen .new-yorker-copy{columns:1}.new-yorker-screen .new-yorker-reading-grid figure img{max-height:620px;width:auto;max-width:100%;margin:auto}}
+
+.new-yorker-screen-head{padding-top:50px}
+@media(max-width:720px){.new-yorker-screen-head{padding-top:52px}}
+
+/* The reading is one continuous magazine page: its lower columns must never be clipped by the course shell. */
+main.constitution-archive.constitution-preamble:has(.new-yorker-screen){height:max-content!important;min-height:100vh!important;max-height:none!important;aspect-ratio:auto!important;overflow:visible!important}
+main.constitution-archive.constitution-preamble:has(.new-yorker-screen) .new-yorker-screen{min-height:0!important;padding-bottom:96px}
+.new-yorker-screen-head{padding-top:46px!important;padding-bottom:20px!important}
+.new-yorker-screen-head h1{max-width:none!important;font-size:clamp(34px,3.6vw,56px)!important;line-height:1.05!important}
+.new-yorker-screen-head>p:last-child{font-size:17px!important}
+.new-yorker-screen>.new-yorker-reading-grid{grid-template-columns:minmax(300px,.72fr) minmax(0,1.28fr)!important;gap:38px!important;margin-top:26px!important}
+.new-yorker-screen .new-yorker-copy{max-height:none!important;overflow:visible!important;column-count:2;column-gap:30px;column-fill:balance}
+.new-yorker-screen .new-yorker-copy>p{font-size:17px!important;line-height:1.5!important;break-inside:avoid-column}
+.new-yorker-screen .new-yorker-reading-grid figure img{max-height:none!important;height:auto!important;object-fit:contain!important}
+@media(max-width:900px){main.constitution-archive.constitution-preamble:has(.new-yorker-screen){padding-bottom:48px}.new-yorker-screen>.new-yorker-reading-grid{grid-template-columns:1fr!important}.new-yorker-screen .new-yorker-copy{column-count:1}.new-yorker-screen .new-yorker-copy>p{font-size:18px!important;line-height:1.58!important}}
+
+/* Reading-practice refinements: larger Georgia body copy, a portrait centered on the article body, and visible paper-note questions. */
+.new-yorker-screen .new-yorker-copy>p{font-family:Georgia,serif!important;font-size:20px!important;line-height:1.5!important}
+.new-yorker-screen .new-yorker-reading-grid figure{margin-top:clamp(150px,14vw,240px)}
+.new-yorker-screen .reading-exercise{column-span:all;break-inside:avoid;margin-top:30px}
+.new-yorker-screen .reading-exercise-prompt{margin:0!important;font:italic 22px/1.42 Georgia,serif!important}
+.new-yorker-screen .reading-exercise-answer{margin:14px 0 0!important;padding-top:12px;border-top:1px solid rgba(125,49,29,.28);font:18px/1.5 Georgia,serif!important}
+.new-yorker-screen .reading-questions{column-span:all;break-inside:avoid;margin-top:28px;padding-top:22px;border-top:1px solid var(--line)}
+.new-yorker-screen .reading-questions>.eyebrow{margin:0 0 14px;color:var(--red);font:700 11px/1.3 Arial,sans-serif;letter-spacing:.16em}
+.new-yorker-screen .reading-question-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.new-yorker-screen .reading-question{position:relative;min-height:220px;padding:20px 22px 18px;border:1px solid rgba(125,49,29,.16);background:#f4dfa4;box-shadow:4px 5px 0 rgba(125,49,29,.12);cursor:pointer;transform:rotate(-.35deg);transition:transform .18s ease,box-shadow .18s ease,background .18s ease;break-inside:avoid}
+.new-yorker-screen .reading-question:nth-child(even){background:#f8eabc;transform:rotate(.3deg)}
+.new-yorker-screen .reading-question:nth-child(3n){background:#f3e5b7;transform:rotate(-.18deg)}
+.new-yorker-screen .reading-question:hover{box-shadow:6px 7px 0 rgba(125,49,29,.16);transform:translateY(-2px) rotate(-.35deg)}
+.new-yorker-screen .reading-question:nth-child(even):hover{transform:translateY(-2px) rotate(.3deg)}
+.new-yorker-screen .reading-question:nth-child(3n):hover{transform:translateY(-2px) rotate(-.18deg)}
+.new-yorker-screen .reading-question:focus-visible{outline:3px solid rgba(163,70,39,.72);outline-offset:4px}
+.new-yorker-screen .reading-question.is-answered{background:#e7e7bd}
+.new-yorker-screen .reading-question-number{display:block;margin-bottom:10px;color:var(--red);font:700 11px/1 Arial,sans-serif;letter-spacing:.14em}
+.new-yorker-screen .reading-question h3{margin:0 0 13px;color:var(--ink);font:700 19px/1.35 Georgia,serif}
+.new-yorker-screen .reading-question ul{margin:0;padding:0;list-style:none;color:var(--ink);font:17px/1.48 Georgia,serif}
+.new-yorker-screen .reading-question li{margin:4px 0}
+.new-yorker-screen .reading-question li b{display:inline-block;min-width:30px;color:var(--red);font:700 12px/1.48 Arial,sans-serif;vertical-align:top}
+.new-yorker-screen .reading-question li.is-correct{color:#285d46;font-weight:700}
+.new-yorker-screen .reading-answer-check{display:inline-block;margin-left:8px;color:#285d46;font:700 21px/1 Georgia,serif;vertical-align:-2px}
+.new-yorker-screen .reading-question-hint{display:block;margin-top:15px;color:var(--red);font:700 10px/1.3 Arial,sans-serif;letter-spacing:.13em}
+.new-yorker-screen .reading-question.is-answered .reading-question-hint{color:#285d46}
+@media(max-width:900px){
+  .new-yorker-screen .new-yorker-reading-grid figure{margin-top:0}
+  .new-yorker-screen .new-yorker-copy>p{font-size:19px!important;line-height:1.55!important}
+  .new-yorker-screen .reading-question-grid{grid-template-columns:1fr}
+  .new-yorker-screen .reading-question{min-height:0}
+  .new-yorker-screen .reading-question h3{font-size:18px}
+  .new-yorker-screen .reading-question ul{font-size:16px}
+}
+
+/* The reading practice now follows an editorial page: prompt first, portrait inside the article flow, and a vertical question rail. */
+.new-yorker-screen > .new-yorker-reading-grid{
+  grid-template-areas:"questions copy";
+  grid-template-columns:minmax(280px,.55fr) minmax(0,1.45fr)!important;
+  gap:42px!important;
+  align-items:start;
+}
+.new-yorker-screen .new-yorker-question-rail{grid-area:questions;column-span:initial;break-inside:auto;margin:0;padding:0;border:0}
+.new-yorker-screen .new-yorker-copy{grid-area:copy;column-count:initial!important;column-gap:normal!important;column-fill:auto!important;max-height:none!important;overflow:visible!important;padding:0}
+.new-yorker-screen .reading-exercise{width:100%;box-sizing:border-box;column-span:initial;break-inside:auto;margin:0 0 30px!important}
+.new-yorker-screen .new-yorker-article-flow{display:flow-root}
+.new-yorker-screen .new-yorker-article-flow>p{margin:0 0 20px;color:var(--ink);font:20px/1.5 Georgia,serif!important;break-inside:auto!important}
+.new-yorker-screen .new-yorker-paragraph-number{display:inline-block;width:1.45em;margin-right:.35em;color:var(--red);font:700 .92em/1 Georgia,serif;vertical-align:.08em}
+.new-yorker-screen figure.new-yorker-portrait{float:left;width:min(44%,370px);margin:12px 32px 18px 0!important;break-inside:auto}
+.new-yorker-screen figure.new-yorker-portrait img{display:block;width:100%;height:auto!important;max-height:none!important;object-fit:contain!important}
+.new-yorker-screen figure.new-yorker-portrait figcaption{margin-top:8px;color:var(--soft);font:12px/1.4 Georgia,serif}
+.new-yorker-screen .new-yorker-question-rail>.eyebrow{margin:0 0 14px;color:var(--red);font:700 11px/1.3 Arial,sans-serif;letter-spacing:.16em}
+.new-yorker-screen .new-yorker-question-rail .reading-question-grid{display:grid;grid-template-columns:1fr;gap:16px}
+.new-yorker-screen .new-yorker-question-rail .reading-question{min-height:0;padding:16px 17px 15px}
+.new-yorker-screen .new-yorker-question-rail .reading-question h3{margin-bottom:10px;font-size:17px;line-height:1.32}
+.new-yorker-screen .new-yorker-question-rail .reading-question ul{font-size:15px;line-height:1.42}
+.new-yorker-screen .new-yorker-question-rail .reading-question li{margin:3px 0}
+.new-yorker-screen .new-yorker-question-rail .reading-question-hint{margin-top:12px}
+@media(max-width:900px){
+  .new-yorker-screen > .new-yorker-reading-grid{grid-template-areas:"copy" "questions";grid-template-columns:1fr!important;gap:34px!important}
+  .new-yorker-screen .new-yorker-article-flow>p{font-size:19px!important;line-height:1.55!important}
+  .new-yorker-screen figure.new-yorker-portrait{width:min(48%,350px)}
+}
+@media(max-width:620px){
+  .new-yorker-screen figure.new-yorker-portrait{float:none;width:min(100%,360px);margin:6px auto 22px!important}
+  .new-yorker-screen .reading-exercise{margin-bottom:24px!important}
+  .new-yorker-screen .new-yorker-question-rail .reading-question{padding:16px}
+}

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>句型标记 · 设计预览</title>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#403629;--muted:#85755f;--paper:#f7f1e4;--rust:#9c523c;--rule:#d6c8b1;--badge:104px}
+    *{box-sizing:border-box}body{margin:0;color:var(--ink);background:#e8e0d2;font:14px/1.7 Arial,"PingFang SC",sans-serif}button,select{font:inherit;color:inherit}button,a,summary,select{touch-action:manipulation}button,select{cursor:pointer}button{background:transparent;border:1px solid var(--rule);border-radius:5px;padding:7px 13px}button:hover{background:#eadcc3}button:focus-visible,a:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #9c6747;outline-offset:3px}button[aria-pressed=true]{border-color:var(--rust);background:#efe0d3;color:#793f2e}a{color:var(--rust);text-underline-offset:4px}h1,h2,p{margin:0}main{max-width:1136px;margin:auto;padding:24px 26px 70px}header{display:flex;justify-content:space-between;align-items:center;gap:16px}h1{font:400 26px/1.4 Georgia,"Songti SC",serif}header small{color:var(--muted);font-size:11px;letter-spacing:.12em}.intro{margin:10px 0 18px;color:#71634f;font-size:13px}.legend{display:flex;flex-wrap:wrap;gap:15px 40px;border-block:1px solid #d2c4ac;padding:12px 0;margin-bottom:18px}.legend-item{display:flex;gap:12px;align-items:center}.legend img{width:78px;height:46px;object-fit:contain}.legend b{font-weight:500;font-size:14px}.legend small{display:block;color:var(--muted);font-size:11px}.controls{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-bottom:16px}.controls label{margin-right:auto}.controls select{max-width:250px;margin-left:7px;background:#f7f1e4;border:1px solid var(--rule);border-radius:4px;padding:7px}.views{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}.views button{padding:7px 15px}.views span{margin-right:auto;align-self:center;color:var(--muted);font-size:12px}.sheet{border:1px solid #b8ad97;border-radius:12px;background-color:var(--paper);background-image:radial-gradient(#9e8b6220 .6px,transparent .7px);background-size:7px 7px;box-shadow:0 16px 30px #48382417;padding:24px}.folio{display:flex;align-items:center;justify-content:space-between;gap:12px;color:var(--muted);font:11px/1.5 Arial,sans-serif;letter-spacing:.07em;margin-bottom:20px}.folio button{padding:0;border:0;border-radius:0;color:#806a4c;letter-spacing:normal;font-size:13px}.folio #front-hint{font-size:11px;letter-spacing:0}.original{position:relative;color:#322a22}.badge{position:absolute;left:16px;top:12px;width:var(--badge);height:calc(var(--badge) * .54);display:block;z-index:1}.badge img{width:100%;height:100%;object-fit:contain;display:block}.original p{font-family:"Absolutely Vintage","Special Elite","Courier New",monospace;font-weight:400;text-align:center;overflow-wrap:anywhere}.original.front{padding:92px 20px 36px;min-height:260px}.original.front p{font-size:clamp(27px,3.15vw,43px);line-height:1.38;letter-spacing:-.015em;max-width:930px;margin:auto}.original.back{min-height:98px;border-radius:6px;background:#ebe3d2;padding:21px calc(var(--badge) + 24px);margin:16px 0 0}.original.back .badge{width:calc(var(--badge) * .85);height:calc(var(--badge) * .46);left:12px;top:12px}.original.back p{font-size:20px;line-height:1.65;min-height:56px;display:flex;align-items:center;justify-content:center}.original.back p span{display:inline}.original mark{background:#e8c76c;color:inherit;padding:2px 4px;border-radius:3px;text-decoration:underline;text-underline-offset:4px}.learning{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:3px}.learning button{font:16px/1.2 "Special Elite",monospace;background:#e7ce91;padding:15px 5px;border-color:#c6ac70;border-radius:6px 6px 0 0}.learning button[aria-pressed=true]{background:var(--rust);border-color:var(--rust);color:#fff6e5}.learning.front-links{max-width:700px;margin:10px auto 0;gap:18px}.learning.front-links button{background:#ecd797;border:1px solid #bda873;border-radius:4px}.learning.front-links small{font:11px Arial,sans-serif;display:block;margin-bottom:6px;color:#8c7756}.location{text-align:center;color:#98876e;font-size:12px;margin:22px 0 2px}.diagnosis{display:flex;align-items:flex-start;gap:16px;margin-top:18px;padding:16px 3px;border-bottom:1px solid #cdbc9e}.diagnosis .type{flex:0 0 auto;max-width:190px}.type b{font:400 17px Georgia,"Songti SC",serif}.type small{display:block;color:var(--rust);font-size:12px}.diagnosis p{font-size:13px;color:#6d5d47}.diagnosis p+p{margin-top:5px}.classification{margin-top:24px}.classification>summary{font:400 20px Georgia,"Songti SC",serif;cursor:pointer}.classification .note{padding:15px 0;color:#74644e;line-height:1.8;font-size:13px}.counts{display:flex;flex-wrap:wrap;gap:8px;margin:2px 0 16px}.counts span{padding:3px 10px;background:#f5ecdd;border:1px solid #d6c8b1;border-radius:4px;font-size:12px}.sentence-list{display:grid;gap:8px}.sentence-row{display:grid;grid-template-columns:46px 170px 1fr;gap:14px;align-items:start;text-align:left;background:#f7f1e4;padding:14px;width:100%}.sentence-row em{font-size:13px;font-style:normal}.sentence-row small{display:block;font-size:11px;color:var(--muted)}.sentence-row .excerpt{font:15px/1.55 Georgia,serif}.sources{font-size:12px;color:#7d6e59;margin-top:18px}.sources a{display:inline-block;margin:6px 16px 0 0}.error{padding:26px;background:#f8e1db;border:1px solid #bd735b}.size-control{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:8px;justify-content:flex-end;margin-top:15px}.size-control button{font-size:12px;padding:3px 9px}[hidden]{display:none!important}
+    @media(max-width:650px){main{padding:20px 14px 40px}header{align-items:start}header a{font-size:12px;white-space:nowrap}h1{font-size:23px}.legend{gap:10px}.legend-item{flex:1 1 210px}.controls{gap:6px}.controls label{width:100%}.controls select{max-width:calc(100% - 65px)}.views{gap:5px}.views span{width:100%}.views button{padding:7px 10px}.sheet{padding:16px}.original.front{padding:84px 8px 28px;min-height:250px}.original.front p{font-size:27px}.original.back{padding:78px 15px 22px}.original.back p{font-size:18px;min-height:0}.learning.front-links{gap:6px}.learning button{font-size:13px}.diagnosis{flex-direction:column;gap:7px}.sentence-row{grid-template-columns:34px 1fr;gap:8px}.sentence-row .excerpt{grid-column:2}.folio{font-size:9px}.folio #front-hint{font-size:10px}}
+  </style>
+</head>
+<body><main>
+  <header><div><small>ARTICLE 01 · I BECOME A STUDENT</small><h1>句型标记 · 设计预览</h1></div><a href="/#text">返回阅读网页</a></header>
+  <p class="intro">两只小猫放在原句区的左上角。切换句子和五个视图，查看实际大小与留白。</p>
+  <section class="legend" aria-label="图标说明">
+    <div class="legend-item"><img src="/sentence-badges/simple-cat.png" alt="第一张图：猫与笔记本电脑"><div><b>简单句</b><small>选择性讲解；简短回应另注</small></div></div>
+    <div class="legend-item"><img src="/sentence-badges/complex-cat.png" alt="第二张图：伏在电脑前的猫"><div><b>复合结构</b><small>区分主从、并列；引语另注</small></div></div>
+  </section>
+  <div id="error" class="error" hidden>分类数据暂未载入，请刷新本地预览。</div>
+  <section id="demo" hidden>
+    <div class="controls"><label for="sentence-select">当前句子<select id="sentence-select"></select></label><button id="sample-simple">01 · 简单句</button><button id="sample-complex">17 · 复合句</button><button id="sample-long">30 · 长句</button></div>
+    <nav class="views" aria-label="预览位置"><span>查看位置</span><button data-view="front" aria-pressed="true">正面原句</button><button data-view="words">Words</button><button data-view="structure">Structure</button><button data-view="meaning">Meaning</button><button data-view="practice">Practice</button></nav>
+    <article class="sheet" aria-label="句型图标设计样张">
+      <div class="folio"><button id="return-front" hidden>← 返回句子</button><span id="front-hint">ORIGINAL SENTENCE · 卡片正面</span><span id="folio"></span></div>
+      <nav class="learning" id="reverse-tabs" aria-label="翻面四个入口" hidden><button data-view="words">Words</button><button data-view="structure">Structure</button><button data-view="meaning">Meaning</button><button data-view="practice">Practice</button></nav>
+      <section class="original front" id="original" aria-label="原句区">
+        <span class="badge" id="badge"><img id="badge-image" src="/sentence-badges/simple-cat.png" alt="简单句"></span>
+        <p><span id="sentence-text"></span></p>
+      </section>
+      <nav class="learning front-links" id="front-links" aria-label="正面四个入口"><button data-view="words"><small>01</small>Words</button><button data-view="structure"><small>02</small>Structure</button><button data-view="meaning"><small>03</small>Meaning</button><button data-view="practice"><small>04</small>Practice</button></nav>
+      <p class="location" id="location">点击任一入口，查看翻面原句区的图标。</p>
+    </article>
+    <div class="size-control" aria-label="图标尺寸">图标大小 <button data-size="88">小</button><button data-size="104" aria-pressed="true">标准</button><button data-size="120">大</button></div>
+    <aside class="diagnosis" aria-label="当前句分类依据"><div class="type"><b id="type-label"></b><small id="priority"></small></div><div><p id="reason"></p><p id="teaching-note"></p></div></aside>
+    <details class="classification"><summary>查看全部 40 句的分类与依据</summary><p class="note" id="convention"></p><div class="counts" id="counts"></div><div class="sentence-list" id="sentence-list"></div><p class="note" id="badge-policy"></p><div class="sources" id="sources">分类口径参考：</div></details>
+  </section>
+</main>
+<script type="module">
+  const el = id => document.getElementById(id);
+  let data, selected = 1, view = 'front';
+  const names={front:'正面原句',words:'Words',structure:'Structure',meaning:'Meaning',practice:'Practice'};
+  const escape = text => text.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function render(){
+    const s=data.sentences[selected-1], front=view==='front';
+    el('sentence-select').value=String(selected);
+    el('folio').textContent=`SENTENCE ${String(s.id).padStart(2,'0')} · PARA ${String(s.paragraph).padStart(2,'0')}`;
+    el('badge-image').src=`/sentence-badges/${s.badge}-cat.png`;
+    el('badge-image').alt=s.label;
+    el('badge').title=`${s.label} · ${s.priorityLabel}`;
+    el('original').className=`original ${front?'front':'back'}`;
+    el('sentence-text').innerHTML=view==='words' && selected===1 ? escape(s.text).replace('education','<mark>education</mark>') : escape(s.text);
+    el('return-front').hidden=front;el('front-hint').hidden=!front;
+    el('front-links').hidden=!front;el('reverse-tabs').hidden=front;
+    el('location').textContent=front?'点击任一入口，查看翻面原句区的图标。':`${names[view]} · 图标固定在本入口原句区的左上角`;
+    el('type-label').textContent=s.label;el('priority').textContent=s.priorityLabel;
+    el('reason').textContent=s.reason;el('teaching-note').textContent=s.note;
+    document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===view)));
+    document.querySelectorAll('[data-sentence]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.sentence)===selected)));
+    history.replaceState(null,'',`#sentence=${selected}&view=${view}`);
+  }
+  function choose(id){selected=id;render()}
+  document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{view=b.dataset.view;render()}));
+  document.querySelectorAll('[data-size]').forEach(b=>b.addEventListener('click',()=>{document.documentElement.style.setProperty('--badge',`${b.dataset.size}px`);document.querySelectorAll('[data-size]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))}));
+  el('return-front').addEventListener('click',()=>{view='front';render()});
+  el('sentence-select').addEventListener('change',e=>choose(Number(e.target.value)));
+  el('sample-simple').addEventListener('click',()=>choose(1));el('sample-complex').addEventListener('click',()=>choose(17));el('sample-long').addEventListener('click',()=>choose(30));
+  try{
+    const response=await fetch('/sentence-badges/article01-classification.json');if(!response.ok)throw new Error('classification unavailable');data=await response.json();
+    const initial=new URLSearchParams(location.hash.slice(1));if(data.sentences.some(s=>s.id===Number(initial.get('sentence'))))selected=Number(initial.get('sentence'));if(names[initial.get('view')])view=initial.get('view');
+    el('sentence-select').innerHTML=data.sentences.map(s=>`<option value="${s.id}">${String(s.id).padStart(2,'0')} · ${s.label}</option>`).join('');
+    const grouped={};data.sentences.forEach(s=>{grouped[s.label]=(grouped[s.label]||0)+1});
+    el('counts').innerHTML=Object.entries(grouped).map(([k,v])=>`<span>${escape(k)} ${v}</span>`).join('');
+    el('convention').textContent=data.convention;el('badge-policy').textContent=data.badgePolicy;
+    el('sentence-list').innerHTML=data.sentences.map(s=>`<button class="sentence-row" data-sentence="${s.id}"><b>${String(s.id).padStart(2,'0')}</b><span><em>${escape(s.label)}</em><small>${escape(s.priorityLabel)}</small></span><span class="excerpt">${escape(s.text)}</span></button>`).join('');
+    document.querySelectorAll('[data-sentence]').forEach(b=>b.addEventListener('click',()=>{choose(Number(b.dataset.sentence));document.querySelector('.controls').scrollIntoView({behavior:'smooth',block:'start'})}));
+    data.references.forEach(ref=>{const a=document.createElement('a');a.href=ref.url;a.textContent=ref.title;a.target='_blank';a.rel='noopener noreferrer';el('sources').append(a)});
+    el('demo').hidden=false;render();
+  }catch(error){el('error').hidden=false;console.error(error)}
+</script>
+</body>
+</html>

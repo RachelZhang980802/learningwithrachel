@@ -1,0 +1,6175 @@
+{
+  "generatedAt": "2026-09-13T12:26:49.219Z",
+  "summary": {
+    "total": 547,
+    "sourceMismatches": 0,
+    "clauseExcerptMismatches": 24,
+    "omissionCases": 43
+  },
+  "entries": [
+    {
+      "id": "01.01",
+      "article": "01",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.02",
+      "article": "01",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 8,
+      "expectedClauses": 7,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.03",
+      "article": "01",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.04",
+      "article": "01",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.05",
+      "article": "01",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.06",
+      "article": "01",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.07",
+      "article": "01",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.08",
+      "article": "01",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.09",
+      "article": "01",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.10",
+      "article": "01",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.11",
+      "article": "01",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.12",
+      "article": "01",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.13",
+      "article": "01",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.14",
+      "article": "01",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.15",
+      "article": "01",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.16",
+      "article": "01",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 7,
+      "expectedClauses": 6,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.17",
+      "article": "01",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.18",
+      "article": "01",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.19",
+      "article": "01",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.20",
+      "article": "01",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.21",
+      "article": "01",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.22",
+      "article": "01",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.23",
+      "article": "01",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.24",
+      "article": "01",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.25",
+      "article": "01",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.26",
+      "article": "01",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.27",
+      "article": "01",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.28",
+      "article": "01",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.29",
+      "article": "01",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.30",
+      "article": "01",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 10,
+      "expectedClauses": 7,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.31",
+      "article": "01",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.32",
+      "article": "01",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.33",
+      "article": "01",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.34",
+      "article": "01",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.35",
+      "article": "01",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.36",
+      "article": "01",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.37",
+      "article": "01",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.38",
+      "article": "01",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.39",
+      "article": "01",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "01.40",
+      "article": "01",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.01",
+      "article": "02",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.02",
+      "article": "02",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.03",
+      "article": "02",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.04",
+      "article": "02",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.05",
+      "article": "02",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.06",
+      "article": "02",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.07",
+      "article": "02",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.08",
+      "article": "02",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.09",
+      "article": "02",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.10",
+      "article": "02",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.11",
+      "article": "02",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.12",
+      "article": "02",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.13",
+      "article": "02",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.14",
+      "article": "02",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.15",
+      "article": "02",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.16",
+      "article": "02",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.17",
+      "article": "02",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.18",
+      "article": "02",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.19",
+      "article": "02",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.20",
+      "article": "02",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.21",
+      "article": "02",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.22",
+      "article": "02",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.23",
+      "article": "02",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.24",
+      "article": "02",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.25",
+      "article": "02",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "比较从句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.26",
+      "article": "02",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.27",
+      "article": "02",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.28",
+      "article": "02",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.29",
+      "article": "02",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.30",
+      "article": "02",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.31",
+      "article": "02",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.32",
+      "article": "02",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.33",
+      "article": "02",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.34",
+      "article": "02",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.35",
+      "article": "02",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.36",
+      "article": "02",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.37",
+      "article": "02",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.38",
+      "article": "02",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.39",
+      "article": "02",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.40",
+      "article": "02",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.41",
+      "article": "02",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.42",
+      "article": "02",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.43",
+      "article": "02",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.44",
+      "article": "02",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.45",
+      "article": "02",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.46",
+      "article": "02",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.47",
+      "article": "02",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "02.48",
+      "article": "02",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.01",
+      "article": "03",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.02",
+      "article": "03",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.03",
+      "article": "03",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.04",
+      "article": "03",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.05",
+      "article": "03",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.06",
+      "article": "03",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.07",
+      "article": "03",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.08",
+      "article": "03",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.09",
+      "article": "03",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.10",
+      "article": "03",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.11",
+      "article": "03",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.12",
+      "article": "03",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.13",
+      "article": "03",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.14",
+      "article": "03",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.15",
+      "article": "03",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.16",
+      "article": "03",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.17",
+      "article": "03",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.18",
+      "article": "03",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "省略／无动词让步结构"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.19",
+      "article": "03",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.20",
+      "article": "03",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.21",
+      "article": "03",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.22",
+      "article": "03",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.23",
+      "article": "03",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.24",
+      "article": "03",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.25",
+      "article": "03",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.26",
+      "article": "03",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.27",
+      "article": "03",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.28",
+      "article": "03",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.29",
+      "article": "03",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.30",
+      "article": "03",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.31",
+      "article": "03",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.32",
+      "article": "03",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.33",
+      "article": "03",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.34",
+      "article": "03",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.35",
+      "article": "03",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.36",
+      "article": "03",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.37",
+      "article": "03",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.38",
+      "article": "03",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.39",
+      "article": "03",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.40",
+      "article": "03",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.41",
+      "article": "03",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.42",
+      "article": "03",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.43",
+      "article": "03",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.44",
+      "article": "03",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.45",
+      "article": "03",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.46",
+      "article": "03",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "省略让步结构"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.47",
+      "article": "03",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.48",
+      "article": "03",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.49",
+      "article": "03",
+      "sentence": 49,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.50",
+      "article": "03",
+      "sentence": 50,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.51",
+      "article": "03",
+      "sentence": 51,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.52",
+      "article": "03",
+      "sentence": 52,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.53",
+      "article": "03",
+      "sentence": 53,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.54",
+      "article": "03",
+      "sentence": 54,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.55",
+      "article": "03",
+      "sentence": 55,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.56",
+      "article": "03",
+      "sentence": 56,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.57",
+      "article": "03",
+      "sentence": 57,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.58",
+      "article": "03",
+      "sentence": 58,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "插入省略"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.59",
+      "article": "03",
+      "sentence": 59,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.60",
+      "article": "03",
+      "sentence": 60,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.61",
+      "article": "03",
+      "sentence": 61,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.62",
+      "article": "03",
+      "sentence": 62,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.63",
+      "article": "03",
+      "sentence": 63,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.64",
+      "article": "03",
+      "sentence": 64,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.65",
+      "article": "03",
+      "sentence": 65,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "03.66",
+      "article": "03",
+      "sentence": 66,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.01",
+      "article": "04",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.02",
+      "article": "04",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.03",
+      "article": "04",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.04",
+      "article": "04",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.05",
+      "article": "04",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.06",
+      "article": "04",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.07",
+      "article": "04",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.08",
+      "article": "04",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.09",
+      "article": "04",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.10",
+      "article": "04",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.11",
+      "article": "04",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.12",
+      "article": "04",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.13",
+      "article": "04",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.14",
+      "article": "04",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.15",
+      "article": "04",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.16",
+      "article": "04",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "省略补充"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.17",
+      "article": "04",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.18",
+      "article": "04",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.19",
+      "article": "04",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.20",
+      "article": "04",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.21",
+      "article": "04",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.22",
+      "article": "04",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.23",
+      "article": "04",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.24",
+      "article": "04",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.25",
+      "article": "04",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "省略让步结构"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.26",
+      "article": "04",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.27",
+      "article": "04",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "省略并列主句二"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.28",
+      "article": "04",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.29",
+      "article": "04",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.30",
+      "article": "04",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.31",
+      "article": "04",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.32",
+      "article": "04",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.33",
+      "article": "04",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.34",
+      "article": "04",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.35",
+      "article": "04",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.36",
+      "article": "04",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.37",
+      "article": "04",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.38",
+      "article": "04",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.39",
+      "article": "04",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.40",
+      "article": "04",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.41",
+      "article": "04",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.42",
+      "article": "04",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.43",
+      "article": "04",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.44",
+      "article": "04",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.45",
+      "article": "04",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.46",
+      "article": "04",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.47",
+      "article": "04",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.48",
+      "article": "04",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.49",
+      "article": "04",
+      "sentence": 49,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.50",
+      "article": "04",
+      "sentence": 50,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.51",
+      "article": "04",
+      "sentence": 51,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.52",
+      "article": "04",
+      "sentence": 52,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.53",
+      "article": "04",
+      "sentence": 53,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.54",
+      "article": "04",
+      "sentence": 54,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.55",
+      "article": "04",
+      "sentence": 55,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.56",
+      "article": "04",
+      "sentence": 56,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.57",
+      "article": "04",
+      "sentence": 57,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.58",
+      "article": "04",
+      "sentence": 58,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.59",
+      "article": "04",
+      "sentence": 59,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.60",
+      "article": "04",
+      "sentence": 60,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.61",
+      "article": "04",
+      "sentence": 61,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.62",
+      "article": "04",
+      "sentence": 62,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.63",
+      "article": "04",
+      "sentence": 63,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.64",
+      "article": "04",
+      "sentence": 64,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.65",
+      "article": "04",
+      "sentence": 65,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.66",
+      "article": "04",
+      "sentence": 66,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "省略条件结构"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.67",
+      "article": "04",
+      "sentence": 67,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.68",
+      "article": "04",
+      "sentence": 68,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.69",
+      "article": "04",
+      "sentence": 69,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.70",
+      "article": "04",
+      "sentence": 70,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.71",
+      "article": "04",
+      "sentence": 71,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.72",
+      "article": "04",
+      "sentence": 72,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.73",
+      "article": "04",
+      "sentence": 73,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.74",
+      "article": "04",
+      "sentence": 74,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "04.75",
+      "article": "04",
+      "sentence": 75,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.01",
+      "article": "05",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.02",
+      "article": "05",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.03",
+      "article": "05",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.04",
+      "article": "05",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.05",
+      "article": "05",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.06",
+      "article": "05",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.07",
+      "article": "05",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.08",
+      "article": "05",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.09",
+      "article": "05",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.10",
+      "article": "05",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.11",
+      "article": "05",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.12",
+      "article": "05",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.13",
+      "article": "05",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.14",
+      "article": "05",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.15",
+      "article": "05",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.16",
+      "article": "05",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.17",
+      "article": "05",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.18",
+      "article": "05",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.19",
+      "article": "05",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.20",
+      "article": "05",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.21",
+      "article": "05",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.22",
+      "article": "05",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.23",
+      "article": "05",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.24",
+      "article": "05",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.25",
+      "article": "05",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.26",
+      "article": "05",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.27",
+      "article": "05",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.28",
+      "article": "05",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.29",
+      "article": "05",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.30",
+      "article": "05",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.31",
+      "article": "05",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.32",
+      "article": "05",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.33",
+      "article": "05",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.34",
+      "article": "05",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.35",
+      "article": "05",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.36",
+      "article": "05",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.37",
+      "article": "05",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.38",
+      "article": "05",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.39",
+      "article": "05",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.40",
+      "article": "05",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.41",
+      "article": "05",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.42",
+      "article": "05",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.43",
+      "article": "05",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.44",
+      "article": "05",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.45",
+      "article": "05",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.46",
+      "article": "05",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.47",
+      "article": "05",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.48",
+      "article": "05",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.49",
+      "article": "05",
+      "sentence": 49,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.50",
+      "article": "05",
+      "sentence": 50,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.51",
+      "article": "05",
+      "sentence": 51,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.52",
+      "article": "05",
+      "sentence": 52,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.53",
+      "article": "05",
+      "sentence": 53,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.54",
+      "article": "05",
+      "sentence": 54,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.55",
+      "article": "05",
+      "sentence": 55,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.56",
+      "article": "05",
+      "sentence": 56,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.57",
+      "article": "05",
+      "sentence": 57,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.58",
+      "article": "05",
+      "sentence": 58,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.59",
+      "article": "05",
+      "sentence": 59,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.60",
+      "article": "05",
+      "sentence": 60,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.61",
+      "article": "05",
+      "sentence": 61,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.62",
+      "article": "05",
+      "sentence": 62,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.63",
+      "article": "05",
+      "sentence": 63,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.64",
+      "article": "05",
+      "sentence": 64,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.65",
+      "article": "05",
+      "sentence": 65,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.66",
+      "article": "05",
+      "sentence": 66,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.67",
+      "article": "05",
+      "sentence": 67,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.68",
+      "article": "05",
+      "sentence": 68,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.69",
+      "article": "05",
+      "sentence": 69,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.70",
+      "article": "05",
+      "sentence": 70,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.71",
+      "article": "05",
+      "sentence": 71,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.72",
+      "article": "05",
+      "sentence": 72,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.73",
+      "article": "05",
+      "sentence": 73,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.74",
+      "article": "05",
+      "sentence": 74,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.75",
+      "article": "05",
+      "sentence": 75,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.76",
+      "article": "05",
+      "sentence": 76,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.77",
+      "article": "05",
+      "sentence": 77,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.78",
+      "article": "05",
+      "sentence": 78,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.79",
+      "article": "05",
+      "sentence": 79,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "05.80",
+      "article": "05",
+      "sentence": 80,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.01",
+      "article": "06",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.02",
+      "article": "06",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.03",
+      "article": "06",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.04",
+      "article": "06",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 7,
+      "expectedClauses": 7,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.05",
+      "article": "06",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [
+        "存在主句①"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.06",
+      "article": "06",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.07",
+      "article": "06",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.08",
+      "article": "06",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.09",
+      "article": "06",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.10",
+      "article": "06",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.11",
+      "article": "06",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.12",
+      "article": "06",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.13",
+      "article": "06",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.14",
+      "article": "06",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.15",
+      "article": "06",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.16",
+      "article": "06",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.17",
+      "article": "06",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.18",
+      "article": "06",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [
+        "主句①"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.19",
+      "article": "06",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.20",
+      "article": "06",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.21",
+      "article": "06",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.22",
+      "article": "06",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.23",
+      "article": "06",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 5,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.24",
+      "article": "06",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.25",
+      "article": "06",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 5,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.26",
+      "article": "06",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.27",
+      "article": "06",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.28",
+      "article": "06",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.29",
+      "article": "06",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.30",
+      "article": "06",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.31",
+      "article": "06",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.32",
+      "article": "06",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.33",
+      "article": "06",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.34",
+      "article": "06",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.35",
+      "article": "06",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 5,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.36",
+      "article": "06",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.37",
+      "article": "06",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.38",
+      "article": "06",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.39",
+      "article": "06",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.40",
+      "article": "06",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.41",
+      "article": "06",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "省略插入"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.42",
+      "article": "06",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.43",
+      "article": "06",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.44",
+      "article": "06",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 5,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.45",
+      "article": "06",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.46",
+      "article": "06",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.47",
+      "article": "06",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.48",
+      "article": "06",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 6,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "06.49",
+      "article": "06",
+      "sentence": 49,
+      "sourceIntegrity": true,
+      "clauseRows": 10,
+      "expectedClauses": 9,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.01",
+      "article": "07",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.02",
+      "article": "07",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.03",
+      "article": "07",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.04",
+      "article": "07",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.05",
+      "article": "07",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.06",
+      "article": "07",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.07",
+      "article": "07",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.08",
+      "article": "07",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.09",
+      "article": "07",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.10",
+      "article": "07",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [
+        "非限制性定语从句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.11",
+      "article": "07",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.12",
+      "article": "07",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [
+        "内容从句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.13",
+      "article": "07",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.14",
+      "article": "07",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "压缩的共享修饰"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.15",
+      "article": "07",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [
+        "主句（并列谓语）"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.16",
+      "article": "07",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.17",
+      "article": "07",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.18",
+      "article": "07",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.19",
+      "article": "07",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.20",
+      "article": "07",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.21",
+      "article": "07",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.22",
+      "article": "07",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.23",
+      "article": "07",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.24",
+      "article": "07",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.25",
+      "article": "07",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.26",
+      "article": "07",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.27",
+      "article": "07",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.28",
+      "article": "07",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.29",
+      "article": "07",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "主句（并列补足与省略）"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.30",
+      "article": "07",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [
+        "主句①"
+      ],
+      "omissions": [
+        "省略主句②",
+        "省略主句③"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.31",
+      "article": "07",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.32",
+      "article": "07",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.33",
+      "article": "07",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.34",
+      "article": "07",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.35",
+      "article": "07",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.36",
+      "article": "07",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "感叹内容（省略）"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.37",
+      "article": "07",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.38",
+      "article": "07",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.39",
+      "article": "07",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.40",
+      "article": "07",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.41",
+      "article": "07",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [
+        "主句（并列谓语）"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.42",
+      "article": "07",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 3,
+      "unmatched": [
+        "原因从句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.43",
+      "article": "07",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.44",
+      "article": "07",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.45",
+      "article": "07",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.46",
+      "article": "07",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.47",
+      "article": "07",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "07.48",
+      "article": "07",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.01",
+      "article": "08",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.02",
+      "article": "08",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.03",
+      "article": "08",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [
+        "主句②"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.04",
+      "article": "08",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.05",
+      "article": "08",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.06",
+      "article": "08",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [
+        "内容从句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.07",
+      "article": "08",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [
+        "承接前句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.08",
+      "article": "08",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.09",
+      "article": "08",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.10",
+      "article": "08",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "主句",
+        "并列疑问内容作主语"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.11",
+      "article": "08",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.12",
+      "article": "08",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.13",
+      "article": "08",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.14",
+      "article": "08",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.15",
+      "article": "08",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.16",
+      "article": "08",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.17",
+      "article": "08",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.18",
+      "article": "08",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.19",
+      "article": "08",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.20",
+      "article": "08",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.21",
+      "article": "08",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.22",
+      "article": "08",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.23",
+      "article": "08",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.24",
+      "article": "08",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.25",
+      "article": "08",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.26",
+      "article": "08",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.27",
+      "article": "08",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.28",
+      "article": "08",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [
+        "省略的让步补充"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.29",
+      "article": "08",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [
+        "介词宾语从句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.30",
+      "article": "08",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.31",
+      "article": "08",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.32",
+      "article": "08",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.33",
+      "article": "08",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.34",
+      "article": "08",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [
+        "冒号后主句②（省略）"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.35",
+      "article": "08",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [
+        "主句（省略）"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.36",
+      "article": "08",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.37",
+      "article": "08",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.38",
+      "article": "08",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.39",
+      "article": "08",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.40",
+      "article": "08",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "主句（并列谓语）"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.41",
+      "article": "08",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.42",
+      "article": "08",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.43",
+      "article": "08",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.44",
+      "article": "08",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.45",
+      "article": "08",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.46",
+      "article": "08",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "使役补足"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.47",
+      "article": "08",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.48",
+      "article": "08",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.49",
+      "article": "08",
+      "sentence": 49,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.50",
+      "article": "08",
+      "sentence": 50,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.51",
+      "article": "08",
+      "sentence": 51,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.52",
+      "article": "08",
+      "sentence": 52,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.53",
+      "article": "08",
+      "sentence": 53,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.54",
+      "article": "08",
+      "sentence": 54,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.55",
+      "article": "08",
+      "sentence": 55,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.56",
+      "article": "08",
+      "sentence": 56,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.57",
+      "article": "08",
+      "sentence": 57,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.58",
+      "article": "08",
+      "sentence": 58,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.59",
+      "article": "08",
+      "sentence": 59,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.60",
+      "article": "08",
+      "sentence": 60,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.61",
+      "article": "08",
+      "sentence": 61,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.62",
+      "article": "08",
+      "sentence": 62,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.63",
+      "article": "08",
+      "sentence": 63,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [
+        "主句",
+        "并列不定式②"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.64",
+      "article": "08",
+      "sentence": 64,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "08.65",
+      "article": "08",
+      "sentence": 65,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.01",
+      "article": "09",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.02",
+      "article": "09",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.03",
+      "article": "09",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.04",
+      "article": "09",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.05",
+      "article": "09",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.06",
+      "article": "09",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.07",
+      "article": "09",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.08",
+      "article": "09",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.09",
+      "article": "09",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.10",
+      "article": "09",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.11",
+      "article": "09",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.12",
+      "article": "09",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [
+        "时间从句"
+      ],
+      "omissions": [
+        "承接省略",
+        "最后一项"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.13",
+      "article": "09",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.14",
+      "article": "09",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "主句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.15",
+      "article": "09",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.16",
+      "article": "09",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.17",
+      "article": "09",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "祈使主句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.18",
+      "article": "09",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.19",
+      "article": "09",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.20",
+      "article": "09",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "时间缩略结构"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.21",
+      "article": "09",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.22",
+      "article": "09",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.23",
+      "article": "09",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.24",
+      "article": "09",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.25",
+      "article": "09",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.26",
+      "article": "09",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.27",
+      "article": "09",
+      "sentence": 27,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.28",
+      "article": "09",
+      "sentence": 28,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "内容从句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.29",
+      "article": "09",
+      "sentence": 29,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.30",
+      "article": "09",
+      "sentence": 30,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.31",
+      "article": "09",
+      "sentence": 31,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [
+        "前半主句",
+        "定语从句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.32",
+      "article": "09",
+      "sentence": 32,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.33",
+      "article": "09",
+      "sentence": 33,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.34",
+      "article": "09",
+      "sentence": 34,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "让步介词短语"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.35",
+      "article": "09",
+      "sentence": 35,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.36",
+      "article": "09",
+      "sentence": 36,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.37",
+      "article": "09",
+      "sentence": 37,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "祈使主句②"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.38",
+      "article": "09",
+      "sentence": 38,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "插入介词短语"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.39",
+      "article": "09",
+      "sentence": 39,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.40",
+      "article": "09",
+      "sentence": 40,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.41",
+      "article": "09",
+      "sentence": 41,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.42",
+      "article": "09",
+      "sentence": 42,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.43",
+      "article": "09",
+      "sentence": 43,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.44",
+      "article": "09",
+      "sentence": 44,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [
+        "非限制性定语从句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.45",
+      "article": "09",
+      "sentence": 45,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.46",
+      "article": "09",
+      "sentence": 46,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "插入对照"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.47",
+      "article": "09",
+      "sentence": 47,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [
+        "主句"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.48",
+      "article": "09",
+      "sentence": 48,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 5,
+      "unmatched": [],
+      "omissions": [
+        "主句②省略"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.49",
+      "article": "09",
+      "sentence": 49,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "宾语从句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "09.50",
+      "article": "09",
+      "sentence": 50,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.01",
+      "article": "10",
+      "sentence": 1,
+      "sourceIntegrity": true,
+      "clauseRows": 5,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "已人工核查"
+    },
+    {
+      "id": "10.02",
+      "article": "10",
+      "sentence": 2,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "被动不定式定语"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.03",
+      "article": "10",
+      "sentence": 3,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [
+        "省略并列②③",
+        "分词与内层内容"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.04",
+      "article": "10",
+      "sentence": 4,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [
+        "省略主句②"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.05",
+      "article": "10",
+      "sentence": 5,
+      "sourceIntegrity": true,
+      "clauseRows": 9,
+      "expectedClauses": 9,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.06",
+      "article": "10",
+      "sentence": 6,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "主句",
+        "省略关系词的定语从句"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.07",
+      "article": "10",
+      "sentence": 7,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.08",
+      "article": "10",
+      "sentence": 8,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 4,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.09",
+      "article": "10",
+      "sentence": 9,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.10",
+      "article": "10",
+      "sentence": 10,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.11",
+      "article": "10",
+      "sentence": 11,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.12",
+      "article": "10",
+      "sentence": 12,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.13",
+      "article": "10",
+      "sentence": 13,
+      "sourceIntegrity": true,
+      "clauseRows": 13,
+      "expectedClauses": 13,
+      "unmatched": [
+        "定语从句②"
+      ],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.14",
+      "article": "10",
+      "sentence": 14,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.15",
+      "article": "10",
+      "sentence": 15,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "内部缩略修饰"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.16",
+      "article": "10",
+      "sentence": 16,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.17",
+      "article": "10",
+      "sentence": 17,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.18",
+      "article": "10",
+      "sentence": 18,
+      "sourceIntegrity": true,
+      "clauseRows": 6,
+      "expectedClauses": 6,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.19",
+      "article": "10",
+      "sentence": 19,
+      "sourceIntegrity": true,
+      "clauseRows": 11,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [
+        "外层主句",
+        "冒号后内心判断①",
+        "判断②",
+        "判断③",
+        "判断⑤",
+        "判断⑥的拟人展开"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.20",
+      "article": "10",
+      "sentence": 20,
+      "sourceIntegrity": true,
+      "clauseRows": 1,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.21",
+      "article": "10",
+      "sentence": 21,
+      "sourceIntegrity": true,
+      "clauseRows": 4,
+      "expectedClauses": 3,
+      "unmatched": [],
+      "omissions": [
+        "定语从句①",
+        "定语从句②"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.22",
+      "article": "10",
+      "sentence": 22,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.23",
+      "article": "10",
+      "sentence": 23,
+      "sourceIntegrity": true,
+      "clauseRows": 2,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.24",
+      "article": "10",
+      "sentence": 24,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 1,
+      "unmatched": [],
+      "omissions": [],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.25",
+      "article": "10",
+      "sentence": 25,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 0,
+      "unmatched": [],
+      "omissions": [
+        "并列疑问②"
+      ],
+      "status": "待人工核查"
+    },
+    {
+      "id": "10.26",
+      "article": "10",
+      "sentence": 26,
+      "sourceIntegrity": true,
+      "clauseRows": 3,
+      "expectedClauses": 2,
+      "unmatched": [],
+      "omissions": [
+        "宾语从句"
+      ],
+      "status": "待人工核查"
+    }
+  ]
+}

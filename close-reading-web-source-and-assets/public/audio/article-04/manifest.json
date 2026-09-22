@@ -1,0 +1,760 @@
+{
+  "articleId": "04",
+  "title": "Never Trust Appearances",
+  "author": "Author forthcoming",
+  "sourceAudio": "/audio-never-trust-appearances.mp3",
+  "paragraphCount": 13,
+  "sentenceCount": 75,
+  "sentences": [
+    {
+      "sentenceId": "a04-p01-s01",
+      "paragraphId": "a04-p01",
+      "text": "Rush hour in a provincial town is certainly not so busy as in London, but even so there are plenty of people moving about.",
+      "audioSrc": "/audio/article-04/a04-p01-s01.mp3",
+      "startTime": 3.4,
+      "endTime": 13.735,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p01-s02",
+      "paragraphId": "a04-p01",
+      "text": "Long, patient queues wait wearily for buses.",
+      "audioSrc": "/audio/article-04/a04-p01-s02.mp3",
+      "startTime": 13.735,
+      "endTime": 18.17,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p01-s03",
+      "paragraphId": "a04-p01",
+      "text": "Never-ending lines of cars are checked while red traffic lights change to green.",
+      "audioSrc": "/audio/article-04/a04-p01-s03.mp3",
+      "startTime": 18.17,
+      "endTime": 24.925,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p01-s04",
+      "paragraphId": "a04-p01",
+      "text": "Thousands of people are packed tightly in trains, the men's faces buried in their evening papers while women try in vain to knit.",
+      "audioSrc": "/audio/article-04/a04-p01-s04.mp3",
+      "startTime": 24.925,
+      "endTime": 35.175,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p01-s05",
+      "paragraphId": "a04-p01",
+      "text": "In a slow train it may well be an hour's journey to their station.",
+      "audioSrc": "/audio/article-04/a04-p01-s05.mp3",
+      "startTime": 35.175,
+      "endTime": 40.49,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p02-s01",
+      "paragraphId": "a04-p02",
+      "text": "James Saxon is in his usual comfortable corner, quietly smoking a cigarette.",
+      "audioSrc": "/audio/article-04/a04-p02-s01.mp3",
+      "startTime": 40.49,
+      "endTime": 48.07,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p02-s02",
+      "paragraphId": "a04-p02",
+      "text": "When he is travelling by train at this time, he always reaches the station at ten past five by the station clock, but he never catches the 5:14 train.",
+      "audioSrc": "/audio/article-04/a04-p02-s02.mp3",
+      "startTime": 48.07,
+      "endTime": 61.405,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p02-s03",
+      "paragraphId": "a04-p02",
+      "text": "Instead he travels by the train which leaves at twenty-four minutes past five so as to be sure of getting his corner seat.",
+      "audioSrc": "/audio/article-04/a04-p02-s03.mp3",
+      "startTime": 61.405,
+      "endTime": 71.75,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p02-s04",
+      "paragraphId": "a04-p02",
+      "text": "There are no first-class compartments or reserved seats on this train.",
+      "audioSrc": "/audio/article-04/a04-p02-s04.mp3",
+      "startTime": 71.75,
+      "endTime": 77.63,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p02-s05",
+      "paragraphId": "a04-p02",
+      "text": "He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds.",
+      "audioSrc": "/audio/article-04/a04-p02-s05.mp3",
+      "startTime": 77.63,
+      "endTime": 85.915,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p03-s01",
+      "paragraphId": "a04-p03",
+      "text": "Facing him this evening there is a Finnish youth of eighteen, Matti Arpola.",
+      "audioSrc": "/audio/article-04/a04-p03-s01.mp3",
+      "startTime": 85.915,
+      "endTime": 92.305,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p03-s02",
+      "paragraphId": "a04-p03",
+      "text": "This is his first visit to England, though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay.",
+      "audioSrc": "/audio/article-04/a04-p03-s02.mp3",
+      "startTime": 92.305,
+      "endTime": 103.03,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p04-s01",
+      "paragraphId": "a04-p04",
+      "text": "As there are several people standing, James Saxon is the only person he can see clearly.",
+      "audioSrc": "/audio/article-04/a04-p04-s01.mp3",
+      "startTime": 103.03,
+      "endTime": 109.88,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p04-s02",
+      "paragraphId": "a04-p04",
+      "text": "Matti decides that he is probably a typical Englishman, and he observes James carefully.",
+      "audioSrc": "/audio/article-04/a04-p04-s02.mp3",
+      "startTime": 109.88,
+      "endTime": 116.56,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s01",
+      "paragraphId": "a04-p05",
+      "text": "\"Can he really be typical?\" he thinks.",
+      "audioSrc": "/audio/article-04/a04-p05-s01.mp3",
+      "startTime": 116.56,
+      "endTime": 120.255,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s02",
+      "paragraphId": "a04-p05",
+      "text": "\"He has an umbrella, neatly rolled, but no bowler hat; in fact, no hat at all.",
+      "audioSrc": "/audio/article-04/a04-p05-s02.mp3",
+      "startTime": 120.255,
+      "endTime": 128.15,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s03",
+      "paragraphId": "a04-p05",
+      "text": "Of course, he is reading about cricket and he is reserved and not interested in other people.",
+      "audioSrc": "/audio/article-04/a04-p05-s03.mp3",
+      "startTime": 128.15,
+      "endTime": 134.505,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s04",
+      "paragraphId": "a04-p05",
+      "text": "But he is only of average height and his hair is not fair, but as dark as that of an Italian, and curly, with almost no parting.",
+      "audioSrc": "/audio/article-04/a04-p05-s04.mp3",
+      "startTime": 134.505,
+      "endTime": 144.755,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s05",
+      "paragraphId": "a04-p05",
+      "text": "He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.",
+      "audioSrc": "/audio/article-04/a04-p05-s05.mp3",
+      "startTime": 144.755,
+      "endTime": 154.645,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s06",
+      "paragraphId": "a04-p05",
+      "text": "His nose is slightly crooked.",
+      "audioSrc": "/audio/article-04/a04-p05-s06.mp3",
+      "startTime": 154.645,
+      "endTime": 157.125,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s07",
+      "paragraphId": "a04-p05",
+      "text": "What a serious face he has!",
+      "audioSrc": "/audio/article-04/a04-p05-s07.mp3",
+      "startTime": 157.125,
+      "endTime": 159.505,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s08",
+      "paragraphId": "a04-p05",
+      "text": "He is frowning a little, but the eyes beneath his worried-looking forehead are sincere and honest.",
+      "audioSrc": "/audio/article-04/a04-p05-s08.mp3",
+      "startTime": 159.505,
+      "endTime": 167.295,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p05-s09",
+      "paragraphId": "a04-p05",
+      "text": "I don't think he is intelligent.",
+      "audioSrc": "/audio/article-04/a04-p05-s09.mp3",
+      "startTime": 167.295,
+      "endTime": 170.1,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s01",
+      "paragraphId": "a04-p06",
+      "text": "\"His clothes are anything but smart.",
+      "audioSrc": "/audio/article-04/a04-p06-s01.mp3",
+      "startTime": 170.1,
+      "endTime": 173.615,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s02",
+      "paragraphId": "a04-p06",
+      "text": "In fact, they are rather old, though well-brushed.",
+      "audioSrc": "/audio/article-04/a04-p06-s02.mp3",
+      "startTime": 173.615,
+      "endTime": 178.44,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s03",
+      "paragraphId": "a04-p06",
+      "text": "Even though he is not wearing a wedding ring, he is probably married, with perhaps three children.",
+      "audioSrc": "/audio/article-04/a04-p06-s03.mp3",
+      "startTime": 178.44,
+      "endTime": 186.71,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s04",
+      "paragraphId": "a04-p06",
+      "text": "His gloves are fur-lined and his trousers well pressed.",
+      "audioSrc": "/audio/article-04/a04-p06-s04.mp3",
+      "startTime": 186.71,
+      "endTime": 191.315,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s05",
+      "paragraphId": "a04-p06",
+      "text": "He keeps far too many things in his pockets, so his suit looks badly out of shape.",
+      "audioSrc": "/audio/article-04/a04-p06-s05.mp3",
+      "startTime": 191.315,
+      "endTime": 198.855,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s06",
+      "paragraphId": "a04-p06",
+      "text": "What dull, old-fashioned leather shoes he is wearing!",
+      "audioSrc": "/audio/article-04/a04-p06-s06.mp3",
+      "startTime": 198.855,
+      "endTime": 203.52,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s07",
+      "paragraphId": "a04-p06",
+      "text": "His briefcase is old too and bulging, so that the zip-fastener does not close properly.",
+      "audioSrc": "/audio/article-04/a04-p06-s07.mp3",
+      "startTime": 203.52,
+      "endTime": 211.24,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s08",
+      "paragraphId": "a04-p06",
+      "text": "There are the initials J. S. on it.",
+      "audioSrc": "/audio/article-04/a04-p06-s08.mp3",
+      "startTime": 211.24,
+      "endTime": 214.83,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p06-s09",
+      "paragraphId": "a04-p06",
+      "text": "Is his name John Smith?",
+      "audioSrc": "/audio/article-04/a04-p06-s09.mp3",
+      "startTime": 214.83,
+      "endTime": 218.285,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s01",
+      "paragraphId": "a04-p07",
+      "text": "\"I think he is probably an office clerk or a shop assistant.",
+      "audioSrc": "/audio/article-04/a04-p07-s01.mp3",
+      "startTime": 218.285,
+      "endTime": 223.705,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s02",
+      "paragraphId": "a04-p07",
+      "text": "Does he look like a teacher, though?",
+      "audioSrc": "/audio/article-04/a04-p07-s02.mp3",
+      "startTime": 223.705,
+      "endTime": 226.515,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s03",
+      "paragraphId": "a04-p07",
+      "text": "Anyhow, he lives with a plain wife and five children in a small worker's house with a tiny garden, where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed.",
+      "audioSrc": "/audio/article-04/a04-p07-s03.mp3",
+      "startTime": 226.515,
+      "endTime": 241.275,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s04",
+      "paragraphId": "a04-p07",
+      "text": "But tonight, first he is helping his wife to put the children to bed and then he is taking her to the cinema as this is payday.",
+      "audioSrc": "/audio/article-04/a04-p07-s04.mp3",
+      "startTime": 241.275,
+      "endTime": 252.175,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s05",
+      "paragraphId": "a04-p07",
+      "text": "Or is he visiting the local pub?",
+      "audioSrc": "/audio/article-04/a04-p07-s05.mp3",
+      "startTime": 252.175,
+      "endTime": 255.36,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s06",
+      "paragraphId": "a04-p07",
+      "text": "Does he drink whisky (I believe most Englishmen do) or does he prefer beer?",
+      "audioSrc": "/audio/article-04/a04-p07-s06.mp3",
+      "startTime": 255.36,
+      "endTime": 263.305,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s07",
+      "paragraphId": "a04-p07",
+      "text": "I am sure he very much likes a cup of tea.",
+      "audioSrc": "/audio/article-04/a04-p07-s07.mp3",
+      "startTime": 263.305,
+      "endTime": 267.32,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s08",
+      "paragraphId": "a04-p07",
+      "text": "He seems quite energetic, but his complexion is pale and he is very thin.",
+      "audioSrc": "/audio/article-04/a04-p07-s08.mp3",
+      "startTime": 267.32,
+      "endTime": 273.69,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s09",
+      "paragraphId": "a04-p07",
+      "text": "Does he find it difficult to satisfy the needs of his miserable wife and seven unfortunate children?",
+      "audioSrc": "/audio/article-04/a04-p07-s09.mp3",
+      "startTime": 273.69,
+      "endTime": 281.17,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s10",
+      "paragraphId": "a04-p07",
+      "text": "Poor fellow!",
+      "audioSrc": "/audio/article-04/a04-p07-s10.mp3",
+      "startTime": 281.17,
+      "endTime": 282.73,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p07-s11",
+      "paragraphId": "a04-p07",
+      "text": "I am sorry for him.\"",
+      "audioSrc": "/audio/article-04/a04-p07-s11.mp3",
+      "startTime": 282.73,
+      "endTime": 285.585,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p08-s01",
+      "paragraphId": "a04-p08",
+      "text": "At last, shortly after a quarter past six by Matti's watch, the train reaches Lakewell Junction, and Matti immediately sees Geoffrey waiting for him.",
+      "audioSrc": "/audio/article-04/a04-p08-s01.mp3",
+      "startTime": 285.585,
+      "endTime": 298.49,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p08-s02",
+      "paragraphId": "a04-p08",
+      "text": "They greet each other.",
+      "audioSrc": "/audio/article-04/a04-p08-s02.mp3",
+      "startTime": 298.49,
+      "endTime": 300.605,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p08-s03",
+      "paragraphId": "a04-p08",
+      "text": "At first Matti cannot find his ticket, but it is discovered in his bulging coat pocket.",
+      "audioSrc": "/audio/article-04/a04-p08-s03.mp3",
+      "startTime": 300.605,
+      "endTime": 307.775,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p08-s04",
+      "paragraphId": "a04-p08",
+      "text": "He gives it up to the ticket-collector and the two boys go off to find Geoffrey's father's car.",
+      "audioSrc": "/audio/article-04/a04-p08-s04.mp3",
+      "startTime": 307.775,
+      "endTime": 315.19,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p08-s05",
+      "paragraphId": "a04-p08",
+      "text": "Near it there stands another car, a magnificent Rolls-Royce, and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in.",
+      "audioSrc": "/audio/article-04/a04-p08-s05.mp3",
+      "startTime": 315.19,
+      "endTime": 329.07,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p09-s01",
+      "paragraphId": "a04-p09",
+      "text": "\"Who is that?\" Matti asks.",
+      "audioSrc": "/audio/article-04/a04-p09-s01.mp3",
+      "startTime": 329.07,
+      "endTime": 332.125,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p09-s02",
+      "paragraphId": "a04-p09",
+      "text": "\"Why is he getting into that car?",
+      "audioSrc": "/audio/article-04/a04-p09-s02.mp3",
+      "startTime": 332.125,
+      "endTime": 334.855,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p09-s03",
+      "paragraphId": "a04-p09",
+      "text": "Where does he live?",
+      "audioSrc": "/audio/article-04/a04-p09-s03.mp3",
+      "startTime": 334.855,
+      "endTime": 336.79,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p09-s04",
+      "paragraphId": "a04-p09",
+      "text": "He looks like a poorly-paid clerk or a workman.\"",
+      "audioSrc": "/audio/article-04/a04-p09-s04.mp3",
+      "startTime": 336.79,
+      "endTime": 341.67,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p10-s01",
+      "paragraphId": "a04-p10",
+      "text": "Geoffrey laughs loudly as if this is a good joke.",
+      "audioSrc": "/audio/article-04/a04-p10-s01.mp3",
+      "startTime": 341.67,
+      "endTime": 347.01,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s01",
+      "paragraphId": "a04-p11",
+      "text": "\"That is Sir James Saxon,\" he replies.",
+      "audioSrc": "/audio/article-04/a04-p11-s01.mp3",
+      "startTime": 347.01,
+      "endTime": 351.045,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s02",
+      "paragraphId": "a04-p11",
+      "text": "He has a fortune of around two million pounds, and controls forty-two factories in this area alone.",
+      "audioSrc": "/audio/article-04/a04-p11-s02.mp3",
+      "startTime": 351.045,
+      "endTime": 358.545,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s03",
+      "paragraphId": "a04-p11",
+      "text": "He is a bachelor who lives in a fourth-storey luxury flat, so, if he feels like it, he can go off to the Riviera for a month or two.",
+      "audioSrc": "/audio/article-04/a04-p11-s03.mp3",
+      "startTime": 358.545,
+      "endTime": 369.605,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s04",
+      "paragraphId": "a04-p11",
+      "text": "Next week he is flying to Japan on business in his private aeroplane, though people say he very much prefers travelling by train.",
+      "audioSrc": "/audio/article-04/a04-p11-s04.mp3",
+      "startTime": 369.605,
+      "endTime": 379.955,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s05",
+      "paragraphId": "a04-p11",
+      "text": "He is said to have twenty-one suits, but he is always seen in the same old one.",
+      "audioSrc": "/audio/article-04/a04-p11-s05.mp3",
+      "startTime": 379.955,
+      "endTime": 386.4,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s06",
+      "paragraphId": "a04-p11",
+      "text": "By the way, I remember now.",
+      "audioSrc": "/audio/article-04/a04-p11-s06.mp3",
+      "startTime": 386.4,
+      "endTime": 389.535,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s07",
+      "paragraphId": "a04-p11",
+      "text": "His father and mother are both Finns: Perhaps that is why he takes no interest in cricket.",
+      "audioSrc": "/audio/article-04/a04-p11-s07.mp3",
+      "startTime": 389.535,
+      "endTime": 397.775,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s08",
+      "paragraphId": "a04-p11",
+      "text": "His real name is Jussi Saksalainen, but he is now a naturalised British subject with an English name.",
+      "audioSrc": "/audio/article-04/a04-p11-s08.mp3",
+      "startTime": 397.775,
+      "endTime": 407.615,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p11-s09",
+      "paragraphId": "a04-p11",
+      "text": "He doesn't look at all Finnish.",
+      "audioSrc": "/audio/article-04/a04-p11-s09.mp3",
+      "startTime": 407.615,
+      "endTime": 410.86,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s01",
+      "paragraphId": "a04-p12",
+      "text": "\"Here's your other case.",
+      "audioSrc": "/audio/article-04/a04-p12-s01.mp3",
+      "startTime": 410.86,
+      "endTime": 413.955,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s02",
+      "paragraphId": "a04-p12",
+      "text": "Put it down a minute while I unlock the car.",
+      "audioSrc": "/audio/article-04/a04-p12-s02.mp3",
+      "startTime": 413.955,
+      "endTime": 418.135,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s03",
+      "paragraphId": "a04-p12",
+      "text": "Do you enjoy gardening?",
+      "audioSrc": "/audio/article-04/a04-p12-s03.mp3",
+      "startTime": 418.135,
+      "endTime": 420.645,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s04",
+      "paragraphId": "a04-p12",
+      "text": "If so, you can help me: digging, weeding and mowing the lawn.",
+      "audioSrc": "/audio/article-04/a04-p12-s04.mp3",
+      "startTime": 420.645,
+      "endTime": 426.285,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s05",
+      "paragraphId": "a04-p12",
+      "text": "And I'm painting the tool shed tomorrow.",
+      "audioSrc": "/audio/article-04/a04-p12-s05.mp3",
+      "startTime": 426.285,
+      "endTime": 429.555,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s06",
+      "paragraphId": "a04-p12",
+      "text": "You don't know how to play cricket yet, but I'm taking you to a match on Saturday.",
+      "audioSrc": "/audio/article-04/a04-p12-s06.mp3",
+      "startTime": 429.555,
+      "endTime": 435.575,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s07",
+      "paragraphId": "a04-p12",
+      "text": "Can you speak English any better now?",
+      "audioSrc": "/audio/article-04/a04-p12-s07.mp3",
+      "startTime": 435.575,
+      "endTime": 438.6,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s08",
+      "paragraphId": "a04-p12",
+      "text": "You can soon lose that Finnish reserve.",
+      "audioSrc": "/audio/article-04/a04-p12-s08.mp3",
+      "startTime": 438.6,
+      "endTime": 442.03,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s09",
+      "paragraphId": "a04-p12",
+      "text": "Come along!",
+      "audioSrc": "/audio/article-04/a04-p12-s09.mp3",
+      "startTime": 442.03,
+      "endTime": 443.46,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s10",
+      "paragraphId": "a04-p12",
+      "text": "Let's get going!",
+      "audioSrc": "/audio/article-04/a04-p12-s10.mp3",
+      "startTime": 443.46,
+      "endTime": 444.75,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p12-s11",
+      "paragraphId": "a04-p12",
+      "text": "I'm hungry and hot.\"",
+      "audioSrc": "/audio/article-04/a04-p12-s11.mp3",
+      "startTime": 444.75,
+      "endTime": 447.08,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p13-s01",
+      "paragraphId": "a04-p13",
+      "text": "Matti remembers sadly all that his school-teachers say about his overactive and unreliable imagination.",
+      "audioSrc": "/audio/article-04/a04-p13-s01.mp3",
+      "startTime": 447.08,
+      "endTime": 455.52,
+      "verified": true,
+      "needsReview": false
+    },
+    {
+      "sentenceId": "a04-p13-s02",
+      "paragraphId": "a04-p13",
+      "text": "Perhaps they are right after all.",
+      "audioSrc": "/audio/article-04/a04-p13-s02.mp3",
+      "startTime": 455.52,
+      "endTime": 458.58,
+      "verified": true,
+      "needsReview": false
+    }
+  ]
+}

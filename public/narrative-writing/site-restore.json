@@ -1,0 +1,127 @@
+{
+  "schema": "narrative-writing-site/restore-v1",
+  "site_name": "Narrative Writing",
+  "source_commit": "3370b17ce2c9b1d38d4064e4e481bc7a8f807751",
+  "site_type": "static-html-css-javascript",
+  "entry_file": "site/index.html",
+  "publish_directory": "site",
+  "deployment": {
+    "netlify": {
+      "build_command": "",
+      "publish_directory": "site"
+    },
+    "vercel": {
+      "framework_preset": "Other",
+      "root_directory": "site",
+      "build_command": ""
+    }
+  },
+  "files": {
+    "html": "site/index.html",
+    "css": "site/styles.css",
+    "javascript": "site/app.js",
+    "assets_directory": "site/assets"
+  },
+  "homepage_title": {
+    "text": "Write What Matters",
+    "interaction": "The live text is replaced by its matching transparent flower-letter sticker on pointer hover or touch, then returns on exit.",
+    "character_mapping": [
+      {
+        "position": 1,
+        "character": "W",
+        "source_flower": "site/assets/title-flowers/01.png",
+        "sticker": "site/assets/flower-letter-stickers/01-W.webp"
+      },
+      {
+        "position": 2,
+        "character": "r",
+        "source_flower": "site/assets/title-flowers/02.png",
+        "sticker": "site/assets/flower-letter-stickers/02-r.webp"
+      },
+      {
+        "position": 3,
+        "character": "i",
+        "source_flower": "site/assets/title-flowers/03.png",
+        "sticker": "site/assets/flower-letter-stickers/03-i.webp"
+      },
+      {
+        "position": 4,
+        "character": "t",
+        "source_flower": "site/assets/title-flowers/04.png",
+        "sticker": "site/assets/flower-letter-stickers/04-t.webp"
+      },
+      {
+        "position": 5,
+        "character": "e",
+        "source_flower": "site/assets/title-flowers/05.png",
+        "sticker": "site/assets/flower-letter-stickers/05-e.webp"
+      },
+      {
+        "position": 6,
+        "character": "W",
+        "source_flower": "site/assets/title-flowers/06.png",
+        "sticker": "site/assets/flower-letter-stickers/06-W.webp"
+      },
+      {
+        "position": 7,
+        "character": "h",
+        "source_flower": "site/assets/title-flowers/07.png",
+        "sticker": "site/assets/flower-letter-stickers/07-h.webp"
+      },
+      {
+        "position": 8,
+        "character": "a",
+        "source_flower": "site/assets/title-flowers/08.png",
+        "sticker": "site/assets/flower-letter-stickers/08-a.webp"
+      },
+      {
+        "position": 9,
+        "character": "t",
+        "source_flower": "site/assets/title-flowers/09.png",
+        "sticker": "site/assets/flower-letter-stickers/09-t.webp"
+      },
+      {
+        "position": 10,
+        "character": "M",
+        "source_flower": "site/assets/title-flowers/10.png",
+        "sticker": "site/assets/flower-letter-stickers/10-M.webp"
+      },
+      {
+        "position": 11,
+        "character": "a",
+        "source_flower": "site/assets/title-flowers/11.png",
+        "sticker": "site/assets/flower-letter-stickers/11-a.webp"
+      },
+      {
+        "position": 12,
+        "character": "t",
+        "source_flower": "site/assets/title-flowers/12.png",
+        "sticker": "site/assets/flower-letter-stickers/12-t.webp"
+      },
+      {
+        "position": 13,
+        "character": "t",
+        "source_flower": "site/assets/title-flowers/13.png",
+        "sticker": "site/assets/flower-letter-stickers/13-t.webp"
+      },
+      {
+        "position": 14,
+        "character": "e",
+        "source_flower": "site/assets/title-flowers/14.png",
+        "sticker": "site/assets/flower-letter-stickers/14-e.webp"
+      },
+      {
+        "position": 15,
+        "character": "r",
+        "source_flower": "site/assets/title-flowers/15.png",
+        "sticker": "site/assets/flower-letter-stickers/15-r.webp"
+      },
+      {
+        "position": 16,
+        "character": "s",
+        "source_flower": "site/assets/title-flowers/16.png",
+        "sticker": "site/assets/flower-letter-stickers/16-s.webp"
+      }
+    ]
+  }
+}
