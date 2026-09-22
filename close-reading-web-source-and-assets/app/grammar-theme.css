@@ -1,0 +1,29 @@
+/* Shared across Article 01–10. Labels and coloured rules always carry the same role. */
+.student-workspace-v2[data-article-id] :is(.subject){--grammar-ink:#a52a2a;--grammar-colour:#c84040;--grammar-tint:#f8dfdc}
+.student-workspace-v2[data-article-id] :is(.predicate){--grammar-ink:#973368;--grammar-colour:#d45c9b;--grammar-tint:#f9e1ee}
+.student-workspace-v2[data-article-id] :is(.object){--grammar-ink:#245b99;--grammar-colour:#357fbc;--grammar-tint:#dfeef8}
+.student-workspace-v2[data-article-id] :is(.complement){--grammar-ink:#654192;--grammar-colour:#9064b4;--grammar-tint:#ebe3f5}
+.student-workspace-v2[data-article-id] :is(.modifier){--grammar-ink:#006c70;--grammar-colour:#009499;--grammar-tint:#dcefeb}
+.student-workspace-v2[data-article-id] :is(.adverbial){--grammar-ink:#856006;--grammar-colour:#bb900d;--grammar-tint:#f6edc9}
+.student-workspace-v2[data-article-id] :is(.clause){--grammar-ink:#426824;--grammar-colour:#679448;--grammar-tint:#e5efd9}
+.student-workspace-v2[data-article-id] :is(.linker){--grammar-ink:#555d68;--grammar-colour:#858c98;--grammar-tint:#e9eaed}
+.student-workspace-v2[data-article-id] .notebook-function-part[class],.student-workspace-v2[data-article-id] .function-unit[class]{--role:var(--grammar-colour)}
+.student-workspace-v2[data-article-id] .notebook-function-part[class] small,.student-workspace-v2[data-article-id] .function-unit[class] small{color:var(--grammar-ink);background:var(--grammar-tint);border:0;border-radius:4px 4px 0 0;padding:5px 8px;font:400 .9375rem/1.5 Georgia,"Songti SC",serif}
+.student-workspace-v2[data-article-id] .notebook-function-part[class]>span,.student-workspace-v2[data-article-id] .function-unit[class] strong{font-size:1.1875rem;line-height:1.65;border-bottom:3px solid var(--grammar-colour);padding:5px 8px;white-space:pre-wrap}
+.student-workspace-v2[data-article-id] .role-legend i[class]{color:var(--grammar-ink);background:var(--grammar-tint)}
+.student-workspace-v2[data-article-id] .grammar-colour-legend{display:flex;flex-wrap:wrap;gap:10px 18px;margin:0 0 22px;padding:12px 0 18px;border-bottom:1px solid #c5bba7;font:14px/1.5 Georgia,"Songti SC",serif}
+.student-workspace-v2[data-article-id] .grammar-colour-legend>span{display:flex;align-items:center;gap:6px;color:var(--grammar-ink)}
+.student-workspace-v2[data-article-id] .grammar-colour-legend>span b{font:600 14px/1.4 Georgia,serif}
+.student-workspace-v2[data-article-id] .grammar-colour-legend i{width:9px;height:9px;display:inline-block;border-radius:2px;background:var(--grammar-colour)}
+.student-workspace-v2[data-article-id] .grammar-colour-legend small{font-size:13px;color:#716958}
+.student-workspace-v2[data-article-id] .notebook-analysis-card{position:relative;border:1px solid #c6b798;border-radius:3px 20px 5px 7px;background:linear-gradient(100deg,#fffaf1d9,#f5ecd6aa),url('/sentence-studio/paper-sheet.png') center bottom/115% 130% no-repeat;box-shadow:0 2px 2px #5c48291c,0 9px 17px -9px #513e3b66,inset 0 1px 0 #fffef7;isolation:isolate}
+.student-workspace-v2[data-article-id] .notebook-analysis-card:after{content:"";position:absolute;right:0;top:0;width:24px;height:24px;background:linear-gradient(225deg,#ede2cc 48%,#cfc0a4 50%,#f9f2e3 55%);border-radius:0 18px 0 5px;box-shadow:-2px 2px 4px #735b2821;pointer-events:none;z-index:-1}
+.student-workspace-v2[data-article-id] .notebook-analysis-card>header{padding:21px 26px;gap:20px}
+.student-workspace-v2[data-article-id] .notebook-analysis-card h2{font-size:1.25rem;letter-spacing:.01em}
+.student-workspace-v2[data-article-id] .notebook-analysis-card header p{font-size:.9375rem}
+.student-workspace-v2[data-article-id] .notebook-analysis-card header span{font-size:.9375rem;line-height:1.7}
+.student-workspace-v2[data-article-id] .notebook-analysis-card header button{font-size:.875rem;padding:9px 13px;min-height:42px;border-radius:5px;box-shadow:0 1px 2px #5d49251c}
+.student-workspace-v2[data-article-id] .notebook-clause-row>p{font-size:1.1875rem;line-height:1.7}
+.student-workspace-v2[data-article-id] .notebook-clause-row>span{font-size:.9375rem}
+.student-workspace-v2[data-article-id] .notebook-analysis-note{font-size:1rem;line-height:1.85}
+@media(max-width:600px){.student-workspace-v2[data-article-id] .notebook-analysis-card>header{padding:20px 18px}.student-workspace-v2[data-article-id] .notebook-function-part[class]>span,.student-workspace-v2[data-article-id] .function-unit[class] strong,.student-workspace-v2[data-article-id] .notebook-clause-row>p{font-size:1.0625rem}.student-workspace-v2[data-article-id] .grammar-colour-legend{gap:10px 14px}}

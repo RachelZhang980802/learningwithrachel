@@ -1,0 +1,298 @@
+@font-face{font-family:"Notebook Typewriter";src:url("/fonts/special-elite/SpecialElite-Regular.ttf") format("truetype");font-weight:400;font-style:normal;font-display:swap}
+
+/* Deliberately scoped to the first article's sentence lesson. */
+.article-one-notebook{--notebook-ink:#3b3024;--notebook-rust:#99482f;--notebook-line:#c8b99c;--notebook-type:"Notebook Typewriter","Special Elite","Courier New",monospace;min-height:100vh;background:#e7d8ba;color:var(--notebook-ink);padding:24px 28px 38px;font:16px/1.6 Georgia,"Songti SC",serif}
+.article-one-notebook button{cursor:pointer;touch-action:manipulation}
+.article-one-notebook button:disabled{cursor:default;opacity:.4}
+.article-one-notebook :is(button,a,input,summary):focus-visible{outline:2px solid var(--notebook-rust);outline-offset:5px}
+.article-one-notebook .notebook-icon{display:inline-block;width:24px;height:24px;flex-shrink:0;vertical-align:middle;filter:sepia(.6)}
+.article-one-notebook .notebook-top{max-width:1370px;margin:0 auto 28px;padding:0 0 16px;display:flex;align-items:center;gap:24px;border-bottom:1px solid #b39a75}
+.article-one-notebook .notebook-top>span{font-size:21px;flex:1}
+.article-one-notebook .notebook-exit{display:flex;gap:8px;align-items:center;border:0;background:none;font-size:14px}
+.article-one-notebook .notebook-jump{position:relative;color:var(--notebook-rust);font:16px/1.4 var(--notebook-type);z-index:20}
+.article-one-notebook .notebook-jump>summary{display:flex;align-items:center;gap:10px;cursor:pointer;min-height:44px;list-style:none;white-space:nowrap}
+.article-one-notebook summary::-webkit-details-marker{display:none}
+.article-one-notebook .notebook-jump nav{position:absolute;right:0;top:100%;width:min(380px,85vw);padding:20px;background:#fbf5e8;border:1px solid var(--notebook-line);border-radius:8px;box-shadow:0 8px 28px #48351c26;color:var(--notebook-ink)}
+.article-one-notebook .notebook-jump nav>div+div{margin-top:14px}
+.article-one-notebook .notebook-jump nav b{display:block;font-size:13px;margin-bottom:6px}
+.article-one-notebook .notebook-jump nav>div>div{display:flex;gap:5px;flex-wrap:wrap}
+.article-one-notebook .notebook-jump nav button{width:39px;min-height:39px;border:1px solid #cbbda3;border-radius:4px;background:none}
+.article-one-notebook .notebook-jump nav button[aria-current=true]{background:var(--notebook-rust);color:#fff6e5}
+.article-one-notebook .notebook-folder{max-width:1370px;margin:auto;display:grid;grid-template-columns:112px minmax(0,1fr);align-items:stretch;scroll-margin-top:20px;perspective:1800px}
+.article-one-notebook .notebook-folder.is-front-only{grid-template-columns:minmax(0,1fr)}
+.article-one-notebook .notebook-tabs{display:grid;grid-template-rows:repeat(var(--notebook-tab-count,4),1fr);max-height:735px;padding:55px 0 64px;gap:4px;position:relative;z-index:2}
+.article-one-notebook .notebook-tab{border:1px solid #aa947466;border-right:0;border-radius:14px 0 0 14px;padding:22px 8px;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:16px;box-shadow:0 3px 5px #46352025;font:19px/1.4 var(--notebook-type);transition:padding .15s,background-color .15s,color .15s}
+.article-one-notebook .notebook-tab-words{background:#dce0c8}.article-one-notebook .notebook-tab-structure{background:#d6e0de}.article-one-notebook .notebook-tab-meaning,.article-one-notebook .notebook-tab-translation{background:#eeddab}.article-one-notebook .notebook-tab-practice{background:#eed1bd}
+.article-one-notebook .notebook-tab[aria-pressed=true]{background:#a74e34;color:#fff7e8}.article-one-notebook .notebook-tab[aria-pressed=true] img{filter:invert(1)}
+.article-one-notebook .notebook-tab:hover{padding-left:16px}
+.article-one-notebook .notebook-sheet{position:relative;min-width:0;min-height:795px;display:flex;flex-direction:column;border:1px solid #c3b293;border-radius:15px 18px 13px 17px;background:#faf2e2 url("/sentence-studio/paper-sheet.png") center bottom/115% 130% no-repeat;box-shadow:0 12px 24px #5b432321,-5px 4px 0 -1px #eaddc4,-9px 7px 0 -3px #c0a986;isolation:isolate}
+.article-one-notebook .notebook-face{flex:1;min-width:0;transform-origin:left center;animation:notebook-page-in .42s ease backwards}
+.article-one-notebook .notebook-front{padding:65px clamp(32px,5.7vw,86px) 10px;display:flex;flex-direction:column}
+.article-one-notebook .notebook-badge{display:flex;align-items:center;gap:22px;position:relative;z-index:5;text-align:left;min-height:86px}
+.article-one-notebook .notebook-badge>img{object-fit:contain;width:154px;height:86px;flex-shrink:0}
+.article-one-notebook .notebook-badge summary{cursor:pointer;color:var(--notebook-rust);list-style:none;font:21px/1.5 Georgia,"Songti SC",serif}
+.article-one-notebook .notebook-badge details>div{position:absolute;top:100%;left:0;width:min(570px,100%);padding:18px 22px;background:#fff9ec;border:1px solid var(--notebook-line);border-radius:8px;box-shadow:0 6px 18px #48321b1a;font:16px/1.8 Georgia,"Songti SC",serif;z-index:8}
+.article-one-notebook .notebook-badge details p{margin:0 0 8px}.article-one-notebook .notebook-badge details small{font-size:13px;color:#73634d}
+.article-one-notebook .notebook-original{margin:42px 0 32px;font:400 clamp(30px,3.4vw,50px)/1.65 var(--notebook-type);letter-spacing:-.02em;min-height:220px;display:flex;align-items:center;justify-content:center;text-align:center;flex:1;overflow-wrap:normal;word-break:normal;line-break:strict;hanging-punctuation:first last;color:#352d23}
+.article-one-notebook .notebook-original.is-long{font-size:clamp(26px,2.65vw,38px);line-height:1.65}
+.article-one-notebook .notebook-player{display:flex;align-items:center;gap:22px;color:var(--notebook-rust);font:22px/1.4 var(--notebook-type);flex-wrap:wrap}
+.article-one-notebook .notebook-player audio{display:none}
+.article-one-notebook .notebook-play{border:1px solid var(--notebook-rust);border-radius:50%;width:54px;height:54px;background:none;display:grid;place-items:center}
+.article-one-notebook .notebook-player input{flex:1;min-width:70px;height:28px;accent-color:var(--notebook-rust);cursor:pointer}
+.article-one-notebook .notebook-player p{width:100%;margin:0;font-size:14px}
+.article-one-notebook .notebook-draw-row{display:flex;justify-content:flex-end;margin:92px -26px 22px 0}
+.article-one-notebook .notebook-draw{width:300px;position:relative;background:#f6ecd8;border:1px solid #d7c8aa;border-radius:3px;box-shadow:0 3px 6px #684d2920;padding:12px 15px 8px}
+.article-one-notebook .notebook-draw-cat{position:absolute;top:-64px;left:50%;right:auto;width:84px;height:84px;z-index:2;padding:0;border:0;background:none;mix-blend-mode:multiply;transform:translate(calc(-50% + var(--cat-offset-x, 0px)),var(--cat-offset-y, 0px));cursor:grab;touch-action:none;user-select:none}
+.article-one-notebook .notebook-draw-cat.is-cat-dragging{cursor:grabbing}
+.article-one-notebook .notebook-draw-cat img{display:block;width:100%;height:100%;object-fit:contain;pointer-events:none;-webkit-user-drag:none}
+.article-one-notebook .notebook-draw-cat:disabled{opacity:1}
+.article-one-notebook .notebook-draw-main{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.article-one-notebook .notebook-draw-main span{font-size:14px;display:block}
+.article-one-notebook .notebook-draw-main output{display:block;font:30px/1.2 var(--notebook-type);margin-top:3px;min-height:36px}
+.article-one-notebook .notebook-draw-main>button{background:none;color:var(--notebook-rust);border:0;border-bottom:1px solid #a57850;padding:4px 0;display:flex;align-items:center;gap:5px;font-size:17px}
+.article-one-notebook .notebook-draw-main>button img{width:18px;height:18px}
+.article-one-notebook .notebook-draw-bottom{display:flex;justify-content:space-between;gap:8px;border-top:1px dashed #bba98b;padding-top:7px;margin-top:5px}
+.article-one-notebook .notebook-draw-bottom small{font-size:12px;white-space:nowrap}
+.article-one-notebook .notebook-cat-reset{margin-left:auto;padding:0;border:0;border-bottom:1px solid #bba98b;background:none;color:#8f634b;font:11px/1.4 Georgia,"Songti SC",serif;white-space:nowrap}
+.article-one-notebook .notebook-draw-bottom summary{font-size:13px;cursor:pointer;color:var(--notebook-rust);list-style:disclosure-closed}
+.article-one-notebook .notebook-draw-bottom details[open] summary{list-style:disclosure-open}
+.article-one-notebook .notebook-draw-history{position:absolute;top:100%;right:0;width:300px;background:#fff7e7;border:1px solid var(--notebook-line);padding:12px 15px;box-shadow:0 4px 12px #60452622;font-size:14px;z-index:8}
+.article-one-notebook .notebook-draw-history p{margin:0 0 8px}
+.article-one-notebook .notebook-draw-history button{border:0;background:none;text-decoration:underline;color:var(--notebook-rust);padding:5px 0}
+.article-one-notebook .notebook-draw.is-drawing .notebook-draw-cat{animation:notebook-cat-bob-centered .24s ease 2}
+.article-one-notebook .notebook-footer{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:15px 46px 28px}
+.article-one-notebook .notebook-footer button,.article-one-notebook .notebook-back-header button{display:flex;align-items:center;gap:12px;background:none;border:0;color:var(--notebook-rust);font-size:20px;min-height:44px;white-space:nowrap}
+.article-one-notebook .notebook-footer p{font-size:16px;color:#7c684b;margin:0;text-align:center}
+.article-one-notebook .notebook-back{padding:30px 38px 25px}
+.article-one-notebook .notebook-back-header{display:flex;justify-content:space-between;align-items:center;padding-right:45px;margin-bottom:22px;color:#7b674b;font:16px var(--notebook-type)}
+.article-one-notebook .notebook-back-header button{font-size:16px}
+.article-one-notebook .notebook-context,.article-one-notebook .word-context{background:#eae1ce;border-radius:7px;margin:0;padding:14px 22px 20px;text-align:left}
+.article-one-notebook .notebook-context>p,.article-one-notebook .word-context{font:23px/1.6 var(--notebook-type)}
+.article-one-notebook .notebook-context>p{margin:12px 0 0}
+.article-one-notebook .notebook-badge.is-compact{min-height:44px;gap:15px;margin:0 0 10px}
+.article-one-notebook .notebook-badge.is-compact>img{width:76px;height:44px}
+.article-one-notebook .notebook-badge.is-compact summary{font-size:15px}
+.article-one-notebook .notebook-content{min-width:0}
+.article-one-notebook .word-workspace{border:0}
+.article-one-notebook .word-workspace>.word-context{order:-1}
+.article-one-notebook .word-picker{padding:20px 0;gap:10px}
+.article-one-notebook .word-picker>span{font-size:12px}
+.article-one-notebook .word-picker button{font-size:16px;padding:8px 12px}
+.article-one-notebook .word-workspace{display:flex;flex-direction:column}
+.article-one-notebook .word-file-desk{margin-top:22px}
+.article-one-notebook .student-existing-content{padding:25px 0}
+.article-one-notebook .student-subtabs{gap:12px}
+.article-one-notebook .student-subtabs button{font-size:16px;min-height:42px}
+.article-one-notebook .lexi-structure{padding-top:25px;gap:20px}
+.article-one-notebook .lexi-module{background:#fff9ec99;border:1px solid #caba99;border-radius:10px;overflow:hidden}
+.article-one-notebook .lexi-module h2{font:26px/1.4 var(--notebook-type)!important;color:var(--notebook-ink)}
+.article-one-notebook .lexi-module h2 span{display:block;font:22px/1.6 Georgia,"Songti SC",serif;margin-top:5px}
+.article-one-notebook .lexi-turn{padding:28px 30px!important}
+.article-one-notebook .lexi-turn>p{font:16px/1.6 Georgia,"Songti SC",serif}
+.article-one-notebook .lexi-turn>p.lexi-step{font:12px/1.6 var(--notebook-type);color:#7b6648}
+.article-one-notebook .lexi-turn button,.article-one-notebook .return-turn{border:1px solid #b09a74;background:none;color:var(--notebook-rust);font:16px/1.5 Georgia,"Songti SC",serif;padding:10px 18px;border-radius:4px}
+.article-one-notebook .lexi-module.is-open{animation:notebook-inner-flip .36s ease}
+.article-one-notebook .clause-module-head,.article-one-notebook .functions-answer{padding:26px!important}
+.article-one-notebook .clause-unit{grid-template-columns:35px minmax(150px,26%) minmax(0,1fr);padding:15px;gap:16px}
+.article-one-notebook .clause-unit b{font-size:13px;overflow-wrap:anywhere}
+.article-one-notebook .clause-unit>span{font:22px/1.6 Georgia,serif;overflow-wrap:break-word}
+.article-one-notebook .clause-unit>em{font-size:18px}
+.article-one-notebook .function-line{display:block}
+.article-one-notebook .function-line>b{display:block;font-size:13px;padding:12px 18px}
+.article-one-notebook .function-unit{min-width:0;max-width:100%}
+.article-one-notebook .function-unit strong{font:23px/1.6 Georgia,serif;white-space:normal;overflow-wrap:break-word}
+.article-one-notebook .function-unit small{font-size:14px;white-space:normal}
+.article-one-notebook .structure-review-note{font:17px/1.8 Georgia,"Songti SC",serif;white-space:pre-wrap;margin:18px 26px}
+.article-one-notebook .notebook-structure{display:grid;gap:22px;padding-top:24px}
+.article-one-notebook .notebook-analysis-card{background:#f7ecd9a6;border:1px solid #caba9b;border-radius:10px;box-shadow:0 3px 5px #59422714;min-width:0}
+.article-one-notebook .notebook-analysis-card>header{display:flex;align-items:center;justify-content:space-between;gap:25px;padding:22px 28px}
+.article-one-notebook .notebook-analysis-card h2{margin:0;color:var(--notebook-rust);font:24px/1.4 Georgia,"Songti SC",serif}
+.article-one-notebook .notebook-analysis-card header p{margin:2px 0 5px;font:18px/1.5 Georgia,serif}
+.article-one-notebook .notebook-analysis-card header span{font:17px/1.6 Georgia,"Songti SC",serif}
+.article-one-notebook .notebook-analysis-card header button{flex-shrink:0;padding:10px 16px;border:1px dashed #ac8062;border-radius:13px;background:#fffaf099;font:16px/1.5 Georgia,"Songti SC",serif;color:var(--notebook-rust)}
+.article-one-notebook .notebook-analysis-answer{padding:0 28px 24px;min-width:0;animation:notebook-inner-flip .3s ease}
+.article-one-notebook .notebook-structure .notebook-analysis-card{perspective:1400px;overflow:hidden}
+.article-one-notebook .notebook-structure .notebook-analysis-card-inner{position:relative;display:grid;min-height:150px;transform-style:preserve-3d;transition:transform .62s cubic-bezier(.2,.78,.22,1)}
+.article-one-notebook .notebook-structure .notebook-analysis-card.is-open .notebook-analysis-card-inner{transform:rotateY(180deg)}
+.article-one-notebook .notebook-structure .notebook-analysis-card-face{grid-area:1/1;min-width:0;backface-visibility:hidden;background:linear-gradient(100deg,#fffaf1f2,#f5ecd6eb),url('/sentence-studio/paper-sheet.png') center bottom/115% 130% no-repeat}
+.article-one-notebook .notebook-structure .notebook-analysis-card-front{position:relative;z-index:1;min-height:150px;pointer-events:auto}
+.article-one-notebook .notebook-structure .notebook-analysis-card-back{position:absolute;inset:0;z-index:2;transform:rotateY(180deg);overflow:hidden;pointer-events:none}
+.article-one-notebook .notebook-structure .notebook-analysis-card.is-open .notebook-analysis-card-front{position:absolute;inset:0;pointer-events:none}
+.article-one-notebook .notebook-structure .notebook-analysis-card.is-open .notebook-analysis-card-back{position:relative;inset:auto;min-height:100%;overflow:visible;pointer-events:auto}
+.article-one-notebook .notebook-structure .notebook-analysis-card-face>header{display:flex;align-items:center;justify-content:space-between;gap:25px;padding:22px 28px}
+.article-one-notebook .notebook-structure .notebook-analysis-card-face h2{margin:0;color:var(--notebook-rust);font:24px/1.4 Georgia,"Songti SC",serif;letter-spacing:.01em}
+.article-one-notebook .notebook-structure .notebook-analysis-card-face header p{margin:2px 0 0;font:18px/1.5 Georgia,serif}
+.article-one-notebook .notebook-structure .notebook-analysis-card-face header button{flex-shrink:0;padding:10px 16px;border:1px dashed #ac8062;border-radius:13px;background:#fffaf1e8;font:16px/1.5 Georgia,"Songti SC",serif;color:var(--notebook-rust);box-shadow:0 1px 2px #5d49251c}
+.article-one-notebook .notebook-structure .notebook-analysis-card-back .notebook-analysis-answer{padding-top:0}
+.article-one-notebook .notebook-clause-rows{position:relative;display:grid;gap:15px;padding:31px 20px 43px;background-color:#fbfaf5f2;background-image:radial-gradient(circle at 15% 20%,#ffffffaa 0 1px,transparent 1.5px),radial-gradient(circle at 80% 70%,#e5e1d62e 0 1px,transparent 1.5px),linear-gradient(135deg,#fffefb,#f3f2ec);background-size:17px 17px,23px 23px,100% 100%;border:0;border-radius:1px;box-shadow:5px 7px 0 #8f77501c,0 14px 22px #6d55212e;backdrop-filter:blur(2px) saturate(.9);transform:rotate(-.25deg)}
+.article-one-notebook .notebook-clause-rows::before,.article-one-notebook .notebook-function-parts::before{content:"memo";position:absolute;top:10px;left:0;right:0;text-align:center;color:#16879a;font:italic 600 22px/1.2 "Comic Sans MS",cursive;letter-spacing:.08em;pointer-events:none}
+.article-one-notebook .notebook-clause-row{padding:0 0 10px;border-bottom:1px solid #c9bca4;--role:#697551}
+.article-one-notebook .notebook-clause-row.main{--role:#9d5039}.article-one-notebook .notebook-clause-row.nonfinite{--role:#94742d}.article-one-notebook .notebook-clause-row.supplement{--role:#787276}
+.article-one-notebook .notebook-clause-row>span{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px;color:var(--role);font-size:17px;text-align:center}
+.article-one-notebook .notebook-clause-row>span strong{font:600 20px/1.4 var(--notebook-type);letter-spacing:.01em}
+.article-one-notebook .notebook-clause-row small{font:16px/1.4 Georgia,"Songti SC",serif;color:#6d6251}
+.article-one-notebook .notebook-clause-row>p{font:23px/1.6 var(--notebook-type);margin:5px 0 0;overflow-wrap:break-word;text-align:center}
+.article-one-notebook .notebook-function-parts{position:relative;display:flex;align-items:stretch;justify-content:center;flex-wrap:wrap;gap:18px 20px;padding:31px 20px 43px;background-color:#fbfaf5f2;background-image:radial-gradient(circle at 15% 20%,#ffffffaa 0 1px,transparent 1.5px),radial-gradient(circle at 80% 70%,#e5e1d62e 0 1px,transparent 1.5px),linear-gradient(135deg,#fffefb,#f3f2ec);background-size:17px 17px,23px 23px,100% 100%;border:0;border-radius:1px;box-shadow:5px 7px 0 #8f77501c,0 14px 22px #6d55212e;backdrop-filter:blur(2px) saturate(.9);transform:rotate(.2deg)}
+.article-one-notebook .notebook-function-part{display:flex;flex-direction:column;align-items:center;justify-content:flex-end;max-width:100%;min-width:40px;text-align:center;--role:#7e735c}
+.article-one-notebook .notebook-function-part.subject{--role:#a6553b}.article-one-notebook .notebook-function-part.predicate{--role:#49758a}.article-one-notebook .notebook-function-part.object{--role:#8b6443}.article-one-notebook .notebook-function-part.complement{--role:#987c32}.article-one-notebook .notebook-function-part.clause{--role:#61744e}.article-one-notebook .notebook-function-part.linker{--role:#806496}.article-one-notebook .notebook-function-part.adverbial{--role:#a35e43}
+.article-one-notebook .notebook-function-part small{display:flex;flex-direction:column;gap:1px;color:var(--role);font:17px/1.5 Georgia,"Songti SC",serif;white-space:normal}
+.article-one-notebook .notebook-function-part small strong{font:600 13px/1.35 var(--notebook-type);letter-spacing:.01em}
+.article-one-notebook .notebook-function-part small span{font:12px/1.35 Georgia,"Songti SC",serif;color:#6d6251}
+.article-one-notebook .notebook-function-part>span{display:block;font:23px/1.6 var(--notebook-type);border-bottom:3px solid var(--role);padding:2px 5px 1px;overflow-wrap:break-word;white-space:normal}
+.article-one-notebook .sentence-diagram{padding:12px 18px 22px;background:#fffdf8;box-shadow:3px 7px 13px #5c482922;color:#382c22}
+.article-one-notebook .sentence-diagram-memo{text-align:center;color:#46827e;font:italic 24px/1.4 Georgia,serif;margin-bottom:16px}
+.article-one-notebook .sentence-diagram-tag{display:inline-flex;flex-wrap:wrap;justify-content:center;align-items:baseline;gap:2px 5px;max-width:100%;padding:5px 8px;border-radius:6px;background:color-mix(in srgb,currentColor 7%,#fffdf8)}
+.article-one-notebook .sentence-clause{position:relative;min-width:0;margin:0 0 14px;padding-left:14px;color:#9d5039;border-left:3px solid currentColor}
+.article-one-notebook .sentence-clause:before,.article-one-notebook .sentence-clause:after{content:"";position:absolute;left:-3px;width:16px;height:9px;border-color:currentColor}
+.article-one-notebook .sentence-clause:before{top:0;border-top:2px solid currentColor;border-right:2px solid currentColor;border-radius:0 8px 0 0}
+.article-one-notebook .sentence-clause:after{bottom:0;border-bottom:2px solid currentColor;border-right:2px solid currentColor;border-radius:0 0 8px 0}
+.article-one-notebook .sentence-clause:last-child{margin-bottom:0}
+.article-one-notebook .sentence-clause.main{color:#9d5039}
+.article-one-notebook .sentence-clause.content{color:#426824}
+.article-one-notebook .sentence-clause.relative{color:#006c70}
+.article-one-notebook .sentence-clause.parenthetical{color:#654192}
+.article-one-notebook .sentence-clause.content>.sentence-clause-frame{background:transparent;border:0;border-radius:0;padding-top:10px}
+.article-one-notebook .sentence-clause.relative>.sentence-clause-frame{border:0;border-radius:0;padding-top:10px}
+.article-one-notebook .sentence-clause.parenthetical>.sentence-clause-frame{background:transparent;border:0;border-radius:0;padding-top:10px}
+.article-one-notebook .sentence-clause-heading{text-align:left;margin:0 0 4px;font:15px/1.4 Georgia,"Songti SC",serif}
+.article-one-notebook .sentence-clause.is-multiline>.sentence-clause-heading{text-align:left}
+.article-one-notebook .clause-tag{padding:6px 12px;background:color-mix(in srgb,currentColor 12%,#fffdf8);border:1px solid color-mix(in srgb,currentColor 18%,transparent);font-size:16px}
+.article-one-notebook .clause-tag b{margin-right:10px;font:600 17px/1 var(--notebook-type)}
+.article-one-notebook .clause-tag small{font:13px/1.4 Georgia,"Songti SC",serif}
+.article-one-notebook .relative-attachment{display:inline-flex;gap:4px;margin-left:14px;color:currentColor;font:12px/1.3 Georgia,"Songti SC",serif;vertical-align:middle}
+.article-one-notebook .relative-attachment small{font:11px/1.3 Georgia,"Songti SC",serif}
+.article-one-notebook .clause-omission{display:inline-block;margin-left:7px;color:currentColor;font:12px/1.35 var(--notebook-type);white-space:nowrap}
+.article-one-notebook .sentence-clause-frame{position:relative;padding:8px 0 0 10px;min-width:0}
+.article-one-notebook .clause-bracket{display:none}
+.article-one-notebook .sentence-constituent-run{display:flex;flex-wrap:wrap;align-items:flex-start;justify-content:center;gap:10px 14px;margin-bottom:10px;min-width:0}
+.article-one-notebook .sentence-constituent-run:empty{display:none}
+.article-one-notebook .sentence-constituent-run:last-child{margin-bottom:0}
+.article-one-notebook .sentence-line-break{flex-basis:100%;height:0}
+.article-one-notebook .sentence-punctuation{flex-basis:100%;text-align:center;color:#654192;font:24px/1 var(--notebook-type);height:20px}
+.article-one-notebook .sentence-clause-connector{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;margin:2px auto 8px;color:var(--grammar-ink,#555d68);font:14px/1.3 Georgia,"Songti SC",serif}
+.article-one-notebook .connector-word{font:19px/1.4 var(--notebook-type);color:#382c22}
+.article-one-notebook .connector-stem{font:22px/1;color:var(--grammar-colour,#858c98)}
+.article-one-notebook .sentence-constituent{position:relative;display:flex;flex-direction:column;align-items:center;min-width:58px;max-width:100%;color:var(--grammar-ink,#555d68);flex:0 1 auto}
+.article-one-notebook .sentence-diagram-text{display:block;max-width:100%;text-align:center;color:#382c22;font:19px/1.55 var(--notebook-type);overflow-wrap:normal;word-break:normal;line-break:strict;hanging-punctuation:first last}.article-one-notebook .sentence-diagram-text.has-quote{white-space:nowrap}
+.article-one-notebook .constituent-pointer-lane{display:block;position:relative;width:100%;height:23px;flex:none;margin:0 0 2px}
+.article-one-notebook .constituent-pointer{position:absolute;inset:0;width:100%;height:23px;fill:none;stroke:currentColor;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round}
+.article-one-notebook .constituent-tag{flex-direction:column;align-items:center;text-align:center;max-width:148px;font:12px/1.35 Georgia,"Songti SC",serif;background:transparent;padding:0;border:0;border-radius:0}
+.article-one-notebook .constituent-tag strong{font-weight:400}
+.article-one-notebook .constituent-tag small{font:11px/1.35 Georgia,"Songti SC",serif}
+@media(max-width:600px){.article-one-notebook .sentence-diagram{padding:12px 10px 20px}.article-one-notebook .sentence-clause-frame{padding-left:12px}.article-one-notebook .sentence-constituent-run{column-gap:12px}}
+.article-one-notebook .notebook-analysis-note{font:17px/1.8 Georgia,"Songti SC",serif;padding-top:16px;margin:18px 0 0;border-top:1px dotted #baaa8e}
+.article-one-notebook .notebook-analysis-note .analysis-note-heading{display:block;margin-bottom:5px;color:var(--notebook-rust);font:600 17px/1.45 Georgia,serif}
+.article-one-notebook :is(.word-primary h2,.word-file-number,.word-file-tab strong,.student-paraphrase-sentence,.student-reuse-pattern){font-family:var(--notebook-type)}
+@media(min-width:961px){
+ .article-one-notebook :is(.notebook-context,.word-context){position:relative;padding:20px 22px 20px 235px;min-height:175px}
+ .article-one-notebook .notebook-badge.is-compact{min-height:28px}
+ .article-one-notebook .notebook-badge.is-compact>img{position:absolute;width:175px;height:95px;right:calc(100% + 24px);top:25px}
+ .article-one-notebook .notebook-badge.is-compact summary{font-size:18px}
+}
+@media(max-width:600px){
+ .article-one-notebook .notebook-analysis-card>header{align-items:flex-start;flex-direction:column;gap:14px;padding:20px 16px}
+ .article-one-notebook .notebook-structure .notebook-analysis-card-face>header{align-items:flex-start;flex-direction:column;gap:14px;padding:20px 16px}
+ .article-one-notebook .notebook-analysis-card h2{font-size:22px}.article-one-notebook .notebook-analysis-card header p{font-size:16px}.article-one-notebook .notebook-analysis-card header span{font-size:16px}
+ .article-one-notebook .notebook-structure .notebook-analysis-card-face h2{font-size:22px}.article-one-notebook .notebook-structure .notebook-analysis-card-face header p{font-size:16px}
+ .article-one-notebook .notebook-analysis-answer{padding:0 16px 20px}.article-one-notebook .notebook-clause-rows{padding:30px 14px 38px}.article-one-notebook .notebook-function-parts{gap:15px;padding:30px 14px 38px}
+ .article-one-notebook .notebook-function-part small{font-size:15px}.article-one-notebook .notebook-function-part>span,.article-one-notebook .notebook-clause-row>p{font-size:19px}.article-one-notebook .notebook-analysis-note{font-size:16px}
+}
+@keyframes notebook-page-in{from{opacity:.3;transform:rotateY(-70deg)}to{opacity:1;transform:rotateY(0)}}
+@keyframes notebook-inner-flip{from{transform:perspective(1200px) rotateX(-24deg);opacity:.5}to{transform:perspective(1200px) rotateX(0);opacity:1}}
+@keyframes notebook-cat-bob{50%{transform:translateY(-4px)}}
+@media(min-width:961px){
+ .article-one-notebook .notebook-front>.notebook-badge{margin-left:-15px;gap:40px;min-height:100px}
+ .article-one-notebook .notebook-front>.notebook-badge>img{width:200px;height:100px}
+ .article-one-notebook .notebook-original{margin:22px 0 32px 60px}
+ .article-one-notebook .notebook-player{max-width:930px;margin-left:15px}
+ .article-one-notebook .notebook-draw-row{margin-top:52px}
+ .article-one-notebook .notebook-tabs{max-height:890px}
+}
+@media(min-width:1500px){.article-one-notebook .notebook-sheet{min-height:850px}}
+@media(max-width:960px){
+ .article-one-notebook{padding:18px 18px 30px}.article-one-notebook .notebook-top{gap:15px}.article-one-notebook .notebook-top>span{font-size:17px}
+ .article-one-notebook .notebook-folder{grid-template-columns:86px minmax(0,1fr)}.article-one-notebook .notebook-tab{font-size:15px}.article-one-notebook .notebook-tabs{max-height:650px}
+ .article-one-notebook .notebook-front{padding:48px 34px 8px}.article-one-notebook .notebook-original{font-size:32px;line-height:1.7;margin:30px 0}.article-one-notebook .notebook-original.is-long{font-size:26px}
+ .article-one-notebook .notebook-badge{gap:15px}.article-one-notebook .notebook-badge>img{width:110px;height:65px}.article-one-notebook .notebook-badge summary{font-size:18px}
+ .article-one-notebook .notebook-footer{padding:16px 25px 24px}.article-one-notebook .notebook-footer button{font-size:16px;gap:7px}.article-one-notebook .notebook-footer p{font-size:14px}
+ .article-one-notebook .notebook-back{padding:28px 24px}.article-one-notebook .notebook-context>p,.article-one-notebook .word-context{font-size:21px}
+ .article-one-notebook .clause-unit{grid-template-columns:28px minmax(0,1fr)}.article-one-notebook .clause-unit>span{grid-column:1/-1}
+}
+@media(max-width:600px){
+ .article-one-notebook{padding:12px 12px 24px}.article-one-notebook .notebook-top{flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;padding-bottom:10px}.article-one-notebook .notebook-top>span{font-size:16px;order:-1;flex-basis:100%}.article-one-notebook .notebook-jump{margin-left:auto;font-size:14px}
+ .article-one-notebook .notebook-folder{grid-template-columns:minmax(0,1fr)}.article-one-notebook .notebook-tabs{grid-template-columns:repeat(var(--notebook-tab-count,4),minmax(0,1fr));grid-template-rows:auto;padding:0;gap:3px}.article-one-notebook .notebook-tab{border-right:1px solid #aa947466;border-bottom:0;border-radius:9px 9px 0 0;min-height:66px;padding:10px 2px;gap:6px;font-size:14px}.article-one-notebook .notebook-tab img{width:20px;height:20px}.article-one-notebook .notebook-tab:hover{padding-left:2px}
+ .article-one-notebook .notebook-sheet{min-height:680px;border-radius:0 0 12px 12px}.article-one-notebook .notebook-front{padding:35px 22px 0}.article-one-notebook .notebook-badge{min-height:52px;gap:10px}.article-one-notebook .notebook-badge>img{width:85px;height:50px}.article-one-notebook .notebook-badge summary{font-size:16px}.article-one-notebook .notebook-badge summary span{display:block;font-size:14px}
+ .article-one-notebook .notebook-folder.is-front-only .notebook-sheet{border-radius:15px 18px 13px 17px}
+ .article-one-notebook .notebook-original{font-size:27px;min-height:160px;line-height:1.65;margin:30px 0}.article-one-notebook .notebook-original.is-long{font-size:24px}.article-one-notebook .notebook-player{gap:12px;font-size:17px}.article-one-notebook .notebook-play{width:44px;height:44px}
+ .article-one-notebook .notebook-draw-row{margin:85px 0 12px}.article-one-notebook .notebook-draw{width:min(300px,100%);padding:12px 12px 8px}.article-one-notebook .notebook-draw-history{width:100%}.article-one-notebook .notebook-draw-main>button{font-size:16px}
+ .article-one-notebook .notebook-footer{flex-wrap:wrap;padding:15px 18px 20px;gap:8px}.article-one-notebook .notebook-footer p{order:-1;flex-basis:100%;font-size:14px}.article-one-notebook .notebook-footer button{font-size:16px;min-height:44px}
+ .article-one-notebook .notebook-back{padding:28px 16px 15px}.article-one-notebook .notebook-back-header{padding-right:20px;font-size:14px}.article-one-notebook .notebook-back-header button{font-size:14px}.article-one-notebook .notebook-context,.article-one-notebook .word-context{padding:12px 14px;font-size:18px}.article-one-notebook .notebook-context>p{font-size:18px}.article-one-notebook .notebook-badge.is-compact summary{font-size:14px}
+ .article-one-notebook .lexi-module h2{font-size:21px!important}.article-one-notebook .lexi-module h2 span{font-size:20px}.article-one-notebook .lexi-turn,.article-one-notebook .clause-module-head,.article-one-notebook .functions-answer{padding:20px 16px!important}.article-one-notebook .function-unit strong{font-size:20px}.article-one-notebook .structure-review-note{font-size:16px;margin:18px 16px}
+}
+@media(prefers-reduced-motion:reduce){.article-one-notebook *{animation:none!important;transition:none!important;scroll-behavior:auto}}
+
+/* Keep the sentence lesson inside one 16:9 teaching viewport on desktop projectors. */
+@media (min-width:961px) and (min-height:640px) and (min-aspect-ratio:3/2){
+ .article-one-notebook{height:100svh;min-height:640px;padding:clamp(12px,2svh,22px) clamp(18px,2.4vw,32px) clamp(14px,2svh,24px);display:flex;flex-direction:column;overflow:hidden}
+ .article-one-notebook .notebook-top{width:min(1370px,calc(177.78svh - 64px));margin:0 auto clamp(8px,1.5svh,16px);padding-bottom:clamp(7px,1.2svh,13px);flex:0 0 auto}
+ .article-one-notebook .notebook-top>span{font-size:clamp(17px,2.3svh,21px)}
+ .article-one-notebook .notebook-folder{width:min(100%,calc(177.78svh - 64px));max-width:1370px;min-height:0;flex:1 1 auto;grid-template-columns:clamp(88px,8vw,112px) minmax(0,1fr)}
+ .article-one-notebook .notebook-tabs{height:100%;max-height:none;padding:clamp(28px,5svh,50px) 0 clamp(34px,6svh,60px)}
+ .article-one-notebook .notebook-tab{padding:clamp(11px,2.2svh,20px) 7px;gap:clamp(7px,1.5svh,14px);font-size:clamp(15px,2.2svh,19px)}
+ .article-one-notebook .notebook-tab:hover{padding-left:13px}
+ .article-one-notebook .notebook-sheet{height:100%;min-height:0;overflow:hidden}
+ .article-one-notebook .notebook-face{min-height:0;overflow:hidden}
+ .article-one-notebook .notebook-front{padding:clamp(20px,3.7svh,38px) clamp(38px,5.2vw,78px) 4px}
+ .article-one-notebook .notebook-front>.notebook-badge{min-height:clamp(60px,9svh,88px);margin-left:-8px;gap:clamp(20px,3vw,36px)}
+ .article-one-notebook .notebook-front>.notebook-badge>img{width:clamp(120px,18svh,176px);height:clamp(60px,9svh,88px)}
+ .article-one-notebook .notebook-badge summary{font-size:clamp(17px,2.4svh,21px)}
+ .article-one-notebook .notebook-original{min-height:0;margin:clamp(8px,1.8svh,18px) 0 clamp(9px,1.8svh,18px) clamp(20px,3.5vw,52px);font-size:clamp(27px,4.3svh,43px);line-height:1.48}
+ .article-one-notebook .notebook-original.is-long{font-size:clamp(23px,3.5svh,34px);line-height:1.48}
+ .article-one-notebook .notebook-player{max-width:900px;margin-left:clamp(6px,1.5vw,18px);gap:clamp(12px,2vw,22px);font-size:clamp(18px,2.4svh,22px)}
+ .article-one-notebook .notebook-play{width:clamp(44px,6.5svh,52px);height:clamp(44px,6.5svh,52px)}
+ .article-one-notebook .notebook-draw-row{margin:clamp(42px,7svh,68px) -10px clamp(4px,1svh,10px) 0}
+ .article-one-notebook .notebook-draw{width:clamp(260px,24vw,300px);padding:9px 13px 7px}
+ .article-one-notebook .notebook-draw-cat{top:clamp(-64px,-8svh,-56px);width:clamp(66px,10svh,80px);height:clamp(66px,10svh,80px)}
+ .article-one-notebook .notebook-draw-main output{font-size:clamp(25px,3.8svh,30px);min-height:30px}
+ .article-one-notebook .notebook-draw-main>button{font-size:clamp(15px,2.1svh,17px)}
+ .article-one-notebook .notebook-footer{padding:clamp(7px,1.2svh,13px) clamp(24px,3vw,42px) clamp(10px,1.7svh,20px);flex:0 0 auto}
+ .article-one-notebook .notebook-footer button{font-size:clamp(16px,2.2svh,19px)}
+ .article-one-notebook .notebook-footer p{font-size:clamp(14px,1.9svh,16px)}
+ .article-one-notebook .notebook-back{padding:clamp(18px,3svh,28px) clamp(24px,3vw,38px) 20px;overflow-y:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+ .article-one-notebook .notebook-back-header{position:sticky;top:0;z-index:10;margin:clamp(-28px,-3svh,-18px) 0 18px;padding:clamp(13px,2svh,20px) 38px 10px 0;background:linear-gradient(#faf2e2 82%,transparent)}
+}
+
+/* Keep the number-draw cat centered and high enough for its paws to meet the card edge. */
+@keyframes notebook-cat-bob-centered{50%{transform:translate(calc(-50% + var(--cat-offset-x, 0px)),calc(var(--cat-offset-y, 0px) - 4px))}}
+.article-one-notebook .notebook-cat-saved{position:absolute;right:8px;bottom:-22px;color:var(--notebook-rust);font-size:12px;white-space:nowrap}
+
+/* Keep each illustration attached to the sentence, at every viewport width. */
+.article-one-notebook .notebook-sentence-group{flex:1;display:flex;flex-direction:column;justify-content:center;padding:12px 0 26px;min-width:0}
+.article-one-notebook .notebook-sentence-group>.notebook-badge{margin:0 0 8px;min-height:52px;gap:16px}
+.article-one-notebook .notebook-sentence-group>.notebook-badge>img{width:100px;height:56px;object-position:left bottom}
+.article-one-notebook .notebook-sentence-group>.notebook-original{display:block;flex:none;min-height:0;margin:0;text-align:left}
+.article-one-notebook .notebook-context{padding:16px 22px 20px;min-height:0}
+.article-one-notebook .notebook-context>.notebook-badge.is-compact{min-height:44px;margin:0 0 8px}
+.article-one-notebook .notebook-context>.notebook-badge.is-compact>img{position:static;width:76px;height:44px;object-position:left bottom}
+.article-one-notebook .notebook-context>p{margin:0;text-align:center}
+
+/* A tactile index card for the shared clause-analysis entrance. */
+.article-one-notebook .clause-entry{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 110px;gap:24px;width:100%;padding:30px 32px 20px;border:0;border-left:5px solid #9c604a;border-radius:2px;background:linear-gradient(115deg,#fffdf580,#eddfc324),url('/sentence-studio/paper-sheet.png') center bottom/115% 130%;box-shadow:inset 0 1px 0 #ffffff,inset 0 -4px 0 #b7a17b12;color:var(--notebook-ink);text-align:left;transition:box-shadow .2s,background-color .2s}
+.article-one-notebook .clause-entry:hover{background-color:#fffaf0;box-shadow:inset 0 1px 0 #fff,inset 0 -4px 0 #b7a17b22}
+.article-one-notebook .clause-entry-heading{display:flex;flex-direction:column;gap:7px}
+.article-one-notebook .clause-entry-kicker{font:11px/1.5 var(--notebook-type);letter-spacing:.13em;color:#88775d}
+.article-one-notebook .clause-entry-title{font:24px/1.35 Georgia,"Songti SC",serif;color:var(--notebook-rust)}
+.article-one-notebook .clause-entry-subtitle{font:17px/1.5 Georgia,serif}
+.article-one-notebook .clause-entry-diagram{width:110px;align-self:center;color:#b4a48b;opacity:.85}
+.article-one-notebook .clause-entry-footer{grid-column:1/-1;display:flex;justify-content:space-between;align-items:center;gap:16px;border-top:1px solid #bba58366;padding-top:15px;font:13px/1.5 Georgia,"Songti SC",serif;color:#867359}
+.article-one-notebook .clause-entry-action{display:flex;align-items:center;gap:12px;color:var(--notebook-rust);font-size:16px}
+.article-one-notebook .clause-entry-action>span{font-size:23px;transition:transform .2s}
+.article-one-notebook .clause-entry:hover .clause-entry-action>span{transform:translate(2px,-2px)}
+@media(max-width:600px){
+ .article-one-notebook .notebook-context{padding:14px}
+ .article-one-notebook .clause-entry{padding:24px 20px 18px;grid-template-columns:minmax(0,1fr) 64px;gap:18px 8px}
+ .article-one-notebook .clause-entry-title{font-size:21px;overflow-wrap:normal}
+ .article-one-notebook .clause-entry-diagram{width:64px}
+ .article-one-notebook .clause-entry-footer{align-items:flex-start;flex-direction:column;gap:10px}
+}
+@media(prefers-reduced-motion:reduce){.article-one-notebook .clause-entry,.article-one-notebook .clause-entry-action>span{transition:none}}

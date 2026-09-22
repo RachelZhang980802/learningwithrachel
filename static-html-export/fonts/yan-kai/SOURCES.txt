@@ -1,0 +1,13 @@
+I.Ngaan.ttf (unmodified): I.Ngaan / 刻石錄顏體
+Copyright Dr. Hann-Tzong Wang 1999–2004; Ichiten Fonts Project 2013–2014.
+License: GPL v2 or later, as recorded in the font's name table.
+Project: https://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.顏體
+Downloaded from: https://github.com/yuleshow/chinese-fonts/blob/master/I.Ngaan.ttf
+
+FandolKai-Regular.otf (unmodified): Fandol Kai, by the Fandol team.
+Source: https://ctan.org/pkg/fandol
+Downloaded from: https://mirrors.ctan.org/fonts/fandol/FandolKai-Regular.otf
+License: GPL with font exception; see upstream distribution and Fandol-README.txt.
+
+The translation display uses Fandol Kai uniformly. I.Ngaan is retained but
+is no longer referenced by the stylesheet.

@@ -1,0 +1,76 @@
+.xiumi-import-page,
+.xiumi-reading-page {
+  min-height: 100svh;
+  padding: clamp(28px, 6vw, 88px) 20px;
+  background: var(--paper, #f7f5ef);
+  color: #29251f;
+}
+
+.xiumi-import-card,
+.xiumi-reading-article,
+.xiumi-reading-empty {
+  width: min(980px, 100%);
+  margin: 0 auto;
+}
+
+.xiumi-import-card { padding: clamp(24px, 4vw, 52px); border: 1px solid rgba(45, 39, 31, .22); background: rgba(255, 253, 247, .76); box-shadow: 0 18px 48px rgba(51, 43, 31, .08); }
+.xiumi-import-kicker,
+.xiumi-reading-article > header > p,
+.xiumi-reading-empty > p,
+.xiumi-article-shelf > div > p { margin: 0; color: #8d4b3c; font-size: 11px; font-weight: 700; letter-spacing: .16em; }
+.xiumi-import-card h1 { margin: 10px 0 12px; font: 500 clamp(34px, 5vw, 56px)/1 Georgia, serif; }
+.xiumi-import-intro { max-width: 670px; margin: 0; color: #625a50; line-height: 1.65; }
+.xiumi-import-form { display: grid; gap: 24px; margin-top: 36px; }
+.xiumi-field-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.xiumi-import-form label { display: grid; gap: 8px; color: #51473d; font-size: 13px; font-weight: 700; }
+.xiumi-import-form input { width: 100%; min-height: 44px; box-sizing: border-box; border: 1px solid #b9ac96; border-radius: 3px; padding: 10px 12px; background: #fffdf8; color: inherit; font: 16px/1.4 inherit; }
+.xiumi-import-form input:focus-visible,
+.xiumi-paste-area:focus-visible { outline: 3px solid rgba(163, 65, 43, .3); outline-offset: 2px; }
+.xiumi-paste-label { min-height: 0; }
+.xiumi-paste-area { min-height: 320px; overflow: auto; padding: 22px; border: 1px dashed #9c8872; background: #fffdf8; color: #222; font: 16px/1.55 Arial, sans-serif; font-weight: 400; }
+.xiumi-paste-area:empty::before { content: attr(data-placeholder); color: #93897d; pointer-events: none; }
+.xiumi-import-actions { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+.xiumi-import-actions button { min-height: 44px; border: 0; border-radius: 3px; padding: 0 18px; background: #9c4a38; color: #fff9ed; cursor: pointer; font: 700 14px/1 inherit; }
+.xiumi-import-actions button:hover { background: #813a2a; }
+.xiumi-import-actions a,
+.xiumi-reading-nav a,
+.xiumi-reading-empty a,
+.xiumi-article-shelf-card a { color: #7d382a; font-weight: 700; text-underline-offset: 4px; }
+.xiumi-import-status { margin: -10px 0 0; color: #625a50; font-size: 14px; }
+
+.xiumi-reading-page { padding-top: 0; }
+.xiumi-reading-nav { display: flex; justify-content: space-between; gap: 20px; width: min(1180px, 100%); margin: 0 auto; padding: 22px 0; }
+.xiumi-reading-article { padding: clamp(26px, 5vw, 72px); background: #fffdf8; box-shadow: 0 12px 42px rgba(49, 42, 30, .09); }
+.xiumi-reading-article > header { max-width: 820px; margin: 0 auto clamp(26px, 5vw, 56px); }
+.xiumi-reading-article > header h1,
+.xiumi-reading-empty h1 { margin: 10px 0; font: 500 clamp(38px, 7vw, 78px)/.96 Georgia, serif; }
+.xiumi-reading-article > header span { color: #625a50; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; }
+.xiumi-reading-cover { display: block; width: min(100%, 880px); max-height: 520px; margin: 0 auto clamp(28px, 5vw, 56px); object-fit: cover; }
+.xiumi-reading-empty { padding: 17vh 0; }
+
+.xiumi-article { max-width: 100%; overflow-wrap: anywhere; }
+.xiumi-article img,
+.xiumi-article video,
+.xiumi-article svg,
+.xiumi-article canvas { display: block; max-width: 100% !important; height: auto !important; }
+.xiumi-article table { display: block; max-width: 100%; overflow-x: auto; }
+.xiumi-article [style*="display: flex"],
+.xiumi-article [style*="display:flex"],
+.xiumi-article [style*="display: grid"],
+.xiumi-article [style*="display:grid"] { max-width: 100%; }
+
+.xiumi-article-shelf { width: min(1160px, calc(100% - 48px)); margin: 70px auto 100px; padding-top: 30px; border-top: 1px solid rgba(45, 39, 31, .2); }
+.xiumi-article-shelf h2 { margin: 8px 0 24px; font: 500 clamp(28px, 4vw, 44px)/1 Georgia, serif; }
+.xiumi-article-shelf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 18px; }
+.xiumi-article-shelf-card { min-height: 190px; padding: 20px; border: 1px solid rgba(45, 39, 31, .2); background: rgba(255, 253, 247, .75); }
+.xiumi-article-shelf-card img { width: 100%; height: 136px; margin: -20px -20px 16px; padding-right: 40px; object-fit: cover; }
+.xiumi-article-shelf-card p { margin: 0; color: #806e60; font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.xiumi-article-shelf-card h3 { margin: 8px 0 22px; font: 500 25px/1.1 Georgia, serif; }
+
+@media (max-width: 620px) {
+  .xiumi-field-grid { grid-template-columns: 1fr; }
+  .xiumi-import-card,
+  .xiumi-reading-article { padding: 24px 18px; }
+  .xiumi-paste-area { min-height: 260px; padding: 14px; }
+  .xiumi-reading-nav { padding-inline: 2px; font-size: 14px; }
+}

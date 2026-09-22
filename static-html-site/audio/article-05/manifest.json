@@ -1,0 +1,810 @@
+{
+  "articleId": "05",
+  "title": "Courage",
+  "author": "Lydia Minatoya",
+  "sourceAudio": "/audio-courage.mp3",
+  "paragraphCount": 32,
+  "sentenceCount": 80,
+  "sentences": [
+    {
+      "sentenceId": "a05-p01-s01",
+      "paragraphId": "a05-p01",
+      "text": "Akira came directly, breaking all tradition.",
+      "audioSrc": "/audio/article-05/a05-p01-s01.mp3",
+      "startTime": 4.49,
+      "endTime": 8.555,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p01-s02",
+      "paragraphId": "a05-p01",
+      "text": "Was that it?",
+      "audioSrc": "/audio/article-05/a05-p01-s02.mp3",
+      "startTime": 8.555,
+      "endTime": 9.765,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p01-s03",
+      "paragraphId": "a05-p01",
+      "text": "Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?",
+      "audioSrc": "/audio/article-05/a05-p01-s03.mp3",
+      "startTime": 9.765,
+      "endTime": 18.87,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p02-s01",
+      "paragraphId": "a05-p02",
+      "text": "He came on a winter's eve.",
+      "audioSrc": "/audio/article-05/a05-p02-s01.mp3",
+      "startTime": 18.87,
+      "endTime": 21.06,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p02-s02",
+      "paragraphId": "a05-p02",
+      "text": "He pounded on the door while a cold rain beat on the shuttered veranda, so at first Chie thought him only the wind.",
+      "audioSrc": "/audio/article-05/a05-p02-s02.mp3",
+      "startTime": 21.06,
+      "endTime": 28.955,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p02-s03",
+      "paragraphId": "a05-p02",
+      "text": "The maid knew better.",
+      "audioSrc": "/audio/article-05/a05-p02-s03.mp3",
+      "startTime": 28.955,
+      "endTime": 30.475,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p02-s04",
+      "paragraphId": "a05-p02",
+      "text": "Chie heard her soft scuttling footsteps, the creak of the door.",
+      "audioSrc": "/audio/article-05/a05-p02-s04.mp3",
+      "startTime": 30.475,
+      "endTime": 35.295,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p02-s05",
+      "paragraphId": "a05-p02",
+      "text": "Then the maid brought a calling card to the drawing room, for Chie.",
+      "audioSrc": "/audio/article-05/a05-p02-s05.mp3",
+      "startTime": 35.295,
+      "endTime": 39.665,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p03-s01",
+      "paragraphId": "a05-p03",
+      "text": "Chie was reluctant to go to her guest; perhaps she was feeling too cozy.",
+      "audioSrc": "/audio/article-05/a05-p03-s01.mp3",
+      "startTime": 39.665,
+      "endTime": 45.67,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p03-s02",
+      "paragraphId": "a05-p03",
+      "text": "She and Naomi were reading at a low table set atop a charcoal brazier.",
+      "audioSrc": "/audio/article-05/a05-p03-s02.mp3",
+      "startTime": 45.67,
+      "endTime": 51.57,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p03-s03",
+      "paragraphId": "a05-p03",
+      "text": "A thick quilt spread over the sides of the table so their legs were tucked inside with the heat.",
+      "audioSrc": "/audio/article-05/a05-p03-s03.mp3",
+      "startTime": 51.57,
+      "endTime": 58.175,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p04-s01",
+      "paragraphId": "a05-p04",
+      "text": "\"Who is it at this hour, in this weather?\"",
+      "audioSrc": "/audio/article-05/a05-p04-s01.mp3",
+      "startTime": 58.175,
+      "endTime": 61.38,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p04-s02",
+      "paragraphId": "a05-p04",
+      "text": "Chie questioned as she picked the name card off the maid's lacquer tray.",
+      "audioSrc": "/audio/article-05/a05-p04-s02.mp3",
+      "startTime": 61.38,
+      "endTime": 66.905,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p05-s01",
+      "paragraphId": "a05-p05",
+      "text": "\"Shinoda, Akira.",
+      "audioSrc": "/audio/article-05/a05-p05-s01.mp3",
+      "startTime": 66.905,
+      "endTime": 69.025,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p05-s02",
+      "paragraphId": "a05-p05",
+      "text": "Kobe Dental College,\" she read.",
+      "audioSrc": "/audio/article-05/a05-p05-s02.mp3",
+      "startTime": 69.025,
+      "endTime": 72.01,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p06-s01",
+      "paragraphId": "a05-p06",
+      "text": "Naomi recognized the name.",
+      "audioSrc": "/audio/article-05/a05-p06-s01.mp3",
+      "startTime": 72.01,
+      "endTime": 74.29,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p06-s02",
+      "paragraphId": "a05-p06",
+      "text": "Chie heard a soft intake of air.",
+      "audioSrc": "/audio/article-05/a05-p06-s02.mp3",
+      "startTime": 74.29,
+      "endTime": 76.765,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p07-s01",
+      "paragraphId": "a05-p07",
+      "text": "\"I think you should go,\" said Naomi.",
+      "audioSrc": "/audio/article-05/a05-p07-s01.mp3",
+      "startTime": 76.765,
+      "endTime": 79.755,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p08-s01",
+      "paragraphId": "a05-p08",
+      "text": "Akira was waiting in the entry.",
+      "audioSrc": "/audio/article-05/a05-p08-s01.mp3",
+      "startTime": 79.755,
+      "endTime": 82.14,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p08-s02",
+      "paragraphId": "a05-p08",
+      "text": "He was in his early twenties, slim and serious, wearing the black military-style uniform of a student.",
+      "audioSrc": "/audio/article-05/a05-p08-s02.mp3",
+      "startTime": 82.14,
+      "endTime": 89.99,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p08-s03",
+      "paragraphId": "a05-p08",
+      "text": "As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—Chie glanced beyond him.",
+      "audioSrc": "/audio/article-05/a05-p08-s03.mp3",
+      "startTime": 89.99,
+      "endTime": 101.31,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p08-s04",
+      "paragraphId": "a05-p08",
+      "text": "In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double.",
+      "audioSrc": "/audio/article-05/a05-p08-s04.mp3",
+      "startTime": 101.31,
+      "endTime": 109.705,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p09-s01",
+      "paragraphId": "a05-p09",
+      "text": "\"Madame,\" said Akira, \"forgive my disruption, but I come with a matter of urgency.\"",
+      "audioSrc": "/audio/article-05/a05-p09-s01.mp3",
+      "startTime": 109.705,
+      "endTime": 115.98,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p10-s01",
+      "paragraphId": "a05-p10",
+      "text": "His voice was soft, refined.",
+      "audioSrc": "/audio/article-05/a05-p10-s01.mp3",
+      "startTime": 115.98,
+      "endTime": 118.915,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p10-s02",
+      "paragraphId": "a05-p10",
+      "text": "He straightened and stole a deferential peek at her face.",
+      "audioSrc": "/audio/article-05/a05-p10-s02.mp3",
+      "startTime": 118.915,
+      "endTime": 123.09,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p11-s01",
+      "paragraphId": "a05-p11",
+      "text": "In the dim light his eyes shone with sincerity.",
+      "audioSrc": "/audio/article-05/a05-p11-s01.mp3",
+      "startTime": 123.09,
+      "endTime": 126.81,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p11-s02",
+      "paragraphId": "a05-p11",
+      "text": "Chie felt herself starting to like him.",
+      "audioSrc": "/audio/article-05/a05-p11-s02.mp3",
+      "startTime": 126.81,
+      "endTime": 129.53,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p12-s01",
+      "paragraphId": "a05-p12",
+      "text": "\"Come inside, get out of this nasty night.",
+      "audioSrc": "/audio/article-05/a05-p12-s01.mp3",
+      "startTime": 129.53,
+      "endTime": 132.845,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p12-s02",
+      "paragraphId": "a05-p12",
+      "text": "Surely your business can wait for a moment or two.\"",
+      "audioSrc": "/audio/article-05/a05-p12-s02.mp3",
+      "startTime": 132.845,
+      "endTime": 136.225,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p13-s01",
+      "paragraphId": "a05-p13",
+      "text": "\"I don't want to trouble you.",
+      "audioSrc": "/audio/article-05/a05-p13-s01.mp3",
+      "startTime": 136.225,
+      "endTime": 138.27,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p13-s02",
+      "paragraphId": "a05-p13",
+      "text": "Normally I would approach you more properly but I've received word of a position.",
+      "audioSrc": "/audio/article-05/a05-p13-s02.mp3",
+      "startTime": 138.27,
+      "endTime": 143.59,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p13-s03",
+      "paragraphId": "a05-p13",
+      "text": "I've an opportunity to go to America, as dentist for Seattle's Japanese community.\"",
+      "audioSrc": "/audio/article-05/a05-p13-s03.mp3",
+      "startTime": 143.59,
+      "endTime": 149.985,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p14-s01",
+      "paragraphId": "a05-p14",
+      "text": "\"Congratulations,\" Chie said with amusement.",
+      "audioSrc": "/audio/article-05/a05-p14-s01.mp3",
+      "startTime": 149.985,
+      "endTime": 153.415,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p14-s02",
+      "paragraphId": "a05-p14",
+      "text": "\"That is an opportunity, I'm sure.",
+      "audioSrc": "/audio/article-05/a05-p14-s02.mp3",
+      "startTime": 153.415,
+      "endTime": 155.755,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p14-s03",
+      "paragraphId": "a05-p14",
+      "text": "But how am I involved?\"",
+      "audioSrc": "/audio/article-05/a05-p14-s03.mp3",
+      "startTime": 155.755,
+      "endTime": 157.68,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p15-s01",
+      "paragraphId": "a05-p15",
+      "text": "Even noting Naomi's breathless reaction to the name card, Chie had no idea.",
+      "audioSrc": "/audio/article-05/a05-p15-s01.mp3",
+      "startTime": 157.68,
+      "endTime": 163.52,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p15-s02",
+      "paragraphId": "a05-p15",
+      "text": "Akira's message, delivered like a formal speech, filled her with maternal amusement.",
+      "audioSrc": "/audio/article-05/a05-p15-s02.mp3",
+      "startTime": 163.52,
+      "endTime": 169.46,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p15-s03",
+      "paragraphId": "a05-p15",
+      "text": "You know how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?",
+      "audioSrc": "/audio/article-05/a05-p15-s03.mp3",
+      "startTime": 169.46,
+      "endTime": 179.17,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p15-s04",
+      "paragraphId": "a05-p15",
+      "text": "That's how she viewed him, as a child.",
+      "audioSrc": "/audio/article-05/a05-p15-s04.mp3",
+      "startTime": 179.17,
+      "endTime": 182.4,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p16-s01",
+      "paragraphId": "a05-p16",
+      "text": "It was how she viewed Naomi.",
+      "audioSrc": "/audio/article-05/a05-p16-s01.mp3",
+      "startTime": 182.4,
+      "endTime": 184.575,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p16-s02",
+      "paragraphId": "a05-p16",
+      "text": "Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, Chie had made no effort to find her a husband.",
+      "audioSrc": "/audio/article-05/a05-p16-s02.mp3",
+      "startTime": 184.575,
+      "endTime": 193.565,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p17-s01",
+      "paragraphId": "a05-p17",
+      "text": "Akira blushed.",
+      "audioSrc": "/audio/article-05/a05-p17-s01.mp3",
+      "startTime": 193.565,
+      "endTime": 195.01,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p18-s01",
+      "paragraphId": "a05-p18",
+      "text": "\"Depending on your response, I may stay in Japan.",
+      "audioSrc": "/audio/article-05/a05-p18-s01.mp3",
+      "startTime": 195.01,
+      "endTime": 198.955,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p18-s02",
+      "paragraphId": "a05-p18",
+      "text": "I've come to ask for Naomi's hand.\"",
+      "audioSrc": "/audio/article-05/a05-p18-s02.mp3",
+      "startTime": 198.955,
+      "endTime": 201.565,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p19-s01",
+      "paragraphId": "a05-p19",
+      "text": "Suddenly Chie felt the dampness of the night.",
+      "audioSrc": "/audio/article-05/a05-p19-s01.mp3",
+      "startTime": 201.565,
+      "endTime": 204.88,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p20-s01",
+      "paragraphId": "a05-p20",
+      "text": "\"Does Naomi know anything of your…ambitions?\"",
+      "audioSrc": "/audio/article-05/a05-p20-s01.mp3",
+      "startTime": 204.88,
+      "endTime": 209.02,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s01",
+      "paragraphId": "a05-p21",
+      "text": "\"We have an understanding.",
+      "audioSrc": "/audio/article-05/a05-p21-s01.mp3",
+      "startTime": 209.02,
+      "endTime": 211.04,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s02",
+      "paragraphId": "a05-p21",
+      "text": "Please don't judge my candidacy by the unseemliness of this proposal.",
+      "audioSrc": "/audio/article-05/a05-p21-s02.mp3",
+      "startTime": 211.04,
+      "endTime": 215.665,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s03",
+      "paragraphId": "a05-p21",
+      "text": "I ask directly because the use of a go-between takes much time.",
+      "audioSrc": "/audio/article-05/a05-p21-s03.mp3",
+      "startTime": 215.665,
+      "endTime": 220.64,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s04",
+      "paragraphId": "a05-p21",
+      "text": "Either method comes down to the same thing: a matter of parental approval.",
+      "audioSrc": "/audio/article-05/a05-p21-s04.mp3",
+      "startTime": 220.64,
+      "endTime": 226.11,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s05",
+      "paragraphId": "a05-p21",
+      "text": "If you give your consent, I become Naomi's yoshi.",
+      "audioSrc": "/audio/article-05/a05-p21-s05.mp3",
+      "startTime": 226.11,
+      "endTime": 230.23,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s06",
+      "paragraphId": "a05-p21",
+      "text": "We'll live in the House of Fuji.",
+      "audioSrc": "/audio/article-05/a05-p21-s06.mp3",
+      "startTime": 230.23,
+      "endTime": 232.415,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p21-s07",
+      "paragraphId": "a05-p21",
+      "text": "Without your consent, I must go to America, to secure a new home for my bride.\"",
+      "audioSrc": "/audio/article-05/a05-p21-s07.mp3",
+      "startTime": 232.415,
+      "endTime": 238.18,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s01",
+      "paragraphId": "a05-p22",
+      "text": "Eager to make his point, he'd been looking her full in the face.",
+      "audioSrc": "/audio/article-05/a05-p22-s01.mp3",
+      "startTime": 238.18,
+      "endTime": 243.005,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s02",
+      "paragraphId": "a05-p22",
+      "text": "Abruptly, his voice turned gentle.",
+      "audioSrc": "/audio/article-05/a05-p22-s02.mp3",
+      "startTime": 243.005,
+      "endTime": 245.75,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s03",
+      "paragraphId": "a05-p22",
+      "text": "\"I see I've startled you.",
+      "audioSrc": "/audio/article-05/a05-p22-s03.mp3",
+      "startTime": 245.75,
+      "endTime": 248.08,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s04",
+      "paragraphId": "a05-p22",
+      "text": "My humble apologies.",
+      "audioSrc": "/audio/article-05/a05-p22-s04.mp3",
+      "startTime": 248.08,
+      "endTime": 250.495,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s05",
+      "paragraphId": "a05-p22",
+      "text": "I'll take no more of your evening.",
+      "audioSrc": "/audio/article-05/a05-p22-s05.mp3",
+      "startTime": 250.495,
+      "endTime": 252.835,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s06",
+      "paragraphId": "a05-p22",
+      "text": "My address is on my card.",
+      "audioSrc": "/audio/article-05/a05-p22-s06.mp3",
+      "startTime": 252.835,
+      "endTime": 255.005,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s07",
+      "paragraphId": "a05-p22",
+      "text": "If you don't wish to contact me, I'll reapproach you in two weeks' time.",
+      "audioSrc": "/audio/article-05/a05-p22-s07.mp3",
+      "startTime": 255.005,
+      "endTime": 259.9,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p22-s08",
+      "paragraphId": "a05-p22",
+      "text": "Until then, good night.\"",
+      "audioSrc": "/audio/article-05/a05-p22-s08.mp3",
+      "startTime": 259.9,
+      "endTime": 262.45,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p23-s01",
+      "paragraphId": "a05-p23",
+      "text": "He bowed and left.",
+      "audioSrc": "/audio/article-05/a05-p23-s01.mp3",
+      "startTime": 262.45,
+      "endTime": 264.43,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p23-s02",
+      "paragraphId": "a05-p23",
+      "text": "Taking her ease, with effortless grace, like a cat making off with a fish.",
+      "audioSrc": "/audio/article-05/a05-p23-s02.mp3",
+      "startTime": 264.43,
+      "endTime": 269.915,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p24-s01",
+      "paragraphId": "a05-p24",
+      "text": "\"Mother?\"",
+      "audioSrc": "/audio/article-05/a05-p24-s01.mp3",
+      "startTime": 269.915,
+      "endTime": 270.865,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p24-s02",
+      "paragraphId": "a05-p24",
+      "text": "Chie heard Naomi's low voice and turned from the door.",
+      "audioSrc": "/audio/article-05/a05-p24-s02.mp3",
+      "startTime": 270.865,
+      "endTime": 274.32,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p24-s03",
+      "paragraphId": "a05-p24",
+      "text": "\"He has asked you?\"",
+      "audioSrc": "/audio/article-05/a05-p24-s03.mp3",
+      "startTime": 274.32,
+      "endTime": 276.055,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p25-s01",
+      "paragraphId": "a05-p25",
+      "text": "The sight of Naomi's clear eyes, her dark brows gave Chie strength.",
+      "audioSrc": "/audio/article-05/a05-p25-s01.mp3",
+      "startTime": 276.055,
+      "endTime": 281.16,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p25-s02",
+      "paragraphId": "a05-p25",
+      "text": "Maybe his hopes were preposterous.",
+      "audioSrc": "/audio/article-05/a05-p25-s02.mp3",
+      "startTime": 281.16,
+      "endTime": 284.07,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p26-s01",
+      "paragraphId": "a05-p26",
+      "text": "\"Where did you meet such a fellow?",
+      "audioSrc": "/audio/article-05/a05-p26-s01.mp3",
+      "startTime": 284.07,
+      "endTime": 286.685,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p26-s02",
+      "paragraphId": "a05-p26",
+      "text": "Imagine!",
+      "audioSrc": "/audio/article-05/a05-p26-s02.mp3",
+      "startTime": 286.685,
+      "endTime": 288.075,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p26-s03",
+      "paragraphId": "a05-p26",
+      "text": "He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!\"",
+      "audioSrc": "/audio/article-05/a05-p26-s03.mp3",
+      "startTime": 288.075,
+      "endTime": 294.29,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p27-s01",
+      "paragraphId": "a05-p27",
+      "text": "Chie waited for Naomi's ripe laughter.",
+      "audioSrc": "/audio/article-05/a05-p27-s01.mp3",
+      "startTime": 294.29,
+      "endTime": 297.155,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p28-s01",
+      "paragraphId": "a05-p28",
+      "text": "Naomi was silent.",
+      "audioSrc": "/audio/article-05/a05-p28-s01.mp3",
+      "startTime": 297.155,
+      "endTime": 298.965,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p28-s02",
+      "paragraphId": "a05-p28",
+      "text": "She stood a full half minute looking straight into Chie's eyes.",
+      "audioSrc": "/audio/article-05/a05-p28-s02.mp3",
+      "startTime": 298.965,
+      "endTime": 302.97,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p28-s03",
+      "paragraphId": "a05-p28",
+      "text": "Finally, she spoke.",
+      "audioSrc": "/audio/article-05/a05-p28-s03.mp3",
+      "startTime": 302.97,
+      "endTime": 304.745,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p28-s04",
+      "paragraphId": "a05-p28",
+      "text": "\"I met him at my literary meeting.\"",
+      "audioSrc": "/audio/article-05/a05-p28-s04.mp3",
+      "startTime": 304.745,
+      "endTime": 307.11,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p29-s01",
+      "paragraphId": "a05-p29",
+      "text": "Naomi turned to go back into the house, then stopped.",
+      "audioSrc": "/audio/article-05/a05-p29-s01.mp3",
+      "startTime": 307.11,
+      "endTime": 311.58,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p30-s01",
+      "paragraphId": "a05-p30",
+      "text": "\"Mother.\"",
+      "audioSrc": "/audio/article-05/a05-p30-s01.mp3",
+      "startTime": 311.58,
+      "endTime": 313.245,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p31-s01",
+      "paragraphId": "a05-p31",
+      "text": "\"Yes?\"",
+      "audioSrc": "/audio/article-05/a05-p31-s01.mp3",
+      "startTime": 313.245,
+      "endTime": 315.165,
+      "verified": false,
+      "needsReview": true
+    },
+    {
+      "sentenceId": "a05-p32-s01",
+      "paragraphId": "a05-p32",
+      "text": "\"I mean to have him.\"",
+      "audioSrc": "/audio/article-05/a05-p32-s01.mp3",
+      "startTime": 315.165,
+      "endTime": 317.36,
+      "verified": false,
+      "needsReview": true
+    }
+  ]
+}

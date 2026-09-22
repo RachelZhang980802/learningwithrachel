@@ -1,0 +1,597 @@
+# 句法层级逐句核查清单
+
+核查维度：原句分块完整性｜主从层级和括号范围｜词组功能｜省略还原｜引号与换行。
+`✓ 原句分块` 表示自动核验通过；只有 `[x] 已人工核查` 才表示语法和视觉均已人工复核。
+
+## Article 01
+
+- [x] 01.01 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜It is possible to get an education at a university.
+- [x] 01.02 ｜已人工核查 ｜分句 8 项 ｜成分 22 项 ｜✓ 原句分块 ｜It has been done; not often, but the fact that a proportion, however small, of college students do get a start in interested, methodical study, proves my thesis, and the following personal experience I have to offer illustrates it and shows how to get around the faculty, the other students, and the whole college system of mind-fixing.
+- [x] 01.03 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜My method might lose a boy his degree, but a degree is not worth so much as the capacity and the drive to learn.
+- [x] 01.04 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜My method was hit on by accident and some instinct.
+- [x] 01.05 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜I specialized.
+- [x] 01.06 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜With several courses prescribed, I concentrated on the one or two that interested me most and worked intensively on my favorites.
+- [x] 01.07 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜In my first two years, for example, I worked at English and political economy and read philosophy.
+- [x] 01.08 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜At the beginning of my junior year I had several cinches in history.
+- [x] 01.09 ｜已人工核查 ｜分句 5 项 ｜成分 17 项 ｜✓ 原句分块 ｜Now I liked history; I had neglected it partly because I rebelled at the way it was taught, as positive knowledge unrelated to politics, art, life, or anything else.
+- [x] 01.10 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜The professors gave us chapters out of a few books to read and be quizzed on.
+- [x] 01.11 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜Blessed as I was with a "bad memory," I could not commit to it anything that I did not understand and intellectually need.
+- [x] 01.12 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜The bare record of the story of man, with names, dates, and irrelative events, bored me.
+- [x] 01.13 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜But I had discovered in my readings of literature, philosophy, and political economy that history had light to throw upon unhistorical questions.
+- [x] 01.14 ｜已人工核查 ｜分句 5 项 ｜成分 12 项 ｜✓ 原句分块 ｜So I proposed in my junior and senior years to specialize in history, taking all the courses required and those also that I had failed.
+- [x] 01.15 ｜已人工核查 ｜分句 4 项 ｜成分 7 项 ｜✓ 原句分块 ｜With this in mind I listened attentively to the first introductory talk of Professor William Cary Jones on American constitutional history.
+- [x] 01.16 ｜已人工核查 ｜分句 7 项 ｜成分 12 项 ｜✓ 原句分块 ｜He was a dull lecturer, but I noticed that, after telling us what pages of what books we must be prepared in, he listed off some other references "for those that may care to dig deeper."
+- [x] 01.17 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜When the rest of the class rushed out into the sunshine, I went up to the professor and, to his surprise, asked for this memorandum.
+- [x] 01.18 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜He gave it to me.
+- [x] 01.19 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜Up in the library I ran through the required chapters in the two different books, and they differed on several points.
+- [x] 01.20 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜Turning to the other authorities, I saw that they disagreed on the same facts and also on others.
+- [x] 01.21 ｜已人工核查 ｜分句 5 项 ｜成分 12 项 ｜✓ 原句分块 ｜The librarian, appealed to, helped me search the bookshelves till the library closed, and then I called on Professor Jones for more references.
+- [x] 01.22 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜He was astonished, invited me in, and began to approve my industry, which astonished me.
+- [x] 01.23 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜I was not trying to be a good boy; I was better than that: I was a curious boy.
+- [x] 01.24 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜He lent me a couple of his books, and I went off to my club to read them.
+- [x] 01.25 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜They only deepened the mystery, clearing up the historical question, but leaving the answer to be dug for and written.
+- [x] 01.26 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜The historians did not know!
+- [x] 01.27 ｜已人工核查 ｜分句 3 项 ｜成分 13 项 ｜✓ 原句分块 ｜History was not a science, but a field for research, a field for me, for any young man, to explore, to make discoveries in and write a scientific report about.
+- [x] 01.28 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜I was fascinated.
+- [x] 01.29 ｜已人工核查 ｜分句 4 项 ｜成分 10 项 ｜✓ 原句分块 ｜As I went on from chapter to chapter, day after day, finding frequently essential differences of opinion and of fact, I saw more and more work to do.
+- [x] 01.30 ｜已人工核查 ｜分句 10 项 ｜成分 32 项 ｜✓ 原句分块 ｜In this course, American constitutional history, I hunted far enough to suspect that the Fathers of the Republic who wrote our sacred Constitution of the United States not only did not, but did not want to, establish a democratic government, and I dreamed for a while—as I used as a child to play I was Napoleon or a trapper—I promised myself to write a true history of the making of the American Constitution.
+- [x] 01.31 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜I did not do it; that chapter has been done or well begun since by two men: Smith of the University of Washington and Beard of Columbia.
+- [x] 01.32 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I found other events, men, and eras waiting for students.
+- [x] 01.33 ｜已人工核查 ｜分句 4 项 ｜成分 8 项 ｜✓ 原句分块 ｜In all my other courses, in ancient, in European, and in modern history, the disagreeing authorities carried me back to the need of a fresh search for the original documents or other clinching evidence.
+- [x] 01.34 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Of course I did well in my classes.
+- [x] 01.35 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜The history professors soon knew me as a student and seldom put a question to me except when the class didn't know the answer.
+- [x] 01.36 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜Then Professor Jones would say, "Well, Steffens, tell them about it."
+- [x] 01.37 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜Fine.
+- [x] 01.38 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜But vanity wasn't my ruling passion then.
+- [x] 01.39 ｜已人工核查 ｜分句 6 项 ｜成分 10 项 ｜✓ 原句分块 ｜What I had was a quickening sense that I was learning a method of studying history and that every chapter of it, from the beginning of the world to the end, is crying out to be rewritten.
+- [x] 01.40 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜There was something for Youth to do.
+
+## Article 02
+
+- [x] 02.01 ｜已人工核查 ｜分句 3 项 ｜成分 3 项 ｜✓ 原句分块 ｜A video of Bill Gates suggesting that robots should be taxed is going viral in the news and social media.
+- [x] 02.02 ｜已人工核查 ｜分句 2 项 ｜成分 2 项 ｜✓ 原句分块 ｜This idea of universal income and taxing robots is gaining ground.
+- [x] 02.03 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Sometime in June, a draft report was submitted to the European Parliament that states:
+- [x] 02.04 ｜已人工核查 ｜分句 3 项 ｜成分 4 项 ｜✓ 原句分块 ｜If advanced robots start replacing human workers in large numbers, the report recommends the European Commission force their owners to pay taxes or contribute to social security.
+- [x] 02.05 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜The establishment of a basic income, or guaranteed welfare program, is also suggested as a protection against human unemployment.
+- [x] 02.06 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I see robots as tools that make a job easier or do things much faster or much better or much cheaper.
+- [x] 02.07 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜Throughout human history, we have used various forms of tools, from stone to metal to water to air to wood to coal to oil, and to electricity to achieve transformations in our lives.
+- [x] 02.08 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜During each of these stages, there were a lot of people who lost their jobs and the next generation learned new skills to stay relevant.
+- [x] 02.09 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜A case in point is below:
+- [x] 02.10 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Textile factories organized workers' lives much differently from craft production.
+- [x] 02.11 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Handloom weavers worked at their own pace, with their own tools, and within their own cottages.
+- [x] 02.12 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜Factories set hours of work, and the machinery within them shaped the pace of work.
+- [x] 02.13 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜Factories brought workers together within one building to work on machinery that they did not own.
+- [x] 02.14 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Factories also increased the division of labor.
+- [x] 02.15 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜They narrowed the number and scope of tasks.
+- [x] 02.16 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜They included children and women within a common production process.
+- [x] 02.17 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜While weavers lost their jobs, their kids and families got their jobs in factories and in other firms.
+- [x] 02.18 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Now that the factories are getting closed and replaced with robots, factory workers' kids might become knowledge workers.
+- [x] 02.19 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜But there will always be a lag and some population will be left behind.
+- [x] 02.20 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜The side effect of automation was the number of families and kids in our families.
+- [x] 02.21 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜When muscle power was strength, the number of kids in a family, and the number of men in particular, was a sign of prosperity.
+- [x] 02.22 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜However, as we went through this progress, the birth rate plummeted and it is worth watching other social trends like more single people, lower marriage rates, more married couples with no kids, etc.
+- [x] 02.23 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜The world is also seeing another trend!
+- [x] 02.24 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜It is getting older.
+- [x] 02.25 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜⚠ 省略：比较从句 ｜But an older population may not be as bad as we think.
+- [x] 02.26 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜One theory is that our future generation will live in a resource-constrained world and therefore learn to conserve resources.
+- [x] 02.27 ｜已人工核查 ｜分句 4 项 ｜成分 6 项 ｜✓ 原句分块 ｜As Bill Gates argues, spare human capacity has already been put to better use to provide education and research leading to even better knowledge, health care and wealth for all of us.
+- [x] 02.28 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜However, this has not been uniform as the per capita income growth has been skewed toward developed nations.
+- [x] 02.29 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜The biggest argument Bill Gates makes is on the taxes.
+- [x] 02.30 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜As machines are replacing human workers, these robots don't get paid and this leads to the lower taxes for the government.
+- [x] 02.31 ｜已人工核查 ｜分句 4 项 ｜成分 5 项 ｜✓ 原句分块 ｜But what we fail to see is that this also leads to higher profits for corporations, which pay higher taxes.
+- [x] 02.32 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Also, there is a cost to making robots and investing in such technologies.
+- [x] 02.33 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜This creates a different kind of job, different levels of salaries and different taxes, maybe in a different part of the country or in different parts of the world altogether.
+- [x] 02.34 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Now, that's a flashpoint.
+- [x] 02.35 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜But this too shall pass.
+- [x] 02.36 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜We have seen the era of boycotting machine-made fabric and automobiles when they were seen as a threat at some point.
+- [x] 02.37 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Today, they have become an essential part of our lives.
+- [x] 02.38 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜I hear people complaining about the speed at which these changes happen and that we are unable to provide jobs or create newer skills.
+- [x] 02.39 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜But, think of the speed at which horses were replaced by rail roads, cars and trucks; the speed at which passenger ships were replaced by airlines.
+- [x] 02.40 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜They must have been pretty dramatic changes in those days!
+- [x] 02.41 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜These were huge job destroyers and also job creators of the other type.
+- [x] 02.42 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜In all cases, those who lost their jobs did not find work in the new industry.
+- [x] 02.43 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜It was a new breed of skills that found these jobs.
+- [x] 02.44 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜But it took some time.
+- [x] 02.45 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜These are very visible today because of the speed at which information travels today, amplifying these causes and effects.
+- [x] 02.46 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜In summary, I would argue that we have always been automating.
+- [x] 02.47 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜I see the world as a system and when the system gets disrupted, it takes a while to get to the equilibrium and that is painful.
+- [x] 02.48 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜We are going through that painful phase now and it needs empathy, compassion and social responsibility.
+
+## Article 03
+
+- [x] 03.01 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜I came rather late to understanding myself in the cycle of life.
+- [x] 03.02 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Until three years ago, I was a boy in relation to my grandfather.
+- [x] 03.03 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜He lived to 107 and remained mentally and physically capable until the end of his life.
+- [x] 03.04 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜A generation after the last of his friends died, he could still mow the lawn on a hot summer afternoon, and he insisted on doing so.
+- [x] 03.05 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜I usually wrestled the mower from his grip, but his extraordinary energy I took for granted.
+- [x] 03.06 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜I had seen it all my life; he was my roommate.
+- [x] 03.07 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜At my birth he was 64, middle age to him, and he was not a gentle old soul.
+- [x] 03.08 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜He argued with the men in the synagogue, screamed at his fellows in the bakery where he worked until his mid-80s.
+- [x] 03.09 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜He was a lover of strife, even at a distance.
+- [x] 03.10 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜For war news he turned up the volume on the television.
+- [x] 03.11 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜We never had to take care of each other, but as I learned to read, I voluntarily became his teacher.
+- [x] 03.12 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜My grandfather came to the United States from Lithuania before World War I.
+- [x] 03.13 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜He went to night school, could read and write English.
+- [x] 03.14 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜Still, I, the emissary of elementary school, considered it my duty to inform him about subtle things like electricity as he got ready for bed after a 12-hour workday.
+- [x] 03.15 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜He was not too interested in my lectures.
+- [x] 03.16 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Within minutes, he fell into a deep sleep.
+- [x] 03.17 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜His characteristic snoring pattern was a muted whistle that ended in a great puff of breath.
+- [x] 03.18 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜⚠ 省略：省略／无动词让步结构 ｜But even asleep there was nothing gentle about this man.
+- [x] 03.19 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜He specialized in hating his enemies, even those long dead.
+- [x] 03.20 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜As he talked in his sleep, he exploded in anger.
+- [x] 03.21 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜From his dreams I learned the curse words of English and Yiddish.
+- [x] 03.22 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Cushioned by his puffs of breath, visions of destruction crowded our room.
+- [x] 03.23 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Boils sprouted on the intestines of his enemies.
+- [x] 03.24 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Cholera depopulated their villages.
+- [x] 03.25 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜The deep background of his life as it escaped through his lips became the chorus of my nights.
+- [x] 03.26 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I heard him the way you hear static through a radio.
+- [x] 03.27 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜My young ears didn't want to listen to the uncorked anger, didn't know what to make of feelings that could stretch back 70 years.
+- [x] 03.28 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜But now, I recall those staccato outbursts as music.
+- [x] 03.29 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜When I went to college, I switched to roommates my age.
+- [x] 03.30 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜Then, in graduate school, I had my own apartment, and my old roommate joined me.
+- [x] 03.31 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜All his friends were dead, and he had lived long enough to become, once again, a stranger in the community he had inhabited for more than half a century.
+- [x] 03.32 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜It was clear to both of us that in spite of a 60-year age gap I was his most congenial companion.
+- [x] 03.33 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜So he joined me in the late 1960s at the University of Michigan.
+- [x] 03.34 ｜已人工核查 ｜分句 1 项 ｜成分 8 项 ｜✓ 原句分块 ｜He made new friends, took care of himself, and did most of the housework.
+- [x] 03.35 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜In Ann Arbor he found plenty of allies in hating Republicans, but it was even better than that.
+- [x] 03.36 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Ideologically it was the best of times.
+- [x] 03.37 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜He could enjoy both the war and the anti-war movement.
+- [x] 03.38 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜Our only serious problem was what he called my laziness.
+- [x] 03.39 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜I was studying for Ph.D. preliminary exams.
+- [x] 03.40 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜My work consisted of lying on the couch with a book in my lap.
+- [x] 03.41 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜Sometimes I dozed off, now and then I highlighted a significant passage.
+- [x] 03.42 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜He would pick up a pencil and mockingly mark the newspaper to imitate what I was doing.
+- [x] 03.43 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I could not convince him that it was work.
+- [x] 03.44 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜But I did convince others.
+- [x] 03.45 ｜已人工核查 ｜分句 1 项 ｜成分 9 项 ｜✓ 原句分块 ｜I finished my studies, married, fathered a daughter and a son and settled in Texas.
+- [x] 03.46 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜⚠ 省略：省略让步结构 ｜Though reluctant to move once again, my grandfather joined us in Houston.
+- [x] 03.47 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜He was exactly 100 years older than my son.
+- [x] 03.48 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜Now that I was established, a man with a career, a family, a job, I intended to help my grandfather in the last years of his life.
+- [x] 03.49 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜But in the crazy irony of things, it turned out that I was the one who would need help.
+- [x] 03.50 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜My solid life cracked in a matter of months, when my wife was stricken with a terrible neurologic disease.
+- [x] 03.51 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜The life of the family became the life of the hospital.
+- [x] 03.52 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜I lost touch with my friends, my work, even my children.
+- [x] 03.53 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I could not scream out my anger as my grandfather did in his sleep.
+- [x] 03.54 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜Instead, I turned it against myself, and it settled in my bones as depression.
+- [x] 03.55 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜I returned to the couch where I had studied for my Ph.D. exams, but I no longer saw anything glorious to underline.
+- [x] 03.56 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜At 103 and 104, my grandfather began to take an active role in helping me care for my children.
+- [x] 03.57 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜He did not understand what had happened to my wife and had no sympathy for my depression.
+- [x] 03.58 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜⚠ 省略：插入省略 ｜But he saw the work of daily life in front of him and, as always, he did it.
+- [x] 03.59 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Although by then he must have been wearing the shadow of death as an undershirt, the aroma of life stayed in his nostrils.
+- [x] 03.60 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜He listened to the news, he read the paper, he took out the garbage, he played with my children, he mowed the lawn.
+- [x] 03.61 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜He never offered me advice or understanding, he just kept doing things.
+- [x] 03.62 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜After about two years of melancholy, I joined him, started to see how much there was to do.
+- [x] 03.63 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜Now I get up early and I stay busy.
+- [x] 03.64 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜There's a lot of garbage to take out and in Texas there's always a lawn to mow.
+- [x] 03.65 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜I don't talk in my sleep yet, but even if I start, nobody will hear me.
+- [x] 03.66 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Roommates like him only come along about one a century.
+
+## Article 04
+
+- [x] 04.01 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜Rush hour in a provincial town is certainly not so busy as in London, but even so there are plenty of people moving about.
+- [x] 04.02 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Long, patient queues wait wearily for buses.
+- [x] 04.03 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜Never-ending lines of cars are checked while red traffic lights change to green.
+- [x] 04.04 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜Thousands of people are packed tightly in trains, the men's faces buried in their evening papers while women try in vain to knit.
+- [x] 04.05 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜In a slow train it may well be an hour's journey to their station.
+- [x] 04.06 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜James Saxon is in his usual comfortable corner, quietly smoking a cigarette.
+- [x] 04.07 ｜已人工核查 ｜分句 3 项 ｜成分 12 项 ｜✓ 原句分块 ｜When he is travelling by train at this time, he always reaches the station at ten past five by the station clock, but he never catches the 5:14 train.
+- [x] 04.08 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜Instead he travels by the train which leaves at twenty-four minutes past five so as to be sure of getting his corner seat.
+- [x] 04.09 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜There are no first-class compartments or reserved seats on this train.
+- [x] 04.10 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds.
+- [x] 04.11 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Facing him this evening there is a Finnish youth of eighteen, Matti Arpola.
+- [x] 04.12 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜This is his first visit to England, though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay.
+- [x] 04.13 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜As there are several people standing, James Saxon is the only person he can see clearly.
+- [x] 04.14 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜Matti decides that he is probably a typical Englishman, and he observes James carefully.
+- [x] 04.15 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜"Can he really be typical?" he thinks.
+- [x] 04.16 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜⚠ 省略：省略补充 ｜"He has an umbrella, neatly rolled, but no bowler hat; in fact, no hat at all.
+- [x] 04.17 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜Of course, he is reading about cricket and he is reserved and not interested in other people.
+- [x] 04.18 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜But he is only of average height and his hair is not fair, but as dark as that of an Italian, and curly, with almost no parting.
+- [x] 04.19 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.
+- [x] 04.20 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜His nose is slightly crooked.
+- [x] 04.21 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜What a serious face he has!
+- [x] 04.22 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜He is frowning a little, but the eyes beneath his worried-looking forehead are sincere and honest.
+- [x] 04.23 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜I don't think he is intelligent.
+- [x] 04.24 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜"His clothes are anything but smart.
+- [x] 04.25 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜⚠ 省略：省略让步结构 ｜In fact, they are rather old, though well-brushed.
+- [x] 04.26 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Even though he is not wearing a wedding ring, he is probably married, with perhaps three children.
+- [x] 04.27 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜⚠ 省略：省略并列主句二 ｜His gloves are fur-lined and his trousers well pressed.
+- [x] 04.28 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜He keeps far too many things in his pockets, so his suit looks badly out of shape.
+- [x] 04.29 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜What dull, old-fashioned leather shoes he is wearing!
+- [x] 04.30 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜His briefcase is old too and bulging, so that the zip-fastener does not close properly.
+- [x] 04.31 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜There are the initials J. S. on it.
+- [x] 04.32 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Is his name John Smith?
+- [x] 04.33 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜"I think he is probably an office clerk or a shop assistant.
+- [x] 04.34 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Does he look like a teacher, though?
+- [x] 04.35 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Anyhow, he lives with a plain wife and five children in a small worker's house with a tiny garden, where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed.
+- [x] 04.36 ｜已人工核查 ｜分句 3 项 ｜成分 12 项 ｜✓ 原句分块 ｜But tonight, first he is helping his wife to put the children to bed and then he is taking her to the cinema as this is payday.
+- [x] 04.37 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Or is he visiting the local pub?
+- [x] 04.38 ｜已人工核查 ｜分句 4 项 ｜成分 4 项 ｜✓ 原句分块 ｜Does he drink whisky (I believe most Englishmen do) or does he prefer beer?
+- [x] 04.39 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I am sure he very much likes a cup of tea.
+- [x] 04.40 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜He seems quite energetic, but his complexion is pale and he is very thin.
+- [x] 04.41 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Does he find it difficult to satisfy the needs of his miserable wife and seven unfortunate children?
+- [x] 04.42 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜Poor fellow!
+- [x] 04.43 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜I am sorry for him."
+- [x] 04.44 ｜已人工核查 ｜分句 2 项 ｜成分 11 项 ｜✓ 原句分块 ｜At last, shortly after a quarter past six by Matti's watch, the train reaches Lakewell Junction, and Matti immediately sees Geoffrey waiting for him.
+- [x] 04.45 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜They greet each other.
+- [x] 04.46 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜At first Matti cannot find his ticket, but it is discovered in his bulging coat pocket.
+- [x] 04.47 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜He gives it up to the ticket-collector and the two boys go off to find Geoffrey's father's car.
+- [x] 04.48 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜Near it there stands another car, a magnificent Rolls-Royce, and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in.
+- [x] 04.49 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜"Who is that?" Matti asks.
+- [x] 04.50 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜"Why is he getting into that car?
+- [x] 04.51 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Where does he live?
+- [x] 04.52 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜He looks like a poorly-paid clerk or a workman."
+- [x] 04.53 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Geoffrey laughs loudly as if this is a good joke.
+- [x] 04.54 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜"That is Sir James Saxon," he replies.
+- [x] 04.55 ｜已人工核查 ｜分句 1 项 ｜成分 7 项 ｜✓ 原句分块 ｜He has a fortune of around two million pounds, and controls forty-two factories in this area alone.
+- [x] 04.56 ｜已人工核查 ｜分句 4 项 ｜成分 10 项 ｜✓ 原句分块 ｜He is a bachelor who lives in a fourth-storey luxury flat, so, if he feels like it, he can go off to the Riviera for a month or two.
+- [x] 04.57 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜Next week he is flying to Japan on business in his private aeroplane, though people say he very much prefers travelling by train.
+- [x] 04.58 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜He is said to have twenty-one suits, but he is always seen in the same old one.
+- [x] 04.59 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜By the way, I remember now.
+- [x] 04.60 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜His father and mother are both Finns: Perhaps that is why he takes no interest in cricket.
+- [x] 04.61 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜His real name is Jussi Saksalainen, but he is now a naturalised British subject with an English name.
+- [x] 04.62 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜He doesn't look at all Finnish.
+- [x] 04.63 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜"Here's your other case.
+- [x] 04.64 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Put it down a minute while I unlock the car.
+- [x] 04.65 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Do you enjoy gardening?
+- [x] 04.66 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜⚠ 省略：省略条件结构 ｜If so, you can help me: digging, weeding and mowing the lawn.
+- [x] 04.67 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜And I'm painting the tool shed tomorrow.
+- [x] 04.68 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜You don't know how to play cricket yet, but I'm taking you to a match on Saturday.
+- [x] 04.69 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜Can you speak English any better now?
+- [x] 04.70 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜You can soon lose that Finnish reserve.
+- [x] 04.71 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜Come along!
+- [x] 04.72 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜Let's get going!
+- [x] 04.73 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜I'm hungry and hot."
+- [x] 04.74 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Matti remembers sadly all that his school-teachers say about his overactive and unreliable imagination.
+- [x] 04.75 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Perhaps they are right after all.
+
+## Article 05
+
+- [x] 05.01 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Akira came directly, breaking all tradition.
+- [x] 05.02 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Was that it?
+- [x] 05.03 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?
+- [x] 05.04 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜He came on a winter's eve.
+- [x] 05.05 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜He pounded on the door while a cold rain beat on the shuttered veranda, so at first Chie thought him only the wind.
+- [x] 05.06 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜The maid knew better.
+- [x] 05.07 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Chie heard her soft scuttling footsteps, the creak of the door.
+- [x] 05.08 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜Then the maid brought a calling card to the drawing room, for Chie.
+- [x] 05.09 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜Chie was reluctant to go to her guest; perhaps she was feeling too cozy.
+- [x] 05.10 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜She and Naomi were reading at a low table set atop a charcoal brazier.
+- [x] 05.11 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜A thick quilt spread over the sides of the table so their legs were tucked inside with the heat.
+- [x] 05.12 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜"Who is it at this hour, in this weather?"
+- [x] 05.13 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜Chie questioned as she picked the name card off the maid's lacquer tray.
+- [x] 05.14 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜"Shinoda, Akira.
+- [x] 05.15 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜Kobe Dental College," she read.
+- [x] 05.16 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Naomi recognized the name.
+- [x] 05.17 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Chie heard a soft intake of air.
+- [x] 05.18 ｜已人工核查 ｜分句 3 项 ｜成分 3 项 ｜✓ 原句分块 ｜"I think you should go," said Naomi.
+- [x] 05.19 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Akira was waiting in the entry.
+- [x] 05.20 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜He was in his early twenties, slim and serious, wearing the black military-style uniform of a student.
+- [x] 05.21 ｜已人工核查 ｜分句 4 项 ｜成分 7 项 ｜✓ 原句分块 ｜As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—Chie glanced beyond him.
+- [x] 05.22 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double.
+- [x] 05.23 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜"Madame," said Akira, "forgive my disruption, but I come with a matter of urgency."
+- [x] 05.24 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜His voice was soft, refined.
+- [x] 05.25 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜He straightened and stole a deferential peek at her face.
+- [x] 05.26 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜In the dim light his eyes shone with sincerity.
+- [x] 05.27 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Chie felt herself starting to like him.
+- [x] 05.28 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜"Come inside, get out of this nasty night.
+- [x] 05.29 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Surely your business can wait for a moment or two."
+- [x] 05.30 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜"I don't want to trouble you.
+- [x] 05.31 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜Normally I would approach you more properly but I've received word of a position.
+- [x] 05.32 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜I've an opportunity to go to America, as dentist for Seattle's Japanese community."
+- [x] 05.33 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜"Congratulations," Chie said with amusement.
+- [x] 05.34 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜"That is an opportunity, I'm sure.
+- [x] 05.35 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜But how am I involved?"
+- [x] 05.36 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Even noting Naomi's breathless reaction to the name card, Chie had no idea.
+- [x] 05.37 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Akira's message, delivered like a formal speech, filled her with maternal amusement.
+- [x] 05.38 ｜已人工核查 ｜分句 3 项 ｜成分 4 项 ｜✓ 原句分块 ｜You know how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?
+- [x] 05.39 ｜已人工核查 ｜分句 3 项 ｜成分 3 项 ｜✓ 原句分块 ｜That's how she viewed him, as a child.
+- [x] 05.40 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜It was how she viewed Naomi.
+- [x] 05.41 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, Chie had made no effort to find her a husband.
+- [x] 05.42 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜Akira blushed.
+- [x] 05.43 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜"Depending on your response, I may stay in Japan.
+- [x] 05.44 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜I've come to ask for Naomi's hand."
+- [x] 05.45 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Suddenly Chie felt the dampness of the night.
+- [x] 05.46 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜"Does Naomi know anything of your…ambitions?"
+- [x] 05.47 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜"We have an understanding.
+- [x] 05.48 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Please don't judge my candidacy by the unseemliness of this proposal.
+- [x] 05.49 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I ask directly because the use of a go-between takes much time.
+- [x] 05.50 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Either method comes down to the same thing: a matter of parental approval.
+- [x] 05.51 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜If you give your consent, I become Naomi's yoshi.
+- [x] 05.52 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜We'll live in the House of Fuji.
+- [x] 05.53 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜Without your consent, I must go to America, to secure a new home for my bride."
+- [x] 05.54 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Eager to make his point, he'd been looking her full in the face.
+- [x] 05.55 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Abruptly, his voice turned gentle.
+- [x] 05.56 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜"I see I've startled you.
+- [x] 05.57 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜My humble apologies.
+- [x] 05.58 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜I'll take no more of your evening.
+- [x] 05.59 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜My address is on my card.
+- [x] 05.60 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜If you don't wish to contact me, I'll reapproach you in two weeks' time.
+- [x] 05.61 ｜已人工核查 ｜分句 2 项 ｜成分 2 项 ｜✓ 原句分块 ｜Until then, good night."
+- [x] 05.62 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜He bowed and left.
+- [x] 05.63 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜Taking her ease, with effortless grace, like a cat making off with a fish.
+- [x] 05.64 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜"Mother?"
+- [x] 05.65 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜Chie heard Naomi's low voice and turned from the door.
+- [x] 05.66 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜"He has asked you?"
+- [x] 05.67 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜The sight of Naomi's clear eyes, her dark brows gave Chie strength.
+- [x] 05.68 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Maybe his hopes were preposterous.
+- [x] 05.69 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜"Where did you meet such a fellow?
+- [x] 05.70 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜Imagine!
+- [x] 05.71 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!"
+- [x] 05.72 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Chie waited for Naomi's ripe laughter.
+- [x] 05.73 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Naomi was silent.
+- [x] 05.74 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜She stood a full half minute looking straight into Chie's eyes.
+- [x] 05.75 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Finally, she spoke.
+- [x] 05.76 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜"I met him at my literary meeting."
+- [x] 05.77 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Naomi turned to go back into the house, then stopped.
+- [x] 05.78 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜"Mother."
+- [x] 05.79 ｜已人工核查 ｜分句 1 项 ｜成分 1 项 ｜✓ 原句分块 ｜"Yes?"
+- [x] 05.80 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜"I mean to have him."
+
+## Article 06
+
+- [x] 06.01 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books.
+- [x] 06.02 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Pleased with The Pilgrim's Progress, I began collecting John Bunyan's works in separate little volumes.
+- [x] 06.03 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜I afterward sold them to enable me to buy R. Burton's Historical Collections; they were small chapmen's books, and cheap, 40 or 50 in all.
+- [x] 06.04 ｜已人工核查 ｜分句 7 项 ｜成分 15 项 ｜✓ 原句分块 ｜My father's little library consisted chiefly of books in polemic divinity, most of which I read, and have since often regretted that, at a time when I had such a thirst for knowledge, more proper books had not fallen in my way since it was now resolved I should not be a clergyman.
+- [x] 06.05 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜⚠ 摘录未定位：存在主句① ｜Plutarch's Lives there was in which I read abundantly, and I still think that time spent to great advantage.
+- [x] 06.06 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜There was also a book of Defoe's, called An Essay on Projects, and another of Dr. Mather's, called Essays to Do Good, which perhaps gave me a turn of thinking that had an influence on some of the principal future events of my life.
+- [x] 06.07 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜This bookish inclination at length determined my father to make me a printer, though he had already one son (James) of that profession.
+- [x] 06.08 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜In 1717 my brother James returned from England with a press and letters to set up his business in Boston.
+- [x] 06.09 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜I liked it much better than that of my father, but still had a hankering for the sea.
+- [x] 06.10 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜To prevent the apprehended effect of such an inclination, my father was impatient to have me bound to my brother.
+- [x] 06.11 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜I stood out some time, but at last was persuaded, and signed the indentures when I was yet but twelve years old.
+- [x] 06.12 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜I was to serve as an apprentice till I was twenty-one years of age, only I was to be allowed journeyman's wages during the last year.
+- [x] 06.13 ｜已人工核查 ｜分句 1 项 ｜成分 9 项 ｜✓ 原句分块 ｜In a little time I made great proficiency in the business, and became a useful hand to my brother.
+- [x] 06.14 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜I now had access to better books.
+- [x] 06.15 ｜已人工核查 ｜分句 2 项 ｜成分 12 项 ｜✓ 原句分块 ｜An acquaintance with the apprentices of booksellers enabled me sometimes to borrow a small one, which I was careful to return soon and clean.
+- [x] 06.16 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜Often I sat up in my room reading the greatest part of the night, when the book was borrowed in the evening and to be returned early in the morning, lest it should be missed or wanted.
+- [x] 06.17 ｜已人工核查 ｜分句 4 项 ｜成分 17 项 ｜⚠ 摘录未定位：主句 ｜And after some time an ingenious tradesman, Mr. Matthew Adams, who had a pretty collection of books, and who frequented our printing-house, took notice of me, invited me to his library, and very kindly lent me such books as I chose to read.
+- [x] 06.18 ｜已人工核查 ｜分句 4 项 ｜成分 13 项 ｜⚠ 摘录未定位：主句① ｜I now took a fancy to poetry, and made some little pieces; my brother, thinking it might turn to account, encouraged me, and put me on composing occasional ballads.
+- [x] 06.19 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜One was called The Lighthouse Tragedy, and contained an account of the drowning of Captain Worthilake, with his two daughters; the other was a sailor's song, on the taking of Teach (or Blackbeard) the pirate.
+- [x] 06.20 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜They were wretched stuff, in the Grub-street-ballad style; and when they were printed he sent me about the town to sell them.
+- [x] 06.21 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜The first sold wonderfully, the event being recent, having made a great noise.
+- [x] 06.22 ｜已人工核查 ｜分句 4 项 ｜成分 10 项 ｜✓ 原句分块 ｜This flattered my vanity; but my father discouraged me by ridiculing my performances, and telling me verse-makers were generally beggars.
+- [x] 06.23 ｜已人工核查 ｜分句 6 项 ｜成分 15 项 ｜✓ 原句分块 ｜So I escaped being a poet, most probably a very bad one; but as prose writing had been of great use to me in the course of my life, and was a principal means of my advancement, I shall tell you how, in such a situation, I acquired what little ability I have in that way.
+- [x] 06.24 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜There was another bookish lad in the town, John Collins by name, with whom I was intimately acquainted.
+- [x] 06.25 ｜已人工核查 ｜分句 6 项 ｜成分 19 项 ｜✓ 原句分块 ｜We sometimes disputed, and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.
+- [x] 06.26 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜I had caught it by reading my father's books of dispute about religion.
+- [x] 06.27 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜Persons of good sense, I have since observed, seldom fall into it, except lawyers, university men, and men of all sorts that have been bred at Edinburgh.
+- [x] 06.28 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜A question was once, somehow or other, started between Collins and me, of the propriety of educating the female sex in learning, and their abilities for study.
+- [x] 06.29 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜He was of opinion that it was improper, and that they were naturally unequal to it.
+- [x] 06.30 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜I took the contrary side, perhaps a little for dispute's sake.
+- [x] 06.31 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜He was naturally more eloquent, had a ready plenty of words; and sometimes, as I thought, bore me down more by his fluency than by the strength of his reasons.
+- [x] 06.32 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜As we parted without settling the point, and were not to see one another again for some time, I sat down to put my arguments in writing, which I copied fair and sent to him.
+- [x] 06.33 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜He answered, and I replied.
+- [x] 06.34 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Three or four letters of a side had passed, when my father happened to find my papers and read them.
+- [x] 06.35 ｜已人工核查 ｜分句 5 项 ｜成分 14 项 ｜✓ 原句分块 ｜Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.
+- [x] 06.36 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜I saw the justice of his remark, and thence grew more attentive to the manner in writing, and determined to endeavor at improvement.
+- [x] 06.37 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜About this time I met with an odd volume of The Spectator.
+- [x] 06.38 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜It was the third.
+- [x] 06.39 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜I had never before seen any of them.
+- [x] 06.40 ｜已人工核查 ｜分句 1 项 ｜成分 9 项 ｜✓ 原句分块 ｜I bought it, read it over and over, and was much delighted with it.
+- [x] 06.41 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜⚠ 省略：省略插入 ｜I thought the writing excellent, and wished, if possible, to imitate it.
+- [x] 06.42 ｜已人工核查 ｜分句 5 项 ｜成分 19 项 ｜✓ 原句分块 ｜With this view I took some of the papers, and, making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand.
+- [x] 06.43 ｜已人工核查 ｜分句 1 项 ｜成分 10 项 ｜✓ 原句分块 ｜Then I compared my Spectator with the original, discovered some of my faults, and corrected them.
+- [x] 06.44 ｜已人工核查 ｜分句 6 项 ｜成分 16 项 ｜✓ 原句分块 ｜But I found I wanted a stock of words, or a readiness in recollecting and using them, which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.
+- [x] 06.45 ｜已人工核查 ｜分句 2 项 ｜成分 11 项 ｜✓ 原句分块 ｜Therefore I took some of the tales and turned them into verse; and, after a time, when I had pretty well forgotten the prose, turned them back again.
+- [x] 06.46 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜I also sometimes jumbled my collections of hints into confusion, and after some weeks endeavored to reduce them into the best order, before I began to form the full sentences and complete the paper.
+- [x] 06.47 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜This was to teach me method in the arrangement of thoughts.
+- [x] 06.48 ｜已人工核查 ｜分句 6 项 ｜成分 18 项 ｜✓ 原句分块 ｜By comparing my work afterward with the original, I discovered many faults and amended them; but I sometimes had the pleasure of fancying that, in certain particulars of small import, I had been lucky enough to improve the method or the language, and this encouraged me to think I might possibly in time come to be a tolerable English writer, of which I was extremely ambitious.
+- [x] 06.49 ｜已人工核查 ｜分句 10 项 ｜成分 17 项 ｜✓ 原句分块 ｜My time for these exercises and for reading was at night, after work or before it began in the morning, or on Sundays, when I contrived to be in the printing-house alone, evading as much as I could the common attendance on public worship which my father used to exact on me when I was under his care, and which indeed I still thought a duty, though I could not, as it seemed to me, afford time to practice it.
+
+## Article 07
+
+- [x] 07.01 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.
+- [x] 07.02 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Only within the past 6,000 years, a small fraction of human history, did some of our ancestors come together in cities.
+- [x] 07.03 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants.
+- [x] 07.04 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Urban life involves trade-offs.
+- [x] 07.05 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜We may gain big benefits in return for suffering big disadvantages.
+- [x] 07.06 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity.
+- [x] 07.07 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.
+- [x] 07.08 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.
+- [x] 07.09 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜⚠ 摘录未定位：主句 ｜It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.
+- [x] 07.10 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜⚠ 摘录未定位：非限制性定语从句 ｜Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.
+- [x] 07.11 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜But Singapore depends on Malaysia for most of its water and much of its food, and can't afford to make mistakes or provoke its neighbors.
+- [x] 07.12 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜⚠ 摘录未定位：内容从句 ｜So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.
+- [x] 07.13 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.
+- [x] 07.14 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜⚠ 省略：压缩的共享修饰 ｜Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.
+- [x] 07.15 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜⚠ 摘录未定位：主句（并列谓语） ｜They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.
+- [x] 07.16 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Americans may view such measures with horror.
+- [x] 07.17 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜⚠ 摘录未定位：主句 ｜But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security.
+- [x] 07.18 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Next consider Germany's cities, also densely populated.
+- [x] 07.19 ｜已人工核查 ｜分句 3 项 ｜成分 14 项 ｜⚠ 摘录未定位：主句 ｜Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property.
+- [x] 07.20 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜To obtain a fishing license, Germans must attend many hours of fishing classes, then pass a 60-question exam.
+- [x] 07.21 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Most Americans would bristle at such restrictions.
+- [x] 07.22 ｜已人工核查 ｜分句 1 项 ｜成分 8 项 ｜✓ 原句分块 ｜But benefits to German communities include beautiful regional architecture, green cities, government support for the arts, and healthy fish populations.
+- [x] 07.23 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.
+- [x] 07.24 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜The result is a free-for-all, in which many individuals and communities suffer disadvantages.
+- [x] 07.25 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Almost any style of house is permissible; local architectural character is nonexistent.
+- [x] 07.26 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.
+- [x] 07.27 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜To fish in the local bay waters, anyone can buy a fishing license—no questions asked—so of course fish populations decline.
+- [x] 07.28 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜The outcomes of trade-offs differ for Singapore, Germany, and L.A. because different geographies and histories have led to different customs.
+- [x] 07.29 ｜已人工核查 ｜分句 1 项 ｜成分 8 项 ｜⚠ 省略：主句（并列补足与省略） ｜Population density is highest in Singapore, intermediate in Germany, lowest in the United States (including California).
+- [x] 07.30 ｜已人工核查 ｜分句 4 项 ｜成分 11 项 ｜⚠ 摘录未定位：主句①；⚠ 省略：省略主句②、省略主句③ ｜China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, Germany for two millennia, the United States for just a few centuries.
+- [x] 07.31 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.
+- [x] 07.32 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜The cultural legacies of those differences live on today.
+- [x] 07.33 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜Another issue of urban life is the trade-off between social ties and anonymity.
+- [x] 07.34 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.
+- [x] 07.35 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.
+- [x] 07.36 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜⚠ 省略：感叹内容（省略） ｜A first reaction of many lonely, urban Americans is: How heartwarmingly wonderful!
+- [x] 07.37 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜When New Guinea villagers move to cities, they find themselves surrounded by strangers, their friends few or recent or scattered across the city.
+- [x] 07.38 ｜已人工核查 ｜分句 1 项 ｜成分 6 项 ｜✓ 原句分块 ｜The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.
+- [x] 07.39 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Still, we American city dwellers shouldn't romanticize traditional village living arrangements.
+- [x] 07.40 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential.
+- [x] 07.41 ｜已人工核查 ｜分句 2 项 ｜成分 11 项 ｜⚠ 摘录未定位：主句（并列谓语） ｜In New Guinea villages, everybody knows, constantly watches, and incessantly discusses what everybody else is doing.
+- [x] 07.42 ｜已人工核查 ｜分句 6 项 ｜成分 20 项 ｜⚠ 摘录未定位：原因从句 ｜As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.
+- [x] 07.43 ｜已人工核查 ｜分句 4 项 ｜成分 12 项 ｜✓ 原句分块 ｜New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.
+- [x] 07.44 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Thus, New Guineans recognize drawbacks as well as heartwarming benefits of village life.
+- [x] 07.45 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜They also understand the benefits, not just the pains, of urban anonymity.
+- [x] 07.46 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜It all comes down to compromises.
+- [x] 07.47 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?
+- [x] 07.48 ｜已人工核查 ｜分句 4 项 ｜成分 10 项 ｜✓ 原句分块 ｜If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?
+
+## Article 08
+
+- [x] 08.01 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜I watch a lot of competitive cooking shows.
+- [x] 08.02 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜And it seems like whenever there is a "bizarre" or "exotic" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.
+- [x] 08.03 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜⚠ 摘录未定位：主句② ｜Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create "Asian-inspired" dishes.
+- [x] 08.04 ｜已人工核查 ｜分句 3 项 ｜成分 12 项 ｜✓ 原句分块 ｜When going out to eat, I notice many "Asian-fusion" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.
+- [x] 08.05 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜What is "Asian-inspired" or "Asian-fusion?"
+- [x] 08.06 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜⚠ 摘录未定位：内容从句 ｜I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.
+- [x] 08.07 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜⚠ 省略：承接前句 ｜Or toast with mayonnaise and pork sung.
+- [x] 08.08 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.
+- [x] 08.09 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜It's frustrating when my culture gets consumed and appropriated as both trend and tourism.
+- [x] 08.10 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜⚠ 省略：主句、并列疑问内容作主语 ｜Yet when it comes to food, what's appropriation and what's not can be tricky to think about.
+- [x] 08.11 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜Cultural appropriation is when a dominant culture adopts parts of another culture from people that it has oppressed.
+- [x] 08.12 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜The dominant culture can try the food and love the food without ever having to experience oppression.
+- [x] 08.13 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Yet food appropriation isn't just eating food from someone else's culture.
+- [x] 08.14 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜It might not be appropriation if you're white and you love eating dumplings and hand-pulled noodles.
+- [x] 08.15 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜Enjoying food from another culture is perfectly fine.
+- [x] 08.16 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.
+- [x] 08.17 ｜已人工核查 ｜分句 5 项 ｜成分 15 项 ｜✓ 原句分块 ｜When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.
+- [x] 08.18 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜It's also harmful when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit.
+- [x] 08.19 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜Here are some dining behaviors that are culturally appropriative when it comes to food.
+- [x] 08.20 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Often, when we talk about "ethnic" food, we're not referring to French, German, or Italian cuisine.
+- [x] 08.21 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the "brownest" people.
+- [x] 08.22 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.
+- [x] 08.23 ｜已人工核查 ｜分句 4 项 ｜成分 10 项 ｜✓ 原句分块 ｜While food can connect people together and serve as a way to learn about cultures other than our own, what happens is that food becomes the only symbol for certain places.
+- [x] 08.24 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.
+- [x] 08.25 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Entire regions become reduced to menu options and ingredients, without any thought to the many different communities in these places.
+- [x] 08.26 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜There's a loss of complexity and cultures end up getting homogenized.
+- [x] 08.27 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜In seeking "authentic" food, we're hoping for a truly immersive experience into another culture.
+- [x] 08.28 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜⚠ 摘录未定位：主句；⚠ 省略：省略的让步补充 ｜The food experience, whether in a restaurant in someone's home city or as part of a trip somewhere else, comes to represent a larger experience with that culture and community.
+- [x] 08.29 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜⚠ 摘录未定位：介词宾语从句 ｜Our perceptions of what is "authentic" stem from preconceived "exotic narratives" of that culture and communities.
+- [x] 08.30 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜For example, it's not uncommon to hear someone say: "Oh, during my trip to Asia, I had the most authentic [fill in the blank]."
+- [x] 08.31 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Food culture has travelled in messy and complicated ways across the globe.
+- [x] 08.32 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜The impacts of historical and continuing colonization are devastating to many cultures, and many "authentic" "ethnic" cuisines are connected to histories of colonization.
+- [x] 08.33 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜For example, the use of Spam in different parts of Asia and the Pacific Islands, like Spam musubi or Spam in hot pot, is a direct result of U.S. colonization.
+- [x] 08.34 ｜已人工核查 ｜分句 4 项 ｜成分 13 项 ｜⚠ 省略：冒号后主句②（省略） ｜Of course, this is not necessarily a bad thing in itself: If you love a dish and think it's delicious, great!
+- [x] 08.35 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜⚠ 省略：主句（省略） ｜If you're searching for a place that serves a particular dish, also great!
+- [x] 08.36 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜⚠ 摘录未定位：主句 ｜However, seeking "authenticity" does not always show respect for the food of another culture.
+- [x] 08.37 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜The idea of the "authentic" food experience is separated from reality.
+- [x] 08.38 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜It also freezes a culture in a particular place in time.
+- [x] 08.39 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜✓ 原句分块 ｜When food gets disconnected from the communities and places it's from, people start forgetting about the oppression faced by those communities.
+- [x] 08.40 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜⚠ 省略：主句（并列谓语） ｜Folks might love Mexican food, but not care about different issues such as labor rights and immigration policy that impact members from that community.
+- [x] 08.41 ｜已人工核查 ｜分句 3 项 ｜成分 13 项 ｜✓ 原句分块 ｜There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.
+- [x] 08.42 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜⚠ 摘录未定位：主句 ｜Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable.
+- [x] 08.43 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜⚠ 摘录未定位：主句 ｜We might not know how Kung Pao chicken also reflects a story about Chinese immigration or the complex colonial story behind curry and the homogenization of South Asian cultures.
+- [x] 08.44 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜More and more now, part of chefs' training also involves travel in order to learn about different cooking techniques and ingredients.
+- [x] 08.45 ｜已人工核查 ｜分句 4 项 ｜成分 11 项 ｜✓ 原句分块 ｜Because of this they're opening up fancy restaurants that repurpose "cheap" eats from working class and poor communities that rely on affordable, local products and ingredients.
+- [x] 08.46 ｜已人工核查 ｜分句 4 项 ｜成分 8 项 ｜⚠ 省略：使役补足 ｜As a result, food culture gets re-colonized by chefs seeking to make that "authentic" street food they tried more elegant.
+- [x] 08.47 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Often, these restaurants are inaccessible to the communities they're appropriating from.
+- [x] 08.48 ｜已人工核查 ｜分句 2 项 ｜成分 8 项 ｜✓ 原句分块 ｜This is different from when members from that community repurpose their own traditional foods.
+- [x] 08.49 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?
+- [x] 08.50 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜Where are these recipes from?
+- [x] 08.51 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Who is this cuisine profiting off?
+- [x] 08.52 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜Is it a group that is historically and currently oppressed?
+- [x] 08.53 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Another problem is when ingredients get reappropriated.
+- [x] 08.54 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities the food comes from.
+- [x] 08.55 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜For example, quinoa, which is native to Bolivia, is now too expensive for communities there.
+- [x] 08.56 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Last year, Whole Foods declared collard greens the "new kale."
+- [x] 08.57 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜⚠ 摘录未定位：主句 ｜Coconuts have now been packaged as high-end, luxury water.
+- [x] 08.58 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Tofu, soy, and tempeh are now staples at organic, healthy food markets.
+- [x] 08.59 ｜已人工核查 ｜分句 2 项 ｜成分 10 项 ｜✓ 原句分块 ｜This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions.
+- [x] 08.60 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜✓ 原句分块 ｜Food is an important part of communities and cultures—the relationship between food and culture also means that food can be used as a tool of oppression.
+- [x] 08.61 ｜已人工核查 ｜分句 2 项 ｜成分 12 项 ｜✓ 原句分块 ｜It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home.
+- [x] 08.62 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜I'm not against trying and cooking food outside your own culture—I love it, too.
+- [x] 08.63 ｜已人工核查 ｜分句 5 项 ｜成分 12 项 ｜⚠ 省略：主句、并列不定式② ｜However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power.
+- [x] 08.64 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜Colonization and gentrification are directly related to the appropriation of food.
+- [x] 08.65 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜✓ 原句分块 ｜We need to begin educating ourselves on issues that impact the communities that we're getting our meals from.
+
+## Article 09
+
+- [x] 09.01 ｜已人工核查 ｜分句 4 项 ｜成分 8 项 ｜✓ 原句分块 ｜In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.
+- [x] 09.02 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜I plan my trips like a cultural interloper, making sure to hit the "only-here" greatest hits like the tourist that I very much am.
+- [x] 09.03 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜This is not the going wisdom these days.
+- [x] 09.04 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜If you have researched a trip in, say, the past five to ten years or so, you may have noticed a recurring and aggressive directive: TRAVEL LIKE A LOCAL!
+- [x] 09.05 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜You've probably also seen the entreaty, the shaming: How to Not Look like a Tourist; How to Not Act like a Tourist; How to Not Be a Tourist.
+- [x] 09.06 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜On the surface, the promise is an attractive one: You're getting the inside scoop for the best places to eat and shop with none of the tourist traps.
+- [x] 09.07 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜You know only the spots that those truly in the know can find.
+- [x] 09.08 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜But it's all a complete farce.
+- [x] 09.09 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜At best, "Travel like a Local" is a silly paradoxical myth; at worst, it's terrible vacation advice.
+- [x] 09.10 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜For one thing, locals aren't traveling.
+- [x] 09.11 ｜已人工核查 ｜分句 1 项 ｜成分 2 项 ｜✓ 原句分块 ｜They are working.
+- [x] 09.12 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜⚠ 摘录未定位：时间从句；⚠ 省略：承接省略、最后一项 ｜Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.
+- [x] 09.13 ｜已人工核查 ｜分句 4 项 ｜成分 8 项 ｜✓ 原句分块 ｜Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.
+- [x] 09.14 ｜已人工核查 ｜分句 3 项 ｜成分 10 项 ｜⚠ 省略：主句 ｜They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.
+- [x] 09.15 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜The whole point of travel is to get away from the humdrum of everyday life.
+- [x] 09.16 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜✓ 原句分块 ｜It is to very much not be a local.
+- [x] 09.17 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜⚠ 省略：祈使主句 ｜Put it this way: You simply cannot travel like a local.
+- [x] 09.18 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜It is a contradiction in terms.
+- [x] 09.19 ｜已人工核查 ｜分句 3 项 ｜成分 4 项 ｜✓ 原句分块 ｜Staying at a neighborhood Airbnb in Mexico City's Roma doesn't make you a Chilango.
+- [x] 09.20 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜⚠ 省略：时间缩略结构 ｜Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.
+- [x] 09.21 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜And rarely do New Yorkers tuck into a three-hour tasting menu on a Tuesday night.
+- [x] 09.22 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜And locals certainly don't eat 17 meals in a week at some of the best—and, at times, most expensive—restaurants in town.
+- [x] 09.23 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜(Perhaps they are saving up to do so when they go on their own non-local sojourn.)
+- [x] 09.24 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜Locals pick up takeout and watch a junky TV drama in their pajamas.
+- [x] 09.25 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜✓ 原句分块 ｜They're not going to three museums and a boat tour before draining their bank account on regional textiles, which as a non-local you should definitely not miss!
+- [x] 09.26 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜Neither do locals wander around a city with fresh eyes until their feet are sore.
+- [x] 09.27 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜These are the unique pleasures of being a tourist.
+- [x] 09.28 ｜已人工核查 ｜分句 4 项 ｜成分 11 项 ｜⚠ 省略：内容从句 ｜Getting the most out of your visit to a place requires acknowledging both ignorance and vulnerability and that you don't know much and need some help.
+- [x] 09.29 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜There's nothing wrong with that: Remedial cultural lessons are both fun and necessary.
+- [x] 09.30 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.
+- [x] 09.31 ｜已人工核查 ｜分句 4 项 ｜成分 14 项 ｜⚠ 省略：前半主句、定语从句 ｜Sure, I can and have visited markets without guides and enjoyed it, but having an actual expert to explain ingredients and practices I couldn't intuit on my own makes the experience all the richer.
+- [x] 09.32 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜More than that, being that vulnerable, ignorant non-local sometimes gets you special treatment.
+- [x] 09.33 ｜已人工核查 ｜分句 3 项 ｜成分 5 项 ｜✓ 原句分块 ｜Some of my best travel experiences arose from a very un-local ineptitude and the kindness and hospitality shown by actual locals.
+- [x] 09.34 ｜已人工核查 ｜分句 4 项 ｜成分 8 项 ｜⚠ 省略：让步介词短语 ｜In a small village in northern Thailand, a woman once closed down her coffee shop, despite my pleas not to, to drive me on her motorbike to a rice noodle factory when I merely asked her for directions.
+- [x] 09.35 ｜已人工核查 ｜分句 5 项 ｜成分 13 项 ｜✓ 原句分块 ｜In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.
+- [x] 09.36 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.
+- [x] 09.37 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜⚠ 省略：祈使主句② ｜Hospitality to visitors is a gift; embrace it with gratitude, not shame.
+- [x] 09.38 ｜已人工核查 ｜分句 3 项 ｜成分 8 项 ｜⚠ 省略：插入介词短语 ｜The bid to "Travel like a Local"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.
+- [x] 09.39 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜✓ 原句分块 ｜At the stage in life when you can book your own trip abroad, you're old enough to not worry about fitting in.
+- [x] 09.40 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜(This is, of course, distinct from respecting local customs on religious and cultural dress.)
+- [x] 09.41 ｜已人工核查 ｜分句 5 项 ｜成分 12 项 ｜✓ 原句分块 ｜One of the delicious freedoms in traveling is that no one knows you, that there is a very low likelihood that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins.
+- [x] 09.42 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜You can wear a fanny pack or shoes that you don't mind muddying up.
+- [x] 09.43 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜✓ 原句分块 ｜You can ask a stranger for directions.
+- [x] 09.44 ｜已人工核查 ｜分句 4 项 ｜成分 11 项 ｜⚠ 省略：非限制性定语从句 ｜Now that I think about it, acting like a tourist in your hometown—which, yes, I admit is also a contradiction in terms—seems like a better way to approach your everyday life too.
+- [x] 09.45 ｜已人工核查 ｜分句 2 项 ｜成分 4 项 ｜✓ 原句分块 ｜Taking a bus tour through town will give you a completely different perspective.
+- [x] 09.46 ｜已人工核查 ｜分句 3 项 ｜成分 6 项 ｜⚠ 省略：插入对照 ｜Actually visiting a museum—instead of meaning to—is way more fulfilling than sitting on your couch cruising Twitter and Instagram.
+- [x] 09.47 ｜已人工核查 ｜分句 1 项 ｜成分 4 项 ｜⚠ 摘录未定位：主句 ｜I've never been to the Statue of Liberty in New York or the Emily Dickinson house in my home state of Massachusetts.
+- [x] 09.48 ｜已人工核查 ｜分句 5 项 ｜成分 6 项 ｜⚠ 省略：主句②省略 ｜It's been years since I've visited the Cloisters in Upper Manhattan and many months since I've hiked through the Mt. Holyoke range 15 minutes from the house where I grew up.
+- [x] 09.49 ｜已人工核查 ｜分句 4 项 ｜成分 7 项 ｜⚠ 省略：宾语从句 ｜That urgent tourist energy to see and do all sorts of things is far superior to the apathy of knowing something will always be there.
+- [x] 09.50 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜✓ 原句分块 ｜Maybe it's best not just to travel like a tourist, but to live like one too.
+
+## Article 10
+
+- [x] 10.01 ｜已人工核查 ｜分句 5 项 ｜成分 11 项 ｜✓ 原句分块 ｜The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.
+- [x] 10.02 ｜已人工核查 ｜分句 3 项 ｜成分 11 项 ｜⚠ 省略：被动不定式定语 ｜And it was not a book to be read once and thrown aside, for it had a new story to tell every day.
+- [x] 10.03 ｜已人工核查 ｜分句 6 项 ｜成分 10 项 ｜⚠ 省略：省略并列②③、分词与内层内容 ｜Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing.
+- [x] 10.04 ｜已人工核查 ｜分句 4 项 ｜成分 10 项 ｜⚠ 省略：省略主句② ｜There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.
+- [x] 10.05 ｜已人工核查 ｜分句 9 项 ｜成分 28 项 ｜✓ 原句分块 ｜The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.
+- [x] 10.06 ｜已人工核查 ｜分句 2 项 ｜成分 6 项 ｜⚠ 省略：主句、省略关系词的定语从句 ｜It is the faintest and simplest expression the water ever makes, and the most hideous to a pilot's eye.
+- [x] 10.07 ｜已人工核查 ｜分句 4 项 ｜成分 12 项 ｜✓ 原句分块 ｜In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.
+- [x] 10.08 ｜已人工核查 ｜分句 4 项 ｜成分 13 项 ｜✓ 原句分块 ｜Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.
+- [x] 10.09 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜But I had lost something, too.
+- [x] 10.10 ｜已人工核查 ｜分句 3 项 ｜成分 7 项 ｜✓ 原句分块 ｜I had lost something which could never be restored to me while I lived.
+- [x] 10.11 ｜已人工核查 ｜分句 1 项 ｜成分 3 项 ｜✓ 原句分块 ｜All the grace, the beauty, the poetry had gone out of the majestic river!
+- [x] 10.12 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me.
+- [x] 10.13 ｜已人工核查 ｜分句 13 项 ｜成分 44 项 ｜⚠ 摘录未定位：定语从句② ｜A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.
+- [x] 10.14 ｜已人工核查 ｜分句 3 项 ｜成分 12 项 ｜✓ 原句分块 ｜There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.
+- [x] 10.15 ｜已人工核查 ｜分句 2 项 ｜成分 3 项 ｜⚠ 省略：内部缩略修饰 ｜I stood like one bewitched.
+- [x] 10.16 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜I drank it in, in a speechless rapture.
+- [x] 10.17 ｜已人工核查 ｜分句 2 项 ｜成分 9 项 ｜✓ 原句分块 ｜The world was new to me, and I had never seen anything like this at home.
+- [x] 10.18 ｜已人工核查 ｜分句 6 项 ｜成分 15 项 ｜✓ 原句分块 ｜But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.
+- [x] 10.19 ｜已人工核查 ｜分句 11 项 ｜成分 54 项 ｜⚠ 省略：外层主句、冒号后内心判断①、判断②、判断③、判断⑤、判断⑥的拟人展开 ｜Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling "boils" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the "break" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.
+- [x] 10.20 ｜已人工核查 ｜分句 1 项 ｜成分 5 项 ｜✓ 原句分块 ｜No, the romance and the beauty were all gone from the river.
+- [x] 10.21 ｜已人工核查 ｜分句 4 项 ｜成分 9 项 ｜⚠ 省略：定语从句①、定语从句② ｜All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat.
+- [x] 10.22 ｜已人工核查 ｜分句 2 项 ｜成分 5 项 ｜✓ 原句分块 ｜Since those days, I have pitied doctors from my heart.
+- [x] 10.23 ｜已人工核查 ｜分句 2 项 ｜成分 7 项 ｜✓ 原句分块 ｜What does the lovely flush in a beauty's cheek mean to a doctor but a "break" that ripples above some deadly disease?
+- [x] 10.24 ｜已人工核查 ｜分句 3 项 ｜成分 9 项 ｜✓ 原句分块 ｜Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay?
+- [x] 10.25 ｜已人工核查 ｜分句 3 项 ｜成分 16 项 ｜⚠ 省略：并列疑问② ｜Does he ever see her beauty at all, or doesn't he simply view her professionally, and comment upon her unwholesome condition all to himself?
+- [x] 10.26 ｜已人工核查 ｜分句 3 项 ｜成分 13 项 ｜⚠ 省略：宾语从句 ｜And doesn't he sometimes wonder whether he has gained most or lost most by learning his trade?
+
+## 已人工复核
+- [x] 01.01–01.40 ｜逐句复核完成；已重新对照原句、分句层级、成分范围、显式省略恢复与引号边界。
+- [x] 02.01–02.48 ｜逐句核查完成；主语从句、表语从句、强调句、比较省略、被动与非限制性定语从句均已逐项对照。
+- [x] 03.01–03.66 ｜逐句核查完成；省略结构、情态完成体、方式与比较从句、关系从句及并置主句均已逐项对照。
+- [x] 04.01–04.75 ｜逐句核查完成；引语、条件省略、倒装、独立主格、非限制性定语从句及比较从句均已逐项对照。
+- [x] 05.01–05.80 ｜逐句核查完成；文学叙事中的引语片段、倒装条件句、独立主格、分号并列与省略均已逐项对照。
+- [x] 06.01–06.49 ｜逐句核查完成；古典文体的倒装、省略、分号并列、非限制性定语从句和嵌套条件关系均已逐项对照。
+- [x] 07.01–07.48 ｜逐句核查完成；倒装、主句省略、插入语、非限制性定语从句、分词结构与条件从句均已逐项对照。
+- [x] 08.39–08.65 ｜逐句核查完成；关系从句、并列谓语、非限制性定语从句及显式省略均已逐项对照。
+- [x] 08.13–08.38 ｜逐句核查完成；长难句、直接引语、融合疑问结构与标明的省略关系均已逐项对照。
+
+- [x] 08.01–08.12 ｜逐句核查完成；直接引语、缩略时间结构和融合疑问结构均与原句一致。
+
+- [x] 09.01–09.50 ｜逐句核查完成；省略与倒装均按原句关系保留。
+- [x] 10.01–10.26 ｜逐句核查完成。10.01 修正并列定语从句范围、换行和比较状语从句；10.08 修正比较从句修饰对象为 `bordered`。

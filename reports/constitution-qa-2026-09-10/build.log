@@ -1,0 +1,51 @@
+
+  vinext build  (Vite 8.0.13)
+
+[1/5] analyze client references...
+[2Ktransforming...
+/media/harvard-widener-ink-wash.webp referenced in /media/harvard-widener-ink-wash.webp didn't resolve at build time, it will remain unchanged to be resolved at runtime
+
+/media/robot-dog-lineart.png referenced in /media/robot-dog-lineart.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+
+/media/roommates-grandfather-lineart.png referenced in /media/roommates-grandfather-lineart.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+
+/media/lincoln-steffens-news-background.webp referenced in /media/lincoln-steffens-news-background.webp didn't resolve at build time, it will remain unchanged to be resolved at runtime
+✓ 133 modules transformed.
+rendering chunks...
+✓ built in 2.13s
+[2/5] analyze server references...
+[2Ktransforming...✓ 87 modules transformed.
+rendering chunks...
+✓ built in 162ms
+[3/5] build rsc environment...
+[2Ktransforming...✓ 139 modules transformed.
+rendering chunks...
+computing gzip size...
+✓ built in 390ms
+[4/5] build client environment...
+[2Ktransforming...✓ 95 modules transformed.
+rendering chunks...
+computing gzip size...
+[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 745ms
+[5/5] build ssr environment...
+[2Ktransforming...✓ 93 modules transformed.
+rendering chunks...
+computing gzip size...
+✓ built in 461ms
+[0m
+  Route (app)
+  ─ ? /
+
+  ? Unknown
+
+  ? Some routes could not be classified. vinext currently uses static analysis
+    and cannot detect dynamic API usage (headers(), cookies(), etc.) at build time.
+    Automatic classification will be improved in a future release.
+
+  Build complete. Run `vinext start` to start the production server.
+

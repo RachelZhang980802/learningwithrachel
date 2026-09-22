@@ -1,0 +1,941 @@
+@scope (.constitution-archive) {
+:scope,:scope *{box-sizing:border-box}
+:scope{--paper:#f5f2eb;--sheet:#faf8f3;--ink:#252522;--soft:#66625c;--line:#cec7ba;--red:#a44529;--red2:#7d311d;box-sizing:border-box;background:radial-gradient(circle at 30% 0,#fbfaf6 0,transparent 43%),linear-gradient(120deg,#f2eee6,#f8f6f1 58%,#f1ece3);color:var(--ink);font-family:Arial,Helvetica,sans-serif}:scope{min-height:100svh;padding:clamp(22px,3.2vw,52px);overflow:hidden}:scope:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.2;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.75' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.06'/%3E%3C/svg%3E")}:scope>header{height:54px;display:flex;align-items:flex-start;gap:14px;position:relative;z-index:5}.book{color:var(--red);font-size:32px;line-height:1;transform:rotate(90deg)}header b{display:block;color:var(--red);font:600 17px/1 Georgia,serif;letter-spacing:.14em}header span{display:block;margin-top:6px;color:#55514b;font-size:14px}header button{margin-left:auto;border:0;border-bottom:1px solid var(--red);background:none;padding:7px;color:#55514b;font-size:11px;letter-spacing:.19em;cursor:pointer}.title{text-align:center;margin:16px auto 34px}.title>p,.eyebrow{font-size:11px;letter-spacing:.22em;color:var(--red);font-weight:bold}.title h1,.chapter-head h1{font:400 clamp(46px,5.6vw,82px)/1 Georgia,serif;margin:12px 0}.title>span{font:italic 18px Georgia,serif;color:var(--soft)}.toc-folio{max-width:1200px;height:560px;margin:auto;display:grid;grid-template-columns:1fr 1.7fr 1.1fr;align-items:center}.toc-page{height:500px;border:1px solid var(--line);background:linear-gradient(135deg,rgba(255,255,255,.76),rgba(240,235,225,.82));box-shadow:0 10px 25px rgba(40,35,29,.14);padding:42px 34px;color:var(--ink);text-align:center;font-family:Georgia,serif;cursor:pointer;transition:.55s cubic-bezier(.2,.8,.25,1);position:relative}.toc-page:hover,.toc-page:focus-visible{transform:translateY(-16px) scale(1.015);z-index:4;box-shadow:0 22px 42px rgba(40,35,29,.2)}.toc-page small{font:11px Arial,sans-serif;letter-spacing:.22em}.toc-page h2{color:var(--red);font-size:25px;font-weight:400;letter-spacing:.1em;margin:23px 0 8px}.toc-page em{font-size:17px}.toc-page p{font:italic 20px/1.5 Georgia,serif;margin:22px auto;max-width:250px}.toc-page strong{position:absolute;bottom:32px;left:0;right:0;color:var(--red);font:11px Arial,sans-serif;letter-spacing:.18em}.pre{border-radius:22px 4px 4px 22px;transform:rotate(-1.2deg)}.art{height:540px;border-radius:18px;z-index:2}.amend{border-radius:4px 22px 22px 4px;transform:rotate(1.2deg)}.script{font:52px/1 "Brush Script MT",cursive;transform:rotate(-4deg);margin-top:54px}.mini-tree{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid #999;padding-top:62px;margin-top:70px;position:relative;gap:15px}.mini-tree i{position:absolute;left:50%;top:-52px;height:52px;border-left:1px solid #999}.mini-tree span{font:9px Arial,sans-serif;letter-spacing:.08em}.selected{display:grid;grid-template-columns:repeat(4,42px);justify-content:center;gap:10px;margin-top:55px}.selected span{width:42px;height:42px;border:1px solid var(--line);border-radius:50%;display:grid;place-items:center;font:15px Georgia,serif}.chapter{max-width:1280px;margin:28px auto 80px}.chapter-head{text-align:center;position:relative;border-bottom:1px solid var(--line);padding:8px 0 24px}.chapter-head button{position:absolute;left:0;top:25px;border:0;background:none;color:var(--soft);font-size:11px;letter-spacing:.18em;cursor:pointer}.chapter-head p{color:var(--red);font-size:11px;letter-spacing:.22em}.chapter-head h1{font-size:64px;margin:10px}.preamble-grid{display:grid;grid-template-columns:1.3fr .7fr;gap:28px;margin-top:36px}.document,.preamble-grid aside,.concept,.amendment-card,.context-file,.think{border:1px solid var(--line);background:rgba(251,249,244,.74);box-shadow:0 7px 18px rgba(40,35,29,.09)}.document{padding:50px 58px}.document .script{text-align:left;margin:0 0 25px;font-size:70px}.document>p:last-child{font:21px/1.9 Georgia,serif;margin:0}.document mark{background:linear-gradient(transparent 65%,rgba(164,69,41,.16) 65%);color:inherit}.preamble-grid aside{padding:50px}.preamble-grid aside h3{font:36px/1.15 Georgia,serif;font-weight:400}.preamble-grid dl{margin-top:35px}.preamble-grid dl div{border-top:1px solid var(--line);padding:18px 0}.preamble-grid dt{font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--soft)}.preamble-grid dd{margin:8px 0 0;font:18px Georgia,serif}.goal-strip{display:grid;grid-template-columns:repeat(6,1fr);margin:24px 0;border:1px solid var(--line)}.goal-strip div{padding:22px 18px;min-height:110px;border-right:1px solid var(--line);font:15px/1.4 Georgia,serif}.goal-strip div:last-child{border:0}.goal-strip span{display:block;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em;margin-bottom:12px}.think{padding:38px 48px;position:relative}.think>p{font-size:11px;letter-spacing:.2em;color:var(--red)}.think h3{font:30px/1.35 Georgia,serif;font-weight:400;max-width:850px}.think>button,.context-file>button{position:absolute;right:40px;bottom:35px;border:0;border-bottom:1px solid var(--red);background:none;color:var(--red);font-size:11px;letter-spacing:.15em;cursor:pointer}.think>div{margin-top:25px;border-top:1px solid var(--line);padding-top:24px;max-width:850px}.think>div b{font-size:11px;letter-spacing:.15em;color:var(--red)}.think>div p{font:17px/1.7 Georgia,serif}.intro{max-width:740px;margin:28px auto;text-align:center;font:18px/1.6 Georgia,serif;color:var(--soft)}.subnav{display:flex;justify-content:center;margin:34px 0}.subnav button{border:1px solid var(--line);border-right:0;background:rgba(250,248,243,.65);padding:16px 28px;font:15px Georgia,serif;cursor:pointer}.subnav button:last-child{border-right:1px solid var(--line)}.subnav button span{color:var(--red);margin-right:12px}.subnav button.active{background:var(--red);color:white}.subnav button.active span{color:white}.concept{display:grid;grid-template-columns:1fr 1fr;min-height:420px}.concept>div:first-child{padding:64px}.concept h2,.amendment-copy h2,.context-file h2{font:46px/1.1 Georgia,serif;font-weight:400;margin:20px 0}.concept>div:first-child>p:not(.eyebrow){font:18px/1.7 Georgia,serif;color:var(--soft)}.concept blockquote{margin:35px 0 0;padding-left:22px;border-left:2px solid var(--red);font:italic 22px/1.5 Georgia,serif}.concept-visual{border-left:1px solid var(--line);display:grid;place-items:center;padding:45px}.houses{display:grid;grid-template-columns:1fr auto 1fr;gap:22px;align-items:center;width:100%}.houses>div{border:1px solid var(--line);padding:38px 15px;text-align:center}.houses b,.houses span{display:block;font-size:11px;letter-spacing:.1em}.houses strong{display:block;color:var(--red);font:58px Georgia,serif;margin:10px}.branches-v{display:grid;grid-template-columns:repeat(3,1fr);gap:13px;width:100%;border-top:1px solid #999;padding-top:70px;position:relative}.branches-v:before{content:"";position:absolute;left:50%;top:-60px;height:60px;border-left:1px solid #999}.branches-v span{text-align:center;font-size:10px;letter-spacing:.08em}.branches-v small{display:block;font:italic 13px Georgia,serif;letter-spacing:0;margin-top:10px}.federal{display:flex;align-items:center;gap:25px;text-align:center;font:17px/1.5 Georgia,serif}.federal span{border:1px solid var(--line);padding:40px 28px}.federal i{font-size:34px;color:var(--red)}.timeline-nav{display:grid;grid-template-columns:repeat(7,1fr);max-width:1000px;margin:36px auto;position:relative}.timeline-nav:before{content:"";position:absolute;top:46px;left:7%;right:7%;height:1px;background:var(--line)}.timeline-nav button{border:0;background:none;cursor:pointer;z-index:1}.timeline-nav span{display:block;font:12px Georgia,serif;color:var(--soft);margin-bottom:9px}.timeline-nav b{display:inline-grid;place-items:center;width:54px;height:54px;border:1px solid var(--line);border-radius:50%;background:var(--paper);font:20px Georgia,serif}.timeline-nav small{font-size:10px}.timeline-nav button.active b{background:var(--red);color:white;border-color:var(--red);transform:scale(1.12)}.amendment-card{display:grid;grid-template-columns:.36fr 1fr;max-width:1000px;margin:0 auto 28px;min-height:340px}.amendment-number{display:flex;flex-direction:column;align-items:center;justify-content:center;border-right:1px solid var(--line)}.amendment-number>span{font-size:10px;letter-spacing:.2em}.amendment-number strong{font:100px/1 Georgia,serif;color:var(--red)}.amendment-number em{font:16px Georgia,serif}.amendment-copy{padding:52px 60px}.amendment-copy>p:not(.eyebrow){font:19px/1.7 Georgia,serif;color:var(--soft)}.keywords{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}.keywords span{border:1px solid var(--line);border-radius:30px;padding:9px 16px;font-size:12px;letter-spacing:.05em}.context-file{max-width:1000px;margin:auto;padding:45px 220px 45px 50px;position:relative;min-height:270px}.context-file>div:first-child p:not(.eyebrow){font:17px/1.65 Georgia,serif;color:var(--soft)}.context-file>div:first-child small{display:block;color:var(--red);margin-top:18px}.fraction{position:absolute;right:45px;top:35px;width:125px;text-align:center}.fraction strong{display:block;font:56px/1 Georgia,serif}.fraction i{display:block;height:1px;background:var(--ink);margin:8px 0}.fraction span{display:block;margin-top:15px;font:italic 13px Georgia,serif}.context-file blockquote{border-top:1px solid var(--line);padding-top:22px;font:italic 20px/1.5 Georgia,serif}.surprise{max-width:1000px;margin:auto;border:1px solid var(--line);padding:28px;display:flex;align-items:center;justify-content:center;gap:24px}.surprise span{font-size:10px;letter-spacing:.15em}.surprise strong{font:38px Georgia,serif;color:var(--red)}.surprise i{font:italic 16px Georgia,serif;color:var(--soft)}
+@media(max-width:720px){:scope{padding:20px}:scope>header span{display:none}.title h1{font-size:46px}.toc-folio{height:auto;display:flex;flex-direction:column;gap:14px}.toc-page,.art{width:100%;height:340px!important;transform:none!important}.script{margin-top:20px}.mini-tree,.selected{margin-top:28px}.preamble-grid,.concept,.amendment-card{grid-template-columns:1fr}.document,.preamble-grid aside,.concept>div:first-child,.amendment-copy{padding:30px}.goal-strip{grid-template-columns:1fr 1fr}.goal-strip div{border-bottom:1px solid var(--line)}.think{padding:30px}.think>button,.context-file>button{position:static;margin-top:20px}.subnav{display:grid;grid-template-columns:1fr}.subnav button{border-right:1px solid var(--line);border-bottom:0}.subnav button:last-child{border-bottom:1px solid var(--line)}.concept-visual{border-left:0;border-top:1px solid var(--line);min-height:300px}.timeline-nav{overflow-x:auto;justify-content:start}.timeline-nav button{min-width:86px}.amendment-number{border-right:0;border-bottom:1px solid var(--line);padding:25px}.context-file{padding:30px}.fraction{position:static;margin:25px auto}.chapter-head button{position:static;display:block;margin:auto}.chapter-head h1{font-size:48px}.houses{grid-template-columns:1fr}.houses>i{display:none}.selected{grid-template-columns:repeat(7,36px)}.selected span{width:36px;height:36px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* Preamble promise-card refinement */
+.preamble-question{display:flex;min-height:100%;flex-direction:column;justify-content:center}.preamble-question h3{max-width:420px;margin:14px 0 0;font:400 clamp(38px,4.6vw,64px)/1.05 Georgia,serif!important}.preamble-question>p:last-child{max-width:300px;margin:30px 0 0;color:var(--soft);font:italic 17px/1.5 Georgia,serif}.goal-strip{gap:0;border:0}.goal-strip .promise-card{height:178px;padding:0;border:0;background:transparent;cursor:pointer;perspective:1000px}.promise-card-inner{position:relative;display:block;width:100%;height:100%;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.22,.68,.25,1)}.promise-card.is-flipped .promise-card-inner{transform:rotateY(180deg)}.promise-card-face{position:absolute;inset:0;display:flex!important;flex-direction:column;align-items:center;justify-content:center;padding:18px 14px;overflow:auto;border:1px solid var(--line);border-right:0;background:rgba(251,249,244,.9);backface-visibility:hidden}.promise-card:last-child .promise-card-face{border-right:1px solid var(--line)}.promise-card-front{gap:12px}.promise-card-face small{display:block!important;margin:0!important;color:var(--red);font:700 10px/1 Arial,Helvetica,sans-serif!important;letter-spacing:.18em}.promise-card-front b{color:var(--ink);font:400 17px/1.25 Georgia,serif;letter-spacing:.02em}.promise-card-front b::after{content:"↗";display:block;margin-top:14px;color:var(--red);font:16px Arial,Helvetica,sans-serif}.promise-card-back{align-items:flex-start;text-align:left;transform:rotateY(180deg)}.promise-card-back strong{display:block;margin:12px 0 10px;font:400 clamp(16px,1.55vw,22px)/1.18 Georgia,serif}.promise-card-back em{display:block;color:var(--red2);font:400 clamp(14px,1.3vw,18px)/1.45 Georgia,serif;font-style:normal;word-break:break-all}.promise-card:focus-visible{outline:3px solid var(--red);outline-offset:4px}.promise-card:focus-visible .promise-card-face{outline:0}
+@media(max-width:720px){.preamble-question h3{font-size:42px!important}.goal-strip{grid-template-columns:repeat(2,1fr)}.goal-strip .promise-card{height:168px}.promise-card:nth-child(2n) .promise-card-face{border-right:1px solid var(--line)}.promise-card:nth-child(n+3) .promise-card-face{border-top:0}.promise-card-back strong{font-size:19px}.promise-card-back em{font-size:16px}}
+@media(prefers-reduced-motion:reduce){.promise-card-inner{transition:none}}
+.promise-card:last-child .promise-card-back strong{font-size:17px;line-height:1.16}.promise-card:last-child .promise-card-back em{font-size:14px;line-height:1.38}
+
+/* Seven Articles: progressive reading lessons */
+.article-lesson{border:1px solid var(--line);background:rgba(251,249,244,.78);box-shadow:0 7px 18px rgba(40,35,29,.09)}.article-lesson{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);overflow:hidden}.lesson-copy{padding:58px 64px}.lesson-copy h2{margin:18px 0;font:400 clamp(40px,4.5vw,62px)/1.04 Georgia,serif}.lesson-copy>p:not(.eyebrow),.reveal-reading>p{margin:0 0 9px;color:var(--soft);font:18px/1.65 Georgia,serif}.cn-copy{color:var(--red2)!important;font:16px/1.65 "Songti SC","SimSun",serif!important}.think-prompt{margin-top:36px;padding:23px 0 0;border-top:1px solid var(--line)}.think-prompt>p:first-child{margin:0 0 12px;color:var(--red);font:11px Arial,sans-serif;letter-spacing:.18em}.think-prompt h3{margin:0;font:italic 25px/1.38 Georgia,serif;font-weight:400}.think-prompt button,.reveal-reading>button,.federal-actions>button{margin-top:24px;border:1px solid var(--red);background:var(--red);color:#fff;padding:12px 15px;font:11px Arial,sans-serif;letter-spacing:.14em;cursor:pointer}.think-prompt button:hover,.reveal-reading>button:hover,.federal-actions>button:hover{background:#8d341e}.reveal-reading{margin-top:34px;padding-top:24px;border-top:1px solid var(--line)}.lesson-mantra{display:block;margin-top:20px;color:var(--red);font:italic 23px Georgia,serif}.lesson-conclusion{grid-column:1/-1;border-top:1px solid var(--line);padding:28px 64px;background:rgba(238,230,214,.38)}.lesson-conclusion>p{max-width:900px;margin:0 0 9px;font:18px/1.65 Georgia,serif}.lesson-conclusion>strong{font:400 24px/1.45 Georgia,serif}.lesson-conclusion blockquote{margin:24px 0 0;padding-left:18px;border-left:2px solid var(--red);font:italic 21px/1.45 Georgia,serif}
+.bicameral-map{position:relative;display:grid;place-content:center;min-height:550px;padding:60px 38px;border-left:1px solid var(--line);background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}.congress-node{z-index:1;display:grid;justify-items:center;gap:9px;width:230px;margin:0 auto;padding:22px;border:1px solid var(--red);background:var(--paper);text-align:center}.congress-node small{color:var(--red);font:10px Arial,sans-serif;letter-spacing:.16em}.congress-node strong{font:28px Georgia,serif}.congress-node span{font-size:10px;letter-spacing:.14em}.branch-lines{position:absolute;top:240px;left:21%;right:21%;height:80px}.branch-lines i{position:absolute;top:0;width:1px;height:105px;background:var(--line);transform-origin:top}.branch-lines i:first-child{left:30%;transform:rotate(49deg)}.branch-lines i:last-child{right:30%;transform:rotate(-49deg)}.chamber-placeholders,.chamber-comparison{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px;width:100%;margin-top:124px}.chamber-placeholders span{padding:40px 10px;border:1px dashed var(--line);color:var(--soft);text-align:center;font:11px Arial,sans-serif;letter-spacing:.17em}.chamber{padding:24px;border:1px solid var(--line);background:rgba(251,249,244,.92)}.chamber .eyebrow{margin:0 0 20px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em}.chamber>strong{display:block;font:22px/1.25 Georgia,serif}.chamber ul{margin:20px 0 0;padding:0;list-style:none}.chamber li{padding:10px 0;border-top:1px solid rgba(167,154,133,.46);font:14px/1.38 Georgia,serif}.chamber li:nth-child(2){color:var(--red)}
+.branches-stage{position:relative;display:grid;place-content:center;min-height:590px;padding:54px 42px;border-left:1px solid var(--line);background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}.branch-rail{position:absolute;top:31%;left:15%;right:15%;display:flex;justify-content:space-between}.branch-rail i{width:28%;height:1px;background:var(--line)}.branch-cards{z-index:1;display:grid;grid-template-columns:repeat(3,1fr);gap:15px;width:100%}.branch-card{display:grid;gap:12px;min-height:220px;padding:24px 17px;border:1px solid var(--line);background:var(--paper);opacity:.34;transform:translateY(10px);transition:opacity .36s ease,transform .36s ease;transition-delay:calc(var(--step)*.17s)}.branches-stage.is-revealed .branch-card{opacity:1;transform:none}.branch-card small{color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em}.branch-card strong{font:18px/1.1 Georgia,serif}.branch-card b{font:italic 16px Georgia,serif}.branch-card span{margin-top:auto;color:var(--soft);font:14px/1.4 Georgia,serif}.structure-trigger{z-index:1;margin:30px auto 0;padding:12px;border:1px solid var(--line);background:rgba(251,249,244,.85);cursor:pointer;transition:transform .2s ease}.structure-trigger:hover{transform:translateY(-2px)}.structure-trigger small{display:block;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.15em}.structure-trigger span{display:block;margin-top:7px;color:var(--soft);font:italic 14px Georgia,serif}.structure-modal{position:absolute;z-index:6;inset:0;display:grid;place-items:center;padding:20px;background:rgba(38,33,28,.42);animation:structure-in .2s ease}.structure-modal>div{position:relative;max-width:min(92%,720px);max-height:92%;overflow:auto;padding:30px;background:var(--paper);box-shadow:0 18px 40px rgba(0,0,0,.24)}.structure-modal button{position:absolute;right:8px;top:6px;border:0;background:none;font-size:28px;cursor:pointer}.structure-modal .eyebrow{margin:0 25px 16px 0;color:var(--red);font:11px Arial,sans-serif;letter-spacing:.13em}.structure-modal img{display:block;width:100%;height:auto;border:1px solid var(--line)}.structure-modal div>p:not(.eyebrow){margin:16px 0 0;font:15px/1.5 Georgia,serif}@keyframes structure-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.checks-diagram{width:100%;min-height:450px}.checks-nodes{position:relative;height:210px;max-width:480px;margin:auto}.checks-nodes span{position:absolute;display:grid;gap:5px;min-width:132px;padding:15px;border:1px solid var(--red);background:var(--paper);text-align:center;font:13px Georgia,serif}.checks-nodes b{font-size:17px}.node-leg{left:50%;top:0;transform:translateX(-50%)}.node-exec{left:0;bottom:0}.node-jud{right:0;bottom:0}.check-links{display:grid;grid-template-columns:repeat(2,1fr);gap:9px;margin-top:22px}.check-links button{min-height:75px;padding:11px;border:1px solid var(--line);background:rgba(251,249,244,.92);text-align:left;cursor:pointer}.check-links small,.check-links strong,.check-links span,.check-links em{display:block}.check-links small{color:var(--red);font:9px Arial,sans-serif;letter-spacing:.08em}.check-links strong{margin:6px 0;font:15px/1.25 Georgia,serif}.check-links span,.check-links em{display:none;font:13px/1.35 Georgia,serif}.check-links em{margin-top:7px;color:var(--red2);font-style:normal}.check-links button:hover,.check-links button:focus-visible{background:#f2e3cb}.check-links button:hover span,.check-links button:hover em,.check-links button:focus-visible span,.check-links button:focus-visible em{display:block}.contrast-summary{display:flex;gap:16px;margin-top:25px}.contrast-summary span{flex:1;padding:14px;border-top:2px solid var(--red);font:16px Georgia,serif}.contrast-summary b{display:block;margin-bottom:7px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.12em}
+.horizontal-vertical{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center;margin:24px 0 8px;color:var(--soft);font:italic 15px/1.45 Georgia,serif}.horizontal-vertical i{color:var(--red);font-size:22px}.federal-actions{display:flex;gap:9px;flex-wrap:wrap}.federal-actions>button{background:transparent;color:var(--red)}.federal-actions>button:first-child{background:var(--red);color:#fff}.constitutional-basis,.reading-note{margin-top:22px;padding:19px;border-left:2px solid var(--red);background:rgba(238,230,214,.43)}.constitutional-basis .eyebrow,.reading-note .eyebrow{margin:0 0 12px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.14em}.constitutional-basis p,.reading-note p{margin:0 0 7px;font:15px/1.48 Georgia,serif}.constitutional-basis .cn-copy,.reading-note .cn-copy{margin-bottom:14px;font-size:14px!important}.federal-powers{display:grid;place-content:center;min-height:570px;padding:45px;border-left:1px solid var(--line);background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}.federal-empty{display:grid;grid-template-columns:1fr auto 1fr;gap:18px;align-items:center;text-align:center;font:17px/1.35 Georgia,serif}.federal-empty span{padding:33px 15px;border:1px dashed var(--line)}.federal-empty i{color:var(--red);font-size:30px}.power-columns{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;width:100%}.power-column{min-height:330px;padding:19px 15px;border:1px solid var(--line);background:rgba(251,249,244,.85);opacity:.32;transition:opacity .35s ease}.power-column.is-visible{opacity:1}.power-column .eyebrow{min-height:28px;margin:0 0 18px;color:var(--red);font:10px/1.35 Arial,sans-serif;letter-spacing:.12em}.power-column div{padding:12px 0;border-top:1px solid rgba(167,154,133,.46)}.power-column strong,.power-column span{display:block}.power-column strong{font:16px/1.3 Georgia,serif}.power-column div span{margin-top:5px;color:var(--red2);font:14px "Songti SC","SimSun",serif}.awaiting{display:block;padding-top:75px;color:var(--soft);text-align:center;font:italic 14px Georgia,serif}
+@media(max-width:720px){.article-lesson{grid-template-columns:1fr}.lesson-copy{padding:34px 30px}.lesson-conclusion{padding:25px 30px}.bicameral-map,.branches-stage,.federal-powers{min-height:auto;border-left:0;border-top:1px solid var(--line);padding:42px 25px}.chamber-placeholders,.chamber-comparison{margin-top:108px}.branch-cards{grid-template-columns:1fr}.branch-card{min-height:0}.branch-rail{display:none}.checks-nodes{height:280px}.checks-nodes span{min-width:118px}.check-links{grid-template-columns:1fr}.contrast-summary{flex-direction:column}.power-columns{grid-template-columns:1fr}.power-column{min-height:auto}.federal-empty{grid-template-columns:1fr}.structure-modal{position:fixed}.structure-trigger{width:100%}}
+@media(prefers-reduced-motion:reduce){.branch-card,.structure-trigger{transition:none}.structure-modal{animation:none}}
+
+/* Use the supplied instructional diagrams directly, rather than recreating them. */
+.branches-stage{display:block;min-height:590px;padding:28px;background:linear-gradient(135deg,rgba(238,230,214,.4),transparent)}.branches-stage .branch-rail,.branches-stage .branch-cards,.branches-stage .structure-trigger{display:none}.unrevealed-image-space{min-height:520px}.teaching-figure{display:grid;justify-items:center;gap:12px;margin:0}.teaching-figure img{display:block;width:min(100%,720px);max-height:530px;object-fit:contain;background:#fff}.teaching-figure figcaption{color:var(--soft);font:italic 15px Georgia,serif}.checks-figure img{max-height:340px}.checks-legend{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;width:100%;margin-top:8px}.checks-legend span{padding:9px;border-top:1px solid var(--line);font:12px/1.35 Georgia,serif}.checks-legend b{display:block;margin-bottom:4px;color:var(--red);font:10px Arial,sans-serif;letter-spacing:.08em}
+.bicameral-map{display:grid;place-items:center;min-height:550px}.congress-figure img{max-height:500px}.federal-powers{display:grid;place-items:center}.states-map-figure img{max-height:430px}
+@media(max-width:720px){.branches-stage{min-height:auto;padding:20px}.unrevealed-image-space{min-height:280px}.teaching-figure img{max-height:none}.checks-legend{grid-template-columns:1fr}}
+
+/* Retained as a superseded draft; the live classroom layout below uses content-aware proportions. */
+@media(min-width:9999px){
+  :scope{min-height:0;padding:9px 16px;overflow:hidden}
+  :scope>header{height:32px;min-height:32px;align-items:center;gap:9px}
+  .book{font-size:21px}
+  header b{font-size:12px;letter-spacing:.12em}
+  header span{display:none}
+  header button{padding:4px 2px;font-size:9px;letter-spacing:.15em}
+
+  .contents{height:calc(100% - 32px);min-height:0;display:grid;grid-template-rows:58px minmax(0,1fr);overflow:hidden}
+  .title{display:grid;align-content:center;margin:0 auto}
+  .title>p{margin:0;font-size:8px}
+  .title h1{margin:3px 0;font-size:32px}
+  .title>span{font-size:11px}
+  .toc-folio{width:100%;height:100%;gap:8px;align-items:stretch;padding:4px 0 2px}
+  .toc-page,.art{height:auto;min-height:0;padding:10px 9px}
+  .toc-page h2{margin:7px 0 3px;font-size:17px}
+  .toc-page em{font-size:12px}
+  .toc-page p{margin:7px auto;font-size:12px;line-height:1.25}
+  .toc-page strong{bottom:10px;font-size:8px}
+  .toc-page small{font-size:8px}
+  .toc-page .script{margin-top:14px;font-size:28px}
+  .mini-tree{margin-top:24px;padding-top:25px;gap:6px}
+  .mini-tree i{top:-22px;height:22px}
+  .selected{grid-template-columns:repeat(7,24px);gap:4px;margin-top:21px}
+  .selected span{width:24px;height:24px;font-size:10px}
+
+  .chapter{width:100%;height:calc(100% - 32px);margin:0 auto;overflow:hidden}
+  .chapter-head{height:42px;padding:1px 0 5px}
+  .chapter-head button{top:13px;font-size:8px;letter-spacing:.14em}
+  .chapter-head p{margin:0;font-size:8px}
+  .chapter-head h1{margin:2px;font-size:29px}
+
+  .preamble-chapter{display:grid;grid-template-rows:42px 98px 64px minmax(62px,1fr);gap:5px}
+  .preamble-grid{height:98px;grid-template-columns:1.45fr .55fr;gap:7px;margin:0}
+  .document{display:grid;grid-template-columns:124px 1fr;align-items:center;gap:10px;padding:8px 11px}
+  .document .script{margin:0;font-size:27px;white-space:nowrap}
+  .document>p:last-child{font-size:10.5px;line-height:1.28}
+  .preamble-grid aside{padding:8px 11px}
+  .preamble-question h3{margin:4px 0 0;font-size:17px!important;line-height:1.08}
+  .preamble-question>p:last-child{margin:6px 0 0;font-size:9px;line-height:1.25}
+  .eyebrow{font-size:7px;letter-spacing:.16em}
+  .goal-strip{height:64px;margin:0}
+  .goal-strip .promise-card{height:64px}
+  .promise-card-face{padding:6px 5px}
+  .promise-card-face small{font-size:7px!important;letter-spacing:.1em}
+  .promise-card-front{gap:4px}
+  .promise-card-front b{font-size:9px}
+  .promise-card-front b::after{display:none}
+  .promise-card-back strong,.promise-card:last-child .promise-card-back strong{margin:4px 0 2px;font-size:9px;line-height:1.05}
+  .promise-card-back em,.promise-card:last-child .promise-card-back em{font-size:8px;line-height:1.12}
+  .think{min-height:62px;padding:7px 110px 7px 11px;overflow:auto}
+  .think>p{margin:0;font-size:7px}
+  .think h3{margin:3px 0;font-size:12px;line-height:1.2}
+  .think>button{right:10px;bottom:9px;font-size:7px}
+  .think>div{margin-top:4px;padding-top:3px}
+  .think>div b{font-size:7px}
+  .think>div p{margin:2px 0;font-size:9px;line-height:1.25}
+
+  .articles-chapter,.amendments-chapter{display:grid;grid-template-rows:42px 30px 34px minmax(0,1fr);gap:4px}
+  .intro{align-self:center;margin:0 auto;font-size:10px;line-height:1.3}
+  .subnav{height:34px;margin:0}
+  .subnav button{padding:5px 18px;font-size:10px}
+  .article-lesson{height:100%;min-height:0}
+  .lesson-copy{padding:12px 15px;overflow:auto}
+  .lesson-copy h2{margin:4px 0;font-size:22px}
+  .lesson-copy>p:not(.eyebrow),.reveal-reading>p{margin-bottom:3px;font-size:10px;line-height:1.3}
+  .cn-copy{font-size:9px!important;line-height:1.3!important}
+  .think-prompt,.reveal-reading{margin-top:7px;padding-top:6px}
+  .think-prompt>p:first-child{margin-bottom:4px;font-size:7px}
+  .think-prompt h3{font-size:13px;line-height:1.2}
+  .think-prompt button,.reveal-reading>button,.federal-actions>button{margin-top:6px;padding:6px 8px;font-size:7px}
+  .bicameral-map,.branches-stage,.federal-powers{min-height:0;height:100%;padding:9px 12px;overflow:auto}
+  .unrevealed-image-space{min-height:100%}
+  .teaching-figure{gap:4px}
+  .teaching-figure img,.congress-figure img,.states-map-figure img{max-height:170px}
+  .teaching-figure figcaption{font-size:8px}
+  .lesson-conclusion{padding:7px 12px}
+  .lesson-conclusion>p{margin-bottom:3px;font-size:9px;line-height:1.25}
+  .checks-legend{gap:3px;margin-top:3px}
+  .checks-legend span{padding:3px;font-size:7px}
+
+  .timeline-nav{height:34px;margin:0 auto}
+  .timeline-nav:before{top:19px}
+  .timeline-nav span{margin-bottom:2px;font-size:7px}
+  .timeline-nav b{width:25px;height:25px;font-size:11px}
+  .timeline-nav small{font-size:7px}
+  .amendment-card{height:100%;min-height:0;margin:0 auto;overflow:hidden}
+  .amendment-number strong{font-size:54px}
+  .amendment-number em{font-size:10px}
+  .amendment-copy{padding:14px 20px;overflow:auto}
+  .amendment-copy h2{margin:5px 0;font-size:25px}
+  .amendment-copy>p:not(.eyebrow){font-size:11px;line-height:1.35}
+  .keywords{gap:4px;margin-top:7px}
+  .keywords span{padding:4px 7px;font-size:8px}
+  .amendments-chapter:has(.context-file),.amendments-chapter:has(.surprise){grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr)}
+  .amendments-chapter:has(.context-file)>.chapter-head,.amendments-chapter:has(.context-file)>.intro,.amendments-chapter:has(.context-file)>.timeline-nav,.amendments-chapter:has(.surprise)>.chapter-head,.amendments-chapter:has(.surprise)>.intro,.amendments-chapter:has(.surprise)>.timeline-nav{grid-column:1/-1}
+  .amendments-chapter:has(.context-file)>.amendment-card,.amendments-chapter:has(.surprise)>.amendment-card{grid-column:1;grid-row:4;width:100%}
+  .context-file,.surprise{grid-column:2;grid-row:4;width:100%;height:100%;min-height:0;margin:0;padding:10px 11px;overflow:auto}
+  .context-file{padding-right:58px}
+  .context-file h2{margin:4px 0;font-size:15px}
+  .context-file>div:first-child p:not(.eyebrow){font-size:8px;line-height:1.28}
+  .context-file>div:first-child small{margin-top:4px;font-size:7px;line-height:1.2}
+  .context-file>button{right:8px;bottom:7px;font-size:7px}
+  .context-file blockquote{margin:5px 0 0;padding-top:4px;font-size:8px;line-height:1.25}
+  .fraction{right:9px;top:26px;width:38px}
+  .fraction strong{font-size:22px}
+  .fraction i{margin:2px 0}
+  .fraction span{margin-top:4px;font-size:7px}
+  .surprise{display:grid;grid-template-columns:1fr;place-content:center;gap:3px;text-align:center}
+  .surprise span{font-size:7px}
+  .surprise strong{font-size:24px}
+  .surprise i{font-size:8px}
+}
+
+/* Content-aware 16:9 classroom layout. Large reading blocks receive the most space;
+   short prompts and controls stay compact instead of forcing one uniform scale. */
+@media(min-width:721px) and (min-height:640px){
+  :scope{min-height:0;padding:11px 18px;overflow:hidden}
+  :scope>header{height:35px;min-height:35px;align-items:center;gap:10px}
+  .book{font-size:23px}
+  header b{font-size:13px;letter-spacing:.13em}
+  header span{display:none}
+  header button{padding:5px 2px;font-size:9px;letter-spacing:.16em}
+  .eyebrow,.title>p{font-size:8px;letter-spacing:.17em}
+
+  /* Contents: three equal destinations, with the central structure card carrying more visual weight. */
+  .contents{height:calc(100% - 35px);min-height:0;display:grid;grid-template-rows:62px minmax(0,1fr);overflow:hidden}
+  .title{display:grid;align-content:center;margin:0 auto}
+  .title>p{margin:0}
+  .title h1{margin:4px 0 3px;font-size:34px}
+  .title>span{font-size:12px}
+  .toc-folio{width:100%;height:100%;gap:10px;align-items:stretch;padding:5px 0 2px}
+  .toc-page,.art{height:auto;min-height:0;padding:14px 12px}
+  .toc-page h2{margin:8px 0 4px;font-size:19px}
+  .toc-page em{font-size:13px}
+  .toc-page p{margin:9px auto;font-size:13px;line-height:1.3}
+  .toc-page strong{bottom:11px;font-size:8px}
+  .toc-page small{font-size:8px}
+  .toc-page .script{margin-top:16px;font-size:31px}
+  .mini-tree{margin-top:27px;padding-top:28px;gap:7px}
+  .mini-tree i{top:-24px;height:24px}
+  .selected{grid-template-columns:repeat(7,25px);gap:4px;margin-top:24px}
+  .selected span{width:25px;height:25px;font-size:10px}
+
+  /* Shared chapter heading: present but deliberately shallow. */
+  .chapter{width:100%;height:calc(100% - 35px);margin:0 auto;overflow:hidden}
+  .chapter-head{height:50px;padding:2px 0 7px}
+  .chapter-head button{top:17px;font-size:8px;letter-spacing:.15em}
+  .chapter-head p{margin:0;font-size:8px}
+  .chapter-head h1{margin:3px;font-size:31px}
+
+  /* Preamble: source text is largest; questions are medium; the six short cards are smallest. */
+  .preamble-chapter{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,.95fr) minmax(0,.95fr);grid-template-rows:50px repeat(2,minmax(0,1fr));gap:7px}
+  .preamble-chapter>.chapter-head{grid-column:1/-1;grid-row:1}
+  .preamble-grid{display:contents}
+  .preamble-grid>.document{grid-column:1;grid-row:2/4;min-height:0;padding:15px 17px;overflow:auto}
+  .document .script{margin:0 0 10px;font-size:34px}
+  .document>p:last-child{font-size:11.5px;line-height:1.38}
+  .preamble-grid>aside{grid-column:2;grid-row:2;min-height:0;padding:12px 14px;overflow:hidden}
+  .preamble-question{justify-content:flex-start}
+  .preamble-question h3{margin:6px 0 0;font-size:20px!important;line-height:1.08}
+  .preamble-question>p:last-child{margin:9px 0 0;font-size:10px;line-height:1.3}
+  .goal-strip{grid-column:3;grid-row:2/4;height:auto;min-height:0;margin:0;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(3,minmax(0,1fr))}
+  .goal-strip .promise-card{height:auto;min-height:0}
+  .promise-card-face{padding:8px 6px;border-bottom:0}
+  .promise-card:nth-child(2n) .promise-card-face{border-right:1px solid var(--line)}
+  .promise-card:nth-child(n+5) .promise-card-face{border-bottom:1px solid var(--line)}
+  .promise-card-front{gap:6px}
+  .promise-card-face small{font-size:7px!important;letter-spacing:.11em}
+  .promise-card-front b{font-size:10px}
+  .promise-card-front b::after{display:none}
+  .promise-card-back strong,.promise-card:last-child .promise-card-back strong{margin:5px 0 3px;font-size:10px;line-height:1.08}
+  .promise-card-back em,.promise-card:last-child .promise-card-back em{font-size:8.5px;line-height:1.18}
+  .preamble-chapter>.think{grid-column:2;grid-row:3;min-height:0;padding:10px 70px 9px 13px;overflow:auto}
+  .preamble-chapter:has(.think.revealed){grid-template-columns:minmax(0,1.48fr) minmax(0,1.07fr) minmax(0,.95fr)}
+  .think>p{margin:0;font-size:7px}
+  .think h3{margin:5px 0;font-size:13.5px;line-height:1.22}
+  .think>button{right:9px;bottom:9px;max-width:56px;font-size:7px;line-height:1.25}
+  .think>div{margin-top:5px;padding-top:4px}
+  .think>div b{font-size:7px}
+  .think>div p{margin:2px 0;font-size:9px;line-height:1.28}
+
+  /* Seven Articles: text and visual share the remaining stage; expanded notes scroll only inside their panel. */
+  .articles-chapter{display:grid;grid-template-rows:48px 27px 33px minmax(0,1fr);gap:4px}
+  .articles-chapter>.chapter-head{height:48px}
+  .intro{align-self:center;margin:0 auto;font-size:10px;line-height:1.25}
+  .subnav{height:33px;margin:0}
+  .subnav button{padding:5px 19px;font-size:10px}
+  .article-lesson{height:100%;min-height:0;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr)}
+  .article-lesson:has(.unrevealed-image-space){grid-template-columns:minmax(0,1.42fr) minmax(0,.58fr)}
+  .article-lesson:has(.federal-empty){grid-template-columns:minmax(0,1.24fr) minmax(0,.76fr)}
+  .article-lesson:has(.lesson-conclusion){grid-template-rows:minmax(0,1fr) auto}
+  .articles-chapter:has(.lesson-conclusion){grid-template-rows:48px 0 33px minmax(0,1fr)}
+  .articles-chapter:has(.lesson-conclusion)>.intro{height:0;overflow:hidden;opacity:0}
+  .lesson-copy{min-height:0;padding:13px 16px;overflow:auto}
+  .lesson-copy h2{margin:5px 0;font-size:24px}
+  .lesson-copy>p:not(.eyebrow),.reveal-reading>p{margin-bottom:4px;font-size:10.5px;line-height:1.35}
+  .cn-copy{font-size:9.5px!important;line-height:1.35!important}
+  .think-prompt,.reveal-reading{margin-top:8px;padding-top:7px}
+  .think-prompt>p:first-child{margin-bottom:5px;font-size:7px}
+  .think-prompt h3{font-size:14px;line-height:1.24}
+  .think-prompt button,.reveal-reading>button,.federal-actions>button{margin-top:7px;padding:6px 9px;font-size:7px}
+  .bicameral-map,.branches-stage,.federal-powers{min-height:0;height:100%;padding:10px 13px;overflow:auto}
+  .unrevealed-image-space{min-height:100%}
+  .teaching-figure{gap:5px}
+  .teaching-figure img,.congress-figure img,.states-map-figure img{max-height:160px}
+  .teaching-figure figcaption{font-size:8px}
+  .checks-legend{gap:3px;margin-top:3px}
+  .checks-legend span{padding:3px;font-size:7px}
+  .lesson-conclusion{padding:7px 14px}
+  .lesson-conclusion>p{margin-bottom:3px;font-size:9px;line-height:1.25}
+
+  /* Amendments: ordinary entries get one generous card; contextual entries split into unequal columns. */
+  .amendments-chapter{display:grid;grid-template-rows:50px 29px 43px minmax(0,1fr);gap:5px}
+  .timeline-nav{height:43px;margin:0 auto}
+  .timeline-nav:before{top:24px}
+  .timeline-nav span{margin-bottom:3px;font-size:8px}
+  .timeline-nav b{width:30px;height:30px;font-size:13px}
+  .timeline-nav small{font-size:7px}
+  .amendment-card{width:min(92%,900px);height:100%;min-height:0;margin:0 auto;overflow:hidden}
+  .amendment-number strong{font-size:61px}
+  .amendment-number em{font-size:11px}
+  .amendment-copy{padding:16px 22px;overflow:auto}
+  .amendment-copy h2{margin:6px 0;font-size:27px}
+  .amendment-copy>p:not(.eyebrow){font-size:12px;line-height:1.4}
+  .keywords{gap:5px;margin-top:9px}
+  .keywords span{padding:4px 8px;font-size:8.5px}
+  .amendments-chapter:has(.context-file),.amendments-chapter:has(.surprise){grid-template-columns:minmax(0,1.35fr) minmax(0,.65fr)}
+  .amendments-chapter:has(.context-file)>.chapter-head,.amendments-chapter:has(.context-file)>.intro,.amendments-chapter:has(.context-file)>.timeline-nav,.amendments-chapter:has(.surprise)>.chapter-head,.amendments-chapter:has(.surprise)>.intro,.amendments-chapter:has(.surprise)>.timeline-nav{grid-column:1/-1}
+  .amendments-chapter:has(.context-file)>.amendment-card,.amendments-chapter:has(.surprise)>.amendment-card{grid-column:1;grid-row:4;width:100%}
+  .context-file,.surprise{grid-column:2;grid-row:4;width:100%;height:100%;min-height:0;margin:0;padding:12px 13px;overflow:auto}
+  .context-file{padding-right:67px}
+  .context-file h2{margin:5px 0;font-size:16px}
+  .context-file>div:first-child p:not(.eyebrow){font-size:8.5px;line-height:1.3}
+  .context-file>div:first-child small{margin-top:5px;font-size:7px;line-height:1.2}
+  .context-file>button{right:9px;bottom:8px;font-size:7px}
+  .context-file blockquote{margin:6px 0 0;padding-top:5px;font-size:8.5px;line-height:1.28}
+  .fraction{right:10px;top:29px;width:43px}
+  .fraction strong{font-size:24px}
+  .fraction i{margin:3px 0}
+  .fraction span{margin-top:4px;font-size:7px}
+  .surprise{display:grid;grid-template-columns:1fr;place-content:center;gap:4px;text-align:center}
+  .surprise span{font-size:7px}
+  .surprise strong{font-size:26px}
+  .surprise i{font-size:8px}
+}
+
+/* Preamble composition: natural reading rhythm instead of stretched equal-height columns. */
+@media(min-width:721px) and (min-height:640px){
+  .preamble-chapter{
+    display:grid;
+    grid-template-columns:minmax(0,1.48fr) minmax(0,.52fr);
+    grid-template-rows:48px 135px 68px 90px;
+    align-content:center;
+    gap:7px;
+  }
+  .preamble-chapter>.chapter-head{grid-column:1/-1;grid-row:1;height:48px}
+  .preamble-grid{display:contents}
+  .preamble-grid>.document{grid-column:1;grid-row:2;padding:13px 17px;display:grid;grid-template-columns:145px 1fr;align-items:center;gap:15px;overflow:hidden}
+  .document .script{margin:0;font-size:33px;white-space:nowrap}
+  .document>p:last-child{font-size:11.5px;line-height:1.38}
+  .preamble-grid>aside{grid-column:2;grid-row:2;padding:10px 13px;overflow:hidden}
+  .preamble-question h3{margin:5px 0 0;font-size:18px!important;line-height:1.08}
+  .preamble-question>p:last-child{margin:7px 0 0;font-size:9px;line-height:1.25}
+  .goal-strip{grid-column:1/-1;grid-row:3;height:68px;grid-template-columns:repeat(6,minmax(0,1fr));grid-template-rows:1fr;margin:0}
+  .goal-strip .promise-card{height:68px}
+  .promise-card-face{border-right:0;border-bottom:1px solid var(--line)}
+  .promise-card:last-child .promise-card-face{border-right:1px solid var(--line)}
+  .preamble-chapter>.think{grid-column:1/-1;grid-row:4;padding:9px 125px 8px 14px;overflow:auto}
+  .preamble-chapter:has(.think.revealed){grid-template-columns:minmax(0,1.48fr) minmax(0,.52fr)}
+  .think h3{font-size:13px;line-height:1.2}
+  .think>button{right:13px;max-width:100px}
+}
+
+/* Spacious laptop/desktop tier: cards keep a natural height and the composition is centred vertically. */
+@media(min-width:1000px) and (min-height:800px){
+  :scope{padding:clamp(18px,2.1vw,30px) clamp(28px,3vw,48px)}
+  :scope>header{height:50px;min-height:50px}
+  .book{font-size:30px}
+  header b{font-size:16px}
+  header span{display:block;margin-top:4px;font-size:12px}
+  header button{font-size:10px}
+  .chapter{height:calc(100% - 50px)}
+  .chapter-head{height:76px;padding:5px 0 14px}
+  .chapter-head button{top:28px;font-size:10px}
+  .chapter-head p{font-size:9px}
+  .chapter-head h1{margin:5px;font-size:43px}
+
+  .preamble-chapter{
+    max-width:1480px;
+    display:grid;
+    grid-template-columns:minmax(0,1.42fr) minmax(300px,.58fr);
+    grid-template-rows:76px auto 108px auto;
+    align-content:center;
+    gap:14px;
+  }
+  .preamble-chapter>.chapter-head{height:76px}
+  .preamble-grid>.document{min-height:205px;padding:28px 34px;display:block}
+  .document .script{margin:0 0 17px;font-size:50px}
+  .document>p:last-child{font-size:17px;line-height:1.55}
+  .preamble-grid>aside{min-height:205px;padding:28px 32px}
+  .preamble-question h3{margin-top:11px;font-size:33px!important;line-height:1.08}
+  .preamble-question>p:last-child{margin-top:18px;font-size:14px;line-height:1.4}
+  .goal-strip{height:108px}
+  .goal-strip .promise-card{height:108px}
+  .promise-card-face{padding:12px 9px}
+  .promise-card-face small{font-size:9px!important}
+  .promise-card-front{gap:9px}
+  .promise-card-front b{font-size:14px}
+  .promise-card-back strong,.promise-card:last-child .promise-card-back strong{margin:8px 0 5px;font-size:15px;line-height:1.15}
+  .promise-card-back em,.promise-card:last-child .promise-card-back em{font-size:12px;line-height:1.25}
+  .preamble-chapter>.think{min-height:92px;padding:20px 190px 18px 28px}
+  .think>p{font-size:9px}
+  .think h3{margin:8px 0;font-size:22px;line-height:1.28}
+  .think>button{right:28px;bottom:24px;max-width:145px;font-size:9px}
+  .think>div{margin-top:9px;padding-top:8px}
+  .think>div p{font-size:13px;line-height:1.4}
+
+  .contents{height:calc(100% - 50px);grid-template-rows:108px minmax(0,560px);align-content:center}
+  .title h1{font-size:52px}
+  .title>span{font-size:16px}
+  .toc-folio{max-width:1350px;height:100%}
+  .toc-page,.art{height:auto;padding:34px 28px}
+  .toc-page h2{margin:18px 0 7px;font-size:25px}
+  .toc-page em{font-size:16px}
+  .toc-page p{margin:18px auto;font-size:18px}
+  .toc-page .script{margin-top:40px;font-size:47px}
+  .toc-page strong{bottom:27px;font-size:10px}
+  .mini-tree{margin-top:58px;padding-top:50px}
+  .mini-tree i{top:-43px;height:43px}
+  .selected{grid-template-columns:repeat(4,38px);gap:8px;margin-top:45px}
+  .selected span{width:38px;height:38px;font-size:14px}
+
+  .articles-chapter{grid-template-rows:76px 44px 48px minmax(320px,470px);align-content:center;gap:10px}
+  .articles-chapter>.chapter-head{height:76px}
+  .articles-chapter:has(.lesson-conclusion){grid-template-rows:70px 0 44px minmax(360px,500px)}
+  .intro{font-size:15px}
+  .subnav{height:48px}
+  .subnav button{padding:12px 28px;font-size:14px}
+  .lesson-copy{padding:30px 36px}
+  .lesson-copy h2{font-size:38px}
+  .lesson-copy>p:not(.eyebrow),.reveal-reading>p{font-size:15px;line-height:1.5}
+  .cn-copy{font-size:13px!important;line-height:1.5!important}
+  .think-prompt h3{font-size:21px}
+  .think-prompt button,.reveal-reading>button,.federal-actions>button{padding:10px 13px;font-size:9px}
+  .bicameral-map,.branches-stage,.federal-powers{padding:24px 28px}
+  .teaching-figure img,.congress-figure img,.states-map-figure img{max-height:390px}
+  .teaching-figure figcaption{font-size:13px}
+  .lesson-conclusion{padding:16px 34px}
+  .lesson-conclusion>p{font-size:13px}
+
+  .amendments-chapter{grid-template-rows:76px 42px 74px minmax(300px,390px);align-content:center;gap:10px}
+  .timeline-nav{height:74px}
+  .timeline-nav:before{top:41px}
+  .timeline-nav span{font-size:11px}
+  .timeline-nav b{width:48px;height:48px;font-size:18px}
+  .amendment-card{width:min(88%,1080px)}
+  .amendment-number strong{font-size:90px}
+  .amendment-copy{padding:40px 48px}
+  .amendment-copy h2{font-size:40px}
+  .amendment-copy>p:not(.eyebrow){font-size:17px;line-height:1.55}
+  .keywords{margin-top:20px}
+  .keywords span{padding:8px 14px;font-size:11px}
+  .context-file,.surprise{padding:26px 28px}
+  .context-file{padding-right:105px}
+  .context-file h2{font-size:27px}
+  .context-file>div:first-child p:not(.eyebrow){font-size:13px;line-height:1.45}
+  .fraction{right:24px;top:55px;width:64px}
+  .fraction strong{font-size:38px}
+  .surprise strong{font-size:39px}
+}
+
+/* Preamble redesign · the constitutional text is the focal point. */
+@media(min-width:721px) and (min-height:640px){
+  .preamble-chapter{
+    display:grid;
+    grid-template-columns:1fr;
+    grid-template-rows:48px minmax(170px,1.15fr) minmax(150px,.9fr);
+    align-content:stretch;
+    gap:10px;
+  }
+  .preamble-chapter>.chapter-head{grid-column:1;grid-row:1;height:48px}
+  .preamble-feature{
+    grid-row:2;
+    min-height:0;
+    display:grid;
+    grid-template-columns:minmax(150px,.34fr) minmax(0,1fr);
+    align-items:center;
+    gap:22px;
+    padding:20px 26px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    border-left:4px solid var(--red);
+    border-radius:2px 14px 14px 2px;
+    background:linear-gradient(115deg,rgba(235,221,195,.6),rgba(251,249,244,.92) 43%,rgba(255,255,255,.72));
+    box-shadow:0 10px 24px rgba(55,45,34,.09),inset 0 1px 0 rgba(255,255,255,.8);
+  }
+  .preamble-feature .script{
+    margin:0;
+    color:var(--ink);
+    font-size:clamp(35px,4.7vw,52px);
+    line-height:1;
+    white-space:nowrap;
+  }
+  .preamble-text{
+    margin:0;
+    color:#2d2924;
+    font:400 clamp(13px,1.55vw,17px)/1.52 Georgia,"Times New Roman",serif;
+  }
+  .preamble-text mark{color:inherit;background:none;text-decoration:none}
+  .preamble-learning-grid{
+    grid-row:3;
+    min-height:0;
+    display:grid;
+    grid-template-columns:minmax(0,1.32fr) minmax(260px,.68fr);
+    gap:10px;
+  }
+  .preamble-learning-grid>.goal-strip{
+    grid-column:1;
+    grid-row:1;
+    width:100%;
+    height:100%;
+    min-height:0;
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    grid-template-rows:repeat(2,minmax(0,1fr));
+    gap:7px;
+    margin:0;
+    border:0;
+    background:transparent;
+  }
+  .preamble-learning-grid .promise-card{height:auto;min-height:0}
+  .preamble-learning-grid .promise-card-face{
+    padding:8px 10px;
+    border:1px solid rgba(173,160,138,.68);
+    border-radius:9px;
+    background:linear-gradient(145deg,rgba(255,255,255,.84),rgba(241,234,220,.7));
+    box-shadow:0 3px 9px rgba(51,43,33,.06);
+  }
+  .preamble-learning-grid .promise-card-face small{font-size:7px!important;letter-spacing:.13em}
+  .preamble-learning-grid .promise-card-front{gap:5px}
+  .preamble-learning-grid .promise-card-front b{font-size:10px}
+  .preamble-learning-grid .promise-card-back strong,.preamble-learning-grid .promise-card:last-child .promise-card-back strong{margin:4px 0 3px;font-size:10px;line-height:1.1}
+  .preamble-learning-grid .promise-card-back em,.preamble-learning-grid .promise-card:last-child .promise-card-back em{font-size:8.5px;line-height:1.18}
+  .preamble-study-panel{
+    grid-column:2;
+    grid-row:1;
+    min-height:0;
+    display:grid;
+    grid-template-rows:76px minmax(0,1fr);
+    padding:10px 13px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    border-radius:12px;
+    background:rgba(250,247,239,.86);
+    box-shadow:0 6px 16px rgba(55,45,34,.07);
+  }
+  .preamble-study-panel .preamble-question{min-height:0;display:block;padding:0 0 7px;overflow:hidden;border-bottom:1px solid var(--line)}
+  .preamble-study-panel .preamble-question h3{max-width:none;margin:3px 0;font-size:15px!important;line-height:1.04}
+  .preamble-study-panel .preamble-question>p:last-child{max-width:none;margin:3px 0 0;font-size:8px;line-height:1.15}
+  .preamble-study-panel .think{
+    min-height:0;
+    margin:0;
+    padding:7px 68px 1px 0;
+    overflow:auto;
+    border:0;
+    background:transparent;
+    box-shadow:none;
+  }
+  .preamble-study-panel .think h3{margin:3px 0;font-size:10.5px;line-height:1.16}
+  .preamble-study-panel .think>button{right:0;bottom:1px;max-width:62px;font-size:7px}
+  .preamble-study-panel .think>div{margin-top:4px;padding-top:4px}
+  .preamble-study-panel .think>div p{font-size:8.5px;line-height:1.22}
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  .preamble-chapter{
+    max-width:1480px;
+    grid-template-rows:76px minmax(270px,320px) minmax(225px,270px);
+    align-content:center;
+    gap:18px;
+  }
+  .preamble-chapter>.chapter-head{height:76px}
+  .preamble-feature{
+    grid-template-columns:minmax(270px,.38fr) minmax(0,1fr);
+    gap:42px;
+    padding:38px 48px;
+    border-left-width:6px;
+    border-radius:3px 20px 20px 3px;
+  }
+  .preamble-feature .script{font-size:clamp(58px,5vw,78px)}
+  .preamble-text{font-size:clamp(18px,1.45vw,23px);line-height:1.62}
+  .preamble-learning-grid{grid-template-columns:minmax(0,1.34fr) minmax(340px,.66fr);gap:18px}
+  .preamble-learning-grid>.goal-strip{gap:12px}
+  .preamble-learning-grid .promise-card-face{padding:16px 18px;border-radius:13px}
+  .preamble-learning-grid .promise-card-face small{font-size:9px!important}
+  .preamble-learning-grid .promise-card-front{gap:10px}
+  .preamble-learning-grid .promise-card-front b{font-size:14px}
+  .preamble-learning-grid .promise-card-back strong,.preamble-learning-grid .promise-card:last-child .promise-card-back strong{margin:8px 0 5px;font-size:16px;line-height:1.15}
+  .preamble-learning-grid .promise-card-back em,.preamble-learning-grid .promise-card:last-child .promise-card-back em{font-size:13px;line-height:1.3}
+  .preamble-study-panel{padding:24px 28px;border-radius:17px}
+  .preamble-study-panel .preamble-question{padding-bottom:18px}
+  .preamble-study-panel .preamble-question h3{margin:8px 0;font-size:28px!important;line-height:1.08}
+  .preamble-study-panel .preamble-question>p:last-child{margin-top:9px;font-size:13px;line-height:1.4}
+  .preamble-study-panel .think{padding:18px 120px 6px 0}
+  .preamble-study-panel .think h3{margin:8px 0;font-size:18px;line-height:1.3}
+  .preamble-study-panel .think>button{right:0;bottom:7px;max-width:105px;font-size:9px}
+  .preamble-study-panel .think>div p{font-size:12px;line-height:1.35}
+}
+
+@media(max-width:720px){
+  .preamble-feature{display:block;margin-top:18px;padding:24px;border:1px solid var(--line);border-left:4px solid var(--red);background:rgba(251,249,244,.9)}
+  .preamble-feature .script{margin:0 0 18px;font-size:45px}
+  .preamble-text{margin:0;font:17px/1.65 Georgia,"Times New Roman",serif}
+  .preamble-learning-grid{display:block;margin-top:16px}
+  .preamble-learning-grid>.goal-strip{grid-template-columns:repeat(2,1fr);gap:8px;margin:0}
+  .preamble-learning-grid .promise-card-face{border:1px solid var(--line)!important;border-radius:9px}
+  .preamble-study-panel{margin-top:16px;padding:20px;border:1px solid var(--line);background:rgba(250,247,239,.86)}
+  .preamble-study-panel .think{margin-top:16px}
+}
+
+/* Chapter navigation model: selecting a chapter replaces the catalogue screen. */
+:scope:not(.constitution-contents)>header{display:none}
+.constitution-preamble>.chapter,.constitution-articles>.chapter,.constitution-amendments>.chapter{
+  height:100%;
+  max-width:none;
+  animation:constitution-view-in .28s ease both;
+}
+.constitution-preamble .chapter-head button,.constitution-articles .chapter-head button,.constitution-amendments .chapter-head button{
+  padding:7px 11px;
+  border:1px solid rgba(164,69,41,.32);
+  border-radius:999px;
+  background:rgba(250,247,239,.88);
+  color:var(--red2);
+}
+@keyframes constitution-view-in{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+
+@media(min-width:721px) and (min-height:640px){
+  .constitution-preamble .preamble-chapter{height:100%}
+  .constitution-articles .articles-chapter{height:100%}
+  .constitution-amendments .amendments-chapter{height:100%}
+}
+
+@media(prefers-reduced-motion:reduce){
+  .constitution-preamble>.chapter,.constitution-articles>.chapter,.constitution-amendments>.chapter{animation:none}
+}
+
+/* Guided classroom sequence: one question or answer per state. */
+.source-note{display:block;margin-top:6px;color:var(--soft);font:8px/1.25 Arial,sans-serif;letter-spacing:.04em}
+.source-note a{color:var(--red2);text-decoration:underline;text-underline-offset:2px}
+
+@media(min-width:721px) and (min-height:640px){
+  /* Preamble: the reading prompt sits directly above the six promises. */
+  .preamble-chapter{
+    grid-template-columns:1fr;
+    grid-template-rows:48px minmax(158px,.9fr) minmax(225px,1.1fr);
+    align-content:stretch;
+    gap:9px;
+  }
+  .preamble-feature{grid-row:2;padding:18px 25px;background:rgba(251,249,244,.9)}
+  .preamble-learning-grid{
+    grid-row:3;
+    display:grid;
+    grid-template-columns:1fr;
+    grid-template-rows:minmax(104px,1fr) 56px;
+    gap:8px;
+  }
+  .promise-workshop{
+    min-height:0;
+    display:grid;
+    grid-template-rows:44px minmax(0,1fr);
+    overflow:hidden;
+    border:1px solid var(--line);
+    border-radius:12px;
+    background:rgba(250,247,239,.9);
+    box-shadow:0 6px 16px rgba(55,45,34,.07);
+  }
+  .promise-workshop .preamble-question{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:7px 13px;
+    border-bottom:1px solid var(--line);
+    text-align:center;
+  }
+  .promise-workshop .preamble-question h3{margin:2px 0 0;font:400 18px/1 Georgia,serif;white-space:nowrap}
+  .promise-workshop .goal-strip{
+    grid-column:auto;
+    grid-row:auto;
+    width:100%;
+    height:100%;
+    min-height:0;
+    display:grid;
+    grid-template-columns:repeat(6,minmax(0,1fr));
+    grid-template-rows:1fr;
+    gap:0;
+    margin:0;
+    border:0;
+    background:transparent;
+  }
+  .promise-workshop .promise-card{height:100%;min-height:0}
+  .promise-workshop .promise-card-face{
+    padding:7px 6px;
+    border:0;
+    border-right:1px solid var(--line);
+    border-bottom:0!important;
+    border-radius:0;
+    background:rgba(255,255,255,.38);
+    box-shadow:none;
+  }
+  .promise-workshop .promise-card:last-child .promise-card-face{border-right:0}
+  .promise-workshop .promise-card-face small{font-size:8px!important}
+  .promise-workshop .promise-card-front{gap:5px}
+  .promise-workshop .promise-card-front b{font-size:10px}
+  .promise-workshop .promise-card-back strong,.promise-workshop .promise-card:last-child .promise-card-back strong{margin:5px 0 3px;font-size:10.5px;line-height:1.12}
+  .promise-workshop .promise-card-back em,.promise-workshop .promise-card:last-child .promise-card-back em{font-size:9.2px;line-height:1.18}
+  .preamble-think{
+    min-height:0;
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto;
+    align-items:center;
+    gap:18px;
+    padding:9px 14px;
+    border:1px solid var(--line);
+    border-left:3px solid var(--red);
+    background:rgba(251,249,244,.82);
+  }
+  .preamble-think h3{max-width:620px;margin:3px 0 0;font:400 12px/1.2 Georgia,serif}
+  .preamble-think>button{border:0;border-bottom:1px solid var(--red);background:none;color:var(--red2);padding:5px 0;font:700 8px Arial,sans-serif;letter-spacing:.12em;cursor:pointer}
+  .preamble-think.is-revealed{grid-template-columns:minmax(220px,.58fr) minmax(0,1.42fr) auto;align-items:start;gap:16px}
+  .preamble-learning-grid:has(.preamble-think.is-revealed){grid-template-rows:124px;align-content:start}
+  .preamble-learning-grid:has(.preamble-think.is-revealed) .promise-workshop{display:none}
+  .preamble-learning-grid:has(.preamble-think.is-revealed) .preamble-think{grid-row:1;height:124px;padding:14px 18px}
+  .preamble-answer{padding-left:16px;border-left:1px solid var(--line)}
+  .preamble-answer>b{color:var(--red);font:700 9px Arial,sans-serif;letter-spacing:.14em}
+  .preamble-answer p{margin:4px 0;font:12.5px/1.32 Georgia,serif}
+  .preamble-answer .cn-copy{font-size:11px!important;line-height:1.34!important}
+
+  /* Two Houses: the answer follows the diagram instead of crowding the question. */
+  .houses-lesson{grid-template-columns:minmax(0,.88fr) minmax(0,1.12fr);grid-template-rows:1fr}
+  .houses-lesson .lesson-copy{border-right:1px solid var(--line);display:flex;flex-direction:column;padding:26px 32px}
+  .houses-lesson .think-prompt{margin-top:auto;padding-top:18px}
+  .houses-lesson .think-prompt h3{font-size:17px;line-height:1.28}
+  .houses-lesson .think-prompt .cn-copy{font-size:12px!important;line-height:1.35!important}
+  .houses-lesson .bicameral-map{display:grid;grid-template-rows:minmax(0,1fr) auto;gap:10px;padding:16px 20px;overflow:hidden}
+  .houses-lesson .congress-figure{min-height:0;height:100%;width:100%;grid-template-rows:minmax(0,1fr) auto;gap:7px}
+  .congress-crop{height:100%;min-height:0;width:100%;overflow:hidden;display:grid;place-items:center;background:#fff}
+  .houses-lesson .congress-crop img{display:block;width:100%;height:100%;max-width:100%;max-height:100%;transform:none;object-fit:contain;object-position:center}
+  .figure-note{padding:10px 13px;border-top:1px solid var(--line);background:rgba(238,226,204,.46)}
+  .figure-note>p:not(.eyebrow){margin:4px 0;font:12.5px/1.34 Georgia,serif}
+  .figure-note .cn-copy{font-size:11px!important;line-height:1.35!important}
+  .figure-note .note-summary{margin-top:5px!important;color:var(--red2);font-weight:700!important}
+
+  /* Separation of powers: question, answer, diagram and checks are four distinct states. */
+  .separation-lesson{grid-template-columns:minmax(0,1.05fr) minmax(210px,.95fr);grid-template-rows:1fr}
+  .separation-lesson .lesson-copy{border-right:1px solid var(--line)}
+  .separation-stage-think .lesson-copy,.separation-stage-answer .lesson-copy{display:flex;flex-direction:column;justify-content:center;padding:18px 26px}
+  .question-answer{margin-top:8px;padding:12px 15px;border-left:3px solid var(--red);background:rgba(238,226,204,.48)}
+  .question-answer>p:not(.eyebrow){margin:5px 0;font:13px/1.4 Georgia,serif}
+  .question-answer .cn-copy{font-size:11.5px!important;line-height:1.4!important}
+  .question-answer>button{margin-top:8px;border:0;background:var(--red);color:white;padding:7px 10px;font:700 8px Arial,sans-serif;letter-spacing:.1em;cursor:pointer}
+  .question-stage-marker{width:100%;display:flex;align-items:center;justify-content:center;gap:10px;color:var(--red)}
+  .question-stage-marker span{width:42px;height:42px;display:grid;place-items:center;border:1px solid var(--line);border-radius:50%;background:var(--sheet);font:18px Georgia,serif}
+  .question-stage-marker i{width:28px;height:1px;background:var(--line)}
+  .branches-crop{width:100%;height:100%;min-height:0;display:grid;grid-template-rows:minmax(0,1fr) auto}
+  .cropped-diagram{width:100%;height:100%;min-height:0;overflow:hidden;background:#fff}
+  .cropped-diagram img{width:100%;height:100%;max-width:none;max-height:none;transform:none;object-fit:contain}
+  .checks-only-lesson{grid-template-columns:minmax(205px,.42fr) minmax(0,1.58fr);grid-template-rows:1fr}
+  .checks-copy{min-height:0;padding:16px 18px;border-right:1px solid var(--line);display:flex;flex-direction:column;justify-content:center;background:rgba(238,226,204,.38)}
+  .checks-copy h2{margin:5px 0 8px;font:400 24px/1.05 Georgia,serif}
+  .checks-copy>p:not(.eyebrow){margin:3px 0;font:10px/1.32 Georgia,serif}
+  .checks-copy .cn-copy{font-size:9px!important;line-height:1.32!important}
+  .compact-conclusion{display:grid;grid-template-columns:auto 1fr;gap:4px 8px;margin-top:12px;padding-top:10px;border-top:1px solid var(--line);font:9px/1.2 Arial,sans-serif}
+  .compact-conclusion b{color:var(--red);font-size:7px;letter-spacing:.1em}
+  .checks-only-lesson .branches-stage{padding:9px 12px;overflow:hidden}
+  .checks-only-lesson .checks-figure{height:100%;display:grid;grid-template-rows:220px auto minmax(0,1fr);gap:7px;overflow:hidden}
+  .checks-only-lesson .checks-figure>img{display:block;width:min(100%,450px);height:220px;max-width:100%;max-height:none;transform:none;object-fit:contain;object-position:center}
+  .checks-only-lesson .checks-legend{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;overflow:auto}
+  .checks-only-lesson .checks-legend span{padding:7px 10px;font-size:12px;line-height:1.3}
+  .checks-only-lesson .checks-legend b{font-size:9px}
+
+  .federalism-lesson .lesson-conclusion{padding:8px 18px}
+  .federalism-lesson .lesson-conclusion>strong{font-size:14px;line-height:1.25}
+  .federalism-lesson .lesson-conclusion>p{margin:2px 0;font-size:10px;line-height:1.28}
+  .federalism-lesson .lesson-conclusion blockquote{margin:6px 0 0;padding-left:10px;font-size:12px;line-height:1.28}
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  .preamble-chapter{grid-template-rows:76px minmax(250px,300px) minmax(270px,320px);gap:16px}
+  .preamble-learning-grid{grid-template-rows:minmax(170px,1fr) minmax(92px,auto);gap:12px}
+  .promise-workshop{grid-template-rows:62px minmax(0,1fr);border-radius:16px}
+  .promise-workshop .preamble-question{padding:12px 22px}
+  .promise-workshop .preamble-question h3{font-size:22px}
+  .promise-workshop .preamble-question>p{max-width:410px;font-size:12px}
+  .promise-workshop .promise-card-face{padding:13px 10px}
+  .promise-workshop .promise-card-face small{font-size:9px!important}
+  .promise-workshop .promise-card-front b{font-size:13px}
+  .promise-workshop .promise-card-back strong,.promise-workshop .promise-card:last-child .promise-card-back strong{font-size:14px}
+  .promise-workshop .promise-card-back em,.promise-workshop .promise-card:last-child .promise-card-back em{font-size:11px}
+  .preamble-think{padding:15px 22px}
+  .preamble-think h3{font-size:18px}
+  .preamble-think>button{font-size:9px}
+  .preamble-answer p{font-size:12px}
+  .preamble-answer .cn-copy{font-size:11px!important}
+  .houses-lesson .congress-figure img{max-height:245px}
+  .figure-note{padding:12px 16px}
+  .figure-note>p:not(.eyebrow){font-size:13px}
+  .figure-note .cn-copy{font-size:11.5px!important}
+  .question-answer>p:not(.eyebrow){font-size:15px}
+  .question-answer .cn-copy{font-size:13px!important}
+  .cropped-diagram img{width:100%;height:100%;transform:none;object-fit:contain}
+  .checks-copy{padding:28px 34px}
+  .checks-copy h2{font-size:38px}
+  .checks-copy>p:not(.eyebrow){font-size:15px}
+  .checks-copy .cn-copy{font-size:13px!important}
+  .checks-only-lesson .checks-figure>img{max-height:245px}
+  .checks-only-lesson .checks-legend span{padding:8px 10px;font-size:10px}
+}
+
+@media(max-width:720px){
+  .promise-workshop{margin-top:16px;border:1px solid var(--line);background:rgba(250,247,239,.9)}
+  .promise-workshop .preamble-question{padding:16px}
+  .promise-workshop .preamble-question h3{margin:4px 0;font:24px/1.1 Georgia,serif}
+  .promise-workshop .goal-strip{margin:0;padding:0 12px 12px}
+  .preamble-think{margin-top:12px;padding:18px;border:1px solid var(--line);border-left:3px solid var(--red)}
+  .preamble-think>button{margin-top:14px}
+  .preamble-answer{margin-top:14px;padding-left:14px;border-left:1px solid var(--line)}
+  .article-lesson,.checks-only-lesson{display:block}
+  .figure-note,.question-answer,.checks-copy{padding:18px}
+  .cropped-diagram{height:280px;overflow:hidden}
+  .cropped-diagram img{width:125%;max-width:none;transform:translate(-10%,-4%)}
+}
+
+/* Amendment reading pass: the timeline tracks the card width and each card carries a
+   short bilingual explanation. Keep the ordinal suffix beside the number so it stays
+   legible at the compact classroom viewport. */
+@media(min-width:721px){
+  :scope.constitution-amendments .amendments-chapter{
+    width:100%;
+    height:calc(100% - 15px);
+    grid-template-rows:50px 64px minmax(0,1fr);
+  }
+  :scope.constitution-amendments .timeline-nav{
+    width:min(92%,900px);
+    max-width:1000px;
+    height:64px;
+    margin:0 auto;
+    grid-template-columns:repeat(7,minmax(0,1fr));
+  }
+  :scope.constitution-amendments .timeline-nav:before{top:42px;left:7%;right:7%}
+  :scope.constitution-amendments .timeline-nav button{
+    min-height:64px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-start;
+    padding:0;
+  }
+  :scope.constitution-amendments .timeline-nav .timeline-year{
+    display:block;
+    margin:0 0 5px;
+    color:var(--soft);
+    font:11px/1.1 Georgia,serif;
+  }
+  :scope.constitution-amendments .timeline-nav .timeline-mark{
+    display:inline-flex;
+    align-items:center;
+    gap:3px;
+    height:44px;
+    font:inherit;
+  }
+  :scope.constitution-amendments .timeline-nav .timeline-mark b{
+    display:inline-grid;
+    place-items:center;
+    width:44px;
+    height:44px;
+    font:18px/1 Georgia,serif;
+  }
+  :scope.constitution-amendments .timeline-nav .timeline-mark small{
+    display:inline-block;
+    margin:0;
+    color:var(--soft);
+    font:12px/1 Georgia,serif;
+  }
+  :scope.constitution-amendments .timeline-nav button.active .timeline-mark small{color:var(--red2)}
+  :scope.constitution-amendments .amendment-copy>p:not(.eyebrow){font-size:12.5px;line-height:1.45}
+  :scope.constitution-amendments .amendment-copy>.cn-copy{
+    margin-top:9px;
+    color:var(--red2)!important;
+    font:11.5px/1.45 "Songti SC","SimSun",serif!important;
+  }
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  :scope.constitution-amendments .amendments-chapter{grid-template-rows:76px 88px minmax(0,1fr)}
+  :scope.constitution-amendments .timeline-nav{width:min(88%,1080px);height:88px}
+  :scope.constitution-amendments .timeline-nav button{min-height:88px}
+  :scope.constitution-amendments .timeline-nav:before{top:54px}
+  :scope.constitution-amendments .timeline-nav .timeline-year{font-size:12px;margin-bottom:7px}
+  :scope.constitution-amendments .timeline-nav .timeline-mark{height:56px}
+  :scope.constitution-amendments .timeline-nav .timeline-mark b{width:56px;height:56px;font-size:21px}
+  :scope.constitution-amendments .timeline-nav .timeline-mark small{font-size:14px}
+  :scope.constitution-amendments .amendment-copy>p:not(.eyebrow){font-size:17px;line-height:1.5}
+  :scope.constitution-amendments .amendment-copy>.cn-copy{font-size:15px!important;line-height:1.5!important}
+}
+
+@media(max-width:720px){
+  :scope.constitution-amendments .amendments-chapter{grid-template-rows:50px 43px minmax(0,1fr)}
+  :scope.constitution-amendments .timeline-nav{width:100%;grid-template-columns:repeat(7,minmax(86px,1fr));}
+  :scope.constitution-amendments .timeline-nav .timeline-mark{display:inline-flex;align-items:center;gap:2px;height:36px}
+  :scope.constitution-amendments .timeline-nav .timeline-mark b{width:32px;height:32px;font-size:14px}
+  :scope.constitution-amendments .timeline-nav .timeline-mark small{font-size:10px}
+  :scope.constitution-amendments .amendment-copy>.cn-copy{margin-top:7px;font-size:11px!important;line-height:1.4!important}
+}
+
+/* Final reading layout: keep amendment details aligned, and place the historical
+   note inside the Preamble answer where it explains the unfinished promise. */
+@media(min-width:721px){
+  :scope.constitution-amendments .amendments-chapter:has(.surprise){
+    grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);
+  }
+  :scope.constitution-amendments .amendments-chapter:has(.surprise)>.chapter-head,
+  :scope.constitution-amendments .amendments-chapter:has(.surprise)>.timeline-nav{grid-column:1/-1}
+  :scope.constitution-amendments .amendments-chapter:has(.surprise)>.amendment-card{
+    grid-column:1;
+    grid-row:3;
+    width:100%;
+  }
+  :scope.constitution-amendments .amendments-chapter:has(.surprise)>.surprise{
+    grid-column:2;
+    grid-row:3;
+    width:100%;
+    height:100%;
+    min-height:0;
+    margin:0;
+    overflow:auto;
+  }
+  :scope.constitution-amendments .amendment-card .amendment-copy{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+  :scope.constitution-amendments .amendment-copy>p:not(.eyebrow){font-size:15px;line-height:1.48}
+  :scope.constitution-amendments .amendment-copy>.cn-copy{font-size:13px!important;line-height:1.48!important}
+  :scope.constitution-preamble .preamble-learning-grid:has(.preamble-think.is-revealed){
+    grid-template-rows:minmax(300px,1fr);
+    align-content:stretch;
+  }
+  :scope.constitution-preamble .preamble-chapter:has(.preamble-think.is-revealed){overflow:visible}
+  :scope.constitution-preamble .preamble-think.is-revealed{
+    grid-template-columns:minmax(155px,.45fr) minmax(0,1.55fr);
+    grid-template-rows:minmax(0,1fr) auto;
+    align-items:start;
+    gap:10px 16px;
+    height:100%;
+    min-height:300px;
+    padding:14px 18px;
+  }
+  :scope.constitution-preamble .preamble-think.is-revealed>div:first-child{
+    grid-column:1;
+    grid-row:1;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    height:100%;
+  }
+  :scope.constitution-preamble .preamble-think.is-revealed>.preamble-answer{grid-column:2;grid-row:1;min-width:0;min-height:0;overflow:auto}
+  :scope.constitution-preamble .preamble-think.is-revealed>button{grid-column:2;grid-row:2;justify-self:end}
+  :scope.constitution-preamble .preamble-context-note{
+    margin-top:7px;
+    padding-top:6px;
+    border-top:1px solid var(--line);
+  }
+  :scope.constitution-preamble .preamble-context-note .eyebrow{margin:0 0 2px;font-size:9px}
+  :scope.constitution-preamble .preamble-context-note h4{margin:0 0 3px;font:400 13px/1.1 Georgia,serif}
+  :scope.constitution-preamble .preamble-context-note p:not(.eyebrow){margin:2px 0;font:10px/1.2 Georgia,serif}
+  :scope.constitution-preamble .preamble-context-note .cn-copy{font-size:9px!important;line-height:1.24!important}
+  :scope.constitution-preamble .preamble-answer p{font-size:14.5px;line-height:1.38}
+  :scope.constitution-preamble .preamble-answer .cn-copy{font-size:12.5px!important;line-height:1.4!important}
+  :scope.constitution-preamble .preamble-context-note>small{display:block;margin-top:3px;color:var(--soft);font:7.5px/1.15 Arial,sans-serif}
+}
+
+@media(min-width:1000px) and (min-height:800px){
+  :scope.constitution-preamble .preamble-learning-grid:has(.preamble-think.is-revealed){grid-template-rows:minmax(280px,1fr)}
+  :scope.constitution-preamble .preamble-think.is-revealed{min-height:280px}
+  :scope.constitution-preamble .preamble-context-note h4{font-size:16px}
+  :scope.constitution-preamble .preamble-context-note p:not(.eyebrow){font-size:12px;line-height:1.3}
+  :scope.constitution-preamble .preamble-context-note .cn-copy{font-size:11px!important;line-height:1.34!important}
+  :scope.constitution-preamble .preamble-context-note>small{font-size:9px}
+}
+
+@media(max-width:720px){
+  :scope.constitution-preamble .preamble-context-note{margin-top:12px;padding-top:10px;border-top:1px solid var(--line)}
+  :scope.constitution-preamble .preamble-context-note h4{margin:4px 0;font:400 20px/1.1 Georgia,serif}
+  :scope.constitution-preamble .preamble-context-note p:not(.eyebrow){margin:5px 0;font:14px/1.45 Georgia,serif}
+  :scope.constitution-preamble .preamble-context-note .cn-copy{font-size:12px!important;line-height:1.45!important}
+  :scope.constitution-preamble .preamble-context-note>small{display:block;margin-top:6px;color:var(--soft);font:9px/1.3 Arial,sans-serif}
+}
+
+/* Visual QA: constrain replaced images to their grid cell, and show all six checks. */
+@media(min-width:721px) and (min-height:640px){
+  :scope.constitution-articles>.articles-chapter{height:100%}
+  .houses-lesson{grid-template-columns:minmax(0,.75fr) minmax(0,1.25fr)}
+  .houses-lesson .congress-crop{position:relative;grid-template-rows:minmax(0,1fr)}
+  .houses-lesson .congress-crop img{position:absolute;inset:0;min-height:0;width:100%;height:100%;max-height:100%;object-fit:contain}
+  .checks-only-lesson .checks-figure{grid-template-rows:190px auto minmax(0,1fr)}
+  .checks-only-lesson .checks-figure>img{height:190px;width:min(100%,390px)}
+  .checks-only-lesson .checks-legend{grid-template-columns:repeat(3,minmax(0,1fr));gap:5px 8px;margin-top:0}
+  .checks-only-lesson .checks-legend span{padding:5px 7px;font-size:12px;line-height:1.3}
+}
+
+}
