@@ -1,4 +1,5 @@
 import vinext from "vinext";
+import { nitro } from "nitro/vite";
 import { defineConfig } from "vite";
 import hostingConfig from "./.openai/hosting.json";
 import { sites } from "./build/sites-vite-plugin";
@@ -13,6 +14,12 @@ const { d1, r2 } = hostingConfig;
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
+
+// Nitro owns the deployment output on Vercel. The Cloudflare Vite plugin
+// remains enabled for local/Workers builds, where its R2 and worker bindings
+// are required, but must not also claim the Vercel build output.
+const isNitroDeployment =
+  process.env.NITRO_PRESET === "vercel" || process.env.VERCEL === "1";
 
 const localBindingConfig = {
   main: "./worker/index.ts",
@@ -47,6 +54,14 @@ export default defineConfig(async () => {
   const { cloudflare } = await import("@cloudflare/vite-plugin");
 
   return {
+    // Vite 8's CSS import resolver does not follow Tailwind v4's `style`
+    // export in every package-manager layout. Resolve the framework stylesheet
+    // explicitly so the Nitro build uses the same CSS pipeline as local Vinext.
+    resolve: {
+      alias: {
+        tailwindcss: resolve("node_modules/tailwindcss/index.css"),
+      },
+    },
     server: {
       host: "0.0.0.0",
       allowedHosts: ["terminal.local"],
@@ -78,12 +93,17 @@ export default defineConfig(async () => {
         },
       },
       vinext(),
+      nitro(),
       sites(),
-      cloudflare({
-        viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] },
-        inspectorPort: false,
-        config: localBindingConfig,
-      }),
+      ...(!isNitroDeployment
+        ? [
+            cloudflare({
+              viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] },
+              inspectorPort: false,
+              config: localBindingConfig,
+            }),
+          ]
+        : []),
     ],
   };
 });
