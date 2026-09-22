@@ -344,7 +344,7 @@ function LifePortrait({ onOpenInvestigation, onOpenThenNow }: { onOpenInvestigat
         <div className="steffens-fact-file-grid">
           <figure>
             <img
-              src="/media/lincoln-steffens-news-background.webp"
+              src="/media-local/lincoln-steffens-news-background.webp"
               alt="A pencil portrait of Lincoln Steffens"
               width="1254"
               height="1254"

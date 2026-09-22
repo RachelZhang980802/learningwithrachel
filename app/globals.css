@@ -271,16 +271,16 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .cat-position-tools button { padding:6px 11px; border:1px solid rgba(86,65,43,.38); border-radius:999px; background:rgba(75,58,42,.9); color:#f5e8cc; cursor:pointer; font-family:inherit; font-size:13px; box-shadow:0 4px 12px rgba(44,31,20,.16); }
 .cat-position-tools button:hover { background:rgba(248,238,209,.96); }
 .archive-canvas { width:min(1240px,calc(100% - 48px)); min-height:760px; margin:20px auto 0; padding:0 0 clamp(32px,4vw,54px); position:relative; isolation:isolate; border:0; background:transparent; box-shadow:none; }
-.archive-ink-gate { width:100vw; min-height:760px; padding:0; position:absolute; z-index:0; top:0; bottom:0; left:50%; border:0; background-color:transparent; background-image:url("/media/harvard-widener-ink-wash.webp"); background-repeat:no-repeat; background-position:center 0; background-size:min(1750px,132vw) auto; opacity:.4; filter:sepia(.12) contrast(.96) saturate(.86); mix-blend-mode:multiply; cursor:pointer; transform:translateX(-50%) scale(1.035); transform-origin:50% 18%; transition:opacity .4s ease,filter .4s ease,transform .55s cubic-bezier(.2,.75,.25,1); -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 4%,#000 91%,transparent 100%); mask-image:linear-gradient(to bottom,transparent 0,#000 4%,#000 91%,transparent 100%); }
+.archive-ink-gate { width:100vw; min-height:760px; padding:0; position:absolute; z-index:0; top:0; bottom:0; left:50%; border:0; background-color:transparent; background-image:url("/media-local/harvard-widener-ink-wash.webp"); background-repeat:no-repeat; background-position:center 0; background-size:min(1750px,132vw) auto; opacity:.4; filter:sepia(.12) contrast(.96) saturate(.86); mix-blend-mode:multiply; cursor:pointer; transform:translateX(-50%) scale(1.035); transform-origin:50% 18%; transition:opacity .4s ease,filter .4s ease,transform .55s cubic-bezier(.2,.75,.25,1); -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 4%,#000 91%,transparent 100%); mask-image:linear-gradient(to bottom,transparent 0,#000 4%,#000 91%,transparent 100%); }
 .robot-studio { --archive-ink:#2f3e3d; --archive-muted:#647574; --archive-line:rgba(52,77,75,.28); background-color:#bdc4af; background-image:radial-gradient(rgba(54,76,67,.14) .65px,transparent .75px),linear-gradient(112deg,rgba(242,239,211,.34),rgba(78,105,96,.08)); }
-.archive-ink-gate.robot-ink-gate { background-image:url("/media/robot-dog-lineart.png"); background-size:min(1750px,132vw) auto; opacity:.62; filter:none; mix-blend-mode:multiply; }
+.archive-ink-gate.robot-ink-gate { background-image:url("/media-local/robot-dog-lineart.png"); background-size:min(1750px,132vw) auto; opacity:.62; filter:none; mix-blend-mode:multiply; }
 .archive-ink-gate.robot-ink-gate:hover,.archive-ink-gate.robot-ink-gate:focus-visible { opacity:1; filter:none; }
 .archive-ink-gate.robot-ink-gate.is-open { opacity:.22; filter:none; }
 .robot-studio .paragraph-tabs button.active,.robot-studio .sentence-nav button.active { background:#496966; color:#eef4e9; }
 .robot-studio .analysis-tabs button.active { background:#4f7773; }
 .robot-studio .paper-index,.robot-studio .sentence-audio span { color:#627975; }
 .roommates-studio { --archive-ink:#6f6256; --archive-muted:#8a7c6d; --archive-line:rgba(102,85,66,.24); background-color:#e9e3d5; background-image:radial-gradient(rgba(112,92,68,.1) .65px,transparent .75px),linear-gradient(112deg,rgba(255,249,229,.44),rgba(155,135,106,.08)); }
-.archive-ink-gate.roommates-ink-gate { background-image:url("/media/roommates-grandfather-lineart.png"); background-size:min(1250px,94vw) auto; opacity:.52; filter:none; mix-blend-mode:multiply; }
+.archive-ink-gate.roommates-ink-gate { background-image:url("/media-local/roommates-grandfather-lineart.png"); background-size:min(1250px,94vw) auto; opacity:.52; filter:none; mix-blend-mode:multiply; }
 .archive-ink-gate.roommates-ink-gate:hover,.archive-ink-gate.roommates-ink-gate:focus-visible { opacity:.78; filter:none; }
 .archive-ink-gate.roommates-ink-gate.is-open { opacity:.2; filter:none; }
 .roommates-studio .paragraph-tabs button.active,.roommates-studio .sentence-nav button.active { background:#87745f; color:#fff7e7; }
@@ -1263,7 +1263,7 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
   z-index:-2;
   background:
     linear-gradient(rgba(95,95,91,.2),rgba(76,76,73,.42)),
-    url("/media/lincoln-steffens-news-background.webp") center top/cover no-repeat;
+    url("/media-local/lincoln-steffens-news-background.webp") center top/cover no-repeat;
   opacity:0;
   filter:grayscale(.08) contrast(.94);
   animation:newsroomPaperArrive .75s .12s ease forwards;
@@ -2398,7 +2398,7 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .muck-rake-intro::before{
   background-image:
     linear-gradient(rgba(245,239,225,.67),rgba(245,239,225,.76)),
-    url("/media/lincoln-steffens-news-background.webp");
+    url("/media-local/lincoln-steffens-news-background.webp");
   background-position:center,center 74px;
   background-size:100% 100%,min(1080px,100vw) auto;
   background-repeat:no-repeat;
@@ -2755,7 +2755,7 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
   background-color:#e8dfce;
 }
 .muck-rake-cover-only::before{
-  background-image:url("/media/lincoln-steffens-news-background.webp");
+  background-image:url("/media-local/lincoln-steffens-news-background.webp");
   background-position:center;
   background-size:min(920px,86vw) auto;
   background-repeat:no-repeat;
@@ -2804,7 +2804,7 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .muck-rake-archive-open::before{
   background-image:
     linear-gradient(rgba(245,239,226,.76),rgba(245,239,226,.84)),
-    url("/media/lincoln-steffens-news-background.webp");
+    url("/media-local/lincoln-steffens-news-background.webp");
   background-position:center,center 54px;
   background-size:100% 100%,min(960px,94vw) auto;
   background-repeat:no-repeat;
