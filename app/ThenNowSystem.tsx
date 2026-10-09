@@ -99,7 +99,7 @@ export function ThenNowSystem({ onBackToPortrait, onReadText }: ThenNowSystemPro
         <h2>{view === "today" ? "Contemporary reporting and public records" : view === "minneapolis" ? "What happens when policing becomes a business?" : "How does corruption become a system?"}</h2>
         <figure className={`then-now-cat ${reviewedThrough || reviewedEvidence ? "is-alert" : ""}`} aria-label="The first article’s doctoral-cap cat">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/media/cat-blackwhite-extended-doctoral.png?v=1" alt="The gray-and-white tabby cat wearing its doctoral cap" width="1007" height="1504" />
+          <img src="https://assets.negentropylearning.com.cn/media/cat-blackwhite-extended-doctoral.png?v=1" alt="The gray-and-white tabby cat wearing its doctoral cap" width="1007" height="1504" />
         </figure>
       </header>
 
@@ -114,7 +114,7 @@ export function ThenNowSystem({ onBackToPortrait, onReadText }: ThenNowSystemPro
               <em>When policing becomes a business</em>
               <figure className="minneapolis-case-map" aria-label="Map showing Minneapolis in Minnesota">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src="/media/minneapolis-location-map.png?v=1" alt="Map of the continental United States with Minneapolis marked in Minnesota" width="1484" height="1060" />
+                <img src="https://assets.negentropylearning.com.cn/media/minneapolis-location-map.png?v=1" alt="Map of the continental United States with Minneapolis marked in Minnesota" width="1484" height="1060" />
               </figure>
               <small>click to break the seal</small>
             </button>
@@ -176,12 +176,12 @@ export function ThenNowSystem({ onBackToPortrait, onReadText }: ThenNowSystemPro
           <div className="minnesota-today-images">
             <a href="https://www.startribune.com/nuway-kickbacks/601381135" target="_blank" rel="noreferrer" aria-label="Open Minnesota Star Tribune reporting on Nuway kickbacks">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/media/minnesota-today-nuway.png?v=1" alt="Minnesota Star Tribune report on a Medicaid kickback settlement" width="1974" height="904" />
+              <img src="https://assets.negentropylearning.com.cn/media/minnesota-today-nuway.png?v=1" alt="Minnesota Star Tribune report on a Medicaid kickback settlement" width="1974" height="904" />
               <span>Open reporting · Minnesota Star Tribune ↗</span>
             </a>
             <a href="https://en.wikipedia.org/wiki/2020s_Minnesota_fraud_scandals" target="_blank" rel="noreferrer" aria-label="Open overview of 2020s Minnesota fraud scandals">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/media/minnesota-today-fraud-scandals.png?v=1" alt="Overview page for 2020s Minnesota fraud scandals" width="1874" height="1338" />
+              <img src="https://assets.negentropylearning.com.cn/media/minnesota-today-fraud-scandals.png?v=1" alt="Overview page for 2020s Minnesota fraud scandals" width="1874" height="1338" />
               <span>Open overview · 2020s Minnesota fraud scandals ↗</span>
             </a>
           </div>

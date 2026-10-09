@@ -25,7 +25,7 @@
 .article-one-notebook .notebook-tab-words{background:#dce0c8}.article-one-notebook .notebook-tab-structure{background:#d6e0de}.article-one-notebook .notebook-tab-meaning,.article-one-notebook .notebook-tab-translation{background:#eeddab}.article-one-notebook .notebook-tab-practice{background:#eed1bd}
 .article-one-notebook .notebook-tab[aria-pressed=true]{background:#a74e34;color:#fff7e8}.article-one-notebook .notebook-tab[aria-pressed=true] img{filter:invert(1)}
 .article-one-notebook .notebook-tab:hover{padding-left:16px}
-.article-one-notebook .notebook-sheet{position:relative;min-width:0;min-height:795px;display:flex;flex-direction:column;border:1px solid #c3b293;border-radius:15px 18px 13px 17px;background:#faf2e2 url("/sentence-studio/paper-sheet.png") center bottom/115% 130% no-repeat;box-shadow:0 12px 24px #5b432321,-5px 4px 0 -1px #eaddc4,-9px 7px 0 -3px #c0a986;isolation:isolate}
+.article-one-notebook .notebook-sheet{position:relative;min-width:0;min-height:795px;display:flex;flex-direction:column;border:1px solid #c3b293;border-radius:15px 18px 13px 17px;background:#faf2e2 url("https://assets.negentropylearning.com.cn/sentence-studio/paper-sheet.png") center bottom/115% 130% no-repeat;box-shadow:0 12px 24px #5b432321,-5px 4px 0 -1px #eaddc4,-9px 7px 0 -3px #c0a986;isolation:isolate}
 .article-one-notebook .notebook-face{flex:1;min-width:0;transform-origin:left center;animation:notebook-page-in .42s ease backwards}
 .article-one-notebook .notebook-front{padding:65px clamp(32px,5.7vw,86px) 10px;display:flex;flex-direction:column}
 .article-one-notebook .notebook-badge{display:flex;align-items:center;gap:22px;position:relative;z-index:5;text-align:left;min-height:86px}
@@ -114,7 +114,7 @@
 .article-one-notebook .notebook-structure .notebook-analysis-card{perspective:1400px;overflow:hidden}
 .article-one-notebook .notebook-structure .notebook-analysis-card-inner{position:relative;display:grid;min-height:150px;transform-style:preserve-3d;transition:transform .62s cubic-bezier(.2,.78,.22,1)}
 .article-one-notebook .notebook-structure .notebook-analysis-card.is-open .notebook-analysis-card-inner{transform:rotateY(180deg)}
-.article-one-notebook .notebook-structure .notebook-analysis-card-face{grid-area:1/1;min-width:0;backface-visibility:hidden;background:linear-gradient(100deg,#fffaf1f2,#f5ecd6eb),url('/sentence-studio/paper-sheet.png') center bottom/115% 130% no-repeat}
+.article-one-notebook .notebook-structure .notebook-analysis-card-face{grid-area:1/1;min-width:0;backface-visibility:hidden;background:linear-gradient(100deg,#fffaf1f2,#f5ecd6eb),url('https://assets.negentropylearning.com.cn/sentence-studio/paper-sheet.png') center bottom/115% 130% no-repeat}
 .article-one-notebook .notebook-structure .notebook-analysis-card-front{position:relative;z-index:1;min-height:150px;pointer-events:auto}
 .article-one-notebook .notebook-structure .notebook-analysis-card-back{position:absolute;inset:0;z-index:2;transform:rotateY(180deg);overflow:hidden;pointer-events:none}
 .article-one-notebook .notebook-structure .notebook-analysis-card.is-open .notebook-analysis-card-front{position:absolute;inset:0;pointer-events:none}
@@ -277,7 +277,7 @@
 .article-one-notebook .notebook-context>p{margin:0;text-align:center}
 
 /* A tactile index card for the shared clause-analysis entrance. */
-.article-one-notebook .clause-entry{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 110px;gap:24px;width:100%;padding:30px 32px 20px;border:0;border-left:5px solid #9c604a;border-radius:2px;background:linear-gradient(115deg,#fffdf580,#eddfc324),url('/sentence-studio/paper-sheet.png') center bottom/115% 130%;box-shadow:inset 0 1px 0 #ffffff,inset 0 -4px 0 #b7a17b12;color:var(--notebook-ink);text-align:left;transition:box-shadow .2s,background-color .2s}
+.article-one-notebook .clause-entry{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 110px;gap:24px;width:100%;padding:30px 32px 20px;border:0;border-left:5px solid #9c604a;border-radius:2px;background:linear-gradient(115deg,#fffdf580,#eddfc324),url('https://assets.negentropylearning.com.cn/sentence-studio/paper-sheet.png') center bottom/115% 130%;box-shadow:inset 0 1px 0 #ffffff,inset 0 -4px 0 #b7a17b12;color:var(--notebook-ink);text-align:left;transition:box-shadow .2s,background-color .2s}
 .article-one-notebook .clause-entry:hover{background-color:#fffaf0;box-shadow:inset 0 1px 0 #fff,inset 0 -4px 0 #b7a17b22}
 .article-one-notebook .clause-entry-heading{display:flex;flex-direction:column;gap:7px}
 .article-one-notebook .clause-entry-kicker{font:11px/1.5 var(--notebook-type);letter-spacing:.13em;color:#88775d}

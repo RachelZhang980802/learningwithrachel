@@ -1,0 +1,4430 @@
+[
+  {
+    "id": "one",
+    "label": "Chapter One",
+    "total": 100,
+    "questions": [
+      {
+        "number": 1,
+        "question": "In which pair of battles did the Greeks win during the Greco- Persian Wars?",
+        "options": [
+          "Battle of Salamis & Battle of Plataea",
+          "Battle of Thermopylae & Battle of Marathon",
+          "Battle of Cannae & Peloponnesian wars",
+          "Battle of Marathon & Battle of Thermopylae"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "question": "What event traditionally marks the end of the Archaic Period in ancient Greek history?",
+        "options": [
+          "The first Olympic Games in 776 BCE",
+          "The death of Alexander the Great in 323 BCE",
+          "Perisan destrucion of Athens",
+          "The fall of the Mycenaean civilization"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "With population increase and urbanization, Greek polis (city- states) emerged. For purpose of defense, many city-states construct a kind of building to protect the city. What is the building?",
+        "options": [
+          "Acropolis",
+          "Metropolis",
+          "Necropolis",
+          "Cosmopolis"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "In Sparta, all boys had to take military training at the age of seven. They could get married at the age of 20, but were not allowed to live with their wives until the age of __.",
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "question": "In 594 BC, a merchant named ______was given the right to create a new constitution and his reforms laid the foundatins for Athenian democracy.",
+        "options": [
+          "Solon",
+          "Pericles",
+          "Draco",
+          "Thales"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "Solon established a coucil of ______members drawn from all four classes and gave citizens the right of appeal.",
+        "options": [
+          "200",
+          "300",
+          "400",
+          "500"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "The School of Athens perfectly embodies the classical spirits of the Renaissance, expressing the classical ideals. Which of the following does NOT belong to these ideals?",
+        "options": [
+          "beauty",
+          "serenity",
+          "harmony",
+          "balance"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "question": "What is NOT the spirit of French Revolution?",
+        "options": [
+          "equality",
+          "harmony",
+          "liberty",
+          "fraternity"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "Which of the symbol of western civilization is Not correct?",
+        "options": [
+          "Athens-Parthnon",
+          "France-Arc de Triomphe",
+          "the UK-Capitol Hill",
+          "the US-the National Mall"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "Which one does NOT belong to the traditions of western civilization?",
+        "options": [
+          "The civilization of Mesopotamia",
+          "Greco-Roman culture",
+          "the Enlightenment",
+          "Christianity"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "question": "According to Joseph Nye's theory, which of the following is NOT one of the three sources of soft power?",
+        "options": [
+          "Culture",
+          "Political Values",
+          "Foreign Policies",
+          "Military Force"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "question": "Which one shows the correct timeline of Ancient Greece?",
+        "options": [
+          "Dark Age (Homeric Age) → Archaic Period → Classical Period → Hellenistic Period",
+          "Archaic Period → Dark Age (Homeric Age) → Hellenistic Period → Classical Period",
+          "Classical Period → Hellenistic Period → Dark Age (Homeric Age) → Archaic Period",
+          "Mycenaean Civilization → Hellenistic Period → Classical Period → Byzantine Period"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Which one is NOT one of the earliest civilizations?",
+        "options": [
+          "Ancient Egypt",
+          "Indus Valley Civilization",
+          "Roman Empire",
+          "Mesopotamia Civilization"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "question": "What is one of the seven wonders of the ancient world?",
+        "options": [
+          "The Colosseum",
+          "The Great Wall of China",
+          "The Hanging Gardens of Babylon",
+          "Machu Picchu"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "question": "What are the New Wonders of the world?",
+        "options": [
+          "The Great Pyramid of Giza, the Hanging Gardens of Babylon, and the Statue of Zeus",
+          "The Great Wall of China, Petra, and the Colosseum",
+          "The Eiffel Tower, the Sydney Opera House, and the Statue of Liberty",
+          "Angkor Wat, Stonehenge, and the Moai Statues"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Where is this term \"Fertile Crescent\" closly related to?",
+        "options": [
+          "The mountain ranges of South America",
+          "The desert regions of Northern Africa",
+          "The river valleys of the Middle East",
+          "The islands of Southeast Asia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "question": "Which one is the oldest and the only one remaining of the seven wonders of the Ancient World?",
+        "options": [
+          "The Lighthouse of Alexandria",
+          "The Great Pyramid of Giza",
+          "The Temple of Artemis at Ephesus",
+          "The Great Wall"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Which one is not the main Mesopotamian empire?",
+        "options": [
+          "The Akkadian Empire",
+          "The Babylonian Empire",
+          "The Persian Empire",
+          "The Assyrian Empire"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "question": "What is a significant contribution made by the Babylonians?",
+        "options": [
+          "The invention of the first alphabet",
+          "The development of one of the earliest written legal codes",
+          "The construction of the first pyramids",
+          "The establishment of the first democratic government"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Which one of the following falls within the specified range of the Western world?",
+        "options": [
+          "Iran",
+          "Israel",
+          "Japan",
+          "Vietnam"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "According to the four periods of Western development, which of the following is the correct chronological order?",
+        "options": [
+          "Classical Antiquity → The Middle Ages → Pre-history → The Modern period",
+          "The Modern period → Classical Antiquity → The Middle Ages → Pre-history",
+          "Pre-history → Classical Antiquity → The Middle Ages → The Modern period",
+          "The Middle Ages → Pre-history → The Modern period → Classical Antiquity"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "question": "Which of the following best defines the three primary means of Westernization used by European powers during their expansion?",
+        "options": [
+          "Industrialization, Urbanization, and Secularization",
+          "Imperialism, Colonialism, and Christianization",
+          "Democratization, Liberalization, and Modernization",
+          "Militarism, Nationalism, and Capitalism"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "question": "The name \"Europe\" is derived from which mythological figure?",
+        "options": [
+          "Athena",
+          "Europa",
+          "Aphrodite",
+          "Hera"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "In a love affair with Europa, what was the animal that Zeus changed into?",
+        "options": [
+          "A swan",
+          "A golden ram",
+          "A white bull",
+          "An eagle"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "question": "According to the Greek mythology, who did Zeus and Europa give birth to?",
+        "options": [
+          "Minos",
+          "Heracles",
+          "Castor",
+          "Achilles"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "What is the generally accepted geographical boundary between Europe and Asia",
+        "options": [
+          "The Ural Mountains, Ural River, and Caucasus Mountains",
+          "The Rhine River and the Alps",
+          "The Himalayas and the Ganges River",
+          "The Mediterranean Sea and the Bering Strait"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "What is the official name of Greece in modern times?",
+        "options": [
+          "The Republic of Athens",
+          "The Hellenic Republic",
+          "The Greek Democratic State",
+          "The Kingdom of Greece"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "Which two seas were most central to the development and expansion of Ancient Greek civilization?",
+        "options": [
+          "The Red Sea and the Persian Gulf",
+          "The Adriatic Sea and the Tyrrhenian Sea",
+          "The Aegean Sea and the Ionian Sea",
+          "The Black Sea and the Caspian Sea"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 29,
+        "question": "What are the two main civilizations that flourished in Greece during the Bronze Age?",
+        "options": [
+          "The Minoan Civilization and the Mycenaean Civilization",
+          "The Athenian Civilization and the Spartan Civilization",
+          "The Macedonian Civilization and the Thessalian Civilization",
+          "The Cycladic Civilization and the Dorian Civilization"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Which archaeological site best demonstrates the glory of the Minoan Civilization?",
+        "options": [
+          "The Acropolis of Athens",
+          "The Palace of Knossos",
+          "The Lion Gate of Mycenae",
+          "The Temple of Olympian Zeus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "What is Linear B script?",
+        "options": [
+          "A form of writing used by the Minoans that remains undeciphered",
+          "The first Greek alphabet, developed during the Classical period",
+          "A syllabic script used by the Mycenaeans to write an early form of Greek",
+          "A system of writing invented by the Phoenicians for trade records"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 32,
+        "question": "What caused the dispute among the goddesses that led to the Judgement of Paris?",
+        "options": [
+          "The marriage of Peleus and Thetis",
+          "The abduction of Helen",
+          "The construction of the Trojan Walls",
+          "The death of Achilles"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "What was inscribed on the golden apple that sparked the conflict?",
+        "options": [
+          "\"For the fairest\"",
+          "\"To the wisest\"",
+          "\"For the strongest\"",
+          "\"Gift of the gods\""
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Which three goddesses claimed the golden apple and sought Paris's judgment?",
+        "options": [
+          "Hestia, Hera, and Athena",
+          "Hera, Demeter, and Persephone",
+          "Athena, Artemis, and Aphrodite",
+          "Hera, Athena, and Aphrodite"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 35,
+        "question": "The Golden Apple of Discord is best described as:",
+        "options": [
+          "A reward for the winner of the first Olympic Games",
+          "A gift from Zeus to Hera on their wedding day",
+          "An object thrown by Eris that triggered a beauty contest among goddesses and ultimately led to the Trojan War",
+          "A symbol of peace offered by Athena to the city of Troy"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 36,
+        "question": "What is the central theme of Homer's Iliad?",
+        "options": [
+          "The journey of Odysseus back to Ithaca",
+          "The wrath of Achilles and its consequences",
+          "The founding of Rome by Aeneas",
+          "The construction of the Trojan Horse"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 37,
+        "question": "What event at the beginning of the Iliad causes Achilles to withdraw from battle?",
+        "options": [
+          "Agamemnon takes Achilles's war prize, Briseis",
+          "Hector kills Patroclus",
+          "Paris refuses to return Helen",
+          "Achilles is insulted by Odysseus"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "What event brings Achilles back into the Trojan War?",
+        "options": [
+          "The death of his close friend Patroclus at the hands of Hector",
+          "The Greeks beg him to return",
+          "Zeus orders him to fight",
+          "The Trojans capture his mother Thetis"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Who does Achilles kill in single combat to avenge Patroclus's death?",
+        "options": [
+          "Paris",
+          "Hector",
+          "Aeneas",
+          "Agamemnonx"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "How does the Iliad end?",
+        "options": [
+          "The Greeks celebrate their victory inside the Trojan Horse",
+          "Achilles returns Hector's body to King Priam for burial",
+          "The city of Troy is burned to the ground",
+          "Achilles is killed by Paris's arrow"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "What does the phrase \"an apple of discord\" mean?",
+        "options": [
+          "A delicious fruit that brings people together",
+          "A golden apple that grants immortality to whoever eats it",
+          "A object or topic that causes argument, conflict, or rivalry",
+          "A symbol of peace and harmony among nations"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 42,
+        "question": "What does the phrase \"Achilles' Heel\" mean?",
+        "options": [
+          "A person's greatest strength or advantage",
+          "A weakness or vulnerable point despite overall strength",
+          "A protective charm that prevents injury",
+          "A symbol of eternal glory and honor"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 43,
+        "question": "What is the central theme of Homer's Odyssey?",
+        "options": [
+          "The wrath of Achilles and its consequences",
+          "The journey home of Odysseus after the Trojan War",
+          "The founding of Rome by Aeneas",
+          "The love story of Paris and Helen"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 44,
+        "question": "Who is Odysseus's wife, who waits faithfully for his return for twenty years?",
+        "options": [
+          "Helen",
+          "Penelope",
+          "Siren",
+          "Pandora"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 45,
+        "question": "What is the name of Odysseus's son, who goes in search of news about his father?",
+        "options": [
+          "Telemachus",
+          "Achilles",
+          "Patroclus",
+          "Agamemnon"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 46,
+        "question": "How does Odysseus protect his men from the Sirens' deadly song?",
+        "options": [
+          "He plugs their ears with wax",
+          "He ties them to the mast of the ship",
+          "He sails far away from their island",
+          "He sacrifices to Poseidon for safe passage"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 47,
+        "question": "Whom does Aeneas carry on his back as he flees the burning city of Troy?",
+        "options": [
+          "His father, Anchises",
+          "His son, Ascanius",
+          "His wife, Creusa",
+          "King Priam"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 48,
+        "question": "What is the name of the sea to the east of Greece?",
+        "options": [
+          "The Ionian Sea",
+          "Sea of Crete",
+          "The Aegean Sea",
+          "The Mediterranean Sea"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 49,
+        "question": "How did Achilles die?",
+        "options": [
+          "He was poisoned by Odysseus",
+          "He was shot by an arrow of Paris",
+          "He drowned in the Scamander River",
+          "He was killed in a duel with Hector"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 50,
+        "question": "Which one of the following pairings between a temple and its primary god/goddess is INCORRECT?",
+        "options": [
+          "The Parthenon — Athena",
+          "The Temple of Olympia — Zeus",
+          "The Temple of Delphi — Hephaestus",
+          "Temple at Ephesus- Artemis"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 51,
+        "question": "According to Hesiod's Theogony, who are the first beings to emerge from Chaos at the beginning of the cosmos?",
+        "options": [
+          "Zeus, Hera, and Poseidon",
+          "Apollo, Artemis, and Athena",
+          "The Titans, led by Cronus",
+          "Gaia, Tartarus, Eros, Nyx, and Erebus"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 52,
+        "question": "According to Hesiod's Theogony, which of the following beings was born from Gaia (Earth) without male partnership?",
+        "options": [
+          "Eros",
+          "Nyx",
+          "Uranus",
+          "Erebus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 53,
+        "question": "What is a key characteristic of the first generation of gods in Hesiod's Theogony?",
+        "options": [
+          "They all lived on Mount Olympus",
+          "They were personifications of fundamental cosmic elements or concepts",
+          "They were all overthrown by the Titans",
+          "They were the parents of all Olympian gods"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 54,
+        "question": "According to Hesiod's Theogony, who are the parents of the Titans (the second generation of gods)?",
+        "options": [
+          "Chaos and Nyx",
+          "Gaia and Uranus",
+          "Cronus and Rhea",
+          "Zeus and Hera"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 55,
+        "question": "How many Titan gods and goddesses are traditionally listed in Hesiod's Theogony as the children of Gaia and Uranus?",
+        "options": [
+          "6",
+          "12",
+          "10",
+          "14"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 56,
+        "question": "Which of the following is NOT one of the female Titans (Titanides)?",
+        "options": [
+          "Rhea",
+          "Themis",
+          "Mnemosyne",
+          "Athena"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 57,
+        "question": "Which Titan is the father of Prometheus, Epimetheus, and Atlas?",
+        "options": [
+          "Cronus",
+          "Iapetus",
+          "Coeus",
+          "Crius"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 58,
+        "question": "Who led the Olympian gods in the war against the Titans?",
+        "options": [
+          "Poseidon",
+          "Hades",
+          "Zeus",
+          "Hera"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 59,
+        "question": "What did Cronus do to his own children to prevent them from overthrowing him?",
+        "options": [
+          "He threw them into Tartarus",
+          "He swallowed them whole",
+          "He chained them to Mount Olympus",
+          "He turned them into stones"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 60,
+        "question": "Where and when were the first modern Olympic Games held?",
+        "options": [
+          "Athens, Greece — 1896",
+          "Paris, France — 1900",
+          "London, England — 1908",
+          "Rome, Italy — 1960"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 61,
+        "question": "Who are the parents of the Olympian gods (the third generation of gods)?",
+        "options": [
+          "Gaia and Uranus",
+          "Cronus and Rhea",
+          "Oceanus and Tethys",
+          "Zeus and Hera"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 62,
+        "question": "Which of the following is NOT traditionally considered one of the twelve Olympian gods?",
+        "options": [
+          "Hades",
+          "Apollo",
+          "Artemis",
+          "Hermes"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 63,
+        "question": "Who is the first wife of Zeus according to Hesiod's Theogony, and who is the mother of Athena?",
+        "options": [
+          "Hera — Hera",
+          "Metis — Hera",
+          "Themis — Hera",
+          "Metis — Metis"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 64,
+        "question": "Which Olympian god is correctly matched with their domain?",
+        "options": [
+          "Poseidon — Underworld",
+          "Demeter — Wisdom",
+          "Apollo — Music and Prophecy",
+          "Artemis — War"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 65,
+        "question": "Which Olympian god was born from Zeus's head?",
+        "options": [
+          "Apollo",
+          "Athena",
+          "Dionysus",
+          "Hermes"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 66,
+        "question": "Which Olympian god was born from sea foam (aphros) according to Hesiod's Theogony?",
+        "options": [
+          "Athena",
+          "Aphrodite",
+          "Artemis",
+          "Hera"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 67,
+        "question": "Which three Olympian goddesses are traditionally considered virgin goddesses (Parthenoi)?",
+        "options": [
+          "Hera, Demeter, Aphrodite",
+          "Athena, Artemis, Hestia",
+          "Athena, Aphrodite, Hestia",
+          "Artemis, Demeter, Hera"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 68,
+        "question": "Who is the wife of Hephaestus, the god of forge and craftsmanship?",
+        "options": [
+          "Athena",
+          "Aphrodite",
+          "Persephone",
+          "Hera"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 69,
+        "question": "Which Olympian god, born from Zeus and Semele, was a late addition to the Twelve Olympians, often replacing Hestia?",
+        "options": [
+          "Ares",
+          "Hephaestus",
+          "Dionysus",
+          "Hermes"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 70,
+        "question": "Which of the following is NOT associated with Artemis?",
+        "options": [
+          "The hunt",
+          "The moon",
+          "Virginity",
+          "Love and desire"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 71,
+        "question": "Why was Hephaestus lame (had a physical disability)?",
+        "options": [
+          "He was born that way",
+          "He was thrown from Mount Olympus by Zeus or Hera",
+          "He was injured in the war against the Titans",
+          "He was cursed by Aphrodite"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 72,
+        "question": "What do the names \"Prometheus\" and \"Epimetheus\" mean in Greek?",
+        "options": [
+          "\"The Wise One\" and \"The Foolish One\"",
+          "\"Forethought\" and \"Afterthought\"",
+          "\"Fire-Bringer\" and \"Hope-Bringer\"",
+          "\"Titan-Killer\" and \"Man-Lover\""
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 73,
+        "question": "What did Prometheus do that angered Zeus and led to his severe punishment?",
+        "options": [
+          "He helped the Titans escape from Tartarus",
+          "He stole fire from the gods and gave it to humanity",
+          "He revealed the name of the child who would overthrow Zeus",
+          "He refused to fight in the Titanomachy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 74,
+        "question": "How was Prometheus punished by Zeus for his transgressions?",
+        "options": [
+          "He was chained to a rock, and an eagle ate his liver every day",
+          "He was forced to hold up the sky for eternity",
+          "He was condemned to push a boulder up a hill forever",
+          "He was turned into a mortal and lived a life of suffering"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 75,
+        "question": "What mistake did Epimetheus make despite his brother's warning?",
+        "options": [
+          "He ate the forbidden fruit",
+          "He accepted the gift of Pandora from Zeus",
+          "He revealed the secret of fire to humans",
+          "He opened the box that contained all evils"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 76,
+        "question": "What happened when Pandora opened the jar (often mistranslated as \"box\")?",
+        "options": [
+          "All the evils and diseases flew out into the world",
+          "Ambrosia and nectar flowed out, granting immortality to humans",
+          "The gods appeared and blessed humanity",
+          "Fire was released and returned to the gods"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 77,
+        "question": "According to Hesiod's Works and Days, what is the correct chronological order of the five ages of man?",
+        "options": [
+          "Golden Age → Silver Age → Bronze Age → Iron Age → Heroic Age",
+          "Golden Age → Silver Age → Bronze Age → Heroic Age → Iron Age",
+          "Iron Age → Bronze Age → Silver Age → Golden Age → Heroic Age",
+          "Golden Age → Heroic Age → Silver Age → Bronze Age → Iron Age"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 78,
+        "question": "Which planet is named after a Greek deity rather than a Roman one?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptune"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 79,
+        "question": "Which option shows the correct Greek god correspondences for the four planets listed?",
+        "options": [
+          "Mercury → Hermes; Venus → Aphrodite; Mars → Ares; Jupiter → Zeus",
+          "Mercury → Hermes; Venus → Aphrodite; Mars → Apollo; Jupiter → Cronus",
+          "Saturn → Cronus; Uranus → Caelus; Neptune → Poseidon; Earth → Gaia",
+          "Saturn → Cronus; Uranus → Ouranos; Neptune → Poseidon; Earth → Terra"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 80,
+        "question": "Which period is widely regarded as the \"Golden Age\" of Ancient Greece, known for its flourishing of art, philosophy, democracy, and architecture?",
+        "options": [
+          "The Archaic Period",
+          "The Classical Period",
+          "The Hellenistic Period",
+          "The Mycenaean Period"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 81,
+        "question": "Which three city-states were the most powerful in Greece during the Archaic Period?",
+        "options": [
+          "Athens, Sparta, Thebes",
+          "Athens, Sparta, Corinth",
+          "Athens, Sparta, Attica",
+          "Athens, Corinth, Argos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 82,
+        "question": "Which of the following was a deed of Periander, the second tyrant of Corinth?",
+        "options": [
+          "He established the first democratic constitution in Athens",
+          "He built the Diolkos, a stone roadway across the Isthmus of Corinth for transporting ships",
+          "He led the Greek forces in the Battle of Marathon",
+          "He wrote the epic poem The Iliad"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 83,
+        "question": "What was the main contribution of Lycurgus to ancient Sparta?",
+        "options": [
+          "He led the Spartan army to victory in the Persian Wars",
+          "He established the military-oriented constitution and social system of Sparta",
+          "He built the first stone theater in Sparta",
+          "He introduced democracy to Sparta"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 84,
+        "question": "Which city-state is correctly matched with its surrounding region?",
+        "options": [
+          "Athens — Laconia",
+          "Thebes— Attica",
+          "Corinth — Boeotia",
+          "Athens-Attica"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 85,
+        "question": "What was Draco known for in the history of Athens?",
+        "options": [
+          "He founded the first Athenian democracy",
+          "He introduced a written legal code with harsh punishments",
+          "He led Athens to victory in the Persian Wars",
+          "He built the Long Walls connecting Athens to Piraeus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 86,
+        "question": "What was the Gerousia in ancient Sparta?",
+        "options": [
+          "A secret police force that spied on helots",
+          "A group of five annually elected officials who oversaw the kings",
+          "A council of elders that prepared laws and acted as a criminal court",
+          "An assembly of all Spartan citizens that voted on laws"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 87,
+        "question": "What was King Leonidas of Sparta famous for?",
+        "options": [
+          "He led the Greek navy to victory against the Persians at the Battle of Salamis",
+          "He commanded the Greek forces at the Battle of Plataea, defeating the Persian army",
+          "He led a small force of Greeks, including 300 Spartans, in a heroic last stand at the Battle of Thermopylae",
+          "He conquered most of the known world and created a vast empire"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 88,
+        "question": "Which city-state is correctly matched with its mythological founder or eponymous hero?",
+        "options": [
+          "Athens — Corinthos",
+          "Sparta — Lacedaemon",
+          "Corinth — Cecrops",
+          "Thebes — Lacedaemon"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 89,
+        "question": "What gift did Athena give to the city of Athens to win the contest against Poseidon and become its patron goddess?",
+        "options": [
+          "A spring of salt water",
+          "The first horse",
+          "An olive tree",
+          "A shield and spear"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 90,
+        "question": "What was an archon in ancient Athens?",
+        "options": [
+          "A military general elected to lead the army in times of war",
+          "A member of the secret police that spied on citizens",
+          "One of the chief magistrates or rulers of Athens, especially before the development of full democracy",
+          "A priest responsible for conducting sacrifices to Athena"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 91,
+        "question": "What was the Areopagus in ancient Athens?",
+        "options": [
+          "A council of former archons that held significant political and judicial power, especially in early Athenian history",
+          "The primary assembly where all Athenian citizens voted on laws and decrees",
+          "A military training ground for young Athenian men",
+          "A temple dedicated to Ares on the Acropolis"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 92,
+        "question": "Which of the following battles took place during the Greco- Persian Wars?",
+        "options": [
+          "Battle of Marathon",
+          "Battle of Chaeronea",
+          "Battle of Gaugamela",
+          "Battle of Cannae"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 93,
+        "question": "What was the main difference between the Ecclesia and the Areopagus in ancient Athens?",
+        "options": [
+          "The Ecclesia was a council of elders, while the Areopagus was an assembly of all citizens",
+          "The Ecclesia was open to all male citizens and handled legislation, while the Areopagus was composed of former archons and handled judicial functions, especially murder trials",
+          "The Ecclesia was responsible for military affairs, while the Areopagus managed finances",
+          "The Ecclesia was a religious body, while the Areopagus was a political institution"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 94,
+        "question": "What was Solon known for in the history of ancient Athens?",
+        "options": [
+          "He led Athens to victory in the Persian Wars",
+          "He established the first democratic constitution and introduced ostracism",
+          "He abolished debt slavery and laid the foundations for Athenian democracy through economic and political reforms",
+          "He built the Parthenon and initiated the construction of the Long Walls"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 95,
+        "question": "Which of the following was NOT a contribution of Solon to ancient Athens?",
+        "options": [
+          "Abolishing debt slavery",
+          "Dividing citizens into four wealth classes",
+          "Introducing ostracism",
+          "Encouraging the export of olive oil"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 96,
+        "question": "What was Peisistratus known for in the history of ancient Athens?",
+        "options": [
+          "He established the first democratic constitution and introduced ostracism",
+          "He became tyrant of Athens and promoted cultural and economic development, while generally respecting existing laws",
+          "He led the Athenian army to victory at the Battle of Marathon",
+          "He abolished slavery and granted citizenship to all residents of Athens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 97,
+        "question": "Who is often regarded as the \"Father of Athenian Democracy\"?",
+        "options": [
+          "Solon",
+          "Peisistratus",
+          "Cleisthenes",
+          "Pericles"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 98,
+        "question": "Which of the following was a major contribution of Cleisthenes to Athenian democracy?",
+        "options": [
+          "He wrote the first written laws of Athens, which were known for their harshness",
+          "He reorganized the Athenian population into ten tribes based on where people lived, not birth",
+          "He led Athens during its Golden Age and commissioned the construction of the Parthenon",
+          "He abolished debt slavery and freed Athenians who had been enslaved for debt"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 99,
+        "question": "Why was the Battle of Salamis (480 BCE) a turning point in the Greco-Persian Wars?",
+        "options": [
+          "It was the first land victory of the Greeks over the Persians",
+          "It destroyed the Persian navy, forcing Xerxes to retreat and cutting off supply lines to his army",
+          "It marked the end of the Persian Empire's expansion into Europe",
+          "It resulted in the death of the Persian king Darius I"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 100,
+        "question": "Which famous Greek king died heroically at the Battle of Thermopylae?",
+        "options": [
+          "Xerxes",
+          "Leonidas",
+          "Themistocles",
+          "Cleisthenes"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": "two",
+    "label": "Chapter Two",
+    "total": 100,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Who is often regarded as the \"Father of History\" in ancient Greece?",
+        "options": [
+          "Homer",
+          "Herodotus",
+          "Thucydides",
+          "Solon"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "What does the term \"Thucydides's Trap\" refer to in international relations theory?",
+        "options": [
+          "The inevitability of war when a rising power challenges an established dominant power",
+          "The belief that democracy leads to peaceful relations between states",
+          "The idea that trade alliances prevent military conflict",
+          "The strategy of using naval power to dominate the Mediterranean"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "question": "Who is traditionally regarded as the \"Father of Medicine\" in ancient Greece?",
+        "options": [
+          "Pythagoras",
+          "Hippocrates",
+          "Aristotle",
+          "Thucydides"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "question": "Which pair of figures both belong to the Classical Period of ancient Greece (approximately 479–323 BCE)?",
+        "options": [
+          "Homer & Hesiod",
+          "Socrates & Pericles",
+          "Alexander the Great & Solon",
+          "Cleisthenes & Leonidas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "What is the Hippocratic Oath?",
+        "options": [
+          "A military oath taken by Spartan soldiers before battle",
+          "A philosophical treatise written by Plato on justice",
+          "An ethical code traditionally sworn by physicians, emphasizing the duty to heal and do no harm",
+          "A legal document that established the first court system in Athens"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "question": "Which of the following events helped mark the beginning of the Golden Age of Athens?",
+        "options": [
+          "The death of Socrates in 399 BCE",
+          "The Greek victory over Persia at the Battle of Plataea in 479 BCE",
+          "The founding of the Delian League in 478/477 BCE",
+          "Both B and C"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "question": "What event marked the final collapse of Athens’ political and military dominance after its Golden Age?",
+        "options": [
+          "The death of Pericles in 429 BCE",
+          "The defeat of Athens in the Peloponnesian War in 404 BCE",
+          "The construction of the Parthenon in 447 BCE",
+          "The death of Alexander the Great in 323 BCE"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "What does the term \"hegemony\" mean in the context of ancient Greek history?",
+        "options": [
+          "A system of direct democracy where all citizens vote on laws",
+          "The dominance of one city-state over others, often through political influence, military power, or alliance systems",
+          "A religious festival held in honor of Zeus at Olympia",
+          "A type of warfare involving heavily armed hoplites in phalanx formation"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "What was Pericles's primary role in ancient Athens?",
+        "options": [
+          "He was a famous philosopher and teacher of Plato",
+          "He was a military general and the leading statesman of Athens during its Golden Age",
+          "He was the king of Sparta who led the Peloponnesian War",
+          "He was the founder of the Olympic Games"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Who was often called the \"first citizen of Athens\" by the historian Thucydides?",
+        "options": [
+          "Solon",
+          "Cleisthenes",
+          "Pericles",
+          "Themistocles"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "question": "What role did Pericles play in the transformation of the Delian League?",
+        "options": [
+          "He founded the Delian League after the Persian Wars",
+          "He helped transform the Delian League into the Athenian Empire",
+          "He dissolved the Delian League to establish peace with Sparta",
+          "He withdrew Athens from the Delian League to avoid war"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "question": "What was Pericles’s role in the Peloponnesian War?",
+        "options": [
+          "He led Athens for the first two years of the war before dying of the plague",
+          "He commanded the Spartan forces that invaded Attica",
+          "He negotiated a permanent peace treaty with Sparta before the war began",
+          "He led the Sicilian Expedition to conquer Syracuse"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Which of the following building projects was launched by Pericles on the Acropolis?",
+        "options": [
+          "The Long Walls connecting Athens to Piraeus",
+          "The Parthenon and the Propylaea",
+          "The Temple of Olympian Zeus",
+          "Knossos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Which of the following best summarizes Pericles’s overall contribution to Athens?",
+        "options": [
+          "He established the Delian League and led the Greek forces at the Battle of Marathon",
+          "He made Athens the political and cultural center of Greece as a leading statesman of democracy and empire",
+          "He wrote the first written laws of Athens and abolished debt slavery",
+          "He conquered the Persian Empire and expanded Greek influence to Asia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Which Athenian statesman emphasized “equality before the law” in his Funeral Oration?",
+        "options": [
+          "Draco",
+          "Solon",
+          "Cleisthenes",
+          "Pericles"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "question": "Which two alliances fought against each other in the Peloponnesian War?",
+        "options": [
+          "The Ionian League vs. The Achaean League",
+          "The Delian League vs. The Peloponnesian League",
+          "The Spartan Alliance vs. The Theban Alliance",
+          "The Athenian Empire vs. The Persian Empire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "According to Thucydides, what was the \"truest cause\" of the Peloponnesian War?",
+        "options": [
+          "The rivalry between Athens and Sparta over control of Sicily",
+          "The growth of Athenian power and the fear it caused in Sparta",
+          "The assassination of the Spartan king Archidamus",
+          "The outbreak of the plague in Athens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Which disastrous Athenian expedition is considered the major turning point of the Peloponnesian War?",
+        "options": [
+          "The invasion of Attica",
+          "The Sicilian Expedition",
+          "The Battle of Marathon",
+          "The Persian invasion of Greece"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Who was Alcibiades in ancient Athens?",
+        "options": [
+          "A Spartan king who defeated Athens in the Peloponnesian War",
+          "A controversial Athenian general and politician who switched sides multiple times during the Peloponnesian War",
+          "A philosopher who was a student of Socrates and wrote dialogues about justice",
+          "A Persian satrap who supported Sparta against Athens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Which of the following was NOT a role or identity of Thucydides?",
+        "options": [
+          "An Athenian general during the Peloponnesian War",
+          "the \"first social scientist\"",
+          "The author of History of the Peloponnesian War",
+          "A student of Socrates and a philosopher who wrote dialogues"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "question": "In which work does the \"Melian Dialogue\" appear?",
+        "options": [
+          "Herodotus’s Histories",
+          "Thucydides’s History of the Peloponnesian War",
+          "Plato’s Republic",
+          "Aristotle's Metaphysics"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "What was the famous argument made by the Athenians in the Melian Dialogue regarding why Melos should submit?",
+        "options": [
+          "\"Gods favor the just, and we are fighting for justice\"",
+          "\"The strong do what they can, and the weak suffer what they must\"",
+          "\"Peace is preferable to war, and we seek only peace\"",
+          "\"Democracy is superior to oligarchy, and we fight for freedom\""
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "question": "The 5th century BC of Athens was called the \"Golden Age of Athens.\" Athens became the superpower with political, economic, and military hegemony, and one reason for this was that Athens had a great leader ________.",
+        "options": [
+          "Solon",
+          "Cleisthenes",
+          "Pericles",
+          "Herodotus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "question": "Which century saw the rise of the three most famous Greek philosophers: Socrates, Plato, and Aristotle?",
+        "options": [
+          "7th century BC",
+          "6th century BC",
+          "5th and 4th centuries BC",
+          "3rd century BC"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "question": "When did the Thirty Tyrants rule Athens?",
+        "options": [
+          "After the victory in the Persian Wars (478 BCE)",
+          "After the death of Pericles (429 BCE)",
+          "After Athens' defeat in the Peloponnesian War (404–403 BCE)",
+          "After the conquest of Alexander the Great (323 BCE)"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 26,
+        "question": "What was the role of Sparta in the establishment of the Thirty Tyrants in Athens?",
+        "options": [
+          "Sparta opposed the Thirty Tyrants and helped restore democracy",
+          "Sparta installed the Thirty Tyrants as a pro-Spartan oligarchic government after Athens' defeat",
+          "Sparta had no involvement in Athenian internal affairs",
+          "Sparta sent troops to join the Thirty Tyrants in ruling Athens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 27,
+        "question": "Why was the Battle of Aegospotami a turning point in the Peloponnesian War?",
+        "options": [
+          "It marked the first major Athenian victory over Sparta",
+          "It led to the assassination of the Spartan king",
+          "It destroyed Athens' fleet, cutting off grain supplies and forcing Athens to surrender the following year",
+          "It resulted in a peace treaty that divided Greece between Athens and Sparta"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 28,
+        "question": "How long did the Thirty Tyrants rule Athens?",
+        "options": [
+          "About 10 years",
+          "About 5 years",
+          "About 8 months",
+          "About 30 years"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 29,
+        "question": "Who overthrew the Thirty Tyrants and restored democracy in Athens?",
+        "options": [
+          "Alcibiades",
+          "Thrasybulus",
+          "Lysander",
+          "Critias"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "What political system did the Thirty Tyrants attempt to implement in Athens?",
+        "options": [
+          "The Athenian democracy under Pericles",
+          "A Spartan-style oligarchic system",
+          "The Persian imperial administration",
+          "The Macedonian monarchy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "When did the Spartan hegemony (the period of Spartan dominance over Greece) occur?",
+        "options": [
+          "479–431 BC",
+          "431–404 BC",
+          "404–371 BC",
+          "371–338 BC"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 32,
+        "question": "Which coalition fought against Sparta in the Corinthian War?",
+        "options": [
+          "Athens, Thebes, Corinth, and Argos, with support from Persia",
+          "Athens, Persia, and Macedonia against Sparta and Thebes",
+          "The Delian League against the Peloponnesian League",
+          "Sparta and Athens against Thebes and Persia"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Which battle marked the beginning of Theban hegemony?",
+        "options": [
+          "Battle of Aegospotami (405 BC)",
+          "Battle of Leuctra (371 BC)",
+          "Battle of Mantinea (362 BC)",
+          "Battle of Chaeronea (338 BC)"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "What was a major achievement of Theban hegemony?",
+        "options": [
+          "The unification of all Greek city-states under a single federal government",
+          "The liberation of Messenia from Spartan control, permanently weakening Sparta",
+          "The conquest of the Persian Empire",
+          "The establishment of a democratic empire similar to Athens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Who was the legendary founder of Thebes?",
+        "options": [
+          "Perseus",
+          "Cadmus",
+          "Hercules",
+          "Oedipus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 36,
+        "question": "Which Theban king unknowingly killed his father and married his mother, becoming the central figure of a famous Greek tragedy?",
+        "options": [
+          "Cadmus",
+          "Laius",
+          "Oedipus",
+          "Creon"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 37,
+        "question": "In which region of Greece was the city of Thebes located?",
+        "options": [
+          "Attica",
+          "Boeotia",
+          "Laconia",
+          "Thessaly"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "What was Thebes's stance during the Persian Wars (490–479 BC)?",
+        "options": [
+          "Thebes led the Greek forces against Persia at the Battle of Marathon.",
+          "Thebes remained neutral throughout the Persian Wars.",
+          "Thebes eventually sided with Persia and fought on the Persian side at the Battle of Plataea.",
+          "Thebes actively supported Athens against the Persian invasion."
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 39,
+        "question": "Which side did Thebes support during the Peloponnesian War (431–404 BC)?",
+        "options": [
+          "Athens and the Delian League",
+          "Sparta and the Peloponnesian League",
+          "Neutral, refusing to join either alliance",
+          "Persia, against both Athens and Sparta"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "What was Thebes's position in the Corinthian War (395–387 BC)?",
+        "options": [
+          "Thebes fought alongside Sparta against Athens and Corinth",
+          "Thebes remained neutral",
+          "Thebes joined the anti-Spartan alliance with Athens, Corinth, and Argos",
+          "Thebes allied with Persia against all Greek city-states"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 41,
+        "question": "Who was Epaminondas?",
+        "options": [
+          "An Athenian general who led the Sicilian Expedition",
+          "A Spartan king who defeated Athens in the Peloponnesian War",
+          "A Theban general and statesman who defeated Sparta and established Theban hegemony",
+          "A Macedonian king who united Greece under his rule"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 42,
+        "question": "What was the immediate cause of the decline of Theban hegemony?",
+        "options": [
+          "The defeat of Thebes by Sparta at the Battle of Leuctra",
+          "The death of Epaminondas at the Battle of Mantinea (362 BC)",
+          "The conquest of Thebes by Philip II of Macedon",
+          "The alliance of Athens and Sparta against Thebes"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 43,
+        "question": "After the decline of Theban hegemony, which power gradually rose to dominate Greece?",
+        "options": [
+          "Athens",
+          "Sparta",
+          "Macedonia",
+          "Persia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 44,
+        "question": "Around what century did the Macedonians form their early kingdom under the Argead dynasty?",
+        "options": [
+          "12th century BC",
+          "Mid–7th century BC",
+          "5th century BC",
+          "4th century BC"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 45,
+        "question": "What was Macedon's relationship with the Persian Empire during the Persian invasion of Greece in 480 BC?",
+        "options": [
+          "Macedon led the Greek resistance against Persia",
+          "Macedon remained neutral throughout the invasion",
+          "Macedon was forced to submit to Persian rule and provided troops for the Persian army",
+          "Macedon allied with Persia to conquer southern Greece"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 46,
+        "question": "What did the Macedonian royal house (the Argead dynasty) claim about their origins?",
+        "options": [
+          "They claimed to be descended from the Persian kings",
+          "They claimed to be descendants of Spartans",
+          "They claimed Greek ancestry, tracing their lineage to Heracles (Hercules) and Argos",
+          "They claimed no specific origin and simply asserted their rule by force"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 47,
+        "question": "Which statement best describes the process of \"Hellenization\" of Macedon?",
+        "options": [
+          "Macedon was conquered by Athens and forced to adopt Greek culture",
+          "The Macedonian elite gradually adopted Greek culture, but the process accelerated under Philip II and Alexander",
+          "Macedon was never influenced by Greek culture",
+          "Macedon was always fully Greek and never underwent a process of Hellenization"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 48,
+        "question": "The Republic of North Macedonia today incorporates the _______ part of ancient Macedonia.",
+        "options": [
+          "northern",
+          "southern",
+          "eastern",
+          "western"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 49,
+        "question": "Before its independence in 1991, the territory of the present- day Republic of North Macedonia was which part of the former Yugoslavia?",
+        "options": [
+          "An autonomous province within the Republic of Serbia",
+          "One of the six constituent republics of the Socialist Federal Republic of Yugoslavia",
+          "A territory directly administered by the federal government",
+          "Part of the Republic of Croatia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 50,
+        "question": "What was Alexander I's relationship with the Persian Empire during Xerxes' invasion of Greece (480–479 BC)?",
+        "options": [
+          "He led the Macedonian army against Persia as a loyal ally of Athens",
+          "He was forced to submit to Persia and provided troops for Xerxes, but secretly aided the Greeks",
+          "He remained neutral and refused to support either side",
+          "He fled Macedon and took refuge in Sparta"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 51,
+        "question": "Who was Perdiccas II of Macedon (reigned c. 454–413 BC)?",
+        "options": [
+          "The son of Alexander the Great who inherited the Macedonian empire",
+          "The king of Macedon during the Peloponnesian War who navigated between Athens and Sparta",
+          "The founder of the Argead dynasty who first united the Macedonian tribes",
+          "The Macedonian general who founded the Ptolemaic dynasty in Egypt"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 52,
+        "question": "Who was Philip II of Macedon?",
+        "options": [
+          "The father of Alexander the Great who unified Macedon and conquered Greece",
+          "The son of Alexander the Great who ruled the Macedonian empire after his father’s death",
+          "The founder of the Argead dynasty",
+          "The Macedonian general who established the Seleucid Empire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 53,
+        "question": "Which of the following was NOT a contribution of Philip II of Macedon?",
+        "options": [
+          "He created the Macedonian phalanx armed with the sarissa",
+          "He unified Greece under Macedonian leadership after the Battle of Chaeronea",
+          "He conquered the Persian Empire and extended Macedonian rule to India",
+          "He established the League of Corinth to launch a campaign against Persia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 54,
+        "question": "What was the League of Corinth?",
+        "options": [
+          "A military alliance between Athens and Sparta against Macedon",
+          "A federation of Greek city-states under Macedonian leadership, designed to maintain peace and launch a campaign against Persia",
+          "A religious league centered on the sanctuary of Poseidon at Isthmia",
+          "A democratic alliance led by Thebes to resist Macedonian expansion"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 55,
+        "question": "What was the primary stated goal of the League of Corinth?",
+        "options": [
+          "To liberate the Greek cities of Asia Minor from Persian rule",
+          "To conquer the Peloponnesian peninsula",
+          "To establish a democratic government in all Greek city-states",
+          "To unify Greece under a single federal government"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 56,
+        "question": "When and where was Philip II of Macedon assassinated?",
+        "options": [
+          "338 BC, on the battlefield at Chaeronea",
+          "336 BC, at the wedding of his daughter Cleopatra in Aegae (Vergina)",
+          "334 BC, during the siege of Halicarnassus",
+          "323 BC, in Babylon"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 57,
+        "question": "What is the correct chronological order in which these Greek powers rose to prominence?",
+        "options": [
+          "Athens → Sparta → Thebes → Macedon",
+          "Sparta → Thebes → Athens → Macedon",
+          "Athens → Thebes → Sparta → Macedon",
+          "Sparta → Athens → Thebes → Macedon"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 58,
+        "question": "What are the three main chronological stages of ancient Greek philosophy?",
+        "options": [
+          "Pre-Socratic, Hellenistic, Roman",
+          "Pre-Socratic, Classical, Hellenistic",
+          "Archaic, Classical, Byzantine",
+          "Ionian, Athenian, Alexandrian"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 59,
+        "question": "Who were the Sophists in ancient Greece?",
+        "options": [
+          "A group of philosophers who rejected all forms of knowledge and claimed that nothing could be known",
+          "Itinerant teachers who taught rhetoric, argumentation, and practical skills for success in public life, often for a fee",
+          "A secret religious sect that practiced mystical rituals",
+          "A political faction that sought to overthrow Athenian democracy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 60,
+        "question": "What was Socrates’s dialectical method?",
+        "options": [
+          "A method of collecting empirical data to test hypotheses",
+          "A method of question and answer (elenchus) aimed at exposing contradictions and leading to truth",
+          "A method of mystical contemplation to achieve union with the divine",
+          "A method of persuasive speech to sway public opinion"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 61,
+        "question": "What is materialism in philosophy?",
+        "options": [
+          "The view that only the mind or spirit is fundamentally real",
+          "The view that material substances are the fundamental reality.",
+          "The view that knowledge comes only from reason and logical deduction",
+          "The view that the highest good is the pursuit of pleasure"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 62,
+        "question": "What is the fundamental point of disagreement between materialism and idealism?",
+        "options": [
+          "Whether knowledge comes from reason or experience",
+          "Whether the world is eternal or created",
+          "Whether mind or matter is the fundamental substance of reality",
+          "Whether there is free will or determinism"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 63,
+        "question": "Who is traditionally regarded as the first philosopher in Western history?",
+        "options": [
+          "Socrates",
+          "Plato",
+          "Aristotle",
+          "Thales of Miletus"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 64,
+        "question": "What is the main philosophical point of Heraclitus's statement, \"You cannot step into the same river twice\"?",
+        "options": [
+          "Rivers are constantly changing their course, so they are never the same",
+          "Everything is in a state of constant flux; change is the fundamental nature of reality",
+          "Human perception is unreliable and cannot grasp reality",
+          "The past cannot be relived; time is irreversible"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 65,
+        "question": "What were the official charges against Socrates at his trial in 399 BC?",
+        "options": [
+          "Treason and conspiracy against Athens",
+          "Corrupting the youth and impiety (not believing in the gods of the city)",
+          "Teaching rhetoric for money and undermining democracy",
+          "Murder and political corruption"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 66,
+        "question": "Why is Aristotle often considered a founder of empiricism?",
+        "options": [
+          "He believed all knowledge comes from practical experience and experiments",
+          "He argued that true reality consists of non-material Forms that can only be known through reason",
+          "He claimed that knowledge is impossible because the senses are deceptive",
+          "He taught that mathematics is the only true source of knowledge"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 67,
+        "question": "What is the fundamental philosophical difference between Plato and Aristotle?",
+        "options": [
+          "Plato believed true reality lies in non material Forms; Aristotle believed reality lies in individual substances",
+          "Plato argued that knowledge comes from reason alone; Aristotle argued that knowledge comes from sensory experience",
+          "Plato supported an ideal state ruled by philosopher kings; Aristotle preferred a mixed constitution based on empirical study",
+          "Plato founded the Academy in Athens; Aristotle founded the Lyceum and tutored Alexander the Great"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 68,
+        "question": "Who is the founder of the Academy in Athens, the first school of higher learning in the West?",
+        "options": [
+          "Socrates",
+          "Plato",
+          "Aristotle",
+          "Pythagoras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 69,
+        "question": "In everyday Greek, the word eidos means shape or appearance. What does Plato mean by “Form” or “Idea” in his philosophy?",
+        "options": [
+          "An eternal, perfect, and unchanging reality behind visible things",
+          "A sincere feeling in the human heart",
+          "Ordinary life in the physical world",
+          "A temporary opinion held by people"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 70,
+        "question": "Who said, “The unexamined life is not worth living”?",
+        "options": [
+          "Plato",
+          "Aristotle",
+          "Socrates",
+          "Epicurus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 71,
+        "question": "Which of the following were the three great tragic playwrights of ancient Greece?",
+        "options": [
+          "Aeschylus, Sophocles, and Euripides",
+          "Homer, Hesiod, and Pindar",
+          "Aristophanes, Menander, and Sophocles",
+          "Aeschylus, Euripides, and Aristophanes"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 72,
+        "question": "Who is considered the greatest representative of ancient Greek comedy?",
+        "options": [
+          "Aeschylus",
+          "Sophocles",
+          "Aristophanes",
+          "Euripides"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 73,
+        "question": "What are the three main dramatic genres of ancient Greek theater?",
+        "options": [
+          "Tragedy, Epic, and Lyric Poetry",
+          "Comedy, Melodrama, and Farce",
+          "Tragedy, Comedy, and Romance",
+          "Tragedy, Comedy, and Satyr Play"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 74,
+        "question": "What is the origin of Athenian drama?",
+        "options": [
+          "It began as political propaganda created by Pericles",
+          "It came from religious rites for Dionysus with choral hymns",
+          "It was adopted from Egyptian temple rituals and reshaped",
+          "It started as a type of military training for young men"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 75,
+        "question": "What were the two most important festivals in ancient Athens?",
+        "options": [
+          "Olympic Games and Pythian Games",
+          "City Dionysia and Panathenaea",
+          "Panathenaea and Isthmian Games",
+          "Olympic Games and Panathenaea"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 76,
+        "question": "Which ancient Greek playwright is the author of the only surviving complete satyr play?",
+        "options": [
+          "Aeschylus",
+          "Sophocles",
+          "Euripides",
+          "Socrates"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 77,
+        "question": "Which of the following is the only surviving complete trilogy by Aeschylus?",
+        "options": [
+          "The Oresteia (Agamemnon, Libation Bearers, Eumenides)",
+          "The Theban Plays (Oedipus Rex, Oedipus at Colonus, Antigone)",
+          "The Persians, Seven Against Thebes, Suppliants",
+          "Prometheus Bound, Prometheus Unbound, Prometheus the Fire-Bringer"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 78,
+        "question": "Which major military conflict did Aeschylus participate in?",
+        "options": [
+          "He fought in the Peloponnesian War",
+          "He fought in the Persian Wars",
+          "He fought in the Trojan War",
+          "He fought in the conquest of Alexander"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 79,
+        "question": "Why does Clytemnestra kill her husband Agamemnon in Aeschylus’s Agamemnon?",
+        "options": [
+          "She wants to marry Aegisthus and rule Argos alone",
+          "She seeks revenge for the sacrifice of their daughter Iphigenia",
+          "She believes Agamemnon is responsible for the Trojan War",
+          "She acts under the command of the god Apollo"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 80,
+        "question": "Which of the following is NOT a child of Agamemnon and Clytemnestra?",
+        "options": [
+          "Electra",
+          "Orestes",
+          "Cassandra",
+          "Iphigenia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 81,
+        "question": "Which of the following tragedies was written by Sophocles?",
+        "options": [
+          "Agamemnon",
+          "Oresteia",
+          "Oedipus Rex",
+          "The Persians"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 82,
+        "question": "What is the central plot of Sophocles’ tragedy Oedipus Rex?",
+        "options": [
+          "A king unknowingly kills his father and marries his mother",
+          "A general returns from war and is murdered by his wife",
+          "A woman defies the state to bury her brother",
+          "A son avenges his father’s death by killing his mother"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 83,
+        "question": "In Aristophanes’ Lysistrata, what do the women of Athens and Sparta do to end the war?",
+        "options": [
+          "They burn the enemy fleet",
+          "They seize the Athenian treasury",
+          "They refuse to have sex with their husbands",
+          "They flee to the countryside"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 84,
+        "question": "In Aristophanes’ The Clouds, which philosopher is famously satirized as a fraudulent sophist who corrupts the young?",
+        "options": [
+          "Plato",
+          "Aristotle",
+          "Socrates",
+          "Protagoras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 85,
+        "question": "What event traditionally marks the end of the Classical period of ancient Greek history?",
+        "options": [
+          "The death of Socrates in 399 BC",
+          "The defeat of Athens in the Peloponnesian War in 404 BC",
+          "The death of Alexander the Great in 323 BC",
+          "The Roman conquest of Greece in 146 BC"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 86,
+        "question": "What two events traditionally mark the beginning and the end of the Hellenistic period?",
+        "options": [
+          "The death of Socrates (399 BC) and the Roman conquest of Corinth (146 BC)",
+          "The death of Alexander the Great (323 BC) and the death of Cleopatra VII (30 BC)",
+          "The Battle of Chaeronea (338 BC) and the Battle of Actium (31 BC)",
+          "The defeat of Athens in the Peloponnesian War (404 BC) and the fall of the Seleucid Empire (64 BC)"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 87,
+        "question": "Which of the following correctly matches each Hellenistic kingdom with its core territory?",
+        "options": [
+          "Ptolemaic Kingdom – Egypt; Seleucid Empire –the ancient Near East; Antigonid Kingdom – Macedon",
+          "Ptolemaic Kingdom – Syria; Seleucid Empire – Egypt; Antigonid Kingdom – Macedon",
+          "Ptolemaic Kingdom – Macedon; Seleucid Empire – Egypt; Antigonid Kingdom – Syria",
+          "Ptolemaic Kingdom – Egypt; Seleucid Empire – Macedon; Antigonid Kingdom – Syria"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 88,
+        "question": "Which of the following was a major contribution of Alexander the Great?",
+        "options": [
+          "He established democracy throughout the Persian Empire",
+          "He spread Greek culture across the Near East and founded the city of Alexandria in Egypt",
+          "He wrote philosophical dialogues that influenced Western thought",
+          "He united all Greek city states into a single federal government"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 89,
+        "question": "What is the term for the spread of Greek culture, language, and ideas across the Near East and Mediterranean during and after the conquests of Alexander the Great?",
+        "options": [
+          "Panhellenism",
+          "Hellenization",
+          "Orientalism",
+          "Athenianization"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 90,
+        "question": "Which city, founded by Alexander the Great, became the most important center of Greek learning and culture in the Hellenistic period?",
+        "options": [
+          "Athens",
+          "Pergamon",
+          "Alexandria",
+          "Paris"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 91,
+        "question": "Which of the following does NOT correctly identify Alexander the Great?",
+        "options": [
+          "A philosopher who studied under Aristotle and wrote on ethics",
+          "King of Macedonia",
+          "One of the most successful military commanders in world history",
+          "Creator of a vast empire stretching from Greece to Egypt and as far as northwestern India"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 92,
+        "question": "Who was the founder of the Ptolemaic Kingdom in Egypt after the death of Alexander the Great?",
+        "options": [
+          "Seleucus I Nicator",
+          "Ptolemy I",
+          "Mark Antony",
+          "Julius Caesar"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 93,
+        "question": "Who was the last ruler of the Ptolemaic Kingdom in Egypt?",
+        "options": [
+          "Ptolemy I Soter",
+          "Alexander the Great",
+          "Cleopatra VII",
+          "Arsinoe II"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 94,
+        "question": "What was the significance of the Battle of Actium (31 BC)?",
+        "options": [
+          "It marked the beginning of the Persian Wars",
+          "It ended the Peloponnesian War",
+          "It led to the defeat of Mark Antony and Cleopatra",
+          "It was the final battle of Alexander the Great’s conquests"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 95,
+        "question": "Who was the founder of the Seleucid Empire after the death of Alexander the Great?",
+        "options": [
+          "Ptolemy I",
+          "Seleucus I",
+          "Antigonus I",
+          "Lysimachus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 96,
+        "question": "Who founded the school of Epicureanism in ancient Greece?",
+        "options": [
+          "Zeno of Citium",
+          "Epicurus",
+          "Diogenes",
+          "Pythagoras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 97,
+        "question": "Which of the following is a central idea of Epicurus’s philosophy?",
+        "options": [
+          "Virtue is the only good, and emotions should be suppressed",
+          "Happiness comes from wealth, power, and social status",
+          "The highest good is moderately pursued pleasure",
+          "The soul is immortal and will be judged after death"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 98,
+        "question": "Which of the following is a central belief of Stoicism?",
+        "options": [
+          "Pleasure is the highest good, and death is nothing to fear",
+          "Virtue is the only true good, and external things (wealth, health) are indifferent",
+          "One should reject all social conventions and live like a beggar",
+          "Happiness comes from wealth, power, and social status"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 99,
+        "question": "Who founded the Stoic school of philosophy in Athens?",
+        "options": [
+          "Epicurus",
+          "Zeno of Citium",
+          "Antisthenes",
+          "Chrysippus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 100,
+        "question": "Which Roman emperor was a leading representative of Stoicism and wrote the Meditations?",
+        "options": [
+          "Nero",
+          "Trajan",
+          "Aurelius",
+          "Mark Antony"
+        ],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": "three",
+    "label": "Chapter Three",
+    "total": 100,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Which of the following lists the three main periods of ancient Roman history in the correct chronological order?",
+        "options": [
+          "Roman Republic – Roman Kingdom – Roman Empire",
+          "Roman Kingdom – Roman Republic – Roman Empire",
+          "Roman Empire – Roman Republic – Roman Kingdom",
+          "Roman Kingdom – Roman Empire – Roman Republic"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Which two hills were the most famous and significant in Rome during the Kingdom period?",
+        "options": [
+          "Palatine Hill and Capitoline Hill",
+          "Aventine Hill and Esquiline Hill",
+          "Caelian Hill and Palatine Hill",
+          "Quirinal Hill and Capitoline Hill"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "question": "What was the primary function of the Capitoline Hill in ancient Rome?",
+        "options": [
+          "It was the residential center of Roman emperors.",
+          "It served as a commercial marketplace for trade.",
+          "It was the religious and political center.",
+          "It was the main military training ground for Roman soldiers."
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "question": "According to Roman mythology, who was the Trojan hero who fled the burning city of Troy and later became the ancestor of the Romans?",
+        "options": [
+          "Romulus",
+          "Aeneas",
+          "Hercules",
+          "Odysseus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "According to Roman mythology, which twin brothers were suckled by a she wolf and later founded the city of Rome?",
+        "options": [
+          "Aeneas and Anchises",
+          "Romulus and Remus",
+          "Castor and Pollux",
+          "Julius and Augustus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "According to Roman tradition, in which year did the Roman Kingdom begin with the founding of Rome by Romulus?",
+        "options": [
+          "753 BC",
+          "509 BC",
+          "476 AD",
+          "27 BC"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Which major reform is attributed to Servius Tullius, the sixth king of Rome?",
+        "options": [
+          "He established the Roman religious calendar",
+          "He divided Roman citizens into classes and created the Centuriate Assembly",
+          "He built the Circus Maximus and the Cloaca Maxima",
+          "He conquered Alba Longa and brought its people to Rome"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "What event directly led to the overthrow of the Roman monarchy and the establishment of the Roman Republic in 509 BC?",
+        "options": [
+          "The death of Romulu",
+          "The rape of Lucretia by the last king’s son",
+          "The defeat of Rome by the Etruscans",
+          "The building of the Cloaca Maxima"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "What was the main function of the Curiate Assembly ( Comitia Curiata) during the Roman Republic?",
+        "options": [
+          "To elect the consuls and praetor",
+          "To pass laws and decide on war and peace",
+          "To formally grant imperium (command authority) to magistrates as a ceremonial act",
+          "To serve as the highest court of appeal for Roman citizens"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "What was the primary basis for organizing the Centuriate Assembly (Comitia Centuriata) in early Rome?",
+        "options": [
+          "Blood ties and kinship groups",
+          "Wealth and property (class system)",
+          "Geographical region of residence",
+          "Religious office and priesthood"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "According to Roman tradition, who established the Senate ( Senatus) as an advisory council to the king?",
+        "options": [
+          "Servius Tullius",
+          "Romulus",
+          "Numa Pompilius",
+          "Tarquinius Superbus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "question": "What was the consequence of the rape of Lucretia by Sextus Tarquinius, the son of the last Roman king?",
+        "options": [
+          "The king was assassinated by the army",
+          "Brutus led a revolt that overthrew the monarchy",
+          "The Etruscans conquered Rome",
+          "Lucretia’s husband became the new king"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "In Plato’s Republic, what is the correct sequence of regime decline from the best to the worst?",
+        "options": [
+          "Aristocracy → Oligarchy → Timocracy → Democracy → Tyranny",
+          "Aristocracy → Timocracy → Oligarchy → Democracy → Tyranny",
+          "Timocracy → Aristocracy → Oligarchy → Tyranny → Democracy",
+          "Democracy → Oligarchy → Timocracy → Aristocracy → Tyranny"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "What was the official name of the Roman Republic?",
+        "options": [
+          "The Roman Kingdom and Senate",
+          "The Senate and People of Rome",
+          "The Assembly of the Roman Tribes",
+          "The Consuls and the Plebeians"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Which of the following is NOT one of the three main branches of government in the Roman Republic?",
+        "options": [
+          "The Assemblies (Comitia)",
+          "The Senate",
+          "The Tribunes of the Plebs",
+          "The Magistrates"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "question": "What was a key difference between the Centuriate Assembly and the Plebeian Council?",
+        "options": [
+          "The Centuriate Assembly elected consuls; the Plebeian Council elected tribunes",
+          "The Centuriate Assembly could only meet inside the city walls",
+          "The Plebeian Council was open only to patricians",
+          "The Centuriate Assembly was created by Romulus"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Which law made plebiscites binding on all Roman citizens, not just plebeians?",
+        "options": [
+          "Lex Licinia Sextia",
+          "Lex Hortensia",
+          "Lex Canuleia",
+          "Lex Valeria"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "What was the primary reason for the creation of the Law of the Twelve Tables?",
+        "options": [
+          "To unify Roman law with Greek law",
+          "To respond to plebeian demands for written laws to limit patrician legal abuse",
+          "To establish a legal code for the Roman Empire",
+          "To abolish slavery in Rome"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "The Law of the Twelve Tables is historically important because it marked the transition from:",
+        "options": [
+          "Monarchy to Republic",
+          "Unwritten custom to written law",
+          "City state to empire",
+          "Paganism to Christianity"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Which statement best describes the long term significance of the Twelve Tables?",
+        "options": [
+          "They established Rome as a maritime power",
+          "They were the final legal code of the Roman Empire",
+          "They laid the foundation for Roman law and influenced Western legal systems",
+          "They granted full political equality to all Italians"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "question": "Which of the following best describes the Roman Senate during the Republic?",
+        "options": [
+          "A popular assembly elected by all citizens",
+          "An advisory council that became the most powerful deliberative body",
+          "A military court that tried cases of treason",
+          "A religious priesthood that interpreted omens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Which of the following was NOT a function or characteristic of the Roman Senate during the Republic?",
+        "options": [
+          "It was an advisory council that became the most influential deliberative body",
+          "It controlled state finances and foreign policy",
+          "It could authorize the appointment of a dictator during wars",
+          "It was a popular assembly elected annually by plebeians"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "question": "What was the immediate result of the Battle of the Allia (c. 390 BC)?",
+        "options": [
+          "Rome conquered the Etruscan city of Veii",
+          "The Gauls captured and burned most of Rome",
+          "The Roman Republic abolished the consulship",
+          "The plebeians were granted full political equality"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Why was Camillus called the “Second Founder of Rome”?",
+        "options": [
+          "He was the first king of Rome after Romulus",
+          "He defeated the Etruscans and founded the Roman Republic",
+          "He saved Rome from the Gauls and led its reconstruction after the Gallic sack",
+          "He wrote the Twelve Tables and made great contributions to western legal system."
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "question": "What was the outcome of the Pyrrhic War (280–275 BC)",
+        "options": [
+          "Carthage took control of Sicily",
+          "King Pyrrhus captured Rome",
+          "Rome defeated Pyrrhus",
+          "The Samnites became independent"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 26,
+        "question": "By what year did Rome control most of the Italian peninsula south of the Po River?",
+        "options": [
+          "343 BC",
+          "290 BC",
+          "264 BC",
+          "146 BC"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 27,
+        "question": "What does the term “Pyrrhic victory” mean?",
+        "options": [
+          "A decisive victory that ends a long war",
+          "A victory won at such a great cost that it is almost a defeat",
+          "A victory achieved without any casualties",
+          "A victory awarded by the Senate for exceptional bravery"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "What was the main cause of the First Punic War?",
+        "options": [
+          "Rome’s invasion of North Africa",
+          "Control over Sicily and the Straits of Messina",
+          "Hannibal’s attack on Saguntum",
+          "The destruction of Carthage"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "Which naval innovation helped Rome defeat Carthage at sea?",
+        "options": [
+          "The trireme",
+          "The quinquereme",
+          "The corvus (boarding bridge)",
+          "The catapult"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 30,
+        "question": "What was the outcome of the First Punic War?",
+        "options": [
+          "Carthage destroyed Rome’s fleet",
+          "Rome captured Carthage",
+          "Carthage ceded Sicily to Rome and paid a large indemnity",
+          "The war ended in a stalemate"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "After the First Punic War, Sicily became:",
+        "options": [
+          "Rome’s first overseas province",
+          "An independent kingdom",
+          "A Carthaginian colony",
+          "Part of the Greek Empire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Who commanded the Carthaginian army during the Second Punic War?",
+        "options": [
+          "Hasdrubal Barca",
+          "Hannibal Barca",
+          "Hamilcar Barca",
+          "Scipio Africanus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 33,
+        "question": "Which battle was Hannibal’s greatest victory, where he destroyed a large Roman army?",
+        "options": [
+          "Trebia",
+          "Trasimene",
+          "Cannae",
+          "Zama"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 34,
+        "question": "What was the “Fabian strategy”?",
+        "options": [
+          "Attacking Carthage directly",
+          "Avoiding open battle and wearing down Hannibal slowly",
+          "Building a massive fleet to invade Africa",
+          "Using elephants to break enemy lines"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Which of the following was NOT a result of the Second Punic War?",
+        "options": [
+          "Carthage lost its Spanish territories",
+          "Carthage was forced to destroy its city",
+          "Carthage had to pay a large indemnity",
+          "Carthage’s navy was severely restricted"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 36,
+        "question": "What was the immediate trigger of the Second Punic War (218–201 BC)?",
+        "options": [
+          "Carthage attacked the Roman fleet off the coast of Sicily",
+          "Hannibal crossed the Alps and invaded Italy",
+          "Hannibal besieged and captured Saguntum, a Roman ally in Spain",
+          "Rome demanded that Carthage hand over all its African territories"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 37,
+        "question": "During the Second Punic War, which Macedonian king allied with Hannibal?",
+        "options": [
+          "Alexander the Great",
+          "Philip V",
+          "Leonidas",
+          "Ptolemy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "The Battle of Corinth (146 BC) resulted in the destruction of the city. Which of the following statements is correct?",
+        "options": [
+          "Corinth was one of the three major Hellenistic kingdoms",
+          "Rome defeated the Achaean League and destroyed Corinth",
+          "The battle was fought between Rome and the Seleucid Empire",
+          "After the battle, Corinth became the capital of the Ptolemaic Kingdom"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 39,
+        "question": "Which of the three major Hellenistic kingdoms was the first to be destroyed by Rome?",
+        "options": [
+          "Ptolemaic Egypt",
+          "Seleucid Syria",
+          "Antigonid Macedonia",
+          "The Carthagian Dynasty"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 40,
+        "question": "What does the term “Carthaginian peace” refer to?",
+        "options": [
+          "A fair peace treaty that benefits both sides equally",
+          "A very harsh peace imposed on a defeated enemy to permanently cripple it",
+          "A peace treaty signed in Carthage between Rome and Egypt",
+          "A temporary truce during the Punic Wars"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "What famous Roman senator repeatedly said, “Carthage must be destroyed”?",
+        "options": [
+          "Scipio Africanus",
+          "Julius Caesar",
+          "Cato the Elder",
+          "Cicero"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 42,
+        "question": "What happened to Carthage after the Third Punic War?",
+        "options": [
+          "It became an ally of Rome",
+          "It was completely destroyed",
+          "It was given to the Seleucid Empire",
+          "It remained an independent city state"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 43,
+        "question": "Which of the following lists the main stages of Roman expansion in the correct chronological order?",
+        "options": [
+          "Italy → Sicily → Spain → Macedon → Carthage → Gaul → Egypt",
+          "Italy → Sicily → Spain → Carthage → Macedon → Gaul → Egypt",
+          "Italy → Sicily → Carthage → Spain → Macedon → Gaul → Egypt",
+          "Sicily → Italy → Spain → Carthage → Macedon → Egypt → Gaul"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 44,
+        "question": "Which of the following Roman figures was NOT a member of the Optimates faction?",
+        "options": [
+          "Sulla",
+          "Cicero",
+          "Pompey",
+          "Julius Caesar"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 45,
+        "question": "Which of the following Roman figures is considered a leader of the Populares faction?",
+        "options": [
+          "Sulla",
+          "Cato the Younger",
+          "Tiberius Gracchus",
+          "Cicero"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 46,
+        "question": "What was the main goal of Tiberius Gracchus’s land reform?",
+        "options": [
+          "To raise more revenue from wealthy landowners through taxation",
+          "To redistribute public land to poorer citizens, curb land concentration, and strengthen military recruitment",
+          "To extend Roman citizenship to all Italian allies",
+          "To promote urban development through roads and public construction"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 47,
+        "question": "Which Roman general finally brought the Jugurthine War to an end?",
+        "options": [
+          "Sulla",
+          "Marius",
+          "Scipio Africanus",
+          "Pompey"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 48,
+        "question": "What was Gaius Marius’s most significant military reform?",
+        "options": [
+          "He introduced the use of war elephants",
+          "He opened the army to landless citizens",
+          "He built the first Roman navy",
+          "He banned non Romans from serving in the legions"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 49,
+        "question": "Which of the following statements about Gaius Marius is correct?",
+        "options": [
+          "He was the first Roman emperor and the founder of the Roman Empire",
+          "He was considered the third founder of Rome (after Romulus and Camillus)",
+          "He was a leader of the Optimates",
+          "He was elected consul only once, in 107 BC"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 50,
+        "question": "The Jugurthine War (112–106 BC) was fought between Rome and:",
+        "options": [
+          "The Cimbri and Teutones",
+          "Numidia",
+          "The slaves of Sicily",
+          "The Parthian Empire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 51,
+        "question": "The Cimbrian War (113–101 BC) was primarily a conflict between Rome and:",
+        "options": [
+          "The Seleucid Empire",
+          "Germanic tribes",
+          "The Greek city states",
+          "Carthage"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 52,
+        "question": "Before Marius’s reforms, Roman soldiers were typically:",
+        "options": [
+          "Professional career soldiers paid by the state",
+          "Property owning citizens who served for a campaign and then returned home",
+          "Slaves trained in gladiator schools",
+          "Mercenaries hired from Greece"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 53,
+        "question": "After Marius’s reforms, Roman soldiers became:",
+        "options": [
+          "More loyal to the state than to their generals",
+          "A citizen militia that fought only in summer campaigns",
+          "Career soldiers who depended more on their generals",
+          "Exclusively recruited from the wealthy classes"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 54,
+        "question": "Which of the following was a negative consequence of Marius’s military reforms?",
+        "options": [
+          "The army became less effective in battle",
+          "Soldiers developed stronger loyalty to their generals, leading military dictatorship",
+          "Rome lost all its foreign territories",
+          "The Senate gained complete control over the army"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 55,
+        "question": "Which Roman general finally defeated Mithridates VI and ended the Third Mithridatic War?",
+        "options": [
+          "Sulla",
+          "Lucullus",
+          "Pompey the Great",
+          "Julius Caesar"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 56,
+        "question": "The First Mithridatic War (88–84 BC) was fought mainly between Mithridates and:",
+        "options": [
+          "Marius",
+          "Sulla",
+          "Pompey",
+          "Crassus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 57,
+        "question": "Which of the following correctly matches each war with the enemy Rome fought against?",
+        "options": [
+          "Jugurthine War → Numidia; Cimbrian War → Germanic tribes; Second Servile War → Sicilian slaves; Mithridatic Wars → Pontus; Social War → Italian allies",
+          "Jugurthine War → Germanic tribes; Cimbrian War → Numidia; Second Servile War → Italian allies; Mithridatic Wars → Sicilian slaves; Social War → Pontus",
+          "Jugurthine War → Pontus; Cimbrian War → Sicilian slaves; Second Servile War → Germanic tribes; Mithridatic Wars → Italian allies; Social War → Numidia",
+          "Jugurthine War → Italian allies; Cimbrian War → Pontus; Second Servile War → Numidia; Mithridatic Wars → Germanic tribes; Social War → Sicilian slaves"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 58,
+        "question": "Which of the following statements about the Social War (91–87 BC) is correct?",
+        "options": [
+          "It was fought between Rome and King Mithridates VI of Pontus",
+          "The main cause was the Italian allies’ demand for Roman citizenship after years of military service",
+          "The war ended immediately after the assassination of Marcus Livius Drusus",
+          "ulla captured the Marsi, and Cinna conquered Campania"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 59,
+        "question": "Which of the following statements about Lucius Cornelius Sulla is correct?",
+        "options": [
+          "He was a leader of the Populares and a close ally of Gaius Marius throughout his career",
+          "He once served as quaestor under Marius, later became a powerful general and statesman, and finally dictator of Rome (82–79 BC)",
+          "He was assassinated by supporters of Marius during the Social War",
+          "He never held the office of dictator and died in exile"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 60,
+        "question": "In which war did Sulla first gain military experience as a junior officer (quaestor) under Marius, helping to end the conflict by capturing the Numidian king?",
+        "options": [
+          "The Cimbrian War",
+          "The Social War",
+          "The Jugurthine War",
+          "The First Mithridatic War"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 61,
+        "question": "What was the immediate cause of Sulla’s first march on Rome in 88 BC?",
+        "options": [
+          "He was ordered to fight the Cimbri",
+          "The Senate asked him to restore order",
+          "His command against Mithridates was taken away by Marius",
+          "He was elected dictator"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 62,
+        "question": "Who seized Rome in 87 BC while Sulla was campaigning in the East?",
+        "options": [
+          "Pompey and Crassus",
+          "Cinna and Marius",
+          "Sulla’s son",
+          "The Italian allies"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 63,
+        "question": "Which two future leaders supported Sulla during his second civil war (83–82 BC)?",
+        "options": [
+          "Marius and Cinna",
+          "Pompey and Crassus",
+          "Caesar and Cicero",
+          "Lepidus and Antony"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 64,
+        "question": "After occupying Rome in 82 BC, Sulla became:",
+        "options": [
+          "Consul for life",
+          "Dictator",
+          "Pontifex Maximus",
+          "Emperor"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 65,
+        "question": "What was one of Sulla’s constitutional reforms aimed at restoring the power of the Senate?",
+        "options": [
+          "He increased the number of tribunes and gave them more veto power",
+          "He weakened the power of the tribunes and the popular assemblies, while strengthening the Senate",
+          "He abolished the Senate and replaced it with a popular assembly",
+          "He granted full citizenship to all Italian allies"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 66,
+        "question": "Which of the following was NOT part of Sulla’s constitutional reforms?",
+        "options": [
+          "Introducing age limits for magistrates",
+          "Weakening the popular assemblies",
+          "Strengthening the power of the tribunes",
+          "Increasing the authority of the Senate"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 67,
+        "question": "Why did Pompey and Crassus join forces to dismantle Sulla’s constitutional reforms after Sulla’s death?",
+        "options": [
+          "They had been loyal supporters of Marius and wanted revenge on Sulla’s family",
+          "They felt that Sulla’s reforms limited their own political ambitions",
+          "They were ordered by the Senate to abolish Sulla’s laws",
+          "They wanted to restore the monarchy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 68,
+        "question": "For what event is Cicero most famous as a consul?",
+        "options": [
+          "Defeating the Cimbri and Teutones",
+          "Suppressing the Catilinarian Conspiracy",
+          "Conquering Gaul",
+          "Negotiating peace with Mithridates"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 69,
+        "question": "How did Cicero die?",
+        "options": [
+          "He was killed in battle against the Gauls",
+          "He committed suicide after the defeat of the Senate",
+          "He was executed by Mark Antony in 43 BC",
+          "He died of natural causes at his country villa"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 70,
+        "question": "This quote “When, O Catiline, do you mean to cease abusing our patience?”comes from?",
+        "options": [
+          "Pompey",
+          "Mark Antony",
+          "Caesar",
+          "Cicero"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 71,
+        "question": "What happened to Spartacus at the end of the revolt?",
+        "options": [
+          "He was captured and crucified",
+          "He was pardoned by the Roman Senate",
+          "He escaped to Gaul",
+          "He was killed in battle"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 72,
+        "question": "What was a major reason for the failure of the revolt?",
+        "options": [
+          "Lack of popular support",
+          "Superior weapons of the Romans",
+          "Internal divisions and strategic disagreements",
+          "The rebels ran out of food"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 73,
+        "question": "In the late Republic, there were two factions in the political arena. One faction was a group of politicians called ______, meaning “the best ones”.",
+        "options": [
+          "Patricians",
+          "Plebeians",
+          "Optimates",
+          "Populares"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 74,
+        "question": "Which of the following men was known as “the richest man in Rome”?",
+        "options": [
+          "Pompey",
+          "Julius Caesar",
+          "Marcus Licinius Crassus",
+          "Lepidus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 75,
+        "question": "Which of the following was one of Crassus’s major deeds?",
+        "options": [
+          "Defeating Mithridates VI",
+          "Suppressing Spartacus",
+          "Conquering Gaul",
+          "Defeating Antony at Actium"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 76,
+        "question": "Which of the following best describes Pompey’s achievement in the East?",
+        "options": [
+          "He conquered Britain permanently",
+          "He reorganized the Roman East after defeating Mithridates VI",
+          "He founded the Julian Calendar",
+          "He became the last ruler of Hellenistic Egypt"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 77,
+        "question": "Julius Caesar belonged politically to which group?",
+        "options": [
+          "Optimates",
+          "Populares",
+          "Stoics",
+          "Plebeians"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 78,
+        "question": "Which calendar reform is associated with Julius Caesar?",
+        "options": [
+          "The Gregorian Calendar",
+          "The Julian Calendar",
+          "The Lunar Calendar",
+          "The Alexandrian Calendar"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 79,
+        "question": "The Gallic Wars were fought between:",
+        "options": [
+          "Rome and Carthage",
+          "Rome and Pontus",
+          "Rome and the Gauls",
+          "Rome and Egypt"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 80,
+        "question": "Which tribe’s migration gave Caesar an official reason to begin military action in Gaul?",
+        "options": [
+          "The Goths",
+          "The Helvetii",
+          "The Spartans",
+          "The Persians"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 81,
+        "question": "Who was the most famous Gallic leader opposing Caesar?",
+        "options": [
+          "Hannibal",
+          "Mithridates VI",
+          "Vercingetorix",
+          "Brutus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 82,
+        "question": "In which battle did Caesar decisively defeat Vercingetorix?",
+        "options": [
+          "Battle of Actium",
+          "Battle of Pharsalus",
+          "Battle of Alesia",
+          "Battle of Pydna"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 83,
+        "question": "Which of the following was a result of the Gallic Wars for Caesar?",
+        "options": [
+          "He lost all political influence in Rome",
+          "He strengthened his army’s loyalty",
+          "He became king of Egypt",
+          "He permanently conquered Britain"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 84,
+        "question": "What does “Crossing the Rubicon” refer to?",
+        "options": [
+          "Caesar’s conquest of Egypt",
+          "Caesar’s crossing into Italy with his army in 49 BC",
+          "Pompey’s retreat to Greece",
+          "Antony’s alliance with Cleopatra"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 85,
+        "question": "Why was crossing the Rubicon so important?",
+        "options": [
+          "It ended the Gallic Wars",
+          "It marked a legal challenge to the Senate and began civil war",
+          "It destroyed the Roman Empire",
+          "It founded the Second Triumvirate"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 86,
+        "question": "Today, the phrase “to cross the Rubicon” means:",
+        "options": [
+          "To lose political influence",
+          "To form a temporary alliance",
+          "To make an irreversible decision",
+          "To surrender without resistance"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 87,
+        "question": "What happened to Pompey after the Battle of Pharsalus?",
+        "options": [
+          "He became dictator of Rome",
+          "He fled to Egypt and was murdered",
+          "He defeated Caesar in a second battle",
+          "He joined the Second Triumvirate"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 88,
+        "question": "Julius Caesar was assassinated on:",
+        "options": [
+          "49 BC",
+          "44 BC",
+          "31 BC",
+          "27 BC"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 89,
+        "question": "Which two men were the most famous assassins of Caesar?",
+        "options": [
+          "Antony and Lepidus",
+          "Octavian and Antony",
+          "Brutus and Cassius",
+          "Pompey and Crassus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 90,
+        "question": "What was the immediate political result of Caesar’s assassination?",
+        "options": [
+          "The Republic was fully restored",
+          "Egypt became a Roman province at once",
+          "It led to more chaos and another round of civil wars",
+          "Brutus became emperor"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 91,
+        "question": "In which battle were Antony and Cleopatra defeated by Octavian?",
+        "options": [
+          "Battle of Alesia",
+          "Battle of Actium",
+          "Battle of Pharsalus",
+          "Battle of Corinth"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 92,
+        "question": "What happened after Cleopatra’s death in 30 BC?",
+        "options": [
+          "Egypt became a Roman province",
+          "The Roman Republic was restored",
+          "Antony became emperor",
+          "Pompey returned to Rome"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 93,
+        "question": "Which of the following best explains Cleopatra’s historical importance?",
+        "options": [
+          "She was the founder of the Ptolemaic Kingdom",
+          "She was the last important ruler of Hellenistic Egypt",
+          "She defeated Octavian",
+          "She wrote the Julian Calendar"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 94,
+        "question": "The Second Triumvirate was formed by:",
+        "options": [
+          "Caesar, Pompey, and Crassus",
+          "Antony, Lepidus, and Octavian",
+          "Brutus, Cassius, and Cicero",
+          "Caesar, Antony, and Octavian"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 95,
+        "question": "By law, Octavian became Caesar’s:",
+        "options": [
+          "adopted son",
+          "father-in-law",
+          "consul",
+          "rival"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 96,
+        "question": "Which of the following is true about Octavian?",
+        "options": [
+          "He was defeated by Brutus and Cassius",
+          "He later received the title Augustus in 27 BC",
+          "He founded the Ptolemaic dynasty",
+          "He was murdered in Egypt"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 97,
+        "question": "Which event made Octavian the sole dominant ruler in the Roman world?",
+        "options": [
+          "The Battle of Pydna",
+          "The defeat of Vercingetorix",
+          "The defeat of Antony and Cleopatra at Actium",
+          "The assassination of Caesar"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 98,
+        "question": "Octavian is generally regarded as:",
+        "options": [
+          "the last king of Rome",
+          "the first Roman emperor",
+          "the founder of the Roman Republic",
+          "the last ruler of Hellenistic Egypt"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 99,
+        "question": "Which of the following best summarizes Caesar’s historical role?",
+        "options": [
+          "He restored the Roman monarchy",
+          "He ended the Punic Wars",
+          "He helped bring about the end of the Roman Republic",
+          "He founded the Ptolemaic Kingdom"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 100,
+        "question": "The Senate gave _________the new titles of Augustus and Princeps, which marked the end of the Roman Republic and the beginning of the Roman Empire.",
+        "options": [
+          "Antony",
+          "Octavian",
+          "Cleopatra",
+          "Lepidus"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": "four",
+    "label": "Chapter Four",
+    "total": 100,
+    "questions": [
+      {
+        "number": 1,
+        "question": "What does the title Princeps suggest politically?",
+        "options": [
+          "An open king",
+          "The first citizen among Romans",
+          "A military dictator only",
+          "A religious priest"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "What does the name Augustus imply?",
+        "options": [
+          "The young one",
+          "The conqueror of Gaul",
+          "The revered or venerable one",
+          "The defender of the Senate"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "Which event made Octavian the sole ruler of Rome?",
+        "options": [
+          "Battle of Cannae",
+          "Battle of Actium",
+          "Battle of Teutoburg Forest",
+          "Battle of Zama"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "question": "Which of the following was NOT one of Augustus’ main sources of power?",
+        "options": [
+          "Control of the army",
+          "Control of key provinces",
+          "Tribunician power",
+          "Election as king of Rome"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "question": "Which general commanded Octavian’s fleet at the Battle of Actium?",
+        "options": [
+          "Pompey",
+          "Agrippa",
+          "Cicero",
+          "Brutus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "The Battle of Teutoburg Forest in AD 9 was significant because ________.",
+        "options": [
+          "Rome conquered Britain",
+          "Antony and Cleopatra were defeated",
+          "three Roman legions under Varus were destroyed",
+          "Julius Caesar was assassinated"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Which work gave Rome and Augustus a mythic origin story?",
+        "options": [
+          "Odes",
+          "Metamorphoses",
+          "Aeneid",
+          "Ab Urbe Condita"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "question": "Why was Germanicus important to Augustus’ succession plan?",
+        "options": [
+          "He was the biological son of Augustus",
+          "He had Julian blood through his mother’s family line",
+          "He defeated Antony at Actium",
+          "He founded the Flavian Dynasty"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "Germanicus was the son of ________.",
+        "options": [
+          "Tiberius and Julia the Elder",
+          "Nero Claudius Drusus and Antonia Minor",
+          "Augustus and Livia Drusilla",
+          "Claudius and Messalina"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Germanicus led Roman campaigns in Germania mainly from ________.",
+        "options": [
+          "58 BC to 50 BC",
+          "31 BC to 27 BC",
+          "AD 14 to AD 16",
+          "AD 69 to AD 70"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "question": "Germanicus died suddenly in AD 19 at ________.",
+        "options": [
+          "Rome",
+          "Antioch",
+          "Alexandria",
+          "Capri"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "question": "Tiberius was the ________ Roman emperor.",
+        "options": [
+          "first",
+          "second",
+          "third",
+          "fourth"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "Which of the following best describes Tiberius’ general policy?",
+        "options": [
+          "Reckless expansion",
+          "Frontier consolidation and financial restraint",
+          "Complete abolition of the Senate",
+          "Immediate conquest of Britain"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Sejanus was powerful mainly because he commanded the ________.",
+        "options": [
+          "Senate",
+          "Praetorian Guard",
+          "Roman navy",
+          "Gallic cavalry"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Which family did Sejanus particularly target?",
+        "options": [
+          "The family of Germanicus",
+          "The family of Vespasian",
+          "The family of Julius Caesar’s enemies",
+          "The family of Hannibal"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "Caligula’s nickname means ________.",
+        "options": [
+          "little crown",
+          "little boots",
+          "young eagle",
+          "golden boy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "Claudius’ most famous military achievement was ________.",
+        "options": [
+          "the conquest of Britain in AD 43",
+          "the defeat of Antony and Cleopatra",
+          "the destruction of Jerusalem",
+          "the defeat of Hannibal"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "question": "The expression “Nero fiddled while Rome burned” is used to describe someone who is ________.",
+        "options": [
+          "brave during battle",
+          "indifferent or self-indulgent during a serious crisis",
+          "loyal to the Senate",
+          "careful with public money"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Which sequence correctly shows the Year of the Four Emperors?",
+        "options": [
+          "Galba → Otho → Vitellius → Vespasian",
+          "Otho → Galba → Vespasian → Vitellius",
+          "Vitellius → Nero → Galba → Vespasian",
+          "Vespasian → Galba → Otho → Nero"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "After the Great Fire of Rome, Nero blamed the ________.",
+        "options": [
+          "Christians",
+          "Germans",
+          "Greeks",
+          "Egyptians"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Vespasian’s rise to power was significant because it showed that ________.",
+        "options": [
+          "only Augustus’ descendants could become emperor",
+          "military support could create a new imperial dynasty",
+          "the Senate had restored the Republic",
+          "Nero had successfully chosen his heir"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Which dynasty did Vespasian found?",
+        "options": [
+          "Julio-Claudian Dynasty",
+          "Flavian Dynasty",
+          "Antonine Dynasty",
+          "Severan Dynasty"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "question": "Which statement best describes Vespasian’s central achievement?",
+        "options": [
+          "He expanded Rome to its maximum territorial extent.",
+          "He restored stability after the civil wars of AD 69.",
+          "He destroyed the Second Temple in Jerusalem.",
+          "He built Hadrian’s Wall in Britain."
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Why was the Praetorian Guard a serious political problem before Vespasian?",
+        "options": [
+          "It had become an independent foreign army.",
+          "It could make and unmake emperors.",
+          "It was controlled by Parthia.",
+          "It refused to defend Rome from Carthage."
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "question": "The Colosseum was politically significant because it",
+        "options": [
+          "symbolized the return of public space after Nero’s extravagance",
+          "served as the private palace of Vespasian",
+          "marked the conquest of Britain",
+          "replaced the Roman Senate House"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "Titus’ most important military achievement before becoming emperor was",
+        "options": [
+          "defeating Decebalus",
+          "capturing Jerusalem in AD 70",
+          "building the Antonine Wall",
+          "suppressing the Bar Kokhba Revolt"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 27,
+        "question": "The destruction of the Second Temple was historically significant because the Temple was",
+        "options": [
+          "only a Roman military camp",
+          "the center of Jewish religious and national identity",
+          "the palace of Vespasian",
+          "a Greek philosophical school"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "Which of the following contributed to the First Jewish-Roman War?",
+        "options": [
+          "Hadrian’s construction of Hadrian’s Wall",
+          "Roman taxation, religious tension, and poor provincial administration",
+          "Trajan’s conquest of Dacia",
+          "Marcus Aurelius’ Stoic philosophy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "Domitian is best described as",
+        "options": [
+          "ineffective but beloved by the Senate",
+          "efficient but increasingly authoritarian",
+          "a philosopher-emperor like Marcus Aurelius",
+          "the founder of the Flavian Dynasty"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "The Dacians under Decebalus threatened Rome mainly along the( )frontier.",
+        "options": [
+          "Rhine",
+          "Danube",
+          "Euphrates",
+          "Nile"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "The AD 89 peace treaty between Domitian and Decebalus was controversial because",
+        "options": [
+          "Rome gave subsidies and technical support to Decebalus",
+          "Dacia immediately became a Roman province",
+          "Domitian abolished the army",
+          "the treaty ended the Roman Empire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Domitian’s death in AD 96 resulted in",
+        "options": [
+          "the beginning of the Julio-Claudian Dynasty",
+          "the end of the Flavian Dynasty",
+          "the conquest of Dacia",
+          "the destruction of the Second Temple"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 33,
+        "question": "Nerva’s greatest historical significance lies in",
+        "options": [
+          "conquering Parthia permanently",
+          "adopting Trajan and stabilizing succession",
+          "destroying Jerusalem",
+          "building the Colosseum"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "Trajan is often remembered as the ideal",
+        "options": [
+          "poet-emperor",
+          "soldier-emperor",
+          "priest-emperor",
+          "philosopher-emperor"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Which statement about Trajan’s conquest of Dacia is accurate?",
+        "options": [
+          "He only temporarily occupied Dacia and immediately abandoned it.",
+          "He defeated Decebalus and turned Dacia into a Roman province.",
+          "He lost Dacia to the Parthians.",
+          "He made Decebalus emperor of Rome."
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 36,
+        "question": "Which statement about Trajan’s eastern campaigns is most accurate?( )",
+        "options": [
+          "He permanently conquered the entire Parthian Empire.",
+          "He briefly occupied parts of Parthian territory but did not permanently conquer Parthia.",
+          "He never entered Mesopotamia.",
+          "He was defeated by Decebalus near Ctesiphon."
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 37,
+        "question": "Under Trajan, the Roman Empire",
+        "options": [
+          "lost all of its eastern provinces",
+          "reached its maximum territorial extent",
+          "returned to the Republican system",
+          "abandoned the Danube frontier"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "The Kitos War is also known as the",
+        "options": [
+          "First Jewish-Roman War",
+          "Diaspora Revolt",
+          "Marcomannic War",
+          "Dacian War"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 39,
+        "question": "The Kitos War showed that",
+        "options": [
+          "Jewish resistance to Rome was limited only to Jerusalem",
+          "Roman-Jewish tensions continued after the destruction of the Second Temple",
+          "Trajan permanently secured all eastern territories",
+          "Hadrian had already built Aelia Capitolina"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "Hadrian’s policy is best summarized as",
+        "options": [
+          "expansion rather than defense",
+          "consolidation rather than expansion",
+          "complete withdrawal from all provinces",
+          "permanent conquest of Parthia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "Hadrian’s Wall symbolized",
+        "options": [
+          "Roman expansion into Parthia",
+          "the shift from expansion to frontier defense",
+          "the destruction of Jerusalem",
+          "the end of the Flavian Dynasty"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 42,
+        "question": "Hadrian was known for all of the following EXCEPT",
+        "options": [
+          "traveling widely through the provinces",
+          "strengthening frontier defense",
+          "patronizing Greek culture",
+          "founding the Flavian Dynasty"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 43,
+        "question": "The Bar Kokhba Revolt occurred during the reign of",
+        "options": [
+          "Titus",
+          "Trajan",
+          "Hadrian",
+          "Commodus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 44,
+        "question": "One cause of the Bar Kokhba Revolt was Hadrian’s plan to rebuild Jerusalem as",
+        "options": [
+          "Aelia Capitolina",
+          "Colonia Commodiana",
+          "Portus",
+          "Ctesiphon"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 45,
+        "question": "Which sequence correctly lists the three major Jewish revolts against Rome?",
+        "options": [
+          "Kitos War → Bar Kokhba Revolt → First Jewish-Roman War",
+          "First Jewish-Roman War → Kitos War → Bar Kokhba Revolt",
+          "Bar Kokhba Revolt → First Jewish-Roman War → Kitos War",
+          "First Jewish-Roman War → Marcomannic War → Kitos War"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Hadrian adopted Antoninus Pius on the condition that Antoninus adopt",
+        "options": [
+          "Titus and Domitian",
+          "Marcus Aurelius and Lucius Verus",
+          "Vespasian and Nerva",
+          "Trajan and Commodus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 47,
+        "question": "The Antonine Wall was built during the reign of",
+        "options": [
+          "Hadrian",
+          "Antoninus Pius",
+          "Marcus Aurelius",
+          "Commodus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 48,
+        "question": "Marcus Aurelius is best known as",
+        "options": [
+          "the founder of the Flavian Dynasty",
+          "the Stoic philosopher-emperor and author of Meditations",
+          "the conqueror of Dacia",
+          "the first emperor selected by the Praetorian Guard"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 49,
+        "question": "The Antonine Plague may have been spread partly by",
+        "options": [
+          "troops returning from the eastern Parthian War",
+          "the builders of Hadrian’s Wall",
+          "the Dacians after AD 89",
+          "the Senate after Domitian’s death"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 50,
+        "question": "The Marcomannic Wars revealed",
+        "options": [
+          "that Rome had no northern enemies",
+          "serious pressure on Rome’s northern borders",
+          "the permanent conquest of Parthia",
+          "the disappearance of Germanic peoples"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 51,
+        "question": "Marcus Aurelius’ decision to let Commodus succeed him was controversial because it",
+        "options": [
+          "restored the Roman Republic",
+          "ended the adoptive succession pattern",
+          "allowed Nerva to become emperor",
+          "prevented biological inheritance forever"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 52,
+        "question": "Commodus is best remembered for",
+        "options": [
+          "peaceful legal reform and senatorial cooperation",
+          "gladiatorial performances, autocracy, and political instability",
+          "founding the Nerva-Antonine Dynasty",
+          "writing Parallel Lives"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 53,
+        "question": "Commodus’ death in AD 192 led to",
+        "options": [
+          "the Year of the Five Emperors",
+          "the Year of the Four Emperors",
+          "the First Jewish-Roman War",
+          "the conquest of Dacia"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 54,
+        "question": "The Year of the Five Emperors in AD 193 was triggered mainly by",
+        "options": [
+          "the assassination of Commodus and the collapse of stable succession",
+          "the conquest of Dacia by Trajan",
+          "the Edict of Milan issued by Constantine",
+          "the foundation of Constantinople"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 55,
+        "question": "The “auction of the throne” in AD 193 best illustrates",
+        "options": [
+          "the strength of republican elections",
+          "the collapse of stable imperial succession",
+          "the complete independence of the Senate",
+          "the success of the Tetrarchy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 56,
+        "question": "Which statement best summarizes the historical significance of Septimius Severus?",
+        "options": [
+          "He ended the Crisis of the Third Century through the Tetrarchy.",
+          "He restored the Republic and reduced the army.",
+          "He founded a military-backed dynasty after the crisis of AD 193.",
+          "He made Christianity the official state religion."
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 57,
+        "question": "The assassination of Severus Alexander in AD 235 marked",
+        "options": [
+          "the foundation of Constantinople",
+          "the end of the First Jewish-Roman War",
+          "the beginning of the Crisis of the Third Century",
+          "the creation of the Nerva-Antonine Dynasty"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 58,
+        "question": "During the Crisis of the Third Century, “barracks emperors” were emperors who",
+        "options": [
+          "were elected by Christian councils",
+          "inherited power peacefully from their fathers",
+          "were usually raised to power by the army and often ruled briefly",
+          "ruled only from Constantinople"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 59,
+        "question": "Which of the following was NOT a major feature of the Crisis of the Third Century?",
+        "options": [
+          "Rapid turnover of emperors",
+          "Military anarchy",
+          "Stable hereditary succession",
+          "Foreign invasions"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 60,
+        "question": "The main northern pressures on Rome during the Crisis of the Third Century came from",
+        "options": [
+          "Germanic peoples attacking the Rhine and Danube frontiers",
+          "Egyptian pharaohs attacking Italy",
+          "Carthaginian armies crossing the Alps",
+          "Athenian naval forces attacking Sicily"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 61,
+        "question": "Rome’s major eastern enemy during much of the Third-Century Crisis was the",
+        "options": [
+          "Sasanian Empire",
+          "Delian League",
+          "Gallic Empire",
+          "Macedonian Kingdom"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 62,
+        "question": "The temporary fragmentation of the Roman Empire during the Third-Century Crisis included the rise of the",
+        "options": [
+          "Achaemenid Empire and Macedonian Empire",
+          "Byzantine Empire and Ottoman Empire",
+          "Delian League and Peloponnesian League",
+          "Gallic Empire and Palmyrene Empire"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 63,
+        "question": "Aurelian earned the title Restitutor Orbis because he",
+        "options": [
+          "created the Tetrarchy",
+          "legalized Christianity",
+          "reunited the Roman Empire by defeating breakaway states",
+          "issued the Constitutio Antoniniana"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 64,
+        "question": "Aurelian’s decision to abandon Dacia should best be understood as",
+        "options": [
+          "a strategic withdrawal to a more defensible Danube frontier",
+          "a permanent conquest of the Sasanian Empire",
+          "a policy of Christian persecution",
+          "an attempt to restore the Republic"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 65,
+        "question": "The Aurelian Walls were built because",
+        "options": [
+          "Constantine wanted to move the capital to Rome",
+          "the Senate wanted to abolish the army",
+          "even Rome itself needed stronger defenses during the crisis",
+          "Diocletian wanted to restore Dacia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 66,
+        "question": "Diocletian’s rise in AD 284 is usually taken as the ending point of",
+        "options": [
+          "the Augustan Age",
+          "the Crisis of the Third Century",
+          "the Bar Kokhba Revolt",
+          "the First Punic War"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 67,
+        "question": "The Tetrarchy created by Diocletian consisted of",
+        "options": [
+          "four elected consuls",
+          "one emperor and three senators",
+          "two Augusti and two Caesares",
+          "two kings and two tribunes"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 68,
+        "question": "The main purpose of the Tetrarchy was to",
+        "options": [
+          "make Christianity the official state religion",
+          "abolish imperial rule entirely",
+          "restore the Roman Republic",
+          "improve administration, defense, and succession"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 69,
+        "question": "The shift from Principate to Dominate means that the emperor changed from being presented as",
+        "options": [
+          "“first citizen” to a more openly autocratic ruler",
+          "a Christian bishop to a Greek philosopher",
+          "a provincial governor to a Persian king",
+          "a military slave to an elected consul"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 70,
+        "question": "Which contrast between Nero and Diocletian’s persecution of Christians is most accurate?",
+        "options": [
+          "Nero legalized Christianity; Diocletian founded Constantinople.",
+          "Nero convened Nicaea; Diocletian issued the Edict of Milan.",
+          "Nero created the Tetrarchy; Diocletian destroyed Rome.",
+          "Nero used Christians as scapegoats after a disaster; Diocletian launched a systematic persecution to restore religious unity."
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 71,
+        "question": "Constantine’s victory at the Battle of Milvian Bridge in AD 312 was significant because it",
+        "options": [
+          "made him dominant in the West",
+          "ended the Severan Dynasty",
+          "restored the Gallic Empire",
+          "made Diocletian emperor"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 72,
+        "question": "Which statement about the Edict of Milan is most accurate?",
+        "options": [
+          "It legalized Christianity but did not make it the official state religion.",
+          "It abolished all pagan cults immediately.",
+          "It was issued by Nero after the Great Fire.",
+          "It created the Council of Nicaea."
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 73,
+        "question": "The Battle of Chrysopolis in AD 324 resulted in",
+        "options": [
+          "Diocletian founding the Tetrarchy",
+          "Aurelian abandoning Dacia",
+          "Constantine defeating Licinius and becoming sole emperor",
+          "Caracalla issuing the citizenship edict"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 74,
+        "question": "The Council of Nicaea produced the",
+        "options": [
+          "Nicene Creed",
+          "Edict on Maximum Prices",
+          "Constitutio Antoniniana",
+          "Twelve Tables"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 75,
+        "question": "Constantine founded Constantinople in AD 330 on the site of",
+        "options": [
+          "Carthage",
+          "Alexandria",
+          "Antioch",
+          "Byzantium"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 76,
+        "question": "The solidus introduced by Constantine was",
+        "options": [
+          "a Germanic tribe",
+          "a Roman frontier wall in Britain",
+          "a Christian creed from Nicaea",
+          "a stable gold coin important in the Late Roman and Byzantine world"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 77,
+        "question": "Which statement best summarizes the historical arc from AD 193 to Constantine?",
+        "options": [
+          "Rome returned fully to the Republican constitution.",
+          "Rome permanently abandoned all provinces outside Italy.",
+          "Rome moved from military succession crises and fragmentation toward a more centralized, Christian-supported, eastern-oriented imperial system.",
+          "Rome was ruled continuously by peaceful hereditary succession."
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 78,
+        "question": "Which statement best describes Marx’s view of religion?",
+        "options": [
+          "He simply praised religion as morally perfect.",
+          "He completely ignored the suffering of religious people.",
+          "He saw religion as both an expression of real suffering and an illusory comfort.",
+          "He believed religion had no relation to social reality."
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 79,
+        "question": "In Engels’ view, early Christianity resembled the modern working-class movement because it was originally",
+        "options": [
+          "a movement of oppressed people",
+          "a religion of Roman aristocrats only",
+          "a state religion created by Theodosius",
+          "a philosophical school founded in Athens"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 80,
+        "question": "Which statement correctly distinguishes Constantine from Theodosius I?",
+        "options": [
+          "Constantine made Christianity the state religion, while Theodosius legalized it.",
+          "Constantine legalized and favored Christianity, while Theodosius made Nicene Christianity the official state religion.",
+          "Constantine banned Christianity, while Theodosius restored paganism.",
+          "Constantine founded Protestantism, while Theodosius founded Catholicism."
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 81,
+        "question": "The incident involving Ambrose and Theodosius after the Thessalonica massacre showed that( )",
+        "options": [
+          "the Senate had become stronger than the Church",
+          "the Christian Church had growing moral and political authority",
+          "pagan priests controlled the emperor",
+          "Theodosius rejected Christianity completely"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 82,
+        "question": "The three major branches of Christianity are",
+        "options": [
+          "Judaism, Christianity, and Islam",
+          "Catholicism, Eastern Orthodoxy, and Protestantism",
+          "Stoicism, Epicureanism, and Platonism",
+          "Lutheranism, Calvinism, and Anglicanism only"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 83,
+        "question": "The Roman Catholic Church is headed by the",
+        "options": [
+          "Ecumenical Patriarch of Constantinople",
+          "Bishop of Rome, known as the Pope",
+          "Archbishop of Canterbury",
+          "Emperor of Byzantium"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 84,
+        "question": "Protestantism originated from the",
+        "options": [
+          "Great Schism of 1054",
+          "Reformation beginning in 1517",
+          "Edict of Thessalonica",
+          "Council of Chalcedon"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 85,
+        "question": "The Great Schism of 1054 resulted in the official separation between",
+        "options": [
+          "Judaism and Christianity",
+          "Christianity and Islam",
+          "the Western and Eastern Churches",
+          "Catholicism and Lutheranism"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 86,
+        "question": "Abraham is important because he is regarded as a foundational figure for",
+        "options": [
+          "Judaism, Christianity, and Islam",
+          "Buddhism, Daoism, and Confucianism",
+          "Stoicism, Epicureanism, and Platonism",
+          "Roman Catholicism, Protestantism, and Eastern Orthodoxy only"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 87,
+        "question": "Which statement best summarizes the historical transformation from Constantine to Theodosius?",
+        "options": [
+          "Christianity moved from legal toleration to official state religion.",
+          "Christianity disappeared from the Roman Empire.",
+          "Paganism became stronger than ever.",
+          "Protestantism became the official religion of Rome."
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 88,
+        "question": "The Huns played an important role in the fall of the Western Roman Empire because they",
+        "options": [
+          "founded the Kingdom of Italy",
+          "pushed the Goths westward into Roman territory",
+          "built Constantinople as a new capital",
+          "created the Justinian Code"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 89,
+        "question": "The meeting between Pope Leo I and Attila in AD 452 is historically significant because it showed",
+        "options": [
+          "the complete military strength of the Western emperor",
+          "the growing power of the papacy",
+          "the final defeat of the Byzantine Empire",
+          "the beginning of the Islamic calendar"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 90,
+        "question": "At the Battle of Adrianople in AD 378, the Visigoths",
+        "options": [
+          "defeated a Roman army and killed Emperor Valens",
+          "conquered Constantinople",
+          "founded the Ottoman Empire",
+          "destroyed the Abbasid capital Baghdad"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 91,
+        "question": "Alaric I is best remembered for",
+        "options": [
+          "founding Islam in Mecca",
+          "sacking Rome in AD 410",
+          "issuing the Edict of Thessalonica",
+          "compiling the Justinian Code"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 92,
+        "question": "The fall of the Western Roman Empire is conventionally marked by",
+        "options": [
+          "the death of Muhammad in AD 632",
+          "the sack of Constantinople in 1204",
+          "Odoacer’s deposition of Romulus Augustulus in AD 476",
+          "Justinian’s reconquest of Italy"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 93,
+        "question": "The Abrahamic religions are",
+        "options": [
+          "Christianity, Islam, and Buddhism",
+          "Judaism, Christianity, and Islam",
+          "Hinduism, Buddhism, and Daoism",
+          "Catholicism, Protestantism, and Orthodoxy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 94,
+        "question": "The Hijra in AD 622 is important because it",
+        "options": [
+          "marked the beginning of the Islamic calendar",
+          "ended the Byzantine Empire",
+          "caused the Great Schism",
+          "led to the sack of Rome by the Vandals"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 95,
+        "question": "A caliph was regarded as",
+        "options": [
+          "a Roman emperor ruling from Constantinople",
+          "Muhammad’s successor in leading the Muslim community",
+          "the head of the Roman Catholic Church",
+          "a Germanic king in Italy"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 96,
+        "question": "The main division between Sunni and Shia Islam originally concerned",
+        "options": [
+          "the location of Constantinople",
+          "the succession after Muhammad’s death",
+          "the construction of Hagia Sophia",
+          "the fall of the Western Roman Empire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 97,
+        "question": "The Eastern Roman Empire is also known as the",
+        "options": [
+          "Byzantine Empire",
+          "Vandal Kingdom",
+          "Rashidun Caliphate",
+          "Kingdom of Italy"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 98,
+        "question": "Justinian I is best remembered for",
+        "options": [
+          "reconquering western territories",
+          "founding Islam and beginning the Hijra",
+          "deposing Romulus Augustulus",
+          "sacking Rome in AD 455"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 99,
+        "question": "The Battle of Manzikert in 1071 was significant because the Byzantine Empire",
+        "options": [
+          "lost much of Asia Minor to the Turks",
+          "conquered Rome from the Vandals",
+          "defeated the Huns permanently",
+          "founded the Rashidun Caliphate"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 100,
+        "question": "The Byzantine Empire finally ended when",
+        "options": [
+          "the Visigoths sacked Rome in AD 410",
+          "the Ottomans conquered Constantinople in AD 1453",
+          "Muhammad migrated to Medina in AD 622",
+          "Justinian built Hagia Sophia in the sixth century"
+        ],
+        "answer": "B"
+      }
+    ]
+  }
+]

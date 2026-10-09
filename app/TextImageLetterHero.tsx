@@ -3,18 +3,18 @@
 import { useMemo, useState } from "react";
 
 const stickerByLetter: Record<string, string> = {
-  R: "/text-image-letters/letter-r.png",
-  e: "/text-image-letters/letter-e.png",
-  a: "/text-image-letters/letter-a.png",
-  d: "/text-image-letters/letter-d.png",
-  b: "/text-image-letters/letter-b.png",
-  t: "/text-image-letters/letter-t.png",
-  w: "/text-image-letters/letter-w.png",
-  n: "/text-image-letters/letter-n.png",
-  h: "/text-image-letters/letter-h.png",
-  l: "/text-image-letters/letter-l.png",
-  i: "/text-image-letters/letter-i.png",
-  s: "/text-image-letters/letter-s.png",
+  R: "https://assets.negentropylearning.com.cn/text-image-letters/letter-r.png",
+  e: "https://assets.negentropylearning.com.cn/text-image-letters/letter-e.png",
+  a: "https://assets.negentropylearning.com.cn/text-image-letters/letter-a.png",
+  d: "https://assets.negentropylearning.com.cn/text-image-letters/letter-d.png",
+  b: "https://assets.negentropylearning.com.cn/text-image-letters/letter-b.png",
+  t: "https://assets.negentropylearning.com.cn/text-image-letters/letter-t.png",
+  w: "https://assets.negentropylearning.com.cn/text-image-letters/letter-w.png",
+  n: "https://assets.negentropylearning.com.cn/text-image-letters/letter-n.png",
+  h: "https://assets.negentropylearning.com.cn/text-image-letters/letter-h.png",
+  l: "https://assets.negentropylearning.com.cn/text-image-letters/letter-l.png",
+  i: "https://assets.negentropylearning.com.cn/text-image-letters/letter-i.png",
+  s: "https://assets.negentropylearning.com.cn/text-image-letters/letter-s.png",
 };
 
 type TextImageLetterHeroProps = {

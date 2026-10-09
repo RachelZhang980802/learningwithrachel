@@ -109,7 +109,7 @@ export function MuckRakeIntro({ onBack, onReadText }: MuckRakeIntroProps) {
           </div>
           <figure className={`muck-rake-nav-cat ${openMeaning ? "is-curious" : ""}`} aria-label="The first article’s gray-and-white tabby cat">
             <img
-              src="/media/cat-blackwhite-extended-doctoral.png?v=1"
+              src="https://assets.negentropylearning.com.cn/media/cat-blackwhite-extended-doctoral.png?v=1"
               alt="The gray-and-white tabby cat from the first article, wearing its doctoral cap"
               width="1007"
               height="1504"
@@ -179,7 +179,7 @@ export function MuckRakeIntro({ onBack, onReadText }: MuckRakeIntroProps) {
                   A tool for gathering or scraping up dirt. <span aria-hidden="true">{objectRevealed ? "−" : "+"}</span>
                 </button>
                 <figure id="muck-rake-object-image" className="muck-rake-object-evidence" hidden={!objectRevealed}>
-                  <img src="/media/muck-rake-object-cutout.png" alt="A complete hand-drawn rake with a wooden handle and metal tines" width="1402" height="1122" />
+                  <img src="https://assets.negentropylearning.com.cn/media/muck-rake-object-cutout.png" alt="A complete hand-drawn rake with a wooden handle and metal tines" width="1402" height="1122" />
                 </figure>
               </div>
             </MeaningItem>
@@ -199,7 +199,7 @@ export function MuckRakeIntro({ onBack, onReadText }: MuckRakeIntroProps) {
                   aria-expanded={metaphorExplained}
                   aria-controls="bunyan-metaphor-explanation"
                 >
-                  <img src="/media/bunyan-man-with-muck-rake.png" alt="The Man with the Muck-rake and a quotation from The Pilgrim's Progress" width="600" height="370" />
+                  <img src="https://assets.negentropylearning.com.cn/media/bunyan-man-with-muck-rake.png" alt="The Man with the Muck-rake and a quotation from The Pilgrim's Progress" width="600" height="370" />
                   <span>{metaphorExplained ? "The clue is open" : "Click the image to read the clue"}</span>
                 </button>
                 <div id="bunyan-metaphor-explanation" className="muck-rake-click-reveal" hidden={!metaphorExplained}>
@@ -228,7 +228,7 @@ export function MuckRakeIntro({ onBack, onReadText }: MuckRakeIntroProps) {
                       onClick={() => setModernStage("roosevelt-explained")}
                       aria-expanded={modernStage === "roosevelt-explained"}
                     >
-                      <img src="/roosevelt-muck-rake-quotation.png" alt="Theodore Roosevelt and his quotation about the men with the muck-rake" width="651" height="307" />
+                      <img src="https://assets.negentropylearning.com.cn/roosevelt-muck-rake-quotation.png" alt="Theodore Roosevelt and his quotation about the men with the muck-rake" width="651" height="307" />
                       <span>{modernStage === "roosevelt" ? "Click the quotation to examine Roosevelt’s warning" : "Roosevelt’s clue is open"}</span>
                     </button>
                     {modernStage === "roosevelt-explained" && (
@@ -252,8 +252,8 @@ export function MuckRakeIntro({ onBack, onReadText }: MuckRakeIntroProps) {
 
                 {modernStage === "cartoon" && (
                   <div className="modern-evidence-step">
-                    <button type="button" className="muck-rake-image-evidence cartoon-evidence" onClick={() => setZoomImage("/media/muckrakers-corruption-cartoon.png")}>
-                      <img src="/media/muckrakers-corruption-cartoon.png" alt="A color cartoon showing muckrakers confronting corruption" width="1024" height="699" />
+                    <button type="button" className="muck-rake-image-evidence cartoon-evidence" onClick={() => setZoomImage("https://assets.negentropylearning.com.cn/media/muckrakers-corruption-cartoon.png")}>
+                      <img src="https://assets.negentropylearning.com.cn/media/muckrakers-corruption-cartoon.png" alt="A color cartoon showing muckrakers confronting corruption" width="1024" height="699" />
                       <span>Read the picture first. Click to look closely.</span>
                     </button>
                   </div>
@@ -284,8 +284,8 @@ export function MuckRakeIntro({ onBack, onReadText }: MuckRakeIntroProps) {
                 {modernStage === "summary" && (
                   <div className="muck-rake-summary-step">
                     <p className="muck-rake-summary-label">SUMMARY · FROM TOOL TO PUBLIC WATCHDOG</p>
-                    <button type="button" className="muck-rake-image-evidence timeline-evidence" onClick={() => setZoomImage("/media/century-of-muckraking-timeline.png")}>
-                      <img src="/media/century-of-muckraking-timeline.png" alt="A Century of Muckraking timeline showing key moments from 1903 to 2000" width="1000" height="599" />
+                    <button type="button" className="muck-rake-image-evidence timeline-evidence" onClick={() => setZoomImage("https://assets.negentropylearning.com.cn/media/century-of-muckraking-timeline.png")}>
+                      <img src="https://assets.negentropylearning.com.cn/media/century-of-muckraking-timeline.png" alt="A Century of Muckraking timeline showing key moments from 1903 to 2000" width="1000" height="599" />
                       <span>Click the timeline to look closely</span>
                     </button>
                     <p className="muck-rake-summary-sentence">A literal rake became a metaphor, then a name for journalism that exposes wrongdoing in public life.</p>
@@ -344,7 +344,7 @@ function LifePortrait({ onOpenInvestigation, onOpenThenNow }: { onOpenInvestigat
         <div className="steffens-fact-file-grid">
           <figure>
             <img
-              src="/media-local/lincoln-steffens-news-background.webp"
+              src="https://assets.negentropylearning.com.cn/media-local/lincoln-steffens-news-background.webp"
               alt="A pencil portrait of Lincoln Steffens"
               width="1254"
               height="1254"

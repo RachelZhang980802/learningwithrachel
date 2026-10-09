@@ -55,15 +55,51 @@
 .word-related section+section{margin-top:22px}
 .word-related h3,.word-press h3{font:16px/1.5 "Absolutely Vintage","Special Elite",Georgia,serif;color:var(--study-rust);margin:0 0 12px;padding-bottom:8px;border-bottom:1px dotted #c6b694}
 .word-related p,.word-other p{font:15px/1.85 Georgia,"Songti SC",serif;white-space:pre-wrap;margin:0;overflow-wrap:anywhere}
+.collocation-list{display:grid;gap:7px;font:15px/1.85 Georgia,"Songti SC",serif}
+.collocation-line{display:flex;flex-wrap:wrap;gap:0 8px;align-items:baseline;white-space:pre-wrap;overflow-wrap:anywhere}
+.collocation-phrase{color:inherit}
+.collocation-phrase.is-everyday{background:#e8c5bd;color:#5f4039;padding:1px 4px;border-radius:3px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.collocation-translation{color:#655a4c}
+.word-family-reminder{margin:12px 0 18px;border-left:3px solid #c99192;background:#f0d5d2;color:#5f4a43}
+.word-family-reminder summary{padding:10px 14px;color:#895b58;font:14px/1.4 Georgia,"Songti SC",serif;cursor:pointer;list-style:none}
+.word-family-reminder summary::-webkit-details-marker{display:none}
+.word-family-reminder summary::after{content:"+";float:right;color:#895b58;font:18px/1 Arial,sans-serif}
+.word-family-reminder[open] summary::after{content:"−"}
+.word-family-reminder summary:focus-visible{outline:2px solid #895b58;outline-offset:-2px}
+.word-family-reminder-body{padding:0 14px 11px}
+.word-family-reminder p{font-size:14px!important;line-height:1.7!important;margin:0 0 7px!important}
+.word-family-reminder p:last-child{margin-bottom:0!important}
+.word-family-reminder b{color:#754a46}
+.word-family-reminder-explanations{margin:4px 0 8px;padding-left:20px;font:14px/1.7 Georgia,"Songti SC",serif}
+.word-family-reminder-explanations li{margin:2px 0}
+.word-family-reminder-rule{padding-top:6px;border-top:1px solid #d2a9a6}
 .word-other{margin-top:20px;padding-top:14px;border-top:1px solid var(--study-rule)}
 .word-other h3{margin:0 0 10px;color:#8c653d;font:16px/1.5 "Absolutely Vintage","Special Elite",Georgia,serif}
 .word-other p{font-size:16px}
+.meaning-examples{display:grid;gap:8px;margin-top:10px}
+.meaning-example{border:1px solid transparent;border-radius:6px;overflow:hidden}
+.meaning-example.is-open{border-color:#d5c5a8;background:#f8f0e14d}
+.meaning-example-trigger{display:grid;grid-template-columns:24px minmax(0,1fr) 22px;align-items:start;gap:10px;width:100%;padding:9px 8px;border:0;background:transparent;color:inherit;text-align:left;cursor:pointer;font:inherit}
+.meaning-example-trigger:hover{background:#ede0bb66}
+.meaning-example-trigger:focus-visible{outline:3px solid #846931;outline-offset:-2px}
+.meaning-example-trigger-static{grid-template-columns:24px minmax(0,1fr);cursor:default}
+.meaning-example-trigger-static:hover{background:transparent}
+.meaning-example-number{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:#ead29a;color:#80523b;font:12px/1 Arial,sans-serif}
+.meaning-example-empty .meaning-example-number{background:#d2d0ca;color:#66635d}
+.meaning-example-copy{display:grid;gap:3px;min-width:0}
+.meaning-example-en{display:block;color:#3f382e;font:16px/1.65 Georgia,serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.meaning-example-zh{display:block;color:#655a4c;font:16px/1.7 Georgia,"Songti SC",serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.meaning-example-caret{color:#8c653d;font:20px/1 Arial,sans-serif;text-align:center}
+.meaning-example-answer{margin:0 8px 10px 42px;padding:10px 12px;border-left:2px solid #b99a57;background:#ede0bb66}
+.meaning-example-label{margin:0 0 4px!important;color:#8c653d!important;font:12px/1.4 Arial,sans-serif!important;letter-spacing:.08em}
+.meaning-example-answer .meaning-example-en,.meaning-example-answer .meaning-example-zh{font-size:15px;line-height:1.75}
 .word-family-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:8px}.word-family-heading h3{margin:0!important}.word-family-heading button{border:1px solid #b99776;border-radius:999px;background:#f8f0e1;padding:6px 11px;color:#80523b;font:13px/1.3 Georgia,"Songti SC",serif;cursor:pointer}.word-family-prompt{font-size:13px!important;color:#827463;margin-bottom:10px!important}.word-family-game ol{margin:0;padding-left:22px;font:15px/1.9 Georgia,"Songti SC",serif;white-space:pre-wrap}.word-family-game li::marker{color:#9b7654}
 .word-dictionary{display:inline-block;color:#886b47;font-size:12px;margin-top:18px}
 .word-press{border-top:1px solid var(--study-rule);padding:24px 26px}
 .word-press blockquote{margin:14px 0 0;white-space:pre-wrap;overflow-wrap:anywhere;font:17px/1.8 Georgia,"Songti SC",serif}
 .word-press blockquote p{margin:0}
-.word-press a{font:12px/1.6 Arial,sans-serif;color:#8d5e3e;text-underline-offset:3px}
+.word-press a{font:12px/1.6 Arial,sans-serif;color:#77736e;text-underline-offset:3px}
+.word-press a:hover{color:#4e4b47}
 .word-press .word-press-source{display:block;margin-top:10px;white-space:normal;overflow-wrap:anywhere}
 .word-press-highlight{background:#e8c76c;color:inherit;padding:1px 3px;border-radius:2px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
 .word-muted{color:#998770;font-size:14px}.word-empty{padding:36px}
@@ -199,12 +235,21 @@
 /* Selectable paper files below the original sentence. */
 .word-file-desk{display:grid;grid-template-columns:minmax(175px,29%) minmax(0,1fr);padding:24px 20px 30px;align-items:stretch}
 .word-file-tabs{display:flex;flex-direction:column;gap:10px;padding:16px 0;position:relative;z-index:1}
-.word-file-tab{display:flex;align-items:center;gap:16px;width:calc(100% + 15px);min-height:78px;padding:15px 18px;border:0;border-left:5px solid #bd9b8b;background:#ded6bf;color:#5b4e42;text-align:left;cursor:pointer;transition:transform .18s,outline-color .18s;outline:2px solid transparent;outline-offset:5px}
+.word-file-tab{display:flex;align-items:center;gap:16px;width:calc(100% + 15px);min-height:clamp(88px,7vw,108px);padding:clamp(17px,1.4vw,24px) 18px;border:0;border-left:5px solid #bd9b8b;background:#ded6bf;color:#5b4e42;text-align:left;cursor:pointer;transition:transform .18s,outline-color .18s;outline:2px solid transparent;outline-offset:5px}
 .word-file-compare{background:#eee2b7}.word-file-collocations{background:#d8e0dc}.word-file-usage{background:#e0d7cb}.word-file-press{background:#e8d0c2}
 .word-file-tab:hover{transform:translateX(4px)}.word-file-tab[aria-pressed=true]{outline-color:#b99382}.word-file-tab:focus-visible{outline:3px solid #956951}
-.word-file-number{font:18px "Absolutely Vintage","Special Elite",monospace;color:#a16451}.word-file-tab strong{display:block;font:15px/1.4 "Absolutely Vintage","Special Elite",serif;font-weight:400}.word-file-tab small{display:block;font:12px/1.5 Georgia,"Songti SC",serif;color:#827463;margin-top:7px}
+.word-file-number{font:clamp(24px,1.9vw,30px)/1.1 "Absolutely Vintage","Special Elite",monospace;color:#a16451}.word-file-tab strong{display:block;font:clamp(20px,1.55vw,24px)/1.3 "Absolutely Vintage","Special Elite",serif;font-weight:400}.word-file-tab small{display:block;font:clamp(15px,1.15vw,17px)/1.5 Georgia,"Songti SC",serif;color:#827463;margin-top:8px}
 .word-file-paper{min-width:0;min-height:440px;background:#f2e9d7;border:1px solid #ddd1bc;outline:10px solid #f2e9d799;padding:35px 30px 35px 40px;display:flex;align-items:center;justify-content:center}.word-file-paper.is-open{display:block}.word-file-paper>div{min-width:0}.word-file-hint{color:#978674;font:16px/1.8 "Absolutely Vintage","Special Elite","Songti SC",serif;text-align:center}
-.word-file-paper .word-related{border:0;padding:0}.word-file-paper .word-press{border:0;padding:0}.word-file-paper .word-primary h2{font-size:clamp(26px,3.5vw,40px)}
+.word-file-paper .word-related{border:0;padding:0}.word-file-paper .word-press{border:0;padding:0}.word-file-paper .word-primary h2{font-size:clamp(52px,5.4vw,80px);line-height:1.06;margin-bottom:clamp(18px,1.8vw,26px)}
+.word-file-paper .word-pronunciation{font-size:clamp(22px,1.9vw,28px);line-height:1.4;gap:clamp(18px,2vw,28px);padding-bottom:clamp(18px,1.6vw,24px)}
+.word-file-paper .word-context-meaning h3,.word-file-paper .word-related h3,.word-file-paper .word-press h3,.word-file-paper .word-other h3{font-size:clamp(24px,2vw,30px);line-height:1.35;margin-bottom:clamp(12px,1.2vw,18px)}
+.word-file-paper .word-definition,.word-file-paper .word-related p,.word-file-paper .word-other p,.word-file-paper .word-press blockquote,.word-file-paper .word-translation p{font-size:clamp(18px,1.35vw,22px);line-height:1.75}
+.word-file-paper .word-related section+section{margin-top:clamp(24px,2vw,32px)}
+.word-file-paper .word-related .word-family-prompt,.word-file-paper .word-family-game ol,.word-file-paper .word-press>p,.word-file-paper .word-press blockquote,.word-file-paper .word-translation p,.word-file-paper .collocation-list{font-size:clamp(18px,1.35vw,22px)!important;line-height:1.75}
+.word-file-paper .word-family-heading button{font-size:clamp(15px,1.05vw,18px);line-height:1.4;padding-block:8px}
+.word-file-paper .word-translation summary{font-size:clamp(18px,1.2vw,20px);line-height:1.5}
+.word-file-paper .word-press-source,.word-file-paper .word-dictionary{font-size:clamp(15px,1vw,17px);line-height:1.6}
+.word-file-paper .word-other>summary{font-size:clamp(20px,1.5vw,24px);line-height:1.4}
 @media(max-width:600px){.word-file-desk{grid-template-columns:1fr;padding:16px}.word-file-tabs{flex-direction:row;flex-wrap:wrap;gap:8px;padding:0 0 20px}.word-file-tab{width:auto;flex:1 1 130px;min-height:64px;padding:10px;gap:9px}.word-file-tab[aria-pressed=true]{outline-offset:1px}.word-file-paper{padding:24px;min-height:280px;outline-width:5px}.word-file-hint{font-size:14px}}
 
 .structure-review-note{font:15px/1.9 Georgia,"Songti SC",serif;color:#514b3e;border-left:3px solid #b79c6b;padding:12px 18px;background:#eee5d366;margin:22px 0;white-space:normal}

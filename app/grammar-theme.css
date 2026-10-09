@@ -16,7 +16,7 @@
 .student-workspace-v2[data-article-id] .grammar-colour-legend>span b{font:600 14px/1.4 Georgia,serif}
 .student-workspace-v2[data-article-id] .grammar-colour-legend i{width:9px;height:9px;display:inline-block;border-radius:2px;background:var(--grammar-colour)}
 .student-workspace-v2[data-article-id] .grammar-colour-legend small{font-size:13px;color:#716958}
-.student-workspace-v2[data-article-id] .notebook-analysis-card{position:relative;border:1px solid #c6b798;border-radius:3px 20px 5px 7px;background:linear-gradient(100deg,#fffaf1d9,#f5ecd6aa),url('/sentence-studio/paper-sheet.png') center bottom/115% 130% no-repeat;box-shadow:0 2px 2px #5c48291c,0 9px 17px -9px #513e3b66,inset 0 1px 0 #fffef7;isolation:isolate}
+.student-workspace-v2[data-article-id] .notebook-analysis-card{position:relative;border:1px solid #c6b798;border-radius:3px 20px 5px 7px;background:linear-gradient(100deg,#fffaf1d9,#f5ecd6aa),url('https://assets.negentropylearning.com.cn/sentence-studio/paper-sheet.png') center bottom/115% 130% no-repeat;box-shadow:0 2px 2px #5c48291c,0 9px 17px -9px #513e3b66,inset 0 1px 0 #fffef7;isolation:isolate}
 .student-workspace-v2[data-article-id] .notebook-analysis-card:after{content:"";position:absolute;right:0;top:0;width:24px;height:24px;background:linear-gradient(225deg,#ede2cc 48%,#cfc0a4 50%,#f9f2e3 55%);border-radius:0 18px 0 5px;box-shadow:-2px 2px 4px #735b2821;pointer-events:none;z-index:-1}
 .student-workspace-v2[data-article-id] .notebook-analysis-card>header{padding:21px 26px;gap:20px}
 .student-workspace-v2[data-article-id] .notebook-analysis-card h2{font-size:1.25rem;letter-spacing:.01em}

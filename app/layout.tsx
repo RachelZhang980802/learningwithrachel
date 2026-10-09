@@ -3,6 +3,7 @@ import "./globals.css";
 import "./student-workspace.css";
 import "./grammar-theme.css";
 import "./editable-text.css";
+import "./article-one-quiz.css";
 import { EditableTextLayer } from "./EditableTextLayer";
 
 export const metadata: Metadata = {

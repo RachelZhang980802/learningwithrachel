@@ -1,4 +1,5 @@
 import audioManifest from "../public/audio/article-05/manifest.json";
+import { toMediaUrl } from "./mediaUrl";
 
 export type Article05Sentence = {
   sentenceId: string;
@@ -13,11 +14,11 @@ export type Article05Sentence = {
 
 export const article05StudioConfig = {
   articleId: "05",
-  lineArtSrc: "/media/article05-courage-lineart.png",
-  catSrc: "/media/article05-courage-cat.png",
+  lineArtSrc: "https://assets.negentropylearning.com.cn/media/article05-courage-lineart.png",
+  catSrc: "https://assets.negentropylearning.com.cn/media/article05-courage-cat.png",
   paragraphs: 32,
   sentences: audioManifest.sentences.map((sentence) => ({
     ...sentence,
-    audioSrc: `/media${sentence.audioSrc}`,
+    audioSrc: toMediaUrl(`/media${sentence.audioSrc}`),
   })) as Article05Sentence[],
 } as const;

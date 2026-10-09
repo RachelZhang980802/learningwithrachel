@@ -2,13 +2,13 @@
   "02": {
     "articleId": "02",
     "title": "Should the Robots Be Taxed?",
-    "catSrc": "/media/cat-robot-dream-mascot.png?v=1",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/cat-robot-dream-mascot.png?v=1",
     "sentences": [
       {
         "text": "A video of Bill Gates suggesting that robots should be taxed is going viral in the news and social media.",
         "paragraph": 1,
         "id": 1,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-01.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-01.mp3?v=20260827-robots",
         "translation": "比尔·盖茨提议对机器人征税的一段视频，正在新闻和社交媒体上迅速走红。",
         "paraphrase": "A video in which Bill Gates proposes taxing robots is spreading rapidly through news outlets and social media.",
         "classification": {
@@ -83,7 +83,7 @@
         "text": "This idea of universal income and taxing robots is gaining ground.",
         "paragraph": 2,
         "id": 2,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-02.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-02.mp3?v=20260827-robots",
         "translation": "这种全民收入与向机器人征税的想法，正逐渐获得支持。",
         "paraphrase": "The proposal to provide income for everyone and tax robots is attracting growing support.",
         "classification": {
@@ -145,7 +145,7 @@
         "text": "Sometime in June, a draft report was submitted to the European Parliament that states:",
         "paragraph": 2,
         "id": 3,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-03.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-03.mp3?v=20260827-robots",
         "translation": "六月的某个时候，一份草案报告被提交给欧洲议会，报告中写道：",
         "paraphrase": "At some point in June, a draft report containing the following proposal was presented to the European Parliament.",
         "classification": {
@@ -224,7 +224,7 @@
         "text": "If advanced robots start replacing human workers in large numbers, the report recommends the European Commission force their owners to pay taxes or contribute to social security.",
         "paragraph": 2,
         "id": 4,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-04.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-04.mp3?v=20260827-robots",
         "translation": "如果先进机器人开始大量取代人类工人，报告建议欧盟委员会要求机器人的所有者缴税或缴纳社会保障费用。",
         "paraphrase": "The report advises requiring robot owners to pay taxes or social security contributions if advanced robots replace large numbers of workers.",
         "classification": {
@@ -314,7 +314,7 @@
         "text": "The establishment of a basic income, or guaranteed welfare program, is also suggested as a protection against human unemployment.",
         "paragraph": 2,
         "id": 5,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-05.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-05.mp3?v=20260827-robots",
         "translation": "还建议设立基本收入——也就是有保障的福利计划——以防范人类失业带来的风险。",
         "paraphrase": "A guaranteed basic income or welfare scheme is also proposed to protect people against unemployment.",
         "classification": {
@@ -374,7 +374,7 @@
         "text": "I see robots as tools that make a job easier or do things much faster or much better or much cheaper.",
         "paragraph": 3,
         "id": 6,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-06.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-06.mp3?v=20260827-robots",
         "translation": "我把机器人看作工具：它们使工作更容易，或把事情做得更快、更好、更便宜。",
         "paraphrase": "To me, robots are tools that simplify work or perform tasks faster, better or more cheaply.",
         "classification": {
@@ -438,7 +438,7 @@
         "text": "Throughout human history, we have used various forms of tools, from stone to metal to water to air to wood to coal to oil, and to electricity to achieve transformations in our lives.",
         "paragraph": 3,
         "id": 7,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-07.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-07.mp3?v=20260827-robots",
         "translation": "纵观人类历史，我们使用了各种工具，从石头、金属、水、空气、木材、煤、石油直到电力，以改变生活。",
         "paraphrase": "Throughout history, people have used many kinds of tools and sources of power to change their lives.",
         "classification": {
@@ -503,7 +503,7 @@
         "text": "During each of these stages, there were a lot of people who lost their jobs and the next generation learned new skills to stay relevant.",
         "paragraph": 3,
         "id": 8,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-08.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-08.mp3?v=20260827-robots",
         "translation": "在这些阶段中，总有许多人失去工作，而下一代学习新技能以适应变化。",
         "paraphrase": "At every stage, many people lost work, while the following generation acquired new skills to remain useful.",
         "classification": {
@@ -598,7 +598,7 @@
         "text": "A case in point is below:",
         "paragraph": 3,
         "id": 9,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-09.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-09.mp3?v=20260827-robots",
         "translation": "下面就是一个切合的例子：",
         "paraphrase": "The following example illustrates this point.",
         "classification": {
@@ -654,7 +654,7 @@
         "text": "Textile factories organized workers' lives much differently from craft production.",
         "paragraph": 3,
         "id": 10,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-10.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-10.mp3?v=20260827-robots",
         "translation": "纺织厂组织工人生活的方式，与手工业生产大不相同。",
         "paraphrase": "Working in textile factories shaped workers' lives very differently from producing goods by hand.",
         "classification": {
@@ -719,7 +719,7 @@
         "text": "Handloom weavers worked at their own pace, with their own tools, and within their own cottages.",
         "paragraph": 3,
         "id": 11,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-11.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-11.mp3?v=20260827-robots",
         "translation": "手织工按自己的节奏，用自己的工具，在自己的小屋里工作。",
         "paraphrase": "Weavers using hand-operated looms worked in their own homes, with their own equipment, at a pace they chose.",
         "classification": {
@@ -802,7 +802,7 @@
         "text": "Factories set hours of work, and the machinery within them shaped the pace of work.",
         "paragraph": 3,
         "id": 12,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-12.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-12.mp3?v=20260827-robots",
         "translation": "工厂规定了工时，而厂内的机器决定了工作的节奏。",
         "paraphrase": "Factories determined working hours, while their machines determined how fast people worked.",
         "classification": {
@@ -878,7 +878,7 @@
         "text": "Factories brought workers together within one building to work on machinery that they did not own.",
         "paragraph": 3,
         "id": 13,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-13.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-13.mp3?v=20260827-robots",
         "translation": "工厂把工人集中到一座建筑中，让他们操作并不属于自己的机器。",
         "paraphrase": "Factories gathered workers in one building to operate machines belonging to someone else.",
         "classification": {
@@ -947,7 +947,7 @@
         "text": "Factories also increased the division of labor.",
         "paragraph": 3,
         "id": 14,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-14.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-14.mp3?v=20260827-robots",
         "translation": "工厂还增加了劳动分工。",
         "paraphrase": "Factories also divided production into more specialized jobs.",
         "classification": {
@@ -1008,7 +1008,7 @@
         "text": "They narrowed the number and scope of tasks.",
         "paragraph": 3,
         "id": 15,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-15.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-15.mp3?v=20260827-robots",
         "translation": "它们减少了任务的数量，也缩小了任务范围。",
         "paraphrase": "They reduced both how many tasks workers performed and how broad those tasks were.",
         "classification": {
@@ -1065,7 +1065,7 @@
         "text": "They included children and women within a common production process.",
         "paragraph": 3,
         "id": 16,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-16.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-16.mp3?v=20260827-robots",
         "translation": "它们把儿童和妇女也纳入共同的生产过程。",
         "paraphrase": "They brought women and children into the same production system.",
         "classification": {
@@ -1114,7 +1114,7 @@
         "text": "While weavers lost their jobs, their kids and families got their jobs in factories and in other firms.",
         "paragraph": 4,
         "id": 17,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-17.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-17.mp3?v=20260827-robots",
         "translation": "织工虽然失去了工作，他们的子女和家人却在工厂和其他企业获得了工作。",
         "paraphrase": "Although weavers lost their work, their children and other family members found jobs in factories and other businesses.",
         "classification": {
@@ -1183,7 +1183,7 @@
         "text": "Now that the factories are getting closed and replaced with robots, factory workers' kids might become knowledge workers.",
         "paragraph": 4,
         "id": 18,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-18.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-18.mp3?v=20260827-robots",
         "translation": "如今工厂正关闭并被机器人取代，工厂工人的子女可能会成为知识工作者。",
         "paraphrase": "Since factories are now closing and being replaced by robots, factory workers' children may move into knowledge-based work.",
         "classification": {
@@ -1247,7 +1247,7 @@
         "text": "But there will always be a lag and some population will be left behind.",
         "paragraph": 4,
         "id": 19,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-19.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-19.mp3?v=20260827-robots",
         "translation": "但转型总会有一段滞后期，也总会有部分人被落下。",
         "paraphrase": "Yet the transition will always take time, and some people will fail to keep up.",
         "classification": {
@@ -1319,7 +1319,7 @@
         "text": "The side effect of automation was the number of families and kids in our families.",
         "paragraph": 5,
         "id": 20,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-20.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-20.mp3?v=20260827-robots",
         "translation": "自动化的一项附带影响，体现在家庭的数量和家庭中子女的数量上。",
         "paraphrase": "One consequence of automation was a change in family patterns, including the number of children.",
         "classification": {
@@ -1375,7 +1375,7 @@
         "text": "When muscle power was strength, the number of kids in a family, and the number of men in particular, was a sign of prosperity.",
         "paragraph": 5,
         "id": 21,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-21.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-21.mp3?v=20260827-robots",
         "translation": "在体力意味着实力的时代，一家子女的数量，尤其是男性的数量，是富足的标志。",
         "paraphrase": "When physical strength was an important asset, having many children, especially males, indicated that a family was prosperous.",
         "classification": {
@@ -1448,7 +1448,7 @@
         "text": "However, as we went through this progress, the birth rate plummeted and it is worth watching other social trends like more single people, lower marriage rates, more married couples with no kids, etc.",
         "paragraph": 5,
         "id": 22,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-22.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-22.mp3?v=20260827-robots",
         "translation": "然而，在这一发展过程中，出生率骤降；单身者增加、结婚率下降、已婚无子女家庭增多等其他社会趋势，也值得关注。",
         "paraphrase": "As society developed, birth rates fell sharply; other changes in relationships and family life also deserve attention.",
         "classification": {
@@ -1548,7 +1548,7 @@
         "text": "The world is also seeing another trend!",
         "paragraph": 6,
         "id": 23,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-23.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-23.mp3?v=20260827-robots",
         "translation": "世界还呈现出另一个趋势！",
         "paraphrase": "Another worldwide change is taking place.",
         "classification": {
@@ -1593,7 +1593,7 @@
         "text": "It is getting older.",
         "paragraph": 6,
         "id": 24,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-24.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-24.mp3?v=20260827-robots",
         "translation": "世界人口正在老龄化。",
         "paraphrase": "The world's population is ageing.",
         "classification": {
@@ -1638,7 +1638,7 @@
         "text": "But an older population may not be as bad as we think.",
         "paragraph": 6,
         "id": 25,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-25.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-25.mp3?v=20260827-robots",
         "translation": "但人口老龄化或许并没有我们想的那么糟。",
         "paraphrase": "An ageing population, however, may be less harmful than we imagine.",
         "classification": {
@@ -1706,7 +1706,7 @@
         "text": "One theory is that our future generation will live in a resource-constrained world and therefore learn to conserve resources.",
         "paragraph": 6,
         "id": 26,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-26.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-26.mp3?v=20260827-robots",
         "translation": "一种观点认为，未来一代将生活在资源受限的世界，因此会学会节约资源。",
         "paraphrase": "According to one theory, the next generation will face limited resources and will therefore learn to use them carefully.",
         "classification": {
@@ -1766,7 +1766,7 @@
         "text": "As Bill Gates argues, spare human capacity has already been put to better use to provide education and research leading to even better knowledge, health care and wealth for all of us.",
         "paragraph": 7,
         "id": 27,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-27.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-27.mp3?v=20260827-robots",
         "translation": "正如比尔·盖茨所说，人类腾出的能力已经被用于更有价值的教育和研究，进而为所有人带来更丰富的知识、更好的医疗和更多财富。",
         "paraphrase": "Gates points out that human effort freed up by technology has already supported education and research, improving knowledge, health care and prosperity.",
         "classification": {
@@ -1847,7 +1847,7 @@
         "text": "However, this has not been uniform as the per capita income growth has been skewed toward developed nations.",
         "paragraph": 7,
         "id": 28,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-28.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-28.mp3?v=20260827-robots",
         "translation": "然而，这种进展并不均衡，因为人均收入的增长更多地集中在发达国家。",
         "paraphrase": "Those benefits have not been shared equally, however, because growth in income per person has favoured developed countries.",
         "classification": {
@@ -1916,7 +1916,7 @@
         "text": "The biggest argument Bill Gates makes is on the taxes.",
         "paragraph": 8,
         "id": 29,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-29.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-29.mp3?v=20260827-robots",
         "translation": "比尔·盖茨提出的最主要论点与税收有关。",
         "paraphrase": "Gates's main argument concerns taxation.",
         "classification": {
@@ -1970,7 +1970,7 @@
         "text": "As machines are replacing human workers, these robots don't get paid and this leads to the lower taxes for the government.",
         "paragraph": 8,
         "id": 30,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-30.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-30.mp3?v=20260827-robots",
         "translation": "随着机器取代人类工人，机器人不领取工资，这就使政府收到的税款减少。",
         "paraphrase": "As machines take over people's jobs without receiving wages, governments collect less tax from paid employment.",
         "classification": {
@@ -2051,7 +2051,7 @@
         "text": "But what we fail to see is that this also leads to higher profits for corporations, which pay higher taxes.",
         "paragraph": 8,
         "id": 31,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-31.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-31.mp3?v=20260827-robots",
         "translation": "但我们没有看到的是：这也提高了公司的利润，而公司会缴纳更多税款。",
         "paraphrase": "What we overlook, however, is that this change also raises company profits, and those companies pay more tax.",
         "classification": {
@@ -2127,7 +2127,7 @@
         "text": "Also, there is a cost to making robots and investing in such technologies.",
         "paragraph": 8,
         "id": 32,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-32.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-32.mp3?v=20260827-robots",
         "translation": "此外，制造机器人和投资这些技术也有成本。",
         "paraphrase": "Furthermore, building robots and investing in this technology costs money.",
         "classification": {
@@ -2192,7 +2192,7 @@
         "text": "This creates a different kind of job, different levels of salaries and different taxes, maybe in a different part of the country or in different parts of the world altogether.",
         "paragraph": 8,
         "id": 33,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-33.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-33.mp3?v=20260827-robots",
         "translation": "这会创造不同种类的工作、不同水平的薪酬和不同的税收，而这些可能出现在国内别处，甚至世界其他地区。",
         "paraphrase": "This generates different jobs, pay levels and tax revenues, possibly in other regions or countries.",
         "classification": {
@@ -2245,7 +2245,7 @@
         "text": "Now, that's a flashpoint.",
         "paragraph": 8,
         "id": 34,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-34.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-34.mp3?v=20260827-robots",
         "translation": "那么，这就成了一个可能引发冲突的焦点。",
         "paraphrase": "That is where serious disagreement may arise.",
         "classification": {
@@ -2290,7 +2290,7 @@
         "text": "But this too shall pass.",
         "paragraph": 8,
         "id": 35,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-35.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-35.mp3?v=20260827-robots",
         "translation": "不过，这一关也终将过去。",
         "paraphrase": "Yet this difficulty, too, will eventually pass.",
         "classification": {
@@ -2340,7 +2340,7 @@
         "text": "We have seen the era of boycotting machine-made fabric and automobiles when they were seen as a threat at some point.",
         "paragraph": 8,
         "id": 36,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-36.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-36.mp3?v=20260827-robots",
         "translation": "我们也经历过抵制机制布和汽车的时代，那时它们一度被视为威胁。",
         "paraphrase": "There was a time when people refused to buy machine-made cloth and cars because they considered them dangerous to their interests.",
         "classification": {
@@ -2405,7 +2405,7 @@
         "text": "Today, they have become an essential part of our lives.",
         "paragraph": 8,
         "id": 37,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-37.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-37.mp3?v=20260827-robots",
         "translation": "如今，它们已经成为我们生活中不可或缺的一部分。",
         "paraphrase": "Now those products are indispensable to everyday life.",
         "classification": {
@@ -2466,7 +2466,7 @@
         "text": "I hear people complaining about the speed at which these changes happen and that we are unable to provide jobs or create newer skills.",
         "paragraph": 9,
         "id": 38,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-38.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-38.mp3?v=20260827-robots",
         "translation": "我听到人们抱怨这些变化发生得太快，也抱怨我们无法提供工作或培养新技能。",
         "paraphrase": "People complain both that change happens too quickly and that we cannot create enough jobs or develop new skills.",
         "classification": {
@@ -2547,7 +2547,7 @@
         "text": "But, think of the speed at which horses were replaced by rail roads, cars and trucks; the speed at which passenger ships were replaced by airlines.",
         "paragraph": 9,
         "id": 39,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-39.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-39.mp3?v=20260827-robots",
         "translation": "不过，想想铁路、汽车和卡车取代马匹的速度，再想想航空运输取代客轮的速度。",
         "paraphrase": "Consider, though, how quickly trains, cars and trucks replaced horses, and airlines replaced passenger ships.",
         "classification": {
@@ -2603,8 +2603,8 @@
         "paragraphEnd": 281,
         "reuse": {
           "pattern": "Think of the speed at which ___.",
-          "zh": "想想消息在这个小镇上传播的速度。",
-          "en": "Think of the speed at which news travels through this small town."
+          "zh": "想想一条消息在这个小镇上传播的速度。",
+          "en": "Think of the speed at which a message travels through this small town."
         },
         "pdfNotes": [
           {
@@ -2623,7 +2623,7 @@
         "text": "They must have been pretty dramatic changes in those days!",
         "paragraph": 9,
         "id": 40,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-40.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-40.mp3?v=20260827-robots",
         "translation": "在当时，那些变化想必相当剧烈！",
         "paraphrase": "Those changes were surely dramatic for people living through them.",
         "classification": {
@@ -2684,7 +2684,7 @@
         "text": "These were huge job destroyers and also job creators of the other type.",
         "paragraph": 9,
         "id": 41,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-41.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-41.mp3?v=20260827-robots",
         "translation": "这些变化既大量消灭工作，也创造了另一类工作。",
         "paraphrase": "They eliminated many jobs while creating many others of a different kind.",
         "classification": {
@@ -2729,7 +2729,7 @@
         "text": "In all cases, those who lost their jobs did not find work in the new industry.",
         "paragraph": 9,
         "id": 42,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-42.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-42.mp3?v=20260827-robots",
         "translation": "在所有这些情况下，失去原有工作的人，都没有在新行业找到工作。",
         "paraphrase": "In each case, the people who had lost work did not get the jobs in the new industry.",
         "classification": {
@@ -2790,7 +2790,7 @@
         "text": "It was a new breed of skills that found these jobs.",
         "paragraph": 9,
         "id": 43,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-43.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-43.mp3?v=20260827-robots",
         "translation": "真正带来这些就业机会的，是一类新的技能。",
         "paraphrase": "The new jobs went to people with a new set of skills.",
         "classification": {
@@ -2847,7 +2847,7 @@
         "text": "But it took some time.",
         "paragraph": 9,
         "id": 44,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-44.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-44.mp3?v=20260827-robots",
         "translation": "不过，这需要一些时间。",
         "paraphrase": "The transition did not happen immediately.",
         "classification": {
@@ -2896,7 +2896,7 @@
         "text": "These are very visible today because of the speed at which information travels today, amplifying these causes and effects.",
         "paragraph": 9,
         "id": 45,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-45.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-45.mp3?v=20260827-robots",
         "translation": "今天，这些现象格外显眼，因为信息传播很快，把这些因果效应进一步放大了。",
         "paraphrase": "Today these processes are particularly noticeable because information spreads quickly, magnifying their causes and consequences.",
         "classification": {
@@ -2977,7 +2977,7 @@
         "text": "In summary, I would argue that we have always been automating.",
         "paragraph": 10,
         "id": 46,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-46.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-46.mp3?v=20260827-robots",
         "translation": "总之，我认为人类一直都在推进自动化。",
         "paraphrase": "To sum up, I believe automation has been happening throughout our history.",
         "classification": {
@@ -3030,7 +3030,7 @@
         "text": "I see the world as a system and when the system gets disrupted, it takes a while to get to the equilibrium and that is painful.",
         "paragraph": 10,
         "id": 47,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-47.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-47.mp3?v=20260827-robots",
         "translation": "我把世界看成一个系统；当系统受到扰动时，恢复均衡需要时间，而这个过程是痛苦的。",
         "paraphrase": "I regard the world as a system: after a disruption, restoring its balance takes time and causes hardship.",
         "classification": {
@@ -3124,7 +3124,7 @@
         "text": "We are going through that painful phase now and it needs empathy, compassion and social responsibility.",
         "paragraph": 10,
         "id": 48,
-        "audioSrc": "/media/audio-robots-sentences/robot-sentence-48.mp3?v=20260827-robots",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-48.mp3?v=20260827-robots",
         "translation": "我们正在经历这个痛苦的阶段，这需要共情、体恤和社会责任感。",
         "paraphrase": "We are now experiencing that difficult transition, which calls for understanding, concern for others and social responsibility.",
         "classification": {
@@ -4572,13 +4572,13 @@
   "03": {
     "articleId": "03",
     "title": "Roommates",
-    "catSrc": "/media/cat-roommates-mascot.png?v=1",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/cat-roommates-mascot.png?v=1",
     "sentences": [
       {
         "text": "I came rather late to understanding myself in the cycle of life.",
         "paragraph": 1,
         "id": 1,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-01.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-01.mp3?v=20260828-forced-alignment",
         "translation": "我很晚才开始理解自己在生命轮回中的位置。",
         "paraphrase": "It took me a long time to understand my own place in the course of a human life.",
         "classification": {
@@ -4650,7 +4650,7 @@
         "text": "Until three years ago, I was a boy in relation to my grandfather.",
         "paragraph": 1,
         "id": 2,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-02.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-02.mp3?v=20260828-forced-alignment",
         "translation": "直到三年前，在我与祖父的关系中，我仍然只是个孩子。",
         "paraphrase": "Until three years earlier, my relationship with my grandfather still made me feel like a boy.",
         "classification": {
@@ -4715,7 +4715,7 @@
         "text": "He lived to 107 and remained mentally and physically capable until the end of his life.",
         "paragraph": 1,
         "id": 3,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-03.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-03.mp3?v=20260828-forced-alignment",
         "translation": "他活到了一百零七岁，直到生命的最后，身心仍然健全有力。",
         "paraphrase": "He reached the age of 107 and retained his mental and physical abilities to the very end.",
         "classification": {
@@ -4791,7 +4791,7 @@
         "text": "A generation after the last of his friends died, he could still mow the lawn on a hot summer afternoon, and he insisted on doing so.",
         "paragraph": 1,
         "id": 4,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-04.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-04.mp3?v=20260828-forced-alignment",
         "translation": "最后一位老友去世整整一代人之后，他仍能在炎热的夏日下午修剪草坪，而且坚持亲自做。",
         "paraphrase": "Long after all his friends had died, he remained able and determined to cut the grass even on a hot summer afternoon.",
         "classification": {
@@ -4879,7 +4879,7 @@
         "text": "I usually wrestled the mower from his grip, but his extraordinary energy I took for granted.",
         "paragraph": 1,
         "id": 5,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-05.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-05.mp3?v=20260828-forced-alignment",
         "translation": "我通常得从他手中抢过割草机，但对他惊人的精力，我却一直视为理所当然。",
         "paraphrase": "I generally struggled to take the mower away from him, yet I never questioned his remarkable energy.",
         "classification": {
@@ -4968,7 +4968,7 @@
         "text": "I had seen it all my life; he was my roommate.",
         "paragraph": 1,
         "id": 6,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-06.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-06.mp3?v=20260828-forced-alignment",
         "translation": "他一生如此，我早已习惯；他一直是我的室友。",
         "paraphrase": "His vitality had always been familiar to me, since we shared a room.",
         "classification": {
@@ -5033,7 +5033,7 @@
         "text": "At my birth he was 64, middle age to him, and he was not a gentle old soul.",
         "paragraph": 2,
         "id": 7,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-07.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-07.mp3?v=20260828-forced-alignment",
         "translation": "我出生时他六十四岁——对他来说不过是中年——而且他并不是一位温和的老人。",
         "paraphrase": "He was 64 when I was born, an age he regarded as middle age, and he was far from a mild old man.",
         "classification": {
@@ -5122,7 +5122,7 @@
         "text": "He argued with the men in the synagogue, screamed at his fellows in the bakery where he worked until his mid-80s.",
         "paragraph": 2,
         "id": 8,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-08.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-08.mp3?v=20260828-forced-alignment",
         "translation": "他在犹太会堂和人争辩，又在面包店朝同伴大嚷；他一直在那里工作到八十多岁。",
         "paraphrase": "He quarrelled with men at the synagogue and shouted at colleagues in the bakery, where he continued working into his mid-eighties.",
         "classification": {
@@ -5204,7 +5204,7 @@
         "text": "He was a lover of strife, even at a distance.",
         "paragraph": 2,
         "id": 9,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-09.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-09.mp3?v=20260828-forced-alignment",
         "translation": "他就是爱纷争，哪怕那些纷争离他很远。",
         "paraphrase": "He enjoyed conflict, even when he was not personally involved.",
         "classification": {
@@ -5265,7 +5265,7 @@
         "text": "For war news he turned up the volume on the television.",
         "paragraph": 2,
         "id": 10,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-10.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-10.mp3?v=20260828-forced-alignment",
         "translation": "一有战争新闻，他就把电视音量调高。",
         "paraphrase": "He raised the television's volume whenever he listened to reports about war.",
         "classification": {
@@ -5325,7 +5325,7 @@
         "text": "We never had to take care of each other, but as I learned to read, I voluntarily became his teacher.",
         "paragraph": 3,
         "id": 11,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-11.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-11.mp3?v=20260828-forced-alignment",
         "translation": "我们原本从不需要互相照顾；但我学会读书后，便自愿当起了他的老师。",
         "paraphrase": "Neither of us needed the other's care, but once I started learning to read, I chose to teach him.",
         "classification": {
@@ -5413,7 +5413,7 @@
         "text": "My grandfather came to the United States from Lithuania before World War I.",
         "paragraph": 3,
         "id": 12,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-12.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-12.mp3?v=20260828-forced-alignment",
         "translation": "第一次世界大战前，祖父从立陶宛来到美国。",
         "paraphrase": "He immigrated to America from Lithuania before the First World War.",
         "classification": {
@@ -5479,7 +5479,7 @@
         "text": "He went to night school, could read and write English.",
         "paragraph": 3,
         "id": 13,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-13.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-13.mp3?v=20260828-forced-alignment",
         "translation": "他上过夜校，能够读写英语。",
         "paraphrase": "He attended evening classes and was able to read and write English.",
         "classification": {
@@ -5546,7 +5546,7 @@
         "text": "Still, I, the emissary of elementary school, considered it my duty to inform him about subtle things like electricity as he got ready for bed after a 12-hour workday.",
         "paragraph": 3,
         "id": 14,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-14.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-14.mp3?v=20260828-forced-alignment",
         "translation": "不过，我这个小学派来的“小使者”，却把向他讲解电之类的奥妙视为己任，往往就在他工作十二小时后准备就寝时开讲。",
         "paraphrase": "Even so, I saw myself as a representative of my primary school and felt obliged to explain complicated subjects such as electricity while he prepared for bed after twelve hours of work.",
         "classification": {
@@ -5633,7 +5633,7 @@
         "text": "He was not too interested in my lectures.",
         "paragraph": 4,
         "id": 15,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-15.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-15.mp3?v=20260828-forced-alignment",
         "translation": "他对我的讲课并不怎么感兴趣。",
         "paraphrase": "My explanations did not interest him much.",
         "classification": {
@@ -5682,7 +5682,7 @@
         "text": "Within minutes, he fell into a deep sleep.",
         "paragraph": 4,
         "id": 16,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-16.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-16.mp3?v=20260828-forced-alignment",
         "translation": "没几分钟，他就沉沉睡去。",
         "paraphrase": "He was sleeping soundly within a few minutes.",
         "classification": {
@@ -5731,7 +5731,7 @@
         "text": "His characteristic snoring pattern was a muted whistle that ended in a great puff of breath.",
         "paragraph": 4,
         "id": 17,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-17.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-17.mp3?v=20260828-forced-alignment",
         "translation": "他那独特的鼾声，先是低低的哨音，末了以一大口呼气收尾。",
         "paraphrase": "His usual snore began as a faint whistling sound and finished with a strong breath.",
         "classification": {
@@ -5795,7 +5795,7 @@
         "text": "But even asleep there was nothing gentle about this man.",
         "paragraph": 4,
         "id": 18,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-18.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-18.mp3?v=20260828-forced-alignment",
         "translation": "但即使睡着了，这个人身上也没有丝毫温和可言。",
         "paraphrase": "Yet sleep did nothing to make him mild.",
         "classification": {
@@ -5852,7 +5852,7 @@
         "text": "He specialized in hating his enemies, even those long dead.",
         "paragraph": 4,
         "id": 19,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-19.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-19.mp3?v=20260828-forced-alignment",
         "translation": "他最擅长的就是痛恨敌人，连死去多年的也不放过。",
         "paraphrase": "He was particularly good at maintaining his hatred of enemies, including people who had died long before.",
         "classification": {
@@ -5916,7 +5916,7 @@
         "text": "As he talked in his sleep, he exploded in anger.",
         "paragraph": 4,
         "id": 20,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-20.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-20.mp3?v=20260828-forced-alignment",
         "translation": "他一说梦话，就会勃然大怒。",
         "paraphrase": "His sleep-talk would burst into furious speech.",
         "classification": {
@@ -5960,8 +5960,8 @@
         "paragraphEnd": 342,
         "reuse": {
           "pattern": "As ___, ___ exploded in ___.",
-          "zh": "当他听到这个消息时，他勃然大怒。",
-          "en": "As he heard the news, he exploded in anger."
+          "zh": "当他听到警报时，他勃然大怒。",
+          "en": "As he heard the alarm, he exploded in anger."
         },
         "pdfNotes": [
           {
@@ -5980,7 +5980,7 @@
         "text": "From his dreams I learned the curse words of English and Yiddish.",
         "paragraph": 4,
         "id": 21,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-21.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-21.mp3?v=20260828-forced-alignment",
         "translation": "我从他的梦话里学会了英语和意第绪语的骂人话。",
         "paraphrase": "His dreaming speech taught me how to swear in both English and Yiddish.",
         "classification": {
@@ -6040,7 +6040,7 @@
         "text": "Cushioned by his puffs of breath, visions of destruction crowded our room.",
         "paragraph": 4,
         "id": 22,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-22.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-22.mp3?v=20260828-forced-alignment",
         "translation": "随着他一阵阵呼气声，毁灭的景象仿佛被托载着，挤满了我们的房间。",
         "paraphrase": "Against the soft sound of his breathing, his words filled our room with imagined scenes of devastation.",
         "classification": {
@@ -6105,7 +6105,7 @@
         "text": "Boils sprouted on the intestines of his enemies.",
         "paragraph": 4,
         "id": 23,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-23.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-23.mp3?v=20260828-forced-alignment",
         "translation": "他的敌人肠子上长满了脓疮。",
         "paraphrase": "In those imagined scenes, sores appeared inside his enemies' intestines.",
         "classification": {
@@ -6162,7 +6162,7 @@
         "text": "Cholera depopulated their villages.",
         "paragraph": 4,
         "id": 24,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-24.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-24.mp3?v=20260828-forced-alignment",
         "translation": "霍乱使他们的村庄人烟凋零。",
         "paraphrase": "Cholera killed the people in their villages.",
         "classification": {
@@ -6219,7 +6219,7 @@
         "text": "The deep background of his life as it escaped through his lips became the chorus of my nights.",
         "paragraph": 4,
         "id": 25,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-25.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-25.mp3?v=20260828-forced-alignment",
         "translation": "他生命深处的往事从唇间流出，成了陪伴我夜晚的合唱。",
         "paraphrase": "The buried history he voiced in his sleep became the recurring soundtrack of my nights.",
         "classification": {
@@ -6284,7 +6284,7 @@
         "text": "I heard him the way you hear static through a radio.",
         "paragraph": 4,
         "id": 26,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-26.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-26.mp3?v=20260828-forced-alignment",
         "translation": "我听他的声音，就像人听收音机里的干扰杂音一样。",
         "paraphrase": "I registered his voice much as someone notices background interference on a radio.",
         "classification": {
@@ -6349,7 +6349,7 @@
         "text": "My young ears didn't want to listen to the uncorked anger, didn't know what to make of feelings that could stretch back 70 years.",
         "paragraph": 4,
         "id": 27,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-27.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-27.mp3?v=20260828-forced-alignment",
         "translation": "我年幼的耳朵不愿听那些喷涌的怒气，也不懂如何理解延绵了七十年的情绪。",
         "paraphrase": "As a boy, I did not want to hear that released anger and could not understand emotions surviving for seventy years.",
         "classification": {
@@ -6427,7 +6427,7 @@
         "text": "But now, I recall those staccato outbursts as music.",
         "paragraph": 4,
         "id": 28,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-28.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-28.mp3?v=20260828-forced-alignment",
         "translation": "但如今，我回想起那些断续短促的怒声，却觉得像音乐。",
         "paraphrase": "Now, however, I remember those abrupt bursts of speech as something musical.",
         "classification": {
@@ -6497,7 +6497,7 @@
         "text": "When I went to college, I switched to roommates my age.",
         "paragraph": 5,
         "id": 29,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-29.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-29.mp3?v=20260828-forced-alignment",
         "translation": "上大学后，我换成了同龄室友。",
         "paraphrase": "At college, I began sharing rooms with people of my own age.",
         "classification": {
@@ -6561,7 +6561,7 @@
         "text": "Then, in graduate school, I had my own apartment, and my old roommate joined me.",
         "paragraph": 5,
         "id": 30,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-30.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-30.mp3?v=20260828-forced-alignment",
         "translation": "后来读研究生时，我有了自己的公寓，老室友也来和我一起住。",
         "paraphrase": "Later, while I was a graduate student, my grandfather moved into my apartment.",
         "classification": {
@@ -6630,7 +6630,7 @@
         "text": "All his friends were dead, and he had lived long enough to become, once again, a stranger in the community he had inhabited for more than half a century.",
         "paragraph": 5,
         "id": 31,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-31.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-31.mp3?v=20260828-forced-alignment",
         "translation": "他的朋友都已去世；他活得太久，以至于在住了半个多世纪的社区里，又一次成了陌生人。",
         "paraphrase": "With all his friends gone, he had outlived his sense of belonging to the community where he had spent over fifty years.",
         "classification": {
@@ -6728,7 +6728,7 @@
         "text": "It was clear to both of us that in spite of a 60-year age gap I was his most congenial companion.",
         "paragraph": 5,
         "id": 32,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-32.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-32.mp3?v=20260828-forced-alignment",
         "translation": "我们都明白，尽管相差六十岁，我仍是与他最合得来的伙伴。",
         "paraphrase": "We both understood that, despite the sixty years between us, I was the companion with whom he felt most at ease.",
         "classification": {
@@ -6796,7 +6796,7 @@
         "text": "So he joined me in the late 1960s at the University of Michigan.",
         "paragraph": 6,
         "id": 33,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-33.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-33.mp3?v=20260828-forced-alignment",
         "translation": "于是，二十世纪六十年代末，他来到密歇根大学与我同住。",
         "paraphrase": "He therefore came to live with me at the University of Michigan in the late sixties.",
         "classification": {
@@ -6865,7 +6865,7 @@
         "text": "He made new friends, took care of himself, and did most of the housework.",
         "paragraph": 6,
         "id": 34,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-34.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-34.mp3?v=20260828-forced-alignment",
         "translation": "他结交新朋友，照顾自己，还承担了大部分家务。",
         "paraphrase": "He found new friends, managed his own needs and handled most household tasks.",
         "classification": {
@@ -6930,7 +6930,7 @@
         "text": "In Ann Arbor he found plenty of allies in hating Republicans, but it was even better than that.",
         "paragraph": 6,
         "id": 35,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-35.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-35.mp3?v=20260828-forced-alignment",
         "translation": "在安娜堡，他找到不少同样讨厌共和党的人，而情况还不止如此。",
         "paraphrase": "Ann Arbor offered him many people who shared his dislike of Republicans, and it offered even more than that.",
         "classification": {
@@ -7015,7 +7015,7 @@
         "text": "Ideologically it was the best of times.",
         "paragraph": 6,
         "id": 36,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-36.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-36.mp3?v=20260828-forced-alignment",
         "translation": "从思想立场上说，那真是最好的时代。",
         "paraphrase": "The political climate suited him perfectly.",
         "classification": {
@@ -7076,7 +7076,7 @@
         "text": "He could enjoy both the war and the anti-war movement.",
         "paragraph": 6,
         "id": 37,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-37.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-37.mp3?v=20260828-forced-alignment",
         "translation": "战争和反战运动，都能让他兴致勃勃。",
         "paraphrase": "Both the war and the protests against it gave him something to enjoy.",
         "classification": {
@@ -7133,7 +7133,7 @@
         "text": "Our only serious problem was what he called my laziness.",
         "paragraph": 7,
         "id": 38,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-38.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-38.mp3?v=20260828-forced-alignment",
         "translation": "我们之间唯一严重的问题，是他口中所谓的我的懒惰。",
         "paraphrase": "Our one major disagreement concerned the behaviour he described as my laziness.",
         "classification": {
@@ -7183,7 +7183,7 @@
         "text": "I was studying for Ph.D. preliminary exams.",
         "paragraph": 7,
         "id": 39,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-39.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-39.mp3?v=20260828-forced-alignment",
         "translation": "我正在准备博士资格考试。",
         "paraphrase": "I was preparing for the preliminary examinations for my doctorate.",
         "classification": {
@@ -7228,7 +7228,7 @@
         "text": "My work consisted of lying on the couch with a book in my lap.",
         "paragraph": 7,
         "id": 40,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-40.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-40.mp3?v=20260828-forced-alignment",
         "translation": "我的工作就是躺在沙发上，膝上放着一本书。",
         "paraphrase": "Studying meant stretching out on the sofa with a book resting on my lap.",
         "classification": {
@@ -7302,7 +7302,7 @@
         "text": "Sometimes I dozed off, now and then I highlighted a significant passage.",
         "paragraph": 7,
         "id": 41,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-41.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-41.mp3?v=20260828-forced-alignment",
         "translation": "有时我会打个盹，偶尔划出一段重要文字。",
         "paraphrase": "I occasionally fell asleep and occasionally marked an important passage.",
         "classification": {
@@ -7385,7 +7385,7 @@
         "text": "He would pick up a pencil and mockingly mark the newspaper to imitate what I was doing.",
         "paragraph": 7,
         "id": 42,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-42.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-42.mp3?v=20260828-forced-alignment",
         "translation": "他常拿起铅笔，带着嘲弄在报纸上划来划去，模仿我在做的事。",
         "paraphrase": "He used to ridicule my activity by picking up a pencil and marking his newspaper in imitation of me.",
         "classification": {
@@ -7480,7 +7480,7 @@
         "text": "I could not convince him that it was work.",
         "paragraph": 7,
         "id": 43,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-43.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-43.mp3?v=20260828-forced-alignment",
         "translation": "我没法让他相信，那就是工作。",
         "paraphrase": "I failed to make him accept that studying this way was real work.",
         "classification": {
@@ -7550,7 +7550,7 @@
         "text": "But I did convince others.",
         "paragraph": 8,
         "id": 44,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-44.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-44.mp3?v=20260828-forced-alignment",
         "translation": "但我确实说服了别人。",
         "paraphrase": "Other people, however, did accept it as work.",
         "classification": {
@@ -7621,7 +7621,7 @@
         "text": "I finished my studies, married, fathered a daughter and a son and settled in Texas.",
         "paragraph": 8,
         "id": 45,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-45.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-45.mp3?v=20260828-forced-alignment",
         "translation": "我完成学业、结婚，有了一儿一女，并在得克萨斯定居。",
         "paraphrase": "I completed my education, got married, had two children and made my home in Texas.",
         "classification": {
@@ -7690,7 +7690,7 @@
         "text": "Though reluctant to move once again, my grandfather joined us in Houston.",
         "paragraph": 8,
         "id": 46,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-46.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-46.mp3?v=20260828-forced-alignment",
         "translation": "祖父虽然不愿再次搬家，还是来到休斯敦与我们同住。",
         "paraphrase": "Although he did not want another move, my grandfather came to live with us in Houston.",
         "classification": {
@@ -7759,7 +7759,7 @@
         "text": "He was exactly 100 years older than my son.",
         "paragraph": 8,
         "id": 47,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-47.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-47.mp3?v=20260828-forced-alignment",
         "translation": "他恰好比我儿子大一百岁。",
         "paraphrase": "There was exactly a century between his age and my son's.",
         "classification": {
@@ -7808,7 +7808,7 @@
         "text": "Now that I was established, a man with a career, a family, a job, I intended to help my grandfather in the last years of his life.",
         "paragraph": 9,
         "id": 48,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-48.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-48.mp3?v=20260828-forced-alignment",
         "translation": "如今我事业、家庭、工作都有了着落，成了一个立足社会的人，便想在祖父晚年帮助他。",
         "paraphrase": "With my career, employment and family in place, I planned to support my grandfather during his final years.",
         "classification": {
@@ -7892,7 +7892,7 @@
         "text": "But in the crazy irony of things, it turned out that I was the one who would need help.",
         "paragraph": 9,
         "id": 49,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-49.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-49.mp3?v=20260828-forced-alignment",
         "translation": "可是，命运却开了荒唐的玩笑：结果需要帮助的人是我。",
         "paraphrase": "Ironically, events showed that the person needing support would be me.",
         "classification": {
@@ -7969,7 +7969,7 @@
         "text": "My solid life cracked in a matter of months, when my wife was stricken with a terrible neurologic disease.",
         "paragraph": 9,
         "id": 50,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-50.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-50.mp3?v=20260828-forced-alignment",
         "translation": "几个月内，我稳固的生活就裂开了：妻子患上了严重的神经系统疾病。",
         "paraphrase": "Within a few months, my secure life fell apart as my wife developed a devastating neurological illness.",
         "classification": {
@@ -8034,7 +8034,7 @@
         "text": "The life of the family became the life of the hospital.",
         "paragraph": 9,
         "id": 51,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-51.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-51.mp3?v=20260828-forced-alignment",
         "translation": "全家的生活变成了围绕医院转的生活。",
         "paraphrase": "Our family's daily existence began to revolve around the hospital.",
         "classification": {
@@ -8092,7 +8092,7 @@
         "text": "I lost touch with my friends, my work, even my children.",
         "paragraph": 9,
         "id": 52,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-52.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-52.mp3?v=20260828-forced-alignment",
         "translation": "我与朋友、工作，甚至孩子，都疏远了。",
         "paraphrase": "I became disconnected from friends, work and even my own children.",
         "classification": {
@@ -8137,7 +8137,7 @@
         "text": "I could not scream out my anger as my grandfather did in his sleep.",
         "paragraph": 9,
         "id": 53,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-53.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-53.mp3?v=20260828-forced-alignment",
         "translation": "我无法像祖父在梦里那样，把怒气喊出来。",
         "paraphrase": "Unlike my grandfather in his sleep, I could not release my anger by shouting.",
         "classification": {
@@ -8201,7 +8201,7 @@
         "text": "Instead, I turned it against myself, and it settled in my bones as depression.",
         "paragraph": 9,
         "id": 54,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-54.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-54.mp3?v=20260828-forced-alignment",
         "translation": "相反，我把怒气转向自己，它在我的骨子里沉积成了抑郁。",
         "paraphrase": "I directed that anger inward instead, and it took hold as depression.",
         "classification": {
@@ -8289,7 +8289,7 @@
         "text": "I returned to the couch where I had studied for my Ph.D. exams, but I no longer saw anything glorious to underline.",
         "paragraph": 9,
         "id": 55,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-55.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-55.mp3?v=20260828-forced-alignment",
         "translation": "我又回到当年备考博士考试的沙发上，却再也看不到值得我振奋、划线的东西。",
         "paraphrase": "I lay again on the sofa where I had prepared for my doctorate, but nothing now seemed inspiring enough to mark.",
         "classification": {
@@ -8381,7 +8381,7 @@
         "text": "At 103 and 104, my grandfather began to take an active role in helping me care for my children.",
         "paragraph": 10,
         "id": 56,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-56.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-56.mp3?v=20260828-forced-alignment",
         "translation": "祖父一百零三、一百零四岁时，开始积极帮我照料孩子。",
         "paraphrase": "When he was 103 and 104, my grandfather actively helped me look after the children.",
         "classification": {
@@ -8434,7 +8434,7 @@
         "text": "He did not understand what had happened to my wife and had no sympathy for my depression.",
         "paragraph": 10,
         "id": 57,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-57.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-57.mp3?v=20260828-forced-alignment",
         "translation": "他不明白妻子究竟出了什么事，也不能体谅我的抑郁。",
         "paraphrase": "He neither understood my wife's illness nor sympathized with my depression.",
         "classification": {
@@ -8510,7 +8510,7 @@
         "text": "But he saw the work of daily life in front of him and, as always, he did it.",
         "paragraph": 10,
         "id": 58,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-58.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-58.mp3?v=20260828-forced-alignment",
         "translation": "但他看得见眼前日常生活的活计，并且一如既往地把它们做了。",
         "paraphrase": "He did, however, recognize the everyday tasks that needed doing, and he carried them out as he always had.",
         "classification": {
@@ -8591,7 +8591,7 @@
         "text": "Although by then he must have been wearing the shadow of death as an undershirt, the aroma of life stayed in his nostrils.",
         "paragraph": 10,
         "id": 59,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-59.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-59.mp3?v=20260828-forced-alignment",
         "translation": "那时死亡的阴影想必已像汗衫般贴着他，可生命的香气依旧停留在他的鼻息间。",
         "paraphrase": "Although death must have been very close to him, he remained strongly aware of and engaged with life.",
         "classification": {
@@ -8657,7 +8657,7 @@
         "text": "He listened to the news, he read the paper, he took out the garbage, he played with my children, he mowed the lawn.",
         "paragraph": 10,
         "id": 60,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-60.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-60.mp3?v=20260828-forced-alignment",
         "translation": "他听新闻、读报、倒垃圾、陪孩子玩、修剪草坪。",
         "paraphrase": "He kept up with the news, read, put out the rubbish, played with the children and cut the grass.",
         "classification": {
@@ -8722,7 +8722,7 @@
         "text": "He never offered me advice or understanding, he just kept doing things.",
         "paragraph": 10,
         "id": 61,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-61.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-61.mp3?v=20260828-forced-alignment",
         "translation": "他从未给我建议或表示理解，只是一直做着事情。",
         "paraphrase": "He gave me neither counsel nor expressions of understanding; he simply continued to act.",
         "classification": {
@@ -8802,7 +8802,7 @@
         "text": "After about two years of melancholy, I joined him, started to see how much there was to do.",
         "paragraph": 10,
         "id": 62,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-62.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-62.mp3?v=20260828-forced-alignment",
         "translation": "忧郁了约两年后，我也加入了他，开始看见原来有那么多事情要做。",
         "paraphrase": "After roughly two years of sadness, I began working alongside him and noticing all the things that needed doing.",
         "classification": {
@@ -8878,7 +8878,7 @@
         "text": "Now I get up early and I stay busy.",
         "paragraph": 11,
         "id": 63,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-63.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-63.mp3?v=20260828-forced-alignment",
         "translation": "现在，我早早起床，让自己保持忙碌。",
         "paraphrase": "These days, I rise early and keep myself occupied.",
         "classification": {
@@ -8969,7 +8969,7 @@
         "text": "There's a lot of garbage to take out and in Texas there's always a lawn to mow.",
         "paragraph": 11,
         "id": 64,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-64.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-64.mp3?v=20260828-forced-alignment",
         "translation": "总有许多垃圾要倒，而在得克萨斯，总有草坪要修。",
         "paraphrase": "There is plenty of rubbish to put out, and a Texas lawn always needs cutting.",
         "classification": {
@@ -9051,7 +9051,7 @@
         "text": "I don't talk in my sleep yet, but even if I start, nobody will hear me.",
         "paragraph": 11,
         "id": 65,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-65.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-65.mp3?v=20260828-forced-alignment",
         "translation": "我还不会说梦话，但即使开始了，也不会有人听见。",
         "paraphrase": "I have not begun talking in my sleep, but if I do, there will be no one there to listen.",
         "classification": {
@@ -9136,7 +9136,7 @@
         "text": "Roommates like him only come along about one a century.",
         "paragraph": 11,
         "id": 66,
-        "audioSrc": "/media/audio-roommates-sentences-v6/roommates-sentence-66.mp3?v=20260828-forced-alignment",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-66.mp3?v=20260828-forced-alignment",
         "translation": "像他这样的室友，大概一个世纪才会出现一位。",
         "paraphrase": "A person like him is an exceptionally rare roommate, appearing perhaps once in a hundred years.",
         "classification": {
@@ -10949,12 +10949,12 @@
   "04": {
     "articleId": "04",
     "title": "Never Trust Appearances",
-    "catSrc": "/media/article04-appearances-cat.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article04-appearances-cat.png",
     "sentences": [
       {
         "text": "Rush hour in a provincial town is certainly not so busy as in London, but even so there are plenty of people moving about.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-04/a04-p01-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p01-s01.mp3",
         "id": 1,
         "translation": "地方城镇的高峰时段当然不像伦敦那么繁忙，但即便如此，仍有许多人来来往往。",
         "paraphrase": "Although this town's rush hour is quieter than London's, many people are still on the move.",
@@ -11053,7 +11053,7 @@
       {
         "text": "Long, patient queues wait wearily for buses.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-04/a04-p01-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p01-s02.mp3",
         "id": 2,
         "translation": "耐心等候的人们排成长队，疲倦地等着公共汽车。",
         "paraphrase": "People stand patiently in long queues, tired of waiting for their buses.",
@@ -11114,7 +11114,7 @@
       {
         "text": "Never-ending lines of cars are checked while red traffic lights change to green.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-04/a04-p01-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p01-s03.mp3",
         "id": 3,
         "translation": "一眼望不到头的车流停下来，等着红灯转绿。",
         "paraphrase": "Seemingly endless streams of cars are held up, waiting for traffic lights to turn green.",
@@ -11174,7 +11174,7 @@
       {
         "text": "Thousands of people are packed tightly in trains, the men's faces buried in their evening papers while women try in vain to knit.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-04/a04-p01-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p01-s04.mp3",
         "id": 4,
         "translation": "成千上万的人紧挤在火车里，男人埋头读晚报，女人则徒劳地试着织毛线。",
         "paraphrase": "The crowded trains carry men absorbed in newspapers and women unsuccessfully trying to knit.",
@@ -11263,7 +11263,7 @@
       {
         "text": "In a slow train it may well be an hour's journey to their station.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-04/a04-p01-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p01-s05.mp3",
         "id": 5,
         "translation": "坐慢车到他们的车站，很可能得花一小时。",
         "paraphrase": "Travelling to their station on a slow train could easily take an hour.",
@@ -11324,7 +11324,7 @@
       {
         "text": "James Saxon is in his usual comfortable corner, quietly smoking a cigarette.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-04/a04-p02-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p02-s01.mp3",
         "id": 6,
         "translation": "詹姆斯·萨克森坐在惯常那个舒适的角落里，静静地抽着一支烟。",
         "paraphrase": "James Saxon sits in his familiar, comfortable corner and smokes quietly.",
@@ -11377,7 +11377,7 @@
       {
         "text": "When he is travelling by train at this time, he always reaches the station at ten past five by the station clock, but he never catches the 5:14 train.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-04/a04-p02-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p02-s02.mp3",
         "id": 7,
         "translation": "每当这时乘火车出行，他总按车站时钟在五点十分到站，却从不乘五点十四分那班车。",
         "paraphrase": "On these journeys he always arrives at 5:10 according to the station clock, yet he never takes the 5:14 departure.",
@@ -11478,7 +11478,7 @@
       {
         "text": "Instead he travels by the train which leaves at twenty-four minutes past five so as to be sure of getting his corner seat.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-04/a04-p02-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p02-s03.mp3",
         "id": 8,
         "translation": "他改乘五点二十四分开出的那班车，以确保坐到角落座位。",
         "paraphrase": "He chooses the 5:24 train instead, ensuring that he can get his preferred corner seat.",
@@ -11565,7 +11565,7 @@
       {
         "text": "There are no first-class compartments or reserved seats on this train.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-04/a04-p02-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p02-s04.mp3",
         "id": 9,
         "translation": "这班列车既没有一等隔间，也不设预订座位。",
         "paraphrase": "This train has neither first-class sections nor seats that passengers can book in advance.",
@@ -11621,7 +11621,7 @@
       {
         "text": "He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-04/a04-p02-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p02-s05.mp3",
         "id": 10,
         "translation": "他看上去全神贯注于报纸背面的体育新闻，对匆忙的人群毫不理会。",
         "paraphrase": "He seems engrossed in the sports page and pays no attention to the people rushing around him.",
@@ -11693,7 +11693,7 @@
       {
         "text": "Facing him this evening there is a Finnish youth of eighteen, Matti Arpola.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-04/a04-p03-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p03-s01.mp3",
         "id": 11,
         "translation": "今晚，坐在他对面的是十八岁的芬兰青年马蒂·阿尔波拉。",
         "paraphrase": "Seated opposite him tonight is Matti Arpola, an eighteen-year-old from Finland.",
@@ -11759,7 +11759,7 @@
       {
         "text": "This is his first visit to England, though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-04/a04-p03-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p03-s02.mp3",
         "id": 12,
         "translation": "这是他第一次到英国，不过他早已认识杰克逊家长子杰弗里，并准备住在他们家。",
         "paraphrase": "Matti has never visited England before, but he already knows Geoffrey, the Jacksons' eldest son, with whom he will be staying.",
@@ -11847,7 +11847,7 @@
       {
         "text": "As there are several people standing, James Saxon is the only person he can see clearly.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-04/a04-p04-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p04-s01.mp3",
         "id": 13,
         "translation": "由于有几个人站着，詹姆斯·萨克森是他唯一能看清的人。",
         "paraphrase": "Because several passengers are standing, Matti has a clear view only of James.",
@@ -11920,7 +11920,7 @@
       {
         "text": "Matti decides that he is probably a typical Englishman, and he observes James carefully.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-04/a04-p04-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p04-s02.mp3",
         "id": 14,
         "translation": "马蒂认定这人大概是个典型英国人，于是仔细打量詹姆斯。",
         "paraphrase": "Matti concludes that James is likely to represent a typical Englishman and studies him closely.",
@@ -12005,7 +12005,7 @@
       {
         "text": "\"Can he really be typical?\" he thinks.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s01.mp3",
         "id": 15,
         "translation": "“他真能算是典型英国人吗？”他想。",
         "paraphrase": "Matti wonders whether this man can really be typical.",
@@ -12067,7 +12067,7 @@
       {
         "text": "\"He has an umbrella, neatly rolled, but no bowler hat; in fact, no hat at all.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s02.mp3",
         "id": 16,
         "translation": "“他带着一把卷得整整齐齐的伞，却没戴圆顶礼帽；实际上，根本没戴帽子。",
         "paraphrase": "He notices a carefully folded umbrella, but no round-topped hat, or indeed any hat.",
@@ -12146,7 +12146,7 @@
       {
         "text": "Of course, he is reading about cricket and he is reserved and not interested in other people.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s03.mp3",
         "id": 17,
         "translation": "当然，他在看板球新闻，而且性情拘谨，对旁人不感兴趣。",
         "paraphrase": "Matti notes that the man is reading cricket news and seems private and unconcerned with those around him.",
@@ -12228,7 +12228,7 @@
       {
         "text": "But he is only of average height and his hair is not fair, but as dark as that of an Italian, and curly, with almost no parting.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s04.mp3",
         "id": 18,
         "translation": "可他只是中等身高，头发也不是浅色的，而像意大利人的一样黑，卷卷的，几乎没有发缝。",
         "paraphrase": "Yet, Matti observes, the man is not particularly tall, and his curly, almost unparted hair is dark rather than blond.",
@@ -12314,7 +12314,7 @@
       {
         "text": "He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s05.mp3",
         "id": 19,
         "translation": "他没抽烟斗；虽然我们外国人觉得真正的英国人该留上唇胡须，他却刮得干干净净。",
         "paraphrase": "The man has neither a pipe nor a moustache, although Matti believes foreigners expect a true Englishman to have the latter.",
@@ -12407,7 +12407,7 @@
       {
         "text": "His nose is slightly crooked.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s06.mp3",
         "id": 20,
         "translation": "他的鼻子有点歪。",
         "paraphrase": "His nose is not quite straight.",
@@ -12452,7 +12452,7 @@
       {
         "text": "What a serious face he has!",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s07.mp3",
         "id": 21,
         "translation": "他这张脸可真严肃！",
         "paraphrase": "His expression looks remarkably serious.",
@@ -12509,7 +12509,7 @@
       {
         "text": "He is frowning a little, but the eyes beneath his worried-looking forehead are sincere and honest.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s08.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s08.mp3",
         "id": 22,
         "translation": "他微微皱眉，但那忧虑的额头下，一双眼睛却显得真诚坦率。",
         "paraphrase": "He has a slight frown, yet Matti reads sincerity and honesty in the eyes below his anxious-looking forehead.",
@@ -12585,7 +12585,7 @@
       {
         "text": "I don't think he is intelligent.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-04/a04-p05-s09.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p05-s09.mp3",
         "id": 23,
         "translation": "我觉得他不聪明。",
         "paraphrase": "Matti does not consider him clever.",
@@ -12645,7 +12645,7 @@
       {
         "text": "\"His clothes are anything but smart.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s01.mp3",
         "id": 24,
         "translation": "“他的衣着一点也不体面。",
         "paraphrase": "Matti finds his clothes far from stylish.",
@@ -12702,7 +12702,7 @@
       {
         "text": "In fact, they are rather old, though well-brushed.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s02.mp3",
         "id": 25,
         "translation": "其实，衣服相当旧了，不过刷得很干净。",
         "paraphrase": "The clothes are quite worn, although they have been carefully brushed.",
@@ -12772,7 +12772,7 @@
       {
         "text": "Even though he is not wearing a wedding ring, he is probably married, with perhaps three children.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s03.mp3",
         "id": 26,
         "translation": "尽管没戴婚戒，他大概已经结婚，或许有三个孩子。",
         "paraphrase": "Despite the absence of a wedding ring, Matti guesses that he has a wife and perhaps three children.",
@@ -12842,7 +12842,7 @@
       {
         "text": "His gloves are fur-lined and his trousers well pressed.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s04.mp3",
         "id": 27,
         "translation": "他的手套有毛皮衬里，裤子则熨得平平整整。",
         "paraphrase": "His gloves have a fur lining, and his trousers have been neatly ironed.",
@@ -12922,7 +12922,7 @@
       {
         "text": "He keeps far too many things in his pockets, so his suit looks badly out of shape.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s05.mp3",
         "id": 28,
         "translation": "他口袋里塞了太多东西，所以西装显得严重走形。",
         "paraphrase": "His overloaded pockets make his suit hang awkwardly.",
@@ -13009,7 +13009,7 @@
       {
         "text": "What dull, old-fashioned leather shoes he is wearing!",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s06.mp3",
         "id": 29,
         "translation": "他穿的皮鞋多么沉闷老气！",
         "paraphrase": "His leather shoes strike Matti as extremely dull and outdated.",
@@ -13078,7 +13078,7 @@
       {
         "text": "His briefcase is old too and bulging, so that the zip-fastener does not close properly.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s07.mp3",
         "id": 30,
         "translation": "他的公文包也很旧，塞得鼓鼓的，以至于拉链都不能好好合上。",
         "paraphrase": "His old briefcase is so full that its zip cannot shut correctly.",
@@ -13154,7 +13154,7 @@
       {
         "text": "There are the initials J. S. on it.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s08.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s08.mp3",
         "id": 31,
         "translation": "包上有 J. S. 这两个姓名首字母。",
         "paraphrase": "It bears the letters J. S.",
@@ -13211,7 +13211,7 @@
       {
         "text": "Is his name John Smith?",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-04/a04-p06-s09.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p06-s09.mp3",
         "id": 32,
         "translation": "他叫约翰·史密斯吗？",
         "paraphrase": "Matti wonders whether those letters stand for John Smith.",
@@ -13256,7 +13256,7 @@
       {
         "text": "\"I think he is probably an office clerk or a shop assistant.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s01.mp3",
         "id": 33,
         "translation": "“我想他大概是办公室职员或店员。",
         "paraphrase": "Matti guesses that the man works in an office or a shop.",
@@ -13305,7 +13305,7 @@
       {
         "text": "Does he look like a teacher, though?",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s02.mp3",
         "id": 34,
         "translation": "不过，他看上去像个老师吗？",
         "paraphrase": "Then he wonders whether the man might look more like a teacher.",
@@ -13369,7 +13369,7 @@
       {
         "text": "Anyhow, he lives with a plain wife and five children in a small worker's house with a tiny garden, where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s03.mp3",
         "id": 35,
         "translation": "总之，他和一个相貌平平的妻子、五个孩子，住在带小花园的工人住宅里；闲暇时就在花园挖土、除草、修草坪，或粉刷工具棚。",
         "paraphrase": "Matti imagines him living with an unglamorous wife and five children in a small house, spending his free time tending its tiny garden or painting the shed.",
@@ -13453,7 +13453,7 @@
       {
         "text": "But tonight, first he is helping his wife to put the children to bed and then he is taking her to the cinema as this is payday.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s04.mp3",
         "id": 36,
         "translation": "但今晚，他先帮妻子安顿孩子睡觉，再带她去看电影，因为今天发薪水。",
         "paraphrase": "He imagines that, because it is payday, the man will help put the children to bed before taking his wife to a film.",
@@ -13542,7 +13542,7 @@
       {
         "text": "Or is he visiting the local pub?",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s05.mp3",
         "id": 37,
         "translation": "或者他正要去本地酒馆？",
         "paraphrase": "Alternatively, perhaps he is going to a nearby pub.",
@@ -13595,7 +13595,7 @@
       {
         "text": "Does he drink whisky (I believe most Englishmen do) or does he prefer beer?",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s06.mp3",
         "id": 38,
         "translation": "他喝威士忌吗——我觉得大多数英国人都喝——还是更喜欢啤酒？",
         "paraphrase": "Matti wonders whether the man chooses beer or whisky, the drink he assumes most Englishmen prefer.",
@@ -13667,7 +13667,7 @@
       {
         "text": "I am sure he very much likes a cup of tea.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s07.mp3",
         "id": 39,
         "translation": "我确信他很喜欢喝茶。",
         "paraphrase": "Matti is certain that the man enjoys tea very much.",
@@ -13731,7 +13731,7 @@
       {
         "text": "He seems quite energetic, but his complexion is pale and he is very thin.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s08.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s08.mp3",
         "id": 40,
         "translation": "他看上去挺有精神，但面色苍白，人也很瘦。",
         "paraphrase": "The man appears lively, but his face is pale and his body thin.",
@@ -13828,7 +13828,7 @@
       {
         "text": "Does he find it difficult to satisfy the needs of his miserable wife and seven unfortunate children?",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s09.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s09.mp3",
         "id": 41,
         "translation": "要满足那可怜妻子和七个不幸孩子的需要，会不会让他感到吃力？",
         "paraphrase": "Matti wonders whether supporting a supposedly unhappy wife and seven children is hard for him.",
@@ -13914,7 +13914,7 @@
       {
         "text": "Poor fellow!",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s10.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s10.mp3",
         "id": 42,
         "translation": "可怜的人啊！",
         "paraphrase": "Matti thinks the man deserves pity.",
@@ -13956,7 +13956,7 @@
       {
         "text": "I am sorry for him.\"",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-04/a04-p07-s11.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p07-s11.mp3",
         "id": 43,
         "translation": "我真替他难过。”",
         "paraphrase": "He feels sorry for the man.",
@@ -14018,7 +14018,7 @@
       {
         "text": "At last, shortly after a quarter past six by Matti's watch, the train reaches Lakewell Junction, and Matti immediately sees Geoffrey waiting for him.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-04/a04-p08-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p08-s01.mp3",
         "id": 44,
         "translation": "终于，按马蒂的表，六点一刻刚过，火车到达莱克韦尔枢纽站，他立刻看见杰弗里在等他。",
         "paraphrase": "Soon after 6:15 on Matti's watch, the train finally arrives at Lakewell Junction, where he immediately spots Geoffrey awaiting him.",
@@ -14122,7 +14122,7 @@
       {
         "text": "They greet each other.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-04/a04-p08-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p08-s02.mp3",
         "id": 45,
         "translation": "两人互相问候。",
         "paraphrase": "The two exchange greetings.",
@@ -14167,7 +14167,7 @@
       {
         "text": "At first Matti cannot find his ticket, but it is discovered in his bulging coat pocket.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-04/a04-p08-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p08-s03.mp3",
         "id": 46,
         "translation": "起初马蒂找不到车票，随后却在自己鼓鼓的外套口袋里发现了它。",
         "paraphrase": "Matti initially fails to locate his ticket; it turns out to be in his overfilled coat pocket.",
@@ -14248,7 +14248,7 @@
       {
         "text": "He gives it up to the ticket-collector and the two boys go off to find Geoffrey's father's car.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-04/a04-p08-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p08-s04.mp3",
         "id": 47,
         "translation": "他把车票交给检票员，两个男孩便去找杰弗里父亲的车。",
         "paraphrase": "After handing the ticket to the collector, he walks with Geoffrey to look for Geoffrey's father's car.",
@@ -14334,7 +14334,7 @@
       {
         "text": "Near it there stands another car, a magnificent Rolls-Royce, and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-04/a04-p08-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p08-s05.mp3",
         "id": 48,
         "translation": "旁边还停着一辆气派的劳斯莱斯，一位穿制服的英俊司机正扶着车门，詹姆斯·萨克森迈了进去。",
         "paraphrase": "Beside it is a splendid Rolls-Royce, whose smartly uniformed driver holds the door for James Saxon to enter.",
@@ -14441,7 +14441,7 @@
       {
         "text": "\"Who is that?\" Matti asks.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-04/a04-p09-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p09-s01.mp3",
         "id": 49,
         "translation": "“那是谁？”马蒂问。",
         "paraphrase": "Matti asks who the man is.",
@@ -14502,7 +14502,7 @@
       {
         "text": "\"Why is he getting into that car?",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-04/a04-p09-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p09-s02.mp3",
         "id": 50,
         "translation": "“他怎么坐进那辆车了？",
         "paraphrase": "He asks why the man is entering that car.",
@@ -14567,7 +14567,7 @@
       {
         "text": "Where does he live?",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-04/a04-p09-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p09-s03.mp3",
         "id": 51,
         "translation": "他住在哪里？",
         "paraphrase": "He asks where the man lives.",
@@ -14628,7 +14628,7 @@
       {
         "text": "He looks like a poorly-paid clerk or a workman.\"",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-04/a04-p09-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p09-s04.mp3",
         "id": 52,
         "translation": "他看起来像个工资很低的职员或工人。”",
         "paraphrase": "To Matti, the man appears to be a low-paid office employee or manual worker.",
@@ -14686,7 +14686,7 @@
       {
         "text": "Geoffrey laughs loudly as if this is a good joke.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-04/a04-p10-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p10-s01.mp3",
         "id": 53,
         "translation": "杰弗里大笑起来，仿佛听到了一个很有趣的笑话。",
         "paraphrase": "Geoffrey bursts into laughter as though he has heard something very funny.",
@@ -14751,7 +14751,7 @@
       {
         "text": "\"That is Sir James Saxon,\" he replies.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s01.mp3",
         "id": 54,
         "translation": "“那是詹姆斯·萨克森爵士，”他答道。",
         "paraphrase": "Geoffrey identifies the man as Sir James Saxon.",
@@ -14800,7 +14800,7 @@
       {
         "text": "He has a fortune of around two million pounds, and controls forty-two factories in this area alone.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s02.mp3",
         "id": 55,
         "translation": "他有约两百万英镑的财产，仅在这一地区就掌管四十二家工厂。",
         "paraphrase": "Sir James owns roughly two million pounds and runs forty-two factories just in this region.",
@@ -14874,7 +14874,7 @@
       {
         "text": "He is a bachelor who lives in a fourth-storey luxury flat, so, if he feels like it, he can go off to the Riviera for a month or two.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s03.mp3",
         "id": 56,
         "translation": "他是个住在四楼豪华公寓里的单身汉，所以只要想去，便能到里维埃拉度上一两个月的假。",
         "paraphrase": "He is unmarried and lives in an expensive fourth-floor apartment, leaving him free to spend a month or two on the Riviera whenever he wishes.",
@@ -14972,7 +14972,7 @@
       {
         "text": "Next week he is flying to Japan on business in his private aeroplane, though people say he very much prefers travelling by train.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s04.mp3",
         "id": 57,
         "translation": "下周他要乘私人飞机去日本出差，不过人们说他其实更喜欢坐火车。",
         "paraphrase": "Next week he will travel to Japan for work in his own plane, although he is reportedly much fonder of train travel.",
@@ -15069,7 +15069,7 @@
       {
         "text": "He is said to have twenty-one suits, but he is always seen in the same old one.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s05.mp3",
         "id": 58,
         "translation": "据说他有二十一套西装，可人们总见他穿同一套旧的。",
         "paraphrase": "People claim that he owns twenty-one suits, yet he always appears in the same worn one.",
@@ -15146,7 +15146,7 @@
       {
         "text": "By the way, I remember now.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s06.mp3",
         "id": 59,
         "translation": "对了，我现在想起来了。",
         "paraphrase": "An additional fact now occurs to Geoffrey.",
@@ -15195,7 +15195,7 @@
       {
         "text": "His father and mother are both Finns: Perhaps that is why he takes no interest in cricket.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s07.mp3",
         "id": 60,
         "translation": "他的父母都是芬兰人：也许这就是他对板球毫无兴趣的原因。",
         "paraphrase": "Both of Sir James's parents are Finnish; Geoffrey suggests this might explain his lack of interest in cricket.",
@@ -15280,7 +15280,7 @@
       {
         "text": "His real name is Jussi Saksalainen, but he is now a naturalised British subject with an English name.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s08.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s08.mp3",
         "id": 61,
         "translation": "他原名尤西·萨克萨莱宁，如今已入籍英国，并使用一个英文名字。",
         "paraphrase": "Originally named Jussi Saksalainen, he has acquired British nationality and now uses an English name.",
@@ -15365,7 +15365,7 @@
       {
         "text": "He doesn't look at all Finnish.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-04/a04-p11-s09.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p11-s09.mp3",
         "id": 62,
         "translation": "他看起来一点也不像芬兰人。",
         "paraphrase": "Geoffrey thinks that he does not appear Finnish at all.",
@@ -15426,7 +15426,7 @@
       {
         "text": "\"Here's your other case.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s01.mp3",
         "id": 63,
         "translation": "“你的另一个箱子在这儿。",
         "paraphrase": "Geoffrey points out Matti's other piece of luggage.",
@@ -15467,7 +15467,7 @@
       {
         "text": "Put it down a minute while I unlock the car.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s02.mp3",
         "id": 64,
         "translation": "先把它放下一会儿，我来给车开锁。",
         "paraphrase": "He asks Matti to set it down briefly while he opens the car with his key.",
@@ -15537,7 +15537,7 @@
       {
         "text": "Do you enjoy gardening?",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s03.mp3",
         "id": 65,
         "translation": "你喜欢园艺吗？",
         "paraphrase": "He asks whether Matti likes working in a garden.",
@@ -15599,7 +15599,7 @@
       {
         "text": "If so, you can help me: digging, weeding and mowing the lawn.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s04.mp3",
         "id": 66,
         "translation": "如果喜欢，你可以帮我挖土、除草、修剪草坪。",
         "paraphrase": "If Matti does enjoy it, he can help Geoffrey dig, remove weeds and cut the grass.",
@@ -15686,7 +15686,7 @@
       {
         "text": "And I'm painting the tool shed tomorrow.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s05.mp3",
         "id": 67,
         "translation": "还有，我明天要粉刷工具棚。",
         "paraphrase": "Geoffrey also plans to paint the tool shed the following day.",
@@ -15753,7 +15753,7 @@
       {
         "text": "You don't know how to play cricket yet, but I'm taking you to a match on Saturday.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s06.mp3",
         "id": 68,
         "translation": "你还不会打板球，不过我星期六会带你去看一场比赛。",
         "paraphrase": "Although Matti has not learned cricket, Geoffrey intends to take him to a game on Saturday.",
@@ -15855,7 +15855,7 @@
       {
         "text": "Can you speak English any better now?",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s07.mp3",
         "id": 69,
         "translation": "你现在英语能说得更好些了吗？",
         "paraphrase": "Geoffrey asks whether Matti's English speaking has improved at all.",
@@ -15912,7 +15912,7 @@
       {
         "text": "You can soon lose that Finnish reserve.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s08.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s08.mp3",
         "id": 70,
         "translation": "你很快就能摆脱那种芬兰式的拘谨。",
         "paraphrase": "Geoffrey says Matti will soon be able to become less reserved, calling that reserve Finnish.",
@@ -15970,7 +15970,7 @@
       {
         "text": "Come along!",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s09.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s09.mp3",
         "id": 71,
         "translation": "快来吧！",
         "paraphrase": "He urges Matti to come with him.",
@@ -16020,7 +16020,7 @@
       {
         "text": "Let's get going!",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s10.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s10.mp3",
         "id": 72,
         "translation": "咱们走吧！",
         "paraphrase": "He suggests that they set off.",
@@ -16074,7 +16074,7 @@
       {
         "text": "I'm hungry and hot.\"",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-04/a04-p12-s11.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p12-s11.mp3",
         "id": 73,
         "translation": "我又饿又热。”",
         "paraphrase": "He says he feels both hot and hungry.",
@@ -16115,7 +16115,7 @@
       {
         "text": "Matti remembers sadly all that his school-teachers say about his overactive and unreliable imagination.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-04/a04-p13-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p13-s01.mp3",
         "id": 74,
         "translation": "马蒂难过地想起老师们对他那过度活跃、又不可靠的想象力说过的种种话。",
         "paraphrase": "Matti unhappily recalls his teachers' criticisms of an imagination that is too active to be dependable.",
@@ -16185,7 +16185,7 @@
       {
         "text": "Perhaps they are right after all.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-04/a04-p13-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-04/a04-p13-s02.mp3",
         "id": 75,
         "translation": "也许，他们终究是对的。",
         "paraphrase": "He begins to think his teachers may have been right.",
@@ -17387,12 +17387,12 @@
   "05": {
     "articleId": "05",
     "title": "Courage",
-    "catSrc": "/media/article05-courage-cat.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article05-courage-cat.png",
     "sentences": [
       {
         "text": "Akira came directly, breaking all tradition.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-05/a05-p01-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p01-s01.mp3",
         "id": 1,
         "translation": "阿基拉直接登门，打破了所有惯例。",
         "paraphrase": "Akira approached her in person, disregarding the customary procedure.",
@@ -17457,7 +17457,7 @@
       {
         "text": "Was that it?",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-05/a05-p01-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p01-s02.mp3",
         "id": 2,
         "translation": "难道原因就在这里吗？",
         "paraphrase": "Chie wondered whether that was the reason for her response.",
@@ -17503,7 +17503,7 @@
       {
         "text": "Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-05/a05-p01-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p01-s03.mp3",
         "id": 3,
         "translation": "倘若他遵循惯例——先请母亲去和父亲说，再由父亲联系媒人——千惠会不会更愿意接受？",
         "paraphrase": "Would she have been more willing to listen if he had observed convention, having his mother ask his father to contact an intermediary?",
@@ -17663,7 +17663,7 @@
       {
         "text": "He came on a winter's eve.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-05/a05-p02-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p02-s01.mp3",
         "id": 4,
         "translation": "他是在一个冬夜来的。",
         "paraphrase": "His visit took place on a winter evening.",
@@ -17721,7 +17721,7 @@
       {
         "text": "He pounded on the door while a cold rain beat on the shuttered veranda, so at first Chie thought him only the wind.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-05/a05-p02-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p02-s02.mp3",
         "id": 5,
         "translation": "冷雨拍打着有窗板遮护的廊台，他砰砰敲门；所以千惠起初还以为那只是风声。",
         "paraphrase": "He knocked heavily as rain struck the enclosed veranda, so Chie initially mistook the noise for the wind.",
@@ -17815,7 +17815,7 @@
       {
         "text": "The maid knew better.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-05/a05-p02-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p02-s03.mp3",
         "id": 6,
         "translation": "女佣却知道不是那么回事。",
         "paraphrase": "The maid understood what was really happening.",
@@ -17884,7 +17884,7 @@
       {
         "text": "Chie heard her soft scuttling footsteps, the creak of the door.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-05/a05-p02-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p02-s04.mp3",
         "id": 7,
         "translation": "千惠听见她轻而急促的脚步声，接着是门的嘎吱声。",
         "paraphrase": "Chie heard the maid moving quickly and quietly, followed by the sound of the door creaking.",
@@ -17952,7 +17952,7 @@
       {
         "text": "Then the maid brought a calling card to the drawing room, for Chie.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-05/a05-p02-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p02-s05.mp3",
         "id": 8,
         "translation": "随后，女佣把一张拜访名片送进客厅，交给千惠。",
         "paraphrase": "The maid then delivered a visitor's card to Chie in the drawing room.",
@@ -18021,7 +18021,7 @@
       {
         "text": "Chie was reluctant to go to her guest; perhaps she was feeling too cozy.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-05/a05-p03-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p03-s01.mp3",
         "id": 9,
         "translation": "千惠不太愿意去见客人；也许她正待得太舒服了。",
         "paraphrase": "Chie hesitated to meet the visitor, possibly because she was enjoying her comfort too much.",
@@ -18102,7 +18102,7 @@
       {
         "text": "She and Naomi were reading at a low table set atop a charcoal brazier.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-05/a05-p03-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p03-s02.mp3",
         "id": 10,
         "translation": "她和直美正坐在一张架于炭火盆上方的矮桌旁读书。",
         "paraphrase": "She was reading with Naomi at a low table positioned above a container of burning charcoal.",
@@ -18179,7 +18179,7 @@
       {
         "text": "A thick quilt spread over the sides of the table so their legs were tucked inside with the heat.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-05/a05-p03-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p03-s03.mp3",
         "id": 11,
         "translation": "厚被子沿桌边铺下来，把她们的腿和热气一并裹在里面。",
         "paraphrase": "A heavy quilt hung around the table, allowing them to keep their legs inside the warm space.",
@@ -18261,7 +18261,7 @@
       {
         "text": "\"Who is it at this hour, in this weather?\"",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-05/a05-p04-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p04-s01.mp3",
         "id": 12,
         "translation": "“这个钟点、这样的天气，会是谁呢？”",
         "paraphrase": "She asked who would visit so late and in such weather.",
@@ -18314,7 +18314,7 @@
       {
         "text": "Chie questioned as she picked the name card off the maid's lacquer tray.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-05/a05-p04-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p04-s02.mp3",
         "id": 13,
         "translation": "千惠一边问，一边从女佣的漆盘上拿起名片。",
         "paraphrase": "Chie asked this while taking the visitor's card from the maid's lacquered tray.",
@@ -18375,7 +18375,7 @@
       {
         "text": "\"Shinoda, Akira.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-05/a05-p05-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p05-s01.mp3",
         "id": 14,
         "translation": "“篠田，阿基拉。",
         "paraphrase": "The card gave the visitor's name as Akira Shinoda.",
@@ -18413,7 +18413,7 @@
       {
         "text": "Kobe Dental College,\" she read.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-05/a05-p05-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p05-s02.mp3",
         "id": 15,
         "translation": "神户牙科学院。”她念道。",
         "paraphrase": "Chie also read the name of Kobe Dental College on the card.",
@@ -18475,7 +18475,7 @@
       {
         "text": "Naomi recognized the name.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-05/a05-p06-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p06-s01.mp3",
         "id": 16,
         "translation": "直美认出了这个名字。",
         "paraphrase": "Naomi knew whose name it was.",
@@ -18532,7 +18532,7 @@
       {
         "text": "Chie heard a soft intake of air.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-05/a05-p06-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p06-s02.mp3",
         "id": 17,
         "translation": "千惠听见一声轻轻的吸气。",
         "paraphrase": "Chie heard someone draw a quiet, quick breath.",
@@ -18589,7 +18589,7 @@
       {
         "text": "\"I think you should go,\" said Naomi.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-05/a05-p07-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p07-s01.mp3",
         "id": 18,
         "translation": "“我想您应该去见他。”直美说。",
         "paraphrase": "Naomi told her mother that she thought she should meet him.",
@@ -18654,7 +18654,7 @@
       {
         "text": "Akira was waiting in the entry.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-05/a05-p08-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p08-s01.mp3",
         "id": 19,
         "translation": "阿基拉在门厅等候。",
         "paraphrase": "Akira stood waiting by the entrance.",
@@ -18699,7 +18699,7 @@
       {
         "text": "He was in his early twenties, slim and serious, wearing the black military-style uniform of a student.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-05/a05-p08-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p08-s02.mp3",
         "id": 20,
         "translation": "他二十出头，瘦削而神情严肃，穿着学生的黑色军服式制服。",
         "paraphrase": "He was a thin, serious young man of a little over twenty, dressed in a student's black uniform of military design.",
@@ -18768,7 +18768,7 @@
       {
         "text": "As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—Chie glanced beyond him.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-05/a05-p08-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p08-s03.mp3",
         "id": 21,
         "translation": "他鞠躬时，双手直垂，一手握黑帽，另一手拿黄色油纸伞；千惠朝他身后瞥了一眼。",
         "paraphrase": "While he bowed with his arms hanging down, holding his cap in one hand and an oil-paper umbrella in the other, Chie looked past him.",
@@ -18865,7 +18865,7 @@
       {
         "text": "In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-05/a05-p08-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p08-s04.mp3",
         "id": 22,
         "translation": "庭院铺石被雨浸得发亮，她在那光亮表面看见他的倒影，仿佛另一个暗色的他。",
         "paraphrase": "His reflection in the wet, shiny courtyard stones looked to her like a second, shadowy version of him.",
@@ -18934,7 +18934,7 @@
       {
         "text": "\"Madame,\" said Akira, \"forgive my disruption, but I come with a matter of urgency.\"",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-05/a05-p09-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p09-s01.mp3",
         "id": 23,
         "translation": "“夫人，”阿基拉说，“请原谅我的打扰，但我确有一件急事。”",
         "paraphrase": "Akira respectfully apologized for the interruption but said that he had urgent business.",
@@ -19003,8 +19003,8 @@
         "paragraphEnd": 81,
         "reuse": {
           "pattern": "\"Forgive my ___, but I come with ___.\"",
-          "zh": "“请原谅我的打扰，但我带来了紧急消息。”",
-          "en": "\"Forgive my interruption, but I come with urgent news.\""
+          "zh": "“请原谅我的打扰，但我有一个问题要问。”",
+          "en": "\"Forgive my interruption, but I come with a question.\""
         },
         "pdfNotes": [
           {
@@ -19024,7 +19024,7 @@
       {
         "text": "His voice was soft, refined.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-05/a05-p10-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p10-s01.mp3",
         "id": 24,
         "translation": "他的声音轻柔而文雅。",
         "paraphrase": "He spoke quietly and with cultivated manners.",
@@ -19083,7 +19083,7 @@
       {
         "text": "He straightened and stole a deferential peek at her face.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-05/a05-p10-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p10-s02.mp3",
         "id": 25,
         "translation": "他直起身，恭恭敬敬地偷偷瞥了一眼她的脸。",
         "paraphrase": "He stood upright and briefly looked at her face in a respectful way.",
@@ -19153,7 +19153,7 @@
       {
         "text": "In the dim light his eyes shone with sincerity.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-05/a05-p11-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p11-s01.mp3",
         "id": 26,
         "translation": "昏暗中，他的双眼闪着真诚的光。",
         "paraphrase": "His eyes conveyed honesty in the faint light.",
@@ -19202,7 +19202,7 @@
       {
         "text": "Chie felt herself starting to like him.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-05/a05-p11-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p11-s02.mp3",
         "id": 27,
         "translation": "千惠发觉自己开始喜欢这个年轻人了。",
         "paraphrase": "Chie became aware that she was beginning to feel warmly towards him.",
@@ -19252,7 +19252,7 @@
       {
         "text": "\"Come inside, get out of this nasty night.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-05/a05-p12-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p12-s01.mp3",
         "id": 28,
         "translation": "“进来吧，躲开这糟糕的风雨夜。",
         "paraphrase": "She invited him in, away from the unpleasant weather.",
@@ -19313,7 +19313,7 @@
       {
         "text": "Surely your business can wait for a moment or two.\"",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-05/a05-p12-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p12-s02.mp3",
         "id": 29,
         "translation": "你的事总能等上一两分钟吧。”",
         "paraphrase": "She suggested that whatever had brought him could surely wait briefly.",
@@ -19375,7 +19375,7 @@
       {
         "text": "\"I don't want to trouble you.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-05/a05-p13-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p13-s01.mp3",
         "id": 30,
         "translation": "“我不想打扰您。",
         "paraphrase": "He said he did not wish to inconvenience her.",
@@ -19420,7 +19420,7 @@
       {
         "text": "Normally I would approach you more properly but I've received word of a position.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-05/a05-p13-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p13-s02.mp3",
         "id": 31,
         "translation": "按理，我会用更合礼数的方式来接洽，但我刚收到一个职位的消息。",
         "paraphrase": "He explained that he would usually observe the proper formalities, but news of a job had reached him.",
@@ -19506,7 +19506,7 @@
       {
         "text": "I've an opportunity to go to America, as dentist for Seattle's Japanese community.\"",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-05/a05-p13-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p13-s03.mp3",
         "id": 32,
         "translation": "我有机会去美国，担任西雅图日本人社区的牙医。”",
         "paraphrase": "He had the chance to work in America as a dentist serving Japanese people in Seattle.",
@@ -19567,7 +19567,7 @@
       {
         "text": "\"Congratulations,\" Chie said with amusement.",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-05/a05-p14-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p14-s01.mp3",
         "id": 33,
         "translation": "“恭喜，”千惠觉得有趣地说道。",
         "paraphrase": "Chie congratulated him, finding the situation amusing.",
@@ -19620,7 +19620,7 @@
       {
         "text": "\"That is an opportunity, I'm sure.",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-05/a05-p14-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p14-s02.mp3",
         "id": 34,
         "translation": "“那当然是个机会，我相信。",
         "paraphrase": "She assured him that it certainly sounded like a valuable opportunity.",
@@ -19674,7 +19674,7 @@
       {
         "text": "But how am I involved?\"",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-05/a05-p14-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p14-s03.mp3",
         "id": 35,
         "translation": "可这与我有什么关系呢？”",
         "paraphrase": "She nevertheless asked what it had to do with her.",
@@ -19727,7 +19727,7 @@
       {
         "text": "Even noting Naomi's breathless reaction to the name card, Chie had no idea.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-05/a05-p15-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p15-s01.mp3",
         "id": 36,
         "translation": "即使注意到了直美看到名片时屏息的反应，千惠依旧毫不知情。",
         "paraphrase": "Despite noticing Naomi's sharp reaction to the card, Chie still did not understand why he had come.",
@@ -19793,7 +19793,7 @@
       {
         "text": "Akira's message, delivered like a formal speech, filled her with maternal amusement.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-05/a05-p15-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p15-s02.mp3",
         "id": 37,
         "translation": "阿基拉的话像正式演说般说出，让她生出母亲看孩子时那种觉得有趣的心情。",
         "paraphrase": "The formal way Akira delivered his news amused Chie as a child's earnestness might amuse a mother.",
@@ -19862,7 +19862,7 @@
       {
         "text": "You know how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-05/a05-p15-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p15-s03.mp3",
         "id": 38,
         "translation": "你知道孩子谈起那些在大人看来无关紧要的事时，会多么认真、急切，又多么惹人怜爱吧？",
         "paraphrase": "Think of how children urgently and charmingly discuss subjects that adults regard as unimportant.",
@@ -19943,7 +19943,7 @@
       {
         "text": "That's how she viewed him, as a child.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-05/a05-p15-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p15-s04.mp3",
         "id": 39,
         "translation": "她就是这样看他的，把他当作孩子。",
         "paraphrase": "That was the way Chie saw Akira: as a child.",
@@ -20008,7 +20008,7 @@
       {
         "text": "It was how she viewed Naomi.",
         "paragraph": 16,
-        "audioSrc": "/media/audio/article-05/a05-p16-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p16-s01.mp3",
         "id": 40,
         "translation": "她看待直美时也是如此。",
         "paraphrase": "She regarded Naomi in the same way.",
@@ -20069,7 +20069,7 @@
       {
         "text": "Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, Chie had made no effort to find her a husband.",
         "paragraph": 16,
-        "audioSrc": "/media/audio/article-05/a05-p16-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p16-s02.mp3",
         "id": 41,
         "translation": "直美虽然已经十八岁，一直学习成就好姻缘所需的种种才艺，千惠却从未费心为她物色丈夫。",
         "paraphrase": "Although Naomi was eighteen and continually learning the skills expected of a future bride, Chie had done nothing to arrange a husband for her.",
@@ -20146,7 +20146,7 @@
       {
         "text": "Akira blushed.",
         "paragraph": 17,
-        "audioSrc": "/media/audio/article-05/a05-p17-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p17-s01.mp3",
         "id": 42,
         "translation": "阿基拉脸红了。",
         "paraphrase": "Akira's face reddened.",
@@ -20198,7 +20198,7 @@
       {
         "text": "\"Depending on your response, I may stay in Japan.",
         "paragraph": 18,
-        "audioSrc": "/media/audio/article-05/a05-p18-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p18-s01.mp3",
         "id": 43,
         "translation": "“根据您的答复，我也可能留在日本。",
         "paraphrase": "He said that what Chie decided might lead him to remain in Japan.",
@@ -20263,7 +20263,7 @@
       {
         "text": "I've come to ask for Naomi's hand.\"",
         "paragraph": 18,
-        "audioSrc": "/media/audio/article-05/a05-p18-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p18-s02.mp3",
         "id": 44,
         "translation": "我这次是来请求迎娶直美的。”",
         "paraphrase": "He explained that he had come to seek permission to marry Naomi.",
@@ -20336,7 +20336,7 @@
       {
         "text": "Suddenly Chie felt the dampness of the night.",
         "paragraph": 19,
-        "audioSrc": "/media/audio/article-05/a05-p19-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p19-s01.mp3",
         "id": 45,
         "translation": "千惠突然感觉到了夜里的湿冷。",
         "paraphrase": "Chie abruptly became conscious of the night's damp chill.",
@@ -20397,7 +20397,7 @@
       {
         "text": "\"Does Naomi know anything of your…ambitions?\"",
         "paragraph": 20,
-        "audioSrc": "/media/audio/article-05/a05-p20-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p20-s01.mp3",
         "id": 46,
         "translation": "“直美知道你的这些……打算吗？”",
         "paraphrase": "She asked whether Naomi was aware of his intentions.",
@@ -20462,7 +20462,7 @@
       {
         "text": "\"We have an understanding.",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s01.mp3",
         "id": 47,
         "translation": "“我们已有默契。",
         "paraphrase": "He replied that he and Naomi had reached an agreement.",
@@ -20519,7 +20519,7 @@
       {
         "text": "Please don't judge my candidacy by the unseemliness of this proposal.",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s02.mp3",
         "id": 48,
         "translation": "请不要因为这次提亲方式失礼，就否定我作为女婿人选的资格。",
         "paraphrase": "He asked Chie not to judge his suitability by the impropriety of proposing in this way.",
@@ -20580,7 +20580,7 @@
       {
         "text": "I ask directly because the use of a go-between takes much time.",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s03.mp3",
         "id": 49,
         "translation": "我直接来问，是因为通过媒人会花很多时间。",
         "paraphrase": "He was asking in person because dealing through an intermediary would take too long.",
@@ -20645,7 +20645,7 @@
       {
         "text": "Either method comes down to the same thing: a matter of parental approval.",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s04.mp3",
         "id": 50,
         "translation": "两种方式归根结底都一样：需要父母点头。",
         "paraphrase": "He said both approaches ultimately depended on the same issue: approval from the parents.",
@@ -20711,7 +20711,7 @@
       {
         "text": "If you give your consent, I become Naomi's yoshi.",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s05.mp3",
         "id": 51,
         "translation": "如果您同意，我就入赘直美家。",
         "paraphrase": "If Chie agreed, he would become Naomi's husband and be adopted into her family as a son-in-law.",
@@ -20777,7 +20777,7 @@
       {
         "text": "We'll live in the House of Fuji.",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s06.mp3",
         "id": 52,
         "translation": "我们会住进藤家。",
         "paraphrase": "They would make their home in the Fuji household.",
@@ -20834,7 +20834,7 @@
       {
         "text": "Without your consent, I must go to America, to secure a new home for my bride.\"",
         "paragraph": 21,
-        "audioSrc": "/media/audio/article-05/a05-p21-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p21-s07.mp3",
         "id": 53,
         "translation": "没有您的同意，我就必须去美国，为未来的新娘安顿一个新家。",
         "paraphrase": "If she refused, he would have to leave for America to establish a home for his future wife.",
@@ -20907,7 +20907,7 @@
       {
         "text": "Eager to make his point, he'd been looking her full in the face.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s01.mp3",
         "id": 54,
         "translation": "急于把意思说清，他一直直视着她的脸。",
         "paraphrase": "Wanting to explain himself clearly, he had been looking directly at her.",
@@ -20976,7 +20976,7 @@
       {
         "text": "Abruptly, his voice turned gentle.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s02.mp3",
         "id": 55,
         "translation": "忽然，他的声音柔和下来。",
         "paraphrase": "His manner of speaking suddenly softened.",
@@ -21037,7 +21037,7 @@
       {
         "text": "\"I see I've startled you.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s03.mp3",
         "id": 56,
         "translation": "“我看得出，我让您吃惊了。",
         "paraphrase": "He acknowledged that he had surprised her.",
@@ -21098,7 +21098,7 @@
       {
         "text": "My humble apologies.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s04.mp3",
         "id": 57,
         "translation": "请接受我诚挚的歉意。",
         "paraphrase": "He offered a respectful apology.",
@@ -21156,7 +21156,7 @@
       {
         "text": "I'll take no more of your evening.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s05.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s05.mp3",
         "id": 58,
         "translation": "我不再占用您今晚的时间了。",
         "paraphrase": "He said that he would not occupy any more of her evening.",
@@ -21213,7 +21213,7 @@
       {
         "text": "My address is on my card.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s06.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s06.mp3",
         "id": 59,
         "translation": "我的地址在名片上。",
         "paraphrase": "He told her that the card contained his address.",
@@ -21270,7 +21270,7 @@
       {
         "text": "If you don't wish to contact me, I'll reapproach you in two weeks' time.",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s07.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s07.mp3",
         "id": 60,
         "translation": "如果您不想主动联系我，我会两周后再来拜访。",
         "paraphrase": "If she chose not to get in touch, he would approach her again after two weeks.",
@@ -21339,7 +21339,7 @@
       {
         "text": "Until then, good night.\"",
         "paragraph": 22,
-        "audioSrc": "/media/audio/article-05/a05-p22-s08.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p22-s08.mp3",
         "id": 61,
         "translation": "在那之前，晚安。”",
         "paraphrase": "He said good night until their next contact.",
@@ -21397,7 +21397,7 @@
       {
         "text": "He bowed and left.",
         "paragraph": 23,
-        "audioSrc": "/media/audio/article-05/a05-p23-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p23-s01.mp3",
         "id": 62,
         "translation": "他鞠了一躬，便离开了。",
         "paraphrase": "He gave a bow and departed.",
@@ -21458,7 +21458,7 @@
       {
         "text": "Taking her ease, with effortless grace, like a cat making off with a fish.",
         "paragraph": 23,
-        "audioSrc": "/media/audio/article-05/a05-p23-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p23-s02.mp3",
         "id": 63,
         "translation": "他轻巧从容地离去，也带走了她的安宁，仿佛一只叼着鱼溜走的猫。",
         "paraphrase": "He slipped away with effortless grace, taking Chie's peace of mind with him, like a cat stealing a fish.",
@@ -21555,7 +21555,7 @@
       {
         "text": "\"Mother?\"",
         "paragraph": 24,
-        "audioSrc": "/media/audio/article-05/a05-p24-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p24-s01.mp3",
         "id": 64,
         "translation": "“母亲？”",
         "paraphrase": "Naomi quietly addressed her mother.",
@@ -21593,7 +21593,7 @@
       {
         "text": "Chie heard Naomi's low voice and turned from the door.",
         "paragraph": 24,
-        "audioSrc": "/media/audio/article-05/a05-p24-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p24-s02.mp3",
         "id": 65,
         "translation": "千惠听见直美低低的声音，便从门边转过身。",
         "paraphrase": "On hearing Naomi speak softly, Chie turned away from the door.",
@@ -21650,7 +21650,7 @@
       {
         "text": "\"He has asked you?\"",
         "paragraph": 24,
-        "audioSrc": "/media/audio/article-05/a05-p24-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p24-s03.mp3",
         "id": 66,
         "translation": "“他已经向你求婚了？”",
         "paraphrase": "Chie asked for confirmation that Akira had already proposed to Naomi.",
@@ -21708,7 +21708,7 @@
       {
         "text": "The sight of Naomi's clear eyes, her dark brows gave Chie strength.",
         "paragraph": 25,
-        "audioSrc": "/media/audio/article-05/a05-p25-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p25-s01.mp3",
         "id": 67,
         "translation": "看到直美清澈的眼睛和浓黑的眉毛，千惠又有了底气。",
         "paraphrase": "Looking at Naomi's clear eyes and dark eyebrows strengthened Chie's resolve.",
@@ -21770,7 +21770,7 @@
       {
         "text": "Maybe his hopes were preposterous.",
         "paragraph": 25,
-        "audioSrc": "/media/audio/article-05/a05-p25-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p25-s02.mp3",
         "id": 68,
         "translation": "也许他的奢望真是荒唐。",
         "paraphrase": "Perhaps what Akira hoped for was simply absurd.",
@@ -21831,7 +21831,7 @@
       {
         "text": "\"Where did you meet such a fellow?",
         "paragraph": 26,
-        "audioSrc": "/media/audio/article-05/a05-p26-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p26-s01.mp3",
         "id": 69,
         "translation": "“你在哪儿认识这么个人的？",
         "paraphrase": "Chie asked where Naomi had encountered a man like him.",
@@ -21896,7 +21896,7 @@
       {
         "text": "Imagine!",
         "paragraph": 26,
-        "audioSrc": "/media/audio/article-05/a05-p26-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p26-s02.mp3",
         "id": 70,
         "translation": "想想看！",
         "paraphrase": "She exclaimed at the idea.",
@@ -21945,7 +21945,7 @@
       {
         "text": "He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!\"",
         "paragraph": 26,
-        "audioSrc": "/media/audio/article-05/a05-p26-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p26-s03.mp3",
         "id": 71,
         "translation": "他竟以为一弹指，就能娶藤家的继承人，把她带到美国去！",
         "paraphrase": "Chie protested that he seemed to expect to marry the Fuji family's heir and carry her off to America as easily as snapping his fingers.",
@@ -22007,7 +22007,7 @@
       {
         "text": "Chie waited for Naomi's ripe laughter.",
         "paragraph": 27,
-        "audioSrc": "/media/audio/article-05/a05-p27-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p27-s01.mp3",
         "id": 72,
         "translation": "千惠等着直美放声笑起来。",
         "paraphrase": "Chie expected Naomi to respond with a rich, full laugh.",
@@ -22066,7 +22066,7 @@
       {
         "text": "Naomi was silent.",
         "paragraph": 28,
-        "audioSrc": "/media/audio/article-05/a05-p28-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p28-s01.mp3",
         "id": 73,
         "translation": "直美一言不发。",
         "paraphrase": "Naomi said nothing.",
@@ -22124,7 +22124,7 @@
       {
         "text": "She stood a full half minute looking straight into Chie's eyes.",
         "paragraph": 28,
-        "audioSrc": "/media/audio/article-05/a05-p28-s02.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p28-s02.mp3",
         "id": 74,
         "translation": "她足足站了半分钟，直直地望着千惠的眼睛。",
         "paraphrase": "For a full thirty seconds, she stood gazing directly into her mother's eyes.",
@@ -22191,7 +22191,7 @@
       {
         "text": "Finally, she spoke.",
         "paragraph": 28,
-        "audioSrc": "/media/audio/article-05/a05-p28-s03.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p28-s03.mp3",
         "id": 75,
         "translation": "终于，她开口了。",
         "paraphrase": "At last she began to speak.",
@@ -22249,7 +22249,7 @@
       {
         "text": "\"I met him at my literary meeting.\"",
         "paragraph": 28,
-        "audioSrc": "/media/audio/article-05/a05-p28-s04.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p28-s04.mp3",
         "id": 76,
         "translation": "“我是在文学聚会上认识他的。”",
         "paraphrase": "She said they had met at her literary group.",
@@ -22311,7 +22311,7 @@
       {
         "text": "Naomi turned to go back into the house, then stopped.",
         "paragraph": 29,
-        "audioSrc": "/media/audio/article-05/a05-p29-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p29-s01.mp3",
         "id": 77,
         "translation": "直美转身想回屋，随后又停住了。",
         "paraphrase": "Naomi started back towards the interior of the house, but paused.",
@@ -22381,7 +22381,7 @@
       {
         "text": "\"Mother.\"",
         "paragraph": 30,
-        "audioSrc": "/media/audio/article-05/a05-p30-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p30-s01.mp3",
         "id": 78,
         "translation": "“母亲。”",
         "paraphrase": "She addressed her mother once more.",
@@ -22432,7 +22432,7 @@
       {
         "text": "\"Yes?\"",
         "paragraph": 31,
-        "audioSrc": "/media/audio/article-05/a05-p31-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p31-s01.mp3",
         "id": 79,
         "translation": "“嗯？”",
         "paraphrase": "Chie indicated that she was listening.",
@@ -22483,7 +22483,7 @@
       {
         "text": "\"I mean to have him.\"",
         "paragraph": 32,
-        "audioSrc": "/media/audio/article-05/a05-p32-s01.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-05/a05-p32-s01.mp3",
         "id": 80,
         "translation": "“我决意要嫁给他。”",
         "paraphrase": "Naomi stated firmly that she intended to marry him.",

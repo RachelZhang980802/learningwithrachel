@@ -1,0 +1,2662 @@
+{
+  "source": "所有单元西方文明史问题清单.pdf",
+  "chapters": [
+    {
+      "id": "one",
+      "label": "Chapter One",
+      "title": "Ancient Greek Civilization 1",
+      "count": 63,
+      "parts": [
+        {
+          "id": "part-1",
+          "number": "1",
+          "title": "Introduction",
+          "sections": [
+            {
+              "id": "part-1-section-1",
+              "code": "1.1",
+              "title": "What Is Civilization?",
+              "pages": "pp. 1–2",
+              "questions": [
+                {
+                  "number": 1,
+                  "text": "What is culture?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 2,
+                  "text": "What is the etymological origin of the word culture?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 3,
+                  "text": "What is civilization?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 4,
+                  "text": "How many major civilizations were identified after the Cold War?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 5,
+                  "text": "What do Sinic and Sino- mean?",
+                  "sourcePage": 1
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-2",
+              "code": "1.2",
+              "title": "Symbols of Western Civilization",
+              "pages": "pp. 2–5",
+              "questions": [
+                {
+                  "number": 6,
+                  "text": "What are the major symbols of Western civilization? And How should we understand Liberty Leading the People? [Liberty Leading the people]",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 7,
+                  "text": "What is the essential spirit of the Renaissance?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 8,
+                  "text": "What were the time and spirit of the French Revolution?",
+                  "sourcePage": 1
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-3",
+              "code": "1.4",
+              "title": "Building a Community with a Shared Future for Mankind",
+              "pages": "p. 6",
+              "questions": [
+                {
+                  "number": 9,
+                  "text": "What are the two major pillars of China’s diplomacy?",
+                  "sourcePage": 1
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-4",
+              "code": "1.6",
+              "title": "Joseph Nye’s Theory of Soft Power",
+              "pages": "p. 8",
+              "questions": [
+                {
+                  "number": 10,
+                  "text": "What is Joseph Nye’s definition of soft power? And what are the sources of soft power?",
+                  "sourcePage": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2",
+          "number": "2",
+          "title": "Greek Bronze Age and Dark Age [2500 BC–700 BC]",
+          "sections": [
+            {
+              "id": "part-2-section-1",
+              "code": "2.1",
+              "title": "Pre-Greece Civilization",
+              "pages": "pp. 11–13",
+              "questions": [
+                {
+                  "number": 11,
+                  "text": "What are the four traditions of western civilization?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 12,
+                  "text": "What are the five major periods of Greek civilization?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 13,
+                  "text": "What are the six cradles of civilization?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 14,
+                  "text": "What are the four ancient civilizations?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 15,
+                  "text": "What were the Seven Wonders of the Ancient World?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 16,
+                  "text": "What are the Seven Wonders of the Modern World?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 17,
+                  "text": "What is the Fertile Crescent?",
+                  "sourcePage": 1
+                },
+                {
+                  "number": 18,
+                  "text": "What was ancient Egyptian civilization?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 19,
+                  "text": "What was ancient Mesopotamian civilization?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 20,
+                  "text": "What were the major achievements of ancient Babylonia?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 21,
+                  "text": "How did Egypt and Mesopotamia influence Greek civilization?",
+                  "sourcePage": 2
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-2",
+              "code": "2.2",
+              "title": "The West, Europe, and Greece",
+              "pages": "pp. 13–15",
+              "questions": [
+                {
+                  "number": 22,
+                  "text": "What does the Occident refer to in geography and identity?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 23,
+                  "text": "What is Orientalism?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 24,
+                  "text": "What are the four major stages of Western civilization?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 25,
+                  "text": "What are the major means of Westernization?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 26,
+                  "text": "What is the origin of the word Europe?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 27,
+                  "text": "What are the conventional boundaries between Europe and Asia?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 28,
+                  "text": "What are the modern names of Greece and Turkey?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 29,
+                  "text": "What is the Axial Age?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 30,
+                  "text": "What is the geographical position of Greece?",
+                  "sourcePage": 2
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-3",
+              "code": "2.3",
+              "title": "The Julian Calendar and Gregorian Calendar",
+              "pages": "pp. 15–16",
+              "questions": [
+                {
+                  "number": 31,
+                  "text": "What are the major differences between the Julian and Gregorian calendars?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 32,
+                  "text": "What do common date abbreviations mean?",
+                  "sourcePage": 2
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-4",
+              "code": "2.4",
+              "title": "The Greek Bronze Age",
+              "pages": "pp. 16–17",
+              "questions": [
+                {
+                  "number": 33,
+                  "text": "What were the two major civilizations of the Greek Bronze Age?",
+                  "sourcePage": 2
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-5",
+              "code": "2.5",
+              "title": "The Greek Dark Age",
+              "pages": "p. 17",
+              "questions": [
+                {
+                  "number": 34,
+                  "text": "What was the Greek Dark Age / Homeric Age?",
+                  "sourcePage": 2
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-6",
+              "code": "2.6",
+              "title": "Homer",
+              "pages": "pp. 17–22",
+              "questions": [
+                {
+                  "number": 35,
+                  "text": "What is the story of the Apple of Discord, and what does it symbolize?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 36,
+                  "text": "What is the plot of the Iliad? And How should Helen be evaluated?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 37,
+                  "text": "How did Achilles die, and what does his death symbolize?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 38,
+                  "text": "What is the plot of the Odyssey?",
+                  "sourcePage": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3",
+          "number": "3",
+          "title": "The Greek Gods",
+          "sections": [
+            {
+              "id": "part-3-section-1",
+              "code": "3.1",
+              "title": "Gods in the Life of Ancient Greece",
+              "pages": "pp. 23–24",
+              "questions": [
+                {
+                  "number": 39,
+                  "text": "What were the two major Panhellenic sanctuaries?",
+                  "sourcePage": 2
+                },
+                {
+                  "number": 40,
+                  "text": "Who founded the International Olympic Committee? And when and where were the first modern Olympic Games held?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 41,
+                  "text": "How should we understand the saying “Know thyself”?",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-2",
+              "code": "3.2",
+              "title": "Hesiod and The Theogony",
+              "pages": "pp. 24–25",
+              "questions": [
+                {
+                  "number": 42,
+                  "text": "How can Hesiod’s Theogony be broadly classified?",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-3",
+              "code": "3.3",
+              "title": "Prometheus and Pandora’s Box",
+              "pages": "pp. 25–26",
+              "questions": [
+                {
+                  "number": 43,
+                  "text": "How should we evaluate Prometheus’s theft of fire?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 44,
+                  "text": "What is the meaning of Pandora’s box?",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-4",
+              "code": "3.4",
+              "title": "The Third Generation: The Twelve Olympian Gods",
+              "pages": "pp. 26–30",
+              "questions": [
+                {
+                  "number": 45,
+                  "text": "Understand the three generations of gods in Greek mythology.",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-5",
+              "code": "3.5",
+              "title": "Hesiod’s Five Ages",
+              "pages": "p. 30",
+              "questions": [
+                {
+                  "number": 46,
+                  "text": "What are Hesiod’s Five Ages of Man?",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-6",
+              "code": "3.6",
+              "title": "The Chinese Gods and Goddess",
+              "pages": "p. 32",
+              "questions": [
+                {
+                  "number": 47,
+                  "text": "How can we compare Chinese and Western gods?",
+                  "sourcePage": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4",
+          "number": "4",
+          "title": "Archaic Age (700 BC–480 BC)",
+          "sections": [
+            {
+              "id": "part-4-section-1",
+              "code": "4.1",
+              "title": "Archaic Greece",
+              "pages": "pp. 33–35",
+              "questions": [
+                {
+                  "number": 48,
+                  "text": "Was the Archaic Age the greatest age in Greek history? Why or why not?",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-2",
+              "code": "4.2",
+              "title": "Wealthy Corinth",
+              "pages": "p. 35",
+              "questions": [
+                {
+                  "number": 49,
+                  "text": "What were the three most famous Greek city-states before the Classical Age?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 50,
+                  "text": "What is oligarchy?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 51,
+                  "text": "What is a tyrant in ancient Greek politics?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 52,
+                  "text": "How should Periander be evaluated?",
+                  "sourcePage": 3
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-3",
+              "code": "4.3",
+              "title": "Martial Sparta",
+              "pages": "pp. 37–39",
+              "questions": [
+                {
+                  "number": 53,
+                  "text": "What were the contributions of Lycurgus?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 54,
+                  "text": "Who was Leonidas I?",
+                  "sourcePage": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5",
+          "number": "5",
+          "title": "Athens and the Persian Wars",
+          "sections": [
+            {
+              "id": "part-5-section-1",
+              "code": "5.1",
+              "title": "Democratic Athens",
+              "pages": "pp. 41–44",
+              "questions": [
+                {
+                  "number": 55,
+                  "text": "Where was Athens located?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 56,
+                  "text": "What is the myth of Athena as the patron goddess of Athens?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 57,
+                  "text": "What were the archons, the Areopagus, and the Ecclesia?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 58,
+                  "text": "What does draconian mean?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 59,
+                  "text": "What was Solon’s identity, contribution, and influence?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 60,
+                  "text": "What was Greek tyranny?",
+                  "sourcePage": 3
+                },
+                {
+                  "number": 61,
+                  "text": "What were the contributions of Cleisthenes, and what was his historical role?",
+                  "sourcePage": 4
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-2",
+              "code": "5.2",
+              "title": "The Persian Wars",
+              "pages": "pp. 45–47",
+              "questions": [
+                {
+                  "number": 62,
+                  "text": "What were the Persian Wars? And what were the three most famous battles of the Persian Wars?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 63,
+                  "text": "Why is 478 BC, the founding of the Delian League, often seen as the beginning of Athens’ Golden Age?",
+                  "sourcePage": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "label": "Chapter Two",
+      "title": "Ancient Greek Civilization 2",
+      "count": 88,
+      "parts": [
+        {
+          "id": "part-1",
+          "number": "1",
+          "title": "Classical Greece in the Fifth Century",
+          "sections": [
+            {
+              "id": "part-1-section-1",
+              "code": "1.1",
+              "title": "Achievements of Classical Greece (480 BC–323 BC)",
+              "pages": "pp. 49–50",
+              "questions": [
+                {
+                  "number": 1,
+                  "text": "Why is Classical Greece often regarded as the greatest age of ancient Greece?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 2,
+                  "text": "Who is known as the Father of Medicine?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 3,
+                  "text": "What is the Hippocratic Oath?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 4,
+                  "text": "Who were the major representatives of this period?",
+                  "sourcePage": 4
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-2",
+              "code": "1.2",
+              "title": "The Golden Age of Athens and the Age of Pericles",
+              "pages": "pp. 50–53",
+              "questions": [
+                {
+                  "number": 5,
+                  "text": "Why is 478 BC often regarded as the starting point of the Golden Age of Athens?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 6,
+                  "text": "Why is 404 BC, the defeat in the Peloponnesian War, regarded as its end?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 7,
+                  "text": "What is hegemony?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 8,
+                  "text": "Why was Pericles called the first citizen of Athens?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 9,
+                  "text": "What were Pericles’ major contributions?",
+                  "sourcePage": 4
+                },
+                {
+                  "number": 10,
+                  "text": "How should we understand equality before the law?",
+                  "sourcePage": 4
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-3",
+              "code": "1.3",
+              "title": "The Pelopponnesian War (431 BC–404 BC)",
+              "pages": "p. 53",
+              "questions": [
+                {
+                  "number": 11,
+                  "text": "What was the Peloponnesian War?",
+                  "sourcePage": 4
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-4",
+              "code": "1.4",
+              "title": "Herodotus and Thucydides",
+              "pages": "pp. 53–56",
+              "questions": [
+                {
+                  "number": 12,
+                  "text": "Who is called the Father of History?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 13,
+                  "text": "What is the Thucydides Trap?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 14,
+                  "text": "What was Thucydides’ identity?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 15,
+                  "text": "What is the Melian Dialogue?",
+                  "sourcePage": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2",
+          "number": "2",
+          "title": "Classical Greece in the Fourth Century",
+          "sections": [
+            {
+              "id": "part-2-section-1",
+              "code": "2.1",
+              "title": "The Thirty Trants of Athens",
+              "pages": "p. 57",
+              "questions": [
+                {
+                  "number": 16,
+                  "text": "What is hegemony?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 17,
+                  "text": "What was the relationship between the Thirty Tyrants and Sparta?",
+                  "sourcePage": 5
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-2",
+              "code": "2.2",
+              "title": "The Spartan Hegemony (404 BC–371 BC)",
+              "pages": "pp. 57–58",
+              "questions": [
+                {
+                  "number": 18,
+                  "text": "Why was Spartan hegemony unpopular?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 19,
+                  "text": "What was the Corinthian War?",
+                  "sourcePage": 5
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-3",
+              "code": "2.3",
+              "title": "The Theban Hegemony",
+              "pages": "pp. 58–59",
+              "questions": [
+                {
+                  "number": 20,
+                  "text": "What myths are associated with Thebes?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 21,
+                  "text": "What was Thebes’ political position in Greek history?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 22,
+                  "text": "How did Theban hegemony arise?",
+                  "sourcePage": 5
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-4",
+              "code": "2.4",
+              "title": "The Rise of Macedoina",
+              "pages": "pp. 59–61",
+              "questions": [
+                {
+                  "number": 23,
+                  "text": "What was the origin of Macedon / Macedonia?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 24,
+                  "text": "What was the relationship between Macedon and Persia?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 25,
+                  "text": "Who was Alexander I of Macedon?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 26,
+                  "text": "Who was Perdiccas II?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 27,
+                  "text": "Who was Philip II, and what were his contributions?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 28,
+                  "text": "What was the League of Corinth?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 29,
+                  "text": "What is modern Macedonia?",
+                  "sourcePage": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3",
+          "number": "3",
+          "title": "Classical Greek Philosophy",
+          "sections": [
+            {
+              "id": "part-3-section-1",
+              "code": "3.1",
+              "title": "The Influence of Ancient Greek Philosophy",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 30,
+                  "text": "What is philosophy?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 31,
+                  "text": "What are the three major stages of ancient Greek philosophy?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 32,
+                  "text": "What are the Sophists, and what is Sophism?",
+                  "sourcePage": 5
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-2",
+              "code": "3.2",
+              "title": "Four Philosphical Terms",
+              "pages": "pp. 64–65",
+              "questions": [
+                {
+                  "number": 33,
+                  "text": "What is Metaphysics?",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 34,
+                  "text": "What is Dialectics？",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 35,
+                  "text": "What is Materialism？",
+                  "sourcePage": 5
+                },
+                {
+                  "number": 36,
+                  "text": "What is Idealism？",
+                  "sourcePage": 5
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-3",
+              "code": "3.3",
+              "title": "Pre-Socratic Philosphers",
+              "pages": "pp. 65–66",
+              "questions": [
+                {
+                  "number": 37,
+                  "text": "What was Thales of Miletus’ view? (water)",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 38,
+                  "text": "What was Heraclitus’ view? (fire)",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 39,
+                  "text": "How should we understand the saying “You cannot step into the same river twice”?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 40,
+                  "text": "What was Democritus’ view? (atoms)",
+                  "sourcePage": 6
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-4",
+              "code": "3.4",
+              "title": "Socrates (ca. 470 BC–399 BC)",
+              "pages": "pp. 66–68",
+              "questions": [
+                {
+                  "number": 41,
+                  "text": "What was Socrates’ identity and contribution?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 42,
+                  "text": "what is Socratic problem?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 43,
+                  "text": "what is Socratic Paradox?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 44,
+                  "text": "what is Socratic Method?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 45,
+                  "text": "What was the trial of Socrates?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 46,
+                  "text": "what is gadfly？",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 47,
+                  "text": "What was the Delphic oracle concerning Socrates?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 48,
+                  "text": "How should we understand “The unexamined life is not worth living”?",
+                  "sourcePage": 6
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-5",
+              "code": "3.5",
+              "title": "Plato (428 BC–348 BC)",
+              "pages": "pp. 68–70",
+              "questions": [
+                {
+                  "number": 49,
+                  "text": "What were Plato’s major ideas?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 50,
+                  "text": "What are the main arguments of The Republic?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 51,
+                  "text": "What is the Theory of Forms / Ideas?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 52,
+                  "text": "What is the Allegory of the Cave?",
+                  "sourcePage": 6
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-6",
+              "code": "3.6",
+              "title": "Aristotle (384 BC–332 BC)",
+              "pages": "pp. 70–72",
+              "questions": [
+                {
+                  "number": 53,
+                  "text": "What was Aristotle’s identity?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 54,
+                  "text": "What were Aristotle’s contributions?",
+                  "sourcePage": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4",
+          "number": "4",
+          "title": "Athenian Drama",
+          "sections": [
+            {
+              "id": "part-4-section-1",
+              "code": "4.1",
+              "title": "Origin an the Three Genres of Drama",
+              "pages": "pp. 73–74",
+              "questions": [
+                {
+                  "number": 55,
+                  "text": "Who were the major representatives of Greek tragedy?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 56,
+                  "text": "Who were the major representatives of Greek comedy?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 57,
+                  "text": "What was the origin of Greek drama?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 58,
+                  "text": "What is the representative example of Greek satyr drama?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 59,
+                  "text": "What were the two most important festivals in Athens?",
+                  "sourcePage": 6
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-2",
+              "code": "4.2",
+              "title": "Aeschylus (ca. 525/524 BC–ca. 456–455 BC)",
+              "pages": "p. 75",
+              "questions": [
+                {
+                  "number": 60,
+                  "text": "What was Aeschylus’ identity?",
+                  "sourcePage": 6
+                },
+                {
+                  "number": 61,
+                  "text": "What is the plot of the Oresteia?",
+                  "sourcePage": 7
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-3",
+              "code": "4.3",
+              "title": "Sophocles (ca. 497/496 BC–ca. 406/405 BC)",
+              "pages": "pp. 75–78",
+              "questions": [
+                {
+                  "number": 62,
+                  "text": "What was Sophocles’ identity?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 63,
+                  "text": "What is the plot of Oedipus Rex?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 64,
+                  "text": "What is the riddle of Sphinx?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 65,
+                  "text": "What is the Oedipus complex?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 66,
+                  "text": "What is Hamlet’s delay?",
+                  "sourcePage": 7
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-4",
+              "code": "4.4",
+              "title": "Euripides (ca. 480 BC–ca. 406 BC)",
+              "pages": "p. 78",
+              "questions": [
+                {
+                  "number": 67,
+                  "text": "What is the plot of the only surviving satyr play, Cyclops?",
+                  "sourcePage": 7
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-5",
+              "code": "4.5",
+              "title": "Aristophanes (ca. 446 BC–ca. 386 BC)",
+              "pages": "pp. 78–79",
+              "questions": [
+                {
+                  "number": 68,
+                  "text": "What was his identity? And what are his major works?",
+                  "sourcePage": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5",
+          "number": "5",
+          "title": "Alexander the Great and the Hellenistic World",
+          "sections": [
+            {
+              "id": "part-5-section-1",
+              "code": "5.1",
+              "title": "Alexander the Great",
+              "pages": "pp. 80–81",
+              "questions": [
+                {
+                  "number": 69,
+                  "text": "What is the time span of the Hellenistic period, and what are its major landmark events?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 70,
+                  "text": "What were the three most important Hellenistic kingdoms, and where were they located?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 71,
+                  "text": "What were Alexander the Great’s major contributions?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 72,
+                  "text": "What was Alexander the Great’s historical identity?",
+                  "sourcePage": 7
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-2",
+              "code": "5.2",
+              "title": "The Hellenistic World (323 BC–30 BC)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 73,
+                  "text": "What does Hellenistic mean?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 74,
+                  "text": "What is the Great Man Theory?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 75,
+                  "text": "Who founded the Ptolemaic Kingdom?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 76,
+                  "text": "Founder of The Seleucid Kingdom",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 77,
+                  "text": "Founder of The Antigonid Kingdom of Macedonia",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 78,
+                  "text": "What was the Battle of Corinth?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 79,
+                  "text": "Why was Syracuse important?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 80,
+                  "text": "What was the fall of Syracuse?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 81,
+                  "text": "What were the contributions of Archimedes in Syracuse?",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 82,
+                  "text": "The Death of Archimedes",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 83,
+                  "text": "Contribution of Euclid",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 84,
+                  "text": "Hellenistic sculptures",
+                  "sourcePage": 7
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-3",
+              "code": "3.",
+              "title": "The Hellenistic Philosophy",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 85,
+                  "text": "Cynicism: founder, representatives, and beliefs",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 86,
+                  "text": "Epicureanism: founder, representatives, and beliefs",
+                  "sourcePage": 7
+                },
+                {
+                  "number": 87,
+                  "text": "What were Epicurus’ contributions?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 88,
+                  "text": "Stoicism: founder, representatives, and beliefs",
+                  "sourcePage": 8
+                }
+              ],
+              "note": "原 PDF 在第五部分中将本小节标为“3.”；此处保留原编号。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "three",
+      "label": "Chapter Three",
+      "title": "Ancient Roman Civilization 1",
+      "count": 74,
+      "parts": [
+        {
+          "id": "part-1",
+          "number": "1",
+          "title": "The Roman Kingdom (753 BC–509 BC)",
+          "sections": [
+            {
+              "id": "part-1-section-1",
+              "code": "1.1",
+              "title": "To the Glory That Was Greece and the Grandeur That Was Rome",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 1,
+                  "text": "What are the Seven Wonders of the Modern World?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 2,
+                  "text": "What were the Seven Wonders of the Ancient World?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 3,
+                  "text": "What are the Seven Hills of Rome?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 4,
+                  "text": "What are the major stages of Italian historical development?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 5,
+                  "text": "What is the geographical position of modern Italy, including its neighbors, terrain, and surrounding seas?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 6,
+                  "text": "What are the three major stages of ancient Roman history?",
+                  "sourcePage": 8
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-2",
+              "code": "1.2",
+              "title": "The Two Founding Myths of Rome",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 7,
+                  "text": "What is the Roman origin in the myth of Aeneas?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 8,
+                  "text": "What is the story of Romulus, Remus, and the She-Wolf?",
+                  "sourcePage": 8
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-3",
+              "code": "1.3",
+              "title": "The Roman Kingdom",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 9,
+                  "text": "Who were the seven kings of Rome?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 10,
+                  "text": "What is imperium?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 11,
+                  "text": "What is the Curiate Assembly?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 12,
+                  "text": "What is the Centuriate Assembly?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 13,
+                  "text": "What is the difference between the Curiate Assembly and the Centuriate Assembly?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 14,
+                  "text": "What is the Senate?",
+                  "sourcePage": 8
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-4",
+              "code": "1.4",
+              "title": "Rape of Lucretia",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 15,
+                  "text": "What is the story of the Rape of Lucretia?",
+                  "sourcePage": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2",
+          "number": "2",
+          "title": "The Early Republic (509 BC–264 BC) · Stabilizing Power in Italy",
+          "sections": [
+            {
+              "id": "part-2-section-1",
+              "code": "2.1",
+              "title": "The Establishment of the Roman Republic",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 16,
+                  "text": "How was the Roman Republic established?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 17,
+                  "text": "What is a republic?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 18,
+                  "text": "Into how many forms did Plato divide government in The Republic?",
+                  "sourcePage": 8
+                },
+                {
+                  "number": 19,
+                  "text": "What are the major features of modern democracy?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 20,
+                  "text": "What is a patrician?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 21,
+                  "text": "What is a plebeian?",
+                  "sourcePage": 9
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-2",
+              "code": "2.2",
+              "title": "The Government of the Roman Republic",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 22,
+                  "text": "What does SPQR mean?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 23,
+                  "text": "What were the three major branches of the Roman Republic?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 24,
+                  "text": "Four Assemblies: curiate; centuriate; tribal and Plebeians",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 25,
+                  "text": "What was the Law of the Twelve Tables?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 26,
+                  "text": "What was the role of the Senate?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 27,
+                  "text": "What were the magistrates?",
+                  "sourcePage": 9
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-3",
+              "code": "2.3",
+              "title": "Celtic Invasion of Italy (390 BC)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 28,
+                  "text": "What was the Battle of the Allia?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 29,
+                  "text": "Camillus",
+                  "sourcePage": 9
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-4",
+              "code": "2.4",
+              "title": "Roman Expansion into the Whole of Italy",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 30,
+                  "text": "How did Rome expand throughout Italy?",
+                  "sourcePage": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3",
+          "number": "3",
+          "title": "The Middle Roman Republic (264 BC–146 BC) · Expanding Its Territory Around the Mediterranean World",
+          "sections": [
+            {
+              "id": "part-3-section-1",
+              "code": "3.1",
+              "title": "The Punic Wars",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 31,
+                  "text": "What was the origin of Carthage?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 32,
+                  "text": "What were the cause, course, and result of the First Punic War?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 33,
+                  "text": "Who was Hamilcar Barca?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 34,
+                  "text": "What were the cause, course, and result of the Second Punic War?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 35,
+                  "text": "Who was Hannibal Barca? What were his identity, achievements, and major battles?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 36,
+                  "text": "Who was Fabius Maximus / Fabius Cunctator? What were his identity and contribution?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 37,
+                  "text": "What was the role of Macedon during the Second Punic War?",
+                  "sourcePage": 9
+                },
+                {
+                  "number": 38,
+                  "text": "What were the Macedonian Wars? And what was the battle of Corinth ?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 39,
+                  "text": "How did Archimedes die?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 40,
+                  "text": "What is meant by a Carthaginian Peace?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 41,
+                  "text": "Who was Scipio Africanus the Elder?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 42,
+                  "text": "What was the Third Punic War?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 43,
+                  "text": "Who was Scipio Aemilianus / Scipio the Younger?",
+                  "sourcePage": 10
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-2",
+              "code": "3.2",
+              "title": "The Battle of Corinth and the Expansion of the Roman Republic",
+              "pages": "",
+              "questions": [],
+              "note": "原 PDF 此小节仅列出标题，未提供具体问题。"
+            },
+            {
+              "id": "part-3-section-3",
+              "code": "3.3",
+              "title": "The Roman Legion",
+              "pages": "",
+              "questions": [],
+              "note": "原 PDF 此小节仅列出标题，未提供具体问题。"
+            },
+            {
+              "id": "part-3-section-4",
+              "code": "3.4",
+              "title": "The Roman Mythology",
+              "pages": "",
+              "questions": [],
+              "note": "原 PDF 此小节仅列出标题，未提供具体问题。"
+            },
+            {
+              "id": "part-3-section-5",
+              "code": "3.5",
+              "title": "The Roman Triumph",
+              "pages": "",
+              "questions": [],
+              "note": "原 PDF 此小节仅列出标题，未提供具体问题。"
+            }
+          ]
+        },
+        {
+          "id": "part-4",
+          "number": "4",
+          "title": "The Late Roman Republic 1 (146 BC–63 BC) · Domestic and Abroad Crises",
+          "sections": [
+            {
+              "id": "part-4-section-1",
+              "code": "4.1",
+              "title": "Crisis of the Roman Republic",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 44,
+                  "text": "Who were the Optimates? Who were their major representatives?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 45,
+                  "text": "Who were the Populares? Who were their major representatives?",
+                  "sourcePage": 10
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-2",
+              "code": "4.2",
+              "title": "The Reforms of the Gracchi Brothers",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 46,
+                  "text": "What were Tiberius Gracchus’ contributions, especially his land reform?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 47,
+                  "text": "What were Gaius Gracchus’ contributions, including his broader political and social reforms?",
+                  "sourcePage": 10
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-3",
+              "code": "4.3",
+              "title": "Gaius Marius [ca. 157 BC–86 BC]",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 48,
+                  "text": "What were Marius’ identities and social relationships?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 49,
+                  "text": "What was the Jugurthine War (Rome vs. Numidia), and what was Marius’ role in it?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 50,
+                  "text": "What was the Cimbrian War (Rome vs. Germanic tribes), and what was Marius’ role in it?",
+                  "sourcePage": 10
+                },
+                {
+                  "number": 51,
+                  "text": "What were Marius’ contributions and influence?",
+                  "sourcePage": 10
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-4",
+              "code": "4,4",
+              "title": "The Mithridatic Wars and Sulla’s First Civil War",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 52,
+                  "text": "What was the Social War / Marsic War (Rome vs. the Italian allies), and what was Sulla’s role in it?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 53,
+                  "text": "What was the First Mithridatic War (Rome vs. Pontus), and what was Sulla’s role in it?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 54,
+                  "text": "What was Sulla’s First Civil War, and how did it relate to Marius’ faction?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 55,
+                  "text": "What was the Second Mithridatic War (83–81 BC), and what was Murena’s role in it?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 56,
+                  "text": "What was Sulla’s Second Civil War?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 57,
+                  "text": "What was the Third Mithridatic War (Rome vs. Pontus), and what roles did Lucullus and Pompey play?",
+                  "sourcePage": 11
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-5",
+              "code": "4.5",
+              "title": "Cicero (106 BC–43 BC)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 58,
+                  "text": "What were Cicero’s identities?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 59,
+                  "text": "What was the Catilinarian Conspiracy?",
+                  "sourcePage": 11
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-6",
+              "code": "4.6",
+              "title": "Spartacus (ca. 111 BC–71 BC)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 60,
+                  "text": "What was the Third Servile War (73–71 BC)?",
+                  "sourcePage": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5",
+          "number": "5",
+          "title": "The Late Roman Republic 2 (63 BC–27 BC) · Civil Wars",
+          "sections": [
+            {
+              "id": "part-5-section-1",
+              "code": "5.1",
+              "title": "The First Triumvirate",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 61,
+                  "text": "Who were the members of the First Triumvirate?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 62,
+                  "text": "What were the identity and contributions of Crassus?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 63,
+                  "text": "What were the identity and contributions of Pompey the Great?",
+                  "sourcePage": 11
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-2",
+              "code": "5.2",
+              "title": "Julius Caesar (100 BC–44 BC)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 64,
+                  "text": "What were the identity and contributions of Julius Caesar?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 65,
+                  "text": "What were the Gallic Wars (58 BC–50 BC)?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 66,
+                  "text": "What was Caesar’s Civil War?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 67,
+                  "text": "What is meant by Crossing the Rubicon?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 68,
+                  "text": "What was the Battle of Pharsalus (in Greece)?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 69,
+                  "text": "What was the assassination of Caesar?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 70,
+                  "text": "What were the identity and contributions of Cleopatra VII (69 BC–30 BC)?",
+                  "sourcePage": 11
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-3",
+              "code": "5.3",
+              "title": "The Second Triumvirate",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 71,
+                  "text": "Who were the members of the Second Triumvirate?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 72,
+                  "text": "Who was Mark Antony?",
+                  "sourcePage": 11
+                },
+                {
+                  "number": 73,
+                  "text": "Who was Lepidus?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 74,
+                  "text": "What were the identity and contributions of Octavian?",
+                  "sourcePage": 12
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "four",
+      "label": "Chapter Four",
+      "title": "Ancient Roman Civilization 2",
+      "count": 91,
+      "parts": [
+        {
+          "id": "part-1",
+          "number": "1",
+          "title": "The Pax Romana 1 (27 BC–69 AD)",
+          "sections": [
+            {
+              "id": "part-1-section-1",
+              "code": "1.1",
+              "title": "The Augustan Age",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 1,
+                  "text": "What does the title Princeps mean literally and politically?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 2,
+                  "text": "What does the name Augustus mean?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 3,
+                  "text": "what were Augustus's contributions?",
+                  "sourcePage": 12
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-2",
+              "code": "1.2",
+              "title": "Virgil; Horace; Ovid and Livy",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 4,
+                  "text": "How did Augustus use literature and culture to support his rule?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 5,
+                  "text": "Who was Virgil / Publius Vergilius Maro?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 6,
+                  "text": "What is the Aeneid?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 7,
+                  "text": "How did the Aeneid give Rome a mythic origin story?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 8,
+                  "text": "Who was Horace / Quintus Horatius Flaccus? And what were his works?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 9,
+                  "text": "Who was Livy / Titus Livius?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 10,
+                  "text": "Who was Ovid? And what are Ovid’s major works?",
+                  "sourcePage": 12
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-3",
+              "code": "1.3",
+              "title": "Julio-Claudian Dynasty (27 BC–68 AD)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 11,
+                  "text": "Why is the dynasty called “Julio-Claudian”?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 12,
+                  "text": "Which emperors belonged to the Julio-Claudian Dynasty?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 13,
+                  "text": "How did bloodline, adoption, and marriage shape Julio-Claudian succession?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 14,
+                  "text": "Who was Germanicus Julius Caesar? And what did he do?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 15,
+                  "text": "Who was Tiberius? And what did he do?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 16,
+                  "text": "Who was Caligula / Gaius Julius Caesar Augustus Germanicus? And what did he do?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 17,
+                  "text": "Who was Claudius? And what did he do ?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 18,
+                  "text": "Who was Nero? And what did he do?",
+                  "sourcePage": 12
+                },
+                {
+                  "number": 19,
+                  "text": "How is “Nero fiddled while Rome burned” similar to the Chinese phrase",
+                  "sourcePage": 12,
+                  "note": "原 PDF 题干止于“the Chinese phrase”，未给出对应中文短语。"
+                }
+              ]
+            },
+            {
+              "id": "part-1-section-4",
+              "code": "1.4",
+              "title": "The Year of the Four Emperors",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 20,
+                  "text": "How did Nero’s fall lead to the Year of the Four Emperors in AD 69?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 21,
+                  "text": "What did Galba, Otho;Vitellius and Vespastian do?",
+                  "sourcePage": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2",
+          "number": "2",
+          "title": "The Pax Romana 1 (69–180)",
+          "sections": [
+            {
+              "id": "part-2-section-1",
+              "code": "2.1",
+              "title": "The Flavian Dynasty",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 22,
+                  "text": "Which three emperors belonged to the Flavian Dynasty?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 23,
+                  "text": "How did the Flavian Dynasty differ from the Julio-Claudian Dynasty?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 24,
+                  "text": "Who was Vespasian?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 25,
+                  "text": "How did Vespasian restore stability after the Year of the Four Emperor",
+                  "sourcePage": 13,
+                  "note": "原 PDF 题干止于“the Year of the Four Emperor”，此处按原文保留。"
+                },
+                {
+                  "number": 26,
+                  "text": "What was the Colosseum / Flavian Amphitheatre?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 27,
+                  "text": "Who was Titus?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 28,
+                  "text": "What was Titus’ most important military achievement before becoming emperor?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 29,
+                  "text": "What happened during Titus's reign?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 30,
+                  "text": "Why was Titus later praised as “the delight of the human race”?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 31,
+                  "text": "Who was Domitian? And what did he do?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 32,
+                  "text": "What were the terms of the AD 89 peace treaty between Domitian and Decebalus?",
+                  "sourcePage": 13
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-2",
+              "code": "2.2",
+              "title": "The Nerva-Antonine Dynasty (96–192)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 33,
+                  "text": "What was the Nerva-Antonine Dynasty?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 34,
+                  "text": "Why are Nerva, Trajan, Hadrian, Antoninus Pius, and Marcus Aurelius called the Five Good Emperors?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 35,
+                  "text": "Who was Nerva? And what did he do?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 36,
+                  "text": "Who was Trajan? And why was Trajan important to Rome?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 37,
+                  "text": "What was the Kitos War / Diaspora Revolt?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 38,
+                  "text": "Who was Hadrian? And what did he do?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 39,
+                  "text": "What was the Bar Kokhba Revolt?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 40,
+                  "text": "Who was Antoninus Pius? And what did he do?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 41,
+                  "text": "Who was Marcus Aurelius? And what did he do?",
+                  "sourcePage": 13
+                },
+                {
+                  "number": 42,
+                  "text": "Who was Commodus? And what did he do?",
+                  "sourcePage": 13
+                }
+              ]
+            },
+            {
+              "id": "part-2-section-3",
+              "code": "2.3",
+              "title": "Tacitus and Plutarch",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 43,
+                  "text": "What are Tacitus’ major works?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 44,
+                  "text": "What is Parallel Lives?",
+                  "sourcePage": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3",
+          "number": "3",
+          "title": "The Crisis of the Third Century and Constantine",
+          "sections": [
+            {
+              "id": "part-3-section-1",
+              "code": "3.1",
+              "title": "Roman Empire from 193 to 235",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 45,
+                  "text": "What was the Year of the Five Emperors?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 46,
+                  "text": "What does it mean to say that Didius Julianus “bought the throne”?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 47,
+                  "text": "Who was Septimius Severus? And what did he do?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 48,
+                  "text": "Who was Caracalla? And what did he do?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 49,
+                  "text": "Why is AD 235 usually seen as the beginning of the Crisis of the Third Century?",
+                  "sourcePage": 14
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-2",
+              "code": "3.2",
+              "title": "The Crisis of the Third Century (235–284)",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 50,
+                  "text": "When did the Crisis of the Third Century begin and end?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 51,
+                  "text": "What foreign invasions did Rome face during the Third-Century Crisis?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 52,
+                  "text": "What were the major temporary breakaway states?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 53,
+                  "text": "Why was Aurelian called Restitutor Orbis, “Restorer of the World”?",
+                  "sourcePage": 14
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-3",
+              "code": "3.3",
+              "title": "Diocletian",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 54,
+                  "text": "Who was Diocletian?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 55,
+                  "text": "What was the Tetrarchy?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 56,
+                  "text": "What was the Great Persecution?",
+                  "sourcePage": 14
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-4",
+              "code": "3.4",
+              "title": "Constantine the Great",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 57,
+                  "text": "Who was Constantine the Great?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 58,
+                  "text": "What was the Battle of Milvian Bridge?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 59,
+                  "text": "What was the Edict of Milan?",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 60,
+                  "text": "What was the Battle of Chrysopolis?",
+                  "sourcePage": 14
+                }
+              ]
+            },
+            {
+              "id": "part-3-section-5",
+              "code": "3.5",
+              "title": "Summary of the Tetrachy",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 61,
+                  "text": "Evaluation",
+                  "sourcePage": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4",
+          "number": "4",
+          "title": "Christianity Became the State Religion of the Roman Empire",
+          "sections": [
+            {
+              "id": "part-4-section-1",
+              "code": "",
+              "title": "Opening Questions",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 62,
+                  "text": "What are the four traditions of western civilization? [p.14]",
+                  "sourcePage": 14
+                },
+                {
+                  "number": 63,
+                  "text": "When did Christianity become the official state religion of the Roman Empire?",
+                  "sourcePage": 14
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-2",
+              "code": "4.1 / 4.2",
+              "title": "Karl Marx: “The Opium of the People” / Friedrich Engles: On the History of Early Christianity",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 64,
+                  "text": "The attitudes of Marx and Engles towards chirstanity",
+                  "sourcePage": 15
+                }
+              ],
+              "note": "原 PDF 的 4.1 与 4.2 共用这一条复习内容。"
+            },
+            {
+              "id": "part-4-section-3",
+              "code": "4.3",
+              "title": "How Chrsitianity Became the State Religion?",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 65,
+                  "text": "Theodosius I [identity; deeds]",
+                  "sourcePage": 15
+                }
+              ]
+            },
+            {
+              "id": "part-4-section-4",
+              "code": "4.4",
+              "title": "The Basics of Christianity",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 66,
+                  "text": "what are the three branches of christianity?",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 67,
+                  "text": "The Book of Genesis",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 68,
+                  "text": "Noah’s Ark",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 69,
+                  "text": "Abraham",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 70,
+                  "text": "Moses and the Exodus",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 71,
+                  "text": "The Kingdom of Israel and King David",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 72,
+                  "text": "Jesus Christ",
+                  "sourcePage": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5",
+          "number": "5",
+          "title": "The Fall of the Roman Empire, the Rise of Islam and the Survival of the Byzantine Empire",
+          "sections": [
+            {
+              "id": "part-5-section-1",
+              "code": "5.1",
+              "title": "The Fall of the Western Empire",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 73,
+                  "text": "The reason of the fall",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 74,
+                  "text": "The last emperor of the Western Roman empire",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 75,
+                  "text": "the role of Huns",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 76,
+                  "text": "the Battle of Adrianople",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 77,
+                  "text": "Alaric I",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 78,
+                  "text": "Attila the Hun",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 79,
+                  "text": "Pope Leo I",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 80,
+                  "text": "What does vandel mean?",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 81,
+                  "text": "What marked the end of the Roman Empire?",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 82,
+                  "text": "the Kingdom of Italy",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 83,
+                  "text": "Odoacer",
+                  "sourcePage": 15
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-2",
+              "code": "5.2",
+              "title": "The Rise of Islam",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 84,
+                  "text": "The time of establishing Judaism, christianity and Islam",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 85,
+                  "text": "The distribution of Muslims",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 86,
+                  "text": "Wnhat are the Abrahamic religions ?",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 87,
+                  "text": "The story of Muhammad",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 88,
+                  "text": "What was caliph/caliphate ?",
+                  "sourcePage": 15
+                },
+                {
+                  "number": 89,
+                  "text": "The conflicts between Sunni and Shia",
+                  "sourcePage": 15
+                }
+              ]
+            },
+            {
+              "id": "part-5-section-3",
+              "code": "5.3",
+              "title": "The Byzantine Empire",
+              "pages": "",
+              "questions": [
+                {
+                  "number": 90,
+                  "text": "When did Eastern Roman Empire fall?",
+                  "sourcePage": 16
+                },
+                {
+                  "number": 91,
+                  "text": "Justinian I",
+                  "sourcePage": 16
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "appendix": {
+    "title": "Greek & Roman Mythology · Reference Table",
+    "headers": [
+      "Greek Figure",
+      "Roman Name / Equivalent",
+      "Spouse / Partner",
+      "Selected Children",
+      "Key Myths & Notes"
+    ],
+    "rows": [
+      [
+        "Nike",
+        "Victoria",
+        "",
+        "",
+        "Goddess of victory"
+      ],
+      [
+        "Athena",
+        "Minerva",
+        "",
+        "",
+        "Born from Zeus’s head"
+      ],
+      [
+        "Aphrodite",
+        "Venus",
+        "Hephaestus",
+        "",
+        "Hephaestus discovers Aphrodite’s affair with Ares."
+      ],
+      [
+        "Aphrodite",
+        "Venus",
+        "Ares",
+        "Eros (Cupid; in some traditions)",
+        "Aphrodite’s affair with Ares."
+      ],
+      [
+        "Aphrodite",
+        "Venus",
+        "Anchises (a Trojan prince)",
+        "Aeneas",
+        "Aeneas escapes Troy and settles in Italy; Rome is later founded by Romulus."
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Europa (a Phoenician princess)",
+        "Minos",
+        "Zeus carries Europa to Crete in the form of a bull."
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Metis",
+        "Athena",
+        "Zeus swallows Metis; Athena is later born from his head."
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Leto",
+        "Apollo",
+        "Father of Apollo and Artemis"
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Leto",
+        "Artemis",
+        "Father of Apollo and Artemis"
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Hera",
+        "Ares",
+        "Zeus is king of the gods; Ares is the son of Zeus and Hera."
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Hera",
+        "Hephaestus (in some traditions)",
+        "In Hesiod’s account, Hera bears Hephaestus without Zeus."
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Maia",
+        "Hermes",
+        "Hermes, the messenger of the gods, is the son of Zeus and Maia."
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Themis",
+        "Moirai (the Three Fates)",
+        ""
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Themis",
+        "Horae (goddesses of the seasons and order)",
+        ""
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Eurynome",
+        "Charites (the Three Graces)",
+        ""
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Demeter",
+        "Persephone",
+        ""
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Mnemosyne",
+        "The Nine Muses",
+        ""
+      ],
+      [
+        "Zeus",
+        "Jupiter",
+        "Alcmene",
+        "Heracles (Roman: Hercules)",
+        ""
+      ],
+      [
+        "Thetis",
+        "",
+        "Peleus (king of Phthia)",
+        "Achilles",
+        "Thetis is a sea nymph (Nereid) and the mother of Achilles."
+      ],
+      [
+        "Paris (a Trojan prince)",
+        "",
+        "Helen",
+        "",
+        "The golden apple of discord and the Judgment of Paris."
+      ],
+      [
+        "Helen",
+        "",
+        "Menelaus (king of Sparta)",
+        "Hermione",
+        "Helen’s departure with Paris is central to the myth of the Trojan War."
+      ],
+      [
+        "Odysseus (king of Ithaca)",
+        "Ulysses",
+        "Penelope",
+        "Telemachus",
+        "Hero of Homer’s Odyssey."
+      ],
+      [
+        "Poseidon",
+        "Neptune",
+        "Amphitrite",
+        "Triton",
+        ""
+      ],
+      [
+        "Hera",
+        "Juno",
+        "Zeus",
+        "Ares; Hebe; Hephaestus (parentage varies)",
+        "Hera is Hephaestus’s mother; some accounts name Zeus as his father, while Hesiod names no father."
+      ],
+      [
+        "Hades",
+        "Pluto",
+        "Persephone",
+        "",
+        ""
+      ],
+      [
+        "Artemis",
+        "Diana",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Ares",
+        "Mars",
+        "Aphrodite",
+        "Eros (Cupid; in some traditions)",
+        ""
+      ],
+      [
+        "Hermes",
+        "Mercury",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Hephaestus",
+        "Vulcan",
+        "Aphrodite",
+        "",
+        ""
+      ],
+      [
+        "Hestia",
+        "Vesta",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Demeter",
+        "Ceres",
+        "Zeus",
+        "Persephone",
+        ""
+      ]
+    ]
+  }
+}

@@ -2,13 +2,13 @@
   "10": {
     "articleId": "10",
     "title": "Two Ways of Seeing a River",
-    "catSrc": "/media/article-themes/article10-river-cat-v3-alpha.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article-themes/article10-river-cat-v3-alpha.png",
     "sentences": [
       {
         "id": 1,
         "text": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "渐渐地，水面变成了一本奇妙的书——对不懂领航的乘客来说，它如同一门无法理解的死语言；对我却毫无保留地袒露心意，清楚地传达最珍贵的秘密，仿佛真的开口说话一般。",
         "classification": {
           "type": "complex",
@@ -123,7 +123,7 @@
         "id": 2,
         "text": "And it was not a book to be read once and thrown aside, for it had a new story to tell every day.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s02-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s02-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "而这并不是读一遍就可以扔到一边的书，因为它每天都有一个新故事可讲。",
         "classification": {
           "type": "compound",
@@ -230,7 +230,7 @@
         "id": 3,
         "text": "Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s03-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s03-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "在漫长的一千二百英里河段上，从没有一页缺乏趣味；没有一页可以不读而不损失什么；也没有一页会让你想跳过，以为别处能找到更大的乐趣。",
         "classification": {
           "type": "compound-complex",
@@ -345,7 +345,7 @@
         "id": 4,
         "text": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s04-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s04-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "人类从未写出过这样奇妙的书；也从未有哪本书如此引人入胜，趣味毫不衰减，每次重读都焕发鲜活光彩。",
         "classification": {
           "type": "compound-complex",
@@ -458,7 +458,7 @@
         "id": 5,
         "text": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s05-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s05-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "不懂读这本书的乘客，偶尔没把水面那一丝特别的“酒窝”完全忽略时，会觉得它迷人；领航员看见的却是一段斜体强调文字，甚至不止如此，而是用最大号大写字母写成、末尾带一串高喊的感叹号的警示；因为那说明水下埋着沉船或岩石，足以撕毁最坚固的船。",
         "classification": {
           "type": "compound-complex",
@@ -667,7 +667,7 @@
         "id": 6,
         "text": "It is the faintest and simplest expression the water ever makes, and the most hideous to a pilot's eye.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s06-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s06-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "这是水面能作出的最微弱、最简单的表达，却也是领航员眼中最骇人的。",
         "classification": {
           "type": "complex",
@@ -750,7 +750,7 @@
         "id": 7,
         "text": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p01-s07-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p01-s07-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "事实上，读不懂这本书的乘客只看见种种漂亮画面，由阳光上色、云影铺阴；受过训练的人眼中，那根本不是图画，而是最严峻、最不可儿戏的阅读材料。",
         "classification": {
           "type": "complex",
@@ -865,7 +865,7 @@
         "id": 8,
         "text": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "当我掌握了河水的语言，熟悉大河沿岸每一个微小特征，就像熟悉字母表那样时，我已经获得了一项宝贵本领。",
         "classification": {
           "type": "complex",
@@ -992,7 +992,7 @@
         "id": 9,
         "text": "But I had lost something, too.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s02-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s02-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "但我也失去了一些东西。",
         "classification": {
           "type": "simple",
@@ -1057,7 +1057,7 @@
         "id": 10,
         "text": "I had lost something which could never be restored to me while I lived.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s03-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s03-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "我失去的东西，在有生之年再也无法恢复。",
         "classification": {
           "type": "complex",
@@ -1148,7 +1148,7 @@
         "id": 11,
         "text": "All the grace, the beauty, the poetry had gone out of the majestic river!",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s04-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s04-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "大河的优雅、美丽和诗意，全都消失了！",
         "classification": {
           "type": "simple",
@@ -1205,7 +1205,7 @@
         "id": 12,
         "text": "I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s05-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s05-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "我至今仍记得一次奇妙的落日，那是我刚开始接触汽船航行时亲眼见到的。",
         "classification": {
           "type": "complex",
@@ -1294,7 +1294,7 @@
         "id": 13,
         "text": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s06-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s06-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "宽阔河面染成血红；中景的红色转为金色，一根孤零零的木头从中漂来，黑而显眼；一处细长的斜纹在水上闪光；另一处水面被翻滚的环纹打破，色彩像欧泊般变幻；红晕最淡处是一片平滑水面，优美圆纹和放射线被极细致地勾勒其上；左岸林木茂密，投下的阴影中有一道皱褶般的长水痕闪着银光；林墙高处，一株光秃的枯树挥动唯一带叶的大枝，在太阳无遮无挡的灿烂光辉中像火焰般发亮。",
         "classification": {
           "type": "compound-complex",
@@ -1546,8 +1546,8 @@
         "paraphrase": "The remembered sunset is a sequence of vivid colours, patterns, reflections and glowing branches.",
         "reuse": {
           "pattern": "In ___, ___; where ___ was ___, was ___ that ___.",
-          "zh": "远处，河面闪着金光；光线最柔和的地方，有一片映着群树的平静水面。",
-          "en": "In the distance, the river gleamed gold; where the light was softest, was a calm stretch of water that reflected the trees.",
+          "zh": "在厨房里，汤正在慢慢炖煮；光线最明亮的地方，有一只映着窗户的碗。",
+          "en": "In the kitchen, the soup simmered; where the light was brightest, was a bowl that reflected the window.",
           "note": "描景的地点前置与完全倒装较文学；普通表达也可用 a calm stretch of water was where …。"
         },
         "pdfNotes": [
@@ -1608,7 +1608,7 @@
         "id": 14,
         "text": "There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p02-s07-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p02-s07-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "这里有优美曲线、倒影、林木覆盖的高地和朦胧远景；流动交融的光影在整个景色上远近漂移，每一刻都给它增添新的奇妙色彩。",
         "classification": {
           "type": "compound",
@@ -1719,7 +1719,7 @@
         "id": 15,
         "text": "I stood like one bewitched.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p03-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p03-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "我站在那里，如同中了魔法。",
         "classification": {
           "type": "simple",
@@ -1780,7 +1780,7 @@
         "id": 16,
         "text": "I drank it in, in a speechless rapture.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p03-s02-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p03-s02-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "我默默陶醉，尽情领略眼前的一切。",
         "classification": {
           "type": "simple",
@@ -1849,7 +1849,7 @@
         "id": 17,
         "text": "The world was new to me, and I had never seen anything like this at home.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p03-s03-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p03-s03-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "这个世界对我全然新鲜，我在家乡从未见过这样的景象。",
         "classification": {
           "type": "compound",
@@ -1934,7 +1934,7 @@
         "id": 18,
         "text": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p03-s04-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p03-s04-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "然而，正如我说过的，有一天，我开始不再留意日月暮光在河面造就的光彩与魅力；又过了一天，我便完全不再注意它们。",
         "classification": {
           "type": "compound-complex",
@@ -2075,7 +2075,7 @@
         "id": 19,
         "text": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p03-s05-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p03-s05-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "那时，如果那场落日重现，我也不会再陶醉，只会在心里这样评论：这太阳说明明天有风；漂木说明涨水，真没什么可高兴的；水上斜纹提示有陡直沙脊，如果继续延伸，哪天夜里就会毁掉一艘汽船；翻涌的“沸泡”说明沙洲在被冲散、航道在改变；那边平滑水上的线圈警告那处麻烦地方正危险地变浅；林影中的银纹是新枯木激起的水面扰动，它简直选中了捕捉汽船的最佳位置；那棵只剩一根活枝的高枯树也撑不了多久，到时少了这位友善的老地标，夜里还怎么驶过这段难辨的水路呢。",
         "classification": {
           "type": "speech",
@@ -2439,7 +2439,7 @@
         "id": 20,
         "text": "No, the romance and the beauty were all gone from the river.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s01-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "不，河流的浪漫情趣和美已经全消失了。",
         "classification": {
           "type": "simple",
@@ -2504,7 +2504,7 @@
         "id": 21,
         "text": "All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s02-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s02-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "如今，河流任何特征对我的全部价值，都只在于它能为实现汽船安全领航提供多少实际帮助。",
         "classification": {
           "type": "complex",
@@ -2613,7 +2613,7 @@
         "id": 22,
         "text": "Since those days, I have pitied doctors from my heart.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s03-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s03-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "从那以后，我由衷地同情医生。",
         "classification": {
           "type": "simple",
@@ -2682,7 +2682,7 @@
         "id": 23,
         "text": "What does the lovely flush in a beauty's cheek mean to a doctor but a \"break\" that ripples above some deadly disease?",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s04-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s04-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "美人脸颊上可爱的红晕，对医生来说，除了像水下致命危险之上的一道水纹，还能意味着什么呢？",
         "classification": {
           "type": "complex",
@@ -2785,7 +2785,7 @@
         "id": 24,
         "text": "Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay?",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s05-v4.mp3?v=20260828-article10-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s05-v4.mp3?v=20260828-article10-full-align-v4",
         "translation": "她身上一切看得见的魅力，难道不都密布着在他眼中代表潜在病变的迹象和符号吗？",
         "classification": {
           "type": "complex",
@@ -2884,7 +2884,7 @@
         "id": 25,
         "text": "Does he ever see her beauty at all, or doesn't he simply view her professionally, and comment upon her unwholesome condition all to himself?",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s06-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s06-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "他究竟还看得到她的美吗？还是只从专业角度审视她，在心里独自评论她的不健康状况？",
         "classification": {
           "type": "compound",
@@ -3011,7 +3011,7 @@
         "id": 26,
         "text": "And doesn't he sometimes wonder whether he has gained most or lost most by learning his trade?",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-10-aligned-v4/a10-p04-s07-v4.mp3?v=20260828-article10-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-10-aligned-v4/a10-p04-s07-v4.mp3?v=20260828-article10-user-confirmed-v4",
         "translation": "他难道不会有时也想，学会了这门职业，究竟得到的更多，还是失去的更多？",
         "classification": {
           "type": "complex",
@@ -4804,13 +4804,13 @@
   "06": {
     "articleId": "06",
     "title": "Reading",
-    "catSrc": "/media/article-themes/article06-reading-cat-v3.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article-themes/article06-reading-cat-v3.png",
     "sentences": [
       {
         "id": 1,
         "text": "From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s001-v3.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s001-v3.mp3",
         "translation": "我从小就爱读书，到手的所有那点钱总是花在书上。",
         "classification": {
           "type": "compound-complex",
@@ -4912,7 +4912,7 @@
         "id": 2,
         "text": "Pleased with The Pilgrim's Progress, I began collecting John Bunyan's works in separate little volumes.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s002-v3.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s002-v3.mp3",
         "translation": "我很喜欢《天路历程》，最初收藏的是约翰·班扬作品的分册小本。",
         "classification": {
           "type": "simple",
@@ -4994,7 +4994,7 @@
         "id": 3,
         "text": "I afterward sold them to enable me to buy R. Burton's Historical Collections; they were small chapmen's books, and cheap, 40 or 50 in all.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s003-v3.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s003-v3.mp3",
         "translation": "后来我把这些书卖掉，用钱买了 R. Burton 的《历史汇编》；那些书是小贩兜售的小册子，便宜，总共四五十本。",
         "classification": {
           "type": "compound",
@@ -5085,7 +5085,7 @@
         "id": 4,
         "text": "My father's little library consisted chiefly of books in polemic divinity, most of which I read, and have since often regretted that, at a time when I had such a thirst for knowledge, more proper books had not fallen in my way since it was now resolved I should not be a clergyman.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s004-v3.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s004-v3.mp3",
         "translation": "父亲的小书库主要是论辩神学的书，大多数我都读过；后来我常后悔，在我如此渴求知识时竟没遇上更合适的书，因为当时已决定不让我做神职人员。",
         "classification": {
           "type": "compound-complex",
@@ -5227,7 +5227,7 @@
         "id": 5,
         "text": "Plutarch's Lives there was in which I read abundantly, and I still think that time spent to great advantage.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s005-v4.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s005-v4.mp3",
         "translation": "书库里还有《普鲁塔克名人传》，我读了很多，至今仍认为那段时间花得很有价值。",
         "classification": {
           "type": "compound-complex",
@@ -5322,7 +5322,7 @@
         "id": 6,
         "text": "There was also a book of Defoe's, called An Essay on Projects, and another of Dr. Mather's, called Essays to Do Good, which perhaps gave me a turn of thinking that had an influence on some of the principal future events of my life.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s006-v6.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s006-v6.mp3",
         "translation": "还有笛福的一本《论计划》，以及马瑟博士的《行善论》；后一本也许使我形成了一种思考倾向，影响了我后来人生中的一些大事。",
         "classification": {
           "type": "complex",
@@ -5417,7 +5417,7 @@
         "id": 7,
         "text": "This bookish inclination at length determined my father to make me a printer, though he had already one son (James) of that profession.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s007-v7.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s007-v7.mp3",
         "translation": "这种爱书的倾向终于使父亲决定让我当印刷工，尽管他已有一个儿子詹姆斯从事这一行。",
         "classification": {
           "type": "complex",
@@ -5491,7 +5491,7 @@
         "id": 8,
         "text": "In 1717 my brother James returned from England with a press and letters to set up his business in Boston.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-serial-v1/a06-p01-s008-v8.mp3",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-serial-v1/a06-p01-s008-v8.mp3",
         "translation": "1717 年，哥哥詹姆斯从英国带着印刷机和活字回来，在波士顿开办印刷业务。",
         "classification": {
           "type": "simple",
@@ -5564,7 +5564,7 @@
         "id": 9,
         "text": "I liked it much better than that of my father, but still had a hankering for the sea.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s009-v4.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s009-v4.mp3?v=20260828-a06-release-v4",
         "translation": "我喜欢这一行，远胜父亲的那一行，但仍向往海上生活。",
         "classification": {
           "type": "simple",
@@ -5647,7 +5647,7 @@
         "id": 10,
         "text": "To prevent the apprehended effect of such an inclination, my father was impatient to have me bound to my brother.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s010-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s010-v3.mp3?v=20260828-a06-release-v4",
         "translation": "为防止这种倾向带来他所担心的后果，父亲急着要我与哥哥订立学徒契约。",
         "classification": {
           "type": "simple",
@@ -5718,7 +5718,7 @@
         "id": 11,
         "text": "I stood out some time, but at last was persuaded, and signed the indentures when I was yet but twelve years old.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s011-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s011-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我起初坚持了一阵，最后还是被说服了，才十二岁就签了学徒契约。",
         "classification": {
           "type": "complex",
@@ -5808,7 +5808,7 @@
         "id": 12,
         "text": "I was to serve as an apprentice till I was twenty-one years of age, only I was to be allowed journeyman's wages during the last year.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s012-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s012-v3.mp3?v=20260828-a06-release-v4",
         "translation": "按约我须当学徒直到二十一岁，不过最后一年可以领熟练工的工资。",
         "classification": {
           "type": "compound-complex",
@@ -5898,7 +5898,7 @@
         "id": 13,
         "text": "In a little time I made great proficiency in the business, and became a useful hand to my brother.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s013-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s013-v3.mp3?v=20260828-a06-release-v4",
         "translation": "不久我在这一行就熟练多了，成了哥哥的得力帮手。",
         "classification": {
           "type": "simple",
@@ -5981,7 +5981,7 @@
         "id": 14,
         "text": "I now had access to better books.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s014-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s014-v3.mp3?v=20260828-a06-release-v4",
         "translation": "现在我能接触到更好的书了。",
         "classification": {
           "type": "simple",
@@ -6044,7 +6044,7 @@
         "id": 15,
         "text": "An acquaintance with the apprentices of booksellers enabled me sometimes to borrow a small one, which I was careful to return soon and clean.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s015-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s015-v3.mp3?v=20260828-a06-release-v4",
         "translation": "因为结识了一些书商的学徒，我有时能借到一本小书，总是小心地尽快、干净地归还。",
         "classification": {
           "type": "complex",
@@ -6154,7 +6154,7 @@
         "id": 16,
         "text": "Often I sat up in my room reading the greatest part of the night, when the book was borrowed in the evening and to be returned early in the morning, lest it should be missed or wanted.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p01-s016-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p01-s016-v3.mp3?v=20260828-a06-release-v4",
         "translation": "若傍晚借的书必须次日清早归还，我常在房里读到深夜，以免书主发现书不在，或要用时找不到。",
         "classification": {
           "type": "complex",
@@ -6236,7 +6236,7 @@
         "id": 17,
         "text": "And after some time an ingenious tradesman, Mr. Matthew Adams, who had a pretty collection of books, and who frequented our printing-house, took notice of me, invited me to his library, and very kindly lent me such books as I chose to read.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s017-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s017-v3.mp3?v=20260828-a06-release-v4",
         "translation": "又过了一阵，心灵手巧的商人马修·亚当斯先生注意到了我；他藏书颇丰，又常来印刷所，于是邀我去他的藏书室，慷慨地把我选中的书借给我读。",
         "classification": {
           "type": "complex",
@@ -6362,7 +6362,7 @@
         "id": 18,
         "text": "I now took a fancy to poetry, and made some little pieces; my brother, thinking it might turn to account, encouraged me, and put me on composing occasional ballads.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s018-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s018-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我开始喜欢诗歌，写了几篇小作；哥哥认为或许有利可图，便鼓励我，让我写些应景歌谣。",
         "classification": {
           "type": "compound-complex",
@@ -6472,7 +6472,7 @@
         "id": 19,
         "text": "One was called The Lighthouse Tragedy, and contained an account of the drowning of Captain Worthilake, with his two daughters; the other was a sailor's song, on the taking of Teach (or Blackbeard) the pirate.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s019-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s019-v3.mp3?v=20260828-a06-release-v4",
         "translation": "一首叫《灯塔悲剧》，讲沃思莱克船长与两个女儿溺亡的事；另一首是水手之歌，唱的是海盗蒂奇（即黑胡子）被拿下的故事。",
         "classification": {
           "type": "compound",
@@ -6577,7 +6577,7 @@
         "id": 20,
         "text": "They were wretched stuff, in the Grub-street-ballad style; and when they were printed he sent me about the town to sell them.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s020-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s020-v3.mp3?v=20260828-a06-release-v4",
         "translation": "这些都是蹩脚作品，属于格拉布街式的廉价歌谣；印好后，哥哥便派我在城里四处售卖。",
         "classification": {
           "type": "compound-complex",
@@ -6675,7 +6675,7 @@
         "id": 21,
         "text": "The first sold wonderfully, the event being recent, having made a great noise.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s021-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s021-v3.mp3?v=20260828-a06-release-v4",
         "translation": "第一首卖得极好，因为题材是新近发生、引起了很大轰动的事件。",
         "classification": {
           "type": "simple",
@@ -6749,7 +6749,7 @@
         "id": 22,
         "text": "This flattered my vanity; but my father discouraged me by ridiculing my performances, and telling me verse-makers were generally beggars.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s022-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s022-v3.mp3?v=20260828-a06-release-v4",
         "translation": "这满足了我的虚荣心；但父亲嘲笑我的作品，并说写诗的人通常都是乞丐，打消了我的热情。",
         "classification": {
           "type": "compound-complex",
@@ -6847,7 +6847,7 @@
         "id": 23,
         "text": "So I escaped being a poet, most probably a very bad one; but as prose writing had been of great use to me in the course of my life, and was a principal means of my advancement, I shall tell you how, in such a situation, I acquired what little ability I have in that way.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p02-s023-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p02-s023-v3.mp3?v=20260828-a06-release-v4",
         "translation": "这样我便免于当一个诗人——多半还会是个很差的诗人。不过散文写作一生给了我很大帮助，也是我进步的重要途径，所以我要说说，在那样的处境下，我是怎样学到仅有的这点写作本领的。",
         "classification": {
           "type": "compound-complex",
@@ -6974,7 +6974,7 @@
         "id": 24,
         "text": "There was another bookish lad in the town, John Collins by name, with whom I was intimately acquainted.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p03-s024-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p03-s024-v3.mp3?v=20260828-a06-release-v4",
         "translation": "镇上还有个爱读书的少年，名叫约翰·柯林斯，我与他很熟。",
         "classification": {
           "type": "complex",
@@ -7052,7 +7052,7 @@
         "id": 25,
         "text": "We sometimes disputed, and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p03-s025-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p03-s025-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我们有时争辩，而且很爱争论，急于驳倒对方。顺便说，这种好辩的习性很容易变成坏习惯：实践它就得不断反驳别人，使人在交往中十分讨嫌；它还会弄坏谈话气氛，招致反感甚至仇怨，而那些场合你或许正需要友谊。",
         "classification": {
           "type": "compound-complex",
@@ -7210,7 +7210,7 @@
         "id": 26,
         "text": "I had caught it by reading my father's books of dispute about religion.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p03-s026-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p03-s026-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我是读父亲那些关于宗教论辩的书，才染上这种习惯的。",
         "classification": {
           "type": "simple",
@@ -7282,7 +7282,7 @@
         "id": 27,
         "text": "Persons of good sense, I have since observed, seldom fall into it, except lawyers, university men, and men of all sorts that have been bred at Edinburgh.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p03-s027-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p03-s027-v3.mp3?v=20260828-a06-release-v4",
         "translation": "后来我发现，明事理的人很少染上这种习惯——律师、大学人士以及在爱丁堡受培养的各色人等除外。",
         "classification": {
           "type": "complex",
@@ -7366,7 +7366,7 @@
         "id": 28,
         "text": "A question was once, somehow or other, started between Collins and me, of the propriety of educating the female sex in learning, and their abilities for study.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s028-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s028-v3.mp3?v=20260828-a06-release-v4",
         "translation": "有一次，不知怎么，我和柯林斯谈起女性接受学问教育是否妥当，以及她们是否有学习能力的问题。",
         "classification": {
           "type": "simple",
@@ -7445,7 +7445,7 @@
         "id": 29,
         "text": "He was of opinion that it was improper, and that they were naturally unequal to it.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s029-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s029-v3.mp3?v=20260828-a06-release-v4",
         "translation": "他认为这样做不妥，还认为女性天生不能胜任学习。",
         "classification": {
           "type": "complex",
@@ -7524,7 +7524,7 @@
         "id": 30,
         "text": "I took the contrary side, perhaps a little for dispute's sake.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s030-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s030-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我站到相反的一边，也许部分只是为了争辩。",
         "classification": {
           "type": "simple",
@@ -7591,7 +7591,7 @@
         "id": 31,
         "text": "He was naturally more eloquent, had a ready plenty of words; and sometimes, as I thought, bore me down more by his fluency than by the strength of his reasons.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s031-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s031-v3.mp3?v=20260828-a06-release-v4",
         "translation": "他天生口才更好，词语也随时有得用；有时在我看来，他压倒我靠的是说得流利，而非理由更强。",
         "classification": {
           "type": "complex",
@@ -7695,7 +7695,7 @@
         "id": 32,
         "text": "As we parted without settling the point, and were not to see one another again for some time, I sat down to put my arguments in writing, which I copied fair and sent to him.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s032-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s032-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我们分开时问题尚未解决，之后一段时间又不会见面，于是我坐下把论点写下来，誊清后寄给他。",
         "classification": {
           "type": "complex",
@@ -7769,7 +7769,7 @@
         "id": 33,
         "text": "He answered, and I replied.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s033-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s033-v3.mp3?v=20260828-a06-release-v4",
         "translation": "他回信，我又回复。",
         "classification": {
           "type": "compound",
@@ -7839,7 +7839,7 @@
         "id": 34,
         "text": "Three or four letters of a side had passed, when my father happened to find my papers and read them.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s034-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s034-v3.mp3?v=20260828-a06-release-v4",
         "translation": "双方各来往了三四封信之后，父亲碰巧发现并读了我的文稿。",
         "classification": {
           "type": "complex",
@@ -7913,7 +7913,7 @@
         "id": 35,
         "text": "Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s035-v4.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s035-v4.mp3?v=20260828-a06-release-v4",
         "translation": "父亲没有介入争论，而是借机谈我的文风。他指出，我虽在拼写和标点上胜过对手（这得益于印刷所的训练），在表达优雅、组织条理和文字清晰方面却差得很远；他举例让我信服。",
         "classification": {
           "type": "complex",
@@ -8044,7 +8044,7 @@
         "id": 36,
         "text": "I saw the justice of his remark, and thence grew more attentive to the manner in writing, and determined to endeavor at improvement.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p04-s036-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p04-s036-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我承认他的评语很中肯，从此更加留意写作方式，并决心努力改进。",
         "classification": {
           "type": "simple",
@@ -8135,7 +8135,7 @@
         "id": 37,
         "text": "About this time I met with an odd volume of The Spectator.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s037-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s037-v3.mp3?v=20260828-a06-release-v4",
         "translation": "大约这时，我偶然遇到一卷零散的《旁观者》。",
         "classification": {
           "type": "simple",
@@ -8205,7 +8205,7 @@
         "id": 38,
         "text": "It was the third.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s038-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s038-v3.mp3?v=20260828-a06-release-v4",
         "translation": "那是第三卷。",
         "classification": {
           "type": "simple",
@@ -8271,7 +8271,7 @@
         "id": 39,
         "text": "I had never before seen any of them.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s039-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s039-v3.mp3?v=20260828-a06-release-v4",
         "translation": "此前我一卷都没见过。",
         "classification": {
           "type": "simple",
@@ -8337,7 +8337,7 @@
         "id": 40,
         "text": "I bought it, read it over and over, and was much delighted with it.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s040-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s040-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我买下它，读了一遍又一遍，非常喜欢。",
         "classification": {
           "type": "simple",
@@ -8427,7 +8427,7 @@
         "id": 41,
         "text": "I thought the writing excellent, and wished, if possible, to imitate it.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s041-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s041-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我觉得文笔极佳，希望在可能的情况下模仿它。",
         "classification": {
           "type": "simple",
@@ -8517,7 +8517,7 @@
         "id": 42,
         "text": "With this view I took some of the papers, and, making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s042-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s042-v3.mp3?v=20260828-a06-release-v4",
         "translation": "抱着这个目的，我选了几篇文章，把每句话的意旨简记下来，搁置数日；再不看原书，用自己能想到的合适词语把各个意思充分写出，力求像原文一样完整地重写文章。",
         "classification": {
           "type": "complex",
@@ -8683,7 +8683,7 @@
         "id": 43,
         "text": "Then I compared my Spectator with the original, discovered some of my faults, and corrected them.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s043-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s043-v3.mp3?v=20260828-a06-release-v4",
         "translation": "随后我把自己重写的《旁观者》文章与原文对照，找出一些毛病并改正。",
         "classification": {
           "type": "simple",
@@ -8777,7 +8777,7 @@
         "id": 44,
         "text": "But I found I wanted a stock of words, or a readiness in recollecting and using them, which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s044-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s044-v3.mp3?v=20260828-a06-release-v4",
         "translation": "但我发现自己缺少词汇储备，或者说，缺少迅速想起并运用词语的本领。我想若此前一直写诗，这时本来就会掌握这些能力：诗歌总要求为了格律和韵脚，寻找意思相同而长度或读音不同的词，这本会迫使我不断搜寻不同表达，也会使这些表达牢牢记在脑中，让我掌握它们。",
         "classification": {
           "type": "complex",
@@ -8923,7 +8923,7 @@
         "id": 45,
         "text": "Therefore I took some of the tales and turned them into verse; and, after a time, when I had pretty well forgotten the prose, turned them back again.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s045-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s045-v3.mp3?v=20260828-a06-release-v4",
         "translation": "因此我选了些故事改成诗，过一段时间，等原来的散文体文字几乎忘了，再把它们改回去。",
         "classification": {
           "type": "complex",
@@ -9017,7 +9017,7 @@
         "id": 46,
         "text": "I also sometimes jumbled my collections of hints into confusion, and after some weeks endeavored to reduce them into the best order, before I began to form the full sentences and complete the paper.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s046-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s046-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我有时还故意把提示打乱，几周后再努力排出最佳顺序，然后才写成完整句子和整篇文章。",
         "classification": {
           "type": "complex",
@@ -9111,7 +9111,7 @@
         "id": 47,
         "text": "This was to teach me method in the arrangement of thoughts.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s047-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s047-v3.mp3?v=20260828-a06-release-v4",
         "translation": "这样做是为了训练我有条理地安排思想。",
         "classification": {
           "type": "simple",
@@ -9169,7 +9169,7 @@
         "id": 48,
         "text": "By comparing my work afterward with the original, I discovered many faults and amended them; but I sometimes had the pleasure of fancying that, in certain particulars of small import, I had been lucky enough to improve the method or the language, and this encouraged me to think I might possibly in time come to be a tolerable English writer, of which I was extremely ambitious.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s048-v6.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s048-v6.mp3?v=20260828-a06-release-v4",
         "translation": "后来与原文比较，我发现并改了许多毛病；但有时也会高兴地觉得，在某些无关紧要的细节上，我碰巧把组织或措辞改善了一点。这鼓励我相信，也许终有一天我能成为一个还算像样的英语写作者，而这正是我热切追求的目标。",
         "classification": {
           "type": "compound-complex",
@@ -9307,7 +9307,7 @@
         "id": 49,
         "text": "My time for these exercises and for reading was at night, after work or before it began in the morning, or on Sundays, when I contrived to be in the printing-house alone, evading as much as I could the common attendance on public worship which my father used to exact on me when I was under his care, and which indeed I still thought a duty, though I could not, as it seemed to me, afford time to practice it.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-06-batch-v3/a06-p05-s049-v3.mp3?v=20260828-a06-release-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-06-batch-v3/a06-p05-s049-v3.mp3?v=20260828-a06-release-v4",
         "translation": "我只能在晚上、下工后或早晨开工前，以及星期日读书练习。周日我设法独自留在印刷所，尽量不参加日常的集体礼拜；从前受父亲管束时，他要求我参加。我其实仍认为这是职责，只是觉得实在抽不出时间。",
         "classification": {
           "type": "complex",
@@ -11911,13 +11911,13 @@
   "07": {
     "articleId": "07",
     "title": "What We Gain or Lose in Cities",
-    "catSrc": "/media/article-themes/article07-cities-cat.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article-themes/article07-cities-cat.png",
     "sentences": [
       {
         "id": 1,
         "text": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p01-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p01-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "在人类六百万年演化史的大部分时间里，人类和早期类人祖先过着仿佛稍加升级的黑猩猩般的生活：人口稀疏，以家庭或小群体分散在各地。",
         "classification": {
           "type": "simple",
@@ -12019,7 +12019,7 @@
         "id": 2,
         "text": "Only within the past 6,000 years, a small fraction of human history, did some of our ancestors come together in cities.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p01-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p01-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "直到过去六千年——在人类历史中只占很小一部分——我们的一些祖先才开始在城市聚居。",
         "classification": {
           "type": "simple",
@@ -12100,7 +12100,7 @@
         "id": 3,
         "text": "But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p01-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p01-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "但今天，世界上超过一半的人口生活在这些新的聚居环境中，其中一些城市拥有数千万居民。",
         "classification": {
           "type": "complex",
@@ -12182,7 +12182,7 @@
         "id": 4,
         "text": "Urban life involves trade-offs.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p02-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p02-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "城市生活涉及取舍。",
         "classification": {
           "type": "simple",
@@ -12241,7 +12241,7 @@
         "id": 5,
         "text": "We may gain big benefits in return for suffering big disadvantages.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p02-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p02-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "我们可能在承受重大不利条件的同时，换得很大的好处。",
         "classification": {
           "type": "simple",
@@ -12308,7 +12308,7 @@
         "id": 6,
         "text": "Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p02-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p02-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "我们来考虑其中两种取舍：个人自由与共同体利益之间的取舍，以及社会联系与匿名状态之间的取舍。",
         "classification": {
           "type": "simple",
@@ -12393,7 +12393,7 @@
         "id": 7,
         "text": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p03-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p03-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "要理解自由这个议题，先看新加坡：它实际上是世界上人口最稠密的微型国家之一。",
         "classification": {
           "type": "simple",
@@ -12474,7 +12474,7 @@
         "id": 8,
         "text": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p03-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p03-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新加坡近六百万人挤在约二百五十平方英里的土地上——其人口密度是美国平均水平的二百三十倍。",
         "classification": {
           "type": "simple",
@@ -12547,7 +12547,7 @@
         "id": 9,
         "text": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p03-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p03-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "它是亚洲的金融中心、世界最繁忙航运海峡之一旁的重要港口，也是夹在印度尼西亚和马来西亚这两个强大邻国之间的一小块优质地段。",
         "classification": {
           "type": "simple",
@@ -12638,7 +12638,7 @@
         "id": 10,
         "text": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p03-s04-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p03-s04-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新加坡直到一九六五年仍是马来西亚的一部分，那一年经济与族群紧张促成了它的分离。",
         "classification": {
           "type": "complex",
@@ -12720,7 +12720,7 @@
         "id": 11,
         "text": "But Singapore depends on Malaysia for most of its water and much of its food, and can't afford to make mistakes or provoke its neighbors.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p03-s05-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p03-s05-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "但新加坡的大部分用水和许多食品依赖马来西亚，因此经不起失误，也不能招惹邻国。",
         "classification": {
           "type": "simple",
@@ -12780,8 +12780,8 @@
         "paraphrase": "Dependence on neighbouring countries makes serious mistakes or antagonism costly for Singapore.",
         "reuse": {
           "pattern": "___ depends on ___ for ___ and can't afford to ___.",
-          "zh": "这个小镇依靠河流供水，经不起让它受到污染。",
-          "en": "The town depends on the river for water and can't afford to let it become polluted.",
+          "zh": "这家人靠公交车上学和上班，不能错过末班车。",
+          "en": "The family depends on the bus for school and work and can't afford to miss the last one.",
           "note": "can't afford to do 指承受不起后果，适用于并非钱财的问题。"
         },
         "pdfNotes": [
@@ -12818,7 +12818,7 @@
         "id": 12,
         "text": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p04-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p04-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "所以新加坡政府密切监管公民，以确保个人不会损害共同体。",
         "classification": {
           "type": "complex",
@@ -12913,7 +12913,7 @@
         "id": 13,
         "text": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p04-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p04-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "检查人员查看各家花盆是否有积水，以免花盆成为传播疾病的蚊虫的滋生地。",
         "classification": {
           "type": "complex",
@@ -13004,7 +13004,7 @@
         "id": 14,
         "text": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p04-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p04-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "智能技术传感器测量或将测量每条街道的交通、每辆汽车的移动，以及建筑物的温度和所投下的阴影。",
         "classification": {
           "type": "simple",
@@ -13083,7 +13083,7 @@
         "id": 15,
         "text": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p04-s04-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p04-s04-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "它们还将追踪每户的用水用电量，并在每次家庭马桶冲水时记录时间。",
         "classification": {
           "type": "complex",
@@ -13174,7 +13174,7 @@
         "id": 16,
         "text": "Americans may view such measures with horror.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p04-s05-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p04-s05-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "美国人可能会对这些措施感到惊恐。",
         "classification": {
           "type": "simple",
@@ -13236,7 +13236,7 @@
         "id": 17,
         "text": "But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p04-s06-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p04-s06-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "但对新加坡公民来说，这就是他们与政府达成的交换：以较少的个人自由，换取一流的生活水平、健康与安全。",
         "classification": {
           "type": "complex",
@@ -13334,7 +13334,7 @@
         "id": 18,
         "text": "Next consider Germany's cities, also densely populated.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p05-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p05-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "接着看看德国的城市，它们的人口也很稠密。",
         "classification": {
           "type": "simple",
@@ -13400,7 +13400,7 @@
         "id": 19,
         "text": "Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p05-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p05-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "地方政府规定居民可在屋顶使用的瓦片形状和颜色，也规定他们能或不能在自家地块上砍伐的树木大小与树龄。",
         "classification": {
           "type": "complex",
@@ -13510,7 +13510,7 @@
         "id": 20,
         "text": "To obtain a fishing license, Germans must attend many hours of fishing classes, then pass a 60-question exam.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p05-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p05-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "为了获得钓鱼许可证，德国人必须上许多小时的钓鱼课，然后通过一场六十道题的考试。",
         "classification": {
           "type": "simple",
@@ -13598,7 +13598,7 @@
         "id": 21,
         "text": "Most Americans would bristle at such restrictions.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p05-s04-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p05-s04-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "大多数美国人遇到这样的限制大概会恼火。",
         "classification": {
           "type": "simple",
@@ -13656,7 +13656,7 @@
         "id": 22,
         "text": "But benefits to German communities include beautiful regional architecture, green cities, government support for the arts, and healthy fish populations.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p05-s05-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p05-s05-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "但德国共同体得到的好处包括富有地方特色的优美建筑、绿色城市、政府对艺术的支持，以及状况良好的鱼类种群。",
         "classification": {
           "type": "simple",
@@ -13722,7 +13722,7 @@
         "id": 23,
         "text": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p06-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p06-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "另一个极端是我自己的城市洛杉矶，在那里个人业主的权利被视为神圣不可侵犯。",
         "classification": {
           "type": "complex",
@@ -13819,7 +13819,7 @@
         "id": 24,
         "text": "The result is a free-for-all, in which many individuals and communities suffer disadvantages.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p06-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p06-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "结果是一种各行其是的局面，许多个人和共同体因此承受不利后果。",
         "classification": {
           "type": "complex",
@@ -13898,7 +13898,7 @@
         "id": 25,
         "text": "Almost any style of house is permissible; local architectural character is nonexistent.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p06-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p06-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "几乎任何风格的房子都获准建造；地方建筑特色则不复存在。",
         "classification": {
           "type": "compound",
@@ -13977,7 +13977,7 @@
         "id": 26,
         "text": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p06-s04-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p06-s04-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "树木覆盖正在消失，气温不断升高，业主挖出的泥土和喷洒的农药最终落到邻居的地块上。",
         "classification": {
           "type": "compound",
@@ -14041,8 +14041,8 @@
         "paraphrase": "Lost tree cover, higher temperatures, and spillover from private land impose costs on neighbours.",
         "reuse": {
           "pattern": "___ is ___, ___ are ___, and ___ end up ___.",
-          "zh": "森林正在萎缩，河流正在变窄，而工业废物最终流进海里。",
-          "en": "The forest is shrinking, rivers are narrowing, and industrial wastes end up in the sea.",
+          "zh": "我的书桌越来越乱，盘子越堆越多，而洗好的衣服最后都落在椅子上。",
+          "en": "My desk is getting messier, dishes are piling up, and clean clothes end up on the chair.",
           "note": "三套主语和谓语并列；每组分别检查数与动词形式。"
         },
         "pdfNotes": [
@@ -14063,7 +14063,7 @@
         "id": 27,
         "text": "To fish in the local bay waters, anyone can buy a fishing license—no questions asked—so of course fish populations decline.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p06-s05-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p06-s05-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "要在本地海湾钓鱼，任何人都能买一张钓鱼许可证——不必接受盘问——于是，作者说，鱼类种群当然会减少。",
         "classification": {
           "type": "compound",
@@ -14164,7 +14164,7 @@
         "id": 28,
         "text": "The outcomes of trade-offs differ for Singapore, Germany, and L.A. because different geographies and histories have led to different customs.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p07-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p07-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新加坡、德国和洛杉矶的取舍结果不同，因为不同的地理与历史造就了不同的习俗。",
         "classification": {
           "type": "complex",
@@ -14255,7 +14255,7 @@
         "id": 29,
         "text": "Population density is highest in Singapore, intermediate in Germany, lowest in the United States (including California).",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p07-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p07-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "三者相比，新加坡的人口密度最高，德国居中，美国（包括加利福尼亚州）最低。",
         "classification": {
           "type": "simple",
@@ -14336,7 +14336,7 @@
         "id": 30,
         "text": "China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, Germany for two millennia, the United States for just a few centuries.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p07-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p07-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新加坡大部分人口的祖先来自中国；中国有五千年的城市历史，德国有两千年，美国则只有几百年。",
         "classification": {
           "type": "compound-complex",
@@ -14469,7 +14469,7 @@
         "id": 31,
         "text": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p07-s04-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p07-s04-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "中国传统耕作强调共同协作；德国人的独立农场相互紧邻；美国边疆定居点则由自给自足、分布分散的家庭构成。",
         "classification": {
           "type": "compound",
@@ -14566,7 +14566,7 @@
         "id": 32,
         "text": "The cultural legacies of those differences live on today.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p07-s05-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p07-s05-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "这些差异留下的文化遗产延续至今。",
         "classification": {
           "type": "simple",
@@ -14627,7 +14627,7 @@
         "id": 33,
         "text": "Another issue of urban life is the trade-off between social ties and anonymity.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p08-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p08-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "城市生活的另一个议题，是社会联系与匿名状态之间的取舍。",
         "classification": {
           "type": "simple",
@@ -14673,7 +14673,7 @@
         "id": 34,
         "text": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p08-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p08-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新几内亚农村今天仍保留的传统生活方式，与西方城市出现以前的社会生活方式相似；从二十世纪六十年代起，我就一直在那里工作。",
         "classification": {
           "type": "complex",
@@ -14767,7 +14767,7 @@
         "id": 35,
         "text": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p08-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p08-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新几内亚村民一生生活在出生地，身边始终有一辈子的朋友和社会支持。",
         "classification": {
           "type": "complex",
@@ -14841,7 +14841,7 @@
         "id": 36,
         "text": "A first reaction of many lonely, urban Americans is: How heartwarmingly wonderful!",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p09-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p09-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "许多孤独的美国城市居民的第一反应是：“多么温暖人心、多么美好啊！”",
         "classification": {
           "type": "speech",
@@ -14903,7 +14903,7 @@
         "id": 37,
         "text": "When New Guinea villagers move to cities, they find themselves surrounded by strangers, their friends few or recent or scattered across the city.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p09-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p09-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新几内亚村民搬到城市后，发现身边尽是陌生人，而朋友要么很少，要么才刚结识，要么分散在城市各处。",
         "classification": {
           "type": "complex",
@@ -14985,7 +14985,7 @@
         "id": 38,
         "text": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p09-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p09-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "常见的结果是令人不快的孤立、社会支持减少，以及城市犯罪增多。",
         "classification": {
           "type": "simple",
@@ -15055,7 +15055,7 @@
         "id": 39,
         "text": "Still, we American city dwellers shouldn't romanticize traditional village living arrangements.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p10-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p10-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "尽管如此，我们美国城市居民仍不应把传统村庄的生活方式理想化。",
         "classification": {
           "type": "simple",
@@ -15126,7 +15126,7 @@
         "id": 40,
         "text": "My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p10-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p10-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "我的新几内亚朋友告诉我，这种生活方式也会在社会关系上使人压抑，限制个人实现潜能的能力。",
         "classification": {
           "type": "complex",
@@ -15225,7 +15225,7 @@
         "id": 41,
         "text": "In New Guinea villages, everybody knows, constantly watches, and incessantly discusses what everybody else is doing.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p10-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p10-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "在新几内亚的村庄，每个人都知道、不断观察并没完没了地谈论其他人在做什么。",
         "classification": {
           "type": "complex",
@@ -15320,7 +15320,7 @@
         "id": 42,
         "text": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p11-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p11-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "因此，我一位在美国城市生活过多年的新几内亚朋友很喜欢那里：据她说，她能独自在路边咖啡馆安静地读报，无人知晓她的身份，也不会有族人缠着她要钱、诉说烦恼。",
         "classification": {
           "type": "complex",
@@ -15466,7 +15466,7 @@
         "id": 43,
         "text": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p11-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p11-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "新几内亚人已经学会欣赏不透明袋子和裤袋这些现代城市发明，因为它们让人能把东西藏起来不让邻居看见，从而添置一些小小的享受，又不至于成为村里议论的对象。",
         "classification": {
           "type": "complex",
@@ -15572,7 +15572,7 @@
         "id": 44,
         "text": "Thus, New Guineans recognize drawbacks as well as heartwarming benefits of village life.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p11-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p11-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "因此，新几内亚人既认识到村庄生活的缺点，也知道它温暖人心的好处。",
         "classification": {
           "type": "simple",
@@ -15638,7 +15638,7 @@
         "id": 45,
         "text": "They also understand the benefits, not just the pains, of urban anonymity.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p11-s04-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p11-s04-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "他们也理解城市匿名生活带来的好处，而不只看到它的痛苦。",
         "classification": {
           "type": "simple",
@@ -15712,7 +15712,7 @@
         "id": 46,
         "text": "It all comes down to compromises.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p12-s01-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p12-s01-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "说到底，这一切都归结为各种折中。",
         "classification": {
           "type": "simple",
@@ -15776,7 +15776,7 @@
         "id": 47,
         "text": "As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p12-s02-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p12-s02-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "随着世界越来越城市化，我们所有人是否都将被迫采用更多新加坡式的解决办法？",
         "classification": {
           "type": "complex",
@@ -15870,7 +15870,7 @@
         "id": 48,
         "text": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-07-aligned-v4/a07-p12-s03-v4.mp3?v=20260828-article07-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-07-aligned-v4/a07-p12-s03-v4.mp3?v=20260828-article07-full-align-v4",
         "translation": "如果为了生活在安全、健康、富足而优美的环境中，你必须付出的部分代价，是让政府用仪表记录你每一次冲水，你会怎么选择？",
         "classification": {
           "type": "complex",
@@ -17611,13 +17611,13 @@
   "08": {
     "articleId": "08",
     "title": "The Guide to Being a Foodie Without Being Culturally Appropriative",
-    "catSrc": "/media/article-themes/article08-food-cat.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article-themes/article08-food-cat.png",
     "sentences": [
       {
         "id": 1,
         "text": "I watch a lot of competitive cooking shows.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p01-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p01-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "我经常看烹饪比赛节目。",
         "classification": {
           "type": "simple",
@@ -17675,7 +17675,7 @@
         "id": 2,
         "text": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p01-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p01-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "而且似乎每逢出现所谓“怪异”或“异域”的食材，它就总与我的文化和童年食物有关，比如皮蛋或臭豆腐。",
         "classification": {
           "type": "complex",
@@ -17774,7 +17774,7 @@
         "id": 3,
         "text": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p02-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p02-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "主流媒体把那些看似来自异域的食物当成猎奇看点，我也看到许多白人厨师制作所谓“亚洲风味启发”的菜。",
         "classification": {
           "type": "compound",
@@ -17879,7 +17879,7 @@
         "id": 4,
         "text": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p02-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p02-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "外出吃饭时，我注意到许多以“亚洲融合菜”为主题的餐厅，厨师把广阔而多元的亚洲的各种口味混在一起，放到餐盘和菜单上。",
         "classification": {
           "type": "complex",
@@ -17991,7 +17991,7 @@
         "id": 5,
         "text": "What is \"Asian-inspired\" or \"Asian-fusion?\"",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p03-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p03-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "什么叫“亚洲风味启发”或“亚洲融合菜”？",
         "classification": {
           "type": "simple",
@@ -18037,7 +18037,7 @@
         "id": 6,
         "text": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p03-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p03-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "我隐隐觉得不妙：它恐怕不同于妈妈用黄瓜、午餐肉和鸡蛋给我做寿司的那种情形。",
         "classification": {
           "type": "complex",
@@ -18131,7 +18131,7 @@
         "id": 7,
         "text": "Or toast with mayonnaise and pork sung.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p03-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p03-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "或者抹着蛋黄酱、配着肉松的吐司。",
         "classification": {
           "type": "fragment",
@@ -18193,7 +18193,7 @@
         "id": 8,
         "text": "People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p03-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p03-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "从前人们会嘲笑我吃的食物，如今午餐肉炒饭这类东西却突然在时髦新餐厅卖到十六美元。",
         "classification": {
           "type": "compound-complex",
@@ -18298,7 +18298,7 @@
         "id": 9,
         "text": "It's frustrating when my culture gets consumed and appropriated as both trend and tourism.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p03-s05-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p03-s05-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "当我的文化被当作潮流和旅游体验来消费与挪用时，这让人很沮丧。",
         "classification": {
           "type": "complex",
@@ -18387,7 +18387,7 @@
         "id": 10,
         "text": "Yet when it comes to food, what's appropriation and what's not can be tricky to think about.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p03-s06-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p03-s06-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "但说到食物，什么算挪用、什么不算，往往很难想清楚。",
         "classification": {
           "type": "complex",
@@ -18451,8 +18451,8 @@
         "paraphrase": "Deciding what counts as food appropriation can be difficult.",
         "reuse": {
           "pattern": "When it comes to ___, what is ___ and what is not can be tricky to ___.",
-          "zh": "说到新闻，什么可靠、什么不可靠，有时很难判断。",
-          "en": "When it comes to news, what is reliable and what is not can be tricky to judge.",
+          "zh": "说到群聊，什么有帮助、什么没有帮助，有时很难判断。",
+          "en": "When it comes to group chats, what is helpful and what is not can be tricky to judge.",
           "note": "话题从句在外层；两个 what 内容共同成为 judge 的对象，不在末尾再添 it。"
         },
         "pdfNotes": [
@@ -18473,7 +18473,7 @@
         "id": 11,
         "text": "Cultural appropriation is when a dominant culture adopts parts of another culture from people that it has oppressed.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p04-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p04-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "文化挪用，是一种主导文化从曾受它压迫的人群那里取用另一种文化的部分元素的情形。",
         "classification": {
           "type": "complex",
@@ -18577,7 +18577,7 @@
         "id": 12,
         "text": "The dominant culture can try the food and love the food without ever having to experience oppression.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p04-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p04-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "主导文化可以品尝并喜爱这种食物，却完全不必经历压迫。",
         "classification": {
           "type": "simple",
@@ -18654,7 +18654,7 @@
         "id": 13,
         "text": "Yet food appropriation isn't just eating food from someone else's culture.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p04-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p04-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "但食物挪用并不只是吃另一种文化的食物。",
         "classification": {
           "type": "simple",
@@ -18723,7 +18723,7 @@
         "id": 14,
         "text": "It might not be appropriation if you're white and you love eating dumplings and hand-pulled noodles.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p04-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p04-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "如果你是白人，喜欢吃饺子和手工拉面，这未必就是文化挪用。",
         "classification": {
           "type": "complex",
@@ -18811,7 +18811,7 @@
         "id": 15,
         "text": "Enjoying food from another culture is perfectly fine.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p04-s05-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p04-s05-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "喜爱另一种文化的食物完全没有问题。",
         "classification": {
           "type": "simple",
@@ -18872,7 +18872,7 @@
         "id": 16,
         "text": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p04-s06-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p04-s06-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "但是，当主导文化中的人开始过度迷恋或商业化利用这种食物，并把持获取它的渠道时，就发生了食物挪用。",
         "classification": {
           "type": "complex",
@@ -18993,7 +18993,7 @@
         "id": 17,
         "text": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p05-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p05-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "当主导文化把另一个群体简化为其菜肴，把历史和故事变成菜单项目，而人们以为吃一口就能理解一种文化时，问题就出现了。",
         "classification": {
           "type": "complex",
@@ -19126,7 +19126,7 @@
         "id": 18,
         "text": "It's also harmful when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p05-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p05-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "当主导文化控制生产这种食物的经济与物质资源，只为自身消费和获利服务时，这同样有害。",
         "classification": {
           "type": "complex",
@@ -19220,7 +19220,7 @@
         "id": 19,
         "text": "Here are some dining behaviors that are culturally appropriative when it comes to food.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p06-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p06-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "下面列出一些在饮食方面具有文化挪用性质的行为。",
         "classification": {
           "type": "complex",
@@ -19301,7 +19301,7 @@
         "id": 20,
         "text": "Often, when we talk about \"ethnic\" food, we're not referring to French, German, or Italian cuisine.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p07-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p07-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "通常，我们谈到所谓“族裔食物”时，并不是指法国、德国或意大利菜。",
         "classification": {
           "type": "complex",
@@ -19372,7 +19372,7 @@
         "id": 21,
         "text": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p07-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p07-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "通常，我们说的是泰国、越南、印度、埃塞俄比亚和墨西哥食物——那些由被视作肤色最深的人们烹饪食物的地方。",
         "classification": {
           "type": "complex",
@@ -19463,7 +19463,7 @@
         "id": 22,
         "text": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p07-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p07-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "虽然西欧食物同样与族裔文化根源相连，“族裔食物”这个标签却逐渐只留给那些在白人眼中显得异域、陌生的群体。",
         "classification": {
           "type": "complex",
@@ -19546,7 +19546,7 @@
         "id": 23,
         "text": "While food can connect people together and serve as a way to learn about cultures other than our own, what happens is that food becomes the only symbol for certain places.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p08-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p08-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "食物虽然能把人联系起来，也能成为了解自身以外文化的途径，但实际发生的却是：食物成了某些地方唯一的符号。",
         "classification": {
           "type": "complex",
@@ -19648,7 +19648,7 @@
         "id": 24,
         "text": "Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p08-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p08-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "日本被简化为拉面和寿司，墨西哥被简化为塔可，印度被简化为咖喱，诸如此类。",
         "classification": {
           "type": "compound",
@@ -19720,8 +19720,8 @@
         "paraphrase": "Countries are flattened into a few familiar dishes.",
         "reuse": {
           "pattern": "___ is reduced to ___; ___ is reduced to ___.",
-          "zh": "一个人被简化为一份简历；一种文化被简化为一张照片。",
-          "en": "A person is reduced to a résumé; a culture is reduced to a photograph.",
+          "zh": "一顿完整的饭被简化成一份零食；一场长谈被简化成一个表情符号。",
+          "en": "A full meal is reduced to a snack; a long conversation is reduced to one emoji.",
           "note": "分号清楚连接两主句，避免在正式练习中仅靠逗号拼接。"
         },
         "pdfNotes": [
@@ -19742,7 +19742,7 @@
         "id": 25,
         "text": "Entire regions become reduced to menu options and ingredients, without any thought to the many different communities in these places.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p08-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p08-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "整个地区都被压缩成菜单选项和食材，人们丝毫没有顾及那些地方的众多不同社群。",
         "classification": {
           "type": "simple",
@@ -19808,7 +19808,7 @@
         "id": 26,
         "text": "There's a loss of complexity and cultures end up getting homogenized.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p08-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p08-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "复杂性因此流失，各种文化最终变得千篇一律。",
         "classification": {
           "type": "compound",
@@ -19882,7 +19882,7 @@
         "id": 27,
         "text": "In seeking \"authentic\" food, we're hoping for a truly immersive experience into another culture.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p09-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p09-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "寻找所谓“正宗”食物时，我们希望获得一种真正融入另一种文化的体验。",
         "classification": {
           "type": "simple",
@@ -19948,7 +19948,7 @@
         "id": 28,
         "text": "The food experience, whether in a restaurant in someone's home city or as part of a trip somewhere else, comes to represent a larger experience with that culture and community.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p09-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p09-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这种饮食体验，无论发生在自己居住城市的一家餐厅，还是另一处旅行中，都逐渐被当成对那种文化和社群的更全面体验。",
         "classification": {
           "type": "simple",
@@ -20014,7 +20014,7 @@
         "id": 29,
         "text": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p09-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p09-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "我们对于何为“正宗”的认知，来自对那种文化和社群先入为主的“异域叙事”。",
         "classification": {
           "type": "complex",
@@ -20083,7 +20083,7 @@
         "id": 30,
         "text": "For example, it's not uncommon to hear someone say: \"Oh, during my trip to Asia, I had the most authentic [fill in the blank].\"",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p09-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p09-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "例如，我们并不难听到有人说：“哦，我去亚洲旅行时，吃到了最正宗的某某菜。”",
         "classification": {
           "type": "speech",
@@ -20176,7 +20176,7 @@
         "id": 31,
         "text": "Food culture has travelled in messy and complicated ways across the globe.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "饮食文化以交错而复杂的方式在全球传播。",
         "classification": {
           "type": "simple",
@@ -20238,7 +20238,7 @@
         "id": 32,
         "text": "The impacts of historical and continuing colonization are devastating to many cultures, and many \"authentic\" \"ethnic\" cuisines are connected to histories of colonization.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "历史上及仍在继续的殖民活动对许多文化造成巨大破坏，而许多所谓“正宗的族裔菜系”都与殖民史相连。",
         "classification": {
           "type": "compound",
@@ -20316,7 +20316,7 @@
         "id": 33,
         "text": "For example, the use of Spam in different parts of Asia and the Pacific Islands, like Spam musubi or Spam in hot pot, is a direct result of U.S. colonization.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "例如，作者把亚洲和太平洋岛屿一些地方使用午餐肉的现象，如午餐肉饭团或火锅里的午餐肉，直接联系到美国殖民扩张。",
         "classification": {
           "type": "simple",
@@ -20368,8 +20368,8 @@
         "paraphrase": "The author links the use of Spam in parts of Asia and the Pacific to U.S. colonial influence.",
         "reuse": {
           "pattern": "The use of ___ in ___ is a result of ___.",
-          "zh": "学校里这些工具的使用，是新政策带来的结果。",
-          "en": "The use of these tools in schools is a result of the new policy.",
+          "zh": "我们社区里自行车的使用，是新的公交时刻表带来的结果。",
+          "en": "The use of bikes in our neighborhood is a result of the new bus schedule.",
           "note": "主语是单数 use，用 is；这是对原句 are 的明确修正。"
         },
         "pdfNotes": [
@@ -20407,7 +20407,7 @@
         "id": 34,
         "text": "Of course, this is not necessarily a bad thing in itself: If you love a dish and think it's delicious, great!",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "当然，这本身不一定是坏事：如果你喜欢一道菜，觉得它好吃，那很好！",
         "classification": {
           "type": "compound-complex",
@@ -20517,7 +20517,7 @@
         "id": 35,
         "text": "If you're searching for a place that serves a particular dish, also great!",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s05-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s05-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "如果你是在寻找供应某道菜的餐厅，那也很好！",
         "classification": {
           "type": "complex",
@@ -20603,7 +20603,7 @@
         "id": 36,
         "text": "However, seeking \"authenticity\" does not always show respect for the food of another culture.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s06-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s06-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "然而，追求“正宗”并不总是表示尊重另一种文化的食物。",
         "classification": {
           "type": "simple",
@@ -20665,7 +20665,7 @@
         "id": 37,
         "text": "The idea of the \"authentic\" food experience is separated from reality.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s07-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s07-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这种“正宗饮食体验”的观念与现实脱节。",
         "classification": {
           "type": "simple",
@@ -20722,7 +20722,7 @@
         "id": 38,
         "text": "It also freezes a culture in a particular place in time.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p10-s08-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p10-s08-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "它还把一种文化定格在某个特定时空。",
         "classification": {
           "type": "simple",
@@ -20787,7 +20787,7 @@
         "id": 39,
         "text": "When food gets disconnected from the communities and places it's from, people start forgetting about the oppression faced by those communities.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p11-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p11-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "食物一旦与它所来自的社群和地方脱节，人们就开始忘记那些社群承受的压迫。",
         "classification": {
           "type": "complex",
@@ -20880,7 +20880,7 @@
         "id": 40,
         "text": "Folks might love Mexican food, but not care about different issues such as labor rights and immigration policy that impact members from that community.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p11-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p11-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "人们也许喜欢墨西哥食物，却不关心劳动权利、移民政策等影响该社群成员的议题。",
         "classification": {
           "type": "complex",
@@ -20969,7 +20969,7 @@
         "id": 41,
         "text": "There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.",
         "paragraph": 11,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p11-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p11-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "还有一些与食物有关、很伤人的刻板印象：有色人种被简化为他们吃的食物，或者因为饮食而被贴上“臭”等标签。",
         "classification": {
           "type": "complex",
@@ -21074,7 +21074,7 @@
         "id": 42,
         "text": "Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p12-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p12-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "吃另一种文化的食物，却把它与该文化的历史和现实议题隔离开来，就意味着我们只借走其中令人享受的部分。",
         "classification": {
           "type": "complex",
@@ -21155,7 +21155,7 @@
         "id": 43,
         "text": "We might not know how Kung Pao chicken also reflects a story about Chinese immigration or the complex colonial story behind curry and the homogenization of South Asian cultures.",
         "paragraph": 12,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p12-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p12-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "我们可能不知道宫保鸡丁如何也反映中国移民的故事，也不知道咖喱背后复杂的殖民历史，以及南亚文化被同质化的过程。",
         "classification": {
           "type": "complex",
@@ -21244,7 +21244,7 @@
         "id": 44,
         "text": "More and more now, part of chefs' training also involves travel in order to learn about different cooking techniques and ingredients.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p13-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p13-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "如今，厨师培训越来越多地包含旅行，以学习不同烹饪技法并了解食材。",
         "classification": {
           "type": "simple",
@@ -21318,7 +21318,7 @@
         "id": 45,
         "text": "Because of this they're opening up fancy restaurants that repurpose \"cheap\" eats from working class and poor communities that rely on affordable, local products and ingredients.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p13-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p13-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "因此，他们开起高档餐厅，把依靠价廉本地食材的工人阶级和贫困社群的“廉价小吃”重新包装利用。",
         "classification": {
           "type": "complex",
@@ -21420,7 +21420,7 @@
         "id": 46,
         "text": "As a result, food culture gets re-colonized by chefs seeking to make that \"authentic\" street food they tried more elegant.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p13-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p13-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "结果，饮食文化被这些厨师再次“殖民”：他们试图把自己尝过的“正宗”街头食物变得更精致。",
         "classification": {
           "type": "complex",
@@ -21510,7 +21510,7 @@
         "id": 47,
         "text": "Often, these restaurants are inaccessible to the communities they're appropriating from.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p13-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p13-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这些餐厅往往让那些被它们挪用饮食文化的原社群难以进入或负担。",
         "classification": {
           "type": "complex",
@@ -21594,7 +21594,7 @@
         "id": 48,
         "text": "This is different from when members from that community repurpose their own traditional foods.",
         "paragraph": 13,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p13-s05-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p13-s05-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这不同于社群成员自己重新运用本群体传统食物的情形。",
         "classification": {
           "type": "complex",
@@ -21686,7 +21686,7 @@
         "id": 49,
         "text": "One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p14-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p14-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "厨师和食客都应问自己的一个问题是：谁在劳动，谁在获利？",
         "classification": {
           "type": "complex",
@@ -21771,7 +21771,7 @@
         "id": 50,
         "text": "Where are these recipes from?",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p14-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p14-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这些食谱来自哪里？",
         "classification": {
           "type": "simple",
@@ -21832,7 +21832,7 @@
         "id": 51,
         "text": "Who is this cuisine profiting off?",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p14-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p14-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这种餐饮是靠谁来赚钱的？",
         "classification": {
           "type": "simple",
@@ -21897,7 +21897,7 @@
         "id": 52,
         "text": "Is it a group that is historically and currently oppressed?",
         "paragraph": 14,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p14-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p14-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "是不是一个过去和现在都受压迫的群体？",
         "classification": {
           "type": "complex",
@@ -21974,7 +21974,7 @@
         "id": 53,
         "text": "Another problem is when ingredients get reappropriated.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p15-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p15-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "另一个问题出现在食材被重新挪用时。",
         "classification": {
           "type": "complex",
@@ -22032,7 +22032,7 @@
         "id": 54,
         "text": "Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities the food comes from.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p15-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p15-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "企业如今重新包装各地本土食物，结果让食物的来源社群反而无法再获得它们。",
         "classification": {
           "type": "complex",
@@ -22121,7 +22121,7 @@
         "id": 55,
         "text": "For example, quinoa, which is native to Bolivia, is now too expensive for communities there.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p15-s03-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p15-s03-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "例如，原产于玻利维亚地区的藜麦，如今对当地社群来说已过于昂贵。",
         "classification": {
           "type": "complex",
@@ -22223,7 +22223,7 @@
         "id": 56,
         "text": "Last year, Whole Foods declared collard greens the \"new kale.\"",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p15-s04-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p15-s04-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "去年，Whole Foods 把散叶甘蓝称作“新的羽衣甘蓝”。",
         "classification": {
           "type": "simple",
@@ -22307,7 +22307,7 @@
         "id": 57,
         "text": "Coconuts have now been packaged as high-end, luxury water.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p15-s05-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p15-s05-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "椰子如今也被包装成高档奢侈饮水。",
         "classification": {
           "type": "simple",
@@ -22374,7 +22374,7 @@
         "id": 58,
         "text": "Tofu, soy, and tempeh are now staples at organic, healthy food markets.",
         "paragraph": 15,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p15-s06-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p15-s06-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "豆腐、大豆制品和天贝，如今都是有机健康食品市场的常备主要商品。",
         "classification": {
           "type": "simple",
@@ -22441,7 +22441,7 @@
         "id": 59,
         "text": "This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions.",
         "paragraph": 16,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p16-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p16-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "这就是食物的中产化：原社群再也负担不起自己的菜肴，也难以维系传统。",
         "classification": {
           "type": "complex",
@@ -22531,7 +22531,7 @@
         "id": 60,
         "text": "Food is an important part of communities and cultures—the relationship between food and culture also means that food can be used as a tool of oppression.",
         "paragraph": 17,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p17-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p17-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "食物是社群与文化的重要组成部分——食物和文化的关系，也意味着食物可以被用作压迫的工具。",
         "classification": {
           "type": "compound-complex",
@@ -22636,7 +22636,7 @@
         "id": 61,
         "text": "It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home.",
         "paragraph": 18,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p18-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p18-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "喜欢工作地点外的塔可餐车，喜欢吃寿司，或者在家尝试不同食谱，这些都没有问题。",
         "classification": {
           "type": "complex",
@@ -22734,7 +22734,7 @@
         "id": 62,
         "text": "I'm not against trying and cooking food outside your own culture—I love it, too.",
         "paragraph": 18,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p18-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p18-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "我并不反对尝试和烹饪自身文化之外的食物——我也喜欢这样做。",
         "classification": {
           "type": "compound",
@@ -22812,7 +22812,7 @@
         "id": 63,
         "text": "However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power.",
         "paragraph": 19,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p19-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p19-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "不过，我们必须反思如何看待自己正在消费的文化，也要思考食物、人与权力之间的关系。",
         "classification": {
           "type": "complex",
@@ -22937,7 +22937,7 @@
         "id": 64,
         "text": "Colonization and gentrification are directly related to the appropriation of food.",
         "paragraph": 20,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p20-s01-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p20-s01-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "殖民化与中产化都直接关联着食物挪用。",
         "classification": {
           "type": "simple",
@@ -23002,7 +23002,7 @@
         "id": 65,
         "text": "We need to begin educating ourselves on issues that impact the communities that we're getting our meals from.",
         "paragraph": 20,
-        "audioSrc": "/media/audio/article-08-aligned-v4/a08-p20-s02-v4.mp3?v=20260828-article08-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-08-aligned-v4/a08-p20-s02-v4.mp3?v=20260828-article08-full-align-v4",
         "translation": "我们需要开始主动了解那些影响食物来源社群的议题。",
         "classification": {
           "type": "complex",
@@ -24857,13 +24857,13 @@
   "09": {
     "articleId": "09",
     "title": "Stop Telling Me to Travel like a Local, Okay?",
-    "catSrc": "/media/article-themes/article09-travel-cat-final.png",
+    "catSrc": "https://assets.negentropylearning.com.cn/media/article-themes/article09-travel-cat-final.png",
     "sentences": [
       {
         "id": 1,
         "text": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p01-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p01-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "多年来旅行，从在泛着金色光泽的维也纳咖啡馆掰下糕点，到在柬埔寨被丛林包围的寺庙遗址间跌跌撞撞地走，我一直依靠熟悉当地的人提炼出的经验，在短暂停留中找到游览门道。",
         "classification": {
           "type": "complex",
@@ -24962,7 +24962,7 @@
         "id": 2,
         "text": "I plan my trips like a cultural interloper, making sure to hit the \"only-here\" greatest hits like the tourist that I very much am.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p01-s02-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p01-s02-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "我像个闯入他人文化的外来者那样安排旅行，确保打卡“只有这里才有”的经典亮点——我本来就是个十足的游客。",
         "classification": {
           "type": "complex",
@@ -25053,7 +25053,7 @@
         "id": 3,
         "text": "This is not the going wisdom these days.",
         "paragraph": 1,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p01-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p01-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "如今流行的看法却不是这样。",
         "classification": {
           "type": "simple",
@@ -25114,7 +25114,7 @@
         "id": 4,
         "text": "If you have researched a trip in, say, the past five to ten years or so, you may have noticed a recurring and aggressive directive: TRAVEL LIKE A LOCAL!",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p02-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p02-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "如果你在大概过去五到十年间查过旅行攻略，可能已经注意到一个反复出现、咄咄逼人的指令：像当地人一样旅行！",
         "classification": {
           "type": "complex",
@@ -25187,7 +25187,7 @@
         "id": 5,
         "text": "You've probably also seen the entreaty, the shaming: How to Not Look like a Tourist; How to Not Act like a Tourist; How to Not Be a Tourist.",
         "paragraph": 2,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p02-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p02-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "你大概还见过这种劝说、这种羞辱式提醒：“怎样看起来不像游客”“怎样表现得不像游客”“怎样不当游客”。",
         "classification": {
           "type": "simple",
@@ -25260,7 +25260,7 @@
         "id": 6,
         "text": "On the surface, the promise is an attractive one: You're getting the inside scoop for the best places to eat and shop with none of the tourist traps.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p03-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p03-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "表面上，这个承诺很诱人：你能得到关于最佳餐饮和购物去处的内部消息，还能避开所有游客陷阱。",
         "classification": {
           "type": "compound",
@@ -25349,7 +25349,7 @@
         "id": 7,
         "text": "You know only the spots that those truly in the know can find.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p03-s02-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p03-s02-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "你会知道那些只有真正内行的人才能找到的地方。",
         "classification": {
           "type": "complex",
@@ -25422,7 +25422,7 @@
         "id": 8,
         "text": "But it's all a complete farce.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p03-s03-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p03-s03-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "但这一切完全是一场闹剧。",
         "classification": {
           "type": "simple",
@@ -25487,7 +25487,7 @@
         "id": 9,
         "text": "At best, \"Travel like a Local\" is a silly paradoxical myth; at worst, it's terrible vacation advice.",
         "paragraph": 3,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p03-s04-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p03-s04-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "往好了说，“像当地人一样旅行”是个愚蠢而自相矛盾的说法；往坏了说，它是糟糕的度假建议。",
         "classification": {
           "type": "compound",
@@ -25572,7 +25572,7 @@
         "id": 10,
         "text": "For one thing, locals aren't traveling.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "首先，当地人并不处于旅行状态。",
         "classification": {
           "type": "simple",
@@ -25629,7 +25629,7 @@
         "id": 11,
         "text": "They are working.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "他们在工作。",
         "classification": {
           "type": "simple",
@@ -25682,7 +25682,7 @@
         "id": 12,
         "text": "Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s03-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s03-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "或者在叠衣服、打扫浴室、打包午餐，或做数不清的其他无聊杂务；不在度假时，这些事情不知怎么就占满了你的每一分钟空闲。",
         "classification": {
           "type": "fragment",
@@ -25785,7 +25785,7 @@
         "id": 13,
         "text": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s04-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s04-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "当地人并没有整天悠闲地在优美的滨水步道上漫步，或呆望那些高得让人仰起脖子的装饰艺术风格建筑，或拍打着细白沙滩的闪亮碧水。",
         "classification": {
           "type": "simple",
@@ -25882,7 +25882,7 @@
         "id": 14,
         "text": "They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s05-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s05-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "他们在拥挤的早高峰通勤中盘算待办清单，或在杂货店、干洗店和药房之间奔忙，努力在倒头睡觉前完成足够多的事情。",
         "classification": {
           "type": "simple",
@@ -25981,7 +25981,7 @@
         "id": 15,
         "text": "The whole point of travel is to get away from the humdrum of everyday life.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s06-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s06-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "旅行的根本目的就是摆脱日常生活的单调乏味。",
         "classification": {
           "type": "simple",
@@ -26048,7 +26048,7 @@
         "id": 16,
         "text": "It is to very much not be a local.",
         "paragraph": 4,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p04-s07-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p04-s07-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "就是要彻彻底底地不当一个当地人。",
         "classification": {
           "type": "simple",
@@ -26115,7 +26115,7 @@
         "id": 17,
         "text": "Put it this way: You simply cannot travel like a local.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "换个说法：你根本不可能像当地人一样旅行。",
         "classification": {
           "type": "compound",
@@ -26188,7 +26188,7 @@
         "id": 18,
         "text": "It is a contradiction in terms.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "这本身就是个用词上的矛盾。",
         "classification": {
           "type": "simple",
@@ -26245,7 +26245,7 @@
         "id": 19,
         "text": "Staying at a neighborhood Airbnb in Mexico City's Roma doesn't make you a Chilango.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "在墨西哥城罗马区的居民区民宿里住一阵，并不会让你变成墨西哥城本地人。",
         "classification": {
           "type": "simple",
@@ -26314,7 +26314,7 @@
         "id": 20,
         "text": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s04-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s04-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "巴黎人并不是每天早餐都一边俯瞰塞纳河，一边小口品尝黄油糕点。",
         "classification": {
           "type": "simple",
@@ -26383,7 +26383,7 @@
         "id": 21,
         "text": "And rarely do New Yorkers tuck into a three-hour tasting menu on a Tuesday night.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s05-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s05-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "而纽约人也很少会在周二晚上慢慢享用一顿长达三小时的品鉴套餐。",
         "classification": {
           "type": "simple",
@@ -26460,7 +26460,7 @@
         "id": 22,
         "text": "And locals certainly don't eat 17 meals in a week at some of the best—and, at times, most expensive—restaurants in town.",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s06-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s06-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "当然，当地人也不会一周十七顿都在城里一些最棒、甚至有时最贵的餐厅吃。",
         "classification": {
           "type": "simple",
@@ -26533,7 +26533,7 @@
         "id": 23,
         "text": "(Perhaps they are saving up to do so when they go on their own non-local sojourn.)",
         "paragraph": 5,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p05-s07-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p05-s07-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "（也许他们正攒钱，等自己去外地旅行时再这样享受。）",
         "classification": {
           "type": "complex",
@@ -26602,7 +26602,7 @@
         "id": 24,
         "text": "Locals pick up takeout and watch a junky TV drama in their pajamas.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p06-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p06-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "当地人会取一份外带餐，穿着睡衣看没什么营养的电视剧。",
         "classification": {
           "type": "simple",
@@ -26679,7 +26679,7 @@
         "id": 25,
         "text": "They're not going to three museums and a boat tour before draining their bank account on regional textiles, which as a non-local you should definitely not miss!",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p06-s02-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p06-s02-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "他们不会先逛三家博物馆、坐船游览，再把账户里的钱花在当地纺织品上——而这些纺织品，身为游客的你当然不该错过！",
         "classification": {
           "type": "complex",
@@ -26774,7 +26774,7 @@
         "id": 26,
         "text": "Neither do locals wander around a city with fresh eyes until their feet are sore.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p06-s03-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p06-s03-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "当地人也不会带着初见的眼光在城里四处走，直到双脚酸痛。",
         "classification": {
           "type": "complex",
@@ -26861,7 +26861,7 @@
         "id": 27,
         "text": "These are the unique pleasures of being a tourist.",
         "paragraph": 6,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p06-s04-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p06-s04-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "这些才是身为游客特有的乐趣。",
         "classification": {
           "type": "simple",
@@ -26907,7 +26907,7 @@
         "id": 28,
         "text": "Getting the most out of your visit to a place requires acknowledging both ignorance and vulnerability and that you don't know much and need some help.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p07-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p07-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "要充分体验一地的旅行，就得承认自己的不熟悉和容易受困，也承认自己知道得不多、需要一些帮助。",
         "classification": {
           "type": "complex",
@@ -27008,7 +27008,7 @@
         "id": 29,
         "text": "There's nothing wrong with that: Remedial cultural lessons are both fun and necessary.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p07-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p07-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "这没有什么不对：补一补文化常识既有趣，也有必要。",
         "classification": {
           "type": "compound",
@@ -27077,7 +27077,7 @@
         "id": 30,
         "text": "I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p07-s03-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p07-s03-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "我喜欢在不同城市上烹饪课、参加市场导览；烹饪课通常挤满了穿着土气围裙、对当地还很生疏的游客。",
         "classification": {
           "type": "simple",
@@ -27158,7 +27158,7 @@
         "id": 31,
         "text": "Sure, I can and have visited markets without guides and enjoyed it, but having an actual expert to explain ingredients and practices I couldn't intuit on my own makes the experience all the richer.",
         "paragraph": 7,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p07-s04-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p07-s04-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "当然，我能够、也确实曾在没有向导的情况下逛市场，并且乐在其中；但有真正的行家讲解那些我自己无法凭直觉弄懂的食材和做法，会使体验丰富得多。",
         "classification": {
           "type": "compound-complex",
@@ -27281,7 +27281,7 @@
         "id": 32,
         "text": "More than that, being that vulnerable, ignorant non-local sometimes gets you special treatment.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p08-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p08-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "不止如此，身为那个生疏、对当地不了解的外来者，有时反而能让你得到特别的照顾。",
         "classification": {
           "type": "simple",
@@ -27358,7 +27358,7 @@
         "id": 33,
         "text": "Some of my best travel experiences arose from a very un-local ineptitude and the kindness and hospitality shown by actual locals.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p08-s02-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p08-s02-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "我一些最美好的旅行经历，恰恰源于不像当地人那样熟练的笨拙，以及真正当地人展现出的善意和好客。",
         "classification": {
           "type": "simple",
@@ -27431,7 +27431,7 @@
         "id": 34,
         "text": "In a small village in northern Thailand, a woman once closed down her coffee shop, despite my pleas not to, to drive me on her motorbike to a rice noodle factory when I merely asked her for directions.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p08-s03-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p08-s03-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "在泰国北部一个小村庄，我明明只是问路，一位女士却曾不顾我劝她不必如此，关了咖啡店，骑摩托车送我去一家米粉作坊。",
         "classification": {
           "type": "complex",
@@ -27520,7 +27520,7 @@
         "id": 35,
         "text": "In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p08-s04-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p08-s04-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "在京都，我在一家小咖啡馆询问陶瓷商店——作为一个什么都不懂的游客，我不知道它们在哪儿——结果受邀去一对夫妇家学习金缮，也就是用金或银修补破损陶器的日本技艺。",
         "classification": {
           "type": "complex",
@@ -27633,7 +27633,7 @@
         "id": 36,
         "text": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p08-s05-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p08-s05-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "在巴黎，朋友们也曾兴致勃勃地带着我，从手工面包店一路逛到马卡龙甜饼店。",
         "classification": {
           "type": "simple",
@@ -27712,7 +27712,7 @@
         "id": 37,
         "text": "Hospitality to visitors is a gift; embrace it with gratitude, not shame.",
         "paragraph": 8,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p08-s06-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p08-s06-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "款待旅客是一份礼物；心怀感激地接受它，不要觉得羞耻。",
         "classification": {
           "type": "compound",
@@ -27791,7 +27791,7 @@
         "id": 38,
         "text": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p09-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p09-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "那套“像当地人一样旅行”的主张——包括建议你在哥本哈根买一件按潮流必备的防风衣、盯着手机地图研究，免得显得像外国人——整体看来有点像中学生那种在意合群的心态。",
         "classification": {
           "type": "complex",
@@ -27893,7 +27893,7 @@
         "id": 39,
         "text": "At the stage in life when you can book your own trip abroad, you're old enough to not worry about fitting in.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p09-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p09-s02-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "到了可以自己预订出国旅行的人生阶段，你也足够成熟，不必再为能否融入而担心了。",
         "classification": {
           "type": "complex",
@@ -27981,7 +27981,7 @@
         "id": 40,
         "text": "(This is, of course, distinct from respecting local customs on religious and cultural dress.)",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p09-s03-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p09-s03-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "（当然，这与尊重当地关于宗教和文化服饰的习俗是两回事。）",
         "classification": {
           "type": "simple",
@@ -28047,7 +28047,7 @@
         "id": 41,
         "text": "One of the delicious freedoms in traveling is that no one knows you, that there is a very low likelihood that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p09-s04-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p09-s04-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "旅行有一种很美妙的自由：没人认识你；你在寺庙遗址徒步半天、满身灰尘和汗水时，被前男友偶然撞见的可能性很低。",
         "classification": {
           "type": "complex",
@@ -28156,7 +28156,7 @@
         "id": 42,
         "text": "You can wear a fanny pack or shoes that you don't mind muddying up.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p09-s05-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p09-s05-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "你可以背个腰包，也可以穿那种沾上泥都不心疼的鞋。",
         "classification": {
           "type": "complex",
@@ -28233,7 +28233,7 @@
         "id": 43,
         "text": "You can ask a stranger for directions.",
         "paragraph": 9,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p09-s06-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p09-s06-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "你可以向陌生人问路。",
         "classification": {
           "type": "simple",
@@ -28294,7 +28294,7 @@
         "id": 44,
         "text": "Now that I think about it, acting like a tourist in your hometown—which, yes, I admit is also a contradiction in terms—seems like a better way to approach your everyday life too.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s01-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "现在想想，在自己的家乡像游客那样行动——是的，我承认这也有些自相矛盾——似乎也是更好地对待日常生活的一种办法。",
         "classification": {
           "type": "complex",
@@ -28405,7 +28405,7 @@
         "id": 45,
         "text": "Taking a bus tour through town will give you a completely different perspective.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s02-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s02-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "坐巴士游览一遍自己的城市，会让你获得完全不同的视角。",
         "classification": {
           "type": "simple",
@@ -28470,7 +28470,7 @@
         "id": 46,
         "text": "Actually visiting a museum—instead of meaning to—is way more fulfilling than sitting on your couch cruising Twitter and Instagram.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "真正去参观一次博物馆——而不只是想着以后去——远比坐在沙发上刷推特和照片墙更有满足感。",
         "classification": {
           "type": "simple",
@@ -28547,7 +28547,7 @@
         "id": 47,
         "text": "I've never been to the Statue of Liberty in New York or the Emily Dickinson house in my home state of Massachusetts.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s04-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s04-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "我从没去过纽约的自由女神像，也没去过自己家乡马萨诸塞州的艾米莉·狄金森故居。",
         "classification": {
           "type": "simple",
@@ -28622,7 +28622,7 @@
         "id": 48,
         "text": "It's been years since I've visited the Cloisters in Upper Manhattan and many months since I've hiked through the Mt. Holyoke range 15 minutes from the house where I grew up.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s05-v4.mp3?v=20260828-article09-full-align-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s05-v4.mp3?v=20260828-article09-full-align-v4",
         "translation": "我已经好多年没去过上曼哈顿的修道院博物馆，也有好几个月没走过霍利奥克山脉了；那里距离我长大的房子只有十五分钟路程。",
         "classification": {
           "type": "compound-complex",
@@ -28713,7 +28713,7 @@
         "id": 49,
         "text": "That urgent tourist energy to see and do all sorts of things is far superior to the apathy of knowing something will always be there.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s06-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s06-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "游客那种迫切想看、想体验各种事物的劲头，远胜于因知道某样东西反正一直都在而产生的漠然。",
         "classification": {
           "type": "complex",
@@ -28798,7 +28798,7 @@
         "id": 50,
         "text": "Maybe it's best not just to travel like a tourist, but to live like one too.",
         "paragraph": 10,
-        "audioSrc": "/media/audio/article-09-aligned-v4/a09-p10-s07-v4.mp3?v=20260828-article09-user-confirmed-v4",
+        "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s07-v4.mp3?v=20260828-article09-user-confirmed-v4",
         "translation": "也许最好的做法，不仅是像游客一样旅行，也像游客一样生活。",
         "classification": {
           "type": "simple",

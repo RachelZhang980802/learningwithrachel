@@ -6,6 +6,9 @@ import vocabulary from "./article01Vocabulary.json";
 import { article01PressTranslations } from "./article01PressTranslations";
 import { WordFileDesk } from "./WordFileDesk";
 import { WordPronunciation } from "./WordPronunciation";
+import { MeaningExamples, type MeaningExampleItem } from "./MeaningExamples";
+import { CollocationLines } from "./CollocationLines";
+import { WordFamilyReminder } from "./WordFamilyReminder";
 
 const pressHighlightOverrides: Record<number, string[]> = {
   9: ["minds fixed"],
@@ -59,6 +62,13 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   if (!entry) return null;
   const definitionEn = "definitionEn" in entry && typeof entry.definitionEn === "string" ? entry.definitionEn : "";
   const otherSensesEn = "otherSensesEn" in entry && typeof entry.otherSensesEn === "string" ? entry.otherSensesEn : "";
+  const otherChineseLines = String(entry.otherSenses || "").split(/\n/).map(line => line.replace(/^\s*\d+[.)]\s*/, "").trim()).filter(Boolean);
+  const otherEnglishLines = (otherSensesEn ? otherSensesEn.split(/\n/) : otherChineseLines.map(() => "Other dictionary meaning"))
+    .map(line => line.replace(/^\s*\d+[.)]\s*/, "").trim()).filter(Boolean);
+  const otherMeaningItems: MeaningExampleItem[] = otherEnglishLines.map((english, index) => ({
+    english,
+    chinese: otherChineseLines[index] || "释义见词典条目。",
+  }));
   const sections = entry.supplementation.split(/\n\s*\n/).filter(Boolean);
   const labels: Record<string, string> = {
     "Pattern & Collocation": "Collocations · 搭配",
@@ -76,7 +86,7 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
         {(entry.partOfSpeech || entry.ipa || entry.word) && <div className="word-pronunciation"><span>{entry.partOfSpeech}</span><span>{entry.ipa}</span>{entry.word && <WordPronunciation key={entry.sourceRow} word={entry.word} sourceRow={entry.sourceRow}/>}</div>}
         {entry.definition && <section className="word-context-meaning"><h3>Meaning in context · 语境词义</h3>{definitionEn && <p className="word-definition word-definition-en" lang="en">{definitionEn}</p>}<p className="word-definition word-definition-zh" lang="zh-CN">{entry.definition}</p></section>}
         {entry.image && <a className="word-picture" href={entry.image} target="_blank" rel="noopener noreferrer" aria-label={`查看 ${entry.word} 原图`}><img src={entry.image} alt={`${entry.word} · 表格原图`} loading="lazy"/><span>↗ 查看原图</span></a>}
-        {entry.otherSenses && entry.otherSenses !== "—" && <section className="word-other"><h3>Other meanings · 其他义项</h3>{otherSensesEn && <p className="word-other-en" lang="en">{otherSensesEn}</p>}<p className="word-other-zh" lang="zh-CN">{entry.otherSenses}</p></section>}
+        {otherMeaningItems.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={otherMeaningItems}/></section>}
         {/^https?:\/\//.test(entry.dictionarySource) && <a className="word-dictionary" href={entry.dictionarySource} target="_blank" rel="noopener noreferrer">{dictionaryLabel} · 词典参考 ↗</a>}
         {referenceLinks?.map((link) => <a className="word-dictionary" key={link.url} href={link.url} target="_blank" rel="noopener noreferrer">{link.label} ↗</a>)}
       </section> });
@@ -88,7 +98,7 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   ];
   groups.forEach(group => {
     const items = parsed.filter(item => group.matches(item.title));
-    if (items.length || (group.id === "usage" && wordFamily)) cards.push({ ...group, content: <div className="word-related">{wordFamily && group.id === "usage" && <WordFamilyGame content={wordFamily.content}/>} {items.map((item, index) => <section key={index}><h3>{labels[item.title] ?? item.title}</h3><p>{item.content}</p></section>)}</div> });
+    if (items.length || (group.id === "usage" && wordFamily)) cards.push({ ...group, content: <div className="word-related">{wordFamily && group.id === "usage" && <><WordFamilyGame content={wordFamily.content}/><WordFamilyReminder values={wordFamily.content.split("\n").filter(Boolean)}/></>} {items.map((item, index) => <section key={index}><h3>{labels[item.title] ?? item.title}</h3>{item.title === "Pattern & Collocation" ? <CollocationLines values={item.content.split("\n").filter(Boolean)}/> : <p>{item.content}</p>}</section>)}</div> });
   });
   const hasPressExample = Boolean(entry.examples?.trim() && entry.examples.trim() !== "—");
   const pressExample = parsePressExample(entry.examples ?? "");

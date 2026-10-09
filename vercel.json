@@ -1,0 +1,1038 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build:vercel",
+  "redirects": [
+    {
+      "source": "/media/article-themes/article06-reading-cat-v3%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article06-reading-cat-v3.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article06-reading-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article06-reading-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article07-cities-cat%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article07-cities-cat.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article07-cities-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article07-cities-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article08-food-cat%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article08-food-cat.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article08-food-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article08-food-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article09-travel-cat-final%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article09-travel-cat-final.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article09-travel-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article09-travel-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article10-river-cat-v3-alpha%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article10-river-cat-v3-alpha.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article-themes/article10-river-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article-themes/article10-river-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article04-appearances-cat%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article04-appearances-cat.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article04-appearances-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article04-appearances-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article05-courage-cat%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article05-courage-cat.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/article05-courage-lineart%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/article05-courage-lineart.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-cities-jared-diamond%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-cities-jared-diamond.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-courage%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-courage.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-foodie-rachel-kuo%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-foodie-rachel-kuo.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-i-become-a-student%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-i-become-a-student.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-never-trust-appearances%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-never-trust-appearances.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-reading-benjamin-franklin%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-reading-benjamin-franklin.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-river-mark-twain%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-river-mark-twain.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-01%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-01.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-02%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-02.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-03%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-03.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-04%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-04.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-05%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-05.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-06%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-06.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-07%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-07.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-08%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-08.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-09%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-09.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-10%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-10.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-11%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-11.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-12%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-12.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-13%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-13.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-14%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-14.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-15%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-15.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-16%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-16.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-17%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-17.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-18%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-18.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-19%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-19.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-20%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-20.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-21%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-21.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-22%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-22.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-23%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-23.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-24%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-24.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-25%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-25.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-26%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-26.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-27%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-27.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-28%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-28.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-29%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-29.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-30%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-30.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-31%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-31.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-32%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-32.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-33%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-33.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-34%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-34.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-35%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-35.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-36%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-36.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-37%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-37.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-38%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-38.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-39%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-39.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-40%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-40.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-41%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-41.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-42%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-42.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-43%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-43.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-44%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-44.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-45%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-45.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-46%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-46.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-47%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-47.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-robots-sentences/robot-sentence-48%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-robots-sentences/robot-sentence-48.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-01%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-01.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-02%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-02.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-03%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-03.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-04%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-04.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-05%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-05.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-06%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-06.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-07%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-07.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-08%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-08.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-09%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-09.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-10%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-10.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-11%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-11.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-12%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-12.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-13%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-13.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-14%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-14.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-15%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-15.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-16%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-16.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-17%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-17.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-18%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-18.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-19%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-19.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-20%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-20.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-21%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-21.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-22%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-22.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-23%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-23.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-24%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-24.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-25%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-25.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-26%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-26.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-27%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-27.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-28%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-28.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-29%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-29.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-30%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-30.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-31%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-31.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-32%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-32.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-33%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-33.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-34%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-34.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-35%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-35.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-36%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-36.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-37%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-37.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-38%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-38.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-39%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-39.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-40%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-40.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-41%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-41.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-42%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-42.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-43%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-43.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-44%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-44.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-45%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-45.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-46%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-46.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-47%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-47.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-48%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-48.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-49%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-49.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-50%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-50.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-51%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-51.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-52%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-52.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-53%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-53.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-54%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-54.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-55%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-55.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-56%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-56.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-57%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-57.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-58%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-58.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-59%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-59.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-60%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-60.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-61%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-61.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-62%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-62.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-63%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-63.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-64%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-64.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-65%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-65.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-roommates-sentences-v6/roommates-sentence-66%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-66.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-01%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-01.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-02%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-02.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-03%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-03.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-04%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-04.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-05%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-05.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-06%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-06.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-07%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-07.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-08%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-08.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-09%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-09.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-10%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-10.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-11%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-11.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-12%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-12.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-13%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-13.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-14%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-14.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-15%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-15.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-16%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-16.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-17%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-17.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-18%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-18.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-19%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-19.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-20%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-20.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-21%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-21.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-22%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-22.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-23%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-23.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-24%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-24.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-25%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-25.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-26%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-26.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-27%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-27.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-28%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-28.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-29%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-29.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-30%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-30.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-31%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-31.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-32%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-32.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-33%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-33.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-34%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-34.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-35%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-35.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-36%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-36.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-37%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-37.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-38%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-38.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-39%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-39.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-sentences/sentence-40%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-sentences/sentence-40.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-should-the-robots-be-taxed%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-should-the-robots-be-taxed.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/audio-travel-mari-uyehara%202.mp3",
+      "destination": "https://assets.negentropylearning.com.cn/media/audio-travel-mari-uyehara.mp3",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/bunyan-man-with-muck-rake%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/bunyan-man-with-muck-rake.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/cat-blackwhite-extended-doctoral%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/cat-blackwhite-extended-doctoral.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/cat-robot-dream-mascot%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/cat-robot-dream-mascot.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/cat-roommates-mascot%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/cat-roommates-mascot.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/century-of-muckraking-timeline%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/century-of-muckraking-timeline.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/01-student%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/01-student.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/02-taxed%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/02-taxed.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/03-roommates%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/03-roommates.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/04-appearances%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/04-appearances.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/05-courage%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/05-courage.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/06-reading%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/06-reading.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/07-cities%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/07-cities.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/08-foodie%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/08-foodie.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/09-travel%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/09-travel.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/covers/10-river%202.webp",
+      "destination": "https://assets.negentropylearning.com.cn/media/covers/10-river.webp",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/minneapolis-location-map%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/minneapolis-location-map.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/minnesota-today-fraud-scandals%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/minnesota-today-fraud-scandals.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/minnesota-today-nuway%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/minnesota-today-nuway.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/muck-rake-object-cutout%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/muck-rake-object-cutout.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-cambridge-campus%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-cambridge-campus.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-cwnu-campus-user%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-cwnu-campus-user.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-cwnu-seal%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-cwnu-seal.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-harvard-widener-user-v2%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-harvard-widener-user-v2.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-hunan-campus-motto%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-hunan-campus-motto.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-sysu-campus%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-sysu-campus.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-tsinghua-campus%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-tsinghua-campus.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-tsinghua-seal%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-tsinghua-seal.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/media/university-mottos-yale-campus%202.png",
+      "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-yale-campus.png",
+      "statusCode": 307
+    }
+  ]
+}

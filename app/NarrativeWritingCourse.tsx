@@ -4,6 +4,7 @@ import { memo, useCallback, useEffect, useRef, useState } from "react";
 import { NarrativeTextHighlighter } from "./NarrativeTextHighlighter";
 import "./narrative-writing.css";
 import { narrativeWritingMarkup } from "./narrativeWritingMarkup";
+import { toMediaUrl } from "./mediaUrl";
 
 type NarrativeView =
   | "cover"
@@ -324,19 +325,19 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
 
     type MiniGenre = { title: string; summary: string; image: string; first: [string, string]; second: [string, string] };
     const miniGenreData: Record<string, MiniGenre> = {
-      adventures: { title: "Adventures", summary: "Stories of exploration, journeys, risk, and discovery.", image: "/narrative-writing/assets/mini-genres/adventures.png", first: ["Treasure Island", "Robert Louis Stevenson"], second: ["Robinson Crusoe", "Daniel Defoe"] },
-      "science-fiction": { title: "Science fiction", summary: "Stories that imagine science, technology, and possible futures.", image: "/narrative-writing/assets/mini-genres/science-fiction.png", first: ["The Time Machine", "H. G. Wells"], second: ["The Three-Body Problem", "Liu Cixin"] },
-      romance: { title: "Romance", summary: "Stories that explore love, relationships, and emotional connection.", image: "/narrative-writing/assets/mini-genres/romance.png", first: ["Jane Eyre", "Charlotte Brontë"], second: ["Pride and Prejudice", "Jane Austen"] },
-      fantasies: { title: "Fantasies", summary: "Stories shaped by magic, imagined worlds, and extraordinary quests.", image: "/narrative-writing/assets/mini-genres/fantasies.png", first: ["The Hobbit", "J. R. R. Tolkien"], second: ["Harry Potter and the Sorcerer’s Stone", "J. K. Rowling"] },
-      multicultural: { title: "Multicultural Narratives", summary: "Stories that bring different cultures, identities, and traditions into view.", image: "/narrative-writing/assets/mini-genres/multicultural.png", first: ["The Joy Luck Club", "Amy Tan"], second: ["Things Fall Apart", "Chinua Achebe"] },
-      "animal-stories": { title: "Animal stories", summary: "Stories where animals guide the action, perspective, or emotional journey.", image: "/narrative-writing/assets/mini-genres/animal-stories.png", first: ["Black Beauty", "Anna Sewell"], second: ["Charlotte’s Web", "E. B. White"] },
-      historical: { title: "Historical Narratives", summary: "Stories set in or shaped by moments from the past.", image: "/narrative-writing/assets/mini-genres/historical.png", first: ["A Tale of Two Cities", "Charles Dickens"], second: ["War and Peace", "Leo Tolstoy"] },
-      folklore: { title: "Folklore", summary: "Traditional stories and cultural expressions passed through generations.", image: "/narrative-writing/assets/mini-genres/folklore-fairy-tales.png", first: ["Rapunzel", "Brothers Grimm"], second: ["Cinderella", "Charles Perrault"] },
-      fables: { title: "Fables", summary: "Short stories, often with animals, that offer a lesson or moral.", image: "/narrative-writing/assets/mini-genres/fables.png", first: ["Aesop’s Fables", "Aesop"], second: ["The Hare and the Tortoise", "Aesop"] },
-      humorous: { title: "Humorous Narratives", summary: "Stories that use wit, surprise, and amusing situations to entertain.", image: "/narrative-writing/assets/mini-genres/humorous.png", first: ["The Adventures of Huckleberry Finn", "Mark Twain"], second: ["The Adventures of Tom Sawyer", "Mark Twain"] },
-      mysteries: { title: "Mysteries", summary: "Stories driven by questions, clues, and the search for an answer.", image: "/narrative-writing/assets/mini-genres/mysteries.png", first: ["Sherlock Holmes", "Arthur Conan Doyle"], second: ["Murder on the Orient Express", "Agatha Christie"] },
-      biographies: { title: "Biographies / Autobiographies", summary: "Narratives about a person’s life, written by another person or by themselves.", image: "/narrative-writing/assets/mini-genres/biographies.png", first: ["Steve Jobs", "Walter Isaacson"], second: ["The Story of My Life", "Helen Keller"] },
-      realistic: { title: "Realistic Narratives", summary: "Stories grounded in believable characters, settings, and everyday conflicts.", image: "/narrative-writing/assets/mini-genres/realistic.png", first: ["The Catcher in the Rye", "J. D. Salinger"], second: ["Little Men", "Louisa May Alcott"] },
+      adventures: { title: "Adventures", summary: "Stories of exploration, journeys, risk, and discovery.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/adventures.png", first: ["Treasure Island", "Robert Louis Stevenson"], second: ["Robinson Crusoe", "Daniel Defoe"] },
+      "science-fiction": { title: "Science fiction", summary: "Stories that imagine science, technology, and possible futures.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/science-fiction.png", first: ["The Time Machine", "H. G. Wells"], second: ["The Three-Body Problem", "Liu Cixin"] },
+      romance: { title: "Romance", summary: "Stories that explore love, relationships, and emotional connection.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/romance.png", first: ["Jane Eyre", "Charlotte Brontë"], second: ["Pride and Prejudice", "Jane Austen"] },
+      fantasies: { title: "Fantasies", summary: "Stories shaped by magic, imagined worlds, and extraordinary quests.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/fantasies.png", first: ["The Hobbit", "J. R. R. Tolkien"], second: ["Harry Potter and the Sorcerer’s Stone", "J. K. Rowling"] },
+      multicultural: { title: "Multicultural Narratives", summary: "Stories that bring different cultures, identities, and traditions into view.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/multicultural.png", first: ["The Joy Luck Club", "Amy Tan"], second: ["Things Fall Apart", "Chinua Achebe"] },
+      "animal-stories": { title: "Animal stories", summary: "Stories where animals guide the action, perspective, or emotional journey.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/animal-stories.png", first: ["Black Beauty", "Anna Sewell"], second: ["Charlotte’s Web", "E. B. White"] },
+      historical: { title: "Historical Narratives", summary: "Stories set in or shaped by moments from the past.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/historical.png", first: ["A Tale of Two Cities", "Charles Dickens"], second: ["War and Peace", "Leo Tolstoy"] },
+      folklore: { title: "Folklore", summary: "Traditional stories and cultural expressions passed through generations.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/folklore-fairy-tales.png", first: ["Rapunzel", "Brothers Grimm"], second: ["Cinderella", "Charles Perrault"] },
+      fables: { title: "Fables", summary: "Short stories, often with animals, that offer a lesson or moral.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/fables.png", first: ["Aesop’s Fables", "Aesop"], second: ["The Hare and the Tortoise", "Aesop"] },
+      humorous: { title: "Humorous Narratives", summary: "Stories that use wit, surprise, and amusing situations to entertain.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/humorous.png", first: ["The Adventures of Huckleberry Finn", "Mark Twain"], second: ["The Adventures of Tom Sawyer", "Mark Twain"] },
+      mysteries: { title: "Mysteries", summary: "Stories driven by questions, clues, and the search for an answer.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/mysteries.png", first: ["Sherlock Holmes", "Arthur Conan Doyle"], second: ["Murder on the Orient Express", "Agatha Christie"] },
+      biographies: { title: "Biographies / Autobiographies", summary: "Narratives about a person’s life, written by another person or by themselves.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/biographies.png", first: ["Steve Jobs", "Walter Isaacson"], second: ["The Story of My Life", "Helen Keller"] },
+      realistic: { title: "Realistic Narratives", summary: "Stories grounded in believable characters, settings, and everyday conflicts.", image: "https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/realistic.png", first: ["The Catcher in the Rye", "J. D. Salinger"], second: ["Little Men", "Louisa May Alcott"] },
     };
     const miniGenreButtons = Array.from(root.querySelectorAll<HTMLButtonElement>("[data-mini-genre]"));
     const miniGenreStage = root.querySelector<HTMLElement>("[data-mini-genre-stage]");
@@ -452,7 +453,7 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       const openLightbox = () => {
         if (!lightbox || !lightboxImage || !lightboxTitle || !lightboxAuthor) return;
         lastFocusedCard = card;
-        lightboxImage.src = `/narrative-writing/assets/${card.dataset.image || ""}`;
+        lightboxImage.src = toMediaUrl(`/narrative-writing/assets/${card.dataset.image || ""}`);
         lightboxImage.alt = card.dataset.title || "";
         lightboxTitle.textContent = card.dataset.title || "";
         lightboxAuthor.textContent = card.dataset.author || "";
@@ -569,7 +570,7 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
         glyph.className = "cover-letter-glyph";
         glyph.textContent = character;
         sticker.className = "cover-letter-sticker";
-        sticker.src = `/narrative-writing/assets/flower-letter-stickers/${imageFile}`;
+        sticker.src = toMediaUrl(`/narrative-writing/assets/flower-letter-stickers/${imageFile}`);
         sticker.alt = "";
         sticker.setAttribute("aria-hidden", "true");
         sticker.decoding = "async";

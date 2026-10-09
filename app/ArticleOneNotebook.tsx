@@ -2,13 +2,14 @@
 
 import { useEffect, useRef, useState, type CSSProperties, type PointerEvent as ReactPointerEvent, type ReactNode } from "react";
 import classification from "../public/sentence-badges/article01-classification.json";
+import { toMediaUrl } from "./mediaUrl";
 import "./article-one-notebook.css";
 
 export type NotebookPanel = "words" | "structure" | "meaning" | "voice" | "context" | "translation" | "paraphrase" | "reuse";
 const tabs: { id: NotebookPanel; label: string; icon: string }[] = [
   { id: "words", label: "Words", icon: "leaf" },
   { id: "structure", label: "Structure", icon: "hierarchy" },
-  { id: "translation", label: "Meaning", icon: "lightbulb" },
+  { id: "translation", label: "Translation", icon: "lightbulb" },
   { id: "paraphrase", label: "Practice", icon: "pencil" },
 ];
 function category(panel: NotebookPanel | null) {
@@ -25,7 +26,7 @@ export function SentenceBadge({ sentence, compact = false, entry: suppliedEntry,
   const entry = suppliedEntry ?? classification.sentences[sentence - 1];
   if (!entry) return null;
   return <div className={`notebook-badge${compact ? " is-compact" : ""}`} data-sentence-type={entry.type}>
-    <img src={`/sentence-badges/${entry.badge}-cat.png`} alt="" width={compact ? 76 : 154} height={compact ? 45 : 86}/>
+    <img src={toMediaUrl(`/sentence-badges/${entry.badge}-cat.png`)} alt="" width={compact ? 76 : 154} height={compact ? 45 : 86}/>
     {!hideClassificationLabel && <details>
       <summary>{entry.label}<span> · {entry.priorityLabel}</span></summary>
       <div><p>{entry.reason}</p><p>{entry.note}</p><small>{classification.convention}</small></div>
@@ -48,7 +49,7 @@ function SentencePlayer({ sentence, hidden, audioSrc }: { sentence: number; hidd
     try { await player.play(); } catch { setError(true); }
   };
   return <div className="notebook-player">
-    <audio ref={audio} preload="metadata" src={audioSrc ?? `/media/audio-sentences/sentence-${String(sentence).padStart(2, "0")}.mp3?v=20260827-audiofix`}
+    <audio ref={audio} preload="metadata" src={toMediaUrl(audioSrc ?? `/media/audio-sentences/sentence-${String(sentence).padStart(2, "0")}.mp3?v=20260827-audiofix`)}
       onLoadedMetadata={() => setDuration(Number.isFinite(audio.current?.duration) ? audio.current!.duration : 0)}
       onTimeUpdate={() => setPosition(audio.current?.currentTime ?? 0)} onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)} onError={() => setError(true)}/>
     <button className="notebook-play" type="button" onClick={play} aria-label={playing ? "暂停原句音频" : "播放原句音频"}><Icon name={playing ? "player-pause" : "player-play"}/></button>
@@ -59,7 +60,7 @@ function SentencePlayer({ sentence, hidden, audioSrc }: { sentence: number; hidd
 }
 
 /** Shared notebook frame; article-specific content and original audio remain separate. */
-export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, panel, onPanel, onSelect, onStep, onExit, children, articleId = "01", title = "I Become a Student", audioSrc, catSrc = "/sentence-studio/draw-cat.png", sentenceClassification, showClassificationBadge = true, suppressClassificationLabel = false, availablePanels, frontOnly = false }: {
+export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, panel, onPanel, onSelect, onStep, onExit, children, articleId = "01", title = "I Become a Student", audioSrc, catSrc = "https://assets.negentropylearning.com.cn/sentence-studio/draw-cat.png", sentenceClassification, showClassificationBadge = true, suppressClassificationLabel = false, availablePanels, frontOnly = false }: {
   sentences: string[]; selected: number; paragraph: number; ranges: { start: number; end: number }[];
   panel: NotebookPanel | null; onPanel: (panel: NotebookPanel | null) => void;
   onSelect: (index: number) => void; onStep: (direction: -1 | 1) => void; onExit: () => void; children: ReactNode;
@@ -151,7 +152,7 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
   const isArticle01 = articleId === "01";
   return <main className="student-workspace-v2 article-one-notebook" data-article-id={articleId}>
     <header className="notebook-top">
-      <button className="notebook-exit" type="button" onClick={onExit}><Icon name="arrow-left"/>{isArticle01 ? "Full Text" : "全文"}</button>
+      <button className="notebook-exit" type="button" onClick={onExit}><Icon name="arrow-left"/>Full Text</button>
       <span>Article {articleId} · {title}</span>
       <details className="notebook-jump" ref={jumpMenu}>
         <summary>{String(selected + 1).padStart(2, "0")} / {sentences.length} · PARA {String(paragraph + 1).padStart(2, "0")}<Icon name="chevron-down"/></summary>
@@ -160,8 +161,7 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
     </header>
     <div className={`notebook-folder${frontOnly ? " is-front-only" : ""}`} ref={top}>
       {!frontOnly && <nav className="notebook-tabs" aria-label="句子学习入口" style={{ "--notebook-tab-count": visibleTabs.length } as CSSProperties}>{visibleTabs.map(tab => {
-        const label = isArticle01 && tab.id === "translation" ? "Translation" : tab.label;
-        return <button type="button" key={tab.id} className={`notebook-tab notebook-tab-${label.toLowerCase()}`} aria-pressed={category(visiblePanel) === tab.id} onClick={() => onPanel(tab.id)}><span>{label}</span><Icon name={tab.icon}/></button>;
+        return <button type="button" key={tab.id} className={`notebook-tab notebook-tab-${tab.label.toLowerCase()}`} aria-pressed={category(visiblePanel) === tab.id} onClick={() => onPanel(tab.id)}><span>{tab.label}</span><Icon name={tab.icon}/></button>;
       })}</nav>}
       <article className={`notebook-sheet ${isBack ? "is-back" : "is-front"}`} data-sentence-id={`${articleId}-${selected + 1}`} aria-label={`第 ${selected + 1} 句${isBack ? "讲解" : "原句"}`}>
         <div className={`notebook-face ${isBack ? "notebook-back" : "notebook-front"}`} key={isBack ? "back" : "front"}>
@@ -180,12 +180,12 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
               </section>
             </div>
           </> : <>
-            <header className="notebook-back-header"><button type="button" onClick={() => onPanel(null)}><Icon name="arrow-left"/>Back</button><span>{isArticle01 && category(visiblePanel) === "translation" ? "Translation" : tabs.find(tab => tab.id === category(visiblePanel))?.label}</span></header>
+            <header className="notebook-back-header"><button type="button" onClick={() => onPanel(null)}><Icon name="arrow-left"/>Back</button><span>{tabs.find(tab => tab.id === category(visiblePanel))?.label}</span></header>
             {visiblePanel !== "words" && <div className="notebook-context">{showClassificationBadge && <SentenceBadge sentence={selected + 1} entry={sentenceClassification} compact hideClassificationLabel={suppressClassificationLabel}/>}<p lang="en">{sentences[selected]}</p></div>}
             <div className="notebook-content">{children}</div>
           </>}
         </div>
-        <footer className="notebook-footer"><button type="button" onClick={() => move(-1)} disabled={selected === 0}><Icon name="arrow-left"/>{isArticle01 ? "Previous" : "上一句"}</button><p>{frontOnly ? (isArticle01 ? "Read the sentence" : "阅读原句") : isBack ? (isArticle01 ? "Think first, then tap the card to reveal" : "先思考，再点击卡片揭晓") : (isArticle01 ? "Flip and learn more" : "选择左侧入口，翻面学习")}</p><button type="button" onClick={() => move(1)} disabled={selected === sentences.length - 1}>{isArticle01 ? "Next" : "下一句"}<Icon name="arrow-right"/></button></footer>
+        <footer className="notebook-footer"><button type="button" onClick={() => move(-1)} disabled={selected === 0}><Icon name="arrow-left"/>Previous</button><p>{frontOnly ? "Read the sentence" : isBack ? "Think first, then tap the card to reveal" : "Flip and learn more"}</p><button type="button" onClick={() => move(1)} disabled={selected === sentences.length - 1}>Next<Icon name="arrow-right"/></button></footer>
       </article>
     </div>
   </main>;

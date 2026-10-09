@@ -44,3 +44,18 @@ next-env.d.ts
 /work/
 /.r2-media/
 /.local-preview/
+
+# Local archives and review output do not belong in the website repository.
+/backups/
+/exports/
+/output/
+/qa/
+/quiz-qa/
+/tmp/
+/artifacts/
+/reports/
+/*.zip
+/*.tar
+/*.tar.gz
+/*.tgz
+*.log

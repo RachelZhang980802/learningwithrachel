@@ -1,6 +1,6 @@
 "use client";
 
-import { Fragment, useId, useState, type ReactNode } from "react";
+import { Fragment, useId, useRef, useState, type ReactNode } from "react";
 import { SentenceBadge, type NotebookPanel } from "./ArticleOneNotebook";
 import { WordFileDesk, type WordFileCard } from "./WordFileDesk";
 import type { VocabularyTarget } from "./ArticleVocabulary";
@@ -9,6 +9,10 @@ import "./article-lessons.css";
 import { grammarRole } from "./GrammarLegend";
 import { StructureDiagram } from "./ClauseMemo";
 import { ClauseEntry } from "./ClauseEntry";
+import { MeaningExamples, splitMeaningLine } from "./MeaningExamples";
+import { CollocationLines } from "./CollocationLines";
+import { WordFamilyReminder } from "./WordFamilyReminder";
+import { toMediaUrl } from "./mediaUrl";
 
 export function LessonVocabularyText({ lesson, sentence, text, selectedRow, onSelect }: {
   lesson: Lesson; sentence: number; text: string; selectedRow?: number; onSelect: (target: VocabularyTarget) => void;
@@ -57,6 +61,38 @@ export function LessonVocabularyTitle({ articleId, text, onSelect }: {
 
 const Lines = ({ values }: { values: string[] }) => <p>{values.map((value, index) => <Fragment key={index}>{index > 0 && <br/>}{value}</Fragment>)}</p>;
 
+function LessonWordAudio({ word }: { word: string }) {
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [playing, setPlaying] = useState(false);
+  const lookupWord = word.replace(/\b(sth|sb)\.?/gi, "").replace(/[“”‘’]/g, "").trim();
+  const dictionaryAudio = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(lookupWord)}&type=2`;
+  const play = async () => {
+    const audio = audioRef.current;
+    if (!audio) return;
+    if (!audio.paused) { audio.pause(); return; }
+    audio.currentTime = 0;
+    try { await audio.play(); } catch { setPlaying(false); }
+  };
+  return <><button type="button" className="word-speak" onClick={play} aria-label={`${playing ? "暂停" : "播放"} ${word} 的词典美式发音`} aria-pressed={playing} title={`播放 ${word} 的词典美式发音`}><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg></button><audio ref={audioRef} preload="none" src={dictionaryAudio} onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)}/></>;
+}
+
+function LessonWordFamilyGame({ values }: { values: string[] }) {
+  const [revealed, setRevealed] = useState(false);
+  return <section className="word-family-game">
+    <div className="word-family-heading"><h3>Word family · 词族</h3><button type="button" aria-pressed={revealed} onClick={() => setRevealed(value => !value)}>{revealed ? "Hide answers" : "Reveal answers"}</button></div>
+    <p className="word-family-prompt">Fill in the related word before checking the answer.</p>
+    <ol>{values.map((value, index) => <li key={index}>{revealed ? value : value.replace(/^([A-Za-z][A-Za-z-]*)/, "＿＿＿＿＿＿")}</li>)}</ol>
+  </section>;
+}
+
+function LessonParaphraseText({ original, paraphrase }: { original: string; paraphrase: string }) {
+  const originalWords = new Set((original.toLowerCase().match(/[a-z]+(?:['-][a-z]+)*/g) ?? []));
+  return <>{paraphrase.split(/(\s+)/).map((part, index) => {
+    const word = part.toLowerCase().replace(/[^a-z'-]/g, "");
+    return word && !originalWords.has(word) ? <mark key={index}>{part}</mark> : <Fragment key={index}>{part}</Fragment>;
+  })}</>;
+}
+
 export function LessonPdfNotes({ sentence, entry }: { sentence: LessonSentence; entry: PdfNote["entry"] }) {
   const notes = sentence.pdfNotes.filter(note => note.entry === entry);
   if (!notes.length) return null;
@@ -65,7 +101,7 @@ export function LessonPdfNotes({ sentence, entry }: { sentence: LessonSentence; 
     {notes.map((note, index) => <details key={`${note.title}-${index}`} className="lesson-pdf-note">
       <summary>{note.title}{note.disposition === "纠正" && <span className="lesson-note-correction">核对提示</span>}</summary>
       <p lang="zh-CN">{note.text}</p>
-      <div className="lesson-note-sources">{note.pages.map(page => <a key={page} href={`/lesson-sources/article${note.articleId}.pdf#page=${page}`} target="_blank" rel="noopener noreferrer">PDF 第 {page} 页 ↗</a>)}
+      <div className="lesson-note-sources">{note.pages.map(page => <a key={page} href={toMediaUrl(`/lesson-sources/article${note.articleId}.pdf#page=${page}`)} target="_blank" rel="noopener noreferrer">PDF 第 {page} 页 ↗</a>)}
       {note.references?.map(source => <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer">{source.label} ↗</a>)}</div>
     </details>)}
   </section>;
@@ -78,17 +114,21 @@ export function LessonWords({ lesson, sentence, initialSourceRow }: { lesson: Le
   const badge = <SentenceBadge sentence={sentence.id} entry={sentence.classification} compact/>;
   if (!entry) return <div className="word-workspace"><div className="word-context">{badge}{sentence.text}</div><div className="word-empty"><h2>Words</h2><p>本句没有词表中的目标词。{sentence.pdfNotes.some(note => note.entry === "words") ? "讲义中的相关表达整理在下方；也可以进入 Structure 查看句法。" : "可以进入 Structure 查看句法。"}</p></div><LessonPdfNotes sentence={sentence} entry="words"/></div>;
   const [english, ...chinese] = entry.definition.split(" — ");
+  const contextChinese = chinese.join(" — ") || "语境释义见词典条目。";
+  const otherExamples = entry.otherSenses.map((sense) => {
+    const parsed = splitMeaningLine(sense);
+    return parsed;
+  });
   const cards: WordFileCard[] = [
     { id: "meaning", title: "Word & meaning", subtitle: "词义与发音", content: <section className="word-primary">
-      <h2>{entry.word}</h2>{entry.titleOnly && <small>Title word · 标题词汇</small>}<div className="word-pronunciation"><span>{entry.partOfSpeech}</span><span>{entry.ipa}</span></div>
-      <p className="word-definition"><span lang="en">{english}</span><br/><span lang="zh-CN">{chinese.join(" — ")}</span></p>
-      <details className="word-other"><summary>Other meanings · 其他常用义项</summary>{entry.otherSenses.length ? <Lines values={entry.otherSenses}/> : <p>暂无需要另记的重要常用义项；优先掌握本页语境义与搭配。</p>}</details>
+      <h2>{entry.word}</h2>{entry.titleOnly && <small>Title word · 标题词汇</small>}<div className="word-pronunciation"><span>{entry.partOfSpeech}</span><span>{entry.ipa}</span><LessonWordAudio word={entry.word}/></div>
+      <section className="word-context-meaning"><h3>Meaning in context · 语境词义</h3><p className="word-definition word-definition-en" lang="en">{english}</p><p className="word-definition word-definition-zh" lang="zh-CN">{contextChinese}</p></section>
+      {otherExamples.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={otherExamples}/></section>}
       <div className="lesson-dictionary-sources">{entry.sources.map(source => <a className="word-dictionary" href={source.url} key={source.url} target="_blank" rel="noopener noreferrer">{source.label} ↗</a>)}</div>
-      <small className="lesson-source-caption">核心释义据词典概括；语境提示结合本文。</small>
     </section> },
-    { id: "collocations", title: "Collocations", subtitle: "搭配", content: <div className="word-related"><section><h3>Collocations · 搭配</h3><Lines values={entry.collocations}/></section></div> },
+    { id: "collocations", title: "Collocations", subtitle: "搭配", content: <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={entry.collocations}/></section></div> },
     { id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={entry.compare}/></section></div> },
-    { id: "usage", title: "Usage note", subtitle: "用法提醒", content: <div className="word-related"><section><h3>Word family · 词族</h3><Lines values={entry.family}/></section><section><h3>Usage note · 用法提醒</h3><p>{entry.usage}</p></section></div> },
+    { id: "usage", title: "Usage note", subtitle: "用法提醒", content: <div className="word-related"><LessonWordFamilyGame values={entry.family}/><WordFamilyReminder values={entry.family}/><section><h3>Usage note · 用法提醒</h3><p>{entry.usage}</p></section></div> },
     { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3><p className="word-press-placeholder">外刊例句待补充。</p></section> },
   ];
   return <div className="word-workspace" data-source-row={entry.sourceRow}>
@@ -185,12 +225,12 @@ export function LessonReuse({ sentence }: { sentence: LessonSentence }) {
 export function LessonActivities({ lesson, sentence, panel, onPanel }: { lesson: Lesson; sentence: LessonSentence; panel: NotebookPanel; onPanel: (panel: NotebookPanel) => void }) {
   const practice = panel === "paraphrase" || panel === "reuse";
   return <div className="student-existing-content lesson-activities">
-    <nav className="student-subtabs" aria-label="Activities">{(practice ? practiceTabs : meaningTabs).map(tab => <button type="button" key={tab.id} aria-pressed={panel === tab.id} onClick={() => onPanel(tab.id)}>{tab.label}</button>)}</nav>
+    <nav className="student-subtabs" aria-label="Activities">{(practice ? practiceTabs : [{ id: "translation" as const, label: "Translation" }]).map(tab => <button type="button" key={tab.id} aria-pressed={panel === tab.id} onClick={() => onPanel(tab.id)}>{tab.label}</button>)}</nav>
     {panel === "translation" ? <p className="student-sentence-translation" lang="zh-CN">{sentence.translation}</p>
       : panel === "meaning" ? <><p className="analysis-kicker">MEANING · 读懂本句</p><p className="student-sentence-translation" lang="zh-CN">{sentence.translation}</p><p className="notebook-analysis-note">{sentence.note}</p></>
       : panel === "voice" ? <><p className="analysis-kicker">VOICE &amp; EFFECT · 表达与语气</p><p>{articleVoices[lesson.articleId]}</p><div className="lesson-reading-cue"><span>{sentence.classification.label}</span><p>{sentence.note}</p></div></>
       : panel === "context" ? <><p className="analysis-kicker">CONTEXT · 放回原段</p><p>Para {String(sentence.paragraph).padStart(2, "0")} · 当前句加深显示</p><div className="lesson-context-paragraph">{lesson.sentences.filter(item => item.paragraph === sentence.paragraph).map(item => <p key={item.id} lang="en" aria-current={item.id === sentence.id ? "true" : undefined}><small>{String(item.id).padStart(2, "0")}</small>{item.text}</p>)}</div></>
-      : panel === "paraphrase" ? <div className="student-paraphrase"><p className="student-paraphrase-sentence" lang="en">{sentence.paraphrase}</p><details className="student-paraphrase-comparison"><summary>改写核对 · 保留原句的意思与逻辑</summary><p lang="zh-CN">{sentence.translation}</p><p>{sentence.note}</p></details></div>
+      : panel === "paraphrase" ? <div className="student-paraphrase"><p className="student-paraphrase-sentence" lang="en"><LessonParaphraseText original={sentence.text} paraphrase={sentence.paraphrase}/></p><section className="student-paraphrase-comparison"><h3>改写思路 · 高亮为重点重组的表达</h3><p className="student-paraphrase-note" lang="zh-CN">{sentence.note}</p></section></div>
       : <LessonReuse key={`${lesson.articleId}-${sentence.id}`} sentence={sentence}/>}
     {(panel === "meaning" || panel === "voice" || panel === "context") && <LessonPdfNotes sentence={sentence} entry={panel}/>}
   </div>;

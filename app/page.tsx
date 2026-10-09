@@ -20,9 +20,11 @@ import { ArticleOneReuse } from "./ArticleOneReuse";
 import { article01Translations } from "./article01Translations";
 import { ArticleOneNotebook, SentenceBadge } from "./ArticleOneNotebook";
 import { ArticleOneQuiz } from "./ArticleOneQuiz";
+import { articles02to05QuizData } from "./articles02to05QuizData";
 import { TextImageLetterHero } from "./TextImageLetterHero";
 import { isNarrativeCourseHash, NarrativeWritingCourse } from "./NarrativeWritingCourse";
 import { XiumiArticleShelf } from "./XiumiArticleShelf";
+import { toMediaUrl } from "./mediaUrl";
 
 type View = "library" | "guide" | "index" | "about" | "reading";
 type Section = "home" | "reading" | "writing" | "culture";
@@ -38,16 +40,16 @@ type Article = {
 
 
 const articles: Article[] = [
-  { number: "01", title: "I Become a Student", author: "Lincoln Steffens", theme: "Education", image: "/media/covers/01-student.webp" },
-  { number: "02", title: "Should the Robots Be Taxed?", author: "Kumar Sachidanandam", theme: "Technology", image: "/media/covers/02-taxed.webp" },
-  { number: "03", title: "Roommates", author: "Max Apple", theme: "Family Bonds", image: "/media/covers/03-roommates.webp" },
-  { number: "04", title: "Never Trust Appearances", author: "Author forthcoming", theme: "Stereotypes", image: "/media/covers/04-appearances.webp" },
-  { number: "05", title: "Courage", author: "Lydia Minatoya", theme: "Love", image: "/media/covers/05-courage.webp" },
-  { number: "06", title: "Reading", author: "Benjamin Franklin", theme: "Discovery", image: "/media/covers/06-reading.webp" },
-  { number: "07", title: "What We Gain or Lose in Cities", author: "Jared Diamond", theme: "Urbanization", image: "/media/covers/07-cities.webp" },
-  { number: "08", title: "The Guide to Being a Foodie Without Being Culturally Appropriative", author: "Rachel Kuo", theme: "Culture", image: "/media/covers/08-foodie.webp" },
-  { number: "09", title: "Stop Telling Me to Travel like a Local, Okay?", author: "Mari Uyehara", theme: "Travel", image: "/media/covers/09-travel.webp" },
-  { number: "10", title: "Two Ways of Seeing a River", author: "Mark Twain", theme: "Perspective", image: "/media/covers/10-river.webp" },
+  { number: "01", title: "I Become a Student", author: "Lincoln Steffens", theme: "Education", image: "https://assets.negentropylearning.com.cn/media/covers/01-student.webp" },
+  { number: "02", title: "Should the Robots Be Taxed?", author: "Kumar Sachidanandam", theme: "Technology", image: "https://assets.negentropylearning.com.cn/media/covers/02-taxed.webp" },
+  { number: "03", title: "Roommates", author: "Max Apple", theme: "Family Bonds", image: "https://assets.negentropylearning.com.cn/media/covers/03-roommates.webp" },
+  { number: "04", title: "Never Trust Appearances", author: "Author forthcoming", theme: "Stereotypes", image: "https://assets.negentropylearning.com.cn/media/covers/04-appearances.webp" },
+  { number: "05", title: "Courage", author: "Lydia Minatoya", theme: "Love", image: "https://assets.negentropylearning.com.cn/media/covers/05-courage.webp" },
+  { number: "06", title: "Reading", author: "Benjamin Franklin", theme: "Discovery", image: "https://assets.negentropylearning.com.cn/media/covers/06-reading.webp" },
+  { number: "07", title: "What We Gain or Lose in Cities", author: "Jared Diamond", theme: "Urbanization", image: "https://assets.negentropylearning.com.cn/media/covers/07-cities.webp" },
+  { number: "08", title: "The Guide to Being a Foodie Without Being Culturally Appropriative", author: "Rachel Kuo", theme: "Culture", image: "https://assets.negentropylearning.com.cn/media/covers/08-foodie.webp" },
+  { number: "09", title: "Stop Telling Me to Travel like a Local, Okay?", author: "Mari Uyehara", theme: "Travel", image: "https://assets.negentropylearning.com.cn/media/covers/09-travel.webp" },
+  { number: "10", title: "Two Ways of Seeing a River", author: "Mark Twain", theme: "Perspective", image: "https://assets.negentropylearning.com.cn/media/covers/10-river.webp" },
 ];
 
 const steffensParagraphs = [
@@ -80,14 +82,14 @@ const robotStudioSentences = robotsParagraphs.flatMap((paragraph) => splitStudio
 const roommatesParagraphs = fullArticleParagraphs[2];
 const roommatesStudioSentences = roommatesParagraphs.flatMap((paragraph) => splitStudioSentences(paragraph));
 const suppliedAudio: Record<number, string> = {
-  2: "/media/audio-roommates.mp3",
-  3: "/media/audio-never-trust-appearances.mp3",
-  4: "/media/audio-courage.mp3",
-  5: "/media/audio-reading-benjamin-franklin.mp3",
-  6: "/media/audio-cities-jared-diamond.mp3",
-  7: "/media/audio-foodie-rachel-kuo.mp3",
-  8: "/media/audio-travel-mari-uyehara.mp3",
-  9: "/media/audio-river-mark-twain.mp3",
+  2: "https://assets.negentropylearning.com.cn/media/audio-roommates.mp3",
+  3: "https://assets.negentropylearning.com.cn/media/audio-never-trust-appearances.mp3",
+  4: "https://assets.negentropylearning.com.cn/media/audio-courage.mp3",
+  5: "https://assets.negentropylearning.com.cn/media/audio-reading-benjamin-franklin.mp3",
+  6: "https://assets.negentropylearning.com.cn/media/audio-cities-jared-diamond.mp3",
+  7: "https://assets.negentropylearning.com.cn/media/audio-foodie-rachel-kuo.mp3",
+  8: "https://assets.negentropylearning.com.cn/media/audio-travel-mari-uyehara.mp3",
+  9: "https://assets.negentropylearning.com.cn/media/audio-river-mark-twain.mp3",
 };
 const courageParagraphs = [
   "Akira came directly, breaking all tradition. Was that it? Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?",
@@ -141,7 +143,7 @@ function Header({ view, onNavigate, onHome }: { view: View; onNavigate: (view: V
     <header className="site-header">
       <button className="wordmark" onClick={onHome ?? (() => onNavigate("library"))} aria-label="Learning with Rachel home">
         <span className="ink-mark" aria-hidden="true">
-          <img src="/media/brand/fat-cat-wordmark.png" alt="" />
+          <img src="https://assets.negentropylearning.com.cn/media/brand/fat-cat-wordmark.png" alt="" />
         </span>
         <span className="brand-name">NegentropyLearning</span>
       </button>
@@ -186,28 +188,28 @@ const homeCourses = [
   {
     id: "narrative",
     title: ["Narrative", "Writing"],
-    image: "/home/narrative-writing.jpg",
+    image: "https://assets.negentropylearning.com.cn/home/narrative-writing.jpg",
     paper: "#bcc6ad",
     ink: "#233b55",
   },
   {
     id: "expository",
     title: ["Expository", "Writing"],
-    image: "/home/expository-writing.jpg",
+    image: "https://assets.negentropylearning.com.cn/home/expository-writing.jpg",
     paper: "#dfaaa1",
     ink: "#4c3036",
   },
   {
     id: "integrated",
     title: ["Integrated", "English"],
-    image: "/home/integrated-english.jpg",
+    image: "https://assets.negentropylearning.com.cn/home/integrated-english.jpg",
     paper: "#e8c97b",
     ink: "#3c3b34",
   },
   {
     id: "culture",
     title: ["Western", "Culture"],
-    image: "/home/western-culture.png",
+    image: "https://assets.negentropylearning.com.cn/home/western-culture.png",
     paper: "#bdcbd7",
     ink: "#26394c",
   },
@@ -216,16 +218,19 @@ const homeCourses = [
 function HomeLanding({
   onNavigate,
   onOpenWriting,
+  onOpenCulture,
 }: {
   onNavigate: (section: Section) => void;
   onOpenWriting: (track: WritingTrack) => void;
+  onOpenCulture: () => void;
 }) {
   const openCourse = (course: (typeof homeCourses)[number]) => {
     if (course.id === "narrative" || course.id === "expository") {
       onOpenWriting(course.id);
       return;
     }
-    onNavigate(course.id === "integrated" ? "reading" : "culture");
+    if (course.id === "integrated") onNavigate("reading");
+    if (course.id === "culture") onOpenCulture();
   };
 
   return (
@@ -337,7 +342,15 @@ export default function Home() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  const openCulture = () => {
+    window.location.assign("/western-culture/index.html");
+  };
+
   const openSection = (destination: Section) => {
+    if (destination === "culture") {
+      openCulture();
+      return;
+    }
     if (destination === "writing" && writingTrack === "narrative" && !isNarrativeCourseHash(window.location.hash)) {
       const base = `${window.location.pathname}${window.location.search}`;
       window.history.pushState({ learningSection: "writing", writingTrack: "narrative" }, "", `${base}#cover`);
@@ -380,7 +393,7 @@ export default function Home() {
   };
 
   if (section === "home") {
-    return <HomeLanding onNavigate={openSection} onOpenWriting={openWriting} />;
+    return <HomeLanding onNavigate={openSection} onOpenWriting={openWriting} onOpenCulture={openCulture} />;
   }
 
   if (section === "writing" && writingTrack === "narrative") {
@@ -410,8 +423,8 @@ export default function Home() {
   return (
     <main className="library-page">
       <div className="library-embroidery" aria-hidden="true">
-        <img className="library-embroidery-flower library-embroidery-flower-left" src="/media/library-background/embroidery-left.png" alt="" draggable={false} />
-        <img className="library-embroidery-flower library-embroidery-flower-right" src="/media/library-background/embroidery-right.png" alt="" draggable={false} />
+        <img className="library-embroidery-flower library-embroidery-flower-left" src="https://assets.negentropylearning.com.cn/media/library-background/embroidery-left.png" alt="" draggable={false} />
+        <img className="library-embroidery-flower library-embroidery-flower-right" src="https://assets.negentropylearning.com.cn/media/library-background/embroidery-right.png" alt="" draggable={false} />
       </div>
       <Header view={view} onNavigate={navigate} onHome={() => openSection("home")} />
 
@@ -537,7 +550,7 @@ function UniversityFooter() {
   return <footer className="library-footer">
     <div className="library-footer-identity">
       <span><strong>CHINA WEST NORMAL</strong><em>UNIVERSITY</em></span>
-      <img src="/media/china-west-normal-university-seal-transparent.png" alt="China West Normal University seal" />
+      <img src="https://assets.negentropylearning.com.cn/media/china-west-normal-university-seal-transparent.png" alt="China West Normal University seal" />
     </div>
     <small>© 2026 China West Normal University</small>
   </footer>;
@@ -553,11 +566,11 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
   const opensPublication = Boolean(selectedResourceData && !["YouTube", "TED Talk", "TV series", "Film"].includes(selectedResourceData.source));
   const isCommencementArticle = selected === 0 && selectedQuestion === 0 && selectedResource === 1;
   const resourceImages: Record<string, string> = {
-    "0-0-0": "/media/inquire-taylor.png", "0-0-1": "/media/inquire-clock.png", "0-1-0": "/media/inquire-individualism.png", "0-2-0": "/media/inquire-harvard.png", "0-2-1": "/media/inquire-columbia.png",
-    "1-0-0": "/media/inquire-deepseek.png", "1-1-0": "/media/inquire-gulliver.png", "1-1-1": "/media/inquire-cybertruck.png", "1-2-0": "/media/inquire-ai.png", "1-2-1": "/media/inquire-dictionary.png",
-    "2-0-0": "/media/inquire-modern-family.png", "2-1-0": "/media/inquire-parentified.png", "2-2-0": "/media/inquire-bully.png",
-    "3-0-0": "/media/inquire-catlady.png", "3-1-0": "/media/inquire-stereotypes.png", "3-2-0": "https://i.ytimg.com/vi/ovKqmRyOGcg/maxresdefault.jpg",
-    "4-0-0": "/media/inquire-love-joint.png", "4-1-0": "/media/inquire-healthy-love.png", "4-1-1": "/media/inquire-gaslight.png", "4-2-0": "/media/inquire-love-actually.png",
+    "0-0-0": "https://assets.negentropylearning.com.cn/media/inquire-taylor.png", "0-0-1": "https://assets.negentropylearning.com.cn/media/inquire-clock.png", "0-1-0": "https://assets.negentropylearning.com.cn/media/inquire-individualism.png", "0-2-0": "https://assets.negentropylearning.com.cn/media/inquire-harvard.png", "0-2-1": "https://assets.negentropylearning.com.cn/media/inquire-columbia.png",
+    "1-0-0": "https://assets.negentropylearning.com.cn/media/inquire-deepseek.png", "1-1-0": "https://assets.negentropylearning.com.cn/media/inquire-gulliver.png", "1-1-1": "https://assets.negentropylearning.com.cn/media/inquire-cybertruck.png", "1-2-0": "https://assets.negentropylearning.com.cn/media/inquire-ai.png", "1-2-1": "https://assets.negentropylearning.com.cn/media/inquire-dictionary.png",
+    "2-0-0": "https://assets.negentropylearning.com.cn/media/inquire-modern-family.png", "2-1-0": "https://assets.negentropylearning.com.cn/media/inquire-parentified.png", "2-2-0": "https://assets.negentropylearning.com.cn/media/inquire-bully.png",
+    "3-0-0": "https://assets.negentropylearning.com.cn/media/inquire-catlady.png", "3-1-0": "https://assets.negentropylearning.com.cn/media/inquire-stereotypes.png", "3-2-0": "https://i.ytimg.com/vi/ovKqmRyOGcg/maxresdefault.jpg",
+    "4-0-0": "https://assets.negentropylearning.com.cn/media/inquire-love-joint.png", "4-1-0": "https://assets.negentropylearning.com.cn/media/inquire-healthy-love.png", "4-1-1": "https://assets.negentropylearning.com.cn/media/inquire-gaslight.png", "4-2-0": "https://assets.negentropylearning.com.cn/media/inquire-love-actually.png",
   };
 
   return (
@@ -673,7 +686,10 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   }
 
   if (quizOpen) {
-    return <div className="article-learning-shell">{navigation("quizzes")}{index === 0 ? <ArticleOneQuiz /> : <QuizWorkspace article={article} onExit={() => setQuizOpen(false)} />}</div>;
+    if (index === 0) return <ArticleOneQuiz onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} />;
+    const suppliedQuiz = articles02to05QuizData.find((item) => item.articleNumber === article.number);
+    if (suppliedQuiz) return <ArticleOneQuiz key={article.number} onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} categories={[...suppliedQuiz.categories]} unitLabel={suppliedQuiz.unitLabel} articleTitle={suppliedQuiz.articleTitle} />;
+    return <div className="article-learning-shell">{navigation("quizzes")}<QuizWorkspace article={article} onExit={() => setQuizOpen(false)} /></div>;
   }
 
   if (index === 0 && showMuckRakeIntro) {
@@ -704,13 +720,13 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
         <section className="placeholder-text"><span className="ink-orbit" aria-hidden="true" /><p>The complete text has not yet been supplied.</p><small>This place is held without invented commentary.</small></section>
       ) : index === 1 ? (
         <article id="text" className="reading-column">
-          <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="/media/audio-should-the-robots-be-taxed.mp3" /></div>
+          <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="https://assets.negentropylearning.com.cn/media/audio-should-the-robots-be-taxed.mp3" /></div>
           <p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>
           <div className="original-text">{robotsParagraphs.map((paragraph, paragraphIndex) => <p className="prose" key={paragraphIndex}><span className="paragraph-number">{String(paragraphIndex + 1).padStart(2, "0")}</span><LessonVocabularyParagraph articleId="02" paragraph={paragraphIndex + 1} text={paragraph} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/></p>)}</div>
         </article>
       ) : (
         <article id="text" className="reading-column">
-          <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="/media/audio-i-become-a-student.mp3" /></div>
+          <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="https://assets.negentropylearning.com.cn/media/audio-i-become-a-student.mp3" /></div>
           <p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>
           <div className="original-text">
             {steffensParagraphs.map((paragraph, paragraphIndex) => <p className="prose" key={paragraphIndex}><span className="paragraph-number">0{paragraphIndex + 1}</span><VocabularyParagraph text={paragraph} sentenceStart={1 + steffensParagraphs.slice(0, paragraphIndex).reduce((total, part) => total + splitStudioSentences(part).length, 0)} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/></p>)}
@@ -1202,7 +1218,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
               onClick={draw}
               aria-label="点击小猫抽取学号"
             >
-              <img src={isAppearances ? appearancesConfig!.catSrc : isCourage ? courageConfig!.catSrc : isSetup ? setupConfig!.catSrc : isRobots ? "/media/cat-robot-dream-mascot.png?v=1" : isRoommates ? "/media/cat-roommates-mascot.png?v=1" : "/media/cat-blackwhite-extended-doctoral.png?v=1"} alt={isAppearances ? "Gray-and-white tabby cat holding a worn leather briefcase and gripping the sentence card" : isCourage ? "Gray-and-white tabby cat holding a small yellow oil-paper umbrella beside the sentence card" : isSetup ? "Gray-and-white tabby cat in a theme-specific reading pose beside the sentence card" : isRobots ? "Black-and-white illustrated cat with subtle retro robot-dream details gripping the sentence card" : isRoommates ? "Light line-art cat in a knitted cardigan and reading glasses holding a small book" : "Black-and-white illustrated cat wearing a doctoral cap and gripping the sentence card"} />
+              <img src={isAppearances ? appearancesConfig!.catSrc : isCourage ? courageConfig!.catSrc : isSetup ? setupConfig!.catSrc : isRobots ? "https://assets.negentropylearning.com.cn/media/cat-robot-dream-mascot.png?v=1" : isRoommates ? "https://assets.negentropylearning.com.cn/media/cat-roommates-mascot.png?v=1" : "https://assets.negentropylearning.com.cn/media/cat-blackwhite-extended-doctoral.png?v=1"} alt={isAppearances ? "Gray-and-white tabby cat holding a worn leather briefcase and gripping the sentence card" : isCourage ? "Gray-and-white tabby cat holding a small yellow oil-paper umbrella beside the sentence card" : isSetup ? "Gray-and-white tabby cat in a theme-specific reading pose beside the sentence card" : isRobots ? "Black-and-white illustrated cat with subtle retro robot-dream details gripping the sentence card" : isRoommates ? "Light line-art cat in a knitted cardigan and reading glasses holding a small book" : "Black-and-white illustrated cat wearing a doctoral cap and gripping the sentence card"} />
             </button>
             <button className={`student-number-bubble ${studentId ? "has-number" : ""}`} onClick={() => setStudentId(null)} disabled={!studentId} aria-label={studentId ? "Clear the current student number" : "No student drawn yet; tap the cat to draw"}>
               <span><strong>{studentId ? String(studentId).padStart(2, "0") : "?"}</strong> / 50</span>
@@ -1233,7 +1249,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
             <span className="paper-index">SENTENCE {String(selected + 1).padStart(2, "0")} · PARA {String(activeParagraph + 1).padStart(2, "0")}</span>
             <div className="sentence-audio">
               <span>LISTEN · {String(selected + 1).padStart(2, "0")}</span>
-              <audio key={currentAppearanceSentence?.sentenceId ?? currentCourageSentence?.sentenceId ?? currentSetupSentence?.sentenceId ?? selected} controls preload="metadata" src={isAppearances ? currentAppearanceSentence!.audioSrc : isCourage ? currentCourageSentence!.audioSrc : isSetup ? currentSetupSentence!.audioSrc ?? undefined : isRobots ? `/media/audio-robots-sentences/robot-sentence-${String(selected + 1).padStart(2, "0")}.mp3?v=20260827-robots` : isRoommates ? `/media/audio-roommates-sentences-v6/roommates-sentence-${String(selected + 1).padStart(2, "0")}.mp3?v=20260828-forced-alignment` : `/media/audio-sentences/sentence-${String(selected + 1).padStart(2, "0")}.mp3?v=20260827-audiofix`} />
+              <audio key={currentAppearanceSentence?.sentenceId ?? currentCourageSentence?.sentenceId ?? currentSetupSentence?.sentenceId ?? selected} controls preload="metadata" src={toMediaUrl(isAppearances ? currentAppearanceSentence!.audioSrc : isCourage ? currentCourageSentence!.audioSrc : isSetup ? currentSetupSentence!.audioSrc ?? "" : isRobots ? `/media/audio-robots-sentences/robot-sentence-${String(selected + 1).padStart(2, "0")}.mp3?v=20260827-robots` : isRoommates ? `/media/audio-roommates-sentences-v6/roommates-sentence-${String(selected + 1).padStart(2, "0")}.mp3?v=20260828-forced-alignment` : `/media/audio-sentences/sentence-${String(selected + 1).padStart(2, "0")}.mp3?v=20260827-audiofix`)} />
             </div>
             <p>{sentences[selected]}</p>
             <nav className="analysis-tabs" aria-label="Sentence analysis categories">

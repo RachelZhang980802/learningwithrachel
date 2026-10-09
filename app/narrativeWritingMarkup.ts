@@ -100,12 +100,12 @@ export const narrativeWritingMarkup = String.raw`
           <a class="black-button" href="#intro">Course introduction</a>
         </div>
         <div class="cover-books-wrap" role="group" aria-label="Six narrative writing unit books">
-          <div class="cover-book" style="--book-x: 0.933333%; --book-width: 15.933333%"><img src="/narrative-writing/assets/cover-book-01.png" width="239" height="426" alt="01 — Life and Value" draggable="false" /></div>
-          <div class="cover-book" style="--book-x: 16.933333%; --book-width: 18.066667%"><img src="/narrative-writing/assets/cover-book-02.png" width="271" height="426" alt="02 — Empathy and Justice" draggable="false" /></div>
-          <div class="cover-book" style="--book-x: 35%; --book-width: 8.933333%"><img src="/narrative-writing/assets/cover-book-03.png" width="134" height="426" alt="03 — Growth and Maturity" draggable="false" /></div>
-          <div class="cover-book" style="--book-x: 43.933333%; --book-width: 22.2%"><img src="/narrative-writing/assets/cover-book-04.png" width="333" height="426" alt="04 — Truth and Interpretation" draggable="false" /></div>
-          <div class="cover-book" style="--book-x: 66.133333%; --book-width: 16.466667%"><img src="/narrative-writing/assets/cover-book-05.png" width="247" height="426" alt="05 — Dream and Faith" draggable="false" /></div>
-          <div class="cover-book" style="--book-x: 82.6%; --book-width: 17.4%"><img src="/narrative-writing/assets/cover-book-06.png" width="261" height="426" alt="06 — Conflict and Harmony" draggable="false" /></div>
+          <div class="cover-book" style="--book-x: 0.933333%; --book-width: 15.933333%"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/cover-book-01.png" width="239" height="426" alt="01 — Life and Value" draggable="false" /></div>
+          <div class="cover-book" style="--book-x: 16.933333%; --book-width: 18.066667%"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/cover-book-02.png" width="271" height="426" alt="02 — Empathy and Justice" draggable="false" /></div>
+          <div class="cover-book" style="--book-x: 35%; --book-width: 8.933333%"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/cover-book-03.png" width="134" height="426" alt="03 — Growth and Maturity" draggable="false" /></div>
+          <div class="cover-book" style="--book-x: 43.933333%; --book-width: 22.2%"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/cover-book-04.png" width="333" height="426" alt="04 — Truth and Interpretation" draggable="false" /></div>
+          <div class="cover-book" style="--book-x: 66.133333%; --book-width: 16.466667%"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/cover-book-05.png" width="247" height="426" alt="05 — Dream and Faith" draggable="false" /></div>
+          <div class="cover-book" style="--book-x: 82.6%; --book-width: 17.4%"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/cover-book-06.png" width="261" height="426" alt="06 — Conflict and Harmony" draggable="false" /></div>
         </div>
       </section>
 
@@ -195,7 +195,7 @@ export const narrativeWritingMarkup = String.raw`
             <p class="chinese-name">张榕榕 <span>·</span> Rachel</p>
             <p class="role-line">Narrative Writing · Course Instructor</p>
           </div>
-          <figure class="instructor-photo"><img src="/narrative-writing/assets/instructor.png" alt="Zhang Rongrong standing beside a lake" /><figcaption>Zhang Rongrong · Rachel</figcaption></figure>
+          <figure class="instructor-photo"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/instructor.png" alt="Zhang Rongrong standing beside a lake" /><figcaption>Zhang Rongrong · Rachel</figcaption></figure>
         </div>
         <div class="rule"></div>
         <p class="section-kicker">HIGHLIGHTS</p>
@@ -223,12 +223,12 @@ export const narrativeWritingMarkup = String.raw`
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>LEARNING UNITS</p></div></div>
         <div class="units-heading"><h1 id="units-title">Six units to know<br />Narrative Writing</h1><p>A writing skill and a language focus<br />in every unit.</p></div>
         <div class="unit-grid">
-          <a class="unit-card coral-card" href="#unit-one"><img src="/narrative-writing/assets/unit-custom-01.png" alt="A garden dinner beneath trees and string lights" /><div><b>01</b><h3>Life and Value</h3><p>Overview</p></div></a>
-          <a class="unit-card yellow-card" href="#reading" data-reading-target="after-twenty"><img src="/narrative-writing/assets/unit-custom-02.png" alt="Blue figures reaching toward one another in a crowd" /><div><b>02</b><h3>Empathy and<br />Justice</h3><p>Characterization</p></div></a>
-          <a class="unit-card blue-card" href="#reading" data-reading-target="egg"><img src="/narrative-writing/assets/unit-custom-03.png" alt="A girl in a white dress seated on a garden swing" /><div><b>03</b><h3>Growth and<br />Maturity</h3><p>Setting</p></div></a>
-          <a class="unit-card green-card" href="#reading" data-reading-target="short-story"><img src="/narrative-writing/assets/unit-custom-04.png" alt="A person lying in a beam of light on a field" /><div><b>04</b><h3>Truth and<br />Interpretation</h3><p>Point of View</p></div></a>
-          <a class="unit-card pink-card" href="#reading" data-reading-target="early-autumn"><img src="/narrative-writing/assets/unit-custom-05.png" alt="An illustrated figure reaching toward a star" /><div><b>05</b><h3>Dream and Faith</h3><p>Theme</p></div></a>
-          <a class="unit-card light-blue-card" href="#reading" data-reading-target="trifles"><img src="/narrative-writing/assets/unit-custom-06.png" alt="A group of friends sharing a close embrace" /><div><b>06</b><h3>Conflict and<br />Harmony</h3><p>Plot</p></div></a>
+          <a class="unit-card coral-card" href="#unit-one"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-01.png" alt="A garden dinner beneath trees and string lights" /><div><b>01</b><h3>Life and Value</h3><p>Overview</p></div></a>
+          <a class="unit-card yellow-card" href="#reading" data-reading-target="after-twenty"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-02.png" alt="Blue figures reaching toward one another in a crowd" /><div><b>02</b><h3>Empathy and<br />Justice</h3><p>Characterization</p></div></a>
+          <a class="unit-card blue-card" href="#reading" data-reading-target="egg"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-03.png" alt="A girl in a white dress seated on a garden swing" /><div><b>03</b><h3>Growth and<br />Maturity</h3><p>Setting</p></div></a>
+          <a class="unit-card green-card" href="#reading" data-reading-target="short-story"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-04.png" alt="A person lying in a beam of light on a field" /><div><b>04</b><h3>Truth and<br />Interpretation</h3><p>Point of View</p></div></a>
+          <a class="unit-card pink-card" href="#reading" data-reading-target="early-autumn"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-05.png" alt="An illustrated figure reaching toward a star" /><div><b>05</b><h3>Dream and Faith</h3><p>Theme</p></div></a>
+          <a class="unit-card light-blue-card" href="#reading" data-reading-target="trifles"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-06.png" alt="A group of friends sharing a close embrace" /><div><b>06</b><h3>Conflict and<br />Harmony</h3><p>Plot</p></div></a>
         </div>
       </section>
 
@@ -249,7 +249,7 @@ export const narrativeWritingMarkup = String.raw`
             </div>
           </div>
         </div>
-        <div class="unit-one-illustration" aria-hidden="true"><img src="/narrative-writing/assets/unit-one-watercolor-scroll.png" width="1024" height="1536" alt="" /></div>
+        <div class="unit-one-illustration" aria-hidden="true"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-one-watercolor-scroll.png" width="1024" height="1536" alt="" /></div>
       </section>
 
       <section class="slide unit-one-knowledge-slide" id="unit-one-knowledge" aria-labelledby="unit-one-knowledge-title">
@@ -324,9 +324,9 @@ export const narrativeWritingMarkup = String.raw`
                 </div>
                 <section class="unit-one-mini-genre-stage" id="unit-one-mini-genre-stage" role="tabpanel" aria-label="Selected mini-genre" data-mini-genre-stage="adventures">
                   <div class="unit-one-mini-genre-stage-copy"><p data-mini-genre-title>Adventures</p><span data-mini-genre-summary>Stories of exploration, journeys, risk, and discovery.</span></div>
-                  <div class="unit-one-mini-genre-original" data-mini-genre-media><figure><img data-mini-genre-image src="/narrative-writing/assets/mini-genres/adventures.png" alt="Treasure Island and Robinson Crusoe covers" loading="lazy" /></figure><div class="unit-one-mini-genre-credits"><article><b data-mini-genre-book-title="one">Treasure Island</b><span data-mini-genre-book-author="one">Robert Louis Stevenson</span></article><article><b data-mini-genre-book-title="two">Robinson Crusoe</b><span data-mini-genre-book-author="two">Daniel Defoe</span></article></div></div>
+                  <div class="unit-one-mini-genre-original" data-mini-genre-media><figure><img data-mini-genre-image src="https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/adventures.png" alt="Treasure Island and Robinson Crusoe covers" loading="lazy" /></figure><div class="unit-one-mini-genre-credits"><article><b data-mini-genre-book-title="one">Treasure Island</b><span data-mini-genre-book-author="one">Robert Louis Stevenson</span></article><article><b data-mini-genre-book-title="two">Robinson Crusoe</b><span data-mini-genre-book-author="two">Daniel Defoe</span></article></div></div>
                 </section>
-                <section class="unit-one-folklore-pages" data-mini-genre-folklore-pages hidden aria-label="Folklore examples"><figure><img src="/narrative-writing/assets/mini-genres/folklore-musical.png" alt="Folklore page exploring Taylor Swift's storytelling" loading="lazy" /><figcaption>Folklore in contemporary songwriting</figcaption></figure><figure><img src="/narrative-writing/assets/mini-genres/folklore-writing.png" alt="Folklore page about imagery, characters, and perspective" loading="lazy" /><figcaption>Folklore in narrative writing</figcaption></figure></section>
+                <section class="unit-one-folklore-pages" data-mini-genre-folklore-pages hidden aria-label="Folklore examples"><figure><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/folklore-musical.png" alt="Folklore page exploring Taylor Swift's storytelling" loading="lazy" /><figcaption>Folklore in contemporary songwriting</figcaption></figure><figure><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/mini-genres/folklore-writing.png" alt="Folklore page about imagery, characters, and perspective" loading="lazy" /><figcaption>Folklore in narrative writing</figcaption></figure></section>
               </section>
 
               <section class="unit-one-basics-page unit-one-basics-page--structure" id="unit-one-basics-panel-structure" role="tabpanel" aria-labelledby="unit-one-basics-tab-structure" data-unit-one-basics-panel="structure" hidden>
@@ -367,8 +367,8 @@ export const narrativeWritingMarkup = String.raw`
             <ol class="unit-one-content-list unit-one-content-list--short" start="9"><li>Time Expressions</li><li>Concrete Details</li></ol>
           </section>
         </div>
-        <img class="unit-one-knowledge-decor unit-one-knowledge-decor--candles" src="/narrative-writing/assets/unit-one-knowledge-decor.png" width="1536" height="1024" alt="" aria-hidden="true" loading="lazy" />
-        <img class="unit-one-knowledge-decor unit-one-knowledge-decor--quill" src="/narrative-writing/assets/unit-one-knowledge-decor.png" width="1536" height="1024" alt="" aria-hidden="true" loading="lazy" />
+        <img class="unit-one-knowledge-decor unit-one-knowledge-decor--candles" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-one-knowledge-decor.png" width="1536" height="1024" alt="" aria-hidden="true" loading="lazy" />
+        <img class="unit-one-knowledge-decor unit-one-knowledge-decor--quill" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-one-knowledge-decor.png" width="1536" height="1024" alt="" aria-hidden="true" loading="lazy" />
       </section>
 
       <section class="slide assessment-slide" id="assessment" data-nav="assessment" aria-labelledby="assessment-title">
@@ -386,11 +386,11 @@ export const narrativeWritingMarkup = String.raw`
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>PRESENTATION</p></div></div>
         <div class="presentation-heading"><h1 id="presentation-title">From Songs to<br />Narrative Writing</h1><div><h2>Presentation 10%</h2><p>Discussion and presentation<br />through texts, scenes and songs.</p></div></div>
         <div class="song-grid">
-          <article class="song-card"><img src="/narrative-writing/assets/song-01.png" alt="The Life of a Show Girl" /><h3>Characterization &amp;<br />Dialogues</h3><p>The Life of a Show Girl</p><span>01</span></article>
-          <article class="song-card"><img src="/narrative-writing/assets/song-02.png" alt="All Too Well" /><h3>Setting &amp; Sensory<br />Details</h3><p>All Too Well</p><span>02</span></article>
-          <article class="song-card"><img src="/narrative-writing/assets/song-03.png" alt="Betty, August, Cardigan" /><h3>Perspectives</h3><p>Betty · August · Cardigan</p><span>03</span></article>
-          <article class="song-card"><img src="/narrative-writing/assets/song-04.png" alt="Epiphany" /><h3>Theme</h3><p>Epiphany</p><span>04</span></article>
-          <article class="song-card"><img src="/narrative-writing/assets/song-05.png" alt="no body, no crime" /><h3>Plot &amp; Chekhov’s Gun</h3><p>no body, no crime</p><span>05</span></article>
+          <article class="song-card"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/song-01.png" alt="The Life of a Show Girl" /><h3>Characterization &amp;<br />Dialogues</h3><p>The Life of a Show Girl</p><span>01</span></article>
+          <article class="song-card"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/song-02.png" alt="All Too Well" /><h3>Setting &amp; Sensory<br />Details</h3><p>All Too Well</p><span>02</span></article>
+          <article class="song-card"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/song-03.png" alt="Betty, August, Cardigan" /><h3>Perspectives</h3><p>Betty · August · Cardigan</p><span>03</span></article>
+          <article class="song-card"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/song-04.png" alt="Epiphany" /><h3>Theme</h3><p>Epiphany</p><span>04</span></article>
+          <article class="song-card"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/song-05.png" alt="no body, no crime" /><h3>Plot &amp; Chekhov’s Gun</h3><p>no body, no crime</p><span>05</span></article>
         </div>
       </section>
 
@@ -398,11 +398,11 @@ export const narrativeWritingMarkup = String.raw`
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>WRITING PRACTICE</p></div></div>
         <div class="writing-heading"><div><p class="section-kicker">Writing practice</p><h1 id="writing-title">Continue the story.<br />Make it your own.</h1></div><div><h2>Assignment 15%</h2><p>X-mind 5% <b>+</b> <span>Writing 10%</span></p></div></div>
         <div class="writing-grid">
-          <a class="writing-card coral-card" href="#practice"><img src="/narrative-writing/assets/write-01.png" alt="The Necklace" /><b>Unit 1</b><h3>The Necklace</h3><p>Continuation writing</p></a>
-          <a class="writing-card yellow-card" href="#practice"><img src="/narrative-writing/assets/write-02.png" alt="After Twenty Years" /><b>Unit 2</b><h3>After Twenty Years</h3><p>Continuation writing</p></a>
-          <a class="writing-card blue-card" href="#practice"><img src="/narrative-writing/assets/write-03.png" alt="The Egg" /><b>Unit 3</b><h3>The Egg</h3><p>Continuation writing</p></a>
-          <a class="writing-card green-card" href="#practice"><img src="/narrative-writing/assets/write-04.png" alt="A Very Short Story" /><b>Unit 4</b><h3>A Very Short Story</h3><p>Continuation writing</p></a>
-          <a class="writing-card pink-card" href="#practice"><img src="/narrative-writing/assets/write-05.png" alt="Early Autumn" /><b>Unit 5</b><h3>Early Autumn</h3><p>Continuation writing</p></a>
+          <a class="writing-card coral-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-01.png" alt="The Necklace" /><b>Unit 1</b><h3>The Necklace</h3><p>Continuation writing</p></a>
+          <a class="writing-card yellow-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-02.png" alt="After Twenty Years" /><b>Unit 2</b><h3>After Twenty Years</h3><p>Continuation writing</p></a>
+          <a class="writing-card blue-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-03.png" alt="The Egg" /><b>Unit 3</b><h3>The Egg</h3><p>Continuation writing</p></a>
+          <a class="writing-card green-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-04.png" alt="A Very Short Story" /><b>Unit 4</b><h3>A Very Short Story</h3><p>Continuation writing</p></a>
+          <a class="writing-card pink-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-05.png" alt="Early Autumn" /><b>Unit 5</b><h3>Early Autumn</h3><p>Continuation writing</p></a>
         </div>
       </section>
 
@@ -410,24 +410,24 @@ export const narrativeWritingMarkup = String.raw`
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>Supplementary reading</p></div></div>
         <div class="reading-heading"><h1 id="reading-title">Twelve texts.<br />Six units.</h1><div class="reading-heading-copy"><h2>Each reading appears with its<br />original source image.</h2><p><strong>5%</strong><span>Interaction for supplementary<br />and textbook reading</span></p></div></div>
         <div class="reading-grid">
-          <a class="reading-card" id="reading-necklace" href="#reading-necklace" aria-label="Open The Necklace reading introduction"><img src="/narrative-writing/assets/read-01.png" alt="The Necklace" /><div><b class="unit-coral">Unit 1</b><h3>The Necklace</h3><p>Guy de Maupassant</p></div></a>
-          <a class="reading-card" id="reading-fat" href="#reading-fat" aria-label="Open Fat reading introduction"><img src="/narrative-writing/assets/read-02.png" alt="Fat" /><div><b class="unit-yellow">Unit 1</b><h3>Fat</h3><p>Raymond Carver</p></div></a>
-          <a class="reading-card" id="reading-after-twenty" href="#reading-after-twenty" aria-label="Open After Twenty Years reading introduction"><img src="/narrative-writing/assets/read-03.png" alt="After Twenty Years" /><div><b class="unit-blue">Unit 2</b><h3>After Twenty Years</h3><p>O. Henry</p></div></a>
-          <a class="reading-card" id="reading-last-leaf" href="#reading-last-leaf" aria-label="Open The Last Leaf reading introduction"><img src="/narrative-writing/assets/read-04.png" alt="The Last Leaf" /><div><b class="unit-green">Unit 2</b><h3>The Last Leaf</h3><p>O. Henry</p></div></a>
-          <a class="reading-card" id="reading-flowers" href="#reading-flowers" aria-label="Open The Flowers reading introduction"><img src="/narrative-writing/assets/read-05.png" alt="The Flowers" /><div><b class="unit-pink">Unit 3</b><h3>The Flowers</h3><p>Alice Walker</p></div></a>
-          <a class="reading-card" id="reading-egg" href="#reading-egg" aria-label="Open The Egg reading introduction"><img src="/narrative-writing/assets/read-06.png" alt="The Egg" /><div><b class="unit-light-blue">Unit 3</b><h3>The Egg</h3><p>Sherwood Anderson</p></div></a>
-          <a class="reading-card" id="reading-days-wait" href="#reading-days-wait" aria-label="Open A Day’s Wait reading introduction"><img src="/narrative-writing/assets/read-07.png" alt="A Day’s Wait" /><div><b class="unit-coral">Unit 4</b><h3>A Day’s Wait</h3><p>Ernest Hemingway</p></div></a>
-          <a class="reading-card" id="reading-short-story" href="#reading-short-story" aria-label="Open A Very Short Story reading introduction"><img src="/narrative-writing/assets/read-08.png" alt="A Very Short Story" /><div><b class="unit-yellow">Unit 4</b><h3>A Very Short Story</h3><p>Ernest Hemingway</p></div></a>
-          <a class="reading-card" id="reading-cop-anthem" href="#reading-cop-anthem" aria-label="Open The Cop and the Anthem reading introduction"><img src="/narrative-writing/assets/read-09.png" alt="The Cop and the Anthem" /><div><b class="unit-blue">Unit 5</b><h3>The Cop and the Anthem</h3><p>O. Henry</p></div></a>
-          <a class="reading-card" id="reading-early-autumn" href="#reading-early-autumn" aria-label="Open Early Autumn reading introduction"><img src="/narrative-writing/assets/read-10.png" alt="Early Autumn" /><div><b class="unit-green">Unit 5</b><h3>Early Autumn</h3><p>Langston Hughes</p></div></a>
-          <a class="reading-card" id="reading-story-hour" href="#reading-story-hour" aria-label="Open The Story of an Hour reading introduction"><img src="/narrative-writing/assets/read-11.png" alt="The Story of an Hour" /><div><b class="unit-pink">Unit 6</b><h3>The Story of an Hour</h3><p>Kate Chopin</p></div></a>
-          <a class="reading-card" id="reading-trifles" href="#reading-trifles" aria-label="Open Trifles reading introduction"><img src="/narrative-writing/assets/read-12.png" alt="Trifles" /><div><b class="unit-light-blue">Unit 6</b><h3>Trifles</h3><p>Susan Glaspell</p></div></a>
+          <a class="reading-card" id="reading-necklace" href="#reading-necklace" aria-label="Open The Necklace reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-01.png" alt="The Necklace" /><div><b class="unit-coral">Unit 1</b><h3>The Necklace</h3><p>Guy de Maupassant</p></div></a>
+          <a class="reading-card" id="reading-fat" href="#reading-fat" aria-label="Open Fat reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-02.png" alt="Fat" /><div><b class="unit-yellow">Unit 1</b><h3>Fat</h3><p>Raymond Carver</p></div></a>
+          <a class="reading-card" id="reading-after-twenty" href="#reading-after-twenty" aria-label="Open After Twenty Years reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-03.png" alt="After Twenty Years" /><div><b class="unit-blue">Unit 2</b><h3>After Twenty Years</h3><p>O. Henry</p></div></a>
+          <a class="reading-card" id="reading-last-leaf" href="#reading-last-leaf" aria-label="Open The Last Leaf reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-04.png" alt="The Last Leaf" /><div><b class="unit-green">Unit 2</b><h3>The Last Leaf</h3><p>O. Henry</p></div></a>
+          <a class="reading-card" id="reading-flowers" href="#reading-flowers" aria-label="Open The Flowers reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-05.png" alt="The Flowers" /><div><b class="unit-pink">Unit 3</b><h3>The Flowers</h3><p>Alice Walker</p></div></a>
+          <a class="reading-card" id="reading-egg" href="#reading-egg" aria-label="Open The Egg reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-06.png" alt="The Egg" /><div><b class="unit-light-blue">Unit 3</b><h3>The Egg</h3><p>Sherwood Anderson</p></div></a>
+          <a class="reading-card" id="reading-days-wait" href="#reading-days-wait" aria-label="Open A Day’s Wait reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-07.png" alt="A Day’s Wait" /><div><b class="unit-coral">Unit 4</b><h3>A Day’s Wait</h3><p>Ernest Hemingway</p></div></a>
+          <a class="reading-card" id="reading-short-story" href="#reading-short-story" aria-label="Open A Very Short Story reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-08.png" alt="A Very Short Story" /><div><b class="unit-yellow">Unit 4</b><h3>A Very Short Story</h3><p>Ernest Hemingway</p></div></a>
+          <a class="reading-card" id="reading-cop-anthem" href="#reading-cop-anthem" aria-label="Open The Cop and the Anthem reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-09.png" alt="The Cop and the Anthem" /><div><b class="unit-blue">Unit 5</b><h3>The Cop and the Anthem</h3><p>O. Henry</p></div></a>
+          <a class="reading-card" id="reading-early-autumn" href="#reading-early-autumn" aria-label="Open Early Autumn reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-10.png" alt="Early Autumn" /><div><b class="unit-green">Unit 5</b><h3>Early Autumn</h3><p>Langston Hughes</p></div></a>
+          <a class="reading-card" id="reading-story-hour" href="#reading-story-hour" aria-label="Open The Story of an Hour reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-11.png" alt="The Story of an Hour" /><div><b class="unit-pink">Unit 6</b><h3>The Story of an Hour</h3><p>Kate Chopin</p></div></a>
+          <a class="reading-card" id="reading-trifles" href="#reading-trifles" aria-label="Open Trifles reading introduction"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/read-12.png" alt="Trifles" /><div><b class="unit-light-blue">Unit 6</b><h3>Trifles</h3><p>Susan Glaspell</p></div></a>
         </div>
       </section>
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-necklace" aria-labelledby="reading-detail-necklace-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="necklace" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-necklace.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-necklace.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit One Narrative Writing</p>
           <h1 id="reading-detail-necklace-title">The Necklace</h1>
@@ -450,7 +450,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-fat" aria-labelledby="reading-detail-fat-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="fat" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-fat.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-fat.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit One Narrative Writing</p>
           <h1 id="reading-detail-fat-title">Fat</h1>
@@ -473,7 +473,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-after-twenty" aria-labelledby="reading-detail-after-twenty-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="after-twenty" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-after-twenty.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-after-twenty.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Two Narrative Writing</p>
           <h1 id="reading-detail-after-twenty-title">After Twenty Years</h1>
@@ -491,7 +491,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-last-leaf" aria-labelledby="reading-detail-last-leaf-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="last-leaf" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-last-leaf.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-last-leaf.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Two Narrative Writing</p>
           <h1 id="reading-detail-last-leaf-title">The Last Leaf</h1>
@@ -509,7 +509,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-flowers" aria-labelledby="reading-detail-flowers-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="flowers" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-flowers.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-flowers.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Three Narrative Writing</p>
           <h1 id="reading-detail-flowers-title">The Flowers</h1>
@@ -527,7 +527,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-egg" aria-labelledby="reading-detail-egg-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="egg" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-egg.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-egg.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Three Narrative Writing</p>
           <h1 id="reading-detail-egg-title">The Egg</h1>
@@ -545,7 +545,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-days-wait" aria-labelledby="reading-detail-days-wait-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="days-wait" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-days-wait.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-days-wait.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Four Narrative Writing</p>
           <h1 id="reading-detail-days-wait-title">A Day’s Wait</h1>
@@ -563,7 +563,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-short-story" aria-labelledby="reading-detail-short-story-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="short-story" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-short-story.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-short-story.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Four Narrative Writing</p>
           <h1 id="reading-detail-short-story-title">A Very Short Story</h1>
@@ -581,7 +581,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-cop-anthem" aria-labelledby="reading-detail-cop-anthem-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="cop-anthem" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-cop-anthem.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-cop-anthem.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Five Narrative Writing</p>
           <h1 id="reading-detail-cop-anthem-title">The Cop and the Anthem</h1>
@@ -599,7 +599,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-early-autumn" aria-labelledby="reading-detail-early-autumn-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="early-autumn" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-early-autumn.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-early-autumn.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Five Narrative Writing</p>
           <h1 id="reading-detail-early-autumn-title">Early Autumn</h1>
@@ -617,7 +617,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-story-hour" aria-labelledby="reading-detail-story-hour-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="story-hour" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-story-hour.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-story-hour.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Six Narrative Writing</p>
           <h1 id="reading-detail-story-hour-title">The Story of an Hour</h1>
@@ -635,7 +635,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-trifles" aria-labelledby="reading-detail-trifles-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="trifles" aria-label="Back to supplementary reading">← Reading list</a>
-        <img class="reading-detail-visual" src="/narrative-writing/assets/reading-detail-trifles.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
+        <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-trifles.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
           <p>Unit Six Narrative Writing</p>
           <h1 id="reading-detail-trifles-title">Trifles</h1>
