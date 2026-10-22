@@ -38,8 +38,8 @@ NGINX
 chmod 0644 "$config"
 nginx -t
 systemctl reload nginx
-curl -fsS -H 'Host: preview.negentropylearning.com.cn' http://127.0.0.1/release-version.json
+curl --noproxy '*' --resolve preview.negentropylearning.com.cn:80:127.0.0.1 -fsS http://preview.negentropylearning.com.cn/release-version.json
 printf '\n'
-[[ $(curl -s -o /dev/null -w '%{http_code}' -H 'Host: preview.negentropylearning.com.cn' http://127.0.0.1/western-culture/assets/early-greece-lilies-background.png) == 307 ]]
+[[ $(curl --noproxy '*' --resolve preview.negentropylearning.com.cn:80:127.0.0.1 -s -o /dev/null -w '%{http_code}' http://preview.negentropylearning.com.cn/western-culture/assets/early-greece-lilies-background.png) == 307 ]]
 trap - ERR
 echo 'HTTP_PREVIEW_READY: waiting for preview DNS, ECS port 80 and HTTPS certificate'
