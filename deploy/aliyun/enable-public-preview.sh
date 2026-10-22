@@ -38,7 +38,20 @@ NGINX
 chmod 0644 "$config"
 nginx -t
 systemctl reload nginx
-curl --noproxy '*' --resolve preview.negentropylearning.com.cn:80:127.0.0.1 -fsS http://preview.negentropylearning.com.cn/release-version.json
+preview_url=http://preview.negentropylearning.com.cn/release-version.json
+preview_status=
+for attempt in {1..20}; do
+    preview_status=$(curl --noproxy '*' --resolve preview.negentropylearning.com.cn:80:127.0.0.1 -sS -o /dev/null -w '%{http_code}' "$preview_url" || true)
+    if [[ "$preview_status" == 200 ]]; then break; fi
+    sleep 0.5
+done
+if [[ "$preview_status" != 200 ]]; then
+    echo "HTTP preview did not become ready (last status: $preview_status)." >&2
+    nginx -T 2>&1 | grep -E 'learningwithrachel-public-preview|listen 80|server_name preview' >&2 || true
+    tail -n 10 /var/log/nginx/learningwithrachel-preview-access.log /var/log/nginx/access.log /var/log/nginx/error.log >&2 || true
+    false
+fi
+curl --noproxy '*' --resolve preview.negentropylearning.com.cn:80:127.0.0.1 -fsS "$preview_url"
 printf '\n'
 [[ $(curl --noproxy '*' --resolve preview.negentropylearning.com.cn:80:127.0.0.1 -s -o /dev/null -w '%{http_code}' http://preview.negentropylearning.com.cn/western-culture/assets/early-greece-lilies-background.png) == 307 ]]
 trap - ERR
