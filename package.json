@@ -17,7 +17,8 @@
     "db:generate": "bash scripts/sites-env.sh -- drizzle-kit generate",
     "build:vercel": "NITRO_PRESET=vercel vinext build",
     "dev:vercel": "NITRO_PRESET=vercel vite",
-    "preview:vercel": "node scripts/preview-vercel.mjs"
+    "preview:vercel": "node scripts/preview-vercel.mjs",
+    "build:aliyun": "NITRO_PRESET=node-server vinext build"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",

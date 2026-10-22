@@ -1,0 +1,24 @@
+[Unit]
+Description=Learning with Rachel website
+After=network.target
+
+[Service]
+Type=simple
+User=learning-site
+Group=learning-site
+WorkingDirectory=/opt/learningwithrachel/current
+Environment=NODE_ENV=production
+Environment=NITRO_HOST=127.0.0.1
+Environment=NITRO_PORT=3000
+ExecStart=/usr/local/bin/node /opt/learningwithrachel/current/server/index.mjs
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+UMask=0027
+
+[Install]
+WantedBy=multi-user.target

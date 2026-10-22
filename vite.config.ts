@@ -15,11 +15,11 @@ const { d1, r2 } = hostingConfig;
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
 
-// Nitro owns the deployment output on Vercel. The Cloudflare Vite plugin
-// remains enabled for local/Workers builds, where its R2 and worker bindings
-// are required, but must not also claim the Vercel build output.
+// Nitro owns the deployment output on Vercel and standalone Node servers.
+// Keep the Cloudflare plugin for local/Workers builds only.
 const isNitroDeployment =
-  process.env.NITRO_PRESET === "vercel" || process.env.VERCEL === "1";
+  ["vercel", "node-server"].includes(process.env.NITRO_PRESET ?? "") ||
+  process.env.VERCEL === "1";
 
 const localBindingConfig = {
   main: "./worker/index.ts",
@@ -93,7 +93,12 @@ export default defineConfig(async () => {
         },
       },
       vinext(),
-      nitro(),
+      nitro({
+        ...(process.env.NITRO_PRESET === "node-server" ? { serveStatic: false } : {}),
+        handlers: process.env.NITRO_PRESET === "node-server"
+          ? [{ route: "/**", handler: resolve("deploy/aliyun/asset-redirects.mjs"), middleware: true }]
+          : [],
+      }),
       sites(),
       ...(!isNitroDeployment
         ? [
