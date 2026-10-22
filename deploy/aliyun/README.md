@@ -30,6 +30,10 @@ Full redirect verification from a checkout:
 ALIYUN_TEST_URL=http://127.0.0.1:8080 node scripts/verify-aliyun-routes.mjs
 ```
 
+## Public preview after local readiness
+
+Run `bash deploy/aliyun/enable-public-preview.sh` on the server from an audited copy. It configures only `preview.negentropylearning.com.cn` on port 80 and keeps the public production domain unchanged. It verifies the website with a local Host header request. Next, create a DNS-only A record for `preview` pointing to the ECS public IPv4, ensure inbound TCP/80 and 443 are permitted, then issue a certificate and test HTTPS. Disable or remove this host after the migration if no longer needed.
+
 ## Still required before production cutover
 
 Verify the packaged runtime on the actual server, prepare a public hostname and HTTPS certificate, check security-group rules and filing details, test production-domain resource access, and only then change DNS. Keep Vercel available for rollback. If changing the asset host later, migrate resources separately and retest CORS and audio range requests. This first-install script intentionally does not implement upgrades or automatic DNS changes.
