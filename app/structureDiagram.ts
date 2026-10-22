@@ -2,6 +2,8 @@ type Pair = readonly [string, string];
 export type StructureNode = {
   id: string; kind: "clause" | "unit"; label: string; start: number; end: number;
   text: string; children: StructureNode[]; excerpt?: string;
+  englishLabel?: string; antecedent?: string; functionClass?: string;
+  syntaxColor?: string; predicateRole?: "main" | "sub";
 };
 
 function isClauseLabel(label: string) {

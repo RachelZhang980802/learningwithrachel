@@ -1,0 +1,2728 @@
+{
+  "09": {
+    "54": {
+      "word": "twist off",
+      "sourceRow": 54,
+      "english": "to remove something by turning it with your hand",
+      "chinese": "拧下；旋开",
+      "collocations": [
+        "twist off bits of pastry 拧下一小块糕点",
+        "twist off the lid 拧开盖子"
+      ],
+      "compare": [
+        "twist off 是旋转着取下；tear off 是撕下。"
+      ],
+      "usage": "本文 twisting off bits of pastry 描述用手拧下一小块，off 表示脱离原物。",
+      "ipa": "/twɪst ɒf/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+      "dictionaryExample": {
+        "english": "I twisted off the lid and looked inside.",
+        "chinese": "我拧开盖子往里面看。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "1": {
+      "word": "tinge",
+      "sourceRow": 1,
+      "english": "to add a slight colour or quality",
+      "chinese": "染上一丝颜色；带有少许某种意味",
+      "collocations": [
+        "tinged with sadness 带着一丝悲伤",
+        "a tinge of regret 一丝遗憾",
+        "gold-tinged 带金色的"
+      ],
+      "compare": [
+        "tinge：少量颜色或情绪渗入",
+        "colour：给整体着色，也可影响看法",
+        "stain：留下难以去除的污迹，常含负面意味"
+      ],
+      "usage": "原文 gold-tinged 是复合修饰语，形容咖啡馆带着金色光泽；不等于用纯金建造。常用 be tinged with。",
+      "ipa": "/tɪndʒ/",
+      "partOfSpeech": "v. [T]，常用被动",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+      "dictionaryExample": {
+        "english": "white petals tinged with blue",
+        "chinese": "略带蓝色的白花瓣",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "tinge something (with something) to add a small amount of a particular emotion or quality to something",
+          "chinese": "使略带…感情（或性质）",
+          "exampleEnglish": "a look of surprise tinged with disapproval",
+          "exampleChinese": "带有几分不满的惊奇神情"
+        },
+        {
+          "english": "a small amount of a colour, feeling or quality",
+          "chinese": "微量，少许，一丝，几分（颜色、感情或性质）",
+          "exampleEnglish": "to feel a tinge of envy",
+          "exampleChinese": "感到几分妒忌"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "2": {
+      "word": "stumble around",
+      "sourceRow": 2,
+      "english": "to walk unsteadily or nearly fall",
+      "chinese": "踉跄而行；绊一下",
+      "collocations": [
+        "stumble over a stone 被石头绊一下",
+        "stumble around 摇摇晃晃地走",
+        "stumble across a place 偶然发现某地"
+      ],
+      "compare": [
+        "stumble：步伐不稳，可能未跌倒",
+        "trip：脚被障碍物绊住",
+        "fall：身体实际倒下"
+      ],
+      "usage": "本文 stumbling around 写在遗址中跌跌撞撞地走，不能机械套 stumble across 的“偶然发现”。stumble over words 可指说话磕巴。",
+      "ipa": "/ˈstʌmbəl/",
+      "partOfSpeech": "v. [I]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+      "dictionaryExample": {
+        "english": "Max stumbled out of bed sleepily.",
+        "chinese": "麦克斯昏昏欲睡地跌了床。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to hit your foot against something while you are walking or running and almost fall",
+          "chinese": "绊脚",
+          "exampleEnglish": "The child stumbled and fell.",
+          "exampleChinese": "孩子绊了一下，摔倒了。"
+        },
+        {
+          "english": "stumble (over/through something) to make a mistake or mistakes and stop while you are speaking, reading to somebody or playing music（",
+          "chinese": "不顺畅地）说，读，演奏",
+          "exampleEnglish": "In her nervousness she stumbled over her words.",
+          "exampleChinese": "她因紧张说话结结巴巴的。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "55": {
+      "word": "jungle-wrapped",
+      "sourceRow": 55,
+      "english": "covered or surrounded by jungle vegetation",
+      "chinese": "被丛林覆盖的",
+      "collocations": [
+        "jungle-wrapped ruins 丛林环绕的遗址",
+        "wrapped in vines 被藤蔓缠绕"
+      ],
+      "compare": [
+        "jungle-wrapped 是作者临时组成的形容词；jungle-covered 意思相近。"
+      ],
+      "usage": "jungle-wrapped 修饰 temple ruins，不是词典中独立收录的固定词。",
+      "ipa": "/ˈdʒʌŋɡl ræpt/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "3": {
+      "word": "condensed wisdom",
+      "sourceRow": 3,
+      "english": "reduced to a shorter or more concentrated form",
+      "chinese": "浓缩的；本文指经验经过提炼的",
+      "collocations": [
+        "condensed wisdom 浓缩的经验智慧",
+        "a condensed version 精简版",
+        "condensed milk 炼乳"
+      ],
+      "compare": [
+        "condensed：减少体积或篇幅，内容更集中",
+        "abbreviated：长度或形式缩短",
+        "concise：表达简洁而没有多余话，不必由长版删改而来"
+      ],
+      "usage": "原文不是“冷凝的智慧”，而是前人经验的提炼。condense A into B：把 A 浓缩成 B。",
+      "ipa": "/kənˈdenst/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+      "dictionaryExample": {
+        "english": "The article was condensed into just two pages.",
+        "chinese": "这篇文章被简缩成仅两页。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "4": {
+      "word": "abbreviated stay",
+      "sourceRow": 4,
+      "english": "shorter than usual or expected",
+      "chinese": "缩短的；本文指短暂的停留",
+      "collocations": [
+        "an abbreviated stay 短暂停留",
+        "an abbreviated version 缩略版",
+        "be abbreviated to 缩写为"
+      ],
+      "compare": [
+        "abbreviated：相较完整或通常长度有所缩短",
+        "brief：持续时间或篇幅短，未必经过缩减",
+        "condensed：压缩后信息更集中"
+      ],
+      "usage": "stays 指停留时段，故译“短暂停留”，不是“缩写的住宿”。词语缩写用 be abbreviated to/as。",
+      "ipa": "/əˈbriːvieɪtɪd/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "5": {
+      "word": "interloper",
+      "sourceRow": 5,
+      "english": "someone who enters a place or group where they seem not to belong",
+      "chinese": "闯入者；不速之客",
+      "collocations": [
+        "a cultural interloper 文化上的外来者",
+        "feel like an interloper 感到自己格格不入",
+        "an unwelcome interloper 不受欢迎的闯入者"
+      ],
+      "compare": [
+        "interloper：强调进入了不属于自己的圈子",
+        "outsider：只是圈外人，不必闯入",
+        "intruder：强调未经允许的侵入，安全威胁意味更强"
+      ],
+      "usage": "作者用 cultural interloper 自嘲游客身份，不是在承认非法闯入。不要当作 visitor 的中性替代词。",
+      "ipa": "/ˈɪntəˌləʊpə/",
+      "partOfSpeech": "n. [C]，常含贬义",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I plan my trips like a cultural interloper, making sure to hit the \"only-here\" greatest hits like the tourist that I very much am.",
+      "dictionaryExample": {
+        "english": "She felt like an interloper in her own family.",
+        "chinese": "她觉得自己的家人就像个闯入者。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "56": {
+      "word": "only-here",
+      "sourceRow": 56,
+      "english": "available only in this particular place",
+      "chinese": "只有这里才有的",
+      "collocations": [
+        "only-here attractions 只有这里才有的景点",
+        "an only-here experience 独此一处的体验"
+      ],
+      "compare": [
+        "only-here 强调地点独特；local 只表示当地的。"
+      ],
+      "usage": "引号中的 only-here 是作者临时构造的复合修饰语，不宜当固定习语背诵。",
+      "ipa": "/ˌəʊnli ˈhɪə(r)/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "I plan my trips like a cultural interloper, making sure to hit the \"only-here\" greatest hits like the tourist that I very much am.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "57": {
+      "word": "hit / greatest hits",
+      "sourceRow": 57,
+      "english": "to visit the best-known attractions; the attractions people most want to see",
+      "chinese": "去游览最热门的景点；最有代表性的景点",
+      "collocations": [
+        "the greatest hits of a city 城市最热门的景点",
+        "a band's greatest hits 乐队的金曲精选"
+      ],
+      "compare": [
+        "hit 本指热门作品；greatest hits 在本文借指必看景点。"
+      ],
+      "usage": "hit 是动词，greatest hits 是名词复数；句中 to hit 是“去到”，后面的 greatest hits 是热门景点，二者不要混作一个义项。",
+      "ipa": "/hɪt/; /ˌɡreɪtɪst ˈhɪts/",
+      "partOfSpeech": "verb / noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I plan my trips like a cultural interloper, making sure to hit the \"only-here\" greatest hits like the tourist that I very much am.",
+      "dictionaryExample": {
+        "english": "They are about to release an album of their greatest hits.",
+        "chinese": "他们即将发行收录他们最热门歌曲的专辑。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to bring your hand, or an object you are holding, against somebody/something quickly and with force（",
+          "chinese": "用手或器具）击，打"
+        },
+        {
+          "english": "to come against something/somebody with force, especially causing damage or injury",
+          "chinese": "碰撞；撞击（造成损伤）",
+          "exampleEnglish": "hit something/somebody The bus hit the bridge.",
+          "exampleChinese": "公共汽车撞到了桥上。"
+        },
+        {
+          "english": "hit something (informal) to press something such as a button to operate a machine, etc.",
+          "chinese": "按，压（按钮等）",
+          "exampleEnglish": "Hit the brakes!",
+          "exampleChinese": "踩刹车！"
+        },
+        {
+          "english": "to have a bad effect on somebody/something",
+          "chinese": "产生不良影响；打击；危害",
+          "exampleEnglish": "hit (somebody/something) The tax increases will certainly hit the poor.",
+          "exampleChinese": "增税肯定会加重穷人的负担。"
+        },
+        {
+          "english": "hit something to reach a particular level",
+          "chinese": "达到（某水平）",
+          "exampleEnglish": "Temperatures hit 40° yesterday.",
+          "exampleChinese": "昨天气温高达 40 度。"
+        },
+        {
+          "english": "hit something (informal) to experience something difficult or unpleasant",
+          "chinese": "遇到（困难）；经历（不愉快的事情）",
+          "exampleEnglish": "We seem to have hit a problem.",
+          "exampleChinese": "我们似乎遇到了问题。"
+        },
+        {
+          "english": "to come suddenly into your mind",
+          "chinese": "使突然想起",
+          "exampleEnglish": "The idea hit me like a tornado.",
+          "exampleChinese": "这个主意像龙卷风一样打击了我。"
+        },
+        {
+          "english": "to become widely available for sale",
+          "chinese": "大量上市",
+          "exampleEnglish": "the latest board game to hit the market",
+          "exampleChinese": "将要面市并造成轰动的最新棋盘游戏。"
+        },
+        {
+          "english": "a person or thing that is very popular",
+          "chinese": "很受欢迎的人（或事物）",
+          "exampleEnglish": "He's just about to star in the hit musical, ‘Chicago’.",
+          "exampleChinese": "他即将出演热门音乐剧《芝加哥》。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "一个词卡覆盖同句中的 hit（去到）与 greatest hits（热门精选，借指必看景点）；摘录中的 hit 动词和名词本义分开核对。"
+    },
+    "58": {
+      "word": "going wisdom",
+      "sourceRow": 58,
+      "english": "the opinion generally accepted at the time",
+      "chinese": "当下的普遍看法",
+      "collocations": [
+        "the going wisdom 当下的主流看法",
+        "conventional wisdom 一般公认的看法"
+      ],
+      "compare": [
+        "going wisdom 近似 conventional wisdom；going rate 指现行价格。"
+      ],
+      "usage": "going 在此表示“现行的”，并非“离去”；摘录中的 going 名词词条不能直接证明整个短语的含义。",
+      "ipa": "/ˈɡəʊɪŋ ˈwɪzdəm/",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "This is not the going wisdom these days.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "6": {
+      "word": "recur",
+      "sourceRow": 6,
+      "english": "to happen again or repeatedly",
+      "chinese": "再发生；反复出现",
+      "collocations": [
+        "a recurring problem 反复出现的问题",
+        "a recurring theme 反复出现的主题",
+        "recur at intervals 间歇性重现"
+      ],
+      "compare": [
+        "recur：事情自己再次发生",
+        "repeat：再次做、说某事，也可指重复出现",
+        "persist：一直持续，未必曾中断"
+      ],
+      "usage": "不及物，不能说 recur a problem。变形双写 r：recurred、recurring。原文 recurring 修饰 directive，表示同一口号反复出现。",
+      "ipa": "/rɪˈkɜː/",
+      "partOfSpeech": "v. [I]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "If you have researched a trip in, say, the past five to ten years or so, you may have noticed a recurring and aggressive directive: TRAVEL LIKE A LOCAL!",
+      "dictionaryExample": {
+        "english": "This theme recurs several times throughout the book.",
+        "chinese": "这一主题在整部书里出现了好几次。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "59": {
+      "word": "aggressive",
+      "sourceRow": 59,
+      "english": "forceful and insistent, perhaps too much so",
+      "chinese": "咄咄逼人的；强势的",
+      "collocations": [
+        "an aggressive directive 强势的指令",
+        "an aggressive campaign 强势宣传活动"
+      ],
+      "compare": [
+        "aggressive 可指攻击性，也可指积极进取；此处批评广告话语的压迫感。"
+      ],
+      "usage": "与 recurring 并列修饰 directive，不必译为身体上的“侵略”。",
+      "ipa": "/əˈɡresɪv/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "If you have researched a trip in, say, the past five to ten years or so, you may have noticed a recurring and aggressive directive: TRAVEL LIKE A LOCAL!",
+      "dictionaryExample": {
+        "english": "a very aggressive advertising campaign",
+        "chinese": "非常激进的广告活动",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "angry, and behaving in a threatening way; ready to attack",
+          "chinese": "好斗的；挑衅的；侵略的；富于攻击性的",
+          "exampleEnglish": "Seals have been known to exhibit aggressive behaviour towards swimmers.",
+          "exampleChinese": "已知海豹对游泳者表现出攻击行为。"
+        },
+        {
+          "english": "using all possible treatment options in order to extend somebody’s life",
+          "chinese": "气势汹汹的；声势浩大的；志在必得的",
+          "exampleEnglish": "Nicholas was diagnosed with the rare disease in November and has undergone aggressive treatments since then.",
+          "exampleChinese": "尼古拉斯（Nicholas）于11月被诊断出患有这种罕见病，此后就开始接受积极治疗。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "7": {
+      "word": "directive",
+      "sourceRow": 7,
+      "english": "an instruction telling people what to do",
+      "chinese": "指令；指示",
+      "collocations": [
+        "issue a directive 发布指令",
+        "a directive to do something 要求做某事的指示",
+        "follow a directive 遵照指示"
+      ],
+      "compare": [
+        "directive：从权威位置给出应如何行动的指示",
+        "advice：供对方选择的建议",
+        "instruction：操作指示或命令，范围较广"
+      ],
+      "usage": "这里把旅游口号称为 aggressive directive，突出强硬、咄咄逼人的语气，不表示存在法律命令。",
+      "ipa": "/daɪˈrektɪv/，也读 /dɪˈrektɪv/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "If you have researched a trip in, say, the past five to ten years or so, you may have noticed a recurring and aggressive directive: TRAVEL LIKE A LOCAL!",
+      "dictionaryExample": {
+        "english": "The EU has issued a new set of directives on pollution.",
+        "chinese": "欧盟发布了一系列关于污染的新指令。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "8": {
+      "word": "entreaty",
+      "sourceRow": 8,
+      "english": "an earnest request meant to persuade someone",
+      "chinese": "恳求；央求",
+      "collocations": [
+        "an entreaty for help 求助的恳求",
+        "an entreaty to stay 恳求留下",
+        "ignore someone's entreaties 无视某人的恳求"
+      ],
+      "compare": [
+        "entreaty：语气恳切，试图打动对方",
+        "request：一般的请求",
+        "demand：带有要求别人服从的意味"
+      ],
+      "usage": "复数 entreaties。作者把旅游劝说并称 entreaty、shaming，重在其劝诱和施压方式，不应只理解成礼貌邀请。",
+      "ipa": "/ɪnˈtriːti/",
+      "partOfSpeech": "n. [C]，正式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "You've probably also seen the entreaty, the shaming: How to Not Look like a Tourist; How to Not Act like a Tourist; How to Not Be a Tourist.",
+      "dictionaryExample": {
+        "english": "Despite her entreaties, he left.",
+        "chinese": "尽管有她的恳求，他还是离开了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "9": {
+      "word": "inside scoop",
+      "sourceRow": 9,
+      "english": "information known by people close to a situation",
+      "chinese": "内幕消息；内行门道",
+      "collocations": [
+        "the inside scoop 内幕消息",
+        "get the scoop on something 获得某事的内部消息",
+        "a news scoop 独家新闻"
+      ],
+      "compare": [
+        "inside scoop：内行才知道的信息",
+        "tip：实用的小建议",
+        "scoop（新闻义）：抢先于其他媒体的独家报道"
+      ],
+      "usage": "本文 get the inside scoop 是获得吃喝购物的内行门道，不一定是新闻独家报道。不要把 scoop 单独一概译为“内幕”。",
+      "ipa": "/skuːp/",
+      "partOfSpeech": "n. [S]，口语",
+      "oxfordExcerptProvided": true,
+      "articleExample": "On the surface, the promise is an attractive one: You're getting the inside scoop for the best places to eat and shop with none of the tourist traps.",
+      "dictionaryExample": {
+        "english": "I got the inside scoop on his new girlfriend.",
+        "chinese": "我得知有关他新女友的最新内幕消息。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "60": {
+      "word": "in the know",
+      "sourceRow": 60,
+      "english": "having information that most other people do not have",
+      "chinese": "知情的；掌握内幕的",
+      "collocations": [
+        "those in the know 知情者",
+        "be in the know 了解内情"
+      ],
+      "compare": [
+        "in the know 指掌握消息；knowledgeable 泛指知识丰富。"
+      ],
+      "usage": "those truly in the know 指号称知道私藏地点的人；摘录未单列此习语。",
+      "ipa": "/ɪn ðə nəʊ/",
+      "partOfSpeech": "idiom",
+      "oxfordExcerptProvided": false,
+      "articleExample": "You know only the spots that those truly in the know can find.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "10": {
+      "word": "farce",
+      "sourceRow": 10,
+      "english": "a situation that is absurd or badly handled",
+      "chinese": "荒唐的闹剧",
+      "collocations": [
+        "a complete farce 一场彻头彻尾的闹剧",
+        "turn into a farce 变成闹剧",
+        "a theatrical farce 滑稽喜剧"
+      ],
+      "compare": [
+        "farce：场面荒唐、失去严肃性",
+        "joke：笑话，或不值得认真对待的事",
+        "fraud：以欺骗谋利，涉及真实虚假和意图，不只是可笑"
+      ],
+      "usage": "本文是作者的强烈评价，不表示“像当地人旅行”构成诈骗。a complete farce 中 farce 可数。",
+      "ipa": "/fɑːs/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But it's all a complete farce.",
+      "dictionaryExample": {
+        "english": "The trial was a complete farce.",
+        "chinese": "这次审判完全是一场闹剧",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a funny play for the theatre based on silly and unlikely situations and events; this type of writing or performance",
+          "chinese": "滑稽戏（剧本）；闹剧（剧本）；笑剧（剧本）",
+          "exampleEnglish": "a bedroom farce (= a funny play about sex)",
+          "exampleChinese": "床上笑剧"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "11": {
+      "word": "paradoxical myth",
+      "sourceRow": 11,
+      "english": "seeming to involve contradictory ideas",
+      "chinese": "看似矛盾的；悖论式的",
+      "collocations": [
+        "a paradoxical situation 自相矛盾的情形",
+        "a paradoxical result 看似矛盾的结果",
+        "seem paradoxical 看起来矛盾"
+      ],
+      "compare": [
+        "paradoxical：两面似乎冲突，需要进一步解释",
+        "contradictory：主张互相冲突，不能同时按同一意义成立",
+        "ironic：结果与预期或表面意思形成有意味的反差"
+      ],
+      "usage": "本文认为 travel 与当 local 的生活状态有冲突。paradoxical 不自动等于逻辑错误或事实虚假，也不是“程度更强的 ironic”。",
+      "ipa": "/ˌpærəˈdɒksɪkəl/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": false,
+      "articleExample": "At best, \"Travel like a Local\" is a silly paradoxical myth; at worst, it's terrible vacation advice.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "12": {
+      "word": "laundry",
+      "sourceRow": 12,
+      "english": "clothes and other fabric items to be washed or already washed",
+      "chinese": "待洗或洗好的衣物",
+      "collocations": [
+        "do the laundry 洗衣服",
+        "fold the laundry 叠洗好的衣物",
+        "a load of laundry 一批待洗衣物"
+      ],
+      "compare": [
+        "laundry：按洗涤用途统称衣物、床单等",
+        "clothes：穿在身上的衣服",
+        "washing：英式常指待洗或洗好的衣物，也可指洗涤活动"
+      ],
+      "usage": "folding laundry 是叠衣物，并非“叠洗衣店”。泛指衣物时不可数，不说 many laundries。",
+      "ipa": "/ˈlɔːndri/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.",
+      "dictionaryExample": {
+        "english": "a pile of clean/dirty laundry",
+        "chinese": "一摞干净的／脏的衣物",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the process or the job of washing clothes, sheets, etc.",
+          "chinese": "洗衣物；洗衣物的活",
+          "exampleEnglish": "Have you done the laundry yet?",
+          "exampleChinese": "你洗完衣服了吗？"
+        },
+        {
+          "english": "a business or place where you send sheets, clothes, etc. to be washed",
+          "chinese": "洗衣店；洗衣房",
+          "exampleEnglish": "the hospital laundry",
+          "exampleChinese": "医院洗衣房"
+        },
+        {
+          "english": "to discuss your personal affairs in public, especially something embarrassing",
+          "chinese": "公开谈论个人的事；（尤指）家丑外扬"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "13": {
+      "word": "zillion",
+      "sourceRow": 13,
+      "english": "an extremely large, unspecified number",
+      "chinese": "无数；多得数不清",
+      "collocations": [
+        "a zillion things 无数事情",
+        "zillions of people 数不清的人",
+        "eight zillion chores 数不清的杂事（夸张）"
+      ],
+      "compare": [
+        "zillion：幽默地说极大数量，没有固定数值",
+        "million：精确的一百万，也能夸张使用",
+        "countless：形容多得无法计数，不假装给出数字"
+      ],
+      "usage": "eight zillion 中 zillion 不加 s；zillions of 才是复数加 of。不能像 billion 一样换算成确定数字。",
+      "ipa": "/ˈzɪljən/",
+      "partOfSpeech": "n. [C]，口语夸张",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.",
+      "dictionaryExample": {
+        "english": "There was a bunch of kids waiting and zillions of reporters.",
+        "chinese": "有一大批等待的孩子和不计其数的记者。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "14": {
+      "word": "inane",
+      "sourceRow": 14,
+      "english": "silly and lacking meaning or importance",
+      "chinese": "空洞无聊的；愚蠢无意义的",
+      "collocations": [
+        "inane comments 空洞无聊的评论",
+        "inane chatter 无意义的闲聊",
+        "inane chores 无聊琐事（本文评价）"
+      ],
+      "compare": [
+        "inane：缺乏意义或思想内容",
+        "boring：让人觉得乏味，不一定没意义",
+        "trivial：重要性小、细枝末节，不一定愚蠢"
+      ],
+      "usage": "原文带着对日常杂务的幽默抱怨，并非客观断言洗衣、做饭毫无价值。与 insane（精神失常的；疯狂的）拼写不同。",
+      "ipa": "/ɪˈneɪn/",
+      "partOfSpeech": "adj.，贬义",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.",
+      "dictionaryExample": {
+        "english": "an inane remark",
+        "chinese": "无聊的话语",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "15": {
+      "word": "chore",
+      "sourceRow": 15,
+      "english": "a necessary, often routine and boring task",
+      "chinese": "日常杂务；令人厌烦的差事",
+      "collocations": [
+        "household chores 家务",
+        "do the chores 做杂务",
+        "a tedious chore 乏味的差事"
+      ],
+      "compare": [
+        "chore：常规、不得不做，往往烦琐",
+        "task：需要完成的具体任务，较中性",
+        "errand：往往要外出去办的小事，如取物或购物"
+      ],
+      "usage": "可数，housework 通常不可数。家务可说 household chores 或 housework，不说 a housework。",
+      "ipa": "/tʃɔː/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.",
+      "dictionaryExample": {
+        "english": "doing the household/domestic chores",
+        "chinese": "干家务杂活",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an unpleasant or boring task",
+          "chinese": "令人厌烦的任务；乏味无聊的工作",
+          "exampleEnglish": "Shopping's a real chore for me.",
+          "exampleChinese": "对我来说，购物真是件苦差事。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "16": {
+      "word": "stroll on",
+      "sourceRow": 16,
+      "english": "to walk slowly for pleasure",
+      "chinese": "悠闲散步",
+      "collocations": [
+        "stroll along the river 沿河散步",
+        "stroll through a park 漫步公园",
+        "go for a stroll 去散步"
+      ],
+      "compare": [
+        "stroll：步子慢、放松，重在享受",
+        "wander：路线或目的不明确",
+        "stride：大步走，强调步幅和行动感"
+      ],
+      "usage": "通常不及物，用 along、through、around 等接地点。本文 strolling 由 spend days doing 引出，不是独立的现在进行时谓语。",
+      "ipa": "/strəʊl/",
+      "partOfSpeech": "v. [I]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": {
+        "english": "People were strolling along the beach.",
+        "chinese": "人们在海滩漫步。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "61": {
+      "word": "stunning",
+      "sourceRow": 61,
+      "english": "extremely impressive or beautiful",
+      "chinese": "令人惊艳的；极美的",
+      "collocations": [
+        "stunning promenades 令人惊艳的滨海步道",
+        "a stunning view 令人惊叹的景色"
+      ],
+      "compare": [
+        "stunning 强调视觉上的惊艳；pleasant 只表示令人愉快。"
+      ],
+      "usage": "修饰 promenades，不取“令人震惊的失败”那一义。",
+      "ipa": "/ˈstʌnɪŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": {
+        "english": "You look absolutely stunning!",
+        "chinese": "你看上去漂亮极了！",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "that surprises or shocks you very much",
+          "chinese": "令人惊奇万分的；令人震惊的",
+          "exampleEnglish": "He suffered a stunning defeat in the election.",
+          "exampleChinese": "他在选举中惨败。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "17": {
+      "word": "promenade",
+      "sourceRow": 17,
+      "english": "a public place for walking, especially beside water",
+      "chinese": "滨海或沿河的步行道",
+      "collocations": [
+        "a seafront promenade 海滨步道",
+        "walk along the promenade 沿滨海大道走",
+        "a riverside promenade 河滨步道"
+      ],
+      "compare": [
+        "promenade：供散步的宽阔公共步道，常临水",
+        "pavement：道路边供行人走的人行道",
+        "pier：向水面伸出的码头或栈桥"
+      ],
+      "usage": "本文指景色优美的步道，不是音乐会 prom。所列英式名词、动词均重读末音节，不套“名词前重、动词后重”的规则。",
+      "ipa": "/ˌprɒməˈnɑːd/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": {
+        "english": "the promenade at Blackpool",
+        "chinese": "在布莱克浦的长廊",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a walk that you take for pleasure or exercise, especially by the sea, in a public park, etc.（",
+          "chinese": "尤指在海滨、公园等的）散步，漫步"
+        },
+        {
+          "english": "to walk up and down in a relaxed way, by the sea, in a public park, etc.（",
+          "chinese": "在海滨、公园等）散步，漫步"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "18": {
+      "word": "gawk at",
+      "sourceRow": 18,
+      "english": "to stare in a conspicuous, foolish or rude way",
+      "chinese": "傻看；呆望",
+      "collocations": [
+        "gawk at a building 呆望建筑",
+        "gawk at passers-by 直愣愣地看路人",
+        "stop gawking 别再傻看"
+      ],
+      "compare": [
+        "gawk：看得呆愣或不礼貌",
+        "gaze：持续凝望，常有欣赏或出神意味",
+        "glance：短暂看一眼"
+      ],
+      "usage": "固定 gawk at，不直接 gawk something。英式也常用 gawp。本文带自嘲趣味，并非仅指普通的“看见”。",
+      "ipa": "/ɡɔːk/",
+      "partOfSpeech": "v. [I]，口语",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": {
+        "english": "Stop gawking like that!",
+        "chinese": "别那样呆头呆脑地盯着看！",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "62": {
+      "word": "crank-your-neck-tall",
+      "sourceRow": 62,
+      "english": "so tall that you have to crane your neck to see the top",
+      "chinese": "高得必须仰脖子看的",
+      "collocations": [
+        "crank-your-neck-tall buildings 高得要仰头看的建筑",
+        "crane your neck 仰起脖子"
+      ],
+      "compare": [
+        "crank-your-neck-tall 是夸张的临时复合词；tall 只是“高”。"
+      ],
+      "usage": "保留作者幽默语气；摘录没有单列这个表达。",
+      "ipa": "",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "63": {
+      "word": "Art Deco",
+      "sourceRow": 63,
+      "english": "a decorative art and design style popular in the 1920s and 1930s",
+      "chinese": "装饰艺术风格",
+      "collocations": [
+        "Art Deco buildings 装饰艺术风格建筑",
+        "an Art Deco facade 装饰艺术风格外墙"
+      ],
+      "compare": [
+        "Art Deco 是设计流派；art decoration 是一般“艺术装饰”。"
+      ],
+      "usage": "专有风格名称，首字母按原文大写。",
+      "ipa": "/ˌɑːrt ˈdekəʊ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "19": {
+      "word": "turquoise",
+      "sourceRow": 19,
+      "english": "blue-green in colour",
+      "chinese": "青绿的；蓝绿色的",
+      "collocations": [
+        "turquoise waters 蓝绿色的水域",
+        "a turquoise necklace 绿松石项链",
+        "a shade of turquoise 一种蓝绿色调"
+      ],
+      "compare": [
+        "turquoise：蓝中带绿的具体色调",
+        "blue：范围更广的蓝色",
+        "emerald：常指鲜亮的绿色，或祖母绿宝石"
+      ],
+      "usage": "原文修饰 waters，是颜色，不能译成“绿松石做成的水”。名词颜色义通常不可数。",
+      "ipa": "/ˈtɜːkwɔɪz/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+      "dictionaryExample": {
+        "english": "a turquoise dress",
+        "chinese": "一条青绿色的连衣裙",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a blue or blue-green semi-precious stone",
+          "chinese": "绿松石",
+          "exampleEnglish": "a turquoise brooch",
+          "exampleChinese": "绿松石胸针"
+        },
+        {
+          "english": "a blue-green colour",
+          "chinese": "绿松石色；青绿色"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "20": {
+      "word": "cramped",
+      "sourceRow": 20,
+      "english": "too small or restricted for comfortable activity",
+      "chinese": "狭窄拥挤的；受局促限制的",
+      "collocations": [
+        "cramped conditions 拥挤的环境",
+        "a cramped apartment 狭小的公寓",
+        "feel cramped 感到施展不开"
+      ],
+      "compare": [
+        "cramped：空间不足，活动不自在",
+        "crowded：人或物很多，未必本来狭小",
+        "small：尺寸小，本身不说明舒适度"
+      ],
+      "usage": "cramped morning commutes 写早高峰通勤的拥挤局促；不是说所有人出现肌肉抽筋。",
+      "ipa": "/kræmpt/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "64": {
+      "word": "commute",
+      "sourceRow": 64,
+      "english": "the regular trip between home and work",
+      "chinese": "上下班通勤",
+      "collocations": [
+        "morning commutes 早晨通勤",
+        "a long commute 漫长的通勤"
+      ],
+      "compare": [
+        "commute 强调规律往返；travel 范围更宽。"
+      ],
+      "usage": "这里 commutes 是可数名词复数；不要按动词“通勤”直接处理。",
+      "ipa": "/kəˈmjuːt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.",
+      "dictionaryExample": {
+        "english": "a two-hour commute into downtown Washington",
+        "chinese": "去华盛顿中心区两小时的上下班路程",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to travel regularly by bus, train, car, etc. between your place of work and your home（",
+          "chinese": "乘公共汽车、火车、汽车等）上下班往返，经常往返（于两地）"
+        },
+        {
+          "english": "commute something (to something) (law) to replace one punishment with another that is less severe",
+          "chinese": "减刑",
+          "exampleEnglish": "The death sentence was commuted to life imprisonment.",
+          "exampleChinese": "死刑减为无期徒刑。"
+        },
+        {
+          "english": "commute something (for/into/to something) (finance) to exchange one form of payment, for something else",
+          "chinese": "代偿",
+          "exampleEnglish": "The capital invested will be commuted to a loan.",
+          "exampleChinese": "投入的资本将转换为贷款。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "65": {
+      "word": "scurry",
+      "sourceRow": 65,
+      "english": "to move quickly with short steps",
+      "chinese": "匆匆小跑；碎步疾走",
+      "collocations": [
+        "scurry between shops 在商店间匆匆奔走",
+        "scurry back to work 匆匆回去工作"
+      ],
+      "compare": [
+        "scurry 有步子短、动作急的画面；walk 只说步行。"
+      ],
+      "usage": "原句 scurrying 与前面的 making to-do lists 并列，描绘当地人的忙碌。",
+      "ipa": "/ˈskɜːri/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.",
+      "dictionaryExample": {
+        "english": "She said goodbye and scurried back to work.",
+        "chinese": "她说声再见，然后扭头跑回去干活了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the action of running with quick short steps",
+          "chinese": "碎步疾跑",
+          "exampleEnglish": "a scurry of animals running for safety",
+          "exampleChinese": "为了安全而奔跑的动物"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "21": {
+      "word": "pharmacy",
+      "sourceRow": 21,
+      "english": "a place where medicines are prepared or sold",
+      "chinese": "药房；药店",
+      "collocations": [
+        "go to the pharmacy 去药店",
+        "a hospital pharmacy 医院药房",
+        "study pharmacy 学药学"
+      ],
+      "compare": [
+        "pharmacy：重点是配药、售药",
+        "chemist's：英式常用的药店名称",
+        "drugstore：美式药店，也常售日用品"
+      ],
+      "usage": "本文 the pharmacy 是地点，单数可数。pharmacy 不等于 pharmacist，也不是 hospital。",
+      "ipa": "/ˈfɑːməsi/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.",
+      "dictionaryExample": {
+        "english": "The cream is available at/from/in pharmacies without a prescription.",
+        "chinese": "这种药膏可在药房买到，无需提供处方。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a place in a hospital where medicines are prepared（",
+          "chinese": "医院的）药房，配药室"
+        },
+        {
+          "english": "the study of how to prepare medicines and drugs",
+          "chinese": "药剂学；制药学"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "22": {
+      "word": "humdrum",
+      "sourceRow": 22,
+      "english": "the dull routine of ordinary life",
+      "chinese": "单调乏味的日常生活",
+      "collocations": [
+        "the humdrum of everyday life 日常生活的乏味",
+        "a humdrum job 单调的工作",
+        "a humdrum existence 平淡乏味的生活"
+      ],
+      "compare": [
+        "humdrum：重复、普通，缺乏变化",
+        "monotonous：同一模式不断重复",
+        "mundane：平常琐碎、非特别的事，也不一定令人厌烦"
+      ],
+      "usage": "本文 the humdrum of … 按名词读。Cambridge 主列形容词，名词用法补查 Merriam-Webster；不可因词表只列 adj. 就否定原句。",
+      "ipa": "/ˈhʌmdrʌm/",
+      "partOfSpeech": "n. [U]（本文）；也常用 adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The whole point of travel is to get away from the humdrum of everyday life.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "boring and always the same (adjective)",
+          "chinese": "乏味的；单调的（形容词）",
+          "exampleEnglish": "a humdrum existence/job/life",
+          "exampleChinese": "平淡的生活；乏味的工作／生活"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "本文用 the humdrum 作名词，指日常生活的乏味；摘录只收录 humdrum 的形容词义，不能将名词语境当作摘录里的独立释义。"
+    },
+    "66": {
+      "word": "contradiction",
+      "sourceRow": 66,
+      "english": "a conflict between two statements or ideas",
+      "chinese": "自相矛盾；说法冲突",
+      "collocations": [
+        "a contradiction in terms 自相矛盾的说法",
+        "a contradiction between claims 两种说法之间的矛盾"
+      ],
+      "compare": [
+        "contradiction in terms 是词语搭配本身不相容；disagreement 是人们意见不同。"
+      ],
+      "usage": "It is a contradiction in terms 回指“像当地人一样旅行”。",
+      "ipa": "/ˌkɑːntrəˈdɪkʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It is a contradiction in terms.",
+      "dictionaryExample": {
+        "english": "contradiction (between A and B) There is a contradiction between the two sets of figures.",
+        "chinese": "这两组数据相互矛盾。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the act of saying that something that somebody else has said is wrong or not true; an example of this",
+          "chinese": "反驳；驳斥",
+          "exampleEnglish": "I think I can say, without fear of contradiction, that…",
+          "exampleChinese": "就算有人反驳，我也敢说…"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "67": {
+      "word": "Chilango",
+      "sourceRow": 67,
+      "english": "a person from Mexico City",
+      "chinese": "墨西哥城人",
+      "collocations": [
+        "become a Chilango 成为墨西哥城人",
+        "Chilango culture 墨西哥城文化"
+      ],
+      "compare": [
+        "Chilango 指墨西哥城居民；Mexican 指墨西哥国民或相关事物。"
+      ],
+      "usage": "原句强调短住民宿不会让游客变成当地人；摘录未单列该地区称谓。",
+      "ipa": "/tʃiˈlɑːŋɡəʊ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Staying at a neighborhood Airbnb in Mexico City's Roma doesn't make you a Chilango.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "68": {
+      "word": "Parisian",
+      "sourceRow": 68,
+      "english": "a person from Paris",
+      "chinese": "巴黎人",
+      "collocations": [
+        "Parisians don't nibble 巴黎人并不会天天慢慢吃",
+        "a Parisian café 巴黎风格咖啡馆"
+      ],
+      "compare": [
+        "Parisian 指巴黎人或巴黎的；French 范围是法国。"
+      ],
+      "usage": "Parisians 在此为复数名词；摘录未单列。",
+      "ipa": "/pəˈrɪziən/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "23": {
+      "word": "nibble",
+      "sourceRow": 23,
+      "english": "to eat in small bites",
+      "chinese": "小口咬；一点点吃",
+      "collocations": [
+        "nibble on a biscuit 小口吃饼干",
+        "nibble at food 一点点吃东西",
+        "have a nibble 尝一小口"
+      ],
+      "compare": [
+        "nibble：每次吃得少，重在小口动作",
+        "bite：咬一次或咬下一块",
+        "munch：持续咀嚼，常带享受感或声音"
+      ],
+      "usage": "nibble on/at something 都可。作者用来描绘慢慢享受糕点；“巴黎人不天天如此”是论证性概括，不是饮食统计。",
+      "ipa": "/ˈnɪbəl/",
+      "partOfSpeech": "v. [I/T]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
+      "dictionaryExample": {
+        "english": "nibble something We sat drinking wine and nibbling olives.",
+        "chinese": "我们坐在那儿，喝着葡萄酒嚼着橄榄。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "nibble (at something) to show a slight interest in an offer, idea, etc.（",
+          "chinese": "对…）略微表现出兴趣",
+          "exampleEnglish": "He nibbled at the idea, but would not make a definite decision.",
+          "exampleChinese": "他对这个主意略感兴趣，但还不愿意作出明确决定。"
+        },
+        {
+          "english": "a small bite of something, especially food",
+          "chinese": "小口咬，一点点地咬（食物）",
+          "exampleEnglish": "I took a nibble from the biscuit.",
+          "exampleChinese": "我从饼干里拿了一口。"
+        },
+        {
+          "english": "nibbles [plural] small things to eat with a drink before a meal or at a party（",
+          "chinese": "餐前或聚会中的）点心，小吃",
+          "exampleEnglish": "wine and nibbles",
+          "exampleChinese": "酒和小吃"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "69": {
+      "word": "pastry",
+      "sourceRow": 69,
+      "english": "a small sweet baked food, often made from pastry",
+      "chinese": "油酥点心；糕点",
+      "collocations": [
+        "buttery pastries 黄油香浓的酥点",
+        "a pastry shop 糕点店"
+      ],
+      "compare": [
+        "pastry 可指面团，也可指一件糕点；这里用复数指可吃的点心。"
+      ],
+      "usage": "pastries 为可数复数，和 buttery 搭配。",
+      "ipa": "/ˈpeɪstri/",
+      "partOfSpeech": "plural noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a mixture of flour, fat and water or milk that is rolled out flat to be a base or cover for a pie, etc.",
+          "chinese": "油酥面团；油酥面皮"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "70": {
+      "word": "overlook",
+      "sourceRow": 70,
+      "english": "to have a view over a place",
+      "chinese": "俯瞰；眺望",
+      "collocations": [
+        "a café overlooking the Seine 可眺望塞纳河的咖啡馆",
+        "a restaurant overlooking the lake 俯瞰湖面的餐馆"
+      ],
+      "compare": [
+        "overlook 在此是“眺望”；overlook a fact 才是“忽略事实”。"
+      ],
+      "usage": "现在分词 overlooking 作后置修饰语，描述吃点心时所处位置。",
+      "ipa": "/ˌəʊvərˈlʊk/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
+      "dictionaryExample": {
+        "english": "a restaurant overlooking the lake",
+        "chinese": "一家濒湖餐厅",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "overlook something to fail to see or notice something",
+          "chinese": "忽略；未注意到",
+          "exampleEnglish": "He seems to have overlooked one important fact.",
+          "exampleChinese": "他好像忽略了一个重要的事实。"
+        },
+        {
+          "english": "overlook something to see something wrong or bad but decide to ignore it（",
+          "chinese": "对不良现象等）不予理会，视而不见",
+          "exampleEnglish": "We could not afford to overlook such a serious offence.",
+          "exampleChinese": "对这样严重的违法行为，我们决不能视若无睹。"
+        },
+        {
+          "english": "overlook somebody (for something) to not consider somebody for a job or position, even though they might be suitable（",
+          "chinese": "提拔等时）对（某人）不予考虑",
+          "exampleEnglish": "She's been overlooked for promotion several times.",
+          "exampleChinese": "几次提职时都没有考虑她"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "71": {
+      "word": "tuck",
+      "sourceRow": 71,
+      "english": "to eat something eagerly and comfortably",
+      "chinese": "津津有味地吃；尽情享用",
+      "collocations": [
+        "tuck into a tasting menu 尽情享用套餐",
+        "tuck into breakfast 开始大口吃早餐"
+      ],
+      "compare": [
+        "tuck into 是吃东西；tuck something into a pocket 是塞进。"
+      ],
+      "usage": "原文 New Yorkers tuck into... 用动词短语，不等于词典里“把边缘塞进”。",
+      "ipa": "/tʌk ɪntuː/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "And rarely do New Yorkers tuck into a three-hour tasting menu on a Tuesday night.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "72": {
+      "word": "save up",
+      "sourceRow": 72,
+      "english": "to gradually collect money for a future purpose",
+      "chinese": "攒钱；储蓄",
+      "collocations": [
+        "save up for a trip 为旅行攒钱",
+        "save up to eat out 攒钱去外食"
+      ],
+      "compare": [
+        "save up 强调逐渐积攒；save money 可仅指少花钱。"
+      ],
+      "usage": "saving up to do so 中 to do so 指去昂贵餐厅用餐。",
+      "ipa": "/seɪv ʌp/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "(Perhaps they are saving up to do so when they go on their own non-local sojourn.)",
+      "dictionaryExample": {
+        "english": "We've been saving up to go to Australia.",
+        "chinese": "我们一直在攒钱，打算去澳大利亚。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to keep somebody/something safe from death, harm, loss, etc.",
+          "chinese": "救；救助；挽救；拯救"
+        },
+        {
+          "english": "to avoid wasting something or using more than necessary",
+          "chinese": "节省；节约"
+        },
+        {
+          "english": "to keep something to use or enjoy in the future or for somebody else to use",
+          "chinese": "保留；保存",
+          "exampleEnglish": "save something for something/somebody He's saving his strength for the last part of the race.",
+          "exampleChinese": "他保存体力，以便在比赛的最后阶段发力。"
+        },
+        {
+          "english": "to make a computer keep data by putting a copy in a location where it will be stored",
+          "chinese": "保存；存盘",
+          "exampleEnglish": "We recommend you save regularly by clicking on the update button.",
+          "exampleChinese": "我们建议您通过单击更新按钮定期保存。"
+        },
+        {
+          "english": "save something to collect something because you like it or for a special purpose",
+          "chinese": "收集；收藏",
+          "exampleEnglish": "I've been saving theatre programmes for years.",
+          "exampleChinese": "我收藏剧院的节目单已有多年了。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "24": {
+      "word": "sojourn",
+      "sourceRow": 24,
+      "english": "a temporary stay in a place",
+      "chinese": "旅居；暂住",
+      "collocations": [
+        "a brief sojourn 短期旅居",
+        "a sojourn in Paris 在巴黎暂住",
+        "during one's sojourn 在旅居期间"
+      ],
+      "compare": [
+        "sojourn：重点是异地暂时停留",
+        "journey：从一地到另一地的行程",
+        "tour：游览多个地方的安排"
+      ],
+      "usage": "比 stay 书面，不必暗含多年旅居。所列英式名词、动词通常同为首音节重读。",
+      "ipa": "/ˈsɒdʒɜːn/",
+      "partOfSpeech": "n. [C]，文学或正式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "(Perhaps they are saving up to do so when they go on their own non-local sojourn.)",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "to stay for a short time in a place away from home (verb)",
+          "chinese": "逗留；暂住；旅居（动词）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "25": {
+      "word": "takeout",
+      "sourceRow": 25,
+      "english": "food bought ready-cooked and eaten elsewhere",
+      "chinese": "外带餐食",
+      "collocations": [
+        "pick up takeout 取外带餐食",
+        "order takeout 点外卖",
+        "a takeout meal 一份外带餐"
+      ],
+      "compare": [
+        "takeout：买好后带到别处吃",
+        "delivery：重点是送到消费者处",
+        "takeaway：takeout 的常用英式对应词"
+      ],
+      "usage": "pick up takeout 指自行取餐，未必是骑手送上门。takeout 是一个词；动词 take out 分开写。",
+      "ipa": "/ˈteɪkaʊt/",
+      "partOfSpeech": "n. [C/U]，美式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals pick up takeout and watch a junky TV drama in their pajamas.",
+      "dictionaryExample": {
+        "english": "Let's have a takeout tonight.",
+        "chinese": "让我们今晚外卖吧。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a restaurant that cooks and sells food that you take away and eat somewhere else",
+          "chinese": "外卖餐馆"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "26": {
+      "word": "junky",
+      "sourceRow": 26,
+      "english": "of poor quality or little value",
+      "chinese": "质量差的；没什么营养的",
+      "collocations": [
+        "junky TV 糟糕的电视节目",
+        "a junky TV drama 没营养的电视剧",
+        "junky stuff 劣质杂物"
+      ],
+      "compare": [
+        "junky：评价质量或价值低",
+        "trashy：庸俗低劣，常指内容或品味",
+        "light：轻松易看，不必质量差"
+      ],
+      "usage": "Oxford 核实为形容词。这里不是 junkie（瘾君子；狂热爱好者）的名词义，也不要误写成 janky。",
+      "ipa": "/ˈdʒʌŋki/",
+      "partOfSpeech": "adj.，口语，尤美式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals pick up takeout and watch a junky TV drama in their pajamas.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "27": {
+      "word": "pajamas",
+      "sourceRow": 27,
+      "english": "loose trousers and a top worn for sleeping",
+      "chinese": "睡衣裤",
+      "collocations": [
+        "wear pajamas 穿睡衣",
+        "in one's pajamas 穿着睡衣",
+        "a pair of pajamas 一套睡衣裤"
+      ],
+      "compare": [
+        "pajamas：通常指上衣加裤子的睡衣",
+        "nightdress：睡裙",
+        "loungewear：居家休闲服，不一定专供睡觉"
+      ],
+      "usage": "词表的 pajama 常用于名词前，如 pajama party；单独指这套衣服一般用复数 pajamas，谓语用 are。英式拼写 pyjamas。",
+      "ipa": "/pəˈdʒɑːməz/",
+      "partOfSpeech": "n. [复数]，美式拼写",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Locals pick up takeout and watch a junky TV drama in their pajamas.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "28": {
+      "word": "drain one's bank account",
+      "sourceRow": 28,
+      "english": "to use up money, strength or other resources",
+      "chinese": "耗尽；本文指花光账户里的钱",
+      "collocations": [
+        "drain a bank account 花光账户资金",
+        "drain someone of energy 耗尽某人精力",
+        "a drain on resources 对资源的消耗"
+      ],
+      "compare": [
+        "drain：资源像液体流走一样被耗去",
+        "spend：花费，不必耗尽",
+        "deplete：使储备减少，较正式"
+      ],
+      "usage": "本文是购物花钱的夸张，不是银行排水。before 后用 draining，不能写 before to drain。",
+      "ipa": "/dreɪn/",
+      "partOfSpeech": "v. [T]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They're not going to three museums and a boat tour before draining their bank account on regional textiles, which as a non-local you should definitely not miss!",
+      "dictionaryExample": {
+        "english": "My mother's hospital expenses were slowly draining my income.",
+        "chinese": "我母亲的住院开销把我的收入渐渐耗光了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "73": {
+      "word": "wander",
+      "sourceRow": 73,
+      "english": "to walk around without a fixed route or purpose",
+      "chinese": "闲逛；漫步",
+      "collocations": [
+        "wander around a city 在城市里闲逛",
+        "wander aimlessly 漫无目的地走"
+      ],
+      "compare": [
+        "wander 强调路线随意；commute 是固定路线的日常往返。"
+      ],
+      "usage": "原句强调游客新鲜地漫游，和本地人日常奔忙形成对照。",
+      "ipa": "/ˈwɑːndər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Neither do locals wander around a city with fresh eyes until their feet are sore.",
+      "dictionaryExample": {
+        "english": "+ adv./prep. She wandered aimlessly around the streets.",
+        "chinese": "她在大街上漫无目的地到处游荡。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to move away from the place where you ought to be or the people you are with",
+          "chinese": "偏离（正道）；走失；离散",
+          "exampleEnglish": "wander away/off The child wandered off and got lost.",
+          "exampleChinese": "那孩子走散后迷路了。"
+        },
+        {
+          "english": "to stop being directed on something and to move without much control to other ideas, subjects, etc.",
+          "chinese": "走神；神志恍惚；（思想）开小差",
+          "exampleEnglish": "It's easy to be distracted and let your attention wander.",
+          "exampleChinese": "很容易走神分散了注意力。"
+        },
+        {
+          "english": "to move slowly from looking at one thing to looking at another thing or in other directions",
+          "chinese": "慢慢地移开",
+          "exampleEnglish": "She let her gaze wander.",
+          "exampleChinese": "她东瞅瞅西望望。"
+        },
+        {
+          "english": "(of a road or river) to go in a curve instead of following a straight course",
+          "chinese": "蜿蜒；迂回曲折",
+          "exampleEnglish": "The road wanders along through the hills.",
+          "exampleChinese": "这条路蜿蜒曲折地穿过山丘。"
+        },
+        {
+          "english": "a short walk in or around a place, usually with no special purpose",
+          "chinese": "游荡；溜达；闲逛；徘徊",
+          "exampleEnglish": "I went to the park and had a wander around.",
+          "exampleChinese": "我去公园转了一圈。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "29": {
+      "word": "sore",
+      "sourceRow": 29,
+      "english": "painful or tender, often after injury or overuse",
+      "chinese": "疼痛的；酸痛的",
+      "collocations": [
+        "sore feet 酸痛的双脚",
+        "a sore throat 喉咙痛",
+        "feel sore 感到疼痛"
+      ],
+      "compare": [
+        "sore：身体部位疼痛或敏感，常与过度使用有关",
+        "aching：持续隐隐作痛",
+        "tired：疲劳，不一定疼痛"
+      ],
+      "usage": "feet are sore 中 sore 为表语；不能把 sore 当动词套成 feet sore。与 soar（高飞）同音，拼写和词义不同。",
+      "ipa": "/sɔː/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Neither do locals wander around a city with fresh eyes until their feet are sore.",
+      "dictionaryExample": {
+        "english": "to have a sore throat",
+        "chinese": "嗓子疼",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "sore (at somebody/about something) (informal, especially North American English) upset and angry, especially because you have been treated unfairly",
+          "chinese": "气恼；愤慨；愤愤不平",
+          "exampleEnglish": "He was still sore at me for telling him he couldn't sing.",
+          "exampleChinese": "他仍然因为告诉他他不会唱歌而对我感到疼痛。"
+        },
+        {
+          "english": "a painful, often red, place on your body where there is a wound or an infection",
+          "chinese": "痛处；伤处；疮"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "30": {
+      "word": "ignorance",
+      "sourceRow": 30,
+      "english": "a lack of relevant knowledge or information",
+      "chinese": "无知；本文指对当地情况不熟悉",
+      "collocations": [
+        "ignorance of local customs 不了解当地风俗",
+        "admit one's ignorance 承认不了解",
+        "in ignorance of something 在不知情的情况下"
+      ],
+      "compare": [
+        "ignorance：缺知识或信息",
+        "stupidity：判断或思考愚蠢，是不同维度",
+        "inexperience：缺少实际经历"
+      ],
+      "usage": "ignorance of/about something。原文 ignorant 是形容词；ignore 指有意不理会，不能拿它表达“我不知道”。这里无需译成对人格的侮辱。",
+      "ipa": "/ˈɪɡnərəns/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Getting the most out of your visit to a place requires acknowledging both ignorance and vulnerability and that you don't know much and need some help.",
+      "dictionaryExample": {
+        "english": "They fought a long battle against prejudice and ignorance.",
+        "chinese": "他们同偏见与无知进行了长期的斗争。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "31": {
+      "word": "remedial",
+      "sourceRow": 31,
+      "english": "intended to make up for a weakness or correct a problem",
+      "chinese": "补缺的；补习性的",
+      "collocations": [
+        "remedial classes 补习课",
+        "remedial teaching 补救教学",
+        "take remedial action 采取补救行动"
+      ],
+      "compare": [
+        "remedial：弥补已存在的不足",
+        "introductory：向初学者介绍基础",
+        "preventive：事先避免问题"
+      ],
+      "usage": "remedial cultural lessons 是作者把游客向导课程比作“文化补课”，不是诊断游客有学习障碍。教育义通常置于名词前。",
+      "ipa": "/rɪˈmiːdiəl/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There's nothing wrong with that: Remedial cultural lessons are both fun and necessary.",
+      "dictionaryExample": {
+        "english": "remedial treatment (= for a medical problem)",
+        "chinese": "治疗",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "32": {
+      "word": "chock-full",
+      "sourceRow": 32,
+      "english": "filled completely with something",
+      "chinese": "塞满的；满是的",
+      "collocations": [
+        "chock-full of tourists 挤满游客",
+        "chock-full of ideas 满是想法",
+        "a room chock-full of books 满屋是书"
+      ],
+      "compare": [
+        "chock-full：强调装得满满的，语气口语化",
+        "crowded：人或物密集",
+        "rich in：某种成分丰富，不必塞满空间"
+      ],
+      "usage": "固定 of，不用 with。常作表语或放名词后；原文逗号后 chock-full … 是对 classes 的补充描述。",
+      "ipa": "/ˌtʃɒkˈfʊl/",
+      "partOfSpeech": "adj.，口语",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "33": {
+      "word": "naive",
+      "sourceRow": 33,
+      "english": "inexperienced and too ready to trust simple explanations",
+      "chinese": "缺乏阅历而天真的",
+      "collocations": [
+        "a naive assumption 天真的假设",
+        "naive about something 对某事不谙世故",
+        "naive to believe 轻信……的"
+      ],
+      "compare": [
+        "naive：经验不足，容易轻信或把事情想简单",
+        "innocent：无辜或纯真，不一定判断幼稚",
+        "ignorant：缺具体知识"
+      ],
+      "usage": "也拼 naïve；重音在第二音节。作者自嘲游客的生疏，不应直接等同于低智力。",
+      "ipa": "/naɪˈiːv/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.",
+      "dictionaryExample": {
+        "english": "to be politically naive",
+        "chinese": "对政治一无所知",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(of people and their behaviour) innocent and simple",
+          "chinese": "天真的；率直的",
+          "exampleEnglish": "Their approach to life is refreshingly naive.",
+          "exampleChinese": "他们对待生活的态度天真率直，令人耳目一新。"
+        },
+        {
+          "english": "(of art) in a style which is deliberately very simple, often uses bright colours and is similar to that produced by a child",
+          "chinese": "稚拙派的（简单质朴，色彩明快）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "34": {
+      "word": "dorky",
+      "sourceRow": 34,
+      "english": "awkward or unfashionable in appearance or behaviour",
+      "chinese": "土气的；呆里呆气的",
+      "collocations": [
+        "look dorky 看着土土的",
+        "a dorky outfit 土气的穿搭",
+        "dorky aprons 傻气的围裙"
+      ],
+      "compare": [
+        "dorky：社交或外表显得不酷、笨拙",
+        "clumsy：动作不协调",
+        "unfashionable：不合时尚，未必显得呆"
+      ],
+      "usage": "本文修饰 aprons，是诙谐的外观评价，不能机械译为“智力低下的围裙”。称呼别人 dork 可能冒犯。",
+      "ipa": "/ˈdɔːki/",
+      "partOfSpeech": "adj.，口语",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.",
+      "dictionaryExample": {
+        "english": "He was a dorky kid.",
+        "chinese": "他是个笨蛋。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "35": {
+      "word": "intuit",
+      "sourceRow": 35,
+      "english": "to understand by an immediate feeling rather than explicit evidence",
+      "chinese": "凭直觉领会",
+      "collocations": [
+        "intuit the meaning 凭直觉领会意思",
+        "intuit that … 直觉感到……",
+        "intuit someone's intentions 凭直觉揣知意图"
+      ],
+      "compare": [
+        "intuit：未经明确推理而直觉领会",
+        "infer：由证据推断",
+        "guess：信息不足时猜测"
+      ],
+      "usage": "原文 couldn't intuit on my own 说明专业知识不能靠自己凭空猜出来。及物，可接名词或 that 从句。",
+      "ipa": "/ɪnˈtʃuːɪt/",
+      "partOfSpeech": "v. [T]，正式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Sure, I can and have visited markets without guides and enjoyed it, but having an actual expert to explain ingredients and practices I couldn't intuit on my own makes the experience all the richer.",
+      "dictionaryExample": {
+        "english": "She intuited that something was badly wrong.",
+        "chinese": "她凭直觉感到出了大问题",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "74": {
+      "word": "arise from",
+      "sourceRow": 74,
+      "english": "to result from something",
+      "chinese": "由……引起；源于",
+      "collocations": [
+        "arise from ineptitude 因笨拙而产生",
+        "problems arise from a cause 问题由某原因引起"
+      ],
+      "compare": [
+        "arise from 指因某事而发生；rise from 可指从某处升起。"
+      ],
+      "usage": "原句 experiences arose from...，arose 是 arise 的过去式。",
+      "ipa": "/əˈraɪz frəm/",
+      "partOfSpeech": "verb + preposition",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Some of my best travel experiences arose from a very un-local ineptitude and the kindness and hospitality shown by actual locals.",
+      "dictionaryExample": {
+        "english": "Emotional or mental problems can arise from a physical cause.",
+        "chinese": "身体上的原因可以引起情绪或精神上的问题。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "36": {
+      "word": "ineptitude",
+      "sourceRow": 36,
+      "english": "a lack of skill or effectiveness",
+      "chinese": "不熟练；笨拙；无能",
+      "collocations": [
+        "social ineptitude 社交笨拙",
+        "sheer ineptitude 十足的无能",
+        "technical ineptitude 技术上的不熟练"
+      ],
+      "compare": [
+        "ineptitude：做事不熟练或效果差",
+        "ignorance：不知道相关信息",
+        "inexperience：没有足够经历，仍可能很有能力"
+      ],
+      "usage": "本文自嘲在异地办事不熟练，重心是实际应对能力，不是道德缺陷。inept at doing something。",
+      "ipa": "/ɪˈneptɪtʃuːd/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Some of my best travel experiences arose from a very un-local ineptitude and the kindness and hospitality shown by actual locals.",
+      "dictionaryExample": {
+        "english": "the ineptitude of the police in handling the situation",
+        "chinese": "警方在处理这个局面时的无能",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "37": {
+      "word": "hospitality",
+      "sourceRow": 37,
+      "english": "kind and welcoming treatment of guests",
+      "chinese": "好客；热情款待",
+      "collocations": [
+        "show hospitality to guests 热情接待客人",
+        "thank someone for their hospitality 感谢款待",
+        "the hospitality industry 酒店餐饮接待业"
+      ],
+      "compare": [
+        "hospitality：对客人的接待与款待",
+        "kindness：待人的善意，范围更广",
+        "generosity：慷慨给予时间、物品等"
+      ],
+      "usage": "不可数：Thank you for your hospitality。与 hospital 拼写相关但不等于“医院服务”；行业义必须按语境判断。",
+      "ipa": "/ˌhɒspɪˈtæləti/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Some of my best travel experiences arose from a very un-local ineptitude and the kindness and hospitality shown by actual locals.",
+      "dictionaryExample": {
+        "english": "Thank you for your kind hospitality.",
+        "chinese": "感谢你的友好款待。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "food, drink or services that are provided by an organization for guests, customers, etc.（",
+          "chinese": "款待客人、顾客等的）食物，饮料，服务；款待",
+          "exampleEnglish": "We were entertained in the company's hospitality suite.",
+          "exampleChinese": "公司款待我们住进他们的迎宾套间。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "38": {
+      "word": "plea",
+      "sourceRow": 38,
+      "english": "an urgent, emotional request",
+      "chinese": "恳求；呼吁",
+      "collocations": [
+        "a plea for help 求助呼吁",
+        "a plea to stop 恳求停止",
+        "make a plea 发出恳求"
+      ],
+      "compare": [
+        "plea：急切并带情感的请求",
+        "entreaty：较书面的恳求，常求对方让步",
+        "request：一般请求"
+      ],
+      "usage": "原文 pleas not to 后省略 close down her coffee shop；接下来的 to drive 是另一层目的，不能全连成“请求不要开车”。",
+      "ipa": "/pliː/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In a small village in northern Thailand, a woman once closed down her coffee shop, despite my pleas not to, to drive me on her motorbike to a rice noodle factory when I merely asked her for directions.",
+      "dictionaryExample": {
+        "english": "plea for something She made an impassioned plea for help.",
+        "chinese": "她恳切地求助。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a statement made by somebody or for somebody who is accused of a crime（",
+          "chinese": "被告或被告律师的）诉讼抗辩，答辩",
+          "exampleEnglish": "a plea of guilty/not guilty",
+          "exampleChinese": "承认／不承认有罪"
+        },
+        {
+          "english": "plea of something (law) a reason given to a court for doing or not doing something（",
+          "chinese": "向法庭提供的）理由，借口，辩解",
+          "exampleEnglish": "He was charged with murder, but got off on a plea of insanity.",
+          "exampleChinese": "他被指控犯了谋杀罪，但以精神错乱为由逃过惩罚。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "39": {
+      "word": "ceramic",
+      "sourceRow": 39,
+      "english": "made of clay hardened by heat",
+      "chinese": "陶瓷的",
+      "collocations": [
+        "ceramic tiles 瓷砖",
+        "a ceramic bowl 陶瓷碗",
+        "ceramic stores 陶瓷商店（本文）"
+      ],
+      "compare": [
+        "ceramic：较广的陶瓷材料或制品",
+        "porcelain：瓷，通常更细密坚硬",
+        "pottery：陶器及制陶工艺，不等同所有工业陶瓷"
+      ],
+      "usage": "ceramic stores 指卖陶瓷的店，不是“陶瓷建造的店”。表材料的 ceramic 可作不可数名词。",
+      "ipa": "/səˈræmɪk/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.",
+      "dictionaryExample": {
+        "english": "involved in the art of making and decorating ceramics",
+        "chinese": "制陶艺术；陶瓷装潢艺术",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a pot or other object made of clay that has been made permanently hard by heat",
+          "chinese": "陶瓷制品；陶瓷器",
+          "exampleEnglish": "an exhibition of ceramics by Picasso",
+          "exampleChinese": "毕加索陶瓷作品展"
+        },
+        {
+          "english": "ceramics [uncountable] the art of making and decorating ceramics",
+          "chinese": "制陶艺术；陶瓷装潢艺术"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "75": {
+      "word": "invite",
+      "sourceRow": 75,
+      "english": "an invitation",
+      "chinese": "邀请",
+      "collocations": [
+        "get an invite 获得邀请",
+        "an invite to someone's home 去某人家的邀请"
+      ],
+      "compare": [
+        "invite 作名词较口语；invitation 更正式。"
+      ],
+      "usage": "got an invite into a couple's home：invite 在这里是名词，不是动词。",
+      "ipa": "/ˈɪnvaɪt/",
+      "partOfSpeech": "noun (informal)",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.",
+      "dictionaryExample": {
+        "english": "Thanks for your invite.",
+        "chinese": "感谢你的邀请",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to ask somebody formally to go somewhere or do something; to make a formal or polite request for something（",
+          "chinese": "正式）邀请，请求，要求",
+          "exampleEnglish": "The bishop invited representatives from all the parishes in the diocese.",
+          "exampleChinese": "主教邀请了教区所有教区的代表。"
+        },
+        {
+          "english": "to make something, especially something bad or unpleasant, likely to happen",
+          "chinese": "招致（尤指坏事）",
+          "exampleEnglish": "invite something Such comments are just inviting trouble.",
+          "exampleChinese": "这种评论简直是在自找麻烦。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "本文 invite 是口语名词；摘录主要收录动词，仅保留其中明确出现的名词例句。"
+    },
+    "76": {
+      "word": "kintsugi",
+      "sourceRow": 76,
+      "english": "a Japanese repair technique that highlights cracks with gold or silver",
+      "chinese": "金继；用金银修复陶器的日本工艺",
+      "collocations": [
+        "learn kintsugi 学习金继",
+        "kintsugi pottery 金继陶器"
+      ],
+      "compare": [
+        "kintsugi 是修复工艺；pottery 是陶器总称。"
+      ],
+      "usage": "原句紧接着解释该工艺；摘录未单列词条。",
+      "ipa": "/kɪnˈtsuːɡi/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "40": {
+      "word": "pottery",
+      "sourceRow": 40,
+      "english": "objects made from clay and hardened by heat",
+      "chinese": "陶器",
+      "collocations": [
+        "broken pottery 破损陶器",
+        "a piece of pottery 一件陶器",
+        "a pottery class 陶艺课"
+      ],
+      "compare": [
+        "pottery：陶制器物或制作这些器物的技艺",
+        "ceramics：陶瓷及相关艺术、材料的较广称呼",
+        "porcelain：具体的瓷质材料"
+      ],
+      "usage": "本文 repairing broken pottery 中为不可数统称；数单件用 a piece of pottery，不用 a pottery 表“一件陶器”。",
+      "ipa": "/ˈpɒtəri/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.",
+      "dictionaryExample": {
+        "english": "Roman pottery",
+        "chinese": "罗马时期的陶器",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the clay that some dishes and pots are made of",
+          "chinese": "陶土",
+          "exampleEnglish": "a jug made of blue-glazed pottery",
+          "exampleChinese": "一把蓝釉陶壶"
+        },
+        {
+          "english": "the skill of making pots and dishes from clay, especially by hand",
+          "chinese": "制陶手艺；制陶技艺",
+          "exampleEnglish": "a pottery class",
+          "exampleChinese": "陶艺班"
+        },
+        {
+          "english": "a place where clay pots and dishes are made",
+          "chinese": "制陶作坊；陶窑；陶器工厂"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "41": {
+      "word": "whisk",
+      "sourceRow": 41,
+      "english": "to take someone somewhere suddenly and quickly",
+      "chinese": "迅速带走；匆匆带往",
+      "collocations": [
+        "whisk someone away 迅速把某人带走",
+        "whisk someone off to a place 匆匆带某人去某地",
+        "whisk eggs 搅打鸡蛋"
+      ],
+      "compare": [
+        "whisk：突出快速带走、带往",
+        "escort：陪同护送，强调陪伴或保护",
+        "rush：催促或赶忙进行"
+      ],
+      "usage": "I've been whisked 是现在完成时被动，不是“我搅打了”。常带 away/off/to/from 等方向信息。",
+      "ipa": "/wɪsk/",
+      "partOfSpeech": "v. [T]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
+      "dictionaryExample": {
+        "english": "Jamie whisked her off to Paris for the weekend.",
+        "chinese": "杰米匆匆把她带到巴黎去度周末。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "whisk something to mix liquids, eggs, etc. into a stiff, light mass, using a fork or special tool",
+          "chinese": "搅打，搅动（液体、鸡蛋等）",
+          "exampleEnglish": "Whisk the egg whites until stiff.",
+          "exampleChinese": "把蛋白搅打稠。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "42": {
+      "word": "artisan",
+      "sourceRow": 42,
+      "english": "made with traditional skilled methods",
+      "chinese": "手工制作的；讲究传统工艺的",
+      "collocations": [
+        "artisan bread 手工面包",
+        "an artisan baker 手工面包师",
+        "local artisans 当地工匠"
+      ],
+      "compare": [
+        "artisan：重在熟练的手艺与传统制作",
+        "artist：重在艺术创作",
+        "handmade：说明手工制作，未必体现专业工艺"
+      ],
+      "usage": "本文 artisan 修饰 bread。名词、形容词所列常用读音相同；不能把 artisan bread 译为“艺术家的面包”。",
+      "ipa": "/ˈɑːtɪzæn/",
+      "partOfSpeech": "adj.（本文，名词前）；n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a person who does work that needs a special skill, making things with their hands",
+          "chinese": "工匠；手艺人",
+          "exampleEnglish": "The hand-woven textiles were made by skilled local artisans.",
+          "exampleChinese": "手工编织的纺织品是由当地熟练的工匠制作的。"
+        },
+        {
+          "english": "relating to an artisan, or typical of an artisan's work",
+          "chinese": "手工的；手工艺的",
+          "exampleEnglish": "an artisan bakery",
+          "exampleChinese": "一家手工面包店"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "43": {
+      "word": "macaroon",
+      "sourceRow": 43,
+      "english": "a small sweet biscuit made with almonds or coconut",
+      "chinese": "椰蓉或杏仁小甜饼；也可指马卡龙",
+      "collocations": [
+        "coconut macaroons 椰蓉小甜饼",
+        "almond macaroons 杏仁小甜饼",
+        "a macaroon shop 甜饼店／马卡龙店"
+      ],
+      "compare": [
+        "macaroon：常指较粗糙的椰蓉或杏仁甜饼",
+        "macaron：通常明确指两片杏仁蛋白饼夹馅的法式马卡龙",
+        "biscuit：饼干的泛称"
+      ],
+      "usage": "Cambridge 同时收录 macaroon 指 macaron 的用法，所以不能断言原文巴黎店铺写错。主动表达夹心马卡龙时用 macaron 更能避免歧义。",
+      "ipa": "/ˌmækəˈruːn/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "44": {
+      "word": "cheery",
+      "sourceRow": 44,
+      "english": "showing happiness or making others feel happier",
+      "chinese": "快活的；让人愉快的",
+      "collocations": [
+        "a cheery greeting 愉快的招呼",
+        "a cheery smile 开朗的笑容",
+        "a cheery voice 欢快的声音"
+      ],
+      "compare": [
+        "cheery：外在表现明快、让人心情好",
+        "cheerful：人心情愉快或性情乐观",
+        "happy：快乐满足的广义感受"
+      ],
+      "usage": "cheery gusto 指兴致勃勃的热情；gusto 才是中心名词。比较级 cheerier，副词 cheerily。",
+      "ipa": "/ˈtʃɪəri/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
+      "dictionaryExample": {
+        "english": "a cheery remark/smile/wave",
+        "chinese": "开心的话／微笑／挥手",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "77": {
+      "word": "gusto",
+      "sourceRow": 77,
+      "english": "great enthusiasm and energy",
+      "chinese": "热情；兴致",
+      "collocations": [
+        "with gusto 兴致勃勃地",
+        "cheery gusto 愉快的热情"
+      ],
+      "compare": [
+        "gusto 是做事的劲头；cheery 是愉快的心情。"
+      ],
+      "usage": "with cheery gusto 作方式状语，描绘朋友带作者逛店的兴致。",
+      "ipa": "/ˈɡʌstəʊ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
+      "dictionaryExample": {
+        "english": "They sang with gusto.",
+        "chinese": "他们兴致勃勃地唱歌。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "45": {
+      "word": "embrace",
+      "sourceRow": 45,
+      "english": "to accept something willingly and enthusiastically",
+      "chinese": "欣然接受",
+      "collocations": [
+        "embrace an opportunity 欣然抓住机会",
+        "embrace change 积极接受变化",
+        "a warm embrace 温暖的拥抱"
+      ],
+      "compare": [
+        "embrace：主动欢迎并接受",
+        "accept：接受，不必热情",
+        "tolerate：容忍，可能并不喜欢"
+      ],
+      "usage": "本文 embrace it 的 it 指 hospitality，是欣然接受款待，不是要求拥抱陌生人。名词和动词都重读第二音节。",
+      "ipa": "/ɪmˈbreɪs/",
+      "partOfSpeech": "v. [T]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Hospitality to visitors is a gift; embrace it with gratitude, not shame.",
+      "dictionaryExample": {
+        "english": "to embrace democracy/feminism/Islam",
+        "chinese": "信奉民主／女权主义／伊斯兰教",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an act of putting your arms around somebody as a sign of love or friendship",
+          "chinese": "抱；拥抱",
+          "exampleEnglish": "He held her in a warm embrace.",
+          "exampleChinese": "他热情地拥抱她。"
+        },
+        {
+          "english": "the act of accepting an idea, a proposal, a set of beliefs, etc, especially when it is done with enthusiasm",
+          "chinese": "欣然接受，乐意采纳（思想、建议等）；信奉（宗教、信仰等）",
+          "exampleEnglish": "the country’s eager embrace of modern technology",
+          "exampleChinese": "这个国家对现代技术的热切欢迎"
+        },
+        {
+          "english": "to put your arms around somebody as a sign of love or friendship",
+          "chinese": "抱；拥抱",
+          "exampleEnglish": "They embraced and promised to keep in touch.",
+          "exampleChinese": "他们互相拥抱，许诺将保持联系。"
+        },
+        {
+          "english": "embrace something to include something",
+          "chinese": "包括；包含",
+          "exampleEnglish": "The talks embraced a wide range of issues.",
+          "exampleChinese": "这些谈话涉及的问题非常广泛。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "46": {
+      "word": "gratitude",
+      "sourceRow": 46,
+      "english": "appreciation for kindness or help received",
+      "chinese": "感激；谢意",
+      "collocations": [
+        "express gratitude to someone 向某人表达谢意",
+        "gratitude for someone's help 对帮助的感激",
+        "a token of gratitude 表达谢意的小礼物"
+      ],
+      "compare": [
+        "gratitude：因受惠而感谢",
+        "appreciation：欣赏价值或表示感谢，范围较广",
+        "indebtedness：强调欠人情、受恩惠"
+      ],
+      "usage": "to 后接感谢的人，for 后接感谢的事情。不可数；grateful 不拼 greatful。",
+      "ipa": "/ˈɡrætɪtʃuːd/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Hospitality to visitors is a gift; embrace it with gratitude, not shame.",
+      "dictionaryExample": {
+        "english": "with gratitude He smiled at them with gratitude.",
+        "chinese": "他向他们笑了笑表示谢意。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "47": {
+      "word": "de rigueur",
+      "sourceRow": 47,
+      "english": "expected because of fashion or social custom",
+      "chinese": "按时尚或习俗必备的",
+      "collocations": [
+        "be de rigueur 是惯例中的必需",
+        "de rigueur for an occasion 某场合按惯例必备",
+        "the de rigueur anorak 按潮流少不了的防风衣"
+      ],
+      "compare": [
+        "de rigueur：社会风尚让人觉得必须有",
+        "compulsory：由规则强制要求",
+        "fashionable：正流行，不一定被视为必备"
+      ],
+      "usage": "字面不是“严格的”。常作表语，本文也置于名词前作修饰语；作者讽刺为伪装当地人而照着清单买衣服，不是说法律强制穿。",
+      "ipa": "/də rɪˈɡɜː/",
+      "partOfSpeech": "adj.，法语借词，较正式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
+      "dictionaryExample": {
+        "english": "Evening dress is de rigueur at the casino.",
+        "chinese": "按照习俗在赌场要穿晚礼服。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "48": {
+      "word": "anorak",
+      "sourceRow": 48,
+      "english": "a short protective coat, usually with a hood",
+      "chinese": "带兜帽的防风防雨外套",
+      "collocations": [
+        "wear an anorak 穿防风衣",
+        "a waterproof anorak 防水带帽外套",
+        "a hooded anorak 带兜帽的防风衣"
+      ],
+      "compare": [
+        "anorak：防风雨、通常带帽的短外套",
+        "parka：也常带帽，常指较保暖的外套",
+        "raincoat：重点是防雨，不一定有帽或厚实"
+      ],
+      "usage": "本文是服装，不是人。an anorak 用 an；不能把它限定为所有意义上的“冲锋衣”专业规格。",
+      "ipa": "/ˈænəræk/",
+      "partOfSpeech": "n. [C]，主要英式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
+      "dictionaryExample": {
+        "english": "My Mum made me take my anorak in case it rained.",
+        "chinese": "妈妈让我带上了雨衣，以防下雨。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a person who spends a lot of time learning facts or collecting things that most other people think are boring",
+          "chinese": "怪僻的搜集者（花大量时间了解或收集别人大多认为无聊的东西）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "78": {
+      "word": "Copenhagen",
+      "sourceRow": 78,
+      "english": "the capital city of Denmark",
+      "chinese": "哥本哈根",
+      "collocations": [
+        "an anorak in Copenhagen 在哥本哈根穿派克外套",
+        "visit Copenhagen 游览哥本哈根"
+      ],
+      "compare": [
+        "Copenhagen 是城市；Denmark 是国家。"
+      ],
+      "usage": "地点专名首字母大写；摘录未单列。",
+      "ipa": "/ˌkəʊpənˈheɪɡən/",
+      "partOfSpeech": "proper noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "49": {
+      "word": "stick out",
+      "sourceRow": 49,
+      "english": "to be very noticeable because one is different",
+      "chinese": "显眼；显得格格不入",
+      "collocations": [
+        "stick out as a foreigner 显得像外国人",
+        "stick out in a crowd 在人群中显眼",
+        "stick out like a sore thumb 显得十分突兀"
+      ],
+      "compare": [
+        "stick out：因不同而显眼，可能不自在",
+        "stand out：出众或突出，可褒可中性",
+        "fit in：与周围协调、融入"
+      ],
+      "usage": "本文是不及物 stick out，不是“坚持”。stick it out 才可表示坚持到底，代词 it 放中间。",
+      "ipa": "/stɪk ˈaʊt/",
+      "partOfSpeech": "phr. v. [I]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
+      "dictionaryExample": {
+        "english": "They wrote the notice in big red letters so that it would stick out.",
+        "chinese": "他们用红色大字写出通知，这样会显眼一些。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "79": {
+      "word": "middle-schoolish",
+      "sourceRow": 79,
+      "english": "like the social anxiety or group pressure of middle school",
+      "chinese": "像中学生那样幼稚的；过度在意合群的",
+      "collocations": [
+        "middle-schoolish advice 像初中生那样的建议",
+        "a middle-schoolish worry 中学生式的顾虑"
+      ],
+      "compare": [
+        "middle-schoolish 是作者临时构词；immature 更一般地说不成熟。"
+      ],
+      "usage": "修饰整套“别像游客”的建议，带轻微批评意味；摘录未单列。",
+      "ipa": "/ˌmɪdl ˈskuːlɪʃ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "80": {
+      "word": "fit in",
+      "sourceRow": 80,
+      "english": "to feel accepted and natural within a group",
+      "chinese": "融入；合群",
+      "collocations": [
+        "worry about fitting in 担心能否合群",
+        "fit in with the locals 与当地人融洽相处"
+      ],
+      "compare": [
+        "fit in 在此是社交融入；fit something in 也可指挤出时间。"
+      ],
+      "usage": "fitting in 是动名词，作 worry about 的宾语。",
+      "ipa": "/fɪt ɪn/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "At the stage in life when you can book your own trip abroad, you're old enough to not worry about fitting in.",
+      "dictionaryExample": {
+        "english": "He's never done this type of work before; I'm not sure how he'll fit in with the other people.",
+        "chinese": "他过去从未干过这种工作，很难说他是否会与其他人配合得好。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to find time to see somebody or to do something",
+          "chinese": "找到时间（见某人、做某事）",
+          "exampleEnglish": "I'll try and fit you in after lunch.",
+          "exampleChinese": "我尽量午饭后抽时间见你。"
+        },
+        {
+          "english": "to find or have enough space for somebody or something in a place",
+          "chinese": "找到足够的地方；有足够空间",
+          "exampleEnglish": "We can't fit in any more chairs.",
+          "exampleChinese": "我们没有地方再摆更多的椅子了。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "81": {
+      "word": "customs",
+      "sourceRow": 81,
+      "english": "accepted ways of behaving in a community",
+      "chinese": "风俗；习俗",
+      "collocations": [
+        "respect local customs 尊重当地习俗",
+        "religious customs 宗教习俗"
+      ],
+      "compare": [
+        "customs 在此是 custom 的复数“习俗”；Customs 也可指海关。"
+      ],
+      "usage": "respect 后直接接 local customs；不要把 customs 译成海关。",
+      "ipa": "/ˈkʌstəmz/",
+      "partOfSpeech": "plural noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "(This is, of course, distinct from respecting local customs on religious and cultural dress.)",
+      "dictionaryExample": {
+        "english": "It's a local custom.",
+        "chinese": "这是当地的风俗习惯。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(British English also Revenue and Customs) the government department that collects taxes on goods bought and sold and on goods brought into the country, and that checks what is brought in（",
+          "chinese": "政府部门）海关",
+          "exampleEnglish": "The Customs have seized large quantities of smuggled heroin.",
+          "exampleChinese": "海关查获了大量走私的海洛因。"
+        },
+        {
+          "english": "the place at a port or an airport where your bags are checked as you come into a country（",
+          "chinese": "港口或机场的）海关",
+          "exampleEnglish": "to go through customs and passport control",
+          "exampleChinese": "通过海关和交验护照"
+        },
+        {
+          "english": "the taxes that must be paid to the government when goods are brought in from other countries",
+          "chinese": "关税；进口税",
+          "exampleEnglish": "You must pay customs on all imports of alcohol.",
+          "exampleChinese": "你必须为所有进口的酒缴纳关税。"
+        },
+        {
+          "english": "the way a person always behaves（",
+          "chinese": "个人的）习惯，习性，惯常行为",
+          "exampleEnglish": "It was her custom to rise early.",
+          "exampleChinese": "早起是她的习惯。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "本文 customs 是 custom（习俗）的复数；摘录开头另有 Customs（海关），两者需要区分。"
+    },
+    "50": {
+      "word": "likelihood",
+      "sourceRow": 50,
+      "english": "the chance that something will happen",
+      "chinese": "可能性；发生概率",
+      "collocations": [
+        "the likelihood of doing something 做某事的可能性",
+        "a low likelihood that … ……可能性很低",
+        "in all likelihood 十有八九"
+      ],
+      "compare": [
+        "likelihood：关注发生的可能程度",
+        "possibility：关注是否可能，或某种可能情形",
+        "probability：也关注可能程度，常用于量化"
+      ],
+      "usage": "后接 of + 名词/doing 或 that 从句；that 说明可能发生的内容，不是缺成分的定语从句。即使标 U，也可用 a low likelihood 这样的限定结构。",
+      "ipa": "/ˈlaɪklihʊd/",
+      "partOfSpeech": "n. [U，常见 a … likelihood]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "One of the delicious freedoms in traveling is that no one knows you, that there is a very low likelihood that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins.",
+      "dictionaryExample": {
+        "english": "There is very little likelihood of that happening.",
+        "chinese": "几乎没有发生那种事情的可能。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "82": {
+      "word": "happen upon",
+      "sourceRow": 82,
+      "english": "to find or encounter someone by chance",
+      "chinese": "偶然遇见；碰巧发现",
+      "collocations": [
+        "happen upon a former partner 偶遇前任",
+        "happen upon an old book 偶然发现旧书"
+      ],
+      "compare": [
+        "happen upon 强调偶遇；arrange to meet 是事先约见。"
+      ],
+      "usage": "情态动词 will 后接原形；摘录中的 happen 词条只列该短语为参见项，未给独立释义。",
+      "ipa": "/ˈhæpən əˈpɒn/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "One of the delicious freedoms in traveling is that no one knows you, that there is a very low likelihood that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "51": {
+      "word": "muddy",
+      "sourceRow": 51,
+      "english": "to cover something with mud",
+      "chinese": "把……弄上泥；弄脏",
+      "collocations": [
+        "muddy one's shoes 把鞋弄上泥",
+        "muddy something up 把某物弄得泥乎乎",
+        "muddy the waters 把事情搅混"
+      ],
+      "compare": [
+        "muddy：具体沾上泥，也可使事情混乱",
+        "dirty：一般弄脏",
+        "stain：留下色斑或污渍"
+      ],
+      "usage": "原文 mind muddying up 中 muddying 为动词 -ing，宾语由关系词 that 对应 shoes；mind 后用 doing，不用 to do。muddying 保留 y，muddied 变 y 为 i。",
+      "ipa": "/ˈmʌdi/",
+      "partOfSpeech": "v. [T]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "You can wear a fanny pack or shoes that you don't mind muddying up.",
+      "dictionaryExample": {
+        "english": "She had muddied her white dress.",
+        "chinese": "她弄污了她的白色连衣裙。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "full of or covered in mud",
+          "chinese": "多泥的；泥泞的",
+          "exampleEnglish": "a muddy field/track",
+          "exampleChinese": "泥泞的田野／小径"
+        },
+        {
+          "english": "containing mud; not clear",
+          "chinese": "含泥的；浑浊的",
+          "exampleEnglish": "a muddy pond",
+          "exampleChinese": "浑浊的池塘"
+        },
+        {
+          "english": "not clear or bright",
+          "chinese": "灰暗的；暗淡的"
+        },
+        {
+          "english": "to make a simple situation confused and more complicated than it really is",
+          "chinese": "搅浑水；添乱",
+          "exampleEnglish": "She deliberately muddied the waters by constantly referring to other irrelevant cases.",
+          "exampleChinese": "她故意不停地提及其他无关的案件，使水面一片泥泞。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "52": {
+      "word": "cruise",
+      "sourceRow": 52,
+      "english": "to move around leisurely; here, to browse online casually",
+      "chinese": "悠闲地逛；本文指随意刷浏览社交平台",
+      "collocations": [
+        "cruise around 闲逛",
+        "cruise at a steady speed 匀速行驶",
+        "go on a cruise 乘船游览"
+      ],
+      "compare": [
+        "cruise：轻松随意地游走，本文把这个动作借到网上",
+        "browse：随意翻看或浏览内容",
+        "scroll：具体滚动屏幕"
+      ],
+      "usage": "cruising Twitter and Instagram 是语境引申，不能译成“驾驶推特”。这里 cruise 可直接带被浏览的平台，不需强加 on。",
+      "ipa": "/kruːz/",
+      "partOfSpeech": "v. [T]（本文，比喻）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Actually visiting a museum—instead of meaning to—is way more fulfilling than sitting on your couch cruising Twitter and Instagram.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a journey by sea, visiting different places, especially as a holiday",
+          "chinese": "乘船游览；航行",
+          "exampleEnglish": "I'd love to go on a round-the-world cruise.",
+          "exampleChinese": "我很想乘船周游世界。"
+        },
+        {
+          "english": "to travel in a ship or boat visiting different places, especially as a holiday",
+          "chinese": "乘船游览"
+        },
+        {
+          "english": "(of a car, plane, etc.",
+          "chinese": "汽车、飞机等) to travel at a steady speed以平稳的速度行驶",
+          "exampleEnglish": "a light aircraft cruising at 4 000 feet",
+          "exampleChinese": "一架在 4 000 英尺高度巡航的轻型飞机"
+        },
+        {
+          "english": "to drive along slowly, especially when you are looking at or for something（",
+          "chinese": "尤指查看或寻找时）慢速行驶，巡行",
+          "exampleEnglish": "+ adv./prep. She cruised around the block looking for a parking space.",
+          "exampleChinese": "她绕着那个街区慢慢行驶，想找个停车位。"
+        },
+        {
+          "english": "+ adv./prep. to win or achieve something easily",
+          "chinese": "轻而易举赢得（或获得）；轻取",
+          "exampleEnglish": "The home team cruised to victory.",
+          "exampleChinese": "主队轻松取胜。"
+        },
+        {
+          "english": "cruise (something) (slang) to go around in public places looking for a sexual partner（",
+          "chinese": "在公共场所）寻觅性伙伴，猎艳"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "83": {
+      "word": "Cloisters",
+      "sourceRow": 83,
+      "english": "the Cloisters, a named attraction in Upper Manhattan",
+      "chinese": "纽约上城名为 Cloisters 的景点",
+      "collocations": [
+        "visit the Cloisters 参观修道院分馆",
+        "the Cloisters in Upper Manhattan 纽约上城的修道院分馆"
+      ],
+      "compare": [
+        "the Cloisters 在本文是博物馆名称；cloister 的普通义是回廊。"
+      ],
+      "usage": "专名有大写 C 与定冠词 the；词典摘录只给普通名词 cloister 的释义。",
+      "ipa": "/ˈklɔɪstəz/",
+      "partOfSpeech": "proper noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's been years since I've visited the Cloisters in Upper Manhattan and many months since I've hiked through the Mt. Holyoke range 15 minutes from the house where I grew up.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a covered passage with arches around a garden, often part of a monastery (common noun: cloister)",
+          "chinese": "修院或教堂的回廊（普通名词 cloister）",
+          "exampleEnglish": "The 12th century church and cloisters remain surprisingly intact.",
+          "exampleChinese": "令人惊讶的是，12世纪的教堂和回廊依然保存完好。"
+        },
+        {
+          "english": "life in a convent or monastery (common noun: cloister)",
+          "chinese": "修院生活（普通名词 cloister）",
+          "exampleEnglish": "the calm of the cloister",
+          "exampleChinese": "修道院的幽静。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+    },
+    "84": {
+      "word": "Mt. Holyoke",
+      "sourceRow": 84,
+      "english": "Mount Holyoke, a mountain range mentioned near the author's home",
+      "chinese": "霍利奥克山；作者家附近的山脉",
+      "collocations": [
+        "hike through the Mt. Holyoke range 徒步穿越霍利奥克山脉",
+        "Mt. Holyoke range 霍利奥克山脉"
+      ],
+      "compare": [
+        "Mt. 缩写 Mount；这里是地名，不是大学名称。"
+      ],
+      "usage": "原句说的是山脉；摘录未单列此地名。",
+      "ipa": "/maʊnt ˈhəʊliəʊk/",
+      "partOfSpeech": "proper noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "It's been years since I've visited the Cloisters in Upper Manhattan and many months since I've hiked through the Mt. Holyoke range 15 minutes from the house where I grew up.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+    },
+    "53": {
+      "word": "apathy",
+      "sourceRow": 53,
+      "english": "a lack of interest and willingness to act",
+      "chinese": "漠然；无动于衷；缺乏行动热情",
+      "collocations": [
+        "public apathy 公众冷漠",
+        "apathy towards something 对某事漠然",
+        "overcome apathy 克服消极漠然"
+      ],
+      "compare": [
+        "apathy：兴趣和行动意愿不足",
+        "indifference：不在乎某事或结果",
+        "ignorance：不知道，不代表不关心"
+      ],
+      "usage": "本文指“反正景点一直都在”造成的熟视无睹和拖延，不应套为疾病诊断。apathy of knowing … 描写这种心态的内容和来源。",
+      "ipa": "/ˈæpəθi/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "That urgent tourist energy to see and do all sorts of things is far superior to the apathy of knowing something will always be there.",
+      "dictionaryExample": {
+        "english": "There is widespread apathy among the electorate.",
+        "chinese": "选民普遍态度冷淡。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    }
+  }
+}

@@ -42,8 +42,12 @@ const worker = {
       headers.set("accept-ranges", "bytes");
       headers.set("cache-control", "public, max-age=31536000, immutable");
       if (range && "range" in object && object.range) {
-        const offset = "offset" in object.range ? object.range.offset : 0;
-        const length = "length" in object.range ? object.range.length : object.size;
+        const length = "suffix" in object.range
+          ? Math.min(object.range.suffix, object.size)
+          : object.range.length ?? (object.size - (object.range.offset ?? 0));
+        const offset = "suffix" in object.range
+          ? object.size - length
+          : object.range.offset ?? 0;
         headers.set("content-range", `bytes ${offset}-${offset + length - 1}/${object.size}`);
         headers.set("content-length", String(length));
         return new Response(object.body, { status: 206, headers });

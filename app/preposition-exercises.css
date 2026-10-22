@@ -1,0 +1,22 @@
+.prep-exercises .u44-sentence { white-space: pre-line; }
+.prep-exercises .prep-response { display: block; margin: 4px 0 6px; }
+.articles-analysis-dialog .prep-exercises .prep-choice { display: inline; padding: 0 3px; min-height: 0; border: 0; border-radius: 2px; background: transparent; color: inherit; font: inherit; text-align: left; }
+.prep-exercises .prep-correct { color: #933b29; font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
+.prep-exercises .prep-incorrect { text-decoration: line-through; color: #777; }
+.prep-exercises .prep-definitions { border: 1px solid #87a84e; padding: 8px 12px; margin: 14px 0 0 68px; width: fit-content; max-width: calc(100% - 68px); }
+.prep-exercises .prep-definitions p { margin: 0; font: inherit; }
+.prep-exercises .prep-matching { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
+.prep-exercises .prep-matching .prep-definitions { margin: 0; max-width: 100%; border: 0; padding: 0; }
+.prep-exercises .prep-banks { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 10px 0 16px 68px; }
+.prep-exercises .prep-banks .ag-word-bank { margin: 4px 0 0; }
+.prepositions-reader .articles-analysis-toolbar { flex-wrap: wrap; }
+.prepositions-reader .articles-analysis-toolbar nav { flex-wrap: wrap; }
+@container (max-width: 620px) {
+  .prep-exercises .prep-matching, .prep-exercises .prep-banks { grid-template-columns: 1fr; gap: 16px; }
+  .prep-exercises .prep-definitions, .prep-exercises .prep-banks { margin-left: 0; max-width: 100%; }
+  .articles-analysis-dialog .prep-exercises .prep-choice { padding: 8px 2px; line-height: 2; }
+}
+@media (max-width: 600px) {
+  .prepositions-reader .articles-analysis-toolbar nav { flex-basis: 100%; }
+  .prepositions-reader .articles-analysis-toolbar nav button { flex: 0 0 auto; padding: 6px 8px; min-height: 36px; }
+}

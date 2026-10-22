@@ -22,7 +22,7 @@ function probe() {
       response.on('data', chunk => { if (html.length < 256_000) html += chunk; });
       response.on('end', () => finish({
         connected: true,
-        ready: response.statusCode === 200 && /<title>Close Reading Archive<\/title>/.test(html),
+        ready: response.statusCode === 200 && /<title>Learning with Rachel<\/title>/.test(html),
       }));
       response.on('error', () => finish({ connected: true, ready: false }));
     });
@@ -53,6 +53,7 @@ async function main() {
       env: {
         ...process.env,
         PATH: `${path.dirname(process.execPath)}${path.delimiter}${process.env.PATH ?? ''}`,
+        NITRO_PRESET: "vercel",
         WRANGLER_WRITE_LOGS: 'false',
         WRANGLER_LOG_PATH: path.join(stateDir, 'wrangler'),
         MINIFLARE_REGISTRY_PATH: path.join(stateDir, 'registry'),

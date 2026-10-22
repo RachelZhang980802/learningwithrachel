@@ -4,7 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { structureDiagram, type StructureNode } from "./structureDiagram";
 
 type Pair = readonly [string, string];
-type Labels = { clauseChinese:(label:string)=>string; functionEnglish:(label:string)=>string; functionClass:(label:string)=>string; sourceText?:string };
+type Labels = { clauseChinese:(label:string)=>string; functionEnglish:(label:string)=>string; functionClass:(label:string)=>string; sourceText?:string; englishOnly?:boolean };
 
 function clauseTitle(label: string) {
   if (/^[A-Z _-]+$/.test(label)) return label.toLowerCase().replace(/^./, character => character.toUpperCase());
@@ -83,15 +83,17 @@ function Constituent({node,labels}:{node:StructureNode;labels:Labels}) {
   else if (/系动词/.test(node.label)) en="Linking verb";
   else if (/^表语/.test(node.label)) en="Predicative";
   else if (/^动词/.test(node.label)) { en="Verb";role="predicate"; }
+  if (node.englishLabel) en = node.englishLabel;
+  if (node.functionClass) role = node.functionClass;
   const multi = text.split(/\s+/).length>1;
   const hasQuote = /["“”]/.test(text);
-  return <div ref={ref} className={`sentence-constituent ${role}`} data-constituent={node.id}>
+  return <div ref={ref} className={`sentence-constituent ${role}`} data-constituent={node.id} data-predicate-role={node.predicateRole} style={node.syntaxColor ? { color: node.syntaxColor } : undefined}>
     <span className={`sentence-diagram-text${hasQuote ? " has-quote" : ""}`} data-word={node.id}>{text}</span>
     <span className="constituent-pointer-lane" aria-hidden="true"><svg className="constituent-pointer" height="23">
       {multi && <path d={`M ${geometry.left} 2 H ${geometry.right}`} />}
       <path d={`M ${geometry.center} ${multi?2:0} V 19 m -4 -5 l 4 5 l 4 -5`} />
     </svg></span>
-    <span className="sentence-diagram-tag constituent-tag"><strong lang="en">{en}</strong><small lang="zh-CN">{zh}</small></span>
+    <span className="sentence-diagram-tag constituent-tag"><strong lang="en">{en}</strong>{!labels.englishOnly && <small lang="zh-CN">{zh}</small>}</span>
   </div>;
 }
 
@@ -120,13 +122,13 @@ function Clause({node,labels,number}:{node:StructureNode;labels:Labels;number:st
   },[]);
   useBoxMeasure(ref,measure);
   const tone = /MAIN|主句/.test(node.label)?"main":/RELATIVE|定语|关系/.test(node.label)?"relative":/PARENTHETICAL|插入/.test(node.label)?"parenthetical":"content";
-  const en = node.label === "CONTENT CLAUSE" ? "Object clause" : node.label === "EXPLANATORY MAIN CLAUSE" ? "Main clause" : node.label === "PARENTHETICAL COMPARISON" ? "Parenthetical clause" : clauseTitle(node.label);
+  const en = node.englishLabel ?? (node.label === "CONTENT CLAUSE" ? "Object clause" : node.label === "EXPLANATORY MAIN CLAUSE" ? "Main clause" : node.label === "PARENTHETICAL COMPARISON" ? "Parenthetical clause" : clauseTitle(node.label));
   const governingVerb = labels.sourceText?.slice(0,node.start).match(/\b([A-Za-z]+)\s*$/)?.[1] ?? "";
   const clauseZh = node.label === "CONTENT CLAUSE" ? (governingVerb ? `${governingVerb} 的宾语从句` : "宾语从句") : node.label === "EXPLANATORY MAIN CLAUSE" ? "主句" : labels.clauseChinese(node.label);
-  const antecedent = /RELATIVE CLAUSE|定语从句|关系词/.test(node.label) ? (node.excerpt?.match(/修饰\s+([^，,；;]+)/)?.[1]?.trim() ?? labels.sourceText?.slice(Math.max(0,node.start-64),node.start).match(/\b(?:the|a|an)\s+[A-Za-z]+(?:\s+[A-Za-z]+){0,5}\s*$/)?.[0]?.trim() ?? "前面的名词") : "";
+  const antecedent = node.antecedent ?? (/RELATIVE CLAUSE|定语从句|关系词/.test(node.label) ? (node.excerpt?.match(/修饰\s+([^，,；;]+)/)?.[1]?.trim() ?? labels.sourceText?.slice(Math.max(0,node.start-64),node.start).match(/\b(?:the|a|an)\s+[A-Za-z]+(?:\s+[A-Za-z]+){0,5}\s*$/)?.[0]?.trim() ?? "前面的名词") : "");
   const omission = omittedRestoration(node);
-  return <section className={`sentence-clause ${tone}${geometry.vertical?" is-multiline":""}`} data-clause-id={node.id} data-clause-label={node.label}>
-    <div className="sentence-clause-heading"><span className="sentence-diagram-tag clause-tag"><b>{number}</b><span lang="en">{en}</span><small lang="zh-CN">{clauseZh}</small></span>{omission && <span className="clause-omission" lang="en">{omission}</span>}{antecedent && <span className="relative-attachment"><span lang="en">modifies</span><small lang="zh-CN">先行词：{antecedent}</small></span>}</div>
+  return <section className={`sentence-clause ${tone}${geometry.vertical?" is-multiline":""}`} data-clause-id={node.id} data-clause-label={node.label} style={node.syntaxColor ? { color: node.syntaxColor } : undefined}>
+    <div className="sentence-clause-heading"><span className="sentence-diagram-tag clause-tag"><b>{number}</b><span lang="en">{en}</span>{!labels.englishOnly && <small lang="zh-CN">{clauseZh}</small>}</span>{omission && <span className="clause-omission" lang="en">{labels.englishOnly ? `Ellipsis: ${omission.replace(/（/g, "(").replace(/）/g, ")").replace(/省略/g, "omitted")}` : omission}</span>}{antecedent && <span className="relative-attachment"><span lang="en">modifies{labels.englishOnly ? ` ${antecedent}` : ""}</span>{!labels.englishOnly && <small lang="zh-CN">先行词：{antecedent}</small>}</span>}</div>
     <div ref={ref} className="sentence-clause-frame">
       <svg className="clause-bracket" aria-hidden="true" width={geometry.width} height={geometry.height}><path d={geometry.path}/></svg>
       <NodeSequence nodes={node.children} labels={labels} prefix={number} />
@@ -138,7 +140,7 @@ function Connector({node,labels}:{node:StructureNode;labels:Labels}) {
   return <div className="sentence-clause-connector" aria-label="Coordinating conjunction">
     <span className="connector-word" lang="en">{node.text.trim()}</span>
     <span className="connector-stem" aria-hidden="true">↓</span>
-    <span className="sentence-diagram-tag constituent-tag"><strong lang="en">Coordinating conjunction</strong><small lang="zh-CN">并列连词</small></span>
+    <span className="sentence-diagram-tag constituent-tag"><strong lang="en">Coordinating conjunction</strong>{!labels.englishOnly && <small lang="zh-CN">并列连词</small>}</span>
   </div>;
 }
 
@@ -161,10 +163,10 @@ function NodeSequence({nodes,labels,prefix=""}:{nodes:StructureNode[];labels:Lab
   return <>{groups.map((group,index)=>Array.isArray(group) ? (group.length === 1 && /^(and|but|or|yet|nor)$/i.test(group[0].text.trim()) ? <Connector key={index} node={group[0]} labels={labels}/> : <div className="sentence-constituent-run" key={index}>{group.flatMap((node, unitIndex) => [unitIndex > 0 && /定语从句②|RELATIVE CLAUSE 2/i.test(node.label) && /^(and|but|or|yet|nor)[,;:]?$/i.test(group[unitIndex - 1].text.trim()) ? <span className="sentence-line-break" aria-hidden="true" key={`break-${node.id}`}/> : null, node.text.trim() === "—" ? <span className="sentence-punctuation" key={node.id}>—</span> : <Constituent key={node.id} node={node} labels={labels}/>])}</div>) : (() => { clauseIndex += 1; const number = prefix ? `${prefix}.${clauseIndex}` : `${clauseIndex}`; return <Clause key={group.id} node={group} labels={labels} number={number}/>; })())}</>;
 }
 
-export function StructureDiagram({parts,clauses,...labels}:{parts:readonly Pair[];clauses:readonly Pair[]}&Labels) {
-  const nodes=useMemo(()=>structureDiagram(parts,clauses),[parts,clauses]);
+export function StructureDiagram({parts,clauses,nodes:exactNodes,...labels}:{parts:readonly Pair[];clauses:readonly Pair[];nodes?:StructureNode[]}&Labels) {
+  const nodes=useMemo(()=>exactNodes ?? structureDiagram(parts,clauses),[exactNodes,parts,clauses]);
   const sourceText = parts.map(([, text])=>text).join("");
-  return <div className="sentence-diagram" aria-label="Sentence structure and grammatical functions">
+  return <div className={`sentence-diagram${labels.englishOnly ? " syntax-matched-structure" : ""}`} aria-label="Sentence structure and grammatical functions">
     <div className="sentence-diagram-memo" aria-hidden="true">memo</div>
     <NodeSequence nodes={nodes} labels={{...labels,sourceText}}/>
   </div>;

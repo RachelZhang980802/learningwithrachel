@@ -1,0 +1,1099 @@
+[
+  {
+    "unit": 40,
+    "page": 81,
+    "title": "Agreement between subject and verb 1",
+    "sections": [
+      {
+        "id": "40.1",
+        "heading": "Correct ten mistakes in the italicised verbs in this museum review.",
+        "reference": "A & B",
+        "rows": [
+          {
+            "id": "40.1",
+            "label": "",
+            "parts": [
+              "The Rivers Museum on the corner of Corn Street and New Road ",
+              {
+                "id": "a02-concord-40.1-1",
+                "answer": "houses",
+                "mode": "correction",
+                "prompt": "house",
+                "label": "1",
+                "example": true
+              },
+              " a fascinating collection of art and other objects which begins as soon as you step through the door. Among the most eye-catching pieces in the whole collection ",
+              {
+                "id": "a02-concord-40.1-2",
+                "answer": "are",
+                "mode": "correction",
+                "prompt": "is",
+                "label": "2",
+                "example": false
+              },
+              " the marble animal sculptures under the arches on the left of the entrance hall. Whoever created these figures apparently ",
+              {
+                "id": "a02-concord-40.1-3",
+                "answer": "remains",
+                "mode": "correction",
+                "prompt": "remain",
+                "label": "3",
+                "example": false
+              },
+              " a mystery, but the skill of the craftspeople who worked on them ",
+              {
+                "id": "a02-concord-40.1-4",
+                "answer": "✓",
+                "mode": "correction",
+                "prompt": "is",
+                "label": "4",
+                "example": false
+              },
+              " obvious. Hanging on the wall directly opposite the carvings ",
+              {
+                "id": "a02-concord-40.1-5",
+                "answer": "are",
+                "mode": "correction",
+                "prompt": "is",
+                "label": "5",
+                "example": false
+              },
+              " over a hundred swords from the 17th century. The narrow doorway between the arches ",
+              {
+                "id": "a02-concord-40.1-6",
+                "answer": "lets",
+                "mode": "correction",
+                "prompt": "let",
+                "label": "6",
+                "example": false
+              },
+              " you into a series of smaller rooms where paintings from the 18th and 19th centuries ",
+              {
+                "id": "a02-concord-40.1-7",
+                "answer": "✓",
+                "mode": "correction",
+                "prompt": "are",
+                "label": "7",
+                "example": false
+              },
+              " on display. If paintings aren’t your thing, the museum’s incredible collection of seashells and fossils in the final room ",
+              {
+                "id": "a02-concord-40.1-8",
+                "answer": "is",
+                "mode": "correction",
+                "prompt": "are",
+                "label": "8",
+                "example": false
+              },
+              " sure to be of interest. Perhaps what is most surprising about the building itself ",
+              {
+                "id": "a02-concord-40.1-9",
+                "answer": "is",
+                "mode": "correction",
+                "prompt": "are",
+                "label": "9",
+                "example": false
+              },
+              " the bell tower in the small courtyard. Only since the restoration work was completed in 2011 ",
+              {
+                "id": "a02-concord-40.1-10",
+                "answer": "has",
+                "mode": "correction",
+                "prompt": "have",
+                "label": "10",
+                "example": false
+              },
+              " the tower been open, and climbing the 150 steps to the top to take in the view over the city ",
+              {
+                "id": "a02-concord-40.1-11",
+                "answer": "✓",
+                "mode": "correction",
+                "prompt": "is",
+                "label": "11",
+                "example": false
+              },
+              " well worth the effort. Over 50 full-time staff and volunteers ",
+              {
+                "id": "a02-concord-40.1-12",
+                "answer": "are",
+                "mode": "correction",
+                "prompt": "is",
+                "label": "12",
+                "example": false
+              },
+              " employed and having so many of them available to answer questions about the collection ",
+              {
+                "id": "a02-concord-40.1-13",
+                "answer": "adds",
+                "mode": "correction",
+                "prompt": "add",
+                "label": "13",
+                "example": false
+              },
+              " to the pleasure of this must-see museum."
+            ]
+          }
+        ],
+        "layout": "review"
+      },
+      {
+        "id": "40.2",
+        "heading": "Complete each sentence with a noun from the box and an appropriate form of the verb in brackets (singular, plural or both).",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "40.2-1",
+            "label": "1",
+            "parts": [
+              "The volleyball ",
+              {
+                "id": "a02-concord-40.2-1-1",
+                "answer": "team"
+              },
+              " ",
+              {
+                "id": "a02-concord-40.2-1-2",
+                "answer": "play / plays"
+              },
+              " twice a week in the summer. *(play)*"
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "40.2-2",
+            "label": "2",
+            "parts": [
+              "If the ",
+              {
+                "id": "a02-concord-40.2-2-1",
+                "answer": "university refuse / refuses"
+              },
+              " to host the conference, I just don’t know where we will be able to hold it. *(refuse)*"
+            ]
+          },
+          {
+            "id": "40.2-3",
+            "label": "3",
+            "parts": [
+              "The worldwide television ",
+              {
+                "id": "a02-concord-40.2-3-1",
+                "answer": "audience"
+              },
+              " for tomorrow’s cup final ",
+              {
+                "id": "a02-concord-40.2-3-2",
+                "answer": "is",
+                "note": "A singular verb form is more likely here as the focus is on the audience as a whole rather than individual members."
+              },
+              " expected to be 200 million. *(be)*"
+            ]
+          },
+          {
+            "id": "40.2-4",
+            "label": "4",
+            "parts": [
+              "The ",
+              {
+                "id": "a02-concord-40.2-4-1",
+                "answer": "orchestra perform / performs"
+              },
+              " classical concerts throughout the year. *(perform)*"
+            ]
+          },
+          {
+            "id": "40.2-5",
+            "label": "5",
+            "parts": [
+              "The Waterman’s Junior Book Prize ",
+              {
+                "id": "a02-concord-40.2-5-1",
+                "answer": "jury includes",
+                "note": "A singular verb form is used here as ‘include’ focuses on the group as a whole rather than individual members."
+              },
+              " three adults and three children. *(include)*"
+            ]
+          },
+          {
+            "id": "40.2-6",
+            "label": "6",
+            "parts": [
+              "The ",
+              {
+                "id": "a02-concord-40.2-6-1",
+                "answer": "class have",
+                "note": "A plural verb form is used as this is something the individuals did, emphasised by the use of ‘all’."
+              },
+              " all passed the end-of-year exam. *(have)*"
+            ]
+          },
+          {
+            "id": "40.2-7",
+            "label": "7",
+            "parts": [
+              "The ",
+              {
+                "id": "a02-concord-40.2-7-1",
+                "answer": "press presents / present"
+              },
+              " a picture of chaos in our schools, but it’s just not like that at all. *(present)*"
+            ]
+          },
+          {
+            "id": "40.2-8",
+            "label": "8",
+            "parts": [
+              "",
+              {
+                "id": "a02-concord-40.2-8-1",
+                "answer": "The United Nations has / have"
+              },
+              " ordered an investigation into the capture of members of its peace-keeping force in eastern Africa. *(have)*"
+            ]
+          }
+        ],
+        "words": [
+          "audience",
+          "class",
+          "jury",
+          "orchestra",
+          "press",
+          "~~team~~",
+          "the United Nations",
+          "university"
+        ]
+      },
+      {
+        "id": "40.3",
+        "heading": "If necessary, correct the mistakes in these sentences or write ✓ if they are already correct.",
+        "reference": "A–D",
+        "rows": [
+          {
+            "id": "40.3-1",
+            "label": "1",
+            "parts": [
+              "The United States come top of the list of countries ranked by economic performance.",
+              {
+                "id": "a02-concord-40.3-1",
+                "answer": "comes"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-2",
+            "label": "2",
+            "parts": [
+              "The people I know who have seen the film say that it’s really good.",
+              {
+                "id": "a02-concord-40.3-2",
+                "answer": "✓"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-3",
+            "label": "3",
+            "parts": [
+              "The *New Straits Times* report that tourism is booming in Malaysia.",
+              {
+                "id": "a02-concord-40.3-3",
+                "answer": "reports"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-4",
+            "label": "4",
+            "parts": [
+              "*Northern Lights* are one of Suzanne’s favourite books.",
+              {
+                "id": "a02-concord-40.3-4",
+                "answer": "is"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-5",
+            "label": "5",
+            "parts": [
+              "The stairs leading to the first floor were steep and poorly lit.",
+              {
+                "id": "a02-concord-40.3-5",
+                "answer": "✓"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-6",
+            "label": "6",
+            "parts": [
+              "Chequers is the country house of the British Prime Minister.",
+              {
+                "id": "a02-concord-40.3-6",
+                "answer": "✓"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-7",
+            "label": "7",
+            "parts": [
+              "Whoever made all the mess in the kitchen have to clear it up.",
+              {
+                "id": "a02-concord-40.3-7",
+                "answer": "has"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-8",
+            "label": "8",
+            "parts": [
+              "The phrase ‘men in white coats’ are used to talk about psychiatrists.",
+              {
+                "id": "a02-concord-40.3-8",
+                "answer": "is"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-9",
+            "label": "9",
+            "parts": [
+              "The public needs to be kept informed about progress in the peace talks.",
+              {
+                "id": "a02-concord-40.3-9",
+                "answer": "✓",
+                "note": "‘… need to be kept …’ is also possible."
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "40.3-10",
+            "label": "10",
+            "parts": [
+              "Musical chairs are a party game where everyone dashes for a seat when the music stops.",
+              {
+                "id": "a02-concord-40.3-10",
+                "answer": "is"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      }
+    ],
+    "additional": "➜ Additional exercise 9 (page 245)"
+  },
+  {
+    "unit": 41,
+    "page": 83,
+    "title": "Agreement between subject and verb 2",
+    "sections": [
+      {
+        "id": "41.1",
+        "heading": "Complete each set of sentences using nouns or phrases from (i) and appropriate present simple verb forms (active or passive) from (ii). If singular and plural verb forms are possible, write both.",
+        "reference": "A",
+        "rows": [],
+        "groups": [
+          {
+            "banks": [
+              [
+                "his early paintings",
+                "~~my children~~",
+                "Dr Jones’s acquaintances",
+                "the food"
+              ],
+              [
+                "remain",
+                "~~remember~~",
+                "taste",
+                "know"
+              ]
+            ],
+            "rows": [
+              {
+                "id": "41.1-1a",
+                "label": "1 a",
+                "parts": [
+                  "I’d be surprised if any of ",
+                  {
+                    "id": "a02-concord-41.1-1a-1",
+                    "answer": "my children remember / remembers"
+                  },
+                  " my birthday."
+                ],
+                "kind": "example"
+              },
+              {
+                "id": "41.1-1b",
+                "label": "b",
+                "parts": [
+                  "It’s unlikely that any of ",
+                  {
+                    "id": "a02-concord-41.1-1b-1",
+                    "answer": "his early paintings remains / remain"
+                  },
+                  ". It seems that he destroyed most of the work he produced during the 1930s."
+                ]
+              },
+              {
+                "id": "41.1-1c",
+                "label": "c",
+                "parts": [
+                  "I don’t think any of ",
+                  {
+                    "id": "a02-concord-41.1-1c-1",
+                    "answer": "the food tastes"
+                  },
+                  " particularly good. In fact, the restaurant is rather disappointing."
+                ]
+              },
+              {
+                "id": "41.1-1d",
+                "label": "d",
+                "parts": [
+                  "An investigation is underway to discover whether any of ",
+                  {
+                    "id": "a02-concord-41.1-1d-1",
+                    "answer": "Dr Jones’s acquaintances knows"
+                  },
+                  " where he is."
+                ]
+              }
+            ]
+          },
+          {
+            "banks": [
+              [
+                "vegetarians",
+                "victims",
+                "other museums",
+                "medicines"
+              ],
+              [
+                "exceed",
+                "charge",
+                "expect",
+                "relieve"
+              ]
+            ],
+            "rows": [
+              {
+                "id": "41.1-2a",
+                "label": "2 a",
+                "parts": [
+                  "Mainly because of recent health scares involving beef and chicken, the number of ",
+                  {
+                    "id": "a02-concord-41.1-2a-1",
+                    "answer": "vegetarians is expected"
+                  },
+                  " to rise dramatically in the next five years."
+                ]
+              },
+              {
+                "id": "41.1-2b",
+                "label": "b",
+                "parts": [
+                  "A number of ",
+                  {
+                    "id": "a02-concord-41.1-2b-1",
+                    "answer": "medicines relieve"
+                  },
+                  " the symptoms of influenza, but none can cure it."
+                ]
+              },
+              {
+                "id": "41.1-2c",
+                "label": "c",
+                "parts": [
+                  "It is estimated that the number of ",
+                  {
+                    "id": "a02-concord-41.1-2c-1",
+                    "answer": "victims"
+                  },
+                  " of the flooding ",
+                  {
+                    "id": "a02-concord-41.1-2c-2",
+                    "answer": "exceeds"
+                  },
+                  " 100,000."
+                ]
+              },
+              {
+                "id": "41.1-2d",
+                "label": "d",
+                "parts": [
+                  "You can still go into the National Museum for free, although a number of ",
+                  {
+                    "id": "a02-concord-41.1-2d-1",
+                    "answer": "museums"
+                  },
+                  " in the capital ",
+                  {
+                    "id": "a02-concord-41.1-2d-2",
+                    "answer": "charge"
+                  },
+                  " people for entry."
+                ]
+              }
+            ]
+          },
+          {
+            "banks": [
+              [
+                "player",
+                "these factors",
+                "the cars",
+                "the pieces"
+              ],
+              [
+                "last",
+                "test",
+                "influence",
+                "try"
+              ]
+            ],
+            "rows": [
+              {
+                "id": "41.1-3a",
+                "label": "3 a",
+                "parts": [
+                  "The whole concert includes twenty short items from young musicians. Each of ",
+                  {
+                    "id": "a02-concord-41.1-3a-1",
+                    "answer": "the pieces lasts / last"
+                  },
+                  " about five minutes."
+                ]
+              },
+              {
+                "id": "41.1-3b",
+                "label": "b",
+                "parts": [
+                  "The aim of the game is quite simple. Each ",
+                  {
+                    "id": "a02-concord-41.1-3b-1",
+                    "answer": "player tries"
+                  },
+                  " to buy as many properties on the board as possible."
+                ]
+              },
+              {
+                "id": "41.1-3c",
+                "label": "c",
+                "parts": [
+                  "Each of ",
+                  {
+                    "id": "a02-concord-41.1-3c-1",
+                    "answer": "the cars are / is tested"
+                  },
+                  " for safety, fuel economy and reliability."
+                ]
+              },
+              {
+                "id": "41.1-3d",
+                "label": "d",
+                "parts": [
+                  "There are four major influences on exchange rates: price levels, tariffs, preference for imported goods, and productivity. Here we investigate how each of ",
+                  {
+                    "id": "a02-concord-41.1-3d-1",
+                    "answer": "these factors influence / influences"
+                  },
+                  " the exchange rate."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "41.2",
+        "heading": "Complete the sentences with present simple forms of the verb in brackets. If both singular and plural verb forms are possible, write both.",
+        "reference": "A–D",
+        "rows": [
+          {
+            "id": "41.2-1",
+            "label": "1",
+            "parts": [
+              "Plenty of jobs ",
+              {
+                "id": "a02-concord-41.2-1-1",
+                "answer": "are"
+              },
+              " available, but no one ",
+              {
+                "id": "a02-concord-41.2-1-2",
+                "answer": "wants"
+              },
+              " them because they’re so poorly paid. *(be / want)*"
+            ]
+          },
+          {
+            "id": "41.2-2",
+            "label": "2",
+            "parts": [
+              "The majority of those questioned ",
+              {
+                "id": "a02-concord-41.2-2-1",
+                "answer": "think"
+              },
+              " that the government’s economic policies have failed, although neither the Prime Minister nor the Education Minister ",
+              {
+                "id": "a02-concord-41.2-2-2",
+                "answer": "has",
+                "note": "More likely than ‘have’ in this formal context."
+              },
+              " indicated that these policies will change. *(think / have)*"
+            ]
+          },
+          {
+            "id": "41.2-3",
+            "label": "3",
+            "parts": [
+              "It’s the first time that either of us ",
+              {
+                "id": "a02-concord-41.2-3-1",
+                "answer": "has / have"
+              },
+              " been to China, but everyone we’ve met here ",
+              {
+                "id": "a02-concord-41.2-3-2",
+                "answer": "has"
+              },
+              " been very welcoming and helpful. *(have / have)*"
+            ]
+          },
+          {
+            "id": "41.2-4",
+            "label": "4",
+            "parts": [
+              "Professor Smith and Dr Peters ",
+              {
+                "id": "a02-concord-41.2-4-1",
+                "answer": "claim"
+              },
+              " that the wreck of the ship and its cargo ",
+              {
+                "id": "a02-concord-41.2-4-2",
+                "answer": "constitutes",
+                "note": "More likely than ‘constitute’ as ‘the wreck of the ship and its cargo’ constitute together, as a single item, a danger."
+              },
+              " a danger to local people fishing near the island. *(claim / constitute)*"
+            ]
+          },
+          {
+            "id": "41.2-5",
+            "label": "5",
+            "parts": [
+              "A: Oh, good, sausages and chips ",
+              {
+                "id": "a02-concord-41.2-5-1",
+                "answer": "is / are",
+                "note": "We use ‘is’ if we think of ‘sausages and chips’ as a single item."
+              },
+              " my favourite.\nB: Sorry, all the sausages ",
+              {
+                "id": "a02-concord-41.2-5-2",
+                "answer": "have"
+              },
+              " gone, but there ",
+              {
+                "id": "a02-concord-41.2-5-3",
+                "answer": "are / is"
+              },
+              " plenty of chips left if you want some. *(be / have / be)*"
+            ]
+          }
+        ]
+      }
+    ],
+    "additional": "➜ Additional exercise 9 (page 245)"
+  },
+  {
+    "unit": 42,
+    "page": 85,
+    "title": "Agreement between subject and verb 3",
+    "sections": [
+      {
+        "id": "42.1",
+        "heading": "If necessary, correct the italicised verbs.",
+        "reference": "A & B",
+        "rows": [
+          {
+            "id": "42.1-1",
+            "label": "1",
+            "parts": [
+              "Dr Darsee’s present whereabouts *is* unknown.",
+              {
+                "id": "a02-concord-42.1-1",
+                "answer": "✓",
+                "note": "‘are’ is also possible."
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-2",
+            "label": "2",
+            "parts": [
+              "Phenomena such as sun spots *have* puzzled scientists for centuries.",
+              {
+                "id": "a02-concord-42.1-2",
+                "answer": "✓"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-3",
+            "label": "3",
+            "parts": [
+              "Over the last decade the company’s overheads *has* increased dramatically.",
+              {
+                "id": "a02-concord-42.1-3",
+                "answer": "have"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-4",
+            "label": "4",
+            "parts": [
+              "The research data *was* collected during the period 12th–29th July 2012.",
+              {
+                "id": "a02-concord-42.1-4",
+                "answer": "✓",
+                "note": "‘were’ is also possible."
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-5",
+            "label": "5",
+            "parts": [
+              "Congratulations *goes* to Ricky Branch for his excellent exam results.",
+              {
+                "id": "a02-concord-42.1-5",
+                "answer": "go"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-6",
+            "label": "6",
+            "parts": [
+              "The coastal surroundings of the village *is* particularly attractive.",
+              {
+                "id": "a02-concord-42.1-6",
+                "answer": "are"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-7",
+            "label": "7",
+            "parts": [
+              "He feels that the media *have* criticised him unfairly.",
+              {
+                "id": "a02-concord-42.1-7",
+                "answer": "✓",
+                "note": "‘has’ is also possible."
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-8",
+            "label": "8",
+            "parts": [
+              "Further particulars about the house *is* available from the owner.",
+              {
+                "id": "a02-concord-42.1-8",
+                "answer": "are"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "42.1-9",
+            "label": "9",
+            "parts": [
+              "People *says* the house is haunted.",
+              {
+                "id": "a02-concord-42.1-9",
+                "answer": "say"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      },
+      {
+        "id": "42.2",
+        "heading": "Complete the sentences using suitable present simple verbs.",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "42.2-1",
+            "label": "1",
+            "parts": [
+              "Modern linguistics ",
+              {
+                "id": "a02-concord-42.2-1-1",
+                "answer": "is",
+                "note": "singular"
+              },
+              " often said to have begun at the start of the 20th century."
+            ]
+          },
+          {
+            "id": "42.2-2",
+            "label": "2",
+            "parts": [
+              "I think the Senator’s politics ",
+              {
+                "id": "a02-concord-42.2-2-1",
+                "answer": "are",
+                "note": "plural"
+              },
+              " extremely right-wing."
+            ]
+          },
+          {
+            "id": "42.2-3",
+            "label": "3",
+            "parts": [
+              "If athletics ",
+              {
+                "id": "a02-concord-42.2-3-1",
+                "answer": "is",
+                "note": "singular"
+              },
+              " neglected in schools, this will have a big impact on future national teams."
+            ]
+          },
+          {
+            "id": "42.2-4",
+            "label": "4",
+            "parts": [
+              "Measles ",
+              {
+                "id": "a02-concord-42.2-4-1",
+                "answer": "has",
+                "note": "singular"
+              },
+              " killed a large number of children in the Nagola region."
+            ]
+          },
+          {
+            "id": "42.2-5",
+            "label": "5",
+            "parts": [
+              "Contact us by whatever means ",
+              {
+                "id": "a02-concord-42.2-5-1",
+                "answer": "is",
+                "note": "singular"
+              },
+              " most convenient for you: phone, email or fax."
+            ]
+          },
+          {
+            "id": "42.2-6",
+            "label": "6",
+            "parts": [
+              "Recent statistics ",
+              {
+                "id": "a02-concord-42.2-6-1",
+                "answer": "provide / offer",
+                "note": "plural"
+              },
+              " evidence of a rapid increase in living standards in Asia."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "42.3",
+        "heading": "Complete these extracts from news articles with a singular or plural form of the verbs in brackets. If both singular and plural forms are possible, write both.",
+        "reference": "A–D; also Unit 40",
+        "rows": [
+          {
+            "id": "42.3-1",
+            "label": "1",
+            "parts": [
+              "The outskirts of our cities ",
+              {
+                "id": "a02-concord-42.3-1-1",
+                "answer": "have"
+              },
+              " *(have)* benefited from the new out-of-town shopping centres that ",
+              {
+                "id": "a02-concord-42.3-1-2",
+                "answer": "have"
+              },
+              " *(have)* recently been built. Around a third of the population regularly ",
+              {
+                "id": "a02-concord-42.3-1-3",
+                "answer": "shop / shops"
+              },
+              " *(shop)* out of town."
+            ]
+          },
+          {
+            "id": "42.3-2",
+            "label": "2",
+            "parts": [
+              "On average, 25 litres of water ",
+              {
+                "id": "a02-concord-42.3-2-1",
+                "answer": "is",
+                "note": "‘are’ is also possible, but less likely."
+              },
+              " *(be)* used each day per household and as the population ",
+              {
+                "id": "a02-concord-42.3-2-2",
+                "answer": "expect / expects"
+              },
+              " *(expect)* higher living standards, this figure will rise."
+            ]
+          },
+          {
+            "id": "42.3-3",
+            "label": "3",
+            "parts": [
+              "Some 30% of the office space in London ",
+              {
+                "id": "a02-concord-42.3-3-1",
+                "answer": "is"
+              },
+              " *(be)* presently empty and the Department for Employment ",
+              {
+                "id": "a02-concord-42.3-3-2",
+                "answer": "blames / blame"
+              },
+              " *(blame)* high property prices."
+            ]
+          },
+          {
+            "id": "42.3-4",
+            "label": "4",
+            "parts": [
+              "Three centimetres ",
+              {
+                "id": "a02-concord-42.3-4-1",
+                "answer": "was",
+                "note": "‘were’ is also possible, but less likely."
+              },
+              " *(be)* all that separated the first two runners in last night’s 10,000 metres and the sports club ",
+              {
+                "id": "a02-concord-42.3-4-2",
+                "answer": "has / have"
+              },
+              " *(have)* declared the race a dead-heat."
+            ]
+          },
+          {
+            "id": "42.3-5",
+            "label": "5",
+            "parts": [
+              "The research group now ",
+              {
+                "id": "a02-concord-42.3-5-1",
+                "answer": "admit / admits"
+              },
+              " *(admit)* that the criteria they used ",
+              {
+                "id": "a02-concord-42.3-5-2",
+                "answer": "were"
+              },
+              " *(be)* not totally reliable, and that the figure of 85% ",
+              {
+                "id": "a02-concord-42.3-5-3",
+                "answer": "was"
+              },
+              " *(be)* exaggerated."
+            ]
+          },
+          {
+            "id": "42.3-6",
+            "label": "6",
+            "parts": [
+              "Following last week’s major art theft from the Arcon Art Gallery, the premises ",
+              {
+                "id": "a02-concord-42.3-6-1",
+                "answer": "were"
+              },
+              " *(be)* searched by police last night and the owner’s belongings ",
+              {
+                "id": "a02-concord-42.3-6-2",
+                "answer": "have"
+              },
+              " *(have)* been taken away for further inspection."
+            ]
+          },
+          {
+            "id": "42.3-7",
+            "label": "7",
+            "parts": [
+              "A survey of the opinions of students ",
+              {
+                "id": "a02-concord-42.3-7-1",
+                "answer": "shows"
+              },
+              " *(show)* that economics ",
+              {
+                "id": "a02-concord-42.3-7-2",
+                "answer": "is"
+              },
+              " *(be)* the least popular university subject. However, 90% of the economics students surveyed ",
+              {
+                "id": "a02-concord-42.3-7-3",
+                "answer": "believe"
+              },
+              " *(believe)* that their courses are well taught."
+            ]
+          },
+          {
+            "id": "42.3-8",
+            "label": "8",
+            "parts": [
+              "Sufferers from diabetes ",
+              {
+                "id": "a02-concord-42.3-8-1",
+                "answer": "have"
+              },
+              " *(have)* welcomed the launch by Federex of a new drug to combat the disease. The company ",
+              {
+                "id": "a02-concord-42.3-8-2",
+                "answer": "says / say"
+              },
+              " *(say)* that earnings from the drug ",
+              {
+                "id": "a02-concord-42.3-8-3",
+                "answer": "are"
+              },
+              " *(be)* to be put back into further research."
+            ]
+          }
+        ],
+        "layout": "news"
+      }
+    ],
+    "additional": "➜ Additional exercise 9 (page 245)"
+  }
+]

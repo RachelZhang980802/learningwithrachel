@@ -13,9 +13,26 @@ import { MeaningExamples, splitMeaningLine } from "./MeaningExamples";
 import { CollocationLines } from "./CollocationLines";
 import { WordFamilyReminder } from "./WordFamilyReminder";
 import { toMediaUrl } from "./mediaUrl";
+import { article02PdfVocabulary } from "./article02PdfVocabulary";
+import { article03to05PdfVocabulary } from "./article03to05PdfVocabulary";
+import { article06to08PdfVocabulary } from "./article06to08PdfVocabulary";
+import { article09PdfVocabulary } from "./article09PdfVocabulary";
+import { article10PdfVocabulary } from "./article10PdfVocabulary";
+import curatedWords from "./article02to05CuratedVocabulary.json";
+import article06CuratedWords from "./article06CuratedVocabulary.json";
+import article07CuratedWords from "./article07CuratedVocabulary.json";
+import article08CuratedWords from "./article08CuratedVocabulary.json";
+import article09CuratedWords from "./article09CuratedVocabulary.json";
+import article10CuratedWords from "./article10CuratedVocabulary.json";
+import localAudio from "../public/audio/article-01-words-native/article-02-05-manifest.json";
+import article06LocalAudio from "../public/audio/article-01-words-native/article-06-manifest.json";
+import article07LocalAudio from "../public/audio/article-01-words-native/article-07-manifest.json";
+import article08LocalAudio from "../public/audio/article-01-words-native/article-08-manifest.json";
+import article09LocalAudio from "../public/audio/article-01-words-native/article-09-manifest.json";
+import article10LocalAudio from "../public/audio/article-01-words-native/article-10-manifest.json";
 
-export function LessonVocabularyText({ lesson, sentence, text, selectedRow, onSelect }: {
-  lesson: Lesson; sentence: number; text: string; selectedRow?: number; onSelect: (target: VocabularyTarget) => void;
+export function LessonVocabularyText({ lesson, sentence, text, selectedRow, onSelect, renderWord }: {
+  lesson: Lesson; sentence: number; text: string; selectedRow?: number; onSelect: (target: VocabularyTarget) => void; renderWord?: (text: string) => ReactNode;
 }) {
   const matches = vocabularyMatches(lesson, sentence, text);
   let cursor = 0;
@@ -27,7 +44,7 @@ export function LessonVocabularyText({ lesson, sentence, text, selectedRow, onSe
       aria-pressed={selectedRow === undefined ? undefined : selectedRow === match.sourceRow}
       data-source-row={match.sourceRow} data-sentence={sentence}
       aria-label={`查看 ${match.word} 的词汇卡`}
-      onClick={() => onSelect({ sentence, sourceRow: match.sourceRow })}>{text.slice(match.start, match.end)}</button></Fragment>;
+      onClick={() => onSelect({ sentence, sourceRow: match.sourceRow })}>{renderWord ? renderWord(text.slice(match.start, match.end)) : text.slice(match.start, match.end)}</button></Fragment>;
   });
   return <>{parts}{text.slice(cursor)}</>;
 }
@@ -61,11 +78,11 @@ export function LessonVocabularyTitle({ articleId, text, onSelect }: {
 
 const Lines = ({ values }: { values: string[] }) => <p>{values.map((value, index) => <Fragment key={index}>{index > 0 && <br/>}{value}</Fragment>)}</p>;
 
-function LessonWordAudio({ word }: { word: string }) {
+function LessonWordAudio({ word, localFile }: { word: string; localFile?: string }) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [playing, setPlaying] = useState(false);
   const lookupWord = word.replace(/\b(sth|sb)\.?/gi, "").replace(/[“”‘’]/g, "").trim();
-  const dictionaryAudio = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(lookupWord)}&type=2`;
+  const dictionaryAudio = localFile ?? `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(lookupWord)}&type=2`;
   const play = async () => {
     const audio = audioRef.current;
     if (!audio) return;
@@ -73,7 +90,7 @@ function LessonWordAudio({ word }: { word: string }) {
     audio.currentTime = 0;
     try { await audio.play(); } catch { setPlaying(false); }
   };
-  return <><button type="button" className="word-speak" onClick={play} aria-label={`${playing ? "暂停" : "播放"} ${word} 的词典美式发音`} aria-pressed={playing} title={`播放 ${word} 的词典美式发音`}><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg></button><audio ref={audioRef} preload="none" src={dictionaryAudio} onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)}/></>;
+  return <><button type="button" className="word-speak" onClick={play} aria-label={`${playing ? "暂停" : "播放"} ${word} 的美式发音`} aria-pressed={playing} title={`播放 ${word} 的${localFile ? "本机生成" : "词典"}美式发音`}><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg></button><audio ref={audioRef} preload="none" src={dictionaryAudio} onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)}/></>;
 }
 
 function LessonWordFamilyGame({ values }: { values: string[] }) {
@@ -107,7 +124,76 @@ export function LessonPdfNotes({ sentence, entry }: { sentence: LessonSentence; 
   </section>;
 }
 
+type CuratedWord = {
+  english: string;
+  chinese: string;
+  collocations: string[];
+  compare: string[];
+  usage: string;
+  ipa: string;
+  partOfSpeech: string;
+  image?: string;
+  oxfordExcerptProvided: boolean;
+  articleExample: string;
+  dictionaryExample?: { english: string; chinese: string; source: string } | null;
+  otherMeanings: { english: string; chinese: string; exampleEnglish?: string; exampleChinese?: string }[];
+  otherMeaningsStatus: "present" | "none_in_excerpt" | "missing_source";
+  sourceCaveat?: string;
+  contextBySentence?: Record<string, Partial<Pick<CuratedWord, "english" | "chinese" | "collocations" | "compare" | "usage" | "dictionaryExample" | "otherMeanings" | "sourceCaveat">>>;
+};
+
+function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesson; sentence: LessonSentence; initialSourceRow?: number }) {
+  const pdfWords = lesson.articleId === "02" ? article02PdfVocabulary : lesson.articleId === "09" ? article09PdfVocabulary : lesson.articleId === "10" ? article10PdfVocabulary : (article03to05PdfVocabulary[lesson.articleId] ?? article06to08PdfVocabulary[lesson.articleId] ?? []);
+  const entries = pdfWords.filter(word => word.occurrences.includes(sentence.id));
+  const [selected, setSelected] = useState(() => Math.max(0, entries.findIndex(word => word.sourceRow === initialSourceRow)));
+  const entry = entries[selected] ?? entries[0];
+  const badge = <SentenceBadge sentence={sentence.id} entry={sentence.classification} compact/>;
+  if (!entry) return <div className="word-workspace"><div className="word-context">{badge}{sentence.text}</div><div className="word-empty"><h2>Words</h2><p>{["09", "10"].includes(lesson.articleId) ? "这句没有已标记的词语。" : "这句没有讲义中明确解释的生词。"}</p></div></div>;
+  const baseCurated = ({ ...curatedWords, ...article06CuratedWords, ...article07CuratedWords, ...article08CuratedWords, ...article09CuratedWords, ...article10CuratedWords } as Record<string, Record<string, CuratedWord>>)[lesson.articleId]?.[String(entry.sourceRow)];
+  const contextual = baseCurated?.contextBySentence?.[String(sentence.id)];
+  const curated = baseCurated && contextual ? { ...baseCurated, ...contextual } : baseCurated;
+  const recording = ({ ...localAudio, ...article06LocalAudio, ...article07LocalAudio, ...article08LocalAudio, ...article09LocalAudio, ...article10LocalAudio } as Record<string, Record<string, { file: string }>>)[lesson.articleId]?.[String(entry.sourceRow)];
+  const pending = (heading: string) => <div className="word-related"><section><h3>{heading}</h3><p className="study-pending">{["06", "07"].includes(lesson.articleId) ? "已收到你提供的词典资料，正在逐词核对整理。" : "等待你提供词典资料后整理。"}</p></section></div>;
+  const cards: WordFileCard[] = [
+    { id: "meaning", title: "Word & meaning", subtitle: "词义与发音", content: curated ? <section className="word-primary">
+      <h2>{entry.word}</h2>{lesson.vocabulary.find(word => word.sourceRow === entry.sourceRow)?.titleOnly && <small>Title word · 标题词汇</small>}
+      <div className="word-pronunciation">{curated.partOfSpeech && <span>{curated.partOfSpeech}</span>}{curated.ipa && <span>{curated.ipa}</span>}<LessonWordAudio word={entry.word} localFile={recording?.file}/></div>
+      <section className="word-context-meaning">
+        <h3>Meaning in context · 语境词义</h3>
+        <p className="word-definition word-definition-en" lang="en">{curated.english}</p>
+        <p className="word-definition word-definition-zh" lang="zh-CN">{curated.chinese}</p>
+        {curated.dictionaryExample && <details className="word-context-example">
+          <summary>Oxford example · 牛津例句</summary>
+          <div className="word-context-example-answer">
+            <p lang="en">{curated.dictionaryExample.english}</p>
+            <p lang="zh-CN">{curated.dictionaryExample.chinese}</p>
+            <small>{curated.dictionaryExample.source}</small>
+          </div>
+        </details>}
+      </section>
+      {curated.image && <a className="word-picture" href={curated.image} target="_blank" rel="noopener noreferrer" aria-label={`查看 ${entry.word} 原图`}><img src={curated.image} alt={`${entry.word} · 词汇配图`} loading="lazy"/><span>↗ 查看原图</span></a>}
+      {curated.otherMeanings.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={curated.otherMeanings} useCatalog={false}/></section>}
+      {curated.sourceCaveat ? <p className="study-pending">{curated.sourceCaveat}</p> : !curated.oxfordExcerptProvided && <p className="study-pending">此短语所在行未单独附词典原文；释义按文章语境整理，不能标为牛津词典已核实。</p>}
+      {curated.otherMeaningsStatus === "missing_source" && <p className="study-pending">其他义项尚无可核对的词典原文。</p>}
+    </section> : <section className="word-primary"><h2>{entry.word}</h2><section className="word-context-meaning"><h3>Meaning in context · 语境词义</h3><p className="word-definition study-pending">{lesson.articleId === "06" ? "词义和音标正在依据已提供的词典资料核对；图片待补充。" : "词义、音标和图片待你提供。"}</p></section><p className="study-pending">{["09", "10"].includes(lesson.articleId) ? `讲义第 ${entry.pdfPages.join("、")} 页的原文词语；词义待核对。` : `已在讲义第 ${entry.pdfPages.join("、")} 页找到对应讲解。`}</p></section> },
+    { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section></div> : pending("Collocations · 搭配") },
+    { id: "compare", title: "Compare", subtitle: "近义辨析", content: curated ? <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={curated.compare}/></section></div> : pending("Compare · 近义辨析") },
+    { id: "usage", title: "Usage note", subtitle: "用法提醒", content: curated ? <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{curated.usage}</p></section></div> : pending("Usage note · 用法提醒") },
+    { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3><p className="word-press-placeholder">外刊例句待补充。</p></section> },
+  ];
+  return <div className="word-workspace" data-source-row={entry.sourceRow}>
+    <nav className="word-picker" aria-label="本句词条"><span>{entries.length} {entries.length === 1 ? "ENTRY" : "ENTRIES"}</span>{entries.map((word, index) => <button type="button" key={word.sourceRow} aria-pressed={index === selected} onClick={() => setSelected(index)}>{word.word}</button>)}</nav>
+    <div className="word-context">{badge}<LessonVocabularyText lesson={lesson} sentence={sentence.id} text={lesson.vocabulary.find(word => word.sourceRow === entry.sourceRow)?.titleOnly ? lesson.title : sentence.text} selectedRow={entry.sourceRow} onSelect={({ sourceRow }) => setSelected(entries.findIndex(word => word.sourceRow === sourceRow))}/></div>
+    <WordFileDesk key={entry.sourceRow} cards={cards} panelId={`word-file-panel-${lesson.articleId}-${entry.sourceRow}`}/>
+  </div>;
+}
+
 export function LessonWords({ lesson, sentence, initialSourceRow }: { lesson: Lesson; sentence: LessonSentence; initialSourceRow?: number }) {
+  if (["02", "03", "04", "05", "06", "07", "08", "09", "10"].includes(lesson.articleId)) return <PendingPdfWords lesson={lesson} sentence={sentence} initialSourceRow={initialSourceRow}/>;
+  return <PopulatedLessonWords lesson={lesson} sentence={sentence} initialSourceRow={initialSourceRow}/>;
+}
+
+function PopulatedLessonWords({ lesson, sentence, initialSourceRow }: { lesson: Lesson; sentence: LessonSentence; initialSourceRow?: number }) {
   const entries = lesson.vocabulary.filter(word => word.occurrences.includes(sentence.id));
   const [selected, setSelected] = useState(() => Math.max(0, entries.findIndex(word => word.sourceRow === initialSourceRow)));
   const entry = entries[selected] ?? entries[0];
@@ -187,7 +273,7 @@ function RevealCard({ title, subtitle, prompt, children }: { title: string; subt
 export function LessonStructure({ sentence }: { sentence: LessonSentence }) {
   return <div className="notebook-structure">
     <RevealCard title="CLAUSE ARCHITECTURE" subtitle="Main and Subordinate Units" prompt="先找主句，再判断哪些结构从属于它。">
-      <StructureDiagram parts={asPairs(sentence.functions)} clauses={asPairs(sentence.clauses)} clauseChinese={lessonClauseChinese} functionEnglish={lessonFunctionEnglish} functionClass={functionRole}/>
+      <StructureDiagram englishOnly={sentence.structureEnglishOnly} nodes={sentence.structureNodes} parts={asPairs(sentence.functions)} clauses={asPairs(sentence.clauses)} clauseChinese={lessonClauseChinese} functionEnglish={lessonFunctionEnglish} functionClass={functionRole}/>
       <p className="notebook-analysis-note">{sentence.note}</p>
       <LessonPdfNotes sentence={sentence} entry="grammar"/>
     </RevealCard>

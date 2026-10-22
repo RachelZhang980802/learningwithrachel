@@ -68,7 +68,9 @@ function domPath(node: HTMLElement, root: HTMLElement) {
     parts.unshift(`${current.tagName.toLowerCase()}${index}`);
     current = current.parentElement;
   }
-  const scope = root.firstElementChild?.className || "page";
+  const pageScope = root.firstElementChild?.className || "page";
+  const publicationTitle = root.querySelector<HTMLElement>("article.inquire-publication h1")?.textContent?.trim();
+  const scope = publicationTitle ? `${pageScope}|${publicationTitle}` : pageScope;
   const sentence = node.closest<HTMLElement>("[data-sentence-id]")?.dataset.sentenceId || "";
   return `${scope}|${sentence}|${parts.join("/")}`;
 }
@@ -94,7 +96,7 @@ export function EditableTextLayer({ children }: { children: ReactNode }) {
   const [addOpen, setAddOpen] = useState(false);
   const [noteDraft, setNoteDraft] = useState("");
   const [saving, setSaving] = useState(false);
-  const saveTimer = useRef<ReturnType<typeof window.setTimeout> | null>(null);
+  const saveTimer = useRef<number | null>(null);
 
   const scan = useCallback(() => {
     const root = rootRef.current;
@@ -135,6 +137,13 @@ export function EditableTextLayer({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     const savedEdits = readStored<StoredEdits>(EDITS_KEY, {});
+    // A legacy path-only edit accidentally moved this transcript line to the
+    // top of another publication. Remove that stale override while preserving
+    // the user's other locally saved edits.
+    Object.keys(savedEdits).forEach((key) => {
+      if (savedEdits[key] === "Orange 1: Me and my boyfriend always have Monday Funday.") delete savedEdits[key];
+    });
+    writeStored(EDITS_KEY, savedEdits);
     const savedNotes = readStored<string[]>(NOTES_KEY, []);
     editsRef.current = savedEdits;
     setEdits(savedEdits);

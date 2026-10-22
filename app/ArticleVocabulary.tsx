@@ -1,5 +1,5 @@
 "use client";
-import { Fragment } from "react";
+import { Fragment, type ReactNode } from "react";
 import vocabulary from "./article01Vocabulary.json";
 
 export type VocabularyTarget = { sentence: number; sourceRow: number };
@@ -25,12 +25,12 @@ export function vocabularyMatches(text: string, sentence: number) {
   }
   return matches.sort((a,b) => a.start-b.start || b.end-a.end).filter((match,index,all) => !all.slice(0,index).some(previous => previous.end > match.start && previous.start <= match.start));
 }
-export function VocabularyText({ text, sentence, onSelect, selectedRow }: { text: string; sentence: number; onSelect: (target: VocabularyTarget) => void; selectedRow?: number }) {
+export function VocabularyText({ text, sentence, onSelect, selectedRow, renderWord }: { text: string; sentence: number; onSelect: (target: VocabularyTarget) => void; selectedRow?: number; renderWord?: (text: string) => ReactNode }) {
   const matches = vocabularyMatches(text, sentence);
   let offset = 0;
   return <>{matches.map(match => {
     const before = text.slice(offset, match.start); offset = match.end;
-    return <Fragment key={`${match.start}-${match.sourceRow}`}>{before}<button type="button" className="vocabulary-highlight" aria-label={`查看词汇 ${match.word.trim()}`} aria-pressed={selectedRow === undefined ? undefined : selectedRow === match.sourceRow} onClick={() => onSelect({ sentence, sourceRow: match.sourceRow })}>{text.slice(match.start, match.end)}</button></Fragment>;
+    return <Fragment key={`${match.start}-${match.sourceRow}`}>{before}<button type="button" className="vocabulary-highlight" aria-label={`查看词汇 ${match.word.trim()}`} aria-pressed={selectedRow === undefined ? undefined : selectedRow === match.sourceRow} onClick={() => onSelect({ sentence, sourceRow: match.sourceRow })}>{renderWord ? renderWord(text.slice(match.start, match.end)) : text.slice(match.start, match.end)}</button></Fragment>;
   })}{text.slice(offset)}</>;
 }
 export function VocabularyParagraph({ text, sentenceStart, onSelect }: { text: string; sentenceStart: number; onSelect: (target: VocabularyTarget) => void }) {

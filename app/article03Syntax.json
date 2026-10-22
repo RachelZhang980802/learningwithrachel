@@ -1,0 +1,4588 @@
+{
+  "1": {
+    "text": "I came rather late to understanding myself in the cycle of life.",
+    "lessonText": "I came rather late to understanding myself in the cycle of life.",
+    "paragraphStart": 0,
+    "paragraphEnd": 64,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Adverbial",
+        "rather late "
+      ],
+      [
+        "Complement",
+        "to understanding myself in the cycle of life."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 64,
+        "anchorEnd": 0,
+        "text": "I came rather late to understanding myself in the cycle of life."
+      }
+    ],
+    "notes": [
+      "come late to + 名词／-ing 表示很晚才接触或理解某事；to 是介词。不能套成“事情发展到不得不……”的 come to doing。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "came",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "Until three years ago, I was a boy in relation to my grandfather.",
+    "lessonText": "Until three years ago, I was a boy in relation to my grandfather.",
+    "paragraphStart": 65,
+    "paragraphEnd": 130,
+    "functions": [
+      [
+        "Adverbial",
+        "Until three years ago, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a boy "
+      ],
+      [
+        "Adverbial",
+        "in relation to my grandfather."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 65,
+        "anchorEnd": 0,
+        "text": "Until three years ago, I was a boy in relation to my grandfather."
+      }
+    ],
+    "notes": [
+      "until 标明这种身份感持续到三年前。不是说作者实际年龄仍未成年，也不只是在转述祖父的看法。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 28,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "He lived to 107 and remained mentally and physically capable until the end of his life.",
+    "lessonText": "He lived to 107 and remained mentally and physically capable until the end of his life.",
+    "paragraphStart": 131,
+    "paragraphEnd": 218,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "lived "
+      ],
+      [
+        "Complement",
+        "to 107 "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Linking verb",
+        "remained "
+      ],
+      [
+        "Predicative",
+        "mentally and physically capable "
+      ],
+      [
+        "Adverbial",
+        "until the end of his life."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 87,
+        "anchorEnd": 0,
+        "text": "He lived to 107 and remained mentally and physically capable until the end of his life."
+      }
+    ],
+    "notes": [
+      "同一 He 支配 lived 和 remained，按第一篇标准归简单句。mentally 和 physically 修饰 capable；to 107 表达到的年龄。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "lived",
+        "role": "main"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "remained",
+        "role": "main"
+      }
+    ]
+  },
+  "4": {
+    "text": "A generation after the last of his friends died, he could still mow the lawn on a hot summer afternoon, and he insisted on doing so.",
+    "lessonText": "A generation after the last of his friends died, he could still mow the lawn on a hot summer afternoon, and he insisted on doing so.",
+    "paragraphStart": 219,
+    "paragraphEnd": 351,
+    "functions": [
+      [
+        "Temporal modifier",
+        "A generation "
+      ],
+      [
+        "Subordinator",
+        "after "
+      ],
+      [
+        "Subject",
+        "the last of his friends "
+      ],
+      [
+        "Predicate",
+        "died, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Adverbial",
+        "still "
+      ],
+      [
+        "Predicate",
+        "mow "
+      ],
+      [
+        "Object",
+        "the lawn "
+      ],
+      [
+        "Adverbial",
+        "on a hot summer afternoon, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "insisted "
+      ],
+      [
+        "Complement",
+        "on doing so."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 104,
+        "anchorEnd": 0,
+        "text": "A generation after the last of his friends died, he could still mow the lawn on a hot summer afternoon, "
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 49,
+        "anchorEnd": 18,
+        "text": "A generation after the last of his friends died, "
+      },
+      {
+        "kind": "main",
+        "start": 104,
+        "end": 132,
+        "anchorEnd": 104,
+        "text": "and he insisted on doing so."
+      }
+    ],
+    "notes": [
+      "A generation 是 after 前的时距修饰。after 后有 died 的限定分句。doing so 指修剪草坪；insist on 后用 -ing。",
+      "A generation 是 after 时间从句的时间量修饰，连同从句一起展示；could、mow 分开着色，still 保持副词身份。"
+    ],
+    "predicates": [
+      {
+        "start": 43,
+        "end": 47,
+        "text": "died",
+        "role": "sub"
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "could",
+        "role": "main"
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "mow",
+        "role": "main"
+      },
+      {
+        "start": 111,
+        "end": 119,
+        "text": "insisted",
+        "role": "main"
+      }
+    ]
+  },
+  "5": {
+    "text": "I usually wrestled the mower from his grip, but his extraordinary energy I took for granted.",
+    "lessonText": "I usually wrestled the mower from his grip, but his extraordinary energy I took for granted.",
+    "paragraphStart": 352,
+    "paragraphEnd": 444,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "usually "
+      ],
+      [
+        "Predicate",
+        "wrestled "
+      ],
+      [
+        "Object",
+        "the mower "
+      ],
+      [
+        "Adverbial",
+        "from his grip, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Object",
+        "his extraordinary energy "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Complement",
+        "for granted."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "I usually wrestled the mower from his grip, "
+      },
+      {
+        "kind": "main",
+        "start": 44,
+        "end": 92,
+        "anchorEnd": 44,
+        "text": "but his extraordinary energy I took for granted."
+      }
+    ],
+    "notes": [
+      "第二主句是宾语前置：I took his extraordinary energy for granted。energy 不是主语；不能译出原文没有的“我夺不走他的精力”。",
+      "第二主句将宾语 his extraordinary energy 前置，I 仍为主语；不能按词序把 energy 误标成主语。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 18,
+        "text": "wrestled",
+        "role": "main"
+      },
+      {
+        "start": 75,
+        "end": 79,
+        "text": "took",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "I had seen it all my life; he was my roommate.",
+    "lessonText": "I had seen it all my life; he was my roommate.",
+    "paragraphStart": 445,
+    "paragraphEnd": 491,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had seen "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "all my life; "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "my roommate."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 0,
+        "text": "I had seen it all my life; "
+      },
+      {
+        "kind": "main",
+        "start": 27,
+        "end": 46,
+        "anchorEnd": 27,
+        "text": "he was my roommate."
+      }
+    ],
+    "notes": [
+      "分号连接两个独立主句。it 指祖父的精力。过去完成时回望已持续很久的经历。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 10,
+        "text": "had seen",
+        "role": "main"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "7": {
+    "text": "At my birth he was 64, middle age to him, and he was not a gentle old soul.",
+    "lessonText": "At my birth he was 64, middle age to him, and he was not a gentle old soul.",
+    "paragraphStart": 0,
+    "paragraphEnd": 75,
+    "functions": [
+      [
+        "Adverbial",
+        "At my birth "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "64, "
+      ],
+      [
+        "Apposition",
+        "middle age to him, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicative",
+        "a gentle old soul."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "At my birth he was 64, middle age to him, "
+      },
+      {
+        "kind": "main",
+        "start": 42,
+        "end": 75,
+        "anchorEnd": 42,
+        "text": "and he was not a gentle old soul."
+      }
+    ],
+    "notes": [
+      "middle age to him 补充说明“64 岁”意味着什么，没有独立谓语。soul 指人，不是字面“灵魂”。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 18,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "8": {
+    "text": "He argued with the men in the synagogue, screamed at his fellows in the bakery where he worked until his mid-80s.",
+    "lessonText": "He argued with the men in the synagogue, screamed at his fellows in the bakery where he worked until his mid-80s.",
+    "paragraphStart": 76,
+    "paragraphEnd": 189,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "argued "
+      ],
+      [
+        "Complement",
+        "with the men "
+      ],
+      [
+        "Adverbial",
+        "in the synagogue, "
+      ],
+      [
+        "Predicate",
+        "screamed "
+      ],
+      [
+        "Complement",
+        "at his fellows "
+      ],
+      [
+        "Adverbial",
+        "in the bakery "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "worked "
+      ],
+      [
+        "Adverbial",
+        "until his mid-80s."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 113,
+        "anchorEnd": 0,
+        "text": "He argued with the men in the synagogue, screamed at his fellows in the bakery where he worked until his mid-80s."
+      },
+      {
+        "kind": "relative",
+        "start": 79,
+        "end": 113,
+        "anchorEnd": 84,
+        "text": "where he worked until his mid-80s.",
+        "antecedent": "the bakery"
+      }
+    ],
+    "notes": [
+      "argued 和 screamed 共用 He，作者省略 and 加快节奏。where 修饰 bakery，不指 synagogue；until his mid-80s 指八十五岁上下，并非精确年龄。",
+      "argued 与 screamed 共享 He；where 从句仅修饰 bakery。until his mid-80s 是时间短语，不另建从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 9,
+        "text": "argued",
+        "role": "main"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "text": "screamed",
+        "role": "main"
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "worked",
+        "role": "sub"
+      }
+    ]
+  },
+  "9": {
+    "text": "He was a lover of strife, even at a distance.",
+    "lessonText": "He was a lover of strife, even at a distance.",
+    "paragraphStart": 190,
+    "paragraphEnd": 235,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a lover of strife, "
+      ],
+      [
+        "Adverbial",
+        "even at a distance."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 0,
+        "text": "He was a lover of strife, even at a distance."
+      }
+    ],
+    "notes": [
+      "even at a distance 是介词短语；中文可顺译为小句，但不能反过来据译文判定英文有从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "For war news he turned up the volume on the television.",
+    "lessonText": "For war news he turned up the volume on the television.",
+    "paragraphStart": 236,
+    "paragraphEnd": 291,
+    "functions": [
+      [
+        "Adverbial",
+        "For war news "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "turned up "
+      ],
+      [
+        "Object",
+        "the volume on the television."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "For war news he turned up the volume on the television."
+      }
+    ],
+    "notes": [
+      "turn up 表调高。for war news 是前置介词短语，并没有 when 引导的限定从句。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 25,
+        "text": "turned up",
+        "role": "main"
+      }
+    ]
+  },
+  "11": {
+    "text": "We never had to take care of each other, but as I learned to read, I voluntarily became his teacher.",
+    "lessonText": "We never had to take care of each other, but as I learned to read, I voluntarily became his teacher.",
+    "paragraphStart": 0,
+    "paragraphEnd": 100,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Negation",
+        "never "
+      ],
+      [
+        "Predicate",
+        "had to take "
+      ],
+      [
+        "Object",
+        "care "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Object",
+        "each other, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "learned "
+      ],
+      [
+        "Infinitival complement",
+        "to read, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "voluntarily "
+      ],
+      [
+        "Linking verb",
+        "became "
+      ],
+      [
+        "Predicative",
+        "his teacher."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 41,
+        "anchorEnd": 0,
+        "text": "We never had to take care of each other, "
+      },
+      {
+        "kind": "main",
+        "start": 41,
+        "end": 100,
+        "anchorEnd": 41,
+        "text": "but as I learned to read, I voluntarily became his teacher."
+      },
+      {
+        "kind": "time",
+        "start": 45,
+        "end": 67,
+        "anchorEnd": 47,
+        "text": "as I learned to read, "
+      }
+    ],
+    "notes": [
+      "as 表时间，不是原因。never had to 表从无必要，不是“禁止互相照顾”。",
+      "as 明确按 Time clause 处理；never 是否定副词，had to take 是谓语链，care 为名词宾语，of 引出照顾对象。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 20,
+        "text": "had to take",
+        "role": "main"
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "text": "learned",
+        "role": "sub"
+      },
+      {
+        "start": 81,
+        "end": 87,
+        "text": "became",
+        "role": "main"
+      }
+    ]
+  },
+  "12": {
+    "text": "My grandfather came to the United States from Lithuania before World War I.",
+    "lessonText": "My grandfather came to the United States from Lithuania before World War I.",
+    "paragraphStart": 101,
+    "paragraphEnd": 176,
+    "functions": [
+      [
+        "Subject",
+        "My grandfather "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Complement",
+        "to the United States "
+      ],
+      [
+        "Adverbial",
+        "from Lithuania "
+      ],
+      [
+        "Adverbial",
+        "before World War I."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 75,
+        "anchorEnd": 0,
+        "text": "My grandfather came to the United States from Lithuania before World War I."
+      }
+    ],
+    "notes": [
+      "before 后是战争名称，不是从句。to 与 from 分别表示目的地和出发地。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 19,
+        "text": "came",
+        "role": "main"
+      }
+    ]
+  },
+  "13": {
+    "text": "He went to night school, could read and write English.",
+    "lessonText": "He went to night school, could read and write English.",
+    "paragraphStart": 177,
+    "paragraphEnd": 231,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "went "
+      ],
+      [
+        "Complement",
+        "to night school, "
+      ],
+      [
+        "Predicate",
+        "could read "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "write "
+      ],
+      [
+        "Object",
+        "English."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "He went to night school, could read and write English."
+      }
+    ],
+    "notes": [
+      "两个谓语共用主语 He，逗号替代常规 and，具有简短叙事节奏。read 与 write 又共享 could 和宾语 English。",
+      "went、could read、write 为同一主句的并列谓语；read 与 write 共享 could，and 单独作为连接词。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "went",
+        "role": "main"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "text": "could read",
+        "role": "main"
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "text": "write",
+        "role": "main"
+      }
+    ]
+  },
+  "14": {
+    "text": "Still, I, the emissary of elementary school, considered it my duty to inform him about subtle things like electricity as he got ready for bed after a 12-hour workday.",
+    "lessonText": "Still, I, the emissary of elementary school, considered it my duty to inform him about subtle things like electricity as he got ready for bed after a 12-hour workday.",
+    "paragraphStart": 232,
+    "paragraphEnd": 398,
+    "functions": [
+      [
+        "Adverbial",
+        "Still, "
+      ],
+      [
+        "Subject",
+        "I, "
+      ],
+      [
+        "Apposition",
+        "the emissary of elementary school, "
+      ],
+      [
+        "Predicate",
+        "considered "
+      ],
+      [
+        "Formal object",
+        "it "
+      ],
+      [
+        "Object complement",
+        "my duty "
+      ],
+      [
+        "Postposed infinitival object",
+        "to inform him about subtle things like electricity "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "got "
+      ],
+      [
+        "Predicative",
+        "ready "
+      ],
+      [
+        "Complement",
+        "for bed "
+      ],
+      [
+        "Adverbial",
+        "after a 12-hour workday."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 166,
+        "anchorEnd": 0,
+        "text": "Still, I, the emissary of elementary school, considered it my duty to inform him about subtle things like electricity as he got ready for bed after a 12-hour workday."
+      },
+      {
+        "kind": "time",
+        "start": 118,
+        "end": 166,
+        "anchorEnd": 120,
+        "text": "as he got ready for bed after a 12-hour workday."
+      }
+    ],
+    "notes": [
+      "considered it my duty to…：it 是形式宾语，my duty 为宾补，to inform… 是后置的真正宾语。as 引出时间背景。大词 emissary 与小学身份形成自嘲。",
+      "it 为形式宾语，my duty 为 Object complement；to inform… 为后置不定式宾语。as 时间从句中的 got 为系动词，ready 为表语。"
+    ],
+    "predicates": [
+      {
+        "start": 45,
+        "end": 55,
+        "text": "considered",
+        "role": "main"
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "text": "got",
+        "role": "sub"
+      }
+    ]
+  },
+  "15": {
+    "text": "He was not too interested in my lectures.",
+    "lessonText": "He was not too interested in my lectures.",
+    "paragraphStart": 0,
+    "paragraphEnd": 41,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "not too interested "
+      ],
+      [
+        "Complement",
+        "in my lectures."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 41,
+        "anchorEnd": 0,
+        "text": "He was not too interested in my lectures."
+      }
+    ],
+    "notes": [
+      "be interested in 为形容词结构。not too 在此是“并不很”，不是“不能过于”。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "16": {
+    "text": "Within minutes, he fell into a deep sleep.",
+    "lessonText": "Within minutes, he fell into a deep sleep.",
+    "paragraphStart": 42,
+    "paragraphEnd": 84,
+    "functions": [
+      [
+        "Adverbial",
+        "Within minutes, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "fell "
+      ],
+      [
+        "Complement",
+        "into a deep sleep."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "Within minutes, he fell into a deep sleep."
+      }
+    ],
+    "notes": [
+      "within minutes 表很短时间内。fall into a sleep 描述进入睡眠，不是跌进某个物理空间。"
+    ],
+    "predicates": [
+      {
+        "start": 19,
+        "end": 23,
+        "text": "fell",
+        "role": "main"
+      }
+    ]
+  },
+  "17": {
+    "text": "His characteristic snoring pattern was a muted whistle that ended in a great puff of breath.",
+    "lessonText": "His characteristic snoring pattern was a muted whistle that ended in a great puff of breath.",
+    "paragraphStart": 85,
+    "paragraphEnd": 177,
+    "functions": [
+      [
+        "Subject",
+        "His characteristic snoring pattern "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a muted whistle "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "ended "
+      ],
+      [
+        "Complement",
+        "in a great puff of breath."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 92,
+        "anchorEnd": 0,
+        "text": "His characteristic snoring pattern was a muted whistle that ended in a great puff of breath."
+      },
+      {
+        "kind": "relative",
+        "start": 55,
+        "end": 92,
+        "anchorEnd": 59,
+        "text": "that ended in a great puff of breath.",
+        "antecedent": "a muted whistle"
+      }
+    ],
+    "notes": [
+      "that 指 whistle／这个鼾声模式，在从句中作主语。snoring 为名词性定语，不能当作另一个谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 35,
+        "end": 38,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "text": "ended",
+        "role": "sub"
+      }
+    ]
+  },
+  "18": {
+    "text": "But even asleep there was nothing gentle about this man.",
+    "lessonText": "But even asleep there was nothing gentle about this man.",
+    "paragraphStart": 178,
+    "paragraphEnd": 234,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Focusing adverb",
+        "even "
+      ],
+      [
+        "Predicative",
+        "asleep "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Notional subject",
+        "nothing gentle "
+      ],
+      [
+        "Adverbial",
+        "about this man."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 56,
+        "anchorEnd": 0,
+        "text": "But even asleep there was nothing gentle about this man."
+      },
+      {
+        "kind": "reduced-concessive",
+        "start": 4,
+        "end": 16,
+        "anchorEnd": 8,
+        "text": "even asleep ",
+        "restoration": "when he was"
+      }
+    ],
+    "notes": [
+      "gentle 后置修饰不定代词 nothing。even asleep 可理解为 even when he was asleep，本文没有写出限定谓语，按教学分流仍归简单句并提示省略。",
+      "even asleep 使用中性的 Reduced concessive clause；when he was 仅在 Ellipsis 中说明，不加入原文或谓语着色。"
+    ],
+    "predicates": [
+      {
+        "start": 22,
+        "end": 25,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "19": {
+    "text": "He specialized in hating his enemies, even those long dead.",
+    "lessonText": "He specialized in hating his enemies, even those long dead.",
+    "paragraphStart": 235,
+    "paragraphEnd": 294,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "specialized "
+      ],
+      [
+        "Complement",
+        "in hating his enemies, "
+      ],
+      [
+        "Supplement",
+        "even those long dead."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 59,
+        "anchorEnd": 0,
+        "text": "He specialized in hating his enemies, even those long dead."
+      }
+    ],
+    "notes": [
+      "specialize in 后接 -ing。those 指 enemies；long dead 是形容词后置修饰，不是完整定语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 14,
+        "text": "specialized",
+        "role": "main"
+      }
+    ]
+  },
+  "20": {
+    "text": "As he talked in his sleep, he exploded in anger.",
+    "lessonText": "As he talked in his sleep, he exploded in anger.",
+    "paragraphStart": 295,
+    "paragraphEnd": 343,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "talked "
+      ],
+      [
+        "Adverbial",
+        "in his sleep, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "exploded "
+      ],
+      [
+        "Adverbial",
+        "in anger."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 48,
+        "anchorEnd": 0,
+        "text": "As he talked in his sleep, he exploded in anger."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 2,
+        "text": "As he talked in his sleep, "
+      }
+    ],
+    "notes": [
+      "as 表伴随的时间。exploded 为比喻性的情绪爆发，不是身体或物体爆炸。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "talked",
+        "role": "sub"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "text": "exploded",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "From his dreams I learned the curse words of English and Yiddish.",
+    "lessonText": "From his dreams I learned the curse words of English and Yiddish.",
+    "paragraphStart": 344,
+    "paragraphEnd": 409,
+    "functions": [
+      [
+        "Adverbial",
+        "From his dreams "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "learned "
+      ],
+      [
+        "Object",
+        "the curse words of English and Yiddish."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 65,
+        "anchorEnd": 0,
+        "text": "From his dreams I learned the curse words of English and Yiddish."
+      }
+    ],
+    "notes": [
+      "and 连接两种语言名。dreams 通过语境指梦中说的话，不是作者直接进入祖父的梦境。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 25,
+        "text": "learned",
+        "role": "main"
+      }
+    ]
+  },
+  "22": {
+    "text": "Cushioned by his puffs of breath, visions of destruction crowded our room.",
+    "lessonText": "Cushioned by his puffs of breath, visions of destruction crowded our room.",
+    "paragraphStart": 410,
+    "paragraphEnd": 484,
+    "functions": [
+      [
+        "Adverbial",
+        "Cushioned by his puffs of breath, "
+      ],
+      [
+        "Subject",
+        "visions of destruction "
+      ],
+      [
+        "Predicate",
+        "crowded "
+      ],
+      [
+        "Object",
+        "our room."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "Cushioned by his puffs of breath, visions of destruction crowded our room."
+      }
+    ],
+    "notes": [
+      "Cushioned 的逻辑主语是 visions；过去分词表达被托载或包裹的关系。crowded 是主句谓语。这是意象描写，不是房间真出现灾难。",
+      "Cushioned by… 为过去分词附加语，其逻辑主语是 visions of destruction；本句唯一限定谓语为 crowded。"
+    ],
+    "predicates": [
+      {
+        "start": 57,
+        "end": 64,
+        "text": "crowded",
+        "role": "main"
+      }
+    ]
+  },
+  "23": {
+    "text": "Boils sprouted on the intestines of his enemies.",
+    "lessonText": "Boils sprouted on the intestines of his enemies.",
+    "paragraphStart": 485,
+    "paragraphEnd": 533,
+    "functions": [
+      [
+        "Subject",
+        "Boils "
+      ],
+      [
+        "Predicate",
+        "sprouted "
+      ],
+      [
+        "Adverbial",
+        "on the intestines of his enemies."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 48,
+        "anchorEnd": 0,
+        "text": "Boils sprouted on the intestines of his enemies."
+      }
+    ],
+    "notes": [
+      "Boils 是名词“疖／脓疮”，不是 boil“沸腾”的动词形式。承接梦中诅咒，不当作医学陈述。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 14,
+        "text": "sprouted",
+        "role": "main"
+      }
+    ]
+  },
+  "24": {
+    "text": "Cholera depopulated their villages.",
+    "lessonText": "Cholera depopulated their villages.",
+    "paragraphStart": 534,
+    "paragraphEnd": 569,
+    "functions": [
+      [
+        "Subject",
+        "Cholera "
+      ],
+      [
+        "Predicate",
+        "depopulated "
+      ],
+      [
+        "Object",
+        "their villages."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 35,
+        "anchorEnd": 0,
+        "text": "Cholera depopulated their villages."
+      }
+    ],
+    "notes": [
+      "depopulated 为及物动词，地点作宾语。指祖父诅咒中的村庄，不必加强为“所有人都死了”。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 19,
+        "text": "depopulated",
+        "role": "main"
+      }
+    ]
+  },
+  "25": {
+    "text": "The deep background of his life as it escaped through his lips became the chorus of my nights.",
+    "lessonText": "The deep background of his life as it escaped through his lips became the chorus of my nights.",
+    "paragraphStart": 570,
+    "paragraphEnd": 664,
+    "functions": [
+      [
+        "Subject",
+        "The deep background of his life "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "escaped "
+      ],
+      [
+        "Adverbial",
+        "through his lips "
+      ],
+      [
+        "Linking verb",
+        "became "
+      ],
+      [
+        "Predicative",
+        "the chorus of my nights."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 94,
+        "anchorEnd": 0,
+        "text": "The deep background of his life as it escaped through his lips became the chorus of my nights."
+      },
+      {
+        "kind": "time",
+        "start": 32,
+        "end": 63,
+        "anchorEnd": 34,
+        "text": "as it escaped through his lips "
+      }
+    ],
+    "notes": [
+      "as 从句说明往事以梦话流露的过程，it 指 background 所代表的过往经历。主语中心 background 对应 became，不是 lips。",
+      "as 从句表示往事从嘴边流露的过程，采用 Time clause；外层主语中心 background 与 became 对应。"
+    ],
+    "predicates": [
+      {
+        "start": 38,
+        "end": 45,
+        "text": "escaped",
+        "role": "sub"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "became",
+        "role": "main"
+      }
+    ]
+  },
+  "26": {
+    "text": "I heard him the way you hear static through a radio.",
+    "lessonText": "I heard him the way you hear static through a radio.",
+    "paragraphStart": 665,
+    "paragraphEnd": 717,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "heard "
+      ],
+      [
+        "Object",
+        "him "
+      ],
+      [
+        "Manner adjunct head",
+        "the way "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "hear "
+      ],
+      [
+        "Object",
+        "static "
+      ],
+      [
+        "Adverbial",
+        "through a radio."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 52,
+        "anchorEnd": 0,
+        "text": "I heard him the way you hear static through a radio."
+      },
+      {
+        "kind": "relative",
+        "start": 20,
+        "end": 52,
+        "anchorEnd": 23,
+        "text": "you hear static through a radio.",
+        "antecedent": "the way",
+        "restoration": "that / in which"
+      }
+    ],
+    "notes": [
+      "the way 后的 you hear… 指方式，可理解为 the way (that/in which) you hear…。static 在此为不可数名词“干扰杂音”。",
+      "you hear… 是修饰 the way 的省略关系词结构，使用 Relative clause；that / in which 仅在省略提示中出现。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "heard",
+        "role": "main"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "text": "hear",
+        "role": "sub"
+      }
+    ]
+  },
+  "27": {
+    "text": "My young ears didn't want to listen to the uncorked anger, didn't know what to make of feelings that could stretch back 70 years.",
+    "lessonText": "My young ears didn't want to listen to the uncorked anger, didn't know what to make of feelings that could stretch back 70 years.",
+    "paragraphStart": 718,
+    "paragraphEnd": 847,
+    "functions": [
+      [
+        "Subject",
+        "My young ears "
+      ],
+      [
+        "Predicate",
+        "didn't want "
+      ],
+      [
+        "Infinitival complement",
+        "to listen to the uncorked anger, "
+      ],
+      [
+        "Predicate",
+        "didn't know "
+      ],
+      [
+        "Infinitival complement",
+        "what to make of feelings "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "could stretch "
+      ],
+      [
+        "Adverbial",
+        "back 70 years."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 129,
+        "anchorEnd": 0,
+        "text": "My young ears didn't want to listen to the uncorked anger, didn't know what to make of feelings that could stretch back 70 years."
+      },
+      {
+        "kind": "relative",
+        "start": 96,
+        "end": 129,
+        "anchorEnd": 100,
+        "text": "that could stretch back 70 years.",
+        "antecedent": "feelings"
+      }
+    ],
+    "notes": [
+      "两个 didn't 谓语共享主语，that 从句修饰 feelings。what to make of 表“不知如何看待／理解”，不是制作；ears 代指年幼的自己。",
+      "what to make of… 为疑问不定式补足，不增设有限定谓语的 Object clause；that 定语从句修饰 feelings。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 25,
+        "text": "didn't want",
+        "role": "main"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "text": "didn't know",
+        "role": "main"
+      },
+      {
+        "start": 101,
+        "end": 114,
+        "text": "could stretch",
+        "role": "sub"
+      }
+    ]
+  },
+  "28": {
+    "text": "But now, I recall those staccato outbursts as music.",
+    "lessonText": "But now, I recall those staccato outbursts as music.",
+    "paragraphStart": 848,
+    "paragraphEnd": 900,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Adverbial",
+        "now, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "recall "
+      ],
+      [
+        "Object",
+        "those staccato outbursts "
+      ],
+      [
+        "Object complement",
+        "as music."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 52,
+        "anchorEnd": 0,
+        "text": "But now, I recall those staccato outbursts as music."
+      }
+    ],
+    "notes": [
+      "recall A as B 将过去声音重新赋予意义。as 后是名词，不是从句；与前句 static 形成情感上的反差。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 17,
+        "text": "recall",
+        "role": "main"
+      }
+    ]
+  },
+  "29": {
+    "text": "When I went to college, I switched to roommates my age.",
+    "lessonText": "When I went to college, I switched to roommates my age.",
+    "paragraphStart": 0,
+    "paragraphEnd": 55,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "went "
+      ],
+      [
+        "Complement",
+        "to college, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "switched "
+      ],
+      [
+        "Complement",
+        "to roommates my age."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "When I went to college, I switched to roommates my age."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 24,
+        "anchorEnd": 4,
+        "text": "When I went to college, "
+      }
+    ],
+    "notes": [
+      "my age 后置修饰 roommates，相当于 of my age，不是新从句。switch to 后是转向的对象。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 11,
+        "text": "went",
+        "role": "sub"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "text": "switched",
+        "role": "main"
+      }
+    ]
+  },
+  "30": {
+    "text": "Then, in graduate school, I had my own apartment, and my old roommate joined me.",
+    "lessonText": "Then, in graduate school, I had my own apartment, and my old roommate joined me.",
+    "paragraphStart": 56,
+    "paragraphEnd": 136,
+    "functions": [
+      [
+        "Adverbial",
+        "Then, in graduate school, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "my own apartment, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "my old roommate "
+      ],
+      [
+        "Predicate",
+        "joined "
+      ],
+      [
+        "Object",
+        "me."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 50,
+        "anchorEnd": 0,
+        "text": "Then, in graduate school, I had my own apartment, "
+      },
+      {
+        "kind": "main",
+        "start": 50,
+        "end": 80,
+        "anchorEnd": 50,
+        "text": "and my old roommate joined me."
+      }
+    ],
+    "notes": [
+      "old roommate 指祖父，old 同时含年龄大和从前的意味；两个主句用 and 连接。"
+    ],
+    "predicates": [
+      {
+        "start": 28,
+        "end": 31,
+        "text": "had",
+        "role": "main"
+      },
+      {
+        "start": 70,
+        "end": 76,
+        "text": "joined",
+        "role": "main"
+      }
+    ]
+  },
+  "31": {
+    "text": "All his friends were dead, and he had lived long enough to become, once again, a stranger in the community he had inhabited for more than half a century.",
+    "lessonText": "All his friends were dead, and he had lived long enough to become, once again, a stranger in the community he had inhabited for more than half a century.",
+    "paragraphStart": 137,
+    "paragraphEnd": 290,
+    "functions": [
+      [
+        "Subject",
+        "All his friends "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "dead, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "had lived "
+      ],
+      [
+        "Adverbial",
+        "long enough "
+      ],
+      [
+        "Infinitival complement",
+        "to become, "
+      ],
+      [
+        "Adverbial",
+        "once again, "
+      ],
+      [
+        "Predicative",
+        "a stranger in the community "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "had inhabited "
+      ],
+      [
+        "Adverbial",
+        "for more than half a century."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 0,
+        "text": "All his friends were dead, "
+      },
+      {
+        "kind": "main",
+        "start": 27,
+        "end": 153,
+        "anchorEnd": 27,
+        "text": "and he had lived long enough to become, once again, a stranger in the community he had inhabited for more than half a century."
+      },
+      {
+        "kind": "relative",
+        "start": 107,
+        "end": 153,
+        "anchorEnd": 109,
+        "text": "he had inhabited for more than half a century.",
+        "antecedent": "the community",
+        "restoration": "that / which"
+      }
+    ],
+    "notes": [
+      "enough to… 表达到某程度而出现的结果。定语从句修饰 community，省略的关系词在 inhabited 后作宾语；once again 是插入状语。",
+      "to become… 为结果不定式；he had inhabited… 修饰 community，省略关系宾语 that / which。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 20,
+        "text": "were",
+        "role": "main"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "text": "had lived",
+        "role": "main"
+      },
+      {
+        "start": 110,
+        "end": 123,
+        "text": "had inhabited",
+        "role": "sub"
+      }
+    ]
+  },
+  "32": {
+    "text": "It was clear to both of us that in spite of a 60-year age gap I was his most congenial companion.",
+    "lessonText": "It was clear to both of us that in spite of a 60-year age gap I was his most congenial companion.",
+    "paragraphStart": 291,
+    "paragraphEnd": 388,
+    "functions": [
+      [
+        "Formal subject",
+        "It "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "clear "
+      ],
+      [
+        "Complement",
+        "to both of us "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Adverbial",
+        "in spite of a 60-year age gap "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "his most congenial companion."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 97,
+        "anchorEnd": 0,
+        "text": "It was clear to both of us that in spite of a 60-year age gap I was his most congenial companion."
+      },
+      {
+        "kind": "subject",
+        "start": 27,
+        "end": 97,
+        "anchorEnd": 31,
+        "text": "that in spite of a 60-year age gap I was his most congenial companion."
+      }
+    ],
+    "notes": [
+      "it 是形式主语，that 从句是后置真正主语。in spite of 后是名词短语，不是让步从句。60-year 作定语时 year 不加 -s。",
+      "that… 作后置真正主语，使用中性 Subject clause；in spite of 后接名词短语，不新增让步从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "33": {
+    "text": "So he joined me in the late 1960s at the University of Michigan.",
+    "lessonText": "So he joined me in the late 1960s at the University of Michigan.",
+    "paragraphStart": 0,
+    "paragraphEnd": 64,
+    "functions": [
+      [
+        "Discourse connective",
+        "So "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "joined "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Adverbial",
+        "in the late 1960s "
+      ],
+      [
+        "Adverbial",
+        "at the University of Michigan."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 64,
+        "anchorEnd": 0,
+        "text": "So he joined me in the late 1960s at the University of Michigan."
+      }
+    ],
+    "notes": [
+      "join 直接接人，不说 join with me 来表达这里的“来与我同住”。late 1960s 指六十年代末期。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "joined",
+        "role": "main"
+      }
+    ]
+  },
+  "34": {
+    "text": "He made new friends, took care of himself, and did most of the housework.",
+    "lessonText": "He made new friends, took care of himself, and did most of the housework.",
+    "paragraphStart": 65,
+    "paragraphEnd": 138,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "made "
+      ],
+      [
+        "Object",
+        "new friends, "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "care "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Object",
+        "himself, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "did "
+      ],
+      [
+        "Object",
+        "most of the housework."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 73,
+        "anchorEnd": 0,
+        "text": "He made new friends, took care of himself, and did most of the housework."
+      }
+    ],
+    "notes": [
+      "三个动作共享主语 He，按同一标准归简单句。housework 不可数。",
+      "made、took、did 共享主语；took care of 保留词组点击，限定谓语色只落在 took，care 为名词宾语。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "made",
+        "role": "main"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "text": "took",
+        "role": "main"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "did",
+        "role": "main"
+      }
+    ]
+  },
+  "35": {
+    "text": "In Ann Arbor he found plenty of allies in hating Republicans, but it was even better than that.",
+    "lessonText": "In Ann Arbor he found plenty of allies in hating Republicans, but it was even better than that.",
+    "paragraphStart": 139,
+    "paragraphEnd": 234,
+    "functions": [
+      [
+        "Adverbial",
+        "In Ann Arbor "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "found "
+      ],
+      [
+        "Object",
+        "plenty of allies "
+      ],
+      [
+        "Adverbial",
+        "in hating Republicans, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "even better than that."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 62,
+        "anchorEnd": 0,
+        "text": "In Ann Arbor he found plenty of allies in hating Republicans, "
+      },
+      {
+        "kind": "main",
+        "start": 62,
+        "end": 95,
+        "anchorEnd": 62,
+        "text": "but it was even better than that."
+      }
+    ],
+    "notes": [
+      "in hating 是介词＋-ing，说明结盟的共同点；than 后的 that 为代词，不是完整比较从句。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 21,
+        "text": "found",
+        "role": "main"
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "36": {
+    "text": "Ideologically it was the best of times.",
+    "lessonText": "Ideologically it was the best of times.",
+    "paragraphStart": 235,
+    "paragraphEnd": 274,
+    "functions": [
+      [
+        "Adverbial",
+        "Ideologically "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "the best of times."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "Ideologically it was the best of times."
+      }
+    ],
+    "notes": [
+      "句首副词限定评判角度。the best of times 与祖父爱争辩的性格呼应，带幽默意味。"
+    ],
+    "predicates": [
+      {
+        "start": 17,
+        "end": 20,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "37": {
+    "text": "He could enjoy both the war and the anti-war movement.",
+    "lessonText": "He could enjoy both the war and the anti-war movement.",
+    "paragraphStart": 275,
+    "paragraphEnd": 329,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "could enjoy "
+      ],
+      [
+        "Object",
+        "both the war and the anti-war movement."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "He could enjoy both the war and the anti-war movement."
+      }
+    ],
+    "notes": [
+      "both A and B 连接宾语，不是两个从句。enjoy 指他从争斗与争论中获得兴味，不把字面悖论“修正”掉。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 14,
+        "text": "could enjoy",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "Our only serious problem was what he called my laziness.",
+    "lessonText": "Our only serious problem was what he called my laziness.",
+    "paragraphStart": 0,
+    "paragraphEnd": 56,
+    "functions": [
+      [
+        "Subject",
+        "Our only serious problem "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Fused relative pronoun",
+        "what "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "called "
+      ],
+      [
+        "Object complement",
+        "my laziness."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 56,
+        "anchorEnd": 0,
+        "text": "Our only serious problem was what he called my laziness."
+      },
+      {
+        "kind": "predicative",
+        "start": 29,
+        "end": 56,
+        "anchorEnd": 33,
+        "text": "what he called my laziness."
+      }
+    ],
+    "notes": [
+      "what 引导融合关系结构并在 called 后作宾语，my laziness 是宾补；整体作 was 的表语。不是普通疑问句。",
+      "what he called my laziness 是融合关系结构，按整句功能标为 Predicative clause；what 作 called 的宾语，my laziness 作 Object complement。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 28,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "called",
+        "role": "sub"
+      }
+    ]
+  },
+  "39": {
+    "text": "I was studying for Ph.D. preliminary exams.",
+    "lessonText": "I was studying for Ph.D. preliminary exams.",
+    "paragraphStart": 57,
+    "paragraphEnd": 100,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "was studying "
+      ],
+      [
+        "Complement",
+        "for Ph.D. preliminary exams."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 43,
+        "anchorEnd": 0,
+        "text": "I was studying for Ph.D. preliminary exams."
+      }
+    ],
+    "notes": [
+      "for 表备考的对象。Ph.D. 是缩写，其中句点不构成分句边界；继续沿用当前音频。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 14,
+        "text": "was studying",
+        "role": "main"
+      }
+    ]
+  },
+  "40": {
+    "text": "My work consisted of lying on the couch with a book in my lap.",
+    "lessonText": "My work consisted of lying on the couch with a book in my lap.",
+    "paragraphStart": 101,
+    "paragraphEnd": 163,
+    "functions": [
+      [
+        "Subject",
+        "My work "
+      ],
+      [
+        "Predicate",
+        "consisted "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Prepositional complement",
+        "lying on the couch "
+      ],
+      [
+        "Supplement",
+        "with a book in my lap."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 62,
+        "anchorEnd": 0,
+        "text": "My work consisted of lying on the couch with a book in my lap."
+      }
+    ],
+    "notes": [
+      "consist of 后接 -ing。with + 名词 + 介词短语描述伴随状态；没有独立限定谓语，不归限定从句。",
+      "lying 是 of 后的动名词／分词补足，with a book in my lap 为无谓语伴随结构，不与 consisted 并列着色。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 17,
+        "text": "consisted",
+        "role": "main"
+      }
+    ]
+  },
+  "41": {
+    "text": "Sometimes I dozed off, now and then I highlighted a significant passage.",
+    "lessonText": "Sometimes I dozed off, now and then I highlighted a significant passage.",
+    "paragraphStart": 164,
+    "paragraphEnd": 236,
+    "functions": [
+      [
+        "Adverbial",
+        "Sometimes "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "dozed off, "
+      ],
+      [
+        "Adverbial",
+        "now and then "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "highlighted "
+      ],
+      [
+        "Object",
+        "a significant passage."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 23,
+        "anchorEnd": 0,
+        "text": "Sometimes I dozed off, "
+      },
+      {
+        "kind": "main",
+        "start": 23,
+        "end": 72,
+        "anchorEnd": 23,
+        "text": "now and then I highlighted a significant passage."
+      }
+    ],
+    "notes": [
+      "两完整主句以逗号并置，文学叙述形成交替节奏。正式论说文通常改用分号或 and，避免照抄成一般标点规则。",
+      "两个主句用逗号并置，分别保留 dozed off 与 highlighted；now and then 为第二主句时间状语。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 21,
+        "text": "dozed off",
+        "role": "main"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "text": "highlighted",
+        "role": "main"
+      }
+    ]
+  },
+  "42": {
+    "text": "He would pick up a pencil and mockingly mark the newspaper to imitate what I was doing.",
+    "lessonText": "He would pick up a pencil and mockingly mark the newspaper to imitate what I was doing.",
+    "paragraphStart": 237,
+    "paragraphEnd": 324,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "would pick up "
+      ],
+      [
+        "Object",
+        "a pencil "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "mockingly "
+      ],
+      [
+        "Predicate",
+        "mark "
+      ],
+      [
+        "Object",
+        "the newspaper "
+      ],
+      [
+        "Adverbial",
+        "to imitate "
+      ],
+      [
+        "Fused relative pronoun",
+        "what "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "was doing."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 87,
+        "anchorEnd": 0,
+        "text": "He would pick up a pencil and mockingly mark the newspaper to imitate what I was doing."
+      },
+      {
+        "kind": "object",
+        "start": 70,
+        "end": 87,
+        "anchorEnd": 74,
+        "text": "what I was doing."
+      }
+    ],
+    "notes": [
+      "would 表过去经常发生的习惯，不是条件句。what 从句作 imitate 的宾语；pick up 与 mark 共享 would。",
+      "what I was doing 按 imitate 的宾语功能标为 Object clause；what 为融合关系词。to imitate 本身是目的不定式，would pick up 与 mark 共享 would。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 16,
+        "text": "would pick up",
+        "role": "main"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "mark",
+        "role": "main"
+      },
+      {
+        "start": 77,
+        "end": 86,
+        "text": "was doing",
+        "role": "sub"
+      }
+    ]
+  },
+  "43": {
+    "text": "I could not convince him that it was work.",
+    "lessonText": "I could not convince him that it was work.",
+    "paragraphStart": 325,
+    "paragraphEnd": 367,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "convince "
+      ],
+      [
+        "Object",
+        "him "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "work."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "I could not convince him that it was work."
+      },
+      {
+        "kind": "object",
+        "start": 25,
+        "end": 42,
+        "anchorEnd": 29,
+        "text": "that it was work."
+      }
+    ],
+    "notes": [
+      "convince somebody that… 表说服某人相信某事。it 指读书备考，不是报纸。",
+      "that it was work 是 convince 的内容补足，沿用 Object clause 标签；him 为被说服的人。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "could",
+        "role": "main"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "text": "convince",
+        "role": "main"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "44": {
+    "text": "But I did convince others.",
+    "lessonText": "But I did convince others.",
+    "paragraphStart": 0,
+    "paragraphEnd": 26,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Predicate",
+        "convince "
+      ],
+      [
+        "Object",
+        "others."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "But I did convince others."
+      }
+    ],
+    "notes": [
+      "did 强调肯定事实，后接动词原形 convince。与前句 could not 形成转折，指学业得到其他人的认可。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "did",
+        "role": "main"
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "convince",
+        "role": "main"
+      }
+    ]
+  },
+  "45": {
+    "text": "I finished my studies, married, fathered a daughter and a son and settled in Texas.",
+    "lessonText": "I finished my studies, married, fathered a daughter and a son and settled in Texas.",
+    "paragraphStart": 27,
+    "paragraphEnd": 110,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "finished "
+      ],
+      [
+        "Object",
+        "my studies, "
+      ],
+      [
+        "Predicate",
+        "married, "
+      ],
+      [
+        "Predicate",
+        "fathered "
+      ],
+      [
+        "Object",
+        "a daughter and a son "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "settled "
+      ],
+      [
+        "Complement",
+        "in Texas."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 83,
+        "anchorEnd": 0,
+        "text": "I finished my studies, married, fathered a daughter and a son and settled in Texas."
+      }
+    ],
+    "notes": [
+      "多个限定谓语共用 I，仍按一个主句处理。fathered 是动词“成为……的父亲”，不是名词所有格。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 10,
+        "text": "finished",
+        "role": "main"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "married",
+        "role": "main"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "text": "fathered",
+        "role": "main"
+      },
+      {
+        "start": 66,
+        "end": 73,
+        "text": "settled",
+        "role": "main"
+      }
+    ]
+  },
+  "46": {
+    "text": "Though reluctant to move once again, my grandfather joined us in Houston.",
+    "lessonText": "Though reluctant to move once again, my grandfather joined us in Houston.",
+    "paragraphStart": 111,
+    "paragraphEnd": 184,
+    "functions": [
+      [
+        "Subordinator",
+        "Though "
+      ],
+      [
+        "Predicative",
+        "reluctant "
+      ],
+      [
+        "Infinitival complement",
+        "to move once again, "
+      ],
+      [
+        "Subject",
+        "my grandfather "
+      ],
+      [
+        "Predicate",
+        "joined "
+      ],
+      [
+        "Object",
+        "us "
+      ],
+      [
+        "Adverbial",
+        "in Houston."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 73,
+        "anchorEnd": 0,
+        "text": "Though reluctant to move once again, my grandfather joined us in Houston."
+      },
+      {
+        "kind": "reduced-concessive",
+        "start": 0,
+        "end": 37,
+        "anchorEnd": 6,
+        "text": "Though reluctant to move once again, ",
+        "restoration": "he was"
+      }
+    ],
+    "notes": [
+      "though 后可还原 he was reluctant，原文用无动词省略结构；按限定分句口径归简单句，作为省略重点讲。reluctant 后接 to do。",
+      "Though reluctant… 使用 Reduced concessive clause，省略 he was 只列于 Ellipsis；to move 是 reluctant 的不定式补足。"
+    ],
+    "predicates": [
+      {
+        "start": 52,
+        "end": 58,
+        "text": "joined",
+        "role": "main"
+      }
+    ]
+  },
+  "47": {
+    "text": "He was exactly 100 years older than my son.",
+    "lessonText": "He was exactly 100 years older than my son.",
+    "paragraphStart": 185,
+    "paragraphEnd": 228,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "exactly 100 years older "
+      ],
+      [
+        "Comparative complement",
+        "than my son."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 43,
+        "anchorEnd": 0,
+        "text": "He was exactly 100 years older than my son."
+      }
+    ],
+    "notes": [
+      "100 years 说明比较级差额；此处不是前置复合形容词，所以 years 用复数。与 100-year-old 的写法区分。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "48": {
+    "text": "Now that I was established, a man with a career, a family, a job, I intended to help my grandfather in the last years of his life.",
+    "lessonText": "Now that I was established, a man with a career, a family, a job, I intended to help my grandfather in the last years of his life.",
+    "paragraphStart": 0,
+    "paragraphEnd": 130,
+    "functions": [
+      [
+        "Subordinator",
+        "Now that "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "established, "
+      ],
+      [
+        "Apposition",
+        "a man with a career, a family, a job, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "intended "
+      ],
+      [
+        "Infinitival complement",
+        "to help my grandfather in the last years of his life."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 130,
+        "anchorEnd": 0,
+        "text": "Now that I was established, a man with a career, a family, a job, I intended to help my grandfather in the last years of his life."
+      },
+      {
+        "kind": "reason",
+        "start": 0,
+        "end": 66,
+        "anchorEnd": 8,
+        "text": "Now that I was established, a man with a career, a family, a job, "
+      }
+    ],
+    "notes": [
+      "a man… 补充说明从句中的 I，不是另一个主语。now that 表既然新条件已具备；intend to do 表打算。",
+      "Now that 原因从句范围包含 a man… 同位补充；was established 采用状态性系表分析，established 表示已安定、有事业。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 14,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 68,
+        "end": 76,
+        "text": "intended",
+        "role": "main"
+      }
+    ]
+  },
+  "49": {
+    "text": "But in the crazy irony of things, it turned out that I was the one who would need help.",
+    "lessonText": "But in the crazy irony of things, it turned out that I was the one who would need help.",
+    "paragraphStart": 131,
+    "paragraphEnd": 218,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Adverbial",
+        "in the crazy irony of things, "
+      ],
+      [
+        "Formal subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "turned out "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "the one "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "would need "
+      ],
+      [
+        "Object",
+        "help."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 87,
+        "anchorEnd": 0,
+        "text": "But in the crazy irony of things, it turned out that I was the one who would need help."
+      },
+      {
+        "kind": "subject",
+        "start": 48,
+        "end": 87,
+        "anchorEnd": 52,
+        "text": "that I was the one who would need help."
+      },
+      {
+        "kind": "relative",
+        "start": 67,
+        "end": 87,
+        "anchorEnd": 70,
+        "text": "who would need help.",
+        "antecedent": "the one"
+      }
+    ],
+    "notes": [
+      "it turned out that… 意为“结果发现……”。who 修饰 the one，指 I。不是 It was…that 强调句框架；反差在于照顾者变成求助者。",
+      "it 是形式主语，that… 是后置 Subject clause，并嵌套修饰 the one 的 Relative clause；不是强调句。"
+    ],
+    "predicates": [
+      {
+        "start": 37,
+        "end": 47,
+        "text": "turned out",
+        "role": "main"
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "text": "would need",
+        "role": "sub"
+      }
+    ]
+  },
+  "50": {
+    "text": "My solid life cracked in a matter of months, when my wife was stricken with a terrible neurologic disease.",
+    "lessonText": "My solid life cracked in a matter of months, when my wife was stricken with a terrible neurologic disease.",
+    "paragraphStart": 219,
+    "paragraphEnd": 325,
+    "functions": [
+      [
+        "Subject",
+        "My solid life "
+      ],
+      [
+        "Predicate",
+        "cracked "
+      ],
+      [
+        "Adverbial",
+        "in a matter of months, "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "my wife "
+      ],
+      [
+        "Predicate",
+        "was stricken "
+      ],
+      [
+        "Complement",
+        "with a terrible neurologic disease."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 106,
+        "anchorEnd": 0,
+        "text": "My solid life cracked in a matter of months, when my wife was stricken with a terrible neurologic disease."
+      },
+      {
+        "kind": "time",
+        "start": 45,
+        "end": 106,
+        "anchorEnd": 49,
+        "text": "when my wife was stricken with a terrible neurologic disease."
+      }
+    ],
+    "notes": [
+      "when 补充悲剧发生的时间背景，语境中也有因果联系；不是 because 的明说。was stricken with 为遭重病侵袭的书面表达。",
+      "when 采用补充时间从句分析；was stricken 为被动谓语，with 引出疾病。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "cracked",
+        "role": "main"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "text": "was stricken",
+        "role": "sub"
+      }
+    ]
+  },
+  "51": {
+    "text": "The life of the family became the life of the hospital.",
+    "lessonText": "The life of the family became the life of the hospital.",
+    "paragraphStart": 326,
+    "paragraphEnd": 381,
+    "functions": [
+      [
+        "Subject",
+        "The life of the family "
+      ],
+      [
+        "Linking verb",
+        "became "
+      ],
+      [
+        "Predicative",
+        "the life of the hospital."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "The life of the family became the life of the hospital."
+      }
+    ],
+    "notes": [
+      "两个 life 构成对照；the life of the hospital 是医院化生活的转喻，不是建筑物获得生命。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 29,
+        "text": "became",
+        "role": "main"
+      }
+    ]
+  },
+  "52": {
+    "text": "I lost touch with my friends, my work, even my children.",
+    "lessonText": "I lost touch with my friends, my work, even my children.",
+    "paragraphStart": 382,
+    "paragraphEnd": 438,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "lost "
+      ],
+      [
+        "Object",
+        "touch "
+      ],
+      [
+        "Complement",
+        "with my friends, my work, even my children."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 56,
+        "anchorEnd": 0,
+        "text": "I lost touch with my friends, my work, even my children."
+      }
+    ],
+    "notes": [
+      "lose touch with 的 with 后是三个并列名词；even 强调孩子这一项最令人意外。",
+      "lost touch with 保留完整生词点击；限定谓语为 lost，touch 为宾语，with 引出失去联系的对象。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "lost",
+        "role": "main"
+      }
+    ]
+  },
+  "53": {
+    "text": "I could not scream out my anger as my grandfather did in his sleep.",
+    "lessonText": "I could not scream out my anger as my grandfather did in his sleep.",
+    "paragraphStart": 439,
+    "paragraphEnd": 506,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "scream out "
+      ],
+      [
+        "Object",
+        "my anger "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "my grandfather "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Adverbial",
+        "in his sleep."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 0,
+        "text": "I could not scream out my anger as my grandfather did in his sleep."
+      },
+      {
+        "kind": "comparative",
+        "start": 32,
+        "end": 67,
+        "anchorEnd": 34,
+        "text": "as my grandfather did in his sleep.",
+        "restoration": "did = screamed out his anger"
+      }
+    ],
+    "notes": [
+      "did 替代 scream out his anger，避免重复。as 表方式比较，不是时间“当……”。",
+      "as 采用 Comparative clause 表示方式比较，不标 Time clause；did 替代 screamed out his anger，省略只在提示中呈现。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "could",
+        "role": "main"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "text": "scream out",
+        "role": "main"
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "did",
+        "role": "sub"
+      }
+    ]
+  },
+  "54": {
+    "text": "Instead, I turned it against myself, and it settled in my bones as depression.",
+    "lessonText": "Instead, I turned it against myself, and it settled in my bones as depression.",
+    "paragraphStart": 507,
+    "paragraphEnd": 585,
+    "functions": [
+      [
+        "Adverbial",
+        "Instead, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "turned "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Complement",
+        "against myself, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "settled "
+      ],
+      [
+        "Adverbial",
+        "in my bones "
+      ],
+      [
+        "Complement",
+        "as depression."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 37,
+        "anchorEnd": 0,
+        "text": "Instead, I turned it against myself, "
+      },
+      {
+        "kind": "main",
+        "start": 37,
+        "end": 78,
+        "anchorEnd": 37,
+        "text": "and it settled in my bones as depression."
+      }
+    ],
+    "notes": [
+      "两处 it 都指 anger。第二句用身体意象表达情绪长期沉积；as 后是名词，不是从句。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 17,
+        "text": "turned",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "text": "settled",
+        "role": "main"
+      }
+    ]
+  },
+  "55": {
+    "text": "I returned to the couch where I had studied for my Ph.D. exams, but I no longer saw anything glorious to underline.",
+    "lessonText": "I returned to the couch where I had studied for my Ph.D. exams, but I no longer saw anything glorious to underline.",
+    "paragraphStart": 586,
+    "paragraphEnd": 701,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "returned "
+      ],
+      [
+        "Complement",
+        "to the couch "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had studied "
+      ],
+      [
+        "Complement",
+        "for my Ph.D. exams, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "no longer "
+      ],
+      [
+        "Predicate",
+        "saw "
+      ],
+      [
+        "Object",
+        "anything glorious "
+      ],
+      [
+        "Infinitival modifier",
+        "to underline."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 64,
+        "anchorEnd": 0,
+        "text": "I returned to the couch where I had studied for my Ph.D. exams, "
+      },
+      {
+        "kind": "relative",
+        "start": 24,
+        "end": 64,
+        "anchorEnd": 29,
+        "text": "where I had studied for my Ph.D. exams, ",
+        "antecedent": "the couch"
+      },
+      {
+        "kind": "main",
+        "start": 64,
+        "end": 115,
+        "anchorEnd": 64,
+        "text": "but I no longer saw anything glorious to underline."
+      }
+    ],
+    "notes": [
+      "where 修饰 couch，表示在沙发上读书。glorious 后置修饰 anything；to underline 修饰可供划线的内容，逻辑主语是 I。",
+      "Ph.D. 保持缩写完整；where 从句修饰 couch，to underline 为 anything glorious 的不定式修饰。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 10,
+        "text": "returned",
+        "role": "main"
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "text": "had studied",
+        "role": "sub"
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "text": "saw",
+        "role": "main"
+      }
+    ]
+  },
+  "56": {
+    "text": "At 103 and 104, my grandfather began to take an active role in helping me care for my children.",
+    "lessonText": "At 103 and 104, my grandfather began to take an active role in helping me care for my children.",
+    "paragraphStart": 0,
+    "paragraphEnd": 95,
+    "functions": [
+      [
+        "Adverbial",
+        "At 103 and 104, "
+      ],
+      [
+        "Subject",
+        "my grandfather "
+      ],
+      [
+        "Predicate",
+        "began "
+      ],
+      [
+        "Infinitival complement",
+        "to take an active role "
+      ],
+      [
+        "Complement",
+        "in helping me care for my children."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 95,
+        "anchorEnd": 0,
+        "text": "At 103 and 104, my grandfather began to take an active role in helping me care for my children."
+      }
+    ],
+    "notes": [
+      "in 后接 helping；help me care for 中 care 为不带 to 的不定式，help 后两种形式均可。数字间 and 不构成并列句。"
+    ],
+    "predicates": [
+      {
+        "start": 31,
+        "end": 36,
+        "text": "began",
+        "role": "main"
+      }
+    ]
+  },
+  "57": {
+    "text": "He did not understand what had happened to my wife and had no sympathy for my depression.",
+    "lessonText": "He did not understand what had happened to my wife and had no sympathy for my depression.",
+    "paragraphStart": 96,
+    "paragraphEnd": 185,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "understand "
+      ],
+      [
+        "Interrogative subject",
+        "what "
+      ],
+      [
+        "Predicate",
+        "had happened "
+      ],
+      [
+        "Complement",
+        "to my wife "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "no sympathy "
+      ],
+      [
+        "Complement",
+        "for my depression."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 89,
+        "anchorEnd": 0,
+        "text": "He did not understand what had happened to my wife and had no sympathy for my depression."
+      },
+      {
+        "kind": "object",
+        "start": 22,
+        "end": 51,
+        "anchorEnd": 26,
+        "text": "what had happened to my wife "
+      }
+    ],
+    "notes": [
+      "what 在从句中作主语，happened 无被动。understand 与 had 共用 He；没有明说理解，却有后文实际行动。",
+      "what 引导 understand 的嵌入疑问宾语从句并作其主语；and had 在外层与 understand 并列，不能误收进 what 从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "did",
+        "role": "main"
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "text": "understand",
+        "role": "main"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "text": "had happened",
+        "role": "sub"
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "58": {
+    "text": "But he saw the work of daily life in front of him and, as always, he did it.",
+    "lessonText": "But he saw the work of daily life in front of him and, as always, he did it.",
+    "paragraphStart": 186,
+    "paragraphEnd": 262,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "saw "
+      ],
+      [
+        "Object",
+        "the work of daily life "
+      ],
+      [
+        "Adverbial",
+        "in front of him "
+      ],
+      [
+        "Coordinating conjunction",
+        "and, "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Adverbial",
+        "always, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "did "
+      ],
+      [
+        "Object",
+        "it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 50,
+        "anchorEnd": 0,
+        "text": "But he saw the work of daily life in front of him "
+      },
+      {
+        "kind": "main",
+        "start": 50,
+        "end": 76,
+        "anchorEnd": 50,
+        "text": "and, as always, he did it."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 55,
+        "end": 66,
+        "anchorEnd": 57,
+        "text": "as always, ",
+        "restoration": "he always did"
+      }
+    ],
+    "notes": [
+      "第二主句有明确主语 he。as always 是压缩的评注，意为像往常一样；it 指需要做的日常工作。",
+      "as always 为压缩的 Parenthetical comment；没有原文限定谓语，不补造橙色动词。第二主句 he did it 仍保留。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 10,
+        "text": "saw",
+        "role": "main"
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "did",
+        "role": "main"
+      }
+    ]
+  },
+  "59": {
+    "text": "Although by then he must have been wearing the shadow of death as an undershirt, the aroma of life stayed in his nostrils.",
+    "lessonText": "Although by then he must have been wearing the shadow of death as an undershirt, the aroma of life stayed in his nostrils.",
+    "paragraphStart": 263,
+    "paragraphEnd": 385,
+    "functions": [
+      [
+        "Subordinator",
+        "Although "
+      ],
+      [
+        "Adverbial",
+        "by then "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "must have been wearing "
+      ],
+      [
+        "Object",
+        "the shadow of death "
+      ],
+      [
+        "Complement",
+        "as an undershirt, "
+      ],
+      [
+        "Subject",
+        "the aroma of life "
+      ],
+      [
+        "Predicate",
+        "stayed "
+      ],
+      [
+        "Adverbial",
+        "in his nostrils."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 122,
+        "anchorEnd": 0,
+        "text": "Although by then he must have been wearing the shadow of death as an undershirt, the aroma of life stayed in his nostrils."
+      },
+      {
+        "kind": "concessive",
+        "start": 0,
+        "end": 81,
+        "anchorEnd": 8,
+        "text": "Although by then he must have been wearing the shadow of death as an undershirt, "
+      }
+    ],
+    "notes": [
+      "must have been wearing 是对过去持续状态的推测。死亡是汗衫、生命有香气，两个比喻共同写出高龄与活力并存，不能只作字面翻译。",
+      "must have been wearing 整体属于 Although 让步从句，使用从句谓语色；外层 stayed 使用主句色。"
+    ],
+    "predicates": [
+      {
+        "start": 20,
+        "end": 42,
+        "text": "must have been wearing",
+        "role": "sub"
+      },
+      {
+        "start": 99,
+        "end": 105,
+        "text": "stayed",
+        "role": "main"
+      }
+    ]
+  },
+  "60": {
+    "text": "He listened to the news, he read the paper, he took out the garbage, he played with my children, he mowed the lawn.",
+    "lessonText": "He listened to the news, he read the paper, he took out the garbage, he played with my children, he mowed the lawn.",
+    "paragraphStart": 386,
+    "paragraphEnd": 501,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "listened "
+      ],
+      [
+        "Complement",
+        "to the news, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "read "
+      ],
+      [
+        "Object",
+        "the paper, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "took out "
+      ],
+      [
+        "Object",
+        "the garbage, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "played "
+      ],
+      [
+        "Complement",
+        "with my children, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "mowed "
+      ],
+      [
+        "Object",
+        "the lawn."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "He listened to the news, "
+      },
+      {
+        "kind": "main",
+        "start": 25,
+        "end": 44,
+        "anchorEnd": 25,
+        "text": "he read the paper, "
+      },
+      {
+        "kind": "main",
+        "start": 44,
+        "end": 69,
+        "anchorEnd": 44,
+        "text": "he took out the garbage, "
+      },
+      {
+        "kind": "main",
+        "start": 69,
+        "end": 97,
+        "anchorEnd": 69,
+        "text": "he played with my children, "
+      },
+      {
+        "kind": "main",
+        "start": 97,
+        "end": 115,
+        "anchorEnd": 97,
+        "text": "he mowed the lawn."
+      }
+    ],
+    "notes": [
+      "每一项都重复 he 并有谓语，构成无连词并置的多个主句。逗号串联是文学节奏，不是正式写作中任意连接主句的许可。",
+      "五个主句以逗号并置，各有 he 主语与限定谓语；不是一个主语下五个单纯动词短语。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 11,
+        "text": "listened",
+        "role": "main"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "read",
+        "role": "main"
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "text": "took out",
+        "role": "main"
+      },
+      {
+        "start": 72,
+        "end": 78,
+        "text": "played",
+        "role": "main"
+      },
+      {
+        "start": 100,
+        "end": 105,
+        "text": "mowed",
+        "role": "main"
+      }
+    ]
+  },
+  "61": {
+    "text": "He never offered me advice or understanding, he just kept doing things.",
+    "lessonText": "He never offered me advice or understanding, he just kept doing things.",
+    "paragraphStart": 502,
+    "paragraphEnd": 573,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Negation",
+        "never "
+      ],
+      [
+        "Predicate",
+        "offered "
+      ],
+      [
+        "Indirect object",
+        "me "
+      ],
+      [
+        "Direct object",
+        "advice or understanding, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "just "
+      ],
+      [
+        "Predicate",
+        "kept "
+      ],
+      [
+        "Complement",
+        "doing things."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 0,
+        "text": "He never offered me advice or understanding, "
+      },
+      {
+        "kind": "main",
+        "start": 45,
+        "end": 71,
+        "anchorEnd": 45,
+        "text": "he just kept doing things."
+      }
+    ],
+    "notes": [
+      "两个主句用逗号并置；offered me advice 为双宾语结构。keep doing 表持续，不用 keep to do。",
+      "never 单列为否定副词；kept 为第二主句谓语，doing things 为非谓语补足。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 16,
+        "text": "offered",
+        "role": "main"
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "text": "kept",
+        "role": "main"
+      }
+    ]
+  },
+  "62": {
+    "text": "After about two years of melancholy, I joined him, started to see how much there was to do.",
+    "lessonText": "After about two years of melancholy, I joined him, started to see how much there was to do.",
+    "paragraphStart": 574,
+    "paragraphEnd": 665,
+    "functions": [
+      [
+        "Adverbial",
+        "After about two years of melancholy, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "joined "
+      ],
+      [
+        "Object",
+        "him, "
+      ],
+      [
+        "Predicate",
+        "started "
+      ],
+      [
+        "Infinitival complement",
+        "to see "
+      ],
+      [
+        "Interrogative notional subject",
+        "how much "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Infinitival modifier",
+        "to do."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 91,
+        "anchorEnd": 0,
+        "text": "After about two years of melancholy, I joined him, started to see how much there was to do."
+      },
+      {
+        "kind": "object",
+        "start": 66,
+        "end": 91,
+        "anchorEnd": 74,
+        "text": "how much there was to do."
+      }
+    ],
+    "notes": [
+      "started 共用主语 I。how much 引出间接感叹／疑问性内容，much 指工作量；to do 修饰待做之事。",
+      "how much there was to do 是 see 的嵌入疑问／感叹宾语内容；how much 是存在结构的前置实义主语，there 为存在标记，was 为从句系动词。"
+    ],
+    "predicates": [
+      {
+        "start": 39,
+        "end": 45,
+        "text": "joined",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "text": "started",
+        "role": "main"
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "63": {
+    "text": "Now I get up early and I stay busy.",
+    "lessonText": "Now I get up early and I stay busy.",
+    "paragraphStart": 0,
+    "paragraphEnd": 35,
+    "functions": [
+      [
+        "Adverbial",
+        "Now "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "get up "
+      ],
+      [
+        "Adverbial",
+        "early "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "stay "
+      ],
+      [
+        "Predicative",
+        "busy."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 19,
+        "anchorEnd": 0,
+        "text": "Now I get up early "
+      },
+      {
+        "kind": "main",
+        "start": 19,
+        "end": 35,
+        "anchorEnd": 19,
+        "text": "and I stay busy."
+      }
+    ],
+    "notes": [
+      "两边都写出 I，按既定标准归并列句。stay busy 中 stay 为系动词，不是“停留在忙”。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "get up",
+        "role": "main"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "stay",
+        "role": "main"
+      }
+    ]
+  },
+  "64": {
+    "text": "There's a lot of garbage to take out and in Texas there's always a lawn to mow.",
+    "lessonText": "There's a lot of garbage to take out and in Texas there's always a lawn to mow.",
+    "paragraphStart": 36,
+    "paragraphEnd": 115,
+    "functions": [
+      [
+        "Existential subject",
+        "There"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Notional subject",
+        "a lot of garbage "
+      ],
+      [
+        "Infinitival modifier",
+        "to take out "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "in Texas "
+      ],
+      [
+        "Existential subject",
+        "there"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Adverbial",
+        "always "
+      ],
+      [
+        "Notional subject",
+        "a lawn "
+      ],
+      [
+        "Infinitival modifier",
+        "to mow."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 37,
+        "anchorEnd": 0,
+        "text": "There's a lot of garbage to take out "
+      },
+      {
+        "kind": "main",
+        "start": 37,
+        "end": 79,
+        "anchorEnd": 37,
+        "text": "and in Texas there's always a lawn to mow."
+      }
+    ],
+    "notes": [
+      "两个 there be 结构并列。to take out / to mow 的动作由人执行，被修饰名词与动词有宾语关系；不定式用主动形式，意为待处理的事。",
+      "两处 there’s 拆成存在标记 there 与系动词 ’s；always 不计入谓语，to take out 与 to mow 为非谓语修饰。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "text": "'s",
+        "role": "main"
+      }
+    ]
+  },
+  "65": {
+    "text": "I don't talk in my sleep yet, but even if I start, nobody will hear me.",
+    "lessonText": "I don't talk in my sleep yet, but even if I start, nobody will hear me.",
+    "paragraphStart": 116,
+    "paragraphEnd": 187,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "don't talk "
+      ],
+      [
+        "Adverbial",
+        "in my sleep yet, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subordinator",
+        "even if "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "start, "
+      ],
+      [
+        "Subject",
+        "nobody "
+      ],
+      [
+        "Predicate",
+        "will hear "
+      ],
+      [
+        "Object",
+        "me."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 30,
+        "anchorEnd": 0,
+        "text": "I don't talk in my sleep yet, "
+      },
+      {
+        "kind": "main",
+        "start": 30,
+        "end": 71,
+        "anchorEnd": 30,
+        "text": "but even if I start, nobody will hear me."
+      },
+      {
+        "kind": "condition",
+        "start": 34,
+        "end": 51,
+        "anchorEnd": 41,
+        "text": "even if I start, ",
+        "restoration": "talking in my sleep (after start)"
+      }
+    ],
+    "notes": [
+      "even if 表假设“即使”，不表示已经开始。start 后省略 talking in my sleep；nobody 暗示祖父已不在，照应室友主题。",
+      "even if 带让步含义，沿用 Conditional clause 及条件蓝色；start 后省略的 talking in my sleep 仅在提示中注明。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 12,
+        "text": "don't talk",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 49,
+        "text": "start",
+        "role": "sub"
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "text": "will hear",
+        "role": "main"
+      }
+    ]
+  },
+  "66": {
+    "text": "Roommates like him only come along about one a century.",
+    "lessonText": "Roommates like him only come along about one a century.",
+    "paragraphStart": 188,
+    "paragraphEnd": 243,
+    "functions": [
+      [
+        "Subject",
+        "Roommates like him "
+      ],
+      [
+        "Adverbial",
+        "only "
+      ],
+      [
+        "Predicate",
+        "come along "
+      ],
+      [
+        "Adverbial",
+        "about one a century."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "Roommates like him only come along about one a century."
+      }
+    ],
+    "notes": [
+      "like him 修饰 Roommates；about one a century 是压缩的频率说法，近于 at a rate of about one per century。以夸张表达珍爱，并非统计结论。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 34,
+        "text": "come along",
+        "role": "main"
+      }
+    ]
+  }
+}

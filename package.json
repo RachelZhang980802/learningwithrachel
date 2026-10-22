@@ -6,11 +6,13 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "typecheck": "tsc --noEmit --incremental false && tsc --project tsconfig.worker.json --noEmit --incremental false",
+    "types:workers": "wrangler types worker/runtime.d.ts --config worker/types.wrangler.jsonc --include-env false",
     "install:ci": "bash scripts/install-ci.sh",
     "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vite",
     "build": "bash scripts/build-verified.sh",
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
-    "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "test": "npm run build && node --test tests/rendered-html.test.mjs tests/curated-word-layout.test.mjs",
     "lint": "bash scripts/sites-env.sh -- eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "bash scripts/sites-env.sh -- drizzle-kit generate",
     "build:vercel": "NITRO_PRESET=vercel vinext build",

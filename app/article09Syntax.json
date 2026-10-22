@@ -1,0 +1,1170 @@
+{
+  "1": {
+    "text": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
+    "predicates": [
+      {
+        "start": 163,
+        "end": 174,
+        "role": "main",
+        "text": "have relied"
+      },
+      {
+        "start": 212,
+        "end": 216,
+        "role": "sub",
+        "text": "knew"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 208,
+        "end": 234,
+        "anchorEnd": 211,
+        "kind": "relative",
+        "text": "who knew those places well"
+      }
+    ],
+    "notes": []
+  },
+  "2": {
+    "text": "I plan my trips like a cultural interloper, making sure to hit the \"only-here\" greatest hits like the tourist that I very much am.",
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "role": "main",
+        "text": "plan"
+      },
+      {
+        "start": 127,
+        "end": 129,
+        "role": "sub",
+        "text": "am"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 110,
+        "end": 129,
+        "anchorEnd": 114,
+        "kind": "relative",
+        "text": "that I very much am"
+      }
+    ],
+    "notes": []
+  },
+  "3": {
+    "text": "This is not the going wisdom these days.",
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "role": "main",
+        "text": "is"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "4": {
+    "text": "If you have researched a trip in, say, the past five to ten years or so, you may have noticed a recurring and aggressive directive: TRAVEL LIKE A LOCAL!",
+    "predicates": [
+      {
+        "start": 7,
+        "end": 22,
+        "role": "sub",
+        "text": "have researched"
+      },
+      {
+        "start": 77,
+        "end": 93,
+        "role": "main",
+        "text": "may have noticed"
+      },
+      {
+        "start": 132,
+        "end": 138,
+        "role": "main",
+        "text": "TRAVEL"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 0,
+        "end": 71,
+        "anchorEnd": 2,
+        "kind": "condition",
+        "text": "If you have researched a trip in, say, the past five to ten years or so"
+      }
+    ],
+    "notes": [
+      "TRAVEL LIKE A LOCAL! 是 directive 的直接引语；祈使谓语 TRAVEL 用红色，主语 (you) 省略。"
+    ]
+  },
+  "5": {
+    "text": "You've probably also seen the entreaty, the shaming: How to Not Look like a Tourist; How to Not Act like a Tourist; How to Not Be a Tourist.",
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "role": "main",
+        "text": "'ve"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "role": "main",
+        "text": "seen"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ 冒号后的三个 How to… 结构并列，具体说明前面的 entreaty / shaming。"
+    ]
+  },
+  "6": {
+    "text": "On the surface, the promise is an attractive one: You're getting the inside scoop for the best places to eat and shop with none of the tourist traps.",
+    "predicates": [
+      {
+        "start": 28,
+        "end": 30,
+        "role": "main",
+        "text": "is"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "role": "main",
+        "text": "'re getting"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ 冒号后的独立分句解释前面的 promise；两个分句的谓语都用红色。"
+    ]
+  },
+  "7": {
+    "text": "You know only the spots that those truly in the know can find.",
+    "predicates": [
+      {
+        "start": 4,
+        "end": 8,
+        "role": "main",
+        "text": "know"
+      },
+      {
+        "start": 53,
+        "end": 61,
+        "role": "sub",
+        "text": "can find"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 24,
+        "end": 61,
+        "anchorEnd": 28,
+        "kind": "relative",
+        "text": "that those truly in the know can find"
+      }
+    ],
+    "notes": []
+  },
+  "8": {
+    "text": "But it's all a complete farce.",
+    "predicates": [
+      {
+        "start": 6,
+        "end": 8,
+        "role": "main",
+        "text": "'s"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "9": {
+    "text": "At best, \"Travel like a Local\" is a silly paradoxical myth; at worst, it's terrible vacation advice.",
+    "predicates": [
+      {
+        "start": 31,
+        "end": 33,
+        "role": "main",
+        "text": "is"
+      },
+      {
+        "start": 72,
+        "end": 74,
+        "role": "main",
+        "text": "'s"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ 分号连接两个并列主句：is / ’s。"
+    ]
+  },
+  "10": {
+    "text": "For one thing, locals aren't traveling.",
+    "predicates": [
+      {
+        "start": 22,
+        "end": 38,
+        "role": "main",
+        "text": "aren't traveling"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "11": {
+    "text": "They are working.",
+    "predicates": [
+      {
+        "start": 5,
+        "end": 16,
+        "role": "main",
+        "text": "are working"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "12": {
+    "text": "Or folding laundry or cleaning their bathrooms or packing lunches or any of the eight zillion other inane chores that somehow take up every minute of your free time when you are NOT on vacation.",
+    "predicates": [
+      {
+        "start": 126,
+        "end": 133,
+        "role": "sub",
+        "text": "take up"
+      },
+      {
+        "start": 174,
+        "end": 181,
+        "role": "sub",
+        "text": "are NOT"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 113,
+        "end": 193,
+        "anchorEnd": 117,
+        "kind": "relative",
+        "text": "that somehow take up every minute of your free time when you are NOT on vacation"
+      },
+      {
+        "start": 165,
+        "end": 193,
+        "anchorEnd": 169,
+        "kind": "time",
+        "text": "when you are NOT on vacation"
+      }
+    ],
+    "notes": [
+      "↗ (They are) 承接上一句，folding / cleaning / packing 省略了主语和助动词；最后的名词项 any of the… chores 还需要补出 (doing)。补全只作说明，不写入原文。"
+    ]
+  },
+  "13": {
+    "text": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
+    "predicates": [
+      {
+        "start": 7,
+        "end": 23,
+        "role": "main",
+        "text": "are not spending"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "14": {
+    "text": "They are making to-do lists in their heads on cramped morning commutes or scurrying between the grocery store, the dry cleaner, and the pharmacy, trying to complete enough tasks before falling into bed.",
+    "predicates": [
+      {
+        "start": 5,
+        "end": 15,
+        "role": "main",
+        "text": "are making"
+      },
+      {
+        "start": 74,
+        "end": 83,
+        "role": "main",
+        "text": "scurrying"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "15": {
+    "text": "The whole point of travel is to get away from the humdrum of everyday life.",
+    "predicates": [
+      {
+        "start": 26,
+        "end": 28,
+        "role": "main",
+        "text": "is"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "16": {
+    "text": "It is to very much not be a local.",
+    "predicates": [
+      {
+        "start": 3,
+        "end": 5,
+        "role": "main",
+        "text": "is"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "17": {
+    "text": "Put it this way: You simply cannot travel like a local.",
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "role": "main",
+        "text": "Put"
+      },
+      {
+        "start": 28,
+        "end": 41,
+        "role": "main",
+        "text": "cannot travel"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ 冒号连接祈使句 Put it this way 与后面的陈述句。"
+    ]
+  },
+  "18": {
+    "text": "It is a contradiction in terms.",
+    "predicates": [
+      {
+        "start": 3,
+        "end": 5,
+        "role": "main",
+        "text": "is"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "19": {
+    "text": "Staying at a neighborhood Airbnb in Mexico City's Roma doesn't make you a Chilango.",
+    "predicates": [
+      {
+        "start": 55,
+        "end": 67,
+        "role": "main",
+        "text": "doesn't make"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "20": {
+    "text": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
+    "predicates": [
+      {
+        "start": 10,
+        "end": 22,
+        "role": "main",
+        "text": "don't nibble"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "21": {
+    "text": "And rarely do New Yorkers tuck into a three-hour tasting menu on a Tuesday night.",
+    "predicates": [
+      {
+        "start": 11,
+        "end": 13,
+        "role": "main",
+        "text": "do"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "role": "main",
+        "text": "tuck"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "rarely 前置引起部分倒装；do 和 tuck 属于同一主句谓语。"
+    ]
+  },
+  "22": {
+    "text": "And locals certainly don't eat 17 meals in a week at some of the best—and, at times, most expensive—restaurants in town.",
+    "predicates": [
+      {
+        "start": 21,
+        "end": 30,
+        "role": "main",
+        "text": "don't eat"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "23": {
+    "text": "(Perhaps they are saving up to do so when they go on their own non-local sojourn.)",
+    "predicates": [
+      {
+        "start": 14,
+        "end": 27,
+        "role": "main",
+        "text": "are saving up"
+      },
+      {
+        "start": 47,
+        "end": 49,
+        "role": "sub",
+        "text": "go"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 37,
+        "end": 80,
+        "anchorEnd": 41,
+        "kind": "time",
+        "text": "when they go on their own non-local sojourn"
+      }
+    ],
+    "notes": []
+  },
+  "24": {
+    "text": "Locals pick up takeout and watch a junky TV drama in their pajamas.",
+    "predicates": [
+      {
+        "start": 7,
+        "end": 14,
+        "role": "main",
+        "text": "pick up"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "role": "main",
+        "text": "watch"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ and 连接并列谓语 pick up / watch，共用主语 Locals。"
+    ]
+  },
+  "25": {
+    "text": "They're not going to three museums and a boat tour before draining their bank account on regional textiles, which as a non-local you should definitely not miss!",
+    "predicates": [
+      {
+        "start": 4,
+        "end": 17,
+        "role": "main",
+        "text": "'re not going"
+      },
+      {
+        "start": 133,
+        "end": 139,
+        "role": "sub",
+        "text": "should"
+      },
+      {
+        "start": 151,
+        "end": 159,
+        "role": "sub",
+        "text": "not miss"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 108,
+        "end": 159,
+        "anchorEnd": 113,
+        "kind": "relative",
+        "text": "which as a non-local you should definitely not miss"
+      }
+    ],
+    "notes": []
+  },
+  "26": {
+    "text": "Neither do locals wander around a city with fresh eyes until their feet are sore.",
+    "predicates": [
+      {
+        "start": 8,
+        "end": 10,
+        "role": "main",
+        "text": "do"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "role": "main",
+        "text": "wander"
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "role": "sub",
+        "text": "are"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 55,
+        "end": 80,
+        "anchorEnd": 60,
+        "kind": "time",
+        "text": "until their feet are sore"
+      }
+    ],
+    "notes": [
+      "Neither 前置引起部分倒装；do 和 wander 属于同一主句谓语。"
+    ]
+  },
+  "27": {
+    "text": "These are the unique pleasures of being a tourist.",
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "role": "main",
+        "text": "are"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "28": {
+    "text": "Getting the most out of your visit to a place requires acknowledging both ignorance and vulnerability and that you don't know much and need some help.",
+    "predicates": [
+      {
+        "start": 46,
+        "end": 54,
+        "role": "main",
+        "text": "requires"
+      },
+      {
+        "start": 115,
+        "end": 125,
+        "role": "sub",
+        "text": "don't know"
+      },
+      {
+        "start": 135,
+        "end": 139,
+        "role": "sub",
+        "text": "need"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 106,
+        "end": 149,
+        "anchorEnd": 110,
+        "kind": "object",
+        "text": "that you don't know much and need some help"
+      }
+    ],
+    "notes": [
+      "↗ and 连接 don’t know / need，共用从句主语 you。"
+    ]
+  },
+  "29": {
+    "text": "There's nothing wrong with that: Remedial cultural lessons are both fun and necessary.",
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "role": "main",
+        "text": "'s"
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "role": "main",
+        "text": "are"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ 冒号后的独立分句说明前一句，两个谓语都用红色。"
+    ]
+  },
+  "30": {
+    "text": "I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.",
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "role": "main",
+        "text": "love"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "31": {
+    "text": "Sure, I can and have visited markets without guides and enjoyed it, but having an actual expert to explain ingredients and practices I couldn't intuit on my own makes the experience all the richer.",
+    "predicates": [
+      {
+        "start": 8,
+        "end": 11,
+        "role": "main",
+        "text": "can"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "role": "main",
+        "text": "have visited"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "role": "main",
+        "text": "enjoyed"
+      },
+      {
+        "start": 135,
+        "end": 150,
+        "role": "sub",
+        "text": "couldn't intuit"
+      },
+      {
+        "start": 161,
+        "end": 166,
+        "role": "main",
+        "text": "makes"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 133,
+        "end": 160,
+        "anchorEnd": 134,
+        "kind": "relative",
+        "text": "I couldn't intuit on my own"
+      }
+    ],
+    "notes": [
+      "↗ can 后省略 (visit)，不能把原文压缩结构理解成 can visited。",
+      "↗ enjoyed 前可补出 (have)，与 have visited 并列。",
+      "↗ I couldn’t intuit… 前省略关系词 (that / which)，修饰 ingredients and practices；样板补写 (that)。"
+    ]
+  },
+  "32": {
+    "text": "More than that, being that vulnerable, ignorant non-local sometimes gets you special treatment.",
+    "predicates": [
+      {
+        "start": 68,
+        "end": 72,
+        "role": "main",
+        "text": "gets"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "33": {
+    "text": "Some of my best travel experiences arose from a very un-local ineptitude and the kindness and hospitality shown by actual locals.",
+    "predicates": [
+      {
+        "start": 35,
+        "end": 40,
+        "role": "main",
+        "text": "arose"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "34": {
+    "text": "In a small village in northern Thailand, a woman once closed down her coffee shop, despite my pleas not to, to drive me on her motorbike to a rice noodle factory when I merely asked her for directions.",
+    "predicates": [
+      {
+        "start": 54,
+        "end": 65,
+        "role": "main",
+        "text": "closed down"
+      },
+      {
+        "start": 176,
+        "end": 181,
+        "role": "sub",
+        "text": "asked"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 162,
+        "end": 200,
+        "anchorEnd": 166,
+        "kind": "time",
+        "text": "when I merely asked her for directions"
+      }
+    ],
+    "notes": []
+  },
+  "35": {
+    "text": "In Kyoto, when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were—I got an invite into a couple's home to learn kintsugi, the Japanese art of repairing broken pottery with gold or silver.",
+    "predicates": [
+      {
+        "start": 17,
+        "end": 22,
+        "role": "sub",
+        "text": "asked"
+      },
+      {
+        "start": 95,
+        "end": 107,
+        "role": "sub",
+        "text": "did not know"
+      },
+      {
+        "start": 119,
+        "end": 123,
+        "role": "sub",
+        "text": "were"
+      },
+      {
+        "start": 126,
+        "end": 129,
+        "role": "main",
+        "text": "got"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 10,
+        "end": 123,
+        "anchorEnd": 14,
+        "kind": "time",
+        "text": "when I asked about ceramic stores at a small coffee shop—because as a dumb tourist I did not know where they were"
+      },
+      {
+        "start": 67,
+        "end": 123,
+        "anchorEnd": 74,
+        "kind": "reason",
+        "text": "because as a dumb tourist I did not know where they were"
+      },
+      {
+        "start": 108,
+        "end": 123,
+        "anchorEnd": 113,
+        "kind": "object",
+        "text": "where they were"
+      }
+    ],
+    "notes": []
+  },
+  "36": {
+    "text": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
+    "predicates": [
+      {
+        "start": 1,
+        "end": 17,
+        "role": "main",
+        "text": "'ve been whisked"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "37": {
+    "text": "Hospitality to visitors is a gift; embrace it with gratitude, not shame.",
+    "predicates": [
+      {
+        "start": 24,
+        "end": 26,
+        "role": "main",
+        "text": "is"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "role": "main",
+        "text": "embrace"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ 分号连接陈述句与祈使句，is / embrace 都属于主句谓语。"
+    ]
+  },
+  "38": {
+    "text": "The bid to \"Travel like a Local\"—with suggestions to buy the de rigueur anorak in Copenhagen and study maps on your phone lest you stick out as a foreigner—all seems a little middle-schoolish.",
+    "predicates": [
+      {
+        "start": 131,
+        "end": 140,
+        "role": "sub",
+        "text": "stick out"
+      },
+      {
+        "start": 160,
+        "end": 165,
+        "role": "main",
+        "text": "seems"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 122,
+        "end": 155,
+        "anchorEnd": 126,
+        "kind": "purpose",
+        "text": "lest you stick out as a foreigner"
+      }
+    ],
+    "notes": [
+      "样板把 lest… 标签写作“原因状语从句”；这里表示“以免”，按目的状语从句解释，沿用样板的品红色并注明差异。"
+    ]
+  },
+  "39": {
+    "text": "At the stage in life when you can book your own trip abroad, you're old enough to not worry about fitting in.",
+    "predicates": [
+      {
+        "start": 30,
+        "end": 38,
+        "role": "sub",
+        "text": "can book"
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "role": "main",
+        "text": "'re"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 21,
+        "end": 59,
+        "anchorEnd": 25,
+        "kind": "relative",
+        "text": "when you can book your own trip abroad"
+      }
+    ],
+    "notes": []
+  },
+  "40": {
+    "text": "(This is, of course, distinct from respecting local customs on religious and cultural dress.)",
+    "predicates": [
+      {
+        "start": 6,
+        "end": 8,
+        "role": "main",
+        "text": "is"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "41": {
+    "text": "One of the delicious freedoms in traveling is that no one knows you, that there is a very low likelihood that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins.",
+    "predicates": [
+      {
+        "start": 43,
+        "end": 45,
+        "role": "main",
+        "text": "is"
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "role": "sub",
+        "text": "knows"
+      },
+      {
+        "start": 80,
+        "end": 82,
+        "role": "sub",
+        "text": "is"
+      },
+      {
+        "start": 128,
+        "end": 139,
+        "role": "sub",
+        "text": "will happen"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 46,
+        "end": 67,
+        "anchorEnd": 50,
+        "kind": "predicative",
+        "text": "that no one knows you"
+      },
+      {
+        "start": 69,
+        "end": 221,
+        "anchorEnd": 73,
+        "kind": "predicative",
+        "text": "that there is a very low likelihood that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins"
+      },
+      {
+        "start": 105,
+        "end": 221,
+        "anchorEnd": 109,
+        "kind": "appositive",
+        "text": "that your ex-boyfriend will happen upon you covered in dust and sweat after a half day of hiking around temple ruins"
+      }
+    ],
+    "notes": [
+      "两个 that… 表语从句并列；likelihood 后的 that… 是嵌套的同位语从句。"
+    ]
+  },
+  "42": {
+    "text": "You can wear a fanny pack or shoes that you don't mind muddying up.",
+    "predicates": [
+      {
+        "start": 4,
+        "end": 12,
+        "role": "main",
+        "text": "can wear"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "role": "sub",
+        "text": "don't mind"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 35,
+        "end": 66,
+        "anchorEnd": 39,
+        "kind": "relative",
+        "text": "that you don't mind muddying up"
+      }
+    ],
+    "notes": []
+  },
+  "43": {
+    "text": "You can ask a stranger for directions.",
+    "predicates": [
+      {
+        "start": 4,
+        "end": 11,
+        "role": "main",
+        "text": "can ask"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "44": {
+    "text": "Now that I think about it, acting like a tourist in your hometown—which, yes, I admit is also a contradiction in terms—seems like a better way to approach your everyday life too.",
+    "predicates": [
+      {
+        "start": 11,
+        "end": 16,
+        "role": "sub",
+        "text": "think"
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "role": "sub",
+        "text": "admit"
+      },
+      {
+        "start": 86,
+        "end": 88,
+        "role": "sub",
+        "text": "is"
+      },
+      {
+        "start": 119,
+        "end": 124,
+        "role": "main",
+        "text": "seems"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 3,
+        "kind": "reason",
+        "text": "Now that I think about it"
+      },
+      {
+        "start": 66,
+        "end": 118,
+        "anchorEnd": 72,
+        "kind": "relative",
+        "text": "which, yes, I admit is also a contradiction in terms"
+      }
+    ],
+    "notes": [
+      "绿色括号圈出插入评注 I admit；正文与 Structure 均按这一分析展示。which 作关系从句主语，is 是其系动词；admit 是插入评注的谓语。",
+      "Now that… 按原因／反思引入处理；此处带“现在想来”的语用含义。seems 是外层系动词，like 引出表语补足。"
+    ],
+    "parenthesis": {
+      "start": 78,
+      "end": 85
+    }
+  },
+  "45": {
+    "text": "Taking a bus tour through town will give you a completely different perspective.",
+    "predicates": [
+      {
+        "start": 31,
+        "end": 40,
+        "role": "main",
+        "text": "will give"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "46": {
+    "text": "Actually visiting a museum—instead of meaning to—is way more fulfilling than sitting on your couch cruising Twitter and Instagram.",
+    "predicates": [
+      {
+        "start": 49,
+        "end": 51,
+        "role": "main",
+        "text": "is"
+      }
+    ],
+    "clauses": [],
+    "notes": [
+      "↗ meaning to 后省略 (visit a museum)；visiting / sitting / cruising 都不是本句的限定谓语，主句系动词为 is。"
+    ]
+  },
+  "47": {
+    "text": "I've never been to the Statue of Liberty in New York or the Emily Dickinson house in my home state of Massachusetts.",
+    "predicates": [
+      {
+        "start": 1,
+        "end": 15,
+        "role": "main",
+        "text": "'ve never been"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  },
+  "48": {
+    "text": "It's been years since I've visited the Cloisters in Upper Manhattan and many months since I've hiked through the Mt. Holyoke range 15 minutes from the house where I grew up.",
+    "predicates": [
+      {
+        "start": 2,
+        "end": 9,
+        "role": "main",
+        "text": "'s been"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "role": "sub",
+        "text": "'ve visited"
+      },
+      {
+        "start": 91,
+        "end": 100,
+        "role": "sub",
+        "text": "'ve hiked"
+      },
+      {
+        "start": 165,
+        "end": 172,
+        "role": "sub",
+        "text": "grew up"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 16,
+        "end": 67,
+        "anchorEnd": 21,
+        "kind": "time",
+        "text": "since I've visited the Cloisters in Upper Manhattan"
+      },
+      {
+        "start": 84,
+        "end": 172,
+        "anchorEnd": 89,
+        "kind": "time",
+        "text": "since I've hiked through the Mt. Holyoke range 15 minutes from the house where I grew up"
+      },
+      {
+        "start": 157,
+        "end": 172,
+        "anchorEnd": 162,
+        "kind": "relative",
+        "text": "where I grew up"
+      }
+    ],
+    "notes": [
+      "↗ and 后省略 (it's been)：many months 是第二个省略主句的表语；两处 since… 分别归属各自的主句。",
+      "两个 since… 时间状语从句并列；where I grew up 修饰 the house。"
+    ]
+  },
+  "49": {
+    "text": "That urgent tourist energy to see and do all sorts of things is far superior to the apathy of knowing something will always be there.",
+    "predicates": [
+      {
+        "start": 61,
+        "end": 63,
+        "role": "main",
+        "text": "is"
+      },
+      {
+        "start": 112,
+        "end": 116,
+        "role": "sub",
+        "text": "will"
+      },
+      {
+        "start": 124,
+        "end": 126,
+        "role": "sub",
+        "text": "be"
+      }
+    ],
+    "clauses": [
+      {
+        "start": 102,
+        "end": 132,
+        "anchorEnd": 111,
+        "kind": "object",
+        "text": "something will always be there"
+      }
+    ],
+    "notes": [
+      "↗ knowing 后的宾语从句省略了连接词 (that)。"
+    ]
+  },
+  "50": {
+    "text": "Maybe it's best not just to travel like a tourist, but to live like one too.",
+    "predicates": [
+      {
+        "start": 8,
+        "end": 10,
+        "role": "main",
+        "text": "'s"
+      }
+    ],
+    "clauses": [],
+    "notes": []
+  }
+}

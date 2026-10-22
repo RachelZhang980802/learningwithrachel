@@ -13,34 +13,38 @@
     {
       "english": "This method divides the task into more manageable proportions.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/proportion",
-      "chinese": "这种方法将任务划分为更易于管理的部分。"
+      "chinese": "这种方法把任务分解为更容易处理的部分。"
     },
-    null
+    {
+      "english": "4 is to 8 as 6 is to 12.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/proportion",
+      "chinese": "4 比 8 等于 6 比 12。"
+    }
   ],
   "methodical": [
     {
-      "english": "to have a methodical mind",
+      "english": "She is very slow but methodical in her work.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/methodical",
-      "chinese": "有条理的头脑"
+      "chinese": "她做事很慢，但有条不紊。"
     }
   ],
   "thesis": [
     {
       "english": "Students must submit a thesis on an agreed subject within four years.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/thesis",
-      "chinese": "学生必须在四年内提交一篇关于商定主题的论文。"
+      "chinese": "学生必须在四年内提交一篇选题经过认可的论文。"
     }
   ],
   "illustrate": [
     {
       "english": "She illustrated her own books.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/illustrate",
-      "chinese": "她为自己的书配插图。"
+      "chinese": "她给自己的书画插图。"
     },
     {
       "english": "The incident illustrates the need for better security measures.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/illustrate",
-      "chinese": "该事件说明需要采取更好的安全措施。"
+      "chinese": "这次事件说明有必要加强安全措施。"
     }
   ],
   "faculty": [
@@ -50,147 +54,194 @@
       "chinese": "法学院"
     },
     {
-      "english": "the faculty of sight",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/faculty",
-      "chinese": "视觉能力"
-    },
-    {
       "english": "the Law School faculty",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/faculty",
-      "chinese": "法学院的教师。"
+      "chinese": "法学院的全体教师"
+    },
+    {
+      "english": "She retained her mental faculties until the day she died.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/faculty",
+      "chinese": "她直到去世那天仍保持着正常的思维能力。"
+    },
+    {
+      "english": "He had a faculty for seeing his own mistakes.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/faculty",
+      "chinese": "他善于发现自己的错误。"
     }
   ],
   "degree": [
     {
-      "english": "Her job demands a high degree",
+      "english": "I agree with you to a certain degree.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/degree",
-      "chinese": "她的工作要求很高的程度。"
+      "chinese": "我在某种程度上同意你的观点。"
     },
     {
       "english": "Water freezes at 32 degrees Fahrenheit (32°F) or zero/nought degrees Celsius (0°C).",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/degree",
-      "chinese": "水在 32 华氏度 (32°F) 或零/零摄氏度 (0°C) 时结冰。"
+      "chinese": "水在华氏 32 度或摄氏 0 度结冰。"
     },
     {
       "english": "an angle of ninety degrees (90°)",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/degree",
-      "chinese": "九十度角 (90°)"
+      "chinese": "90 度角"
     },
-    null
+    {
+      "english": "I'm hoping to do a chemistry degree.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/degree",
+      "chinese": "我希望攻读化学学位课程。"
+    },
+    {
+      "english": "first-degree murder",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/degree",
+      "chinese": "一级谋杀"
+    }
   ],
   "worth": [
     {
       "english": "Our house is worth about £100 000.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_1",
-      "chinese": "我们的房子价值约10万英镑。"
+      "chinese": "我们的房子大约值 10 万英镑。"
     },
     {
-      "english": "If the price goes up again, he may decide that the game’s not worth the candle.",
+      "english": "This idea is well worth considering.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_1",
-      "chinese": "如果价格再次上涨，他可能会认为这款游戏得不偿失。"
+      "chinese": "这个想法很值得考虑。"
+    },
+    {
+      "english": "The job involves a lot of hard work but it's worth it.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_1",
+      "chinese": "这份工作很辛苦，但值得付出。"
+    },
+    {
+      "english": "He's worth £10 million.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_1",
+      "chinese": "他拥有价值 1,000 万英镑的财产。"
     },
     {
       "english": "The winner will receive fifty pounds' worth of books.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_2",
-      "chinese": "获胜者将获得价值五十英镑的书籍。"
+      "chinese": "获胜者将得到价值 50 英镑的书。"
+    },
+    {
+      "english": "Their contribution was of great worth.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_2",
+      "chinese": "他们的贡献具有很大的价值。"
     }
   ],
   "capacity": [
     {
-      "english": "a fuel tank with a maximum capacity of 50 litres",
+      "english": "The theatre has a seating capacity of 2 000.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
-      "chinese": "最大容量为 50 升的油箱"
+      "chinese": "这座剧院可容纳 2,000 名观众。"
     },
     {
-      "english": "The downturn in the business cycle left the plant with excess capacity",
+      "english": "She was acting in her capacity as manager.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
-      "chinese": "经济周期低迷导致工厂产能过剩"
+      "chinese": "她以经理身份履行职责。"
     },
     {
-      "english": "We are simply involved in an advisory capacity",
+      "english": "The factory is working at (full) capacity.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
-      "chinese": "我们只是提供咨询服务"
+      "chinese": "工厂正在满负荷运转。"
     },
     {
       "english": "an engine with a capacity of 1 600 cc",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
-      "chinese": "排量为 1 600 cc 的发动机"
+      "chinese": "一台排量为 1,600 毫升的发动机"
     }
   ],
   "drive": [
     {
-      "english": "Let's go for a drive",
+      "english": "Let's go for a drive.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_2",
-      "chinese": "我们去兜风吧"
+      "chinese": "我们开车去兜兜风吧。"
     },
     {
-      "english": "The company is launching a big recruitment drive",
+      "english": "The company is launching a big recruitment drive.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_2",
-      "chinese": "公司正在开展大规模招聘活动"
+      "chinese": "公司正开展大规模招聘活动。"
+    },
+    {
+      "english": "The treatment should not affect your sex drive or fertility.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_2",
+      "chinese": "这种治疗不应影响你的性欲或生育能力。"
     },
     {
       "english": "a CD drive",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_2",
-      "chinese": "CD驱动器。"
+      "chinese": "光盘驱动器"
     },
     {
       "english": "There were two cars parked in the drive.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_2",
-      "chinese": "车道上停着两辆车。"
+      "chinese": "私人车道上停着两辆车。"
+    },
+    {
+      "english": "Could you drive me home?",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_1",
+      "chinese": "你能开车送我回家吗？"
+    },
+    {
+      "english": "Hunger drove her to steal.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_1",
+      "chinese": "饥饿迫使她偷窃。"
+    },
+    {
+      "english": "This is the main factor driving investment in the area.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_1",
+      "chinese": "这是推动该地区投资的主要因素。"
+    },
+    {
+      "english": "The interface can be used to drive a printer.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_1",
+      "chinese": "这个接口可用于驱动打印机。"
     }
   ],
   "instinct": [
     {
-      "english": "She did not seem to have any of the usual maternal instincts",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/instinct",
-      "chinese": "她似乎没有任何平常的母性本能"
-    },
-    {
-      "english": "I've always trusted my instincts",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/instinct",
-      "chinese": "我一直相信自己的直觉"
-    },
-    null
+      "english": "She did not seem to have any of the usual maternal instincts.",
+      "chinese": "她似乎没有通常的母性本能。"
+    }
   ],
   "specialize": [
     {
-      "english": "Many students prefer not to specialize too soon.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/specialize",
-      "chinese": "许多学生不愿意太早专业化。"
-    },
-    null
+      "english": "The shop specializes in hand-made chocolates.",
+      "chinese": "这家商店专营手工制作的巧克力。"
+    }
   ],
   "prescribe": [
     {
       "english": "Valium is usually prescribed to treat anxiety.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/prescribe",
-      "chinese": "安定通常用于治疗焦虑症。"
-    },
-    null
+      "chinese": "安定剂通常用于治疗焦躁。"
+    }
   ],
   "junior": [
     {
-      "english": "a junior partner/minister/officer",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/junior_1",
-      "chinese": "初级合伙人/部长/官员"
+      "english": "a junior partner",
+      "chinese": "初级合伙人"
+    },
+    {
+      "english": "He's a member of the club's junior team.",
+      "chinese": "他是俱乐部青年队的成员。"
+    },
+    {
+      "english": "a junior school",
+      "chinese": "小学"
+    },
+    null,
+    {
+      "english": "Sam is going to be a junior next year.",
+      "chinese": "萨姆明年将升入三年级。"
     },
     {
       "english": "She's four years his junior.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/junior_2",
       "chinese": "她比他小四岁。"
-    },
-    {
-      "english": "I spent my junior year in France.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/junior_1",
-      "chinese": "我在法国度过了高中/大学三年级。"
-    },
-    null
+    }
   ],
   "cinch": [
     {
       "english": "He's a cinch to win the race.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/cinch_1",
-      "chinese": "他赢得比赛是轻而易举的事情。"
+      "chinese": "这场比赛他必赢无疑。"
     },
     null,
     null
@@ -198,96 +249,129 @@
   "neglect": [
     {
       "english": "She denies neglecting her baby.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/neglect_1",
-      "chinese": "她否认忽视了她的孩子。"
+      "chinese": "她不承认疏于照顾孩子。"
     },
     {
       "english": "You neglected to mention the name of your previous employer.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/neglect_1",
-      "chinese": "您忘记提及您前任雇主的姓名。"
+      "chinese": "你遗漏了前雇主的名字。"
     },
     {
-      "english": "The buildings are crumbling from years of neglect",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/neglect_2",
-      "chinese": "这些建筑物因多年的疏忽而摇摇欲坠"
+      "english": "The buildings are crumbling from years of neglect.",
+      "chinese": "这些建筑物因多年失修而破败。"
     }
   ],
   "bare": [
     {
-      "english": "She likes to walk around in bare feet",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/bare_1",
-      "chinese": "她喜欢光着脚到处走"
+      "english": "She likes to walk around in bare feet.",
+      "chinese": "她喜欢光着脚走来走去。"
     },
-    null,
-    null,
     {
-      "english": "Naturists believe it's healthy and good to bare all (= take all their clothes off)",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/bare_2",
-      "chinese": "裸体主义者认为一丝不挂是健康而有益的。"
+      "english": "a bare mountainside",
+      "chinese": "光秃秃的山坡"
+    },
+    {
+      "english": "Bare wires were sticking out of the cable.",
+      "chinese": "电缆露出了裸线。"
+    },
+    {
+      "english": "The fridge was completely bare.",
+      "chinese": "冰箱里什么也没有。"
+    },
+    {
+      "english": "the bare essentials",
+      "chinese": "最基本的必需品"
+    },
+    {
+      "english": "The dog bared its teeth and growled.",
+      "chinese": "狗龇牙低吼。"
+    },
+    {
+      "english": "The party on Saturday was bare good!",
+      "chinese": "星期六的聚会棒极了！"
     }
   ],
   "propose": [
     {
-      "english": "The government proposed changes",
+      "english": "The government proposed changes to the voting system.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
-      "chinese": "政府提出了修改方案。"
-    },
-    {
-      "english": "The government proposed changes",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
-      "chinese": "政府提出修改建议"
-    },
-    {
-      "english": "He was afraid that if he proposed she might refuse.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
-      "chinese": "他担心如果他提议，她可能会拒绝。"
+      "chinese": "政府建议修改表决制度。"
     },
     {
       "english": "I propose Tom Ellis for chairman.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
-      "chinese": "我提议汤姆·埃利斯担任主席。"
+      "chinese": "我提名汤姆·埃利斯担任主席。"
+    },
+    {
+      "english": "She proposed to me!",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
+      "chinese": "她向我求婚了！"
+    },
+    {
+      "english": "She proposed a possible solution to the mystery.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
+      "chinese": "她对这个谜提出了一种可能的解答。"
+    },
+    {
+      "english": "I'd like to propose a toast to the bride and groom.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
+      "chinese": "我提议为新郎新娘干杯。"
     }
   ],
   "constitutional": [
     {
       "english": "They can't pass this law. It's not constitutional.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/constitutional_1",
-      "chinese": "他们无法通过这项法律。这不符合宪法。"
+      "chinese": "他们不能通过这项法律；它不符合宪法。"
     },
     {
       "english": "constitutional remedies",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/constitutional_1",
-      "chinese": "宪法补救措施"
+      "chinese": "针对体质的疗法"
     },
     null
   ],
   "reference": [
     {
-      "english": "She made",
+      "english": "She made no reference to her illness but only to her future plans.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
-      "chinese": "她做了"
+      "chinese": "她没有提及自己的病，只谈了未来计划。"
     },
     {
-      "english": "A copy of the booklet is given to the employee for reference.",
+      "english": "Keep the list of numbers near the phone for easy reference.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
-      "chinese": "该小册子的副本将提供给员工以供参考。"
-    },
-    {
-      "english": "I'm sure she'll give you a good reference.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
-      "chinese": "我相信她会给你一个很好的参考。"
+      "chinese": "把号码表放在电话旁，方便查阅。"
     },
     {
       "english": "The map reference is Y4.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
-      "chinese": "地图参考是 Y4。"
+      "chinese": "地图标记编号是 Y4。"
+    },
+    {
+      "english": "The decision was made without reference to local managers.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
+      "chinese": "作出这个决定时没有征询当地经理的意见。"
+    },
+    {
+      "english": "We'll need a reference from your current employer.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
+      "chinese": "我们需要你现任雇主出具推荐信。"
+    },
+    {
+      "english": "There is a list of references at the end of each chapter.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_1",
+      "chinese": "每章末尾都有参考文献目录。"
+    },
+    {
+      "english": "Each chapter is referenced, citing literature up to 2018.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/reference_2",
+      "chinese": "每章都附有参考文献，所引文献最晚至 2018 年。"
     }
   ],
   "memorandum": [
     {
-      "english": "a detailed memorandum to the commission on employment policy",
+      "english": "an internal memorandum",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/memorandum",
-      "chinese": "给就业政策委员会的详细备忘录"
+      "chinese": "内部备忘录"
     },
     {
       "english": "The two sides have signed a memorandum of understanding aimed at ending the conflict.",
@@ -297,167 +381,152 @@
     {
       "english": "a detailed memorandum to the commission on employment policy",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/memorandum",
-      "chinese": "一份提交给就业政策委员会的详细备忘录。"
+      "chinese": "呈交委员会的就业政策详细报告"
     }
   ],
   "authority": [
     {
-      "english": "in a position of authority",
+      "english": "She now has authority over the people who used to be her bosses.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/authority",
-      "chinese": "处于权威地位"
+      "chinese": "她现在管辖过去曾是她上司的人。"
     },
     {
-      "english": "He took the car without authority",
+      "english": "We have the authority to search this building.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/authority",
-      "chinese": "他未经授权就拿走了汽车"
+      "chinese": "我们有权搜查这栋楼。"
     },
     {
       "english": "I have to report this to the authorities.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/authority",
-      "chinese": "我必须向当局报告此事。"
+      "chinese": "我必须向有关当局报告。"
     },
     {
       "english": "He spoke with authority on the topic.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/authority",
-      "chinese": "他在这个话题上的发言很有权威。"
+      "chinese": "他谈论这个话题时很有权威性。"
     }
   ],
   "call on": [
     {
-      "english": "I now call upon the chairman to address the meeting.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/call-on",
-      "chinese": "我现在请主席在会议上讲话。"
+      "english": "She called on the government to hold a vote.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/call_1",
+      "chinese": "她呼吁政府进行投票。"
     },
     {
       "english": "I now call upon the chairman to address the meeting.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/call-on",
-      "chinese": "我现在请主席致辞。"
-    },
-    null,
-    null
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/call_1",
+      "chinese": "现在请主席向大会致辞。"
+    }
   ],
   "industry": [
     {
-      "english": "the needs of British industry",
+      "english": "She got a job in industry.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/industry",
-      "chinese": "英国工业的需求"
+      "chinese": "她找到了一份工业领域的工作。"
     },
     {
-      "english": "the steel/oil/auto industry",
+      "english": "the music/film/tourism industry",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/industry",
-      "chinese": "钢铁/石油/汽车行业"
-    },
-    null
+      "chinese": "音乐／电影／旅游业"
+    }
   ],
   "curious": [
     {
       "english": "There was a curious mixture of people in the audience.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/curious",
-      "chinese": "观众席上的人五花八门。"
-    },
-    {
-      "english": "He is such a curious boy, always asking questions.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/curious",
-      "chinese": "他是一个好奇心很强的孩子，总是问问题。"
-    },
-    null
+      "chinese": "观众中有各式各样的人，组合颇为奇特。"
+    }
   ],
   "mystery": [
     {
       "english": "He's a bit of a mystery.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/mystery",
-      "chinese": "他有点神秘。"
+      "chinese": "他这个人有点儿神秘。"
     },
     {
       "english": "Mystery surrounds her disappearance.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/mystery",
-      "chinese": "她的失踪充满了谜团。"
+      "chinese": "她的失踪笼罩着神秘色彩。"
     },
     {
-      "english": "He is the author of several murder mysteries",
+      "english": "He is the author of several murder mysteries.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/mystery",
-      "chinese": "他是多起谋杀悬疑小说的作者"
+      "chinese": "他写过几部谋杀悬疑小说。"
     },
     {
       "english": "the mystery of creation",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/mystery",
-      "chinese": "创造的奥秘"
+      "chinese": "创世的奥秘"
     }
   ],
   "clear up": [
     {
       "english": "I hope it clears up this afternoon.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/clear-up_1",
-      "chinese": "我希望今天下午天气晴朗。"
+      "chinese": "我希望今天下午天气放晴。"
     },
     {
       "english": "Has your rash cleared up yet?",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/clear-up_1",
-      "chinese": "你的皮疹消了吗？"
+      "chinese": "你的皮疹消退了吗？"
+    },
+    {
+      "english": "Clear up your own mess!",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/clear-up_1",
+      "chinese": "把你弄乱的东西自己收拾好！"
     },
     {
       "english": "a massive clear-up operation",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/clear-up_2",
-      "chinese": "一次大规模的清理行动。"
-    },
-    null
+      "chinese": "一次大规模清理行动"
+    }
   ],
-  "fascinate": [
-    {
-      "english": "Technology has always fascinated humans.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/fascinate",
-      "chinese": "科技一直让人类着迷。"
-    },
-    null,
-    null
-  ],
+  "fascinate": [],
   "essential": [
     {
-      "english": "an essential part/feature",
+      "english": "Experience is essential for this job.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/essential_1",
-      "chinese": "一个重要的部分/特征"
+      "chinese": "做这份工作，经验至关重要。"
     },
-    null,
     {
-      "english": "The essential difference between Sara and me is in our attitude to money.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/essential_1",
-      "chinese": "我和萨拉最本质的区别在于我们对金钱的态度。"
+      "english": "I only had time to pack the bare essentials.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/essential_2",
+      "chinese": "我只来得及装上最基本的必需品。"
+    },
+    {
+      "english": "the essentials of English grammar",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/essential_2",
+      "chinese": "英语语法基础"
     }
   ],
   "suspect": [
     {
-      "english": "a murder suspect",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_2",
-      "chinese": "谋杀嫌疑人"
+      "english": "He was wrongly suspected of the crime.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_1",
+      "chinese": "有人错误地怀疑他犯了罪。"
     },
     {
       "english": "I suspected her motives in offering to help.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_1",
-      "chinese": "我怀疑她主动提供帮助的动机。"
+      "chinese": "她主动提出帮忙，我怀疑她的动机。"
     },
     {
-      "english": "a suspect package (= one that may contain drugs, a bomb, etc.)",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_3",
-      "chinese": "可疑包裹（= 可能含有毒品、炸弹等的包裹）"
+      "english": "He is the prime suspect in the case.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_1",
+      "chinese": "他是此案的头号嫌疑人。"
     },
     {
-      "english": "a suspect package (= one that may contain drugs, a bomb, etc.)",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_3",
-      "chinese": "一个可疑包裹（可能装有毒品、炸弹等）。"
+      "english": "Some of the evidence they produced was highly suspect.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_1",
+      "chinese": "他们出示的证据中有些很不可信。"
     }
   ],
   "sacred": [
     {
-      "english": "a sacred image/shrine/temple",
+      "english": "Cows are sacred to Hindus.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/sacred",
-      "chinese": "神圣的图像/神社/寺庙"
-    },
-    {
-      "english": "Human life must always be sacred.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/sacred",
-      "chinese": "人的生命必须永远是神圣的。"
-    },
-    null
+      "chinese": "印度教徒认为牛是神圣的。"
+    }
   ],
   "democratic": [
     {
@@ -468,7 +537,7 @@
     {
       "english": "a democratic society",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/democratic",
-      "chinese": "民主社会"
+      "chinese": "平等的社会"
     },
     {
       "english": "the Democratic senator from Oregon",
@@ -480,17 +549,17 @@
     {
       "english": "University was the making of Joe.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/making",
-      "chinese": "大学是乔的造就者。"
+      "chinese": "大学造就了乔。"
     },
     {
       "english": "Her first novel has all the makings of a classic.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/making",
-      "chinese": "她的第一部小说具备了经典的所有要素。"
+      "chinese": "她的第一部小说具备成为经典的全部要素。"
     },
     {
-      "english": "strategic decision-making",
+      "english": "These events are history in the making.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/making",
-      "chinese": "战略决策"
+      "chinese": "这些事件正在创造历史。"
     },
     null
   ],
@@ -498,29 +567,26 @@
     {
       "english": "the vanity of human ambition in the face of death",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vanity",
-      "chinese": "人类野心在死亡面前的虚荣"
+      "chinese": "人的抱负在死亡面前的渺小"
     },
     {
       "english": "Politics is too often concerned only with the personal vanities of politicians.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vanity",
-      "chinese": "政治往往只关注政客个人的虚荣。"
+      "chinese": "政治常常只围着政治家的个人虚荣心打转。"
     },
-    null,
     null
   ],
   "ruling": [
-    null,
-    {
-      "english": "The court will make its ruling on the case next week.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/ruling_1",
-      "chinese": "法院将于下周对此案作出裁决。"
-    },
     {
       "english": "the ruling party",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/ruling_2",
       "chinese": "执政党"
     },
-    null
+    {
+      "english": "The court will make its ruling on the case next week.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/ruling_1",
+      "chinese": "法院将于下周对此案作出裁决。"
+    }
   ],
   "universal": [
     {
@@ -1240,14 +1306,18 @@
     {
       "english": "She gets around with the help of a stick.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/get-around",
-      "chinese": "她在拐杖的帮助下四处走动。"
+      "chinese": "她拄着手杖四处走动。"
     },
     {
       "english": "Stuart really gets around—last week he was in Dubai and this week he's in Paris.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/get-around",
-      "chinese": "Stuart真是到处旅行——上周他在迪拜，这周又在巴黎。"
+      "chinese": "斯图尔特真是四处奔走——上周在迪拜，这周又到了巴黎。"
     },
-    null,
+    {
+      "english": "News soon got around that he had resigned.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/get-around",
+      "chinese": "他辞职的消息很快传开了。"
+    },
     {
       "english": "She knows how to get round her dad.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/get-around",
@@ -1267,27 +1337,38 @@
   "hit on": [
     null
   ],
-  "by accident": [
-    null,
-    null,
-    null
-  ],
+  "by accident": [],
   "concentrate on": [
+    {
+      "english": "We need to concentrate resources on the most run-down areas.",
+      "chinese": "我们需要把资源集中用于最衰败的地区。"
+    },
     null,
-    null,
-    null
+    {
+      "english": "jams made with fruit juice concentrate",
+      "chinese": "用浓缩果汁做的果酱"
+    }
   ],
   "intensively": [
-    {
-      "english": "intensively farmed land",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/intensively",
-      "chinese": "集约耕作的土地。"
-    },
     null
   ],
   "rebel at": [
-    null,
-    null
+    {
+      "english": "He later rebelled against his strict religious upbringing.",
+      "chinese": "他后来反抗自己所受的严格宗教教育。"
+    },
+    {
+      "english": "Armed rebels advanced towards the capital.",
+      "chinese": "武装叛乱分子向首都推进。"
+    },
+    {
+      "english": "A number of Tory rebels are planning to vote against the government.",
+      "chinese": "许多持不同意见的保守党人正计划投票反对政府。"
+    },
+    {
+      "english": "I've always been the rebel of the family.",
+      "chinese": "我在家里向来是个叛逆者。"
+    }
   ],
   "positive knowledge": [
     null,
@@ -1296,27 +1377,69 @@
     null
   ],
   "unrelated to": [
-    null
+    {
+      "english": "They have the same name but are, in fact, unrelated.",
+      "chinese": "他们同姓，但其实没有亲属关系。"
+    }
   ],
   "blessed with": [
-    null,
-    null,
-    null,
-    null
+    {
+      "english": "God bless you!",
+      "chinese": "愿上帝保佑你！"
+    },
+    {
+      "english": "The priest blessed the bread and wine.",
+      "chinese": "神父祝圣面包和葡萄酒。"
+    },
+    {
+      "english": "We bless your holy name, O Lord.",
+      "chinese": "主啊，我们颂扬您的圣名。"
+    },
+    {
+      "english": "Bless my soul!",
+      "chinese": "我的天哪！"
+    }
   ],
   "commit sth to memory": [
+    {
+      "english": "commit a crime",
+      "chinese": "犯罪"
+    },
+    {
+      "english": "Making an application does not commit you to anything.",
+      "chinese": "提出申请不会使你承担任何责任。"
+    },
+    {
+      "english": "The council has committed large amounts of money to housing projects.",
+      "chinese": "市政会已向住宅项目投入大量资金。"
+    },
+    {
+      "english": "She was committed to a psychiatric hospital.",
+      "chinese": "她被送进精神病院。"
+    },
+    {
+      "english": "The attackers were committed for trial at Bristol Crown Court.",
+      "chinese": "袭击者被送交布里斯托尔刑事法院受审。"
+    },
     null,
-    null,
-    null,
-    null
+    {
+      "english": "Her father had committed suicide.",
+      "chinese": "她的父亲自杀了。"
+    },
+    {
+      "english": "You don't have to commit yourself now—just think about it.",
+      "chinese": "你不必现在表态，只需考虑一下。"
+    }
   ],
   "intellectually": [
     {
-      "english": "intellectually challenging",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/intellectually",
-      "chinese": "具有智力挑战性的。"
+      "english": "She's very intellectual.",
+      "chinese": "她很有才智。"
     },
-    null
+    {
+      "english": "He was a leading intellectual of his day.",
+      "chinese": "他是那个时代杰出的知识分子。"
+    }
   ],
   "irrelative": [
     null,
@@ -1330,25 +1453,61 @@
   ],
   "attentively": [
     {
-      "english": "The children listened attentively to the story.",
+      "english": "The landlady cared attentively for her residents.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/attentively",
-      "chinese": "孩子们专心地听故事。"
+      "chinese": "房东太太悉心照料住户。"
     }
   ],
   "differ on": [
-    null,
-    null,
-    null
+    {
+      "english": "French differs from English in this respect.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/differ",
+      "chinese": "在这方面，法语与英语不同。"
+    },
+    {
+      "english": "I have to differ with you on that.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/differ",
+      "chinese": "在那一点上，我不能同意你的看法。"
+    }
   ],
   "disagree on": [
-    null,
-    null,
-    null
+    {
+      "english": "Victoria and I obviously disagree on this issue.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/disagree",
+      "chinese": "维多利亚和我在此事上显然意见不同。"
+    }
   ],
   "appeal to sb for help": [
-    null,
-    null,
-    null
+    {
+      "english": "His movies appeal to a broad audience.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_2",
+      "chinese": "他的电影吸引了广泛的观众。"
+    },
+    {
+      "english": "The company is appealing against the ruling.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_2",
+      "chinese": "该公司正对裁决提出上诉。"
+    },
+    {
+      "english": "They needed to appeal to his sense of justice.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_2",
+      "chinese": "他们需要唤起他的正义感。"
+    },
+    {
+      "english": "Police are making a fresh appeal to the public for any information that may help them.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_1",
+      "chinese": "警方再次呼吁公众提供任何可能有帮助的信息。"
+    },
+    {
+      "english": "The Beatles have never really lost their appeal.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_1",
+      "chinese": "披头士的魅力从未真正消失。"
+    },
+    {
+      "english": "The verdict was later overturned on appeal.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_1",
+      "chinese": "该判决后来在上诉中被推翻。"
+    }
   ],
   "Napoleon": [
     null,
@@ -1360,18 +1519,14 @@
     null
   ],
   "era": [
-    {
-      "english": "the Victorian/modern/post-war era",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/era",
-      "chinese": "维多利亚时代／现代／战后时代。"
-    },
     null
   ],
   "disagreeing": [
-    null,
-    null,
-    null,
-    null
+    {
+      "english": "Victoria and I obviously disagree on this issue.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/disagree",
+      "chinese": "维多利亚和我在此事上显然意见不同。"
+    }
   ],
   "clinching": [
     null,
@@ -1379,22 +1534,23 @@
     null
   ],
   "quickening": [
-    null,
-    null
+    {
+      "english": "She felt her heartbeat quicken as he approached.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/quicken",
+      "chinese": "他走近时，她感到自己的心跳加快。"
+    }
   ],
   "cry out": [
     {
-      "english": "She cried out for help.",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/cry-out",
-      "chinese": "她大声呼救。"
-    },
-    {
       "english": "She tried to stop herself from crying out.",
       "source": "https://www.oxfordlearnersdictionaries.com/definition/english/cry-out",
-      "chinese": "她努力忍住不叫喊。"
+      "chinese": "她努力忍住不叫出声。"
     },
-    null,
-    null
+    {
+      "english": "She cried out his name.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/cry-out",
+      "chinese": "她大声喊他的名字。"
+    }
   ],
   "void of something": [
     null,

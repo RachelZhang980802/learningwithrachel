@@ -1,0 +1,32 @@
+.concord-exercises .concord-review-paper { display: grid; grid-template-columns: 165px minmax(0, 1fr); margin: 28px 0; padding: 18px 22px 18px 10px; border-right: 8px solid #ab4640; box-shadow: 5px 6px 0 #c5cdb9; background: #fffefa; }
+.concord-exercises .concord-review-paper aside { align-self: start; font: 15px/1.6 Arial, sans-serif; padding: 10px; margin-right: 18px; background: repeating-linear-gradient(#f4f5e7 0 22px, #e9edd7 23px 24px); }
+.concord-exercises .concord-review-paper p { margin: 0; padding-left: 18px; border-left: 1px solid #b78a70; font: inherit; color: inherit; }
+.articles-analysis-dialog .concord-exercises .concord-correction { display: inline; padding: 2px; line-height: inherit; border-bottom: 1px dotted #71835b; }
+.concord-exercises .concord-original-corrected { text-decoration: line-through; color: #777; }
+.concord-exercises sup { font-size: .7em; margin-right: 1px; }
+.concord-exercises .concord-example { padding: 0 3px; }
+.concord-exercises .concord-note { display: block; margin: 4px 0 8px; line-height: 1.5; }
+.concord-exercises .concord-banks { margin: 16px 0 12px 68px; }
+.concord-exercises .concord-banks > div { display: flex; align-items: baseline; gap: 14px; margin-bottom: 6px; }
+.concord-exercises .concord-banks .ag-word-bank { margin: 0; }
+.concord-exercises .concord-group { margin-bottom: 24px; }
+.concord-exercises .concord-news li { margin: 14px 0 24px; align-items: start; }
+.concord-exercises .concord-news .ag-row-copy { display: block; padding: 10px 14px; background: #fff; box-shadow: 3px 5px 2px #cfd3c4; }
+.concord-exercises .concord-news li:nth-child(odd) .ag-row-copy, .concord-exercises .concord-news li:last-child .ag-row-copy { font-family: Georgia, 'Times New Roman', serif; background: repeating-linear-gradient(#f9fae8 0 23px, #f0f2da 24px 25px); }
+.concord-reader .articles-analysis-toolbar { flex-wrap: wrap; }
+.concord-reader .articles-analysis-toolbar nav { flex-wrap: wrap; }
+.articles-analysis-dialog .concord-exercises button:focus-visible { outline: 2px solid #557d28; outline-offset: 3px; }
+@container (max-width: 620px) {
+  .concord-exercises .concord-review-paper { grid-template-columns: 1fr; padding: 12px; border-right-width: 4px; }
+  .concord-exercises .concord-review-paper aside { margin: 0 0 16px; width: fit-content; }
+  .concord-exercises .concord-review-paper p { padding-left: 0; border: 0; line-height: 1.8; }
+  .concord-exercises .concord-banks { margin-left: 0; }
+  .concord-exercises .concord-news .ag-row-copy { padding: 8px; }
+  .articles-analysis-dialog .concord-exercises .concord-correction { padding: 8px 2px; line-height: 2; }
+  .articles-analysis-dialog .concord-exercises .ag-blank { max-width: 100%; overflow-wrap: anywhere; }
+}
+@media (max-width: 600px) {
+  .concord-reader .articles-analysis-header { align-items: start; }
+  .concord-reader .articles-analysis-close { max-width: 45%; }
+  .concord-reader .articles-analysis-toolbar nav { flex-basis: 100%; }
+}

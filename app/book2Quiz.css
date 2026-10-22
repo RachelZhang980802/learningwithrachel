@@ -1,0 +1,24 @@
+.book2-question { width: 100%; }
+.book2-paragraph { margin: 0 0 .55em; white-space: normal; }
+.book2-paragraph:last-of-type { margin-bottom: .25em; }
+.book2-paragraph strong { font-weight: 700; }
+.book2-bank { display: inline-block; margin: 0 0 .7em; padding: .25em .65em; background: #f7ebdf; border: 1px solid #e5d2bf; color: #4c3c32; font-size: .77em; }
+.book2-answer-flag { display: inline; padding: 0 .18em; border: 0; background: none; color: #9e3e38; font: 1.15em/1 Georgia, serif; cursor: pointer; vertical-align: baseline; }
+.book2-answer-flag:hover,.book2-answer-flag:focus-visible { color: #c22921; text-shadow: 0 0 2px #bf3c35; }
+.book2-fill { display: inline; vertical-align: baseline; }
+.book2-answer-line { display: inline; min-width: 3.6em; padding: 0 .2em .03em; border-bottom: 1px solid #665c52; color: #7f3028; overflow-wrap: anywhere; }
+.book2-answer-line.is-revealed { font-weight: 700; border-color: #a9443b; }
+.book2-final-answer { display: block; margin: .3em 0 .45em; }
+.book2-final-answer .book2-answer-flag { margin: 0 .1em 0 0; }
+.book2-answer-text { color: #74392c; white-space: normal; }
+.book2-review { margin: .5em 0; padding: .25em .6em; border-left: 3px solid #aa5847; background: #fff1e8; color: #733b30; font-size: .73em; line-height: 1.5; }
+.book2-source { display: block; margin-top: .5em; font: 11px/1.5 Arial, sans-serif; color: #726b61; }
+.book2-table-scroll { max-width: 100%; overflow-x: auto; }
+.book2-table { width: 100%; margin: .4em 0; border-collapse: collapse; font: .72em/1.4 Georgia, serif; }
+.book2-table caption { margin-bottom: .35em; text-align: left; font-weight: 700; }
+.book2-table th { background: #eab276; color: #32291f; }
+.book2-table th:first-child { min-width: 7em; }
+.book2-table th:nth-child(2) { min-width: 5em; white-space: nowrap; }
+.book2-table th,.book2-table td { border: 1px solid #cba883; padding: .45em .55em; text-align: left; vertical-align: top; }
+.book2-table td .book2-answer-line { min-width: 2.2em; }
+@media(max-width:650px){.book2-table{font-size:.64em}.book2-table th,.book2-table td{padding:.3em}.book2-source{font-size:10px}}

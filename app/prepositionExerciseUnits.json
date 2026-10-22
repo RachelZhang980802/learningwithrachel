@@ -1,0 +1,2983 @@
+[
+  {
+    "unit": 88,
+    "page": 177,
+    "title": "Prepositions of position and movement",
+    "sections": [
+      {
+        "id": "88.1",
+        "heading": "Complete the sentences with across or over, whichever is correct or more likely. If both are possible, write across / over.",
+        "reference": "A",
+        "rows": [
+          {
+            "id": "88.1-1",
+            "label": "1",
+            "parts": [
+              "After I’d finished work I walked ",
+              {
+                "id": "88.1-1",
+                "answer": "across",
+                "note": ""
+              },
+              " the car park to where Mona was waiting."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-2",
+            "label": "2",
+            "parts": [
+              "They own a house ",
+              {
+                "id": "88.1-2",
+                "answer": "across / over",
+                "note": ""
+              },
+              " the river in the old town."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-3",
+            "label": "3",
+            "parts": [
+              "The gate was locked so we had to climb ",
+              {
+                "id": "88.1-3",
+                "answer": "over",
+                "note": ""
+              },
+              " the wall."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-4",
+            "label": "4",
+            "parts": [
+              "You’re not allowed to walk ",
+              {
+                "id": "88.1-4",
+                "answer": "across / over",
+                "note": ""
+              },
+              " the railway line. You have to use the bridge."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-5",
+            "label": "5",
+            "parts": [
+              "Julie Wafaei was the first woman to row alone ",
+              {
+                "id": "88.1-5",
+                "answer": "across",
+                "note": ""
+              },
+              " the Atlantic."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-6",
+            "label": "6",
+            "parts": [
+              "Nuclear waste is transported ",
+              {
+                "id": "88.1-6",
+                "answer": "across",
+                "note": ""
+              },
+              " the country, despite objections from campaigners."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-7",
+            "label": "7",
+            "parts": [
+              "The traffic was busy on the main road so we walked ",
+              {
+                "id": "88.1-7",
+                "answer": "across",
+                "note": ""
+              },
+              " the pedestrian crossing."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.1-8",
+            "label": "8",
+            "parts": [
+              "She leaned out ",
+              {
+                "id": "88.1-8",
+                "answer": "over",
+                "note": ""
+              },
+              " the balcony rail and looked for Omar in the square below."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "88.2",
+        "heading": "Underline the correct or most appropriate option(s) in each sentence.",
+        "reference": "A & B",
+        "rows": [
+          {
+            "id": "88.2-1",
+            "label": "1",
+            "parts": [
+              "It took several minutes to walk ",
+              {
+                "id": "88.2-1",
+                "prompt": "across / over / along / through",
+                "answer": "along / through",
+                "note": "",
+                "mode": "choice"
+              },
+              " the corridor to the exit."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.2-2",
+            "label": "2",
+            "parts": [
+              "",
+              {
+                "id": "88.2-2",
+                "prompt": "Across / Over / Along / Through",
+                "answer": "Across",
+                "note": "",
+                "mode": "choice"
+              },
+              " the table I could see Oliver looking at his watch."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.2-3",
+            "label": "3",
+            "parts": [
+              "He fell ",
+              {
+                "id": "88.2-3",
+                "prompt": "across / over / along / through",
+                "answer": "through",
+                "note": "",
+                "mode": "choice"
+              },
+              " the floor into the cellar below."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.2-4",
+            "label": "4",
+            "parts": [
+              "I could see Lisa ",
+              {
+                "id": "88.2-4",
+                "prompt": "across / over / along / through",
+                "answer": "across / over",
+                "note": "",
+                "mode": "choice"
+              },
+              " the other side of the river."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.2-5",
+            "label": "5",
+            "parts": [
+              "He cycles thousands of miles each year all ",
+              {
+                "id": "88.2-5",
+                "prompt": "across / over / along / through",
+                "answer": "over",
+                "note": "‘all over’ is more likely than ‘all across’ or ‘all through’",
+                "mode": "choice"
+              },
+              " the country."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "88.2-6",
+            "label": "6",
+            "parts": [
+              "Hotels have been built ",
+              {
+                "id": "88.2-6",
+                "prompt": "across / over / along / through",
+                "answer": "along",
+                "note": "",
+                "mode": "choice"
+              },
+              " the beach for about 25 kilometres."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "88.3",
+        "heading": "Correct the prepositions (above, over, below, under) if necessary, or write ✓.",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "88.3-1",
+            "label": "1",
+            "parts": [
+              "He slept with his wallet below his pillow.",
+              {
+                "id": "88.3-1",
+                "answer": "under",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-2",
+            "label": "2",
+            "parts": [
+              "He broke his leg just below his knee.",
+              {
+                "id": "88.3-2",
+                "answer": "✓",
+                "note": "‘under’ is also possible",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-3",
+            "label": "3",
+            "parts": [
+              "The town stood at the top of the hill, and stretching into the distance under it were green fields.",
+              {
+                "id": "88.3-3",
+                "answer": "below",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-4",
+            "label": "4",
+            "parts": [
+              "She threw a coat above her shoulders and stepped out into the cold.",
+              {
+                "id": "88.3-4",
+                "answer": "over",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-5",
+            "label": "5",
+            "parts": [
+              "He lived in a first-floor flat above a greengrocer’s in Leyton.",
+              {
+                "id": "88.3-5",
+                "answer": "✓",
+                "note": "‘over’ is also possible",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-6",
+            "label": "6",
+            "parts": [
+              "When the police got to the car they found the driver slumped above the steering wheel.",
+              {
+                "id": "88.3-6",
+                "answer": "over",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-7",
+            "label": "7",
+            "parts": [
+              "He always wore a vest below his shirt, even in summer.",
+              {
+                "id": "88.3-7",
+                "answer": "under",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.3-8",
+            "label": "8",
+            "parts": [
+              "I could hear the plane flying high over the clouds.",
+              {
+                "id": "88.3-8",
+                "answer": "✓",
+                "note": "‘above’ is also possible",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      },
+      {
+        "id": "88.4",
+        "heading": "A number of common idioms include the prepositions in this unit. Match the idioms in italics to their meanings below.",
+        "reference": "",
+        "rows": [
+          {
+            "id": "88.4-1",
+            "label": "1",
+            "parts": [
+              "A: What’s wrong?\\nB: I’m just feeling rather *under the weather*.",
+              {
+                "id": "88.4-1",
+                "answer": "c — under the weather = ill",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.4-2",
+            "label": "2",
+            "parts": [
+              "A: You never arrive on time. You’d be late for your own funeral, you would!\\nB: That’s a bit *below the belt*, isn’t it?",
+              {
+                "id": "88.4-2",
+                "answer": "d — below the belt = cruel or unfair",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.4-3",
+            "label": "3",
+            "parts": [
+              "She already has 18 books on gardening *under her belt* and she is now working on number 19.",
+              {
+                "id": "88.4-3",
+                "answer": "b — under her belt = successfully completed",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.4-4",
+            "label": "4",
+            "parts": [
+              "He had never played well for the club and left *under a cloud*.",
+              {
+                "id": "88.4-4",
+                "answer": "e — under a cloud = with some people’s disapproval",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.4-5",
+            "label": "5",
+            "parts": [
+              "She lost her temper and went completely *over the top*, accusing him of cheating.",
+              {
+                "id": "88.4-5",
+                "answer": "f — over the top = extreme behaviour; indicating disapproval",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "88.4-6",
+            "label": "6",
+            "parts": [
+              "They received a bonus in December *over and above* their monthly salary.",
+              {
+                "id": "88.4-6",
+                "answer": "a — over and above = in addition to",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ],
+        "definitions": [
+          "a   in addition to",
+          "b   successfully completed",
+          "c   ill",
+          "d   cruel or unfair",
+          "e   with some people’s disapproval",
+          "f   extreme behaviour; indicating disapproval"
+        ]
+      }
+    ]
+  },
+  {
+    "unit": 89,
+    "page": 179,
+    "title": "Between and among",
+    "sections": [
+      {
+        "id": "89.1",
+        "heading": "Underline the correct option.",
+        "reference": "A",
+        "rows": [
+          {
+            "id": "89.1-1",
+            "label": "1",
+            "parts": [
+              "For a couple of days I’ve had a pain ",
+              {
+                "id": "89.1-1",
+                "prompt": "between / among",
+                "answer": "between",
+                "note": "",
+                "mode": "choice"
+              },
+              " my shoulder blades."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-2",
+            "label": "2",
+            "parts": [
+              "He couldn’t find a microphone ",
+              {
+                "id": "89.1-2",
+                "prompt": "between / among",
+                "answer": "among",
+                "note": "",
+                "mode": "choice"
+              },
+              " all the recording equipment he had with him."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-3",
+            "label": "3",
+            "parts": [
+              "It would be easier to read if you put a line space ",
+              {
+                "id": "89.1-3",
+                "prompt": "between / among",
+                "answer": "between",
+                "note": "",
+                "mode": "choice"
+              },
+              " the paragraphs."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-4",
+            "label": "4",
+            "parts": [
+              "In the photograph Anna is standing ",
+              {
+                "id": "89.1-4",
+                "prompt": "between / among",
+                "answer": "between",
+                "note": "",
+                "mode": "choice"
+              },
+              " her parents."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-5",
+            "label": "5",
+            "parts": [
+              "The lost manuscript was discovered ",
+              {
+                "id": "89.1-5",
+                "prompt": "between / among",
+                "answer": "among",
+                "note": "",
+                "mode": "choice"
+              },
+              " the thousands of books in the cellar."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-6",
+            "label": "6",
+            "parts": [
+              "The buffet is towards the middle of the train ",
+              {
+                "id": "89.1-6",
+                "prompt": "between / among",
+                "answer": "between",
+                "note": "",
+                "mode": "choice"
+              },
+              " the first and second class sections."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-7",
+            "label": "7",
+            "parts": [
+              "She carried trays of drinks and food ",
+              {
+                "id": "89.1-7",
+                "prompt": "between / among",
+                "answer": "among",
+                "note": "",
+                "mode": "choice"
+              },
+              " the crowd of guests in the room."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-8",
+            "label": "8",
+            "parts": [
+              "I couldn’t see Robbie ",
+              {
+                "id": "89.1-8",
+                "prompt": "between / among",
+                "answer": "among",
+                "note": "",
+                "mode": "choice"
+              },
+              " the audience, although he said he’d be there."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.1-9",
+            "label": "9",
+            "parts": [
+              "Rebecca commutes ",
+              {
+                "id": "89.1-9",
+                "prompt": "between / among",
+                "answer": "between",
+                "note": "",
+                "mode": "choice"
+              },
+              " her flat in Paris and her office in Brussels."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "89.2",
+        "heading": "Complete the sentences with between or among and the most likely words or phrases from the box. If you can use either, write between / among.",
+        "reference": "B",
+        "rows": [
+          {
+            "id": "89.2-1",
+            "label": "1",
+            "parts": [
+              "I wasn’t feeling very hungry, so Daniel and I shared a bowl of noodles ",
+              {
+                "id": "89.2-1",
+                "answer": "between us",
+                "note": ""
+              },
+              "."
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "89.2-2",
+            "label": "2",
+            "parts": [
+              "I bought four bars of chocolate and divided them ",
+              {
+                "id": "89.2-2",
+                "answer": "between / among the pupils",
+                "note": ""
+              },
+              " in the class."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-3",
+            "label": "3",
+            "parts": [
+              "The distinction ",
+              {
+                "id": "89.2-3",
+                "answer": "between amateur",
+                "note": ""
+              },
+              " and professional athletes is becoming less clear."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-4",
+            "label": "4",
+            "parts": [
+              "It has become fashionable ",
+              {
+                "id": "89.2-4",
+                "answer": "among teenagers",
+                "note": ""
+              },
+              " to dye their hair in various colours."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-5",
+            "label": "5",
+            "parts": [
+              "When Malik died, his daughter inherited the house and the rest of his money was split ",
+              {
+                "id": "89.2-5",
+                "answer": "between / among his remaining relatives",
+                "note": ""
+              },
+              "."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-6",
+            "label": "6",
+            "parts": [
+              "The advertising company is very successful, numbering most of the big banks ",
+              {
+                "id": "89.2-6",
+                "answer": "among its clients",
+                "note": ""
+              },
+              "."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-7",
+            "label": "7",
+            "parts": [
+              "Researchers have found a striking correlation ",
+              {
+                "id": "89.2-7",
+                "answer": "between intake of refined sugar",
+                "note": ""
+              },
+              " and arthritis."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-8",
+            "label": "8",
+            "parts": [
+              "Given a choice ",
+              {
+                "id": "89.2-8",
+                "answer": "between cooking",
+                "note": ""
+              },
+              " and washing up, I know which I’d prefer to do."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-9",
+            "label": "9",
+            "parts": [
+              "Luka and Ivan are ",
+              {
+                "id": "89.2-9",
+                "answer": "among my closest friends",
+                "note": ""
+              },
+              ", so I’ll invite them to the wedding, of course."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "89.2-10",
+            "label": "10",
+            "parts": [
+              "Late last night the talks ",
+              {
+                "id": "89.2-10",
+                "answer": "between the striking dockers",
+                "note": ""
+              },
+              " and their employers broke down."
+            ],
+            "kind": "normal"
+          }
+        ],
+        "words": [
+          "amateur",
+          "its clients",
+          "my closest friends",
+          "cooking",
+          "intake of refined sugar",
+          "the pupils",
+          "his remaining relatives",
+          "the striking dockers",
+          "teenagers",
+          "~~us~~"
+        ]
+      },
+      {
+        "id": "89.3",
+        "heading": "Complete this email with between or among.",
+        "reference": "A & B",
+        "rows": [
+          {
+            "id": "89.3-email",
+            "label": "",
+            "parts": [
+              "Hi Mum and Dad!\nRome must be (1) ",
+              {
+                "id": "89.3-1",
+                "answer": "among",
+                "note": ""
+              },
+              " the most fascinating cities in the world. Yesterday we visited, (2) ",
+              {
+                "id": "89.3-2",
+                "answer": "among",
+                "note": ""
+              },
+              " other places, the Foro Romano – the centre of ancient Rome – and the Vatican. There is such an incredible contrast (3) ",
+              {
+                "id": "89.3-3",
+                "answer": "between",
+                "note": ""
+              },
+              " the old parts of the city built up to 2,000 years ago and the more recent parts. In the Vatican we climbed the long stairs to the top of St Peter’s church. The view from the top must be (4) ",
+              {
+                "id": "89.3-4",
+                "answer": "among",
+                "note": ""
+              },
+              " the most incredible over any city in the world. But (5) ",
+              {
+                "id": "89.3-5",
+                "answer": "between",
+                "note": ""
+              },
+              " you and me, I’m a bit scared of heights and was glad to get back to ground level. Later we went to the Pantheon, an ancient Roman temple, which is (6) ",
+              {
+                "id": "89.3-6",
+                "answer": "between",
+                "note": ""
+              },
+              " the Vatican and the Foro Romano. The Italian king Umberto I and the artist Raphael are (7) ",
+              {
+                "id": "89.3-7",
+                "answer": "among",
+                "note": ""
+              },
+              " the people buried there. In the evening there was a bit of an argument (8) ",
+              {
+                "id": "89.3-8",
+                "answer": "between",
+                "note": ""
+              },
+              " us over where we should eat – Jo wanted pizza, but I wanted to try some of the special local food. Eventually we found a place that did excellent pasta, (9) ",
+              {
+                "id": "89.3-9",
+                "answer": "among",
+                "note": ""
+              },
+              " other things. The only problem then was choosing (10) ",
+              {
+                "id": "89.3-10",
+                "answer": "between",
+                "note": ""
+              },
+              " the many different types!\nWill be in touch again when I can.\nLove, Keira"
+            ]
+          }
+        ],
+        "email": true
+      }
+    ]
+  },
+  {
+    "unit": 90,
+    "page": 181,
+    "title": "Prepositions of time",
+    "sections": [
+      {
+        "id": "90.1",
+        "heading": "In which of the sentences can the word in brackets replace during? Write ✓ if it can replace it and ✗ if it can’t.",
+        "reference": "A & B",
+        "rows": [
+          {
+            "id": "90.1-1",
+            "label": "1",
+            "parts": [
+              "I’m going to get a cup of coffee *during* the break. (*in*)",
+              {
+                "id": "90.1-1",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-2",
+            "label": "2",
+            "parts": [
+              "She lost more than 15 kilos *during* her illness and she was off work for two months. (*in*)",
+              {
+                "id": "90.1-2",
+                "answer": "✗",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-3",
+            "label": "3",
+            "parts": [
+              "He twisted his ankle *during* the match and had to retire injured. (*over*)",
+              {
+                "id": "90.1-3",
+                "answer": "✗",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-4",
+            "label": "4",
+            "parts": [
+              "The weather was terrible here *during* December. (*in*)",
+              {
+                "id": "90.1-4",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-5",
+            "label": "5",
+            "parts": [
+              "The meeting will be some time *during* January. (*over*)",
+              {
+                "id": "90.1-5",
+                "answer": "✗",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-6",
+            "label": "6",
+            "parts": [
+              "People no longer expect to be employed in the same place *during* the whole of their working lives. (*in*)",
+              {
+                "id": "90.1-6",
+                "answer": "✗",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-7",
+            "label": "7",
+            "parts": [
+              "Do you think standards of numeracy have fallen *during* the last 20 years? (*over*)",
+              {
+                "id": "90.1-7",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-8",
+            "label": "8",
+            "parts": [
+              "She sang in a choir *during* her childhood. (*throughout*)",
+              {
+                "id": "90.1-8",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-9",
+            "label": "9",
+            "parts": [
+              "The town was rebuilt *during* the early 16th century. (*over*)",
+              {
+                "id": "90.1-9",
+                "answer": "✗",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-10",
+            "label": "10",
+            "parts": [
+              "It was impossible to buy bananas *during* the war. (*in*)",
+              {
+                "id": "90.1-10",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-11",
+            "label": "11",
+            "parts": [
+              "Karl had a phone call *during* the meal and had to leave early. (*in*)",
+              {
+                "id": "90.1-11",
+                "answer": "✗",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "90.1-12",
+            "label": "12",
+            "parts": [
+              "My stomach ache got steadily worse *during* the evening. (*over*)",
+              {
+                "id": "90.1-12",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      },
+      {
+        "id": "90.2",
+        "heading": "Complete the pairs of sentences with by and until. Use by in one sentence and until in the other.",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "90.2-1 a",
+            "label": "1 a",
+            "parts": [
+              "I was feeling really hungry ",
+              {
+                "id": "90.2-1 a",
+                "answer": "by",
+                "note": ""
+              },
+              " the time dinner was served."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-1 b",
+            "label": "1 b",
+            "parts": [
+              "We sat around the fire talking ",
+              {
+                "id": "90.2-1 b",
+                "answer": "until",
+                "note": "‘until’ would also be possible in (a). It would mean, however, that up to the time dinner was served I was hungry, and then when it was served (but before I ate it) I was not. Perhaps the food was so unappetising that I couldn’t face eating it; ‘by’ in (a) simply means that I was hungry when dinner was served."
+              },
+              " the time dinner was served."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-2 a",
+            "label": "2 a",
+            "parts": [
+              "Sorry I’m late. I’ve been in a meeting ",
+              {
+                "id": "90.2-2 a",
+                "answer": "until",
+                "note": ""
+              },
+              " now."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-2 b",
+            "label": "2 b",
+            "parts": [
+              "I thought Lars would have been here ",
+              {
+                "id": "90.2-2 b",
+                "answer": "by",
+                "note": ""
+              },
+              " now."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-3 a",
+            "label": "3 a",
+            "parts": [
+              "I’ve got to pay the money back ",
+              {
+                "id": "90.2-3 a",
+                "answer": "by",
+                "note": ""
+              },
+              " the end of the month."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-3 b",
+            "label": "3 b",
+            "parts": [
+              "I’ve got ",
+              {
+                "id": "90.2-3 b",
+                "answer": "until",
+                "note": ""
+              },
+              " the end of the month to pay the money back."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-4 a",
+            "label": "4 a",
+            "parts": [
+              "I put on an extra pair of socks. ",
+              {
+                "id": "90.2-4 a",
+                "answer": "Until",
+                "note": ""
+              },
+              " then my feet were freezing cold."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-4 b",
+            "label": "4 b",
+            "parts": [
+              "I stood outside the cinema for an hour. ",
+              {
+                "id": "90.2-4 b",
+                "answer": "By",
+                "note": "‘By’ would also be possible in (a)."
+              },
+              " then my feet were freezing cold."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-5 a",
+            "label": "5 a",
+            "parts": [
+              "She was already a leading economist ",
+              {
+                "id": "90.2-5 a",
+                "answer": "by",
+                "note": ""
+              },
+              " her early twenties."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-5 b",
+            "label": "5 b",
+            "parts": [
+              "She studied economics ",
+              {
+                "id": "90.2-5 b",
+                "answer": "until",
+                "note": ""
+              },
+              " her early twenties and then moved into law."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-6 a",
+            "label": "6 a",
+            "parts": [
+              "I hope to finish the decorating ",
+              {
+                "id": "90.2-6 a",
+                "answer": "by",
+                "note": ""
+              },
+              " the weekend."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "90.2-6 b",
+            "label": "6 b",
+            "parts": [
+              "It will take me ",
+              {
+                "id": "90.2-6 b",
+                "answer": "until",
+                "note": ""
+              },
+              " the weekend to finish the decorating."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "90.3",
+        "heading": "Underline the correct or more likely option (or both if possible) in this email.",
+        "reference": "A–C",
+        "rows": [
+          {
+            "id": "90.3-email",
+            "label": "",
+            "parts": [
+              "Hi Pete\n(1) ",
+              {
+                "id": "90.3-1",
+                "answer": "Over / During",
+                "note": "",
+                "mode": "choice",
+                "prompt": "Over / During"
+              },
+              " the last three weeks we’ve covered thousands of kilometres by train. (2) ",
+              {
+                "id": "90.3-2",
+                "answer": "So far",
+                "note": "",
+                "mode": "choice",
+                "prompt": "So far / Until now"
+              },
+              " we’ve been to Stockholm, Berlin and Rome, and now we’re in Amsterdam. (3) ",
+              {
+                "id": "90.3-3",
+                "answer": "Until now",
+                "note": "",
+                "mode": "choice",
+                "prompt": "So far / Until now"
+              },
+              " I thought Rome was the best city we’d been to, but I think I love Amsterdam even more. We’ve been here for three days, and have been very impressed with what we’ve seen (4) ",
+              {
+                "id": "90.3-4",
+                "answer": "so far",
+                "note": "",
+                "mode": "choice",
+                "prompt": "so far / until now"
+              },
+              ". We spent the first two days in galleries, looking particularly at Van Gogh’s paintings. I didn’t know much about his work (5) ",
+              {
+                "id": "90.3-5",
+                "answer": "until now",
+                "note": "",
+                "mode": "choice",
+                "prompt": "so far / until now"
+              },
+              ". Incidentally, we bumped into your friend Eleni (6) ",
+              {
+                "id": "90.3-6",
+                "answer": "during",
+                "note": "",
+                "mode": "choice",
+                "prompt": "in / during"
+              },
+              " our visit to the Van Gogh museum. We’re staying here (7) ",
+              {
+                "id": "90.3-7",
+                "answer": "until",
+                "note": "",
+                "mode": "choice",
+                "prompt": "until / by"
+              },
+              " Saturday and then we’re going to Paris. Must go now. We’re off to The Hague for the day and have to be at the station (8) ",
+              {
+                "id": "90.3-8",
+                "answer": "by",
+                "note": "",
+                "mode": "choice",
+                "prompt": "until / by"
+              },
+              " 9:30.\nHope all is well with you.\nLove, Keira"
+            ]
+          }
+        ],
+        "email": true
+      }
+    ]
+  },
+  {
+    "unit": 91,
+    "page": 183,
+    "title": "Talking about exceptions",
+    "sections": [
+      {
+        "id": "91.1",
+        "heading": "Complete the sentences with except or except for. Indicate where both are possible.",
+        "reference": "A & C",
+        "rows": [
+          {
+            "id": "91.1-1",
+            "label": "1",
+            "parts": [
+              "He was dressed very smartly ",
+              {
+                "id": "91.1-1",
+                "answer": "except",
+                "note": ""
+              },
+              " that his shoes were dirty."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-2",
+            "label": "2",
+            "parts": [
+              "I liked everything in the meal ",
+              {
+                "id": "91.1-2",
+                "answer": "except / except for",
+                "note": ""
+              },
+              " the cabbage."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-3",
+            "label": "3",
+            "parts": [
+              "I had nothing to do ",
+              {
+                "id": "91.1-3",
+                "answer": "except",
+                "note": ""
+              },
+              " sit by the pool and relax."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-4",
+            "label": "4",
+            "parts": [
+              "We would have gone walking last week ",
+              {
+                "id": "91.1-4",
+                "answer": "except for",
+                "note": "In informal contexts; more formally, ‘but for’ is possible."
+              },
+              " the terrible weather."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-5",
+            "label": "5",
+            "parts": [
+              "She had no choice ",
+              {
+                "id": "91.1-5",
+                "answer": "except",
+                "note": ""
+              },
+              " to wait for the next train."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-6",
+            "label": "6",
+            "parts": [
+              "There are very few wolves left in the country ",
+              {
+                "id": "91.1-6",
+                "answer": "except / except for",
+                "note": "‘except for’ in informal contexts"
+              },
+              " in the northern forests."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-7",
+            "label": "7",
+            "parts": [
+              "All the puddings on the menu cost €6 ",
+              {
+                "id": "91.1-7",
+                "answer": "except / except for",
+                "note": ""
+              },
+              " the ice cream, which was €4."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-8",
+            "label": "8",
+            "parts": [
+              "I’m in the office all the time ",
+              {
+                "id": "91.1-8",
+                "answer": "except / except for",
+                "note": "‘except for’ in informal contexts"
+              },
+              " at lunchtimes."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-9",
+            "label": "9",
+            "parts": [
+              "She might have won the race ",
+              {
+                "id": "91.1-9",
+                "answer": "except for",
+                "note": "In informal contexts; more formally, ‘but for’ is also possible."
+              },
+              " hitting the last fence."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-10",
+            "label": "10",
+            "parts": [
+              "The plant is found on every continent ",
+              {
+                "id": "91.1-10",
+                "answer": "except / except for",
+                "note": ""
+              },
+              " Africa."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-11",
+            "label": "11",
+            "parts": [
+              "He gave no excuse for turning up late ",
+              {
+                "id": "91.1-11",
+                "answer": "except",
+                "note": ""
+              },
+              " that he was tired."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "91.1-12",
+            "label": "12",
+            "parts": [
+              "I drove all the way without stopping ",
+              {
+                "id": "91.1-12",
+                "answer": "except",
+                "note": ""
+              },
+              " to buy petrol."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "91.2",
+        "heading": "If necessary, correct these sentences with besides or except (for). If the sentence is already correct, write ✓.",
+        "reference": "B",
+        "rows": [
+          {
+            "id": "91.2-1",
+            "label": "1",
+            "parts": [
+              "She had never been out of the country besides a week in Ireland as a child.",
+              {
+                "id": "91.2-1",
+                "answer": "besides → except for",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.2-2",
+            "label": "2",
+            "parts": [
+              "Besides being small, Denmark is very flat, with villages linked by country roads.",
+              {
+                "id": "91.2-2",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.2-3",
+            "label": "3",
+            "parts": [
+              "The new road will increase traffic in the area except for damaging an area of woodland.",
+              {
+                "id": "91.2-3",
+                "answer": "except for → besides",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.2-4",
+            "label": "4",
+            "parts": [
+              "Except for his novels, Campbell wrote a number of biographies.",
+              {
+                "id": "91.2-4",
+                "answer": "Except for → Besides",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.2-5",
+            "label": "5",
+            "parts": [
+              "There was nothing in the fridge besides a rather mouldy piece of cheese.",
+              {
+                "id": "91.2-5",
+                "answer": "besides → except (for)",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.2-6",
+            "label": "6",
+            "parts": [
+              "He was unhurt in the crash except for a bruise on his forehead.",
+              {
+                "id": "91.2-6",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ],
+        "figure": {
+          "src": "/prepositions-analysis/exercises-91.jpg",
+          "viewBox": "210 910 1160 355",
+          "width": 1482,
+          "height": 2053,
+          "alt": "Original illustration: a blue car has crashed into a tree; a man stands beside it with a bruise on his forehead."
+        }
+      },
+      {
+        "id": "91.3",
+        "heading": "Match pairs of sentences and rewrite them as single sentences beginning But for the … .",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "91.3-1",
+            "label": "1",
+            "parts": [
+              "Katerina gave me excellent directions.",
+              {
+                "id": "91.3-1",
+                "answer": "1 + e — But for the excellent directions Katerina gave me, I would have got totally lost.",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "91.3-2",
+            "label": "2",
+            "parts": [
+              "The bad weather caused interruptions.",
+              {
+                "id": "91.3-2",
+                "answer": "2 + a — But for the interruptions caused by the bad weather, the building would have been completed by now.",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.3-3",
+            "label": "3",
+            "parts": [
+              "The charity supplied food and medicines.",
+              {
+                "id": "91.3-3",
+                "answer": "3 + c — But for the supply of food and medicines by the charity, many more people would have died in the famine.",
+                "note": "Or: But for the food and medicines supplied by the charity …",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.3-4",
+            "label": "4",
+            "parts": [
+              "The trees provided shelter.",
+              {
+                "id": "91.3-4",
+                "answer": "4 + f — But for the shelter provided by the trees, the wind would have caused even more damage to the house.",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.3-5",
+            "label": "5",
+            "parts": [
+              "The EU threatened sanctions.",
+              {
+                "id": "91.3-5",
+                "answer": "5 + b — But for the threat of sanctions by the EU, human rights would not have improved in the country.",
+                "note": "Or: But for the sanctions threatened by the EU …",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "91.3-6",
+            "label": "6",
+            "parts": [
+              "The bank gave me a loan.",
+              {
+                "id": "91.3-6",
+                "answer": "6 + d — But for the loan from the bank, I would not have been able to set up my business.",
+                "note": "Or: But for the loan the bank gave me … / … given to me by the bank …",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ],
+        "definitions": [
+          "a   If it hadn’t, the building would have been completed by now.",
+          "b   Without this, human rights would not have improved in the country.",
+          "c   Otherwise, many more people would have died in the famine.",
+          "d   If it hadn’t, I would not have been able to set up my business.",
+          "e   ~~Without these, I would have got totally lost.~~",
+          "f   Otherwise, the wind would have caused even more damage to the house."
+        ],
+        "matching": true
+      }
+    ]
+  },
+  {
+    "unit": 92,
+    "page": 185,
+    "title": "Prepositions after verbs",
+    "sections": [
+      {
+        "id": "92.1",
+        "heading": "Cross out any incorrect prepositions.",
+        "reference": "A",
+        "rows": [
+          {
+            "id": "92.1-1",
+            "label": "1",
+            "parts": [
+              "I only advertised the car for sale on Wednesday, but by the end of the week ten people had phoned to ask ",
+              {
+                "id": "92.1-1",
+                "prompt": "of / for / about",
+                "answer": "about",
+                "note": "",
+                "mode": "choice"
+              },
+              " it."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.1-2",
+            "label": "2",
+            "parts": [
+              "We can learn a great deal ",
+              {
+                "id": "92.1-2",
+                "prompt": "after / about / for",
+                "answer": "about",
+                "note": "",
+                "mode": "choice"
+              },
+              " the oceans by studying even a small piece of coral."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.1-3",
+            "label": "3",
+            "parts": [
+              "I didn’t agree ",
+              {
+                "id": "92.1-3",
+                "prompt": "about / for / with",
+                "answer": "with",
+                "note": "",
+                "mode": "choice"
+              },
+              " a word of what she said."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.1-4",
+            "label": "4",
+            "parts": [
+              "Professor Owen is giving a talk ",
+              {
+                "id": "92.1-4",
+                "prompt": "of / with / on",
+                "answer": "on",
+                "note": "",
+                "mode": "choice"
+              },
+              " the Romans in Lecture Hall 1."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.1-5",
+            "label": "5",
+            "parts": [
+              "I had to care ",
+              {
+                "id": "92.1-5",
+                "prompt": "for / after / about",
+                "answer": "for",
+                "note": "",
+                "mode": "choice"
+              },
+              " my elderly parents when they both became ill."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.1-6",
+            "label": "6",
+            "parts": [
+              "For many years we have been arguing ",
+              {
+                "id": "92.1-6",
+                "prompt": "for / on / with",
+                "answer": "for",
+                "note": "",
+                "mode": "choice"
+              },
+              " changes in the way the college is managed."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.1-7",
+            "label": "7",
+            "parts": [
+              "She didn’t know ",
+              {
+                "id": "92.1-7",
+                "prompt": "of / about / on",
+                "answer": "of / about",
+                "note": "",
+                "mode": "choice"
+              },
+              " her stepbrother’s existence until her mother died."
+            ],
+            "kind": "normal"
+          }
+        ],
+        "crossOut": true
+      },
+      {
+        "id": "92.2",
+        "heading": "Complete the sentences using the correct or most appropriate preposition from section A. Sometimes two answers are possible.",
+        "reference": "A & B",
+        "rows": [
+          {
+            "id": "92.2-1",
+            "label": "1",
+            "parts": [
+              "On the website they ask ",
+              {
+                "id": "92.2-1",
+                "answer": "for",
+                "note": ""
+              },
+              " your email address."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-2",
+            "label": "2",
+            "parts": [
+              "I first learnt ",
+              {
+                "id": "92.2-2",
+                "answer": "of / about",
+                "note": ""
+              },
+              " his decision to resign on the radio last night."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-3",
+            "label": "3",
+            "parts": [
+              "We’re going to talk ",
+              {
+                "id": "92.2-3",
+                "answer": "with",
+                "note": "Note that ‘to’ would also be possible."
+              },
+              " the council about planting some new trees in the park."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-4",
+            "label": "4",
+            "parts": [
+              "I don’t care ",
+              {
+                "id": "92.2-4",
+                "answer": "for",
+                "note": ""
+              },
+              " pop music at all. I much prefer classical music."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-5",
+            "label": "5",
+            "parts": [
+              "The teacher says we’ve got to do the test, so there’s no point in arguing ",
+              {
+                "id": "92.2-5",
+                "answer": "about",
+                "note": ""
+              },
+              " it."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-6",
+            "label": "6",
+            "parts": [
+              "Scientists do not agree ",
+              {
+                "id": "92.2-6",
+                "answer": "on / about",
+                "note": ""
+              },
+              " the origin of the universe."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-7",
+            "label": "7",
+            "parts": [
+              "If you know ",
+              {
+                "id": "92.2-7",
+                "answer": "of",
+                "note": "‘about’ is unlikely in this formal context."
+              },
+              " any reasons why you should not be given medical insurance, you must declare them here."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-8",
+            "label": "8",
+            "parts": [
+              "A: Josh can be really stupid sometimes.\\nB: You shouldn’t talk ",
+              {
+                "id": "92.2-8",
+                "answer": "about",
+                "note": ""
+              },
+              " your brother like that."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-9",
+            "label": "9",
+            "parts": [
+              "She’s always arguing ",
+              {
+                "id": "92.2-9",
+                "answer": "with",
+                "note": ""
+              },
+              " her parents about what to watch on television."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-10",
+            "label": "10",
+            "parts": [
+              "I know it’s a lot to ask ",
+              {
+                "id": "92.2-10",
+                "answer": "of",
+                "note": ""
+              },
+              " you, but would you look after the children while I’m in Japan on business?"
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-11",
+            "label": "11",
+            "parts": [
+              "The course was brilliant. We learnt ",
+              {
+                "id": "92.2-11",
+                "answer": "about",
+                "note": ""
+              },
+              " using the Internet in teaching writing."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-12",
+            "label": "12",
+            "parts": [
+              "A: Dan said he’ll try to fix my car.\\nB: What does he know ",
+              {
+                "id": "92.2-12",
+                "answer": "about",
+                "note": ""
+              },
+              " cars?"
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-13",
+            "label": "13",
+            "parts": [
+              "I don’t think the government cares enough ",
+              {
+                "id": "92.2-13",
+                "answer": "about",
+                "note": ""
+              },
+              " nursery education to fund it properly."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "92.2-14",
+            "label": "14",
+            "parts": [
+              "After days of discussion, the committee agreed ",
+              {
+                "id": "92.2-14",
+                "answer": "on",
+                "note": "‘about’ is also possible but less natural here."
+              },
+              " the amount of money to donate."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "92.3",
+        "heading": "These pairs of sentences include more verbs that are commonly followed by the prepositions in A. Can you explain the difference in meaning? Use a dictionary if necessary.",
+        "reference": "",
+        "rows": [
+          {
+            "id": "92.3-1 a",
+            "label": "1 a",
+            "parts": [
+              "The police *acted on* the information very quickly.",
+              {
+                "id": "92.3-1 a",
+                "answer": "acted on = did what someone else advised or suggested",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-1 b",
+            "label": "1 b",
+            "parts": [
+              "I couldn’t be at the meeting, so my solicitor *acted for* me.",
+              {
+                "id": "92.3-1 b",
+                "answer": "acted for = represented (usually a professional person such as a lawyer or accountant)",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-2 a",
+            "label": "2 a",
+            "parts": [
+              "I’ve been *thinking* a lot *about* your idea, and I’ve decided I’d like to support you.",
+              {
+                "id": "92.3-2 a",
+                "answer": "thinking … about = concentrating on",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-2 b",
+            "label": "2 b",
+            "parts": [
+              "What do you *think of* the colour in the bedroom?",
+              {
+                "id": "92.3-2 b",
+                "answer": "think of = asking about an opinion",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-3 a",
+            "label": "3 a",
+            "parts": [
+              "Doctors *have called on* the Health Minister to resign.",
+              {
+                "id": "92.3-3 a",
+                "answer": "have called on = have formally asked him to do it",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-3 b",
+            "label": "3 b",
+            "parts": [
+              "Campaigners *have called for* a referendum on the issue.",
+              {
+                "id": "92.3-3 b",
+                "answer": "called for = demanded",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-4 a",
+            "label": "4 a",
+            "parts": [
+              "They say he *worked for* the CIA in the 1980s.",
+              {
+                "id": "92.3-4 a",
+                "answer": "worked for = was employed by",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-4 b",
+            "label": "4 b",
+            "parts": [
+              "She *works with* computers.",
+              {
+                "id": "92.3-4 b",
+                "answer": "works with computers = uses computers a lot in her work",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-5 a",
+            "label": "5 a",
+            "parts": [
+              "We’re *counting on* Julia to supply the food for the party.",
+              {
+                "id": "92.3-5 a",
+                "answer": "counting on = depending on",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "92.3-5 b",
+            "label": "5 b",
+            "parts": [
+              "Playing exciting basketball *counts for* little if the team isn’t winning.",
+              {
+                "id": "92.3-5 b",
+                "answer": "counts for little = is of little value",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "unit": 93,
+    "page": 187,
+    "title": "Prepositions after nouns",
+    "sections": [
+      {
+        "id": "93.1",
+        "heading": "Rewrite the italicised words with a similar meaning using a noun related to the underlined verb. Add an appropriate preposition after the noun.",
+        "reference": "A",
+        "rows": [
+          {
+            "id": "93.1-1",
+            "label": "1",
+            "parts": [
+              "I *greatly __admire__* people who work full time and also study for a university degree.",
+              {
+                "id": "93.1-1",
+                "answer": "have great admiration for",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "93.1-2",
+            "label": "2",
+            "parts": [
+              "Yasemin is still in hospital but over the last couple of days *her condition has __improved__*.",
+              {
+                "id": "93.1-2",
+                "answer": "there has been an improvement in her condition",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-3",
+            "label": "3",
+            "parts": [
+              "Rashid *is very __proud__ of* his cooking, and is always eager to talk about his recipes.",
+              {
+                "id": "93.1-3",
+                "answer": "takes (great / a lot of) pride in",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-4",
+            "label": "4",
+            "parts": [
+              "The website *__advises__ on* how to lose weight.",
+              {
+                "id": "93.1-4",
+                "answer": "gives / offers / provides advice on",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-5",
+            "label": "5",
+            "parts": [
+              "I hate *it when people are __cruel__ to* animals, and would support a ban on hunting.",
+              {
+                "id": "93.1-5",
+                "answer": "cruelty to",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-6",
+            "label": "6",
+            "parts": [
+              "We *__discussed__* the relative merits of CDs and records *for a long time*.",
+              {
+                "id": "93.1-6",
+                "answer": "had a long / lengthy discussion about / on",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-7",
+            "label": "7",
+            "parts": [
+              "I had to *be __vaccinated__ against typhoid* before entering the country.",
+              {
+                "id": "93.1-7",
+                "answer": "have a vaccination against typhoid / have a typhoid vaccination",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-8",
+            "label": "8",
+            "parts": [
+              "Benny Carter *significantly __influenced__* the development of British jazz.",
+              {
+                "id": "93.1-8",
+                "answer": "had a significant influence on",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-9",
+            "label": "9",
+            "parts": [
+              "*The city __lacks__ affordable housing* and many people are homeless.",
+              {
+                "id": "93.1-9",
+                "answer": "There is a lack of affordable housing in the city. / The city has a lack of affordable housing.",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "93.1-10",
+            "label": "10",
+            "parts": [
+              "There is widespread support for *fireworks to be __banned__*.",
+              {
+                "id": "93.1-10",
+                "answer": "a ban on fireworks",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      },
+      {
+        "id": "93.2",
+        "heading": "Complete the sentences with a noun from (i) and either of + -ing or the to-infinitive form of a verb from (ii).",
+        "reference": "B",
+        "rows": [
+          {
+            "id": "93.2-1",
+            "label": "1",
+            "parts": [
+              "My mother recently overcame her ",
+              {
+                "id": "93.2-1",
+                "answer": "fear of flying",
+                "note": ""
+              },
+              " and had a holiday in South Africa."
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "93.2-2",
+            "label": "2",
+            "parts": [
+              "The snow has been falling now for two days and shows no ",
+              {
+                "id": "93.2-2",
+                "answer": "sign of stopping",
+                "note": ""
+              },
+              "."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-3",
+            "label": "3",
+            "parts": [
+              "The government has defended its ",
+              {
+                "id": "93.2-3",
+                "answer": "decision to allow",
+                "note": ""
+              },
+              " coal mining in the national park."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-4",
+            "label": "4",
+            "parts": [
+              "Your blood pressure is a little high, but there is no ",
+              {
+                "id": "93.2-4",
+                "answer": "reason to worry",
+                "note": ""
+              },
+              " about it."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-5",
+            "label": "5",
+            "parts": [
+              "She was kept in isolation to reduce the ",
+              {
+                "id": "93.2-5",
+                "answer": "risk of transmitting",
+                "note": ""
+              },
+              " the virus to other people in the hospital."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-6",
+            "label": "6",
+            "parts": [
+              "The exercise tests children’s ",
+              {
+                "id": "93.2-6",
+                "answer": "ability to remember",
+                "note": ""
+              },
+              " a random sequence of numbers."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-7",
+            "label": "7",
+            "parts": [
+              "The government has been criticised for its ",
+              {
+                "id": "93.2-7",
+                "answer": "failure to protect",
+                "note": ""
+              },
+              " the region from flooding."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-8",
+            "label": "8",
+            "parts": [
+              "The ",
+              {
+                "id": "93.2-8",
+                "answer": "cost of buying",
+                "note": ""
+              },
+              " a new car in Europe is expected to fall in the next year."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-9",
+            "label": "9",
+            "parts": [
+              "I knew that there was little ",
+              {
+                "id": "93.2-9",
+                "answer": "possibility of getting",
+                "note": ""
+              },
+              " the job with so many applicants."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.2-10",
+            "label": "10",
+            "parts": [
+              "It’s hard to work with Nik because of his ",
+              {
+                "id": "93.2-10",
+                "answer": "unwillingness to acknowledge",
+                "note": ""
+              },
+              " that he ever makes mistakes."
+            ],
+            "kind": "normal"
+          }
+        ],
+        "banks": [
+          {
+            "label": "(i)",
+            "words": [
+              "ability",
+              "cost",
+              "decision",
+              "failure",
+              "~~fear~~",
+              "possibility",
+              "reason",
+              "risk",
+              "sign",
+              "unwillingness"
+            ]
+          },
+          {
+            "label": "(ii)",
+            "words": [
+              "acknowledge",
+              "allow",
+              "buy",
+              "~~fly~~",
+              "get",
+              "protect",
+              "remember",
+              "stop",
+              "transmit",
+              "worry"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "93.3",
+        "heading": "Complete the sentences with an appropriate verb using either of + -ing or a to-infinitive. Give both forms if both are possible.",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "93.3-1",
+            "label": "1",
+            "parts": [
+              "Although Mia said she would think about it, she never had the slightest intention ",
+              {
+                "id": "93.3-1",
+                "answer": "of accepting",
+                "note": ""
+              },
+              " my suggestion."
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "93.3-2",
+            "label": "2",
+            "parts": [
+              "It’s going to be cloudy tonight so there is only a fifty-fifty chance ",
+              {
+                "id": "93.3-2",
+                "answer": "of seeing",
+                "note": "Likely verbs are given."
+              },
+              " the eclipse of the moon."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.3-3",
+            "label": "3",
+            "parts": [
+              "It’s pouring with rain. I hope David had the sense ",
+              {
+                "id": "93.3-3",
+                "answer": "to take",
+                "note": "Likely verbs are given."
+              },
+              " an umbrella with him."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.3-4",
+            "label": "4",
+            "parts": [
+              "The head of the company repeated his intention ",
+              {
+                "id": "93.3-4",
+                "answer": "to retire / of retiring",
+                "note": "Likely verbs are given."
+              },
+              " on his 65th birthday."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.3-5",
+            "label": "5",
+            "parts": [
+              "When the History Department closed she was given the option ",
+              {
+                "id": "93.3-5",
+                "answer": "of taking / to take",
+                "note": "Likely verbs are given."
+              },
+              " another job."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "93.3-6",
+            "label": "6",
+            "parts": [
+              "Katrin had a very unusual way ",
+              {
+                "id": "93.3-6",
+                "answer": "of dancing",
+                "note": "Likely verbs are given."
+              },
+              ", keeping her feet firmly on the floor and waving her arms around her head."
+            ],
+            "kind": "normal"
+          }
+        ]
+      }
+    ],
+    "additional": "➜ Additional exercise 15 (page 249)"
+  },
+  {
+    "unit": 94,
+    "page": 189,
+    "title": "Two- and three-word verbs: word order",
+    "sections": [
+      {
+        "id": "94.1",
+        "heading": "If possible or necessary, add an appropriate noun or pronoun in the space.",
+        "reference": "B",
+        "rows": [
+          {
+            "id": "94.1-1",
+            "label": "1",
+            "parts": [
+              "The same problem kept cropping ",
+              {
+                "id": "94.1-1",
+                "answer": "–",
+                "note": "Intransitive; no noun / pronoun needed."
+              },
+              " up, even though I thought I’d fixed it."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.1-2",
+            "label": "2",
+            "parts": [
+              "I’m not sure how you spell it. I’ll look ",
+              {
+                "id": "94.1-2",
+                "answer": "it",
+                "note": "A noun or pronoun is necessary."
+              },
+              " up in the dictionary."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.1-3",
+            "label": "3",
+            "parts": [
+              "I’m busy at the moment, but I can help ",
+              {
+                "id": "94.1-3",
+                "answer": "(you)",
+                "note": "A noun or pronoun is possible."
+              },
+              " out this evening."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.1-4",
+            "label": "4",
+            "parts": [
+              "If you tidy ",
+              {
+                "id": "94.1-4",
+                "answer": "(things)",
+                "note": "A noun or pronoun is possible."
+              },
+              " up, I’ll do the cleaning."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.1-5",
+            "label": "5",
+            "parts": [
+              "The deal fell ",
+              {
+                "id": "94.1-5",
+                "answer": "–",
+                "note": "Intransitive; no noun / pronoun needed."
+              },
+              " through because we couldn’t agree a price."
+            ],
+            "kind": "normal"
+          }
+        ]
+      },
+      {
+        "id": "94.2",
+        "heading": "Show where the word or phrase in brackets should go in each sentence with a ⋀. If it is possible to put it in more than one place, mark these two possibilities.",
+        "reference": "C",
+        "rows": [
+          {
+            "id": "94.2-1",
+            "label": "1",
+            "parts": [
+              "The house is untidy, but I haven’t got time to sort ⋀ out now. (*it*)",
+              {
+                "id": "94.2-1",
+                "answer": "sort it out",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "94.2-2",
+            "label": "2",
+            "parts": [
+              "We’ve introduced a training scheme to bring about. (*some improvement*)",
+              {
+                "id": "94.2-2",
+                "answer": "bring some improvement about / bring about some improvement",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.2-3",
+            "label": "3",
+            "parts": [
+              "The strike by airline pilots messed up. (*the holiday I’d spent months planning*)",
+              {
+                "id": "94.2-3",
+                "answer": "messed up the holiday I’d spent months planning",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.2-4",
+            "label": "4",
+            "parts": [
+              "I decided to try out for a couple of months. (*the diet*)",
+              {
+                "id": "94.2-4",
+                "answer": "try the diet out / try out the diet",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.2-5",
+            "label": "5",
+            "parts": [
+              "I used up to buy the car. (*all my savings*)",
+              {
+                "id": "94.2-5",
+                "answer": "used all my savings up / used up all my savings",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.2-6",
+            "label": "6",
+            "parts": [
+              "A: I must get my shoes repaired again.\\nB: But they’re so old – why don’t you just throw away? (*them*)",
+              {
+                "id": "94.2-6",
+                "answer": "throw them away",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      },
+      {
+        "id": "94.3",
+        "heading": "Complete each sentence using a two-word verb from (i) and a noun phrase from (ii). If two word orders are possible, give both.",
+        "reference": "C & D",
+        "rows": [
+          {
+            "id": "94.3-1",
+            "label": "1",
+            "parts": [
+              "It’s freezing in here. ",
+              {
+                "id": "94.3-1",
+                "answer": "Can you push the window to?",
+                "note": ""
+              },
+              ""
+            ],
+            "kind": "example"
+          },
+          {
+            "id": "94.3-2",
+            "label": "2",
+            "parts": [
+              "When she filled the form in she ",
+              {
+                "id": "94.3-2",
+                "answer": "left her name out / left out her name",
+                "note": ""
+              },
+              ", so they sent it back to her."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.3-3",
+            "label": "3",
+            "parts": [
+              "The alarm started when I opened the car door and now I can’t ",
+              {
+                "id": "94.3-3",
+                "answer": "shut the thing up",
+                "note": ""
+              },
+              "."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.3-4",
+            "label": "4",
+            "parts": [
+              "There were so many desserts on the menu, I couldn’t ",
+              {
+                "id": "94.3-4",
+                "answer": "make my mind up / make up my mind",
+                "note": ""
+              },
+              "."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.3-5",
+            "label": "5",
+            "parts": [
+              "I ",
+              {
+                "id": "94.3-5",
+                "answer": "got down the general ideas / got the general ideas down",
+                "note": ""
+              },
+              ", but the lecturer spoke so quickly I couldn’t follow the details."
+            ],
+            "kind": "normal"
+          },
+          {
+            "id": "94.3-6",
+            "label": "6",
+            "parts": [
+              "I know you suspect me of cheating, but you’ve got to give me a chance to explain myself. At least ",
+              {
+                "id": "94.3-6",
+                "answer": "hear me out",
+                "note": ""
+              },
+              " before making up your mind."
+            ],
+            "kind": "normal"
+          }
+        ],
+        "banks": [
+          {
+            "label": "(i)",
+            "words": [
+              "get down",
+              "leave out",
+              "make up",
+              "~~push to~~",
+              "hear out",
+              "shut up"
+            ]
+          },
+          {
+            "label": "(ii)",
+            "words": [
+              "the general ideas",
+              "me",
+              "my mind",
+              "her name",
+              "the thing",
+              "~~the window~~"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "94.4",
+        "heading": "If necessary, correct the word order or give a more likely word order in these sentences. If they are already correct, write ✓.",
+        "reference": "D, E & F",
+        "rows": [
+          {
+            "id": "94.4-1",
+            "label": "1",
+            "parts": [
+              "He was always ordering about everyone, getting them to do his work for him.",
+              {
+                "id": "94.4-1",
+                "answer": "ordering everyone about",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-2",
+            "label": "2",
+            "parts": [
+              "It is assumed that parents will provide their children for until they are 18.",
+              {
+                "id": "94.4-2",
+                "answer": "provide for their children",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-3",
+            "label": "3",
+            "parts": [
+              "She wouldn’t let in me on the secret, however hard I tried to persuade her.",
+              {
+                "id": "94.4-3",
+                "answer": "let me in on the secret",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-4",
+            "label": "4",
+            "parts": [
+              "The snow was so heavy that the police called motorists on to avoid unnecessary journeys.",
+              {
+                "id": "94.4-4",
+                "answer": "called on motorists",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-5",
+            "label": "5",
+            "parts": [
+              "I checked into the hotel at about four.",
+              {
+                "id": "94.4-5",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-6",
+            "label": "6",
+            "parts": [
+              "I took up Emre on his offer and stayed in his flat while I was in Ankara.",
+              {
+                "id": "94.4-6",
+                "answer": "took Emre up on",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-7",
+            "label": "7",
+            "parts": [
+              "The government has come in for a lot of criticism over its decision to increase spending on defence.",
+              {
+                "id": "94.4-7",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-8",
+            "label": "8",
+            "parts": [
+              "My parents didn’t approve of our engagement.",
+              {
+                "id": "94.4-8",
+                "answer": "✓",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          },
+          {
+            "id": "94.4-9",
+            "label": "9",
+            "parts": [
+              "I had always looked Mr Gao up to, so I was shocked to discover what he had done.",
+              {
+                "id": "94.4-9",
+                "answer": "looked up to Mr Gao",
+                "note": "",
+                "mode": "append"
+              }
+            ],
+            "kind": "sentence"
+          }
+        ]
+      }
+    ],
+    "additional": "➜ Additional exercise 15 (page 249)"
+  }
+]

@@ -1033,6 +1033,176 @@
       "source": "/media/university-mottos-yale-campus%202.png",
       "destination": "https://assets.negentropylearning.com.cn/media/university-mottos-yale-campus.png",
       "statusCode": 307
+    },
+    {
+      "source": "/articles-analysis/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/articles-analysis/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/audio/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/audio/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/audio-roommates-sentences-v6/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/audio-roommates-sentences-v6/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/concord-analysis/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/concord-analysis/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/essential-grammar-4/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/essential-grammar-4/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/fonts/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/fonts/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/grammar-pages/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/grammar-pages/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/inquire-assets/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/inquire-assets/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/mindmaps/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/mindmaps/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/narrative-course/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/narrative-course/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/narrative-writing/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/narrative-writing/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/prepositions-analysis/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/prepositions-analysis/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/quiz-designs/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/quiz-designs/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/sentence-badges/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/sentence-badges/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/sentence-studio/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/sentence-studio/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/text-image-letters/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/text-image-letters/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/vocabulary/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/vocabulary/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/writing-cards/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/writing-cards/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/western-culture/assets/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/western-culture/assets/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/western-culture/allusions-assets/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/western-culture/allusions-assets/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/western-culture/source-assets/:path((?!.*\\.html$).+)",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/western-culture/source-assets/:path",
+      "statusCode": 307
+    },
+    {
+      "source": "/favicon.svg",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/favicon.svg",
+      "statusCode": 307
+    },
+    {
+      "source": "/file.svg",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/file.svg",
+      "statusCode": 307
+    },
+    {
+      "source": "/globe.svg",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/globe.svg",
+      "statusCode": 307
+    },
+    {
+      "source": "/quiz-paper-fiber.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/quiz-paper-fiber.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/quiz-reader-cat-cutout.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/quiz-reader-cat-cutout.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/quiz-reader-cat.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/quiz-reader-cat.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/quiz-wordmark-cutout.svg",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/quiz-wordmark-cutout.svg",
+      "statusCode": 307
+    },
+    {
+      "source": "/university-mottos-cambridge-seal.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/university-mottos-cambridge-seal.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/university-mottos-harvard-crest.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/university-mottos-harvard-crest.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/university-mottos-hunan-motto-inscription.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/university-mottos-hunan-motto-inscription.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/university-mottos-sysu-motto-inscription.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/university-mottos-sysu-motto-inscription.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/university-mottos-yale-crest.png",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/university-mottos-yale-crest.png",
+      "statusCode": 307
+    },
+    {
+      "source": "/window.svg",
+      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/window.svg",
+      "statusCode": 307
     }
   ]
 }

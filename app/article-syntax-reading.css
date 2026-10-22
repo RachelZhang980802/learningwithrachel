@@ -1,0 +1,91 @@
+.syntax-reading { --syntax-main: #ff2500; --syntax-sub: #feb72e; }
+.syntax-reading-guide { margin: 0 0 2rem; color: #746958; font: 13px/1.7 Arial, sans-serif; }
+.syntax-legend { padding: .7rem 0; border-top: 1px solid #a18d6c40; border-bottom: 1px solid #a18d6c40; }
+.syntax-legend-items { display: flex; flex-wrap: wrap; gap: .65rem 1.2rem; margin: 0; }
+.syntax-legend-items > span { display: inline-flex; align-items: center; gap: .4rem; color: #4c4339; }
+.syntax-legend-items i { width: 13px; height: 13px; border: 2px solid var(--syntax-clause, transparent); border-radius: 2px; }
+.syntax-main { background-color: var(--syntax-main); }
+.syntax-sub { background-color: var(--syntax-sub); }
+.syntax-relative { --syntax-clause: #e9a300; }
+.syntax-object { --syntax-clause: #f3484e; }
+.syntax-predicative { --syntax-clause: #00cb00; }
+.syntax-appositive { --syntax-clause: #1515ee; }
+.syntax-condition { --syntax-clause: #45abe5; }
+.syntax-time { --syntax-clause: #68ab00; }
+.syntax-reason, .syntax-purpose { --syntax-clause: #ed00ed; }
+.reading-page article#text .syntax-original-text .syntax-paragraph { display: grid; grid-template-columns: 1.7em minmax(0, 1fr); gap: .4em; margin-bottom: 1.7em; }
+.reading-page article#text .syntax-original-text .paragraph-number { position: static; width: auto; margin: 0; padding-top: .65em; font-size: 12px; line-height: 1.7; }
+.syntax-sentences { min-width: 0; }
+.syntax-sentence { display: grid; grid-template-columns: 1.7em minmax(0, 1fr); gap: .25em; align-items: start; margin-bottom: .65em; }
+.syntax-sentence:last-child { margin-bottom: 0; }
+.syntax-number { appearance: none; border: 0; border-radius: 3px; background: transparent; color: #8d4735; padding: .35em 0; margin-top: .25em; font: 15px/1.7 Georgia, serif; cursor: pointer; }
+.syntax-number:hover, .syntax-number[aria-expanded="true"] { background: #8d473512; color: #673022; }
+.syntax-number:focus-visible { outline: 2px solid #8d4735; outline-offset: 3px; }
+.syntax-sentence-content { min-width: 0; }
+.reading-page article#text .syntax-copy { margin: 0; padding: 0; font: inherit; line-height: inherit; letter-spacing: inherit; overflow-wrap: break-word; }
+.syntax-predicate { color: #16130e; border-radius: 1px; padding: 0 .025em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.syntax-vocabulary-overlap { padding: 0; background: none; text-decoration-line: underline; text-decoration-thickness: 3px; text-underline-offset: .18em; }
+.syntax-vocabulary-overlap.syntax-main { text-decoration-color: var(--syntax-main); }
+.syntax-vocabulary-overlap.syntax-sub { text-decoration-color: var(--syntax-sub); }
+.syntax-clause { display: inline; position: static; }
+/* Use independent flex labels: WebKit forces native rt to static positioning,
+   feeding label height into drop-cap/line-height measurement and causing flicker. */
+.syntax-clause .syntax-label { display: flex; justify-content: center; position: absolute; left: 0; top: 0; width: max-content; max-width: 100%; box-sizing: border-box; pointer-events: none; color: var(--syntax-clause); background: #fffdf8; font: 10px/1.4 Arial, sans-serif; border: 1px solid currentColor; border-radius: 3px; padding: 1px 3px; white-space: normal; text-align: center; z-index: 1; visibility: hidden; }
+.syntax-clause .syntax-label[data-positioned="true"] { visibility: visible; }
+.syntax-clause .syntax-label::after { content: ""; position: absolute; top: 100%; left: var(--syntax-pointer-left); height: var(--syntax-pointer-height); border-left: 1px solid currentColor; opacity: .65; z-index: -1; }
+.syntax-parenthesis { color: #3bbe0f; font-weight: bold; }
+.syntax-notes { margin-top: .65rem; padding: .5rem .8rem; border-left: 2px solid #d9c9af; color: #74604d; font: 13px/1.8 Arial, sans-serif; }
+.syntax-notes p { margin: .2rem 0; }
+@media (max-width: 600px) {
+  .reading-page article#text .syntax-original-text .syntax-paragraph { grid-template-columns: 1.3em minmax(0, 1fr); gap: .2em; }
+  .syntax-sentence { grid-template-columns: 1.4em minmax(0, 1fr); gap: .2em; margin-bottom: .9em; }
+  .syntax-number { font-size: 13px; }
+  .reading-page article#text .syntax-original-text .paragraph-number { font-size: 10px; }
+  .syntax-clause .syntax-label { font-size: 9px; padding: 1px 2px; }
+}
+
+/* Article 10 uses the same semantic colors in Text and Structure. */
+.article-one-notebook .syntax-matched-structure .sentence-clause-connector { color: #746958; }
+.article-one-notebook .syntax-matched-structure .sentence-clause .clause-tag { border-color: currentColor; background: #fffdf8; }
+.article-one-notebook .syntax-matched-structure .relative-attachment { max-width: 100%; overflow-wrap: anywhere; }
+.article-one-notebook .syntax-matched-structure .sentence-clause-heading { display: flex; flex-wrap: wrap; gap: 5px 10px; align-items: center; }
+.article-one-notebook .syntax-matched-structure .relative-attachment { margin-left: 0; }
+.article-one-notebook .syntax-matched-structure .clause-omission { color: #746958; }
+@media(max-width:600px) {
+  .article-one-notebook .syntax-matched-structure .sentence-clause { padding-left: 7px; }
+  .article-one-notebook .syntax-matched-structure .sentence-clause-frame { padding-left: 4px; }
+  .article-one-notebook .syntax-matched-structure .clause-tag { max-width: 100%; padding: 4px 6px; font-size: 13px; }
+  .article-one-notebook .syntax-matched-structure .sentence-constituent { min-width: 0; }
+}
+
+/* Labels use source-range glyph positions in this paragraph, not ruby line boxes. */
+.reading-page article#text .syntax-copy { position: relative; }
+.reading-page article#text .syntax-reading .syntax-sentence.is-annotated .syntax-copy {
+  line-height: calc(2.1em + var(--syntax-label-extra, 0px)) !important;
+  padding-top: var(--syntax-label-top-space, 0px);
+}
+
+/* Shared by all ten main readings; supplementary publications keep their type. */
+.reading-page article#text .syntax-original-text .prose {
+  font-family: Futura, "Avenir Next", "Century Gothic", sans-serif;
+}
+.reading-page article#text .syntax-opening-copy::first-letter {
+  -webkit-initial-letter: 3;
+  initial-letter: 3;
+  margin-right: .12em;
+  font-family: inherit;
+  font-weight: 500;
+  color: #15130f;
+}
+.reading-page article#text .syntax-opening-word {
+  line-height: inherit;
+}
+@supports (not (initial-letter: 3)) and (not (-webkit-initial-letter: 3)) {
+  .reading-page article#text .syntax-opening-copy::first-letter {
+    float: left;
+    font-size: 4.8em;
+    line-height: 1;
+    margin-top: .06em;
+  }
+  .reading-page article#text .syntax-opening-copy { display: flow-root; }
+}

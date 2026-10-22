@@ -1,0 +1,3390 @@
+{
+  "1": {
+    "text": "A video of Bill Gates suggesting that robots should be taxed is going viral in the news and social media.",
+    "lessonText": "A video of Bill Gates suggesting that robots should be taxed is going viral in the news and social media.",
+    "paragraphStart": 0,
+    "paragraphEnd": 105,
+    "functions": [
+      [
+        "Subject head",
+        "A video "
+      ],
+      [
+        "Prepositional modifier",
+        "of Bill Gates "
+      ],
+      [
+        "Non-finite verb",
+        "suggesting "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "robots "
+      ],
+      [
+        "Predicate",
+        "should be taxed "
+      ],
+      [
+        "Linking verb",
+        "is going "
+      ],
+      [
+        "Predicative",
+        "viral "
+      ],
+      [
+        "Adverbial",
+        "in the news and social media."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 105,
+        "anchorEnd": 0,
+        "text": "A video of Bill Gates suggesting that robots should be taxed is going viral in the news and social media."
+      },
+      {
+        "kind": "object",
+        "start": 33,
+        "end": 61,
+        "anchorEnd": 37,
+        "text": "that robots should be taxed "
+      }
+    ],
+    "notes": [
+      "先找到主语中心 video 与谓语 is going viral。suggesting 不是主句谓语；that 从句是 suggesting 的内容，其中 should be taxed 为情态动词被动结构。",
+      "主语中心为 video；suggesting 是非谓语，that robots should be taxed 为它的 Object clause 内容补足。is going 为主句系动词链，viral 为表语，避免整块表语染成谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 45,
+        "end": 60,
+        "text": "should be taxed",
+        "role": "sub"
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "text": "is going",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "This idea of universal income and taxing robots is gaining ground.",
+    "lessonText": "This idea of universal income and taxing robots is gaining ground.",
+    "paragraphStart": 0,
+    "paragraphEnd": 66,
+    "functions": [
+      [
+        "Subject",
+        "This idea of universal income and taxing robots "
+      ],
+      [
+        "Predicate",
+        "is gaining "
+      ],
+      [
+        "Object",
+        "ground."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 66,
+        "anchorEnd": 0,
+        "text": "This idea of universal income and taxing robots is gaining ground."
+      }
+    ],
+    "notes": [
+      "主语中心是单数 idea，所以用 is。and 连接 of 后的两项内容；taxing 为非谓语，不构成另一个限定从句。",
+      "is gaining 为主句谓语，ground 为名词宾语；taxing robots 在主语名词短语内部，是非谓语而非独立从句。"
+    ],
+    "predicates": [
+      {
+        "start": 48,
+        "end": 58,
+        "text": "is gaining",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "Sometime in June, a draft report was submitted to the European Parliament that states:",
+    "lessonText": "Sometime in June, a draft report was submitted to the European Parliament that states:",
+    "paragraphStart": 67,
+    "paragraphEnd": 153,
+    "functions": [
+      [
+        "Adverbial",
+        "Sometime in June, "
+      ],
+      [
+        "Subject",
+        "a draft report "
+      ],
+      [
+        "Predicate",
+        "was submitted "
+      ],
+      [
+        "Complement",
+        "to the European Parliament "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "states:"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 86,
+        "anchorEnd": 0,
+        "text": "Sometime in June, a draft report was submitted to the European Parliament that states:"
+      },
+      {
+        "kind": "relative",
+        "start": 74,
+        "end": 86,
+        "anchorEnd": 78,
+        "text": "that states:",
+        "antecedent": "a draft report"
+      }
+    ],
+    "notes": [
+      "that states 修饰 report，因介词短语插入而与先行词分离。不是“欧洲议会写道”。冒号引出下一条音频中的报告内容，保留现有分句。",
+      "that 定语从句的先行词为 a draft report；保留冒号和现有音频分条，不把下一条报告内容硬塞进当前原句。"
+    ],
+    "predicates": [
+      {
+        "start": 33,
+        "end": 46,
+        "text": "was submitted",
+        "role": "main"
+      },
+      {
+        "start": 79,
+        "end": 85,
+        "text": "states",
+        "role": "sub"
+      }
+    ]
+  },
+  "4": {
+    "text": "If advanced robots start replacing human workers in large numbers, the report recommends the European Commission force their owners to pay taxes or contribute to social security.",
+    "lessonText": "If advanced robots start replacing human workers in large numbers, the report recommends the European Commission force their owners to pay taxes or contribute to social security.",
+    "paragraphStart": 155,
+    "paragraphEnd": 333,
+    "functions": [
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Subject",
+        "advanced robots "
+      ],
+      [
+        "Predicate",
+        "start "
+      ],
+      [
+        "Gerund-participial complement",
+        "replacing human workers in large numbers, "
+      ],
+      [
+        "Subject",
+        "the report "
+      ],
+      [
+        "Predicate",
+        "recommends "
+      ],
+      [
+        "Subject",
+        "the European Commission "
+      ],
+      [
+        "Predicate",
+        "force "
+      ],
+      [
+        "Object",
+        "their owners "
+      ],
+      [
+        "Infinitival object complement",
+        "to pay taxes or contribute to social security."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 178,
+        "anchorEnd": 0,
+        "text": "If advanced robots start replacing human workers in large numbers, the report recommends the European Commission force their owners to pay taxes or contribute to social security."
+      },
+      {
+        "kind": "condition",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 2,
+        "text": "If advanced robots start replacing human workers in large numbers, "
+      },
+      {
+        "kind": "object",
+        "start": 89,
+        "end": 178,
+        "anchorEnd": 112,
+        "text": "the European Commission force their owners to pay taxes or contribute to social security.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "force 是建议型从句中的虚拟式原形，不因 Commission 单数而加 -s；也可用 should force，但不是必须补回一个被删的 should。force their owners to pay or contribute 中两动词共用 to。",
+      "force 是 recommend 后建议型 Object clause 的虚拟式原形；只提示可省略的 that，不补造 should。replacing 与 to pay / contribute 均为非谓语结构。"
+    ],
+    "predicates": [
+      {
+        "start": 19,
+        "end": 24,
+        "text": "start",
+        "role": "sub"
+      },
+      {
+        "start": 78,
+        "end": 88,
+        "text": "recommends",
+        "role": "main"
+      },
+      {
+        "start": 113,
+        "end": 118,
+        "text": "force",
+        "role": "sub"
+      }
+    ]
+  },
+  "5": {
+    "text": "The establishment of a basic income, or guaranteed welfare program, is also suggested as a protection against human unemployment.",
+    "lessonText": "The establishment of a basic income, or guaranteed welfare program, is also suggested as a protection against human unemployment.",
+    "paragraphStart": 334,
+    "paragraphEnd": 463,
+    "functions": [
+      [
+        "Subject",
+        "The establishment of a basic income, or guaranteed welfare program, "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "suggested "
+      ],
+      [
+        "Supplement",
+        "as a protection against human unemployment."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 129,
+        "anchorEnd": 0,
+        "text": "The establishment of a basic income, or guaranteed welfare program, is also suggested as a protection against human unemployment."
+      }
+    ],
+    "notes": [
+      "主语中心 establishment 为单数。or 在逗号间引出对 basic income 的换说，不连接两个独立主句。against 表示防范的对象。"
+    ],
+    "predicates": [
+      {
+        "start": 68,
+        "end": 70,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 76,
+        "end": 85,
+        "text": "suggested",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "I see robots as tools that make a job easier or do things much faster or much better or much cheaper.",
+    "lessonText": "I see robots as tools that make a job easier or do things much faster or much better or much cheaper.",
+    "paragraphStart": 0,
+    "paragraphEnd": 101,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "see "
+      ],
+      [
+        "Object",
+        "robots "
+      ],
+      [
+        "Object complement",
+        "as tools "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "make "
+      ],
+      [
+        "Object",
+        "a job "
+      ],
+      [
+        "Object complement",
+        "easier "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicate",
+        "do "
+      ],
+      [
+        "Object",
+        "things "
+      ],
+      [
+        "Adverbial",
+        "much faster or much better or much cheaper."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 101,
+        "anchorEnd": 0,
+        "text": "I see robots as tools that make a job easier or do things much faster or much better or much cheaper."
+      },
+      {
+        "kind": "relative",
+        "start": 22,
+        "end": 101,
+        "anchorEnd": 26,
+        "text": "that make a job easier or do things much faster or much better or much cheaper.",
+        "antecedent": "tools"
+      }
+    ],
+    "notes": [
+      "that 指 tools，作从句主语；make 与 do 并列。make a job easier 为宾语＋形容词宾补；much 修饰比较级。cheaper 在这里作比较方式表达。",
+      "that 定语从句修饰 tools；make 与 do 都是从句谓语。easier 是 a job 的 Object complement，不是状语或谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 5,
+        "text": "see",
+        "role": "main"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "make",
+        "role": "sub"
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "do",
+        "role": "sub"
+      }
+    ]
+  },
+  "7": {
+    "text": "Throughout human history, we have used various forms of tools, from stone to metal to water to air to wood to coal to oil, and to electricity to achieve transformations in our lives.",
+    "lessonText": "Throughout human history, we have used various forms of tools, from stone to metal to water to air to wood to coal to oil, and to electricity to achieve transformations in our lives.",
+    "paragraphStart": 102,
+    "paragraphEnd": 284,
+    "functions": [
+      [
+        "Adverbial",
+        "Throughout human history, "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "have used "
+      ],
+      [
+        "Object",
+        "various forms of tools, "
+      ],
+      [
+        "Enumeration",
+        "from stone to metal to water to air to wood to coal to oil, and to electricity "
+      ],
+      [
+        "Adverbial",
+        "to achieve transformations in our lives."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 182,
+        "anchorEnd": 0,
+        "text": "Throughout human history, we have used various forms of tools, from stone to metal to water to air to wood to coal to oil, and to electricity to achieve transformations in our lives."
+      }
+    ],
+    "notes": [
+      "只有 have used 一个限定谓语。to metal 等的 to 是介词；最后 to achieve 的 to 是不定式标记。长列举不使句子自动成为复合句。"
+    ],
+    "predicates": [
+      {
+        "start": 29,
+        "end": 38,
+        "text": "have used",
+        "role": "main"
+      }
+    ]
+  },
+  "8": {
+    "text": "During each of these stages, there were a lot of people who lost their jobs and the next generation learned new skills to stay relevant.",
+    "lessonText": "During each of these stages, there were a lot of people who lost their jobs and the next generation learned new skills to stay relevant.",
+    "paragraphStart": 285,
+    "paragraphEnd": 421,
+    "functions": [
+      [
+        "Adverbial",
+        "During each of these stages, "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Notional subject",
+        "a lot of people "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "lost "
+      ],
+      [
+        "Object",
+        "their jobs "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "the next generation "
+      ],
+      [
+        "Predicate",
+        "learned "
+      ],
+      [
+        "Object",
+        "new skills "
+      ],
+      [
+        "Adverbial",
+        "to stay relevant."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 76,
+        "anchorEnd": 0,
+        "text": "During each of these stages, there were a lot of people who lost their jobs "
+      },
+      {
+        "kind": "relative",
+        "start": 56,
+        "end": 76,
+        "anchorEnd": 59,
+        "text": "who lost their jobs ",
+        "antecedent": "a lot of people"
+      },
+      {
+        "kind": "main",
+        "start": 76,
+        "end": 136,
+        "anchorEnd": 76,
+        "text": "and the next generation learned new skills to stay relevant."
+      }
+    ],
+    "notes": [
+      "who 从句止于 jobs。and 后出现新的主语 the next generation 与谓语 learned，是并列主句，不能把它整个归入 who 定语从句。",
+      "who 定语从句只到 their jobs；and 后是有独立主语 the next generation 的新主句。"
+    ],
+    "predicates": [
+      {
+        "start": 35,
+        "end": 39,
+        "text": "were",
+        "role": "main"
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "lost",
+        "role": "sub"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "text": "learned",
+        "role": "main"
+      }
+    ]
+  },
+  "9": {
+    "text": "A case in point is below:",
+    "lessonText": "A case in point is below:",
+    "paragraphStart": 422,
+    "paragraphEnd": 447,
+    "functions": [
+      [
+        "Subject",
+        "A case in point "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Complement",
+        "below:"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "A case in point is below:"
+      }
+    ],
+    "notes": [
+      "冒号引出后面的例证。below 是方位副词，不是省略了 that 的从句；这一条沿用现有音频边界。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 18,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "Textile factories organized workers' lives much differently from craft production.",
+    "lessonText": "Textile factories organized workers' lives much differently from craft production.",
+    "paragraphStart": 449,
+    "paragraphEnd": 531,
+    "functions": [
+      [
+        "Subject",
+        "Textile factories "
+      ],
+      [
+        "Predicate",
+        "organized "
+      ],
+      [
+        "Object",
+        "workers' lives "
+      ],
+      [
+        "Adverbial",
+        "much differently "
+      ],
+      [
+        "Comparative complement",
+        "from craft production."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 82,
+        "anchorEnd": 0,
+        "text": "Textile factories organized workers' lives much differently from craft production."
+      }
+    ],
+    "notes": [
+      "differently 是副词，修饰 organized；much 加强差异。比较对象在语义上是两种生产方式如何安排工人生活。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 27,
+        "text": "organized",
+        "role": "main"
+      }
+    ]
+  },
+  "11": {
+    "text": "Handloom weavers worked at their own pace, with their own tools, and within their own cottages.",
+    "lessonText": "Handloom weavers worked at their own pace, with their own tools, and within their own cottages.",
+    "paragraphStart": 532,
+    "paragraphEnd": 627,
+    "functions": [
+      [
+        "Subject",
+        "Handloom weavers "
+      ],
+      [
+        "Predicate",
+        "worked "
+      ],
+      [
+        "Adverbial",
+        "at their own pace, "
+      ],
+      [
+        "Adverbial",
+        "with their own tools, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "within their own cottages."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 95,
+        "anchorEnd": 0,
+        "text": "Handloom weavers worked at their own pace, with their own tools, and within their own cottages."
+      }
+    ],
+    "notes": [
+      "and 连接三个介词短语中的最后一项，不连接从句。三个 own 反复突出生产者的自主性。"
+    ],
+    "predicates": [
+      {
+        "start": 17,
+        "end": 23,
+        "text": "worked",
+        "role": "main"
+      }
+    ]
+  },
+  "12": {
+    "text": "Factories set hours of work, and the machinery within them shaped the pace of work.",
+    "lessonText": "Factories set hours of work, and the machinery within them shaped the pace of work.",
+    "paragraphStart": 628,
+    "paragraphEnd": 711,
+    "functions": [
+      [
+        "Subject",
+        "Factories "
+      ],
+      [
+        "Predicate",
+        "set "
+      ],
+      [
+        "Object",
+        "hours of work, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "the machinery within them "
+      ],
+      [
+        "Predicate",
+        "shaped "
+      ],
+      [
+        "Object",
+        "the pace of work."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 29,
+        "anchorEnd": 0,
+        "text": "Factories set hours of work, "
+      },
+      {
+        "kind": "main",
+        "start": 29,
+        "end": 83,
+        "anchorEnd": 29,
+        "text": "and the machinery within them shaped the pace of work."
+      }
+    ],
+    "notes": [
+      "两个主语和两个限定谓语由 and 连接。within them 修饰 machinery；them 指 factories，不指 workers。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 13,
+        "text": "set",
+        "role": "main"
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "text": "shaped",
+        "role": "main"
+      }
+    ]
+  },
+  "13": {
+    "text": "Factories brought workers together within one building to work on machinery that they did not own.",
+    "lessonText": "Factories brought workers together within one building to work on machinery that they did not own.",
+    "paragraphStart": 712,
+    "paragraphEnd": 810,
+    "functions": [
+      [
+        "Subject",
+        "Factories "
+      ],
+      [
+        "Predicate",
+        "brought "
+      ],
+      [
+        "Object",
+        "workers "
+      ],
+      [
+        "Object complement",
+        "together "
+      ],
+      [
+        "Adverbial",
+        "within one building "
+      ],
+      [
+        "Adverbial",
+        "to work on machinery "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "own."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 98,
+        "anchorEnd": 0,
+        "text": "Factories brought workers together within one building to work on machinery that they did not own."
+      },
+      {
+        "kind": "relative",
+        "start": 76,
+        "end": 98,
+        "anchorEnd": 80,
+        "text": "that they did not own.",
+        "antecedent": "machinery"
+      }
+    ],
+    "notes": [
+      "that 指 machinery，在 own 后作宾语，可省略。to work 的逻辑主语是 workers；work on 此处指操作／在机器上工作。",
+      "that 为 own 的关系宾语；did 和 own 用从句谓语色，not 单独作为否定成分。to work 是目的不定式。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 17,
+        "text": "brought",
+        "role": "main"
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "did",
+        "role": "sub"
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "own",
+        "role": "sub"
+      }
+    ]
+  },
+  "14": {
+    "text": "Factories also increased the division of labor.",
+    "lessonText": "Factories also increased the division of labor.",
+    "paragraphStart": 811,
+    "paragraphEnd": 858,
+    "functions": [
+      [
+        "Subject",
+        "Factories "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "increased "
+      ],
+      [
+        "Object",
+        "the division of labor."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 47,
+        "anchorEnd": 0,
+        "text": "Factories also increased the division of labor."
+      }
+    ],
+    "notes": [
+      "of labor 修饰 division。主谓宾清楚，可快速带过；理解重点是分工进一步细化。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 24,
+        "text": "increased",
+        "role": "main"
+      }
+    ]
+  },
+  "15": {
+    "text": "They narrowed the number and scope of tasks.",
+    "lessonText": "They narrowed the number and scope of tasks.",
+    "paragraphStart": 859,
+    "paragraphEnd": 903,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Predicate",
+        "narrowed "
+      ],
+      [
+        "Object",
+        "the number and scope of tasks."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "They narrowed the number and scope of tasks."
+      }
+    ],
+    "notes": [
+      "and 连接宾语中的 number 与 scope，不是两个主句。They 指 factories。narrow 与 number 的搭配较笼统，意指每位工人承担的任务更有限。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 13,
+        "text": "narrowed",
+        "role": "main"
+      }
+    ]
+  },
+  "16": {
+    "text": "They included children and women within a common production process.",
+    "lessonText": "They included children and women within a common production process.",
+    "paragraphStart": 904,
+    "paragraphEnd": 972,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Predicate",
+        "included "
+      ],
+      [
+        "Object",
+        "children and women "
+      ],
+      [
+        "Adverbial",
+        "within a common production process."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 68,
+        "anchorEnd": 0,
+        "text": "They included children and women within a common production process."
+      }
+    ],
+    "notes": [
+      "children and women 是并列宾语，不是并列句。common 在此指共同的生产过程，不译成“普通生产”。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 13,
+        "text": "included",
+        "role": "main"
+      }
+    ]
+  },
+  "17": {
+    "text": "While weavers lost their jobs, their kids and families got their jobs in factories and in other firms.",
+    "lessonText": "While weavers lost their jobs, their kids and families got their jobs in factories and in other firms.",
+    "paragraphStart": 0,
+    "paragraphEnd": 102,
+    "functions": [
+      [
+        "Subordinator",
+        "While "
+      ],
+      [
+        "Subject",
+        "weavers "
+      ],
+      [
+        "Predicate",
+        "lost "
+      ],
+      [
+        "Object",
+        "their jobs, "
+      ],
+      [
+        "Subject",
+        "their kids and families "
+      ],
+      [
+        "Predicate",
+        "got "
+      ],
+      [
+        "Object",
+        "their jobs "
+      ],
+      [
+        "Adverbial",
+        "in factories and in other firms."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 102,
+        "anchorEnd": 0,
+        "text": "While weavers lost their jobs, their kids and families got their jobs in factories and in other firms."
+      },
+      {
+        "kind": "concessive",
+        "start": 0,
+        "end": 31,
+        "anchorEnd": 5,
+        "text": "While weavers lost their jobs, "
+      }
+    ],
+    "notes": [
+      "while 在上下文中突出两代人命运的对照，可译“虽然／而”；不要只按同时发生的时间关系理解。",
+      "While 主要表达工人失业与后辈就业的对照，沿用中性 Concessive clause 并保留中文语境说明。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 18,
+        "text": "lost",
+        "role": "sub"
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "got",
+        "role": "main"
+      }
+    ]
+  },
+  "18": {
+    "text": "Now that the factories are getting closed and replaced with robots, factory workers' kids might become knowledge workers.",
+    "lessonText": "Now that the factories are getting closed and replaced with robots, factory workers' kids might become knowledge workers.",
+    "paragraphStart": 103,
+    "paragraphEnd": 224,
+    "functions": [
+      [
+        "Subordinator",
+        "Now that "
+      ],
+      [
+        "Subject",
+        "the factories "
+      ],
+      [
+        "Predicate",
+        "are getting closed "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "replaced "
+      ],
+      [
+        "Complement",
+        "with robots, "
+      ],
+      [
+        "Subject",
+        "factory workers' kids "
+      ],
+      [
+        "Linking verb",
+        "might become "
+      ],
+      [
+        "Predicative",
+        "knowledge workers."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 121,
+        "anchorEnd": 0,
+        "text": "Now that the factories are getting closed and replaced with robots, factory workers' kids might become knowledge workers."
+      },
+      {
+        "kind": "reason",
+        "start": 0,
+        "end": 68,
+        "anchorEnd": 8,
+        "text": "Now that the factories are getting closed and replaced with robots, "
+      }
+    ],
+    "notes": [
+      "now that 说明已经出现的新情况。are getting closed and replaced 中两个过去分词共用 getting，表达被动。might 表示可能，不能译成必然。",
+      "Now that 使用 Reason clause；are getting closed 与 replaced 共享被动助动结构，两个过去分词都属于从句谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 41,
+        "text": "are getting closed",
+        "role": "sub"
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "text": "replaced",
+        "role": "sub"
+      },
+      {
+        "start": 90,
+        "end": 102,
+        "text": "might become",
+        "role": "main"
+      }
+    ]
+  },
+  "19": {
+    "text": "But there will always be a lag and some population will be left behind.",
+    "lessonText": "But there will always be a lag and some population will be left behind.",
+    "paragraphStart": 225,
+    "paragraphEnd": 296,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Modal auxiliary",
+        "will "
+      ],
+      [
+        "Adverbial",
+        "always "
+      ],
+      [
+        "Linking verb",
+        "be "
+      ],
+      [
+        "Notional subject",
+        "a lag "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "some population "
+      ],
+      [
+        "Predicate",
+        "will be left behind."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 31,
+        "anchorEnd": 0,
+        "text": "But there will always be a lag "
+      },
+      {
+        "kind": "main",
+        "start": 31,
+        "end": 71,
+        "anchorEnd": 31,
+        "text": "and some population will be left behind."
+      }
+    ],
+    "notes": [
+      "some population 是原文较不自然的表达，语境意为 some people / part of the population。讲解说明这一点，但不改动原文或音频。",
+      "there 为存在标记，will 与 be 为谓语链，always 单列；第二主句的 will be left behind 为完整被动短语动词。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 14,
+        "text": "will",
+        "role": "main"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "be",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 70,
+        "text": "will be left behind",
+        "role": "main"
+      }
+    ]
+  },
+  "20": {
+    "text": "The side effect of automation was the number of families and kids in our families.",
+    "lessonText": "The side effect of automation was the number of families and kids in our families.",
+    "paragraphStart": 0,
+    "paragraphEnd": 82,
+    "functions": [
+      [
+        "Subject",
+        "The side effect of automation "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "the number of families and kids in our families."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 82,
+        "anchorEnd": 0,
+        "text": "The side effect of automation was the number of families and kids in our families."
+      }
+    ],
+    "notes": [
+      "原句将 effect 与 number 直接等同，表达压缩且含糊；结合下文理解为人口及家庭规模的变化。不要补成精确的因果结论。"
+    ],
+    "predicates": [
+      {
+        "start": 30,
+        "end": 33,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "When muscle power was strength, the number of kids in a family, and the number of men in particular, was a sign of prosperity.",
+    "lessonText": "When muscle power was strength, the number of kids in a family, and the number of men in particular, was a sign of prosperity.",
+    "paragraphStart": 83,
+    "paragraphEnd": 209,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Subject",
+        "muscle power "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "strength, "
+      ],
+      [
+        "Subject",
+        "the number of kids in a family, "
+      ],
+      [
+        "Parenthetical supplement",
+        "and the number of men in particular, "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a sign of prosperity."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 126,
+        "anchorEnd": 0,
+        "text": "When muscle power was strength, the number of kids in a family, and the number of men in particular, was a sign of prosperity."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 32,
+        "anchorEnd": 4,
+        "text": "When muscle power was strength, "
+      }
+    ],
+    "notes": [
+      "原文把逗号内的 and the number… 处理为补充说明，因此主句用 was。若将两项明确作并列主语，通常应改用 were；不把此句当作一般主谓一致范例。",
+      "逗号内 and the number… 按原文处理为补充性名词短语；保留 was 及原中文主谓一致说明，不擅自改写原文。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 21,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 101,
+        "end": 104,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "22": {
+    "text": "However, as we went through this progress, the birth rate plummeted and it is worth watching other social trends like more single people, lower marriage rates, more married couples with no kids, etc.",
+    "lessonText": "However, as we went through this progress, the birth rate plummeted and it is worth watching other social trends like more single people, lower marriage rates, more married couples with no kids, etc.",
+    "paragraphStart": 210,
+    "paragraphEnd": 409,
+    "functions": [
+      [
+        "Adverbial",
+        "However, "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "went "
+      ],
+      [
+        "Complement",
+        "through this progress, "
+      ],
+      [
+        "Subject",
+        "the birth rate "
+      ],
+      [
+        "Predicate",
+        "plummeted "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Formal subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "worth watching other social trends like more single people, lower marriage rates, more married couples with no kids, etc."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 68,
+        "anchorEnd": 0,
+        "text": "However, as we went through this progress, the birth rate plummeted "
+      },
+      {
+        "kind": "time",
+        "start": 9,
+        "end": 43,
+        "anchorEnd": 11,
+        "text": "as we went through this progress, "
+      },
+      {
+        "kind": "main",
+        "start": 68,
+        "end": 199,
+        "anchorEnd": 68,
+        "text": "and it is worth watching other social trends like more single people, lower marriage rates, more married couples with no kids, etc."
+      }
+    ],
+    "notes": [
+      "and 连接两个主句。be worth 后接 -ing；这里 watching 整体说明值得做的事。like 后列出名词短语，不是从句；this progress 宜按语境理解为发展过程。",
+      "as 时间从句位于第一主句，and 后是第二主句；worth watching… 为表语结构，watching 不是新的限定谓语。etc. 保持缩写完整。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 19,
+        "text": "went",
+        "role": "sub"
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "text": "plummeted",
+        "role": "main"
+      },
+      {
+        "start": 75,
+        "end": 77,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "23": {
+    "text": "The world is also seeing another trend!",
+    "lessonText": "The world is also seeing another trend!",
+    "paragraphStart": 0,
+    "paragraphEnd": 39,
+    "functions": [
+      [
+        "Subject",
+        "The world "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "seeing "
+      ],
+      [
+        "Object",
+        "another trend!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "The world is also seeing another trend!"
+      }
+    ],
+    "notes": [
+      "see 此处意为经历、出现，world 是拟人化的主语；不是说世界有视觉。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 12,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "text": "seeing",
+        "role": "main"
+      }
+    ]
+  },
+  "24": {
+    "text": "It is getting older.",
+    "lessonText": "It is getting older.",
+    "paragraphStart": 40,
+    "paragraphEnd": 60,
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Linking verb",
+        "is getting "
+      ],
+      [
+        "Predicative",
+        "older."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 20,
+        "anchorEnd": 0,
+        "text": "It is getting older."
+      }
+    ],
+    "notes": [
+      "It 承接 the world，结合后文指世界人口。get + 比较级表示变化，不是 get 的“获得”义。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 13,
+        "text": "is getting",
+        "role": "main"
+      }
+    ]
+  },
+  "25": {
+    "text": "But an older population may not be as bad as we think.",
+    "lessonText": "But an older population may not be as bad as we think.",
+    "paragraphStart": 61,
+    "paragraphEnd": 115,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Subject",
+        "an older population "
+      ],
+      [
+        "Modal auxiliary",
+        "may "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Linking verb",
+        "be "
+      ],
+      [
+        "Predicative",
+        "as bad "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "think."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "But an older population may not be as bad as we think."
+      },
+      {
+        "kind": "comparative",
+        "start": 42,
+        "end": 54,
+        "anchorEnd": 44,
+        "text": "as we think.",
+        "restoration": "it is (after think)"
+      }
+    ],
+    "notes": [
+      "as bad as… 比较结构；第二个 as 引出比较从句，think 后有可恢复的省略。may not 表示“可能并不”。",
+      "第二个 as 使用 Comparative clause；think 后的 it is 仅在省略提示中显示，may 与 be 之间的 not 单列。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 27,
+        "text": "may",
+        "role": "main"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "text": "be",
+        "role": "main"
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "think",
+        "role": "sub"
+      }
+    ]
+  },
+  "26": {
+    "text": "One theory is that our future generation will live in a resource-constrained world and therefore learn to conserve resources.",
+    "lessonText": "One theory is that our future generation will live in a resource-constrained world and therefore learn to conserve resources.",
+    "paragraphStart": 116,
+    "paragraphEnd": 241,
+    "functions": [
+      [
+        "Subject",
+        "One theory "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "our future generation "
+      ],
+      [
+        "Predicate",
+        "will live "
+      ],
+      [
+        "Adverbial",
+        "in a resource-constrained world "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "therefore "
+      ],
+      [
+        "Predicate",
+        "learn "
+      ],
+      [
+        "Infinitival complement",
+        "to conserve resources."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 125,
+        "anchorEnd": 0,
+        "text": "One theory is that our future generation will live in a resource-constrained world and therefore learn to conserve resources."
+      },
+      {
+        "kind": "predicative",
+        "start": 14,
+        "end": 125,
+        "anchorEnd": 18,
+        "text": "that our future generation will live in a resource-constrained world and therefore learn to conserve resources."
+      }
+    ],
+    "notes": [
+      "that 从句整体作表语；live 与 learn 共享主语和 will。therefore 是连接副词，and 才是并列连词。",
+      "that 表语从句包含 will live 与 learn 两个共享 will 的谓语；therefore 与 to conserve 不计入限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 13,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "text": "will live",
+        "role": "sub"
+      },
+      {
+        "start": 97,
+        "end": 102,
+        "text": "learn",
+        "role": "sub"
+      }
+    ]
+  },
+  "27": {
+    "text": "As Bill Gates argues, spare human capacity has already been put to better use to provide education and research leading to even better knowledge, health care and wealth for all of us.",
+    "lessonText": "As Bill Gates argues, spare human capacity has already been put to better use to provide education and research leading to even better knowledge, health care and wealth for all of us.",
+    "paragraphStart": 0,
+    "paragraphEnd": 183,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Subject",
+        "Bill Gates "
+      ],
+      [
+        "Predicate",
+        "argues, "
+      ],
+      [
+        "Subject",
+        "spare human capacity "
+      ],
+      [
+        "Auxiliary verb",
+        "has "
+      ],
+      [
+        "Adverbial",
+        "already "
+      ],
+      [
+        "Predicate",
+        "been put "
+      ],
+      [
+        "Complement",
+        "to better use "
+      ],
+      [
+        "Adverbial",
+        "to provide education and research "
+      ],
+      [
+        "Participial modifier",
+        "leading to even better knowledge, health care and wealth for all of us."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 183,
+        "anchorEnd": 0,
+        "text": "As Bill Gates argues, spare human capacity has already been put to better use to provide education and research leading to even better knowledge, health care and wealth for all of us."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 0,
+        "end": 22,
+        "anchorEnd": 2,
+        "text": "As Bill Gates argues, "
+      }
+    ],
+    "notes": [
+      "as 意为“正如”，不是原因。leading to 说明教育和研究带来的后续结果；不能把 leading 当主句谓语。has been put 是完成时被动。",
+      "As Bill Gates argues 为 Parenthetical comment，绿色与正文一致；主句 has…been put 使用红色，already 为副词，leading 为非谓语修饰。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 20,
+        "text": "argues",
+        "role": "sub"
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "has",
+        "role": "main"
+      },
+      {
+        "start": 55,
+        "end": 63,
+        "text": "been put",
+        "role": "main"
+      }
+    ]
+  },
+  "28": {
+    "text": "However, this has not been uniform as the per capita income growth has been skewed toward developed nations.",
+    "lessonText": "However, this has not been uniform as the per capita income growth has been skewed toward developed nations.",
+    "paragraphStart": 184,
+    "paragraphEnd": 292,
+    "functions": [
+      [
+        "Adverbial",
+        "However, "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Auxiliary verb",
+        "has "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Linking verb",
+        "been "
+      ],
+      [
+        "Predicative",
+        "uniform "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "the per capita income growth "
+      ],
+      [
+        "Predicate",
+        "has been skewed "
+      ],
+      [
+        "Complement",
+        "toward developed nations."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 108,
+        "anchorEnd": 0,
+        "text": "However, this has not been uniform as the per capita income growth has been skewed toward developed nations."
+      },
+      {
+        "kind": "reason",
+        "start": 35,
+        "end": 108,
+        "anchorEnd": 37,
+        "text": "as the per capita income growth has been skewed toward developed nations."
+      }
+    ],
+    "notes": [
+      "此处 as 表原因，与上一句“正如”不同。两个 has 都是现在完成时助动词，has been skewed 另含被动意义。",
+      "此处 as 使用 Reason clause；has been skewed 为从句被动谓语。主句 has…been 与否定 not 分开。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 17,
+        "text": "has",
+        "role": "main"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "been",
+        "role": "main"
+      },
+      {
+        "start": 67,
+        "end": 82,
+        "text": "has been skewed",
+        "role": "sub"
+      }
+    ]
+  },
+  "29": {
+    "text": "The biggest argument Bill Gates makes is on the taxes.",
+    "lessonText": "The biggest argument Bill Gates makes is on the taxes.",
+    "paragraphStart": 0,
+    "paragraphEnd": 54,
+    "functions": [
+      [
+        "Head of subject",
+        "The biggest argument "
+      ],
+      [
+        "Subject",
+        "Bill Gates "
+      ],
+      [
+        "Predicate",
+        "makes "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "on the taxes."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "The biggest argument Bill Gates makes is on the taxes."
+      },
+      {
+        "kind": "relative",
+        "start": 21,
+        "end": 38,
+        "anchorEnd": 31,
+        "text": "Bill Gates makes ",
+        "antecedent": "The biggest argument",
+        "restoration": "that / which"
+      }
+    ],
+    "notes": [
+      "argument 后省略关系代词 that/which，在 makes 后作宾语。on the taxes 为原文说法，意为 concerning taxes，不宜作为核心搭配机械背诵。",
+      "Bill Gates makes 为省略关系宾语 that / which 的 Relative clause，修饰 argument；外层 is 仍是主句系动词。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 37,
+        "text": "makes",
+        "role": "sub"
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "30": {
+    "text": "As machines are replacing human workers, these robots don't get paid and this leads to the lower taxes for the government.",
+    "lessonText": "As machines are replacing human workers, these robots don't get paid and this leads to the lower taxes for the government.",
+    "paragraphStart": 55,
+    "paragraphEnd": 177,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Subject",
+        "machines "
+      ],
+      [
+        "Predicate",
+        "are replacing "
+      ],
+      [
+        "Object",
+        "human workers, "
+      ],
+      [
+        "Subject",
+        "these robots "
+      ],
+      [
+        "Predicate",
+        "don't get paid "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Predicate",
+        "leads "
+      ],
+      [
+        "Complement",
+        "to the lower taxes for the government."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 69,
+        "anchorEnd": 0,
+        "text": "As machines are replacing human workers, these robots don't get paid "
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 41,
+        "anchorEnd": 2,
+        "text": "As machines are replacing human workers, "
+      },
+      {
+        "kind": "main",
+        "start": 69,
+        "end": 122,
+        "anchorEnd": 69,
+        "text": "and this leads to the lower taxes for the government."
+      }
+    ],
+    "notes": [
+      "get paid 是被动“领取报酬”。this 指前面机器人没有工资这件事，而非某个机器人。as 同时承接进程背景与作者的因果推理。",
+      "As 从句按时间／进程背景标为 Time clause，并保留作者因果推理的中文说明；get paid 为被动结构，and this leads… 是另一主句。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 25,
+        "text": "are replacing",
+        "role": "sub"
+      },
+      {
+        "start": 54,
+        "end": 68,
+        "text": "don't get paid",
+        "role": "main"
+      },
+      {
+        "start": 78,
+        "end": 83,
+        "text": "leads",
+        "role": "main"
+      }
+    ]
+  },
+  "31": {
+    "text": "But what we fail to see is that, this also leads to higher profits for corporations, which pay higher taxes.",
+    "lessonText": "But what we fail to see is that this also leads to higher profits for corporations, which pay higher taxes.",
+    "paragraphStart": 178,
+    "paragraphEnd": 286,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Fused relative pronoun",
+        "what "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "fail "
+      ],
+      [
+        "Infinitival complement",
+        "to see "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Complementizer",
+        "that"
+      ],
+      [
+        "Punctuation",
+        ", "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "leads "
+      ],
+      [
+        "Complement",
+        "to higher profits for corporations, "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Predicate",
+        "pay "
+      ],
+      [
+        "Object",
+        "higher taxes."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 108,
+        "anchorEnd": 0,
+        "text": "But what we fail to see is that, this also leads to higher profits for corporations, which pay higher taxes."
+      },
+      {
+        "kind": "subject",
+        "start": 4,
+        "end": 24,
+        "anchorEnd": 8,
+        "text": "what we fail to see "
+      },
+      {
+        "kind": "predicative",
+        "start": 27,
+        "end": 108,
+        "anchorEnd": 31,
+        "text": "that, this also leads to higher profits for corporations, which pay higher taxes."
+      },
+      {
+        "kind": "relative",
+        "start": 85,
+        "end": 108,
+        "anchorEnd": 90,
+        "text": "which pay higher taxes.",
+        "antecedent": "corporations"
+      }
+    ],
+    "notes": [
+      "what 兼作 see 的宾语；that 不作从句成分，只引导表语从句。which 指 corporations。删除 that 后的逗号。",
+      "正文原有 that 后的逗号予以保留，Structure 同步显示；原中文说明中的删逗号建议仍保留作为语法修订建议，不在本次修改原文。what we fail to see 为融合关系结构，整体作 Subject clause；that 表语从句内嵌 which 定语从句，which 指 corporations。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 16,
+        "text": "fail",
+        "role": "sub"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "leads",
+        "role": "sub"
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "text": "pay",
+        "role": "sub"
+      }
+    ]
+  },
+  "32": {
+    "text": "Also, there is a cost to making robots and investing in such technologies.",
+    "lessonText": "Also, there is a cost to making robots and investing in such technologies.",
+    "paragraphStart": 287,
+    "paragraphEnd": 361,
+    "functions": [
+      [
+        "Adverbial",
+        "Also, "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Notional subject",
+        "a cost "
+      ],
+      [
+        "Complement",
+        "to making robots and investing in such technologies."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "Also, there is a cost to making robots and investing in such technologies."
+      }
+    ],
+    "notes": [
+      "a cost to doing 中 to 是介词，因此后接 making / investing。两个 -ing 短语并列，不构成限定从句。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 14,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "33": {
+    "text": "This creates a different kind of job, different levels of salaries and different taxes, maybe in a different part of the country or in different parts of the world altogether.",
+    "lessonText": "This creates a different kind of job, different levels of salaries and different taxes, maybe in a different part of the country or in different parts of the world altogether.",
+    "paragraphStart": 362,
+    "paragraphEnd": 537,
+    "functions": [
+      [
+        "Subject",
+        "This "
+      ],
+      [
+        "Predicate",
+        "creates "
+      ],
+      [
+        "Object",
+        "a different kind of job, different levels of salaries and different taxes, "
+      ],
+      [
+        "Adverbial",
+        "maybe in a different part of the country or in different parts of the world altogether."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 175,
+        "anchorEnd": 0,
+        "text": "This creates a different kind of job, different levels of salaries and different taxes, maybe in a different part of the country or in different parts of the world altogether."
+      }
+    ],
+    "notes": [
+      "三个名词短语并列作 creates 的宾语；maybe 引出可能的地点，后面没有独立限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 12,
+        "text": "creates",
+        "role": "main"
+      }
+    ]
+  },
+  "34": {
+    "text": "Now, that's a flashpoint.",
+    "lessonText": "Now, that's a flashpoint.",
+    "paragraphStart": 538,
+    "paragraphEnd": 563,
+    "functions": [
+      [
+        "Discourse marker",
+        "Now, "
+      ],
+      [
+        "Subject",
+        "that"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "a flashpoint."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "Now, that's a flashpoint."
+      }
+    ],
+    "notes": [
+      "Now 是话语推进标记。that 指前句工作和税收在地区间重新分配的现象。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 11,
+        "text": "'s",
+        "role": "main"
+      }
+    ]
+  },
+  "35": {
+    "text": "But this too shall pass.",
+    "lessonText": "But this too shall pass.",
+    "paragraphStart": 564,
+    "paragraphEnd": 588,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Adverbial",
+        "too "
+      ],
+      [
+        "Predicate",
+        "shall pass."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 24,
+        "anchorEnd": 0,
+        "text": "But this too shall pass."
+      }
+    ],
+    "notes": [
+      "this too shall pass 是带箴言色彩的说法。shall 在此表示庄重的预言式确信，不是现代日常将来时的首选。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 23,
+        "text": "shall pass",
+        "role": "main"
+      }
+    ]
+  },
+  "36": {
+    "text": "We have seen the era of boycotting machine-made fabric and automobiles when they were seen as a threat at some point.",
+    "lessonText": "We have seen the era of boycotting machine-made fabric and automobiles when they were seen as a threat at some point.",
+    "paragraphStart": 589,
+    "paragraphEnd": 706,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Predicate",
+        "have seen "
+      ],
+      [
+        "Object",
+        "the era of boycotting machine-made fabric and automobiles "
+      ],
+      [
+        "Relative adverb",
+        "when "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "were seen "
+      ],
+      [
+        "Subject complement",
+        "as a threat "
+      ],
+      [
+        "Adverbial",
+        "at some point."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 117,
+        "anchorEnd": 0,
+        "text": "We have seen the era of boycotting machine-made fabric and automobiles when they were seen as a threat at some point."
+      },
+      {
+        "kind": "relative",
+        "start": 71,
+        "end": 117,
+        "anchorEnd": 75,
+        "text": "when they were seen as a threat at some point.",
+        "antecedent": "the era"
+      }
+    ],
+    "notes": [
+      "when 修饰 era，可理解为 in which。boycotting 是 of 的宾语，不是主句谓语；they 指机制布和汽车。",
+      "when 修饰 era，按 Relative clause 处理；boycotting 是非谓语，不能与 have seen 并列着色。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 12,
+        "text": "have seen",
+        "role": "main"
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "text": "were seen",
+        "role": "sub"
+      }
+    ]
+  },
+  "37": {
+    "text": "Today, they have become an essential part of our lives.",
+    "lessonText": "Today, they have become an essential part of our lives.",
+    "paragraphStart": 707,
+    "paragraphEnd": 762,
+    "functions": [
+      [
+        "Adverbial",
+        "Today, "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Linking verb",
+        "have become "
+      ],
+      [
+        "Predicative",
+        "an essential part of our lives."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "Today, they have become an essential part of our lives."
+      }
+    ],
+    "notes": [
+      "they 承接前句的产品。have become 表示过去变化带来的现在状态。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 23,
+        "text": "have become",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "I hear people complaining about the speed at which these changes happen and that we are unable to provide jobs or create newer skills.",
+    "lessonText": "I hear people complaining about the speed at which these changes happen and that we are unable to provide jobs or create newer skills.",
+    "paragraphStart": 0,
+    "paragraphEnd": 134,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "hear "
+      ],
+      [
+        "Object",
+        "people "
+      ],
+      [
+        "Object complement",
+        "complaining about the speed "
+      ],
+      [
+        "Preposition",
+        "at "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Subject",
+        "these changes "
+      ],
+      [
+        "Predicate",
+        "happen "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "unable "
+      ],
+      [
+        "Infinitival complement",
+        "to provide jobs or create newer skills."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 134,
+        "anchorEnd": 0,
+        "text": "I hear people complaining about the speed at which these changes happen and that we are unable to provide jobs or create newer skills."
+      },
+      {
+        "kind": "relative",
+        "start": 42,
+        "end": 72,
+        "anchorEnd": 50,
+        "text": "at which these changes happen ",
+        "antecedent": "the speed"
+      },
+      {
+        "kind": "object",
+        "start": 76,
+        "end": 134,
+        "anchorEnd": 80,
+        "text": "that we are unable to provide jobs or create newer skills."
+      }
+    ],
+    "notes": [
+      "hear people doing 为感知动词＋宾语＋-ing。原文 and 将 about 短语与 that 内容从句作不对称连接；语义可展开为 complaining about the speed … and complaining that …，不要标成两个定语从句。",
+      "that we are unable… 是 complaining 的 Object clause 内容补足，与 about the speed… 构成语义并列；不是 hear 的第二定语从句。to provide / create 是 unable 的不定式补足。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "hear",
+        "role": "main"
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "text": "happen",
+        "role": "sub"
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "text": "are",
+        "role": "sub"
+      }
+    ]
+  },
+  "39": {
+    "text": "But, think of the speed at which horses were replaced by rail roads, cars and trucks; the speed at which passenger ships were replaced by airlines.",
+    "lessonText": "But, think of the speed at which horses were replaced by rail roads, cars and trucks; the speed at which passenger ships were replaced by airlines.",
+    "paragraphStart": 135,
+    "paragraphEnd": 282,
+    "functions": [
+      [
+        "Discourse connective",
+        "But, "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Complement",
+        "of the speed "
+      ],
+      [
+        "Preposition",
+        "at "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Subject",
+        "horses "
+      ],
+      [
+        "Predicate",
+        "were replaced "
+      ],
+      [
+        "Agent phrase",
+        "by rail roads, cars and trucks; "
+      ],
+      [
+        "Coordinated noun phrase",
+        "the speed "
+      ],
+      [
+        "Preposition",
+        "at "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Subject",
+        "passenger ships "
+      ],
+      [
+        "Predicate",
+        "were replaced "
+      ],
+      [
+        "Agent phrase",
+        "by airlines."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 147,
+        "anchorEnd": 0,
+        "text": "But, think of the speed at which horses were replaced by rail roads, cars and trucks; the speed at which passenger ships were replaced by airlines."
+      },
+      {
+        "kind": "relative",
+        "start": 24,
+        "end": 86,
+        "anchorEnd": 32,
+        "text": "at which horses were replaced by rail roads, cars and trucks; ",
+        "antecedent": "the first speed"
+      },
+      {
+        "kind": "relative",
+        "start": 96,
+        "end": 147,
+        "anchorEnd": 104,
+        "text": "at which passenger ships were replaced by airlines.",
+        "antecedent": "the second speed"
+      }
+    ],
+    "notes": [
+      "省略主语 you。分号后是第二个名词短语，与第一个 speed 并列，共享 think of；不是完整独立主句。两处 at which 都相当于 at that speed。",
+      "两处 at which 分别修饰两个 speed；分号后为并列名词短语，整句仍只有一个祈使主句 think，不补写重复主语／谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "think",
+        "role": "main"
+      },
+      {
+        "start": 40,
+        "end": 53,
+        "text": "were replaced",
+        "role": "sub"
+      },
+      {
+        "start": 121,
+        "end": 134,
+        "text": "were replaced",
+        "role": "sub"
+      }
+    ]
+  },
+  "40": {
+    "text": "They must have been pretty dramatic changes in those days!",
+    "lessonText": "They must have been pretty dramatic changes in those days!",
+    "paragraphStart": 283,
+    "paragraphEnd": 341,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Linking verb",
+        "must have been "
+      ],
+      [
+        "Predicative",
+        "pretty dramatic changes "
+      ],
+      [
+        "Adverbial",
+        "in those days!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 58,
+        "anchorEnd": 0,
+        "text": "They must have been pretty dramatic changes in those days!"
+      }
+    ],
+    "notes": [
+      "must have been 表示对过去的强推测，不是“过去必须是”。pretty 在此是程度副词“相当”。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 19,
+        "text": "must have been",
+        "role": "main"
+      }
+    ]
+  },
+  "41": {
+    "text": "These were huge job destroyers and also job creators of the other type.",
+    "lessonText": "These were huge job destroyers and also job creators of the other type.",
+    "paragraphStart": 342,
+    "paragraphEnd": 413,
+    "functions": [
+      [
+        "Subject",
+        "These "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "huge job destroyers and also job creators of the other type."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 71,
+        "anchorEnd": 0,
+        "text": "These were huge job destroyers and also job creators of the other type."
+      }
+    ],
+    "notes": [
+      "destroyers / creators 把技术变化拟人化为消灭者和创造者；and 连接表语名词，不是两个主句。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "were",
+        "role": "main"
+      }
+    ]
+  },
+  "42": {
+    "text": "In all cases, those who lost their jobs did not find work in the new industry.",
+    "lessonText": "In all cases, those who lost their jobs did not find work in the new industry.",
+    "paragraphStart": 414,
+    "paragraphEnd": 492,
+    "functions": [
+      [
+        "Adverbial",
+        "In all cases, "
+      ],
+      [
+        "Head of subject",
+        "those "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "lost "
+      ],
+      [
+        "Object",
+        "their jobs "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "find "
+      ],
+      [
+        "Object",
+        "work "
+      ],
+      [
+        "Adverbial",
+        "in the new industry."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 78,
+        "anchorEnd": 0,
+        "text": "In all cases, those who lost their jobs did not find work in the new industry."
+      },
+      {
+        "kind": "relative",
+        "start": 20,
+        "end": 40,
+        "anchorEnd": 23,
+        "text": "who lost their jobs ",
+        "antecedent": "those"
+      }
+    ],
+    "notes": [
+      "those 指人，who 作从句主语。原文作了 all cases 的强概括，阅读时应区分作者论断与已经逐一证实的事实。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 28,
+        "text": "lost",
+        "role": "sub"
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "did",
+        "role": "main"
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": "find",
+        "role": "main"
+      }
+    ]
+  },
+  "43": {
+    "text": "It was a new breed of skills that found these jobs.",
+    "lessonText": "It was a new breed of skills that found these jobs.",
+    "paragraphStart": 493,
+    "paragraphEnd": 544,
+    "functions": [
+      [
+        "Cleft subject",
+        "It "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Cleft focus",
+        "a new breed of skills "
+      ],
+      [
+        "Cleft marker",
+        "that "
+      ],
+      [
+        "Predicate",
+        "found "
+      ],
+      [
+        "Object",
+        "these jobs."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 51,
+        "anchorEnd": 0,
+        "text": "It was a new breed of skills that found these jobs."
+      },
+      {
+        "kind": "cleft",
+        "start": 29,
+        "end": 51,
+        "anchorEnd": 33,
+        "text": "that found these jobs."
+      }
+    ],
+    "notes": [
+      "It was … that … 是强调句。去掉框架可还原 a new breed of skills found these jobs；skills found jobs 属转喻，实际是掌握新技能的人找到工作。",
+      "该句使用 Cleft clause 中性标签，区分于普通定语从句；was 为外层系动词，found 为强调从句谓语，a new breed of skills 为 Cleft focus。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "found",
+        "role": "sub"
+      }
+    ]
+  },
+  "44": {
+    "text": "But it took some time.",
+    "lessonText": "But it took some time.",
+    "paragraphStart": 545,
+    "paragraphEnd": 567,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "some time."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 22,
+        "anchorEnd": 0,
+        "text": "But it took some time."
+      }
+    ],
+    "notes": [
+      "it 指前文就业转型这个过程；some time 是“一段时间”，不是 sometime“某时”或 sometimes“有时”。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 11,
+        "text": "took",
+        "role": "main"
+      }
+    ]
+  },
+  "45": {
+    "text": "These are very visible today because of the speed at which information travels today, amplifying these causes and effects.",
+    "lessonText": "These are very visible today because of the speed at which information travels today, amplifying these causes and effects.",
+    "paragraphStart": 568,
+    "paragraphEnd": 690,
+    "functions": [
+      [
+        "Subject",
+        "These "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "very visible "
+      ],
+      [
+        "Adverbial",
+        "today "
+      ],
+      [
+        "Reason prepositional phrase",
+        "because of the speed "
+      ],
+      [
+        "Preposition",
+        "at "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Subject",
+        "information "
+      ],
+      [
+        "Predicate",
+        "travels "
+      ],
+      [
+        "Adverbial",
+        "today, "
+      ],
+      [
+        "Participial supplement",
+        "amplifying these causes and effects."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 122,
+        "anchorEnd": 0,
+        "text": "These are very visible today because of the speed at which information travels today, amplifying these causes and effects."
+      },
+      {
+        "kind": "relative",
+        "start": 50,
+        "end": 86,
+        "anchorEnd": 58,
+        "text": "at which information travels today, ",
+        "antecedent": "the speed"
+      }
+    ],
+    "notes": [
+      "because of 后接名词 speed，不能把整个结构直接叫 because 原因从句；at which 修饰 speed。句末分词补充信息快速传播所带来的放大效果。",
+      "because of 后接 speed 名词短语，不建 Reason clause；at which 从句只到 today，amplifying 为独立分词补充，说明信息传播产生的放大效果。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 71,
+        "end": 78,
+        "text": "travels",
+        "role": "sub"
+      }
+    ]
+  },
+  "46": {
+    "text": "In summary, I would argue that we have always been automating.",
+    "lessonText": "In summary, I would argue that we have always been automating.",
+    "paragraphStart": 0,
+    "paragraphEnd": 62,
+    "functions": [
+      [
+        "Adverbial",
+        "In summary, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "would argue "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Auxiliary verb",
+        "have "
+      ],
+      [
+        "Adverbial",
+        "always "
+      ],
+      [
+        "Predicate",
+        "been automating."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 62,
+        "anchorEnd": 0,
+        "text": "In summary, I would argue that we have always been automating."
+      },
+      {
+        "kind": "object",
+        "start": 26,
+        "end": 62,
+        "anchorEnd": 30,
+        "text": "that we have always been automating."
+      }
+    ],
+    "notes": [
+      "would 使主张语气稍缓和，不是单纯过去将来时；have been automating 为现在完成进行时，强调持续过程。",
+      "have…been automating 属于 Object clause 的完成进行时谓语链，always 保持副词身份。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 25,
+        "text": "would argue",
+        "role": "main"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "have",
+        "role": "sub"
+      },
+      {
+        "start": 46,
+        "end": 61,
+        "text": "been automating",
+        "role": "sub"
+      }
+    ]
+  },
+  "47": {
+    "text": "I see the world as a system and when the system gets disrupted, it takes a while to get to the equilibrium and that is painful.",
+    "lessonText": "I see the world as a system and when the system gets disrupted, it takes a while to get to the equilibrium and that is painful.",
+    "paragraphStart": 63,
+    "paragraphEnd": 190,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "see "
+      ],
+      [
+        "Object",
+        "the world "
+      ],
+      [
+        "Object complement",
+        "as a system "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "the system "
+      ],
+      [
+        "Predicate",
+        "gets disrupted, "
+      ],
+      [
+        "Formal subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "takes "
+      ],
+      [
+        "Object",
+        "a while "
+      ],
+      [
+        "Postposed infinitival subject",
+        "to get to the equilibrium "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "painful."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 28,
+        "anchorEnd": 0,
+        "text": "I see the world as a system "
+      },
+      {
+        "kind": "main",
+        "start": 28,
+        "end": 107,
+        "anchorEnd": 28,
+        "text": "and when the system gets disrupted, it takes a while to get to the equilibrium "
+      },
+      {
+        "kind": "time",
+        "start": 32,
+        "end": 64,
+        "anchorEnd": 36,
+        "text": "when the system gets disrupted, "
+      },
+      {
+        "kind": "main",
+        "start": 107,
+        "end": 127,
+        "anchorEnd": 107,
+        "text": "and that is painful."
+      }
+    ],
+    "notes": [
+      "两处 and 连接主句层面的单位。when 从句从属于第二主句；it 是形式主语，to get… 是实际内容。that 指恢复均衡的过程。",
+      "三个主句分别对应 I see、it takes、that is；when 时间从句嵌在第二主句内，to get… 是形式主语 it 对应的不定式内容。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 5,
+        "text": "see",
+        "role": "main"
+      },
+      {
+        "start": 48,
+        "end": 62,
+        "text": "gets disrupted",
+        "role": "sub"
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "text": "takes",
+        "role": "main"
+      },
+      {
+        "start": 116,
+        "end": 118,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "48": {
+    "text": "We are going through that painful phase now and it needs empathy, compassion and social responsibility.",
+    "lessonText": "We are going through that painful phase now and it needs empathy, compassion and social responsibility.",
+    "paragraphStart": 191,
+    "paragraphEnd": 294,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Predicate",
+        "are going "
+      ],
+      [
+        "Preposition",
+        "through "
+      ],
+      [
+        "Prepositional complement",
+        "that painful phase "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "needs "
+      ],
+      [
+        "Object",
+        "empathy, compassion and social responsibility."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "We are going through that painful phase now "
+      },
+      {
+        "kind": "main",
+        "start": 44,
+        "end": 103,
+        "anchorEnd": 44,
+        "text": "and it needs empathy, compassion and social responsibility."
+      }
+    ],
+    "notes": [
+      "第一个 and 连接两主句，第二个 and 连接 needs 的宾语清单。it 指当前转型阶段，而非某个具体人。",
+      "are going 为限定谓语，through 引出介词补足；词组点击保持完整。and 后的 it needs… 为第二主句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 12,
+        "text": "are going",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "text": "needs",
+        "role": "main"
+      }
+    ]
+  }
+}

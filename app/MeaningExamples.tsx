@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import oxfordExamples from "./oxfordMeaningExamples.json";
+const exampleCatalog = oxfordExamples as Record<string, Array<{ english: string; chinese: string; source?: string } | null>>;
 
 export type MeaningExampleItem = {
   english: string;
@@ -16,13 +17,13 @@ export function splitMeaningLine(value: string): { english: string; chinese: str
   return { english: english.trim(), chinese: rest.join(" — ").trim() || "释义见词典条目。" };
 }
 
-export function MeaningExamples({ word, items }: { word: string; items: MeaningExampleItem[] }) {
+export function MeaningExamples({ word, items, useCatalog = true }: { word: string; items: MeaningExampleItem[]; useCatalog?: boolean }) {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
   if (!items.length) return null;
   return <div className="meaning-examples" aria-label={`${word} 的词义与例句`}>
     {items.map((item, index) => {
       const open = openIndex === index;
-      const example = oxfordExamples[word]?.[index] ?? (item.exampleEnglish ? { english: item.exampleEnglish, chinese: item.exampleChinese ?? "" } : null);
+      const example = (useCatalog ? exampleCatalog[word]?.[index] : null) ?? (item.exampleEnglish ? { english: item.exampleEnglish, chinese: item.exampleChinese ?? "" } : null);
       if (!example) {
         return <div className="meaning-example meaning-example-empty" key={`${item.english}-${index}`}>
           <div className="meaning-example-trigger meaning-example-trigger-static">
@@ -47,7 +48,7 @@ export function MeaningExamples({ word, items }: { word: string; items: MeaningE
           <p className="meaning-example-label">Oxford example · 牛津例句</p>
           <p className="meaning-example-en" lang="en">{example.english}</p>
           {example.chinese && <p className="meaning-example-zh" lang="zh-CN">{example.chinese}</p>}
-          {example.source && <a className="meaning-example-source" href={example.source} target="_blank" rel="noopener noreferrer">Oxford Learner’s Dictionaries ↗</a>}
+          {example.source && <a className="meaning-example-source" href={example.source} target="_blank" rel="noopener noreferrer">Oxford Advanced Learner’s English-Chinese Dictionary (10th Edition) ↗</a>}
         </div>}
       </div>;
     })}

@@ -1,0 +1,76 @@
+.grammar-quiz-grid { grid-template-columns: minmax(0, 1fr); max-width: 940px; margin: 32px auto 0; }
+.grammar-exercise-question { display: block; width: 100%; padding: 0 15px; border: 0; background: transparent; cursor: pointer; }
+.grammar-exercise-question:focus-visible { outline: 2px solid #426f63; outline-offset: -3px; }
+.grammar-exercise-text-scroller { overflow-x: auto; margin: 12px 0; border: 1px solid #e6dfd6; }
+.grammar-exercise-text-sheet { position: relative; width: 100%; min-width: 900px; container-type: inline-size; background: #fff; overflow: hidden; }
+.grammar-exercise-source-page { display: none; position: absolute; z-index: 0; left: 0; width: 100%; max-width: none !important; margin: 0 !important; pointer-events: none; }
+.grammar-exercise-view-toggle { display: flex; justify-content: flex-end; gap: 6px; margin: 4px 0 8px; font: 12px Arial, "Noto Sans SC", sans-serif; }
+.grammar-exercise-view-toggle button { padding: 5px 10px; border: 1px solid #d9cec0; border-radius: 5px; background: #fffaf3; color: #53635d; cursor: pointer; }
+.grammar-exercise-view-toggle button[aria-pressed="true"] { border-color: #778d83; background: #eaf0eb; color: #314b42; font-weight: 700; }
+.is-original-view .grammar-exercise-source-page { display: block; }
+.is-original-view .grammar-exercise-illustration { display: none; }
+.is-original-view .grammar-exercise-text-line { color: transparent !important; }
+.is-original-view .grammar-exercise-blank { position: relative; z-index: 4; min-height: 1em; background-color: #fff; color: #242727; }
+.is-original-view .grammar-exercise-blank:hover, .is-original-view .grammar-exercise-blank:focus-visible { background-color: #f3e9dc; }
+.is-original-view .grammar-exercise-blank.is-revealed { background-color: #fffaf3; color: #9a543f; }
+.grammar-exercise:has(.is-original-view) .grammar-exercise-heading { display: none; }
+.grammar-exercise-text-line { position: absolute; z-index: 1; display: block; white-space: pre; font-family: Georgia, "Times New Roman", serif; line-height: 1; letter-spacing: -.015em; color: #242727; }
+.grammar-exercise-text.is-supp .grammar-exercise-text-line { font-size: 1.75cqw; }
+.grammar-exercise-text.is-main .grammar-exercise-text-line { font-size: 1.55cqw; }
+.grammar-exercise-text-line.is-heading { font-weight: 700; }
+.grammar-exercise-text.is-supp .grammar-exercise-text-line.is-exercise-number { padding: 0 .45cqw; background: #777; color: #fff; font-weight: 700; }
+.grammar-exercise-text.is-main .grammar-exercise-text-line.is-heading { color: #086ba0; }
+.grammar-exercise-text-line.is-instruction { font-style: italic; }
+.grammar-exercise-blank { display: inline-block; min-width: 0; padding: 0; border: 0; border-bottom: 1px solid currentColor; border-radius: 0; background: transparent; color: inherit; font: inherit; line-height: inherit; vertical-align: baseline; white-space: pre; letter-spacing: 0; cursor: pointer; }
+.grammar-exercise-blank:hover, .grammar-exercise-blank:focus-visible { background: #f3e9dc; outline: 1px solid #bd8c70; }
+.grammar-exercise-blank.is-revealed { border-bottom-color: transparent; color: #9a543f; font-weight: 700; white-space: pre-wrap; }
+.grammar-exercise-revealed-answer { position: relative; display: inline; z-index: 5; }
+.grammar-exercise-answer-explanation { position: absolute; z-index: 8; top: calc(100% + 5px); left: 0; display: block; width: min(330px, 42cqw); padding: 9px 12px; border: 1px solid #d7c5b4; border-radius: 7px; background: #fffaf3; box-shadow: 0 5px 18px #49372824; color: #4c514d; font: 1.2cqw/1.45 Arial, "Noto Sans SC", sans-serif; white-space: normal; }
+.grammar-exercise-answer-notes { position: relative; z-index: 2; margin: 16px 0 4px; padding: 15px 18px; border: 1px solid #e2d5c5; border-left: 3px solid #9a543f; border-radius: 7px; background: #fffaf3; color: #454944; font: 14px/1.6 Arial, "Noto Sans SC", sans-serif; }
+.grammar-exercise-answer-notes h3 { margin: 0 0 8px; color: #7f5544; font-size: 14px; letter-spacing: .04em; }
+.grammar-exercise-answer-notes p { display: grid; grid-template-columns: minmax(110px, max-content) 1fr; gap: 10px; margin: 6px 0 0; }
+.grammar-exercise-answer-notes strong { color: #9a543f; font-weight: 700; }
+.grammar-exercise-answer-notes span { min-width: 0; }
+.grammar-exercise-matching-group .grammar-exercise-answer-explanation { position: static; flex-basis: 100%; width: auto; padding: 0; border: 0; border-radius: 0; background: transparent; box-shadow: none; font: inherit; }
+.grammar-exercise-inline-passage-answer { max-width: 900px; margin: 20px auto; padding: 18px 24px; border-left: 3px solid #9a543f; background: #fbf6ef; font: 17px/1.65 Georgia, "Times New Roman", serif; color: #292b2a; }
+.grammar-exercise-inline-passage-answer button { border: 0; padding: 0; background: transparent; color: #9a543f; font-weight: 700; cursor: pointer; }
+.grammar-exercise-inline-passage-answer p { margin: 8px 0; }
+.grammar-exercise-inline-passage-answer small { display: block; margin-top: 5px; color: #5e6b64; font: 14px/1.6 Arial, "Noto Sans SC", sans-serif; }
+.grammar-exercise-matching-answers { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin: 18px auto; max-width: 900px; font: 15px/1.8 Arial, "Noto Sans SC", sans-serif; }
+.grammar-exercise-matching-group { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; padding: 12px 16px; border: 1px solid #e2d8ca; border-radius: 8px; background: #fffaf3; }
+.grammar-exercise-matching-group>strong { width: 100%; color: #556b63; }
+.grammar-exercise-illustration { position: absolute; z-index: 0; overflow: hidden; pointer-events: none; }
+.grammar-exercise-illustration img { position: absolute; max-width: none !important; display: block; margin: 0 !important; border: 0 !important; }
+.grammar-exercise-missing { padding: 20px; }
+@media (max-width: 950px) { .grammar-exercise-heading::after { content: "题页可左右滑动查看完整排版"; display: block; margin-top: 10px; font: 12px Arial, sans-serif; color: #68827c; } }
+@media (max-width: 680px) { .grammar-exercise-answer-notes p { grid-template-columns: 1fr; gap: 1px; } }
+
+/* Text-first exercises: answers and explanations stay beside their own blank in document flow. */
+.grammar-exercise-question { cursor: default; }
+.grammar-exercise-text-scroller { overflow: visible; margin: 10px 15px 20px; border: 1px solid #e6dfd6; }
+.grammar-exercise-text-sheet { position: static; width: 100%; min-width: 0; padding: clamp(16px, 2.2vw, 30px); container-type: normal; overflow: visible; aspect-ratio: auto !important; }
+.grammar-exercise-view-toggle,
+.grammar-exercise-source-page,
+.grammar-exercise-illustration { display: none !important; }
+.grammar-exercise-text-line,
+.grammar-exercise-text.is-supp .grammar-exercise-text-line,
+.grammar-exercise-text.is-main .grammar-exercise-text-line { position: static; display: block; white-space: pre-wrap; overflow-wrap: anywhere; font-size: clamp(15px, 1.45vw, 19px); line-height: 1.7; letter-spacing: 0; margin: 0; color: #242727; }
+.grammar-exercise-text-line.is-instruction { margin-bottom: 12px; }
+.grammar-exercise-text-line.is-heading { margin: 12px 0 4px; font-weight: 700; }
+.grammar-exercise-text-line.is-exercise-number { display: inline-block; margin: 0 10px 8px 0; padding: 1px 8px; background: #777; color: #fff; font-weight: 700; }
+.grammar-exercise-blank { width: 6.5ch; min-height: 1em; margin: 0 .15em; background: transparent; cursor: pointer; }
+.grammar-exercise-blank:hover, .grammar-exercise-blank:focus-visible { background: #f3e9dc; outline: 1px solid #bd8c70; }
+.grammar-exercise-revealed-answer { position: static; display: inline; z-index: auto; }
+.grammar-exercise-answer-value { display: inline; margin-left: .35em; color: #9a543f; font: 700 0.95em/1.55 Georgia, serif; white-space: normal; }
+.grammar-exercise-answer-note { display: block; margin: 0 0 .35em; color: #53635d; font: 13px/1.55 Arial, sans-serif; white-space: normal; }
+.grammar-exercise-answer-explanation { position: static; display: block; width: auto; padding: 0; border: 0; border-radius: 0; background: transparent; box-shadow: none; color: #53635d; font: 13px/1.55 Arial, sans-serif; white-space: normal; }
+.grammar-exercise-answer-notes, .grammar-exercise-inline-passage-answer, .grammar-exercise-matching-answers { display: none !important; }
+.grammar-exercise:has(.is-text-view) .grammar-exercise-heading { display: block; }
+@media (max-width: 680px) {
+  .grammar-exercise-text-scroller { margin: 8px 8px 16px; }
+  .grammar-exercise-text-sheet { padding: 14px; }
+  .grammar-exercise-text-line,
+  .grammar-exercise-text.is-supp .grammar-exercise-text-line,
+  .grammar-exercise-text.is-main .grammar-exercise-text-line { font-size: 15px; line-height: 1.65; }
+  .grammar-exercise-answer-note { font-size: 12px; }
+}

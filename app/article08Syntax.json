@@ -1,0 +1,5284 @@
+{
+  "1": {
+    "text": "I watch a lot of competitive cooking shows.",
+    "lessonText": "I watch a lot of competitive cooking shows.",
+    "paragraphStart": 0,
+    "paragraphEnd": 43,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "watch "
+      ],
+      [
+        "Object",
+        "a lot of competitive cooking shows."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 43,
+        "anchorEnd": 0,
+        "text": "I watch a lot of competitive cooking shows."
+      }
+    ],
+    "notes": [
+      "主谓宾结构；competitive 修饰 cooking shows，表示比赛型节目，不是说食物本身有竞争力。标题 foodie 的词汇卡也放在本句入口。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "watch",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+    "lessonText": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+    "paragraphStart": 44,
+    "paragraphEnd": 226,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "And "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "seems "
+      ],
+      [
+        "Complementizer",
+        "like "
+      ],
+      [
+        "Subordinator",
+        "whenever "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Notional subject",
+        "a \"bizarre\" or \"exotic\" cooking ingredient, "
+      ],
+      [
+        "Subject",
+        "it"
+      ],
+      [
+        "Predicate",
+        "'s associated "
+      ],
+      [
+        "Complement",
+        "with foods from my culture and childhood, "
+      ],
+      [
+        "Supplement",
+        "for example 100-year-old egg or stinky tofu."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 182,
+        "anchorEnd": 0,
+        "text": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu."
+      },
+      {
+        "kind": "predicative",
+        "start": 13,
+        "end": 182,
+        "anchorEnd": 17,
+        "text": "like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu."
+      },
+      {
+        "kind": "time",
+        "start": 18,
+        "end": 80,
+        "anchorEnd": 26,
+        "text": "whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, "
+      }
+    ],
+    "notes": [
+      "seems like 后用完整情景说明“似乎怎样”，属于较口语的表达；whenever 在其中表每当。内层 it 指 ingredient，外层 it 是无人称形式主语。100-year-old egg 是皮蛋的俗称，不是真的保存一百年。",
+      "like 引导 seems 后的表语内容，whenever 从句嵌套其中；两层标签分别显示。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 12,
+        "text": "seems",
+        "role": "main"
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 82,
+        "end": 95,
+        "text": "'s associated",
+        "role": "sub"
+      }
+    ]
+  },
+  "3": {
+    "text": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
+    "lessonText": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
+    "paragraphStart": 0,
+    "paragraphEnd": 156,
+    "functions": [
+      [
+        "Subject",
+        "Mainstream media "
+      ],
+      [
+        "Predicate",
+        "has made "
+      ],
+      [
+        "Object",
+        "a spectacle "
+      ],
+      [
+        "Complement",
+        "out of foods from seemingly exotic places, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Auxiliary verb",
+        "'ve "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "observed "
+      ],
+      [
+        "Object",
+        "a lot of White chefs "
+      ],
+      [
+        "Object complement",
+        "create \"Asian-inspired\" dishes."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 81,
+        "anchorEnd": 0,
+        "text": "Mainstream media has made a spectacle out of foods from seemingly exotic places, "
+      },
+      {
+        "kind": "main",
+        "start": 81,
+        "end": 156,
+        "anchorEnd": 81,
+        "text": "and I've also observed a lot of White chefs create \"Asian-inspired\" dishes."
+      }
+    ],
+    "notes": [
+      "and 连接两套主谓。observe + 人 + 动词原形，create 不是第三个限定谓语。media 在现代用法中可作集体整体配单数，也可配复数；不能一律将原文 has 判错。"
+    ],
+    "predicates": [
+      {
+        "start": 17,
+        "end": 25,
+        "text": "has made",
+        "role": "main"
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "'ve",
+        "role": "main"
+      },
+      {
+        "start": 95,
+        "end": 103,
+        "text": "observed",
+        "role": "main"
+      }
+    ]
+  },
+  "4": {
+    "text": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+    "lessonText": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+    "paragraphStart": 157,
+    "paragraphEnd": 348,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Non-finite verb",
+        "going out "
+      ],
+      [
+        "Infinitival purpose adjunct",
+        "to eat, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "notice "
+      ],
+      [
+        "Object",
+        "many \"Asian-fusion\" themed restaurants "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "chefs "
+      ],
+      [
+        "Predicate",
+        "combine "
+      ],
+      [
+        "Object",
+        "all tastes in the vast and diverse continent of Asia "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "throw "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Adverbial",
+        "together on both plate and menu."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 191,
+        "anchorEnd": 0,
+        "text": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu."
+      },
+      {
+        "kind": "reduced-time",
+        "start": 0,
+        "end": 23,
+        "anchorEnd": 4,
+        "text": "When going out to eat, ",
+        "restoration": "I am"
+      },
+      {
+        "kind": "relative",
+        "start": 71,
+        "end": 191,
+        "anchorEnd": 76,
+        "text": "where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+        "antecedent": "restaurants"
+      }
+    ],
+    "notes": [
+      "going 的逻辑主语是 I，并不悬垂。where 回指 restaurants；combine 与 throw 共用 chefs。all 是作者概括性的批评，不能理解成餐厅实际拥有亚洲每一种味道。",
+      "When going out to eat 单列 Reduced time clause；going 和 to eat 均为非谓语，不标成限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 31,
+        "text": "notice",
+        "role": "main"
+      },
+      {
+        "start": 83,
+        "end": 90,
+        "text": "combine",
+        "role": "sub"
+      },
+      {
+        "start": 148,
+        "end": 153,
+        "text": "throw",
+        "role": "sub"
+      }
+    ]
+  },
+  "5": {
+    "text": "What is \"Asian-inspired\" or \"Asian-fusion?\"",
+    "lessonText": "What is \"Asian-inspired\" or \"Asian-fusion?\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 43,
+    "functions": [
+      [
+        "Interrogative predicative",
+        "What "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "\"Asian-inspired\" or \"Asian-fusion?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 43,
+        "anchorEnd": 0,
+        "text": "What is \"Asian-inspired\" or \"Asian-fusion?\""
+      }
+    ],
+    "notes": [
+      "这是询问标签含义的疑问句；or 连接被询问的两个表达，不引入从句。原文引号中的词被当作语言标签使用。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+    "lessonText": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+    "paragraphStart": 44,
+    "paragraphEnd": 148,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Object",
+        "a sinking suspicion "
+      ],
+      [
+        "Subject",
+        "it"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Preposition",
+        "like "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "my mom "
+      ],
+      [
+        "Predicate",
+        "made "
+      ],
+      [
+        "Indirect object",
+        "me "
+      ],
+      [
+        "Direct object",
+        "sushi "
+      ],
+      [
+        "Adverbial",
+        "with cucumbers, lunch meat, and eggs."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 104,
+        "anchorEnd": 0,
+        "text": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs."
+      },
+      {
+        "kind": "appositive",
+        "start": 27,
+        "end": 104,
+        "anchorEnd": 29,
+        "text": "it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+        "restoration": "that"
+      },
+      {
+        "kind": "fused-relative",
+        "start": 41,
+        "end": 104,
+        "anchorEnd": 45,
+        "text": "when my mom made me sushi with cucumbers, lunch meat, and eggs."
+      }
+    ],
+    "notes": [
+      "suspicion 后省略 that；when … 在 like 后提供比较的情景，不能只孤立地说成修饰外层 have 的时间状语。made me sushi = made sushi for me，me 并不是被做成寿司。",
+      "suspicion 后按 Appositive clause 标明内容；like 后的 when 情景按融合关系结构处理，整体是比较对象。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "have",
+        "role": "main"
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "text": "'s",
+        "role": "sub"
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "text": "made",
+        "role": "sub"
+      }
+    ]
+  },
+  "7": {
+    "text": "Or toast with mayonnaise and pork sung.",
+    "lessonText": "Or toast with mayonnaise and pork sung.",
+    "paragraphStart": 149,
+    "paragraphEnd": 188,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "Or "
+      ],
+      [
+        "Head noun",
+        "toast "
+      ],
+      [
+        "Modifier",
+        "with mayonnaise and pork sung."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "Or toast with mayonnaise and pork sung.",
+        "label": "Sentence fragment",
+        "color": "#746958",
+        "restoration": "when my mom made me"
+      }
+    ],
+    "notes": [
+      "这是刻意承接上句的名词片段，没有写出主语和限定谓语。pork sung 即肉松，也常说 pork floss；不是 sung 唱歌的独立动词用法。",
+      "原文是名词片段，因此没有可标色的限定谓语；补全提示仅帮助连接前句，不混入原文。"
+    ],
+    "predicates": []
+  },
+  "8": {
+    "text": "People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.",
+    "lessonText": "People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.",
+    "paragraphStart": 189,
+    "paragraphEnd": 320,
+    "functions": [
+      [
+        "Subject",
+        "People "
+      ],
+      [
+        "Predicate",
+        "used to make "
+      ],
+      [
+        "Object",
+        "fun "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Object",
+        "the food "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "eat, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "now suddenly, "
+      ],
+      [
+        "Subject",
+        "stuff like Spam fried rice "
+      ],
+      [
+        "Predicate",
+        "is selling "
+      ],
+      [
+        "Adverbial",
+        "at a hip new restaurant "
+      ],
+      [
+        "Adverbial",
+        "for $16."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 43,
+        "anchorEnd": 0,
+        "text": "People used to make fun of the food I eat, "
+      },
+      {
+        "kind": "relative",
+        "start": 36,
+        "end": 43,
+        "anchorEnd": 37,
+        "text": "I eat, ",
+        "antecedent": "the food",
+        "restoration": "that"
+      },
+      {
+        "kind": "main",
+        "start": 43,
+        "end": 131,
+        "anchorEnd": 43,
+        "text": "and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16."
+      }
+    ],
+    "notes": [
+      "used to do 表过去惯常行为；I eat 保留当下仍吃的习惯，并不必然时态冲突。stuff 不可数，用 is；sell 可不及物地说商品以某价出售，主动形式不等于食物在主动卖别的东西。",
+      "used to make 是谓语部分，fun 是名词宾语，of 引出被嘲笑的对象；整块 make fun of 生词按钮仍完整保留。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 19,
+        "text": "used to make",
+        "role": "main"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "eat",
+        "role": "sub"
+      },
+      {
+        "start": 88,
+        "end": 98,
+        "text": "is selling",
+        "role": "main"
+      }
+    ]
+  },
+  "9": {
+    "text": "It's frustrating when my culture gets consumed and appropriated as both trend and tourism.",
+    "lessonText": "It's frustrating when my culture gets consumed and appropriated as both trend and tourism.",
+    "paragraphStart": 321,
+    "paragraphEnd": 411,
+    "functions": [
+      [
+        "Subject",
+        "It"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "frustrating "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "my culture "
+      ],
+      [
+        "Predicate",
+        "gets consumed "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "appropriated "
+      ],
+      [
+        "Complement",
+        "as both trend and tourism."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 90,
+        "anchorEnd": 0,
+        "text": "It's frustrating when my culture gets consumed and appropriated as both trend and tourism."
+      },
+      {
+        "kind": "time",
+        "start": 17,
+        "end": 90,
+        "anchorEnd": 21,
+        "text": "when my culture gets consumed and appropriated as both trend and tourism."
+      }
+    ],
+    "notes": [
+      "it 用来评价后面所说的情景；when 从句明确何种情况令人沮丧。gets + 过去分词为 get 被动，consumed 与 appropriated 并列，不是 culture 主动挪用他者。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "text": "gets consumed",
+        "role": "sub"
+      },
+      {
+        "start": 51,
+        "end": 63,
+        "text": "appropriated",
+        "role": "sub"
+      }
+    ]
+  },
+  "10": {
+    "text": "Yet when it comes to food, what's appropriation and what's not can be tricky to think about.",
+    "lessonText": "Yet when it comes to food, what's appropriation and what's not can be tricky to think about.",
+    "paragraphStart": 412,
+    "paragraphEnd": 504,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "Yet "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "comes "
+      ],
+      [
+        "Complement",
+        "to food, "
+      ],
+      [
+        "Interrogative subject",
+        "what"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "appropriation "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Interrogative subject",
+        "what"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Linking verb",
+        "can be "
+      ],
+      [
+        "Predicative",
+        "tricky "
+      ],
+      [
+        "Infinitival complement",
+        "to think about."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 92,
+        "anchorEnd": 0,
+        "text": "Yet when it comes to food, what's appropriation and what's not can be tricky to think about."
+      },
+      {
+        "kind": "time",
+        "start": 4,
+        "end": 27,
+        "anchorEnd": 8,
+        "text": "when it comes to food, "
+      },
+      {
+        "kind": "subject",
+        "start": 27,
+        "end": 48,
+        "anchorEnd": 31,
+        "text": "what's appropriation "
+      },
+      {
+        "kind": "subject",
+        "start": 52,
+        "end": 63,
+        "anchorEnd": 56,
+        "text": "what's not ",
+        "restoration": "appropriation"
+      }
+    ],
+    "notes": [
+      "when it comes to food 在外层限定讨论话题，不在 what 主语内容里。两个疑问内容联合成为被思考的问题；to think about 用主动形式，about 后的空位与前面的主语内容对应，不再加 it。",
+      "两个嵌入疑问内容从句共同作外层主语，Subject clause 使用中性色；第二个 not 后省略 appropriation。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 17,
+        "text": "comes",
+        "role": "sub"
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": "'s",
+        "role": "sub"
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "'s",
+        "role": "sub"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "can be",
+        "role": "main"
+      }
+    ]
+  },
+  "11": {
+    "text": "Cultural appropriation is when a dominant culture adopts parts of another culture from people that it has oppressed.",
+    "lessonText": "Cultural appropriation is when a dominant culture adopts parts of another culture from people that it has oppressed.",
+    "paragraphStart": 0,
+    "paragraphEnd": 116,
+    "functions": [
+      [
+        "Subject",
+        "Cultural appropriation "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "a dominant culture "
+      ],
+      [
+        "Predicate",
+        "adopts "
+      ],
+      [
+        "Object",
+        "parts of another culture "
+      ],
+      [
+        "Adverbial",
+        "from people "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "has oppressed."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 116,
+        "anchorEnd": 0,
+        "text": "Cultural appropriation is when a dominant culture adopts parts of another culture from people that it has oppressed."
+      },
+      {
+        "kind": "predicative",
+        "start": 26,
+        "end": 116,
+        "anchorEnd": 30,
+        "text": "when a dominant culture adopts parts of another culture from people that it has oppressed."
+      },
+      {
+        "kind": "relative",
+        "start": 94,
+        "end": 116,
+        "anchorEnd": 98,
+        "text": "that it has oppressed.",
+        "antecedent": "people"
+      }
+    ],
+    "notes": [
+      "when 在定义式 is when 中提供一种情景，并非单纯说发生时间。that 是 oppressed 的宾语，it 指 dominant culture。定义体现本文作者强调权力不对等的分析框架。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 25,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "text": "adopts",
+        "role": "sub"
+      },
+      {
+        "start": 102,
+        "end": 115,
+        "text": "has oppressed",
+        "role": "sub"
+      }
+    ]
+  },
+  "12": {
+    "text": "The dominant culture can try the food and love the food without ever having to experience oppression.",
+    "lessonText": "The dominant culture can try the food and love the food without ever having to experience oppression.",
+    "paragraphStart": 117,
+    "paragraphEnd": 218,
+    "functions": [
+      [
+        "Subject",
+        "The dominant culture "
+      ],
+      [
+        "Predicate",
+        "can try "
+      ],
+      [
+        "Object",
+        "the food "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "love "
+      ],
+      [
+        "Object",
+        "the food "
+      ],
+      [
+        "Complement",
+        "without ever having to experience oppression."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 101,
+        "anchorEnd": 0,
+        "text": "The dominant culture can try the food and love the food without ever having to experience oppression."
+      }
+    ],
+    "notes": [
+      "love 共用 can；without 后的 having to do 表不必承担某种经历，having to 不是完成式 having done。dominant culture 以文化代指其中的人群。"
+    ],
+    "predicates": [
+      {
+        "start": 21,
+        "end": 28,
+        "text": "can try",
+        "role": "main"
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "love",
+        "role": "main"
+      }
+    ]
+  },
+  "13": {
+    "text": "Yet food appropriation isn't just eating food from someone else's culture.",
+    "lessonText": "Yet food appropriation isn't just eating food from someone else's culture.",
+    "paragraphStart": 219,
+    "paragraphEnd": 293,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "Yet "
+      ],
+      [
+        "Subject",
+        "food appropriation "
+      ],
+      [
+        "Linking verb",
+        "isn't "
+      ],
+      [
+        "Adverbial",
+        "just "
+      ],
+      [
+        "Predicative",
+        "eating food from someone else's culture."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "Yet food appropriation isn't just eating food from someone else's culture."
+      }
+    ],
+    "notes": [
+      "isn't 后为 -ing 结构作表语，不是进行时。not just 说明不能仅凭跨文化吃饭就完成判断，不等于作者禁止所有跨文化尝试。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 28,
+        "text": "isn't",
+        "role": "main"
+      }
+    ]
+  },
+  "14": {
+    "text": "It might not be appropriation if you're white and you love eating dumplings and hand-pulled noodles.",
+    "lessonText": "It might not be appropriation if you're white and you love eating dumplings and hand-pulled noodles.",
+    "paragraphStart": 294,
+    "paragraphEnd": 394,
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Modal auxiliary",
+        "might "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Linking verb",
+        "be "
+      ],
+      [
+        "Predicative",
+        "appropriation "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Subject",
+        "you"
+      ],
+      [
+        "Linking verb",
+        "'re "
+      ],
+      [
+        "Predicative",
+        "white "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "love "
+      ],
+      [
+        "Gerund-participial object",
+        "eating dumplings and hand-pulled noodles."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 100,
+        "anchorEnd": 0,
+        "text": "It might not be appropriation if you're white and you love eating dumplings and hand-pulled noodles."
+      },
+      {
+        "kind": "condition",
+        "start": 30,
+        "end": 100,
+        "anchorEnd": 32,
+        "text": "if you're white and you love eating dumplings and hand-pulled noodles."
+      }
+    ],
+    "notes": [
+      "if 的作用范围包括两个并列条件分句，但外层只有一个主句。might not 保留“未必”；hand-pulled noodles 是用手拉伸成形的面，不是用擀面杖擀出的手擀面。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "might",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "be",
+        "role": "main"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "'re",
+        "role": "sub"
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "love",
+        "role": "sub"
+      }
+    ]
+  },
+  "15": {
+    "text": "Enjoying food from another culture is perfectly fine.",
+    "lessonText": "Enjoying food from another culture is perfectly fine.",
+    "paragraphStart": 395,
+    "paragraphEnd": 448,
+    "functions": [
+      [
+        "Subject",
+        "Enjoying food from another culture "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "perfectly fine."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 53,
+        "anchorEnd": 0,
+        "text": "Enjoying food from another culture is perfectly fine."
+      }
+    ],
+    "notes": [
+      "完整 -ing 短语作主语，视作一项活动，用 is；perfectly 修饰 fine。此句明确排除了“吃别国食物本身就错”的读法。"
+    ],
+    "predicates": [
+      {
+        "start": 35,
+        "end": 37,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "16": {
+    "text": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.",
+    "lessonText": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.",
+    "paragraphStart": 449,
+    "paragraphEnd": 604,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But, "
+      ],
+      [
+        "Subject",
+        "food "
+      ],
+      [
+        "Predicate",
+        "is appropriated "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "people from the dominant culture "
+      ],
+      [
+        "Predicate",
+        "start "
+      ],
+      [
+        "Infinitival complement",
+        "to fetishize or commercialize it, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "hoard "
+      ],
+      [
+        "Object",
+        "access to that particular food."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 155,
+        "anchorEnd": 0,
+        "text": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food."
+      },
+      {
+        "kind": "time",
+        "start": 26,
+        "end": 104,
+        "anchorEnd": 30,
+        "text": "when people from the dominant culture start to fetishize or commercialize it, "
+      },
+      {
+        "kind": "time",
+        "start": 108,
+        "end": 155,
+        "anchorEnd": 112,
+        "text": "when they hoard access to that particular food."
+      }
+    ],
+    "notes": [
+      "两处 when 并列交代挪用发生的情景；不是 that 一类宾语内容从句。to 可共同管 fetishize 和 commercialize。hoard access 为控制获取渠道的比喻；fetishize 在此不含必须的性意味。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 25,
+        "text": "is appropriated",
+        "role": "main"
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "text": "start",
+        "role": "sub"
+      },
+      {
+        "start": 118,
+        "end": 123,
+        "text": "hoard",
+        "role": "sub"
+      }
+    ]
+  },
+  "17": {
+    "text": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.",
+    "lessonText": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.",
+    "paragraphStart": 0,
+    "paragraphEnd": 212,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Subject",
+        "a dominant culture "
+      ],
+      [
+        "Predicate",
+        "reduces "
+      ],
+      [
+        "Object",
+        "another community "
+      ],
+      [
+        "Complement",
+        "to its cuisine, "
+      ],
+      [
+        "Predicate",
+        "turns "
+      ],
+      [
+        "Object",
+        "histories and stories "
+      ],
+      [
+        "Complement",
+        "into menu items "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "people "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Subject",
+        "culture "
+      ],
+      [
+        "Predicate",
+        "can be understood "
+      ],
+      [
+        "Adverbial",
+        "with a bite of food, "
+      ],
+      [
+        "Subject",
+        "that"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "gets "
+      ],
+      [
+        "Predicative",
+        "problematic."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 212,
+        "anchorEnd": 0,
+        "text": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 110,
+        "anchorEnd": 4,
+        "text": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items "
+      },
+      {
+        "kind": "time",
+        "start": 114,
+        "end": 179,
+        "anchorEnd": 118,
+        "text": "when people think culture can be understood with a bite of food, "
+      },
+      {
+        "kind": "object",
+        "start": 132,
+        "end": 179,
+        "anchorEnd": 139,
+        "text": "culture can be understood with a bite of food, ",
+        "restoration": "that"
+      },
+      {
+        "kind": "predicative",
+        "start": 186,
+        "end": 212,
+        "anchorEnd": 191,
+        "text": "where it gets problematic."
+      }
+    ],
+    "notes": [
+      "先跨过两大 when 情景，再找 that's where …。reduces 与 turns 共用 dominant culture；think 后省略 that。where 表“问题出现的点”，不必是实际地理地点；with a bite 是方式的夸张表达。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 31,
+        "text": "reduces",
+        "role": "sub"
+      },
+      {
+        "start": 66,
+        "end": 71,
+        "text": "turns",
+        "role": "sub"
+      },
+      {
+        "start": 126,
+        "end": 131,
+        "text": "think",
+        "role": "sub"
+      },
+      {
+        "start": 140,
+        "end": 157,
+        "text": "can be understood",
+        "role": "sub"
+      },
+      {
+        "start": 183,
+        "end": 185,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 195,
+        "end": 199,
+        "text": "gets",
+        "role": "sub"
+      }
+    ]
+  },
+  "18": {
+    "text": "It's also harmful when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit.",
+    "lessonText": "It's also harmful when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit.",
+    "paragraphStart": 213,
+    "paragraphEnd": 360,
+    "functions": [
+      [
+        "Subject",
+        "It"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicative",
+        "harmful "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "the dominant culture "
+      ],
+      [
+        "Predicate",
+        "controls "
+      ],
+      [
+        "Object",
+        "the economic and material resources "
+      ],
+      [
+        "Infinitival modifier",
+        "to produce that food "
+      ],
+      [
+        "Adverbial",
+        "for their own consumption and profit."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 147,
+        "anchorEnd": 0,
+        "text": "It's also harmful when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit."
+      },
+      {
+        "kind": "time",
+        "start": 18,
+        "end": 147,
+        "anchorEnd": 22,
+        "text": "when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit."
+      }
+    ],
+    "notes": [
+      "主句先评价，when 给出所评情景。their 按文化所代表的人群理解，原文有从单数整体转向成员的指代转换；需要明确时可改写为 for the dominant group's own …。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "text": "controls",
+        "role": "sub"
+      }
+    ]
+  },
+  "19": {
+    "text": "Here are some dining behaviors that are culturally appropriative when it comes to food.",
+    "lessonText": "Here are some dining behaviors that are culturally appropriative when it comes to food.",
+    "paragraphStart": 0,
+    "paragraphEnd": 87,
+    "functions": [
+      [
+        "Adverbial",
+        "Here "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Subject",
+        "some dining behaviors "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "culturally appropriative "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "comes "
+      ],
+      [
+        "Complement",
+        "to food."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 87,
+        "anchorEnd": 0,
+        "text": "Here are some dining behaviors that are culturally appropriative when it comes to food."
+      },
+      {
+        "kind": "relative",
+        "start": 31,
+        "end": 87,
+        "anchorEnd": 35,
+        "text": "that are culturally appropriative when it comes to food.",
+        "antecedent": "some dining behaviors"
+      },
+      {
+        "kind": "time",
+        "start": 65,
+        "end": 87,
+        "anchorEnd": 69,
+        "text": "when it comes to food."
+      }
+    ],
+    "notes": [
+      "Here are … 用于引出下文，名词主语 behaviors 在 are 后。that 作从句主语，不能省略；when it comes to 是“谈到、就……而言”。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "are",
+        "role": "sub"
+      },
+      {
+        "start": 73,
+        "end": 78,
+        "text": "comes",
+        "role": "sub"
+      }
+    ]
+  },
+  "20": {
+    "text": "Often, when we talk about \"ethnic\" food, we're not referring to French, German, or Italian cuisine.",
+    "lessonText": "Often, when we talk about \"ethnic\" food, we're not referring to French, German, or Italian cuisine.",
+    "paragraphStart": 0,
+    "paragraphEnd": 99,
+    "functions": [
+      [
+        "Adverbial",
+        "Often, "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "talk "
+      ],
+      [
+        "Complement",
+        "about \"ethnic\" food, "
+      ],
+      [
+        "Subject",
+        "we"
+      ],
+      [
+        "Auxiliary verb",
+        "'re "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "referring "
+      ],
+      [
+        "Complement",
+        "to French, German, or Italian cuisine."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 99,
+        "anchorEnd": 0,
+        "text": "Often, when we talk about \"ethnic\" food, we're not referring to French, German, or Italian cuisine."
+      },
+      {
+        "kind": "time",
+        "start": 7,
+        "end": 41,
+        "anchorEnd": 11,
+        "text": "when we talk about \"ethnic\" food, "
+      }
+    ],
+    "notes": [
+      "refer to 的 to 是介词；三个国别形容词共用 cuisine。作者讨论标签被怎样使用，并非说这些国家没有族裔文化根源。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 19,
+        "text": "talk",
+        "role": "sub"
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "'re",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 60,
+        "text": "referring",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+    "lessonText": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+    "paragraphStart": 100,
+    "paragraphEnd": 236,
+    "functions": [
+      [
+        "Adverbial",
+        "Usually, "
+      ],
+      [
+        "Subject",
+        "we"
+      ],
+      [
+        "Predicate",
+        "'re talking "
+      ],
+      [
+        "Complement",
+        "about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—"
+      ],
+      [
+        "Supplement",
+        "places "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "food "
+      ],
+      [
+        "Predicate",
+        "is cooked "
+      ],
+      [
+        "Agent phrase",
+        "by the \"brownest\" people."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 136,
+        "anchorEnd": 0,
+        "text": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people."
+      },
+      {
+        "kind": "relative",
+        "start": 90,
+        "end": 136,
+        "anchorEnd": 95,
+        "text": "where food is cooked by the \"brownest\" people.",
+        "antecedent": "places"
+      }
+    ],
+    "notes": [
+      "places 实际指所列食物的来源地，形式上却接在 food 后，属于语义松散的补充；现代可写 food from places where …。“brownest” 加引号是作者揭示种族化标签，不是词汇卡对人群作客观排名。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 22,
+        "text": "'re talking",
+        "role": "main"
+      },
+      {
+        "start": 101,
+        "end": 110,
+        "text": "is cooked",
+        "role": "sub"
+      }
+    ]
+  },
+  "22": {
+    "text": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.",
+    "lessonText": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.",
+    "paragraphStart": 237,
+    "paragraphEnd": 413,
+    "functions": [
+      [
+        "Subordinator",
+        "While "
+      ],
+      [
+        "Subject",
+        "food from Western Europe "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "still "
+      ],
+      [
+        "Predicate",
+        "connected "
+      ],
+      [
+        "Complement",
+        "to ethnic roots, "
+      ],
+      [
+        "Subject",
+        "ethnic food "
+      ],
+      [
+        "Predicate",
+        "has become "
+      ],
+      [
+        "Predicative",
+        "reserved only for ethnicities "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "are perceived "
+      ],
+      [
+        "Complement",
+        "as exotic and foreign to White folks."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 176,
+        "anchorEnd": 0,
+        "text": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks."
+      },
+      {
+        "kind": "concessive",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 5,
+        "text": "While food from Western Europe is still connected to ethnic roots, "
+      },
+      {
+        "kind": "relative",
+        "start": 120,
+        "end": 176,
+        "anchorEnd": 124,
+        "text": "that are perceived as exotic and foreign to White folks.",
+        "antecedent": "ethnicities"
+      }
+    ],
+    "notes": [
+      "While 表虽然，不是同时发生。reserved 在此是留给特定对象，不是性格内敛；be perceived as 表被视为，明确这是观看者的认知，不是群体本质。",
+      "while 表让步，使用 Concessive clause 标签和中性色；沿用既有解释，将 has become 视为主句谓语、reserved … 视为状态表语。"
+    ],
+    "predicates": [
+      {
+        "start": 31,
+        "end": 33,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "text": "connected",
+        "role": "sub"
+      },
+      {
+        "start": 79,
+        "end": 89,
+        "text": "has become",
+        "role": "main"
+      },
+      {
+        "start": 125,
+        "end": 138,
+        "text": "are perceived",
+        "role": "sub"
+      }
+    ]
+  },
+  "23": {
+    "text": "While food can connect people together and serve as a way to learn about cultures other than our own, what happens is that food becomes the only symbol for certain places.",
+    "lessonText": "While food can connect people together and serve as a way to learn about cultures other than our own, what happens is that food becomes the only symbol for certain places.",
+    "paragraphStart": 0,
+    "paragraphEnd": 171,
+    "functions": [
+      [
+        "Subordinator",
+        "While "
+      ],
+      [
+        "Subject",
+        "food "
+      ],
+      [
+        "Predicate",
+        "can connect "
+      ],
+      [
+        "Object",
+        "people "
+      ],
+      [
+        "Adverbial",
+        "together "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "serve "
+      ],
+      [
+        "Complement",
+        "as a way to learn about cultures other than our own, "
+      ],
+      [
+        "Fused relative pronoun",
+        "what "
+      ],
+      [
+        "Predicate",
+        "happens "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "food "
+      ],
+      [
+        "Linking verb",
+        "becomes "
+      ],
+      [
+        "Predicative",
+        "the only symbol for certain places."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 171,
+        "anchorEnd": 0,
+        "text": "While food can connect people together and serve as a way to learn about cultures other than our own, what happens is that food becomes the only symbol for certain places."
+      },
+      {
+        "kind": "concessive",
+        "start": 0,
+        "end": 102,
+        "anchorEnd": 5,
+        "text": "While food can connect people together and serve as a way to learn about cultures other than our own, "
+      },
+      {
+        "kind": "fused-relative",
+        "start": 102,
+        "end": 115,
+        "anchorEnd": 106,
+        "text": "what happens "
+      },
+      {
+        "kind": "predicative",
+        "start": 118,
+        "end": 171,
+        "anchorEnd": 122,
+        "text": "that food becomes the only symbol for certain places."
+      }
+    ],
+    "notes": [
+      "外层骨架是 what happens is that …；what happens 整体作主语。while 内 connect 与 serve 共用 can；our own 省略 cultures。other than 在此为不同于，不是把其他文化一并包含进来。",
+      "what happens 为融合关系结构，整体作主语；that food becomes … 才是外层表语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 22,
+        "text": "can connect",
+        "role": "sub"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "serve",
+        "role": "sub"
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "text": "happens",
+        "role": "sub"
+      },
+      {
+        "start": 115,
+        "end": 117,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 128,
+        "end": 135,
+        "text": "becomes",
+        "role": "sub"
+      }
+    ]
+  },
+  "24": {
+    "text": "Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.",
+    "lessonText": "Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.",
+    "paragraphStart": 172,
+    "paragraphEnd": 274,
+    "functions": [
+      [
+        "Subject",
+        "Japan "
+      ],
+      [
+        "Predicate",
+        "is reduced "
+      ],
+      [
+        "Complement",
+        "to ramen and sushi, "
+      ],
+      [
+        "Subject",
+        "Mexico "
+      ],
+      [
+        "Predicate",
+        "is reduced "
+      ],
+      [
+        "Complement",
+        "to tacos, "
+      ],
+      [
+        "Subject",
+        "India "
+      ],
+      [
+        "Predicate",
+        "is reduced "
+      ],
+      [
+        "Complement",
+        "to curry, "
+      ],
+      [
+        "List continuation",
+        "and so on."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 37,
+        "anchorEnd": 0,
+        "text": "Japan is reduced to ramen and sushi, "
+      },
+      {
+        "kind": "main",
+        "start": 37,
+        "end": 65,
+        "anchorEnd": 37,
+        "text": "Mexico is reduced to tacos, "
+      },
+      {
+        "kind": "main",
+        "start": 65,
+        "end": 102,
+        "anchorEnd": 65,
+        "text": "India is reduced to curry, and so on."
+      }
+    ],
+    "notes": [
+      "这是三个完整主句的排比列举，原文用逗号连接；规范练习宜用分号或补明确连接词。is reduced to 是被简化，不是这些国家真的缩成食物。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 16,
+        "text": "is reduced",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "text": "is reduced",
+        "role": "main"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "text": "is reduced",
+        "role": "main"
+      }
+    ]
+  },
+  "25": {
+    "text": "Entire regions become reduced to menu options and ingredients, without any thought to the many different communities in these places.",
+    "lessonText": "Entire regions become reduced to menu options and ingredients, without any thought to the many different communities in these places.",
+    "paragraphStart": 275,
+    "paragraphEnd": 408,
+    "functions": [
+      [
+        "Subject",
+        "Entire regions "
+      ],
+      [
+        "Predicate",
+        "become "
+      ],
+      [
+        "Predicative",
+        "reduced to menu options and ingredients, "
+      ],
+      [
+        "Complement",
+        "without any thought to the many different communities in these places."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 133,
+        "anchorEnd": 0,
+        "text": "Entire regions become reduced to menu options and ingredients, without any thought to the many different communities in these places."
+      }
+    ],
+    "notes": [
+      "become reduced 表逐渐处于被简化的状态。without + 名词短语不构成独立从句；any 在否定性 without 后强调一点考虑也没有。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 21,
+        "text": "become",
+        "role": "main"
+      }
+    ]
+  },
+  "26": {
+    "text": "There's a loss of complexity and cultures end up getting homogenized.",
+    "lessonText": "There's a loss of complexity and cultures end up getting homogenized.",
+    "paragraphStart": 409,
+    "paragraphEnd": 478,
+    "functions": [
+      [
+        "Existential subject",
+        "There"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Notional subject",
+        "a loss of complexity "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "cultures "
+      ],
+      [
+        "Predicate",
+        "end up "
+      ],
+      [
+        "Complement",
+        "getting homogenized."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 29,
+        "anchorEnd": 0,
+        "text": "There's a loss of complexity "
+      },
+      {
+        "kind": "main",
+        "start": 29,
+        "end": 69,
+        "anchorEnd": 29,
+        "text": "and cultures end up getting homogenized."
+      }
+    ],
+    "notes": [
+      "end up 后用 doing，内部 get + 过去分词表被动。end up 说最终结果，常有出乎预期意味，但不能规定所有用例都必须完全未曾计划。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "end up",
+        "role": "main"
+      }
+    ]
+  },
+  "27": {
+    "text": "In seeking \"authentic\" food, we're hoping for a truly immersive experience into another culture.",
+    "lessonText": "In seeking \"authentic\" food, we're hoping for a truly immersive experience into another culture.",
+    "paragraphStart": 0,
+    "paragraphEnd": 96,
+    "functions": [
+      [
+        "Adverbial",
+        "In seeking \"authentic\" food, "
+      ],
+      [
+        "Subject",
+        "we"
+      ],
+      [
+        "Predicate",
+        "'re hoping "
+      ],
+      [
+        "Complement",
+        "for a truly immersive experience into another culture."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 96,
+        "anchorEnd": 0,
+        "text": "In seeking \"authentic\" food, we're hoping for a truly immersive experience into another culture."
+      }
+    ],
+    "notes": [
+      "In 后接 -ing，隐含行动者是 we。experience into 带进入文化的修辞感；更适合主动掌握 an experience of/in another culture 或 immersion in …，不要将 into 当唯一固定搭配。"
+    ],
+    "predicates": [
+      {
+        "start": 31,
+        "end": 41,
+        "text": "'re hoping",
+        "role": "main"
+      }
+    ]
+  },
+  "28": {
+    "text": "The food experience, whether in a restaurant in someone's home city or as part of a trip somewhere else, comes to represent a larger experience with that culture and community.",
+    "lessonText": "The food experience, whether in a restaurant in someone's home city or as part of a trip somewhere else, comes to represent a larger experience with that culture and community.",
+    "paragraphStart": 97,
+    "paragraphEnd": 273,
+    "functions": [
+      [
+        "Subject",
+        "The food experience, "
+      ],
+      [
+        "Subordinator",
+        "whether "
+      ],
+      [
+        "Alternative complement",
+        "in a restaurant in someone's home city "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Alternative complement",
+        "as part of a trip somewhere else, "
+      ],
+      [
+        "Predicate",
+        "comes "
+      ],
+      [
+        "Infinitival complement",
+        "to represent a larger experience with that culture and community."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 176,
+        "anchorEnd": 0,
+        "text": "The food experience, whether in a restaurant in someone's home city or as part of a trip somewhere else, comes to represent a larger experience with that culture and community."
+      },
+      {
+        "kind": "reduced-concessive",
+        "start": 21,
+        "end": 105,
+        "anchorEnd": 28,
+        "text": "whether in a restaurant in someone's home city or as part of a trip somewhere else, ",
+        "restoration": "it is"
+      }
+    ],
+    "notes": [
+      "原句只有 comes 一套展开的限定谓语；whether … or … 是省略补充，讲解可补 it is 帮助理解，但不能当原文已写。come to represent 表渐渐被视为代表，不是来到某地。",
+      "whether … or … 是省略补充，没有原文中的限定谓语；补全 it is 仅作提示。"
+    ],
+    "predicates": [
+      {
+        "start": 105,
+        "end": 110,
+        "text": "comes",
+        "role": "main"
+      }
+    ]
+  },
+  "29": {
+    "text": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
+    "lessonText": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
+    "paragraphStart": 274,
+    "paragraphEnd": 388,
+    "functions": [
+      [
+        "Head of subject",
+        "Our perceptions "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Interrogative subject",
+        "what "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "\"authentic\" "
+      ],
+      [
+        "Predicate",
+        "stem "
+      ],
+      [
+        "Complement",
+        "from preconceived \"exotic narratives\" of that culture and communities."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 114,
+        "anchorEnd": 0,
+        "text": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities."
+      },
+      {
+        "kind": "object",
+        "start": 19,
+        "end": 39,
+        "anchorEnd": 23,
+        "text": "what is \"authentic\" "
+      }
+    ],
+    "notes": [
+      "主语中心是 perceptions，故用 stem，不受内层 what is 干扰。stem from 中主语是结果，from 后是来源；原文 culture and communities 指文化及其相关社群。",
+      "what is authentic 按嵌入疑问内容分析，整体作 of 的宾语；不是修饰 perceptions 的定语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 26,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "stem",
+        "role": "main"
+      }
+    ]
+  },
+  "30": {
+    "text": "For example, it's not uncommon to hear someone say: \"Oh, during my trip to Asia, I had the most authentic [fill in the blank].\"",
+    "lessonText": "For example, it's not uncommon to hear someone say: \"Oh, during my trip to Asia, I had the most authentic [fill in the blank].\"",
+    "paragraphStart": 389,
+    "paragraphEnd": 516,
+    "functions": [
+      [
+        "Adverbial",
+        "For example, "
+      ],
+      [
+        "Formal subject",
+        "it"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "not uncommon "
+      ],
+      [
+        "Postposed subject",
+        "to hear someone say: "
+      ],
+      [
+        "Interjection",
+        "\"Oh, "
+      ],
+      [
+        "Adverbial",
+        "during my trip to Asia, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "the most authentic [fill in the blank].\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 127,
+        "anchorEnd": 0,
+        "text": "For example, it's not uncommon to hear someone say: \"Oh, during my trip to Asia, I had the most authentic [fill in the blank].\""
+      },
+      {
+        "kind": "quote",
+        "start": 52,
+        "end": 127,
+        "anchorEnd": 56,
+        "text": "\"Oh, during my trip to Asia, I had the most authentic [fill in the blank].\""
+      }
+    ],
+    "notes": [
+      "it 是形式主语，后面的不定式说明所评价的事。hear someone say 为原形补足；not uncommon 委婉说并不少见。方括号是作者模拟说话时留下的菜名空位，不是网页要求你执行的指令。",
+      "引语内部 I had … 为独立引述主句。原文 [fill in the blank] 是作者写出的占位表达，保留原文，不误当语法省略补全。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 17,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "31": {
+    "text": "Food culture has travelled in messy and complicated ways across the globe.",
+    "lessonText": "Food culture has travelled in messy and complicated ways across the globe.",
+    "paragraphStart": 0,
+    "paragraphEnd": 74,
+    "functions": [
+      [
+        "Subject",
+        "Food culture "
+      ],
+      [
+        "Predicate",
+        "has travelled "
+      ],
+      [
+        "Adverbial",
+        "in messy and complicated ways "
+      ],
+      [
+        "Adverbial",
+        "across the globe."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "Food culture has travelled in messy and complicated ways across the globe."
+      }
+    ],
+    "notes": [
+      "has travelled 是现在完成时，强调传播的历史影响至今；文化的“旅行”是比喻，messy 说历史交错，不是食物脏乱。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 26,
+        "text": "has travelled",
+        "role": "main"
+      }
+    ]
+  },
+  "32": {
+    "text": "The impacts of historical and continuing colonization are devastating to many cultures, and many \"authentic\" \"ethnic\" cuisines are connected to histories of colonization.",
+    "lessonText": "The impacts of historical and continuing colonization are devastating to many cultures, and many \"authentic\" \"ethnic\" cuisines are connected to histories of colonization.",
+    "paragraphStart": 75,
+    "paragraphEnd": 245,
+    "functions": [
+      [
+        "Subject",
+        "The impacts of historical and continuing colonization "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "devastating to many cultures, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "many \"authentic\" \"ethnic\" cuisines "
+      ],
+      [
+        "Predicate",
+        "are connected "
+      ],
+      [
+        "Complement",
+        "to histories of colonization."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 88,
+        "anchorEnd": 0,
+        "text": "The impacts of historical and continuing colonization are devastating to many cultures, "
+      },
+      {
+        "kind": "main",
+        "start": 88,
+        "end": 170,
+        "anchorEnd": 88,
+        "text": "and many \"authentic\" \"ethnic\" cuisines are connected to histories of colonization."
+      }
+    ],
+    "notes": [
+      "第一句 devastating 是描述影响的形容词，不是有宾语的进行时动词。两套复数主语分别用 are；引号体现作者对标签的审视。"
+    ],
+    "predicates": [
+      {
+        "start": 54,
+        "end": 57,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 127,
+        "end": 140,
+        "text": "are connected",
+        "role": "main"
+      }
+    ]
+  },
+  "33": {
+    "text": "For example, the use of Spam in different parts of Asia and the Pacific Islands, like Spam musubi or Spam in hot pot, are a direct result of U.S. colonization.",
+    "lessonText": "For example, the use of Spam in different parts of Asia and the Pacific Islands, like Spam musubi or Spam in hot pot, is a direct result of U.S. colonization.",
+    "paragraphStart": 246,
+    "paragraphEnd": 405,
+    "functions": [
+      [
+        "Adverbial",
+        "For example, "
+      ],
+      [
+        "Head of subject",
+        "the use "
+      ],
+      [
+        "Subject",
+        "of Spam in different parts of Asia and the Pacific Islands, "
+      ],
+      [
+        "Supplement",
+        "like Spam musubi or Spam in hot pot, "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "a direct result of U.S. colonization."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 159,
+        "anchorEnd": 0,
+        "text": "For example, the use of Spam in different parts of Asia and the Pacific Islands, like Spam musubi or Spam in hot pot, are a direct result of U.S. colonization."
+      }
+    ],
+    "notes": [
+      "主语中心 use 是单数，因此使用 is。",
+      "正文与 Structure 均保留原文 are；前述 is 是针对主语中心 use 的主谓一致修订建议，不作为原文替换。"
+    ],
+    "predicates": [
+      {
+        "start": 118,
+        "end": 121,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "34": {
+    "text": "Of course, this is not necessarily a bad thing in itself: If you love a dish and think it's delicious, great!",
+    "lessonText": "Of course, this is not necessarily a bad thing in itself: If you love a dish and think it's delicious, great!",
+    "paragraphStart": 406,
+    "paragraphEnd": 515,
+    "functions": [
+      [
+        "Adverbial",
+        "Of course, "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Negation / scope modifier",
+        "not necessarily "
+      ],
+      [
+        "Predicative",
+        "a bad thing in itself: "
+      ],
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "love "
+      ],
+      [
+        "Object",
+        "a dish "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Subject",
+        "it"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "delicious, "
+      ],
+      [
+        "Elliptical predicative",
+        "great!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 58,
+        "anchorEnd": 0,
+        "text": "Of course, this is not necessarily a bad thing in itself: "
+      },
+      {
+        "kind": "main",
+        "start": 58,
+        "end": 109,
+        "anchorEnd": 58,
+        "text": "If you love a dish and think it's delicious, great!",
+        "restoration": "that's",
+        "label": "Elliptical main clause"
+      },
+      {
+        "kind": "condition",
+        "start": 58,
+        "end": 103,
+        "anchorEnd": 60,
+        "text": "If you love a dish and think it's delicious, "
+      },
+      {
+        "kind": "object",
+        "start": 87,
+        "end": 103,
+        "anchorEnd": 89,
+        "text": "it's delicious, ",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "冒号后另起带条件的评价，great 前可补 that's；love 和 think 共用 you。not necessarily = 不一定，不是一定不；不要把省略评价误判为缺少任何完整意思。",
+      "冒号后条件结构中的 great 省略 that’s；条件从句内的 it’s delicious 是 think 的宾语。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 18,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "love",
+        "role": "sub"
+      },
+      {
+        "start": 81,
+        "end": 86,
+        "text": "think",
+        "role": "sub"
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "'s",
+        "role": "sub"
+      }
+    ]
+  },
+  "35": {
+    "text": "If you're searching for a place that serves a particular dish, also great!",
+    "lessonText": "If you're searching for a place that serves a particular dish, also great!",
+    "paragraphStart": 516,
+    "paragraphEnd": 590,
+    "functions": [
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Subject",
+        "you"
+      ],
+      [
+        "Predicate",
+        "'re searching "
+      ],
+      [
+        "Complement",
+        "for a place "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "serves "
+      ],
+      [
+        "Object",
+        "a particular dish, "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Elliptical predicative",
+        "great!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "If you're searching for a place that serves a particular dish, also great!",
+        "label": "Elliptical main clause",
+        "restoration": "that's"
+      },
+      {
+        "kind": "condition",
+        "start": 0,
+        "end": 63,
+        "anchorEnd": 2,
+        "text": "If you're searching for a place that serves a particular dish, "
+      },
+      {
+        "kind": "relative",
+        "start": 32,
+        "end": 63,
+        "anchorEnd": 36,
+        "text": "that serves a particular dish, ",
+        "antecedent": "a place"
+      }
+    ],
+    "notes": [
+      "that 作 serves 的主语，不能省略。逗号后的评价省去 that's，承接上句语气；并非 if 从句可以在任何文体里无主句独立使用。",
+      "外层评价省略 that’s，原文只有 if 和关系从句中的限定谓语，均用从句谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 19,
+        "text": "'re searching",
+        "role": "sub"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "serves",
+        "role": "sub"
+      }
+    ]
+  },
+  "36": {
+    "text": "However, seeking \"authenticity\" does not always show respect for the food of another culture.",
+    "lessonText": "However, seeking \"authenticity\" does not always show respect for the food of another culture.",
+    "paragraphStart": 591,
+    "paragraphEnd": 684,
+    "functions": [
+      [
+        "Adverbial",
+        "However, "
+      ],
+      [
+        "Subject",
+        "seeking \"authenticity\" "
+      ],
+      [
+        "Auxiliary verb",
+        "does "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Adverbial",
+        "always "
+      ],
+      [
+        "Predicate",
+        "show "
+      ],
+      [
+        "Object",
+        "respect for the food of another culture."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 93,
+        "anchorEnd": 0,
+        "text": "However, seeking \"authenticity\" does not always show respect for the food of another culture."
+      }
+    ],
+    "notes": [
+      "not always 是部分否定：并非每次都如此，而不是从来不。-ing 主语作为一项活动，使用 does，不因 food 的来源不同而改 do。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 36,
+        "text": "does",
+        "role": "main"
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": "show",
+        "role": "main"
+      }
+    ]
+  },
+  "37": {
+    "text": "The idea of the \"authentic\" food experience is separated from reality.",
+    "lessonText": "The idea of the \"authentic\" food experience is separated from reality.",
+    "paragraphStart": 685,
+    "paragraphEnd": 755,
+    "functions": [
+      [
+        "Subject",
+        "The idea of the \"authentic\" food experience "
+      ],
+      [
+        "Predicate",
+        "is separated "
+      ],
+      [
+        "Complement",
+        "from reality."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 70,
+        "anchorEnd": 0,
+        "text": "The idea of the \"authentic\" food experience is separated from reality."
+      }
+    ],
+    "notes": [
+      "主语中心是 idea；be separated from 表与……分离，语境中为抽象脱节。不是说食物在物理上被从现实中拿走。"
+    ],
+    "predicates": [
+      {
+        "start": 44,
+        "end": 56,
+        "text": "is separated",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "It also freezes a culture in a particular place in time.",
+    "lessonText": "It also freezes a culture in a particular place in time.",
+    "paragraphStart": 756,
+    "paragraphEnd": 812,
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "freezes "
+      ],
+      [
+        "Object",
+        "a culture "
+      ],
+      [
+        "Adverbial",
+        "in a particular place in time."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 56,
+        "anchorEnd": 0,
+        "text": "It also freezes a culture in a particular place in time."
+      }
+    ],
+    "notes": [
+      "It 回指对正宗体验的那种观念；freeze 在此为定格、使不再变化，不是结冰。文化本会发展，作者批评把它想象成固定标本。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 15,
+        "text": "freezes",
+        "role": "main"
+      }
+    ]
+  },
+  "39": {
+    "text": "When food gets disconnected from the communities and places it's from, people start forgetting about the oppression faced by those communities.",
+    "lessonText": "When food gets disconnected from the communities and places it's from, people start forgetting about the oppression faced by those communities.",
+    "paragraphStart": 0,
+    "paragraphEnd": 143,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Subject",
+        "food "
+      ],
+      [
+        "Predicate",
+        "gets disconnected "
+      ],
+      [
+        "Complement",
+        "from the communities and places "
+      ],
+      [
+        "Subject",
+        "it"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Preposition",
+        "from, "
+      ],
+      [
+        "Subject",
+        "people "
+      ],
+      [
+        "Predicate",
+        "start "
+      ],
+      [
+        "Complement",
+        "forgetting about the oppression "
+      ],
+      [
+        "Participial modifier",
+        "faced by those communities."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 143,
+        "anchorEnd": 0,
+        "text": "When food gets disconnected from the communities and places it's from, people start forgetting about the oppression faced by those communities."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 71,
+        "anchorEnd": 4,
+        "text": "When food gets disconnected from the communities and places it's from, "
+      },
+      {
+        "kind": "relative",
+        "start": 60,
+        "end": 71,
+        "anchorEnd": 62,
+        "text": "it's from, ",
+        "antecedent": "the communities and places",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "it's from 必须放在 when 从句内部，说明食物来自哪里；from 的关系宾语省略，不能把 when 在 places 后提前结束。faced 是过去分词，oppression 是被面对、被承受的事物。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 27,
+        "text": "gets disconnected",
+        "role": "sub"
+      },
+      {
+        "start": 62,
+        "end": 64,
+        "text": "'s",
+        "role": "sub"
+      },
+      {
+        "start": 78,
+        "end": 83,
+        "text": "start",
+        "role": "main"
+      }
+    ]
+  },
+  "40": {
+    "text": "Folks might love Mexican food, but not care about different issues such as labor rights and immigration policy that impact members from that community.",
+    "lessonText": "Folks might love Mexican food, but not care about different issues such as labor rights and immigration policy that impact members from that community.",
+    "paragraphStart": 144,
+    "paragraphEnd": 295,
+    "functions": [
+      [
+        "Subject",
+        "Folks "
+      ],
+      [
+        "Predicate",
+        "might love "
+      ],
+      [
+        "Object",
+        "Mexican food, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "care "
+      ],
+      [
+        "Complement",
+        "about different issues "
+      ],
+      [
+        "Modifier",
+        "such as labor rights and immigration policy "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "impact "
+      ],
+      [
+        "Object",
+        "members from that community."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 151,
+        "anchorEnd": 0,
+        "text": "Folks might love Mexican food, but not care about different issues such as labor rights and immigration policy that impact members from that community."
+      },
+      {
+        "kind": "relative",
+        "start": 111,
+        "end": 151,
+        "anchorEnd": 115,
+        "text": "that impact members from that community.",
+        "antecedent": "different issues"
+      }
+    ],
+    "notes": [
+      "not care 共用前面的 might；but 后没有另起新的主句主语。that 指复数 issues，impact 不加 s；such as 后是议题的例子。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 16,
+        "text": "might love",
+        "role": "main"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "care",
+        "role": "main"
+      },
+      {
+        "start": 116,
+        "end": 122,
+        "text": "impact",
+        "role": "sub"
+      }
+    ]
+  },
+  "41": {
+    "text": "There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.",
+    "lessonText": "There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.",
+    "paragraphStart": 296,
+    "paragraphEnd": 478,
+    "functions": [
+      [
+        "Existential subject",
+        "There "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Notional subject",
+        "really hurtful stereotypes "
+      ],
+      [
+        "Participial modifier",
+        "connected to food "
+      ],
+      [
+        "Subordinator",
+        "where "
+      ],
+      [
+        "Subject",
+        "people of color "
+      ],
+      [
+        "Predicate",
+        "get reduced "
+      ],
+      [
+        "Complement",
+        "to the food "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "eat "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicate",
+        "are called "
+      ],
+      [
+        "Complement",
+        "things like smelly "
+      ],
+      [
+        "Adverbial",
+        "because of their food consumption."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 182,
+        "anchorEnd": 0,
+        "text": "There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption."
+      },
+      {
+        "kind": "relative",
+        "start": 60,
+        "end": 182,
+        "anchorEnd": 65,
+        "text": "where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.",
+        "antecedent": "stereotypes connected to food"
+      },
+      {
+        "kind": "relative",
+        "start": 106,
+        "end": 115,
+        "anchorEnd": 110,
+        "text": "they eat ",
+        "antecedent": "the food",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "必须在 eat 后收住 food 的定语从句；are called 与 get reduced 并列，主语都为 people of color。讲义括号把 or are called 放入 they eat 从句，会混淆对象。because of 后为名词短语，不另起原因从句。",
+      "they eat 的范围在 eat 结束；or are called 属于外层 where 从句，不能嵌入 food 的定语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "text": "get reduced",
+        "role": "sub"
+      },
+      {
+        "start": 111,
+        "end": 114,
+        "text": "eat",
+        "role": "sub"
+      },
+      {
+        "start": 118,
+        "end": 128,
+        "text": "are called",
+        "role": "sub"
+      }
+    ]
+  },
+  "42": {
+    "text": "Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable.",
+    "lessonText": "Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable.",
+    "paragraphStart": 0,
+    "paragraphEnd": 160,
+    "functions": [
+      [
+        "Subject",
+        "Eating food from another culture in isolation from that culture's history and also current issues "
+      ],
+      [
+        "Predicate",
+        "means "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "we"
+      ],
+      [
+        "Auxiliary verb",
+        "'re "
+      ],
+      [
+        "Adverbial",
+        "just "
+      ],
+      [
+        "Predicate",
+        "borrowing "
+      ],
+      [
+        "Object",
+        "the pieces "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "enjoyable."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 160,
+        "anchorEnd": 0,
+        "text": "Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable."
+      },
+      {
+        "kind": "object",
+        "start": 104,
+        "end": 160,
+        "anchorEnd": 108,
+        "text": "that we're just borrowing the pieces that are enjoyable."
+      },
+      {
+        "kind": "relative",
+        "start": 141,
+        "end": 160,
+        "anchorEnd": 145,
+        "text": "that are enjoyable.",
+        "antecedent": "the pieces"
+      }
+    ],
+    "notes": [
+      "整段 Eating … issues 是一项活动作主语，用 means。第一处 that 只引内容；第二处 that 作 are 的主语并回指 pieces，两种 that 的功能不同。"
+    ],
+    "predicates": [
+      {
+        "start": 98,
+        "end": 103,
+        "text": "means",
+        "role": "main"
+      },
+      {
+        "start": 111,
+        "end": 114,
+        "text": "'re",
+        "role": "sub"
+      },
+      {
+        "start": 120,
+        "end": 129,
+        "text": "borrowing",
+        "role": "sub"
+      },
+      {
+        "start": 146,
+        "end": 149,
+        "text": "are",
+        "role": "sub"
+      }
+    ]
+  },
+  "43": {
+    "text": "We might not know how Kung Pao chicken also reflects a story about Chinese immigration or the complex colonial story behind curry and the homogenization of South Asian cultures.",
+    "lessonText": "We might not know how Kung Pao chicken also reflects a story about Chinese immigration or the complex colonial story behind curry and the homogenization of South Asian cultures.",
+    "paragraphStart": 161,
+    "paragraphEnd": 338,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Modal auxiliary",
+        "might "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "know "
+      ],
+      [
+        "Subordinator",
+        "how "
+      ],
+      [
+        "Subject",
+        "Kung Pao chicken "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "reflects "
+      ],
+      [
+        "Object",
+        "a story about Chinese immigration "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Object",
+        "the complex colonial story behind curry and the homogenization of South Asian cultures."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 177,
+        "anchorEnd": 0,
+        "text": "We might not know how Kung Pao chicken also reflects a story about Chinese immigration or the complex colonial story behind curry and the homogenization of South Asian cultures."
+      },
+      {
+        "kind": "object",
+        "start": 18,
+        "end": 87,
+        "anchorEnd": 21,
+        "text": "how Kung Pao chicken also reflects a story about Chinese immigration "
+      }
+    ],
+    "notes": [
+      "or 在语义上并列 know 的两类内容：how 宫保鸡丁关联移民故事，以及咖喱背后的殖民故事。不能把全部内容硬塞进 how 从句，讲成“宫保鸡丁反映咖喱的殖民史”。第二项内部范围略松散，重心是咖喱与南亚文化同质化的历史联系。",
+      "how 从句在 immigration 后结束，or 后名词短语作为 know 的第二个宾语。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "might",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "know",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "text": "reflects",
+        "role": "sub"
+      }
+    ]
+  },
+  "44": {
+    "text": "More and more now, part of chefs' training also involves travel in order to learn about different cooking techniques and ingredients.",
+    "lessonText": "More and more now, part of chefs' training also involves travel in order to learn about different cooking techniques and ingredients.",
+    "paragraphStart": 0,
+    "paragraphEnd": 133,
+    "functions": [
+      [
+        "Adverbial",
+        "More and more now, "
+      ],
+      [
+        "Subject",
+        "part of chefs' training "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "involves "
+      ],
+      [
+        "Object",
+        "travel "
+      ],
+      [
+        "Adverbial",
+        "in order to learn about different cooking techniques and ingredients."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 133,
+        "anchorEnd": 0,
+        "text": "More and more now, part of chefs' training also involves travel in order to learn about different cooking techniques and ingredients."
+      }
+    ],
+    "notes": [
+      "主语中心 part 在此为单数，training 不可数，用 involves。in order to 后用动词原形，目的行动者按语义理解为受培训的厨师。"
+    ],
+    "predicates": [
+      {
+        "start": 48,
+        "end": 56,
+        "text": "involves",
+        "role": "main"
+      }
+    ]
+  },
+  "45": {
+    "text": "Because of this they're opening up fancy restaurants that repurpose \"cheap\" eats from working class and poor communities that rely on affordable, local products and ingredients.",
+    "lessonText": "Because of this they're opening up fancy restaurants that repurpose \"cheap\" eats from working class and poor communities that rely on affordable, local products and ingredients.",
+    "paragraphStart": 134,
+    "paragraphEnd": 311,
+    "functions": [
+      [
+        "Adverbial",
+        "Because of this "
+      ],
+      [
+        "Subject",
+        "they"
+      ],
+      [
+        "Predicate",
+        "'re opening up "
+      ],
+      [
+        "Object",
+        "fancy restaurants "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "repurpose "
+      ],
+      [
+        "Object",
+        "\"cheap\" eats "
+      ],
+      [
+        "Modifier",
+        "from working class and poor communities "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "rely "
+      ],
+      [
+        "Complement",
+        "on affordable, local products and ingredients."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 177,
+        "anchorEnd": 0,
+        "text": "Because of this they're opening up fancy restaurants that repurpose \"cheap\" eats from working class and poor communities that rely on affordable, local products and ingredients."
+      },
+      {
+        "kind": "relative",
+        "start": 53,
+        "end": 177,
+        "anchorEnd": 57,
+        "text": "that repurpose \"cheap\" eats from working class and poor communities that rely on affordable, local products and ingredients.",
+        "antecedent": "fancy restaurants"
+      },
+      {
+        "kind": "relative",
+        "start": 121,
+        "end": 177,
+        "anchorEnd": 125,
+        "text": "that rely on affordable, local products and ingredients.",
+        "antecedent": "working class and poor communities"
+      }
+    ],
+    "notes": [
+      "because of 后是 this 名词性代词，不是 because 引导的从句。第一个 that 的主语是餐厅，第二个是 communities；eats 在这里是口语名词食物，不是第三人称动词。"
+    ],
+    "predicates": [
+      {
+        "start": 20,
+        "end": 34,
+        "text": "'re opening up",
+        "role": "main"
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "text": "repurpose",
+        "role": "sub"
+      },
+      {
+        "start": 126,
+        "end": 130,
+        "text": "rely",
+        "role": "sub"
+      }
+    ]
+  },
+  "46": {
+    "text": "As a result, food culture gets re-colonized by chefs seeking to make that \"authentic\" street food they tried more elegant.",
+    "lessonText": "As a result, food culture gets re-colonized by chefs seeking to make that \"authentic\" street food they tried more elegant.",
+    "paragraphStart": 312,
+    "paragraphEnd": 434,
+    "functions": [
+      [
+        "Adverbial",
+        "As a result, "
+      ],
+      [
+        "Subject",
+        "food culture "
+      ],
+      [
+        "Predicate",
+        "gets re-colonized "
+      ],
+      [
+        "Agent phrase",
+        "by chefs "
+      ],
+      [
+        "Participial modifier",
+        "seeking to make "
+      ],
+      [
+        "Object",
+        "that \"authentic\" street food "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "tried "
+      ],
+      [
+        "Object complement",
+        "more elegant."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 122,
+        "anchorEnd": 0,
+        "text": "As a result, food culture gets re-colonized by chefs seeking to make that \"authentic\" street food they tried more elegant."
+      },
+      {
+        "kind": "relative",
+        "start": 98,
+        "end": 109,
+        "anchorEnd": 102,
+        "text": "they tried ",
+        "antecedent": "that \"authentic\" street food",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "that \"authentic\" street food 中 that 是指示限定词；food 后才是省略关系词的定语从句。make 的宾语与补足语被 they tried 隔开，应合读 make the food more elegant。"
+    ],
+    "predicates": [
+      {
+        "start": 26,
+        "end": 43,
+        "text": "gets re-colonized",
+        "role": "main"
+      },
+      {
+        "start": 103,
+        "end": 108,
+        "text": "tried",
+        "role": "sub"
+      }
+    ]
+  },
+  "47": {
+    "text": "Often, these restaurants are inaccessible to the communities they're appropriating from.",
+    "lessonText": "Often, these restaurants are inaccessible to the communities they're appropriating from.",
+    "paragraphStart": 435,
+    "paragraphEnd": 523,
+    "functions": [
+      [
+        "Adverbial",
+        "Often, "
+      ],
+      [
+        "Subject",
+        "these restaurants "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "inaccessible "
+      ],
+      [
+        "Complement",
+        "to the communities "
+      ],
+      [
+        "Subject",
+        "they"
+      ],
+      [
+        "Predicate",
+        "'re appropriating "
+      ],
+      [
+        "Preposition",
+        "from."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 88,
+        "anchorEnd": 0,
+        "text": "Often, these restaurants are inaccessible to the communities they're appropriating from."
+      },
+      {
+        "kind": "relative",
+        "start": 61,
+        "end": 88,
+        "anchorEnd": 65,
+        "text": "they're appropriating from.",
+        "antecedent": "the communities",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "第一个 these restaurants 与从句 they 同指餐厅或其经营者；from 后的关系宾语省略。inaccessible 在此包括价格、社会门槛，不只是地理上走不到。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 28,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 65,
+        "end": 82,
+        "text": "'re appropriating",
+        "role": "sub"
+      }
+    ]
+  },
+  "48": {
+    "text": "This is different from when members from that community repurpose their own traditional foods.",
+    "lessonText": "This is different from when members from that community repurpose their own traditional foods.",
+    "paragraphStart": 524,
+    "paragraphEnd": 618,
+    "functions": [
+      [
+        "Subject",
+        "This "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "different "
+      ],
+      [
+        "Preposition",
+        "from "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "members from that community "
+      ],
+      [
+        "Predicate",
+        "repurpose "
+      ],
+      [
+        "Object",
+        "their own traditional foods."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 94,
+        "anchorEnd": 0,
+        "text": "This is different from when members from that community repurpose their own traditional foods."
+      },
+      {
+        "kind": "fused-relative",
+        "start": 23,
+        "end": 94,
+        "anchorEnd": 27,
+        "text": "when members from that community repurpose their own traditional foods."
+      }
+    ],
+    "notes": [
+      "when 从句整体为 from 提供一种对照情景，不是修饰主句 is 的单纯时间状语。repurpose 词本身中性，作者区分的是谁在行动、谁获益。",
+      "from 后的 when 从句整体提供对照情景，按融合关系结构标注，不误标为修饰 is 的时间状语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "text": "repurpose",
+        "role": "sub"
+      }
+    ]
+  },
+  "49": {
+    "text": "One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?",
+    "lessonText": "One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?",
+    "paragraphStart": 0,
+    "paragraphEnd": 104,
+    "functions": [
+      [
+        "Head of subject",
+        "One of the questions "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "both chefs and diners "
+      ],
+      [
+        "Predicate",
+        "should ask "
+      ],
+      [
+        "Indirect object",
+        "themselves "
+      ],
+      [
+        "Linking verb",
+        "is, "
+      ],
+      [
+        "Subject",
+        "who "
+      ],
+      [
+        "Predicate",
+        "is laboring "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "profiting?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 104,
+        "anchorEnd": 0,
+        "text": "One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?"
+      },
+      {
+        "kind": "relative",
+        "start": 21,
+        "end": 70,
+        "anchorEnd": 25,
+        "text": "that both chefs and diners should ask themselves ",
+        "antecedent": "the questions"
+      },
+      {
+        "kind": "predicative",
+        "start": 74,
+        "end": 104,
+        "anchorEnd": 77,
+        "text": "who is laboring and profiting?"
+      }
+    ],
+    "notes": [
+      "主句中心是 One，故用 is；that 在 ask themselves a question 中替代 question，themselves 是询问对象。who 自身是疑问内容的主语，不额外加 do。修辞上促使读者比较劳动者与获益者，不预设二者必为同一人。",
+      "who is laboring and profiting 是说明问题内容的表语疑问从句；laboring 与 profiting 共用 is。"
+    ],
+    "predicates": [
+      {
+        "start": 48,
+        "end": 58,
+        "text": "should ask",
+        "role": "sub"
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "text": "is laboring",
+        "role": "sub"
+      },
+      {
+        "start": 94,
+        "end": 103,
+        "text": "profiting",
+        "role": "sub"
+      }
+    ]
+  },
+  "50": {
+    "text": "Where are these recipes from?",
+    "lessonText": "Where are these recipes from?",
+    "paragraphStart": 105,
+    "paragraphEnd": 134,
+    "functions": [
+      [
+        "Interrogative adverb",
+        "Where "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Subject",
+        "these recipes "
+      ],
+      [
+        "Preposition",
+        "from?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 29,
+        "anchorEnd": 0,
+        "text": "Where are these recipes from?"
+      }
+    ],
+    "notes": [
+      "from 保留来源关系；比较 Where are they? 问位置，Where are they from? 问来源。一个疑问主句，没有从句。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "51": {
+    "text": "Who is this cuisine profiting off?",
+    "lessonText": "Who is this cuisine profiting off?",
+    "paragraphStart": 135,
+    "paragraphEnd": 169,
+    "functions": [
+      [
+        "Object",
+        "Who "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "this cuisine "
+      ],
+      [
+        "Predicate",
+        "profiting "
+      ],
+      [
+        "Preposition",
+        "off?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 34,
+        "anchorEnd": 0,
+        "text": "Who is this cuisine profiting off?"
+      }
+    ],
+    "notes": [
+      "Who 是 off 的宾语，不是 profiting 的主语；不能直接译成“谁在获利”。主语 cuisine 借代相关餐饮生意，问获利建立在谁身上。更正式可换 Whom … off，但口语 who 常见。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 6,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "text": "profiting",
+        "role": "main"
+      }
+    ]
+  },
+  "52": {
+    "text": "Is it a group that is historically and currently oppressed?",
+    "lessonText": "Is it a group that is historically and currently oppressed?",
+    "paragraphStart": 170,
+    "paragraphEnd": 229,
+    "functions": [
+      [
+        "Linking verb",
+        "Is "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicative",
+        "a group "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "historically and currently "
+      ],
+      [
+        "Predicate",
+        "oppressed?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 59,
+        "anchorEnd": 0,
+        "text": "Is it a group that is historically and currently oppressed?"
+      },
+      {
+        "kind": "relative",
+        "start": 14,
+        "end": 59,
+        "anchorEnd": 18,
+        "text": "that is historically and currently oppressed?",
+        "antecedent": "a group"
+      }
+    ],
+    "notes": [
+      "it 承接上一问中的人群；that 作被动从句主语不能省略。historically 与 currently 是并列时间副词，不是两套谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "Is",
+        "role": "main"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "text": "oppressed",
+        "role": "sub"
+      }
+    ]
+  },
+  "53": {
+    "text": "Another problem is when ingredients get reappropriated.",
+    "lessonText": "Another problem is when ingredients get reappropriated.",
+    "paragraphStart": 0,
+    "paragraphEnd": 55,
+    "functions": [
+      [
+        "Subject",
+        "Another problem "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "ingredients "
+      ],
+      [
+        "Predicate",
+        "get reappropriated."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "Another problem is when ingredients get reappropriated."
+      },
+      {
+        "kind": "predicative",
+        "start": 19,
+        "end": 55,
+        "anchorEnd": 23,
+        "text": "when ingredients get reappropriated."
+      }
+    ],
+    "notes": [
+      "is when 以情景说明问题是什么；get reappropriated 为被动。re- 表再次或重新，不自动说明这种重新使用合法与否。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 18,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 36,
+        "end": 54,
+        "text": "get reappropriated",
+        "role": "sub"
+      }
+    ]
+  },
+  "54": {
+    "text": "Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities they're from.",
+    "lessonText": "Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities the food comes from.",
+    "paragraphStart": 56,
+    "paragraphEnd": 202,
+    "functions": [
+      [
+        "Subject",
+        "Corporations "
+      ],
+      [
+        "Auxiliary verb",
+        "have "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicate",
+        "repackaged "
+      ],
+      [
+        "Object",
+        "local food from different places "
+      ],
+      [
+        "Adverbial",
+        "in ways "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "make "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Object complement",
+        "no longer accessible to the local communities "
+      ],
+      [
+        "Subject",
+        "they"
+      ],
+      [
+        "Linking verb",
+        "'re "
+      ],
+      [
+        "Preposition",
+        "from."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 146,
+        "anchorEnd": 0,
+        "text": "Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities they're from."
+      },
+      {
+        "kind": "relative",
+        "start": 74,
+        "end": 146,
+        "anchorEnd": 78,
+        "text": "that make it no longer accessible to the local communities they're from.",
+        "antecedent": "ways"
+      },
+      {
+        "kind": "relative",
+        "start": 133,
+        "end": 146,
+        "anchorEnd": 137,
+        "text": "they're from.",
+        "antecedent": "the local communities",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "make + it + accessible 是宾语补足结构，it 指 food。末尾改为 the communities the food comes from，明确来源指向。",
+      "正文与 Structure 均保留原文 they’re from；they 的指代存在含混。前述 the food comes from 作为澄清来源指向的改写示例保留，不作为原文替换。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 17,
+        "text": "have",
+        "role": "main"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "text": "repackaged",
+        "role": "main"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "text": "make",
+        "role": "sub"
+      },
+      {
+        "start": 137,
+        "end": 140,
+        "text": "'re",
+        "role": "sub"
+      }
+    ]
+  },
+  "55": {
+    "text": "For example, quinoa, which is native to Bolivia is now too expensive for communities there.",
+    "lessonText": "For example, quinoa, which is native to Bolivia, is now too expensive for communities there.",
+    "paragraphStart": 203,
+    "paragraphEnd": 294,
+    "functions": [
+      [
+        "Adverbial",
+        "For example, "
+      ],
+      [
+        "Subject",
+        "quinoa, "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "native to Bolivia "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicative",
+        "too expensive "
+      ],
+      [
+        "Complement",
+        "for communities there."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 91,
+        "anchorEnd": 0,
+        "text": "For example, quinoa, which is native to Bolivia is now too expensive for communities there."
+      },
+      {
+        "kind": "relative",
+        "start": 21,
+        "end": 48,
+        "anchorEnd": 26,
+        "text": "which is native to Bolivia ",
+        "antecedent": "quinoa"
+      }
+    ],
+    "notes": [
+      "原文在 Bolivia 后缺少结束非限制性从句的逗号，应补作 quinoa, which … Bolivia, is …。两个 is 各属一层。now 指原文叙述时，不是当前价格证明；native to Bolivia 也不等于只原产这一国。",
+      "正文与 Structure 保留原文在 Bolivia 后缺少逗号的写法；该关系从句范围仍在 Bolivia 结束，补逗号只是修订建议。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 29,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "56": {
+    "text": "Last year, Whole Foods declared collard greens the \"new kale.\"",
+    "lessonText": "Last year, Whole Foods declared collard greens the \"new kale.\"",
+    "paragraphStart": 295,
+    "paragraphEnd": 357,
+    "functions": [
+      [
+        "Adverbial",
+        "Last year, "
+      ],
+      [
+        "Subject",
+        "Whole Foods "
+      ],
+      [
+        "Predicate",
+        "declared "
+      ],
+      [
+        "Object",
+        "collard greens "
+      ],
+      [
+        "Object complement",
+        "the \"new kale.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 62,
+        "anchorEnd": 0,
+        "text": "Last year, Whole Foods declared collard greens the \"new kale.\""
+      }
+    ],
+    "notes": [
+      "declare + 宾语 + 名词补足语，the new kale 是给 collard greens 的定位，不是第二个宾语。比喻成为下一种受追捧的菜，并非两者品种相同；Last year 相对原文发表时间理解。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 31,
+        "text": "declared",
+        "role": "main"
+      }
+    ]
+  },
+  "57": {
+    "text": "Coconuts have now been packaged as high-end, luxury water.",
+    "lessonText": "Coconuts have now been packaged as high-end, luxury water.",
+    "paragraphStart": 358,
+    "paragraphEnd": 416,
+    "functions": [
+      [
+        "Subject",
+        "Coconuts "
+      ],
+      [
+        "Auxiliary verb",
+        "have "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicate",
+        "been packaged "
+      ],
+      [
+        "Complement",
+        "as high-end, luxury water."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 58,
+        "anchorEnd": 0,
+        "text": "Coconuts have now been packaged as high-end, luxury water."
+      }
+    ],
+    "notes": [
+      "have been packaged 为现在完成时被动；as 说明被营销成什么。coconuts 在这里借代相关椰子水产品，不是椰肉字面变成水。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 13,
+        "text": "have",
+        "role": "main"
+      },
+      {
+        "start": 18,
+        "end": 31,
+        "text": "been packaged",
+        "role": "main"
+      }
+    ]
+  },
+  "58": {
+    "text": "Tofu, soy, and tempeh are now staples at organic, healthy food markets.",
+    "lessonText": "Tofu, soy, and tempeh are now staples at organic, healthy food markets.",
+    "paragraphStart": 417,
+    "paragraphEnd": 488,
+    "functions": [
+      [
+        "Subject",
+        "Tofu, soy, and tempeh "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicative",
+        "staples "
+      ],
+      [
+        "Adverbial",
+        "at organic, healthy food markets."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 71,
+        "anchorEnd": 0,
+        "text": "Tofu, soy, and tempeh are now staples at organic, healthy food markets."
+      }
+    ],
+    "notes": [
+      "三个食物名词并列主语，用 are；staples 指经常供应、购买的主要商品，不限于米饭面包类的“主食”。原文的市场标签不等于营养或健康效果的验证。"
+    ],
+    "predicates": [
+      {
+        "start": 22,
+        "end": 25,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "59": {
+    "text": "This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions.",
+    "lessonText": "This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions.",
+    "paragraphStart": 0,
+    "paragraphEnd": 116,
+    "functions": [
+      [
+        "Subject",
+        "This "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "food gentrification, "
+      ],
+      [
+        "Subordinator",
+        "where "
+      ],
+      [
+        "Subject",
+        "communities "
+      ],
+      [
+        "Modal auxiliary",
+        "can "
+      ],
+      [
+        "Negation",
+        "no longer "
+      ],
+      [
+        "Predicate",
+        "afford "
+      ],
+      [
+        "Object",
+        "their own cuisines "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "sustain "
+      ],
+      [
+        "Object",
+        "their traditions."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 116,
+        "anchorEnd": 0,
+        "text": "This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions."
+      },
+      {
+        "kind": "relative",
+        "start": 29,
+        "end": 116,
+        "anchorEnd": 34,
+        "text": "where communities can no longer afford their own cuisines and sustain their traditions.",
+        "antecedent": "food gentrification"
+      }
+    ],
+    "notes": [
+      "where 回指一种社会情景，可换 in which；不是一定要有实体地点作先行词。sustain 与 afford 共用 can no longer，不能误读成“买不起，但仍能够维持”。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "can",
+        "role": "sub"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "text": "afford",
+        "role": "sub"
+      },
+      {
+        "start": 91,
+        "end": 98,
+        "text": "sustain",
+        "role": "sub"
+      }
+    ]
+  },
+  "60": {
+    "text": "Food is an important part of communities and cultures—the relationship between food and culture also means that food can be used as a tool of oppression.",
+    "lessonText": "Food is an important part of communities and cultures—the relationship between food and culture also means that food can be used as a tool of oppression.",
+    "paragraphStart": 0,
+    "paragraphEnd": 153,
+    "functions": [
+      [
+        "Subject",
+        "Food "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "an important part of communities and cultures—"
+      ],
+      [
+        "Subject",
+        "the relationship between food and culture "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "means "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "food "
+      ],
+      [
+        "Predicate",
+        "can be used "
+      ],
+      [
+        "Complement",
+        "as a tool of oppression."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "Food is an important part of communities and cultures—"
+      },
+      {
+        "kind": "main",
+        "start": 54,
+        "end": 153,
+        "anchorEnd": 54,
+        "text": "the relationship between food and culture also means that food can be used as a tool of oppression."
+      },
+      {
+        "kind": "object",
+        "start": 107,
+        "end": 153,
+        "anchorEnd": 111,
+        "text": "that food can be used as a tool of oppression."
+      }
+    ],
+    "notes": [
+      "破折号连接两套主干，第二套包含 that 内容从句。can 表可能被用作工具，不是每次做饭吃饭都在实施压迫。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 101,
+        "end": 106,
+        "text": "means",
+        "role": "main"
+      },
+      {
+        "start": 117,
+        "end": 128,
+        "text": "can be used",
+        "role": "sub"
+      }
+    ]
+  },
+  "61": {
+    "text": "It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home.",
+    "lessonText": "It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home.",
+    "paragraphStart": 0,
+    "paragraphEnd": 129,
+    "functions": [
+      [
+        "Subject",
+        "It"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "okay "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "love "
+      ],
+      [
+        "Object",
+        "the taco truck outside of your workplace, "
+      ],
+      [
+        "Predicate",
+        "love "
+      ],
+      [
+        "Object",
+        "eating sushi, "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicate",
+        "enjoy "
+      ],
+      [
+        "Object",
+        "trying out different recipes at home."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 129,
+        "anchorEnd": 0,
+        "text": "It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home."
+      },
+      {
+        "kind": "condition",
+        "start": 10,
+        "end": 129,
+        "anchorEnd": 12,
+        "text": "if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home."
+      }
+    ],
+    "notes": [
+      "if 内三个谓语共用 you；enjoy 后接 doing，不接 to do。两个 love 分别接名词和 -ing，这些平行选项都由 It's okay 肯定。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "love",
+        "role": "sub"
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "text": "love",
+        "role": "sub"
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "enjoy",
+        "role": "sub"
+      }
+    ]
+  },
+  "62": {
+    "text": "I'm not against trying and cooking food outside your own culture—I love it, too.",
+    "lessonText": "I'm not against trying and cooking food outside your own culture—I love it, too.",
+    "paragraphStart": 130,
+    "paragraphEnd": 210,
+    "functions": [
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Linking verb",
+        "'m "
+      ],
+      [
+        "Predicative",
+        "not against trying and cooking food outside your own culture—"
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "love "
+      ],
+      [
+        "Object",
+        "it, "
+      ],
+      [
+        "Adverbial",
+        "too."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 65,
+        "anchorEnd": 0,
+        "text": "I'm not against trying and cooking food outside your own culture—"
+      },
+      {
+        "kind": "main",
+        "start": 65,
+        "end": 80,
+        "anchorEnd": 65,
+        "text": "I love it, too."
+      }
+    ],
+    "notes": [
+      "against 是介词，后接 trying / cooking。破折号后 I love … 是另一主句；it 指前面说的尝试与烹饪，不必专指某一道菜。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 3,
+        "text": "'m",
+        "role": "main"
+      },
+      {
+        "start": 67,
+        "end": 71,
+        "text": "love",
+        "role": "main"
+      }
+    ]
+  },
+  "63": {
+    "text": "However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power.",
+    "lessonText": "However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power.",
+    "paragraphStart": 0,
+    "paragraphEnd": 160,
+    "functions": [
+      [
+        "Adverbial",
+        "However, "
+      ],
+      [
+        "Formal subject",
+        "it"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "critical "
+      ],
+      [
+        "Infinitival subject marker",
+        "for "
+      ],
+      [
+        "Infinitival subject",
+        "us "
+      ],
+      [
+        "Infinitival verb",
+        "to reflect "
+      ],
+      [
+        "Preposition",
+        "on "
+      ],
+      [
+        "Subordinator",
+        "how "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "perceive "
+      ],
+      [
+        "Object",
+        "the cultures "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "we"
+      ],
+      [
+        "Predicate",
+        "'re consuming "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Infinitival verb",
+        "think "
+      ],
+      [
+        "Complement",
+        "about the relationships between food, people, and power."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 160,
+        "anchorEnd": 0,
+        "text": "However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power."
+      },
+      {
+        "kind": "object",
+        "start": 44,
+        "end": 94,
+        "anchorEnd": 47,
+        "text": "how we perceive the cultures that we're consuming "
+      },
+      {
+        "kind": "relative",
+        "start": 73,
+        "end": 94,
+        "anchorEnd": 77,
+        "text": "that we're consuming ",
+        "antecedent": "the cultures"
+      }
+    ],
+    "notes": [
+      "本处采用 think 与 reflect 并列的解析：to reflect … and [to] think …。how 从句内为 perceive，cultures 后有 that 从句；这是一种清晰的教学切分，不排除语义上产生的另一种联想。",
+      "to reflect 和省略 to 的 think 并列，均为非谓语；how 从句的范围在 consuming 后结束。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 13,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "text": "perceive",
+        "role": "sub"
+      },
+      {
+        "start": 80,
+        "end": 93,
+        "text": "'re consuming",
+        "role": "sub"
+      }
+    ]
+  },
+  "64": {
+    "text": "Colonization and gentrification are directly related to the appropriation of food.",
+    "lessonText": "Colonization and gentrification are directly related to the appropriation of food.",
+    "paragraphStart": 0,
+    "paragraphEnd": 82,
+    "functions": [
+      [
+        "Subject",
+        "Colonization and gentrification "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Adverbial",
+        "directly "
+      ],
+      [
+        "Predicative",
+        "related "
+      ],
+      [
+        "Complement",
+        "to the appropriation of food."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 82,
+        "anchorEnd": 0,
+        "text": "Colonization and gentrification are directly related to the appropriation of food."
+      }
+    ],
+    "notes": [
+      "两个名词并列为一个主语组，用 are；不是看见 and 就归为并列句。be related to 表有关联，不能单凭这一结构证明单向因果。",
+      "沿用状态分析：are 为系动词，related 为形容词性表语，不因句中有 and 就增加主句。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 35,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "65": {
+    "text": "We need to begin educating ourselves on issues that impact the communities that we're getting our meals from.",
+    "lessonText": "We need to begin educating ourselves on issues that impact the communities that we're getting our meals from.",
+    "paragraphStart": 83,
+    "paragraphEnd": 192,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Predicate",
+        "need "
+      ],
+      [
+        "Infinitival complement",
+        "to begin educating ourselves on issues "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "impact "
+      ],
+      [
+        "Object",
+        "the communities "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "we"
+      ],
+      [
+        "Predicate",
+        "'re getting "
+      ],
+      [
+        "Object",
+        "our meals "
+      ],
+      [
+        "Preposition",
+        "from."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 109,
+        "anchorEnd": 0,
+        "text": "We need to begin educating ourselves on issues that impact the communities that we're getting our meals from."
+      },
+      {
+        "kind": "relative",
+        "start": 47,
+        "end": 109,
+        "anchorEnd": 51,
+        "text": "that impact the communities that we're getting our meals from.",
+        "antecedent": "issues"
+      },
+      {
+        "kind": "relative",
+        "start": 75,
+        "end": 109,
+        "anchorEnd": 79,
+        "text": "that we're getting our meals from.",
+        "antecedent": "the communities"
+      }
+    ],
+    "notes": [
+      "need to do、begin doing、educate oneself on/about 分别处于不同层次。第一个 that 作 impact 的主语，不能省略；第二个 that 作 from 的宾语，可以省略，不能因长得一样就作相同分析。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "need",
+        "role": "main"
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "text": "impact",
+        "role": "sub"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "text": "'re getting",
+        "role": "sub"
+      }
+    ]
+  }
+}

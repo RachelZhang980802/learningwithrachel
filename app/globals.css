@@ -152,6 +152,13 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .guide-list strong { font-family: Georgia, serif; font-size: 28px; font-weight: 500; }
 .guide-list p { color: var(--muted); line-height: 1.6; }
 .about-copy { width: min(720px, calc(100% - 64px)); margin: 0 auto; padding-bottom: 120px; font-family: Georgia, serif; font-size: 28px; line-height: 1.5; }
+.writing-task-view { width: min(1120px, calc(100% - 64px)); margin: 0 auto; padding: 66px 0 100px; }
+.writing-task-back { padding: 0 0 5px; border: 0; border-bottom: 1px solid currentColor; background: transparent; color: var(--ink); font-size: 15px; cursor: pointer; }
+.writing-task-view .eyebrow { margin: 55px 0 16px; }
+.writing-task-view h1 { margin: 0 0 42px; font-family: Georgia, serif; font-size: clamp(38px, 5vw, 70px); font-weight: 500; line-height: 1.08; }
+.writing-task-image { display: block; width: min(760px, 100%); height: auto; margin: 0 auto; background: #fff; box-shadow: 0 10px 38px rgba(28, 26, 22, .13); }
+.writing-task-source { width: min(760px, 100%); margin: 20px auto 0; color: var(--muted); font-size: 14px; line-height: 1.5; }
+.writing-task-source a { color: inherit; text-underline-offset: 3px; }
 
 .reading-page { position: relative; background-image: linear-gradient(90deg, transparent calc(50% - 365px), rgba(30,35,29,.08) calc(50% - 364px), transparent calc(50% - 363px)), radial-gradient(rgba(28,31,27,.08) .55px, transparent .7px); background-size: auto, 5px 5px; }
 .reading-nav { position: sticky; top: 0; z-index: 50; min-height: 64px; padding: 0 max(32px, calc((100% - 1380px)/2)); display: flex; align-items: center; gap: 32px; border-bottom: 1px solid rgba(24,27,24,.25); background: rgba(247,245,239,.93); backdrop-filter: blur(9px); font-size: 12px; }
@@ -4183,6 +4190,121 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .reading-page>.sentence-studio-float{background:linear-gradient(115deg,#edc8bd,#dfafa3);border-color:#bb8173;color:#69372d;box-shadow:inset 0 0 0 3px #e5b9ad,inset 0 0 0 4px #fff0dfb3,0 2px 5px #4b302020}
 .reading-page>.sentence-studio-float:hover{background:#e4b6a9}
 
+/* Editorial long-form typography for the ten Integrated English readings.
+   The page texture, vocabulary buttons, and audio dock retain their own styles. */
+.reading-page article#text .original-text {
+  width: 100%;
+  max-width: 1000px;
+  padding: 5px 0 60px;
+}
+.reading-page article#text .original-text .prose {
+  max-width: none;
+  margin: 0 0 2em;
+  color: #211f1b;
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  font-size: clamp(25px, 2.3vw, 31px);
+  font-weight: 400;
+  line-height: 1.74;
+  letter-spacing: .004em;
+  text-align: left;
+  text-wrap: pretty;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+}
+.reading-page article#text .original-text .paragraph-number {
+  position: absolute;
+  top: .55em;
+  left: -58px;
+  width: 42px;
+  margin: 0;
+  padding-top: 0;
+  font-size: 10px;
+  line-height: 1.2;
+  letter-spacing: .12em;
+}
+@media (max-width: 600px) {
+  .reading-page article#text .original-text {
+    max-width: none;
+    padding-bottom: 38px;
+  }
+  .reading-page article#text .original-text .prose {
+    margin-bottom: 1.65em;
+    font-size: clamp(20px, 5.2vw, 23px);
+    line-height: 1.7;
+  }
+  .reading-page article#text .original-text .paragraph-number {
+    position: static;
+    top: auto;
+    left: auto;
+    width: auto;
+    margin: 0 10px 0 0;
+    padding-top: .45em;
+    font-size: 9px;
+  }
+}
+
+/* Match the supplied New Yorker reference in the reading headline and opening. */
+.reading-page > .article-header {
+  width: min(1120px, calc(100% - 64px));
+  padding: clamp(42px, 6vw, 86px) 0 34px;
+  border-bottom: 1px solid rgba(54, 48, 40, .3);
+}
+.reading-page > .article-header .eyebrow {
+  color: #8d4735;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .2em;
+}
+.reading-page > .article-header h1 {
+  max-width: 1120px;
+  margin: 16px 0 28px;
+  color: #15130f;
+  font-family: Futura, "Avenir Next", "Century Gothic", sans-serif;
+  font-size: clamp(58px, 8vw, 112px);
+  font-weight: 500;
+  line-height: .94;
+  letter-spacing: -.045em;
+  text-wrap: balance;
+}
+.reading-page > .article-header > p:last-child,
+.reading-page > .article-header > .article-author-intro-trigger {
+  color: #55483e;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .15em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+.reading-page article#text .original-text .prose {
+  position: relative;
+}
+.reading-page article#text .original-text .prose-opening::first-letter {
+  float: left;
+  margin: .08em .11em 0 0;
+  color: #15130f;
+  font-family: Georgia, "Iowan Old Style", Baskerville, serif;
+  font-size: 4.8em;
+  font-weight: 600;
+  line-height: .72;
+}
+@media (max-width: 600px) {
+  .reading-page > .article-header {
+    width: calc(100% - 40px);
+    padding: 40px 0 25px;
+  }
+  .reading-page > .article-header h1 {
+    margin: 14px 0 20px;
+    font-size: clamp(48px, 10vw, 70px);
+  }
+  .reading-page article#text .original-text .prose-opening::first-letter {
+    float: none;
+    margin: 0;
+    font-size: inherit;
+    line-height: inherit;
+  }
+}
+
 /* 16:9 classroom presentation baseline. Long-form reading still scrolls normally. */
 @media (min-width:961px) and (min-height:640px) and (min-aspect-ratio:3/2){
   .library-page{min-height:100svh;display:flex;flex-direction:column}
@@ -4260,6 +4382,7 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .inquire-workspace{width:min(1440px,calc(100% - 72px));margin:0 auto;display:grid;grid-template-columns:250px minmax(0,1fr);min-height:calc(100vh - 205px)}.inquire-path{padding:37px 26px 40px 0;border-right:1px solid rgba(16,32,52,.18)}.inquire-path ol{margin:26px 0 0;padding:0;list-style:none}.inquire-path li{margin:0;padding:0;border-bottom:1px solid rgba(16,32,52,.13)}.inquire-path li button{width:100%;padding:12px 8px 12px 15px;border:0;border-left:3px solid transparent;background:transparent;display:grid;gap:4px;text-align:left;cursor:pointer}.inquire-path li.is-current button{border-left-color:#2e6249;background:#edf0e9}.inquire-path li button:hover{background:#f0f1eb}.inquire-path li span{color:#65717b;font:700 11px/1 Arial,sans-serif;letter-spacing:.12em}.inquire-path li strong{font:400 19px/1.06 Georgia,serif;color:#14253a}.inquire-path li em{font:italic 13px/1.2 Georgia,serif;color:#6f7780}
 .inquire-reading{padding:48px clamp(35px,5vw,75px) 44px}.inquire-reading h1{max-width:700px;margin:23px 0 10px;font:400 clamp(56px,6.4vw,100px)/.9 Georgia,serif;letter-spacing:-.055em}.inquire-byline{margin:0;font:600 12px/1.2 Arial,sans-serif;letter-spacing:.22em;text-transform:uppercase}.inquire-rule{width:82px;height:3px;margin:34px 0 30px;background:#2e6249}.inquire-excerpt{max-width:720px;margin:0;font:400 clamp(21px,2.05vw,31px)/1.38 Georgia,serif;letter-spacing:-.018em}.inquire-source{margin:42px 0 0;padding-top:16px;border-top:1px solid #bdc4c5;color:#68727c;font:italic 14px/1.35 Georgia,serif}
 .inquire-prompts{padding:37px 0 38px 38px}.inquire-question{width:100%;display:grid;grid-template-columns:46px minmax(0,1fr);gap:12px;padding:28px 0 24px;border:0;border-bottom:1px solid rgba(16,32,52,.2);background:transparent;color:#102034;text-align:left;cursor:pointer;transition:background .18s ease,padding .18s ease,box-shadow .18s ease}.inquire-question:hover{padding-right:14px;padding-left:12px;background:#f1eee4}.inquire-question.is-selected{margin:8px 0;padding:27px 20px 26px;background:#a6312a;color:#fff8ec;box-shadow:inset 0 3px 0 #74211d}.inquire-question>span{color:#2e6249;font:400 26px/1 Georgia,serif}.inquire-question.is-selected>span{color:#f5d5ad}.inquire-prompts h2{max-width:800px;margin:0;font:400 clamp(24px,2.35vw,37px)/1.12 Georgia,serif}.inquire-question-translation{max-width:760px;margin:9px 0 0;color:#7b838a;font:14px/1.45 Arial,sans-serif}.inquire-question.is-selected .inquire-question-translation{color:#f8e8d2}.inquire-upload-note{margin-top:28px;padding:21px 0;border-top:1px solid rgba(16,32,52,.2);border-bottom:1px solid rgba(16,32,52,.2)}.inquire-upload-note p:last-child{margin:12px 0 0;color:#53606b;font:15px/1.45 Georgia,serif}
+.inquire-task-details{margin:13px 0 0;padding-left:20px;color:#66717b;font:14px/1.5 Arial,sans-serif}.inquire-task-details li+li{margin-top:6px}.inquire-question.is-selected .inquire-task-details{color:#fff0df}
 @media(max-width:980px){.inquire-page .site-header,.inquire-picker,.inquire-workspace{width:calc(100% - 40px)}.inquire-picker{grid-template-columns:1fr}.inquire-materials{grid-template-columns:repeat(2,minmax(0,1fr))}.inquire-empty-materials{grid-column:1/-1}.inquire-workspace{grid-template-columns:190px minmax(0,1fr)}.inquire-prompts{padding:30px 0 30px 28px}.inquire-question{padding:24px 0}.inquire-upload-note{margin:0}}
 @media(max-width:650px){.inquire-page .site-header{width:calc(100% - 28px);height:auto;min-height:72px;margin:0 auto;padding:12px 0;gap:14px}.inquire-page .brand-name{font-size:17px}.inquire-page .ink-mark{width:38px;height:38px}.inquire-page .site-header nav{gap:15px;flex-wrap:wrap;justify-content:flex-end}.inquire-page .site-header nav button{font-size:12px;padding:4px 0}.inquire-picker,.inquire-workspace{width:calc(100% - 32px)}.inquire-picker{padding:26px 0 18px}.inquire-materials{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:7px}.inquire-upload,.inquire-external-card,.inquire-empty-materials{min-width:220px;border-left:1px solid rgba(16,32,52,.2);scroll-snap-align:start}.inquire-empty-materials{align-content:center;padding:12px 18px}.inquire-workspace{display:block}.inquire-path{padding:28px 0 5px;border-right:0;border-bottom:1px solid rgba(16,32,52,.18)}.inquire-path ol{display:grid;grid-template-columns:repeat(2,1fr);gap:0}.inquire-path li button{padding:11px}.inquire-path li strong{font-size:17px}.inquire-path li em{font-size:12px}.inquire-prompts{display:block;padding:28px 0}.inquire-question{padding:22px 0}.inquire-question.is-selected{padding:22px 16px}.inquire-prompts h2{font-size:21px}}
 .site-header>*{position:relative;z-index:1}
@@ -4286,6 +4409,8 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 /* Keep supplied source visuals intact: do not substitute them with generated artwork. */
 .inquire-external-card[class*="inquire-external-card--"]{background-image:none!important}.inquire-external-card[class*="inquire-external-card--"]::before{background-image:none!important}.inquire-external-card--taylor::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-taylor.png")!important}.inquire-external-card--clock::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-clock.png")!important}.inquire-external-card--deepseek::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-deepseek.png")!important}.inquire-external-card--cybertruck::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-cybertruck.png")!important}.inquire-external-card--ai::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-ai.png")!important}.inquire-external-card--dictionary::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-dictionary.png")!important}.inquire-external-card--parentified::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-parentified.png")!important}.inquire-external-card--bully::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-bully.png")!important}.inquire-external-card--catlady::before{background-image:url("https://assets.negentropylearning.com.cn/media/inquire-catlady.png")!important}.inquire-external-card--stereotypes-ted::before{background-image:url("https://i.ytimg.com/vi/aFXmyNUaXFo/maxresdefault.jpg")!important}.inquire-external-card--diversity-ted::before{background-image:url("https://i.ytimg.com/vi/ovKqmRyOGcg/maxresdefault.jpg")!important}.inquire-external-card--healthy-love-ted::before{background-image:url("https://i.ytimg.com/vi/ON4iy8hq2hM/maxresdefault.jpg")!important}
 .inquire-external-card::before{display:none}.inquire-resource-image{grid-row:1/4;width:126px;height:66px;align-self:center;display:block;object-fit:cover;background:#d9d6cc}.inquire-resource-image.is-placeholder{display:block}
+.inquire-resource-image.is-book-cover{width:54px;height:76px;object-fit:contain;background:#f3f0e7}
+.inquire-resource-image.is-wide-book-cover{width:126px;height:80px;object-fit:contain;background:#f3f0e7}
 @media(max-width:650px){.inquire-resource-image{width:104px;height:60px}}
 
 /* Material rail: keep the reference's open rhythm and use red only for hover feedback. */
@@ -5384,3 +5509,304 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
     transition-duration:.01ms!important;
   }
 }
+
+
+/* The Atlantic commencement reading borrows the Narrative Writing paper-page style.
+   Keep that treatment inside the article column; the Inquire Lab shell stays unchanged. */
+.inquire-workspace:has(.inquire-prompts.is-commencement-article){
+  background-color:#faf8f1;
+  background-image:radial-gradient(rgba(38,53,57,.075) .55px,transparent .7px);
+  background-size:5px 5px;
+  background-position:0 0;
+  background-repeat:repeat;
+}
+.inquire-workspace:has(.inquire-prompts.is-commencement-article)::before{display:none}
+.inquire-prompts.is-commencement-article{background:transparent}
+.inquire-publication.is-commencement-style{
+  --paper-bleed-right:max(24px,calc(50vw - 690px));
+  width:calc(100% + var(--paper-bleed-right));
+  max-width:none;
+  min-height:100%;
+  margin:0 calc(0px - var(--paper-bleed-right)) 0 0;
+  padding:clamp(48px,6vw,86px) clamp(34px,5.4vw,78px) 120px;
+  box-sizing:border-box;
+  color:#211f1b;
+  background:#f4f3ef url("https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-linen-tile.png") repeat;
+  background-size:256px 256px;
+  font-family:Georgia,"Times New Roman",serif;
+}
+.inquire-publication.is-commencement-style .eyebrow{
+  margin:0 0 24px;
+  color:#8d4735;
+  font:700 11px/1.4 Arial,sans-serif;
+  letter-spacing:.2em;
+}
+.inquire-publication.is-commencement-style h1{
+  max-width:18ch;
+  margin:0;
+  color:#15130f;
+  font:500 clamp(52px,5.8vw,82px)/.94 "Cormorant Garamond","Iowan Old Style",Baskerville,Georgia,serif;
+  letter-spacing:-.045em;
+  text-wrap:balance;
+}
+.inquire-publication.is-commencement-style .inquire-publication-dek{
+  max-width:48ch;
+  margin:28px 0 0;
+  color:#3f3a33;
+  font:italic clamp(17px,1.45vw,20px)/1.55 Arial,sans-serif;
+}
+.inquire-publication.is-commencement-style .inquire-publication-byline{
+  display:block;
+  margin:28px 0 0;
+  padding:0 0 28px;
+  border-bottom:1px solid rgba(54,48,40,.3);
+  color:#55483e;
+  font:700 11px/1.5 Arial,sans-serif;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.inquire-publication.is-commencement-style .inquire-publication-body{
+  position:relative;
+  width:min(100%,1100px);
+  max-width:1100px;
+  margin:48px 0 0;
+  color:#211f1b;
+  font:clamp(19px,1.65vw,23px)/1.76 Georgia,"Times New Roman",serif;
+  text-rendering:optimizeLegibility;
+}
+.inquire-publication.is-commencement-style .inquire-publication-body p{
+  max-width:680px;
+  margin:0 0 1.25em;
+  hanging-punctuation:first last;
+  hyphens:auto;
+  text-wrap:pretty;
+}
+.inquire-publication.is-commencement-style .inquire-publication-body p.inquire-publication-quote{
+  margin:1.9em 0;
+  padding-left:1.35em;
+  font-style:italic;
+}
+.inquire-publication.is-commencement-style .inquire-publication-section-title{
+  margin:2.1em 0 .75em;
+  padding-top:.75em;
+  border-top:1px solid rgba(54,48,40,.24);
+  color:#211f1b;
+  font:600 clamp(27px,2.5vw,38px)/1.05 "Cormorant Garamond","Iowan Old Style",Baskerville,Georgia,serif;
+  letter-spacing:-.025em;
+}
+.inquire-publication.is-commencement-style .taylor-vocabulary-highlight{
+  margin:0;
+  padding:.03em .16em .08em;
+  border-radius:.14em;
+  color:inherit;
+  background:linear-gradient(180deg,transparent 18%,rgba(177,142,203,.62) 18%,rgba(177,142,203,.62) 88%,transparent 88%);
+  box-decoration-break:clone;
+  -webkit-box-decoration-break:clone;
+}
+.inquire-publication.is-commencement-style .inquire-publication-body p:first-child::first-letter{
+  float:left;
+  margin:.08em .11em 0 0;
+  color:#15130f;
+  font:600 5.1em/.72 Georgia,"Times New Roman",serif;
+}
+@media(max-width:820px){
+  .inquire-publication.is-commencement-style{padding:42px 28px 88px}
+  .inquire-publication.is-commencement-style h1{max-width:17ch;font-size:clamp(48px,7vw,68px)}
+  .inquire-publication.is-commencement-style .inquire-publication-body{width:100%;max-width:680px;margin-top:38px;font-size:20px;line-height:1.7}
+}
+@media(max-width:650px){
+  .inquire-publication.is-commencement-style{--paper-bleed-right:0px;width:100%;margin:0;padding:38px 22px 72px;background-size:210px 210px}
+  .inquire-publication.is-commencement-style h1{max-width:15ch;font-size:clamp(44px,9vw,58px);line-height:.98}
+  .inquire-publication.is-commencement-style .inquire-publication-dek{font-size:17px}
+  .inquire-publication.is-commencement-style .inquire-publication-byline{font-size:10px}
+  .inquire-publication.is-commencement-style .inquire-publication-body{font-size:18px;line-height:1.68}
+}
+
+/* Final editorial overrides follow the responsive baseline so the treatment
+   also holds on wide classroom displays. */
+.reading-page > .article-header {
+  width: min(1120px, calc(100% - 64px));
+  padding: clamp(42px, 6vw, 86px) 0 34px;
+  border-bottom: 1px solid rgba(54, 48, 40, .3);
+}
+.reading-page > .article-header h1 {
+  max-width: 1120px;
+  margin: 16px 0 28px;
+  font-family: Futura, "Avenir Next", "Century Gothic", sans-serif;
+  font-size: clamp(58px, 8vw, 112px);
+  font-weight: 500;
+  line-height: .94;
+  letter-spacing: -.045em;
+  text-wrap: balance;
+}
+.reading-page > .article-header > p:last-child,
+.reading-page > .article-header > .article-author-intro-trigger {
+  font: 700 11px/1.5 Arial, sans-serif;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+}
+@media (min-width: 961px) and (min-height: 640px) and (min-aspect-ratio: 3/2) {
+  .reading-page > .article-header {
+    padding: clamp(42px, 6vw, 86px) 0 34px;
+  }
+  .reading-page > .article-header h1 {
+    margin: 16px 0 28px;
+    font-size: clamp(58px, 8vw, 112px);
+    line-height: .94;
+  }
+}
+@media (max-width: 600px) {
+  .reading-page > .article-header {
+    width: calc(100% - 40px);
+    padding: 40px 0 25px;
+  }
+  .reading-page > .article-header h1 {
+    margin: 14px 0 20px;
+    font-size: clamp(48px, 10vw, 70px);
+  }
+}
+
+/* Click-to-open vocabulary notes in Taylor Swift's commencement article. */
+.inquire-publication.is-commencement-style .taylor-vocabulary-anchor{position:relative;display:inline;z-index:1}
+.inquire-publication.is-commencement-style .taylor-vocabulary-anchor.is-open{z-index:40}
+.inquire-publication.is-commencement-style .taylor-vocabulary-highlight{display:inline;margin:0;padding:.03em .16em .08em;border:0;border-radius:.14em;color:inherit;background:linear-gradient(180deg,transparent 18%,rgba(177,142,203,.62) 18%,rgba(177,142,203,.62) 88%,transparent 88%);font:inherit;line-height:inherit;cursor:pointer;appearance:none;-webkit-appearance:none;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.inquire-publication.is-commencement-style .taylor-vocabulary-highlight:hover,.inquire-publication.is-commencement-style .taylor-vocabulary-highlight:focus-visible{background:linear-gradient(180deg,transparent 12%,rgba(224,173,87,.48) 12%,rgba(224,173,87,.48) 92%,transparent 92%);outline:0}
+.inquire-publication.is-commencement-style .taylor-vocabulary-highlight:focus-visible{border-radius:2px;box-shadow:0 0 0 2px rgba(142,72,45,.5)}
+.taylor-vocabulary-note{position:absolute;z-index:20;display:block;box-sizing:border-box;width:min(286px,calc(100vw - 44px));margin:0;padding:23px 25px 20px;border:1px solid rgba(96,77,39,.16);border-radius:2px;background:#fff2ac;box-shadow:0 12px 24px rgba(42,35,24,.2),0 2px 4px rgba(42,35,24,.1);color:#4c4432;font:15px/1.5 Georgia,"Times New Roman",serif;text-align:left;white-space:normal;transform:rotate(-.8deg)}
+.taylor-vocabulary-note-tape{position:absolute;top:-8px;left:15px;width:54px;height:15px;background:rgba(125,169,91,.62);box-shadow:0 1px 2px rgba(34,50,24,.1);transform:rotate(-2deg)}
+.taylor-vocabulary-note-heading{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;padding-right:23px}
+.taylor-vocabulary-note-heading strong{color:#233346;font:700 19px/1.2 Georgia,"Times New Roman",serif}
+.taylor-vocabulary-note-heading>.taylor-vocabulary-note-pos{color:#8b7352;font:700 11px/1.2 Arial,sans-serif;letter-spacing:.06em}
+.taylor-vocabulary-note-heading>span{color:#695c43;font:italic 14px/1.4 Arial,sans-serif;letter-spacing:.02em}
+.taylor-vocabulary-note-close{position:absolute;top:8px;right:10px;width:25px;height:25px;padding:0;border:0;background:transparent;color:#786944;font:21px/1 Arial,sans-serif;cursor:pointer}
+.taylor-vocabulary-note-close:hover{color:#8f302a}
+.taylor-vocabulary-note-definition{display:block;margin-top:11px;padding-top:9px;border-top:1px solid rgba(96,77,39,.22);font:15px/1.5 Georgia,"Times New Roman",serif}
+.taylor-vocabulary-note-translation{display:block;margin-top:7px;color:#777050;font:12px/1.45 Arial,sans-serif}
+@media(max-width:820px){.inquire-publication.is-commencement-style .inquire-publication-body{width:100%;max-width:1100px}.inquire-publication.is-commencement-style .inquire-publication-body p{max-width:680px}.taylor-vocabulary-note{padding:21px 22px 19px}}
+@media(max-width:650px){.inquire-publication.is-commencement-style .inquire-publication-body p{max-width:100%}.taylor-vocabulary-note{padding:19px 20px}.taylor-vocabulary-note-heading strong{font-size:18px}.taylor-vocabulary-note-definition{font-size:14px}.taylor-vocabulary-note-translation{font-size:11px}}
+.inquire-publication.is-commencement-style .inquire-publication-body:has(> .inquire-publication-dek){margin-top:34px}
+.inquire-publication.is-commencement-style .inquire-publication-body>.inquire-publication-dek{margin:0 0 48px;max-width:720px}
+.inquire-publication.is-commencement-style .inquire-publication-body>.women-leaders-vocabulary-context{max-width:880px;margin:24px 0;padding:14px 18px 15px;border-left:2px solid rgba(142,72,45,.5);background:rgba(255,250,225,.58);color:#5d574e;font-size:.76em;line-height:1.65}
+.inquire-publication.is-commencement-style .women-leaders-vocabulary-context::before{content:"VOCABULARY IN CONTEXT · 词汇应用";display:block;margin-bottom:6px;color:#8f4432;font:700 9px/1.4 Arial,sans-serif;letter-spacing:.14em}
+
+@media(min-width:651px){
+  .inquire-page .inquire-materials.is-climate-2x2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch;justify-content:stretch;gap:clamp(16px,2vw,30px);width:100%;margin:0;flex-wrap:nowrap}
+  .inquire-page .inquire-materials.is-climate-2x2>.inquire-external-card{width:100%;min-width:0;max-width:none;flex:initial}
+}
+@media(max-width:650px){
+  .inquire-page .inquire-materials.is-climate-2x2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:10px;flex-wrap:wrap}
+  .inquire-page .inquire-materials.is-climate-2x2>.inquire-external-card{flex:initial;min-width:0;padding:10px;grid-template-columns:minmax(0,1fr);align-content:start;column-gap:0}
+  .inquire-page .inquire-materials.is-climate-2x2 .inquire-resource-image{width:100%;height:70px}
+  .inquire-page .inquire-materials.is-climate-2x2 .inquire-resource-image.is-book-cover{width:auto;max-width:100%;height:76px;justify-self:start}
+  .inquire-page .inquire-materials.is-climate-2x2 .inquire-resource-image.is-wide-book-cover{width:100%;height:70px}
+}
+
+
+
+/* Keep three supplementary readings on one line across the desktop picker. */
+@media(min-width:651px){.inquire-materials:has(> .inquire-external-card:nth-of-type(3)){display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch;justify-content:stretch;gap:clamp(12px,2vw,28px);flex-wrap:nowrap}.inquire-materials:has(> .inquire-external-card:nth-of-type(3))>.inquire-external-card{width:100%;min-width:0;max-width:none}}
+
+.living-city-table-section{margin:48px 0 72px}
+.living-city-table-section>.inquire-publication-section-title{margin-bottom:22px}
+.living-city-table-scroll{overflow-x:auto;border:1px solid #dce8e8;border-radius:18px;background:#fff}
+.living-city-table{width:100%;min-width:680px;border-collapse:collapse;color:#5b5a59;font:16px/1.55 Arial,sans-serif}
+.living-city-table th,.living-city-table td{padding:22px 24px;border-bottom:1px solid #e7eded;text-align:left;vertical-align:middle}
+.living-city-table thead th{font-size:17px;text-align:center}
+.living-city-table thead th:first-child{width:25%}
+.living-city-table tbody tr:nth-child(odd){background:#eaf8fb}
+.living-city-table tbody th{font-size:16px;color:#555;text-align:left}
+.living-city-table ul{margin:0;padding-left:20px}
+.living-city-table li{margin:0 0 5px}
+.living-city-table tr:last-child>*{border-bottom:0}
+@media(max-width:650px){.living-city-table-section{margin:38px 0 52px}.living-city-table th,.living-city-table td{padding:16px 18px;font-size:14px}}
+
+@media(min-width:651px){.inquire-page .inquire-materials.is-eight-task-two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch;justify-content:stretch;gap:clamp(16px,2vw,30px);width:100%;margin:0;flex-wrap:nowrap}.inquire-page .inquire-materials.is-eight-task-two>.inquire-external-card{width:100%;min-width:0;max-width:none;flex:initial}}
+
+/* The climate task has four resources and must remain a 2×2 grid, even though
+   the generic three-card layout above normally assigns three columns. */
+@media(min-width:651px){
+  .inquire-page .inquire-materials.is-climate-2x2,
+  .inquire-page .inquire-materials.is-climate-2x2:has(> .inquire-external-card:nth-of-type(3)){display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch;justify-content:stretch;gap:clamp(16px,2vw,30px);width:100%;margin:0;flex-wrap:nowrap}
+  .inquire-page .inquire-materials.is-climate-2x2>.inquire-external-card,
+  .inquire-page .inquire-materials.is-climate-2x2:has(> .inquire-external-card:nth-of-type(3))>.inquire-external-card{width:100%;min-width:0;max-width:none;flex:initial}
+}
+
+/* Match the Western Culture review contents navigator while keeping the
+   existing Integrated English reading-path labels and order. */
+.inquire-page .inquire-path{
+  position:sticky;top:24px;height:min(650px,calc(100svh - 48px));max-height:calc(100svh - 48px);
+  overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#9ca7ad transparent;
+  padding:8px 12px 16px 0;border:0;font:15px/1.5 Arial,sans-serif
+}
+.inquire-page .inquire-path>.eyebrow{display:inline-block;margin:0 0 14px;padding:15px 17px;border-radius:6px;background:#df1424;color:#fff;font:700 18px/1.2 Arial,sans-serif;letter-spacing:0}
+.inquire-page .inquire-path ol{display:grid;gap:12px;position:static;margin:0;padding:0;list-style:none}
+.inquire-page .inquire-path ol::before{display:none}
+.inquire-page .inquire-path li{position:static;margin:0;padding:0;border:0}
+.inquire-page .inquire-path li button,
+.inquire-page .inquire-path li button:hover,
+.inquire-page .inquire-path li.is-current button{display:grid;width:100%;height:auto;min-height:78px;gap:6px;padding:15px 15px 15px 17px;border:0;border-left:3px solid transparent;border-radius:6px;background:#f5f4f2;box-sizing:border-box;text-align:left;}
+.inquire-page .inquire-path li.is-current button{border-left-color:#df1424;background:#edf1f3;box-shadow:inset 0 0 0 1px #d9e0e4}
+.inquire-page .inquire-path li button::before{display:none}
+.inquire-page .inquire-path li button:hover{background:#eae8e5}
+.inquire-page .inquire-path li span{color:#aa272c;font:700 11px/1.3 Arial,sans-serif;letter-spacing:.12em}
+.inquire-page .inquire-path li strong{color:#262626;font:700 18px/1.25 Arial,sans-serif}
+.inquire-page .inquire-path li em{color:#697075;font:italic 13px/1.4 Georgia,serif}
+.xiumi-reading-page>.library-footer{width:calc(100% + 40px);margin-left:-20px}
+.xiumi-import-page{min-height:calc(100svh - 230px)}
+.xiumi-import-page+.library-footer,.xiumi-reading-page>.library-footer{margin-top:0}
+
+/* Every in-app footer uses the home page's 230px standard. */
+.library-footer{height:230px;min-height:230px;flex:0 0 230px;box-sizing:border-box;padding:28px max(32px,calc((100% - 1380px)/2)) 22px}
+.library-footer-identity{gap:8px}
+.library-footer-identity span strong{font-size:22px}
+.library-footer-identity span em{font-size:16px}
+.library-footer-identity img{width:78px;height:78px}
+.library-footer small{bottom:18px;font-size:13px}
+.eg4-university{height:230px;min-height:230px;box-sizing:border-box;padding:28px max(32px,calc((100% - 1380px)/2)) 22px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;position:relative}
+.eg4-university strong{font:500 22px/1 Georgia,serif;letter-spacing:.06em}
+.eg4-university img{width:78px;height:78px;margin:0}
+.eg4-university small{position:absolute;left:max(32px,calc((100% - 1380px)/2));bottom:18px;font:13px/1.35 Arial,sans-serif;letter-spacing:0;color:#9ea8b2}
+@media(max-width:650px){
+  .inquire-page .inquire-path{position:static;height:auto;max-height:none;overflow:visible;padding:18px 0 20px;border-bottom:1px solid rgba(16,32,52,.18)}
+  .inquire-page .inquire-path ol{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .inquire-page .inquire-path li button,.inquire-page .inquire-path li button:hover,.inquire-page .inquire-path li.is-current button{min-height:78px;padding:12px}
+  .inquire-page .inquire-path li strong{font-size:16px}
+  .library-footer{padding:22px 16px 18px}
+  .eg4-university{padding:22px 16px 18px}
+  .eg4-university small{left:16px;bottom:18px;font-size:11px}
+}
+
+/* Shared long frosted navigation treatment for the section switcher. */
+.learning-primary-nav{left:50%;right:auto;width:min(1144px,calc(100% - 48px));min-height:64px;justify-content:space-between;gap:14px;padding:7px clamp(14px,2vw,24px);border-radius:22px;translate:-50% 0}
+.learning-primary-brand{display:flex;flex:0 0 auto;align-items:center;gap:10px;color:#171815;font:500 clamp(16px,1.35vw,20px)/1 Georgia,"Times New Roman",serif;letter-spacing:-.025em;white-space:nowrap}
+.learning-primary-brand img{display:block;width:46px;height:46px;object-fit:contain;filter:drop-shadow(0 2px 2px rgba(49,39,29,.12))}
+.learning-primary-nav button,.learning-primary-nav a{min-width:clamp(78px,6.6vw,108px);padding:13px 13px 12px;font-size:clamp(14px,1vw,16px)}
+@media(max-width:650px){.learning-primary-nav{top:12px;width:calc(100% - 24px);gap:4px;padding:6px 8px;border-radius:18px}.learning-primary-brand{gap:5px;font-size:11px}.learning-primary-brand img{width:32px;height:32px}.learning-primary-nav button,.learning-primary-nav a{min-width:0;flex:1 1 0;padding:11px 4px;font-size:11px}}
+
+
+/* Match the home navigation's 64px height at every Library breakpoint. */
+.library-page > .site-header {
+  height: 64px;
+  min-height: 64px;
+}
+
+/* Library navigation is the visual reference for the shared menus. */
+
+.learning-primary-nav{width:min(1380px,calc(100% - 64px));height:64px;min-height:64px;justify-content:flex-end;gap:clamp(22px,4vw,58px);padding:0 clamp(18px,2.2vw,30px);border-radius:24px;background:linear-gradient(122deg,rgba(255,255,255,.74),rgba(244,241,232,.5) 48%,rgba(225,229,218,.43)),rgba(247,245,239,.52);backdrop-filter:blur(22px) saturate(145%);-webkit-backdrop-filter:blur(22px) saturate(145%)}
+.learning-primary-brand{margin-right:auto;gap:12px}
+.learning-primary-nav button,.learning-primary-nav a{flex:0 0 auto;min-width:0;padding:10px 8px;border-radius:11px;color:#171815;font:400 14px/normal Arial,"Helvetica Neue",sans-serif;background:transparent;box-shadow:none;transform:none}
+.learning-primary-nav button::after,.learning-primary-nav a::after{position:absolute;content:"";left:8px;right:8px;bottom:5px;width:auto;height:2px;border-radius:0;background:linear-gradient(90deg,#8f4937,#b4654d);box-shadow:0 1px 3px rgba(126,66,49,.18);transform:none;opacity:0;transition:opacity .2s ease;pointer-events:none}
+.learning-primary-nav button[aria-current="page"],.learning-primary-nav a[aria-current="page"],.learning-primary-nav .is-active{color:#171815;background:transparent}
+.learning-primary-nav button:hover,.learning-primary-nav a:hover{background:rgba(255,255,255,.42);box-shadow:none;transform:none}
+.learning-primary-nav button:is(:hover,[aria-current="page"])::after,.learning-primary-nav a:is(:hover,[aria-current="page"])::after{opacity:1}
+@media(max-width:850px){
+ .learning-primary-nav{width:calc(100% - 24px);gap:14px;padding:0 12px;border-radius:18px;overflow-x:auto;scrollbar-width:none}
+ .learning-primary-brand{gap:5px;font-size:12px}
+ .learning-primary-brand img{width:34px;height:34px}
+ .learning-primary-nav button,.learning-primary-nav a{flex:0 0 auto;padding:10px 5px;font-size:11px;white-space:nowrap}
+ .learning-primary-nav button::after,.learning-primary-nav a::after{left:5px;right:5px}
+}
+@media(max-width:480px){.learning-primary-nav{gap:4px}}
+
+
+@media(max-width:700px){.learning-primary-nav{left:auto;top:auto;translate:none;margin:14px auto 0}}

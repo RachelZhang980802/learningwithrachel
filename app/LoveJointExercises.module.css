@@ -1,0 +1,4 @@
+.item + .item { margin-top: 38px; }
+@media (max-width: 600px) {
+  .item + .item { margin-top: 32px; }
+}

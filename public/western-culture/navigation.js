@@ -1,6 +1,8 @@
 (() => {
   document.querySelectorAll('.glass-nav a').forEach(link => {
-    if (['Greece', 'Rome'].includes(link.textContent.trim())) link.href = 'greece-map.html';
+    const destinations = { Greece: 'greece-rome.html#chapter-greece-1', Rome: 'greece-rome.html#chapter-rome-3' };
+    const destination = destinations[link.textContent.trim()];
+    if (destination) link.href = destination;
   });
   const nav = document.querySelector('.glass-nav');
   if (!nav) return;

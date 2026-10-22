@@ -1,0 +1,5342 @@
+{
+  "1": {
+    "text": "From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books.",
+    "lessonText": "From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books.",
+    "paragraphStart": 0,
+    "paragraphEnd": 112,
+    "functions": [
+      [
+        "Adverbial",
+        "From a child "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "fond of reading, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "all the little money "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Complement",
+        "into my hands "
+      ],
+      [
+        "Auxiliary verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "ever "
+      ],
+      [
+        "Predicate",
+        "laid out "
+      ],
+      [
+        "Adverbial",
+        "in books."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 36,
+        "anchorEnd": 0,
+        "text": "From a child I was fond of reading, "
+      },
+      {
+        "kind": "main",
+        "start": 36,
+        "end": 112,
+        "anchorEnd": 36,
+        "text": "and all the little money that came into my hands was ever laid out in books."
+      },
+      {
+        "kind": "relative",
+        "start": 61,
+        "end": 85,
+        "anchorEnd": 65,
+        "text": "that came into my hands ",
+        "antecedent": "all the little money"
+      }
+    ],
+    "notes": [
+      "两套主干由 and 连接；第二套内含修饰 money 的定语从句。little 是钱少，不是小孩子的钱；ever 在旧语境表示总是。from a child 可现代改写为 from childhood。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 18,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "came",
+        "role": "sub"
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 94,
+        "end": 102,
+        "text": "laid out",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "Pleased with the The Pilgrim's Progress, my first collection was of John Bunyan's works in separate little volumes.",
+    "lessonText": "Pleased with The Pilgrim's Progress, I began collecting John Bunyan's works in separate little volumes.",
+    "paragraphStart": 113,
+    "paragraphEnd": 228,
+    "functions": [
+      [
+        "Adverbial",
+        "Pleased with the The Pilgrim's Progress, "
+      ],
+      [
+        "Subject",
+        "my first collection "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "of John Bunyan's works "
+      ],
+      [
+        "Modifier",
+        "in separate little volumes."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 115,
+        "anchorEnd": 0,
+        "text": "Pleased with the The Pilgrim's Progress, my first collection was of John Bunyan's works in separate little volumes."
+      }
+    ],
+    "notes": [
+      "删除书名前重复的 the，并改写悬垂分词：Pleased with 的语义主体为 I。",
+      "正文与 Structure 均保留现有原句 Pleased with the The… my first collection was…；原解释中的删除重复 the、改写为 I began collecting 是现代修订建议，不替换原文。Pleased 的语义主体仍是作者，与表面主语 collection 不一致；这里只给原文有限定形式的 was 标谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 61,
+        "end": 64,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "I afterward sold them to enable me to buy R. Burton's Historical Collections; they were small chapmen's books, and cheap, 40 or 50 in all.",
+    "lessonText": "I afterward sold them to enable me to buy R. Burton's Historical Collections; they were small chapmen's books, and cheap, 40 or 50 in all.",
+    "paragraphStart": 229,
+    "paragraphEnd": 367,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "afterward "
+      ],
+      [
+        "Predicate",
+        "sold "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Adverbial",
+        "to enable me to buy R. Burton's Historical Collections; "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "small chapmen's books, and cheap, "
+      ],
+      [
+        "Supplement",
+        "40 or 50 in all."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 78,
+        "anchorEnd": 0,
+        "text": "I afterward sold them to enable me to buy R. Burton's Historical Collections; "
+      },
+      {
+        "kind": "main",
+        "start": 78,
+        "end": 138,
+        "anchorEnd": 78,
+        "text": "they were small chapmen's books, and cheap, 40 or 50 in all."
+      }
+    ],
+    "notes": [
+      "分号连接两个主句；cheap 与名词短语共同说明 they，并未另起主句。enable me to buy 是使役式宾语加不定式，them 回指先前的藏书，they 指新买的那套小册子。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 16,
+        "text": "sold",
+        "role": "main"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "text": "were",
+        "role": "main"
+      }
+    ]
+  },
+  "4": {
+    "text": "My father's little library consisted chiefly of books in polemic divinity, most of which I read, and have since often regretted that, at a time when I had such a thirst for knowledge, more proper books had not fallen in my way since it was now resolved I should not be a clergyman.",
+    "lessonText": "My father's little library consisted chiefly of books in polemic divinity, most of which I read, and have since often regretted that, at a time when I had such a thirst for knowledge, more proper books had not fallen in my way since it was now resolved I should not be a clergyman.",
+    "paragraphStart": 368,
+    "paragraphEnd": 649,
+    "functions": [
+      [
+        "Subject",
+        "My father's little library "
+      ],
+      [
+        "Predicate",
+        "consisted "
+      ],
+      [
+        "Adverbial",
+        "chiefly "
+      ],
+      [
+        "Complement",
+        "of books in polemic divinity, "
+      ],
+      [
+        "Relative phrase / Object",
+        "most of which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "read, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Auxiliary verb",
+        "have "
+      ],
+      [
+        "Adverbial",
+        "since often "
+      ],
+      [
+        "Predicate",
+        "regretted "
+      ],
+      [
+        "Subordinator",
+        "that, "
+      ],
+      [
+        "Adverbial",
+        "at a time "
+      ],
+      [
+        "Relative adverb",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "such a thirst for knowledge, "
+      ],
+      [
+        "Subject",
+        "more proper books "
+      ],
+      [
+        "Auxiliary verb",
+        "had "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "fallen "
+      ],
+      [
+        "Adverbial",
+        "in my way "
+      ],
+      [
+        "Subordinator",
+        "since "
+      ],
+      [
+        "Anticipatory subject",
+        "it "
+      ],
+      [
+        "Auxiliary verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicate",
+        "resolved "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Modal auxiliary",
+        "should "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Linking verb",
+        "be "
+      ],
+      [
+        "Predicative",
+        "a clergyman."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 97,
+        "anchorEnd": 0,
+        "text": "My father's little library consisted chiefly of books in polemic divinity, most of which I read, "
+      },
+      {
+        "kind": "relative",
+        "start": 75,
+        "end": 97,
+        "anchorEnd": 88,
+        "text": "most of which I read, ",
+        "antecedent": "books in polemic divinity"
+      },
+      {
+        "kind": "main",
+        "start": 97,
+        "end": 281,
+        "anchorEnd": 97,
+        "text": "and have since often regretted that, at a time when I had such a thirst for knowledge, more proper books had not fallen in my way since it was now resolved I should not be a clergyman.",
+        "restoration": "I",
+        "label": "Elliptical main clause"
+      },
+      {
+        "kind": "object",
+        "start": 128,
+        "end": 227,
+        "anchorEnd": 132,
+        "text": "that, at a time when I had such a thirst for knowledge, more proper books had not fallen in my way "
+      },
+      {
+        "kind": "relative",
+        "start": 144,
+        "end": 184,
+        "anchorEnd": 148,
+        "text": "when I had such a thirst for knowledge, ",
+        "antecedent": "a time"
+      },
+      {
+        "kind": "reason",
+        "start": 227,
+        "end": 281,
+        "anchorEnd": 232,
+        "text": "since it was now resolved I should not be a clergyman."
+      },
+      {
+        "kind": "subject",
+        "start": 253,
+        "end": 281,
+        "anchorEnd": 254,
+        "text": "I should not be a clergyman.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "and have regretted 语义主语是 I，不能接到 library 上；这是旧文的松散衔接，现代宜补 I。regretted 的内容先插入时间，再到 books had not fallen；最后 since 是因为，resolved 后省略 that，决定者未明确写出。",
+      "and have… 单列省略主语 I 的主句；since 表解释遗憾的原因，放在第二主句层级。resolved 后内容采用外置主语分析：it 为形式主语，I should… 标为 Subject clause，that 只作省略提示。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 36,
+        "text": "consisted",
+        "role": "main"
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "text": "read",
+        "role": "sub"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "text": "have",
+        "role": "main"
+      },
+      {
+        "start": 118,
+        "end": 127,
+        "text": "regretted",
+        "role": "main"
+      },
+      {
+        "start": 151,
+        "end": 154,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 202,
+        "end": 205,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 210,
+        "end": 216,
+        "text": "fallen",
+        "role": "sub"
+      },
+      {
+        "start": 236,
+        "end": 239,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 244,
+        "end": 252,
+        "text": "resolved",
+        "role": "sub"
+      },
+      {
+        "start": 255,
+        "end": 261,
+        "text": "should",
+        "role": "sub"
+      },
+      {
+        "start": 266,
+        "end": 268,
+        "text": "be",
+        "role": "sub"
+      }
+    ]
+  },
+  "5": {
+    "text": "Plutarch's Lives there was in which I read abundantly, and I still think that time spent to great advantage.",
+    "lessonText": "Plutarch's Lives there was in which I read abundantly, and I still think that time spent to great advantage.",
+    "paragraphStart": 650,
+    "paragraphEnd": 758,
+    "functions": [
+      [
+        "Notional subject",
+        "Plutarch's Lives "
+      ],
+      [
+        "Formal subject",
+        "there "
+      ],
+      [
+        "Predicate",
+        "was "
+      ],
+      [
+        "Relative phrase",
+        "in which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "read "
+      ],
+      [
+        "Adverbial",
+        "abundantly, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "still "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Object",
+        "that time "
+      ],
+      [
+        "Object complement",
+        "spent to great advantage."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "Plutarch's Lives there was in which I read abundantly, "
+      },
+      {
+        "kind": "relative",
+        "start": 27,
+        "end": 55,
+        "anchorEnd": 35,
+        "text": "in which I read abundantly, ",
+        "antecedent": "Plutarch's Lives"
+      },
+      {
+        "kind": "main",
+        "start": 55,
+        "end": 108,
+        "anchorEnd": 55,
+        "text": "and I still think that time spent to great advantage."
+      }
+    ],
+    "notes": [
+      "书名虽以 Lives 结尾，但指一部作品，用 was。第二部分 that 是限定词“那段”，that time 是 think 的宾语，spent… 为过去分词宾补，不把 that 标作宾语从句引导词。",
+      "that time 是名词宾语，spent… 为非谓语宾补；不添加不存在的宾语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 26,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "read",
+        "role": "sub"
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "text": "think",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "There was also a book of Defoe's, called An Essay on Projects, and another of Dr. Mather's, called Essays to Do Good, which perhaps gave me a turn of thinking that had an influence on some of the principal future events of my life.",
+    "lessonText": "There was also a book of Defoe's, called An Essay on Projects, and another of Dr. Mather's, called Essays to Do Good, which perhaps gave me a turn of thinking that had an influence on some of the principal future events of my life.",
+    "paragraphStart": 759,
+    "paragraphEnd": 990,
+    "functions": [
+      [
+        "Formal subject",
+        "There "
+      ],
+      [
+        "Predicate",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Notional subject",
+        "a book of Defoe's, "
+      ],
+      [
+        "Participial modifier",
+        "called An Essay on Projects, "
+      ],
+      [
+        "Coordinated notional subject",
+        "and another of Dr. Mather's, "
+      ],
+      [
+        "Participial modifier",
+        "called Essays to Do Good, "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Adverbial",
+        "perhaps "
+      ],
+      [
+        "Predicate",
+        "gave "
+      ],
+      [
+        "Indirect object",
+        "me "
+      ],
+      [
+        "Direct object",
+        "a turn of thinking "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "an influence on some of the principal future events of my life."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 231,
+        "anchorEnd": 0,
+        "text": "There was also a book of Defoe's, called An Essay on Projects, and another of Dr. Mather's, called Essays to Do Good, which perhaps gave me a turn of thinking that had an influence on some of the principal future events of my life."
+      },
+      {
+        "kind": "relative",
+        "start": 118,
+        "end": 231,
+        "anchorEnd": 123,
+        "text": "which perhaps gave me a turn of thinking that had an influence on some of the principal future events of my life.",
+        "antecedent": "Essays to Do Good"
+      },
+      {
+        "kind": "relative",
+        "start": 159,
+        "end": 231,
+        "anchorEnd": 163,
+        "text": "that had an influence on some of the principal future events of my life.",
+        "antecedent": "a turn of thinking"
+      }
+    ],
+    "notes": [
+      "two called 短语只命名书，不是独立限定从句。which 按邻近关系与后文思想影响指向 Mather 的书，perhaps 保留推测；a book of Defoe's 是双重属格。",
+      "which 从句修饰 Mather 的书，其中 that 从句继续修饰 a turn of thinking；两个层级分别保留。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 132,
+        "end": 136,
+        "text": "gave",
+        "role": "sub"
+      },
+      {
+        "start": 164,
+        "end": 167,
+        "text": "had",
+        "role": "sub"
+      }
+    ]
+  },
+  "7": {
+    "text": "This bookish inclination at length determined my father to make me a printer, though he had already one son (James) of that profession.",
+    "lessonText": "This bookish inclination at length determined my father to make me a printer, though he had already one son (James) of that profession.",
+    "paragraphStart": 991,
+    "paragraphEnd": 1126,
+    "functions": [
+      [
+        "Subject",
+        "This bookish inclination "
+      ],
+      [
+        "Adverbial",
+        "at length "
+      ],
+      [
+        "Predicate",
+        "determined "
+      ],
+      [
+        "Object",
+        "my father "
+      ],
+      [
+        "Object complement",
+        "to make me a printer, "
+      ],
+      [
+        "Subordinator",
+        "though "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Adverbial",
+        "already "
+      ],
+      [
+        "Object",
+        "one son (James) of that profession."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 135,
+        "anchorEnd": 0,
+        "text": "This bookish inclination at length determined my father to make me a printer, though he had already one son (James) of that profession."
+      },
+      {
+        "kind": "concessive",
+        "start": 78,
+        "end": 135,
+        "anchorEnd": 84,
+        "text": "though he had already one son (James) of that profession."
+      }
+    ],
+    "notes": [
+      "determine somebody to do 是促使某人作决定的旧用法。to make me a printer 内 me 是宾语、a printer 是宾补。though 后的 had 为实义动词“有”，不是过去完成时助动词。"
+    ],
+    "predicates": [
+      {
+        "start": 35,
+        "end": 45,
+        "text": "determined",
+        "role": "main"
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "text": "had",
+        "role": "sub"
+      }
+    ]
+  },
+  "8": {
+    "text": "In 1717 my brother James returned from England with a press and letters to set up his business in Boston.",
+    "lessonText": "In 1717 my brother James returned from England with a press and letters to set up his business in Boston.",
+    "paragraphStart": 1127,
+    "paragraphEnd": 1232,
+    "functions": [
+      [
+        "Adverbial",
+        "In 1717 "
+      ],
+      [
+        "Subject",
+        "my brother James "
+      ],
+      [
+        "Predicate",
+        "returned "
+      ],
+      [
+        "Adverbial",
+        "from England "
+      ],
+      [
+        "Adverbial",
+        "with a press and letters "
+      ],
+      [
+        "Adverbial",
+        "to set up his business in Boston."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 105,
+        "anchorEnd": 0,
+        "text": "In 1717 my brother James returned from England with a press and letters to set up his business in Boston."
+      }
+    ],
+    "notes": [
+      "James 是 brother 的同位语；with 表示携带。letters 与 press 同属印刷设备，是活字；to set up 的逻辑主语为 James。只有 returned 为限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 33,
+        "text": "returned",
+        "role": "main"
+      }
+    ]
+  },
+  "9": {
+    "text": "I liked it much better than that of my father, but still had a hankering for the sea.",
+    "lessonText": "I liked it much better than that of my father, but still had a hankering for the sea.",
+    "paragraphStart": 1233,
+    "paragraphEnd": 1318,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "liked "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "much better than that of my father, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Adverbial",
+        "still "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "a hankering for the sea."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 85,
+        "anchorEnd": 0,
+        "text": "I liked it much better than that of my father, but still had a hankering for the sea."
+      }
+    ],
+    "notes": [
+      "liked 与 had 共用 I，按一个主句的并列谓语处理。it 是印刷职业，that 替代职业以免重复；the sea 借指航海生活，不是比较谁更喜欢大海。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "liked",
+        "role": "main"
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "To prevent the apprehended effect of such an inclination, my father was impatient to have me bound to my brother.",
+    "lessonText": "To prevent the apprehended effect of such an inclination, my father was impatient to have me bound to my brother.",
+    "paragraphStart": 1319,
+    "paragraphEnd": 1432,
+    "functions": [
+      [
+        "Adverbial",
+        "To prevent the apprehended effect of such an inclination, "
+      ],
+      [
+        "Subject",
+        "my father "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "impatient "
+      ],
+      [
+        "Complement",
+        "to have me bound to my brother."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 113,
+        "anchorEnd": 0,
+        "text": "To prevent the apprehended effect of such an inclination, my father was impatient to have me bound to my brother."
+      }
+    ],
+    "notes": [
+      "to have… 补足 impatient；内部 have + me + bound… 表示安排我受契约约束。apprehended 是修饰 effect 的分词，并非另一个谓语；担忧来自父亲。"
+    ],
+    "predicates": [
+      {
+        "start": 68,
+        "end": 71,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "11": {
+    "text": "I stood out some time, but at last was persuaded, and signed the indentures when I was yet but twelve years old.",
+    "lessonText": "I stood out some time, but at last was persuaded, and signed the indentures when I was yet but twelve years old.",
+    "paragraphStart": 1433,
+    "paragraphEnd": 1545,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "stood out "
+      ],
+      [
+        "Adverbial",
+        "some time, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Adverbial",
+        "at last "
+      ],
+      [
+        "Predicate",
+        "was persuaded, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "signed "
+      ],
+      [
+        "Object",
+        "the indentures "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "yet but "
+      ],
+      [
+        "Predicative",
+        "twelve years old."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 112,
+        "anchorEnd": 0,
+        "text": "I stood out some time, but at last was persuaded, and signed the indentures when I was yet but twelve years old."
+      },
+      {
+        "kind": "time",
+        "start": 76,
+        "end": 112,
+        "anchorEnd": 80,
+        "text": "when I was yet but twelve years old."
+      }
+    ],
+    "notes": [
+      "三个谓语共享 I；when 使全句含限定从句。stood out 在旧文是坚持不答应，yet but 相当于当时才；不是 still not。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 11,
+        "text": "stood out",
+        "role": "main"
+      },
+      {
+        "start": 35,
+        "end": 48,
+        "text": "was persuaded",
+        "role": "main"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "signed",
+        "role": "main"
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "12": {
+    "text": "I was to serve as an apprentice till I was twenty-one years of age, only I was to be allowed journeyman's wages during the last year.",
+    "lessonText": "I was to serve as an apprentice till I was twenty-one years of age, only I was to be allowed journeyman's wages during the last year.",
+    "paragraphStart": 1546,
+    "paragraphEnd": 1679,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "was to serve "
+      ],
+      [
+        "Supplement",
+        "as an apprentice "
+      ],
+      [
+        "Subordinator",
+        "till "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "twenty-one years of age, "
+      ],
+      [
+        "Coordinating conjunction",
+        "only "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "was to be allowed "
+      ],
+      [
+        "Object",
+        "journeyman's wages "
+      ],
+      [
+        "Adverbial",
+        "during the last year."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 68,
+        "anchorEnd": 0,
+        "text": "I was to serve as an apprentice till I was twenty-one years of age, "
+      },
+      {
+        "kind": "time",
+        "start": 32,
+        "end": 68,
+        "anchorEnd": 36,
+        "text": "till I was twenty-one years of age, "
+      },
+      {
+        "kind": "main",
+        "start": 68,
+        "end": 133,
+        "anchorEnd": 68,
+        "text": "only I was to be allowed journeyman's wages during the last year."
+      }
+    ],
+    "notes": [
+      "only 在此引出例外，相当于 except that；两个主句都有 I，第一主句内还有 till 时间从句，因此是并列复合句。be to do 表示契约安排，并非主观愿望。",
+      "only 在这里续接例外主句；till 从句仅嵌入第一主句。was to serve 与 was to be allowed 按 be-to 安排式谓语链标色。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 14,
+        "text": "was to serve",
+        "role": "main"
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 75,
+        "end": 92,
+        "text": "was to be allowed",
+        "role": "main"
+      }
+    ]
+  },
+  "13": {
+    "text": "In a little time I made great proficiency in the business, and became a useful hand to my brother.",
+    "lessonText": "In a little time I made great proficiency in the business, and became a useful hand to my brother.",
+    "paragraphStart": 1680,
+    "paragraphEnd": 1778,
+    "functions": [
+      [
+        "Adverbial",
+        "In a little time "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "made "
+      ],
+      [
+        "Object",
+        "great proficiency "
+      ],
+      [
+        "Adverbial",
+        "in the business, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Linking verb",
+        "became "
+      ],
+      [
+        "Predicative",
+        "a useful hand "
+      ],
+      [
+        "Complement",
+        "to my brother."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 98,
+        "anchorEnd": 0,
+        "text": "In a little time I made great proficiency in the business, and became a useful hand to my brother."
+      }
+    ],
+    "notes": [
+      "made 与 became 共用 I。great proficiency 在原文是技能进步，现代可写 made great progress；a useful hand 借指能干的工人。"
+    ],
+    "predicates": [
+      {
+        "start": 19,
+        "end": 23,
+        "text": "made",
+        "role": "main"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "became",
+        "role": "main"
+      }
+    ]
+  },
+  "14": {
+    "text": "I now had access to better books.",
+    "lessonText": "I now had access to better books.",
+    "paragraphStart": 1779,
+    "paragraphEnd": 1812,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "access to better books."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 33,
+        "anchorEnd": 0,
+        "text": "I now had access to better books."
+      }
+    ],
+    "notes": [
+      "have access to 是有机会接触或使用；to 是介词，后接 books。比较级 better 隐含与先前可得到的书相比。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "15": {
+    "text": "An acquaintance with the apprentices of booksellers enabled me sometimes to borrow a small one, which I was careful to return soon and clean.",
+    "lessonText": "An acquaintance with the apprentices of booksellers enabled me sometimes to borrow a small one, which I was careful to return soon and clean.",
+    "paragraphStart": 1813,
+    "paragraphEnd": 1954,
+    "functions": [
+      [
+        "Subject",
+        "An acquaintance with the apprentices of booksellers "
+      ],
+      [
+        "Predicate",
+        "enabled "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Adverbial",
+        "sometimes "
+      ],
+      [
+        "Object complement",
+        "to borrow a small one, "
+      ],
+      [
+        "Relative pronoun / Object",
+        "which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "careful "
+      ],
+      [
+        "Infinitival complement",
+        "to return "
+      ],
+      [
+        "Adverbial",
+        "soon "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Object complement",
+        "clean."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 141,
+        "anchorEnd": 0,
+        "text": "An acquaintance with the apprentices of booksellers enabled me sometimes to borrow a small one, which I was careful to return soon and clean."
+      },
+      {
+        "kind": "relative",
+        "start": 96,
+        "end": 141,
+        "anchorEnd": 101,
+        "text": "which I was careful to return soon and clean.",
+        "antecedent": "a small one"
+      }
+    ],
+    "notes": [
+      "which 是 return 的宾语；clean 说明书归还时的状态，不是副词。主语 acquaintance 是相识关系；one 代一本小书，不指一个学徒。"
+    ],
+    "predicates": [
+      {
+        "start": 52,
+        "end": 59,
+        "text": "enabled",
+        "role": "main"
+      },
+      {
+        "start": 104,
+        "end": 107,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "16": {
+    "text": "Often I sat up in my room reading the greatest part of the night, when the book was borrowed in the evening and to be returned early in the morning, lest it should be missed or wanted.",
+    "lessonText": "Often I sat up in my room reading the greatest part of the night, when the book was borrowed in the evening and to be returned early in the morning, lest it should be missed or wanted.",
+    "paragraphStart": 1955,
+    "paragraphEnd": 2139,
+    "functions": [
+      [
+        "Adverbial",
+        "Often "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "sat up "
+      ],
+      [
+        "Adverbial",
+        "in my room "
+      ],
+      [
+        "Participial supplement",
+        "reading the greatest part of the night, "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "the book "
+      ],
+      [
+        "Predicate",
+        "was borrowed "
+      ],
+      [
+        "Adverbial",
+        "in the evening "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Elliptical predicate complement",
+        "to be returned "
+      ],
+      [
+        "Adverbial",
+        "early in the morning, "
+      ],
+      [
+        "Subordinator",
+        "lest "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "should be missed "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicate",
+        "wanted."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 184,
+        "anchorEnd": 0,
+        "text": "Often I sat up in my room reading the greatest part of the night, when the book was borrowed in the evening and to be returned early in the morning, lest it should be missed or wanted."
+      },
+      {
+        "kind": "time",
+        "start": 66,
+        "end": 149,
+        "anchorEnd": 70,
+        "text": "when the book was borrowed in the evening and to be returned early in the morning, ",
+        "restoration": "was (before to be returned)"
+      },
+      {
+        "kind": "purpose",
+        "start": 149,
+        "end": 184,
+        "anchorEnd": 153,
+        "text": "lest it should be missed or wanted."
+      }
+    ],
+    "notes": [
+      "when 说明那些借书须隔夜归还的情境；and 后省略 was。reading 是 I 的伴随行为；lest 含以免，missed 与 wanted 共用 be，wanted 指书被需要。",
+      "when 从句中的 to be returned 前省略 was；原文没有这个 was，故不添加限定谓语底色，补全只置于 Ellipsis 提示。lest 是 Purpose clause，不误标为条件从句。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 14,
+        "text": "sat up",
+        "role": "main"
+      },
+      {
+        "start": 80,
+        "end": 92,
+        "text": "was borrowed",
+        "role": "sub"
+      },
+      {
+        "start": 157,
+        "end": 173,
+        "text": "should be missed",
+        "role": "sub"
+      },
+      {
+        "start": 177,
+        "end": 183,
+        "text": "wanted",
+        "role": "sub"
+      }
+    ]
+  },
+  "17": {
+    "text": "And after some time an ingenious tradesman, Mr. Matthew Adams, who had a pretty collection of books, and who frequented our printing-house, took notice of me, invited me to his library, and very kindly lent me such books as I chose to read.",
+    "lessonText": "And after some time an ingenious tradesman, Mr. Matthew Adams, who had a pretty collection of books, and who frequented our printing-house, took notice of me, invited me to his library, and very kindly lent me such books as I chose to read.",
+    "paragraphStart": 0,
+    "paragraphEnd": 240,
+    "functions": [
+      [
+        "Discourse connective",
+        "And "
+      ],
+      [
+        "Adverbial",
+        "after some time "
+      ],
+      [
+        "Subject",
+        "an ingenious tradesman, "
+      ],
+      [
+        "Apposition",
+        "Mr. Matthew Adams, "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "a pretty collection of books, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "frequented "
+      ],
+      [
+        "Object",
+        "our printing-house, "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "notice "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Prepositional complement",
+        "me, "
+      ],
+      [
+        "Predicate",
+        "invited "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Complement",
+        "to his library, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "very kindly "
+      ],
+      [
+        "Predicate",
+        "lent "
+      ],
+      [
+        "Indirect object",
+        "me "
+      ],
+      [
+        "Direct object",
+        "such books "
+      ],
+      [
+        "Relative pronoun / Object",
+        "as "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "chose "
+      ],
+      [
+        "Infinitival complement",
+        "to read."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 240,
+        "anchorEnd": 0,
+        "text": "And after some time an ingenious tradesman, Mr. Matthew Adams, who had a pretty collection of books, and who frequented our printing-house, took notice of me, invited me to his library, and very kindly lent me such books as I chose to read."
+      },
+      {
+        "kind": "relative",
+        "start": 63,
+        "end": 101,
+        "anchorEnd": 66,
+        "text": "who had a pretty collection of books, ",
+        "antecedent": "Mr. Matthew Adams"
+      },
+      {
+        "kind": "relative",
+        "start": 105,
+        "end": 140,
+        "anchorEnd": 108,
+        "text": "who frequented our printing-house, ",
+        "antecedent": "Mr. Matthew Adams"
+      },
+      {
+        "kind": "relative",
+        "start": 221,
+        "end": 240,
+        "anchorEnd": 223,
+        "text": "as I chose to read.",
+        "antecedent": "such books"
+      }
+    ],
+    "notes": [
+      "主干被两层人物说明拉长，先连起 tradesman—took／invited／lent。as 是关系词，在 read 后留下宾语位置；不把 such…as 当结果从句。",
+      "took notice of 中 took 是限定动词，notice 为名词宾语、of 引出补足语；原生词词组仍作为完整点击区域。as I chose to read 是修饰 such books 的 Relative clause。"
+    ],
+    "predicates": [
+      {
+        "start": 67,
+        "end": 70,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 109,
+        "end": 119,
+        "text": "frequented",
+        "role": "sub"
+      },
+      {
+        "start": 140,
+        "end": 144,
+        "text": "took",
+        "role": "main"
+      },
+      {
+        "start": 159,
+        "end": 166,
+        "text": "invited",
+        "role": "main"
+      },
+      {
+        "start": 202,
+        "end": 206,
+        "text": "lent",
+        "role": "main"
+      },
+      {
+        "start": 226,
+        "end": 231,
+        "text": "chose",
+        "role": "sub"
+      }
+    ]
+  },
+  "18": {
+    "text": "I now took a fancy to poetry, and made some little pieces; my brother, thinking it might turn to account, encouraged me, and put me on composing occasional ballads.",
+    "lessonText": "I now took a fancy to poetry, and made some little pieces; my brother, thinking it might turn to account, encouraged me, and put me on composing occasional ballads.",
+    "paragraphStart": 241,
+    "paragraphEnd": 405,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "a fancy "
+      ],
+      [
+        "Complement",
+        "to poetry, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "made "
+      ],
+      [
+        "Object",
+        "some little pieces; "
+      ],
+      [
+        "Subject",
+        "my brother, "
+      ],
+      [
+        "Participial supplement",
+        "thinking "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "might turn "
+      ],
+      [
+        "Complement",
+        "to account, "
+      ],
+      [
+        "Predicate",
+        "encouraged "
+      ],
+      [
+        "Object",
+        "me, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "put "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Complement",
+        "on composing occasional ballads."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 59,
+        "anchorEnd": 0,
+        "text": "I now took a fancy to poetry, and made some little pieces; "
+      },
+      {
+        "kind": "main",
+        "start": 59,
+        "end": 164,
+        "anchorEnd": 59,
+        "text": "my brother, thinking it might turn to account, encouraged me, and put me on composing occasional ballads."
+      },
+      {
+        "kind": "object",
+        "start": 80,
+        "end": 106,
+        "anchorEnd": 82,
+        "text": "it might turn to account, ",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "分号分开 I 与 my brother 两个主句；thinking 虽是非谓语，但其内容 it might… 是限定从句，因此全句为并列复合。occasional 在此是因特定事件而作。",
+      "took a fancy to 的有限定动词为 took；thinking 为分词，其中 it might turn… 是宾语内容从句，不能因 thinking 非谓语而漏掉该从句。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "took",
+        "role": "main"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "made",
+        "role": "main"
+      },
+      {
+        "start": 83,
+        "end": 93,
+        "text": "might turn",
+        "role": "sub"
+      },
+      {
+        "start": 106,
+        "end": 116,
+        "text": "encouraged",
+        "role": "main"
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "put",
+        "role": "main"
+      }
+    ]
+  },
+  "19": {
+    "text": "One was called The Lighthouse Tragedy, and contained an account of the drowning of Captain Worthilake, with his two daughters; the other was a sailor's song, on the taking of Teach (or Blackbeard) the pirate.",
+    "lessonText": "One was called The Lighthouse Tragedy, and contained an account of the drowning of Captain Worthilake, with his two daughters; the other was a sailor's song, on the taking of Teach (or Blackbeard) the pirate.",
+    "paragraphStart": 406,
+    "paragraphEnd": 614,
+    "functions": [
+      [
+        "Subject",
+        "One "
+      ],
+      [
+        "Predicate",
+        "was called "
+      ],
+      [
+        "Complement",
+        "The Lighthouse Tragedy, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "contained "
+      ],
+      [
+        "Object",
+        "an account of the drowning of Captain Worthilake, "
+      ],
+      [
+        "Supplement",
+        "with his two daughters; "
+      ],
+      [
+        "Subject",
+        "the other "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a sailor's song, "
+      ],
+      [
+        "Modifier",
+        "on the taking of Teach (or Blackbeard) the pirate."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 127,
+        "anchorEnd": 0,
+        "text": "One was called The Lighthouse Tragedy, and contained an account of the drowning of Captain Worthilake, with his two daughters; "
+      },
+      {
+        "kind": "main",
+        "start": 127,
+        "end": 208,
+        "anchorEnd": 127,
+        "text": "the other was a sailor's song, on the taking of Teach (or Blackbeard) the pirate."
+      }
+    ],
+    "notes": [
+      "one…the other 对应两首歌，分号连两个主句；with two daughters 不是增加一个并列主语。原文家属身份与历史资料有差别，详见 Context 的核对说明。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 14,
+        "text": "was called",
+        "role": "main"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "text": "contained",
+        "role": "main"
+      },
+      {
+        "start": 137,
+        "end": 140,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "20": {
+    "text": "They were wretched stuff, in the Grub-street-ballad style; and when they were printed he sent me about the town to sell them.",
+    "lessonText": "They were wretched stuff, in the Grub-street-ballad style; and when they were printed he sent me about the town to sell them.",
+    "paragraphStart": 615,
+    "paragraphEnd": 740,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "wretched stuff, "
+      ],
+      [
+        "Modifier",
+        "in the Grub-street-ballad style; "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "were printed "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "sent "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Complement",
+        "about the town "
+      ],
+      [
+        "Adverbial",
+        "to sell them."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 59,
+        "anchorEnd": 0,
+        "text": "They were wretched stuff, in the Grub-street-ballad style; "
+      },
+      {
+        "kind": "main",
+        "start": 59,
+        "end": 125,
+        "anchorEnd": 59,
+        "text": "and when they were printed he sent me about the town to sell them."
+      },
+      {
+        "kind": "time",
+        "start": 63,
+        "end": 86,
+        "anchorEnd": 67,
+        "text": "when they were printed "
+      }
+    ],
+    "notes": [
+      "they 与 them 都指歌谣；he 是哥哥。to sell 的逻辑主语为被派去的 me；sent 不能误写作 set，about 是在城里四处。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "were",
+        "role": "main"
+      },
+      {
+        "start": 73,
+        "end": 85,
+        "text": "were printed",
+        "role": "sub"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "sent",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "The first sold wonderfully, the event being recent, having made a great noise.",
+    "lessonText": "The first sold wonderfully, the event being recent, having made a great noise.",
+    "paragraphStart": 741,
+    "paragraphEnd": 819,
+    "functions": [
+      [
+        "Subject",
+        "The first "
+      ],
+      [
+        "Predicate",
+        "sold "
+      ],
+      [
+        "Adverbial",
+        "wonderfully, "
+      ],
+      [
+        "Subject",
+        "the event "
+      ],
+      [
+        "Non-finite predicate",
+        "being recent, "
+      ],
+      [
+        "Participial supplement",
+        "having made a great noise."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 78,
+        "anchorEnd": 0,
+        "text": "The first sold wonderfully, the event being recent, having made a great noise."
+      },
+      {
+        "kind": "absolute",
+        "start": 28,
+        "end": 78,
+        "anchorEnd": 37,
+        "text": "the event being recent, having made a great noise."
+      }
+    ],
+    "notes": [
+      "sold 为不及物主动形式，说明销路。独立结构的主语 event 不等于主句 The first，两个分词补充该事件的新近性和影响；没有额外限定从句，但值得重点讲解。",
+      "the event being recent, having made… 是带自身逻辑主语的 Absolute construction；being 和 having made 不标成限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 14,
+        "text": "sold",
+        "role": "main"
+      }
+    ]
+  },
+  "22": {
+    "text": "This flattered my vanity; but my father discouraged me by ridiculing my performances, and telling me verse-makers were generally beggars.",
+    "lessonText": "This flattered my vanity; but my father discouraged me by ridiculing my performances, and telling me verse-makers were generally beggars.",
+    "paragraphStart": 820,
+    "paragraphEnd": 957,
+    "functions": [
+      [
+        "Subject",
+        "This "
+      ],
+      [
+        "Predicate",
+        "flattered "
+      ],
+      [
+        "Object",
+        "my vanity; "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "my father "
+      ],
+      [
+        "Predicate",
+        "discouraged "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Adverbial",
+        "by ridiculing my performances, "
+      ],
+      [
+        "Coordinated participial complement",
+        "and telling me "
+      ],
+      [
+        "Subject",
+        "verse-makers "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Adverbial",
+        "generally "
+      ],
+      [
+        "Predicative",
+        "beggars."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "This flattered my vanity; "
+      },
+      {
+        "kind": "main",
+        "start": 26,
+        "end": 137,
+        "anchorEnd": 26,
+        "text": "but my father discouraged me by ridiculing my performances, and telling me verse-makers were generally beggars."
+      },
+      {
+        "kind": "object",
+        "start": 101,
+        "end": 137,
+        "anchorEnd": 113,
+        "text": "verse-makers were generally beggars.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "by 后两个 -ing 并列。telling me 后省略 that；beggars 是父亲关于生计的概括，不能在语义卡里变为作者给所有诗人的客观定义。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 14,
+        "text": "flattered",
+        "role": "main"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "text": "discouraged",
+        "role": "main"
+      },
+      {
+        "start": 114,
+        "end": 118,
+        "text": "were",
+        "role": "sub"
+      }
+    ]
+  },
+  "23": {
+    "text": "So I escaped being a poet, most probably a very bad one; but as prose writing had been of great use to me in the course of my life, and was a principal means of my advancement, I shall tell you how, in such a situation, I acquired what little ability I have in that way.",
+    "lessonText": "So I escaped being a poet, most probably a very bad one; but as prose writing had been of great use to me in the course of my life, and was a principal means of my advancement, I shall tell you how, in such a situation, I acquired what little ability I have in that way.",
+    "paragraphStart": 958,
+    "paragraphEnd": 1228,
+    "functions": [
+      [
+        "Discourse connective",
+        "So "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "escaped "
+      ],
+      [
+        "Object",
+        "being a poet, "
+      ],
+      [
+        "Apposition",
+        "most probably a very bad one; "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "prose writing "
+      ],
+      [
+        "Linking verb",
+        "had been "
+      ],
+      [
+        "Predicative",
+        "of great use to me "
+      ],
+      [
+        "Adverbial",
+        "in the course of my life, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a principal means of my advancement, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "shall tell "
+      ],
+      [
+        "Indirect object",
+        "you "
+      ],
+      [
+        "Subordinator",
+        "how, "
+      ],
+      [
+        "Adverbial",
+        "in such a situation, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "acquired "
+      ],
+      [
+        "Fused relative phrase / Object",
+        "what little ability "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Adverbial",
+        "in that way."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 57,
+        "anchorEnd": 0,
+        "text": "So I escaped being a poet, most probably a very bad one; "
+      },
+      {
+        "kind": "main",
+        "start": 57,
+        "end": 270,
+        "anchorEnd": 57,
+        "text": "but as prose writing had been of great use to me in the course of my life, and was a principal means of my advancement, I shall tell you how, in such a situation, I acquired what little ability I have in that way."
+      },
+      {
+        "kind": "reason",
+        "start": 61,
+        "end": 177,
+        "anchorEnd": 63,
+        "text": "as prose writing had been of great use to me in the course of my life, and was a principal means of my advancement, "
+      },
+      {
+        "kind": "object",
+        "start": 194,
+        "end": 270,
+        "anchorEnd": 197,
+        "text": "how, in such a situation, I acquired what little ability I have in that way."
+      },
+      {
+        "kind": "fused-relative",
+        "start": 231,
+        "end": 270,
+        "anchorEnd": 250,
+        "text": "what little ability I have in that way."
+      }
+    ],
+    "notes": [
+      "what little ability I have in that way 是融合关系结构，整体作 acquired 的宾语；不机械恢复成“先行词 + 普通定语从句”。",
+      "what little ability I have… 采用 Fused relative clause，整体作 acquired 的宾语；外层 how 从句作 tell 的内容。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 12,
+        "text": "escaped",
+        "role": "main"
+      },
+      {
+        "start": 78,
+        "end": 86,
+        "text": "had been",
+        "role": "sub"
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 179,
+        "end": 189,
+        "text": "shall tell",
+        "role": "main"
+      },
+      {
+        "start": 222,
+        "end": 230,
+        "text": "acquired",
+        "role": "sub"
+      },
+      {
+        "start": 253,
+        "end": 257,
+        "text": "have",
+        "role": "sub"
+      }
+    ]
+  },
+  "24": {
+    "text": "There was another bookish lad in the town, John Collins by name, with whom I was intimately acquainted.",
+    "lessonText": "There was another bookish lad in the town, John Collins by name, with whom I was intimately acquainted.",
+    "paragraphStart": 0,
+    "paragraphEnd": 103,
+    "functions": [
+      [
+        "Formal subject",
+        "There "
+      ],
+      [
+        "Predicate",
+        "was "
+      ],
+      [
+        "Notional subject",
+        "another bookish lad "
+      ],
+      [
+        "Adverbial",
+        "in the town, "
+      ],
+      [
+        "Apposition",
+        "John Collins by name, "
+      ],
+      [
+        "Relative phrase",
+        "with whom "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "intimately "
+      ],
+      [
+        "Predicative",
+        "acquainted."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 103,
+        "anchorEnd": 0,
+        "text": "There was another bookish lad in the town, John Collins by name, with whom I was intimately acquainted."
+      },
+      {
+        "kind": "relative",
+        "start": 65,
+        "end": 103,
+        "anchorEnd": 74,
+        "text": "with whom I was intimately acquainted.",
+        "antecedent": "John Collins"
+      }
+    ],
+    "notes": [
+      "with 来自 be acquainted with somebody；which 不能代人，此处用 whom。若现代改成 know，须说 whom I knew well，不保留 with。",
+      "acquainted 沿用状态分析，was 为从句系动词，intimately 为副词。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "25": {
+    "text": "We sometimes disputed, and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.",
+    "lessonText": "We sometimes disputed, and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.",
+    "paragraphStart": 104,
+    "paragraphEnd": 548,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Adverbial",
+        "sometimes "
+      ],
+      [
+        "Predicate",
+        "disputed, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicative",
+        "very fond "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Complement",
+        "of argument, "
+      ],
+      [
+        "Predicative",
+        "and very desirous of confuting one another, "
+      ],
+      [
+        "Subject",
+        "which disputatious turn, "
+      ],
+      [
+        "Parenthetical comment",
+        "by the way, "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "apt "
+      ],
+      [
+        "Infinitival complement",
+        "to become a very bad habit, "
+      ],
+      [
+        "Adverbial",
+        "making people often extremely disagreeable in company "
+      ],
+      [
+        "Adverbial",
+        "by the contradiction "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "necessary "
+      ],
+      [
+        "Infinitival complement",
+        "to bring it into practice; "
+      ],
+      [
+        "Adverbial",
+        "and thence, "
+      ],
+      [
+        "Adverbial",
+        "besides souring and spoiling the conversation, "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "productive of disgusts and, perhaps enmities "
+      ],
+      [
+        "Subordinator",
+        "where "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "may have "
+      ],
+      [
+        "Object",
+        "occasion for friendship."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 23,
+        "anchorEnd": 0,
+        "text": "We sometimes disputed, "
+      },
+      {
+        "kind": "main",
+        "start": 23,
+        "end": 444,
+        "anchorEnd": 23,
+        "text": "and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship."
+      },
+      {
+        "kind": "relative",
+        "start": 102,
+        "end": 444,
+        "anchorEnd": 125,
+        "text": "which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.",
+        "antecedent": "the preceding habit of disputing"
+      },
+      {
+        "kind": "relative",
+        "start": 249,
+        "end": 294,
+        "anchorEnd": 253,
+        "text": "that is necessary to bring it into practice; ",
+        "antecedent": "the contradiction"
+      },
+      {
+        "kind": "place",
+        "start": 401,
+        "end": 444,
+        "anchorEnd": 406,
+        "text": "where you may have occasion for friendship."
+      }
+    ],
+    "notes": [
+      "前置的是 very fond，we were 次序不变。which disputatious turn 是关系限定词加名词的旧式回指；is productive 仍与 is apt 共用 turn，不能因分号断错层级。making people disagreeable 是宾语加宾补。",
+      "which disputatious turn 的旧式关系从句一直延伸至句末；is apt 与 is productive 同属该从句。where… 说明社交情境，采用 Place clause。very fond 前置但 we were 次序未倒装。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 21,
+        "text": "disputed",
+        "role": "main"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "were",
+        "role": "main"
+      },
+      {
+        "start": 139,
+        "end": 141,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 254,
+        "end": 256,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 353,
+        "end": 355,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 411,
+        "end": 419,
+        "text": "may have",
+        "role": "sub"
+      }
+    ]
+  },
+  "26": {
+    "text": "I had caught it by reading my father's books of dispute about religion.",
+    "lessonText": "I had caught it by reading my father's books of dispute about religion.",
+    "paragraphStart": 549,
+    "paragraphEnd": 620,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had caught "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "by reading my father's books "
+      ],
+      [
+        "Modifier",
+        "of dispute about religion."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 71,
+        "anchorEnd": 0,
+        "text": "I had caught it by reading my father's books of dispute about religion."
+      }
+    ],
+    "notes": [
+      "过去完成时 had caught 把习惯来源追溯到前述争论之前。it 回指好辩习性，不指一本书；by reading 是介词加非谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 12,
+        "text": "had caught",
+        "role": "main"
+      }
+    ]
+  },
+  "27": {
+    "text": "Persons of good sense, I have since observed, seldom fall into it, except lawyers, university men, and men of all sorts that have been bred at Edinburgh.",
+    "lessonText": "Persons of good sense, I have since observed, seldom fall into it, except lawyers, university men, and men of all sorts that have been bred at Edinburgh.",
+    "paragraphStart": 621,
+    "paragraphEnd": 774,
+    "functions": [
+      [
+        "Subject",
+        "Persons of good sense, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Auxiliary verb",
+        "have "
+      ],
+      [
+        "Adverbial",
+        "since "
+      ],
+      [
+        "Predicate",
+        "observed, "
+      ],
+      [
+        "Adverbial",
+        "seldom "
+      ],
+      [
+        "Predicate",
+        "fall into "
+      ],
+      [
+        "Object",
+        "it, "
+      ],
+      [
+        "Adverbial",
+        "except lawyers, university men, and men of all sorts "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "have been bred "
+      ],
+      [
+        "Adverbial",
+        "at Edinburgh."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 153,
+        "anchorEnd": 0,
+        "text": "Persons of good sense, I have since observed, seldom fall into it, except lawyers, university men, and men of all sorts that have been bred at Edinburgh."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 23,
+        "end": 46,
+        "anchorEnd": 24,
+        "text": "I have since observed, "
+      },
+      {
+        "kind": "relative",
+        "start": 120,
+        "end": 153,
+        "anchorEnd": 124,
+        "text": "that have been bred at Edinburgh.",
+        "antecedent": "men of all sorts"
+      }
+    ],
+    "notes": [
+      "I have since observed 是插入评注，不是主干起点；since 作副词，意为后来／自那以后。全句含讽刺性的例外，不能把这种群体刻画作客观结论。",
+      "I have since observed 是 Parenthetical comment；since 作副词，单独保留原色。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 29,
+        "text": "have",
+        "role": "sub"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "text": "observed",
+        "role": "sub"
+      },
+      {
+        "start": 53,
+        "end": 62,
+        "text": "fall into",
+        "role": "main"
+      },
+      {
+        "start": 125,
+        "end": 139,
+        "text": "have been bred",
+        "role": "sub"
+      }
+    ]
+  },
+  "28": {
+    "text": "A question was once, somehow or other, started between Collins and me, of the propriety of educating the female sex in learning, and their abilities for study.",
+    "lessonText": "A question was once, somehow or other, started between Collins and me, of the propriety of educating the female sex in learning, and their abilities for study.",
+    "paragraphStart": 0,
+    "paragraphEnd": 159,
+    "functions": [
+      [
+        "Subject",
+        "A question "
+      ],
+      [
+        "Auxiliary verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "once, "
+      ],
+      [
+        "Parenthetical comment",
+        "somehow or other, "
+      ],
+      [
+        "Predicate",
+        "started "
+      ],
+      [
+        "Complement",
+        "between Collins and me, "
+      ],
+      [
+        "Modifier",
+        "of the propriety of educating the female sex in learning, and their abilities for study."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 159,
+        "anchorEnd": 0,
+        "text": "A question was once, somehow or other, started between Collins and me, of the propriety of educating the female sex in learning, and their abilities for study."
+      }
+    ],
+    "notes": [
+      "was started 是被动谓语，被 once 和插入语隔开。of 短语后置说明 question 的内容；educating 是非谓语，不因此划为限定从句。somehow 不等于无缘无故。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 14,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "text": "started",
+        "role": "main"
+      }
+    ]
+  },
+  "29": {
+    "text": "He was of opinion that it was improper, and that they were naturally unequal to it.",
+    "lessonText": "He was of opinion that it was improper, and that they were naturally unequal to it.",
+    "paragraphStart": 160,
+    "paragraphEnd": 243,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "of opinion "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "improper, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Adverbial",
+        "naturally "
+      ],
+      [
+        "Predicative",
+        "unequal to it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 83,
+        "anchorEnd": 0,
+        "text": "He was of opinion that it was improper, and that they were naturally unequal to it."
+      },
+      {
+        "kind": "appositive",
+        "start": 18,
+        "end": 40,
+        "anchorEnd": 22,
+        "text": "that it was improper, "
+      },
+      {
+        "kind": "appositive",
+        "start": 44,
+        "end": 83,
+        "anchorEnd": 48,
+        "text": "that they were naturally unequal to it."
+      }
+    ],
+    "notes": [
+      "两条 that 从句说明 opinion 的内容，不是两个并列主句。be of opinion 为较旧形式，现代常说 be of the opinion。it 回指女性受教育这件事；不要把 and 强改成因为。",
+      "两个 that 从句补充 opinion 的内容，均用 Appositive clause，与主句表语 of opinion 分开。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "were",
+        "role": "sub"
+      }
+    ]
+  },
+  "30": {
+    "text": "I took the contrary side, perhaps a little for dispute's sake.",
+    "lessonText": "I took the contrary side, perhaps a little for dispute's sake.",
+    "paragraphStart": 244,
+    "paragraphEnd": 306,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "the contrary side, "
+      ],
+      [
+        "Adverbial",
+        "perhaps a little for dispute's sake."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 62,
+        "anchorEnd": 0,
+        "text": "I took the contrary side, perhaps a little for dispute's sake."
+      }
+    ],
+    "notes": [
+      "perhaps 与 a little 限定作者对自己动机的判断，翻译不能全删。for dispute's sake 指为了争辩本身，语气带自省。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "took",
+        "role": "main"
+      }
+    ]
+  },
+  "31": {
+    "text": "He was naturally more eloquent, had a ready plenty of words; and sometimes, as I thought, bore me down more by his fluency than by the strength of his reasons.",
+    "lessonText": "He was naturally more eloquent, had a ready plenty of words; and sometimes, as I thought, bore me down more by his fluency than by the strength of his reasons.",
+    "paragraphStart": 307,
+    "paragraphEnd": 466,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "naturally "
+      ],
+      [
+        "Predicative",
+        "more eloquent, "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "a ready plenty of words; "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "sometimes, "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "thought, "
+      ],
+      [
+        "Predicate",
+        "bore "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Verb particle",
+        "down "
+      ],
+      [
+        "Adverbial",
+        "more by his fluency than by the strength of his reasons."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 159,
+        "anchorEnd": 0,
+        "text": "He was naturally more eloquent, had a ready plenty of words; and sometimes, as I thought, bore me down more by his fluency than by the strength of his reasons."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 76,
+        "end": 90,
+        "anchorEnd": 78,
+        "text": "as I thought, "
+      }
+    ],
+    "notes": [
+      "三项谓语共享 He，分号不自动增加主句；有限定评注 as I thought，按复合结构处理。bear me down 为可分及物短语；more A than B 比较两种优势，非证明 B 全无。",
+      "bore…down 是可分短语动词，me 保持宾语；仅 bore 和 down 用主句谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "had",
+        "role": "main"
+      },
+      {
+        "start": 81,
+        "end": 88,
+        "text": "thought",
+        "role": "sub"
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "text": "bore",
+        "role": "main"
+      },
+      {
+        "start": 98,
+        "end": 102,
+        "text": "down",
+        "role": "main"
+      }
+    ]
+  },
+  "32": {
+    "text": "As we parted without settling the point, and were not to see one another again for some time, I sat down to put my arguments in writing, which I copied fair and sent to him.",
+    "lessonText": "As we parted without settling the point, and were not to see one another again for some time, I sat down to put my arguments in writing, which I copied fair and sent to him.",
+    "paragraphStart": 467,
+    "paragraphEnd": 640,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "parted "
+      ],
+      [
+        "Adverbial",
+        "without settling the point, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Auxiliary verb",
+        "were "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "to see "
+      ],
+      [
+        "Object",
+        "one another "
+      ],
+      [
+        "Adverbial",
+        "again for some time, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "sat down "
+      ],
+      [
+        "Adverbial",
+        "to put my arguments in writing, "
+      ],
+      [
+        "Relative pronoun / Object",
+        "which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "copied "
+      ],
+      [
+        "Adverbial",
+        "fair "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "sent "
+      ],
+      [
+        "Complement",
+        "to him."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 173,
+        "anchorEnd": 0,
+        "text": "As we parted without settling the point, and were not to see one another again for some time, I sat down to put my arguments in writing, which I copied fair and sent to him."
+      },
+      {
+        "kind": "reason",
+        "start": 0,
+        "end": 94,
+        "anchorEnd": 2,
+        "text": "As we parted without settling the point, and were not to see one another again for some time, "
+      },
+      {
+        "kind": "relative",
+        "start": 137,
+        "end": 173,
+        "anchorEnd": 142,
+        "text": "which I copied fair and sent to him.",
+        "antecedent": "my arguments in writing"
+      }
+    ],
+    "notes": [
+      "As 从句中 parted 与 were 共用 we。which 是 copied 和 sent 的共同宾语，指写成的论点；fair 是誊清的旧用法。not to see 表当时预期。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "parted",
+        "role": "sub"
+      },
+      {
+        "start": 45,
+        "end": 49,
+        "text": "were",
+        "role": "sub"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "to see",
+        "role": "sub"
+      },
+      {
+        "start": 96,
+        "end": 104,
+        "text": "sat down",
+        "role": "main"
+      },
+      {
+        "start": 145,
+        "end": 151,
+        "text": "copied",
+        "role": "sub"
+      },
+      {
+        "start": 161,
+        "end": 165,
+        "text": "sent",
+        "role": "sub"
+      }
+    ]
+  },
+  "33": {
+    "text": "He answered, and I replied.",
+    "lessonText": "He answered, and I replied.",
+    "paragraphStart": 641,
+    "paragraphEnd": 668,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "answered, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "replied."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 13,
+        "anchorEnd": 0,
+        "text": "He answered, "
+      },
+      {
+        "kind": "main",
+        "start": 13,
+        "end": 27,
+        "anchorEnd": 13,
+        "text": "and I replied."
+      }
+    ],
+    "notes": [
+      "两个独立主语 He 和 I，因此是并列句；短不等于简单句。answered 与 replied 在此按写信语境理解。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 11,
+        "text": "answered",
+        "role": "main"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "text": "replied",
+        "role": "main"
+      }
+    ]
+  },
+  "34": {
+    "text": "Three or four letters of a side had passed, when my father happened to find my papers and read them.",
+    "lessonText": "Three or four letters of a side had passed, when my father happened to find my papers and read them.",
+    "paragraphStart": 669,
+    "paragraphEnd": 769,
+    "functions": [
+      [
+        "Subject",
+        "Three or four letters of a side "
+      ],
+      [
+        "Predicate",
+        "had passed, "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "my father "
+      ],
+      [
+        "Predicate",
+        "happened "
+      ],
+      [
+        "Infinitival complement",
+        "to find my papers and read them."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 100,
+        "anchorEnd": 0,
+        "text": "Three or four letters of a side had passed, when my father happened to find my papers and read them."
+      },
+      {
+        "kind": "time",
+        "start": 44,
+        "end": 100,
+        "anchorEnd": 48,
+        "text": "when my father happened to find my papers and read them."
+      }
+    ],
+    "notes": [
+      "of a side 是各方各自的数量。主句过去完成时显示通信先发生；when 引入后来父亲发现的事件。happen to do 表碰巧，并列 find 与 read 共用 to。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 42,
+        "text": "had passed",
+        "role": "main"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "text": "happened",
+        "role": "sub"
+      }
+    ]
+  },
+  "35": {
+    "text": "Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.",
+    "lessonText": "Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.",
+    "paragraphStart": 770,
+    "paragraphEnd": 1121,
+    "functions": [
+      [
+        "Adverbial",
+        "Without entering into the discussion, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "occasion "
+      ],
+      [
+        "Infinitival complement",
+        "to talk to me about the manner of my writing; "
+      ],
+      [
+        "Predicate",
+        "observed "
+      ],
+      [
+        "Subordinator",
+        "that, "
+      ],
+      [
+        "Subordinator",
+        "though "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "the advantage of my antagonist "
+      ],
+      [
+        "Adverbial",
+        "in correct spelling and pointing "
+      ],
+      [
+        "Relative pronoun / Object",
+        "(which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "owed "
+      ],
+      [
+        "Complement",
+        "to the printing-house), "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "fell "
+      ],
+      [
+        "Adverbial",
+        "far "
+      ],
+      [
+        "Complement",
+        "short "
+      ],
+      [
+        "Adverbial",
+        "in elegance of expression, in method and in perspicuity, "
+      ],
+      [
+        "Relative phrase",
+        "of which "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "convinced "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Adverbial",
+        "by several instances."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 351,
+        "anchorEnd": 0,
+        "text": "Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances."
+      },
+      {
+        "kind": "object",
+        "start": 110,
+        "end": 305,
+        "anchorEnd": 114,
+        "text": "that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, "
+      },
+      {
+        "kind": "concessive",
+        "start": 116,
+        "end": 231,
+        "anchorEnd": 122,
+        "text": "though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), "
+      },
+      {
+        "kind": "relative",
+        "start": 193,
+        "end": 231,
+        "anchorEnd": 199,
+        "text": "(which I owed to the printing-house), ",
+        "antecedent": "the advantage in correct spelling and pointing"
+      },
+      {
+        "kind": "relative",
+        "start": 305,
+        "end": 351,
+        "anchorEnd": 313,
+        "text": "of which he convinced me by several instances.",
+        "antecedent": "the preceding judgment about shortcomings"
+      }
+    ],
+    "notes": [
+      "先抽出 observed that I fell far short，再放回 though 内层。of which 来自 convince me of something，回指不足这一判断；pointing 为旧称标点法。分号后 observed 仍共享 he。",
+      "先读 observed that I fell far short，再回填 though 和其内部的 which 从句；末尾 of which 补充前述不足判断，另作外层附加关系从句。"
+    ],
+    "predicates": [
+      {
+        "start": 41,
+        "end": 45,
+        "text": "took",
+        "role": "main"
+      },
+      {
+        "start": 101,
+        "end": 109,
+        "text": "observed",
+        "role": "main"
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 202,
+        "end": 206,
+        "text": "owed",
+        "role": "sub"
+      },
+      {
+        "start": 233,
+        "end": 237,
+        "text": "fell",
+        "role": "sub"
+      },
+      {
+        "start": 317,
+        "end": 326,
+        "text": "convinced",
+        "role": "sub"
+      }
+    ]
+  },
+  "36": {
+    "text": "I saw the justice of his remark, and thence grew more attentive to the manner in writing, and determined to endeavor at improvement.",
+    "lessonText": "I saw the justice of his remark, and thence grew more attentive to the manner in writing, and determined to endeavor at improvement.",
+    "paragraphStart": 1122,
+    "paragraphEnd": 1254,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "saw "
+      ],
+      [
+        "Object",
+        "the justice of his remark, "
+      ],
+      [
+        "Adverbial",
+        "and thence "
+      ],
+      [
+        "Linking verb",
+        "grew "
+      ],
+      [
+        "Predicative",
+        "more attentive "
+      ],
+      [
+        "Complement",
+        "to the manner in writing, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "determined "
+      ],
+      [
+        "Complement",
+        "to endeavor at improvement."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 132,
+        "anchorEnd": 0,
+        "text": "I saw the justice of his remark, and thence grew more attentive to the manner in writing, and determined to endeavor at improvement."
+      }
+    ],
+    "notes": [
+      "三个并列谓语共享 I。justice 指中肯、有理；grew 是表示状态变化的系动词，后接形容词 attentive；determine to do 为决意做。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 5,
+        "text": "saw",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "grew",
+        "role": "main"
+      },
+      {
+        "start": 94,
+        "end": 104,
+        "text": "determined",
+        "role": "main"
+      }
+    ]
+  },
+  "37": {
+    "text": "About this time I met with an odd volume of The Spectator.",
+    "lessonText": "About this time I met with an odd volume of The Spectator.",
+    "paragraphStart": 0,
+    "paragraphEnd": 58,
+    "functions": [
+      [
+        "Adverbial",
+        "About this time "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "met with "
+      ],
+      [
+        "Object",
+        "an odd volume of The Spectator."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 58,
+        "anchorEnd": 0,
+        "text": "About this time I met with an odd volume of The Spectator."
+      }
+    ],
+    "notes": [
+      "odd 指不成套、零散的一卷，不是内容奇怪；met with 是偶然遇到。The Spectator 为当时文章集，勿混同现代同名周刊。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 26,
+        "text": "met with",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "It was the third.",
+    "lessonText": "It was the third.",
+    "paragraphStart": 59,
+    "paragraphEnd": 76,
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "the third."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 17,
+        "anchorEnd": 0,
+        "text": "It was the third.",
+        "restoration": "volume"
+      }
+    ],
+    "notes": [
+      "the third 为名词性序数词，省略上下文明确的 volume；不是第三次买书，也不是片段句。",
+      "volume 的补全只作为提示，原文保持 It was the third.。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "39": {
+    "text": "I had never before seen any of them.",
+    "lessonText": "I had never before seen any of them.",
+    "paragraphStart": 77,
+    "paragraphEnd": 113,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Auxiliary verb",
+        "had "
+      ],
+      [
+        "Negation",
+        "never "
+      ],
+      [
+        "Adverbial",
+        "before "
+      ],
+      [
+        "Predicate",
+        "seen "
+      ],
+      [
+        "Object",
+        "any of them."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 36,
+        "anchorEnd": 0,
+        "text": "I had never before seen any of them."
+      }
+    ],
+    "notes": [
+      "过去完成时相对于遇到第三卷的时间回顾。them 指这套书的各卷，any 与 never 搭配构成全部否定。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 5,
+        "text": "had",
+        "role": "main"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "text": "seen",
+        "role": "main"
+      }
+    ]
+  },
+  "40": {
+    "text": "I bought it, read it over and over, and was much delighted with it.",
+    "lessonText": "I bought it, read it over and over, and was much delighted with it.",
+    "paragraphStart": 114,
+    "paragraphEnd": 181,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "bought "
+      ],
+      [
+        "Object",
+        "it, "
+      ],
+      [
+        "Predicate",
+        "read "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "over and over, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "much delighted with it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 0,
+        "text": "I bought it, read it over and over, and was much delighted with it."
+      }
+    ],
+    "notes": [
+      "bought、read、was 共用 I；动作多不等于从句多。read 在过去时发 /red/。delighted 在这里说明 I 的感受。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 8,
+        "text": "bought",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "read",
+        "role": "main"
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "41": {
+    "text": "I thought the writing excellent, and wished, if possible, to imitate it.",
+    "lessonText": "I thought the writing excellent, and wished, if possible, to imitate it.",
+    "paragraphStart": 182,
+    "paragraphEnd": 254,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "thought "
+      ],
+      [
+        "Object",
+        "the writing "
+      ],
+      [
+        "Object complement",
+        "excellent, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "wished, "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Elliptical predicative",
+        "possible, "
+      ],
+      [
+        "Infinitival complement",
+        "to imitate it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 72,
+        "anchorEnd": 0,
+        "text": "I thought the writing excellent, and wished, if possible, to imitate it."
+      },
+      {
+        "kind": "reduced-condition",
+        "start": 45,
+        "end": 58,
+        "anchorEnd": 47,
+        "text": "if possible, ",
+        "restoration": "it was"
+      }
+    ],
+    "notes": [
+      "thought + 宾语 + 形容词宾补，不强补成 that 从句。if possible 是缩略条件表达；按本课程仅含一个展开的限定主句计为简单句，但单独讲清省略。",
+      "if possible 为 Reduced conditional clause，沿用条件蓝色；it was 只在省略提示中出现。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 9,
+        "text": "thought",
+        "role": "main"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "wished",
+        "role": "main"
+      }
+    ]
+  },
+  "42": {
+    "text": "With this view I took some of the papers, and, making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand.",
+    "lessonText": "With this view I took some of the papers, and, making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand.",
+    "paragraphStart": 255,
+    "paragraphEnd": 596,
+    "functions": [
+      [
+        "Adverbial",
+        "With this view "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "some of the papers, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and, "
+      ],
+      [
+        "Adverbial",
+        "making short hints of the sentiment in each sentence, "
+      ],
+      [
+        "Predicate",
+        "laid "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Verb particle",
+        "by "
+      ],
+      [
+        "Adverbial",
+        "a few days, "
+      ],
+      [
+        "Adverbial",
+        "and then, "
+      ],
+      [
+        "Adverbial",
+        "without looking at the book, "
+      ],
+      [
+        "Predicate",
+        "tried "
+      ],
+      [
+        "Infinitival complement",
+        "to complete the papers again, "
+      ],
+      [
+        "Adverbial",
+        "by expressing each hinted sentiment "
+      ],
+      [
+        "Adverbial",
+        "at length, "
+      ],
+      [
+        "Degree modifier",
+        "and as fully "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "had been expressed "
+      ],
+      [
+        "Adverbial",
+        "before, "
+      ],
+      [
+        "Adverbial",
+        "in any suitable words "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "should come "
+      ],
+      [
+        "Complement",
+        "to hand."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 341,
+        "anchorEnd": 0,
+        "text": "With this view I took some of the papers, and, making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand."
+      },
+      {
+        "kind": "comparative",
+        "start": 261,
+        "end": 294,
+        "anchorEnd": 263,
+        "text": "as it had been expressed before, "
+      },
+      {
+        "kind": "relative",
+        "start": 316,
+        "end": 341,
+        "anchorEnd": 320,
+        "text": "that should come to hand.",
+        "antecedent": "any suitable words"
+      }
+    ],
+    "notes": [
+      "限定主干是 I took／laid／tried；as fully as … 是程度比较结构，其中比较从句为 as it had been expressed before。",
+      "laid…by 的 by 是动词小品词，和 laid 同色，them 保持宾语；比较从句止于 before，后面的 words 定语从句不嵌入比较从句。"
+    ],
+    "predicates": [
+      {
+        "start": 17,
+        "end": 21,
+        "text": "took",
+        "role": "main"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "text": "laid",
+        "role": "main"
+      },
+      {
+        "start": 111,
+        "end": 113,
+        "text": "by",
+        "role": "main"
+      },
+      {
+        "start": 165,
+        "end": 170,
+        "text": "tried",
+        "role": "main"
+      },
+      {
+        "start": 267,
+        "end": 285,
+        "text": "had been expressed",
+        "role": "sub"
+      },
+      {
+        "start": 321,
+        "end": 332,
+        "text": "should come",
+        "role": "sub"
+      }
+    ]
+  },
+  "43": {
+    "text": "Then I compared my Spectator with the original, discovered some of my faults, and corrected them.",
+    "lessonText": "Then I compared my Spectator with the original, discovered some of my faults, and corrected them.",
+    "paragraphStart": 597,
+    "paragraphEnd": 694,
+    "functions": [
+      [
+        "Adverbial",
+        "Then "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "compared "
+      ],
+      [
+        "Object",
+        "my Spectator "
+      ],
+      [
+        "Complement",
+        "with the original, "
+      ],
+      [
+        "Predicate",
+        "discovered "
+      ],
+      [
+        "Object",
+        "some of my faults, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "corrected "
+      ],
+      [
+        "Object",
+        "them."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 97,
+        "anchorEnd": 0,
+        "text": "Then I compared my Spectator with the original, discovered some of my faults, and corrected them."
+      }
+    ],
+    "notes": [
+      "my Spectator 指我仿写的版本，不是我拥有的出版公司。三项谓语同属 I；them 回指 faults。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 15,
+        "text": "compared",
+        "role": "main"
+      },
+      {
+        "start": 48,
+        "end": 58,
+        "text": "discovered",
+        "role": "main"
+      },
+      {
+        "start": 82,
+        "end": 91,
+        "text": "corrected",
+        "role": "main"
+      }
+    ]
+  },
+  "44": {
+    "text": "But I found I wanted a stock of words, or a readiness in recollecting and using them, which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.",
+    "lessonText": "But I found I wanted a stock of words, or a readiness in recollecting and using them, which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.",
+    "paragraphStart": 695,
+    "paragraphEnd": 1161,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "found "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "wanted "
+      ],
+      [
+        "Object",
+        "a stock of words, or a readiness in recollecting and using them, "
+      ],
+      [
+        "Relative pronoun / Object",
+        "which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "thought "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "should have acquired "
+      ],
+      [
+        "Adverbial",
+        "before that time "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had gone on "
+      ],
+      [
+        "Gerund-participial complement",
+        "making verses; "
+      ],
+      [
+        "Subordinator",
+        "since "
+      ],
+      [
+        "Subject",
+        "the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, "
+      ],
+      [
+        "Predicate",
+        "would have laid "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Complement",
+        "under a constant necessity of searching for variety, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "have tended "
+      ],
+      [
+        "Infinitival complement",
+        "to fix that variety in my mind, "
+      ],
+      [
+        "Infinitival complement",
+        "and make me master of it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 466,
+        "anchorEnd": 0,
+        "text": "But I found I wanted a stock of words, or a readiness in recollecting and using them, which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it."
+      },
+      {
+        "kind": "object",
+        "start": 12,
+        "end": 466,
+        "anchorEnd": 13,
+        "text": "I wanted a stock of words, or a readiness in recollecting and using them, which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.",
+        "restoration": "that"
+      },
+      {
+        "kind": "relative",
+        "start": 86,
+        "end": 466,
+        "anchorEnd": 91,
+        "text": "which I thought I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.",
+        "antecedent": "a stock of words or readiness in using them"
+      },
+      {
+        "kind": "object",
+        "start": 102,
+        "end": 466,
+        "anchorEnd": 103,
+        "text": "I should have acquired before that time if I had gone on making verses; since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it.",
+        "restoration": "that"
+      },
+      {
+        "kind": "condition",
+        "start": 142,
+        "end": 174,
+        "anchorEnd": 144,
+        "text": "if I had gone on making verses; "
+      },
+      {
+        "kind": "reason",
+        "start": 174,
+        "end": 466,
+        "anchorEnd": 179,
+        "text": "since the continual occasion for words of the same import, but of different length, to suit the measure, or of different sound for the rhyme, would have laid me under a constant necessity of searching for variety, and also have tended to fix that variety in my mind, and make me master of it."
+      }
+    ],
+    "notes": [
+      "which 对应 acquired 的宾语位置，穿过 I thought 的报告层；I should have acquired … 应单独列为 thought 的宾语从句。",
+      "which 关联 acquired 的宾语空位；I thought 内嵌 I should have acquired… 内容从句。if 提供反事实条件，since 解释写诗为何有助积累词汇，两者置于该内容从句层级；to fix 与 make 均为 tended 后的非谓语补足。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 11,
+        "text": "found",
+        "role": "main"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "wanted",
+        "role": "sub"
+      },
+      {
+        "start": 94,
+        "end": 101,
+        "text": "thought",
+        "role": "sub"
+      },
+      {
+        "start": 104,
+        "end": 124,
+        "text": "should have acquired",
+        "role": "sub"
+      },
+      {
+        "start": 147,
+        "end": 158,
+        "text": "had gone on",
+        "role": "sub"
+      },
+      {
+        "start": 316,
+        "end": 331,
+        "text": "would have laid",
+        "role": "sub"
+      },
+      {
+        "start": 397,
+        "end": 408,
+        "text": "have tended",
+        "role": "sub"
+      }
+    ]
+  },
+  "45": {
+    "text": "Therefore I took some of the tales and turned them into verse; and, after a time, when I had pretty well forgotten the prose, turned them back again.",
+    "lessonText": "Therefore I took some of the tales and turned them into verse; and, after a time, when I had pretty well forgotten the prose, turned them back again.",
+    "paragraphStart": 1162,
+    "paragraphEnd": 1311,
+    "functions": [
+      [
+        "Discourse connective",
+        "Therefore "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "took "
+      ],
+      [
+        "Object",
+        "some of the tales "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "turned "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Complement",
+        "into verse; "
+      ],
+      [
+        "Coordinating conjunction",
+        "and, "
+      ],
+      [
+        "Adverbial",
+        "after a time, "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Auxiliary verb",
+        "had "
+      ],
+      [
+        "Adverbial",
+        "pretty well "
+      ],
+      [
+        "Predicate",
+        "forgotten "
+      ],
+      [
+        "Object",
+        "the prose, "
+      ],
+      [
+        "Predicate",
+        "turned "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Complement",
+        "back again."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 149,
+        "anchorEnd": 0,
+        "text": "Therefore I took some of the tales and turned them into verse; and, after a time, when I had pretty well forgotten the prose, turned them back again."
+      },
+      {
+        "kind": "time",
+        "start": 82,
+        "end": 126,
+        "anchorEnd": 86,
+        "text": "when I had pretty well forgotten the prose, "
+      }
+    ],
+    "notes": [
+      "分号后仍省略重复主语 I。when 从句过去完成时说明先几乎忘记，才改回；pretty well 不应译成百分之百忘记。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 16,
+        "text": "took",
+        "role": "main"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "text": "turned",
+        "role": "main"
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 105,
+        "end": 114,
+        "text": "forgotten",
+        "role": "sub"
+      },
+      {
+        "start": 126,
+        "end": 132,
+        "text": "turned",
+        "role": "main"
+      }
+    ]
+  },
+  "46": {
+    "text": "I also sometimes jumbled my collections of hints into confusion, and after some weeks endeavored to reduce them into the best order, before I began to form the full sentences and complete the paper.",
+    "lessonText": "I also sometimes jumbled my collections of hints into confusion, and after some weeks endeavored to reduce them into the best order, before I began to form the full sentences and complete the paper.",
+    "paragraphStart": 1312,
+    "paragraphEnd": 1510,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "also sometimes "
+      ],
+      [
+        "Predicate",
+        "jumbled "
+      ],
+      [
+        "Object",
+        "my collections of hints "
+      ],
+      [
+        "Complement",
+        "into confusion, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "after some weeks "
+      ],
+      [
+        "Predicate",
+        "endeavored "
+      ],
+      [
+        "Infinitival complement",
+        "to reduce them into the best order, "
+      ],
+      [
+        "Subordinator",
+        "before "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "began "
+      ],
+      [
+        "Infinitival complement",
+        "to form the full sentences and complete the paper."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 198,
+        "anchorEnd": 0,
+        "text": "I also sometimes jumbled my collections of hints into confusion, and after some weeks endeavored to reduce them into the best order, before I began to form the full sentences and complete the paper."
+      },
+      {
+        "kind": "time",
+        "start": 133,
+        "end": 198,
+        "anchorEnd": 139,
+        "text": "before I began to form the full sentences and complete the paper."
+      }
+    ],
+    "notes": [
+      "reduce … into order 是旧式整理，不是缩减词数。before 从句内 form 与 complete 共用 to；本文是一项有意设计的组织训练。"
+    ],
+    "predicates": [
+      {
+        "start": 17,
+        "end": 24,
+        "text": "jumbled",
+        "role": "main"
+      },
+      {
+        "start": 86,
+        "end": 96,
+        "text": "endeavored",
+        "role": "main"
+      },
+      {
+        "start": 142,
+        "end": 147,
+        "text": "began",
+        "role": "sub"
+      }
+    ]
+  },
+  "47": {
+    "text": "This was to teach me method in the arrangement of thoughts.",
+    "lessonText": "This was to teach me method in the arrangement of thoughts.",
+    "paragraphStart": 1511,
+    "paragraphEnd": 1570,
+    "functions": [
+      [
+        "Subject",
+        "This "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Infinitival predicative",
+        "to teach me method in the arrangement of thoughts."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 59,
+        "anchorEnd": 0,
+        "text": "This was to teach me method in the arrangement of thoughts."
+      }
+    ],
+    "notes": [
+      "This 回指前面的训练。was to teach 这里可按目的性不定式表语理解，不硬套“官方命令”；teach 内 me 是间接宾语、method 是直接宾语。",
+      "沿用目的性不定式表语分析：was 为系动词，to teach… 为表语，不把这一句强行归为安排式 be-to。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "48": {
+    "text": "By comparing my work afterward with the original, I discovered many faults and amended them; but I sometimes had the pleasure of fancying that, in certain particulars of small import, I had been lucky enough to improve the method or the language, and this encouraged me to think I might possibly in time come to be a tolerable English writer, of which I was extremely ambitious.",
+    "lessonText": "By comparing my work afterward with the original, I discovered many faults and amended them; but I sometimes had the pleasure of fancying that, in certain particulars of small import, I had been lucky enough to improve the method or the language, and this encouraged me to think I might possibly in time come to be a tolerable English writer, of which I was extremely ambitious.",
+    "paragraphStart": 1571,
+    "paragraphEnd": 1949,
+    "functions": [
+      [
+        "Adverbial",
+        "By comparing my work afterward with the original, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "discovered "
+      ],
+      [
+        "Object",
+        "many faults "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "amended "
+      ],
+      [
+        "Object",
+        "them; "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "sometimes "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "the pleasure of fancying "
+      ],
+      [
+        "Complementizer",
+        "that, "
+      ],
+      [
+        "Adverbial",
+        "in certain particulars of small import, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "had been "
+      ],
+      [
+        "Predicative",
+        "lucky enough "
+      ],
+      [
+        "Infinitival complement",
+        "to improve the method or the language, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Predicate",
+        "encouraged "
+      ],
+      [
+        "Object",
+        "me "
+      ],
+      [
+        "Object complement",
+        "to think "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Modal auxiliary",
+        "might "
+      ],
+      [
+        "Adverbial",
+        "possibly in time "
+      ],
+      [
+        "Predicate",
+        "come "
+      ],
+      [
+        "Infinitival complement",
+        "to be a tolerable English writer, "
+      ],
+      [
+        "Relative phrase",
+        "of which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Adverbial",
+        "extremely "
+      ],
+      [
+        "Predicative",
+        "ambitious."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 93,
+        "anchorEnd": 0,
+        "text": "By comparing my work afterward with the original, I discovered many faults and amended them; "
+      },
+      {
+        "kind": "main",
+        "start": 93,
+        "end": 247,
+        "anchorEnd": 93,
+        "text": "but I sometimes had the pleasure of fancying that, in certain particulars of small import, I had been lucky enough to improve the method or the language, "
+      },
+      {
+        "kind": "object",
+        "start": 138,
+        "end": 247,
+        "anchorEnd": 142,
+        "text": "that, in certain particulars of small import, I had been lucky enough to improve the method or the language, "
+      },
+      {
+        "kind": "main",
+        "start": 247,
+        "end": 378,
+        "anchorEnd": 247,
+        "text": "and this encouraged me to think I might possibly in time come to be a tolerable English writer, of which I was extremely ambitious."
+      },
+      {
+        "kind": "object",
+        "start": 279,
+        "end": 378,
+        "anchorEnd": 280,
+        "text": "I might possibly in time come to be a tolerable English writer, of which I was extremely ambitious.",
+        "restoration": "that"
+      },
+      {
+        "kind": "relative",
+        "start": 343,
+        "end": 378,
+        "anchorEnd": 351,
+        "text": "of which I was extremely ambitious.",
+        "antecedent": "becoming a tolerable English writer"
+      }
+    ],
+    "notes": [
+      "三条主句加多层内容从句。of which 指成为写作者这一目标；旧式 ambitious of 不宜当现代默认搭配。fancying、possibly、small import 与 tolerable 限定自评，不等于断言自己已超越原作。",
+      "三套独立主语 I、I、this 对应三个主句框；fancying 与 think 各有内容从句，of which 说明成为写作者的目标。"
+    ],
+    "predicates": [
+      {
+        "start": 52,
+        "end": 62,
+        "text": "discovered",
+        "role": "main"
+      },
+      {
+        "start": 79,
+        "end": 86,
+        "text": "amended",
+        "role": "main"
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "had",
+        "role": "main"
+      },
+      {
+        "start": 186,
+        "end": 194,
+        "text": "had been",
+        "role": "sub"
+      },
+      {
+        "start": 256,
+        "end": 266,
+        "text": "encouraged",
+        "role": "main"
+      },
+      {
+        "start": 281,
+        "end": 286,
+        "text": "might",
+        "role": "sub"
+      },
+      {
+        "start": 304,
+        "end": 308,
+        "text": "come",
+        "role": "sub"
+      },
+      {
+        "start": 354,
+        "end": 357,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "49": {
+    "text": "My time for these exercises and for reading was at night, after work or before it began in the morning, or on Sundays, when I contrived to be in the printing-house alone, evading as much as I could the common attendance on public worship which my father used to exact on me when I was under his care, and which indeed I still thought a duty, though I could not, as it seemed to me, afford time to practice it.",
+    "lessonText": "My time for these exercises and for reading was at night, after work or before it began in the morning, or on Sundays, when I contrived to be in the printing-house alone, evading as much as I could the common attendance on public worship which my father used to exact on me when I was under his care, and which indeed I still thought a duty, though I could not, as it seemed to me, afford time to practice it.",
+    "paragraphStart": 1950,
+    "paragraphEnd": 2359,
+    "functions": [
+      [
+        "Subject",
+        "My time for these exercises and for reading "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "at night, after work "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Subordinator",
+        "before "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "began "
+      ],
+      [
+        "Adverbial",
+        "in the morning, "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicative",
+        "on Sundays, "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "contrived "
+      ],
+      [
+        "Infinitival complement",
+        "to be in the printing-house alone, "
+      ],
+      [
+        "Participial supplement",
+        "evading "
+      ],
+      [
+        "Degree modifier",
+        "as much "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Object",
+        "the common attendance on public worship "
+      ],
+      [
+        "Relative pronoun / Object",
+        "which "
+      ],
+      [
+        "Subject",
+        "my father "
+      ],
+      [
+        "Predicate",
+        "used to exact "
+      ],
+      [
+        "Complement",
+        "on me "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "under his care, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Relative pronoun / Object",
+        "which "
+      ],
+      [
+        "Adverbial",
+        "indeed "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "still "
+      ],
+      [
+        "Predicate",
+        "thought "
+      ],
+      [
+        "Object complement",
+        "a duty, "
+      ],
+      [
+        "Subordinator",
+        "though "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Negation",
+        "not, "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "seemed "
+      ],
+      [
+        "Complement",
+        "to me, "
+      ],
+      [
+        "Predicate",
+        "afford "
+      ],
+      [
+        "Object",
+        "time "
+      ],
+      [
+        "Infinitival complement",
+        "to practice it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 409,
+        "anchorEnd": 0,
+        "text": "My time for these exercises and for reading was at night, after work or before it began in the morning, or on Sundays, when I contrived to be in the printing-house alone, evading as much as I could the common attendance on public worship which my father used to exact on me when I was under his care, and which indeed I still thought a duty, though I could not, as it seemed to me, afford time to practice it."
+      },
+      {
+        "kind": "time",
+        "start": 72,
+        "end": 104,
+        "anchorEnd": 78,
+        "text": "before it began in the morning, "
+      },
+      {
+        "kind": "relative",
+        "start": 119,
+        "end": 409,
+        "anchorEnd": 123,
+        "text": "when I contrived to be in the printing-house alone, evading as much as I could the common attendance on public worship which my father used to exact on me when I was under his care, and which indeed I still thought a duty, though I could not, as it seemed to me, afford time to practice it.",
+        "antecedent": "Sundays"
+      },
+      {
+        "kind": "comparative",
+        "start": 187,
+        "end": 198,
+        "anchorEnd": 189,
+        "text": "as I could ",
+        "restoration": "evade it"
+      },
+      {
+        "kind": "relative",
+        "start": 238,
+        "end": 301,
+        "anchorEnd": 243,
+        "text": "which my father used to exact on me when I was under his care, ",
+        "antecedent": "the common attendance on public worship"
+      },
+      {
+        "kind": "time",
+        "start": 274,
+        "end": 301,
+        "anchorEnd": 278,
+        "text": "when I was under his care, "
+      },
+      {
+        "kind": "relative",
+        "start": 305,
+        "end": 342,
+        "anchorEnd": 310,
+        "text": "which indeed I still thought a duty, ",
+        "antecedent": "the common attendance on public worship"
+      },
+      {
+        "kind": "concessive",
+        "start": 342,
+        "end": 409,
+        "anchorEnd": 348,
+        "text": "though I could not, as it seemed to me, afford time to practice it."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 362,
+        "end": 382,
+        "anchorEnd": 364,
+        "text": "as it seemed to me, "
+      }
+    ],
+    "notes": [
+      "两个 which 都修饰 attendance，第二个作 thought 的宾语、a duty 为宾补。evading 主语是 I，不是 My time。最后 it 指参加礼拜这一实践；原文未明确每次都同父亲一起去。",
+      "Sunday 的 when 关系从句包含 evading 及后续说明；as I could 为省略比较从句，其后 attendance 仍是 evading 的宾语。两个 which 并列修饰 attendance，though 置于它们之外，as it seemed to me 再嵌入 though。"
+    ],
+    "predicates": [
+      {
+        "start": 44,
+        "end": 47,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 82,
+        "end": 87,
+        "text": "began",
+        "role": "sub"
+      },
+      {
+        "start": 126,
+        "end": 135,
+        "text": "contrived",
+        "role": "sub"
+      },
+      {
+        "start": 192,
+        "end": 197,
+        "text": "could",
+        "role": "sub"
+      },
+      {
+        "start": 254,
+        "end": 267,
+        "text": "used to exact",
+        "role": "sub"
+      },
+      {
+        "start": 281,
+        "end": 284,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 326,
+        "end": 333,
+        "text": "thought",
+        "role": "sub"
+      },
+      {
+        "start": 351,
+        "end": 356,
+        "text": "could",
+        "role": "sub"
+      },
+      {
+        "start": 368,
+        "end": 374,
+        "text": "seemed",
+        "role": "sub"
+      },
+      {
+        "start": 382,
+        "end": 388,
+        "text": "afford",
+        "role": "sub"
+      }
+    ]
+  }
+}

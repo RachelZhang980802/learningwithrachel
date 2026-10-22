@@ -1,0 +1,30 @@
+{
+  "release": "2026-10-22",
+  "baselineCommit": "cd765b041c0531c39b2b3c373f176bfab9d3b80b",
+  "previousProductionUrl": "https://learningwithrachel-5zj8hxw3f-learningwithrachel.vercel.app",
+  "assetManifest": "assets.json",
+  "validation": {
+    "typecheck": "passed",
+    "vercelProductionBuild": "passed",
+    "contentAndLayoutTestsPassed": 87,
+    "historicalAuditTestsUnavailable": [
+      "tests/article-lessons-integrity.test.mjs",
+      "tests/article06-10-integrity.test.mjs",
+      "tests/pdf-enrichment-integrity.test.mjs"
+    ],
+    "historicalAuditReason": "Ignored work/ reference snapshots from September are not present in this checkout.",
+    "browserCoverage": [
+      "home",
+      "reading articles 01–10",
+      "narrative cover and units 1–6",
+      "Western Culture home, chapter gallery and reading, terminology, review questions, quizzes",
+      "grammar article 01 and quiz"
+    ],
+    "cdnRoutingPreview": "passed",
+    "audioRangeRequest": "206 Partial Content verified",
+    "r2ResourcesVerified": 3309,
+    "r2BytesVerified": 488753795,
+    "allResourceRoutesValidated": true
+  },
+  "rollback": "Restore the previous Vercel deployment; existing R2 objects are retained."
+}

@@ -1,6 +1,6 @@
 import vinext from "vinext";
 import { nitro } from "nitro/vite";
-import { defineConfig } from "vite";
+import { defineConfig, type ViteDevServer } from "vite";
 import hostingConfig from "./.openai/hosting.json";
 import { sites } from "./build/sites-vite-plugin";
 import { createReadStream } from "node:fs";
@@ -73,7 +73,7 @@ export default defineConfig(async () => {
       {
         name: "local-archive-media",
         apply: "serve",
-        configureServer(server) {
+        configureServer(server: ViteDevServer) {
           server.middlewares.use(async (req, res, next) => {
             if (!req.url?.startsWith("/media/")) return next();
             const root = resolve(".r2-media");

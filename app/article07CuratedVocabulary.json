@@ -1,0 +1,4463 @@
+{
+  "07": {
+    "1": {
+      "word": "evolution",
+      "sourceRow": 1,
+      "english": "the gradual development of humans over a very long period",
+      "chinese": "（人类）进化",
+      "collocations": [
+        "human evolution",
+        "the evolution of a species"
+      ],
+      "compare": [
+        "evolution 是长期演变；revolution 通常指突变或革命。"
+      ],
+      "usage": "本文谈数百万年的人类演化，不是个人成长。",
+      "ipa": "/ˌevəˈluːʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": {
+        "english": "the evolution of the human species",
+        "chinese": "人类的进化",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[uncountable, countable] the slow steady development of something",
+          "chinese": "演变；发展；渐进",
+          "exampleEnglish": "In politics Britain has preferred evolution to revolution (= slow steady development to sudden violent change)",
+          "exampleChinese": "英国在政治上宁愿渐进而不愿革命。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "2": {
+      "word": "protohuman",
+      "sourceRow": 2,
+      "english": "an early human or human-like ancestor",
+      "chinese": "原始人类；人类的早期祖先",
+      "collocations": [
+        "early protohumans",
+        "human and protohuman ancestors"
+      ],
+      "compare": [
+        "protohuman 指人类早期祖先；human 指现代人类或人的总称。"
+      ],
+      "usage": "proto- 表“原始／前期”；本文与 humans 并列。",
+      "ipa": "",
+      "partOfSpeech": "phrase",
+      "oxfordExcerptProvided": false,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "44": {
+      "word": "glorified",
+      "sourceRow": 44,
+      "english": "made to seem more impressive than it really is",
+      "chinese": "被美化的；被夸大的",
+      "collocations": [
+        "a glorified chimpanzee",
+        "a glorified version of something"
+      ],
+      "compare": [
+        "glorified 带讽刺，指被说得更高等；glorious 是真正辉煌。"
+      ],
+      "usage": "somewhat glorified 修饰 chimpanzees，说明早期人类生活模式近似。",
+      "ipa": "/ˈɡlɔːrɪfaɪd/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": {
+        "english": "The restaurant was no more than a glorified fast-food cafe.",
+        "chinese": "这地方美其名曰餐馆，其实只不过是个快餐店而已。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "3": {
+      "word": "chimpanzee",
+      "sourceRow": 3,
+      "english": "an ape closely related to humans",
+      "chinese": "黑猩猩",
+      "collocations": [
+        "a chimpanzee family",
+        "chimpanzees in the wild"
+      ],
+      "compare": [
+        "chimpanzee 是黑猩猩；gorilla 是大猩猩。"
+      ],
+      "usage": "本文以黑猩猩作比较对象，并非说早期人类就是黑猩猩。",
+      "ipa": "/ˌtʃɪmpænˈziː/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "4": {
+      "word": "density",
+      "sourceRow": 4,
+      "english": "the number of people in a given area",
+      "chinese": "人口密度",
+      "collocations": [
+        "population density",
+        "low densities"
+      ],
+      "compare": [
+        "density 是单位面积内的集中程度；population 是人口总量。"
+      ],
+      "usage": "本文可数复数 densities 指不同群体或地区的人口密度。",
+      "ipa": "/ˈdensəti/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": {
+        "english": "The population density in this city is very high.",
+        "chinese": "这座城市的人口密度很高。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable, uncountable] (physics) how thick a solid, liquid or gas is, measured by its mass per unit of volume",
+          "chinese": "密度（固体、液体或气体单位体积的质量）",
+          "exampleEnglish": "the density of a gas",
+          "exampleChinese": "一种气体的密度"
+        },
+        {
+          "english": "[uncountable] (computing) the amount of space available on a disk for recording data",
+          "chinese": "密度（磁盘存储数据的可用空间）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "45": {
+      "word": "scatter",
+      "sourceRow": 45,
+      "english": "to spread over a wide area",
+      "chinese": "分散；散布",
+      "collocations": [
+        "scattered over a landscape",
+        "scatter in different directions"
+      ],
+      "compare": [
+        "scatter 是分散分布；gather 是聚集。"
+      ],
+      "usage": "本文过去分词 scattered，表示早期人群分布稀疏。",
+      "ipa": "/ˈskætər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": {
+        "english": "At the first gunshot, the crowd scattered.",
+        "chinese": "枪声一响，人群便逃散了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[transitive] to throw or drop things in different directions so that they cover an area of ground",
+          "chinese": "撒；撒播",
+          "exampleEnglish": "They scattered his ashes at sea.",
+          "exampleChinese": "他们把他的骨灰撒向大海。"
+        },
+        {
+          "english": "a small amount or number of things spread over an area",
+          "chinese": "散落；三三两两；零零星星",
+          "exampleEnglish": "a scatter of houses",
+          "exampleChinese": "零星的房子"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "46": {
+      "word": "landscape",
+      "sourceRow": 46,
+      "english": "a large area of countryside or land as seen from a place",
+      "chinese": "地貌；景观",
+      "collocations": [
+        "scatter over the landscape",
+        "urban landscape"
+      ],
+      "compare": [
+        "landscape 是可见地貌／景观；setting 更强调事情发生的环境。"
+      ],
+      "usage": "本文指广阔土地景观，不是绘画或横向打印。",
+      "ipa": "/ˈlændskeɪp/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "the woods and fields that are typical features of the English landscape",
+          "chinese": "具有典型英格兰风景特征的森林与田野",
+          "exampleEnglish": "an urban landscape",
+          "exampleChinese": "都市风光"
+        },
+        {
+          "english": "[countable, uncountable] a painting of a view of the countryside; this style of painting",
+          "chinese": "乡村风景画；乡村风景画的风格",
+          "exampleEnglish": "an artist famous for his landscapes",
+          "exampleChinese": "以风景画闻名的画家"
+        },
+        {
+          "english": "[uncountable] (used especially before another noun) the way of printing a document in which the top of the page is one of the longer sides（",
+          "chinese": "文件的）横向打印格式",
+          "exampleEnglish": "Select the landscape option when printing the file.",
+          "exampleChinese": "打印文件时选择横向打印格式选项。"
+        },
+        {
+          "english": "landscape something to improve the appearance of an area of land by changing the design and planting trees, flowers, etc.",
+          "chinese": "对…做景观美化；给…做园林美化；美化…的环境"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "47": {
+      "word": "band",
+      "sourceRow": 47,
+      "english": "a small group of people travelling or living together",
+      "chinese": "一小群人",
+      "collocations": [
+        "small bands",
+        "a band of people"
+      ],
+      "compare": [
+        "band 在本文是小群体；band 也可指乐队。"
+      ],
+      "usage": "可数名词；与 families 并列描述早期人群组织。",
+      "ipa": "/bænd/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "group of musicians",
+          "chinese": "乐队"
+        },
+        {
+          "english": "[countable + singular or plural verb] a small group of musicians who play popular music together, often with a singer or singers",
+          "chinese": "流行音乐乐队",
+          "exampleEnglish": "a rock/punk/jazz band",
+          "exampleChinese": "摇滚/朋克/爵士乐队"
+        },
+        {
+          "english": "[countable + singular or plural verb] a group of musicians who play brass and percussion instruments",
+          "chinese": "管乐队；鼓号乐队",
+          "exampleEnglish": "a military band",
+          "exampleChinese": "军乐队"
+        },
+        {
+          "english": "[countable + singular or plural verb] a group of people who do something together or who have the same ideas, interests or achievements",
+          "chinese": "一伙人；一帮人",
+          "exampleEnglish": "a band of outlaws/rebels",
+          "exampleChinese": "一群不法分子/叛乱分子"
+        },
+        {
+          "english": "[countable] a thin flat piece or circle of any material that is put around things, for example to hold them together or to make them stronger",
+          "chinese": "带；箍",
+          "exampleEnglish": "She always ties her hair back in a band.",
+          "exampleChinese": "她总是用一条带子把头发扎在后面。"
+        },
+        {
+          "english": "[countable] a line of colour or material on something that is different from what is around it",
+          "chinese": "条纹；条饰",
+          "exampleEnglish": "a white plate with a blue band around the edge",
+          "exampleChinese": "带蓝边的白盘子"
+        },
+        {
+          "english": "(also waveband) [countable] a range of radio waves",
+          "chinese": "频带；波段",
+          "exampleEnglish": "Short-wave radio uses the 20–50–metre band.",
+          "exampleChinese": "短波收音机用的波段是 20–50 米。"
+        },
+        {
+          "english": "[countable] a range of numbers, ages, prices, etc. within which people or things are counted or measured（",
+          "chinese": "数目、年龄、价格等的）范围，段",
+          "exampleEnglish": "the 25–35 age band25–35",
+          "exampleChinese": "岁的年龄段"
+        },
+        {
+          "english": "[usually passive] to put a band of a different colour or material around something",
+          "chinese": "加彩条（或嵌条等）",
+          "exampleEnglish": "Many insects are banded black and yellow.",
+          "exampleChinese": "很多昆虫有黑色和黄色的条纹。"
+        },
+        {
+          "english": "[usually passive] (British English) to organize something into bands of price, income, etc.（",
+          "chinese": "将价格、收入等）划分档次，分等级",
+          "exampleEnglish": "Tax is banded according to income.",
+          "exampleChinese": "赋税是按收入划分等级的。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "5": {
+      "word": "fraction",
+      "sourceRow": 5,
+      "english": "a small part of a whole",
+      "chinese": "一小部分",
+      "collocations": [
+        "a small fraction",
+        "only a fraction of history"
+      ],
+      "compare": [
+        "fraction 指整体中的一部分；percentage 明确用百分比表示。"
+      ],
+      "usage": "常接 of + 整体；本文强调六千年只占人类史很小一部分。",
+      "ipa": "/ˈfrækʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Only within the past 6,000 years, a small fraction of human history, did some of our ancestors come together in cities.",
+      "dictionaryExample": {
+        "english": "Only a small fraction of a bank's total deposits will be withdrawn at any one time.",
+        "chinese": "任何时候，一家银行的总存款只有少量会被提取。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a division of a number, for example ⅝",
+          "chinese": "分数；小数",
+          "exampleEnglish": "How do you express 25% as a fraction?25%",
+          "exampleChinese": "用小数怎么表示？"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "48": {
+      "word": "setting",
+      "sourceRow": 48,
+      "english": "a place or environment in which people live",
+      "chinese": "环境；场所",
+      "collocations": [
+        "new urban settings",
+        "a rural setting"
+      ],
+      "compare": [
+        "setting 是生活环境；scenery 主要指可观看的景色。"
+      ],
+      "usage": "本文复数 settings 指不同的城市居住环境。",
+      "ipa": "/ˈsetɪŋ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants.",
+      "dictionaryExample": {
+        "english": "a rural/an ideal/a beautiful/an idyllic setting",
+        "chinese": "农村/理想/美丽/田园风光",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the place and time at which the action of a play, novel, etc. takes place（",
+          "chinese": "戏剧、小说等的）情节背景",
+          "exampleEnglish": "short stories with a contemporary setting",
+          "exampleChinese": "以当代生活为背景的短篇小说"
+        },
+        {
+          "english": "a position at which the controls on a machine can be set, to set the speed, height, temperature, etc.（",
+          "chinese": "机器上调节速度、高度、温度等的）挡，级，点",
+          "exampleEnglish": "There are three speed settings: high, medium, and low.",
+          "exampleChinese": "共有三种速度设置：高，中和低。"
+        },
+        {
+          "english": "usually settings [plural] the place on a computer or other electronic device where you can choose the way that it works or looks; the particular choices that you make（",
+          "chinese": "计算机或其他电子装置的）设置区，设定",
+          "exampleEnglish": "To change the size of the font, go to Settings.",
+          "exampleChinese": "要更改字体的大小，请前往 “设置”。"
+        },
+        {
+          "english": "(music) music written to go with a poem, etc.（",
+          "chinese": "为诗等谱的）曲",
+          "exampleEnglish": "Schubert’s setting of a poem by Goethe",
+          "exampleChinese": "舒伯特为歌德的一首诗谱的曲"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "6": {
+      "word": "inhabitant",
+      "sourceRow": 6,
+      "english": "a person living in a particular place",
+      "chinese": "居民",
+      "collocations": [
+        "city inhabitants",
+        "millions of inhabitants"
+      ],
+      "compare": [
+        "inhabitant 是住在某地的人；citizen 强调法律上的公民身份。"
+      ],
+      "usage": "可数名词；本文用来计算城市人口。",
+      "ipa": "/ɪnˈhæbɪtənt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants.",
+      "dictionaryExample": {
+        "english": "the oldest inhabitant of the village",
+        "chinese": "这个村最老的居民",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "49": {
+      "word": "urban",
+      "sourceRow": 49,
+      "english": "connected with a city or town",
+      "chinese": "城市的",
+      "collocations": [
+        "urban life",
+        "urban communities"
+      ],
+      "compare": [
+        "urban 是城市的；rural 是乡村的。"
+      ],
+      "usage": "常置于名词前；本文贯穿城乡对照。",
+      "ipa": "/ˈɜːrbən/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Urban life involves trade-offs.",
+      "dictionaryExample": {
+        "english": "urban and rural communities",
+        "chinese": "城乡社区",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[only before noun] connected with types of music such as rhythm and blues, reggae, soul, etc. that are played by black musicians",
+          "chinese": "都市音乐的，城市音乐的（如节奏布鲁斯音乐、雷盖音乐）",
+          "exampleEnglish": "today’s urban music scene",
+          "exampleChinese": "当今的城市音乐圈"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "7": {
+      "word": "trade-off",
+      "sourceRow": 7,
+      "english": "a balance in which gaining one thing means losing another",
+      "chinese": "取舍；权衡",
+      "collocations": [
+        "a trade-off between A and B",
+        "make a trade-off"
+      ],
+      "compare": [
+        "trade-off 指一得一失的权衡；compromise 强调双方让步。"
+      ],
+      "usage": "常接 between A and B；全文以两组 trade-off 展开论述。",
+      "ipa": "/ˈtreɪd ɔːf/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Urban life involves trade-offs.",
+      "dictionaryExample": {
+        "english": "a trade-off between increased production and a reduction in quality",
+        "chinese": "对产量增加和质量下降的权衡",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "50": {
+      "word": "benefit",
+      "sourceRow": 50,
+      "english": "a good result or advantage",
+      "chinese": "好处；益处",
+      "collocations": [
+        "gain benefits",
+        "benefits in return for costs"
+      ],
+      "compare": [
+        "benefit 是益处；advantage 指相对优势，也可在人之间比较。"
+      ],
+      "usage": "本文为复数，与 disadvantages 配成取舍关系。",
+      "ipa": "/ˈbenɪfɪt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "We may gain big benefits in return for suffering big disadvantages.",
+      "dictionaryExample": {
+        "english": "Freedom of information brings great benefits.",
+        "chinese": "信息自由带来巨大好处。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable, usually plural] an advantage that you get from a company in addition to the money that you earn（",
+          "chinese": "公司发的）福利，奖金",
+          "exampleEnglish": "Private health insurance is offered as part of the employees' benefits package.",
+          "exampleChinese": "私人医疗保险是提供给员工的一整套福利的其中一项。"
+        },
+        {
+          "english": "[countable, usually plural] money from an insurance company（",
+          "chinese": "保险公司发的）给付，保险金",
+          "exampleEnglish": "The insurance plan will provide substantial cash benefits to your family in case of your death.",
+          "exampleChinese": "投保人一旦死亡，该项保险将支付给其家属相当可观的保险金。"
+        },
+        {
+          "english": "[countable] an event such as a performance, a dinner, etc., organized in order to raise money for a particular person or charity",
+          "chinese": "慈善（或公益）活动",
+          "exampleEnglish": "a benefit match/concert",
+          "exampleChinese": "义赛；慈善音乐会"
+        },
+        {
+          "english": "[transitive] benefit somebody to be useful to somebody or improve their life in some way",
+          "chinese": "对（某人）有用；使受益",
+          "exampleEnglish": "We should spend the money on something that will benefit everyone.",
+          "exampleChinese": "我们应该把这笔钱花在大家都能得益的事上。"
+        },
+        {
+          "english": "[intransitive] to be in a better position because of something",
+          "chinese": "得益于；得利于",
+          "exampleEnglish": "We all benefit when our young people realize their potential.",
+          "exampleChinese": "当我们的年轻人意识到自己的潜力时，我们都会受益。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "8": {
+      "word": "in return (for sth.)",
+      "sourceRow": 8,
+      "english": "as a result of, or in exchange for, something",
+      "chinese": "作为交换；作为回报",
+      "collocations": [
+        "gain something in return for something",
+        "in return for help"
+      ],
+      "compare": [
+        "in return for 表交换关系；because of 只表原因。"
+      ],
+      "usage": "for 后接付出的代价或提供的帮助；本文是收益换取代价。",
+      "ipa": "",
+      "partOfSpeech": "phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "We may gain big benefits in return for suffering big disadvantages.",
+      "dictionaryExample": {
+        "english": "Can I buy you lunch in return for your help?",
+        "chinese": "感谢你帮忙，我请你吃午饭好吗？",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "51": {
+      "word": "disadvantage",
+      "sourceRow": 51,
+      "english": "a drawback or unfavorable condition",
+      "chinese": "不利因素；缺点",
+      "collocations": [
+        "suffer disadvantages",
+        "a serious disadvantage"
+      ],
+      "compare": [
+        "disadvantage 是不利之处；drawback 是具体缺点，语气可较轻。"
+      ],
+      "usage": "本文作复数名词，不是动词“使处于劣势”。",
+      "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "We may gain big benefits in return for suffering big disadvantages.",
+      "dictionaryExample": {
+        "english": "a serious/severe/significant disadvantage",
+        "chinese": "严重/严重/重大不利",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "disadvantage somebody/something to cause problems and tend to stop somebody/something from succeeding or making progress",
+          "chinese": "不利因素；障碍；不便之处",
+          "exampleEnglish": "Some pension plans may disadvantage women.",
+          "exampleChinese": "有些养老金计划可能对妇女不利。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "52": {
+      "word": "consider",
+      "sourceRow": 52,
+      "english": "to think carefully about something",
+      "chinese": "考虑",
+      "collocations": [
+        "consider two trade-offs",
+        "consider an issue"
+      ],
+      "compare": [
+        "consider 是认真思考；suppose 是假设。"
+      ],
+      "usage": "本文是引出两个讨论主题的祈使句。",
+      "ipa": "/kənˈsɪdər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity.",
+      "dictionaryExample": {
+        "english": "I'd like some time to consider.",
+        "chinese": "我希望有些时间考虑一下。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[transitive] to think of somebody/something in a particular way",
+          "chinese": "认为；以为；觉得",
+          "exampleEnglish": "consider somebody/something + noun I consider her a friend.",
+          "exampleChinese": "我认为她是朋友。"
+        },
+        {
+          "english": "[transitive] consider somebody/something to think about something, especially the feelings of other people, and be influenced by it when making a decision, etc.",
+          "chinese": "体谅；考虑到；顾及",
+          "exampleEnglish": "You should consider other people before you act.",
+          "exampleChinese": "你在行动之前应当考虑到别人。"
+        },
+        {
+          "english": "[transitive] consider somebody/something (formal) to look carefully at somebody/something",
+          "chinese": "端详；注视",
+          "exampleEnglish": "He stood there, considering the painting.",
+          "exampleChinese": "他站在那里，凝视着那幅画。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "9": {
+      "word": "anonymity",
+      "sourceRow": 9,
+      "english": "the condition of not being personally known",
+      "chinese": "匿名；不被认出",
+      "collocations": [
+        "urban anonymity",
+        "preserve anonymity"
+      ],
+      "compare": [
+        "anonymity 是身份不被认出；isolation 是与他人隔绝。"
+      ],
+      "usage": "本文把匿名既当作城市代价，也当作个人自由。",
+      "ipa": "/ˌænəˈnɪməti/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity.",
+      "dictionaryExample": {
+        "english": "Names of people in the book were changed to preserve anonymity.",
+        "chinese": "为了姓名保密，书中的人用的都是化名。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the state of not having any unusual or interesting features",
+          "chinese": "无特色；无个性特征",
+          "exampleEnglish": "the anonymity of the hotel decor",
+          "exampleChinese": "这家旅馆毫无特色的装饰风格"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "53": {
+      "word": "issue",
+      "sourceRow": 53,
+      "english": "a subject being discussed or considered",
+      "chinese": "问题；议题",
+      "collocations": [
+        "the issue of freedom",
+        "raise an issue"
+      ],
+      "compare": [
+        "issue 是待讨论的问题；problem 暗示需要解决的困难。"
+      ],
+      "usage": "本文后接 of freedom，限定讨论主题。",
+      "ipa": "/ˈɪʃuː/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "[countable] an important topic that people are discussing or arguing about",
+          "chinese": "重要议题；争论的问题",
+          "exampleEnglish": "a key/major issue",
+          "exampleChinese": "关键/重大问题"
+        },
+        {
+          "english": "[countable] a problem or worry that somebody has with something（",
+          "chinese": "有关某事的）问题，担忧",
+          "exampleEnglish": "If you have any issues, please call this number.",
+          "exampleChinese": "如有问题，请拨打这个电话号码。"
+        },
+        {
+          "english": "[countable] one of a regular series of magazines or newspapers",
+          "chinese": "一期；期号",
+          "exampleEnglish": "July issue of ‘What Car?",
+          "exampleChinese": "汽车指南》的七月号"
+        },
+        {
+          "english": "[countable] a number or set of things that are supplied and made available at the same time",
+          "chinese": "一次发行额（或一套）",
+          "exampleEnglish": "The company is planning a new share issue.",
+          "exampleChinese": "公司正计划发行新股。"
+        },
+        {
+          "english": "[uncountable] the act of supplying or making available things for people to buy or use",
+          "chinese": "发行；分发",
+          "exampleEnglish": "I bought a set of the new stamps on the date of issue.",
+          "exampleChinese": "我在新邮票发行的当天就买了一套。"
+        },
+        {
+          "english": "issue of something to somebody the issue of blankets to the refugees",
+          "chinese": "给难民分发毯子"
+        },
+        {
+          "english": "[uncountable] the act of formally making something known to people",
+          "chinese": "发行；分发",
+          "exampleEnglish": "the issue of a joint statement by the French and German foreign ministers",
+          "exampleChinese": "法德两国外交部长联合声明的发布"
+        },
+        {
+          "english": "[uncountable] (law) children of your own",
+          "chinese": "子女；后嗣",
+          "exampleEnglish": "He died without issue.",
+          "exampleChinese": "他死时无子嗣。"
+        },
+        {
+          "english": "(formal) to start disagreeing or arguing with somebody about something",
+          "chinese": "向某人提出异议；开始与某人争论",
+          "exampleEnglish": "I must take issue with you on that point.",
+          "exampleChinese": "我必须就那一点向你提出异议。"
+        },
+        {
+          "english": "to make something known formally",
+          "chinese": "宣布；公布；发出",
+          "exampleEnglish": "They issued a joint statement denying the charges.",
+          "exampleChinese": "他们发表联合声明否认指控。"
+        },
+        {
+          "english": "to give something to somebody, especially officially（",
+          "chinese": "正式）发给，供给"
+        },
+        {
+          "english": "issue something to issue a licence/certificate/permit/ticket",
+          "chinese": "签发牌照/证书/许可证/票"
+        },
+        {
+          "english": "issue something to start a legal process against somebody, especially by means of an official document（",
+          "chinese": "尤指通过正式文件）将…诉诸法律",
+          "exampleEnglish": "to issue a writ against somebody",
+          "exampleChinese": "传讯某人"
+        },
+        {
+          "english": "issue something to produce something such as a magazine, article, etc.",
+          "chinese": "出版；发表",
+          "exampleEnglish": "We issue a monthly newsletter.",
+          "exampleChinese": "我们出版一份通讯月刊。"
+        },
+        {
+          "english": "issue something to produce new stamps, coins, shares, etc. for sale to the public",
+          "chinese": "发行（新的一批）",
+          "exampleEnglish": "They issued a special set of stamps to mark the occasion.",
+          "exampleChinese": "他们特别发行了一套纪念邮票。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "54": {
+      "word": "in effect",
+      "sourceRow": 54,
+      "english": "in practice; effectively",
+      "chinese": "实际上；事实上",
+      "collocations": [
+        "in effect",
+        "in effect a country"
+      ],
+      "compare": [
+        "in effect 表“实际上”；in force／in effect 谈法律时可指生效。"
+      ],
+      "usage": "本文修饰新加坡的政治地位，不译“影响”。",
+      "ipa": "/ɪˈfekt/",
+      "partOfSpeech": "adverbial phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
+      "dictionaryExample": {
+        "english": "His wife had, in effect, run the government for the past six months.",
+        "chinese": "过去的六个月实际上是他的妻子在执政。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "55": {
+      "word": "micro-country",
+      "sourceRow": 55,
+      "english": "a very small country",
+      "chinese": "微型国家",
+      "collocations": [
+        "a micro-country",
+        "micro-scale"
+      ],
+      "compare": [
+        "micro- 表极小；miniature 也表示缩小，但常形容模型。"
+      ],
+      "usage": "本文是作者构造的小国称谓，词典给的是构词前缀。",
+      "ipa": "/maɪkrəʊ/, /maɪkrə/, /maɪˈkrɑː/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "(in nouns; used in units of measurement",
+          "chinese": "构成名词，用于计量单位) one millionth微；百万分之一"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录含相关词条，但未直接列出本文的完整用法；语境义据原文整理。"
+    },
+    "56": {
+      "word": "nearly",
+      "sourceRow": 56,
+      "english": "almost, but not completely",
+      "chinese": "几乎；将近",
+      "collocations": [
+        "nearly six million",
+        "nearly half"
+      ],
+      "compare": [
+        "nearly 是接近但未达到；about 是大约，可能高于或低于。"
+      ],
+      "usage": "置于数字前，本文为接近六百万。",
+      "ipa": "/ˈnɪrli/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.",
+      "dictionaryExample": {
+        "english": "The bottle's nearly empty.",
+        "chinese": "这瓶子差不多空了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(informal) almost; almost completely",
+          "chinese": "几乎；差不多",
+          "exampleEnglish": "The first stage is pretty nearly finished.",
+          "exampleChinese": "第一阶段已接近完成。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "57": {
+      "word": "be packed into",
+      "sourceRow": 57,
+      "english": "to be crowded into a limited space",
+      "chinese": "被挤进；密集在",
+      "collocations": [
+        "be packed into a small area",
+        "packed into 250 square miles"
+      ],
+      "compare": [
+        "be packed into 强调大量人挤在有限空间；be scattered over 相反。"
+      ],
+      "usage": "被动结构；into 后接容纳空间。",
+      "ipa": "/pækt/",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "词典摘录含相关词条，但未直接列出本文的完整用法；语境义据原文整理。"
+    },
+    "58": {
+      "word": "square mile",
+      "sourceRow": 58,
+      "english": "an area of one mile by one mile",
+      "chinese": "平方英里",
+      "collocations": [
+        "250 square miles",
+        "an area of one square mile"
+      ],
+      "compare": [
+        "square mile 是面积单位；mile 是长度单位。"
+      ],
+      "usage": "数字后 mile 用复数；本文用其比较人口密度。",
+      "ipa": "/skwer/",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.",
+      "dictionaryExample": {
+        "english": "an area of 36 square metres/feet/miles/kilometres/inches",
+        "chinese": "面积36平方米/英尺/英里/公里/英寸",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "59": {
+      "word": "strait",
+      "sourceRow": 59,
+      "english": "a narrow stretch of sea between two land masses",
+      "chinese": "海峡",
+      "collocations": [
+        "a shipping strait",
+        "a narrow strait"
+      ],
+      "compare": [
+        "strait 是海峡；straight 是直的，拼写近而义不同。"
+      ],
+      "usage": "本文是港口航线经过的海峡，不是形容词 straight。",
+      "ipa": "/streɪt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
+      "dictionaryExample": {
+        "english": "the Strait(s) of Gibraltar",
+        "chinese": "直布罗陀海峡",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "straits [plural] a very difficult situation especially because of lack of money（",
+          "chinese": "尤指经济拮据引起的）困境，境况窘迫",
+          "exampleEnglish": "The factory is in dire straits.",
+          "exampleChinese": "工厂岌岌可危。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "60": {
+      "word": "prime",
+      "sourceRow": 60,
+      "english": "excellent and especially valuable or desirable",
+      "chinese": "优质的；上等的",
+      "collocations": [
+        "prime real estate",
+        "a prime location"
+      ],
+      "compare": [
+        "prime 在此是上等的；primary 更常表示第一顺位或基础。"
+      ],
+      "usage": "置于 real estate 前，强调土地位置和价值。",
+      "ipa": "/praɪm/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
+      "dictionaryExample": {
+        "english": "prime (cuts of) beef",
+        "chinese": "上等的牛肉（块）",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "main; most important; basic",
+          "chinese": "主要的；首要的；基本的",
+          "exampleEnglish": "My prime concern is to protect my property.",
+          "exampleChinese": "我最关心的是保护自己的财产。"
+        },
+        {
+          "english": "a prime example of something is one that is typical of it",
+          "chinese": "典型的；有代表性的",
+          "exampleEnglish": "The building is a prime example of 1960s architecture.",
+          "exampleChinese": "这座大楼是 20 世纪 60 年代的典型建筑。"
+        },
+        {
+          "english": "[singular] the time in your life when you are strongest or most successful",
+          "chinese": "盛年；年富力强的时期；鼎盛时期",
+          "exampleEnglish": "a young woman in her prime",
+          "exampleChinese": "正当妙龄的女郎"
+        },
+        {
+          "english": "(also prime number) [countable] a number that can be divided exactly only by itself and 1, for example 7, 17 and 41",
+          "chinese": "素数，质数（只能被 1 和其自身整除）"
+        },
+        {
+          "english": "to prepare somebody for a situation so that they know what to do, especially by giving them special information",
+          "chinese": "事先指点；使（某人）做好准备",
+          "exampleEnglish": "They had been primed with good advice.",
+          "exampleChinese": "他们事先得到了高人指点。"
+        },
+        {
+          "english": "prime something to make something ready for use or action",
+          "chinese": "把（事物）准备好",
+          "exampleEnglish": "The bomb was primed, ready to explode.",
+          "exampleChinese": "炸弹已准备好，可随时引爆。"
+        },
+        {
+          "english": "prime something to prepare wood, metal, etc. for painting by covering it with a special paint that helps the next layer of paint to stay on",
+          "chinese": "在（金属、木材等上）打底漆",
+          "exampleEnglish": "to encourage the growth of a new or weak business or industry by putting money into it",
+          "exampleChinese": "投资以振兴（新的或不景气的企业或行业）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "61": {
+      "word": "real estate",
+      "sourceRow": 61,
+      "english": "land and buildings as property",
+      "chinese": "房地产；不动产",
+      "collocations": [
+        "prime real estate",
+        "own real estate"
+      ],
+      "compare": [
+        "real estate 是土地与建筑物；property 范围更广。"
+      ],
+      "usage": "不可数集合名词；本文强调稀缺地段。",
+      "ipa": "/ˈriːəl ɪsteɪt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
+      "dictionaryExample": {
+        "english": "My father sold real estate.",
+        "chinese": "我父亲经营过房地产。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the business of selling houses or land for building",
+          "chinese": "房地产业；房地产销售业",
+          "exampleEnglish": "to work in real estate",
+          "exampleChinese": "经营房地产"
+        },
+        {
+          "english": "(especially on a web page) space that is useful or valuable（",
+          "chinese": "尤指网页上）有用的空间，有价值的空间",
+          "exampleEnglish": "A company's home page is its most valuable real estate.",
+          "exampleChinese": "一家公司的主页是其最有价值的网上空间。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "10": {
+      "word": "wedge",
+      "sourceRow": 10,
+      "english": "to force into a narrow space or position",
+      "chinese": "把……挤入；楔入",
+      "collocations": [
+        "be wedged between neighbors",
+        "wedge something into a gap"
+      ],
+      "compare": [
+        "wedge 在此是“挤在两者之间”；wedge 作名词是楔子。"
+      ],
+      "usage": "本文是过去分词 wedged，表示新加坡的地理位置。",
+      "ipa": "/wedʒ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
+      "dictionaryExample": {
+        "english": "The boat was now wedged between the rocks.",
+        "chinese": "船卡在了岩石之间。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a piece of wood, rubber, metal, etc. with one thick end and one thin, pointed end that you use to keep a door open, to keep two things apart, or to split wood or rock",
+          "chinese": "楔子；三角木",
+          "exampleEnglish": "He hammered the wedge into the crack in the stone.",
+          "exampleChinese": "他用锤子把楔子砸入石缝里。"
+        },
+        {
+          "english": "(especially British English) an event or action that is the beginning of something more serious and/or unpleasant（",
+          "chinese": "不好的事物的）端倪，冰山一角",
+          "exampleEnglish": "The introduction of a tax on workplace parking is seen by many as the thin end of the wedge.",
+          "exampleChinese": "对工作场所停车位征收税收被许多人视为楔子的薄弱环节。"
+        },
+        {
+          "english": "wedge something (+ adj.) to make something stay in a particular position, especially open or shut, by placing something against it",
+          "chinese": "把…楔牢（或楔住）",
+          "exampleEnglish": "to wedge the door open",
+          "exampleChinese": "用楔子卡住门让它开着"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "62": {
+      "word": "racial",
+      "sourceRow": 62,
+      "english": "connected with differences between races",
+      "chinese": "种族的；种族间的",
+      "collocations": [
+        "racial tensions",
+        "racial discrimination"
+      ],
+      "compare": [
+        "racial 关乎种族；racist 明确含有种族歧视态度。"
+      ],
+      "usage": "本文与 economic 并列修饰 tensions。",
+      "ipa": "/ˈreɪʃl/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.",
+      "dictionaryExample": {
+        "english": "They have pledged to end racial discrimination in areas such as employment.",
+        "chinese": "他们已经保证在诸如就业等方面终止种族歧视。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[usually before noun] connected with a person’s race",
+          "chinese": "人种的；种族的",
+          "exampleEnglish": "a person’s racial origin",
+          "exampleChinese": "某人的种族背景"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "63": {
+      "word": "tension",
+      "sourceRow": 63,
+      "english": "a strained relationship between people or groups",
+      "chinese": "紧张关系",
+      "collocations": [
+        "racial tensions",
+        "political tension"
+      ],
+      "compare": [
+        "tension 是关系紧张；stress 更常指个人压力。"
+      ],
+      "usage": "本文复数 tensions 指多方面紧张关系。",
+      "ipa": "/ˈtenʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.",
+      "dictionaryExample": {
+        "english": "There is mounting tension along the border.",
+        "chinese": "边境局势日趋紧张。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable, uncountable] tension (between A and B) a situation in which the fact that there are different needs or interests causes difficulties",
+          "chinese": "矛盾；对立",
+          "exampleEnglish": "There is often a tension between the aims of the company and the wishes of the employees.",
+          "exampleChinese": "公司的目标和雇员的愿望之间经常存在矛盾。"
+        },
+        {
+          "english": "[uncountable] a feeling of worry and stress that makes it impossible to relax（",
+          "chinese": "情绪上的）紧张，烦躁",
+          "exampleEnglish": "We laughed and that helped ease the tension.",
+          "exampleChinese": "我们笑了，因而紧张的情绪得以缓和下来。"
+        },
+        {
+          "english": "[uncountable] the feeling of fear and excitement that is created by a writer or a film director（",
+          "chinese": "作家或电影导演制造的）紧张气氛",
+          "exampleEnglish": "As the movie progresses the tension builds.",
+          "exampleChinese": "随着电影剧情的发展，气氛越来越紧张。"
+        },
+        {
+          "english": "[uncountable] the state of being stretched tight; the extent to which something is stretched tight",
+          "chinese": "拉伸；张力；拉紧状态；绷紧程度",
+          "exampleEnglish": "Adjust the string tension of your tennis racket to suit your style of playing.",
+          "exampleChinese": "调节网球拍的网张力，以配合你的打法。"
+        },
+        {
+          "english": "tension something to make a wire, sail, etc. tight and stretched（",
+          "chinese": "使金属线、帆等）拉紧，绷紧"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "11": {
+      "word": "spur",
+      "sourceRow": 11,
+      "english": "to cause something to happen or develop",
+      "chinese": "促使；刺激",
+      "collocations": [
+        "spur separation",
+        "spur economic growth"
+      ],
+      "compare": [
+        "spur 是促使发展或行动；cause 更宽泛，不强调刺激作用。"
+      ],
+      "usage": "及物动词；本文由 tensions 作主语，后接 separation。",
+      "ipa": "/spɜːr/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.",
+      "dictionaryExample": {
+        "english": "The agreement is essential to spurring economic growth around the world.",
+        "chinese": "这项协议对于促进世界经济的增长是至关重要的。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a sharp pointed object that riders sometimes wear on the heels of their boots and use to encourage their horse to go faster",
+          "chinese": "马刺；靴刺",
+          "exampleEnglish": "He dug his spurs into the horse’s sides.",
+          "exampleChinese": "他把马刺挖到马的两侧。"
+        },
+        {
+          "english": "[usually singular] a fact or an event that makes you want to do something better or more quickly",
+          "chinese": "鞭策；激励；刺激；鼓舞"
+        },
+        {
+          "english": "an area of high ground that sticks out from a mountain or hill",
+          "chinese": "山嘴；尖坡；支脉"
+        },
+        {
+          "english": "a road or a railway track that leads from the main road or line（",
+          "chinese": "公路或铁路的）支线，岔线",
+          "exampleEnglish": "suddenly, without planning in advance",
+          "exampleChinese": "一时冲动之下；心血来潮"
+        },
+        {
+          "english": "(formal) to become famous or successful",
+          "chinese": "获得名望；取得成功"
+        },
+        {
+          "english": "to encourage somebody to do something or to encourage them to try harder to achieve something",
+          "chinese": "鞭策；激励；刺激；鼓舞"
+        },
+        {
+          "english": "spur something to encourage a horse to go faster, especially by pushing the spurs on your boots into its side",
+          "chinese": "策（马）前进；（尤指用马刺）策（马）加速",
+          "exampleEnglish": "As he shouted his order he spurred the horse forward suddenly.",
+          "exampleChinese": "当他大喊大叫时，他突然将马向前拉。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "12": {
+      "word": "provoke",
+      "sourceRow": 12,
+      "english": "to cause a reaction, especially an unwanted one",
+      "chinese": "激起；招致",
+      "collocations": [
+        "provoke a neighbor",
+        "provoke a reaction"
+      ],
+      "compare": [
+        "provoke 强调引起不良反应；encourage 通常带积极方向。"
+      ],
+      "usage": "本文指避免激怒邻国，宾语是 neighbors。",
+      "ipa": "/prəˈvəʊk/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But Singapore depends on Malaysia for most of its water and much of its food, and can't afford to make mistakes or provoke its neighbors.",
+      "dictionaryExample": {
+        "english": "The announcement provoked a storm of protest.",
+        "chinese": "这个声明激起了抗议的风潮。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to say or do something that you know will annoy somebody so that they react in an angry way",
+          "chinese": "挑衅；激怒；刺激",
+          "exampleEnglish": "Be careful what you say—he's easily provoked.",
+          "exampleChinese": "说话要小心，他这个人一惹就火儿。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "64": {
+      "word": "monitor",
+      "sourceRow": 64,
+      "english": "to watch or check someone closely over time",
+      "chinese": "监控；监视",
+      "collocations": [
+        "monitor citizens",
+        "monitor traffic"
+      ],
+      "compare": [
+        "monitor 是持续监测；observe 可以是一次观察。"
+      ],
+      "usage": "及物动词；本文主语为政府，宾语为公民。",
+      "ipa": "/ˈmɑːnɪtər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.",
+      "dictionaryExample": {
+        "english": "A police helicopter will be used to monitor crime hotspots.",
+        "chinese": "将使用警用直升机监视犯罪热点。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a screen that shows information from a computer; a television screen used to show particular kinds of information",
+          "chinese": "显示屏；监视器；（计算机）显示器",
+          "exampleEnglish": "The details of today's flights are displayed on the monitor.",
+          "exampleChinese": "今天航班的详细情况都显示在屏幕上。"
+        },
+        {
+          "english": "a piece of equipment used to check or record something",
+          "chinese": "监控器；监测器",
+          "exampleEnglish": "He was lying there hooked up to a heart monitor.",
+          "exampleChinese": "他躺在那儿，身上连着一台心脏监测仪。"
+        },
+        {
+          "english": "a person whose job is to check that something is done fairly and honestly, especially in a foreign country（",
+          "chinese": "尤指派往国外的）监督员，核查员",
+          "exampleEnglish": "UN monitors declared the referendum fair.",
+          "exampleChinese": "联合国核查员宣布这次全民投票是公正的。"
+        },
+        {
+          "english": "a student in a school who performs special duties, such as helping the teacher",
+          "chinese": "班长；级长；班代表",
+          "exampleEnglish": "He was a star pupil and the class monitor.",
+          "exampleChinese": "他是一名明星学生和班长。"
+        },
+        {
+          "english": "to watch and check something over a period of time in order to see how it develops, so that you can make any necessary changes",
+          "chinese": "监视；检查；跟踪调查",
+          "exampleEnglish": "Each student's progress is closely monitored.",
+          "exampleChinese": "每一位同学的学习情况都受到密切的关注。"
+        },
+        {
+          "english": "monitor something to listen to phone calls, foreign radio broadcasts, etc. in order to find out information that might be useful",
+          "chinese": "监听（电话、外国无线电广播等）",
+          "exampleEnglish": "a police state where every activity is monitored",
+          "exampleChinese": "监视所有活动的警察局"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "65": {
+      "word": "citizen",
+      "sourceRow": 65,
+      "english": "a person legally belonging to a country",
+      "chinese": "公民",
+      "collocations": [
+        "monitor citizens",
+        "rights of citizens"
+      ],
+      "compare": [
+        "citizen 是国家公民；resident 是住在当地的人，不必有国籍。"
+      ],
+      "usage": "本文关注政府与公民的权利交换。",
+      "ipa": "/ˈsɪtɪzn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.",
+      "dictionaryExample": {
+        "english": "The defeat of the president did not change the lives of ordinary citizens for the better.",
+        "chinese": "总统的失败并没有改变普通公民的生活。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a person who lives in a particular place",
+          "chinese": "居民；市民",
+          "exampleEnglish": "When you're old, people treat you like a second-class citizen.",
+          "exampleChinese": "当你年迈时，人们会把你当成二等公民对待。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "66": {
+      "word": "closely",
+      "sourceRow": 66,
+      "english": "with careful attention",
+      "chinese": "密切地；仔细地",
+      "collocations": [
+        "monitor closely",
+        "watch closely"
+      ],
+      "compare": [
+        "closely 在此是仔细／严密地；nearby 表空间上“在附近”。"
+      ],
+      "usage": "副词修饰 monitors，说明监控强度。",
+      "ipa": "/ˈkləʊsli/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.",
+      "dictionaryExample": {
+        "english": "I sat and watched everyone very closely.",
+        "chinese": "我坐着仔细观察每一个人。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "near in space or time（",
+          "chinese": "在空间、时间上）接近",
+          "exampleEnglish": "He walked into the room, closely followed by the rest of the family.",
+          "exampleChinese": "他走进房间，后面紧跟着他的家人。"
+        },
+        {
+          "english": "near in family relationship（",
+          "chinese": "家庭关系）亲近的",
+          "exampleEnglish": "The two species are closely related.",
+          "exampleChinese": "这两个物种密切相关。"
+        },
+        {
+          "english": "in a way that shows you are very involved in the work or activities of somebody else, usually seeing and talking to them regularly（",
+          "chinese": "与某人的工作或活动）紧密相关的，密切的",
+          "exampleEnglish": "The organization works closely with customers in nearly 100 countries.",
+          "exampleChinese": "该组织与近100个国家/地区的客户紧密合作。"
+        },
+        {
+          "english": "closely contested/fought won or likely to be won by only a small amount or distance",
+          "chinese": "实力相差无几的；仅以些微之差获胜的",
+          "exampleEnglish": "a closely contested election",
+          "exampleChinese": "实力相差无几的竞选"
+        },
+        {
+          "english": "closely shaved/shaven/cut (of hair) cut very short, near to the skin",
+          "chinese": "剪到齐根的；剪得很短的",
+          "exampleEnglish": "He had a closely shaved head and a small, neat beard.",
+          "exampleChinese": "他的头剃得很紧，胡须小而整齐。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "67": {
+      "word": "inspector",
+      "sourceRow": 67,
+      "english": "an official who checks that rules are followed",
+      "chinese": "检查员",
+      "collocations": [
+        "health inspectors",
+        "inspectors check for water"
+      ],
+      "compare": [
+        "inspector 是执行检查的人；monitor 可指监测设备或人员。"
+      ],
+      "usage": "本文指入户查看蚊虫孳生风险的检查员。",
+      "ipa": "/ɪnˈspektər/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "a school/health/safety inspector",
+        "chinese": "学校/健康/安全检查员",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an officer of middle rank in the police force（",
+          "chinese": "警察）巡官",
+          "exampleEnglish": "Inspector Maggie Forbes",
+          "exampleChinese": "玛吉 · 福布斯巡官"
+        },
+        {
+          "english": "(in the UK) a person whose job is to check tickets on a bus or train（",
+          "chinese": "英国公共汽车或火车上的）查票员"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "68": {
+      "word": "standing water",
+      "sourceRow": 68,
+      "english": "water that has collected and is not flowing",
+      "chinese": "积水；死水",
+      "collocations": [
+        "standing water",
+        "mosquitoes breed in standing water"
+      ],
+      "compare": [
+        "standing water 是不流动的积水；running water 是流动水。"
+      ],
+      "usage": "复合名词整体指积水，不把 standing 译“站立的”。",
+      "ipa": "/ˈstændɪŋ wɔːtər/",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "Mosquitoes can breed in standing water.",
+        "chinese": "蚊子可以在死水中繁殖。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "69": {
+      "word": "pot",
+      "sourceRow": 69,
+      "english": "a container used for plants or household use",
+      "chinese": "盆；罐",
+      "collocations": [
+        "household pots",
+        "flower pots"
+      ],
+      "compare": [
+        "pot 是容器；pan 通常是较浅的烹饪锅。"
+      ],
+      "usage": "本文指家中可积水的盆罐，需结合蚊虫语境。",
+      "ipa": "/pɑːt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "The newly made pots are glazed when they are completely dry.",
+        "chinese": "刚做好的陶罐在干透后上釉。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable] a deep round container used for cooking things in",
+          "chinese": "锅",
+          "exampleEnglish": "pots and pans",
+          "exampleChinese": "锅碗瓢盆"
+        },
+        {
+          "english": "[countable] (especially British English) a container made of glass, clay or plastic, used for storing food in（",
+          "chinese": "盛食品的）罐，瓶，壶，盒",
+          "exampleEnglish": "a pot of jam",
+          "exampleChinese": "一罐果酱"
+        },
+        {
+          "english": "[countable] (especially in compounds) a container of various kinds, made for a particular purpose（",
+          "chinese": "某种用途的）容器",
+          "exampleEnglish": "a coffee pot",
+          "exampleChinese": "咖啡壶"
+        },
+        {
+          "english": "[countable] the amount contained in a pot",
+          "chinese": "一罐，一瓶，一壶（的量）",
+          "exampleEnglish": "They drank a pot of coffee.",
+          "exampleChinese": "他们喝了一壶咖啡。"
+        },
+        {
+          "english": "(also potshot) [countable] (informal) a shot that somebody fires without aiming carefully",
+          "chinese": "乱射；盲目射击",
+          "exampleEnglish": "He took a pot at the neighbour's cat with his air rifle.",
+          "exampleChinese": "他用气枪向邻居的猫打了一枪。"
+        },
+        {
+          "english": "[countable] (in the game of billiards, pool or snooker",
+          "chinese": "台球、普尔或斯诺克) the act of hitting a ball into one of the pockets around the edge of the table击球入袋",
+          "exampleEnglish": "a large prize or reward that somebody hopes for but is unlikely to get",
+          "exampleChinese": "不大可能得到的大笔奖赏（或报酬）"
+        },
+        {
+          "english": "(informal) to become much less good because people are not working hard or taking care of things",
+          "chinese": "荒废；荒疏；疏懒",
+          "exampleEnglish": "Her handwriting's gone to pot since she started using a computer all the time.",
+          "exampleChinese": "自从她开始完全使用电脑后，她的书法就荒疏了。"
+        },
+        {
+          "english": "(especially British English) likely to change; in the process of changing",
+          "chinese": "要起变化；处于变化之中"
+        },
+        {
+          "english": "(saying, informal) used to say that you should not criticize somebody for a fault that you have yourself",
+          "chinese": "锅笑壶黑；五十步笑百步；乌鸦说猪黑",
+          "exampleEnglish": "when you take pot luck, you choose something or go somewhere without knowing very much about it, but hope that it will be good, pleasant, etc.",
+          "exampleChinese": "碰运气；撞大运"
+        },
+        {
+          "english": "(British English, informal) a very large amount of money",
+          "chinese": "大笔的金钱；巨额款项"
+        },
+        {
+          "english": "(British English) to put something into a space that is too small for it",
+          "chinese": "将…置于容不下之处",
+          "exampleEnglish": "Writing a history of the world in a single volume is like putting a quart into a pint pot.",
+          "exampleChinese": "单卷撰写世界历史就像将一夸脱放入一品脱锅中。"
+        },
+        {
+          "english": "(saying) used to say that when you are impatient for something to happen, time seems to pass very slowly",
+          "chinese": "心急水不开（越心急，时间过得越慢）"
+        },
+        {
+          "english": "pot something to put a plant into a flowerpot filled with soil",
+          "chinese": "把…栽入盆中；种盆栽"
+        },
+        {
+          "english": "in billiards, etc.",
+          "chinese": "台球等",
+          "exampleEnglish": "pot something (in the games of billiards, pool and snooker",
+          "exampleChinese": "台球、普尔和斯诺克) to hit a ball into one of the pockets (= holes at the corners and edges of the table)击（球）入袋"
+        },
+        {
+          "english": "pot something to kill an animal or a bird by shooting it",
+          "chinese": "射杀，射猎（飞禽或走兽）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "70": {
+      "word": "lest",
+      "sourceRow": 70,
+      "english": "for fear that; to prevent something undesirable",
+      "chinese": "以免；唯恐",
+      "collocations": [
+        "lest mosquitoes breed",
+        "lest something happen"
+      ],
+      "compare": [
+        "lest 是“以免”；unless 是“除非”，逻辑不同。"
+      ],
+      "usage": "后接从句；本文说明检查积水的预防目的。",
+      "ipa": "/lest/",
+      "partOfSpeech": "conjunction",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "He gripped his brother's arm lest he be trampled by the mob.",
+        "chinese": "他紧抓着他弟弟的胳膊，怕他让暴民踩着。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "used to introduce the reason for the particular emotion mentioned（",
+          "chinese": "引出产生某种情感的原因）唯恐，担心",
+          "exampleEnglish": "She was afraid lest she had revealed too much.",
+          "exampleChinese": "她担心她泄露得太多了。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "13": {
+      "word": "furnish",
+      "sourceRow": 13,
+      "english": "to provide a place or conditions for something",
+      "chinese": "为……提供（场所）",
+      "collocations": [
+        "furnish breeding sites",
+        "furnish somebody with information"
+      ],
+      "compare": [
+        "furnish 在此是“提供”；常见的 furnish a room 是“布置家具”。"
+      ],
+      "usage": "本文的主语是积水，提供蚊虫繁殖场所。",
+      "ipa": "/ˈfɜːrnɪʃ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "She furnished him with the facts surrounding the case.",
+        "chinese": "她向他提供了与案件有关的事实。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "furnish something to put furniture in a house, room, etc.",
+          "chinese": "在（房屋等）处布置家具",
+          "exampleEnglish": "The room was furnished with antiques.",
+          "exampleChinese": "房间里摆放了古董。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "71": {
+      "word": "breed",
+      "sourceRow": 71,
+      "english": "to reproduce; to produce young",
+      "chinese": "繁殖",
+      "collocations": [
+        "breeding sites",
+        "mosquitoes breed"
+      ],
+      "compare": [
+        "breed 指繁殖；raise 指人饲养动物。"
+      ],
+      "usage": "本文 breeding 作定语修饰 sites。",
+      "ipa": "/briːd/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "Many animals breed only at certain times of the year.",
+        "chinese": "很多动物只在一年的某个时候交配繁殖。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[transitive, intransitive] to keep animals or plants in order to produce young ones for a particular purpose",
+          "chinese": "饲养，培育（动植物）",
+          "exampleEnglish": "The rabbits are bred for their long coats.",
+          "exampleChinese": "饲养兔子是为了获取它们的长毛。"
+        },
+        {
+          "english": "[transitive] breed something to be the cause of something",
+          "chinese": "孕育；导致",
+          "exampleEnglish": "Nothing breeds success like success.",
+          "exampleChinese": "一事成功，万事亨通。"
+        },
+        {
+          "english": "[transitive, usually passive] breed something into somebody to educate somebody in a particular way as they are growing up",
+          "chinese": "以…方式教育；使养成",
+          "exampleEnglish": "Fear of failure was bred into him at an early age.",
+          "exampleChinese": "他从小就养成了对失败的恐惧。"
+        },
+        {
+          "english": "(saying) knowing somebody/something very well may cause you to lose respect for them/it",
+          "chinese": "过分亲密就会有所侮慢"
+        },
+        {
+          "english": "a particular type of animal that has been developed by people in a certain way, especially a type of dog, cat or farm animal",
+          "chinese": "品种（尤指人工培育的狗、猫或牲畜）",
+          "exampleEnglish": "Labradors and other large breeds of dog",
+          "exampleChinese": "拉布拉多及其他大型犬"
+        },
+        {
+          "english": "[usually singular] a type of person（",
+          "chinese": "人的）类型，种类",
+          "exampleEnglish": "He represents a new breed of politician.",
+          "exampleChinese": "他代表着新一类的政治家。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "14": {
+      "word": "transmit",
+      "sourceRow": 14,
+      "english": "to pass a disease from one host to another",
+      "chinese": "传播（疾病）",
+      "collocations": [
+        "transmit disease",
+        "disease-transmitting mosquitoes"
+      ],
+      "compare": [
+        "transmit 是传播信息或疾病；spread 更口语、范围更广。"
+      ],
+      "usage": "本文以复合修饰语 disease-transmitting 说明蚊子作用。",
+      "ipa": "/trænzˈmɪt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+      "dictionaryExample": {
+        "english": "transmit something sexually transmitted diseases",
+        "chinese": "性传播疾病",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[transitive, intransitive] transmit (something) (from…) (to…) to send an electronic signal, radio or television broadcast, etc.",
+          "chinese": "传送；输送；发射；播送",
+          "exampleEnglish": "signals transmitted from a satellite",
+          "exampleChinese": "从卫星传送来的信号"
+        },
+        {
+          "english": "[transitive] transmit something (specialist) to allow heat, light, sound, etc. to pass through",
+          "chinese": "传（热、声等）；透（光等）；使通过",
+          "exampleEnglish": "Steam only transmits heat when it condenses.",
+          "exampleChinese": "蒸汽只有在冷凝时才传导热能。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "15": {
+      "word": "sensor",
+      "sourceRow": 15,
+      "english": "a device that detects changes in its surroundings",
+      "chinese": "传感器",
+      "collocations": [
+        "smart-technology sensors",
+        "an infrared sensor"
+      ],
+      "compare": [
+        "sensor 是探测变化的器件；meter 主要测量并记录数量。"
+      ],
+      "usage": "可数名词；本文指城市技术监测设备。",
+      "ipa": "/ˈsensər/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.",
+      "dictionaryExample": {
+        "english": "security lights with an infrared sensor (= that come on when a person is near them)",
+        "chinese": "带红外线传感器的保安灯",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "72": {
+      "word": "measure",
+      "sourceRow": 72,
+      "english": "to find or record the amount of something",
+      "chinese": "测量；计量",
+      "collocations": [
+        "measure traffic",
+        "measure temperature"
+      ],
+      "compare": [
+        "measure 是测量；monitor 是持续追踪变化。"
+      ],
+      "usage": "本文传感器既量交通，也量温度与阴影。",
+      "ipa": "/ˈmeʒər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "measure something/somebody a device that measures the level of radiation in the atmosphere",
+          "chinese": "测量大气中辐射强度的仪器",
+          "exampleEnglish": "Blood pressure and heart rate should be measured before treatment.",
+          "exampleChinese": "治疗前应测量血压和心率。"
+        },
+        {
+          "english": "linking verb (not used in the progressive tenses",
+          "chinese": "不用于进行时) + noun to be a particular size, length, amount, etc.（指尺寸、长短、数量等）量度为",
+          "exampleEnglish": "The main bedroom measures 12ft by 15ft.",
+          "exampleChinese": "主卧室宽 12 英尺，长 15 英尺。"
+        },
+        {
+          "english": "measure something | measure how, what, etc… to judge the importance, value or effect of something",
+          "chinese": "估量，判定（重要性、价值或影响等）",
+          "exampleEnglish": "It is difficult to measure the success of the campaign at this stage.",
+          "exampleChinese": "在现阶段还难以估量这场运动的成败。"
+        },
+        {
+          "english": "[countable] an official action that is done in order to achieve a particular aim",
+          "chinese": "措施；方法",
+          "exampleEnglish": "a temporary/an emergency measure",
+          "exampleChinese": "临时／紧急措施"
+        },
+        {
+          "english": "unit of size/quantity",
+          "chinese": "度量单位"
+        },
+        {
+          "english": "[countable, uncountable] a unit used for stating the size, quantity or degree of something; a system or a scale of these units",
+          "chinese": "度量单位；计量标准",
+          "exampleEnglish": "weights and measures",
+          "exampleChinese": "度量衡"
+        },
+        {
+          "english": "[countable] (especially of alcohol) a standard quantity",
+          "chinese": "标准量",
+          "exampleEnglish": "a generous measure of whisky",
+          "exampleChinese": "比标准量稍多一点的威士忌"
+        },
+        {
+          "english": "way of showing/judging",
+          "chinese": "展示方式；判断方法"
+        },
+        {
+          "english": "[countable] a way of judging or measuring something",
+          "chinese": "判断；衡量",
+          "exampleEnglish": "measure of something an accurate measure of ability",
+          "exampleChinese": "能力的准确评判"
+        },
+        {
+          "english": "[singular] measure of something a sign of the size or the strength of something",
+          "chinese": "尺度；标准；程度",
+          "exampleEnglish": "Sending flowers is a measure of how much you care.",
+          "exampleChinese": "送花能表明你有多关心。"
+        },
+        {
+          "english": "[singular] measure of something a particular amount of something, especially a fairly large amount（",
+          "chinese": "一定的）量，程度",
+          "exampleEnglish": "A measure of technical knowledge is desirable in this job.",
+          "exampleChinese": "做这项工作最好多懂一些技术知识。"
+        },
+        {
+          "english": "instrument for measuring",
+          "chinese": "测量仪器"
+        },
+        {
+          "english": "[countable] an instrument such as a stick, a long tape or a container that is marked with standard units and is used for measuring",
+          "chinese": "量器；计量工具",
+          "exampleEnglish": "suggested new law",
+          "exampleChinese": "法案"
+        },
+        {
+          "english": "[countable] (North American English) a written suggestion, especially one for a new law made by the lawmakers of a state（",
+          "chinese": "尤指州立法者的）提案，法案，议案",
+          "exampleEnglish": "a motion to refer the measure to another committee",
+          "exampleChinese": "将提案提交给另一个委员会的动议"
+        },
+        {
+          "english": "(British English usually bar) [countable] one of the short sections of equal length that a piece of music is divided into, and the notes that are in it（",
+          "chinese": "乐谱的）小节（音乐节拍单位）",
+          "exampleEnglish": "(formal) very much",
+          "exampleChinese": "非常；极其"
+        },
+        {
+          "english": "(formal) to form an opinion about something, especially somebody’s character or abilities, so that you can deal with them",
+          "chinese": "摸清某人的底细",
+          "exampleEnglish": "After only one game, the chess champion had the measure of his young opponent.",
+          "exampleChinese": "仅仅一局过后，这位国际象棋冠军就摸清了年轻对手的实力。"
+        },
+        {
+          "english": "(formal) to the greatest possible degree",
+          "chinese": "最大程度地；最大限度地",
+          "exampleEnglish": "My expectations had been met in full measure.",
+          "exampleChinese": "我的期望得到了最大的满足。"
+        },
+        {
+          "english": "(formal) to a great extent",
+          "chinese": "在很大程度上",
+          "exampleEnglish": "Their success is due in large measure to their determination.",
+          "exampleChinese": "他们的成功很大程度上取决于他们的决心。"
+        },
+        {
+          "english": "(formal) to a large extent or degree; to some, etc. extent or degree",
+          "chinese": "在很大（或某种、同样等）程度上",
+          "exampleEnglish": "The introduction of a new tax accounted in no small measure for the downfall of the government.",
+          "exampleChinese": "这届政府的垮台在很大程度上归因于征收一种新税。"
+        },
+        {
+          "english": "(British English) made especially for one person according to particular measurements",
+          "chinese": "量身定制的",
+          "exampleEnglish": "You'll need to get a suit made to measure.",
+          "exampleChinese": "你得定做一套西装。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "73": {
+      "word": "cast",
+      "sourceRow": 73,
+      "english": "to create or throw a shadow",
+      "chinese": "投下（阴影）",
+      "collocations": [
+        "cast a shadow",
+        "shadows cast by buildings"
+      ],
+      "compare": [
+        "cast a shadow 是投下阴影；throw a shadow 也可用，但 cast 更书面。"
+      ],
+      "usage": "本文过去分词 cast 后接 by buildings 表施事。",
+      "ipa": "/kæst/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.",
+      "dictionaryExample": {
+        "english": "Someone was standing in the dark shadow cast by the light.",
+        "chinese": "有人站在光所投射的黑暗阴影中。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a look/glance/smile",
+          "chinese": "瞧；瞥；笑"
+        },
+        {
+          "english": "[transitive] to look, smile, etc. in a particular direction",
+          "chinese": "向…投以（视线、笑容等）",
+          "exampleEnglish": "She cast a welcoming smile in his direction.",
+          "exampleChinese": "她向他微笑以示欢迎。"
+        },
+        {
+          "english": "[transitive] to say, do or suggest something that makes people doubt something or think that somebody is less honest, good, etc.",
+          "chinese": "使人怀疑；造谣中伤",
+          "exampleEnglish": "This latest evidence casts serious doubt on his version of events.",
+          "exampleChinese": "最新的证据使人们十分怀疑他对事件的说法。"
+        },
+        {
+          "english": "cast something ‘You know that I'm not one to cast aspersions,’ he said.",
+          "chinese": "他说：“你知道我不是撒谎的人。”",
+          "exampleEnglish": "The sad news cast a shadow over the proceedings (= made people feel unhappy).",
+          "exampleChinese": "这个坏消息给事件的进程蒙上了一层阴影。"
+        },
+        {
+          "english": "[transitive] cast a/your vote/ballot (for somebody/something) to vote for somebody/something",
+          "chinese": "投票",
+          "exampleEnglish": "He refused to cast a vote for either candidate.",
+          "exampleChinese": "他拒绝为任何一位候选人投票。"
+        },
+        {
+          "english": "[transitive] to choose actors to play the different parts in a film, play, etc.; to choose an actor to play a particular role",
+          "chinese": "分配角色；选派角色",
+          "exampleEnglish": "The play is being cast in both the US and Britain.",
+          "exampleChinese": "目前正在英美两国挑选这部戏剧的演员。"
+        },
+        {
+          "english": "[transitive] to describe or present somebody/yourself in a particular way",
+          "chinese": "把某人描写成；把某人表现为",
+          "exampleEnglish": "He cast himself as the innocent victim of a hate campaign.",
+          "exampleChinese": "他把自己说成是无辜的受害者，声誉受到刻意诋毁。"
+        },
+        {
+          "english": "[intransitive, transitive] cast (something) to throw one end of a fishing line into a river, etc.",
+          "chinese": "投（钓线）；抛（钓钩）"
+        },
+        {
+          "english": "[transitive] cast somebody/something (literary) to throw somebody/something somewhere, especially using force",
+          "chinese": "扔；掷；抛",
+          "exampleEnglish": "The priceless treasures had been cast into the Nile.",
+          "exampleChinese": "价值连城的珍宝被扔进了尼罗河。"
+        },
+        {
+          "english": "[transitive] cast something when a snake casts its skin, the skin comes off as part of a natural process （",
+          "chinese": "蛇）蜕（皮）"
+        },
+        {
+          "english": "[transitive] cast something (in something) to shape hot liquid metal, etc. by pouring it into a hollow container (called a mould",
+          "chinese": "浇铸；铸造)",
+          "exampleEnglish": "a statue cast in bronze",
+          "exampleChinese": "青铜铸像"
+        },
+        {
+          "english": "(saying) used to say that an event has happened or a decision has been made that cannot be changed",
+          "chinese": "事已成定局；木已成舟",
+          "exampleEnglish": "People then take it in turns to take a piece of paper from the bag and the one who takes the paper with the mark on it is chosen.",
+          "exampleChinese": "使漂流"
+        },
+        {
+          "english": "[countable + singular or plural verb] all the people who act in a play or film（",
+          "chinese": "一出戏剧或一部电影的）全体演员",
+          "exampleEnglish": "an all-star cast (= including many well-known actors)",
+          "exampleChinese": "明星云集的演员阵容"
+        },
+        {
+          "english": "in shaping metal",
+          "chinese": "模铸金属"
+        },
+        {
+          "english": "[countable] an object that is made by pouring hot liquid metal, etc. into a mould",
+          "chinese": "铸件；铸造品 (= a container with a particular shape)"
+        },
+        {
+          "english": "[countable] a container with a particular shape used to make an object",
+          "chinese": "模子；铸模"
+        },
+        {
+          "english": "[singular] (formal) the way that a person or thing is or appears",
+          "chinese": "特性；特征；外表；外貌",
+          "exampleEnglish": "He has an unusual cast of mind.",
+          "exampleChinese": "他的思想与众不同。"
+        },
+        {
+          "english": "[countable] an act of throwing something, especially a fishing line",
+          "chinese": "投，掷，抛（钓线）"
+        },
+        {
+          "english": "a case made of plaster of Paris that covers a broken bone and protects it（",
+          "chinese": "固定骨折部位的）管形石膏",
+          "exampleEnglish": "Her leg's in a cast.",
+          "exampleChinese": "她的一条腿打上了石膏。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "74": {
+      "word": "track",
+      "sourceRow": 74,
+      "english": "to follow and record movements or changes",
+      "chinese": "追踪；跟踪",
+      "collocations": [
+        "track water consumption",
+        "track movements"
+      ],
+      "compare": [
+        "track 是追踪变化；record 只强调留下记录。"
+      ],
+      "usage": "本文及物动词，宾语为用水和用电量。",
+      "ipa": "/træk/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
+      "dictionaryExample": {
+        "english": "track somebody/something hunters tracking and shooting bears",
+        "chinese": "追踪射猎熊的猎人",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable] (North American English) a track with a number at a train station that a train arrives at or leaves from（",
+          "chinese": "火车站有编号的）轨道，站台",
+          "exampleEnglish": "The train for Chicago is on track 9.",
+          "exampleChinese": "开往芝加哥的列车停靠在 9 号站台。"
+        },
+        {
+          "english": "[countable] a piece of ground with a special surface for people, cars, etc. to have races or to drive on（",
+          "chinese": "赛跑、赛车等的）跑道",
+          "exampleEnglish": "a race track",
+          "exampleChinese": "赛跑跑道"
+        },
+        {
+          "english": "[uncountable] (North American English) the sport of running on a track（",
+          "chinese": "唱片、录音磁带或光盘的）一首乐曲，一首歌曲",
+          "exampleEnglish": "He loves sports and participates in track and basketball.",
+          "exampleChinese": "他热爱运动，并参加田径和篮球。"
+        },
+        {
+          "english": "[countable] a rough path or road, usually one that has not been built but that has been made by people walking there（",
+          "chinese": "人踩出的）小道，小径",
+          "exampleEnglish": "a muddy track through the forest",
+          "exampleChinese": "穿过森林的泥泞小径"
+        },
+        {
+          "english": "marks on ground",
+          "chinese": "地面上的痕迹"
+        },
+        {
+          "english": "[countable, usually plural] marks left by a person, an animal or a moving vehicle（",
+          "chinese": "人、动物或车辆留下的）足迹，踪迹；车辙",
+          "exampleEnglish": "We followed the bear's tracks in the snow.",
+          "exampleChinese": "我们跟着熊在雪地上留下的足迹走。"
+        },
+        {
+          "english": "[countable] the path or direction that somebody/something is moving in（",
+          "chinese": "移动的）路径，路线，方向",
+          "exampleEnglish": "He switched tracks and went back to college.",
+          "exampleChinese": "他改换了人生轨道，又回到了大学。"
+        },
+        {
+          "english": "[countable] a recording of one song or piece of music（",
+          "chinese": "唱片、录音磁带或光盘的）一首乐曲，一首歌曲",
+          "exampleEnglish": "a track from their latest album",
+          "exampleChinese": "他们最新唱片专辑里的一首歌曲"
+        },
+        {
+          "english": "[countable] part of a computer disk or tape that music or information can be recorded on（",
+          "chinese": "录音磁带、光盘或计算机磁盘的）音轨，声道",
+          "exampleEnglish": "a sixteen track recording studio",
+          "exampleChinese": "十六声道录音室"
+        },
+        {
+          "english": "(especially in compounds) the soundtrack of a film or video",
+          "chinese": "轨道",
+          "exampleEnglish": "The film is available with French and Spanish audio tracks.",
+          "exampleChinese": "这部电影有法国和西班牙的音轨。"
+        },
+        {
+          "english": "[countable] a continuous belt of metal plates around the wheels of a large vehicle such as a bulldozer that allows it to move over the ground （",
+          "chinese": "推土机等的）履带",
+          "exampleEnglish": "going in the right direction again after a mistake, failure, etc.",
+          "exampleChinese": "重新步入正确轨道；恢复正常"
+        },
+        {
+          "english": "(informal) close to catching or finding the person or thing that you have been running after or searching for",
+          "chinese": "快要抓到，即将找到（某人或物）",
+          "exampleEnglish": "to have/not have information about what is happening or where somebody/something is",
+          "exampleChinese": "了解／不了解…的动态；与…保持／失去联系"
+        },
+        {
+          "english": "(informal) to leave a place, especially to go home",
+          "chinese": "离去（尤指回家）",
+          "exampleEnglish": "It’s getting late—I’d better make tracks.",
+          "exampleChinese": "天不早了，我得走了。"
+        },
+        {
+          "english": "[transitive] to follow the movements of somebody/something, especially by using special electronic equipment（",
+          "chinese": "尤指用特殊电子设备）跟踪，追踪",
+          "exampleEnglish": "We continued tracking the plane on our radar.",
+          "exampleChinese": "我们继续用雷达追踪那架飞机。"
+        },
+        {
+          "english": "[transitive] to follow the progress or development of somebody/something",
+          "chinese": "跟踪（进展情况）",
+          "exampleEnglish": "The research project involves tracking the careers of 400 graduates.",
+          "exampleChinese": "这个研究项目对 400 名毕业生的事业发展情况进行跟踪调查。"
+        },
+        {
+          "english": "[intransitive] + adv./prep. to move in relation to the thing that is being filmed",
+          "chinese": "跟踪摄影；移动摄影",
+          "exampleEnglish": "The camera eventually tracked away.",
+          "exampleChinese": "摄影机最终将镜头推远。"
+        },
+        {
+          "english": "[transitive] track something (+ adv./prep.) (especially North American English) to leave dirty marks behind you as you walk",
+          "chinese": "留下（脏）足迹",
+          "exampleEnglish": "Don't track mud on my clean floor.",
+          "exampleChinese": "别在我干净的地板上踩上泥脚印。"
+        },
+        {
+          "english": "[intransitive] to stay at the same level for a period of time",
+          "chinese": "离去（尤指回家）",
+          "exampleEnglish": "Annual employment growth is tracking at 2%.",
+          "exampleChinese": "年度就业增长率为2％。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "75": {
+      "word": "consumption",
+      "sourceRow": 75,
+      "english": "the amount of water or electricity used",
+      "chinese": "消耗量",
+      "collocations": [
+        "water consumption",
+        "electricity consumption"
+      ],
+      "compare": [
+        "consumption 是使用量；production 是产量。"
+      ],
+      "usage": "常接 of + 消耗的资源；本文以家庭为单位统计。",
+      "ipa": "/kənˈsʌmpʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
+      "dictionaryExample": {
+        "english": "the production of fuel for domestic consumption (= to be used in the country where it is produced)",
+        "chinese": "供国内消耗的燃料生产",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the act of buying and using products",
+          "chinese": "消费",
+          "exampleEnglish": "Consumption rather than saving has become the central feature of contemporary societies.",
+          "exampleChinese": "现代社会的主要特征是消费而不是储蓄。"
+        },
+        {
+          "english": "(old-fashioned) a serious disease of the lungs",
+          "chinese": "肺病；肺痨；肺结核"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "16": {
+      "word": "flush",
+      "sourceRow": 16,
+      "english": "to make a toilet empty its contents with water",
+      "chinese": "冲（马桶）",
+      "collocations": [
+        "flush a toilet",
+        "a toilet is flushed"
+      ],
+      "compare": [
+        "flush 在此是冲马桶；flush 也可指脸红。"
+      ],
+      "usage": "本文用被动 is flushed，记录每次冲水时间。",
+      "ipa": "/flʌʃ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
+      "dictionaryExample": {
+        "english": "when a toilet flushes or you flush it, water passes through it to clean it",
+        "chinese": "冲（抽水马桶）",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[intransitive, transitive] (of a person or their face) to become red, especially because you are embarrassed, angry or hot; to make somebody's face become red",
+          "chinese": "发红；脸红",
+          "exampleEnglish": "She flushed with anger.",
+          "exampleChinese": "她气得涨红了脸。"
+        },
+        {
+          "english": "[transitive] to clean something by causing water to pass through it（",
+          "chinese": "用水）冲洗干净，冲洗",
+          "exampleEnglish": "Flush the pipe out with clean water.",
+          "exampleChinese": "用净水冲洗管子。"
+        },
+        {
+          "english": "[transitive] flush something + adv./prep. to get rid of something with a sudden flow of water or other liquid（",
+          "chinese": "用水）冲走",
+          "exampleEnglish": "They flushed the drugs down the toilet.",
+          "exampleChinese": "他们从马桶冲走了毒品。"
+        },
+        {
+          "english": "[transitive] flush somebody/something + adv./prep. to force a person or an animal to leave the place where they are hiding",
+          "chinese": "把（人或动物从藏身处）驱赶出来",
+          "exampleEnglish": "They're trying to flush him out of hiding.",
+          "exampleChinese": "他们正试图使他躲藏起来。"
+        },
+        {
+          "english": "[countable, usually singular] a red colour that appears on your face or body because you are embarrassed, excited or hot",
+          "chinese": "脸红；潮红",
+          "exampleEnglish": "A pink flush spread over his cheeks.",
+          "exampleChinese": "他满脸通红。"
+        },
+        {
+          "english": "[countable, usually singular] a sudden strong feeling; the hot feeling on your face or body caused by this",
+          "chinese": "一阵强烈情感；（流露出的）一阵激情",
+          "exampleEnglish": "a flush of anger/embarrassment/enthusiasm/guilt",
+          "exampleChinese": "一阵愤怒／尴尬／热情／内疚"
+        },
+        {
+          "english": "[singular] the act of cleaning a toilet with a sudden flow of water",
+          "chinese": "冲（抽水马桶）",
+          "exampleEnglish": "Give the toilet a flush.",
+          "exampleChinese": "冲抽水马桶。"
+        },
+        {
+          "english": "[countable] (in card games) a set of cards that a player has that are all of the same suit",
+          "chinese": "同花的一手牌"
+        },
+        {
+          "english": "(formal) (at) a time when something is new, exciting and strong（",
+          "chinese": "在）新鲜兴奋时刻，初期强盛阶段",
+          "exampleEnglish": "in the first flush of youth/enthusiasm/romance",
+          "exampleChinese": "在青春活力旺盛时期；在热情高涨阶段；在热恋的初期"
+        },
+        {
+          "english": "(informal) having a lot of money, usually for a short time",
+          "chinese": "富有，很有钱（通常为短期的）",
+          "exampleEnglish": "I’m flush this week—I’ll pay.",
+          "exampleChinese": "这周我很忙，我付钱。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "76": {
+      "word": "horror",
+      "sourceRow": 76,
+      "english": "a strong feeling of fear or shock",
+      "chinese": "恐惧；震惊",
+      "collocations": [
+        "view something with horror",
+        "feel horror at something"
+      ],
+      "compare": [
+        "horror 是强烈震惊或恐惧；concern 程度较轻。"
+      ],
+      "usage": "本文 with horror 描写美国人对监控措施的反应。",
+      "ipa": "/ˈhɔːrər/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Americans may view such measures with horror.",
+      "dictionaryExample": {
+        "english": "The thought of being left alone filled her with horror.",
+        "chinese": "想到被孤零零地留下，她就不寒而栗。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable, usually plural] a very unpleasant or frightening experience",
+          "chinese": "极其不愉快的（或可怕的）经历",
+          "exampleEnglish": "an account of the horrors inflicted on the detainees",
+          "exampleChinese": "被拘留者遭受的恐怖的描述"
+        },
+        {
+          "english": "[uncountable] the horror of something the very unpleasant nature of something, especially when it shocks or frightens you（",
+          "chinese": "某事物）令人厌恶的性质；（尤指）震惊性，恐怖性",
+          "exampleEnglish": "The full horror of the accident was beginning to become clear.",
+          "exampleChinese": "这次悲惨事故的真相已开始逐渐清晰了。"
+        },
+        {
+          "english": "[singular] a strong feeling of fear or of hating something",
+          "chinese": "对某事物的强烈畏惧（或憎恨）",
+          "exampleEnglish": "horror of something a horror of deep water",
+          "exampleChinese": "恐惧深水"
+        },
+        {
+          "english": "[uncountable] a type of book, film, etc. that is designed to frighten people",
+          "chinese": "恐怖故事（或电影等）",
+          "exampleEnglish": "In this section you'll find horror and science fiction.",
+          "exampleChinese": "你可以在这一部分找到恐怖和科幻小说。"
+        },
+        {
+          "english": "[countable] (British English, informal) a child who behaves badly",
+          "chinese": "调皮捣蛋的孩子",
+          "exampleEnglish": "Her son is a little horror.",
+          "exampleChinese": "她的儿子是个小捣蛋鬼。"
+        },
+        {
+          "english": "(humorous or ironic) used to emphasize how bad a situation is",
+          "chinese": "极其糟糕",
+          "exampleEnglish": "I stood up to speak and—horror of horrors—realized I had left my notes behind.",
+          "exampleChinese": "我站起来讲话，可是，可怕的是，我发现自己忘了带讲稿。"
+        },
+        {
+          "english": "(British English, informal, often humorous) used when you pretend to be shocked by something that is not really very serious or surprising",
+          "chinese": "好恐怖哦（假装震惊时说）",
+          "exampleEnglish": "The article reports on a celebrity who—shock horror—has gained weight!",
+          "exampleChinese": "这篇文章报道说一位名人发胖了 － 真是太恐怖了！"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "77": {
+      "word": "bargain",
+      "sourceRow": 77,
+      "english": "an agreement in which each side accepts a trade-off",
+      "chinese": "协议；交易",
+      "collocations": [
+        "make a bargain",
+        "the bargain with government"
+      ],
+      "compare": [
+        "bargain 在此是双方交换条件的协议；bargain 也可指便宜货。"
+      ],
+      "usage": "本文的“交易”是以自由换健康与安全。",
+      "ipa": "/ˈbɑːrɡən/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security.",
+      "dictionaryExample": {
+        "english": "He and his partner had made a bargain to tell each other everything.",
+        "chinese": "他和他的合伙人约定，要互通信息，毫无保留。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a thing bought for less than the usual price",
+          "chinese": "减价品；便宜货",
+          "exampleEnglish": "I picked up a few good bargains in the sale.",
+          "exampleChinese": "我在减价期间买了几样挺不错的便宜货。"
+        },
+        {
+          "english": "(used to emphasize an extra piece of information",
+          "chinese": "强调额外的信息) also; as well另外；而且；也",
+          "exampleEnglish": "Volunteers learn a lot and enjoy themselves into the bargain.",
+          "exampleChinese": "志愿者在学到很多东西的同时还能得到乐趣。"
+        },
+        {
+          "english": "to discuss prices, conditions, etc. with somebody in order to reach an agreement that is acceptable（",
+          "chinese": "与某人就某事）讨价还价，商讨条件",
+          "exampleEnglish": "In the market dealers were bargaining with growers over the price of coffee.",
+          "exampleChinese": "在市场上商人正和种植者就咖啡的价格进行商谈。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "78": {
+      "word": "first-class",
+      "sourceRow": 78,
+      "english": "of excellent quality",
+      "chinese": "一流的；最优的",
+      "collocations": [
+        "first-class living standards",
+        "first-class service"
+      ],
+      "compare": [
+        "first-class 是一流的；first 是排序第一。"
+      ],
+      "usage": "复合形容词置于名词前，本文修饰生活水平。",
+      "ipa": "/ˌfɜːrst ˈklæs/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security.",
+      "dictionaryExample": {
+        "english": "a first-class novel",
+        "chinese": "最佳小说",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[only before noun] connected with the best and most expensive way of travelling on a train, plane or ship（",
+          "chinese": "座位、车厢、舱位）头等的",
+          "exampleEnglish": "first-class rail travel",
+          "exampleChinese": "乘头等车厢旅行"
+        },
+        {
+          "english": "[only before noun] (in the UK) connected with letters, packages, etc. that are delivered most quickly, or that cost more to send",
+          "chinese": "第一类的（英国邮件等级，投递最快）"
+        },
+        {
+          "english": "[only before noun] used to describe a university degree of the highest class from a British university",
+          "chinese": "一级优等的（英国大学学位）",
+          "exampleEnglish": "She was awarded a first-class degree in English.",
+          "exampleChinese": "她获得一级优等英语学位。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "17": {
+      "word": "tile",
+      "sourceRow": 17,
+      "english": "a flat piece of material used to cover a roof",
+      "chinese": "瓦片；屋瓦",
+      "collocations": [
+        "roof tiles",
+        "the color of tiles"
+      ],
+      "compare": [
+        "tile 是屋顶或墙地面的单片材料；brick 是砌墙用的砖。"
+      ],
+      "usage": "本文指德国房屋屋顶的瓦片，不是地砖。",
+      "ipa": "/taɪl/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property.",
+      "dictionaryExample": {
+        "english": "We lost a few tiles in the storm.",
+        "chinese": "我们在暴风雨中失去了几块瓷砖。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a flat, usually square, piece of baked clay, carpet or other material that is used in rows for covering walls and floors（",
+          "chinese": "贴墙或铺地用的）瓷砖，地砖，小方地毯，片状材料",
+          "exampleEnglish": "ceramic floor tiles",
+          "exampleChinese": "陶瓷地砖"
+        },
+        {
+          "english": "any of the small flat pieces that are used in particular board games（",
+          "chinese": "棋盘游戏的）棋子"
+        },
+        {
+          "english": "(British English, informal) to stay out late enjoying yourself",
+          "chinese": "深夜在外玩乐"
+        },
+        {
+          "english": "tile something to cover a surface with tiles",
+          "chinese": "铺瓦；铺地砖；贴瓷砖",
+          "exampleEnglish": "a tiled bathroom",
+          "exampleChinese": "铺瓷砖的浴室"
+        },
+        {
+          "english": "tile something (computing) to arrange several windows on a computer screen so that they fill the screen but do not cover each other",
+          "chinese": "平铺显示，并列显示，瓦片式显示（视窗）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "79": {
+      "word": "property",
+      "sourceRow": 79,
+      "english": "land or possessions owned by someone",
+      "chinese": "财产；地产",
+      "collocations": [
+        "private property",
+        "neighbors' property"
+      ],
+      "compare": [
+        "property 是财产／地产；real estate 专指不动产。"
+      ],
+      "usage": "本文涉及土地所有者在自有地上的权利与影响。",
+      "ipa": "/ˈprɑːpərti/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property.",
+      "dictionaryExample": {
+        "english": "This building is government property.",
+        "chinese": "这座大楼是政府的财产。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[uncountable] land and buildings",
+          "chinese": "不动产；房地产",
+          "exampleEnglish": "The price of property has risen enormously.",
+          "exampleChinese": "房地产的价格大幅上升了。"
+        },
+        {
+          "english": "[countable] a building or buildings and the surrounding land",
+          "chinese": "房屋及院落；庄园；房地产",
+          "exampleEnglish": "to own/buy/purchase/acquire/sell a property",
+          "exampleChinese": "拥有/购买/购买/购买/出售财产"
+        },
+        {
+          "english": "[countable, usually plural] (formal) a quality or characteristic that something has",
+          "chinese": "性质；特性",
+          "exampleEnglish": "Compare the physical properties of the two substances.",
+          "exampleChinese": "比较一下这两种物质的物理性质。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "80": {
+      "word": "obtain",
+      "sourceRow": 80,
+      "english": "to get something, especially through effort",
+      "chinese": "取得；获得",
+      "collocations": [
+        "obtain a license",
+        "obtain permission"
+      ],
+      "compare": [
+        "obtain 强调取得；buy 是购买。"
+      ],
+      "usage": "本文要上课考试后才能获得钓鱼许可证。",
+      "ipa": "/əbˈteɪn/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "To obtain a fishing license, Germans must attend many hours of fishing classes, then pass a 60-question exam.",
+      "dictionaryExample": {
+        "english": "to obtain information/data/results",
+        "chinese": "获取信息/数据/结果",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[intransitive] (not used in the progressive tenses",
+          "chinese": "不用于进行时) (of rules, systems, customs, etc.规则、制度、习俗等) to exist存在；流行；沿袭",
+          "exampleEnglish": "These conditions no longer obtain.",
+          "exampleChinese": "这些条件不再适用"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "18": {
+      "word": "bristle",
+      "sourceRow": 18,
+      "english": "to react with anger or irritation",
+      "chinese": "愤怒；感到反感",
+      "collocations": [
+        "bristle at restrictions",
+        "bristle with anger"
+      ],
+      "compare": [
+        "bristle at 表强烈反感；disagree with 只表不同意。"
+      ],
+      "usage": "本文的不及物动词接 at + 让人恼怒的规定。",
+      "ipa": "/ˈbrɪsl/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Most Americans would bristle at such restrictions.",
+      "dictionaryExample": {
+        "english": "His lies made her bristle with rage.",
+        "chinese": "他的谎话使她火冒三丈。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a short stiff hair",
+          "chinese": "短而硬的毛发；刚毛",
+          "exampleEnglish": "the bristles on his chin",
+          "exampleChinese": "他下巴上的胡茬子"
+        },
+        {
+          "english": "one of the short stiff hairs or wires in a brush",
+          "chinese": "刷子毛"
+        },
+        {
+          "english": "[intransitive] (of an animal’s fur) to stand up on the back and neck because the animal is frightened or angry（",
+          "chinese": "背部或颈部的毛因惊吓或发怒）竖起，耸起"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "81": {
+      "word": "restriction",
+      "sourceRow": 81,
+      "english": "a rule that limits what people may do",
+      "chinese": "限制规定",
+      "collocations": [
+        "restrictions on behavior",
+        "strict restrictions"
+      ],
+      "compare": [
+        "restriction 是限制规定；prohibition 是完全禁止。"
+      ],
+      "usage": "本文复数，指德国地方政府的多项规则。",
+      "ipa": "/rɪˈstrɪkʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Most Americans would bristle at such restrictions.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "restriction on something to impose/place a restriction on something",
+          "chinese": "对某事实行限制",
+          "exampleEnglish": "The government has agreed to lift restrictions on press freedom.",
+          "exampleChinese": "政府已经同意撤销对新闻自由的限制。"
+        },
+        {
+          "english": "[uncountable] the act of limiting or controlling somebody/something",
+          "chinese": "限制；约束",
+          "exampleEnglish": "sports clothes that prevent any restriction of movement",
+          "exampleChinese": "宽松的运动服"
+        },
+        {
+          "english": "[countable] a thing that limits the amount of freedom you have",
+          "chinese": "制约因素",
+          "exampleEnglish": "the restrictions of a prison",
+          "exampleChinese": "监狱的种种约束"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "82": {
+      "word": "extreme",
+      "sourceRow": 82,
+      "english": "the farthest or most contrasting point",
+      "chinese": "极端",
+      "collocations": [
+        "at the opposite extreme",
+        "go to extremes"
+      ],
+      "compare": [
+        "extreme 是两端之一；intermediate 位于中间。"
+      ],
+      "usage": "本文名词结构 at the opposite extreme，引出洛杉矶。",
+      "ipa": "/ɪkˈstriːm/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.",
+      "dictionaryExample": {
+        "english": "The climate is mild with no extremes of temperature.",
+        "chinese": "气候温和，没有极端温度。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[usually before noun] very great in degree",
+          "chinese": "极度的；极大的",
+          "exampleEnglish": "We are working under extreme pressure at the moment.",
+          "exampleChinese": "目前我们正在极大的压力下工作。"
+        },
+        {
+          "english": "not ordinary or usual; serious or severe",
+          "chinese": "异乎寻常的；严重的；严厉的",
+          "exampleEnglish": "extreme weather events such as floods and heatwaves",
+          "exampleChinese": "极端天气事件，例如洪水和热浪"
+        },
+        {
+          "english": "(of people, political organizations, opinions, etc.",
+          "chinese": "人、政治组织、意见等) far from what most people consider to be normal, reasonable or acceptable极端的；偏激的；过分的",
+          "exampleEnglish": "extreme left-wing/right-wing views",
+          "exampleChinese": "极左／极右观点"
+        },
+        {
+          "english": "[only before noun] as far as possible from the centre, the beginning or in the direction mentioned",
+          "chinese": "远离中心的；末端的；尽头的",
+          "exampleEnglish": "Kerry is in the extreme west of Ireland.",
+          "exampleChinese": "凯里位于爱尔兰的最西端。"
+        },
+        {
+          "english": "a feeling, situation, way of behaving, etc. that is as different as possible from another or is opposite to it",
+          "chinese": "极端不同的感情（或境况、行为方式等）；完全相反的事物",
+          "exampleEnglish": "extremes of love and hate",
+          "exampleChinese": "爱和恨两种截然不同的感情"
+        },
+        {
+          "english": "(formal) to a great degree",
+          "chinese": "极度；极端；非常",
+          "exampleEnglish": "The journey would be dangerous in the extreme.",
+          "exampleChinese": "这段旅程将会是极其危险的。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "83": {
+      "word": "be prized as",
+      "sourceRow": 83,
+      "english": "to regard something as highly valuable",
+      "chinese": "把……视为珍贵之物",
+      "collocations": [
+        "prize something as sacred",
+        "highly prized possessions"
+      ],
+      "compare": [
+        "prize 作动词是珍视；price 作动词是定价。"
+      ],
+      "usage": "本文被动 are prized as，as 后接对其价值的评价。",
+      "ipa": "/praɪzd/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "词典摘录含相关词条，但未直接列出本文的完整用法；语境义据原文整理。"
+    },
+    "84": {
+      "word": "sacred",
+      "sourceRow": 84,
+      "english": "treated as inviolable or of the highest importance",
+      "chinese": "神圣的；不容侵犯的",
+      "collocations": [
+        "sacred rights",
+        "sacred to a community"
+      ],
+      "compare": [
+        "sacred 在此比喻“不容侵犯”；holy 更偏宗教神圣。"
+      ],
+      "usage": "本文形容个人产权被极度尊重，并非宗教仪式。",
+      "ipa": "/ˈseɪkrɪd/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.",
+      "dictionaryExample": {
+        "english": "Human life must always be sacred.",
+        "chinese": "人的生命在任何时候都必须得到尊重。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "connected with God or a god; considered to be holy",
+          "chinese": "上帝的；神的；神圣的",
+          "exampleEnglish": "a sacred image/shrine/temple",
+          "exampleChinese": "圣像；圣地；圣殿"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "85": {
+      "word": "free-for-all",
+      "sourceRow": 85,
+      "english": "a situation with little control, where everyone does as they like",
+      "chinese": "自由放任的混乱局面",
+      "collocations": [
+        "a free-for-all",
+        "turn into a free-for-all"
+      ],
+      "compare": [
+        "free-for-all 是缺少约束的混乱；freedom 是自由，不必混乱。"
+      ],
+      "usage": "本文作名词，概括监管不足带来的后果。",
+      "ipa": "/ˈfriː fər ɔːl/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The result is a free-for-all, in which many individuals and communities suffer disadvantages.",
+      "dictionaryExample": {
+        "english": "The lowering of trade barriers has led to a free-for-all among exporters.",
+        "chinese": "降低贸易壁垒导致出口商各自为政。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a noisy fight or argument in which a lot of people take part",
+          "chinese": "混战；众人激烈争辩；大吵大闹",
+          "exampleEnglish": "Prompt action by prison staff prevented a violent free-for-all.",
+          "exampleChinese": "监狱工作人员迅速采取行动，制止了暴力行为。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "19": {
+      "word": "permissible",
+      "sourceRow": 19,
+      "english": "allowed under rules or law",
+      "chinese": "允许的；许可的",
+      "collocations": [
+        "permissible styles",
+        "permissible under the rules"
+      ],
+      "compare": [
+        "permissible 指获准；possible 只指有可能。"
+      ],
+      "usage": "本文说洛杉矶几乎任何房屋风格都被允许。",
+      "ipa": "/pərˈmɪsəbl/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Almost any style of house is permissible; local architectural character is nonexistent.",
+      "dictionaryExample": {
+        "english": "permissible levels of nitrates in water",
+        "chinese": "水中硝酸盐含量的容许度",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "86": {
+      "word": "nonexistent",
+      "sourceRow": 86,
+      "english": "not existing",
+      "chinese": "不存在的",
+      "collocations": [
+        "nonexistent character",
+        "almost nonexistent"
+      ],
+      "compare": [
+        "nonexistent 是根本不存在；rare 是存在但少见。"
+      ],
+      "usage": "本文指当地建筑风格特色几乎没有。",
+      "ipa": "/ˌnɑːn ɪɡˈzɪstənt/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Almost any style of house is permissible; local architectural character is nonexistent.",
+      "dictionaryExample": {
+        "english": "a non-existent problem",
+        "chinese": "不存在的问题",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "87": {
+      "word": "vanish",
+      "sourceRow": 87,
+      "english": "to disappear gradually",
+      "chinese": "逐渐消失",
+      "collocations": [
+        "tree cover is vanishing",
+        "vanish from sight"
+      ],
+      "compare": [
+        "vanish 是消失；decline 是减少但未必消失。"
+      ],
+      "usage": "现在进行时突出树木覆盖正在减少。",
+      "ipa": "/ˈvænɪʃ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+      "dictionaryExample": {
+        "english": "He turned around and vanished into the house.",
+        "chinese": "他转身消失在房子里。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[intransitive] to stop existing",
+          "chinese": "不复存在；消亡；绝迹",
+          "exampleEnglish": "the vanishing woodlands of Europe",
+          "exampleChinese": "不断消失的欧洲林地"
+        },
+        {
+          "english": "(informal) to go away or be impossible to find when people need or want you",
+          "chinese": "隐藏踪迹；潜踪隐迹",
+          "exampleEnglish": "The cat had done a disappearing act.",
+          "exampleChinese": "那只猫玩起了失踪。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "20": {
+      "word": "excavate",
+      "sourceRow": 20,
+      "english": "to dig out earth or material",
+      "chinese": "挖掘；挖出",
+      "collocations": [
+        "excavate a site",
+        "excavated dirt"
+      ],
+      "compare": [
+        "excavate 是挖掘；dig 更日常，也不一定为工程目的。"
+      ],
+      "usage": "本文过去分词 excavated 修饰 dirt，指挖出的土。",
+      "ipa": "/ˈekskəveɪt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+      "dictionaryExample": {
+        "english": "The site has been excavated by archaeologists.",
+        "chinese": "这个遗址已被考古学家发掘出来。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "excavate something (formal) to make a hole, etc. in the ground by digging",
+          "chinese": "挖掘，开凿，挖空（洞、隧道等）",
+          "exampleEnglish": "The body was discovered when builders excavated the area.",
+          "exampleChinese": "建筑工人挖地时发现了这具尸体。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "21": {
+      "word": "spray",
+      "sourceRow": 21,
+      "english": "to spread liquid in small drops",
+      "chinese": "喷洒",
+      "collocations": [
+        "spray pesticides",
+        "sprayed chemicals"
+      ],
+      "compare": [
+        "spray 是以细小液滴喷洒；pour 是直接倾倒。"
+      ],
+      "usage": "本文 sprayed 作过去分词修饰 pesticides。",
+      "ipa": "/spreɪ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+      "dictionaryExample": {
+        "english": "Spray the conditioner onto your wet hair.",
+        "chinese": "往你的湿头发上喷些护发素。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[uncountable, countable] very small drops of a liquid that are sent through the air, for example by the wind",
+          "chinese": "浪花；水花；飞沫",
+          "exampleEnglish": "The advertisement showed a group of horsemen on the beach, galloping through the sea spray.",
+          "exampleChinese": "广告显示一群骑兵在沙滩上疾驰而过。"
+        },
+        {
+          "english": "(figurative) a spray of machine-gun bullets",
+          "chinese": "一阵雨点般的机枪扫射"
+        },
+        {
+          "english": "[uncountable, countable] (especially in compounds) a substance that is forced out of a container such as an aerosol, in very small drops",
+          "chinese": "喷剂；喷雾的液体",
+          "exampleEnglish": "a can of insect spray (= used to kill insects)",
+          "exampleChinese": "一罐喷雾杀虫剂"
+        },
+        {
+          "english": "[countable] a device or container, for example an aerosol, that you use to apply liquid in fine drops",
+          "chinese": "喷雾器",
+          "exampleEnglish": "a throat spray",
+          "exampleChinese": "喉头喷雾器"
+        },
+        {
+          "english": "[countable] an act of applying liquid to something in very small drops",
+          "chinese": "喷雾；液体的喷洒",
+          "exampleEnglish": "I gave the plants a quick spray.",
+          "exampleChinese": "我给这些花草略微喷了喷水。"
+        },
+        {
+          "english": "[countable] a small branch of a tree or plant, with its leaves and flowers or berries, that you use for decoration （",
+          "chinese": "用作装饰的）小树枝，小花枝"
+        },
+        {
+          "english": "[countable] an attractive arrangement of flowers or jewellery, that you wear（",
+          "chinese": "戴在身上的）一簇花，枝状饰物",
+          "exampleEnglish": "a spray of orchids",
+          "exampleChinese": "一簇兰花"
+        },
+        {
+          "english": "[transitive, intransitive] to cover somebody/something with a lot of small things with a lot of force",
+          "chinese": "向…扫射（或抛洒）；往…上撒",
+          "exampleEnglish": "The gunman sprayed the building with bullets.",
+          "exampleChinese": "持枪歹徒向那座房子扫射。"
+        },
+        {
+          "english": "[intransitive] (especially of a male cat) to leave small amounts of urine to mark its own area",
+          "chinese": "撒尿（以示领地占有）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "22": {
+      "word": "pesticide",
+      "sourceRow": 22,
+      "english": "a chemical used to kill pests",
+      "chinese": "杀虫剂；除害药物",
+      "collocations": [
+        "spray pesticides",
+        "reduce pesticide use"
+      ],
+      "compare": [
+        "pesticide 是防治害虫的化学品；insecticide 专指杀虫剂。"
+      ],
+      "usage": "本文用复数，与洒向邻地的物质并列。",
+      "ipa": "/ˈpestɪsaɪd/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+      "dictionaryExample": {
+        "english": "vegetables grown without the use of pesticides",
+        "chinese": "未用杀虫剂种植的蔬菜",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "88": {
+      "word": "end up",
+      "sourceRow": 88,
+      "english": "to reach a final state or place",
+      "chinese": "最终落到；最终变成",
+      "collocations": [
+        "end up on neighbors' property",
+        "end up doing something"
+      ],
+      "compare": [
+        "end up 是最终到达／落到；aim to 是原本打算。"
+      ],
+      "usage": "本文后接地点 on neighbors' property，强调意外后果。",
+      "ipa": "",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+      "dictionaryExample": {
+        "english": "end up doing something I ended up doing all the work myself.",
+        "chinese": "结果所有的活儿都是我一个人干了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "89": {
+      "word": "bay",
+      "sourceRow": 89,
+      "english": "a part of the sea partly surrounded by land",
+      "chinese": "海湾",
+      "collocations": [
+        "local bay waters",
+        "a sheltered bay"
+      ],
+      "compare": [
+        "bay 是海湾；strait 是两片陆地间狭窄海峡。"
+      ],
+      "usage": "本文指洛杉矶近海的海湾水域。",
+      "ipa": "/beɪ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "To fish in the local bay waters, anyone can buy a fishing license—no questions asked—so of course fish populations decline.",
+      "dictionaryExample": {
+        "english": "the Bay of Bengal",
+        "chinese": "孟加拉湾",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable] a marked section of ground either inside or outside a building, for example for a vehicle to park in, for storing things, etc.",
+          "chinese": "分隔间（户外或室内的，用以停放车辆、存放货物等）",
+          "exampleEnglish": "a parking/loading bay",
+          "exampleChinese": "停车位；装货区"
+        },
+        {
+          "english": "[countable] a curved area of a room or building that sticks out from the rest of the building（",
+          "chinese": "建筑物的）突出结构"
+        },
+        {
+          "english": "[countable] a horse of a dark brown colour",
+          "chinese": "深棕色马；栗色马",
+          "exampleEnglish": "He was riding a big bay.",
+          "exampleChinese": "他骑着一匹高大的栗色马。"
+        },
+        {
+          "english": "[countable] a deep noise, especially the noise made by dogs when hunting（",
+          "chinese": "尤指猎犬捕猎时的）低沉吠声"
+        },
+        {
+          "english": "(also bay tree) [countable] a small tree with dark green leaves with a sweet smell that are used in cooking",
+          "chinese": "月桂树，甜月桂（叶子可作香料）"
+        },
+        {
+          "english": "[uncountable] the leaves of the bay tree, used in cooking as a herb",
+          "chinese": "月桂（用作香料）",
+          "exampleEnglish": "when an animal that is being hunted is at bay, it must turn and face the dogs and hunters because it is impossible to escape from them （",
+          "exampleChinese": "猎物）被围困，被迫作困兽之斗"
+        },
+        {
+          "english": "[intransitive] (of a dog or wolf) to make a long deep sound, especially while hunting（",
+          "chinese": "尤指捕猎时）发出长嗥，低沉地吠叫",
+          "exampleEnglish": "a pack of baying hounds",
+          "exampleChinese": "一群不断吠叫着的猎犬"
+        },
+        {
+          "english": "[intransitive] bay (for something) (usually used in the progressive tenses",
+          "chinese": "通常用于进行时) to demand something in a loud and angry way厉声强要",
+          "exampleEnglish": "The referee's decision left the crowd baying for blood (= threatening violence towards him).",
+          "exampleChinese": "裁判的裁决引起群众怒吼着要暴力相向。"
+        },
+        {
+          "english": "(of a horse) dark brown in colour",
+          "chinese": "深棕色的；栗色的",
+          "exampleEnglish": "a bay mare",
+          "exampleChinese": "一匹栗色的母马"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "90": {
+      "word": "custom",
+      "sourceRow": 90,
+      "english": "an established way of behaving in a community",
+      "chinese": "习俗；风俗",
+      "collocations": [
+        "local customs",
+        "follow a custom"
+      ],
+      "compare": [
+        "custom 是习俗；law 是正式法律。"
+      ],
+      "usage": "本文用复数 customs 解释各地对公共与私人利益的不同习惯。",
+      "ipa": "/ˈkʌstəm/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The outcomes of trade-offs differ for Singapore, Germany, and L.A. because different geographies and histories have led to different customs.",
+      "dictionaryExample": {
+        "english": "It's a local custom.",
+        "chinese": "这是当地的风俗习惯。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[singular] (formal or literary) the way a person always behaves（",
+          "chinese": "个人的）习惯，习性，惯常行为",
+          "exampleEnglish": "It was her custom to rise early.",
+          "exampleChinese": "早起是她的习惯。"
+        },
+        {
+          "english": "(also custom-built, custom-made ()) designed and built for a particular person（",
+          "chinese": "为某人）设计建造的，定做的",
+          "exampleEnglish": "a custom motorcycle",
+          "exampleChinese": "定制的摩托车"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "23": {
+      "word": "intermediate",
+      "sourceRow": 23,
+      "english": "between two levels or extremes",
+      "chinese": "中等的；居中的",
+      "collocations": [
+        "an intermediate level",
+        "intermediate in Germany"
+      ],
+      "compare": [
+        "intermediate 位于两端之间；average 是算术或常态上的平均。"
+      ],
+      "usage": "本文比较三地人口密度，德国居中。",
+      "ipa": "/ˌɪntərˈmiːdiət/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Population density is highest in Singapore, intermediate in Germany, lowest in the United States (including California).",
+      "dictionaryExample": {
+        "english": "an intermediate stage/step in a process",
+        "chinese": "中间阶段／步骤",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "having more than a basic knowledge of something but not yet advanced; suitable for somebody who is at this level",
+          "chinese": "中级的；中等的；适合中等程度者的",
+          "exampleEnglish": "an intermediate skier/student",
+          "exampleChinese": "中级滑雪者/学生"
+        },
+        {
+          "english": "a person who is learning something and who has more than a basic knowledge of it but is not yet advanced",
+          "chinese": "中级学生"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "24": {
+      "word": "whence",
+      "sourceRow": 24,
+      "english": "from where; from which place",
+      "chinese": "从那里；由此处",
+      "collocations": [
+        "whence they came",
+        "the place whence they arrived"
+      ],
+      "compare": [
+        "whence 是旧式“从哪里”；where 是“在哪里／到哪里”更一般。"
+      ],
+      "usage": "本文插入语追溯祖先来源，可译“其祖先来自中国”。",
+      "ipa": "/wens/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, Germany for two millennia, the United States for just a few centuries.",
+      "dictionaryExample": {
+        "english": "They returned whence they had come.",
+        "chinese": "他们从哪里来又回到哪里去了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "25": {
+      "word": "millennium",
+      "sourceRow": 25,
+      "english": "a period of one thousand years",
+      "chinese": "一千年",
+      "collocations": [
+        "five millennia",
+        "the first millennium"
+      ],
+      "compare": [
+        "millennium 是一千年；century 是一百年。"
+      ],
+      "usage": "复数 millennia；本文将中国、德国、美国的城市史作时间比较。",
+      "ipa": "/mɪˈleniəm/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, Germany for two millennia, the United States for just a few centuries.",
+      "dictionaryExample": {
+        "english": "the second millennium AD",
+        "chinese": "公元第二个千年",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the millennium the time when one period of 1 000 years ends and another begins",
+          "chinese": "千周年纪念日；千禧年",
+          "exampleEnglish": "How did you celebrate the millennium?",
+          "exampleChinese": "你们是如何欢庆千禧年的？"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "26": {
+      "word": "communal",
+      "sourceRow": 26,
+      "english": "shared by members of a community",
+      "chinese": "集体的；共有的",
+      "collocations": [
+        "communal farming",
+        "communal land"
+      ],
+      "compare": [
+        "communal 强调共同拥有或活动；individual 强调个人。"
+      ],
+      "usage": "本文与 individual farms 构成对照。",
+      "ipa": "/kəˈmjuːnl/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
+      "dictionaryExample": {
+        "english": "a communal kitchen/garden, etc.",
+        "chinese": "共用的厨房、花园等",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "involving different groups of people in a community（",
+          "chinese": "集体中）不同群体的，各团体的",
+          "exampleEnglish": "communal violence between religious groups",
+          "exampleChinese": "不同教派之间的暴力冲突"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "91": {
+      "word": "frontier",
+      "sourceRow": 91,
+      "english": "a region at the edge of settled land",
+      "chinese": "边疆；边境地区",
+      "collocations": [
+        "frontier settlements",
+        "the American frontier"
+      ],
+      "compare": [
+        "frontier 是边疆开拓地带；border 只是边界线或边境。"
+      ],
+      "usage": "本文与美国分散居住史相连。",
+      "ipa": "/frʌnˈtɪr/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "frontier (between A and B) the frontier between the land of the Saxons and that of the Danes",
+          "chinese": "撒克逊人土地和古斯堪的纳维亚人土地的边界",
+          "exampleEnglish": "frontier (with something) a customs post on the frontier with Italy",
+          "exampleChinese": "与意大利交界的边境上的海关关卡"
+        },
+        {
+          "english": "the frontier [singular] the edge of land where people have settled and built towns, beyond which the country is wild and unknown, especially in the western US in the 19th century（",
+          "chinese": "尤指 19 世纪美国西部的）开发地区边缘地带，边远地区",
+          "exampleEnglish": "a remote frontier settlement",
+          "exampleChinese": "边远地区定居点"
+        },
+        {
+          "english": "[countable, usually plural] frontier (of something) the limit of something, especially the limit of what is known about a particular subject or activity（",
+          "chinese": "学科或活动的）尖端，边缘",
+          "exampleEnglish": "to push back the frontiers of science (= to increase knowledge of science)",
+          "exampleChinese": "开拓科学新领域"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "92": {
+      "word": "settlement",
+      "sourceRow": 92,
+      "english": "a place where people establish a new community",
+      "chinese": "定居点",
+      "collocations": [
+        "frontier settlements",
+        "establish a settlement"
+      ],
+      "compare": [
+        "settlement 是定居点；agreement 才是“协议”义。"
+      ],
+      "usage": "本文可数复数，指开拓边疆形成的居民聚落。",
+      "ipa": "/ˈsetlmənt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
+      "dictionaryExample": {
+        "english": "signs of an Iron Age settlement",
+        "chinese": "铁器时代村落遗址",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable] an official agreement that ends an argument between two people or groups（",
+          "chinese": "解决纷争的）协议",
+          "exampleEnglish": "to negotiate a peace settlement",
+          "exampleChinese": "就和平协议进行谈判"
+        },
+        {
+          "english": "[uncountable] the action of reaching an agreement",
+          "chinese": "解决；处理",
+          "exampleEnglish": "the settlement of a dispute",
+          "exampleChinese": "争端的解决"
+        },
+        {
+          "english": "[countable] (law) the conditions, or a document stating the conditions, on which money or property is given to somebody（",
+          "chinese": "关于钱财转让的）协议（书）",
+          "exampleEnglish": "a divorce/marriage/property settlement",
+          "exampleChinese": "离婚/婚姻/财产和解"
+        },
+        {
+          "english": "[uncountable] the action of paying back money that you owe（",
+          "chinese": "欠款的）支付，偿付，结算",
+          "exampleEnglish": "the settlement of a debt",
+          "exampleChinese": "债务的偿还"
+        },
+        {
+          "english": "[uncountable] the process of people making their homes in a place",
+          "chinese": "移民；殖民；开拓",
+          "exampleEnglish": "the settlement of the American West",
+          "exampleChinese": "美国西部的开拓过程"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "93": {
+      "word": "self-sufficient",
+      "sourceRow": 93,
+      "english": "able to provide what one needs without outside help",
+      "chinese": "自给自足的",
+      "collocations": [
+        "self-sufficient families",
+        "self-sufficient in food"
+      ],
+      "compare": [
+        "self-sufficient 是自给自足；independent 更宽泛。"
+      ],
+      "usage": "本文形容家庭能较少依赖外部社区。",
+      "ipa": "/ˌself səˈfɪʃnt/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
+      "dictionaryExample": {
+        "english": "The country is totally self-sufficient in food production.",
+        "chinese": "在粮食生产上，这个国家完全做到了自给自足。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "94": {
+      "word": "legacy",
+      "sourceRow": 94,
+      "english": "a cultural inheritance from the past",
+      "chinese": "遗产；传承",
+      "collocations": [
+        "cultural legacies",
+        "leave a legacy"
+      ],
+      "compare": [
+        "legacy 在此是历史遗留的影响；也可指遗赠财产。"
+      ],
+      "usage": "本文复数，指生活方式造成的文化传承。",
+      "ipa": "/ˈleɡəsi/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The cultural legacies of those differences live on today.",
+      "dictionaryExample": {
+        "english": "Future generations will be left with a legacy of pollution and destruction.",
+        "chinese": "留给子孙后代的将是环境的污染与破坏。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "money or property that is given to you by somebody when they die",
+          "chinese": "遗产；遗赠财物",
+          "exampleEnglish": "They each received a legacy of $5 000.",
+          "exampleChinese": "他们每人得到了 5 000 美元的遗产。"
+        },
+        {
+          "english": "used to describe a computer system or product that is no longer available to buy but is still used because it would be too difficult or expensive to replace it（",
+          "chinese": "计算机系统或产品）已停产的，老化的，老式的",
+          "exampleEnglish": "How can we integrate new technology with our legacy systems?",
+          "exampleChinese": "我们该如何将新技术整合到我们老化的系统上？"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "95": {
+      "word": "live on",
+      "sourceRow": 95,
+      "english": "to continue to exist",
+      "chinese": "延续；继续存在",
+      "collocations": [
+        "legacies live on",
+        "memories live on"
+      ],
+      "compare": [
+        "live on 是继续存在；survive 也可表示存活，但语域更广。"
+      ],
+      "usage": "本文主语是抽象文化遗产，不是人继续活着。",
+      "ipa": "",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The cultural legacies of those differences live on today.",
+      "dictionaryExample": {
+        "english": "She died ten years ago but her memory lives on.",
+        "chinese": "她十年前就去世了，但她还留在人们的记忆中。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(often disapproving) to eat only or a lot of a particular type of food",
+          "chinese": "仅以（一种食物）为主要食物",
+          "exampleEnglish": "She lives on burgers.",
+          "exampleChinese": "她只喜欢吃汉堡包。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "96": {
+      "word": "arrangement",
+      "sourceRow": 96,
+      "english": "a way of organizing daily living",
+      "chinese": "生活安排；居住方式",
+      "collocations": [
+        "living arrangements",
+        "make arrangements"
+      ],
+      "compare": [
+        "arrangement 在此是生活组织方式；arrangement 也可指事前计划。"
+      ],
+      "usage": "本文复数 living arrangements 指村落居住关系。",
+      "ipa": "/əˈreɪndʒmənt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.",
+      "dictionaryExample": {
+        "english": "She's happy with her unusual living arrangements.",
+        "chinese": "她对自己不同寻常的生活安排方式感到很得意。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable, usually plural] a plan or preparation that you make so that something can happen",
+          "chinese": "安排；筹备",
+          "exampleEnglish": "Travel and accommodation arrangements have been finalized.",
+          "exampleChinese": "旅行和住宿安排已完成。"
+        },
+        {
+          "english": "[countable, uncountable] an agreement that you make with somebody that you can both accept",
+          "chinese": "商定；约定",
+          "exampleEnglish": "We can come to an arrangement over the price.",
+          "exampleChinese": "我们可以就价格问题达成一项协议。"
+        },
+        {
+          "english": "[countable, uncountable] a group of things that are organized or placed in a particular order or position; the act of placing things in a particular order",
+          "chinese": "整理好的东西；整理；排列；布置",
+          "exampleEnglish": "plans of the possible seating arrangements",
+          "exampleChinese": "几种可行的座次安排方案"
+        },
+        {
+          "english": "[countable] arrangement (of something) (for something) a piece of music that has been changed, for example for another instrument to play",
+          "chinese": "改编乐曲",
+          "exampleEnglish": "an arrangement of a Mozart aria for clarinet and piano",
+          "exampleChinese": "单簧管和钢琴的莫扎特咏叹调的安排"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "97": {
+      "word": "practice",
+      "sourceRow": 97,
+      "english": "to follow or carry out a custom",
+      "chinese": "实行；践行",
+      "collocations": [
+        "arrangements still practiced",
+        "practice a custom"
+      ],
+      "compare": [
+        "practice 作动词是践行习俗；practice 作名词可指练习。"
+      ],
+      "usage": "本文过去分词 practiced 修饰 living arrangements。",
+      "ipa": "/ˈpræktɪs/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.",
+      "dictionaryExample": {
+        "english": "to practice self-restraint/safe sex",
+        "chinese": "自我约束/安全的性行为",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "for improving skill",
+          "chinese": "提高技巧"
+        },
+        {
+          "english": "[uncountable, countable] doing an activity or training regularly so that you can improve your skill; the time you spend doing this",
+          "chinese": "训练；练习（时间）",
+          "exampleEnglish": "It takes a lot of practice to play the violin well.",
+          "exampleChinese": "拉好小提琴需要多加练习。"
+        },
+        {
+          "english": "action not ideas",
+          "chinese": "实践"
+        },
+        {
+          "english": "[uncountable] action rather than ideas",
+          "chinese": "实践；实际行动",
+          "exampleEnglish": "the theory and practice of teaching",
+          "exampleChinese": "教学的理论与实践"
+        },
+        {
+          "english": "way of doing something",
+          "chinese": "做法"
+        },
+        {
+          "english": "[uncountable, countable] a way of doing something that is the usual or expected way in a particular organization or situation",
+          "chinese": "通常的做法；惯例；常规",
+          "exampleEnglish": "Wearing gloves should be standard practice when handling pesticides.",
+          "exampleChinese": "处理农药时，应戴手套。"
+        },
+        {
+          "english": "[countable] a thing that is done regularly; a habit or a custom",
+          "chinese": "惯常做的事；习惯；习俗",
+          "exampleEnglish": "practice of doing something the German practice of giving workers a say in how their company is run",
+          "exampleChinese": "德国人在公司经营上给予工人发言权的做法"
+        },
+        {
+          "english": "[uncountable, countable] the work or the business of some professional people such as doctors, dentists and lawyers; the place where they work（",
+          "chinese": "医生、律师的）工作，业务活动，工作地点",
+          "exampleEnglish": "the practice of medicine",
+          "exampleChinese": "行医"
+        },
+        {
+          "english": "(saying) a way of encouraging people by telling them that if you do an activity regularly and try to improve your skill, you will become very good at it",
+          "chinese": "熟能生巧"
+        },
+        {
+          "english": "[intransitive, transitive] to do an activity or train regularly so that you can improve your skill",
+          "chinese": "训练；练习（时间）",
+          "exampleEnglish": "to practice the piano every day",
+          "exampleChinese": "每天练习弹钢琴"
+        },
+        {
+          "english": "[intransitive, transitive] to work as a doctor, lawyer, etc.",
+          "chinese": "实践；实际行动",
+          "exampleEnglish": "She's practicing medicine in Philadelphia.",
+          "exampleChinese": "她在费城行医。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "27": {
+      "word": "resemble",
+      "sourceRow": 27,
+      "english": "to be similar to something",
+      "chinese": "与……相似",
+      "collocations": [
+        "resemble earlier societies",
+        "closely resemble something"
+      ],
+      "compare": [
+        "resemble 是“像”；remind somebody of 是“使某人想起”。"
+      ],
+      "usage": "及物动词，直接接宾语，不加 like。",
+      "ipa": "/rɪˈzembl/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.",
+      "dictionaryExample": {
+        "english": "She closely resembles her sister.",
+        "chinese": "她和她姐姐很像。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[no passive] not used in the progressive tenses",
+          "chinese": "不用于进行时"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "28": {
+      "word": "live out one's life",
+      "sourceRow": 28,
+      "english": "to spend the whole of one's life in a place",
+      "chinese": "度过一生",
+      "collocations": [
+        "live out one's life",
+        "live out one's days"
+      ],
+      "compare": [
+        "live out one's life 是度过一生；live out 可指住在工作地外，义不同。"
+      ],
+      "usage": "本文整块指村民一生留在出生地。",
+      "ipa": "",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "98": {
+      "word": "constantly",
+      "sourceRow": 98,
+      "english": "all the time; repeatedly",
+      "chinese": "不断地；一直",
+      "collocations": [
+        "constantly surrounded",
+        "constantly changing"
+      ],
+      "compare": [
+        "constantly 是持续／不断；occasionally 是偶尔。"
+      ],
+      "usage": "本文修饰 surrounded，强调村民长期处于熟人关系中。",
+      "ipa": "/ˈkɑːnstəntli/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.",
+      "dictionaryExample": {
+        "english": "Fashion is constantly changing.",
+        "chinese": "时尚总是日新月异。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "29": {
+      "word": "lifelong",
+      "sourceRow": 29,
+      "english": "lasting throughout a person's life",
+      "chinese": "终身的；毕生的",
+      "collocations": [
+        "lifelong friends",
+        "a lifelong habit"
+      ],
+      "compare": [
+        "lifelong 是持续一生的；long-lasting 未必达到一生。"
+      ],
+      "usage": "通常置于名词前，本文修饰 friends。",
+      "ipa": "/ˈlaɪflɔːŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.",
+      "dictionaryExample": {
+        "english": "Paul became his lifelong friend.",
+        "chinese": "保罗成为他的终生朋友。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "99": {
+      "word": "heartwarmingly",
+      "sourceRow": 99,
+      "english": "in a way that gives a warm and happy feeling",
+      "chinese": "令人暖心地",
+      "collocations": [
+        "heartwarmingly wonderful",
+        "a heartwarming story"
+      ],
+      "compare": [
+        "heartwarmingly 修饰评价；heartwarming 直接修饰名词。"
+      ],
+      "usage": "本文位于 wonderful 前，表达初看村落生活时的温暖感受。",
+      "ipa": "",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": false,
+      "articleExample": "A first reaction of many lonely, urban Americans is: How heartwarmingly wonderful!",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "100": {
+      "word": "recent",
+      "sourceRow": 100,
+      "english": "having happened a short time ago",
+      "chinese": "最近的；新近的",
+      "collocations": [
+        "recent friends",
+        "recent events"
+      ],
+      "compare": [
+        "recent 是新近的；current 是当前正在发生的。"
+      ],
+      "usage": "本文与 lifelong 构成对照，强调城市友谊较新。",
+      "ipa": "/ˈriːsnt/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When New Guinea villagers move to cities, they find themselves surrounded by strangers, their friends few or recent or scattered across the city.",
+      "dictionaryExample": {
+        "english": "a recent study/report/survey",
+        "chinese": "最近的研究/报告/调查",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "101": {
+      "word": "isolation",
+      "sourceRow": 101,
+      "english": "the state of being alone or cut off from others",
+      "chinese": "孤立；隔绝",
+      "collocations": [
+        "social isolation",
+        "feelings of isolation"
+      ],
+      "compare": [
+        "isolation 是孤立状态；anonymity 是身份不被认出，可好可坏。"
+      ],
+      "usage": "本文把隔离作为城市匿名可能带来的负面结果。",
+      "ipa": "/ˌaɪsəˈleɪʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.",
+      "dictionaryExample": {
+        "english": "Many unemployed people experience feelings of isolation and depression.",
+        "chinese": "很多失业者有孤独沮丧的感觉。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the act of separating somebody/something; the state of being separate",
+          "chinese": "隔离；隔离状态",
+          "exampleEnglish": "an isolation hospital/ward (= for people with infectious diseases)",
+          "exampleChinese": "隔离医院／病房"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "30": {
+      "word": "proliferation",
+      "sourceRow": 30,
+      "english": "a rapid increase in the number of things",
+      "chinese": "激增；大量出现",
+      "collocations": [
+        "proliferation of crime",
+        "rapid proliferation"
+      ],
+      "compare": [
+        "proliferation 是迅速增多；increase 是一般增长。"
+      ],
+      "usage": "常接 of + 增长的事物；本文指城市犯罪扩散。",
+      "ipa": "/prəˌlɪfəˈreɪʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.",
+      "dictionaryExample": {
+        "english": "attempts to prevent cancer cell proliferation",
+        "chinese": "防止癌细胞扩散的努力",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "102": {
+      "word": "crime",
+      "sourceRow": 102,
+      "english": "unlawful activity in general",
+      "chinese": "犯罪活动",
+      "collocations": [
+        "urban crime",
+        "crime rates"
+      ],
+      "compare": [
+        "crime 不可数时指犯罪活动；a crime 是一桩具体罪行。"
+      ],
+      "usage": "本文与 proliferation 搭配指城市犯罪增多。",
+      "ipa": "/kraɪm/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.",
+      "dictionaryExample": {
+        "english": "This month's figures show an increase in violent crime.",
+        "chinese": "本月数字显示暴力犯罪在增加。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[countable] an illegal act or activity that can be punished by law",
+          "chinese": "罪；罪行",
+          "exampleEnglish": "There is no proof that he committed a crime (= did something illegal).",
+          "exampleChinese": "没有证据表明他犯了罪（犯了非法）。"
+        },
+        {
+          "english": "a crime [singular] (informal) an act that you think is morally wrong or is a big mistake",
+          "chinese": "不道德的行为；罪过",
+          "exampleEnglish": "It's a crime to waste so much money.",
+          "exampleChinese": "挥霍这么多钱是一种罪过。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "31": {
+      "word": "dweller",
+      "sourceRow": 31,
+      "english": "a person who lives in a particular place",
+      "chinese": "居住者",
+      "collocations": [
+        "city dwellers",
+        "urban dwellers"
+      ],
+      "compare": [
+        "dweller 强调居住者；citizen 强调公民资格。"
+      ],
+      "usage": "通常与地点构成复合表达，如 city dweller。",
+      "ipa": "/ˈdwelər/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Still, we American city dwellers shouldn't romanticize traditional village living arrangements.",
+      "dictionaryExample": {
+        "english": "Apartment dwellers are still primarily couples and singles.",
+        "chinese": "公寓里住的主要还是夫妻或者单身男女。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "32": {
+      "word": "romanticize",
+      "sourceRow": 32,
+      "english": "to imagine or describe something as better than it is",
+      "chinese": "把……浪漫化",
+      "collocations": [
+        "romanticize village life",
+        "romanticize the past"
+      ],
+      "compare": [
+        "romanticize 是把现实美化；appreciate 是认识其价值，不必回避缺点。"
+      ],
+      "usage": "本文提醒读者别把传统村居描绘得过于理想。",
+      "ipa": "/rəʊˈmæntɪsaɪz/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Still, we American city dwellers shouldn't romanticize traditional village living arrangements.",
+      "dictionaryExample": {
+        "english": "romanticizing the past",
+        "chinese": "把往日浪漫化",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "33": {
+      "word": "suffocating",
+      "sourceRow": 33,
+      "english": "restricting social freedom or privacy",
+      "chinese": "令人压抑的；使人窒息的",
+      "collocations": [
+        "socially suffocating",
+        "a suffocating atmosphere"
+      ],
+      "compare": [
+        "suffocating 原义令人窒息；本文是社会压力让人喘不过气。"
+      ],
+      "usage": "副词 socially 将比喻限定为社交环境。",
+      "ipa": "/ˈsʌfəkeɪtɪŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential.",
+      "dictionaryExample": {
+        "english": "The afternoon heat was suffocating.",
+        "chinese": "下午热得让人透不过气来。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "103": {
+      "word": "potential",
+      "sourceRow": 103,
+      "english": "a person's ability to develop or achieve something",
+      "chinese": "潜力",
+      "collocations": [
+        "realize one's potential",
+        "limit someone's potential"
+      ],
+      "compare": [
+        "potential 是潜力；ability 是已有能力。"
+      ],
+      "usage": "本文不可数名词，强调个人可能达到的发展。",
+      "ipa": "/pəˈtenʃl/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential.",
+      "dictionaryExample": {
+        "english": "All children should be encouraged to realize their full potential.",
+        "chinese": "应当鼓励所有的儿童充分发挥他们的潜能。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "that can develop into something or be developed in the future",
+          "chinese": "潜在的；可能的",
+          "exampleEnglish": "We have compiled a list of 10 potential candidates.",
+          "exampleChinese": "我们已编制了10个潜在候选人的清单。"
+        },
+        {
+          "english": "[uncountable] the possibility of something happening or being developed or used",
+          "chinese": "可能性；潜在性",
+          "exampleEnglish": "potential for something the potential for change",
+          "exampleChinese": "变革的可能性"
+        },
+        {
+          "english": "[uncountable, countable] (physics) the difference in voltage between two points in an electric field or circuit",
+          "chinese": "电位；电势；电压"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "104": {
+      "word": "incessantly",
+      "sourceRow": 104,
+      "english": "without stopping",
+      "chinese": "不停地；不断地",
+      "collocations": [
+        "incessantly discuss",
+        "talk incessantly"
+      ],
+      "compare": [
+        "incessantly 是不停地，常带厌烦；constantly 可更中性。"
+      ],
+      "usage": "本文与 watches 并列，描述村落密切监督。",
+      "ipa": "/ɪnˈsesntli/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In New Guinea villages, everybody knows, constantly watches, and incessantly discusses what everybody else is doing.",
+      "dictionaryExample": {
+        "english": "to talk incessantly",
+        "chinese": "滔滔不绝地谈话",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "34": {
+      "word": "sidewalk",
+      "sourceRow": 34,
+      "english": "a path for people beside a road",
+      "chinese": "人行道",
+      "collocations": [
+        "a sidewalk café",
+        "walk along the sidewalk"
+      ],
+      "compare": [
+        "sidewalk 是美式“人行道”；英式常说 pavement。"
+      ],
+      "usage": "本文的 café 设在人行道旁，突出城市独处空间。",
+      "ipa": "/ˈsaɪdwɔːk/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
+      "dictionaryExample": {
+        "english": "Elm trees lined the sidewalks.",
+        "chinese": "路边有一排榆树",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "35": {
+      "word": "importune",
+      "sourceRow": 35,
+      "english": "to repeatedly ask someone for something",
+      "chinese": "纠缠；再三要求",
+      "collocations": [
+        "importune somebody for money",
+        "be importuned by relatives"
+      ],
+      "compare": [
+        "importune 是反复纠缠要求；ask 仅指提出请求。"
+      ],
+      "usage": "正式及物动词；本文为被动 without being importuned。",
+      "ipa": "/ˌɪmpɔːrˈtuːn/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "36": {
+      "word": "clan",
+      "sourceRow": 36,
+      "english": "a group of related families",
+      "chinese": "宗族；氏族",
+      "collocations": [
+        "fellow clan members",
+        "belong to a clan"
+      ],
+      "compare": [
+        "clan 是同族家族群体；family 可指较小核心家庭。"
+      ],
+      "usage": "本文反映村社亲族关系，不特指苏格兰。",
+      "ipa": "/klæn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
+      "dictionaryExample": {
+        "english": "the Macleod clan",
+        "chinese": "麦克劳德氏族",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(informal, sometimes humorous) a very large family, or a group of people who are connected because of a particular thing",
+          "chinese": "庞大的家族；宗派；帮派；小集团",
+          "exampleEnglish": "She's one of a growing clan of stars who have left Hollywood.",
+          "exampleChinese": "她是离开好莱坞不断成长的明星氏族之一。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "37": {
+      "word": "bewail",
+      "sourceRow": 37,
+      "english": "to complain bitterly or express sorrow about something",
+      "chinese": "哀叹；悲叹",
+      "collocations": [
+        "bewail one's troubles",
+        "bewail a loss"
+      ],
+      "compare": [
+        "bewail 是悲叹诉苦；complain 可较轻，也可针对服务质量。"
+      ],
+      "usage": "及物动词，本文宾语是 troubles。",
+      "ipa": "/bɪˈweɪl/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "105": {
+      "word": "opaque",
+      "sourceRow": 105,
+      "english": "not allowing light or sight to pass through",
+      "chinese": "不透明的",
+      "collocations": [
+        "opaque bags",
+        "opaque glass"
+      ],
+      "compare": [
+        "opaque 是不透视；transparent 是透明。"
+      ],
+      "usage": "本文修饰 bags，强调他人无法看到袋内物品。",
+      "ipa": "/əʊˈpeɪk/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
+      "dictionaryExample": {
+        "english": "opaque glass",
+        "chinese": "不透明的玻璃",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(of glass, liquid, etc.",
+          "chinese": "玻璃、液体等) not clear enough to see through or allow light through不透明的；不透光的；浑浊的"
+        },
+        {
+          "english": "(of speech or writing) difficult to understand; not clear",
+          "chinese": "难懂；模糊；隐晦；不清楚",
+          "exampleEnglish": "The jargon in his talk was opaque to me.",
+          "exampleChinese": "他谈话中使用的行话对我是一团迷雾。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "38": {
+      "word": "conceal",
+      "sourceRow": 38,
+      "english": "to hide something from other people",
+      "chinese": "隐藏；隐瞒",
+      "collocations": [
+        "conceal something from neighbors",
+        "conceal the fact"
+      ],
+      "compare": [
+        "conceal 是有意藏起；cover 可只是遮住表面。"
+      ],
+      "usage": "本文直接接 things，from 引出被隐瞒的人。",
+      "ipa": "/kənˈsiːl/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
+      "dictionaryExample": {
+        "english": "The paintings were concealed beneath a thick layer of plaster.",
+        "chinese": "那些画被隐藏在厚厚的灰泥层下面。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "39": {
+      "word": "thereby",
+      "sourceRow": 39,
+      "english": "as a result of that action",
+      "chinese": "因此；从而",
+      "collocations": [
+        "thereby acquire luxuries",
+        "thereby reducing a risk"
+      ],
+      "compare": [
+        "thereby 表“通过前述方式从而”；therefore 只明确结果。"
+      ],
+      "usage": "副词连接前一动作与其带来的结果，本文指口袋带来私密性。",
+      "ipa": "/ˌðerˈbaɪ/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
+      "dictionaryExample": {
+        "english": "Regular exercise strengthens the heart, thereby reducing the risk of heart attack.",
+        "chinese": "经常锻炼可以增强心脏机能，从而减少心脏病发作的危险。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "106": {
+      "word": "luxury",
+      "sourceRow": 106,
+      "english": "something pleasant beyond basic needs",
+      "chinese": "奢侈品；享受",
+      "collocations": [
+        "small luxuries",
+        "afford a luxury"
+      ],
+      "compare": [
+        "luxury 可指具体享受；affluence 是富裕状态。"
+      ],
+      "usage": "本文复数 small luxuries 指不必是昂贵商品的小享受。",
+      "ipa": "/ˈlʌkʃəri/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
+      "dictionaryExample": {
+        "english": "small luxuries like chocolate and flowers",
+        "chinese": "像巧克力和鲜花之类的小奢侈品",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[uncountable] the fact of enjoying special and expensive things, particularly food and drink, clothes and places",
+          "chinese": "奢侈的享受；奢华",
+          "exampleEnglish": "a life of unimaginable luxury",
+          "exampleChinese": "过分奢侈的生活"
+        },
+        {
+          "english": "[uncountable, singular] a pleasure or an advantage that you do not often have",
+          "chinese": "不常有的乐趣（或享受、优势）",
+          "exampleEnglish": "We had the luxury of being able to choose from four good candidates for the job.",
+          "exampleChinese": "我们的挑选余地大，有四位出色的职位候选人可供选择。"
+        },
+        {
+          "english": "expensive and of very high quality",
+          "chinese": "奢侈品",
+          "exampleEnglish": "a luxury hotel/car/apartment",
+          "exampleChinese": "豪华酒店/汽车/公寓"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "40": {
+      "word": "drawback",
+      "sourceRow": 40,
+      "english": "a disadvantage of a situation or choice",
+      "chinese": "缺点；不利之处",
+      "collocations": [
+        "drawbacks of village life",
+        "a major drawback"
+      ],
+      "compare": [
+        "drawback 是缺点；trade-off 是两项价值之间的取舍。"
+      ],
+      "usage": "可数名词；本文与 benefits 构成对照。",
+      "ipa": "/ˈdrɔːbæk/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Thus, New Guineans recognize drawbacks as well as heartwarming benefits of village life.",
+      "dictionaryExample": {
+        "english": "The main drawback to it is the cost.",
+        "chinese": "它的主要缺点是成本高。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "107": {
+      "word": "come down to",
+      "sourceRow": 107,
+      "english": "to be explained by one essential factor",
+      "chinese": "归根结底是",
+      "collocations": [
+        "come down to compromises",
+        "come down to one issue"
+      ],
+      "compare": [
+        "come down to 表“归结为”；lead to 表导致某结果。"
+      ],
+      "usage": "本文整块作结论，to 是介词，后接名词。",
+      "ipa": "",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It all comes down to compromises.",
+      "dictionaryExample": {
+        "english": "What it comes down to is either I get more money or I leave.",
+        "chinese": "归结起来就是：不给我加薪，我就辞职",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[no passive] to depend on a single important point",
+          "chinese": "可归结为；可归纳为"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "41": {
+      "word": "compromise",
+      "sourceRow": 41,
+      "english": "a settlement requiring each side to give something up",
+      "chinese": "妥协；折中",
+      "collocations": [
+        "make a compromise",
+        "come down to compromises"
+      ],
+      "compare": [
+        "compromise 指妥协方案；surrender 是单方面完全让步。"
+      ],
+      "usage": "全文结论是多种利益取舍，没有一种城市方案完美。",
+      "ipa": "",
+      "partOfSpeech": "phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It all comes down to compromises.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "108": {
+      "word": "increasingly",
+      "sourceRow": 108,
+      "english": "more and more",
+      "chinese": "越来越",
+      "collocations": [
+        "increasingly urban",
+        "increasingly important"
+      ],
+      "compare": [
+        "increasingly 表程度越来越高；more 则需结合形容词构成比较。"
+      ],
+      "usage": "副词修饰 urban，描述世界城市化趋势。",
+      "ipa": "/ɪnˈkriːsɪŋli/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?",
+      "dictionaryExample": {
+        "english": "Tourism is playing an increasingly important role in the region's economy",
+        "chinese": "旅游业在该地区的经济中起着越来越重要的作用",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "109": {
+      "word": "adopt",
+      "sourceRow": 109,
+      "english": "to begin to use a method or policy",
+      "chinese": "采用；采纳",
+      "collocations": [
+        "adopt a solution",
+        "adopt a policy"
+      ],
+      "compare": [
+        "adopt 是采用做法；adapt 是适应／改编，形近义异。"
+      ],
+      "usage": "本文宾语为 Singapore's solutions，不是收养孩子。",
+      "ipa": "/əˈdɑːpt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?",
+      "dictionaryExample": {
+        "english": "All three teams adopted different approaches to the problem.",
+        "chinese": "三个队处理这个问题的方法各不相同。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "[intransitive, transitive] to take somebody else’s child into your family and become its legal parent(s)",
+          "chinese": "收养；领养",
+          "exampleEnglish": "a campaign to encourage childless couples to adopt",
+          "exampleChinese": "鼓励无子女夫妇领养孩子的运动"
+        },
+        {
+          "english": "adopt somebody to adopt a child",
+          "chinese": "领养孩子",
+          "exampleEnglish": "She was forced to have her baby adopted.",
+          "exampleChinese": "她被迫把婴儿给人收养。"
+        },
+        {
+          "english": "[transitive] adopt something to formally accept a suggestion or policy by voting",
+          "chinese": "正式通过，表决采纳（建议、政策等）",
+          "exampleEnglish": "The government adopted a resolution on disarmament.",
+          "exampleChinese": "政府通过了一项裁军决议。"
+        },
+        {
+          "english": "[transitive] adopt something to choose a new name, a country, a custom, etc. and begin to use it as your own",
+          "chinese": "选用（名字等）；移居（某国）；承袭（风俗）",
+          "exampleEnglish": "to adopt a name/title/language",
+          "exampleChinese": "取名；袭用头衔；采用某语言"
+        },
+        {
+          "english": "way of behaving",
+          "chinese": "行为方式"
+        },
+        {
+          "english": "[transitive] adopt something (formal) to use a particular manner, way of speaking, expression, etc.",
+          "chinese": "采用（某种举止、说话方式等）",
+          "exampleEnglish": "He adopted an air of indifference.",
+          "exampleChinese": "他摆出一副满不在乎的样子。"
+        },
+        {
+          "english": "[transitive] adopt somebody (as something) (British English, politics) to choose somebody as a candidate in an election; to choose somebody as your representative",
+          "chinese": "选定，选举（某人为候选人或代表）",
+          "exampleEnglish": "She was adopted as parliamentary candidate for Wood Green.",
+          "exampleChinese": "她被推举为伍德格林选区的议员候选人。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "42": {
+      "word": "meter",
+      "sourceRow": 42,
+      "english": "a device that measures and records a quantity",
+      "chinese": "计量表；仪表",
+      "collocations": [
+        "a government meter",
+        "read a meter"
+      ],
+      "compare": [
+        "meter 记录水电等用量；sensor 可探测变化而不必计量。"
+      ],
+      "usage": "本文假设政府用表计记录冲水次数。",
+      "ipa": "/ˈmiːtər/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?",
+      "dictionaryExample": {
+        "english": "A man came to read the gas meter.",
+        "chinese": "有个男子来查过煤气表。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "-meter (in compounds) a device for measuring the thing mentioned",
+          "chinese": "计；仪；表"
+        },
+        {
+          "english": "[countable] a unit for measuring length; a hundred centimetres",
+          "chinese": "计；仪；表",
+          "exampleEnglish": "a 50-meter swimming pool",
+          "exampleChinese": "一个50米长的游泳池"
+        },
+        {
+          "english": "[countable, uncountable] used in the name of races（",
+          "chinese": "用于测量电、煤气、水等，以及时间和距离的）计量器，计量表",
+          "exampleEnglish": "Who holds the record in the 100 meters?100",
+          "exampleChinese": "米纪录是谁保持的？"
+        },
+        {
+          "english": "[uncountable, countable] the arrangement of strong and weak stresses in lines of poetry that produces the rhythm; a particular example of this （",
+          "chinese": "诗的）格律"
+        },
+        {
+          "english": "meter something to measure something (for example how much gas, electricity, etc. has been used) using a meter",
+          "chinese": "用仪表计量"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "43": {
+      "word": "affluence",
+      "sourceRow": 43,
+      "english": "the condition of having plenty of money and comfort",
+      "chinese": "富裕；富足",
+      "collocations": [
+        "live in affluence",
+        "health and affluence"
+      ],
+      "compare": [
+        "affluence 是富裕生活状态；luxury 可指具体奢侈享受。"
+      ],
+      "usage": "不可数名词；本文与 safety、health 并列为生活条件。",
+      "ipa": "/ˈæfluəns/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?",
+      "dictionaryExample": {
+        "english": "The 1950s were an age of affluence in America.20",
+        "chinese": "世纪50年代是美国的富足时期。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "110": {
+      "word": "surroundings",
+      "sourceRow": 110,
+      "english": "the things and conditions around a place",
+      "chinese": "周围环境",
+      "collocations": [
+        "beautiful surroundings",
+        "pleasant surroundings"
+      ],
+      "compare": [
+        "surroundings 指周围环境；environment 可指更广泛生态或社会条件。"
+      ],
+      "usage": "通常复数；本文与 safety、health 等生活品质并列。",
+      "ipa": "/səˈraʊndɪŋz/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?",
+      "dictionaryExample": {
+        "english": "to work in pleasant surroundings",
+        "chinese": "在愉快的环境中工作",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    }
+  }
+}

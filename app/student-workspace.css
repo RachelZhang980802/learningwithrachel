@@ -262,3 +262,28 @@
 .student-workspace-v2 .cat-draw-button img{object-fit:contain}
 .student-detail-paper .study-note h2{font:24px/1.4 Georgia,"Songti SC",serif;color:var(--study-ink)}
 .student-detail-paper .functions-answer>.analysis-kicker{display:none}
+
+.so-much-as-accordion{display:grid;gap:10px}
+.so-much-as-use{border:1px solid #d5c5a8;border-radius:6px;background:#f8f0e14d;overflow:hidden}
+.so-much-as-use summary{display:grid;grid-template-columns:24px minmax(0,1fr) 20px;align-items:start;gap:10px;padding:11px 10px;cursor:pointer;list-style:none;color:#3f382e;font:16px/1.5 Georgia,serif}
+.so-much-as-use summary::-webkit-details-marker{display:none}
+.so-much-as-use summary::after{content:"+";color:#8c653d;font:20px/1 Arial,sans-serif;text-align:center}
+.so-much-as-use[open] summary::after{content:"−"}
+.so-much-as-use summary:hover{background:#ede0bb66}
+.so-much-as-use summary:focus-visible{outline:3px solid #846931;outline-offset:-3px}
+.so-much-as-use summary strong{display:block;font-weight:400}
+.so-much-as-use summary small{display:block;margin-top:3px;color:#655a4c;font:14px/1.5 Georgia,serif}
+.so-much-as-use-body{margin:0 10px 11px 44px;padding:11px 13px;border-left:2px solid #b99a57;background:#ede0bb66;color:#3f382e}
+.so-much-as-use-body p{margin:0 0 9px!important;font:16px/1.7 Georgia,serif!important;white-space:normal}
+.so-much-as-use-body p:last-child{margin-bottom:0!important}
+.so-much-as-use-body ul{margin:0 0 10px;padding-left:20px;font:16px/1.7 Georgia,serif}
+.so-much-as-use-body ul:last-child{margin-bottom:0}
+.so-much-as-use-body li+li{margin-top:5px}
+
+/* Oxford examples stay attached to the context sense without duplicating the article sentence above. */
+.word-context-example{margin-top:12px;color:#8c653d}
+.word-context-example summary{width:fit-content;cursor:pointer;font:clamp(15px,1vw,17px)/1.6 Georgia,"Songti SC",serif}
+.word-context-example summary:focus-visible{outline:2px solid #846931;outline-offset:3px}
+.word-context-example-answer{margin-top:8px;padding:10px 12px;border-left:2px solid #b99a57;background:#ede0bb66}
+.word-context-example-answer p{margin:0;color:#3f382e;font:clamp(18px,1.35vw,22px)/1.75 Georgia,"Songti SC",serif;overflow-wrap:anywhere}
+.word-context-example-answer small{display:block;margin-top:7px;color:#8c653d;font:12px/1.5 Arial,sans-serif}

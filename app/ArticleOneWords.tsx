@@ -7,6 +7,7 @@ import { article01PressTranslations } from "./article01PressTranslations";
 import { WordFileDesk } from "./WordFileDesk";
 import { WordPronunciation } from "./WordPronunciation";
 import { MeaningExamples, type MeaningExampleItem } from "./MeaningExamples";
+import { SoMuchAsUses } from "./SoMuchAsUses";
 import { CollocationLines } from "./CollocationLines";
 import { WordFamilyReminder } from "./WordFamilyReminder";
 
@@ -58,7 +59,6 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   const referenceLinks: { label: string; url: string }[] = entry && "referenceLinks" in entry && Array.isArray(entry.referenceLinks)
     ? entry.referenceLinks.filter((link): link is { label: string; url: string } => Boolean(link && typeof link === "object" && "label" in link && "url" in link))
     : [];
-  const dictionaryLabel = entry && "dictionaryLabel" in entry ? entry.dictionaryLabel : "Oxford Learner's Dictionaries";
   if (!entry) return null;
   const definitionEn = "definitionEn" in entry && typeof entry.definitionEn === "string" ? entry.definitionEn : "";
   const otherSensesEn = "otherSensesEn" in entry && typeof entry.otherSensesEn === "string" ? entry.otherSensesEn : "";
@@ -86,8 +86,7 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
         {(entry.partOfSpeech || entry.ipa || entry.word) && <div className="word-pronunciation"><span>{entry.partOfSpeech}</span><span>{entry.ipa}</span>{entry.word && <WordPronunciation key={entry.sourceRow} word={entry.word} sourceRow={entry.sourceRow}/>}</div>}
         {entry.definition && <section className="word-context-meaning"><h3>Meaning in context · 语境词义</h3>{definitionEn && <p className="word-definition word-definition-en" lang="en">{definitionEn}</p>}<p className="word-definition word-definition-zh" lang="zh-CN">{entry.definition}</p></section>}
         {entry.image && <a className="word-picture" href={entry.image} target="_blank" rel="noopener noreferrer" aria-label={`查看 ${entry.word} 原图`}><img src={entry.image} alt={`${entry.word} · 表格原图`} loading="lazy"/><span>↗ 查看原图</span></a>}
-        {otherMeaningItems.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={otherMeaningItems}/></section>}
-        {/^https?:\/\//.test(entry.dictionarySource) && <a className="word-dictionary" href={entry.dictionarySource} target="_blank" rel="noopener noreferrer">{dictionaryLabel} · 词典参考 ↗</a>}
+        {entry.word === "so much as" ? <SoMuchAsUses/> : otherMeaningItems.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={otherMeaningItems}/></section>}
         {referenceLinks?.map((link) => <a className="word-dictionary" key={link.url} href={link.url} target="_blank" rel="noopener noreferrer">{link.label} ↗</a>)}
       </section> });
   const wordFamily = parsed.find(item => item.title === "Word Family / Formation");

@@ -1,0 +1,437 @@
+{
+  "ppt": "W14-Cultural Allusions.pptx",
+  "slides": 83,
+  "topics": 41,
+  "allusions": 39,
+  "cards": 150,
+  "mapping": {
+    "1": [
+      "allusion-1-1"
+    ],
+    "2": [
+      "allusion-2-1"
+    ],
+    "3": [
+      "allusion-3-1"
+    ],
+    "4": [
+      "allusion-4-1",
+      "allusion-4-2",
+      "allusion-4-3",
+      "allusion-4-4"
+    ],
+    "5": [
+      "allusion-5-1",
+      "allusion-5-2",
+      "allusion-5-3"
+    ],
+    "6": [
+      "allusion-6-1"
+    ],
+    "7": [
+      "allusion-7-1",
+      "allusion-7-3",
+      "allusion-7-4"
+    ],
+    "8": [
+      "allusion-8-1"
+    ],
+    "9": [
+      "allusion-9-1",
+      "allusion-9-3"
+    ],
+    "10": [
+      "allusion-10-1"
+    ],
+    "11": [
+      "allusion-11-1",
+      "allusion-11-3",
+      "allusion-11-4"
+    ],
+    "12": [
+      "allusion-12-1"
+    ],
+    "13": [
+      "allusion-13-1",
+      "allusion-13-2",
+      "allusion-13-3"
+    ],
+    "14": [
+      "allusion-14-1"
+    ],
+    "15": [
+      "allusion-15-1",
+      "allusion-15-3"
+    ],
+    "16": [
+      "allusion-16-1"
+    ],
+    "17": [
+      "allusion-17-1"
+    ],
+    "18": [
+      "allusion-18-1",
+      "allusion-18-2",
+      "allusion-18-3"
+    ],
+    "19": [
+      "allusion-19-1"
+    ],
+    "20": [
+      "allusion-20-1",
+      "allusion-20-3"
+    ],
+    "21": [
+      "allusion-21-1",
+      "allusion-21-2",
+      "allusion-21-4"
+    ],
+    "22": [
+      "allusion-22-1",
+      "allusion-22-3"
+    ],
+    "23": [
+      "allusion-23-1"
+    ],
+    "24": [
+      "allusion-24-1",
+      "allusion-24-2",
+      "allusion-24-4"
+    ],
+    "25": [
+      "allusion-25-1"
+    ],
+    "26": [
+      "allusion-26-1",
+      "allusion-26-2",
+      "allusion-26-4"
+    ],
+    "27": [
+      "allusion-27-1"
+    ],
+    "28": [
+      "allusion-28-1",
+      "allusion-28-2",
+      "allusion-28-4"
+    ],
+    "29": [
+      "allusion-29-1",
+      "allusion-29-2",
+      "allusion-29-4"
+    ],
+    "30": [
+      "allusion-30-1",
+      "allusion-30-2",
+      "allusion-30-3",
+      "allusion-30-4"
+    ],
+    "31": [
+      "allusion-31-1",
+      "allusion-31-2"
+    ],
+    "32": [
+      "allusion-32-1",
+      "allusion-32-2",
+      "allusion-32-4"
+    ],
+    "33": [
+      "allusion-33-1"
+    ],
+    "34": [
+      "allusion-34-1",
+      "allusion-34-2",
+      "allusion-34-4"
+    ],
+    "35": [
+      "allusion-35-1",
+      "allusion-35-2",
+      "allusion-35-4"
+    ],
+    "36": [
+      "allusion-36-1",
+      "allusion-36-3"
+    ],
+    "37": [
+      "allusion-37-1"
+    ],
+    "38": [
+      "allusion-38-1",
+      "allusion-38-3",
+      "allusion-38-4"
+    ],
+    "39": [
+      "allusion-39-1"
+    ],
+    "40": [
+      "allusion-40-1",
+      "allusion-40-2",
+      "allusion-40-3"
+    ],
+    "41": [
+      "allusion-41-1"
+    ],
+    "42": [
+      "allusion-42-1",
+      "allusion-42-3"
+    ],
+    "43": [
+      "allusion-43-1"
+    ],
+    "44": [
+      "allusion-44-1",
+      "allusion-44-2",
+      "allusion-44-4"
+    ],
+    "45": [
+      "allusion-45-1"
+    ],
+    "46": [
+      "allusion-46-1",
+      "allusion-46-3"
+    ],
+    "47": [
+      "allusion-47-1"
+    ],
+    "48": [
+      "allusion-48-1",
+      "allusion-48-3"
+    ],
+    "49": [
+      "allusion-49-1"
+    ],
+    "50": [
+      "allusion-50-1",
+      "allusion-50-3"
+    ],
+    "51": [
+      "allusion-51-1",
+      "allusion-51-2",
+      "allusion-51-4"
+    ],
+    "52": [
+      "allusion-52-1"
+    ],
+    "53": [
+      "allusion-53-1",
+      "allusion-53-3"
+    ],
+    "54": [
+      "allusion-54-1"
+    ],
+    "55": [
+      "allusion-55-1",
+      "allusion-55-2",
+      "allusion-55-4"
+    ],
+    "56": [
+      "allusion-56-1"
+    ],
+    "57": [
+      "allusion-57-1",
+      "allusion-57-2",
+      "allusion-57-4"
+    ],
+    "58": [
+      "allusion-58-1"
+    ],
+    "59": [
+      "allusion-59-1",
+      "allusion-59-3"
+    ],
+    "60": [
+      "allusion-60-1"
+    ],
+    "61": [
+      "allusion-61-1",
+      "allusion-61-3"
+    ],
+    "62": [
+      "allusion-62-1"
+    ],
+    "63": [
+      "allusion-63-1",
+      "allusion-63-3"
+    ],
+    "64": [
+      "allusion-64-1"
+    ],
+    "65": [
+      "allusion-65-1",
+      "allusion-65-2",
+      "allusion-65-3"
+    ],
+    "66": [
+      "allusion-66-1"
+    ],
+    "67": [
+      "allusion-67-1",
+      "allusion-67-2",
+      "allusion-67-4"
+    ],
+    "68": [
+      "allusion-68-1"
+    ],
+    "69": [
+      "allusion-69-1",
+      "allusion-69-2",
+      "allusion-69-4",
+      "allusion-69-5"
+    ],
+    "70": [
+      "allusion-70-1"
+    ],
+    "71": [
+      "allusion-71-1",
+      "allusion-71-3"
+    ],
+    "72": [
+      "allusion-72-1"
+    ],
+    "73": [
+      "allusion-73-1",
+      "allusion-73-2",
+      "allusion-73-4"
+    ],
+    "74": [
+      "allusion-74-1"
+    ],
+    "75": [
+      "allusion-75-1",
+      "allusion-75-3"
+    ],
+    "76": [
+      "allusion-76-1"
+    ],
+    "77": [
+      "allusion-77-1"
+    ],
+    "78": [
+      "allusion-78-1"
+    ],
+    "80": [
+      "allusion-80-1"
+    ],
+    "81": [
+      "allusion-81-1"
+    ],
+    "83": [
+      "allusion-83-1"
+    ],
+    "79": [
+      "allusion-77-1"
+    ],
+    "82": [
+      "allusion-80-1"
+    ]
+  },
+  "duplicateSlides": {
+    "79": 77,
+    "82": 80
+  },
+  "corrections": [
+    {
+      "slide": 1,
+      "original": "To better understand each  text context and narratives",
+      "revised": "To better understand each text’s context and narrative.",
+      "reason": "修正所有格、单复数与多余空格。",
+      "link": null
+    },
+    {
+      "slide": 2,
+      "original": "3. Examples Allusions",
+      "revised": "3. Examples of Allusions",
+      "reason": "补上介词 of。",
+      "link": null
+    },
+    {
+      "slide": 2,
+      "original": "4. Reasons of Learning Allusions",
+      "revised": "4. Reasons for Learning Allusions",
+      "reason": "修正介词搭配。",
+      "link": null
+    },
+    {
+      "slide": 18,
+      "original": "预言灾难却无人相信的人；被忽视的预警越过卢比孔河；做出不可回头的决定；踏上无法回头的道路；破釜沉舟式地采取行动。",
+      "revised": "越过卢比孔河；做出不可回头的决定；踏上无法回头的道路；破釜沉舟式地采取行动。",
+      "reason": "删除误粘入的 Cassandra 释义；完整保留 Rubicon 释义。",
+      "link": null
+    },
+    {
+      "slide": 21,
+      "original": "Et tu, Brutus?",
+      "revised": "Et tu, Brute?",
+      "reason": "标题改为拉丁语呼格，与正文一致。Folger 的剧本文本采用 Brutè。",
+      "link": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/3/1/"
+    },
+    {
+      "slide": 65,
+      "original": "大规模离去、集体出走”，常用于战争、灾难、贫困、压迫等语境。",
+      "revised": "“大规模离去、集体出走”，常用于战争、灾难、贫困、压迫等语境。",
+      "reason": "补齐引号。",
+      "link": null
+    },
+    {
+      "slide": 21,
+      "original": "a confirmed historical last word.",
+      "revised": "confirmed historical last words.",
+      "reason": "修正英文固定表达。",
+      "link": null
+    },
+    {
+      "slide": 73,
+      "original": "“A Damascus moment” comes from the New Testament story of Saul’s conversion on the road to Damascus. Saul, once a persecutor of early Christians, experienced a vision and became Paul, one of Christianity’s most important apostles. Today, the phrase means a sudden, dramatic, and life-changing change in belief, attitude, or direction.",
+      "revised": "“A Damascus moment” comes from the New Testament story of Saul’s conversion on the road to Damascus. Saul, also known as Paul, was once a persecutor of early Christians. After the experience, he became one of Christianity’s most important apostles. Today, the phrase means a sudden, dramatic, life-changing shift in belief, attitude, or direction.",
+      "reason": "避免把大马士革经历误写成更名事件，并消除重复用词。",
+      "link": "https://www.biblegateway.com/passage/?search=Acts+13%3A9&tab=passage&version=KJV%3BESV"
+    },
+    {
+      "slide": 11,
+      "original": "Midas Touch（隐藏的重复标题）",
+      "revised": "主标题使用 The face that launched a thousand ships；Midas touch 仍完整保留在第 38–39 页。",
+      "reason": "区分 PPT 隐藏模板残留与当前课程标题。",
+      "link": null
+    },
+    {
+      "slide": 15,
+      "original": "Surreal Dialogue（模板残留标签）",
+      "revised": "页面使用该页的典故标题。",
+      "reason": "原文字仍保存在原稿对照中，不作为当前典故标题。",
+      "link": null
+    },
+    {
+      "slide": 24,
+      "original": "Surreal Dialogue（模板残留标签）",
+      "revised": "页面使用该页的典故标题。",
+      "reason": "原文字仍保存在原稿对照中，不作为当前典故标题。",
+      "link": null
+    },
+    {
+      "slide": 57,
+      "original": "Surreal Dialogue（模板残留标签）",
+      "revised": "页面使用该页的典故标题。",
+      "reason": "原文字仍保存在原稿对照中，不作为当前典故标题。",
+      "link": null
+    },
+    {
+      "slide": 3,
+      "original": "audiences knowledge",
+      "revised": "audience’s knowledge",
+      "reason": "图中定义转为正文时修正所有格；原图保留。",
+      "link": null
+    }
+  ],
+  "sourceParagraphs": 802,
+  "imageOccurrences": 159,
+  "reviewNotes": [
+    "所有 83 页都保留原稿静态对照图，包含图中英文、中文、引文和截图。",
+    "第 79 页与第 77 页、第 82 页与第 80 页内容相同，合并阅读卡片；仍保留各自原稿页。",
+    "第 32、61、73 页讲者备注都写有 Pillar of salt，无法确认是否误粘，标记待核对。",
+    "第 14、27 页的截图含桌面编辑器界面；阅读页按原 PPT 的裁切显示，完整图片与原稿仍可查看。",
+    "新闻、歌词与书籍截图按原图保留；部分截图缺作者、日期或完整出处，未宣称引文已逐字与出版原文核实。",
+    "第 11 页中文“红颜祸水”保留，并说明它是带评价的类比而非中性直译。",
+    "PPT 中关于 Nero、Carthage 撒盐及精神分析理论的限定和争议说明保留。",
+    "第 31 页行星图中 Pluto 的分类加注为 dwarf planet。",
+    "原始 PPT 没有修改。网页里的校订说明与原稿文字分开标识。"
+  ]
+}

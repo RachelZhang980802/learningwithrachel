@@ -1,0 +1,3563 @@
+{
+  "1": {
+    "text": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+    "functions": [
+      [
+        "Subject",
+        "The face of the water, "
+      ],
+      [
+        "Adverbial",
+        "in time, "
+      ],
+      [
+        "Linking verb",
+        "became "
+      ],
+      [
+        "Predicative",
+        "a wonderful book—"
+      ],
+      [
+        "Appositive",
+        "a book "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a dead language "
+      ],
+      [
+        "Complement",
+        "to the uneducated passenger, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Predicate",
+        "told "
+      ],
+      [
+        "Object",
+        "its mind "
+      ],
+      [
+        "Indirect-object complement",
+        "to me "
+      ],
+      [
+        "Adverbial",
+        "without reserve, "
+      ],
+      [
+        "Participial supplement",
+        "delivering its most cherished secrets "
+      ],
+      [
+        "Adverbial",
+        "as clearly "
+      ],
+      [
+        "Subordinator",
+        "as if "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "uttered "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Adverbial",
+        "with a voice."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 248,
+        "anchorEnd": 0,
+        "text": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice."
+      },
+      {
+        "kind": "relative",
+        "start": 63,
+        "end": 117,
+        "anchorEnd": 67,
+        "text": "that was a dead language to the uneducated passenger, ",
+        "antecedent": "a book"
+      },
+      {
+        "kind": "relative",
+        "start": 121,
+        "end": 248,
+        "anchorEnd": 126,
+        "text": "which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+        "antecedent": "a book"
+      },
+      {
+        "kind": "manner",
+        "start": 213,
+        "end": 248,
+        "anchorEnd": 218,
+        "text": "as if it uttered them with a voice."
+      }
+    ],
+    "notes": [
+      "两个关系从句都修饰 book，不因第二个用 which 就变成主句。uneducated 在这里指未受水面解读训练；dead language 是难以读懂的比喻，不是断言乘客文盲。as if 用拟人情景说明清楚程度。",
+      "as if 引出方式／比较情景，隶属于 delivering 的说明；delivering 是非谓语补充，不另标为主句谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 38,
+        "text": "became",
+        "role": "main"
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 127,
+        "end": 131,
+        "text": "told",
+        "role": "sub"
+      },
+      {
+        "start": 222,
+        "end": 229,
+        "text": "uttered",
+        "role": "sub"
+      }
+    ]
+  },
+  "2": {
+    "text": "And it was not a book to be read once and thrown aside, for it had a new story to tell every day.",
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "And "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicative",
+        "a book "
+      ],
+      [
+        "Infinitival modifier",
+        "to be read once and thrown aside, "
+      ],
+      [
+        "Coordinating conjunction",
+        "for "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "a new story "
+      ],
+      [
+        "Infinitival modifier",
+        "to tell "
+      ],
+      [
+        "Adverbial",
+        "every day."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 56,
+        "anchorEnd": 0,
+        "text": "And it was not a book to be read once and thrown aside, "
+      },
+      {
+        "kind": "main",
+        "start": 56,
+        "end": 97,
+        "anchorEnd": 56,
+        "text": "for it had a new story to tell every day."
+      }
+    ],
+    "notes": [
+      "for 在这里作为并列连词补充原因；read 与 thrown 共用 to be。story to tell 用主动形式表达待讲述内容，不能因此一律改 to be told。",
+      "for 连接两个主句并补充原因，不套用 Reason clause。not 单独标为否定词。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 10,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 63,
+        "end": 66,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing.",
+    "functions": [
+      [
+        "Adverbial",
+        "Throughout the long twelve hundred miles "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Negation",
+        "never "
+      ],
+      [
+        "Notional subject",
+        "a page "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "void of interest, "
+      ],
+      [
+        "Notional subject",
+        "never one "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "could leave "
+      ],
+      [
+        "Object complement",
+        "unread "
+      ],
+      [
+        "Adverbial",
+        "without loss, "
+      ],
+      [
+        "Notional subject",
+        "never one "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "would want "
+      ],
+      [
+        "Infinitival complement",
+        "to skip, "
+      ],
+      [
+        "Participial supplement",
+        "thinking "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "could find "
+      ],
+      [
+        "Object",
+        "higher enjoyment "
+      ],
+      [
+        "Adverbial",
+        "in some other thing."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 91,
+        "anchorEnd": 0,
+        "text": "Throughout the long twelve hundred miles there was never a page that was void of interest, "
+      },
+      {
+        "kind": "relative",
+        "start": 64,
+        "end": 91,
+        "anchorEnd": 68,
+        "text": "that was void of interest, ",
+        "antecedent": "a page"
+      },
+      {
+        "kind": "main",
+        "start": 91,
+        "end": 143,
+        "anchorEnd": 91,
+        "text": "never one that you could leave unread without loss, ",
+        "restoration": "there was"
+      },
+      {
+        "kind": "relative",
+        "start": 101,
+        "end": 143,
+        "anchorEnd": 105,
+        "text": "that you could leave unread without loss, ",
+        "antecedent": "one (= a page)"
+      },
+      {
+        "kind": "main",
+        "start": 143,
+        "end": 243,
+        "anchorEnd": 143,
+        "text": "never one that you would want to skip, thinking you could find higher enjoyment in some other thing.",
+        "restoration": "there was"
+      },
+      {
+        "kind": "relative",
+        "start": 153,
+        "end": 243,
+        "anchorEnd": 157,
+        "text": "that you would want to skip, thinking you could find higher enjoyment in some other thing.",
+        "antecedent": "one (= a page)"
+      },
+      {
+        "kind": "object",
+        "start": 191,
+        "end": 243,
+        "anchorEnd": 194,
+        "text": "you could find higher enjoyment in some other thing.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "one 替代 page；后两组压缩重复的 there was，形成排比。leave 的宾语由 that 对应 page，unread 为宾补；thinking 的人是 you，不是 page。",
+      "两个 never one 分句省略 there was；thinking 的内容从句省略 that，属于第三个关系从句中的非谓语补充。"
+    ],
+    "predicates": [
+      {
+        "start": 47,
+        "end": 50,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 110,
+        "end": 121,
+        "text": "could leave",
+        "role": "sub"
+      },
+      {
+        "start": 162,
+        "end": 172,
+        "text": "would want",
+        "role": "sub"
+      },
+      {
+        "start": 195,
+        "end": 205,
+        "text": "could find",
+        "role": "sub"
+      }
+    ]
+  },
+  "4": {
+    "text": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+    "functions": [
+      [
+        "Existential subject",
+        "There "
+      ],
+      [
+        "Negation",
+        "never "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Notional subject",
+        "so wonderful a book "
+      ],
+      [
+        "Participial modifier",
+        "written by man; "
+      ],
+      [
+        "Notional subject",
+        "never one "
+      ],
+      [
+        "Relative determiner",
+        "whose "
+      ],
+      [
+        "Head of subject",
+        "interest "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "so absorbing, "
+      ],
+      [
+        "Predicative",
+        "so unflagging, "
+      ],
+      [
+        "Predicative",
+        "so sparkingly renewed with every re-perusal."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 52,
+        "anchorEnd": 0,
+        "text": "There never was so wonderful a book written by man; "
+      },
+      {
+        "kind": "main",
+        "start": 52,
+        "end": 154,
+        "anchorEnd": 52,
+        "text": "never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+        "restoration": "there was"
+      },
+      {
+        "kind": "relative",
+        "start": 62,
+        "end": 154,
+        "anchorEnd": 67,
+        "text": "whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+        "antecedent": "one (= a book)"
+      }
+    ],
+    "notes": [
+      "so + 形容词 + a + 单数名词：so wonderful a book。whose 表所属，interest 是从句主语。sparkingly 的版本拼写与所核电子原书一致，保留并释为鲜活焕新，不把它作为普通现代副词强行背记。",
+      "第二分句只补 there was，原文已有 never，补全时不重复。written 和 renewed 在本句的既有分析中分别为后置分词修饰和表语部分，不独立计作限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 15,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "5": {
+    "text": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+    "functions": [
+      [
+        "Head of subject",
+        "The passenger "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "read "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Predicate",
+        "was charmed "
+      ],
+      [
+        "Complement",
+        "with a peculiar sort of faint dimple on its surface "
+      ],
+      [
+        "Adverbial",
+        "(on the rare occasions "
+      ],
+      [
+        "Relative adverb",
+        "when "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "overlook "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "altogether); "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Adverbial",
+        "to the pilot "
+      ],
+      [
+        "Subject",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "an italicized passage; "
+      ],
+      [
+        "Supplement",
+        "indeed, "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "more than that, "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "a legend of the largest capitals, "
+      ],
+      [
+        "Complement",
+        "with a string of shouting exclamation points at the end of it; "
+      ],
+      [
+        "Coordinating conjunction",
+        "for "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "meant "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "a wreck or a rock "
+      ],
+      [
+        "Predicate",
+        "was buried "
+      ],
+      [
+        "Adverbial",
+        "there "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "could tear "
+      ],
+      [
+        "Object",
+        "the life "
+      ],
+      [
+        "Source complement",
+        "out of the strongest vessel "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Adverbial",
+        "ever "
+      ],
+      [
+        "Predicate",
+        "floated."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 164,
+        "anchorEnd": 0,
+        "text": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); "
+      },
+      {
+        "kind": "relative",
+        "start": 14,
+        "end": 36,
+        "anchorEnd": 17,
+        "text": "who could not read it ",
+        "antecedent": "The passenger"
+      },
+      {
+        "kind": "relative",
+        "start": 123,
+        "end": 164,
+        "anchorEnd": 127,
+        "text": "when he did not overlook it altogether); ",
+        "antecedent": "occasions"
+      },
+      {
+        "kind": "main",
+        "start": 164,
+        "end": 213,
+        "anchorEnd": 164,
+        "text": "but to the pilot that was an italicized passage; "
+      },
+      {
+        "kind": "main",
+        "start": 213,
+        "end": 244,
+        "anchorEnd": 213,
+        "text": "indeed, it was more than that, "
+      },
+      {
+        "kind": "main",
+        "start": 244,
+        "end": 348,
+        "anchorEnd": 244,
+        "text": "it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; "
+      },
+      {
+        "kind": "main",
+        "start": 348,
+        "end": 472,
+        "anchorEnd": 348,
+        "text": "for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated."
+      },
+      {
+        "kind": "object",
+        "start": 361,
+        "end": 472,
+        "anchorEnd": 365,
+        "text": "that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated."
+      },
+      {
+        "kind": "relative",
+        "start": 401,
+        "end": 472,
+        "anchorEnd": 405,
+        "text": "that could tear the life out of the strongest vessel that ever floated.",
+        "antecedent": "a wreck or a rock"
+      },
+      {
+        "kind": "relative",
+        "start": 454,
+        "end": 472,
+        "anchorEnd": 458,
+        "text": "that ever floated.",
+        "antecedent": "the strongest vessel"
+      }
+    ],
+    "notes": [
+      "警示的升级链是 italicized passage → legend in capitals → shouting exclamation points。there 后的 that 从句因较长而后移，修饰 wreck/rock，不修饰 there；末尾 that 才修饰 vessel。文学并置的逗号不作为现代正式写作任意连接主句的通用规则。",
+      "was charmed 和 was buried 标出完整的被动谓语；括号内 when 修饰 occasions，按 Relative clause 处理；for 后仍是原因说明主句。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 23,
+        "text": "could",
+        "role": "sub"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "read",
+        "role": "sub"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "text": "was charmed",
+        "role": "main"
+      },
+      {
+        "start": 131,
+        "end": 134,
+        "text": "did",
+        "role": "sub"
+      },
+      {
+        "start": 139,
+        "end": 147,
+        "text": "overlook",
+        "role": "sub"
+      },
+      {
+        "start": 186,
+        "end": 189,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 224,
+        "end": 227,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 247,
+        "end": 250,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 355,
+        "end": 360,
+        "text": "meant",
+        "role": "main"
+      },
+      {
+        "start": 384,
+        "end": 394,
+        "text": "was buried",
+        "role": "sub"
+      },
+      {
+        "start": 406,
+        "end": 416,
+        "text": "could tear",
+        "role": "sub"
+      },
+      {
+        "start": 464,
+        "end": 471,
+        "text": "floated",
+        "role": "sub"
+      }
+    ]
+  },
+  "6": {
+    "text": "It is the faintest and simplest expression the water ever makes, and the most hideous to a pilot's eye.",
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "the faintest and simplest expression "
+      ],
+      [
+        "Subject",
+        "the water "
+      ],
+      [
+        "Adverbial",
+        "ever "
+      ],
+      [
+        "Predicate",
+        "makes, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Elliptical predicative",
+        "the most hideous "
+      ],
+      [
+        "Adverbial",
+        "to a pilot's eye."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 103,
+        "anchorEnd": 0,
+        "text": "It is the faintest and simplest expression the water ever makes, and the most hideous to a pilot's eye."
+      },
+      {
+        "kind": "relative",
+        "start": 43,
+        "end": 65,
+        "anchorEnd": 52,
+        "text": "the water ever makes, ",
+        "antecedent": "expression",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "定语从句缺 makes 的宾语，因此省略的是关系词 that。and 后省略 expression；最微弱的迹象也可能传达最大的危险。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "text": "makes",
+        "role": "sub"
+      }
+    ]
+  },
+  "7": {
+    "text": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
+    "functions": [
+      [
+        "Supplement",
+        "In truth, "
+      ],
+      [
+        "Head of subject",
+        "the passenger "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "read "
+      ],
+      [
+        "Object",
+        "this book "
+      ],
+      [
+        "Predicate",
+        "saw "
+      ],
+      [
+        "Object",
+        "nothing but all manner of pretty pictures in it, "
+      ],
+      [
+        "Participial modifier",
+        "painted by the sun "
+      ],
+      [
+        "Participial modifier",
+        "and shaded by the clouds, "
+      ],
+      [
+        "Subordinator",
+        "whereas "
+      ],
+      [
+        "Adverbial",
+        "to the trained eye "
+      ],
+      [
+        "Subject",
+        "these "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "not pictures at all, but the grimmest and most dead-earnest of reading matter."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 267,
+        "anchorEnd": 0,
+        "text": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter."
+      },
+      {
+        "kind": "relative",
+        "start": 24,
+        "end": 53,
+        "anchorEnd": 27,
+        "text": "who could not read this book ",
+        "antecedent": "the passenger"
+      },
+      {
+        "kind": "contrast",
+        "start": 151,
+        "end": 267,
+        "anchorEnd": 158,
+        "text": "whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter."
+      }
+    ],
+    "notes": [
+      "nothing but 表“只有”；whereas 引出对照，教学按从属对照从句分析。trained eye 借眼睛指专业观察者；reading matter 是阅读材料，matter 不译为“问题”。"
+    ],
+    "predicates": [
+      {
+        "start": 28,
+        "end": 33,
+        "text": "could",
+        "role": "sub"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "read",
+        "role": "sub"
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "text": "saw",
+        "role": "main"
+      },
+      {
+        "start": 184,
+        "end": 188,
+        "text": "were",
+        "role": "sub"
+      }
+    ]
+  },
+  "8": {
+    "text": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.",
+    "functions": [
+      [
+        "Supplement",
+        "Now "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had mastered "
+      ],
+      [
+        "Object",
+        "the language of this water "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "had come "
+      ],
+      [
+        "Infinitival complement",
+        "to know "
+      ],
+      [
+        "Object",
+        "every trifling feature "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "bordered "
+      ],
+      [
+        "Object",
+        "the great river "
+      ],
+      [
+        "Adverbial",
+        "as familiarly "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "knew "
+      ],
+      [
+        "Object",
+        "the letters of the alphabet, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had made "
+      ],
+      [
+        "Object",
+        "a valuable acquisition."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 212,
+        "anchorEnd": 0,
+        "text": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition."
+      },
+      {
+        "kind": "time",
+        "start": 4,
+        "end": 178,
+        "anchorEnd": 8,
+        "text": "when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, "
+      },
+      {
+        "kind": "relative",
+        "start": 95,
+        "end": 125,
+        "anchorEnd": 99,
+        "text": "that bordered the great river ",
+        "antecedent": "every trifling feature"
+      },
+      {
+        "kind": "comparison",
+        "start": 139,
+        "end": 178,
+        "anchorEnd": 141,
+        "text": "as I knew the letters of the alphabet, "
+      }
+    ],
+    "notes": [
+      "定语从句止于 that bordered the great river。as familiarly as … 修饰 had come to know，其中比较从句为 as I knew the letters of the alphabet。",
+      "had come 是限定谓语，to know 为不定式补足；比较从句与修饰 feature 的定语从句同处 when 从句之内。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 23,
+        "text": "had mastered",
+        "role": "sub"
+      },
+      {
+        "start": 55,
+        "end": 63,
+        "text": "had come",
+        "role": "sub"
+      },
+      {
+        "start": 100,
+        "end": 108,
+        "text": "bordered",
+        "role": "sub"
+      },
+      {
+        "start": 144,
+        "end": 148,
+        "text": "knew",
+        "role": "sub"
+      },
+      {
+        "start": 180,
+        "end": 188,
+        "text": "had made",
+        "role": "main"
+      }
+    ]
+  },
+  "9": {
+    "text": "But I had lost something, too.",
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had lost "
+      ],
+      [
+        "Object",
+        "something, "
+      ],
+      [
+        "Supplement",
+        "too."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 30,
+        "anchorEnd": 0,
+        "text": "But I had lost something, too."
+      }
+    ],
+    "notes": [
+      "had lost 为过去完成时，承接掌握本领后的反思；too 放句末，表示有所得同时有所失。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 14,
+        "text": "had lost",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "I had lost something which could never be restored to me while I lived.",
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "had lost "
+      ],
+      [
+        "Object",
+        "something "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Modal auxiliary",
+        "could "
+      ],
+      [
+        "Adverbial",
+        "never "
+      ],
+      [
+        "Predicate",
+        "be restored "
+      ],
+      [
+        "Complement",
+        "to me "
+      ],
+      [
+        "Subordinator",
+        "while "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "lived."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 71,
+        "anchorEnd": 0,
+        "text": "I had lost something which could never be restored to me while I lived."
+      },
+      {
+        "kind": "relative",
+        "start": 21,
+        "end": 71,
+        "anchorEnd": 26,
+        "text": "which could never be restored to me while I lived.",
+        "antecedent": "something"
+      },
+      {
+        "kind": "time",
+        "start": 57,
+        "end": 71,
+        "anchorEnd": 62,
+        "text": "while I lived."
+      }
+    ],
+    "notes": [
+      "which 作被动从句主语，指失去的东西；restore something to someone。while I lived 意为在余生，不是“虽然我活着”的让步。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 10,
+        "text": "had lost",
+        "role": "main"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": "could",
+        "role": "sub"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "text": "be restored",
+        "role": "sub"
+      },
+      {
+        "start": 65,
+        "end": 70,
+        "text": "lived",
+        "role": "sub"
+      }
+    ]
+  },
+  "11": {
+    "text": "All the grace, the beauty, the poetry had gone out of the majestic river!",
+    "functions": [
+      [
+        "Subject",
+        "All the grace, the beauty, the poetry "
+      ],
+      [
+        "Predicate",
+        "had gone "
+      ],
+      [
+        "Adverbial",
+        "out of the majestic river!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 73,
+        "anchorEnd": 0,
+        "text": "All the grace, the beauty, the poetry had gone out of the majestic river!"
+      }
+    ],
+    "notes": [
+      "三个抽象名词排比，未用 and，是文学修辞。这里“消失”指作者感受的变化；河本身仍被称为 majestic。"
+    ],
+    "predicates": [
+      {
+        "start": 38,
+        "end": 46,
+        "text": "had gone",
+        "role": "main"
+      }
+    ]
+  },
+  "12": {
+    "text": "I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me.",
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Adverbial",
+        "still "
+      ],
+      [
+        "Predicate",
+        "keep "
+      ],
+      [
+        "Complement",
+        "in mind "
+      ],
+      [
+        "Object",
+        "a certain wonderful sunset "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "witnessed "
+      ],
+      [
+        "Subordinator",
+        "when "
+      ],
+      [
+        "Subject",
+        "steamboating "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "new "
+      ],
+      [
+        "Complement",
+        "to me."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 98,
+        "anchorEnd": 0,
+        "text": "I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me."
+      },
+      {
+        "kind": "relative",
+        "start": 48,
+        "end": 98,
+        "anchorEnd": 53,
+        "text": "which I witnessed when steamboating was new to me.",
+        "antecedent": "a certain wonderful sunset"
+      },
+      {
+        "kind": "time",
+        "start": 66,
+        "end": 98,
+        "anchorEnd": 70,
+        "text": "when steamboating was new to me."
+      }
+    ],
+    "notes": [
+      "keep something in mind 把较长的宾语放到 in mind 后，仍是“记住某事”。when 修饰 witnessed 的时间；steamboating 作名词性活动主语。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 12,
+        "text": "keep",
+        "role": "main"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "text": "witnessed",
+        "role": "sub"
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "text": "was",
+        "role": "sub"
+      }
+    ]
+  },
+  "13": {
+    "text": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+    "functions": [
+      [
+        "Subject",
+        "A broad expanse of the river "
+      ],
+      [
+        "Predicate",
+        "was turned "
+      ],
+      [
+        "Complement",
+        "to blood; "
+      ],
+      [
+        "Adverbial",
+        "in the middle distance "
+      ],
+      [
+        "Subject",
+        "the red hue "
+      ],
+      [
+        "Predicate",
+        "brightened "
+      ],
+      [
+        "Complement",
+        "into gold, "
+      ],
+      [
+        "Relative prepositional phrase",
+        "through which "
+      ],
+      [
+        "Subject",
+        "a solitary log "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Participial supplement",
+        "floating, "
+      ],
+      [
+        "Complement",
+        "black and conspicuous; "
+      ],
+      [
+        "Adverbial",
+        "in one place "
+      ],
+      [
+        "Subject",
+        "a long, slanting mark "
+      ],
+      [
+        "Predicate",
+        "lay "
+      ],
+      [
+        "Complement",
+        "sparkling upon the water; "
+      ],
+      [
+        "Adverbial",
+        "in another "
+      ],
+      [
+        "Subject",
+        "the surface "
+      ],
+      [
+        "Predicate",
+        "was broken "
+      ],
+      [
+        "Complement",
+        "by boiling, tumbling rings, "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "as many-tinted as an opal; "
+      ],
+      [
+        "Subordinator",
+        "where "
+      ],
+      [
+        "Subject",
+        "the ruddy flush "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "faintest, "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Subject",
+        "a smooth spot "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "was covered "
+      ],
+      [
+        "Complement",
+        "with graceful circles and radiating lines, "
+      ],
+      [
+        "Participial modifier",
+        "ever so delicately traced; "
+      ],
+      [
+        "Subject",
+        "the shore on our left "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "densely wooded, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "the somber shadow "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "fell "
+      ],
+      [
+        "Adverbial",
+        "from this forest "
+      ],
+      [
+        "Predicate",
+        "was broken "
+      ],
+      [
+        "Adverbial",
+        "in one place "
+      ],
+      [
+        "Complement",
+        "by a long, ruffled trail "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "shone "
+      ],
+      [
+        "Adverbial",
+        "like silver; "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "high above the forest wall "
+      ],
+      [
+        "Subject",
+        "a clean-stemmed dead tree "
+      ],
+      [
+        "Predicate",
+        "waved "
+      ],
+      [
+        "Object",
+        "a single leafy bough "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "glowed "
+      ],
+      [
+        "Adverbial",
+        "like a flame "
+      ],
+      [
+        "Complement",
+        "in the unobstructed splendor "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "was flowing "
+      ],
+      [
+        "Adverbial",
+        "from the sun."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 50,
+        "anchorEnd": 0,
+        "text": "A broad expanse of the river was turned to blood; "
+      },
+      {
+        "kind": "main",
+        "start": 50,
+        "end": 174,
+        "anchorEnd": 50,
+        "text": "in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; "
+      },
+      {
+        "kind": "relative",
+        "start": 107,
+        "end": 174,
+        "anchorEnd": 120,
+        "text": "through which a solitary log came floating, black and conspicuous; ",
+        "antecedent": "gold (= the golden water)"
+      },
+      {
+        "kind": "main",
+        "start": 174,
+        "end": 239,
+        "anchorEnd": 174,
+        "text": "in one place a long, slanting mark lay sparkling upon the water; "
+      },
+      {
+        "kind": "main",
+        "start": 239,
+        "end": 338,
+        "anchorEnd": 239,
+        "text": "in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; "
+      },
+      {
+        "kind": "relative",
+        "start": 301,
+        "end": 338,
+        "anchorEnd": 305,
+        "text": "that were as many-tinted as an opal; ",
+        "antecedent": "boiling, tumbling rings"
+      },
+      {
+        "kind": "main",
+        "start": 338,
+        "end": 479,
+        "anchorEnd": 338,
+        "text": "where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; "
+      },
+      {
+        "kind": "place",
+        "start": 338,
+        "end": 374,
+        "anchorEnd": 343,
+        "text": "where the ruddy flush was faintest, "
+      },
+      {
+        "kind": "relative",
+        "start": 392,
+        "end": 479,
+        "anchorEnd": 396,
+        "text": "that was covered with graceful circles and radiating lines, ever so delicately traced; ",
+        "antecedent": "a smooth spot"
+      },
+      {
+        "kind": "main",
+        "start": 479,
+        "end": 521,
+        "anchorEnd": 479,
+        "text": "the shore on our left was densely wooded, "
+      },
+      {
+        "kind": "main",
+        "start": 521,
+        "end": 643,
+        "anchorEnd": 521,
+        "text": "and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; "
+      },
+      {
+        "kind": "relative",
+        "start": 543,
+        "end": 570,
+        "anchorEnd": 547,
+        "text": "that fell from this forest ",
+        "antecedent": "the somber shadow"
+      },
+      {
+        "kind": "relative",
+        "start": 619,
+        "end": 643,
+        "anchorEnd": 623,
+        "text": "that shone like silver; ",
+        "antecedent": "a long, ruffled trail"
+      },
+      {
+        "kind": "main",
+        "start": 643,
+        "end": 811,
+        "anchorEnd": 643,
+        "text": "and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun."
+      },
+      {
+        "kind": "relative",
+        "start": 727,
+        "end": 811,
+        "anchorEnd": 731,
+        "text": "that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+        "antecedent": "a single leafy bough"
+      },
+      {
+        "kind": "relative",
+        "start": 781,
+        "end": 811,
+        "anchorEnd": 785,
+        "text": "that was flowing from the sun.",
+        "antecedent": "the unobstructed splendor"
+      }
+    ],
+    "notes": [
+      "全句先分八幅并列画面，再沿各自关系从句向内读。where the ruddy flush was faintest 是前置地点从句，内部主语为 the ruddy flush、系动词为 was、表语为 faintest；外层完全倒装主语为 a smooth spot。",
+      "八个主句分别对应八幅画面；七个定语从句和一个地点从句单独显示，不能把两个不同先行词的 that 从句合并。was broken、was covered、was flowing 标出完整谓语；wooded 按状态形容词作表语。"
+    ],
+    "predicates": [
+      {
+        "start": 29,
+        "end": 39,
+        "text": "was turned",
+        "role": "main"
+      },
+      {
+        "start": 85,
+        "end": 95,
+        "text": "brightened",
+        "role": "main"
+      },
+      {
+        "start": 136,
+        "end": 140,
+        "text": "came",
+        "role": "sub"
+      },
+      {
+        "start": 209,
+        "end": 212,
+        "text": "lay",
+        "role": "main"
+      },
+      {
+        "start": 262,
+        "end": 272,
+        "text": "was broken",
+        "role": "main"
+      },
+      {
+        "start": 306,
+        "end": 310,
+        "text": "were",
+        "role": "sub"
+      },
+      {
+        "start": 360,
+        "end": 363,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 374,
+        "end": 377,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 397,
+        "end": 408,
+        "text": "was covered",
+        "role": "sub"
+      },
+      {
+        "start": 501,
+        "end": 504,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 548,
+        "end": 552,
+        "text": "fell",
+        "role": "sub"
+      },
+      {
+        "start": 570,
+        "end": 580,
+        "text": "was broken",
+        "role": "main"
+      },
+      {
+        "start": 624,
+        "end": 629,
+        "text": "shone",
+        "role": "sub"
+      },
+      {
+        "start": 700,
+        "end": 705,
+        "text": "waved",
+        "role": "main"
+      },
+      {
+        "start": 732,
+        "end": 738,
+        "text": "glowed",
+        "role": "sub"
+      },
+      {
+        "start": 786,
+        "end": 797,
+        "text": "was flowing",
+        "role": "sub"
+      }
+    ]
+  },
+  "14": {
+    "text": "There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.",
+    "functions": [
+      [
+        "Existential subject",
+        "There "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Notional subject",
+        "graceful curves, reflected images, woody heights, soft distances; "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "over the whole scene, "
+      ],
+      [
+        "Adverbial",
+        "far and near, "
+      ],
+      [
+        "Subject",
+        "the dissolving lights "
+      ],
+      [
+        "Predicate",
+        "drifted "
+      ],
+      [
+        "Adverbial",
+        "steadily, "
+      ],
+      [
+        "Participial supplement",
+        "enriching "
+      ],
+      [
+        "Object",
+        "it, "
+      ],
+      [
+        "Supplement",
+        "every passing moment, "
+      ],
+      [
+        "Participial supplement",
+        "with new marvels of coloring."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 77,
+        "anchorEnd": 0,
+        "text": "There were graceful curves, reflected images, woody heights, soft distances; "
+      },
+      {
+        "kind": "main",
+        "start": 77,
+        "end": 222,
+        "anchorEnd": 77,
+        "text": "and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring."
+      }
+    ],
+    "notes": [
+      "enrich A with B：以 B 丰富 A。it 指 whole scene；enriching 不另立限定主句。dissolving 形容光影渐变交融，而非物质溶解。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "were",
+        "role": "main"
+      },
+      {
+        "start": 139,
+        "end": 146,
+        "text": "drifted",
+        "role": "main"
+      }
+    ]
+  },
+  "15": {
+    "text": "I stood like one bewitched.",
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "stood "
+      ],
+      [
+        "Complement",
+        "like one bewitched."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 0,
+        "text": "I stood like one bewitched."
+      }
+    ],
+    "notes": [
+      "one 指一个人，bewitched 为被动意义后置分词。无需仅因能补出 who was 就把原句标成展开的主从句。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "stood",
+        "role": "main"
+      }
+    ]
+  },
+  "16": {
+    "text": "I drank it in, in a speechless rapture.",
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "drank "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Predicate particle",
+        "in, "
+      ],
+      [
+        "Adverbial",
+        "in a speechless rapture."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "I drank it in, in a speechless rapture."
+      }
+    ],
+    "notes": [
+      "drink in 为尽情欣赏、吸收；代词放中间 drink it in。紧接的第二个 in 开始介词短语，不是排版重复。",
+      "drank … in 是可分短语动词，it 是宾语；第二个 in 引导状态状语。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 7,
+        "text": "drank",
+        "role": "main"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "in",
+        "role": "main"
+      }
+    ]
+  },
+  "17": {
+    "text": "The world was new to me, and I had never seen anything like this at home.",
+    "functions": [
+      [
+        "Subject",
+        "The world "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "new "
+      ],
+      [
+        "Complement",
+        "to me, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Auxiliary verb",
+        "had "
+      ],
+      [
+        "Adverbial",
+        "never "
+      ],
+      [
+        "Predicate",
+        "seen "
+      ],
+      [
+        "Object",
+        "anything like this "
+      ],
+      [
+        "Adverbial",
+        "at home."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "The world was new to me, "
+      },
+      {
+        "kind": "main",
+        "start": 25,
+        "end": 73,
+        "anchorEnd": 25,
+        "text": "and I had never seen anything like this at home."
+      }
+    ],
+    "notes": [
+      "两套主谓由 and 连接。was 描写当时感受，had never seen 回顾此前经历，时间层次不同。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 13,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "had",
+        "role": "main"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "seen",
+        "role": "main"
+      }
+    ]
+  },
+  "18": {
+    "text": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "have said, "
+      ],
+      [
+        "Subject",
+        "a day "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Relative adverb",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "began "
+      ],
+      [
+        "Infinitival complement",
+        "to cease from noting the glories and the charms "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Subject",
+        "the moon and the sun and the twilight "
+      ],
+      [
+        "Predicate",
+        "wrought "
+      ],
+      [
+        "Adverbial",
+        "upon the river's face; "
+      ],
+      [
+        "Subject",
+        "another day "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Relative adverb",
+        "when "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "ceased "
+      ],
+      [
+        "Adverbial",
+        "altogether "
+      ],
+      [
+        "Infinitival complement",
+        "to note them."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 167,
+        "anchorEnd": 0,
+        "text": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; "
+      },
+      {
+        "kind": "parenthetical",
+        "start": 4,
+        "end": 20,
+        "anchorEnd": 6,
+        "text": "as I have said, "
+      },
+      {
+        "kind": "relative",
+        "start": 31,
+        "end": 167,
+        "anchorEnd": 35,
+        "text": "when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; ",
+        "antecedent": "a day"
+      },
+      {
+        "kind": "relative",
+        "start": 92,
+        "end": 167,
+        "anchorEnd": 97,
+        "text": "which the moon and the sun and the twilight wrought upon the river's face; ",
+        "antecedent": "the glories and the charms"
+      },
+      {
+        "kind": "main",
+        "start": 167,
+        "end": 222,
+        "anchorEnd": 167,
+        "text": "another day came when I ceased altogether to note them."
+      },
+      {
+        "kind": "relative",
+        "start": 184,
+        "end": 222,
+        "anchorEnd": 188,
+        "text": "when I ceased altogether to note them.",
+        "antecedent": "another day"
+      }
+    ],
+    "notes": [
+      "when 两次修饰 day，不是 came 的宾语。which 作 wrought 的宾语；wrought 是 work 的旧式过去形式。cease from doing 较旧，cease to do 更常见；as I have said 是评注，不强调动作方式。",
+      "as I have said 采用 Parenthetical comment 标签，以体现评注功能；与样板的方式状语分析相比，这是对本句话语功能更明确的标注。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 18,
+        "text": "have said",
+        "role": "sub"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "came",
+        "role": "main"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "began",
+        "role": "sub"
+      },
+      {
+        "start": 136,
+        "end": 143,
+        "text": "wrought",
+        "role": "sub"
+      },
+      {
+        "start": 179,
+        "end": 183,
+        "text": "came",
+        "role": "main"
+      },
+      {
+        "start": 191,
+        "end": 197,
+        "text": "ceased",
+        "role": "sub"
+      }
+    ]
+  },
+  "19": {
+    "text": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+    "functions": [
+      [
+        "Adverbial",
+        "Then, "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Subject",
+        "that sunset scene "
+      ],
+      [
+        "Predicate",
+        "had been repeated, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "should have looked "
+      ],
+      [
+        "Preposition",
+        "upon "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "without rapture, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "should have commented "
+      ],
+      [
+        "Preposition",
+        "upon "
+      ],
+      [
+        "Object",
+        "it, "
+      ],
+      [
+        "Adverbial",
+        "inwardly, after this fashion: "
+      ],
+      [
+        "Subject",
+        "This sun "
+      ],
+      [
+        "Predicate",
+        "means "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Predicate",
+        "are going to have "
+      ],
+      [
+        "Object",
+        "wind "
+      ],
+      [
+        "Adverbial",
+        "tomorrow; "
+      ],
+      [
+        "Subject",
+        "that floating log "
+      ],
+      [
+        "Predicate",
+        "means "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "the river "
+      ],
+      [
+        "Predicate",
+        "is rising, "
+      ],
+      [
+        "Supplement",
+        "small thanks to it; "
+      ],
+      [
+        "Subject",
+        "that slanting mark on the water "
+      ],
+      [
+        "Predicate",
+        "refers "
+      ],
+      [
+        "Preposition",
+        "to "
+      ],
+      [
+        "Object of preposition",
+        "a bluff reef "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Predicate",
+        "is going to kill "
+      ],
+      [
+        "Object",
+        "somebody's steamboat "
+      ],
+      [
+        "Adverbial",
+        "one of these nights, "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "keeps on "
+      ],
+      [
+        "Non-finite complement",
+        "stretching out like that; "
+      ],
+      [
+        "Subject",
+        "those tumbling \"boils\" "
+      ],
+      [
+        "Predicate",
+        "show "
+      ],
+      [
+        "Object",
+        "a dissolving bar and a changing channel "
+      ],
+      [
+        "Adverbial",
+        "there; "
+      ],
+      [
+        "Subject",
+        "the lines and circles in the slick water over yonder "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "a warning "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "that troublesome place "
+      ],
+      [
+        "Predicate",
+        "is shoaling up "
+      ],
+      [
+        "Adverbial",
+        "dangerously; "
+      ],
+      [
+        "Subject",
+        "that silver streak in the shadow of the forest "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "the \"break\" from a new snag, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "has located "
+      ],
+      [
+        "Object",
+        "himself "
+      ],
+      [
+        "Complement",
+        "in the very best place "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "could have found "
+      ],
+      [
+        "Complement",
+        "to fish for steamboats; "
+      ],
+      [
+        "Subject",
+        "that tall dead tree, "
+      ],
+      [
+        "Complement",
+        "with a single living branch, "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "going to last "
+      ],
+      [
+        "Adverbial",
+        "long, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "then "
+      ],
+      [
+        "Adverbial",
+        "how "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "a body "
+      ],
+      [
+        "Adverbial",
+        "ever "
+      ],
+      [
+        "Predicate",
+        "going to get "
+      ],
+      [
+        "Preposition",
+        "through "
+      ],
+      [
+        "Object",
+        "this blind place "
+      ],
+      [
+        "Adverbial",
+        "at night "
+      ],
+      [
+        "Complement",
+        "without the friendly old landmark."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 157,
+        "anchorEnd": 0,
+        "text": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: "
+      },
+      {
+        "kind": "condition",
+        "start": 6,
+        "end": 46,
+        "anchorEnd": 8,
+        "text": "if that sunset scene had been repeated, "
+      },
+      {
+        "kind": "main",
+        "start": 157,
+        "end": 213,
+        "anchorEnd": 157,
+        "text": "This sun means that we are going to have wind tomorrow; "
+      },
+      {
+        "kind": "object",
+        "start": 172,
+        "end": 213,
+        "anchorEnd": 176,
+        "text": "that we are going to have wind tomorrow; "
+      },
+      {
+        "kind": "main",
+        "start": 213,
+        "end": 283,
+        "anchorEnd": 213,
+        "text": "that floating log means that the river is rising, small thanks to it; "
+      },
+      {
+        "kind": "object",
+        "start": 237,
+        "end": 263,
+        "anchorEnd": 241,
+        "text": "that the river is rising, "
+      },
+      {
+        "kind": "main",
+        "start": 283,
+        "end": 444,
+        "anchorEnd": 283,
+        "text": "that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; "
+      },
+      {
+        "kind": "relative",
+        "start": 338,
+        "end": 444,
+        "anchorEnd": 343,
+        "text": "which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; ",
+        "antecedent": "a bluff reef"
+      },
+      {
+        "kind": "condition",
+        "start": 403,
+        "end": 444,
+        "anchorEnd": 405,
+        "text": "if it keeps on stretching out like that; "
+      },
+      {
+        "kind": "main",
+        "start": 444,
+        "end": 519,
+        "anchorEnd": 444,
+        "text": "those tumbling \"boils\" show a dissolving bar and a changing channel there; "
+      },
+      {
+        "kind": "main",
+        "start": 519,
+        "end": 642,
+        "anchorEnd": 519,
+        "text": "the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; "
+      },
+      {
+        "kind": "appositive",
+        "start": 586,
+        "end": 642,
+        "anchorEnd": 590,
+        "text": "that that troublesome place is shoaling up dangerously; "
+      },
+      {
+        "kind": "main",
+        "start": 642,
+        "end": 721,
+        "anchorEnd": 642,
+        "text": "that silver streak in the shadow of the forest is the \"break\" from a new snag, "
+      },
+      {
+        "kind": "main",
+        "start": 721,
+        "end": 815,
+        "anchorEnd": 721,
+        "text": "and he has located himself in the very best place he could have found to fish for steamboats; "
+      },
+      {
+        "kind": "relative",
+        "start": 771,
+        "end": 791,
+        "anchorEnd": 773,
+        "text": "he could have found ",
+        "antecedent": "the very best place",
+        "restoration": "that"
+      },
+      {
+        "kind": "main",
+        "start": 815,
+        "end": 892,
+        "anchorEnd": 815,
+        "text": "that tall dead tree, with a single living branch, is not going to last long, "
+      },
+      {
+        "kind": "main",
+        "start": 892,
+        "end": 1001,
+        "anchorEnd": 892,
+        "text": "and then how is a body ever going to get through this blind place at night without the friendly old landmark."
+      }
+    ],
+    "notes": [
+      "外层 had been + should have 为过去反事实；这里 should 是旧式第一人称 would，不是“应该批评”。冒号后按直接呈现的内心话读，保留 now/tomorrow 的内部视点。a warning that that … 中前 that 引导内容，后 that 限定 place；he 指拟人化的 snag，a body 是旧式“一个人”。",
+      "冒号后的内心话含九个主句，连同前导主句共十个；其中的宾语、定语、条件及同位语从句分别嵌套。is going to 在此表示将来，作为谓语链标记；small thanks to it 是非从句插语，keeps on 后 stretching out 是非谓语补足。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 44,
+        "text": "had been repeated",
+        "role": "sub"
+      },
+      {
+        "start": 48,
+        "end": 66,
+        "text": "should have looked",
+        "role": "main"
+      },
+      {
+        "start": 96,
+        "end": 117,
+        "text": "should have commented",
+        "role": "main"
+      },
+      {
+        "start": 166,
+        "end": 171,
+        "text": "means",
+        "role": "main"
+      },
+      {
+        "start": 180,
+        "end": 197,
+        "text": "are going to have",
+        "role": "sub"
+      },
+      {
+        "start": 231,
+        "end": 236,
+        "text": "means",
+        "role": "main"
+      },
+      {
+        "start": 252,
+        "end": 261,
+        "text": "is rising",
+        "role": "sub"
+      },
+      {
+        "start": 315,
+        "end": 321,
+        "text": "refers",
+        "role": "main"
+      },
+      {
+        "start": 344,
+        "end": 360,
+        "text": "is going to kill",
+        "role": "sub"
+      },
+      {
+        "start": 409,
+        "end": 417,
+        "text": "keeps on",
+        "role": "sub"
+      },
+      {
+        "start": 467,
+        "end": 471,
+        "text": "show",
+        "role": "main"
+      },
+      {
+        "start": 572,
+        "end": 575,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 614,
+        "end": 628,
+        "text": "is shoaling up",
+        "role": "sub"
+      },
+      {
+        "start": 689,
+        "end": 691,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 728,
+        "end": 739,
+        "text": "has located",
+        "role": "main"
+      },
+      {
+        "start": 774,
+        "end": 790,
+        "text": "could have found",
+        "role": "sub"
+      },
+      {
+        "start": 865,
+        "end": 867,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 872,
+        "end": 885,
+        "text": "going to last",
+        "role": "main"
+      },
+      {
+        "start": 905,
+        "end": 907,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 920,
+        "end": 932,
+        "text": "going to get",
+        "role": "main"
+      }
+    ]
+  },
+  "20": {
+    "text": "No, the romance and the beauty were all gone from the river.",
+    "functions": [
+      [
+        "Supplement",
+        "No, "
+      ],
+      [
+        "Subject",
+        "the romance and the beauty "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "all gone "
+      ],
+      [
+        "Complement",
+        "from the river."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 60,
+        "anchorEnd": 0,
+        "text": "No, the romance and the beauty were all gone from the river."
+      }
+    ],
+    "notes": [
+      "were gone 表“已经不在”的状态，不是把不及物 go 硬分析成被动。romance 在此指诗意和神秘情趣，而非恋情。"
+    ],
+    "predicates": [
+      {
+        "start": 31,
+        "end": 35,
+        "text": "were",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat.",
+    "functions": [
+      [
+        "Head of subject",
+        "All the value "
+      ],
+      [
+        "Subject",
+        "any feature of it "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Complement",
+        "for me "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "the amount of usefulness "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "could furnish "
+      ],
+      [
+        "Complement",
+        "toward compassing the safe piloting of a steamboat."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 144,
+        "anchorEnd": 0,
+        "text": "All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat."
+      },
+      {
+        "kind": "relative",
+        "start": 14,
+        "end": 47,
+        "anchorEnd": 25,
+        "text": "any feature of it had for me now ",
+        "antecedent": "All the value",
+        "restoration": "that"
+      },
+      {
+        "kind": "relative",
+        "start": 76,
+        "end": 144,
+        "anchorEnd": 78,
+        "text": "it could furnish toward compassing the safe piloting of a steamboat.",
+        "antecedent": "usefulness",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "两个关系词都作宾语而省略；外层主干不是 any feature had …，要跨到 was。前 it 指 river，后 it 指 any feature；compass 是旧式“实现”，toward 后接 -ing。",
+      "两个零关系词从句分别修饰 value 和 usefulness，括号中的 that 仅作补全提示。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 35,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 79,
+        "end": 92,
+        "text": "could furnish",
+        "role": "sub"
+      }
+    ]
+  },
+  "22": {
+    "text": "Since those days, I have pitied doctors from my heart.",
+    "functions": [
+      [
+        "Adverbial",
+        "Since those days, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "have pitied "
+      ],
+      [
+        "Object",
+        "doctors "
+      ],
+      [
+        "Adverbial",
+        "from my heart."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "Since those days, I have pitied doctors from my heart."
+      }
+    ],
+    "notes": [
+      "Since 后接名词短语，不构成从句；主句现在完成时连接过去到叙述当下。后文用医生作类比，非职业事实调查。"
+    ],
+    "predicates": [
+      {
+        "start": 20,
+        "end": 31,
+        "text": "have pitied",
+        "role": "main"
+      }
+    ]
+  },
+  "23": {
+    "text": "What does the lovely flush in a beauty's cheek mean to a doctor but a \"break\" that ripples above some deadly disease?",
+    "functions": [
+      [
+        "Object",
+        "What "
+      ],
+      [
+        "Auxiliary verb",
+        "does "
+      ],
+      [
+        "Subject",
+        "the lovely flush in a beauty's cheek "
+      ],
+      [
+        "Predicate",
+        "mean "
+      ],
+      [
+        "Complement",
+        "to a doctor "
+      ],
+      [
+        "Complement",
+        "but a \"break\" "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "ripples "
+      ],
+      [
+        "Adverbial",
+        "above some deadly disease?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 117,
+        "anchorEnd": 0,
+        "text": "What does the lovely flush in a beauty's cheek mean to a doctor but a \"break\" that ripples above some deadly disease?"
+      },
+      {
+        "kind": "relative",
+        "start": 78,
+        "end": 117,
+        "anchorEnd": 82,
+        "text": "that ripples above some deadly disease?",
+        "antecedent": "a \"break\""
+      }
+    ],
+    "notes": [
+      "What … but …? 为“除了……还能是什么”的反问。break 承接上文枯木激起的表面扰动，比喻表象下的危险；不是休息时间。专用 PDF 漏句末标点，网页保留问号便于阅读。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "does",
+        "role": "main"
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "mean",
+        "role": "main"
+      },
+      {
+        "start": 83,
+        "end": 90,
+        "text": "ripples",
+        "role": "sub"
+      }
+    ]
+  },
+  "24": {
+    "text": "Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay?",
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Are "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Subject",
+        "all her visible charms "
+      ],
+      [
+        "Predicate",
+        "sown "
+      ],
+      [
+        "Complement",
+        "thick "
+      ],
+      [
+        "Preposition",
+        "with "
+      ],
+      [
+        "Fused relative pronoun",
+        "what "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Adverbial",
+        "to him "
+      ],
+      [
+        "Predicative",
+        "the signs and symbols of hidden decay?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 101,
+        "anchorEnd": 0,
+        "text": "Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay?"
+      },
+      {
+        "kind": "fused-relative",
+        "start": 47,
+        "end": 101,
+        "anchorEnd": 51,
+        "text": "what are to him the signs and symbols of hidden decay?"
+      }
+    ],
+    "notes": [
+      "with 后的 what 结构整体作介词宾语，what 内部对应多种 signs and symbols，故可用 are。sown thick 是“密布”的比喻；不由 are 就推断 what 必须单数。",
+      "what are … 按 Fused relative clause（融合关系从句）呈现，整体作 with 的宾语；样板“宾语从句”说明的是整体功能。保留该功能解释，用中性颜色避免把结构类别和功能混为一谈。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Are",
+        "role": "main"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "text": "sown",
+        "role": "main"
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "are",
+        "role": "sub"
+      }
+    ]
+  },
+  "25": {
+    "text": "Does he ever see her beauty at all, or doesn't he simply view her professionally, and comment upon her unwholesome condition all to himself?",
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Does "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "ever "
+      ],
+      [
+        "Predicate",
+        "see "
+      ],
+      [
+        "Object",
+        "her beauty "
+      ],
+      [
+        "Adverbial",
+        "at all, "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Auxiliary verb",
+        "doesn't "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "simply "
+      ],
+      [
+        "Predicate",
+        "view "
+      ],
+      [
+        "Object",
+        "her "
+      ],
+      [
+        "Adverbial",
+        "professionally, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "comment "
+      ],
+      [
+        "Preposition",
+        "upon "
+      ],
+      [
+        "Object",
+        "her unwholesome condition "
+      ],
+      [
+        "Adverbial",
+        "all to himself?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 36,
+        "anchorEnd": 0,
+        "text": "Does he ever see her beauty at all, "
+      },
+      {
+        "kind": "main",
+        "start": 36,
+        "end": 140,
+        "anchorEnd": 36,
+        "text": "or doesn't he simply view her professionally, and comment upon her unwholesome condition all to himself?"
+      }
+    ],
+    "notes": [
+      "or 连接两套反问；第二问里的 and 只并列 view、comment。to himself 表在心里，并不真的对病人说出这些话；否定问式带作者倾向，不是已证明的普遍结论。",
+      "doesn’t 含否定形式，保持完整；and 只并列 view 与 comment，upon 单列介词。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Does",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "see",
+        "role": "main"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "text": "doesn't",
+        "role": "main"
+      },
+      {
+        "start": 57,
+        "end": 61,
+        "text": "view",
+        "role": "main"
+      },
+      {
+        "start": 86,
+        "end": 93,
+        "text": "comment",
+        "role": "main"
+      }
+    ]
+  },
+  "26": {
+    "text": "And doesn't he sometimes wonder whether he has gained most or lost most by learning his trade?",
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "And "
+      ],
+      [
+        "Auxiliary verb",
+        "doesn't "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "sometimes "
+      ],
+      [
+        "Predicate",
+        "wonder "
+      ],
+      [
+        "Subordinator",
+        "whether "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "has gained "
+      ],
+      [
+        "Complement",
+        "most "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicate",
+        "lost "
+      ],
+      [
+        "Complement",
+        "most "
+      ],
+      [
+        "Adverbial",
+        "by learning his trade?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 94,
+        "anchorEnd": 0,
+        "text": "And doesn't he sometimes wonder whether he has gained most or lost most by learning his trade?"
+      },
+      {
+        "kind": "object",
+        "start": 32,
+        "end": 94,
+        "anchorEnd": 39,
+        "text": "whether he has gained most or lost most by learning his trade?"
+      }
+    ],
+    "notes": [
+      "whether 从句用陈述语序；lost 前可补 has。原文用 most 对举所得所失，现代转述可写 gained more or lost more；不要把 most 生硬译成“所有人中最多”。结尾保留得失之问。",
+      "has gained 与 lost 共用 has；补全写在中文说明中，不增加原文文字。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 11,
+        "text": "doesn't",
+        "role": "main"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "text": "wonder",
+        "role": "main"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "text": "has gained",
+        "role": "sub"
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "text": "lost",
+        "role": "sub"
+      }
+    ]
+  }
+}

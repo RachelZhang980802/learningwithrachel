@@ -1,10 +1,13 @@
 "use client";
 
 import { memo, useCallback, useEffect, useRef, useState } from "react";
-import { NarrativeTextHighlighter } from "./NarrativeTextHighlighter";
+import { createPortal } from "react-dom";
 import "./narrative-writing.css";
+import "./unit-two-knowledge.css";
+import "./unit-theory.css";
 import { narrativeWritingMarkup } from "./narrativeWritingMarkup";
 import { toMediaUrl } from "./mediaUrl";
+import { UniversityFooter } from "./UniversityFooter";
 
 type NarrativeView =
   | "cover"
@@ -14,6 +17,16 @@ type NarrativeView =
   | "units"
   | "unit-one"
   | "unit-one-knowledge"
+  | "unit-two"
+  | "unit-two-knowledge"
+  | "unit-three"
+  | "unit-three-knowledge"
+  | "unit-four"
+  | "unit-four-knowledge"
+  | "unit-five"
+  | "unit-five-knowledge"
+  | "unit-six"
+  | "unit-six-knowledge"
   | "assessment"
   | "reading"
   | "reading-necklace"
@@ -39,6 +52,16 @@ const viewHashes: Partial<Record<NarrativeView, string>> = {
   units: "#units",
   "unit-one": "#unit-one",
   "unit-one-knowledge": "#unit-one-knowledge",
+  "unit-two": "#unit-two",
+  "unit-two-knowledge": "#unit-two-knowledge",
+  "unit-three": "#unit-three",
+  "unit-three-knowledge": "#unit-three-knowledge",
+  "unit-four": "#unit-four",
+  "unit-four-knowledge": "#unit-four-knowledge",
+  "unit-five": "#unit-five",
+  "unit-five-knowledge": "#unit-five-knowledge",
+  "unit-six": "#unit-six",
+  "unit-six-knowledge": "#unit-six-knowledge",
   assessment: "#assessment",
   reading: "#reading",
   "reading-necklace": "#reading-necklace",
@@ -93,6 +116,16 @@ function routeForHash(hash = ""): NarrativeView | null {
   if (value === "#units") return "units";
   if (value === "#unit-one") return "unit-one";
   if (value === "#unit-one-knowledge") return "unit-one-knowledge";
+  if (value === "#unit-two") return "unit-two";
+  if (value === "#unit-two-knowledge") return "unit-two-knowledge";
+  if (value === "#unit-three") return "unit-three";
+  if (value === "#unit-three-knowledge") return "unit-three-knowledge";
+  if (value === "#unit-four") return "unit-four";
+  if (value === "#unit-four-knowledge") return "unit-four-knowledge";
+  if (value === "#unit-five") return "unit-five";
+  if (value === "#unit-five-knowledge") return "unit-five-knowledge";
+  if (value === "#unit-six") return "unit-six";
+  if (value === "#unit-six-knowledge") return "unit-six-knowledge";
   if (value === "#assessment") return "assessment";
   if (value === "#reading-necklace") return "reading-necklace";
   if (value === "#reading-fat") return "reading-fat";
@@ -114,12 +147,13 @@ function routeForHash(hash = ""): NarrativeView | null {
 }
 
 export function isNarrativeCourseHash(hash = "") {
-  return /^#(?:cover|intro|objectives|instructor|units|unit-one(?:-knowledge)?|assessment|reading(?:-.+)?|other-information|practice|sample)$/i.test(hash);
+  return /^#(?:cover|intro|objectives|instructor|units|unit-(?:one|two|three|four|five|six)(?:-knowledge)?|assessment|reading(?:-.+)?|other-information|practice|sample)$/i.test(hash);
 }
 
 export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
   const rootRef = useRef<HTMLDivElement>(null);
-  const [textHighlightRoot, setTextHighlightRoot] = useState<HTMLDivElement | null>(null);
+  const [homeSlot, setHomeSlot] = useState<HTMLElement | null>(null);
+  const [homeActionSlot, setHomeActionSlot] = useState<HTMLElement | null>(null);
   const [route, setRoute] = useState<{ view: NarrativeView; focusId: string | null; revision: number }>({
     view: "cover",
     focusId: null,
@@ -141,6 +175,16 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
         units: "#units",
         "unit-one": "#unit-one",
         "unit-one-knowledge": "#unit-one-knowledge",
+        "unit-two": "#unit-two",
+        "unit-two-knowledge": "#unit-two-knowledge",
+        "unit-three": "#unit-three",
+        "unit-three-knowledge": "#unit-three-knowledge",
+        "unit-four": "#unit-four",
+        "unit-four-knowledge": "#unit-four-knowledge",
+        "unit-five": "#unit-five",
+        "unit-five-knowledge": "#unit-five-knowledge",
+        "unit-six": "#unit-six",
+        "unit-six-knowledge": "#unit-six-knowledge",
         reading: "#reading",
         "reading-necklace": "#reading-detail-necklace",
         "reading-fat": "#reading-detail-fat",
@@ -166,7 +210,7 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       slide.classList.toggle("view-hidden", !activeSlides.has(slide));
     });
     root.querySelectorAll<HTMLAnchorElement>("[data-nav-link]").forEach((link) => {
-      const active = link.dataset.navLink === route.view || ((route.view === "unit-one" || route.view === "unit-one-knowledge") && link.dataset.navLink === "units");
+      const active = link.dataset.navLink === route.view || (route.view.startsWith("unit-") && link.dataset.navLink === "units");
       link.classList.toggle("active", active);
       if (active) link.setAttribute("aria-current", "page");
       else link.removeAttribute("aria-current");
@@ -255,6 +299,35 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       cleanup.push(() => link.removeEventListener("click", handleClick));
     });
 
+    root.querySelectorAll<HTMLAnchorElement>(".theory-inline-slide a[data-theory-zoom]").forEach((link) => {
+      const figure = link.closest<HTMLElement>(".theory-inline-slide");
+      const closeButton = figure?.querySelector<HTMLButtonElement>(".theory-slide-close");
+      if (!figure || !closeButton) return;
+      const close = () => {
+        if (!figure.classList.contains("is-enlarged")) return;
+        figure.classList.remove("is-enlarged");
+        link.focus();
+      };
+      const open = (event: MouseEvent) => {
+        event.preventDefault();
+        figure.classList.add("is-enlarged");
+        closeButton.focus();
+      };
+      const clickBackdrop = (event: MouseEvent) => { if (event.target === figure) close(); };
+      const escape = (event: KeyboardEvent) => { if (event.key === "Escape") close(); };
+      link.addEventListener("click", open);
+      closeButton.addEventListener("click", close);
+      figure.addEventListener("click", clickBackdrop);
+      document.addEventListener("keydown", escape);
+      cleanup.push(() => {
+        figure.classList.remove("is-enlarged");
+        link.removeEventListener("click", open);
+        closeButton.removeEventListener("click", close);
+        figure.removeEventListener("click", clickBackdrop);
+        document.removeEventListener("keydown", escape);
+      });
+    });
+
     const knowledgeTabs = Array.from(root.querySelectorAll<HTMLButtonElement>("[data-unit-one-knowledge-tab]"));
     const knowledgePanels = Array.from(root.querySelectorAll<HTMLElement>("[data-unit-one-knowledge-panel]"));
     const selectKnowledgeTab = (tabName: string) => {
@@ -288,6 +361,131 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       });
     });
     if (knowledgeTabs.length) selectKnowledgeTab("objectives");
+
+    const wireUnitTwoTabs = (tabAttribute: string, panelAttribute: string, first: string, scrollToTop = false) => {
+      const tabs = Array.from(root.querySelectorAll<HTMLButtonElement>(`[${tabAttribute}]`));
+      const panels = Array.from(root.querySelectorAll<HTMLElement>(`[${panelAttribute}]`));
+      const select = (name: string, scroll = false) => {
+        tabs.forEach((tab) => {
+          const selected = tab.getAttribute(tabAttribute) === name;
+          tab.setAttribute("aria-selected", String(selected));
+          tab.tabIndex = selected ? 0 : -1;
+        });
+        panels.forEach((panel) => { panel.hidden = panel.getAttribute(panelAttribute) !== name; });
+        if (scroll && scrollToTop) window.scrollTo({ top: 0, behavior: "auto" });
+      };
+      tabs.forEach((tab, index) => {
+        const handleClick = () => select(tab.getAttribute(tabAttribute) || first, true);
+        const handleKeyDown = (event: KeyboardEvent) => {
+          const movement = event.key === "ArrowRight" || event.key === "ArrowDown" ? 1 : event.key === "ArrowLeft" || event.key === "ArrowUp" ? -1 : 0;
+          if (!movement && event.key !== "Home" && event.key !== "End") return;
+          event.preventDefault();
+          const nextIndex = event.key === "Home" ? 0 : event.key === "End" ? tabs.length - 1 : (index + movement + tabs.length) % tabs.length;
+          const nextTab = tabs[nextIndex];
+          select(nextTab.getAttribute(tabAttribute) || first, true);
+          nextTab.focus();
+        };
+        tab.addEventListener("click", handleClick);
+        tab.addEventListener("keydown", handleKeyDown);
+        cleanup.push(() => { tab.removeEventListener("click", handleClick); tab.removeEventListener("keydown", handleKeyDown); });
+      });
+      if (tabs.length) select(first);
+      return select;
+    };
+    const selectUnitTwoTab = wireUnitTwoTabs("data-unit-two-tab", "data-unit-two-panel", "objectives", true);
+    wireUnitTwoTabs("data-unit-two-skill-tab", "data-unit-two-skill-panel", "characters");
+    wireUnitTwoTabs("data-unit-two-language-tab", "data-unit-two-language-panel", "comparison");
+    root.querySelectorAll<HTMLButtonElement>("[data-unit-two-open-tab]").forEach((button) => {
+      const handleClick = () => selectUnitTwoTab(button.dataset.unitTwoOpenTab || "objectives", true);
+      button.addEventListener("click", handleClick);
+      cleanup.push(() => button.removeEventListener("click", handleClick));
+    });
+
+    root.querySelectorAll<HTMLElement>("[data-theory-unit]").forEach((shell) => {
+      const tabs = Array.from(shell.querySelectorAll<HTMLButtonElement>("[data-theory-tab]"));
+      const panels = Array.from(shell.querySelectorAll<HTMLElement>("[data-theory-panel]"));
+      const alignReaderPage = (reader: HTMLElement) => {
+        const strip = reader.querySelector<HTMLElement>(".theory-page-strip");
+        const button = reader.querySelector<HTMLButtonElement>('[data-theory-page-button][aria-pressed="true"]');
+        if (!strip || !button || !strip.clientWidth) return;
+        const offset = button.getBoundingClientRect().left - strip.getBoundingClientRect().left + strip.scrollLeft;
+        strip.scrollLeft = offset - strip.clientWidth / 2 + button.clientWidth / 2;
+      };
+      const select = (name: string, scroll = false) => {
+        tabs.forEach((tab) => {
+          const selected = tab.dataset.theoryTab === name;
+          tab.setAttribute("aria-selected", String(selected));
+          tab.tabIndex = selected ? 0 : -1;
+        });
+        panels.forEach((panel) => { panel.hidden = panel.dataset.theoryPanel !== name; });
+        const activePanel = panels.find((panel) => panel.dataset.theoryPanel === name);
+        activePanel?.querySelectorAll<HTMLElement>("[data-theory-reader]").forEach(alignReaderPage);
+        if (scroll) window.scrollTo({ top: 0, behavior: "auto" });
+      };
+      tabs.forEach((tab, index) => {
+        const handleClick = () => select(tab.dataset.theoryTab || "objectives", true);
+        const handleKeyDown = (event: KeyboardEvent) => {
+          const move = event.key === "ArrowRight" || event.key === "ArrowDown" ? 1 : event.key === "ArrowLeft" || event.key === "ArrowUp" ? -1 : 0;
+          if (!move && event.key !== "Home" && event.key !== "End") return;
+          event.preventDefault();
+          const nextIndex = event.key === "Home" ? 0 : event.key === "End" ? tabs.length - 1 : (index + move + tabs.length) % tabs.length;
+          const next = tabs[nextIndex];
+          select(next.dataset.theoryTab || "objectives", true);
+          next.focus();
+        };
+        tab.addEventListener("click", handleClick);
+        tab.addEventListener("keydown", handleKeyDown);
+        cleanup.push(() => { tab.removeEventListener("click", handleClick); tab.removeEventListener("keydown", handleKeyDown); });
+      });
+      shell.querySelectorAll<HTMLButtonElement>("[data-theory-open-tab]").forEach((button) => {
+        const handleClick = () => select(button.dataset.theoryOpenTab || "objectives", true);
+        button.addEventListener("click", handleClick);
+        cleanup.push(() => button.removeEventListener("click", handleClick));
+      });
+      shell.querySelectorAll<HTMLElement>("[data-theory-reader]").forEach((reader) => {
+        const pages = Array.from(reader.querySelectorAll<HTMLElement>("[data-theory-page]"));
+        const pageButtons = Array.from(reader.querySelectorAll<HTMLButtonElement>("[data-theory-page-button]"));
+        const previous = reader.querySelector<HTMLButtonElement>("[data-theory-page-prev]");
+        const next = reader.querySelector<HTMLButtonElement>("[data-theory-page-next]");
+        const progress = reader.querySelector<HTMLElement>("[data-theory-page-progress]");
+        let current = 0;
+        const showPage = (index: number, scroll = false) => {
+          if (index < 0 || index >= pages.length) return;
+          current = index;
+          pages.forEach((page, pageIndex) => { page.hidden = pageIndex !== current; });
+          pageButtons.forEach((button, pageIndex) => {
+            const selected = pageIndex === current;
+            button.setAttribute("aria-pressed", String(selected));
+          });
+          alignReaderPage(reader);
+          if (previous) previous.disabled = current === 0;
+          if (next) next.disabled = current === pages.length - 1;
+          if (progress) progress.textContent = `${current + 1} / ${pages.length}`;
+          if (scroll) reader.scrollIntoView({ block: "start", behavior: "smooth" });
+        };
+        pageButtons.forEach((button, index) => {
+          const handleClick = () => showPage(index);
+          button.addEventListener("click", handleClick);
+          cleanup.push(() => button.removeEventListener("click", handleClick));
+        });
+        const handlePrevious = () => showPage(current - 1, true);
+        const handleNext = () => showPage(current + 1, true);
+        previous?.addEventListener("click", handlePrevious);
+        next?.addEventListener("click", handleNext);
+        cleanup.push(() => {
+          previous?.removeEventListener("click", handlePrevious);
+          next?.removeEventListener("click", handleNext);
+        });
+        showPage(0);
+      });
+      const handleResize = () => {
+        const activePanel = panels.find((panel) => !panel.hidden);
+        activePanel?.querySelectorAll<HTMLElement>("[data-theory-reader]").forEach(alignReaderPage);
+      };
+      window.addEventListener("resize", handleResize);
+      cleanup.push(() => window.removeEventListener("resize", handleResize));
+      select("objectives");
+    });
 
     const basicsTabs = Array.from(root.querySelectorAll<HTMLButtonElement>("[data-unit-one-basics-tab]"));
     const basicsPanels = Array.from(root.querySelectorAll<HTMLElement>("[data-unit-one-basics-panel]"));
@@ -660,6 +858,141 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
     };
   }, []);
 
+  useEffect(() => {
+    const readingDetailId = route.view.startsWith("reading-")
+      ? `#reading-detail-${route.view.slice("reading-".length)}`
+      : null;
+    if (!readingDetailId) return;
+    const article = rootRef.current?.querySelector<HTMLElement>(`${readingDetailId} .reading-full-text`);
+    const body = article?.querySelector<HTMLElement>(".reading-full-text-body");
+    if (!article || !body) return;
+
+    const notes = Array.from(article.querySelectorAll<HTMLDetailsElement>(".reading-analysis-note"));
+    if (notes.length === 0) return;
+    const anchors = new Map<HTMLDetailsElement, HTMLParagraphElement>();
+    const paragraphs = Array.from(body.querySelectorAll<HTMLParagraphElement>("p:not(.reading-full-text-divider)"));
+    for (const note of notes) {
+      const savedIndex = Number(note.dataset.noteAnchorIndex);
+      let next = note.nextElementSibling;
+      while (next?.matches("details.reading-analysis-note")) next = next.nextElementSibling;
+      const anchor = note.dataset.noteAnchorIndex !== undefined && Number.isInteger(savedIndex)
+        ? paragraphs.find((paragraph) => Number(paragraph.dataset.readingParagraphIndex) === savedIndex)
+        : next instanceof HTMLParagraphElement
+          ? next
+          : paragraphs[0];
+      if (anchor) {
+        note.dataset.noteAnchorIndex = anchor.dataset.readingParagraphIndex ?? String(paragraphs.indexOf(anchor));
+        anchors.set(note, anchor);
+      }
+    }
+    const connector = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    connector.classList.add("reading-analysis-connectors");
+    connector.setAttribute("aria-hidden", "true");
+    connector.setAttribute("preserveAspectRatio", "none");
+    article.prepend(connector);
+
+    let frame = 0;
+    let settleFrame = 0;
+    const arrange = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(() => {
+        const desktop = window.matchMedia("(min-width: 821px)").matches;
+        const mobileInsertions = new Map<HTMLParagraphElement, Element>();
+        for (const [note, anchor] of anchors) {
+          if (desktop) anchor.parentElement?.insertBefore(note, anchor);
+          else {
+            const previous = mobileInsertions.get(anchor) ?? anchor;
+            previous.insertAdjacentElement("afterend", note);
+            mobileInsertions.set(anchor, note);
+          }
+        }
+
+        if (!desktop) {
+          article.classList.remove("reading-notes-rail-ready");
+          connector.replaceChildren();
+          body.style.removeProperty("padding-bottom");
+          return;
+        }
+
+        article.classList.add("reading-notes-rail-ready");
+        const articleRect = article.getBoundingClientRect();
+        const bodyRect = body.getBoundingClientRect();
+        const gap = 18;
+        let previousBottom = 0;
+        let lastBottom = 0;
+        const positions = new Map<HTMLDetailsElement, { top: number; anchor: HTMLParagraphElement }>();
+
+        for (const note of notes) {
+          const anchor = anchors.get(note);
+          if (!anchor) continue;
+          const wantedTop = Math.max(0, anchor.getBoundingClientRect().top - articleRect.top);
+          const top = Math.max(wantedTop, previousBottom ? previousBottom + gap : 0);
+          note.style.top = `${top}px`;
+          const height = note.getBoundingClientRect().height;
+          previousBottom = top + height;
+          lastBottom = Math.max(lastBottom, previousBottom);
+          positions.set(note, { top, anchor });
+        }
+
+        const currentPadding = Number.parseFloat(body.style.paddingBottom) || 0;
+        const naturalBodyBottom = bodyRect.bottom - articleRect.top - currentPadding;
+        const railExtra = Math.max(0, lastBottom - naturalBodyBottom) + 24;
+        body.style.paddingBottom = `${railExtra}px`;
+        const width = article.scrollWidth;
+        const height = Math.max(article.scrollHeight, lastBottom + 24);
+        connector.setAttribute("viewBox", `0 0 ${width} ${height}`);
+        connector.setAttribute("width", String(width));
+        connector.setAttribute("height", String(height));
+        connector.replaceChildren();
+
+        for (const [note, placement] of positions) {
+          const paragraphRect = placement.anchor.getBoundingClientRect();
+          const noteRect = note.getBoundingClientRect();
+          const startX = paragraphRect.right - articleRect.left;
+          const startY = paragraphRect.top - articleRect.top + Math.min(20, paragraphRect.height / 2);
+          const endX = noteRect.left - articleRect.left;
+          const endY = placement.top + noteRect.height / 2;
+          const bendX = Math.max(startX + 8, endX - 12);
+          const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+          path.setAttribute("d", `M ${startX} ${startY} H ${bendX} V ${endY} H ${endX}`);
+          path.setAttribute("class", "reading-analysis-connector-line");
+          connector.append(path);
+          const dot = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+          dot.setAttribute("cx", String(startX));
+          dot.setAttribute("cy", String(startY));
+          dot.setAttribute("r", "2.5");
+          dot.setAttribute("class", "reading-analysis-connector-dot");
+          connector.append(dot);
+        }
+      });
+    };
+
+    const handleToggle = () => {
+      arrange();
+      cancelAnimationFrame(settleFrame);
+      settleFrame = requestAnimationFrame(arrange);
+    };
+    notes.forEach((note) => note.addEventListener("toggle", handleToggle));
+    const resizeObserver = new ResizeObserver(arrange);
+    // Observe card size changes only. Watching the article/body here would observe
+    // the padding and connector size that arrange() itself writes, causing a loop.
+    notes.forEach((note) => resizeObserver.observe(note));
+    window.addEventListener("resize", arrange);
+    arrange();
+
+    return () => {
+      cancelAnimationFrame(frame);
+      cancelAnimationFrame(settleFrame);
+      window.removeEventListener("resize", arrange);
+      notes.forEach((note) => note.removeEventListener("toggle", handleToggle));
+      resizeObserver.disconnect();
+      connector.remove();
+      notes.forEach((note) => note.style.removeProperty("top"));
+      body.style.removeProperty("padding-bottom");
+      article.classList.remove("reading-notes-rail-ready");
+    };
+  }, [route.view]);
+
   const returnHome = () => {
     const base = `${window.location.pathname}${window.location.search}`;
     window.history.pushState({ section: "home" }, "", base);
@@ -669,7 +1002,8 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
 
   const setNarrativeRoot = useCallback((node: HTMLDivElement | null) => {
     rootRef.current = node;
-    setTextHighlightRoot(node);
+    setHomeSlot(node?.querySelector<HTMLElement>("#narrative-home-slot") ?? null);
+    setHomeActionSlot(node?.querySelector<HTMLElement>("#narrative-home-action-slot") ?? null);
   }, []);
 
   return (
@@ -679,11 +1013,10 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       data-narrative-view={route.view}
       data-editable-skip
     >
-      <button className="narrative-home-button" type="button" onClick={returnHome} aria-label="Return to Learning with Rachel home">
-        ← Home
-      </button>
       <NarrativeMarkup />
-      {textHighlightRoot ? <NarrativeTextHighlighter root={textHighlightRoot} /> : null}
+      <UniversityFooter />
+      {homeSlot ? createPortal(<a className="narrative-site-brand" href="/" aria-label="NegentropyLearning home"><img src="https://assets.negentropylearning.com.cn/media/brand/fat-cat-wordmark.png" alt="" /><span>NegentropyLearning</span></a>, homeSlot) : null}
+      {homeActionSlot ? createPortal(<button className="narrative-home-button" type="button" onClick={returnHome} aria-label="Return to Learning with Rachel home">Home</button>, homeActionSlot) : null}
     </div>
   );
 }

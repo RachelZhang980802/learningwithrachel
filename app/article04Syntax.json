@@ -1,0 +1,5149 @@
+{
+  "1": {
+    "text": "Rush hour in a provincial town is certainly not so busy as in London, but even so there are plenty of people moving about.",
+    "lessonText": "Rush hour in a provincial town is certainly not so busy as in London, but even so there are plenty of people moving about.",
+    "paragraphStart": 0,
+    "paragraphEnd": 122,
+    "functions": [
+      [
+        "Subject",
+        "Rush hour in a provincial town "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Adverbial / negation",
+        "certainly not "
+      ],
+      [
+        "Predicative",
+        "so busy "
+      ],
+      [
+        "Comparative complement",
+        "as in London, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Adverbial",
+        "even so "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Notional subject",
+        "plenty of people "
+      ],
+      [
+        "Participial modifier",
+        "moving about."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 70,
+        "anchorEnd": 0,
+        "text": "Rush hour in a provincial town is certainly not so busy as in London, "
+      },
+      {
+        "kind": "main",
+        "start": 70,
+        "end": 122,
+        "anchorEnd": 70,
+        "text": "but even so there are plenty of people moving about."
+      }
+    ],
+    "notes": [
+      "as in London 是压缩的比较补充，未写出限定分句。moving about 为分词后置修饰 people，不是谓语。",
+      "as in London 是比较省略短语；moving about 是分词后置修饰，不另造有限定谓语的从句。"
+    ],
+    "predicates": [
+      {
+        "start": 31,
+        "end": 33,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "Long, patient queues wait wearily for buses.",
+    "lessonText": "Long, patient queues wait wearily for buses.",
+    "paragraphStart": 123,
+    "paragraphEnd": 167,
+    "functions": [
+      [
+        "Subject",
+        "Long, patient queues "
+      ],
+      [
+        "Predicate",
+        "wait "
+      ],
+      [
+        "Adverbial",
+        "wearily "
+      ],
+      [
+        "Complement",
+        "for buses."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "Long, patient queues wait wearily for buses."
+      }
+    ],
+    "notes": [
+      "queues 代指排队的人，才可承受 patient、wearily 的人的特征；属于转喻。for buses 不是目的不定式。"
+    ],
+    "predicates": [
+      {
+        "start": 21,
+        "end": 25,
+        "text": "wait",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "Never-ending lines of cars are checked while red traffic lights change to green.",
+    "lessonText": "Never-ending lines of cars are checked while red traffic lights change to green.",
+    "paragraphStart": 168,
+    "paragraphEnd": 248,
+    "functions": [
+      [
+        "Subject",
+        "Never-ending lines of cars "
+      ],
+      [
+        "Predicate",
+        "are checked "
+      ],
+      [
+        "Subordinator",
+        "while "
+      ],
+      [
+        "Subject",
+        "red traffic lights "
+      ],
+      [
+        "Predicate",
+        "change "
+      ],
+      [
+        "Complement",
+        "to green."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 80,
+        "anchorEnd": 0,
+        "text": "Never-ending lines of cars are checked while red traffic lights change to green."
+      },
+      {
+        "kind": "time",
+        "start": 39,
+        "end": 80,
+        "anchorEnd": 44,
+        "text": "while red traffic lights change to green."
+      }
+    ],
+    "notes": [
+      "checked 在此是“被阻止前进”，不是检查车辆。while 描写等待灯色转换的时段；原文不改成另一连词。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 38,
+        "text": "are checked",
+        "role": "main"
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "text": "change",
+        "role": "sub"
+      }
+    ]
+  },
+  "4": {
+    "text": "Thousands of people are packed tightly in trains, the men's faces buried in their evening papers while women try in vain to knit.",
+    "lessonText": "Thousands of people are packed tightly in trains, the men's faces buried in their evening papers while women try in vain to knit.",
+    "paragraphStart": 249,
+    "paragraphEnd": 378,
+    "functions": [
+      [
+        "Subject",
+        "Thousands of people "
+      ],
+      [
+        "Predicate",
+        "are packed "
+      ],
+      [
+        "Adverbial",
+        "tightly "
+      ],
+      [
+        "Adverbial",
+        "in trains, "
+      ],
+      [
+        "Subject",
+        "the men's faces "
+      ],
+      [
+        "Non-finite predicate",
+        "buried "
+      ],
+      [
+        "Complement",
+        "in their evening papers "
+      ],
+      [
+        "Subordinator",
+        "while "
+      ],
+      [
+        "Subject",
+        "women "
+      ],
+      [
+        "Predicate",
+        "try "
+      ],
+      [
+        "Adverbial",
+        "in vain "
+      ],
+      [
+        "Infinitival complement",
+        "to knit."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 129,
+        "anchorEnd": 0,
+        "text": "Thousands of people are packed tightly in trains, the men's faces buried in their evening papers while women try in vain to knit."
+      },
+      {
+        "kind": "absolute",
+        "start": 50,
+        "end": 97,
+        "anchorEnd": 65,
+        "text": "the men's faces buried in their evening papers ",
+        "restoration": "being"
+      },
+      {
+        "kind": "time",
+        "start": 97,
+        "end": 129,
+        "anchorEnd": 102,
+        "text": "while women try in vain to knit."
+      }
+    ],
+    "notes": [
+      "faces 是 buried 的逻辑主语；独立主格没有限定谓语，不能把 buried 当过去式。while 引出的从句另有主语 women 与限定谓语 try。",
+      "the men’s faces buried… 按 Absolute construction 处理，buried 不属于有限定谓语；while 从句主要表达同时发生的活动，同时带有男女对照意味。"
+    ],
+    "predicates": [
+      {
+        "start": 20,
+        "end": 30,
+        "text": "are packed",
+        "role": "main"
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "try",
+        "role": "sub"
+      }
+    ]
+  },
+  "5": {
+    "text": "In a slow train it may well be an hour's journey to their station.",
+    "lessonText": "In a slow train it may well be an hour's journey to their station.",
+    "paragraphStart": 379,
+    "paragraphEnd": 445,
+    "functions": [
+      [
+        "Adverbial",
+        "In a slow train "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Modal auxiliary",
+        "may "
+      ],
+      [
+        "Adverbial",
+        "well "
+      ],
+      [
+        "Linking verb",
+        "be "
+      ],
+      [
+        "Predicative",
+        "an hour's journey to their station."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 66,
+        "anchorEnd": 0,
+        "text": "In a slow train it may well be an hour's journey to their station."
+      }
+    ],
+    "notes": [
+      "may well 表很可能，不是“也许很好”。it 泛指这趟旅程；an hour's journey 用所有格表示历时。"
+    ],
+    "predicates": [
+      {
+        "start": 19,
+        "end": 22,
+        "text": "may",
+        "role": "main"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "be",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "James Saxon is in his usual comfortable corner, quietly smoking a cigarette.",
+    "lessonText": "James Saxon is in his usual comfortable corner, quietly smoking a cigarette.",
+    "paragraphStart": 0,
+    "paragraphEnd": 76,
+    "functions": [
+      [
+        "Subject",
+        "James Saxon "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Complement",
+        "in his usual comfortable corner, "
+      ],
+      [
+        "Adverbial",
+        "quietly smoking a cigarette."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 76,
+        "anchorEnd": 0,
+        "text": "James Saxon is in his usual comfortable corner, quietly smoking a cigarette."
+      }
+    ],
+    "notes": [
+      "smoking 的逻辑主语是 James Saxon，表示伴随动作；is 与 smoking 被完整地点结构隔开，不能简单拼成同一个进行时谓语。",
+      "is 是地点补足前的系动词；quietly smoking 为补充性分词结构，不与 is 跨越地点成分拼成进行时。"
+    ],
+    "predicates": [
+      {
+        "start": 12,
+        "end": 14,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "7": {
+    "text": "When he is travelling by train at this time, he always reaches the station at ten past five by the station clock, but he never catches the 5:14 train.",
+    "lessonText": "When he is travelling by train at this time, he always reaches the station at ten past five by the station clock, but he never catches the 5:14 train.",
+    "paragraphStart": 77,
+    "paragraphEnd": 227,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is travelling "
+      ],
+      [
+        "Adverbial",
+        "by train at this time, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "always "
+      ],
+      [
+        "Predicate",
+        "reaches "
+      ],
+      [
+        "Object",
+        "the station "
+      ],
+      [
+        "Adverbial",
+        "at ten past five "
+      ],
+      [
+        "Adverbial",
+        "by the station clock, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "never "
+      ],
+      [
+        "Predicate",
+        "catches "
+      ],
+      [
+        "Object",
+        "the 5:14 train."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 114,
+        "anchorEnd": 0,
+        "text": "When he is travelling by train at this time, he always reaches the station at ten past five by the station clock, "
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 4,
+        "text": "When he is travelling by train at this time, "
+      },
+      {
+        "kind": "main",
+        "start": 114,
+        "end": 150,
+        "anchorEnd": 114,
+        "text": "but he never catches the 5:14 train."
+      }
+    ],
+    "notes": [
+      "by the station clock 意为以车站时钟为准。but 连接两个主句；when 从句作习惯性出行的时间背景。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 21,
+        "text": "is travelling",
+        "role": "sub"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "text": "reaches",
+        "role": "main"
+      },
+      {
+        "start": 127,
+        "end": 134,
+        "text": "catches",
+        "role": "main"
+      }
+    ]
+  },
+  "8": {
+    "text": "Instead he travels by the train which leaves at twenty-four minutes past five so as to be sure of getting his corner seat.",
+    "lessonText": "Instead he travels by the train which leaves at twenty-four minutes past five so as to be sure of getting his corner seat.",
+    "paragraphStart": 228,
+    "paragraphEnd": 350,
+    "functions": [
+      [
+        "Adverbial",
+        "Instead "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "travels "
+      ],
+      [
+        "Adverbial",
+        "by the train "
+      ],
+      [
+        "Relative pronoun",
+        "which "
+      ],
+      [
+        "Predicate",
+        "leaves "
+      ],
+      [
+        "Adverbial",
+        "at twenty-four minutes past five "
+      ],
+      [
+        "Adverbial",
+        "so as to be sure of getting his corner seat."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 122,
+        "anchorEnd": 0,
+        "text": "Instead he travels by the train which leaves at twenty-four minutes past five so as to be sure of getting his corner seat."
+      },
+      {
+        "kind": "relative",
+        "start": 32,
+        "end": 78,
+        "anchorEnd": 37,
+        "text": "which leaves at twenty-four minutes past five ",
+        "antecedent": "the train"
+      }
+    ],
+    "notes": [
+      "which 指 train，作 leaves 主语。so as to 表目的，不是 so that 从句。be sure of 后接 getting。",
+      "which 定语从句在 five 后结束；so as to… 表达乘此班车的目的，不纳入定语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 18,
+        "text": "travels",
+        "role": "main"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "text": "leaves",
+        "role": "sub"
+      }
+    ]
+  },
+  "9": {
+    "text": "There are no first-class compartments or reserved seats on this train.",
+    "lessonText": "There are no first-class compartments or reserved seats on this train.",
+    "paragraphStart": 351,
+    "paragraphEnd": 421,
+    "functions": [
+      [
+        "Existential subject",
+        "There "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Notional subject",
+        "no first-class compartments or reserved seats "
+      ],
+      [
+        "Adverbial",
+        "on this train."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 70,
+        "anchorEnd": 0,
+        "text": "There are no first-class compartments or reserved seats on this train."
+      }
+    ],
+    "notes": [
+      "no 的否定范围覆盖 or 连接的两项。reserved 为过去分词定语，不是句子的独立谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds.",
+    "lessonText": "He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds.",
+    "paragraphStart": 422,
+    "paragraphEnd": 529,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "appears "
+      ],
+      [
+        "Infinitival complement",
+        "to be absorbed in the sports news on the back page of his paper "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "ignores "
+      ],
+      [
+        "Object",
+        "the hurrying crowds."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 107,
+        "anchorEnd": 0,
+        "text": "He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds."
+      }
+    ],
+    "notes": [
+      "appears 和 ignores 共用主语。to be absorbed 是不定式，不是限定从句；appears 提醒读者这只是外部观察。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 10,
+        "text": "appears",
+        "role": "main"
+      },
+      {
+        "start": 79,
+        "end": 86,
+        "text": "ignores",
+        "role": "main"
+      }
+    ]
+  },
+  "11": {
+    "text": "Facing him this evening there is a Finnish youth of eighteen, Matti Arpola.",
+    "lessonText": "Facing him this evening there is a Finnish youth of eighteen, Matti Arpola.",
+    "paragraphStart": 0,
+    "paragraphEnd": 75,
+    "functions": [
+      [
+        "Fronted participial adjunct",
+        "Facing him this evening "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Notional subject",
+        "a Finnish youth of eighteen, "
+      ],
+      [
+        "Apposition",
+        "Matti Arpola."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 75,
+        "anchorEnd": 0,
+        "text": "Facing him this evening there is a Finnish youth of eighteen, Matti Arpola."
+      }
+    ],
+    "notes": [
+      "Facing him 描写位置，逻辑上对应后面的 youth；不宜按通常悬垂分词规则误说 there 在面对他。Matti Arpola 为同位语。"
+    ],
+    "predicates": [
+      {
+        "start": 30,
+        "end": 32,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "12": {
+    "text": "This is his first visit to England, though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay.",
+    "lessonText": "This is his first visit to England, though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay.",
+    "paragraphStart": 76,
+    "paragraphEnd": 214,
+    "functions": [
+      [
+        "Subject",
+        "This "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "his first visit to England, "
+      ],
+      [
+        "Subordinator",
+        "though "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "already "
+      ],
+      [
+        "Predicate",
+        "knows "
+      ],
+      [
+        "Object",
+        "Geoffrey, "
+      ],
+      [
+        "Apposition",
+        "the eldest son of the Jackson family, "
+      ],
+      [
+        "Preposition",
+        "with "
+      ],
+      [
+        "Relative pronoun",
+        "whom "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is going to stay."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 138,
+        "anchorEnd": 0,
+        "text": "This is his first visit to England, though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay."
+      },
+      {
+        "kind": "concessive",
+        "start": 36,
+        "end": 138,
+        "anchorEnd": 42,
+        "text": "though he already knows Geoffrey, the eldest son of the Jackson family, with whom he is going to stay."
+      },
+      {
+        "kind": "relative",
+        "start": 108,
+        "end": 138,
+        "anchorEnd": 117,
+        "text": "with whom he is going to stay.",
+        "antecedent": "Geoffrey"
+      }
+    ],
+    "notes": [
+      "with whom 形式上最自然地回指 Geoffrey；也可以在“到 Jackson family 家中借住”的语境下理解为与家庭相关。单凭本句不能绝对排除后一种关联。",
+      "with whom 采用承接 Geoffrey 的分析，并嵌套在 though 从句内；上下文也允许理解为住在 Jackson 家。is going to stay 按将来谓语链展示。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "text": "knows",
+        "role": "sub"
+      },
+      {
+        "start": 121,
+        "end": 137,
+        "text": "is going to stay",
+        "role": "sub"
+      }
+    ]
+  },
+  "13": {
+    "text": "As there are several people standing, James Saxon is the only person he can see clearly.",
+    "lessonText": "As there are several people standing, James Saxon is the only person he can see clearly.",
+    "paragraphStart": 0,
+    "paragraphEnd": 88,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Notional subject",
+        "several people "
+      ],
+      [
+        "Participial modifier",
+        "standing, "
+      ],
+      [
+        "Subject",
+        "James Saxon "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "the only person "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "can see "
+      ],
+      [
+        "Adverbial",
+        "clearly."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 88,
+        "anchorEnd": 0,
+        "text": "As there are several people standing, James Saxon is the only person he can see clearly."
+      },
+      {
+        "kind": "reason",
+        "start": 0,
+        "end": 38,
+        "anchorEnd": 2,
+        "text": "As there are several people standing, "
+      },
+      {
+        "kind": "relative",
+        "start": 69,
+        "end": 88,
+        "anchorEnd": 71,
+        "text": "he can see clearly.",
+        "antecedent": "the only person",
+        "restoration": "that / whom"
+      }
+    ],
+    "notes": [
+      "as 表原因。standing 后置修饰 people；person 后省略关系词，在 see 后作宾语。",
+      "he can see clearly 为省略关系宾语 that / whom 的定语从句；standing 是 people 的非谓语修饰。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 12,
+        "text": "are",
+        "role": "sub"
+      },
+      {
+        "start": 50,
+        "end": 52,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 72,
+        "end": 79,
+        "text": "can see",
+        "role": "sub"
+      }
+    ]
+  },
+  "14": {
+    "text": "Matti decides that he is probably a typical Englishman, and he observes James carefully.",
+    "lessonText": "Matti decides that he is probably a typical Englishman, and he observes James carefully.",
+    "paragraphStart": 89,
+    "paragraphEnd": 177,
+    "functions": [
+      [
+        "Subject",
+        "Matti "
+      ],
+      [
+        "Predicate",
+        "decides "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "probably "
+      ],
+      [
+        "Predicative",
+        "a typical Englishman, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "observes "
+      ],
+      [
+        "Object",
+        "James "
+      ],
+      [
+        "Adverbial",
+        "carefully."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 56,
+        "anchorEnd": 0,
+        "text": "Matti decides that he is probably a typical Englishman, "
+      },
+      {
+        "kind": "object",
+        "start": 14,
+        "end": 56,
+        "anchorEnd": 18,
+        "text": "that he is probably a typical Englishman, "
+      },
+      {
+        "kind": "main",
+        "start": 56,
+        "end": 88,
+        "anchorEnd": 56,
+        "text": "and he observes James carefully."
+      }
+    ],
+    "notes": [
+      "第一处 he 指 James，and 后 he 指 Matti。probably 标出推测性，后文都是人物凭外观作出的猜想。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 13,
+        "text": "decides",
+        "role": "main"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 63,
+        "end": 71,
+        "text": "observes",
+        "role": "main"
+      }
+    ]
+  },
+  "15": {
+    "text": "\"Can he really be typical?\" he thinks.",
+    "lessonText": "\"Can he really be typical?\" he thinks.",
+    "paragraphStart": 0,
+    "paragraphEnd": 38,
+    "functions": [
+      [
+        "Punctuation",
+        "\""
+      ],
+      [
+        "Modal auxiliary",
+        "Can "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "really "
+      ],
+      [
+        "Linking verb",
+        "be "
+      ],
+      [
+        "Predicative",
+        "typical?\" "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "thinks."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 28,
+        "anchorEnd": 0,
+        "text": "\"Can he really be typical?\" ",
+        "label": "Quoted main clause"
+      },
+      {
+        "kind": "main",
+        "start": 28,
+        "end": 38,
+        "anchorEnd": 28,
+        "text": "he thinks.",
+        "label": "Reporting clause"
+      }
+    ],
+    "notes": [
+      "引语内部为情态动词前置的疑问句；he thinks 是报告句。与第一篇直接引语一样单独标注，不强行把引号内问句当普通 that 宾语从句。",
+      "直接引语与 he thinks 分别用 Quoted main clause / Reporting clause，保留问句倒装及原标点。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "Can",
+        "role": "main"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "be",
+        "role": "main"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "thinks",
+        "role": "main"
+      }
+    ]
+  },
+  "16": {
+    "text": "\"He has an umbrella, neatly rolled, but no bowler hat; in fact, no hat at all.",
+    "lessonText": "\"He has an umbrella, neatly rolled, but no bowler hat; in fact, no hat at all.",
+    "paragraphStart": 39,
+    "paragraphEnd": 117,
+    "functions": [
+      [
+        "Subject",
+        "\"He "
+      ],
+      [
+        "Predicate",
+        "has "
+      ],
+      [
+        "Object",
+        "an umbrella, "
+      ],
+      [
+        "Participial modifier",
+        "neatly rolled, "
+      ],
+      [
+        "Object",
+        "but no bowler hat; "
+      ],
+      [
+        "Elliptical supplement",
+        "in fact, no hat at all."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 78,
+        "anchorEnd": 0,
+        "text": "\"He has an umbrella, neatly rolled, but no bowler hat; in fact, no hat at all."
+      }
+    ],
+    "notes": [
+      "neatly rolled 修饰 umbrella。but no bowler hat 与 an umbrella 对照，共享 has；分号后的名词片段没有新限定谓语。",
+      "but 连接宾语，in fact 后是对 no bowler hat 的省略补充；neatly rolled 为分词修饰，不补造新的限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 7,
+        "text": "has",
+        "role": "main"
+      }
+    ]
+  },
+  "17": {
+    "text": "Of course, he is reading about cricket and he is reserved and not interested in other people.",
+    "lessonText": "Of course, he is reading about cricket and he is reserved and not interested in other people.",
+    "paragraphStart": 118,
+    "paragraphEnd": 211,
+    "functions": [
+      [
+        "Adverbial",
+        "Of course, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is reading "
+      ],
+      [
+        "Complement",
+        "about cricket "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "reserved and not interested in other people."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "Of course, he is reading about cricket "
+      },
+      {
+        "kind": "main",
+        "start": 39,
+        "end": 93,
+        "anchorEnd": 39,
+        "text": "and he is reserved and not interested in other people."
+      }
+    ],
+    "notes": [
+      "两个 he is… 构成并列主句；第二句的 reserved 和 interested 是形容词性表语。Of course 体现 Matti 自以为是的确信。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 24,
+        "text": "is reading",
+        "role": "main"
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "18": {
+    "text": "But he is only of average height and his hair is not fair, but as dark as that of an Italian, and curly, with almost no parting.",
+    "lessonText": "But he is only of average height and his hair is not fair, but as dark as that of an Italian, and curly, with almost no parting.",
+    "paragraphStart": 212,
+    "paragraphEnd": 340,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "only of average height "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "his hair "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "not fair, but as dark as that of an Italian, and curly, "
+      ],
+      [
+        "Supplement",
+        "with almost no parting."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 33,
+        "anchorEnd": 0,
+        "text": "But he is only of average height "
+      },
+      {
+        "kind": "main",
+        "start": 33,
+        "end": 128,
+        "anchorEnd": 33,
+        "text": "and his hair is not fair, but as dark as that of an Italian, and curly, with almost no parting."
+      }
+    ],
+    "notes": [
+      "of average height 作表语。that 代替 hair，避免与一个人本身比较；fair 指发色浅。民族外貌描述是人物的刻板印象，不是事实规律。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 9,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "19": {
+    "text": "He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.",
+    "lessonText": "He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.",
+    "paragraphStart": 341,
+    "paragraphEnd": 469,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "smoking "
+      ],
+      [
+        "Object",
+        "a pipe, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subordinator",
+        "although "
+      ],
+      [
+        "Subject",
+        "we foreigners "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "a real Englishman "
+      ],
+      [
+        "Predicate",
+        "ought to have "
+      ],
+      [
+        "Object",
+        "a moustache, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "clean-shaven."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "He is not smoking a pipe, "
+      },
+      {
+        "kind": "main",
+        "start": 26,
+        "end": 128,
+        "anchorEnd": 26,
+        "text": "and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven."
+      },
+      {
+        "kind": "concessive",
+        "start": 30,
+        "end": 109,
+        "anchorEnd": 38,
+        "text": "although we foreigners think that a real Englishman ought to have a moustache, "
+      },
+      {
+        "kind": "object",
+        "start": 59,
+        "end": 109,
+        "anchorEnd": 63,
+        "text": "that a real Englishman ought to have a moustache, "
+      }
+    ],
+    "notes": [
+      "that 从句嵌在 although 从句内。foreigners 与 we 同位；clean-shaven 是复合形容词。ought to 所表达的是人物预期。",
+      "although 让步从句内嵌 that 宾语从句；is 与 smoking 之间的 not 单独标为 Negation。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "smoking",
+        "role": "main"
+      },
+      {
+        "start": 53,
+        "end": 58,
+        "text": "think",
+        "role": "sub"
+      },
+      {
+        "start": 82,
+        "end": 95,
+        "text": "ought to have",
+        "role": "sub"
+      },
+      {
+        "start": 112,
+        "end": 114,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "20": {
+    "text": "His nose is slightly crooked.",
+    "lessonText": "His nose is slightly crooked.",
+    "paragraphStart": 470,
+    "paragraphEnd": 499,
+    "functions": [
+      [
+        "Subject",
+        "His nose "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "slightly crooked."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 29,
+        "anchorEnd": 0,
+        "text": "His nose is slightly crooked."
+      }
+    ],
+    "notes": [
+      "slightly 修饰 crooked 的程度。crooked 在此外形义，没有指他不诚实。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 11,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "What a serious face he has!",
+    "lessonText": "What a serious face he has!",
+    "paragraphStart": 500,
+    "paragraphEnd": 527,
+    "functions": [
+      [
+        "Object",
+        "What a serious face "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "has!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 0,
+        "text": "What a serious face he has!"
+      }
+    ],
+    "notes": [
+      "What + a + 形容词 + 名词 + 主语 + 谓语 的感叹结构；还原为 He has a serious face，不做一般疑问倒装。",
+      "What a serious face 是前置感叹宾语；he has 仍为主谓顺序。"
+    ],
+    "predicates": [
+      {
+        "start": 23,
+        "end": 26,
+        "text": "has",
+        "role": "main"
+      }
+    ]
+  },
+  "22": {
+    "text": "He is frowning a little, but the eyes beneath his worried-looking forehead are sincere and honest.",
+    "lessonText": "He is frowning a little, but the eyes beneath his worried-looking forehead are sincere and honest.",
+    "paragraphStart": 528,
+    "paragraphEnd": 626,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "is frowning "
+      ],
+      [
+        "Adverbial",
+        "a little, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "the eyes beneath his worried-looking forehead "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "sincere and honest."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "He is frowning a little, "
+      },
+      {
+        "kind": "main",
+        "start": 25,
+        "end": 98,
+        "anchorEnd": 25,
+        "text": "but the eyes beneath his worried-looking forehead are sincere and honest."
+      }
+    ],
+    "notes": [
+      "beneath… 修饰 eyes，主句谓语为 are。sincere 与 honest 并列作表语；作者呈现的是 Matti 的观感。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 14,
+        "text": "is frowning",
+        "role": "main"
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "23": {
+    "text": "I don't think he is intelligent.",
+    "lessonText": "I don't think he is intelligent.",
+    "paragraphStart": 627,
+    "paragraphEnd": 659,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "don't think "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "intelligent."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 32,
+        "anchorEnd": 0,
+        "text": "I don't think he is intelligent."
+      },
+      {
+        "kind": "object",
+        "start": 14,
+        "end": 32,
+        "anchorEnd": 16,
+        "text": "he is intelligent.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "典型否定转移：I don't think P 通常表达“我认为非 P”。宾语从句省略 that，不是两个独立主句。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 13,
+        "text": "don't think",
+        "role": "main"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "is",
+        "role": "sub"
+      }
+    ]
+  },
+  "24": {
+    "text": "\"His clothes are anything but smart.",
+    "lessonText": "\"His clothes are anything but smart.",
+    "paragraphStart": 0,
+    "paragraphEnd": 36,
+    "functions": [
+      [
+        "Subject",
+        "\"His clothes "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "anything but smart."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 36,
+        "anchorEnd": 0,
+        "text": "\"His clothes are anything but smart."
+      }
+    ],
+    "notes": [
+      "clothes 是复数名词。anything but 加强否定 smart；此处 smart 指衣着整洁漂亮，不指智力。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 16,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "25": {
+    "text": "In fact, they are rather old, though well-brushed.",
+    "lessonText": "In fact, they are rather old, though well-brushed.",
+    "paragraphStart": 37,
+    "paragraphEnd": 87,
+    "functions": [
+      [
+        "Adverbial",
+        "In fact, "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "rather old, "
+      ],
+      [
+        "Subordinator",
+        "though "
+      ],
+      [
+        "Predicative",
+        "well-brushed."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 50,
+        "anchorEnd": 0,
+        "text": "In fact, they are rather old, though well-brushed."
+      },
+      {
+        "kind": "reduced-concessive",
+        "start": 30,
+        "end": 50,
+        "anchorEnd": 36,
+        "text": "though well-brushed.",
+        "restoration": "they are"
+      }
+    ],
+    "notes": [
+      "though well-brushed 可还原 though they are well-brushed；原文未写限定谓语，按同一分流口径归简单句并提示省略。",
+      "though well-brushed 使用 Reduced concessive clause，省略 they are 仅在提示中列出。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 17,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "26": {
+    "text": "Even though he is not wearing a wedding ring, he is probably married, with perhaps three children.",
+    "lessonText": "Even though he is not wearing a wedding ring, he is probably married, with perhaps three children.",
+    "paragraphStart": 88,
+    "paragraphEnd": 186,
+    "functions": [
+      [
+        "Subordinator",
+        "Even though "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "wearing "
+      ],
+      [
+        "Object",
+        "a wedding ring, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "probably married, "
+      ],
+      [
+        "Supplement",
+        "with perhaps three children."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 98,
+        "anchorEnd": 0,
+        "text": "Even though he is not wearing a wedding ring, he is probably married, with perhaps three children."
+      },
+      {
+        "kind": "concessive",
+        "start": 0,
+        "end": 46,
+        "anchorEnd": 11,
+        "text": "Even though he is not wearing a wedding ring, "
+      }
+    ],
+    "notes": [
+      "even though 引入已观察到的事实，与假设 even if 区别。probably、perhaps 表推测；孩子数量来自想象。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 17,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": "wearing",
+        "role": "sub"
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "27": {
+    "text": "His gloves are fur-lined and his trousers well pressed.",
+    "lessonText": "His gloves are fur-lined and his trousers well pressed.",
+    "paragraphStart": 187,
+    "paragraphEnd": 242,
+    "functions": [
+      [
+        "Subject",
+        "His gloves "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "fur-lined "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "his trousers "
+      ],
+      [
+        "Predicative",
+        "well pressed."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "His gloves are fur-lined "
+      },
+      {
+        "kind": "main",
+        "start": 25,
+        "end": 55,
+        "anchorEnd": 25,
+        "text": "and his trousers well pressed.",
+        "restoration": "are",
+        "label": "Elliptical main clause"
+      }
+    ],
+    "notes": [
+      "第二项有自己的主语 trousers，省略了重复的 are，属于并列分句的省略；不是第一项的并列表语。",
+      "第二分句省略 are；well pressed 为表语，不标成原文已有的限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 14,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "28": {
+    "text": "He keeps far too many things in his pockets, so his suit looks badly out of shape.",
+    "lessonText": "He keeps far too many things in his pockets, so his suit looks badly out of shape.",
+    "paragraphStart": 243,
+    "paragraphEnd": 325,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "keeps "
+      ],
+      [
+        "Object",
+        "far too many things "
+      ],
+      [
+        "Complement",
+        "in his pockets, "
+      ],
+      [
+        "Coordinating conjunction",
+        "so "
+      ],
+      [
+        "Subject",
+        "his suit "
+      ],
+      [
+        "Linking verb",
+        "looks "
+      ],
+      [
+        "Predicative",
+        "badly out of shape."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 0,
+        "text": "He keeps far too many things in his pockets, "
+      },
+      {
+        "kind": "main",
+        "start": 45,
+        "end": 82,
+        "anchorEnd": 45,
+        "text": "so his suit looks badly out of shape."
+      }
+    ],
+    "notes": [
+      "so 连接结果主句。far 修饰 too，加强“过多”；looks 为系动词，后接 out of shape 描写状态。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "keeps",
+        "role": "main"
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "looks",
+        "role": "main"
+      }
+    ]
+  },
+  "29": {
+    "text": "What dull, old-fashioned leather shoes he is wearing!",
+    "lessonText": "What dull, old-fashioned leather shoes he is wearing!",
+    "paragraphStart": 326,
+    "paragraphEnd": 379,
+    "functions": [
+      [
+        "Object",
+        "What dull, old-fashioned leather shoes "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is wearing!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 53,
+        "anchorEnd": 0,
+        "text": "What dull, old-fashioned leather shoes he is wearing!"
+      }
+    ],
+    "notes": [
+      "shoes 为复数，因此 What 后不加 a。保持主语 he 在谓语前的感叹句语序。"
+    ],
+    "predicates": [
+      {
+        "start": 42,
+        "end": 52,
+        "text": "is wearing",
+        "role": "main"
+      }
+    ]
+  },
+  "30": {
+    "text": "His briefcase is old too and bulging, so that the zip-fastener does not close properly.",
+    "lessonText": "His briefcase is old too and bulging, so that the zip-fastener does not close properly.",
+    "paragraphStart": 380,
+    "paragraphEnd": 467,
+    "functions": [
+      [
+        "Subject",
+        "His briefcase "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "old too and bulging, "
+      ],
+      [
+        "Subordinator",
+        "so that "
+      ],
+      [
+        "Subject",
+        "the zip-fastener "
+      ],
+      [
+        "Auxiliary verb",
+        "does "
+      ],
+      [
+        "Negation",
+        "not "
+      ],
+      [
+        "Predicate",
+        "close "
+      ],
+      [
+        "Adverbial",
+        "properly."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 87,
+        "anchorEnd": 0,
+        "text": "His briefcase is old too and bulging, so that the zip-fastener does not close properly."
+      },
+      {
+        "kind": "result",
+        "start": 38,
+        "end": 87,
+        "anchorEnd": 45,
+        "text": "so that the zip-fastener does not close properly."
+      }
+    ],
+    "notes": [
+      "so that 在此表达结果，不是“为了拉不上”。close 为不及物用法，主语拉链虽非施事，也不必改成被动。",
+      "so that 此处表达箱子鼓胀导致拉链关不上的结果，使用中性 Result clause，区别于 Purpose clause。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 16,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 63,
+        "end": 67,
+        "text": "does",
+        "role": "sub"
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "text": "close",
+        "role": "sub"
+      }
+    ]
+  },
+  "31": {
+    "text": "There are the initials J. S. on it.",
+    "lessonText": "There are the initials J. S. on it.",
+    "paragraphStart": 468,
+    "paragraphEnd": 503,
+    "functions": [
+      [
+        "Existential subject",
+        "There "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Notional subject",
+        "the initials J. S. "
+      ],
+      [
+        "Adverbial",
+        "on it."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 35,
+        "anchorEnd": 0,
+        "text": "There are the initials J. S. on it."
+      }
+    ],
+    "notes": [
+      "J. S. 是姓名缩写，句点不另外分句。the initials 是复数，所以用 are；it 指 briefcase。",
+      "J. S. 是姓名首字母缩写，保持同一句，不按缩写句点拆开。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "32": {
+    "text": "Is his name John Smith?",
+    "lessonText": "Is his name John Smith?",
+    "paragraphStart": 504,
+    "paragraphEnd": 527,
+    "functions": [
+      [
+        "Linking verb",
+        "Is "
+      ],
+      [
+        "Subject",
+        "his name "
+      ],
+      [
+        "Predicative",
+        "John Smith?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 23,
+        "anchorEnd": 0,
+        "text": "Is his name John Smith?"
+      }
+    ],
+    "notes": [
+      "be 动词疑问句，is 移到主语前。仅凭首字母猜名字，正是人物推测超出证据的一步。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "Is",
+        "role": "main"
+      }
+    ]
+  },
+  "33": {
+    "text": "\"I think he is probably an office clerk or a shop assistant.",
+    "lessonText": "\"I think he is probably an office clerk or a shop assistant.",
+    "paragraphStart": 0,
+    "paragraphEnd": 60,
+    "functions": [
+      [
+        "Subject",
+        "\"I "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "probably "
+      ],
+      [
+        "Predicative",
+        "an office clerk or a shop assistant."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 60,
+        "anchorEnd": 0,
+        "text": "\"I think he is probably an office clerk or a shop assistant."
+      },
+      {
+        "kind": "object",
+        "start": 9,
+        "end": 60,
+        "anchorEnd": 11,
+        "text": "he is probably an office clerk or a shop assistant.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "or 连接从句中的两个表语名词。probably 表可能性，不是已知职业。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "think",
+        "role": "main"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "is",
+        "role": "sub"
+      }
+    ]
+  },
+  "34": {
+    "text": "Does he look like a teacher, though?",
+    "lessonText": "Does he look like a teacher, though?",
+    "paragraphStart": 61,
+    "paragraphEnd": 97,
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Does "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "look "
+      ],
+      [
+        "Complement",
+        "like a teacher, "
+      ],
+      [
+        "Adverbial",
+        "though?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 36,
+        "anchorEnd": 0,
+        "text": "Does he look like a teacher, though?"
+      }
+    ],
+    "notes": [
+      "句末 though 为副词“不过”，没有引导从句。Does 后 look 用原形；like 是介词。",
+      "句尾 though 为转折副词，不建立让步从句。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Does",
+        "role": "main"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "look",
+        "role": "main"
+      }
+    ]
+  },
+  "35": {
+    "text": "Anyhow, he lives with a plain wife and five children in a small worker's house with a tiny garden, where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed.",
+    "lessonText": "Anyhow, he lives with a plain wife and five children in a small worker's house with a tiny garden, where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed.",
+    "paragraphStart": 98,
+    "paragraphEnd": 297,
+    "functions": [
+      [
+        "Adverbial",
+        "Anyhow, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "lives "
+      ],
+      [
+        "Adverbial",
+        "with a plain wife and five children "
+      ],
+      [
+        "Adverbial",
+        "in a small worker's house with a tiny garden, "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "spends "
+      ],
+      [
+        "Object",
+        "his leisure time "
+      ],
+      [
+        "Gerund-participial complement",
+        "digging and weeding and mowing the lawn, or painting the tool shed."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 199,
+        "anchorEnd": 0,
+        "text": "Anyhow, he lives with a plain wife and five children in a small worker's house with a tiny garden, where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed."
+      },
+      {
+        "kind": "relative",
+        "start": 99,
+        "end": 199,
+        "anchorEnd": 104,
+        "text": "where he spends his leisure time digging and weeding and mowing the lawn, or painting the tool shed.",
+        "antecedent": "a tiny garden"
+      }
+    ],
+    "notes": [
+      "where 主要指花园这个活动地点。spend time doing 的四项 -ing 共享 spend；所谓妻儿和活动都属于 Matti 的想象，孩子数已从三变五。",
+      "where 从句修饰 garden；digging、weeding、mowing、painting 均是 spends time 的非谓语补足，不另标成限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 16,
+        "text": "lives",
+        "role": "main"
+      },
+      {
+        "start": 108,
+        "end": 114,
+        "text": "spends",
+        "role": "sub"
+      }
+    ]
+  },
+  "36": {
+    "text": "But tonight, first he is helping his wife to put the children to bed and then he is taking her to the cinema as this is payday.",
+    "lessonText": "But tonight, first he is helping his wife to put the children to bed and then he is taking her to the cinema as this is payday.",
+    "paragraphStart": 298,
+    "paragraphEnd": 425,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Adverbial",
+        "tonight, first "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is helping "
+      ],
+      [
+        "Object",
+        "his wife "
+      ],
+      [
+        "Object complement",
+        "to put the children to bed "
+      ],
+      [
+        "Coordinating conjunction / adverbial",
+        "and then "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is taking "
+      ],
+      [
+        "Object",
+        "her "
+      ],
+      [
+        "Complement",
+        "to the cinema "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "payday."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 69,
+        "anchorEnd": 0,
+        "text": "But tonight, first he is helping his wife to put the children to bed "
+      },
+      {
+        "kind": "main",
+        "start": 69,
+        "end": 127,
+        "anchorEnd": 69,
+        "text": "and then he is taking her to the cinema as this is payday."
+      },
+      {
+        "kind": "reason",
+        "start": 109,
+        "end": 127,
+        "anchorEnd": 111,
+        "text": "as this is payday."
+      }
+    ],
+    "notes": [
+      "两处进行时被用来想象当晚安排。as 表原因；help his wife to put… 中 wife 是 put 的逻辑主语。"
+    ],
+    "predicates": [
+      {
+        "start": 22,
+        "end": 32,
+        "text": "is helping",
+        "role": "main"
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "text": "is taking",
+        "role": "main"
+      },
+      {
+        "start": 117,
+        "end": 119,
+        "text": "is",
+        "role": "sub"
+      }
+    ]
+  },
+  "37": {
+    "text": "Or is he visiting the local pub?",
+    "lessonText": "Or is he visiting the local pub?",
+    "paragraphStart": 426,
+    "paragraphEnd": 458,
+    "functions": [
+      [
+        "Discourse connective",
+        "Or "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "visiting "
+      ],
+      [
+        "Object",
+        "the local pub?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 32,
+        "anchorEnd": 0,
+        "text": "Or is he visiting the local pub?"
+      }
+    ],
+    "notes": [
+      "一般疑问句用 be 前置。Or 在句首连接话语中的另一猜测，不代表本条音频内出现两个主句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "text": "visiting",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "Does he drink whisky (I believe most Englishmen do) or does he prefer beer?",
+    "lessonText": "Does he drink whisky (I believe most Englishmen do) or does he prefer beer?",
+    "paragraphStart": 459,
+    "paragraphEnd": 534,
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Does "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "drink "
+      ],
+      [
+        "Object",
+        "whisky "
+      ],
+      [
+        "Punctuation",
+        "("
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "believe "
+      ],
+      [
+        "Subject",
+        "most Englishmen "
+      ],
+      [
+        "Auxiliary verb",
+        "do"
+      ],
+      [
+        "Punctuation",
+        ") "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Auxiliary verb",
+        "does "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "prefer "
+      ],
+      [
+        "Object",
+        "beer?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 52,
+        "anchorEnd": 0,
+        "text": "Does he drink whisky (I believe most Englishmen do) "
+      },
+      {
+        "kind": "parenthetical",
+        "start": 21,
+        "end": 52,
+        "anchorEnd": 23,
+        "text": "(I believe most Englishmen do) "
+      },
+      {
+        "kind": "object",
+        "start": 32,
+        "end": 50,
+        "anchorEnd": 47,
+        "text": "most Englishmen do",
+        "restoration": "that; do = drink whisky"
+      },
+      {
+        "kind": "main",
+        "start": 52,
+        "end": 75,
+        "anchorEnd": 52,
+        "text": "or does he prefer beer?"
+      }
+    ],
+    "notes": [
+      "or 连接两个问句。括号内 believe 后省略 that；do 替代 drink whisky。国籍与饮品的联系是角色偏见，不作为文化事实讲授。",
+      "括号为 Parenthetical comment；内部 believe 带省略 that 的 Object clause，do 代替 drink whisky。外层两个疑问主句各有独立谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Does",
+        "role": "main"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "text": "drink",
+        "role": "main"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "text": "believe",
+        "role": "sub"
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "do",
+        "role": "sub"
+      },
+      {
+        "start": 55,
+        "end": 59,
+        "text": "does",
+        "role": "main"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "prefer",
+        "role": "main"
+      }
+    ]
+  },
+  "39": {
+    "text": "I am sure he very much likes a cup of tea.",
+    "lessonText": "I am sure he very much likes a cup of tea.",
+    "paragraphStart": 535,
+    "paragraphEnd": 577,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "am "
+      ],
+      [
+        "Predicative",
+        "sure "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "very much "
+      ],
+      [
+        "Predicate",
+        "likes "
+      ],
+      [
+        "Object",
+        "a cup of tea."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "I am sure he very much likes a cup of tea."
+      },
+      {
+        "kind": "content",
+        "start": 10,
+        "end": 42,
+        "anchorEnd": 12,
+        "text": "he very much likes a cup of tea.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "that 从句是 sure 的内容补足，不宜简单把 sure 当动词。very much 修饰 likes，而非 cup。",
+      "he very much likes… 为形容词 sure 的 Content clause 补足，不标为 am 的宾语。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "am",
+        "role": "main"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "likes",
+        "role": "sub"
+      }
+    ]
+  },
+  "40": {
+    "text": "He seems quite energetic, but his complexion is pale and he is very thin.",
+    "lessonText": "He seems quite energetic, but his complexion is pale and he is very thin.",
+    "paragraphStart": 578,
+    "paragraphEnd": 651,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "seems "
+      ],
+      [
+        "Predicative",
+        "quite energetic, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "his complexion "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "pale "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "very thin."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "He seems quite energetic, "
+      },
+      {
+        "kind": "main",
+        "start": 26,
+        "end": 53,
+        "anchorEnd": 26,
+        "text": "but his complexion is pale "
+      },
+      {
+        "kind": "main",
+        "start": 53,
+        "end": 73,
+        "anchorEnd": 53,
+        "text": "and he is very thin."
+      }
+    ],
+    "notes": [
+      "三个限定主句。seems 标记观感；苍白、瘦并不能证明人物贫困。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "seems",
+        "role": "main"
+      },
+      {
+        "start": 45,
+        "end": 47,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "41": {
+    "text": "Does he find it difficult to satisfy the needs of his miserable wife and seven unfortunate children?",
+    "lessonText": "Does he find it difficult to satisfy the needs of his miserable wife and seven unfortunate children?",
+    "paragraphStart": 652,
+    "paragraphEnd": 752,
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Does "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "find "
+      ],
+      [
+        "Formal object",
+        "it "
+      ],
+      [
+        "Object complement",
+        "difficult "
+      ],
+      [
+        "Postposed infinitival object",
+        "to satisfy the needs of his miserable wife and seven unfortunate children?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 100,
+        "anchorEnd": 0,
+        "text": "Does he find it difficult to satisfy the needs of his miserable wife and seven unfortunate children?"
+      }
+    ],
+    "notes": [
+      "find it difficult to do：it 是形式宾语，difficult 为宾补。to satisfy 没有限定谓语；句子长但按本课标准仍属简单句。孩子已被想象成七个。",
+      "it 为形式宾语，difficult 为 Object complement；to satisfy… 为后置不定式宾语，不是有限定谓语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Does",
+        "role": "main"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "find",
+        "role": "main"
+      }
+    ]
+  },
+  "42": {
+    "text": "Poor fellow!",
+    "lessonText": "Poor fellow!",
+    "paragraphStart": 753,
+    "paragraphEnd": 765,
+    "functions": [
+      [
+        "Modifier",
+        "Poor "
+      ],
+      [
+        "Head noun",
+        "fellow!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 12,
+        "anchorEnd": 0,
+        "text": "Poor fellow!",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "没有限定谓语，是独立感叹用的名词短语。不能硬补一个不存在的主谓结构；也不把人物的怜悯当客观处境。",
+      "Poor fellow! 是名词感叹片段，使用中性 Sentence fragment，不增加虚构谓语。"
+    ],
+    "predicates": []
+  },
+  "43": {
+    "text": "I am sorry for him.\"",
+    "lessonText": "I am sorry for him.\"",
+    "paragraphStart": 766,
+    "paragraphEnd": 786,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "am "
+      ],
+      [
+        "Predicative",
+        "sorry "
+      ],
+      [
+        "Complement",
+        "for him.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 20,
+        "anchorEnd": 0,
+        "text": "I am sorry for him.\""
+      }
+    ],
+    "notes": [
+      "be sorry for 表同情；be sorry about 表为某事遗憾，be sorry to do 表遗憾做某事。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "am",
+        "role": "main"
+      }
+    ]
+  },
+  "44": {
+    "text": "At last, shortly after a quarter past six by Matti's watch, the train reaches Lakewell Junction, and Matti immediately sees Geoffrey waiting for him.",
+    "lessonText": "At last, shortly after a quarter past six by Matti's watch, the train reaches Lakewell Junction, and Matti immediately sees Geoffrey waiting for him.",
+    "paragraphStart": 0,
+    "paragraphEnd": 149,
+    "functions": [
+      [
+        "Adverbial",
+        "At last, "
+      ],
+      [
+        "Adverbial",
+        "shortly after a quarter past six by Matti's watch, "
+      ],
+      [
+        "Subject",
+        "the train "
+      ],
+      [
+        "Predicate",
+        "reaches "
+      ],
+      [
+        "Object",
+        "Lakewell Junction, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "Matti "
+      ],
+      [
+        "Adverbial",
+        "immediately "
+      ],
+      [
+        "Predicate",
+        "sees "
+      ],
+      [
+        "Object",
+        "Geoffrey "
+      ],
+      [
+        "Object complement",
+        "waiting for him."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 97,
+        "anchorEnd": 0,
+        "text": "At last, shortly after a quarter past six by Matti's watch, the train reaches Lakewell Junction, "
+      },
+      {
+        "kind": "main",
+        "start": 97,
+        "end": 149,
+        "anchorEnd": 97,
+        "text": "and Matti immediately sees Geoffrey waiting for him."
+      }
+    ],
+    "notes": [
+      "see Geoffrey waiting 为感知动词＋宾语＋-ing。him 指 Matti；by Matti's watch 表按他的手表时间。"
+    ],
+    "predicates": [
+      {
+        "start": 70,
+        "end": 77,
+        "text": "reaches",
+        "role": "main"
+      },
+      {
+        "start": 119,
+        "end": 123,
+        "text": "sees",
+        "role": "main"
+      }
+    ]
+  },
+  "45": {
+    "text": "They greet each other.",
+    "lessonText": "They greet each other.",
+    "paragraphStart": 150,
+    "paragraphEnd": 172,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Predicate",
+        "greet "
+      ],
+      [
+        "Object",
+        "each other."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 22,
+        "anchorEnd": 0,
+        "text": "They greet each other."
+      }
+    ],
+    "notes": [
+      "each other 为相互代词。greet 直接接人，不用 greet to。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "greet",
+        "role": "main"
+      }
+    ]
+  },
+  "46": {
+    "text": "At first Matti cannot find his ticket, but it is discovered in his bulging coat pocket.",
+    "lessonText": "At first Matti cannot find his ticket, but it is discovered in his bulging coat pocket.",
+    "paragraphStart": 173,
+    "paragraphEnd": 260,
+    "functions": [
+      [
+        "Adverbial",
+        "At first "
+      ],
+      [
+        "Subject",
+        "Matti "
+      ],
+      [
+        "Predicate",
+        "cannot find "
+      ],
+      [
+        "Object",
+        "his ticket, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Predicate",
+        "is discovered "
+      ],
+      [
+        "Adverbial",
+        "in his bulging coat pocket."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "At first Matti cannot find his ticket, "
+      },
+      {
+        "kind": "main",
+        "start": 39,
+        "end": 87,
+        "anchorEnd": 39,
+        "text": "but it is discovered in his bulging coat pocket."
+      }
+    ],
+    "notes": [
+      "it 指 ticket；第二句被动未说明发现者。Matti 自己也有鼓胀口袋，反照他刚才对 James 的判断。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 26,
+        "text": "cannot find",
+        "role": "main"
+      },
+      {
+        "start": 46,
+        "end": 59,
+        "text": "is discovered",
+        "role": "main"
+      }
+    ]
+  },
+  "47": {
+    "text": "He gives it up to the ticket-collector and the two boys go off to find Geoffrey's father's car.",
+    "lessonText": "He gives it up to the ticket-collector and the two boys go off to find Geoffrey's father's car.",
+    "paragraphStart": 261,
+    "paragraphEnd": 356,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "gives "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Verb particle",
+        "up "
+      ],
+      [
+        "Recipient complement",
+        "to the ticket-collector "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "the two boys "
+      ],
+      [
+        "Predicate",
+        "go off "
+      ],
+      [
+        "Adverbial",
+        "to find Geoffrey's father's car."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "He gives it up to the ticket-collector "
+      },
+      {
+        "kind": "main",
+        "start": 39,
+        "end": 95,
+        "anchorEnd": 39,
+        "text": "and the two boys go off to find Geoffrey's father's car."
+      }
+    ],
+    "notes": [
+      "give it up 在这里指交出票，不是放弃某项事业。to find 表目的；连续所有格说明车属于谁。",
+      "gives…up 是分离短语动词，up 也使用主句谓语色；to the ticket-collector 为接受者补足。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "gives",
+        "role": "main"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "up",
+        "role": "main"
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "text": "go off",
+        "role": "main"
+      }
+    ]
+  },
+  "48": {
+    "text": "Near it there stands another car, a magnificent Rolls-Royce, and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in.",
+    "lessonText": "Near it there stands another car, a magnificent Rolls-Royce, and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in.",
+    "paragraphStart": 357,
+    "paragraphEnd": 506,
+    "functions": [
+      [
+        "Adverbial",
+        "Near it "
+      ],
+      [
+        "Existential subject",
+        "there "
+      ],
+      [
+        "Predicate",
+        "stands "
+      ],
+      [
+        "Notional subject",
+        "another car, "
+      ],
+      [
+        "Apposition",
+        "a magnificent Rolls-Royce, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "a handsome, uniformed chauffeur "
+      ],
+      [
+        "Predicate",
+        "is holding "
+      ],
+      [
+        "Object",
+        "the door "
+      ],
+      [
+        "Object complement",
+        "open "
+      ],
+      [
+        "Subordinator",
+        "while "
+      ],
+      [
+        "Subject",
+        "James Saxon "
+      ],
+      [
+        "Predicate",
+        "steps in."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 61,
+        "anchorEnd": 0,
+        "text": "Near it there stands another car, a magnificent Rolls-Royce, "
+      },
+      {
+        "kind": "main",
+        "start": 61,
+        "end": 149,
+        "anchorEnd": 61,
+        "text": "and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in."
+      },
+      {
+        "kind": "time",
+        "start": 122,
+        "end": 149,
+        "anchorEnd": 127,
+        "text": "while James Saxon steps in."
+      }
+    ],
+    "notes": [
+      "there stands 类似存在句，another car 是实义主语。open 为 door 的宾补，说明门保持打开状态。while 表同时发生。",
+      "there stands 为存在结构；open 为宾语 the door 的补足，while 从句表示同时发生的动作。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 20,
+        "text": "stands",
+        "role": "main"
+      },
+      {
+        "start": 97,
+        "end": 107,
+        "text": "is holding",
+        "role": "main"
+      },
+      {
+        "start": 140,
+        "end": 148,
+        "text": "steps in",
+        "role": "sub"
+      }
+    ]
+  },
+  "49": {
+    "text": "\"Who is that?\" Matti asks.",
+    "lessonText": "\"Who is that?\" Matti asks.",
+    "paragraphStart": 0,
+    "paragraphEnd": 26,
+    "functions": [
+      [
+        "Punctuation",
+        "\""
+      ],
+      [
+        "Interrogative predicative",
+        "Who "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "that?\" "
+      ],
+      [
+        "Subject",
+        "Matti "
+      ],
+      [
+        "Predicate",
+        "asks."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 15,
+        "anchorEnd": 0,
+        "text": "\"Who is that?\" ",
+        "label": "Quoted main clause"
+      },
+      {
+        "kind": "main",
+        "start": 15,
+        "end": 26,
+        "anchorEnd": 15,
+        "text": "Matti asks.",
+        "label": "Reporting clause"
+      }
+    ],
+    "notes": [
+      "引语自身为特殊疑问句；报告句说明说话者。作为“引语＋报告句”单独标示。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "text": "asks",
+        "role": "main"
+      }
+    ]
+  },
+  "50": {
+    "text": "\"Why is he getting into that car?",
+    "lessonText": "\"Why is he getting into that car?",
+    "paragraphStart": 27,
+    "paragraphEnd": 60,
+    "functions": [
+      [
+        "Adverbial",
+        "\"Why "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "getting "
+      ],
+      [
+        "Complement",
+        "into that car?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 33,
+        "anchorEnd": 0,
+        "text": "\"Why is he getting into that car?"
+      }
+    ],
+    "notes": [
+      "Why 询问原因；is 前置形成疑问，getting into 表进入车内。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "getting",
+        "role": "main"
+      }
+    ]
+  },
+  "51": {
+    "text": "Where does he live?",
+    "lessonText": "Where does he live?",
+    "paragraphStart": 61,
+    "paragraphEnd": 80,
+    "functions": [
+      [
+        "Adverbial",
+        "Where "
+      ],
+      [
+        "Auxiliary verb",
+        "does "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "live?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 19,
+        "anchorEnd": 0,
+        "text": "Where does he live?"
+      }
+    ],
+    "notes": [
+      "does 已承担时态与单数一致，后面 live 用原形，不再加 -s。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "does",
+        "role": "main"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "live",
+        "role": "main"
+      }
+    ]
+  },
+  "52": {
+    "text": "He looks like a poorly-paid clerk or a workman.\"",
+    "lessonText": "He looks like a poorly-paid clerk or a workman.\"",
+    "paragraphStart": 81,
+    "paragraphEnd": 129,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "looks "
+      ],
+      [
+        "Complement",
+        "like a poorly-paid clerk or a workman.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 48,
+        "anchorEnd": 0,
+        "text": "He looks like a poorly-paid clerk or a workman.\""
+      }
+    ],
+    "notes": [
+      "like 后两个名词由 or 连接。poorly-paid 修饰 clerk，指工资低；look like 只表达外观印象。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "looks",
+        "role": "main"
+      }
+    ]
+  },
+  "53": {
+    "text": "Geoffrey laughs loudly as if this is a good joke.",
+    "lessonText": "Geoffrey laughs loudly as if this is a good joke.",
+    "paragraphStart": 0,
+    "paragraphEnd": 49,
+    "functions": [
+      [
+        "Subject",
+        "Geoffrey "
+      ],
+      [
+        "Predicate",
+        "laughs "
+      ],
+      [
+        "Adverbial",
+        "loudly "
+      ],
+      [
+        "Subordinator",
+        "as if "
+      ],
+      [
+        "Subject",
+        "this "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "a good joke."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 49,
+        "anchorEnd": 0,
+        "text": "Geoffrey laughs loudly as if this is a good joke."
+      },
+      {
+        "kind": "comparative",
+        "start": 23,
+        "end": 49,
+        "anchorEnd": 28,
+        "text": "as if this is a good joke."
+      }
+    ],
+    "notes": [
+      "as if 引导方式比较；原文用直陈式 is，并非所有 as if 后都必须用虚拟式。",
+      "as if 引导比较／方式从句，沿用 Comparative clause 的既有绿色；不是条件 if 从句。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 15,
+        "text": "laughs",
+        "role": "main"
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "is",
+        "role": "sub"
+      }
+    ]
+  },
+  "54": {
+    "text": "\"That is Sir James Saxon,\" he replies.",
+    "lessonText": "\"That is Sir James Saxon,\" he replies.",
+    "paragraphStart": 0,
+    "paragraphEnd": 38,
+    "functions": [
+      [
+        "Subject",
+        "\"That "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "Sir James Saxon,\" "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "replies."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 0,
+        "text": "\"That is Sir James Saxon,\" ",
+        "label": "Quoted main clause"
+      },
+      {
+        "kind": "main",
+        "start": 27,
+        "end": 38,
+        "anchorEnd": 27,
+        "text": "he replies.",
+        "label": "Reporting clause"
+      }
+    ],
+    "notes": [
+      "Sir 是爵士等称号，在这里不是简单的称呼“先生”。直接引语与报告句分别辨认。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 8,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "text": "replies",
+        "role": "main"
+      }
+    ]
+  },
+  "55": {
+    "text": "He has a fortune of around two million pounds, and controls forty-two factories in this area alone.",
+    "lessonText": "He has a fortune of around two million pounds, and controls forty-two factories in this area alone.",
+    "paragraphStart": 39,
+    "paragraphEnd": 138,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "has "
+      ],
+      [
+        "Object",
+        "a fortune of around two million pounds, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "controls "
+      ],
+      [
+        "Object",
+        "forty-two factories "
+      ],
+      [
+        "Adverbial",
+        "in this area alone."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 99,
+        "anchorEnd": 0,
+        "text": "He has a fortune of around two million pounds, and controls forty-two factories in this area alone."
+      }
+    ],
+    "notes": [
+      "has 和 controls 共用 He。alone 后置修饰范围 in this area，意为单是此地，不是他孤独地掌管工厂。",
+      "has 与 controls 共享 He，在同一主句内并列。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "has",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "text": "controls",
+        "role": "main"
+      }
+    ]
+  },
+  "56": {
+    "text": "He is a bachelor who lives in a fourth-storey luxury flat, so, if he feels like it, he can go off to the Riviera for a month or two.",
+    "lessonText": "He is a bachelor who lives in a fourth-storey luxury flat, so, if he feels like it, he can go off to the Riviera for a month or two.",
+    "paragraphStart": 139,
+    "paragraphEnd": 271,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "a bachelor "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "lives "
+      ],
+      [
+        "Adverbial",
+        "in a fourth-storey luxury flat, "
+      ],
+      [
+        "Coordinating conjunction",
+        "so, "
+      ],
+      [
+        "Subordinator",
+        "if "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "feels "
+      ],
+      [
+        "Complement",
+        "like it, "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "can go off "
+      ],
+      [
+        "Complement",
+        "to the Riviera "
+      ],
+      [
+        "Adverbial",
+        "for a month or two."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 59,
+        "anchorEnd": 0,
+        "text": "He is a bachelor who lives in a fourth-storey luxury flat, "
+      },
+      {
+        "kind": "relative",
+        "start": 17,
+        "end": 59,
+        "anchorEnd": 20,
+        "text": "who lives in a fourth-storey luxury flat, ",
+        "antecedent": "a bachelor"
+      },
+      {
+        "kind": "main",
+        "start": 59,
+        "end": 132,
+        "anchorEnd": 59,
+        "text": "so, if he feels like it, he can go off to the Riviera for a month or two."
+      },
+      {
+        "kind": "condition",
+        "start": 63,
+        "end": 84,
+        "anchorEnd": 65,
+        "text": "if he feels like it, "
+      }
+    ],
+    "notes": [
+      "who 修饰 bachelor。so 连接结果，if 插在第二主句前。feel like it 指想去旅行；it 是代词，不是不定式标记。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "text": "lives",
+        "role": "sub"
+      },
+      {
+        "start": 69,
+        "end": 74,
+        "text": "feels",
+        "role": "sub"
+      },
+      {
+        "start": 87,
+        "end": 97,
+        "text": "can go off",
+        "role": "main"
+      }
+    ]
+  },
+  "57": {
+    "text": "Next week he is flying to Japan on business in his private aeroplane, though people say he very much prefers travelling by train.",
+    "lessonText": "Next week he is flying to Japan on business in his private aeroplane, though people say he very much prefers travelling by train.",
+    "paragraphStart": 272,
+    "paragraphEnd": 401,
+    "functions": [
+      [
+        "Adverbial",
+        "Next week "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "is flying "
+      ],
+      [
+        "Complement",
+        "to Japan "
+      ],
+      [
+        "Adverbial",
+        "on business "
+      ],
+      [
+        "Adverbial",
+        "in his private aeroplane, "
+      ],
+      [
+        "Subordinator",
+        "though "
+      ],
+      [
+        "Subject",
+        "people "
+      ],
+      [
+        "Predicate",
+        "say "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Adverbial",
+        "very much "
+      ],
+      [
+        "Predicate",
+        "prefers "
+      ],
+      [
+        "Gerund-participial object",
+        "travelling by train."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 129,
+        "anchorEnd": 0,
+        "text": "Next week he is flying to Japan on business in his private aeroplane, though people say he very much prefers travelling by train."
+      },
+      {
+        "kind": "concessive",
+        "start": 70,
+        "end": 129,
+        "anchorEnd": 76,
+        "text": "though people say he very much prefers travelling by train."
+      },
+      {
+        "kind": "object",
+        "start": 88,
+        "end": 129,
+        "anchorEnd": 90,
+        "text": "he very much prefers travelling by train.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "is flying 配合 Next week 表已安排的将来。say 后省略 that；prefer 后接 travelling，在此不说明两种交通的正式比较结构。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 22,
+        "text": "is flying",
+        "role": "main"
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "text": "say",
+        "role": "sub"
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "text": "prefers",
+        "role": "sub"
+      }
+    ]
+  },
+  "58": {
+    "text": "He is said to have twenty-one suits, but he is always seen in the same old one.",
+    "lessonText": "He is said to have twenty-one suits, but he is always seen in the same old one.",
+    "paragraphStart": 402,
+    "paragraphEnd": 481,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "is said "
+      ],
+      [
+        "Infinitival complement",
+        "to have twenty-one suits, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Auxiliary verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "always "
+      ],
+      [
+        "Predicate",
+        "seen "
+      ],
+      [
+        "Complement",
+        "in the same old one."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 37,
+        "anchorEnd": 0,
+        "text": "He is said to have twenty-one suits, "
+      },
+      {
+        "kind": "main",
+        "start": 37,
+        "end": 79,
+        "anchorEnd": 37,
+        "text": "but he is always seen in the same old one."
+      }
+    ],
+    "notes": [
+      "is said to have = people say he has。这里 have 是“拥有”，不是不定式完成式 to have done。one 代替 suit。",
+      "to have twenty-one suits 表示拥有，不是完成不定式；always 与被动谓语 is…seen 分开。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 10,
+        "text": "is said",
+        "role": "main"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "seen",
+        "role": "main"
+      }
+    ]
+  },
+  "59": {
+    "text": "By the way, I remember now.",
+    "lessonText": "By the way, I remember now.",
+    "paragraphStart": 482,
+    "paragraphEnd": 509,
+    "functions": [
+      [
+        "Discourse marker",
+        "By the way, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "remember "
+      ],
+      [
+        "Adverbial",
+        "now."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 27,
+        "anchorEnd": 0,
+        "text": "By the way, I remember now."
+      }
+    ],
+    "notes": [
+      "By the way 转入补充信息。remember 此处宾语由语境省略，不必硬找一个隐藏的 that 从句。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 22,
+        "text": "remember",
+        "role": "main"
+      }
+    ]
+  },
+  "60": {
+    "text": "His father and mother are both Finns: Perhaps that is why he takes no interest in cricket.",
+    "lessonText": "His father and mother are both Finns: Perhaps that is why he takes no interest in cricket.",
+    "paragraphStart": 510,
+    "paragraphEnd": 600,
+    "functions": [
+      [
+        "Subject",
+        "His father and mother "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Focusing modifier",
+        "both "
+      ],
+      [
+        "Predicative",
+        "Finns: "
+      ],
+      [
+        "Adverbial",
+        "Perhaps "
+      ],
+      [
+        "Subject",
+        "that "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Subordinator",
+        "why "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "takes "
+      ],
+      [
+        "Object",
+        "no interest "
+      ],
+      [
+        "Complement",
+        "in cricket."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 38,
+        "anchorEnd": 0,
+        "text": "His father and mother are both Finns: "
+      },
+      {
+        "kind": "main",
+        "start": 38,
+        "end": 90,
+        "anchorEnd": 38,
+        "text": "Perhaps that is why he takes no interest in cricket."
+      },
+      {
+        "kind": "predicative",
+        "start": 54,
+        "end": 90,
+        "anchorEnd": 57,
+        "text": "why he takes no interest in cricket."
+      }
+    ],
+    "notes": [
+      "冒号连接解释性主句。that 指父母的背景；why 从句作表语。Perhaps 表示人物猜想，不能把国籍与个人兴趣说成确定因果。",
+      "将旧分析中错放在句首的 both 恢复到 are 后，与原文逐字对应；why… 为 Predicative clause，takes 是谓语，no interest 是宾语。"
+    ],
+    "predicates": [
+      {
+        "start": 22,
+        "end": 25,
+        "text": "are",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 61,
+        "end": 66,
+        "text": "takes",
+        "role": "sub"
+      }
+    ]
+  },
+  "61": {
+    "text": "His real name is Jussi Saksalainen, but he is now a naturalised British subject with an English name.",
+    "lessonText": "His real name is Jussi Saksalainen, but he is now a naturalised British subject with an English name.",
+    "paragraphStart": 601,
+    "paragraphEnd": 702,
+    "functions": [
+      [
+        "Subject",
+        "His real name "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "Jussi Saksalainen, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Adverbial",
+        "now "
+      ],
+      [
+        "Predicative",
+        "a naturalised British subject "
+      ],
+      [
+        "Modifier",
+        "with an English name."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 36,
+        "anchorEnd": 0,
+        "text": "His real name is Jussi Saksalainen, "
+      },
+      {
+        "kind": "main",
+        "start": 36,
+        "end": 101,
+        "anchorEnd": 36,
+        "text": "but he is now a naturalised British subject with an English name."
+      }
+    ],
+    "notes": [
+      "naturalised 为过去分词定语，修饰 subject。British subject 是原文的历史身份措辞；不延伸为当前法律解释。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 16,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "62": {
+    "text": "He doesn't look at all Finnish.",
+    "lessonText": "He doesn't look at all Finnish.",
+    "paragraphStart": 703,
+    "paragraphEnd": 734,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "doesn't look "
+      ],
+      [
+        "Adverbial",
+        "at all "
+      ],
+      [
+        "Predicative",
+        "Finnish."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 31,
+        "anchorEnd": 0,
+        "text": "He doesn't look at all Finnish."
+      }
+    ],
+    "notes": [
+      "look 后直接用形容词 Finnish，不需要 like。at all 加强否定；这又暴露了凭外观判断国籍的问题。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 15,
+        "text": "doesn't look",
+        "role": "main"
+      }
+    ]
+  },
+  "63": {
+    "text": "\"Here's your other case.",
+    "lessonText": "\"Here's your other case.",
+    "paragraphStart": 0,
+    "paragraphEnd": 24,
+    "functions": [
+      [
+        "Punctuation",
+        "\""
+      ],
+      [
+        "Fronted adverb",
+        "Here"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Subject",
+        "your other case."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 24,
+        "anchorEnd": 0,
+        "text": "\"Here's your other case."
+      }
+    ],
+    "notes": [
+      "展开为 Here is your other case，主语在 be 后。case 在此是行李箱，不是前文公文包必然同一物件。",
+      "Here’s 拆为前置地点副词 Here 与系动词 ’s；your other case 为后置主语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "'s",
+        "role": "main"
+      }
+    ]
+  },
+  "64": {
+    "text": "Put it down a minute while I unlock the car.",
+    "lessonText": "Put it down a minute while I unlock the car.",
+    "paragraphStart": 25,
+    "paragraphEnd": 69,
+    "functions": [
+      [
+        "Predicate",
+        "Put "
+      ],
+      [
+        "Object",
+        "it "
+      ],
+      [
+        "Verb particle",
+        "down "
+      ],
+      [
+        "Adverbial",
+        "a minute "
+      ],
+      [
+        "Subordinator",
+        "while "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "unlock "
+      ],
+      [
+        "Object",
+        "the car."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "Put it down a minute while I unlock the car."
+      },
+      {
+        "kind": "time",
+        "start": 21,
+        "end": 44,
+        "anchorEnd": 26,
+        "text": "while I unlock the car."
+      }
+    ],
+    "notes": [
+      "主语 you 省略。代词 it 放 put 和 down 之间。a minute 为名词性时长状语；while 表同时进行。",
+      "Put…down 的小品词 down 与 Put 对应主句谓语色；while 从句内 unlock 用从句谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Put",
+        "role": "main"
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "text": "down",
+        "role": "main"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "text": "unlock",
+        "role": "sub"
+      }
+    ]
+  },
+  "65": {
+    "text": "Do you enjoy gardening?",
+    "lessonText": "Do you enjoy gardening?",
+    "paragraphStart": 70,
+    "paragraphEnd": 93,
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Do "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "enjoy "
+      ],
+      [
+        "Object",
+        "gardening?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 23,
+        "anchorEnd": 0,
+        "text": "Do you enjoy gardening?"
+      }
+    ],
+    "notes": [
+      "enjoy 后接 -ing，不用 enjoy to garden；gardening 不是另一个限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "Do",
+        "role": "main"
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "enjoy",
+        "role": "main"
+      }
+    ]
+  },
+  "66": {
+    "text": "If so, you can help me: digging, weeding and mowing the lawn.",
+    "lessonText": "If so, you can help me: digging, weeding and mowing the lawn.",
+    "paragraphStart": 94,
+    "paragraphEnd": 155,
+    "functions": [
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Pro-form",
+        "so, "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "can help "
+      ],
+      [
+        "Object",
+        "me: "
+      ],
+      [
+        "Supplement",
+        "digging, weeding and mowing the lawn."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 61,
+        "anchorEnd": 0,
+        "text": "If so, you can help me: digging, weeding and mowing the lawn."
+      },
+      {
+        "kind": "reduced-condition",
+        "start": 0,
+        "end": 7,
+        "anchorEnd": 2,
+        "text": "If so, ",
+        "restoration": "you enjoy gardening"
+      }
+    ],
+    "notes": [
+      "If so 代替 if you enjoy gardening，未写出限定谓语；冒号后 -ing 列举帮助做的事，不是三个从句。",
+      "If so 为 Reduced conditional clause，so 回指 enjoy gardening；冒号后动名词列举具体工作，不标成有限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 19,
+        "text": "can help",
+        "role": "main"
+      }
+    ]
+  },
+  "67": {
+    "text": "And I'm painting the tool shed tomorrow.",
+    "lessonText": "And I'm painting the tool shed tomorrow.",
+    "paragraphStart": 156,
+    "paragraphEnd": 196,
+    "functions": [
+      [
+        "Discourse connective",
+        "And "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Auxiliary verb",
+        "'m "
+      ],
+      [
+        "Predicate",
+        "painting "
+      ],
+      [
+        "Object",
+        "the tool shed "
+      ],
+      [
+        "Adverbial",
+        "tomorrow."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 40,
+        "anchorEnd": 0,
+        "text": "And I'm painting the tool shed tomorrow."
+      }
+    ],
+    "notes": [
+      "现在进行时表示已安排的将来活动。句首 And 接续前面的话，不使本条自动成为并列句。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "'m",
+        "role": "main"
+      },
+      {
+        "start": 8,
+        "end": 16,
+        "text": "painting",
+        "role": "main"
+      }
+    ]
+  },
+  "68": {
+    "text": "You don't know how to play cricket yet, but I'm taking you to a match on Saturday.",
+    "lessonText": "You don't know how to play cricket yet, but I'm taking you to a match on Saturday.",
+    "paragraphStart": 197,
+    "paragraphEnd": 279,
+    "functions": [
+      [
+        "Subject",
+        "You "
+      ],
+      [
+        "Predicate",
+        "don't know "
+      ],
+      [
+        "Infinitival complement",
+        "how to play cricket "
+      ],
+      [
+        "Adverbial",
+        "yet, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Auxiliary verb",
+        "'m "
+      ],
+      [
+        "Predicate",
+        "taking "
+      ],
+      [
+        "Object",
+        "you "
+      ],
+      [
+        "Complement",
+        "to a match "
+      ],
+      [
+        "Adverbial",
+        "on Saturday."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 40,
+        "anchorEnd": 0,
+        "text": "You don't know how to play cricket yet, "
+      },
+      {
+        "kind": "main",
+        "start": 40,
+        "end": 82,
+        "anchorEnd": 40,
+        "text": "but I'm taking you to a match on Saturday."
+      }
+    ],
+    "notes": [
+      "how to play 是疑问词＋不定式，并非限定从句。I'm taking 配合 on Saturday 表将来安排；两个主句由 but 连接。",
+      "how to play cricket 为嵌入疑问不定式补足，不增设 Object clause；I 与 ’m taking 拆开以保持谓语范围准确。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 14,
+        "text": "don't know",
+        "role": "main"
+      },
+      {
+        "start": 45,
+        "end": 47,
+        "text": "'m",
+        "role": "main"
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "text": "taking",
+        "role": "main"
+      }
+    ]
+  },
+  "69": {
+    "text": "Can you speak English any better now?",
+    "lessonText": "Can you speak English any better now?",
+    "paragraphStart": 280,
+    "paragraphEnd": 317,
+    "functions": [
+      [
+        "Modal auxiliary",
+        "Can "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "speak "
+      ],
+      [
+        "Object",
+        "English "
+      ],
+      [
+        "Adverbial",
+        "any better "
+      ],
+      [
+        "Adverbial",
+        "now?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 37,
+        "anchorEnd": 0,
+        "text": "Can you speak English any better now?"
+      }
+    ],
+    "notes": [
+      "any 在疑问句中修饰比较级 better，意为哪怕更好一点；不能把 any 当 English 的限定词。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Can",
+        "role": "main"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "text": "speak",
+        "role": "main"
+      }
+    ]
+  },
+  "70": {
+    "text": "You can soon lose that Finnish reserve.",
+    "lessonText": "You can soon lose that Finnish reserve.",
+    "paragraphStart": 318,
+    "paragraphEnd": 357,
+    "functions": [
+      [
+        "Subject",
+        "You "
+      ],
+      [
+        "Modal auxiliary",
+        "can "
+      ],
+      [
+        "Adverbial",
+        "soon "
+      ],
+      [
+        "Predicate",
+        "lose "
+      ],
+      [
+        "Object",
+        "that Finnish reserve."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "You can soon lose that Finnish reserve."
+      }
+    ],
+    "notes": [
+      "reserve 是名词“拘谨”，不是预订座位的 reserve 动词。Finnish reserve 是角色的文化概括，应看出文章对刻板印象的反照。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 7,
+        "text": "can",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "lose",
+        "role": "main"
+      }
+    ]
+  },
+  "71": {
+    "text": "Come along!",
+    "lessonText": "Come along!",
+    "paragraphStart": 358,
+    "paragraphEnd": 369,
+    "functions": [
+      [
+        "Predicate",
+        "Come along!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 11,
+        "anchorEnd": 0,
+        "text": "Come along!"
+      }
+    ],
+    "notes": [
+      "省略主语 you，但 come 为祈使句限定形式，可独立成句。此处催促义，与 Roommates 中“出现”义不同。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "Come along",
+        "role": "main"
+      }
+    ]
+  },
+  "72": {
+    "text": "Let's get going!",
+    "lessonText": "Let's get going!",
+    "paragraphStart": 370,
+    "paragraphEnd": 386,
+    "functions": [
+      [
+        "Predicate",
+        "Let"
+      ],
+      [
+        "Object",
+        "'s "
+      ],
+      [
+        "Object complement",
+        "get going!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 16,
+        "anchorEnd": 0,
+        "text": "Let's get going!"
+      }
+    ],
+    "notes": [
+      "Let's = let us，提出共同建议；get going 表开始行动，不是两个限定主句。",
+      "Let 为祈使谓语，’s = us 为宾语，get going 为不带 to 的不定式宾语补足，不另加有限定谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Let",
+        "role": "main"
+      }
+    ]
+  },
+  "73": {
+    "text": "I'm hungry and hot.\"",
+    "lessonText": "I'm hungry and hot.\"",
+    "paragraphStart": 387,
+    "paragraphEnd": 407,
+    "functions": [
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Linking verb",
+        "'m "
+      ],
+      [
+        "Predicative",
+        "hungry and hot.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 20,
+        "anchorEnd": 0,
+        "text": "I'm hungry and hot.\""
+      }
+    ],
+    "notes": [
+      "and 连接两个形容词表语，不能据此归为并列句。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 3,
+        "text": "'m",
+        "role": "main"
+      }
+    ]
+  },
+  "74": {
+    "text": "Matti remembers sadly all that his school-teachers say about his overactive and unreliable imagination.",
+    "lessonText": "Matti remembers sadly all that his school-teachers say about his overactive and unreliable imagination.",
+    "paragraphStart": 0,
+    "paragraphEnd": 103,
+    "functions": [
+      [
+        "Subject",
+        "Matti "
+      ],
+      [
+        "Predicate",
+        "remembers "
+      ],
+      [
+        "Adverbial",
+        "sadly "
+      ],
+      [
+        "Object",
+        "all "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "his school-teachers "
+      ],
+      [
+        "Predicate",
+        "say "
+      ],
+      [
+        "Complement",
+        "about his overactive and unreliable imagination."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 103,
+        "anchorEnd": 0,
+        "text": "Matti remembers sadly all that his school-teachers say about his overactive and unreliable imagination."
+      },
+      {
+        "kind": "relative",
+        "start": 26,
+        "end": 103,
+        "anchorEnd": 30,
+        "text": "that his school-teachers say about his overactive and unreliable imagination.",
+        "antecedent": "all"
+      }
+    ],
+    "notes": [
+      "all 是代词性的宾语中心；that 在定语从句中作 say 的宾语。overactive 与 unreliable 修饰 imagination，不是两个从句。",
+      "that 从句修饰 all，that 在从句中作 say 的宾语。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 15,
+        "text": "remembers",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "say",
+        "role": "sub"
+      }
+    ]
+  },
+  "75": {
+    "text": "Perhaps they are right after all.",
+    "lessonText": "Perhaps they are right after all.",
+    "paragraphStart": 104,
+    "paragraphEnd": 137,
+    "functions": [
+      [
+        "Adverbial",
+        "Perhaps "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "right "
+      ],
+      [
+        "Adverbial",
+        "after all."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 33,
+        "anchorEnd": 0,
+        "text": "Perhaps they are right after all."
+      }
+    ],
+    "notes": [
+      "they 指老师们。after all 在句末表示“终究、毕竟”，让结尾成为 Matti 对自己判断方式的反思。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 16,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  }
+}

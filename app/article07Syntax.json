@@ -1,0 +1,3408 @@
+{
+  "1": {
+    "text": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+    "lessonText": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
+    "paragraphStart": 0,
+    "paragraphEnd": 209,
+    "functions": [
+      [
+        "Adverbial",
+        "For most of the six million years of human evolution, "
+      ],
+      [
+        "Subject",
+        "all humans and protohumans "
+      ],
+      [
+        "Predicate",
+        "lived "
+      ],
+      [
+        "Adverbial",
+        "like somewhat glorified chimpanzees, "
+      ],
+      [
+        "Adverbial",
+        "at low population densities, "
+      ],
+      [
+        "Participial supplement",
+        "scattered "
+      ],
+      [
+        "Adverbial",
+        "over the landscape "
+      ],
+      [
+        "Adverbial",
+        "as families or small bands."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 209,
+        "anchorEnd": 0,
+        "text": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands."
+      }
+    ],
+    "notes": [
+      "只有 lived 是限定谓语；scattered 是过去分词，逻辑主语为 humans and protohumans。like 表相像，as 表以什么组织形式生活。glorified 带修辞意味，不是现代黑猩猩直接变成人的科学断言。"
+    ],
+    "predicates": [
+      {
+        "start": 81,
+        "end": 86,
+        "text": "lived",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "Only within the past 6,000 years, a small fraction of human history, did some of our ancestors come together in cities.",
+    "lessonText": "Only within the past 6,000 years, a small fraction of human history, did some of our ancestors come together in cities.",
+    "paragraphStart": 210,
+    "paragraphEnd": 329,
+    "functions": [
+      [
+        "Adverbial",
+        "Only within the past 6,000 years, "
+      ],
+      [
+        "Apposition",
+        "a small fraction of human history, "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Subject",
+        "some of our ancestors "
+      ],
+      [
+        "Predicate",
+        "come together "
+      ],
+      [
+        "Adverbial",
+        "in cities."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 119,
+        "anchorEnd": 0,
+        "text": "Only within the past 6,000 years, a small fraction of human history, did some of our ancestors come together in cities."
+      }
+    ],
+    "notes": [
+      "Only 加前置状语触发部分倒装：did + 主语 + come。正常语序为 Some … came together … only within …。a small fraction 是名词短语，没有新增从句；倒装本身也不使简单句成为复合句。"
+    ],
+    "predicates": [
+      {
+        "start": 69,
+        "end": 72,
+        "text": "did",
+        "role": "main"
+      },
+      {
+        "start": 95,
+        "end": 108,
+        "text": "come together",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants.",
+    "lessonText": "But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants.",
+    "paragraphStart": 330,
+    "paragraphEnd": 453,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Adverbial",
+        "today "
+      ],
+      [
+        "Subject",
+        "more than half the world's people "
+      ],
+      [
+        "Predicate",
+        "live "
+      ],
+      [
+        "Adverbial",
+        "in these new settings, "
+      ],
+      [
+        "Subject",
+        "some of which "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Object",
+        "tens of millions of inhabitants."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 123,
+        "anchorEnd": 0,
+        "text": "But today more than half the world's people live in these new settings, some of which have tens of millions of inhabitants."
+      },
+      {
+        "kind": "relative",
+        "start": 72,
+        "end": 123,
+        "anchorEnd": 85,
+        "text": "some of which have tens of millions of inhabitants.",
+        "antecedent": "these new settings"
+      }
+    ],
+    "notes": [
+      "which 回指 new settings，即上句的城市；some of which 作从句主语，故用 have。主句 people 为复数，用 live；不能因为 half 而一律用单数。"
+    ],
+    "predicates": [
+      {
+        "start": 44,
+        "end": 48,
+        "text": "live",
+        "role": "main"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "text": "have",
+        "role": "sub"
+      }
+    ]
+  },
+  "4": {
+    "text": "Urban life involves trade-offs.",
+    "lessonText": "Urban life involves trade-offs.",
+    "paragraphStart": 0,
+    "paragraphEnd": 31,
+    "functions": [
+      [
+        "Subject",
+        "Urban life "
+      ],
+      [
+        "Predicate",
+        "involves "
+      ],
+      [
+        "Object",
+        "trade-offs."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 31,
+        "anchorEnd": 0,
+        "text": "Urban life involves trade-offs."
+      }
+    ],
+    "notes": [
+      "主谓宾结构。trade-offs 概括城市生活有所获也有所失，后文展开两个维度。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 19,
+        "text": "involves",
+        "role": "main"
+      }
+    ]
+  },
+  "5": {
+    "text": "We may gain big benefits in return for suffering big disadvantages.",
+    "lessonText": "We may gain big benefits in return for suffering big disadvantages.",
+    "paragraphStart": 32,
+    "paragraphEnd": 99,
+    "functions": [
+      [
+        "Subject",
+        "We "
+      ],
+      [
+        "Predicate",
+        "may gain "
+      ],
+      [
+        "Object",
+        "big benefits "
+      ],
+      [
+        "Adverbial",
+        "in return for suffering big disadvantages."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 0,
+        "text": "We may gain big benefits in return for suffering big disadvantages."
+      }
+    ],
+    "notes": [
+      "for 后接 suffering 这个 -ing 结构；suffering 不是独立限定谓语。may 表可能性，而不是保证得失总会相等。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 11,
+        "text": "may gain",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity.",
+    "lessonText": "Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity.",
+    "paragraphStart": 100,
+    "paragraphEnd": 246,
+    "functions": [
+      [
+        "Predicate",
+        "Let"
+      ],
+      [
+        "Object",
+        "'s "
+      ],
+      [
+        "Infinitival complement",
+        "consider "
+      ],
+      [
+        "Object",
+        "two of them: "
+      ],
+      [
+        "Apposition",
+        "the trade-off between individual freedom and community interests, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Apposition",
+        "the trade-off between social ties and anonymity."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 146,
+        "anchorEnd": 0,
+        "text": "Let's consider two of them: the trade-off between individual freedom and community interests, and the trade-off between social ties and anonymity."
+      }
+    ],
+    "notes": [
+      "Let's = Let us，用于共同建议；consider 接宾语，两个 trade-off 是列举，不是两个从句。anonymity 在本文既可能带孤独，也可能带不受干涉的自由。",
+      "结构图把 Let 标为主句祈使谓语，缩写 ’s 表示宾语 us，consider 为不带 to 的不定式补足；原说明中的“共同建议”含义保持不变。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Let",
+        "role": "main"
+      }
+    ]
+  },
+  "7": {
+    "text": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
+    "lessonText": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
+    "paragraphStart": 0,
+    "paragraphEnd": 138,
+    "functions": [
+      [
+        "Adverbial",
+        "To understand the issue of freedom, "
+      ],
+      [
+        "Predicate",
+        "take "
+      ],
+      [
+        "Adverbial",
+        "first "
+      ],
+      [
+        "Object",
+        "the city of Singapore, "
+      ],
+      [
+        "Supplement",
+        "in effect one of the world's most densely populated micro-countries."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 138,
+        "anchorEnd": 0,
+        "text": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries."
+      }
+    ],
+    "notes": [
+      "祈使句隐含主语 you；take 在这里表示拿某个例子来看，不是乘坐或拿走。one of 后接复数 micro-countries；补充名词短语不另成从句。"
+    ],
+    "predicates": [
+      {
+        "start": 36,
+        "end": 40,
+        "text": "take",
+        "role": "main"
+      }
+    ]
+  },
+  "8": {
+    "text": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.",
+    "lessonText": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density.",
+    "paragraphStart": 139,
+    "paragraphEnd": 262,
+    "functions": [
+      [
+        "Subject",
+        "Singapore's nearly six million people "
+      ],
+      [
+        "Predicate",
+        "are packed "
+      ],
+      [
+        "Complement",
+        "into about 250 square miles—"
+      ],
+      [
+        "Supplement",
+        "230 times the average U.S. population density."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 123,
+        "anchorEnd": 0,
+        "text": "Singapore's nearly six million people are packed into about 250 square miles—230 times the average U.S. population density."
+      }
+    ],
+    "notes": [
+      "are packed 是被动，突出拥挤。破折号后的比较语义上说人口密度，不是说面积或人数是人口密度的倍数；可展开为 at a population density 230 times …。数字属于原文发表时的叙述。"
+    ],
+    "predicates": [
+      {
+        "start": 38,
+        "end": 48,
+        "text": "are packed",
+        "role": "main"
+      }
+    ]
+  },
+  "9": {
+    "text": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
+    "lessonText": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia.",
+    "paragraphStart": 263,
+    "paragraphEnd": 463,
+    "functions": [
+      [
+        "Subject",
+        "It"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "an Asian financial center, "
+      ],
+      [
+        "Predicative",
+        "a major port "
+      ],
+      [
+        "Modifier",
+        "on one of the world's busiest shipping straits, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicative",
+        "a tiny piece of prime real estate "
+      ],
+      [
+        "Participial modifier",
+        "wedged between two giant, powerful neighbors, "
+      ],
+      [
+        "Apposition",
+        "Indonesia and Malaysia."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 200,
+        "anchorEnd": 0,
+        "text": "It's an Asian financial center, a major port on one of the world's busiest shipping straits, and a tiny piece of prime real estate wedged between two giant, powerful neighbors, Indonesia and Malaysia."
+      }
+    ],
+    "notes": [
+      "三个名词短语并列表语；wedged 为过去分词，不能当作第二个主句谓语。real estate 指地产，文中借此突出新加坡地理位置的价值。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "'s",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.",
+    "lessonText": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation.",
+    "paragraphStart": 464,
+    "paragraphEnd": 564,
+    "functions": [
+      [
+        "Subject",
+        "Singapore "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "part of Malaysia "
+      ],
+      [
+        "Adverbial",
+        "until 1965, "
+      ],
+      [
+        "Relative adverb",
+        "when "
+      ],
+      [
+        "Subject",
+        "economic and racial tensions "
+      ],
+      [
+        "Predicate",
+        "spurred "
+      ],
+      [
+        "Object",
+        "its separation."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 100,
+        "anchorEnd": 0,
+        "text": "Singapore was part of Malaysia until 1965, when economic and racial tensions spurred its separation."
+      },
+      {
+        "kind": "relative",
+        "start": 43,
+        "end": 100,
+        "anchorEnd": 47,
+        "text": "when economic and racial tensions spurred its separation.",
+        "antecedent": "1965"
+      }
+    ],
+    "notes": [
+      "when 在这里回指年份，相当于 in which；不是“因为”的连接词。spurred 表推动发生，its 指 Singapore。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 13,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 77,
+        "end": 84,
+        "text": "spurred",
+        "role": "sub"
+      }
+    ]
+  },
+  "11": {
+    "text": "But Singapore depends on Malaysia for most of its water and much of its food, and can't afford to make mistakes or provoke its neighbors.",
+    "lessonText": "But Singapore depends on Malaysia for most of its water and much of its food, and can't afford to make mistakes or provoke its neighbors.",
+    "paragraphStart": 565,
+    "paragraphEnd": 702,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Subject",
+        "Singapore "
+      ],
+      [
+        "Predicate",
+        "depends "
+      ],
+      [
+        "Complement",
+        "on Malaysia "
+      ],
+      [
+        "Adverbial",
+        "for most of its water and much of its food, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "can't afford "
+      ],
+      [
+        "Infinitival complement",
+        "to make mistakes or provoke its neighbors."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 137,
+        "anchorEnd": 0,
+        "text": "But Singapore depends on Malaysia for most of its water and much of its food, and can't afford to make mistakes or provoke its neighbors."
+      }
+    ],
+    "notes": [
+      "and 后共用 Singapore，两个谓语不另起独立主句。can't afford to do 指承受不起后果，不只是没钱。用水比例是原文说法，不应直接作为今天的供水统计。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "depends",
+        "role": "main"
+      },
+      {
+        "start": 82,
+        "end": 94,
+        "text": "can't afford",
+        "role": "main"
+      }
+    ]
+  },
+  "12": {
+    "text": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.",
+    "lessonText": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community.",
+    "paragraphStart": 0,
+    "paragraphEnd": 112,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "So "
+      ],
+      [
+        "Subject",
+        "Singapore's government "
+      ],
+      [
+        "Predicate",
+        "monitors "
+      ],
+      [
+        "Object",
+        "its citizens "
+      ],
+      [
+        "Adverbial",
+        "closely, "
+      ],
+      [
+        "Adverbial",
+        "to make sure "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "individuals "
+      ],
+      [
+        "Predicate",
+        "don't harm "
+      ],
+      [
+        "Object",
+        "the community."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 112,
+        "anchorEnd": 0,
+        "text": "So Singapore's government monitors its citizens closely, to make sure that individuals don't harm the community."
+      },
+      {
+        "kind": "content",
+        "start": 70,
+        "end": 112,
+        "anchorEnd": 74,
+        "text": "that individuals don't harm the community."
+      }
+    ],
+    "notes": [
+      "to make sure 表目的，其中包含有主语和限定谓语的 that 从句，所以全句是主从复合句。that 不作从句成分，内容是个人不要损害共同体。",
+      "that 从句补足 sure 的内容，标为 Content clause，使用中性色；不将 to make sure 误标成另一个限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 26,
+        "end": 34,
+        "text": "monitors",
+        "role": "main"
+      },
+      {
+        "start": 87,
+        "end": 97,
+        "text": "don't harm",
+        "role": "sub"
+      }
+    ]
+  },
+  "13": {
+    "text": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+    "lessonText": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
+    "paragraphStart": 113,
+    "paragraphEnd": 244,
+    "functions": [
+      [
+        "Subject",
+        "Inspectors "
+      ],
+      [
+        "Predicate",
+        "check "
+      ],
+      [
+        "Complement",
+        "for water "
+      ],
+      [
+        "Participial modifier",
+        "standing in each household's pots, "
+      ],
+      [
+        "Subordinator",
+        "lest "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "furnish "
+      ],
+      [
+        "Object",
+        "breeding sites "
+      ],
+      [
+        "Modifier",
+        "for disease-transmitting mosquitoes."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 131,
+        "anchorEnd": 0,
+        "text": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes."
+      },
+      {
+        "kind": "purpose",
+        "start": 62,
+        "end": 131,
+        "anchorEnd": 66,
+        "text": "lest they furnish breeding sites for disease-transmitting mosquitoes."
+      }
+    ],
+    "notes": [
+      "lest = 以免，可带原形或 should + 原形。they 回指 pots，不能回指不可数 water。standing 指积水停滞；disease-transmitting 表蚊虫主动传播疾病。",
+      "lest 表预防目的，沿用 Purpose clause 与目的从句配色；standing 只修饰 water，不是主句谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 16,
+        "text": "check",
+        "role": "main"
+      },
+      {
+        "start": 72,
+        "end": 79,
+        "text": "furnish",
+        "role": "sub"
+      }
+    ]
+  },
+  "14": {
+    "text": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.",
+    "lessonText": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings.",
+    "paragraphStart": 245,
+    "paragraphEnd": 407,
+    "functions": [
+      [
+        "Subject",
+        "Smart-technology sensors "
+      ],
+      [
+        "Predicate",
+        "measure "
+      ],
+      [
+        "Coordinating conjunction",
+        "(or "
+      ],
+      [
+        "Predicate",
+        "will measure"
+      ],
+      [
+        "Punctuation",
+        ") "
+      ],
+      [
+        "Object",
+        "the traffic on every street, "
+      ],
+      [
+        "Object",
+        "the movements of every car, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Object",
+        "the temperatures of and shadows cast by buildings."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 162,
+        "anchorEnd": 0,
+        "text": "Smart-technology sensors measure (or will measure) the traffic on every street, the movements of every car, and the temperatures of and shadows cast by buildings."
+      }
+    ],
+    "notes": [
+      "of 的补足语 buildings 延后，与 by buildings 的名词共享。意思是建筑温度和建筑投影，不能误读成“阴影的温度”。cast 为修饰 shadows 的过去分词；will 表尚属将来的设想。",
+      "measure 与 will measure 为共用主语的并列谓语，括号及 or 不标成谓语；of 后共享的 buildings 只在解释中补明，不在正文重复。"
+    ],
+    "predicates": [
+      {
+        "start": 25,
+        "end": 32,
+        "text": "measure",
+        "role": "main"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "text": "will measure",
+        "role": "main"
+      }
+    ]
+  },
+  "15": {
+    "text": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
+    "lessonText": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
+    "paragraphStart": 408,
+    "paragraphEnd": 548,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "will track "
+      ],
+      [
+        "Object",
+        "the water and electricity consumption of every household "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "will note "
+      ],
+      [
+        "Object",
+        "the time "
+      ],
+      [
+        "Subordinator",
+        "whenever "
+      ],
+      [
+        "Subject",
+        "a household toilet "
+      ],
+      [
+        "Predicate",
+        "is flushed."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 140,
+        "anchorEnd": 0,
+        "text": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed."
+      },
+      {
+        "kind": "time",
+        "start": 101,
+        "end": 140,
+        "anchorEnd": 109,
+        "text": "whenever a household toilet is flushed."
+      }
+    ],
+    "notes": [
+      "They 指 sensors；whenever 表每当、每次，整段作时间说明。is flushed 是被动。句子说记录冲水时间，不是检测“没有冲水”；也不能去掉 will 当成现在所有家庭已经装有此设备。",
+      "沿用原分析：whenever 表每次冲水时，作为 Time clause；保留 time 的记录内容和原文将来时。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 20,
+        "text": "will track",
+        "role": "main"
+      },
+      {
+        "start": 82,
+        "end": 91,
+        "text": "will note",
+        "role": "main"
+      },
+      {
+        "start": 129,
+        "end": 139,
+        "text": "is flushed",
+        "role": "sub"
+      }
+    ]
+  },
+  "16": {
+    "text": "Americans may view such measures with horror.",
+    "lessonText": "Americans may view such measures with horror.",
+    "paragraphStart": 549,
+    "paragraphEnd": 594,
+    "functions": [
+      [
+        "Subject",
+        "Americans "
+      ],
+      [
+        "Predicate",
+        "may view "
+      ],
+      [
+        "Object",
+        "such measures "
+      ],
+      [
+        "Adverbial",
+        "with horror."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 0,
+        "text": "Americans may view such measures with horror."
+      }
+    ],
+    "notes": [
+      "may 表作者推测的可能反应。with horror 是介词短语作状语，不能由此断言所有美国人都如此看待。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 18,
+        "text": "may view",
+        "role": "main"
+      }
+    ]
+  },
+  "17": {
+    "text": "But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security.",
+    "lessonText": "But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security.",
+    "paragraphStart": 595,
+    "paragraphEnd": 774,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Adverbial",
+        "for Singapore's citizens, "
+      ],
+      [
+        "Subject",
+        "it"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Predicative",
+        "the bargain "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "have made "
+      ],
+      [
+        "Adverbial",
+        "with their government: "
+      ],
+      [
+        "Appositional explanation",
+        "less individual freedom "
+      ],
+      [
+        "Appositional explanation",
+        "in return for first-class living standards, health, and security."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 179,
+        "anchorEnd": 0,
+        "text": "But for Singapore's citizens, it's the bargain that they have made with their government: less individual freedom in return for first-class living standards, health, and security."
+      },
+      {
+        "kind": "relative",
+        "start": 47,
+        "end": 90,
+        "anchorEnd": 51,
+        "text": "that they have made with their government: ",
+        "antecedent": "the bargain"
+      }
+    ],
+    "notes": [
+      "that 是 made 的宾语，相当于 the bargain which they have made；这是普通表语加定语从句，不必套成 it-cleft 强调句。bargain 为社会交换的比喻，未必存在每个人签署的合同。"
+    ],
+    "predicates": [
+      {
+        "start": 32,
+        "end": 34,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "text": "have made",
+        "role": "sub"
+      }
+    ]
+  },
+  "18": {
+    "text": "Next consider Germany's cities, also densely populated.",
+    "lessonText": "Next consider Germany's cities, also densely populated.",
+    "paragraphStart": 0,
+    "paragraphEnd": 55,
+    "functions": [
+      [
+        "Adverbial",
+        "Next "
+      ],
+      [
+        "Predicate",
+        "consider "
+      ],
+      [
+        "Object",
+        "Germany's cities, "
+      ],
+      [
+        "Supplement",
+        "also densely populated."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 55,
+        "anchorEnd": 0,
+        "text": "Next consider Germany's cities, also densely populated."
+      }
+    ],
+    "notes": [
+      "省略的祈使主语是 you。also densely populated 没有限定动词，可理解为 which are also densely populated 的缩略，但原句不是完整定语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 13,
+        "text": "consider",
+        "role": "main"
+      }
+    ]
+  },
+  "19": {
+    "text": "Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property.",
+    "lessonText": "Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property.",
+    "paragraphStart": 56,
+    "paragraphEnd": 255,
+    "functions": [
+      [
+        "Subject",
+        "Local governments "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Object",
+        "rules "
+      ],
+      [
+        "Modifier",
+        "about the shapes and colors of tiles "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "Germans "
+      ],
+      [
+        "Predicate",
+        "may use "
+      ],
+      [
+        "Adverbial",
+        "on their houses' roofs, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Modifier",
+        "about the sizes and ages of trees "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Modal auxiliary",
+        "can "
+      ],
+      [
+        "Coordinating conjunction",
+        "or "
+      ],
+      [
+        "Predicate",
+        "can't cut down "
+      ],
+      [
+        "Adverbial",
+        "on their property."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 199,
+        "anchorEnd": 0,
+        "text": "Local governments have rules about the shapes and colors of tiles that Germans may use on their houses' roofs, and about the sizes and ages of trees that they can or can't cut down on their property."
+      },
+      {
+        "kind": "relative",
+        "start": 66,
+        "end": 111,
+        "anchorEnd": 70,
+        "text": "that Germans may use on their houses' roofs, ",
+        "antecedent": "tiles"
+      },
+      {
+        "kind": "relative",
+        "start": 149,
+        "end": 199,
+        "anchorEnd": 153,
+        "text": "that they can or can't cut down on their property.",
+        "antecedent": "trees"
+      }
+    ],
+    "notes": [
+      "两个 about 短语并列说明 rules 的内容；两个 that 分别在 use、cut down 后留下宾语空位，先行词是 tiles 和 trees，不是 rules。can / can't 表许可与禁止。",
+      "两个定语从句分别在 roofs 和 property 结束；can 与 can’t cut down 分开着色，or 保留并列连接词身份。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 22,
+        "text": "have",
+        "role": "main"
+      },
+      {
+        "start": 79,
+        "end": 86,
+        "text": "may use",
+        "role": "sub"
+      },
+      {
+        "start": 159,
+        "end": 162,
+        "text": "can",
+        "role": "sub"
+      },
+      {
+        "start": 166,
+        "end": 180,
+        "text": "can't cut down",
+        "role": "sub"
+      }
+    ]
+  },
+  "20": {
+    "text": "To obtain a fishing license, Germans must attend many hours of fishing classes, then pass a 60-question exam.",
+    "lessonText": "To obtain a fishing license, Germans must attend many hours of fishing classes, then pass a 60-question exam.",
+    "paragraphStart": 256,
+    "paragraphEnd": 365,
+    "functions": [
+      [
+        "Adverbial",
+        "To obtain a fishing license, "
+      ],
+      [
+        "Subject",
+        "Germans "
+      ],
+      [
+        "Predicate",
+        "must attend "
+      ],
+      [
+        "Object",
+        "many hours of fishing classes, "
+      ],
+      [
+        "Sequencing adverb",
+        "then "
+      ],
+      [
+        "Predicate",
+        "pass "
+      ],
+      [
+        "Object",
+        "a 60-question exam."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 109,
+        "anchorEnd": 0,
+        "text": "To obtain a fishing license, Germans must attend many hours of fishing classes, then pass a 60-question exam."
+      }
+    ],
+    "notes": [
+      "pass 共用前面的 must 和主语 Germans，不能改成 passes。60-question 作名词前的复合修饰语，question 用单数。这是原文概括，实际考试规定须按德国各州核对。"
+    ],
+    "predicates": [
+      {
+        "start": 37,
+        "end": 48,
+        "text": "must attend",
+        "role": "main"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "text": "pass",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "Most Americans would bristle at such restrictions.",
+    "lessonText": "Most Americans would bristle at such restrictions.",
+    "paragraphStart": 366,
+    "paragraphEnd": 416,
+    "functions": [
+      [
+        "Subject",
+        "Most Americans "
+      ],
+      [
+        "Predicate",
+        "would bristle "
+      ],
+      [
+        "Complement",
+        "at such restrictions."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 50,
+        "anchorEnd": 0,
+        "text": "Most Americans would bristle at such restrictions."
+      }
+    ],
+    "notes": [
+      "would 表设想条件下的反应，不是过去习惯的必然用法。bristle at 表听到或面对某事而动怒。"
+    ],
+    "predicates": [
+      {
+        "start": 15,
+        "end": 28,
+        "text": "would bristle",
+        "role": "main"
+      }
+    ]
+  },
+  "22": {
+    "text": "But benefits to German communities include beautiful regional architecture, green cities, government support for the arts, and healthy fish populations.",
+    "lessonText": "But benefits to German communities include beautiful regional architecture, green cities, government support for the arts, and healthy fish populations.",
+    "paragraphStart": 417,
+    "paragraphEnd": 569,
+    "functions": [
+      [
+        "Coordinating conjunction",
+        "But "
+      ],
+      [
+        "Subject",
+        "benefits to German communities "
+      ],
+      [
+        "Predicate",
+        "include "
+      ],
+      [
+        "Object",
+        "beautiful regional architecture, "
+      ],
+      [
+        "Object",
+        "green cities, "
+      ],
+      [
+        "Object",
+        "government support for the arts, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Object",
+        "healthy fish populations."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 152,
+        "anchorEnd": 0,
+        "text": "But benefits to German communities include beautiful regional architecture, green cities, government support for the arts, and healthy fish populations."
+      }
+    ],
+    "notes": [
+      "include 的主语是复数 benefits。architecture 表建筑风格、整体建筑时通常不可数；fish populations 指鱼类种群，不是渔民人口。"
+    ],
+    "predicates": [
+      {
+        "start": 35,
+        "end": 42,
+        "text": "include",
+        "role": "main"
+      }
+    ]
+  },
+  "23": {
+    "text": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.",
+    "lessonText": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred.",
+    "paragraphStart": 0,
+    "paragraphEnd": 125,
+    "functions": [
+      [
+        "Adverbial",
+        "At the opposite extreme "
+      ],
+      [
+        "Predicate",
+        "comes "
+      ],
+      [
+        "Subject",
+        "my own city of Los Angeles, "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "rights of the individual property owner "
+      ],
+      [
+        "Predicate",
+        "are prized "
+      ],
+      [
+        "Complement",
+        "as sacred."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 125,
+        "anchorEnd": 0,
+        "text": "At the opposite extreme comes my own city of Los Angeles, where rights of the individual property owner are prized as sacred."
+      },
+      {
+        "kind": "relative",
+        "start": 58,
+        "end": 125,
+        "anchorEnd": 63,
+        "text": "where rights of the individual property owner are prized as sacred.",
+        "antecedent": "my own city of Los Angeles"
+      }
+    ],
+    "notes": [
+      "这里是方位短语前置后的完全倒装：comes + 名词主语；不是 did + 主语 + come 的部分倒装。where 指 Los Angeles；被视为神圣的是 rights，不是 property owner 本人。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 29,
+        "text": "comes",
+        "role": "main"
+      },
+      {
+        "start": 104,
+        "end": 114,
+        "text": "are prized",
+        "role": "sub"
+      }
+    ]
+  },
+  "24": {
+    "text": "The result is a free-for-all, in which many individuals and communities suffer disadvantages.",
+    "lessonText": "The result is a free-for-all, in which many individuals and communities suffer disadvantages.",
+    "paragraphStart": 126,
+    "paragraphEnd": 219,
+    "functions": [
+      [
+        "Subject",
+        "The result "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "a free-for-all, "
+      ],
+      [
+        "Relative phrase",
+        "in which "
+      ],
+      [
+        "Subject",
+        "many individuals and communities "
+      ],
+      [
+        "Predicate",
+        "suffer "
+      ],
+      [
+        "Object",
+        "disadvantages."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 93,
+        "anchorEnd": 0,
+        "text": "The result is a free-for-all, in which many individuals and communities suffer disadvantages."
+      },
+      {
+        "kind": "relative",
+        "start": 30,
+        "end": 93,
+        "anchorEnd": 38,
+        "text": "in which many individuals and communities suffer disadvantages.",
+        "antecedent": "a free-for-all"
+      }
+    ],
+    "notes": [
+      "a free-for-all 是名词，指缺乏约束、人人各行其是的混乱局面，不是“人人免费”。in which = 在这种局面中。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 13,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 72,
+        "end": 78,
+        "text": "suffer",
+        "role": "sub"
+      }
+    ]
+  },
+  "25": {
+    "text": "Almost any style of house is permissible; local architectural character is nonexistent.",
+    "lessonText": "Almost any style of house is permissible; local architectural character is nonexistent.",
+    "paragraphStart": 220,
+    "paragraphEnd": 307,
+    "functions": [
+      [
+        "Subject",
+        "Almost any style of house "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "permissible; "
+      ],
+      [
+        "Subject",
+        "local architectural character "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "nonexistent."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "Almost any style of house is permissible; "
+      },
+      {
+        "kind": "main",
+        "start": 42,
+        "end": 87,
+        "anchorEnd": 42,
+        "text": "local architectural character is nonexistent."
+      }
+    ],
+    "notes": [
+      "分号连接两个独立主句。讲义部分转录使用逗号，但网站原句与原刊此处为分号，不能把转录差异当作作者的逗号拼接错误。almost 修饰 any，保留“几乎”的限定。"
+    ],
+    "predicates": [
+      {
+        "start": 26,
+        "end": 28,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 72,
+        "end": 74,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "26": {
+    "text": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+    "lessonText": "Tree cover is vanishing, temperatures are rising, and landowners' excavated dirt and sprayed pesticides end up on neighbors' property.",
+    "paragraphStart": 308,
+    "paragraphEnd": 442,
+    "functions": [
+      [
+        "Subject",
+        "Tree cover "
+      ],
+      [
+        "Predicate",
+        "is vanishing, "
+      ],
+      [
+        "Subject",
+        "temperatures "
+      ],
+      [
+        "Predicate",
+        "are rising, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "landowners' excavated dirt and sprayed pesticides "
+      ],
+      [
+        "Predicate",
+        "end up "
+      ],
+      [
+        "Complement",
+        "on neighbors' property."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "Tree cover is vanishing, "
+      },
+      {
+        "kind": "main",
+        "start": 25,
+        "end": 50,
+        "anchorEnd": 25,
+        "text": "temperatures are rising, "
+      },
+      {
+        "kind": "main",
+        "start": 50,
+        "end": 134,
+        "anchorEnd": 50,
+        "text": "and landowners' excavated dirt and sprayed pesticides end up on neighbors' property."
+      }
+    ],
+    "notes": [
+      "三套主谓构成并列句。excavated 和 sprayed 为各自名词前的过去分词修饰；第三句 dirt and pesticides 是并列主语，故用 end up。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 23,
+        "text": "is vanishing",
+        "role": "main"
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "text": "are rising",
+        "role": "main"
+      },
+      {
+        "start": 104,
+        "end": 110,
+        "text": "end up",
+        "role": "main"
+      }
+    ]
+  },
+  "27": {
+    "text": "To fish in the local bay waters, anyone can buy a fishing license—no questions asked—so of course fish populations decline.",
+    "lessonText": "To fish in the local bay waters, anyone can buy a fishing license—no questions asked—so of course fish populations decline.",
+    "paragraphStart": 443,
+    "paragraphEnd": 566,
+    "functions": [
+      [
+        "Adverbial",
+        "To fish in the local bay waters, "
+      ],
+      [
+        "Subject",
+        "anyone "
+      ],
+      [
+        "Predicate",
+        "can buy "
+      ],
+      [
+        "Object",
+        "a fishing license—"
+      ],
+      [
+        "Absolute construction",
+        "no questions asked—"
+      ],
+      [
+        "Coordinating conjunction",
+        "so "
+      ],
+      [
+        "Adverbial",
+        "of course "
+      ],
+      [
+        "Subject",
+        "fish populations "
+      ],
+      [
+        "Predicate",
+        "decline."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 85,
+        "anchorEnd": 0,
+        "text": "To fish in the local bay waters, anyone can buy a fishing license—no questions asked—"
+      },
+      {
+        "kind": "absolute",
+        "start": 66,
+        "end": 84,
+        "anchorEnd": 78,
+        "text": "no questions asked",
+        "restoration": "being"
+      },
+      {
+        "kind": "main",
+        "start": 85,
+        "end": 123,
+        "anchorEnd": 85,
+        "text": "so of course fish populations decline."
+      }
+    ],
+    "notes": [
+      "no questions asked 是名词加过去分词的独立结构，隐含没有问题被问，并非缺少主语的主句。so 连接两套主谓；of course 是作者的修辞判断，不是证实单一因果关系的证据。买得到许可证不等于捕捞没有限制。",
+      "no questions asked 为无定式的 Absolute construction，不标主句谓语；so 后另起主句。being 只作可选展开提示。"
+    ],
+    "predicates": [
+      {
+        "start": 40,
+        "end": 47,
+        "text": "can buy",
+        "role": "main"
+      },
+      {
+        "start": 115,
+        "end": 122,
+        "text": "decline",
+        "role": "main"
+      }
+    ]
+  },
+  "28": {
+    "text": "The outcomes of trade-offs differ for Singapore, Germany, and L.A. because different geographies and histories have led to different customs.",
+    "lessonText": "The outcomes of trade-offs differ for Singapore, Germany, and L.A. because different geographies and histories have led to different customs.",
+    "paragraphStart": 0,
+    "paragraphEnd": 141,
+    "functions": [
+      [
+        "Subject",
+        "The outcomes of trade-offs "
+      ],
+      [
+        "Predicate",
+        "differ "
+      ],
+      [
+        "Adverbial",
+        "for Singapore, Germany, and L.A. "
+      ],
+      [
+        "Subordinator",
+        "because "
+      ],
+      [
+        "Subject",
+        "different geographies and histories "
+      ],
+      [
+        "Predicate",
+        "have led "
+      ],
+      [
+        "Complement",
+        "to different customs."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 141,
+        "anchorEnd": 0,
+        "text": "The outcomes of trade-offs differ for Singapore, Germany, and L.A. because different geographies and histories have led to different customs."
+      },
+      {
+        "kind": "reason",
+        "start": 67,
+        "end": 141,
+        "anchorEnd": 74,
+        "text": "because different geographies and histories have led to different customs."
+      }
+    ],
+    "notes": [
+      "主句谓语看 outcomes，使用 differ；原因从句是现在完成时，强调形成至今的差异。customs 在此是风俗习惯；词义不能仅靠是否大写判断。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 33,
+        "text": "differ",
+        "role": "main"
+      },
+      {
+        "start": 111,
+        "end": 119,
+        "text": "have led",
+        "role": "sub"
+      }
+    ]
+  },
+  "29": {
+    "text": "Population density is highest in Singapore, intermediate in Germany, lowest in the United States (including California).",
+    "lessonText": "Population density is highest in Singapore, intermediate in Germany, lowest in the United States (including California).",
+    "paragraphStart": 142,
+    "paragraphEnd": 262,
+    "functions": [
+      [
+        "Subject",
+        "Population density "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "highest "
+      ],
+      [
+        "Adverbial",
+        "in Singapore, "
+      ],
+      [
+        "Predicative",
+        "intermediate "
+      ],
+      [
+        "Adverbial",
+        "in Germany, "
+      ],
+      [
+        "Predicative",
+        "lowest "
+      ],
+      [
+        "Adverbial",
+        "in the United States (including California)."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 120,
+        "anchorEnd": 0,
+        "text": "Population density is highest in Singapore, intermediate in Germany, lowest in the United States (including California)."
+      }
+    ],
+    "notes": [
+      "同一主语与 is 后并列三组“程度 + 地点”，后两组省略重复的 population density is。highest / lowest 限于列举三者，不能扩大为全世界最高、最低；也不要把美国全国密度等同于洛杉矶市密度。",
+      "按共享主语和系动词的三组并列表语展示，不补写后两组省略的 population density is；原解释中的省略读法仍可帮助理解比较关系。"
+    ],
+    "predicates": [
+      {
+        "start": 19,
+        "end": 21,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "30": {
+    "text": "China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, Germany for two millennia, the United States for just a few centuries.",
+    "lessonText": "China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, Germany for two millennia, the United States for just a few centuries.",
+    "paragraphStart": 263,
+    "paragraphEnd": 437,
+    "functions": [
+      [
+        "Subject",
+        "China—"
+      ],
+      [
+        "Relative adverb",
+        "whence "
+      ],
+      [
+        "Subject",
+        "the ancestors of most of Singapore's population "
+      ],
+      [
+        "Predicate",
+        "arrived—"
+      ],
+      [
+        "Predicate",
+        "has had "
+      ],
+      [
+        "Object",
+        "cities "
+      ],
+      [
+        "Adverbial",
+        "for five millennia, "
+      ],
+      [
+        "Subject",
+        "Germany "
+      ],
+      [
+        "Adverbial",
+        "for two millennia, "
+      ],
+      [
+        "Subject",
+        "the United States "
+      ],
+      [
+        "Adverbial",
+        "for just a few centuries."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 104,
+        "anchorEnd": 0,
+        "text": "China—whence the ancestors of most of Singapore's population arrived—has had cities for five millennia, "
+      },
+      {
+        "kind": "relative",
+        "start": 6,
+        "end": 68,
+        "anchorEnd": 12,
+        "text": "whence the ancestors of most of Singapore's population arrived",
+        "antecedent": "China"
+      },
+      {
+        "kind": "main",
+        "start": 104,
+        "end": 131,
+        "anchorEnd": 104,
+        "text": "Germany for two millennia, ",
+        "restoration": "has had cities",
+        "label": "Elliptical main clause"
+      },
+      {
+        "kind": "main",
+        "start": 131,
+        "end": 174,
+        "anchorEnd": 131,
+        "text": "the United States for just a few centuries.",
+        "restoration": "has had cities",
+        "label": "Elliptical main clause"
+      }
+    ],
+    "notes": [
+      "whence = from which；破折号插入从句后，China 的谓语到 has had 才出现。后两组各自换主语，并省略 has had cities。美国“几百年”按作者殖民城市的叙述理解；不能忽略更早的原住民城市。",
+      "三个主句框分别对应 China、Germany、the United States；whence 从句嵌入第一个主句，后两句 has had cities 只在 Ellipsis 提示中显示。"
+    ],
+    "predicates": [
+      {
+        "start": 61,
+        "end": 68,
+        "text": "arrived",
+        "role": "sub"
+      },
+      {
+        "start": 69,
+        "end": 76,
+        "text": "has had",
+        "role": "main"
+      }
+    ]
+  },
+  "31": {
+    "text": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
+    "lessonText": "Chinese traditional farming is communal; Germans have close-packed individual farms; and U.S. frontier settlements had self-sufficient, widely scattered families.",
+    "paragraphStart": 438,
+    "paragraphEnd": 600,
+    "functions": [
+      [
+        "Subject",
+        "Chinese traditional farming "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "communal; "
+      ],
+      [
+        "Subject",
+        "Germans "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Object",
+        "close-packed individual farms; "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Subject",
+        "U.S. frontier settlements "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "self-sufficient, widely scattered families."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 41,
+        "anchorEnd": 0,
+        "text": "Chinese traditional farming is communal; "
+      },
+      {
+        "kind": "main",
+        "start": 41,
+        "end": 85,
+        "anchorEnd": 41,
+        "text": "Germans have close-packed individual farms; "
+      },
+      {
+        "kind": "main",
+        "start": 85,
+        "end": 162,
+        "anchorEnd": 85,
+        "text": "and U.S. frontier settlements had self-sufficient, widely scattered families."
+      }
+    ],
+    "notes": [
+      "分号分隔三个独立主句。前两句概括传统，第三句 had 讲历史上的边疆聚落；不要机械统一时态。communal 是作者的概括，不足以推出全国所有农场的所有制。"
+    ],
+    "predicates": [
+      {
+        "start": 28,
+        "end": 30,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "have",
+        "role": "main"
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "32": {
+    "text": "The cultural legacies of those differences live on today.",
+    "lessonText": "The cultural legacies of those differences live on today.",
+    "paragraphStart": 601,
+    "paragraphEnd": 658,
+    "functions": [
+      [
+        "Subject",
+        "The cultural legacies of those differences "
+      ],
+      [
+        "Predicate",
+        "live on "
+      ],
+      [
+        "Adverbial",
+        "today."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 57,
+        "anchorEnd": 0,
+        "text": "The cultural legacies of those differences live on today."
+      }
+    ],
+    "notes": [
+      "legacies 是中心名词，故用 live；live on 指继续存在，不是靠食物或钱生活的 live on something。"
+    ],
+    "predicates": [
+      {
+        "start": 43,
+        "end": 50,
+        "text": "live on",
+        "role": "main"
+      }
+    ]
+  },
+  "33": {
+    "text": "Another issue of urban life is the trade-off between social ties and anonymity.",
+    "lessonText": "Another issue of urban life is the trade-off between social ties and anonymity.",
+    "paragraphStart": 0,
+    "paragraphEnd": 79,
+    "functions": [
+      [
+        "Subject",
+        "Another issue of urban life "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "the trade-off between social ties and anonymity."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 79,
+        "anchorEnd": 0,
+        "text": "Another issue of urban life is the trade-off between social ties and anonymity."
+      }
+    ],
+    "notes": [
+      "主系表结构。这是篇章转折点，从自由与共同体利益转到人际支持与个人空间。"
+    ],
+    "predicates": [
+      {
+        "start": 28,
+        "end": 30,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "34": {
+    "text": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.",
+    "lessonText": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies.",
+    "paragraphStart": 80,
+    "paragraphEnd": 270,
+    "functions": [
+      [
+        "Head of subject",
+        "Traditional living arrangements "
+      ],
+      [
+        "Participial modifier",
+        "still practiced today in rural areas of New Guinea, "
+      ],
+      [
+        "Relative adverb",
+        "where "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ve been working "
+      ],
+      [
+        "Adverbial",
+        "since the 1960s, "
+      ],
+      [
+        "Predicate",
+        "resemble "
+      ],
+      [
+        "Object",
+        "those "
+      ],
+      [
+        "Participial modifier",
+        "formerly practiced in pre-urban Western societies."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 190,
+        "anchorEnd": 0,
+        "text": "Traditional living arrangements still practiced today in rural areas of New Guinea, where I've been working since the 1960s, resemble those formerly practiced in pre-urban Western societies."
+      },
+      {
+        "kind": "relative",
+        "start": 84,
+        "end": 125,
+        "anchorEnd": 89,
+        "text": "where I've been working since the 1960s, ",
+        "antecedent": "New Guinea"
+      }
+    ],
+    "notes": [
+      "长主语一直延伸到插入从句结束，主干是 arrangements resemble those。those 替代 arrangements；两处 practiced 都是被动含义的过去分词。have been working 强调从过去持续至叙述时；New Guinea 是岛屿名。"
+    ],
+    "predicates": [
+      {
+        "start": 91,
+        "end": 107,
+        "text": "'ve been working",
+        "role": "sub"
+      },
+      {
+        "start": 125,
+        "end": 133,
+        "text": "resemble",
+        "role": "main"
+      }
+    ]
+  },
+  "35": {
+    "text": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.",
+    "lessonText": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support.",
+    "paragraphStart": 271,
+    "paragraphEnd": 396,
+    "functions": [
+      [
+        "Subject",
+        "New Guinea villagers "
+      ],
+      [
+        "Predicate",
+        "live out "
+      ],
+      [
+        "Object",
+        "their lives "
+      ],
+      [
+        "Subordinator",
+        "where "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "were born, "
+      ],
+      [
+        "Participial supplement",
+        "constantly surrounded by lifelong friends and social support."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 125,
+        "anchorEnd": 0,
+        "text": "New Guinea villagers live out their lives where they were born, constantly surrounded by lifelong friends and social support."
+      },
+      {
+        "kind": "place",
+        "start": 42,
+        "end": 64,
+        "anchorEnd": 47,
+        "text": "where they were born, "
+      }
+    ],
+    "notes": [
+      "where 引导地点从句，修饰 live out；不是凭空为 where 增加前面的地点名词。surrounded 的逻辑主语是 villagers，表示被朋友和支持环绕。",
+      "where they were born 是 Place clause，沿用第 10 篇地点从句配色；were born 为从句被动谓语，surrounded 为非谓语补充。"
+    ],
+    "predicates": [
+      {
+        "start": 21,
+        "end": 29,
+        "text": "live out",
+        "role": "main"
+      },
+      {
+        "start": 53,
+        "end": 62,
+        "text": "were born",
+        "role": "sub"
+      }
+    ]
+  },
+  "36": {
+    "text": "A first reaction of many lonely, urban Americans is: How heartwarmingly wonderful!",
+    "lessonText": "A first reaction of many lonely, urban Americans is: How heartwarmingly wonderful!",
+    "paragraphStart": 0,
+    "paragraphEnd": 82,
+    "functions": [
+      [
+        "Subject",
+        "A first reaction of many lonely, urban Americans "
+      ],
+      [
+        "Linking verb",
+        "is: "
+      ],
+      [
+        "Exclamative marker",
+        "How "
+      ],
+      [
+        "Adverbial",
+        "heartwarmingly "
+      ],
+      [
+        "Elliptical predicative",
+        "wonderful!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 82,
+        "anchorEnd": 0,
+        "text": "A first reaction of many lonely, urban Americans is: How heartwarmingly wonderful!"
+      },
+      {
+        "kind": "exclamative",
+        "start": 53,
+        "end": 82,
+        "anchorEnd": 56,
+        "text": "How heartwarmingly wonderful!",
+        "restoration": "that is"
+      }
+    ],
+    "notes": [
+      "冒号引出感叹内容；How + 副词 heartwarmingly + 形容词 wonderful，不是 how 问句。可补 that is，但原文没有写，不能把省略成分冒充原句。",
+      "引述的 How heartwarmingly wonderful! 标为 Exclamative fragment；that is 只作为省略提示，正文中没有新增谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 49,
+        "end": 51,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "37": {
+    "text": "When New Guinea villagers move to cities, they find themselves surrounded by strangers, their friends few or recent or scattered across the city.",
+    "lessonText": "When New Guinea villagers move to cities, they find themselves surrounded by strangers, their friends few or recent or scattered across the city.",
+    "paragraphStart": 83,
+    "paragraphEnd": 228,
+    "functions": [
+      [
+        "Subordinator",
+        "When "
+      ],
+      [
+        "Subject",
+        "New Guinea villagers "
+      ],
+      [
+        "Predicate",
+        "move "
+      ],
+      [
+        "Adverbial",
+        "to cities, "
+      ],
+      [
+        "Subject",
+        "they "
+      ],
+      [
+        "Predicate",
+        "find "
+      ],
+      [
+        "Object",
+        "themselves "
+      ],
+      [
+        "Object complement",
+        "surrounded by strangers, "
+      ],
+      [
+        "Subject",
+        "their friends "
+      ],
+      [
+        "Predicative",
+        "few or recent or scattered across the city."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 145,
+        "anchorEnd": 0,
+        "text": "When New Guinea villagers move to cities, they find themselves surrounded by strangers, their friends few or recent or scattered across the city."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 4,
+        "text": "When New Guinea villagers move to cities, "
+      },
+      {
+        "kind": "absolute",
+        "start": 88,
+        "end": 145,
+        "anchorEnd": 101,
+        "text": "their friends few or recent or scattered across the city.",
+        "restoration": "being"
+      }
+    ],
+    "notes": [
+      "find + 宾语 + 过去分词补足语：他们发现自己被陌生人包围。their friends 后是无动词的独立补充结构，可理解为 friends being …，不属于随意用逗号连接完整主句。recent 指新结识，不指朋友年纪小。",
+      "When 从句止于 cities；their friends… 是独立补充结构，不是另一个限定主句。surrounded 属于 find 的宾语补足语。"
+    ],
+    "predicates": [
+      {
+        "start": 26,
+        "end": 30,
+        "text": "move",
+        "role": "sub"
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "find",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.",
+    "lessonText": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime.",
+    "paragraphStart": 229,
+    "paragraphEnd": 333,
+    "functions": [
+      [
+        "Subject",
+        "The frequent results "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "unhappy isolation, "
+      ],
+      [
+        "Predicative",
+        "decline of social support, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicative",
+        "proliferation of urban crime."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 104,
+        "anchorEnd": 0,
+        "text": "The frequent results are unhappy isolation, decline of social support, and proliferation of urban crime."
+      }
+    ],
+    "notes": [
+      "results 为复数，are 后三个名词短语并列表语。frequent 表常见，不能改写为所有迁居者都会孤立或犯罪。"
+    ],
+    "predicates": [
+      {
+        "start": 21,
+        "end": 24,
+        "text": "are",
+        "role": "main"
+      }
+    ]
+  },
+  "39": {
+    "text": "Still, we American city dwellers shouldn't romanticize traditional village living arrangements.",
+    "lessonText": "Still, we American city dwellers shouldn't romanticize traditional village living arrangements.",
+    "paragraphStart": 0,
+    "paragraphEnd": 95,
+    "functions": [
+      [
+        "Adverbial",
+        "Still, "
+      ],
+      [
+        "Subject",
+        "we "
+      ],
+      [
+        "Apposition",
+        "American city dwellers "
+      ],
+      [
+        "Predicate",
+        "shouldn't romanticize "
+      ],
+      [
+        "Object",
+        "traditional village living arrangements."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 95,
+        "anchorEnd": 0,
+        "text": "Still, we American city dwellers shouldn't romanticize traditional village living arrangements."
+      }
+    ],
+    "notes": [
+      "Still 在句首表示尽管如此，不是“仍然保持不动”。American city dwellers 与 we 同指，不是另一个主语；romanticize 为及物动词。"
+    ],
+    "predicates": [
+      {
+        "start": 33,
+        "end": 54,
+        "text": "shouldn't romanticize",
+        "role": "main"
+      }
+    ]
+  },
+  "40": {
+    "text": "My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential.",
+    "lessonText": "My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential.",
+    "paragraphStart": 96,
+    "paragraphEnd": 241,
+    "functions": [
+      [
+        "Subject",
+        "My New Guinea friends "
+      ],
+      [
+        "Predicate",
+        "tell "
+      ],
+      [
+        "Indirect object",
+        "me "
+      ],
+      [
+        "Complementizer",
+        "that "
+      ],
+      [
+        "Subject",
+        "those arrangements "
+      ],
+      [
+        "Linking verb",
+        "are "
+      ],
+      [
+        "Predicative",
+        "also socially suffocating, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "limit "
+      ],
+      [
+        "Object",
+        "individuals' abilities "
+      ],
+      [
+        "Infinitival modifier",
+        "to realize their potential."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 145,
+        "anchorEnd": 0,
+        "text": "My New Guinea friends tell me that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential."
+      },
+      {
+        "kind": "object",
+        "start": 30,
+        "end": 145,
+        "anchorEnd": 34,
+        "text": "that those arrangements are also socially suffocating, and limit individuals' abilities to realize their potential."
+      }
+    ],
+    "notes": [
+      "are 与 limit 都在 that 从句内部，共用 those arrangements；不能让 limit 接回 friends。limit 表限制，不等于彻底阻止或令潜能完全无法实现。",
+      "are 和 limit 均属于 that 宾语从句；suffocating 沿用形容词性表语分析，不另计进行时谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 22,
+        "end": 26,
+        "text": "tell",
+        "role": "main"
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "are",
+        "role": "sub"
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "text": "limit",
+        "role": "sub"
+      }
+    ]
+  },
+  "41": {
+    "text": "In New Guinea villages, everybody knows, constantly watches, and incessantly discusses what everybody else is doing.",
+    "lessonText": "In New Guinea villages, everybody knows, constantly watches, and incessantly discusses what everybody else is doing.",
+    "paragraphStart": 242,
+    "paragraphEnd": 358,
+    "functions": [
+      [
+        "Adverbial",
+        "In New Guinea villages, "
+      ],
+      [
+        "Subject",
+        "everybody "
+      ],
+      [
+        "Predicate",
+        "knows, "
+      ],
+      [
+        "Adverbial",
+        "constantly "
+      ],
+      [
+        "Predicate",
+        "watches, "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "incessantly "
+      ],
+      [
+        "Predicate",
+        "discusses "
+      ],
+      [
+        "Interrogative pronoun / Object",
+        "what "
+      ],
+      [
+        "Subject",
+        "everybody else "
+      ],
+      [
+        "Predicate",
+        "is doing."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 116,
+        "anchorEnd": 0,
+        "text": "In New Guinea villages, everybody knows, constantly watches, and incessantly discusses what everybody else is doing."
+      },
+      {
+        "kind": "object",
+        "start": 87,
+        "end": 116,
+        "anchorEnd": 91,
+        "text": "what everybody else is doing."
+      }
+    ],
+    "notes": [
+      "三个谓语共用 everybody，均用单数形式；what 从句整体提供他们知道、观察、谈论的内容。what 在从句内作 doing 的宾语；没有外部先行词，不要分析成修饰 everybody 的普通定语从句。"
+    ],
+    "predicates": [
+      {
+        "start": 34,
+        "end": 39,
+        "text": "knows",
+        "role": "main"
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "text": "watches",
+        "role": "main"
+      },
+      {
+        "start": 77,
+        "end": 86,
+        "text": "discusses",
+        "role": "main"
+      },
+      {
+        "start": 107,
+        "end": 115,
+        "text": "is doing",
+        "role": "sub"
+      }
+    ]
+  },
+  "42": {
+    "text": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
+    "lessonText": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles.",
+    "paragraphStart": 0,
+    "paragraphEnd": 286,
+    "functions": [
+      [
+        "Adverbial",
+        "As a result, "
+      ],
+      [
+        "Head of subject",
+        "a New Guinea friend "
+      ],
+      [
+        "Relative pronoun",
+        "who "
+      ],
+      [
+        "Predicate",
+        "spent "
+      ],
+      [
+        "Object",
+        "years "
+      ],
+      [
+        "Gerund-participial complement",
+        "living in a U.S. city "
+      ],
+      [
+        "Predicate",
+        "loved "
+      ],
+      [
+        "Object",
+        "it—"
+      ],
+      [
+        "Subordinator",
+        "because "
+      ],
+      [
+        "Subordinator",
+        "(as "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "told "
+      ],
+      [
+        "Object",
+        "me) "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "could sit "
+      ],
+      [
+        "Adverbial",
+        "alone "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "read "
+      ],
+      [
+        "Object",
+        "a newspaper "
+      ],
+      [
+        "Adverbial",
+        "in peaceful anonymity "
+      ],
+      [
+        "Adverbial",
+        "in a sidewalk café, "
+      ],
+      [
+        "Complement",
+        "without being importuned "
+      ],
+      [
+        "Agent phrase",
+        "by fellow clan members "
+      ],
+      [
+        "Participial modifier",
+        "asking her for money "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Participial modifier",
+        "bewailing their troubles."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 286,
+        "anchorEnd": 0,
+        "text": "As a result, a New Guinea friend who spent years living in a U.S. city loved it—because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles."
+      },
+      {
+        "kind": "relative",
+        "start": 33,
+        "end": 71,
+        "anchorEnd": 36,
+        "text": "who spent years living in a U.S. city ",
+        "antecedent": "a New Guinea friend"
+      },
+      {
+        "kind": "reason",
+        "start": 80,
+        "end": 286,
+        "anchorEnd": 87,
+        "text": "because (as she told me) she could sit alone and read a newspaper in peaceful anonymity in a sidewalk café, without being importuned by fellow clan members asking her for money and bewailing their troubles."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 88,
+        "end": 105,
+        "anchorEnd": 91,
+        "text": "(as she told me) "
+      }
+    ],
+    "notes": [
+      "主干 friend loved it；who 从句不要读到 loved 里面。could 同时管 sit 与 read。without 后是被动 -ing，she 是被纠缠者；asking / bewailing 描写 clan members，不是 she。",
+      "who 从句止于 city；because 包含 as she told me 插入评注，评注用 Parenthetical comment 和既有绿色；told 是评注从句谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 37,
+        "end": 42,
+        "text": "spent",
+        "role": "sub"
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "text": "loved",
+        "role": "main"
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "text": "told",
+        "role": "sub"
+      },
+      {
+        "start": 109,
+        "end": 118,
+        "text": "could sit",
+        "role": "sub"
+      },
+      {
+        "start": 129,
+        "end": 133,
+        "text": "read",
+        "role": "sub"
+      }
+    ]
+  },
+  "43": {
+    "text": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
+    "lessonText": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment.",
+    "paragraphStart": 287,
+    "paragraphEnd": 542,
+    "functions": [
+      [
+        "Subject",
+        "New Guineans "
+      ],
+      [
+        "Predicate",
+        "have learned "
+      ],
+      [
+        "Infinitival complement",
+        "to appreciate the modern urban inventions of opaque bags and trouser pockets—"
+      ],
+      [
+        "Subordinator",
+        "because "
+      ],
+      [
+        "Subject",
+        "those inventions "
+      ],
+      [
+        "Predicate",
+        "permit "
+      ],
+      [
+        "Object",
+        "them "
+      ],
+      [
+        "Object complement",
+        "to conceal things from neighbors "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Adverbial",
+        "thereby "
+      ],
+      [
+        "Object complement",
+        "to acquire small luxuries "
+      ],
+      [
+        "Complement",
+        "without becoming targets of village comment."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 255,
+        "anchorEnd": 0,
+        "text": "New Guineans have learned to appreciate the modern urban inventions of opaque bags and trouser pockets—because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment."
+      },
+      {
+        "kind": "reason",
+        "start": 103,
+        "end": 255,
+        "anchorEnd": 110,
+        "text": "because those inventions permit them to conceal things from neighbors and thereby to acquire small luxuries without becoming targets of village comment."
+      }
+    ],
+    "notes": [
+      "permit + 人 + to do；to conceal 与 to acquire 并列，thereby 插在第二个不定式前表由此。without becoming 的隐含主语仍是 them；small luxuries 指小小的额外享受，不必是昂贵奢侈品。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 25,
+        "text": "have learned",
+        "role": "main"
+      },
+      {
+        "start": 128,
+        "end": 134,
+        "text": "permit",
+        "role": "sub"
+      }
+    ]
+  },
+  "44": {
+    "text": "Thus, New Guineans recognize drawbacks as well as heartwarming benefits of village life.",
+    "lessonText": "Thus, New Guineans recognize drawbacks as well as heartwarming benefits of village life.",
+    "paragraphStart": 543,
+    "paragraphEnd": 631,
+    "functions": [
+      [
+        "Adverbial",
+        "Thus, "
+      ],
+      [
+        "Subject",
+        "New Guineans "
+      ],
+      [
+        "Predicate",
+        "recognize "
+      ],
+      [
+        "Object",
+        "drawbacks "
+      ],
+      [
+        "Supplement",
+        "as well as heartwarming benefits of village life."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 88,
+        "anchorEnd": 0,
+        "text": "Thus, New Guineans recognize drawbacks as well as heartwarming benefits of village life."
+      }
+    ],
+    "notes": [
+      "as well as 表“也、还有”，同时肯定缺点与好处。village life 在语义上是两者共同的来源，不是只修饰缺点或只否定温情。"
+    ],
+    "predicates": [
+      {
+        "start": 19,
+        "end": 28,
+        "text": "recognize",
+        "role": "main"
+      }
+    ]
+  },
+  "45": {
+    "text": "They also understand the benefits, not just the pains, of urban anonymity.",
+    "lessonText": "They also understand the benefits, not just the pains, of urban anonymity.",
+    "paragraphStart": 632,
+    "paragraphEnd": 706,
+    "functions": [
+      [
+        "Subject",
+        "They "
+      ],
+      [
+        "Adverbial",
+        "also "
+      ],
+      [
+        "Predicate",
+        "understand "
+      ],
+      [
+        "Object",
+        "the benefits, "
+      ],
+      [
+        "Parenthetical comment",
+        "not just the pains, "
+      ],
+      [
+        "Modifier",
+        "of urban anonymity."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "They also understand the benefits, not just the pains, of urban anonymity."
+      }
+    ],
+    "notes": [
+      "of urban anonymity 对 benefits 和 pains 都适用；not just … 增加另一面，不能理解为否认匿名生活有痛苦。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 20,
+        "text": "understand",
+        "role": "main"
+      }
+    ]
+  },
+  "46": {
+    "text": "It all comes down to compromises.",
+    "lessonText": "It all comes down to compromises.",
+    "paragraphStart": 0,
+    "paragraphEnd": 33,
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Adverbial",
+        "all "
+      ],
+      [
+        "Predicate",
+        "comes down "
+      ],
+      [
+        "Complement",
+        "to compromises."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 33,
+        "anchorEnd": 0,
+        "text": "It all comes down to compromises."
+      }
+    ],
+    "notes": [
+      "come down to 是固定表达，表示归结为；to 为介词，接名词或 doing。compromises 不一定是贬义的软弱退让。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 17,
+        "text": "comes down",
+        "role": "main"
+      }
+    ]
+  },
+  "47": {
+    "text": "As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?",
+    "lessonText": "As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?",
+    "paragraphStart": 34,
+    "paragraphEnd": 139,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Subject",
+        "the world "
+      ],
+      [
+        "Linking verb",
+        "becomes "
+      ],
+      [
+        "Predicative",
+        "increasingly urban, "
+      ],
+      [
+        "Auxiliary verb",
+        "will "
+      ],
+      [
+        "Subject",
+        "all of us "
+      ],
+      [
+        "Predicate",
+        "be forced "
+      ],
+      [
+        "Infinitival complement",
+        "to adopt more of Singapore's solutions?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 105,
+        "anchorEnd": 0,
+        "text": "As the world becomes increasingly urban, will all of us be forced to adopt more of Singapore's solutions?"
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 41,
+        "anchorEnd": 2,
+        "text": "As the world becomes increasingly urban, "
+      }
+    ],
+    "notes": [
+      "As 表随着变化，不宜机械换成 because。主句因提问将 will 放到主语前；be forced to do 是被动结构。作者提出问题，没有在此宣布所有地方必然采用相同措施。",
+      "主句将 will 和 be forced 分段标为主句谓语链；As 从句中的 becomes 用从句谓语色，to adopt 为不定式。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 20,
+        "text": "becomes",
+        "role": "sub"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "will",
+        "role": "main"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "text": "be forced",
+        "role": "main"
+      }
+    ]
+  },
+  "48": {
+    "text": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?",
+    "lessonText": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?",
+    "paragraphStart": 140,
+    "paragraphEnd": 335,
+    "functions": [
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Subject",
+        "a government meter "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "records "
+      ],
+      [
+        "Object",
+        "every flushing of your toilet "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "part of the price "
+      ],
+      [
+        "Subject",
+        "you"
+      ],
+      [
+        "Predicate",
+        "'d have to pay "
+      ],
+      [
+        "Adverbial",
+        "for living in safety, health, affluence, and beautiful surroundings, "
+      ],
+      [
+        "Interrogative object",
+        "what "
+      ],
+      [
+        "Auxiliary verb",
+        "would "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "choose?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 195,
+        "anchorEnd": 0,
+        "text": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, what would you choose?"
+      },
+      {
+        "kind": "condition",
+        "start": 0,
+        "end": 173,
+        "anchorEnd": 2,
+        "text": "If a government meter that records every flushing of your toilet is part of the price you'd have to pay for living in safety, health, affluence, and beautiful surroundings, "
+      },
+      {
+        "kind": "relative",
+        "start": 22,
+        "end": 65,
+        "anchorEnd": 26,
+        "text": "that records every flushing of your toilet ",
+        "antecedent": "a government meter"
+      },
+      {
+        "kind": "relative",
+        "start": 86,
+        "end": 173,
+        "anchorEnd": 89,
+        "text": "you'd have to pay for living in safety, health, affluence, and beautiful surroundings, ",
+        "antecedent": "the price",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "先找外层 if … is … 与 what would you choose，再拆两个名词内的定语从句。you'd = you would，后面 have to 是原形；price 是 pay 的省略关系宾语。if 现在时配 would 问句可作开放设问加试探性的假设选择，不应机械判为时态错误或过去反事实。",
+      "两个关系从句均嵌套在 If 条件从句中；外层问句的 would 与 choose 为主句谓语链，零关系词 that 仅作省略提示。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 34,
+        "text": "records",
+        "role": "sub"
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": "is",
+        "role": "sub"
+      },
+      {
+        "start": 89,
+        "end": 103,
+        "text": "'d have to pay",
+        "role": "sub"
+      },
+      {
+        "start": 178,
+        "end": 183,
+        "text": "would",
+        "role": "main"
+      },
+      {
+        "start": 188,
+        "end": 194,
+        "text": "choose",
+        "role": "main"
+      }
+    ]
+  }
+}

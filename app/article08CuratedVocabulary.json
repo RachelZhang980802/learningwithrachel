@@ -1,0 +1,2902 @@
+{
+  "08": {
+    "1": {
+      "word": "foodie",
+      "sourceRow": 1,
+      "english": "someone keenly interested in food",
+      "chinese": "美食爱好者",
+      "collocations": [
+        "a keen foodie 热衷美食的人",
+        "a foodie destination 美食旅行目的地",
+        "a foodie blog 美食博客"
+      ],
+      "compare": [
+        "foodie：喜欢探索食物，不必具备专业资格",
+        "gourmet：强调精细饮食与鉴赏品味",
+        "glutton：贪吃的人，重点是吃得过量"
+      ],
+      "usage": "本词出现在标题，词汇卡安排在开篇；不是“厨师”的同义词。也拼 foody。",
+      "ipa": "/ˈfuːdi/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The Guide to Being a Foodie Without Being Culturally Appropriative",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "having or showing great interest in cooking and eating different kinds of food",
+          "chinese": "美食家",
+          "exampleEnglish": "a foodie blog",
+          "exampleChinese": "美食博客"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "foodie 出现在本文标题，以下语境义对应标题中的名词用法。"
+    },
+    "3": {
+      "word": "bizarre",
+      "sourceRow": 3,
+      "english": "very unusual and strange",
+      "chinese": "怪异的；离奇的",
+      "collocations": [
+        "bizarre behaviour 怪异行为",
+        "a bizarre situation 离奇的情况",
+        "a bizarre combination 古怪的组合"
+      ],
+      "compare": [
+        "bizarre：明显违反通常预期，令人诧异",
+        "strange：一般的陌生或不寻常",
+        "exotic：因外来背景而显得新奇，不必离奇"
+      ],
+      "usage": "原文加引号，标出媒体给食材贴的标签；不是作者承认自己的食物本质怪异。bizarre 不一定令人恐惧，也不能只按强弱解释与 exotic 的差别。",
+      "ipa": "/bɪˈzɑː/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+      "dictionaryExample": {
+        "english": "a bizarre situation/incident/story",
+        "chinese": "稀奇古怪的局势／事件／故事",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "4": {
+      "word": "exotic",
+      "sourceRow": 4,
+      "english": "unusual or appealing because it seems to come from far away",
+      "chinese": "异域的；有异国情调的",
+      "collocations": [
+        "exotic food 异域食物",
+        "exotic plants 外来奇异植物",
+        "an exotic destination 有异域情调的目的地"
+      ],
+      "compare": [
+        "exotic：突出外来、异域的新奇感",
+        "foreign：来自别国，较客观",
+        "unfamiliar：对观察者不熟悉，不必来自国外"
+      ],
+      "usage": "形容人或整种文化时可能把对方当作“异类”，要看语境。本文引号批评这种观看方式；不要把 exotic 当“低级”或“不卫生”。",
+      "ipa": "/ɪɡˈzɒtɪk/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+      "dictionaryExample": {
+        "english": "brightly-coloured exotic flowers/plants/birds",
+        "chinese": "色彩鲜艳的异国花卉／植物／鸟儿",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "5": {
+      "word": "ingredient",
+      "sourceRow": 5,
+      "english": "one of the materials used in making a dish",
+      "chinese": "食材；配料",
+      "collocations": [
+        "fresh ingredients 新鲜食材",
+        "the main ingredient 主要配料",
+        "an ingredient in success 成功的一个要素"
+      ],
+      "compare": [
+        "ingredient：做菜、配制时投入的材料",
+        "dish：烹调后的菜",
+        "component：设备或整体的构成部分，不专指食物"
+      ],
+      "usage": "可数；a list of ingredients。ingredient、cuisine、dish 分别是材料、菜系和菜品，不宜都译为“食物”。",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+      "dictionaryExample": {
+        "english": "Mix all the ingredients in a bowl.",
+        "chinese": "将原料放在盆里调匀。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a quality necessary for success",
+          "chinese": "成功所需的要素；因素",
+          "exampleEnglish": "It has all the ingredients of a good mystery story.",
+          "exampleChinese": "它具备一个好的悬疑小说的所有要素。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "45": {
+      "word": "be associated with",
+      "sourceRow": 45,
+      "english": "to be connected with something",
+      "chinese": "与……有关；与……联系在一起",
+      "collocations": [
+        "be associated with a culture 与某种文化相关",
+        "risks associated with smoking 与吸烟有关的风险"
+      ],
+      "compare": [
+        "be associated with 强调关联；be caused by 明确主张因果。"
+      ],
+      "usage": "原句 it 指被称为“怪异”的食材；associated with 后接名词或 -ing，并不单凭关联推出因果。",
+      "ipa": "/əˈsəʊsieɪtɪd/, /əˈsəʊʃieɪtɪd/",
+      "partOfSpeech": "adjective phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+      "dictionaryExample": {
+        "english": "The conference will address the broad issues associated with E-commerce.",
+        "chinese": "会议将讨论与电子商务相关的广泛问题。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "associated with something if a person is associated with an organization, etc. they support it",
+          "chinese": "有联系的",
+          "exampleEnglish": "He no longer wished to be associated with the party's policy on education.",
+          "exampleChinese": "他不再愿意认同该党的教育方针。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+    },
+    "6": {
+      "word": "stinky",
+      "sourceRow": 6,
+      "english": "having a strong unpleasant smell",
+      "chinese": "臭的；有难闻气味的",
+      "collocations": [
+        "stinky tofu 臭豆腐",
+        "stinky cheese 气味浓烈的奶酪",
+        "stinky socks 臭袜子"
+      ],
+      "compare": [
+        "stinky：口语化、直接说臭",
+        "smelly：一般说气味难闻",
+        "pungent：气味或味道强烈刺鼻，不一定难闻"
+      ],
+      "usage": "stinky tofu 是常见食物名称；有强烈气味不等于腐败变质。stink–stank/stunk–stunk。",
+      "ipa": "/ˈstɪŋki/",
+      "partOfSpeech": "adj.，口语",
+      "oxfordExcerptProvided": true,
+      "articleExample": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
+      "dictionaryExample": {
+        "english": "extremely unpleasant or bad",
+        "chinese": "令人厌恶的；糟糕透顶的",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "7": {
+      "word": "spectacle / make a spectacle out of",
+      "sourceRow": 7,
+      "english": "a striking public sight that attracts attention",
+      "chinese": "引人注目的场面；本文为被炒作的猎奇看点",
+      "collocations": [
+        "make a spectacle out of something 把某事变成公众看点",
+        "a public spectacle 公众瞩目的场面",
+        "make a spectacle of oneself 当众出丑"
+      ],
+      "compare": [
+        "spectacle：重在吸引围观，可褒可贬",
+        "show：展示或表演的一般名称",
+        "scandal：引起公愤的丑闻，不只是吸睛"
+      ],
+      "usage": "本文 make a spectacle out of 是用常见 make … out of … 构成的批评性表达。眼镜义是复数 spectacles，不是单数 a spectacle。",
+      "ipa": "/ˈspektəkəl/",
+      "partOfSpeech": "noun / verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
+      "dictionaryExample": {
+        "english": "I remember the sad spectacle of her standing in her wedding dress, covered in mud.",
+        "chinese": "我记得她穿着婚纱、满身泥污站在那儿的凄惨样。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a performance or an event that is very impressive and exciting to look at",
+          "chinese": "精彩的表演；壮观的场面",
+          "exampleEnglish": "The carnival parade was a magnificent spectacle.",
+          "exampleChinese": "狂欢节游行场面热烈，蔚为大观。"
+        },
+        {
+          "english": "a sight or view that is very impressive to look at",
+          "chinese": "壮观的景象",
+          "exampleEnglish": "The sunset was a stunning spectacle.",
+          "exampleChinese": "夕阳西斜，异常壮观。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "摘录提供 spectacle 的名词义，未单列 make a spectacle out of；整句的“把……当猎奇看点”按原文整理。"
+    },
+    "46": {
+      "word": "seemingly",
+      "sourceRow": 46,
+      "english": "apparently, though the impression may be misleading",
+      "chinese": "看似；貌似",
+      "collocations": [
+        "seemingly exotic places 看似异域的地方",
+        "a seemingly simple question 看似简单的问题"
+      ],
+      "compare": [
+        "seemingly 留有“实际未必如此”的余地；clearly 表示判断明确。"
+      ],
+      "usage": "修饰 exotic，提醒读者“异域”是媒体的观看方式，不是地点本身的属性。",
+      "ipa": "/ˈsiːmɪŋli/",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
+      "dictionaryExample": {
+        "english": "a seemingly stupid question",
+        "chinese": "看似愚蠢的问题",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "according to what you have read or heard",
+          "chinese": "据说；听说；看来",
+          "exampleEnglish": "Seemingly, he borrowed the money from the bank.",
+          "exampleChinese": "据说，他从银行贷出了那笔钱。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "48": {
+      "word": "chef",
+      "sourceRow": 48,
+      "english": "a person whose job is to cook, especially in a restaurant",
+      "chinese": "厨师；主厨",
+      "collocations": [
+        "White chefs 白人厨师",
+        "a head chef 主厨"
+      ],
+      "compare": [
+        "chef 是职业厨师；cook 也可指任何做饭的人。"
+      ],
+      "usage": "原句的 White chefs 是作者论述文化权力关系时指出的群体，大小写照录原文。",
+      "ipa": "/ʃef/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
+      "dictionaryExample": {
+        "english": "a new book by celebrity chef Jamie Oliver",
+        "chinese": "名厨杰米・奥利弗的新书",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "8": {
+      "word": "fusion",
+      "sourceRow": 8,
+      "english": "the joining of different things into one",
+      "chinese": "融合；本文为跨菜系混合",
+      "collocations": [
+        "fusion cuisine 融合料理",
+        "a fusion of styles 风格融合",
+        "Asian-fusion restaurants 亚洲融合菜餐厅"
+      ],
+      "compare": [
+        "fusion：多种元素结合成新形式",
+        "mixture：混合物，元素可以保持分离",
+        "assimilation：一方逐渐融入另一方，可能失去差异"
+      ],
+      "usage": "Asian-fusion 是修饰语，不是覆盖全亚洲的单一传统菜系。作者批评忽略差异的包装，不等于所有融合菜都错。",
+      "ipa": "/ˈfjuːʒən/",
+      "partOfSpeech": "n. [U；具体组合也可 C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+      "dictionaryExample": {
+        "english": "French–Thai fusion",
+        "chinese": "法泰式混合烹饪",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "fusion (of A and B) the process or result of joining two or more things together to form one",
+          "chinese": "融合；熔接；结合",
+          "exampleEnglish": "the fusion of copper and zinc to produce brass",
+          "exampleChinese": "铜与锌熔合成黄铜"
+        },
+        {
+          "english": "music that is a mixture of different styles, especially jazz and rock",
+          "chinese": "合成音乐，混合音乐（尤指爵士乐和摇滚乐）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "47": {
+      "word": "themed",
+      "sourceRow": 47,
+      "english": "organized around a particular theme",
+      "chinese": "以某种主题设计的",
+      "collocations": [
+        "themed restaurants 主题餐馆",
+        "a themed event 主题活动"
+      ],
+      "compare": [
+        "themed 强调围绕主题设计；traditional 强调传承。"
+      ],
+      "usage": "在 Asian-fusion themed restaurants 中修饰 restaurants；连字符复合修饰语宜整体理解。",
+      "ipa": "/θiːmd/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+      "dictionaryExample": {
+        "english": "a themed restaurant",
+        "chinese": "以特定主题装饰的餐馆",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "49": {
+      "word": "diverse",
+      "sourceRow": 49,
+      "english": "including many different kinds",
+      "chinese": "多种多样的",
+      "collocations": [
+        "a diverse continent 多样的大陆",
+        "diverse cultures 多元文化"
+      ],
+      "compare": [
+        "diverse 强调内部种类多；different 仅表示有差异。"
+      ],
+      "usage": "原句强调亚洲内部的丰富差异，因此不能把多种菜系概括成一种统一风味。",
+      "ipa": "/daɪˈvɜːrs/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+      "dictionaryExample": {
+        "english": "People from diverse cultures were invited to the event.",
+        "chinese": "不同文化背景的人获邀参加这次活动。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "50": {
+      "word": "continent",
+      "sourceRow": 50,
+      "english": "one of the world's large land masses",
+      "chinese": "洲；大陆",
+      "collocations": [
+        "the continent of Asia 亚洲大陆",
+        "across the continent 遍及该洲"
+      ],
+      "compare": [
+        "continent 是大洲；country 是国家。"
+      ],
+      "usage": "Asia 是一个 continent，不是单一国家或菜系。",
+      "ipa": "/ˈkɑːntɪnənt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When going out to eat, I notice many \"Asian-fusion\" themed restaurants where chefs combine all tastes in the vast and diverse continent of Asia and throw them together on both plate and menu.",
+      "dictionaryExample": {
+        "english": "the continent of Africa",
+        "chinese": "非洲大陆",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "able to control bodily functions or desires (formal adjective)",
+          "chinese": "能控制排泄或欲望的（较正式的形容词）"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "51": {
+      "word": "sinking",
+      "sourceRow": 51,
+      "english": "causing an unpleasant sense that something bad is likely",
+      "chinese": "令人心里一沉的；不祥的",
+      "collocations": [
+        "a sinking suspicion 不祥的预感",
+        "a sinking feeling 心里一沉的感觉"
+      ],
+      "compare": [
+        "sinking suspicion 是不安的预感；certainty 表示确定。"
+      ],
+      "usage": "原句 a sinking suspicion 引出作者对“改造版”寿司的怀疑，并非真的下沉。",
+      "ipa": "/ˈsɪŋkɪŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+      "dictionaryExample": {
+        "english": "I had a horrible sinking feeling when I saw the ambulance outside the house.",
+        "chinese": "当我看到房子外面的救护车时，我有一种可怕的下沉感。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to go down below the surface or towards the bottom of a liquid or soft substance",
+          "chinese": "下沉；下陷；沉没",
+          "exampleEnglish": "The ship sank to the bottom of the sea.",
+          "exampleChinese": "船沉入海底。"
+        },
+        {
+          "english": "to become quieter",
+          "chinese": "变低；变小",
+          "exampleEnglish": "Her voice sank to a whisper.",
+          "exampleChinese": "她的声音变成了耳语。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+    },
+    "9": {
+      "word": "suspicion",
+      "sourceRow": 9,
+      "english": "a feeling that something may be true without firm proof",
+      "chinese": "怀疑；隐约觉得",
+      "collocations": [
+        "have a suspicion that … 怀疑……",
+        "arouse suspicion 引起怀疑",
+        "a sinking suspicion 令人心沉下去的疑虑"
+      ],
+      "compare": [
+        "suspicion：隐约认为某件事可能是真的，也可带不信任",
+        "doubt：不能确信或倾向不信",
+        "evidence：支持判断的事实依据"
+      ],
+      "usage": "a suspicion that 后是说明怀疑内容的从句。sinking 给疑虑加上不安的感受；不可误换成同样常见但含义侧重不同的 sneaking suspicion。",
+      "ipa": "/səˈspɪʃən/",
+      "partOfSpeech": "n. [C/U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+      "dictionaryExample": {
+        "english": "I have a horrible suspicion that we've come to the wrong station.",
+        "chinese": "我感觉不妙，我们可能来错车站了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a feeling that somebody has done something wrong, illegal or dishonest, even though you have no proof",
+          "chinese": "怀疑；嫌疑",
+          "exampleEnglish": "They drove away slowly to avoid arousing suspicion.",
+          "exampleChinese": "他们缓缓驾车离去，以免引起怀疑。"
+        },
+        {
+          "english": "the feeling that you cannot trust somebody/something",
+          "chinese": "猜疑；怀疑；不放心",
+          "exampleEnglish": "Their offer was greeted with some suspicion.",
+          "exampleChinese": "他们的主动热情遭到一些猜疑。"
+        },
+        {
+          "english": "suspicion of something (formal) a small amount of something",
+          "chinese": "少许；一点儿",
+          "exampleEnglish": "His mouth quivered in the suspicion of a smile.",
+          "exampleChinese": "他嘴唇微微一颤，露出一丝笑意。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "10": {
+      "word": "sushi",
+      "sourceRow": 10,
+      "english": "a Japanese rice dish combined with fish or other ingredients",
+      "chinese": "寿司",
+      "collocations": [
+        "make sushi 做寿司",
+        "a piece of sushi 一块寿司",
+        "a sushi roll 寿司卷"
+      ],
+      "compare": [
+        "sushi：以调味米饭配其他食材",
+        "sashimi：生鱼等切片，通常不含寿司米饭",
+        "ramen：日式面食，不是米饭制品"
+      ],
+      "usage": "通常不可数，用 pieces of sushi。寿司不一定有生鱼；原文妈妈用黄瓜、午餐肉和鸡蛋做寿司并不构成词义矛盾。",
+      "ipa": "/ˈsuːʃi/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+      "dictionaryExample": {
+        "english": "a sushi bar/restaurant",
+        "chinese": "寿司吧/餐厅",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "11": {
+      "word": "cucumber",
+      "sourceRow": 11,
+      "english": "a long green vegetable often eaten raw",
+      "chinese": "黄瓜",
+      "collocations": [
+        "slice a cucumber 切黄瓜",
+        "cucumber salad 黄瓜沙拉",
+        "as cool as a cucumber 泰然自若"
+      ],
+      "compare": [
+        "cucumber：黄瓜，常生吃",
+        "courgette：西葫芦，外形相似而食材不同",
+        "pickle：腌制食品，常指腌黄瓜，不是新鲜黄瓜的通称"
+      ],
+      "usage": "一根用 a cucumber；表示切片后作为食材可不可数，如 a cucumber sandwich。as cool as a cucumber 描写镇定，不是体温低。",
+      "ipa": "/ˈkjuːkʌmbə/",
+      "partOfSpeech": "n. [C/U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I have a sinking suspicion it's not like when my mom made me sushi with cucumbers, lunch meat, and eggs.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "12": {
+      "word": "mayonnaise",
+      "sourceRow": 12,
+      "english": "a thick cold sauce usually made from oil, egg yolk, and vinegar or lemon",
+      "chinese": "蛋黄酱；美乃滋",
+      "collocations": [
+        "a spoonful of mayonnaise 一勺蛋黄酱",
+        "spread mayonnaise on toast 在吐司上抹蛋黄酱",
+        "homemade mayonnaise 自制蛋黄酱"
+      ],
+      "compare": [
+        "mayonnaise：一种特定的浓稠冷酱",
+        "dressing：沙拉调味汁的总称",
+        "sauce：酱汁的广义称呼，可冷可热"
+      ],
+      "usage": "不可数；口语常说 mayo。英式重音通常在最后一节 /neɪz/，美式常在首节。",
+      "ipa": "/ˌmeɪəˈneɪz/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Or toast with mayonnaise and pork sung.",
+      "dictionaryExample": {
+        "english": "egg mayonnaise (= a dish made with hard-boiled eggs and mayonnaise)",
+        "chinese": "鸡蛋美奶滋（由煮老的鸡蛋和蛋黄酱制成）",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "52": {
+      "word": "pork sung",
+      "sourceRow": 52,
+      "english": "fluffy seasoned dried pork used as a topping",
+      "chinese": "肉松",
+      "collocations": [
+        "pork sung on toast 吐司上的肉松",
+        "mayonnaise and pork sung 蛋黄酱与肉松"
+      ],
+      "compare": [
+        "pork sung 是食材；pork 是猪肉总称。"
+      ],
+      "usage": "本文的 pork sung 指肉松；粘贴词典未单列这一食品名称。",
+      "ipa": "",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Or toast with mayonnaise and pork sung.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "53": {
+      "word": "make fun of",
+      "sourceRow": 53,
+      "english": "to laugh at someone or something in an unkind way",
+      "chinese": "取笑；嘲弄",
+      "collocations": [
+        "make fun of the food 嘲笑食物",
+        "make fun of somebody's accent 嘲笑某人的口音"
+      ],
+      "compare": [
+        "make fun of 带嘲弄意味；joke with 可以是友善的玩笑。"
+      ],
+      "usage": "make fun of 后直接接对象；过去 used to make fun of 指过去经常这样做。",
+      "ipa": "/meɪk fʌn əv/",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.",
+      "dictionaryExample": {
+        "english": "It's cruel to make fun of people who stammer.",
+        "chinese": "嘲笑口吃的人是很不人道的。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "13": {
+      "word": "Spam",
+      "sourceRow": 13,
+      "english": "a brand of canned meat made mainly from pork",
+      "chinese": "斯帕姆午餐肉；午餐肉罐头",
+      "collocations": [
+        "Spam fried rice 午餐肉炒饭",
+        "Spam musubi 午餐肉饭团",
+        "a tin of Spam 一罐世棒午餐肉"
+      ],
+      "compare": [
+        "Spam：特定品牌",
+        "luncheon meat：午餐肉的通称",
+        "ham：火腿，不等于所有罐装午餐肉"
+      ],
+      "usage": "食品义通常大写，不能把 Spam 直接定义成所有罐头肉。小写 spam 在网络语境是垃圾信息；spammed、spamming 双写 m。",
+      "ipa": "/spæm/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "unsolicited advertising email",
+          "chinese": "垃圾邮件",
+          "exampleEnglish": "I get thousands of spam emails each month.",
+          "exampleChinese": "我每个月都会收到数千封垃圾邮件。"
+        },
+        {
+          "english": "to send unsolicited messages to many internet users",
+          "chinese": "滥发电子信息",
+          "exampleEnglish": "Some companies will keep spamming you until you change your email address.",
+          "exampleChinese": "某些公司会一直向您发送垃圾邮件，直到您更改电子邮件地址为止。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "14": {
+      "word": "hip",
+      "sourceRow": 14,
+      "english": "fashionable and aware of current trends",
+      "chinese": "时髦的；潮的",
+      "collocations": [
+        "a hip restaurant 时髦餐厅",
+        "a hip neighbourhood 时尚街区",
+        "hip young people 潮流青年"
+      ],
+      "compare": [
+        "hip：跟得上潮流，口语",
+        "fashionable：符合时尚，通用",
+        "stylish：外观有格调，不必追逐最新趋势"
+      ],
+      "usage": "本文 a hip new restaurant 中 hip 是形容词；讲义图中 becomes a hip 若想说“变潮了”，应去 a，写 becomes hip。",
+      "ipa": "/hɪp/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "People used to make fun of the food I eat, and now suddenly, stuff like Spam fried rice is selling at a hip new restaurant for $16.",
+      "dictionaryExample": {
+        "english": "He's just trying to be hip!",
+        "chinese": "他只是想变得时髦！",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the area at either side of the body between the top of the leg and the middle part of the body; the joint at the top of the leg that connects it with the top part of the body",
+          "chinese": "臀部；髋",
+          "exampleEnglish": "She stood with her hands on her hips.",
+          "exampleChinese": "她双手叉腰站着。"
+        },
+        {
+          "english": "the red fruit that grows on some types of wild rose bush",
+          "chinese": "野蔷薇果",
+          "exampleEnglish": "to react quickly without thinking carefully first",
+          "exampleChinese": "轻率应对；鲁莽行事；仓促反应"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "15": {
+      "word": "appropriate",
+      "sourceRow": 15,
+      "english": "take something for one's own use, often without permission",
+      "chinese": "挪用；占用；本文为文化挪用",
+      "collocations": [
+        "appropriate cultural symbols 挪用文化符号",
+        "appropriate funds 挪用或拨出资金（看语境）",
+        "appropriate money for a project 为项目拨款"
+      ],
+      "compare": [
+        "appropriate（v.）：把东西拿来为己所用",
+        "borrow：借用，通常认可来源或归还关系",
+        "appreciate：理解、欣赏价值，不等于占用"
+      ],
+      "usage": "动词末尾 /eɪt/，形容词末尾 /ət/，重音均在 /prəʊ/，不是重音位置变化。cultural appropriation 是文化批评概念，不能机械等于任何跨文化饮食或法律盗窃。",
+      "ipa": "v. /əˈprəʊprieɪt/；adj. /əˈprəʊpriət/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's frustrating when my culture gets consumed and appropriated as both trend and tourism.",
+      "dictionaryExample": {
+        "english": "He was accused of appropriating club funds.",
+        "chinese": "他被控盗用俱乐部资金。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "suitable, acceptable or correct for the particular circumstances",
+          "chinese": "合适的；恰当的",
+          "exampleEnglish": "an appropriate response/measure/method",
+          "exampleChinese": "恰如其分的反应；恰当的措施／方法"
+        },
+        {
+          "english": "appropriate something (for something) to take or give something, especially money for a particular purpose",
+          "chinese": "拨（专款等）",
+          "exampleEnglish": "Five million dollars have been appropriated for research into the disease.",
+          "exampleChinese": "已拨款五百万美元用于这种疾病的研究。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "54": {
+      "word": "appropriation",
+      "sourceRow": 54,
+      "english": "the taking of elements from another culture, especially by a dominant group",
+      "chinese": "文化挪用；挪用",
+      "collocations": [
+        "cultural appropriation 文化挪用",
+        "food appropriation 食物文化挪用"
+      ],
+      "compare": [
+        "appropriation 在本文谈文化中的取用；appreciation 是尊重与欣赏。"
+      ],
+      "usage": "原文随后给出作者采用的 cultural appropriation 定义；须结合权力关系和实际语境理解。",
+      "ipa": "/əˌprəʊpriˈeɪʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Yet when it comes to food, what's appropriation and what's not can be tricky to think about.",
+      "dictionaryExample": {
+        "english": "dishonest appropriation of property",
+        "chinese": "以欺骗的手法侵吞财产",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the act of keeping or saving money for a particular purpose",
+          "chinese": "拨（专）款",
+          "exampleEnglish": "a meeting to discuss the appropriation of funds",
+          "exampleChinese": "讨论拨款的会议"
+        },
+        {
+          "english": "money set aside for a particular purpose",
+          "chinese": "专款；拨款",
+          "exampleEnglish": "an appropriation of £20 000 for payment of debts",
+          "exampleChinese": "用于还债的 2 万英镑拨款"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录对 appropriation 给出一般“挪用／占用”义，并提示参见 cultural appropriation；本文的文化含义据原文定义整理。"
+    },
+    "16": {
+      "word": "tricky",
+      "sourceRow": 16,
+      "english": "difficult to handle well without care or skill",
+      "chinese": "棘手的；难处理的",
+      "collocations": [
+        "a tricky question 棘手问题",
+        "a tricky situation 难应付的局面",
+        "tricky to explain 难解释清楚"
+      ],
+      "compare": [
+        "tricky：处理时容易出错，需要技巧",
+        "complex：构成关系复杂",
+        "difficult：泛指有难度，未必有隐藏难点"
+      ],
+      "usage": "something is tricky to think about 中，不定式主动形式与前面的被思考对象呼应，不加重复宾语 it。trickier、trickiest 把 y 改 i。",
+      "ipa": "/ˈtrɪki/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Yet when it comes to food, what's appropriation and what's not can be tricky to think about.",
+      "dictionaryExample": {
+        "english": "a tricky situation",
+        "chinese": "微妙的局势",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "17": {
+      "word": "oppress",
+      "sourceRow": 17,
+      "english": "use power to treat people unfairly and restrict their freedom",
+      "chinese": "压迫；欺压",
+      "collocations": [
+        "oppress a community 压迫一个群体",
+        "an oppressed group 受压迫群体",
+        "fight oppression 反抗压迫"
+      ],
+      "compare": [
+        "oppress：权力关系下的持续不公与限制",
+        "suppress：压制行动、消息或情绪使不出现",
+        "repress：压制群体反抗，或压抑情感"
+      ],
+      "usage": "常用被动 be oppressed；oppressive 描述施加压力的环境，oppressed 描述受压迫者，不要混淆。",
+      "ipa": "/əˈpres/",
+      "partOfSpeech": "v. [T]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Cultural appropriation is when a dominant culture adopts parts of another culture from people that it has oppressed.",
+      "dictionaryExample": {
+        "english": "The regime is accused of oppressing religious minorities.",
+        "chinese": "人们指控这个政权压迫少数宗教群体。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "oppress somebody to make somebody only able to think about things that make them sad or worried",
+          "chinese": "压抑；使窒息；使烦恼",
+          "exampleEnglish": "The gloomy atmosphere in the office oppressed her.",
+          "exampleChinese": "办公室的低沉气氛使她感到郁闷。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "55": {
+      "word": "oppression",
+      "sourceRow": 55,
+      "english": "cruel or unfair treatment that denies people freedom or rights",
+      "chinese": "压迫；欺压",
+      "collocations": [
+        "experience oppression 经历压迫",
+        "systems of oppression 压迫制度"
+      ],
+      "compare": [
+        "oppression 指持续性不公对待；disagreement 只是意见不一。"
+      ],
+      "usage": "without ever having to experience oppression 表示支配群体可以尝试食物而不承受相同处境。",
+      "ipa": "/əˈpreʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The dominant culture can try the food and love the food without ever having to experience oppression.",
+      "dictionaryExample": {
+        "english": "victims of oppression",
+        "chinese": "受压迫者",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "56": {
+      "word": "hand-pulled",
+      "sourceRow": 56,
+      "english": "pulled and stretched by hand",
+      "chinese": "手工拉制的",
+      "collocations": [
+        "hand-pulled noodles 手拉面",
+        "hand-pulled dough 手工拉制的面团"
+      ],
+      "compare": [
+        "hand-pulled 说制作方法；handmade 泛指手工制作。"
+      ],
+      "usage": "复合形容词置于 noodles 前；粘贴词典未单列 hand-pulled。",
+      "ipa": "/ˌhænd ˈpʊld/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "It might not be appropriation if you're white and you love eating dumplings and hand-pulled noodles.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "18": {
+      "word": "fetishize",
+      "sourceRow": 18,
+      "english": "treat something as unreasonably fascinating or important",
+      "chinese": "过度迷恋；把……当作崇拜或猎奇对象",
+      "collocations": [
+        "fetishize a culture 把某文化猎奇化",
+        "fetishize authenticity 过度崇拜正宗性",
+        "fetishize the past 过度迷恋过去"
+      ],
+      "compare": [
+        "fetishize：不成比例地迷恋某个特征或符号",
+        "admire：欣赏优点，不必失去整体认识",
+        "objectify：把人当物，忽视其主体性"
+      ],
+      "usage": "英式也写 fetishise。本文为非性意味的文化批评；不要机械译成“性癖化”，也不是所有喜欢某种食物都等于 fetishize。",
+      "ipa": "/ˈfetɪʃaɪz/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "fetishize something to get sexual pleasure from thinking about or looking at a particular thing",
+          "chinese": "对…有恋物癖"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "57": {
+      "word": "commercialize",
+      "sourceRow": 57,
+      "english": "to turn something into a product or use it mainly to make money",
+      "chinese": "使商业化；利用……牟利",
+      "collocations": [
+        "commercialize food 使食物商业化",
+        "commercialize a tradition 将传统商业化"
+      ],
+      "compare": [
+        "commercialize 强调转为营利活动；popularize 只强调传播。"
+      ],
+      "usage": "与 fetishize 并列，指支配群体利用他人的饮食文化牟利。",
+      "ipa": "/kəˈmɜːrʃəlaɪz/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.",
+      "dictionaryExample": {
+        "english": "be/become commercialized Their music has become very commercialized in recent years.",
+        "chinese": "他们的音乐近几年非常商业化了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "19": {
+      "word": "hoard",
+      "sourceRow": 19,
+      "english": "accumulate and keep something for oneself",
+      "chinese": "囤积；据为己有",
+      "collocations": [
+        "hoard food 囤积食物",
+        "hoard wealth 聚敛财富",
+        "a hoard of coins 一批珍藏硬币"
+      ],
+      "compare": [
+        "hoard：收存并留给自己，常带过量或不分享意味",
+        "store：一般储存",
+        "stockpile：为未来需要大量储备，不必是个人私藏"
+      ],
+      "usage": "hoard access 是本文的比喻性组合，指把持取得食物或资源的渠道，不能只译成在仓库囤原料。horde 是“一大群人”，拼写不同。",
+      "ipa": "/hɔːd/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But, food is appropriated when people from the dominant culture start to fetishize or commercialize it, and when they hoard access to that particular food.",
+      "dictionaryExample": {
+        "english": "The prisoners used to hoard scraps of food in secret places.",
+        "chinese": "过去囚犯常把残羹剩饭存放在隐秘的地方。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a collection of money, food or valuables kept for future use",
+          "chinese": "贮存的财物或食物；秘藏品",
+          "exampleEnglish": "They dug up a hoard of Roman coins.",
+          "exampleChinese": "他们挖出一批秘藏的古罗马硬币。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "20": {
+      "word": "reduce sth. to sth.",
+      "sourceRow": 20,
+      "english": "present something complex as a simpler, limited thing",
+      "chinese": "把……简化成；使只剩下……",
+      "collocations": [
+        "reduce a culture to food 把文化简化为食物",
+        "reduce a problem to two issues 把问题归为两点",
+        "be reduced to tears 被弄哭"
+      ],
+      "compare": [
+        "reduce A to B：改变或压缩到某状态，常丢失复杂性",
+        "summarize：提炼要点，未必歪曲",
+        "represent：代表或呈现，不必缩减"
+      ],
+      "usage": "to 后是结果：reduce prices to £10 为降到十镑；by £10 才是降了十镑。be reduced to doing 表落到不得不做的境地，to 是介词。",
+      "ipa": "/rɪˈdjuːs/",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "to make something less or smaller in size, quantity, price, etc.; to become less or smaller in size, quantity, etc.",
+          "chinese": "减少，缩小（尺寸、数量、价格等）",
+          "exampleEnglish": "reduce something Reduce speed now (= on a sign).",
+          "exampleChinese": "减速行驶。"
+        },
+        {
+          "english": "to boil a liquid so that it becomes smaller in quantity",
+          "chinese": "（使液体）蒸发浓缩"
+        },
+        {
+          "english": "to lose weight by limiting the amount and type of food that you eat",
+          "chinese": "减轻体重；节食",
+          "exampleEnglish": "a reducing plan",
+          "exampleChinese": "节食计划"
+        },
+        {
+          "english": "reduce something (chemistry) to add one or more electrons to a substance or to remove oxygen from a substance",
+          "chinese": "使还原；去氧；脱氧"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "摘录列有 reduce 和 reduce to，但没有单列“把复杂事物简化为……”这一用法；语境义据原句整理。"
+    },
+    "58": {
+      "word": "cuisine",
+      "sourceRow": 58,
+      "english": "a style of cooking associated with a place or culture",
+      "chinese": "菜系；烹饪风格",
+      "collocations": [
+        "Mexican cuisine 墨西哥菜系",
+        "traditional cuisine 传统烹饪"
+      ],
+      "compare": [
+        "cuisine 是烹饪风格或菜系；dish 是一道菜。"
+      ],
+      "usage": "another community to its cuisine 指把一个群体简化成它的饮食，不能译成“厨房”。",
+      "ipa": "/kwɪˈziːn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.",
+      "dictionaryExample": {
+        "english": "Italian cuisine",
+        "chinese": "意大利式烹饪",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the food served in a restaurant",
+          "chinese": "餐馆供应的饭菜；菜肴",
+          "exampleEnglish": "The hotel restaurant is noted for its excellent cuisine.",
+          "exampleChinese": "这家旅馆的餐厅以美味佳肴闻名遐迩。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "59": {
+      "word": "problematic",
+      "sourceRow": 59,
+      "english": "causing problems or raising serious concerns",
+      "chinese": "有问题的；值得质疑的",
+      "collocations": [
+        "a problematic assumption 有问题的假设",
+        "problematic behavior 有争议的行为"
+      ],
+      "compare": [
+        "problematic 表示存在问题；impossible 表示无法做到。"
+      ],
+      "usage": "that's where it gets problematic 回指前面的简化和商业化做法。",
+      "ipa": "/ˌprɑːbləˈmætɪk/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When a dominant culture reduces another community to its cuisine, turns histories and stories into menu items and when people think culture can be understood with a bite of food, that's where it gets problematic.",
+      "dictionaryExample": {
+        "english": "The situation is more problematic than we first thought.",
+        "chinese": "这局面比我们最初想象的更难对付。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "60": {
+      "word": "consumption",
+      "sourceRow": 60,
+      "english": "the use or eating of something",
+      "chinese": "消费；食用",
+      "collocations": [
+        "food consumption 食物消费",
+        "for their own consumption 供他们自己消费"
+      ],
+      "compare": [
+        "consumption 可指食用或消费；production 是生产。"
+      ],
+      "usage": "原句与 profit 并列：支配群体掌控资源，供自己消费并获利。",
+      "ipa": "/kənˈsʌmpʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's also harmful when the dominant culture controls the economic and material resources to produce that food for their own consumption and profit.",
+      "dictionaryExample": {
+        "english": "the production of fuel for domestic consumption (= to be used in the country where it is produced)",
+        "chinese": "供国内消耗的燃料生产",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the act of buying and using products",
+          "chinese": "消费",
+          "exampleEnglish": "Consumption rather than saving has become the central feature of contemporary societies.",
+          "exampleChinese": "现代社会的主要特征是消费而不是储蓄。"
+        },
+        {
+          "english": "a serious disease of the lungs",
+          "chinese": "肺病；肺痨；肺结核"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "2": {
+      "word": "appropriative",
+      "sourceRow": 2,
+      "english": "taking things for one's own use",
+      "chinese": "挪用性的；本文指带有文化挪用性质的",
+      "collocations": [
+        "culturally appropriative 具有文化挪用性质的",
+        "appropriative practices 挪用性的做法"
+      ],
+      "compare": [
+        "appropriative：关注拿取、占用他人的东西",
+        "appropriate（adj.）：关注是否合适，意思不同",
+        "exploitative：关注利用他人牟利或获益"
+      ],
+      "usage": "不能因为拼写相近就译成“合适的”。Cambridge 来源对应 cultural appropriation，Oxford 对应动词词根；本派生词和读音补查 Merriam-Webster。本文是作者的文化批评框架，不自动等于法律上的盗窃认定。",
+      "ipa": "/əˈproʊpriˌeɪtɪv/（美式）",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Here are some dining behaviors that are culturally appropriative when it comes to food.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "21": {
+      "word": "ethnic",
+      "sourceRow": 21,
+      "english": "connected with a group's shared culture, history, or ancestry",
+      "chinese": "族裔的；民族文化的",
+      "collocations": [
+        "ethnic identity 族群身份",
+        "ethnic roots 族裔文化根源",
+        "ethnic diversity 族群多样性"
+      ],
+      "compare": [
+        "ethnic：从文化、历史、血缘等说群体",
+        "national：从国家或国籍说",
+        "racial：从社会种族分类说，三者不能互换"
+      ],
+      "usage": "ethnic food 在本文带引号，作者质疑为何只给非西方食物贴此标签。ethnic 不等于 exotic，更不是 ethic（道德准则）。",
+      "ipa": "/ˈeθnɪk/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Often, when we talk about \"ethnic\" food, we're not referring to French, German, or Italian cuisine.",
+      "dictionaryExample": {
+        "english": "a person from an ethnic minority",
+        "chinese": "少数民族的人",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "connected with or belonging to a nation or people that shares a cultural tradition",
+          "chinese": "民族的；种族的",
+          "exampleEnglish": "ethnic strife/tensions/violence (= between people from different races or peoples)",
+          "exampleChinese": "种族冲突／紧张形势／暴力"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "62": {
+      "word": "Thai",
+      "sourceRow": 62,
+      "english": "from or connected with Thailand",
+      "chinese": "泰国的",
+      "collocations": [
+        "Thai food 泰国菜",
+        "Thai cuisine 泰式菜系"
+      ],
+      "compare": [
+        "Thai 是泰国的；Tai 是另一拼写或专名，不可随意替换。"
+      ],
+      "usage": "在并列食物类别中修饰 food；词典摘录仅有简短 Thai 词条。",
+      "ipa": "/taɪ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "63": {
+      "word": "Vietnamese",
+      "sourceRow": 63,
+      "english": "from or connected with Vietnam",
+      "chinese": "越南的",
+      "collocations": [
+        "Vietnamese food 越南菜",
+        "Vietnamese cuisine 越南菜系"
+      ],
+      "compare": [
+        "Vietnamese 可指语言、人民或食物所属背景；这里修饰 food。"
+      ],
+      "usage": "与 Thai、Indian 等并列，是形容词用法。",
+      "ipa": "/ˌviːetnəˈmiːz/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "64": {
+      "word": "Indian",
+      "sourceRow": 64,
+      "english": "from or connected with India",
+      "chinese": "印度的",
+      "collocations": [
+        "Indian food 印度菜",
+        "Indian cuisine 印度菜系"
+      ],
+      "compare": [
+        "Indian 在此指印度的；别把其他词典义项带入这个语境。"
+      ],
+      "usage": "修饰 food；原句并列多种来源，不是一个统一的“异域菜”。",
+      "ipa": "/ˈɪndiən/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+      "dictionaryExample": {
+        "english": "Indian farmers",
+        "chinese": "印度农民",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a person from India or whose family comes from India",
+          "chinese": "印度人",
+          "exampleEnglish": "There are around 1.5 million British Indians in the UK.",
+          "exampleChinese": "英国大约有150万英属印度人。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "65": {
+      "word": "Ethiopian",
+      "sourceRow": 65,
+      "english": "from or connected with Ethiopia",
+      "chinese": "埃塞俄比亚的",
+      "collocations": [
+        "Ethiopian food 埃塞俄比亚菜",
+        "Ethiopian cuisine 埃塞俄比亚菜系"
+      ],
+      "compare": [
+        "Ethiopian 指国别来源；ethnic 是更宽泛的族裔标签。"
+      ],
+      "usage": "在列举菜系的句子里修饰 food。",
+      "ipa": "/ˌiːθiˈəʊpiən/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "66": {
+      "word": "Mexican",
+      "sourceRow": 66,
+      "english": "from or connected with Mexico",
+      "chinese": "墨西哥的",
+      "collocations": [
+        "Mexican food 墨西哥菜",
+        "Mexican communities 墨西哥社群"
+      ],
+      "compare": [
+        "Mexican 是国别形容词；Hispanic 是不同维度的文化标签。"
+      ],
+      "usage": "在句 21、40 均修饰 food，保持国别含义。",
+      "ipa": "/ˈmeksɪkən/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
+      "dictionaryExample": {
+        "english": "a person from Mexico",
+        "chinese": "墨西哥人",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "61": {
+      "word": "ethnicity",
+      "sourceRow": 61,
+      "english": "shared cultural or ancestral identity",
+      "chinese": "民族属性；族裔身份",
+      "collocations": [
+        "ethnicities perceived as exotic 被视为异域的族裔",
+        "ethnicity and culture 族裔身份与文化"
+      ],
+      "compare": [
+        "ethnicity 关注族裔背景；nationality 关注国籍。"
+      ],
+      "usage": "复数 ethnicities 指多个族裔群体；原文讨论谁被贴上 ethnic 标签。",
+      "ipa": "/eθˈnɪsəti/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.",
+      "dictionaryExample": {
+        "english": "Many factors are important, for example class, gender, age and ethnicity.",
+        "chinese": "许多因素都很重要，如阶级、性别、年龄和种族。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "67": {
+      "word": "be perceived as",
+      "sourceRow": 67,
+      "english": "to be regarded or understood in a particular way",
+      "chinese": "被看作；被视为",
+      "collocations": [
+        "be perceived as exotic 被视为异域的",
+        "be perceived as a threat 被视为威胁"
+      ],
+      "compare": [
+        "be perceived as 强调他人的看法；be 本身不证明判断正确。"
+      ],
+      "usage": "被动结构 be perceived as + 名词或形容词；本文指出标签是观察者赋予的。",
+      "ipa": "/pərˈsiːv/",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.",
+      "dictionaryExample": {
+        "english": "This discovery was perceived as a major breakthrough.",
+        "chinese": "这一发现被视为一项重大突破。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to notice or become aware of something",
+          "chinese": "注意到；意识到；察觉到",
+          "exampleEnglish": "perceive something I perceived a change in his behaviour.",
+          "exampleChinese": "我注意到他举止有些改变。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+    },
+    "68": {
+      "word": "folk",
+      "sourceRow": 68,
+      "english": "people, especially ordinary people",
+      "chinese": "人们；大家",
+      "collocations": [
+        "White folks 白人群体",
+        "local folks 当地人"
+      ],
+      "compare": [
+        "folks 较口语、亲切；people 中性。"
+      ],
+      "usage": "原文 White folks 指白人群体；词形是 folks，不要误读为“民俗”。",
+      "ipa": "/fəʊk/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "While food from Western Europe is still connected to ethnic roots, ethnic food has become reserved only for ethnicities that are perceived as exotic and foreign to White folks.",
+      "dictionaryExample": {
+        "english": "ordinary working-class folk",
+        "chinese": "普通劳动大众",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "folks [plural] (informal) a friendly way of addressing more than one person",
+          "chinese": "各位；大伙儿",
+          "exampleEnglish": "Well, folks, what are we going to do today?",
+          "exampleChinese": "喂，伙计们，我们今天要干什么？"
+        },
+        {
+          "english": "people from a particular country, region or way of life",
+          "chinese": "某地区或群体的普通百姓",
+          "exampleEnglish": "places that appeal to city folk",
+          "exampleChinese": "吸引城里人的地方"
+        },
+        {
+          "english": "[uncountable] music in the traditional style of a country or community",
+          "chinese": "民间音乐",
+          "exampleEnglish": "a folk festival/concert",
+          "exampleChinese": "民间音乐节／音乐会"
+        },
+        {
+          "english": "based on the beliefs of ordinary people",
+          "chinese": "流传民间的；普通百姓的",
+          "exampleEnglish": "Garlic is widely used in Chinese folk medicine.",
+          "exampleChinese": "大蒜广泛应用于中国民间医药。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "69": {
+      "word": "other than",
+      "sourceRow": 69,
+      "english": "except; apart from",
+      "chinese": "除……之外",
+      "collocations": [
+        "cultures other than our own 我们自身文化之外的文化",
+        "other than that 除此之外"
+      ],
+      "compare": [
+        "other than 在此表示“除……之外”；rather than 表示“而不是”。"
+      ],
+      "usage": "后接 our own，省略了 culture；不是比较级结构。",
+      "ipa": "/ˈʌðər ðən/",
+      "partOfSpeech": "preposition",
+      "oxfordExcerptProvided": true,
+      "articleExample": "While food can connect people together and serve as a way to learn about cultures other than our own, what happens is that food becomes the only symbol for certain places.",
+      "dictionaryExample": {
+        "english": "I don't know any French people other than you.",
+        "chinese": "除了你，我不认识别的法国人。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "different or in a different way from; not",
+          "chinese": "不同；不同于；不",
+          "exampleEnglish": "I have never known him to behave other than selfishly.",
+          "exampleChinese": "我从没见过他不自私"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "22": {
+      "word": "ramen",
+      "sourceRow": 22,
+      "english": "a Japanese noodle dish, often served in broth",
+      "chinese": "日式拉面",
+      "collocations": [
+        "a bowl of ramen 一碗拉面",
+        "ramen noodles 拉面面条",
+        "ramen broth 拉面汤底"
+      ],
+      "compare": [
+        "ramen：日式面食类别",
+        "noodles：面条总称",
+        "sushi：米饭制品，不是面食"
+      ],
+      "usage": "通常不可数，用 a bowl of ramen；不要把所有中国手工拉面都自动称作 ramen。文章反对用一种食物概括整个国家。",
+      "ipa": "/ˈrɑːmen/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.",
+      "dictionaryExample": {
+        "english": "a bowl of ramen noodles",
+        "chinese": "一碗拉面",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "23": {
+      "word": "taco",
+      "sourceRow": 23,
+      "english": "a folded tortilla with a savoury filling",
+      "chinese": "墨西哥夹馅薄饼；塔可",
+      "collocations": [
+        "a fish taco 鱼肉塔可",
+        "a taco truck 塔可餐车",
+        "taco filling 塔可馅料"
+      ],
+      "compare": [
+        "taco：薄饼对折或包拢馅料",
+        "tortilla：作为外皮的薄饼本身",
+        "burrito：通常用较大薄饼把馅料完整卷起"
+      ],
+      "usage": "复数 tacos。不是所有 taco 都用炸硬的壳；也不要把 taco、tortilla 和 burrito 当作完全同一种食品。",
+      "ipa": "/ˈtækəʊ/（英）；/ˈtɑːkoʊ/（美）",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "24": {
+      "word": "curry",
+      "sourceRow": 24,
+      "english": "a dish of ingredients cooked with a spiced sauce",
+      "chinese": "咖喱菜；咖喱",
+      "collocations": [
+        "a chicken curry 鸡肉咖喱",
+        "a mild curry 不太辣的咖喱",
+        "curry powder 咖喱粉"
+      ],
+      "compare": [
+        "curry：香料酱汁烹成的一类菜",
+        "spice：单种香料或香辛料",
+        "sauce：酱汁总称，不限定咖喱风味"
+      ],
+      "usage": "a curry 可指一道菜；不可数 curry 指食物本身。spicy 可突出香料味，不保证每种咖喱都很辣；不能以 curry 代替整个南亚文化。",
+      "ipa": "/ˈkʌri/",
+      "partOfSpeech": "n. [C/U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Japan is reduced to ramen and sushi, Mexico is reduced to tacos, India is reduced to curry, and so on.",
+      "dictionaryExample": {
+        "english": "a chicken curry",
+        "chinese": "一道咖喱鸡肉",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "curry something to make curry out of meat or vegetables",
+          "chinese": "以（肉或蔬菜）烹制咖喱菜"
+        },
+        {
+          "english": "to try to get somebody to like or support you by praising or helping them a lot",
+          "chinese": "讨好；奉承；拍马屁",
+          "exampleEnglish": "He’s always trying to curry favour with the boss.",
+          "exampleChinese": "他总是想方设法"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "70": {
+      "word": "end up doing",
+      "sourceRow": 70,
+      "english": "to finally be in a particular situation after a process",
+      "chinese": "最终变得；结果是",
+      "collocations": [
+        "end up getting homogenized 最终变得同质化",
+        "end up doing something 最终做了某事"
+      ],
+      "compare": [
+        "end up 强调结果；intend to 强调原先打算。"
+      ],
+      "usage": "end up 后接 -ing；本文的 getting homogenized 为被动变化。",
+      "ipa": "/end ʌp ˈduːɪŋ/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": false,
+      "articleExample": "There's a loss of complexity and cultures end up getting homogenized.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "25": {
+      "word": "homogenize / homogenization",
+      "sourceRow": 25,
+      "english": "make different things become alike",
+      "chinese": "使同质化；抹平差异",
+      "collocations": [
+        "homogenize cultures 使文化同质化",
+        "cultural homogenization 文化同质化",
+        "homogenized milk 均质奶"
+      ],
+      "compare": [
+        "homogenize：让各部分越来越相同",
+        "standardize：统一标准、规格或流程",
+        "integrate：结合为整体，可保留内部差异"
+      ],
+      "usage": "英式也写 homogenise。end up getting homogenized 为 end up + -ing，内部 getting homogenized 是被动；不是文化主动把别人同质化。",
+      "ipa": "/həˈmɒdʒɪnaɪz/",
+      "partOfSpeech": "verb / noun",
+      "oxfordExcerptProvided": false,
+      "articleExample": "There's a loss of complexity and cultures end up getting homogenized.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的摘录未单列 homogenize 或 homogenization；本文语境义据原句整理。"
+    },
+    "26": {
+      "word": "authentic / authenticity",
+      "sourceRow": 26,
+      "english": "genuine or true to what something claims to be",
+      "chinese": "真实的；正宗的",
+      "collocations": [
+        "authentic food 正宗食物",
+        "an authentic account 可信的记述",
+        "verify authenticity 核实真实性"
+      ],
+      "compare": [
+        "authentic：是否真实、名副其实",
+        "traditional：是否沿袭传统，未必完全未变",
+        "original：最初的或原创的，不等于正宗"
+      ],
+      "usage": "本文引号质疑谁有权规定“正宗”，并非说这个词不能使用。authentic 不自动等于“从未变化”或符合游客预想。",
+      "ipa": "/ɔːˈθentɪk/",
+      "partOfSpeech": "adjective / noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In seeking \"authentic\" food, we're hoping for a truly immersive experience into another culture.",
+      "dictionaryExample": {
+        "english": "I don't know if the painting is authentic.",
+        "chinese": "我不知道这幅画是不是真迹。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "true and accurate",
+          "chinese": "真实准确的",
+          "exampleEnglish": "an authentic account of life in the desert",
+          "exampleChinese": "对沙漠生活的真实描述"
+        },
+        {
+          "english": "made to be exactly the same as an original",
+          "chinese": "逼真的；仿真的",
+          "exampleEnglish": "an authentic model of the ancient town",
+          "exampleChinese": "古城的仿真模型"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "摘录提供 authentic 的词条，未单列 authenticity；词卡同时解释两者在本文的用法。"
+    },
+    "27": {
+      "word": "immersive",
+      "sourceRow": 27,
+      "english": "making someone feel fully involved in an experience",
+      "chinese": "沉浸式的；令人全身心投入的",
+      "collocations": [
+        "an immersive experience 沉浸式体验",
+        "immersive theatre 沉浸式戏剧",
+        "immerse oneself in a culture 深入体验一种文化"
+      ],
+      "compare": [
+        "immersive：体验使人有置身其中的感受",
+        "engaging：吸引注意与兴趣",
+        "interactive：可以参与并影响过程，不保证沉浸"
+      ],
+      "usage": "元音音素开头，应为 an immersive experience，不是讲义中的 a immersive experience。常用 an experience of/in … 或 immersion in …；原文 into 带进入文化的修辞意味，不当固定介词来背。",
+      "ipa": "/ɪˈmɜːsɪv/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In seeking \"authentic\" food, we're hoping for a truly immersive experience into another culture.",
+      "dictionaryExample": {
+        "english": "Immersive games can be used for training and education.",
+        "chinese": "沉浸式虚拟现实的游戏可用于培训和教育。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "71": {
+      "word": "represent",
+      "sourceRow": 71,
+      "english": "to stand for or be seen as embodying something larger",
+      "chinese": "代表；象征",
+      "collocations": [
+        "represent a larger experience 代表更广泛的体验",
+        "represent a community 代表一个社群"
+      ],
+      "compare": [
+        "represent 在此指“代表、承载”；replace 指取代。"
+      ],
+      "usage": "comes to represent 表示逐渐被当作整段文化体验的代表，而非法律上的代言。",
+      "ipa": "/ˌreprɪˈzent/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The food experience, whether in a restaurant in someone's home city or as part of a trip somewhere else, comes to represent a larger experience with that culture and community.",
+      "dictionaryExample": {
+        "english": "Each colour on the chart represents a different department.",
+        "chinese": "图表中的每一种颜色都代表一个不同的部门。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "represent somebody/something to act or speak officially for somebody and defend their interests",
+          "chinese": "作为…的代言人；维护…的利益",
+          "exampleEnglish": "The union represents over 200 000 teachers.",
+          "exampleChinese": "工会代表着 20 余万名教师的利益。"
+        },
+        {
+          "english": "linking verb + noun (not used in the progressive tenses",
+          "chinese": "不用于进行时) to be something等于；相当于；意味着",
+          "exampleEnglish": "This contract represents 20% of the company's annual revenue.",
+          "exampleChinese": "这份合约相当于公司 20% 的年收入。"
+        },
+        {
+          "english": "represent something to be an example or expression of something",
+          "chinese": "成为…实例；成为典型；体现",
+          "exampleEnglish": "The project represents all that is good in the community.",
+          "exampleChinese": "这项工程充分体现了社区的美好。"
+        },
+        {
+          "english": "to show somebody/something, especially in a picture",
+          "chinese": "展示；描绘",
+          "exampleEnglish": "The carvings represent a hunting scene.",
+          "exampleChinese": "这些雕刻作品描绘了一幅狩猎的场面。"
+        },
+        {
+          "english": "to make a formal statement to somebody in authority to make your opinions known or to protest",
+          "chinese": "正式提出（意见、抗议等）"
+        },
+        {
+          "english": "to present or describe somebody or something in a particular way",
+          "chinese": "描绘；描述；表现",
+          "exampleEnglish": "The king is represented as a villain in the play.",
+          "exampleChinese": "剧中国王的形象是一个恶棍。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "28": {
+      "word": "perception",
+      "sourceRow": 28,
+      "english": "a way of seeing or understanding something",
+      "chinese": "认知；看法；观感",
+      "collocations": [
+        "perceptions of a culture 对某文化的看法",
+        "public perception 公众观感",
+        "perceive something as … 把某物看成……"
+      ],
+      "compare": [
+        "perception：经过观察与解释形成的认识",
+        "fact：可核对的事实",
+        "opinion：观点或判断，未必强调如何感知"
+      ],
+      "usage": "具体看法可数，原文 perceptions 作主语，谓语 stem。what is authentic 是 of 的宾语从句；看法不等于客观事实。",
+      "ipa": "/pəˈsepʃən/",
+      "partOfSpeech": "n. [C/U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
+      "dictionaryExample": {
+        "english": "a campaign to change public perception of the police",
+        "chinese": "改变警察公众形象的运动",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the way you notice things, especially with the senses",
+          "chinese": "知觉；感知",
+          "exampleEnglish": "Everyone's perception of reality is slightly different.",
+          "exampleChinese": "每个人对现实的感受都稍有不同。"
+        },
+        {
+          "english": "the ability to understand the true nature of something",
+          "chinese": "洞察力；悟性",
+          "exampleEnglish": "She showed great perception in her assessment of the family situation.",
+          "exampleChinese": "她对家庭状况的分析显示出敏锐的洞察力。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "29": {
+      "word": "stem from sth.",
+      "sourceRow": 29,
+      "english": "arise as a result of something",
+      "chinese": "源于；由……造成",
+      "collocations": [
+        "stem from experience 源自经历",
+        "stem from misunderstanding 起因于误解",
+        "stem from several causes 源于多种原因"
+      ],
+      "compare": [
+        "stem from：结果回溯原因",
+        "lead to：原因指向结果",
+        "relate to：有关联，不保证因果"
+      ],
+      "usage": "主语是结果，from 后是原因；不写 is stemmed from。stemmed、stemming 双写 m。",
+      "ipa": "/stem frəm/",
+      "partOfSpeech": "phr. v.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
+      "dictionaryExample": {
+        "english": "Most people’s insecurities stem from something that happened in their childhood.",
+        "chinese": "大多数人的不安全感源于某种童年经历。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "30": {
+      "word": "preconceived",
+      "sourceRow": 30,
+      "english": "formed before enough knowledge or consideration",
+      "chinese": "先入为主的；预先形成的",
+      "collocations": [
+        "preconceived ideas 先入之见",
+        "preconceived notions 预设观念",
+        "without preconceived assumptions 不带预先假定"
+      ],
+      "compare": [
+        "preconceived：形成时间早于充分了解",
+        "biased：偏向一方、影响公正",
+        "mistaken：结论错误，不一定形成得早"
+      ],
+      "usage": "通常修饰 ideas、notions 等观念词；不是“有预谋的”或“已被证实的”。先有印象与印象一定错误不是同一命题。",
+      "ipa": "/ˌpriːkənˈsiːvd/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
+      "dictionaryExample": {
+        "english": "Before I started the job, I had no preconceived notions of what it would be like.",
+        "chinese": "开始做这工作之前，我并未预想过它的实际情况。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "31": {
+      "word": "narrative",
+      "sourceRow": 31,
+      "english": "a story or framework used to explain events",
+      "chinese": "叙事；解释事物的一套说法",
+      "collocations": [
+        "a dominant narrative 主导叙事",
+        "challenge a narrative 质疑一种叙事",
+        "a first-person narrative 第一人称叙述"
+      ],
+      "compare": [
+        "narrative：把事件组织成有方向的解释",
+        "story：故事或经历，范围广",
+        "account：对事情经过的陈述，强调报告内容"
+      ],
+      "usage": "本文 exotic narratives 指预设的异域故事框架，不必是一本虚构小说；也不意味着所有 narrative 都是谎言。",
+      "ipa": "/ˈnærətɪv/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Our perceptions of what is \"authentic\" stem from preconceived \"exotic narratives\" of that culture and communities.",
+      "dictionaryExample": {
+        "english": "How do we construct a new narrative about economic globalization?",
+        "chinese": "我们如何构建关于经济全球化的新叙述？",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a description of events, especially in a novel",
+          "chinese": "叙述；故事描写",
+          "exampleEnglish": "The film lacks a coherent, compelling narrative.",
+          "exampleChinese": "这部电影缺乏连贯，引人注目的叙述。"
+        },
+        {
+          "english": "the passages in a novel that tell the story rather than give dialogue",
+          "chinese": "小说中叙述情节的部分",
+          "exampleEnglish": "The novel contains too much dialogue and not enough narrative.",
+          "exampleChinese": "这部小说对话过多，而叙述不足。"
+        },
+        {
+          "english": "describing events or telling a story (adjective)",
+          "chinese": "叙事的；讲故事的",
+          "exampleEnglish": "He is best known for his narrative poem of the Civil War.",
+          "exampleChinese": "他以南北战争的叙事诗而闻名。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "32": {
+      "word": "colonization / re-colonize",
+      "sourceRow": 32,
+      "english": "settlement and control of another territory by an outside power",
+      "chinese": "殖民；殖民化",
+      "collocations": [
+        "a history of colonization 殖民史",
+        "European colonization 欧洲殖民扩张",
+        "colonial rule 殖民统治"
+      ],
+      "compare": [
+        "colonization：建立定居与控制的过程",
+        "imperialism：扩张支配权力的制度或政策，范围更广",
+        "immigration：迁入定居，本身不意味着统治当地人"
+      ],
+      "usage": "英式也拼 colonisation。re-colonized 在这里是关于商业控制的批评性比喻，不是说厨师直接建立了领土殖民政府。",
+      "ipa": "/ˌkɒlənaɪˈzeɪʃən/",
+      "partOfSpeech": "noun / verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The impacts of historical and continuing colonization are devastating to many cultures, and many \"authentic\" \"ethnic\" cuisines are connected to histories of colonization.",
+      "dictionaryExample": {
+        "english": "the colonization of the ‘New World’",
+        "chinese": "“新大陆” 的殖民",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the spreading of animals or plants across an area",
+          "chinese": "（动植物的）聚居；大批生长",
+          "exampleEnglish": "plant colonization",
+          "exampleChinese": "植物的拓植"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "摘录给出 colonization 的词条，未单列 re-colonize；本文两种词形的语境义分别据原句整理。"
+    },
+    "72": {
+      "word": "devastating",
+      "sourceRow": 72,
+      "english": "causing severe damage or distress",
+      "chinese": "破坏性极大的；毁灭性的",
+      "collocations": [
+        "devastating impacts 破坏性极大的影响",
+        "a devastating loss 沉重损失"
+      ],
+      "compare": [
+        "devastating 强调严重后果；disappointing 只是令人失望。"
+      ],
+      "usage": "原句主语是殖民化的影响，不能弱译为“一般的不便”。",
+      "ipa": "/ˈdevəsteɪtɪŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The impacts of historical and continuing colonization are devastating to many cultures, and many \"authentic\" \"ethnic\" cuisines are connected to histories of colonization.",
+      "dictionaryExample": {
+        "english": "Oil spills are having a devastating effect on coral reefs in the ocean.",
+        "chinese": "石油泄漏对海洋里的珊瑚礁有着毁灭性影响。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "causing shock or great distress",
+          "chinese": "令人震惊的；骇人的",
+          "exampleEnglish": "It was then that she heard the devastating news that her father was dead.",
+          "exampleChinese": "就在那时，她惊悉父亲去世的噩耗。"
+        },
+        {
+          "english": "strikingly impressive or powerful",
+          "chinese": "给人印象深刻的；强有力的",
+          "exampleEnglish": "Her smile was devastating.",
+          "exampleChinese": "她的笑容令人倾倒。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "73": {
+      "word": "freeze",
+      "sourceRow": 73,
+      "english": "to hold something fixed as though it cannot change",
+      "chinese": "把……固定在某一时空；使凝固",
+      "collocations": [
+        "freeze a culture in time 将文化定格在某个时代",
+        "freeze a moment 定格一瞬间"
+      ],
+      "compare": [
+        "freeze 在此为比喻，指固化认识；preserve 是保存，未必固化。"
+      ],
+      "usage": "第三人称 freezes；宾语是 a culture，后接 in a particular place in time。",
+      "ipa": "/friːz/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It also freezes a culture in a particular place in time.",
+      "dictionaryExample": {
+        "english": "Salaries have been frozen for the current year.",
+        "chinese": "今年的工资已冻结。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to turn to ice, or to make something turn to ice",
+          "chinese": "（使）冻结；结冰",
+          "exampleEnglish": "Water freezes at 0°C.",
+          "exampleChinese": "水在 0 摄氏度时结冰。"
+        },
+        {
+          "english": "to become blocked by frozen liquid",
+          "chinese": "（使管道或机器）冻堵",
+          "exampleEnglish": "The pipes have frozen, so we've got no water.",
+          "exampleChinese": "水管已经冻了，我们接不到水。"
+        },
+        {
+          "english": "when it freezes, the weather is at or below 0° Celsius",
+          "chinese": "冰冻；严寒",
+          "exampleEnglish": "It may freeze tonight, so bring those plants inside.",
+          "exampleChinese": "今夜可能有霜冻，把花草搬进屋来吧。"
+        },
+        {
+          "english": "to be very cold; to be so cold that you die",
+          "chinese": "极冷；（使）冻死",
+          "exampleEnglish": "Every time she opens the window we all freeze.",
+          "exampleChinese": "每次她开窗户，我们都冷得要死。"
+        },
+        {
+          "english": "freeze something to keep something, especially food, at a very low temperature in order to preserve it",
+          "chinese": "冷冻贮藏；冷藏",
+          "exampleEnglish": "Can you freeze this cake?",
+          "exampleChinese": "你能不能把这个蛋糕冷藏起来？"
+        },
+        {
+          "english": "to stop moving suddenly because of fear",
+          "chinese": "因恐惧而僵住不动",
+          "exampleEnglish": "I froze with terror as the door slowly opened.",
+          "exampleChinese": "门慢慢开启时我吓呆了。"
+        },
+        {
+          "english": "for a computer screen to stop responding",
+          "chinese": "（电脑屏幕）死机；卡住"
+        },
+        {
+          "english": "freeze something to stop a film or video in order to look at a particular picture",
+          "chinese": "使定格",
+          "exampleEnglish": "Freeze the action there!",
+          "exampleChinese": "把这个画面定格在那里！"
+        },
+        {
+          "english": "freeze something to prevent money, a bank account, etc. from being used by getting a court order which bans it",
+          "chinese": "冻结（资金、银行账户等）",
+          "exampleEnglish": "The company's assets have been frozen.",
+          "exampleChinese": "这家公司的资产已被冻结。"
+        },
+        {
+          "english": "freeze (on something) the act of stopping something",
+          "chinese": "停止",
+          "exampleEnglish": "a freeze on imports",
+          "exampleChinese": "停止进口"
+        },
+        {
+          "english": "an unusually cold period of weather during which temperatures stay below 0° Celsius",
+          "chinese": "冰冻期；严寒期",
+          "exampleEnglish": "Farmers still talk about the big freeze of '99.",
+          "exampleChinese": "农民至今还在谈论 1999 年的大严寒。"
+        },
+        {
+          "english": "a short period of time, especially at night, when the temperature is below 0° Celsius",
+          "chinese": "霜冻",
+          "exampleEnglish": "A freeze warning was posted for Thursday night.",
+          "exampleChinese": "据警报星期四夜间有霜冻。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "74": {
+      "word": "get disconnected from",
+      "sourceRow": 74,
+      "english": "to become separated from the people or places it belongs to",
+      "chinese": "与……脱节；失去联系",
+      "collocations": [
+        "get disconnected from communities 与社群脱节",
+        "feel disconnected from home 感到与家乡疏离"
+      ],
+      "compare": [
+        "disconnected from 强调联系断开；different from 仅表示不同。"
+      ],
+      "usage": "get + 过去分词表示状态变化；from 后接 communities and places。",
+      "ipa": "/ˌdɪskəˈnektɪd/",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "When food gets disconnected from the communities and places it's from, people start forgetting about the oppression faced by those communities.",
+      "dictionaryExample": {
+        "english": "I felt disconnected from the world around me.",
+        "chinese": "我感到已与周围世界隔绝。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "with the parts not connected in a logical order",
+          "chinese": "不连贯的；无条理的",
+          "exampleEnglish": "not connected to a network, supply of electricity, etc.",
+          "exampleChinese": "分离的；断开的；无关联的"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+    },
+    "33": {
+      "word": "immigration",
+      "sourceRow": 33,
+      "english": "coming to another country to settle",
+      "chinese": "移入；移民入境定居",
+      "collocations": [
+        "immigration policy 移民政策",
+        "immigration into a country 移入某国",
+        "immigration control 入境检查"
+      ],
+      "compare": [
+        "immigration：从目的地看移入",
+        "emigration：从出发地看移出",
+        "migration：迁移总称，可在一国内，也可用于动物"
+      ],
+      "usage": "immigration 是过程，通常不可数；具体的人是 an immigrant。同一迁移行为可以从两端分别说 immigration 与 emigration。",
+      "ipa": "/ˌɪmɪˈɡreɪʃən/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Folks might love Mexican food, but not care about different issues such as labor rights and immigration policy that impact members from that community.",
+      "dictionaryExample": {
+        "english": "immigration into… laws restricting immigration into the US",
+        "chinese": "美国限制外来移民的法律",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the place at a port, an airport, etc. where the passports and other documents of people coming into a country are checked",
+          "chinese": "移民局检查站",
+          "exampleEnglish": "We landed at Heathrow and went through customs and immigration.",
+          "exampleChinese": "我们在希思罗机场降落，之后办理了海关和移民入境检查手续。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "34": {
+      "word": "stereotype",
+      "sourceRow": 34,
+      "english": "a fixed, oversimplified idea about a group or thing",
+      "chinese": "刻板印象",
+      "collocations": [
+        "racial stereotypes 种族刻板印象",
+        "challenge a stereotype 挑战刻板印象",
+        "stereotype people as … 把人一概当作……"
+      ],
+      "compare": [
+        "stereotype：用固定模型概括整个群体",
+        "prejudice：事先形成的偏见，常含不公评价",
+        "generalization：一般概括，可能审慎且有依据"
+      ],
+      "usage": "可数；不一定公开表现为恶意，却可能抹去个体差异。本文关注食物如何被用来给人贴标签，而非认同这些标签。",
+      "ipa": "/ˈsteriətaɪp/",
+      "partOfSpeech": "n. [C]，通常贬义",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.",
+      "dictionaryExample": {
+        "english": "He doesn't conform to the usual stereotype of the businessman with a dark suit and briefcase.",
+        "chinese": "他不同于人们一般印象中穿黑色西装、提公文包的商人形象。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to form a fixed idea about a person or thing which may not really be true",
+          "chinese": "对…形成模式化（或类型化）的看法"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "35": {
+      "word": "smelly",
+      "sourceRow": 35,
+      "english": "having an unpleasant smell",
+      "chinese": "有臭味的；难闻的",
+      "collocations": [
+        "smelly food 有难闻气味的食物",
+        "smelly socks 臭袜子",
+        "a strong smell 强烈的气味"
+      ],
+      "compare": [
+        "smelly：明确含难闻评价",
+        "stinky：更口语、更直接说臭",
+        "strong-smelling：只突出气味浓烈，未必难闻"
+      ],
+      "usage": "原文 are called things like smelly 报告他人对群体的侮辱性标签，不是客观认定某群体“臭”。比较级 smellier。",
+      "ipa": "/ˈsmeli/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There are also really hurtful stereotypes connected to food where people of color get reduced to the food they eat or are called things like smelly because of their food consumption.",
+      "dictionaryExample": {
+        "english": "The barn was smelly and dirty.",
+        "chinese": "谷仓臭又脏。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "75": {
+      "word": "isolation",
+      "sourceRow": 75,
+      "english": "the state of being separate from a wider context",
+      "chinese": "孤立；隔绝",
+      "collocations": [
+        "in isolation from history 与历史隔离地",
+        "social isolation 社会孤立"
+      ],
+      "compare": [
+        "in isolation 指单独看待；in context 指放回背景。"
+      ],
+      "usage": "eating food in isolation from history 是脱离历史背景地消费，不是指一个人独自吃饭。",
+      "ipa": "/ˌaɪsəˈleɪʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable.",
+      "dictionaryExample": {
+        "english": "an isolation hospital/ward (= for people with infectious diseases)",
+        "chinese": "隔离医院／病房",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "isolation (from somebody/something) the state of being alone or lonely",
+          "chinese": "孤独；孤立状态",
+          "exampleEnglish": "Many unemployed people experience feelings of isolation and depression.",
+          "exampleChinese": "很多失业者有孤独沮丧的感觉。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "36": {
+      "word": "repurpose",
+      "sourceRow": 36,
+      "english": "give something a new use",
+      "chinese": "改作他用；重新赋予用途",
+      "collocations": [
+        "repurpose a building 改变建筑用途",
+        "repurpose content for a new audience 改编内容给新受众",
+        "repurpose something as … 把……改用作……"
+      ],
+      "compare": [
+        "repurpose：改变用途",
+        "reuse：再次使用，用途可以不变",
+        "recycle：回收加工材料后再利用"
+      ],
+      "usage": "词本身不必贬义；文中对外来商业包装与社区自行创新作了区分。repurpose something for/as …，不要等同于简单加价。",
+      "ipa": "/ˌriːˈpɜːpəs/",
+      "partOfSpeech": "v. [I/T]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Because of this they're opening up fancy restaurants that repurpose \"cheap\" eats from working class and poor communities that rely on affordable, local products and ingredients.",
+      "dictionaryExample": {
+        "english": "Content repurposed from old media is legitimate internet content.",
+        "chinese": "从旧媒体重新利用的内容是合法的互联网内容。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "77": {
+      "word": "be inaccessible to",
+      "sourceRow": 77,
+      "english": "not possible for somebody to reach, use, or afford",
+      "chinese": "某人无法获得的；难以接触到的",
+      "collocations": [
+        "inaccessible to local communities 当地社群难以享用的",
+        "inaccessible to the public 不向公众开放的"
+      ],
+      "compare": [
+        "inaccessible 表示获取存在障碍；unpopular 只是受欢迎程度低。"
+      ],
+      "usage": "be inaccessible to + 人群；本文主要指餐馆价格和资源门槛。",
+      "ipa": "/ˌɪnækˈsesəbl/",
+      "partOfSpeech": "adjective phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Often, these restaurants are inaccessible to the communities they're appropriating from.",
+      "dictionaryExample": {
+        "english": "They live in a remote area, inaccessible except by car.",
+        "chinese": "他们住在一处偏远地区，只能开车去。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "inaccessible (to somebody) (of language or art) difficult to understand or appreciate",
+          "chinese": "难以达到的；不可得到的",
+          "exampleEnglish": "The language of teenagers is often completely inaccessible to adults.",
+          "exampleChinese": "青少年的语言成人往往听不懂。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+    },
+    "78": {
+      "word": "labor",
+      "sourceRow": 78,
+      "english": "work, especially the work needed to produce food",
+      "chinese": "劳动；劳力",
+      "collocations": [
+        "labor rights 劳工权利",
+        "who is laboring 谁在劳动"
+      ],
+      "compare": [
+        "labor 是美式拼写；labour 是英式拼写。"
+      ],
+      "usage": "原文既有名词 labor rights，也有动词 laboring，词卡需区分词性。 句 49 的 laboring 是动词现在分词，句 40 的 labor rights 是名词作定语。",
+      "ipa": "/ˈleɪbər/",
+      "partOfSpeech": "noun / verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?",
+      "dictionaryExample": {
+        "english": "manual labor (= work using your hands)",
+        "chinese": "身体劳动",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a task or period of work",
+          "chinese": "任务；（一段时间的）工作",
+          "exampleEnglish": "He was so exhausted from the day's labors that he went straight to bed.",
+          "exampleChinese": "他因一天的工作而精疲力尽，因此直接上床睡觉。"
+        },
+        {
+          "english": "the people available for work",
+          "chinese": "劳工；劳动力",
+          "exampleEnglish": "a shortage of labor",
+          "exampleChinese": "劳工短缺"
+        },
+        {
+          "english": "the period of time or the process of giving birth to a baby",
+          "chinese": "分娩期；分娩；生产",
+          "exampleEnglish": "in labor Jane was in labor for ten hours.",
+          "exampleChinese": "简工作了十个小时。"
+        },
+        {
+          "english": "to do hard physical work",
+          "chinese": "干苦力活",
+          "exampleEnglish": "We labored all day in the fields.",
+          "exampleChinese": "我们整天在田里劳作。"
+        },
+        {
+          "english": "to move with difficulty and effort",
+          "chinese": "困难吃力地行进",
+          "exampleEnglish": "The horses labored up the steep slope.",
+          "exampleChinese": "马在陡峭的山坡上劳作。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+    },
+    "79": {
+      "word": "profit off",
+      "sourceRow": 79,
+      "english": "to make money from something, often at another's expense",
+      "chinese": "靠……牟利",
+      "collocations": [
+        "profit off a cuisine 靠某菜系获利",
+        "profit off someone else's labor 靠他人劳动牟利"
+      ],
+      "compare": [
+        "profit off 在这里常带批评意味；profit from 可更中性。"
+      ],
+      "usage": "疑问句 Who is this cuisine profiting off? 中 who 是 off 的宾语。",
+      "ipa": "/ˈprɑːfɪt ɔːf/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Who is this cuisine profiting off?",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "80": {
+      "word": "reappropriate",
+      "sourceRow": 80,
+      "english": "to take something back and use it again",
+      "chinese": "重新取回；重新挪用",
+      "collocations": [
+        "ingredients get reappropriated 食材被重新占用",
+        "reappropriate a tradition 重新占用一种传统"
+      ],
+      "compare": [
+        "reappropriate 表示再度取用；appropriate 在文中指挪用。"
+      ],
+      "usage": "本文是被动 get reappropriated；摘录没有单列 reappropriate 的词典条目。",
+      "ipa": "/ˌriːəˈproʊprieɪt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": false,
+      "articleExample": "Another problem is when ingredients get reappropriated.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+    },
+    "81": {
+      "word": "corporation",
+      "sourceRow": 81,
+      "english": "a large company or business organization",
+      "chinese": "公司；企业",
+      "collocations": [
+        "food corporations 食品企业",
+        "large corporations 大公司"
+      ],
+      "compare": [
+        "corporation 通常指有法人地位的企业；community 指社群。"
+      ],
+      "usage": "原句 corporations 是行为主体，复数与 have repackaged 连用。",
+      "ipa": "/ˌkɔːrpəˈreɪʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities the food comes from.",
+      "dictionaryExample": {
+        "english": "the Chrysler corporation",
+        "chinese": "克莱斯勒公司",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an organization or a group of organizations that is recognized by law as a single unit",
+          "chinese": "法人；法人团体",
+          "exampleEnglish": "urban development corporations",
+          "exampleChinese": "城市开发集团公司"
+        },
+        {
+          "english": "a group of people elected to govern a large town or city and provide public services",
+          "chinese": "市政委员会",
+          "exampleEnglish": "the Lord Mayor and Corporation of the City of London",
+          "exampleChinese": "伦敦市长及市政当局"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "82": {
+      "word": "repackage",
+      "sourceRow": 82,
+      "english": "to put something in new packaging or present it in a new way",
+      "chinese": "重新包装；换一种方式呈现",
+      "collocations": [
+        "repackage local food 重新包装地方食物",
+        "repackage an idea 以新方式包装想法"
+      ],
+      "compare": [
+        "repackage 既可实指换包装，也可比喻换形象。"
+      ],
+      "usage": "原文既说食品被包装为高端商品，也暗示文化商品化。",
+      "ipa": "/ˌriːˈpækɪdʒ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Corporations have now repackaged local food from different places in ways that make it no longer accessible to the local communities the food comes from.",
+      "dictionaryExample": {
+        "english": "She earns more since she repackaged herself as a business consultant.",
+        "chinese": "自从把自己重新包装成商业顾问以来，她的收入增加了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "repackage something to change the boxes, bags, etc. in which a product is sold",
+          "chinese": "改变（产品）包装；重新包装"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "37": {
+      "word": "quinoa",
+      "sourceRow": 37,
+      "english": "edible seeds of a South American plant",
+      "chinese": "藜麦",
+      "collocations": [
+        "cook quinoa 煮藜麦",
+        "quinoa salad 藜麦沙拉",
+        "quinoa seeds 藜麦种子"
+      ],
+      "compare": [
+        "quinoa：作为粮食食用的藜麦种子",
+        "rice：稻米",
+        "couscous：以粗粒面粉制成的蒸煮食物，外形相似而来源不同"
+      ],
+      "usage": "重音可在首节，不按拼写读成 queen-oh-a。表示食材通常不可数。原文 now 的价格判断有发表时点，不能当今天所有产区的普遍事实。",
+      "ipa": "/ˈkiːnwɑː/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For example, quinoa, which is native to Bolivia, is now too expensive for communities there.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "83": {
+      "word": "Bolivia",
+      "sourceRow": 83,
+      "english": "a country in central South America",
+      "chinese": "玻利维亚",
+      "collocations": [
+        "native to Bolivia 原产于玻利维亚",
+        "communities in Bolivia 玻利维亚社群"
+      ],
+      "compare": [
+        "Bolivia 是国家；quinoa 是原产于此的食物。"
+      ],
+      "usage": "专有名词首字母大写；在 which is native to Bolivia 中作介词宾语。",
+      "ipa": "/bəˈlɪviə/",
+      "partOfSpeech": "proper noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "For example, quinoa, which is native to Bolivia, is now too expensive for communities there.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "38": {
+      "word": "collard green",
+      "sourceRow": 38,
+      "english": "broad green cabbage leaves eaten as a vegetable",
+      "chinese": "散叶甘蓝；其可食用绿叶",
+      "collocations": [
+        "cook collard greens 烹煮散叶甘蓝",
+        "a bunch of collard greens 一把散叶甘蓝",
+        "collard green leaves 散叶甘蓝叶"
+      ],
+      "compare": [
+        "collard greens：通常叶片较宽平的甘蓝类叶菜",
+        "kale：羽衣甘蓝，常见卷曲叶",
+        "spinach：菠菜，是另一种蔬菜"
+      ],
+      "usage": "词表写 collard green，实际食材名通常用 collard greens；作前置修饰可单数。the new kale 是市场潮流比喻，不是说两种菜变成同一品种。",
+      "ipa": "/ˈkɒləd ɡriːnz/（复数）",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Last year, Whole Foods declared collard greens the \"new kale.\"",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "39": {
+      "word": "kale",
+      "sourceRow": 39,
+      "english": "a leafy type of cabbage, often with curled leaves",
+      "chinese": "羽衣甘蓝",
+      "collocations": [
+        "curly kale 卷叶羽衣甘蓝",
+        "kale leaves 羽衣甘蓝叶",
+        "a kale salad 羽衣甘蓝沙拉"
+      ],
+      "compare": [
+        "kale：羽衣甘蓝",
+        "collard greens：另一类散叶甘蓝",
+        "cabbage：甘蓝大类，日常也常指结球甘蓝"
+      ],
+      "usage": "食材义不可数。原文 the new kale 指“下一种被追捧的健康叶菜”，并非生物学上的新品种。",
+      "ipa": "/keɪl/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Last year, Whole Foods declared collard greens the \"new kale.\"",
+      "dictionaryExample": {
+        "english": "I could eat a whole bowl of their crispy kale salad.",
+        "chinese": "我可以吃一整碗他们的脆皮羽衣甘蓝沙拉。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "40": {
+      "word": "coconut",
+      "sourceRow": 40,
+      "english": "a tropical fruit with edible white flesh and liquid inside",
+      "chinese": "椰子；椰肉",
+      "collocations": [
+        "coconut water 椰子水",
+        "coconut milk 椰奶",
+        "shredded coconut 椰蓉"
+      ],
+      "compare": [
+        "coconut water：椰果内的液体",
+        "coconut milk：通常由椰肉加工得到的乳状液",
+        "coconut flesh：椰肉本身"
+      ],
+      "usage": "整颗椰子可数，椰肉作食材通常不可数。原文把椰子包装成奢侈饮水是营销层面的转喻，不是所有椰子都只用来卖水。",
+      "ipa": "/ˈkəʊkənʌt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Coconuts have now been packaged as high-end, luxury water.",
+      "dictionaryExample": {
+        "english": "She broke open the coconut and drank its sweet milk.",
+        "chinese": "她打开椰子喝里面的甜椰汁。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the soft white substance inside a coconut, used in cooking",
+          "chinese": "椰子肉；椰蓉",
+          "exampleEnglish": "desiccated coconut",
+          "exampleChinese": "椰子干"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "41": {
+      "word": "soy",
+      "sourceRow": 41,
+      "english": "soya beans or food made from them",
+      "chinese": "大豆；豆制品",
+      "collocations": [
+        "soy products 豆制品",
+        "soy milk 豆奶",
+        "soy sauce 酱油"
+      ],
+      "compare": [
+        "soy：大豆及相关制品的概括",
+        "tofu：凝固豆浆制成的豆腐",
+        "tempeh：发酵整豆制成的块状食品"
+      ],
+      "usage": "本文与 tofu、tempeh 并列，应按大豆及制品理解，不宜机械译作酱油。可数的一粒或一种豆常说 soybean。",
+      "ipa": "/sɔɪ/",
+      "partOfSpeech": "n. [U]，美式；英式常用 soya",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tofu, soy, and tempeh are now staples at organic, healthy food markets.",
+      "dictionaryExample": {
+        "english": "a soya crop",
+        "chinese": "大豆作物",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "42": {
+      "word": "tempeh",
+      "sourceRow": 42,
+      "english": "an Indonesian food made from fermented soya beans pressed into blocks",
+      "chinese": "天贝；印尼发酵豆制品",
+      "collocations": [
+        "a block of tempeh 一块天贝",
+        "grilled tempeh 烤天贝",
+        "fermented soybeans 发酵大豆"
+      ],
+      "compare": [
+        "tempeh：主要以发酵整豆制成块状",
+        "tofu：凝固豆浆制成，质地不同",
+        "soy：大豆原料或相关制品总称"
+      ],
+      "usage": "末尾通常读 /peɪ/；不可数，可用 a block/piece of tempeh。它不是 tofu 的另一种拼写。",
+      "ipa": "/ˈtempeɪ/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tofu, soy, and tempeh are now staples at organic, healthy food markets.",
+      "dictionaryExample": {
+        "english": "To make this dish vegetarian, substitute tempeh for meat.",
+        "chinese": "为了使这道菜素食，用豆代替肉。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "43": {
+      "word": "staple",
+      "sourceRow": 43,
+      "english": "a main or regularly used item",
+      "chinese": "常见的主要商品；日常基本物品",
+      "collocations": [
+        "a staple of the diet 日常主要食物",
+        "household staples 家庭日用品",
+        "staple foods 基本食物"
+      ],
+      "compare": [
+        "staple：经常使用、供应的基本项目",
+        "specialty：某店或某地拿手、特色的东西",
+        "essential：不可缺少，不必是最常销售的商品"
+      ],
+      "usage": "本文 staples at … markets 为常备主要商品，不限于米面一类“主食”。名词、形容词和动词读音相同。",
+      "ipa": "/ˈsteɪpəl/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Tofu, soy, and tempeh are now staples at organic, healthy food markets.",
+      "dictionaryExample": {
+        "english": "Aid workers helped distribute corn, milk and other staples.",
+        "chinese": "救助人员协助分发谷物、牛奶及其他基本食物。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "forming a basic, large or important part of something",
+          "chinese": "主要的；基本的；重要的",
+          "exampleEnglish": "The staple crop is rice.",
+          "exampleChinese": "主要农作物为水稻。"
+        },
+        {
+          "english": "a small piece of wire that is used in a device called a stapler and is pushed through pieces of paper and bent over at the ends in order to fasten the pieces of paper together",
+          "chinese": "订书钉"
+        },
+        {
+          "english": "a U-shaped metal fastener, especially for holding wires",
+          "chinese": "U 形金属卡钉"
+        },
+        {
+          "english": "an economically important product of a country",
+          "chinese": "某国的主要产品；支柱产品",
+          "exampleEnglish": "Rubber became the staple of the Malayan economy.",
+          "exampleChinese": "橡胶成了马来亚经济的支柱产品。"
+        },
+        {
+          "english": "staple something + adv./prep. to attach one thing to another using a staple or staples",
+          "chinese": "用订书钉装订",
+          "exampleEnglish": "Staple the invoice to the receipt.",
+          "exampleChinese": "把发票订到收据上。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "44": {
+      "word": "gentrification",
+      "sourceRow": 44,
+      "english": "a shift that makes a place or activity serve wealthier people",
+      "chinese": "中产阶层化；绅士化",
+      "collocations": [
+        "urban gentrification 城市街区中产化",
+        "food gentrification 食物中产化",
+        "a gentrified neighbourhood 经中产化改造的社区"
+      ],
+      "compare": [
+        "gentrification：社会阶层与使用者改变，常伴原居民负担问题",
+        "renovation：建筑修缮，不必换掉居民群体",
+        "commercialization：商业化，未必专为富裕人群服务"
+      ],
+      "usage": "不可数；不是培养绅士礼貌。food gentrification 是作者把概念用于食物市场的延伸，重点在价格、获取渠道及原社区能否延续生活。",
+      "ipa": "/ˌdʒentrɪfɪˈkeɪʃən/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions.",
+      "dictionaryExample": {
+        "english": "the rapid gentrification of certain neighbourhoods outside Manhattan",
+        "chinese": "曼哈顿郊外某些社区的迅速绅士化",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the process of making an activity acceptable to a higher social class",
+          "chinese": "使活动显得更高雅；提升为中产阶层活动",
+          "exampleEnglish": "Football has undergone gentrification.",
+          "exampleChinese": "足球经历了高级化。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "84": {
+      "word": "sustain",
+      "sourceRow": 84,
+      "english": "to enable something to continue",
+      "chinese": "维持；延续",
+      "collocations": [
+        "sustain traditions 延续传统",
+        "sustain a community 维系社群"
+      ],
+      "compare": [
+        "sustain 指让事物持续；create 指新建。"
+      ],
+      "usage": "句中与 afford 并列：社群可能无法负担自身菜系，也难维持传统。",
+      "ipa": "/səˈsteɪn/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "This is food gentrification, where communities can no longer afford their own cuisines and sustain their traditions.",
+      "dictionaryExample": {
+        "english": "She managed to sustain everyone's interest until the end of her speech.",
+        "chinese": "她使每个人兴趣盎然，一直听她把话讲完。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "sustain somebody/something to provide enough of what somebody/something needs in order to live or exist",
+          "chinese": "维持（生命、生存）",
+          "exampleEnglish": "Which planets can sustain life?",
+          "exampleChinese": "哪些行星可以维持生命的存在？"
+        },
+        {
+          "english": "sustain something (formal) to experience something bad",
+          "chinese": "遭受；蒙受；经受",
+          "exampleEnglish": "to sustain damage/an injury/a defeat",
+          "exampleChinese": "遭受损失；受伤；遭到失败"
+        },
+        {
+          "english": "sustain something to provide evidence to support an opinion, a theory, etc.",
+          "chinese": "证明；证实",
+          "exampleEnglish": "The evidence is not detailed enough to sustain his argument.",
+          "exampleChinese": "这一证据过于笼统，不足以证明他的论点。"
+        },
+        {
+          "english": "sustain something (formal) to support a weight without breaking or falling",
+          "chinese": "支撑；承受住",
+          "exampleEnglish": "The ice will not sustain your weight.",
+          "exampleChinese": "这冰承受不了你的体重。"
+        },
+        {
+          "english": "sustain something (law) to decide that a claim, etc. is true or legally valid",
+          "chinese": "认可；确认；准许；支持",
+          "exampleEnglish": "The court sustained his claim that the contract was illegal.",
+          "exampleChinese": "法庭支持他的主张，认定该合同不合法。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "85": {
+      "word": "truck",
+      "sourceRow": 85,
+      "english": "a road vehicle for carrying goods or selling food",
+      "chinese": "卡车；流动售餐车",
+      "collocations": [
+        "a taco truck 塔可餐车",
+        "a food truck 餐车"
+      ],
+      "compare": [
+        "truck 是车辆；restaurant 是固定营业场所。"
+      ],
+      "usage": "taco truck 是提供塔可饼的餐车，不能解作运输塔可的普通货车。",
+      "ipa": "/trʌk/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home.",
+      "dictionaryExample": {
+        "english": "a truck driver",
+        "chinese": "卡车司机",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an open railway vehicle for goods or animals",
+          "chinese": "敞篷铁路货车",
+          "exampleEnglish": "a cattle truck",
+          "exampleChinese": "敞篷运牛车厢"
+        },
+        {
+          "english": "an open-backed vehicle for carrying goods or people",
+          "chinese": "敞篷载重车",
+          "exampleEnglish": "a delivery/farm truck",
+          "exampleChinese": "送货/农用卡车"
+        },
+        {
+          "english": "a vehicle pushed or pulled by hand to carry things",
+          "chinese": "手推车；手拉车"
+        },
+        {
+          "english": "truck something (+ adv./prep.) to take something somewhere by truck",
+          "chinese": "用卡车装运",
+          "exampleEnglish": "Water had to be trucked in to the town.",
+          "exampleChinese": "水必须用卡车运到镇上。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "86": {
+      "word": "try out",
+      "sourceRow": 86,
+      "english": "to try or test something to see whether you like it",
+      "chinese": "尝试；试用",
+      "collocations": [
+        "try out different recipes 尝试不同食谱",
+        "try out a new method 试用新方法"
+      ],
+      "compare": [
+        "try out 强调试用、体验；try to do 表示努力做某事。"
+      ],
+      "usage": "句中 enjoy trying out，enjoy 后接 -ing；try out 是可分短语动词。",
+      "ipa": "/traɪ aʊt/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It's okay if you love the taco truck outside of your workplace, love eating sushi, or enjoy trying out different recipes at home.",
+      "dictionaryExample": {
+        "english": "They're trying out a new presenter for the show.",
+        "chinese": "他们正在为这个节目试用一名新的主持人。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "87": {
+      "word": "critical",
+      "sourceRow": 87,
+      "english": "extremely important because what happens next depends on it",
+      "chinese": "关键的；极其重要的",
+      "collocations": [
+        "it's critical for us to reflect 我们反思很重要",
+        "critical thinking 审慎思考"
+      ],
+      "compare": [
+        "critical 在这里是“非常重要”；critical thinking 中是“审慎判断”。"
+      ],
+      "usage": "句型 It’s critical for us to + 动词原形；此处是“很重要”，critical thinking 中则是“审慎判断”。",
+      "ipa": "/ˈkrɪtɪkl/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power.",
+      "dictionaryExample": {
+        "english": "Industry leaders are working together to address this critical issue.",
+        "chinese": "行业领导者正在共同努力解决这一关键问题。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "saying what you think is bad about somebody/something",
+          "chinese": "批评的；批判性的；挑剔的",
+          "exampleEnglish": "You should just ignore any critical comments.",
+          "exampleChinese": "您应该忽略任何批评意见。"
+        },
+        {
+          "english": "involving making fair, careful judgements about the good and bad qualities of somebody/something",
+          "chinese": "有判断力的；判断公正（或审慎）的",
+          "exampleEnglish": "Students are encouraged to develop critical thinking instead of accepting opinions without questioning them.",
+          "exampleChinese": "鼓励学生培养批判性思维，而非不加质疑地接受观点。"
+        },
+        {
+          "english": "serious, uncertain and possibly dangerous",
+          "chinese": "危急的；安危攸关的",
+          "exampleEnglish": "One of the victims of the fire remains in a critical condition.",
+          "exampleChinese": "大火的一位受害者依然病情危急。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "76": {
+      "word": "reflect",
+      "sourceRow": 76,
+      "english": "to think carefully about something",
+      "chinese": "认真思考；反思",
+      "collocations": [
+        "reflect on our perceptions 反思我们的看法",
+        "reflect on the relationship 思考关系"
+      ],
+      "compare": [
+        "reflect on 表示深思；reflect something 也可表示反映某事。"
+      ],
+      "usage": "原句 reflect on how we perceive...，on 后接疑问词从句。",
+      "ipa": "/rɪˈflekt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "However, it's critical for us to reflect on how we perceive the cultures that we're consuming and think about the relationships between food, people, and power.",
+      "dictionaryExample": {
+        "english": "Before I decide, I need time to reflect.",
+        "chinese": "在作出决定以前，我需要时间认真考虑考虑。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to show the image of somebody/something on the surface of something such as a mirror, water or glass",
+          "chinese": "反映；映出（影像）",
+          "exampleEnglish": "be reflected (in something) His face was reflected in the mirror.",
+          "exampleChinese": "他的脸映照在镜子里。"
+        },
+        {
+          "english": "to throw back light, heat, sound, etc. from a surface",
+          "chinese": "反射（声、光、热等）",
+          "exampleEnglish": "The windows reflected the bright afternoon sunlight.",
+          "exampleChinese": "窗户反射着午后明媚的阳光。"
+        },
+        {
+          "english": "reflect something to show or be a sign of the nature of something or of somebody’s attitude or feeling",
+          "chinese": "显示，表明，表达（事物的自然属性或人们的态度、情感等）",
+          "exampleEnglish": "Our newspaper aims to reflect the views of the local community.",
+          "exampleChinese": "本报的宗旨是表达当地人民的心声。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    }
+  }
+}

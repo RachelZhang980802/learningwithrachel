@@ -1,0 +1,2800 @@
+{
+  "10": {
+    "42": {
+      "word": "dead language",
+      "sourceRow": 42,
+      "english": "a language no longer spoken in everyday life; here, a text the passenger cannot understand",
+      "chinese": "死语言；这里比喻乘客读不懂河面的讯息",
+      "collocations": [
+        "a dead language 死语言",
+        "read the river like a language 把河流当语言来读"
+      ],
+      "compare": [
+        "dead language 本指不再通用的语言；本文把河面比作书。"
+      ],
+      "usage": "这是比喻：乘客看见水面，却读不出航行信息；摘录未单列该短语。",
+      "ipa": "",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": false,
+      "articleExample": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+    },
+    "43": {
+      "word": "uneducated",
+      "sourceRow": 43,
+      "english": "having had little formal education; here, unable to interpret the river",
+      "chinese": "未受教育的；此处指不会解读河流的",
+      "collocations": [
+        "an uneducated passenger 不懂河流语言的乘客",
+        "an uneducated point of view 缺乏知识的看法"
+      ],
+      "compare": [
+        "uneducated 字面是缺乏正规教育；本文的 river language 是隐喻。"
+      ],
+      "usage": "不要据此推断乘客真实受教育程度；作者强调的是航行知识差异。",
+      "ipa": "/ʌnˈedʒukeɪtɪd/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+      "dictionaryExample": {
+        "english": "an uneducated workforce",
+        "chinese": "缺乏教育的劳动力",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "44": {
+      "word": "reserve",
+      "sourceRow": 44,
+      "english": "without holding anything back",
+      "chinese": "毫无保留地",
+      "collocations": [
+        "tell its mind without reserve 毫无保留地吐露心意",
+        "speak without reserve 坦率地说"
+      ],
+      "compare": [
+        "without reserve 是毫无保留；in reserve 是留作备用。"
+      ],
+      "usage": "修饰河水仿佛向作者透露秘密；这里不取储备或自然保护区义。",
+      "ipa": "/rɪˈzɜːrv/",
+      "partOfSpeech": "idiom",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+      "dictionaryExample": {
+        "english": "with reserve Any contract should be treated with reserve until it has been checked.",
+        "chinese": "任何契约在经过核实之前都应谨慎对待。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a supply of something that is available to be used in the future or when it is needed",
+          "chinese": "储备（量）；贮藏（量）",
+          "exampleEnglish": "cash/foreign currency reserves",
+          "exampleChinese": "现金/外汇储备"
+        },
+        {
+          "english": "a piece of land that is a protected area for animals, plants, etc.（",
+          "chinese": "动植物）保护区；自然保护区",
+          "exampleEnglish": "a wildlife/forest reserve",
+          "exampleChinese": "野生动植物/森林保护区"
+        },
+        {
+          "english": "the quality that somebody has when they do not talk easily to other people about their ideas, feelings, etc.",
+          "chinese": "内向；寡言少语；矜持",
+          "exampleEnglish": "She found it difficult to make friends because of her natural reserve.",
+          "exampleChinese": "她因天性矜持很难交到朋友。"
+        },
+        {
+          "english": "to ask for a seat, table, room, etc. to be available for you or somebody else at a future time",
+          "chinese": "预订，预约（座位、席位、房间等）"
+        },
+        {
+          "english": "reserve something for somebody/something to keep something for somebody/something, so that it cannot be used by any other person or for any other reason",
+          "chinese": "保留；预留",
+          "exampleEnglish": "These seats are reserved for special guests.",
+          "exampleChinese": "这些座位是留给贵宾的。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "45": {
+      "word": "deliver",
+      "sourceRow": 45,
+      "english": "to convey or reveal information",
+      "chinese": "传达；透露",
+      "collocations": [
+        "deliver secrets 透露秘密",
+        "deliver a message 传递信息"
+      ],
+      "compare": [
+        "deliver 可指递送实物，也可比喻传达信息。"
+      ],
+      "usage": "主语是拟人化的河水；delivering 与前面的 told 并列。",
+      "ipa": "/dɪˈlɪvər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+      "dictionaryExample": {
+        "english": "She will deliver a major speech on foreign policy tomorrow.",
+        "chinese": "她明天将在外交政策上发表重要演讲。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "to take goods, letters, etc. to the person or people they have been sent to",
+          "chinese": "递送；传送；交付；运载"
+        },
+        {
+          "english": "to do what you promised to do or what you are expected to do; to produce or provide what people expect you to",
+          "chinese": "履行诺言；不负所望；兑现",
+          "exampleEnglish": "He has promised to finish the job by June and I am sure he will deliver.",
+          "exampleChinese": "他答应在六月底完成这项工作，我相信他会履行诺言。"
+        },
+        {
+          "english": "to take somebody somewhere; to give somebody into somebody else's care or control",
+          "chinese": "交出；交付；移交",
+          "exampleEnglish": "deliver somebody She delivered the kids on time at their father's house.",
+          "exampleChinese": "她准时把孩子们送到他们的父亲家。"
+        },
+        {
+          "english": "deliver a baby to help a woman to give birth to a baby",
+          "chinese": "助产；接生",
+          "exampleEnglish": "The baby was delivered by Caesarean section.",
+          "exampleChinese": "这个婴儿是剖腹产下的。"
+        },
+        {
+          "english": "to give birth to a baby",
+          "chinese": "分娩；生孩子",
+          "exampleEnglish": "deliver something The number of women delivering their babies in hospital increased.",
+          "exampleChinese": "住院分娩的妇女人数有所增加。"
+        },
+        {
+          "english": "deliver something to throw or aim something",
+          "chinese": "投掷；把…瞄准；用…对准",
+          "exampleEnglish": "He delivered the blow (= hit somebody hard) with all his force.",
+          "exampleChinese": "他打这一下使出了全身的力气。"
+        },
+        {
+          "english": "deliver somebody (from something) (old use) to rescue somebody from something bad",
+          "chinese": "解救；拯救；使摆脱",
+          "exampleEnglish": "Deliver us from evil.‘",
+          "exampleChinese": "圣经’救我们脱离邪恶"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "46": {
+      "word": "utter",
+      "sourceRow": 46,
+      "english": "to say something aloud",
+      "chinese": "说出；讲出",
+      "collocations": [
+        "utter a secret 说出秘密",
+        "utter a cry 发出喊声"
+      ],
+      "compare": [
+        "utter 作动词是“说出”；作形容词是“完全的”。"
+      ],
+      "usage": "uttered them 中 them 指河流的秘密；河流不会真的开口，是拟人。",
+      "ipa": "/ˈʌtər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice.",
+      "dictionaryExample": {
+        "english": "He uttered a great cry of anger.",
+        "chinese": "他发出愤怒的哀号。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "used to emphasize how complete something is",
+          "chinese": "完全的；十足的；彻底的",
+          "exampleEnglish": "That's complete and utter nonsense!",
+          "exampleChinese": "那纯属一派胡言！"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "1": {
+      "word": "void of something",
+      "sourceRow": 1,
+      "english": "lacking something completely",
+      "chinese": "完全缺乏……的",
+      "collocations": [
+        "void of interest 毫无趣味的",
+        "void of meaning 没有意义的",
+        "void of emotion 毫无感情的"
+      ],
+      "compare": [
+        "void of：强调完全没有，语气书面",
+        "devoid of：相近的书面表达",
+        "free of：不含某物，常强调摆脱不想要的东西"
+      ],
+      "usage": "原文 never a page that was void of interest 意为每一页都有意思；never 与 void 的否定结合，不能译成“每页都没趣”。固定 of。",
+      "ipa": "/vɔɪd əv/",
+      "partOfSpeech": "adjective phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing.",
+      "dictionaryExample": {
+        "english": "The sky was void of stars.",
+        "chinese": "天空没有一颗星星。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a large empty space",
+          "chinese": "空间；空白；真空；空虚",
+          "exampleEnglish": "Below him was nothing but a black void.",
+          "exampleChinese": "他下面只是一片漆黑。"
+        },
+        {
+          "english": "(law) (of a contract, an agreement etc.",
+          "chinese": "合同、协议等) not correct or legally valid无效的",
+          "exampleEnglish": "The agreement was declared void.",
+          "exampleChinese": "该协议已宣布无效。"
+        },
+        {
+          "english": "(law) (of an election, agreement, etc.",
+          "chinese": "选举、协议等) having no legal force; not valid无法律效力的；无效的",
+          "exampleEnglish": "The contract was declared null and void.",
+          "exampleChinese": "合同被宣布无效。"
+        },
+        {
+          "english": "void something (law) to state officially that something is no longer correct or legally valid",
+          "chinese": "使无效；宣布…作废；取消"
+        },
+        {
+          "english": "void something (formal) to empty waste matter from the bladder or bowels",
+          "chinese": "排泄，排放（大小便）"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "47": {
+      "word": "so wonderful a book",
+      "sourceRow": 47,
+      "english": "the pattern so + adjective + a/an + singular countable noun",
+      "chinese": "如此……的一本书",
+      "collocations": [
+        "so wonderful a book 如此精彩的一本书",
+        "such a wonderful book 如此精彩的一本书"
+      ],
+      "compare": [
+        "so wonderful a book 与 such a wonderful book 意思接近，词序不同。"
+      ],
+      "usage": "so 放在形容词 wonderful 前，a 放在形容词之后；这是句法结构，不是词典单词。",
+      "ipa": "",
+      "partOfSpeech": "grammar pattern",
+      "oxfordExcerptProvided": false,
+      "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+    },
+    "48": {
+      "word": "absorbing",
+      "sourceRow": 48,
+      "english": "so interesting that it holds one's full attention",
+      "chinese": "引人入胜的",
+      "collocations": [
+        "an absorbing book 一本引人入胜的书",
+        "an absorbing story 引人入胜的故事"
+      ],
+      "compare": [
+        "absorbing 强调持续吸引注意；interesting 语气较弱。"
+      ],
+      "usage": "修饰 interest，表示河流像书一样让人读得入迷。",
+      "ipa": "/əbˈzɔːrbɪŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+      "dictionaryExample": {
+        "english": "an absorbing book/game",
+        "chinese": "一本引人入胜的书；一个极有趣的游戏",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "2": {
+      "word": "unflagging",
+      "sourceRow": 2,
+      "english": "never weakening in energy, interest or effort",
+      "chinese": "不减弱的；持久不懈的",
+      "collocations": [
+        "unflagging enthusiasm 持久的热情",
+        "unflagging support 始终如一的支持",
+        "unflagging energy 不减的精力"
+      ],
+      "compare": [
+        "unflagging：关注强度没有衰减",
+        "unwavering：立场或决心不动摇",
+        "tireless：做事仿佛不疲倦"
+      ],
+      "usage": "来自 flag 的“衰退”义，不是“没有旗帜”。原文 interest 指这本“河流之书”的吸引力持续不减。",
+      "ipa": "/ʌnˈflæɡɪŋ/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+      "dictionaryExample": {
+        "english": "She had shown unflagging support for the cause.",
+        "chinese": "她对此事业表现出坚定的支持。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "49": {
+      "word": "sparkingly",
+      "sourceRow": 49,
+      "english": "with a sparkling, lively quality; the printed form is unusual",
+      "chinese": "闪闪发亮地；生动地",
+      "collocations": [
+        "sparkingly renewed 鲜活地重新唤起",
+        "sparklingly clear 闪耀而清晰"
+      ],
+      "compare": [
+        "文中 sparkingly 与常见的 sparklingly 拼写不同。"
+      ],
+      "usage": "保留文章原拼写 sparkingly；词典摘录未收录此形式，需留意它可能是文本异文或笔误。",
+      "ipa": "",
+      "partOfSpeech": "adverb",
+      "oxfordExcerptProvided": false,
+      "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "保留文章拼写 sparkingly；摘录未单列，常见拼写 sparklingly 与它不同，可能是原文异文或笔误。"
+    },
+    "50": {
+      "word": "renewed with",
+      "sourceRow": 50,
+      "english": "made fresh or strong again with each rereading",
+      "chinese": "每次重读都重新焕发",
+      "collocations": [
+        "renewed with every re-perusal 每次重读都焕然一新",
+        "renewed interest 再次兴起的兴趣"
+      ],
+      "compare": [
+        "renewed 指再度增强；repeated 只表示重复。"
+      ],
+      "usage": "renewed with every re-perusal 修饰书的吸引力；with 表伴随每次重读。",
+      "ipa": "/rɪˈnuːd/",
+      "partOfSpeech": "participial phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+      "dictionaryExample": {
+        "english": "Renewed fighting has been reported on the border.",
+        "chinese": "据报道，在边境地区战火重燃。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "3": {
+      "word": "perusal",
+      "sourceRow": 3,
+      "english": "the act of reading or looking through something",
+      "chinese": "阅读；阅览",
+      "collocations": [
+        "for your perusal 供您阅览",
+        "a careful perusal 仔细阅读",
+        "a quick perusal 快速翻阅"
+      ],
+      "compare": [
+        "perusal：较正式的阅读、查阅，不自动保证精读",
+        "study：以理解或研究为目的深入学习",
+        "skim：快速抓大意"
+      ],
+      "usage": "原文 re-perusal 加 re- 表再次阅读。不能只凭 perusal 就断言“一定逐字精读”；程度由 careful、quick 等语境说明。",
+      "ipa": "/pəˈruːzəl/",
+      "partOfSpeech": "n. [S/U]，正式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
+      "dictionaryExample": {
+        "english": "The agreement was signed after careful perusal.",
+        "chinese": "合同是仔细阅读以后才签署的。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "51": {
+      "word": "peculiar",
+      "sourceRow": 51,
+      "english": "strange or distinctive",
+      "chinese": "奇特的；独特的",
+      "collocations": [
+        "a peculiar sort of dimple 一种奇特的浅凹",
+        "a peculiar smell 奇怪的气味"
+      ],
+      "compare": [
+        "peculiar 可指奇怪，也可指某地或某人特有。"
+      ],
+      "usage": "乘客只觉水面小凹很特别，领航员却看出危险信号。",
+      "ipa": "/pɪˈkjuːliər/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "a peculiar smell/taste",
+        "chinese": "奇怪的气味／味道",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "peculiar (to somebody/something) belonging or relating to one particular place, situation, person, etc., and not to others（",
+          "chinese": "某人、某地、某种情况等）特有的，特殊的",
+          "exampleEnglish": "a humour that is peculiar to American sitcoms",
+          "exampleChinese": "美国情景喜剧特有的幽默"
+        },
+        {
+          "english": "(British English, informal) slightly ill",
+          "chinese": "不适；不舒服",
+          "exampleEnglish": "I don’t think I’ll eat anything—I’m feeling a bit peculiar.",
+          "exampleChinese": "我认为我不会吃任何东西，我感觉有点奇怪。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "4": {
+      "word": "faint",
+      "sourceRow": 4,
+      "english": "weak or difficult to notice clearly",
+      "chinese": "微弱的；不明显的",
+      "collocations": [
+        "a faint sound 微弱的声音",
+        "a faint glow 微光",
+        "a faint dimple 轻微的凹纹"
+      ],
+      "compare": [
+        "faint：强度低、不易察觉",
+        "vague：信息轮廓不明确",
+        "dim：光线昏暗"
+      ],
+      "usage": "本文修饰 dimple，并不是水面要晕倒。the faintest 为最高级；not have the faintest idea 表一点也不知道。",
+      "ipa": "/feɪnt/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "a faint glow/glimmer/light",
+        "chinese": "微弱的光亮／闪光／光",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "very small; possible but unlikely",
+          "chinese": "微小的；可能性不大的",
+          "exampleEnglish": "There is still a faint hope that she may be cured.",
+          "exampleChinese": "她的病还有一点点希望可以治愈。"
+        },
+        {
+          "english": "feeling weak and tired and likely to become unconscious",
+          "chinese": "昏眩；快要昏厥",
+          "exampleEnglish": "She suddenly felt faint.",
+          "exampleChinese": "她突然感到快要昏倒。"
+        },
+        {
+          "english": "to become unconscious when not enough blood is going to your brain, usually because of the heat, a shock, etc.",
+          "chinese": "昏厥",
+          "exampleEnglish": "to faint from hunger",
+          "exampleChinese": "饿昏过去"
+        },
+        {
+          "english": "the state of becoming unconscious",
+          "chinese": "昏厥",
+          "exampleEnglish": "He fell to the ground in a dead faint.",
+          "exampleChinese": "他跌倒在地，昏死过去。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "5": {
+      "word": "dimple",
+      "sourceRow": 5,
+      "english": "a small hollow in a surface",
+      "chinese": "小凹陷；本文为水面细小的凹纹",
+      "collocations": [
+        "a dimple in one's cheek 面颊酒窝",
+        "a dimple on the surface 表面的小凹痕",
+        "dimpled cheeks 有酒窝的脸颊"
+      ],
+      "compare": [
+        "dimple：圆浅的小凹处，常让人联想到酒窝",
+        "dent：物体受压或撞击后的凹痕",
+        "ripple：水面的小波纹，不一定有凹陷形状"
+      ],
+      "usage": "这里把水面写成有“酒窝”的脸，延续 face of the water；但它也是领航员识别水下障碍的迹象。不要只记人体义。",
+      "ipa": "/ˈdɪmpəl/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "a pane of glass with a dimple pattern",
+        "chinese": "带浅凹形图案的窗玻璃",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a small hollow place in the skin, especially in the face",
+          "chinese": "酒窝；笑靥",
+          "exampleEnglish": "He has a little round dimple in one cheek.",
+          "exampleChinese": "他的脸颊上有一个圆形的酒窝。"
+        },
+        {
+          "english": "to make a hollow place appear on each side of your face, especially by smiling",
+          "chinese": "现酒窝；现笑靥"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "52": {
+      "word": "occasion",
+      "sourceRow": 52,
+      "english": "a particular time when something happens",
+      "chinese": "某次；……的时候",
+      "collocations": [
+        "on rare occasions 在少数时候",
+        "on this occasion 在这次"
+      ],
+      "compare": [
+        "occasion 可指某个时刻，也可指庆典或机会。"
+      ],
+      "usage": "rare occasions 指乘客偶尔没有完全忽略水面凹痕的时候。",
+      "ipa": "/əˈkeɪʒn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "on an occasion on this/that occasion",
+        "chinese": "这次；那次",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a special event, ceremony or celebration",
+          "chinese": "特别的事情（或仪式、庆典）",
+          "exampleEnglish": "a great/memorable/happy/momentous occasion",
+          "exampleChinese": "一个伟大/值得纪念/快乐/重要的时刻"
+        },
+        {
+          "english": "a suitable time for something",
+          "chinese": "适当的机会；时机",
+          "exampleEnglish": "occasion for doing something It should have been an occasion for rejoicing, but she could not feel any real joy.",
+          "exampleChinese": "原本应该是高兴的时刻，她却丝毫未感到快乐。"
+        },
+        {
+          "english": "(formal) a reason or cause",
+          "chinese": "理由；原因"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "53": {
+      "word": "overlook",
+      "sourceRow": 53,
+      "english": "to fail to notice something",
+      "chinese": "忽略；没有注意到",
+      "collocations": [
+        "overlook a sign 忽略信号",
+        "overlook an important fact 忽略重要事实"
+      ],
+      "compare": [
+        "overlook 也可指俯瞰；本文是否定的“没看见”。"
+      ],
+      "usage": "passenger 没注意到水面小凹，错过了领航员能读出的危险信号。",
+      "ipa": "/ˌəʊvərˈlʊk/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "He seems to have overlooked one important fact.",
+        "chinese": "他好像忽略了一个重要的事实。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "overlook something to see something wrong or bad but decide to ignore it（",
+          "chinese": "对不良现象等）不予理会，视而不见",
+          "exampleEnglish": "We could not afford to overlook such a serious offence.",
+          "exampleChinese": "对这样严重的违法行为，我们决不能视若无睹。"
+        },
+        {
+          "english": "overlook something if a building, etc. overlooks a place, you can see that place from the building",
+          "chinese": "俯视；眺望",
+          "exampleEnglish": "a restaurant overlooking the lake",
+          "exampleChinese": "一家濒湖餐厅"
+        },
+        {
+          "english": "overlook somebody (for something) to not consider somebody for a job or position, even though they might be suitable（",
+          "chinese": "提拔等时）对（某人）不予考虑",
+          "exampleEnglish": "She's been overlooked for promotion several times.",
+          "exampleChinese": "几次提职时都没有考虑她"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "6": {
+      "word": "italicize",
+      "sourceRow": 6,
+      "english": "to print or write in sloping type",
+      "chinese": "用斜体排印；以斜体突出",
+      "collocations": [
+        "italicize a word 把单词设为斜体",
+        "an italicized passage 斜体段落",
+        "words in italics 斜体文字"
+      ],
+      "compare": [
+        "italicize：改变为斜体",
+        "underline：在下方画线",
+        "capitalize：用大写字母"
+      ],
+      "usage": "英式也常拼 italicise。水面不是实际有印刷字，而是比喻细微水纹对专业读者具有强调作用。",
+      "ipa": "/ɪˈtælɪsaɪz/",
+      "partOfSpeech": "v. [T]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "be italicized All book titles have been italicized.",
+        "chinese": "所有书名均以斜体显示。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "7": {
+      "word": "legend",
+      "sourceRow": 7,
+      "english": "words on an object or image that identify or explain it",
+      "chinese": "题字；说明文字",
+      "collocations": [
+        "a map legend 地图图例",
+        "a legend on a coin 钱币上的铭文",
+        "bear a legend 带有题字"
+      ],
+      "compare": [
+        "legend：附在物件、图像上的说明",
+        "caption：图片下面或旁边的文字",
+        "inscription：刻写在物体上的文字"
+      ],
+      "usage": "这里 a legend of the largest capitals 是以巨大大写字母呈现的警示文字，不是“最大的首都传说”。与 book、italicized、exclamation points 同属阅读隐喻。",
+      "ipa": "/ˈledʒənd/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a story from ancient times about people and events, that may or may not be true; this type of story",
+          "chinese": "传说；传奇故事",
+          "exampleEnglish": "The film is based on the legend of Robin Hood.",
+          "exampleChinese": "这部电影是根据罗宾汉的传奇故事改编的。"
+        },
+        {
+          "english": "a very famous person, especially in a particular field, who is admired by other people（",
+          "chinese": "尤指某领域中的）传奇人物",
+          "exampleEnglish": "a jazz/screen/sporting legend",
+          "exampleChinese": "爵士/银幕/体育传奇"
+        },
+        {
+          "english": "(specialist) the explanation of a map or a diagram in a book（",
+          "chinese": "地图或书中图表的）图例，说明，解释"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "8": {
+      "word": "capital",
+      "sourceRow": 8,
+      "english": "a letter in its uppercase form",
+      "chinese": "大写字母",
+      "collocations": [
+        "write in capitals 用大写字母写",
+        "a capital letter 大写字母",
+        "start with a capital 首字母大写"
+      ],
+      "compare": [
+        "capital：大写字母，也叫 uppercase letter",
+        "lowercase：小写形式",
+        "italic：斜体，与大小写是不同维度"
+      ],
+      "usage": "本文 capitals 是复数大写字母，不是首都或资金。largest 夸张字体尺寸，shouting 进一步强化警告感。",
+      "ipa": "/ˈkæpɪtəl/",
+      "partOfSpeech": "plural noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "Please write in capitals.",
+        "chinese": "请用大写字母。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the most important town or city of a country or region, where the government operates from",
+          "chinese": "首都；国都",
+          "exampleEnglish": "Cairo is the capital of Egypt.",
+          "exampleChinese": "开罗是埃及的首都。"
+        },
+        {
+          "english": "wealth or property that is owned by a business or a person and can be invested or used to start a business",
+          "chinese": "财富；财产",
+          "exampleEnglish": "He had various ideas on how to raise capital for the project.",
+          "exampleChinese": "他有许多为该工程集资的想法。"
+        },
+        {
+          "english": "an amount of money that is invested or is used to start a business",
+          "chinese": "资本；资金；启动资金",
+          "exampleEnglish": "to set up a business with a starting capital of £100 000",
+          "exampleChinese": "以 10 万英镑为启动资金创办一个企业"
+        },
+        {
+          "english": "(specialist) people who use their money to start businesses, considered as a group",
+          "chinese": "资方",
+          "exampleEnglish": "capital and labour",
+          "exampleChinese": "资方与劳方"
+        },
+        {
+          "english": "(of letters of the alphabet) having the form and size used at the beginning of a sentence or a name",
+          "chinese": "大写的",
+          "exampleEnglish": "English is written with a capital ‘E’.English",
+          "exampleChinese": "一词中字母 E 大写。"
+        },
+        {
+          "english": "involving punishment by death",
+          "chinese": "死刑的",
+          "exampleEnglish": "a capital offence",
+          "exampleChinese": "死罪"
+        },
+        {
+          "english": "used to emphasize that a word has a stronger meaning than usual in a particular situation（",
+          "chinese": "强调有特别含义的字眼）真正地，名副其实地，不折不扣地",
+          "exampleEnglish": "He was romantic with a capital R.",
+          "exampleChinese": "他纯属浪漫派"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "本文 capitals 是大写字母；摘录另有 capital 的首都、资本等义项，切勿混淆。"
+    },
+    "9": {
+      "word": "exclamation point",
+      "sourceRow": 9,
+      "english": "the punctuation mark ! used for forceful expression",
+      "chinese": "感叹号",
+      "collocations": [
+        "an exclamation point 一个感叹号",
+        "a string of exclamation points 一连串感叹号",
+        "end with an exclamation point 以感叹号结尾"
+      ],
+      "compare": [
+        "exclamation point：标点符号“!”",
+        "exclamation：惊呼或感叹的话",
+        "question mark：问号，标示疑问"
+      ],
+      "usage": "英式常用 exclamation mark；point、mark 都是同一标点的名称。原文 shouting 是拟人化，写危险信号仿佛在大声警告。",
+      "ipa": "/ˌekskləˈmeɪʃən ˌpɔɪnt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "54": {
+      "word": "wreck",
+      "sourceRow": 54,
+      "english": "a badly damaged or sunken ship",
+      "chinese": "沉船；船骸",
+      "collocations": [
+        "a river wreck 河中沉船",
+        "raise a wreck 打捞沉船"
+      ],
+      "compare": [
+        "wreck 可指沉船，也可指事故或被毁坏的人事物。"
+      ],
+      "usage": "水下隐藏的 wreck 会撕裂经过的船只，不是泛指情绪崩溃。",
+      "ipa": "/rek/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "They're going to try and raise the wreck from the seabed.",
+        "chinese": "他们将设法从海底捞起失事船只残骸。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a car, plane, etc. that has been very badly damaged in an accident（",
+          "chinese": "事故中）遭严重毁坏的汽车（或飞机等）",
+          "exampleEnglish": "Two passengers are still trapped in the wreck.",
+          "exampleChinese": "有两名乘客仍被困在失事的车辆里。"
+        },
+        {
+          "english": "(informal) a person who is in a bad physical or mental condition（",
+          "chinese": "身体或精神上）受到严重损伤的人",
+          "exampleEnglish": "Physically, I was a total wreck.",
+          "exampleChinese": "从身体上说，我完全是一个废人。"
+        },
+        {
+          "english": "(informal) a vehicle, building, etc. that is in very bad condition",
+          "chinese": "状况非常糟糕的车辆（或建筑物等）",
+          "exampleEnglish": "The house was a wreck when we bought it.",
+          "exampleChinese": "我们买下这座房子时，它破烂不堪。"
+        },
+        {
+          "english": "an accident in which a vehicle hits something, for example another vehicle, usually causing damage and often injuring or killing the passengers",
+          "chinese": "撞车；碰撞；相撞",
+          "exampleEnglish": "a car/train wreck",
+          "exampleChinese": "汽车／火车失事"
+        },
+        {
+          "english": "wreck something to damage or destroy something",
+          "chinese": "破坏；损坏；毁坏",
+          "exampleEnglish": "A bomb completely wrecked the building.",
+          "exampleChinese": "一颗炸弹把这座建筑完全炸毁了。"
+        },
+        {
+          "english": "wreck something to cause something to fail completely",
+          "chinese": "毁灭；毁掉",
+          "exampleEnglish": "The weather wrecked all our plans.",
+          "exampleChinese": "天气把我们的计划全都毁了。"
+        },
+        {
+          "english": "to damage a ship so much that it sinks or can no longer sail",
+          "chinese": "使（船舶）失事；使遇难；使下沉",
+          "exampleEnglish": "be wrecked The ship was wrecked off the coast of France.",
+          "exampleChinese": "那艘船在法国的沿岸失事。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "55": {
+      "word": "vessel",
+      "sourceRow": 55,
+      "english": "a ship or large boat",
+      "chinese": "船舶；大船",
+      "collocations": [
+        "a strong vessel 坚固的船",
+        "a fishing vessel 渔船"
+      ],
+      "compare": [
+        "vessel 在航海语境是船；在医学语境可指血管。"
+      ],
+      "usage": "the strongest vessel 夸张地说再坚固的船也可能被水下障碍毁坏。",
+      "ipa": "/ˈvesl/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "a small fishing vessel",
+        "chinese": "一艘小渔船",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant（",
+          "chinese": "人或动物的）血管，脉管；（植物的）导管",
+          "exampleEnglish": "to burst/rupture a blood vessel",
+          "exampleChinese": "破裂/破裂血管"
+        },
+        {
+          "english": "(old use or specialist) a container used for holding liquids, such as a bowl, cup, etc.（",
+          "chinese": "盛液体的）容器，器皿",
+          "exampleEnglish": "a Bronze Age drinking vessel",
+          "exampleChinese": "青铜器时代的饮具"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "56": {
+      "word": "float",
+      "sourceRow": 56,
+      "english": "to stay on the surface of water or move gently along it",
+      "chinese": "漂浮；浮动",
+      "collocations": [
+        "a log floated 木头漂浮",
+        "float on the water 漂在水面上"
+      ],
+      "compare": [
+        "float 强调浮在表面；drift 强调随流移动。"
+      ],
+      "usage": "本文多次用于船、木头及光影；不同句子可依对象理解。",
+      "ipa": "/fləʊt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
+      "dictionaryExample": {
+        "english": "Wood floats.",
+        "chinese": "木头能浮起来。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "+ adv./prep. to move slowly on water or in the air",
+          "chinese": "浮动；漂流；飘动；飘移",
+          "exampleEnglish": "A group of swans floated by.",
+          "exampleChinese": "一群天鹅缓缓游过。"
+        },
+        {
+          "english": "+ adv./prep. (literary) to walk or move in a smooth and easy way",
+          "chinese": "轻盈走动；飘然移动",
+          "exampleEnglish": "She floated down the steps to greet us.",
+          "exampleChinese": "她轻盈地下楼来迎接我们。"
+        },
+        {
+          "english": "float something to suggest an idea or a plan for other people to consider",
+          "chinese": "提出，提请考虑（想法或计划）",
+          "exampleEnglish": "They floated the idea of increased taxes on alcohol.",
+          "exampleChinese": "他们建议提高酒税。"
+        },
+        {
+          "english": "float something (business) to sell shares in a company or business to the public for the first time（",
+          "chinese": "公司或企业）首次公开发行（股票），使上市",
+          "exampleEnglish": "The company was floated on the stock market in 2014.",
+          "exampleChinese": "这家公司于 2014 年上市。"
+        },
+        {
+          "english": "float (something) (economics) if a government floats its country’s money or allows it to float, it allows its value to change freely according to the value of the money of other countries（",
+          "chinese": "使货币汇率）自由浮动",
+          "exampleEnglish": "The government decided to allow the peso to float freely.",
+          "exampleChinese": "政府决定让比索自由浮动。"
+        },
+        {
+          "english": "(North American English) a drink with ice cream floating in it",
+          "chinese": "加冰淇淋的饮料",
+          "exampleEnglish": "a Coke float",
+          "exampleChinese": "一杯加冰淇淋的可口可乐"
+        },
+        {
+          "english": "(especially British English) a sum of money consisting of coins and notes of low value that is given to somebody before they start selling things so that they can give customers change（",
+          "chinese": "商店的）备用零钱"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "10": {
+      "word": "hideous",
+      "sourceRow": 10,
+      "english": "extremely ugly, unpleasant or shocking",
+      "chinese": "丑陋可怕的；骇人的",
+      "collocations": [
+        "a hideous sight 骇人的景象",
+        "a hideous mistake 极其糟糕的错误",
+        "look hideous 难看极了"
+      ],
+      "compare": [
+        "hideous：视觉或感受令人强烈反感、震惊",
+        "ugly：主要评价外观或丑恶性质",
+        "dangerous：会造成伤害，不一定看起来难看"
+      ],
+      "usage": "对领航员而言 hideous 重点在细纹意味着严重危险，不是它在颜色形状上特别丑。the most hideous 后省略重复的 expression。",
+      "ipa": "/ˈhɪdiəs/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "It is the faintest and simplest expression the water ever makes, and the most hideous to a pilot's eye.",
+      "dictionaryExample": {
+        "english": "a hideous face/building/dress",
+        "chinese": "丑陋的面孔／建筑物／衣服",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "11": {
+      "word": "in truth",
+      "sourceRow": 11,
+      "english": "used to stress what is actually true",
+      "chinese": "事实上；说真的",
+      "collocations": [
+        "in truth, … 事实上……",
+        "but in truth … 但实际……"
+      ],
+      "compare": [
+        "in truth：强调真实情况，书面感较强",
+        "in fact：常用来补充或纠正事实",
+        "to be honest：突出说话人坦诚表达意见，不保证是在纠正事实"
+      ],
+      "usage": "作为整句评注，通常不带 the。本文引出乘客与领航员的视角对照，而不是“在真理里面”。",
+      "ipa": "/ɪn ˈtruːθ/",
+      "partOfSpeech": "adv. phrase，较正式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
+      "dictionaryExample": {
+        "english": "She laughed and chatted but was, in truth, not having much fun.",
+        "chinese": "她虽然又是笑又是侃，但实际上玩得并不开心。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "12": {
+      "word": "grim",
+      "sourceRow": 12,
+      "english": "serious and worrying, often because danger or suffering is involved",
+      "chinese": "严峻的；令人忧惧的",
+      "collocations": [
+        "a grim warning 严厉可怕的警告",
+        "a grim reality 严酷现实",
+        "a grim expression 严肃忧虑的神情"
+      ],
+      "compare": [
+        "grim：看到危险或坏前景而严峻",
+        "serious：郑重或重大，不必悲观",
+        "gloomy：情绪低落或前景黯淡"
+      ],
+      "usage": "比较级 grimmer、最高级 grimmest，双写 m。本文 the grimmest … of reading matter 指最严峻的解读材料，不是“最阴沉的读书人”。",
+      "ipa": "/ɡrɪm/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
+      "dictionaryExample": {
+        "english": "a grim face/look/smile",
+        "chinese": "严肃的面孔／表情；冷笑",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "unpleasant and depressing",
+          "chinese": "令人不快的；令人沮丧的",
+          "exampleEnglish": "James had some rather grim news.",
+          "exampleChinese": "詹姆斯有一些相当严峻的消息。"
+        },
+        {
+          "english": "(of a place or building) not attractive; depressing",
+          "chinese": "无吸引力的；阴森的；凄凉的",
+          "exampleEnglish": "The house looked grim and dreary in the rain.",
+          "exampleChinese": "这房子在雨中显得阴郁凄凉。"
+        },
+        {
+          "english": "(British English, informal) ill",
+          "chinese": "生病的；不舒服的",
+          "exampleEnglish": "I feel grim this morning.",
+          "exampleChinese": "我今天早上感到不舒服。"
+        },
+        {
+          "english": "(British English, informal) of very low quality",
+          "chinese": "质量低劣；糟糕",
+          "exampleEnglish": "Their performance was fairly grim, I'm afraid!",
+          "exampleChinese": "很遗憾，他们的表现真不怎么样！"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "57": {
+      "word": "dead-earnest",
+      "sourceRow": 57,
+      "english": "completely serious",
+      "chinese": "极其严肃的；绝非儿戏的",
+      "collocations": [
+        "dead-earnest reading matter 严肃的航行信息",
+        "a dead-earnest warning 极其认真的警告"
+      ],
+      "compare": [
+        "dead-earnest 中 dead 加强 earnest；dead 不是字面死亡。"
+      ],
+      "usage": "与乘客眼中的 pretty pictures 对比，领航员读到的是可能致命的信号。",
+      "ipa": "/ded/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "58": {
+      "word": "reading matter",
+      "sourceRow": 58,
+      "english": "material that one reads; here, river signs to interpret",
+      "chinese": "阅读材料；这里指要解读的河面信息",
+      "collocations": [
+        "serious reading matter 严肃的阅读材料",
+        "matter for close reading 值得细读的内容"
+      ],
+      "compare": [
+        "reading matter 通常是可读的文字材料；本文以河面作书，是隐喻。"
+      ],
+      "usage": "在领航员眼中，水面图案是关乎航行安全的“文字”。",
+      "ipa": "/ˈmætər/",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "13": {
+      "word": "trifling",
+      "sourceRow": 13,
+      "english": "small or seemingly unimportant",
+      "chinese": "微小的；看似微不足道的",
+      "collocations": [
+        "a trifling detail 微小细节",
+        "a trifling sum 很小一笔钱",
+        "a trifling matter 小事"
+      ],
+      "compare": [
+        "trifling：重要性或数量小，常淡化分量",
+        "tiny：尺寸非常小",
+        "trivial：次要而不值得重视"
+      ],
+      "usage": "原文虽说 trifling feature，这些细节对航行可能重要，不能理解成“不值得学”。every 后用单数 feature。",
+      "ipa": "/ˈtraɪflɪŋ/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.",
+      "dictionaryExample": {
+        "english": "The money involved was a trifling sum.",
+        "chinese": "所涉及的钱是一笔不小的数目。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "59": {
+      "word": "border",
+      "sourceRow": 59,
+      "english": "to run along or form the edge of something",
+      "chinese": "沿……边缘延伸",
+      "collocations": [
+        "features bordering the river 河岸沿线的景物",
+        "land bordering a river 毗邻河流的土地"
+      ],
+      "compare": [
+        "border 作动词是接壤或沿边；作名词是边界。"
+      ],
+      "usage": "bordered the great river 修饰沿大河分布的细小特征。",
+      "ipa": "/ˈbɔːrdər/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.",
+      "dictionaryExample": {
+        "english": "Meadows bordered the path to the woods.",
+        "chinese": "通往树林的小径两边都是草坪。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the line that divides two countries or areas; the land near this line",
+          "chinese": "国界；边界；边疆；边界地区",
+          "exampleEnglish": "I live in a small town in the US, near the Canadian border.",
+          "exampleChinese": "我住在靠近加拿大边界的一个美国小镇。"
+        },
+        {
+          "english": "border something (of a country or an area) to share a border with another country or area",
+          "chinese": "和…毗邻；与…接壤",
+          "exampleEnglish": "the countries bordering the Baltic",
+          "exampleChinese": "波罗的海沿岸国家"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "14": {
+      "word": "alphabet",
+      "sourceRow": 14,
+      "english": "the ordered set of letters used to write a language",
+      "chinese": "字母表",
+      "collocations": [
+        "the letters of the alphabet 字母表中的字母",
+        "the English alphabet 英文字母表",
+        "in alphabetical order 按字母顺序"
+      ],
+      "compare": [
+        "alphabet：整套按序字母",
+        "letter：其中一个字母",
+        "character：文字系统中的单个符号，范围比字母广"
+      ],
+      "usage": "一个 a、b 是 a letter，不是 an alphabet。本文用熟悉字母表比喻对河道细节的熟悉。",
+      "ipa": "/ˈælfəbet/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.",
+      "dictionaryExample": {
+        "english": "the letters of the alphabet",
+        "chinese": "字母",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "15": {
+      "word": "acquisition",
+      "sourceRow": 15,
+      "english": "something valuable gained or learned",
+      "chinese": "获得的东西；本文为掌握河道知识的收获",
+      "collocations": [
+        "a valuable acquisition 一项宝贵收获",
+        "the acquisition of knowledge 知识的获得",
+        "language acquisition 语言习得"
+      ],
+      "compare": [
+        "acquisition：获得的过程或成果",
+        "achievement：通过努力完成的成就",
+        "possession：拥有状态或所有物，不强调如何获得"
+      ],
+      "usage": "a valuable acquisition 把知识技能看作一项收获；不能机械译为收购了一家公司。过程义常不可数，具体收获可数。",
+      "ipa": "/ˌækwɪˈzɪʃən/",
+      "partOfSpeech": "n. [C]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition.",
+      "dictionaryExample": {
+        "english": "theories of child language acquisition",
+        "chinese": "幼儿语言习得的理论",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "something that somebody buys to add to what they already own, usually something valuable（",
+          "chinese": "多指贵重的）购得物",
+          "exampleEnglish": "His latest acquisition is a racehorse.",
+          "exampleChinese": "他最近购得一匹赛马。"
+        },
+        {
+          "english": "(business) a company, piece of land, etc. bought by somebody, especially another company; the act of buying it",
+          "chinese": "购置物；收购的公司；购置的产业；购置；收购",
+          "exampleEnglish": "They have made acquisitions in several EU countries.",
+          "exampleChinese": "他们在几个欧盟国家购买了一些产业。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "60": {
+      "word": "restore",
+      "sourceRow": 60,
+      "english": "to bring something back to a former state",
+      "chinese": "恢复；找回",
+      "collocations": [
+        "restore lost beauty 找回失去的美",
+        "restore a building 修复建筑"
+      ],
+      "compare": [
+        "restore 可指修复实物，也可指恢复抽象状态。"
+      ],
+      "usage": "something could never be restored 指专业知识改变后再也找不回旧日审美感受。",
+      "ipa": "/rɪˈstɔːr/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I had lost something which could never be restored to me while I lived.",
+      "dictionaryExample": {
+        "english": "The measures are intended to restore public confidence in the economy.",
+        "chinese": "这些举措旨在恢复公众对经济的信心。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "restore somebody/something to something to bring somebody/something back to a former condition, place or position",
+          "chinese": "使复原；使复位；使复职",
+          "exampleEnglish": "He is now fully restored to health.",
+          "exampleChinese": "他现在完全恢复了健康。"
+        },
+        {
+          "english": "restore something to repair a building, work of art, piece of furniture, etc. so that it looks as good as it did originally",
+          "chinese": "修复；整修；使复原",
+          "exampleEnglish": "Her job is restoring old paintings.",
+          "exampleChinese": "她的工作是修复旧画。"
+        },
+        {
+          "english": "restore something to bring a law, tradition, way of working, etc. back into use",
+          "chinese": "重新采用（或实施）；恢复",
+          "exampleEnglish": "to restore ancient traditions",
+          "exampleChinese": "恢复古老的传统"
+        },
+        {
+          "english": "restore something (to somebody/something) (formal) to give something that was lost or stolen back to somebody",
+          "chinese": "归还（失物、赃款等）",
+          "exampleEnglish": "The police have now restored the painting to its rightful owner.",
+          "exampleChinese": "警察已经把这幅油画归还给了它的合法主人。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "16": {
+      "word": "majestic",
+      "sourceRow": 16,
+      "english": "impressive through great size, beauty or power",
+      "chinese": "雄伟的；壮丽庄严的",
+      "collocations": [
+        "a majestic river 雄伟的大河",
+        "majestic mountains 壮丽山峦",
+        "majestic scenery 壮丽景色"
+      ],
+      "compare": [
+        "majestic：宏大、庄严，令人敬畏",
+        "beautiful：美的一般评价",
+        "grand：规模或气派宏大"
+      ],
+      "usage": "原文对大河的客观称呼仍是 majestic；“美消失”讲的是作者体验的变化，不是河流实际失去体积或壮观形态。",
+      "ipa": "/məˈdʒestɪk/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "All the grace, the beauty, the poetry had gone out of the majestic river!",
+      "dictionaryExample": {
+        "english": "a majestic castle/river/view",
+        "chinese": "雄伟的城堡；壮丽的河流／景色",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "61": {
+      "word": "witness",
+      "sourceRow": 61,
+      "english": "to see or experience an event",
+      "chinese": "目睹；见证",
+      "collocations": [
+        "witness a sunset 目睹日落",
+        "witness a change 见证变化"
+      ],
+      "compare": [
+        "witness 强调亲历并看到；watch 可仅指观看过程。"
+      ],
+      "usage": "I witnessed 指作者亲眼见过那次日落。",
+      "ipa": "/ˈwɪtnəs/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me.",
+      "dictionaryExample": {
+        "english": "to witness an accident/a murder/an attack",
+        "chinese": "目击事故/谋杀/袭击",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a person who sees something happen and is able to describe it to other people",
+          "chinese": "目击者；见证人",
+          "exampleEnglish": "He failed to interview a key witness.",
+          "exampleChinese": "他没有采访主要证人。"
+        },
+        {
+          "english": "a person who gives evidence in court",
+          "chinese": "证人",
+          "exampleEnglish": "a defence/prosecution witness",
+          "exampleChinese": "被告的／控方的证人"
+        },
+        {
+          "english": "a person who is present when an official document is signed and who also signs it to prove that they saw this happen",
+          "chinese": "见证人；联署人",
+          "exampleEnglish": "He was one of the witnesses at our wedding.",
+          "exampleChinese": "他是我们婚礼的证婚人之一。"
+        },
+        {
+          "english": "witness something to be the place, period, organization, etc. in which particular events take place",
+          "chinese": "是发生…的地点（或时间、组织等）；见证",
+          "exampleEnglish": "Recent years have witnessed a growing social mobility.",
+          "exampleChinese": "近年来人们的社会流动性越来越大。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "62": {
+      "word": "steamboating",
+      "sourceRow": 62,
+      "english": "travelling or working on a steamboat",
+      "chinese": "乘汽船旅行；从事汽船航行",
+      "collocations": [
+        "new to steamboating 初接触汽船航行",
+        "a steamboat journey 汽船旅行"
+      ],
+      "compare": [
+        "steamboating 是活动；steamboat 是船。"
+      ],
+      "usage": "句中 when steamboating was new to me 指作者刚接触汽船航行；摘录只收录相关名词。",
+      "ipa": "/ˈstiːmbəʊt/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "17": {
+      "word": "expanse",
+      "sourceRow": 17,
+      "english": "a broad open area of land, water or sky",
+      "chinese": "广阔的一片",
+      "collocations": [
+        "a broad expanse of water 广阔的水面",
+        "a vast expanse of sky 辽阔天空",
+        "an expanse of grassland 一大片草原"
+      ],
+      "compare": [
+        "expanse：重在开阔延伸的空间",
+        "area：区域的中性称呼",
+        "extent：程度或延伸范围，不一定是眼前的一片景象"
+      ],
+      "usage": "a broad expanse of the river 指宽阔河面的一大片。不要误写为 expense（费用）。",
+      "ipa": "/ɪkˈspæns/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": {
+        "english": "a wide/vast expanse of blue sky",
+        "chinese": "广阔的蓝天",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "63": {
+      "word": "hue",
+      "sourceRow": 63,
+      "english": "a particular shade or colour",
+      "chinese": "色调；颜色",
+      "collocations": [
+        "a red hue 红色色调",
+        "a warm hue 暖色调"
+      ],
+      "compare": [
+        "hue 强调颜色的色相；tint 常指加了少量颜色后的浅调。"
+      ],
+      "usage": "red hue brightened into gold 描绘夕阳下水面颜色变化。",
+      "ipa": "/hjuː/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": {
+        "english": "His face took on an unhealthy whitish hue.",
+        "chinese": "他的脸上透出一丝病态的苍白。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "(formal) a type of belief or opinion",
+          "chinese": "信仰；观点",
+          "exampleEnglish": "supporters of every political hue",
+          "exampleChinese": "各种政治信仰的拥护者"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "18": {
+      "word": "log",
+      "sourceRow": 18,
+      "english": "a thick piece of a tree trunk or branch",
+      "chinese": "原木；粗木段",
+      "collocations": [
+        "a floating log 漂浮的木头",
+        "a hollow log 中空木段",
+        "a ship's log 航海日志"
+      ],
+      "compare": [
+        "log：一段粗木头",
+        "branch：树枝，不一定粗或已截断",
+        "snag：本文为卡在水底、危及船只的枯木"
+      ],
+      "usage": "本文 floating log 是漂浮木头，和后面嵌在河床的 snag 不同。log 作动词双写 g：logged、logging。",
+      "ipa": "/lɒɡ/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": {
+        "english": "logs for the fire",
+        "chinese": "烧火用的木材",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an official record of events during a particular period of time, especially a journey on a ship or plane（",
+          "chinese": "某时期事件的）正式记录，日志；（尤指）航海日志，飞行日志",
+          "exampleEnglish": "The captain keeps a log.",
+          "exampleChinese": "船长记航海日志。"
+        },
+        {
+          "english": "log something to put information in an official record or write a record of events",
+          "chinese": "把…载入正式记录；记录",
+          "exampleEnglish": "The police log all phone calls.",
+          "exampleChinese": "警方对所有电话都做了记录。"
+        },
+        {
+          "english": "log something to travel a particular distance or for a particular length of time",
+          "chinese": "行驶，行进（若干距离或时间）",
+          "exampleEnglish": "The pilot has logged 1 000 hours in the air.",
+          "exampleChinese": "这位飞行员有 1 000 小时的飞行记录。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "19": {
+      "word": "conspicuous",
+      "sourceRow": 19,
+      "english": "easy to notice because it stands out",
+      "chinese": "显眼的；引人注目的",
+      "collocations": [
+        "be conspicuous against a background 在背景衬托下显眼",
+        "a conspicuous feature 明显特征",
+        "conspicuous by one's absence 因本应出现却缺席而引人注意"
+      ],
+      "compare": [
+        "conspicuous：容易被看到，常因与周围反差大",
+        "obvious：容易被理解或判断",
+        "prominent：突出或重要，也可指视觉显著"
+      ],
+      "usage": "black and conspicuous 是描写漂浮木头的补充形容词；木头在金色水面上形成反差，未必有贬义。",
+      "ipa": "/kənˈspɪkjuəs/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": {
+        "english": "Mary's red hair always made her conspicuous at school.",
+        "chinese": "玛丽的红头发在学校里总是很惹眼。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "64": {
+      "word": "slanting",
+      "sourceRow": 64,
+      "english": "sloping rather than straight up or across",
+      "chinese": "倾斜的；斜向的",
+      "collocations": [
+        "a slanting mark 一道斜痕",
+        "slanting sunlight 斜射的阳光"
+      ],
+      "compare": [
+        "slanting 描述方向倾斜；vertical 指垂直。"
+      ],
+      "usage": "句中 mark 在水面斜向延伸，后来领航员将它解读为暗礁信号。",
+      "ipa": "/ˈslæntɪŋ/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "65": {
+      "word": "tumbling",
+      "sourceRow": 65,
+      "english": "rolling and turning rapidly",
+      "chinese": "翻滚的；旋动的",
+      "collocations": [
+        "tumbling rings 翻滚的环纹",
+        "tumbling water 翻滚的水"
+      ],
+      "compare": [
+        "tumble 有翻滚动作；ripple 只是细小波纹。"
+      ],
+      "usage": "修饰水面环状波纹，视觉上美，专业上可能提示水下变化。",
+      "ipa": "/ˈtʌmbl/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "20": {
+      "word": "tint",
+      "sourceRow": 20,
+      "english": "showing many different shades of colour",
+      "chinese": "呈现多种色调的；色彩斑斓的",
+      "collocations": [
+        "tinted glass 有色玻璃",
+        "a blue tint 淡蓝色调",
+        "many-tinted water 色彩斑斓的水面（本文）"
+      ],
+      "compare": [
+        "tint：一层或一种色调",
+        "hue：颜色类别或色相",
+        "shade：同一颜色的深浅变化"
+      ],
+      "usage": "many-tinted 是“有多种色调的”复合修饰语；as many-tinted as 是 as + 形容词 + as，不是 as many + 复数名词 + as 的数量比较。",
+      "ipa": "/tɪnt/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a shade or small amount of a particular colour; a small amount of colour covering a surface",
+          "chinese": "色调；淡色彩；（一层）淡色，浅色",
+          "exampleEnglish": "leaves with red and gold autumn tints",
+          "exampleChinese": "金秋时节略呈红黄色的树叶"
+        },
+        {
+          "english": "an artificial colour used to change the colour of your hair; the act of colouring the hair with a tint",
+          "chinese": "染发剂；染发",
+          "exampleEnglish": "a blond tint",
+          "exampleChinese": "金黄色染发剂"
+        },
+        {
+          "english": "tint something to change the colour of somebody’s hair with a tint",
+          "chinese": "染（发）",
+          "exampleEnglish": "Have you tinted your hair?",
+          "exampleChinese": "你染过头发吗？"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "sourceCaveat": "本文 many-tinted 是复合形容词，表示颜色繁多；摘录给出 tint 的相关词义，未单列该复合形式。"
+    },
+    "21": {
+      "word": "opal",
+      "sourceRow": 21,
+      "english": "a gemstone often showing changing colours as it is viewed",
+      "chinese": "欧泊；蛋白石",
+      "collocations": [
+        "an opal ring 欧泊戒指",
+        "an opal gemstone 欧泊宝石",
+        "the colours of an opal 欧泊的变彩"
+      ],
+      "compare": [
+        "opal：本文借其变幻色彩写水面",
+        "pearl：珍珠，来自贝类，不是同种材料",
+        "jade：玉，不能按中文“宝石”一概互换"
+      ],
+      "usage": "an opal 中用 an。本文 as an opal 是明喻，比较的是多彩光泽，不是河中真有欧泊。",
+      "ipa": "/ˈəʊpəl/",
+      "partOfSpeech": "n. [C/U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": {
+        "english": "an opal ring",
+        "chinese": "蛋白石戒指",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "22": {
+      "word": "ruddy flush",
+      "sourceRow": 22,
+      "english": "a reddish glow or blush",
+      "chinese": "红润的光彩；泛红的霞光",
+      "collocations": [
+        "ruddy cheeks 红润的脸颊",
+        "a ruddy glow 红色光辉",
+        "a ruddy complexion 红润肤色"
+      ],
+      "compare": [
+        "ruddy：偏温暖、红润的红色",
+        "red：红色的广称",
+        "rosy：常写粉红、健康，也可比喻乐观"
+      ],
+      "usage": "ruddy flush 是霞光映在水面的红晕，不说明水面生病。也不在这里使用英式口语粗话替代义。",
+      "ipa": "/ˈrʌdi/",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "66": {
+      "word": "radiating",
+      "sourceRow": 66,
+      "english": "spreading outward from a centre",
+      "chinese": "向外辐射的；发散的",
+      "collocations": [
+        "radiating lines 向外伸展的线条",
+        "rays radiating from a point 从一点射出的光线"
+      ],
+      "compare": [
+        "radiate 可指光或热向外发出，也可比喻情绪流露。"
+      ],
+      "usage": "radiating lines 与 graceful circles 共同描写水面纹路。",
+      "ipa": "/ˈreɪdieɪt/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "67": {
+      "word": "delicately traced",
+      "sourceRow": 67,
+      "english": "drawn as fine, delicate lines",
+      "chinese": "精细勾画的",
+      "collocations": [
+        "delicately traced lines 精细勾画的线条",
+        "trace a pattern 描出图案"
+      ],
+      "compare": [
+        "trace 作动词可描绘轮廓，也可追踪来源。"
+      ],
+      "usage": "traced 在这里修饰水面线条的形状，不是追查人。",
+      "ipa": "/treɪs/",
+      "partOfSpeech": "participial phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "68": {
+      "word": "somber",
+      "sourceRow": 68,
+      "english": "dark and gloomy in appearance",
+      "chinese": "阴暗的；昏暗的",
+      "collocations": [
+        "somber shadow 阴暗的影子",
+        "a somber mood 沉郁的心情"
+      ],
+      "compare": [
+        "somber 是美式拼写；英式常写 sombre。"
+      ],
+      "usage": "本文只描绘森林投下的暗影，不必加入悲伤心理。",
+      "ipa": "/ˈsɑːmbər/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "69": {
+      "word": "ruffled trail",
+      "sourceRow": 69,
+      "english": "a long, uneven line of disturbed water",
+      "chinese": "一道起皱的水痕",
+      "collocations": [
+        "a ruffled trail 一道波纹凌乱的水痕",
+        "a trail in the water 水上的一道痕迹"
+      ],
+      "compare": [
+        "ruffled 指表面不平静；trail 指延伸的痕迹。"
+      ],
+      "usage": "这里是水面被扰动后发亮的长痕，后文解释与水下障碍有关。",
+      "ipa": "/treɪl/",
+      "partOfSpeech": "noun phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "70": {
+      "word": "clean-stemmed",
+      "sourceRow": 70,
+      "english": "having a clear, bare trunk",
+      "chinese": "树干光洁无枝的",
+      "collocations": [
+        "a clean-stemmed tree 树干光洁的树",
+        "a bare tree trunk 光秃的树干"
+      ],
+      "compare": [
+        "clean-stemmed 是作者临时构词；clean 在此是没有杂枝的视觉效果。"
+      ],
+      "usage": "不要理解为树干被洗过；摘录未单列复合形容词。",
+      "ipa": "",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+    },
+    "23": {
+      "word": "bough",
+      "sourceRow": 23,
+      "english": "a large branch of a tree",
+      "chinese": "粗树枝；大枝",
+      "collocations": [
+        "a leafy bough 枝叶茂盛的大枝",
+        "a low bough 低垂的大枝",
+        "a single living bough 唯一还活着的大枝"
+      ],
+      "compare": [
+        "bough：较粗大的枝，文学感强",
+        "branch：树枝的一般称呼，也能指分支机构",
+        "twig：细小末梢枝条"
+      ],
+      "usage": "读 /baʊ/，不按 though 或 rough 的 -ough 来读。a single leafy bough 与整体 dead tree 的反差突出树仅余一枝的生命力。",
+      "ipa": "/baʊ/",
+      "partOfSpeech": "n. [C]，文学",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "24": {
+      "word": "unobstructed",
+      "sourceRow": 24,
+      "english": "not blocked from view, movement or access",
+      "chinese": "无遮挡的；畅通的",
+      "collocations": [
+        "an unobstructed view 毫无遮挡的视野",
+        "unobstructed access 无阻碍的通行",
+        "an unobstructed path 畅通的道路"
+      ],
+      "compare": [
+        "unobstructed：没有东西挡住",
+        "clear：清晰、晴朗或无障碍，范围广",
+        "unrestricted：没有人为限制"
+      ],
+      "usage": "本文修饰 splendor，指阳光无遮无挡地照过来，不是说光本身“没有规定”。un- 是否定前缀，中心来自 obstruct。",
+      "ipa": "/ˌʌnəbˈstrʌktɪd/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": false,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "missing_source",
+      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+    },
+    "25": {
+      "word": "splendor",
+      "sourceRow": 25,
+      "english": "impressive beauty or brilliance",
+      "chinese": "壮丽；辉煌；本文为灿烂光辉",
+      "collocations": [
+        "in all its splendor 尽显壮美",
+        "the splendor of the sunset 落日的灿烂",
+        "restore something to its former splendor 恢复昔日辉煌"
+      ],
+      "compare": [
+        "splendor：壮美、华丽或光彩引人赞叹",
+        "beauty：美的一般概念",
+        "glow：柔和发光的视觉效果"
+      ],
+      "usage": "英式 splendour；本文美式 splendor 保留。这里说太阳流泻的光辉；复数 splendors 可指各种美景。",
+      "ipa": "/ˈsplendə/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
+      "dictionaryExample": {
+        "english": "The room has a view of Rheims Cathedral, in all its splendour.",
+        "chinese": "从这个房间可以饱览兰斯大教堂的壮观景色。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "71": {
+      "word": "dissolving",
+      "sourceRow": 71,
+      "english": "gradually fading or disappearing",
+      "chinese": "渐渐消散的",
+      "collocations": [
+        "dissolving lights 渐渐淡去的光",
+        "light dissolving into dusk 光线融入黄昏"
+      ],
+      "compare": [
+        "dissolve 本义为溶解；在这里写光色渐淡。"
+      ],
+      "usage": "修饰暮色中不断变化、慢慢散开的光。",
+      "ipa": "/dɪˈzɑːlv/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "72": {
+      "word": "drift",
+      "sourceRow": 72,
+      "english": "to move slowly and gently without a fixed course",
+      "chinese": "缓缓飘移；漂流",
+      "collocations": [
+        "light drifted 光影缓缓飘移",
+        "drift downstream 顺流漂下"
+      ],
+      "compare": [
+        "drift 强调随流或随风移动；float 强调浮在表面。"
+      ],
+      "usage": "这里以拟人的方式写日落的光在整幅景色上漂移。",
+      "ipa": "/drɪft/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.",
+      "dictionaryExample": {
+        "english": "Clouds drifted across the sky.",
+        "chinese": "朵朵浮云在空中飘过。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "+ adv./prep. to move or go somewhere slowly",
+          "chinese": "缓缓移动；缓慢行走",
+          "exampleEnglish": "The crowd drifted away from the scene of the accident.",
+          "exampleChinese": "人群渐渐从事故现场散去。"
+        },
+        {
+          "english": "(+ adv./prep.) to do something, happen or change without a particular plan or purpose",
+          "chinese": "无意间发生；无目的地转变；顺其自然地做",
+          "exampleEnglish": "I didn't intend to be a teacher—I just drifted into it.",
+          "exampleChinese": "我并没打算过当老师，只是顺其自然就当了。"
+        },
+        {
+          "english": "drift in/into something to go from one situation or state to another without realizing it",
+          "chinese": "无意间进入；不知不觉陷入",
+          "exampleEnglish": "Finally she drifted into sleep.",
+          "exampleChinese": "最后她不知不觉地睡着了。"
+        },
+        {
+          "english": "a slow steady movement from one place to another; a slow change or development from one situation to another, especially to something bad",
+          "chinese": "流动；趋势；逐渐变化（尤指向坏的方面）",
+          "exampleEnglish": "the drift of people away from rural areas into urban slums",
+          "exampleChinese": "由农村到城市贫民区的人口流动"
+        },
+        {
+          "english": "the movement of a ship or plane away from its direction because of currents or wind（",
+          "chinese": "船只或飞机的）偏航，航差",
+          "exampleEnglish": "Remember to allow for drift.",
+          "exampleChinese": "记住要允许漂移。"
+        },
+        {
+          "english": "the movement of the sea or air",
+          "chinese": "水流；气流；流动",
+          "exampleEnglish": "the general direction of drift on the east coast",
+          "exampleChinese": "东海岸海水的总体流向"
+        },
+        {
+          "english": "a large pile of something, especially snow, made by the wind",
+          "chinese": "吹聚物；雪堆",
+          "exampleEnglish": "The road was blocked by deep drifts of snow.",
+          "exampleChinese": "道路被风吹来的厚厚积雪阻塞。"
+        },
+        {
+          "english": "the general meaning of what somebody says or writes",
+          "chinese": "大意；主旨；要点",
+          "exampleEnglish": "Do you catch my drift?",
+          "exampleChinese": "你大概明白我的意思吗？"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "26": {
+      "word": "bewitch",
+      "sourceRow": 26,
+      "english": "to fascinate someone as if by magic",
+      "chinese": "使着迷；使如中魔法般陶醉",
+      "collocations": [
+        "be bewitched by beauty 为美所迷",
+        "a bewitching scene 迷人景象",
+        "bewitch an audience 让观众着迷"
+      ],
+      "compare": [
+        "bewitch：像魔法般控制心神，修辞感强",
+        "fascinate：强烈吸引兴趣",
+        "charm：以可爱、亲切或美打动"
+      ],
+      "usage": "like one bewitched 指“像一个中了魔法的人”；bewitched 是后置分词，one 指人，不是数字一。",
+      "ipa": "/bɪˈwɪtʃ/",
+      "partOfSpeech": "v. [T]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I stood like one bewitched.",
+      "dictionaryExample": {
+        "english": "He was completely bewitched by her beauty.",
+        "chinese": "他完全被她的美貌迷住了。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "73": {
+      "word": "rapture",
+      "sourceRow": 73,
+      "english": "a feeling of intense delight",
+      "chinese": "狂喜；陶醉",
+      "collocations": [
+        "speechless rapture 无言的陶醉",
+        "in rapture 欣喜若狂"
+      ],
+      "compare": [
+        "rapture 比 happiness 更强烈，也带沉醉感。"
+      ],
+      "usage": "I drank it in, in a speechless rapture 表示作者全神贯注地享受景象。",
+      "ipa": "/ˈræptʃər/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "I drank it in, in a speechless rapture.",
+      "dictionaryExample": {
+        "english": "Charles listened with rapture to her singing.",
+        "chinese": "查尔斯兴致勃勃地听她演唱。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "74": {
+      "word": "cease from",
+      "sourceRow": 74,
+      "english": "to stop doing something",
+      "chinese": "停止做某事",
+      "collocations": [
+        "cease from noting 不再留意",
+        "cease to notice 停止注意"
+      ],
+      "compare": [
+        "cease from 较正式、略旧；cease to do 或 cease doing 更常见。"
+      ],
+      "usage": "cease from noting 中 from 后接动名词 noting。",
+      "ipa": "/siːs/",
+      "partOfSpeech": "verb phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "27": {
+      "word": "glory",
+      "sourceRow": 27,
+      "english": "something splendid or beautiful that gives great pleasure",
+      "chinese": "壮丽景象；绚丽之美",
+      "collocations": [
+        "the glories of nature 大自然的壮美",
+        "in all its glory 尽显风采",
+        "former glory 昔日的辉煌"
+      ],
+      "compare": [
+        "glory：令人赞叹的美或荣光",
+        "honour：声誉、尊敬与道德荣誉",
+        "beauty：广义的美"
+      ],
+      "usage": "本文 glories 与 charms 并列，是景致之美，不是太阳获得了功勋。荣誉抽象义常不可数，美景可用复数。",
+      "ipa": "/ˈɡlɔːri/",
+      "partOfSpeech": "plural noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
+      "dictionaryExample": {
+        "english": "The temple is one of the glories of ancient Greece.",
+        "chinese": "这座神殿是古希腊的一大骄傲。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "great success that brings somebody praise and honour and makes them famous",
+          "chinese": "壮丽；辉煌；灿烂",
+          "exampleEnglish": "Olympic glory in the 100 metres",
+          "exampleChinese": "奥林匹克 100 米赛跑的桂冠"
+        },
+        {
+          "english": "praise and worship of God（",
+          "chinese": "对上帝的）赞颂，赞美，崇拜",
+          "exampleEnglish": "‘Glory to God in the highest’“",
+          "exampleChinese": "荣耀归于至高无上的上帝”"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "28": {
+      "word": "twilight",
+      "sourceRow": 28,
+      "english": "the dim light near the end of the day",
+      "chinese": "暮光；薄暮",
+      "collocations": [
+        "at twilight 在薄暮时",
+        "in the twilight 在暮色中",
+        "the twilight of one's career 职业生涯末期"
+      ],
+      "compare": [
+        "twilight：天将黑时的微光与时段",
+        "sunset：太阳落到地平线下的过程",
+        "dusk：入夜前天色渐暗的时段"
+      ],
+      "usage": "本文与 moon、sun 并列成为 wrought 的施事，指暮色带来的光影；不能当作明确的钟点。",
+      "ipa": "/ˈtwaɪlaɪt/",
+      "partOfSpeech": "n. [U]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
+      "dictionaryExample": {
+        "english": "in the twilight It was hard to see him clearly in the twilight.",
+        "chinese": "在朦胧的暮色中很难看清他。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "29": {
+      "word": "wrought",
+      "sourceRow": 29,
+      "english": "brought about or produced",
+      "chinese": "造成；创造出",
+      "collocations": [
+        "changes wrought by something 某事带来的变化",
+        "wrought upon the river's face 在河面上造就（本文）",
+        "finely wrought 精心制作的"
+      ],
+      "compare": [
+        "wrought：本文为文学性的 produced/created",
+        "worked：现代 work 的常规过去式",
+        "wreaked：wreak 的规则过去式，常指造成破坏，不宜当全部 wrought 的唯一来源"
+      ],
+      "usage": "which … wrought … 中 wrought 是限定过去时谓语，宾语由 which 对应 glories and charms。Oxford 明确指出它是 work 的旧形式；不把这里解释成现在分词或普通形容词。",
+      "ipa": "/rɔːt/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
+      "dictionaryExample": {
+        "english": "The storm wrought havoc in the south.",
+        "chinese": "这场暴风雨在南方造成了巨大的灾害。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "75": {
+      "word": "fashion",
+      "sourceRow": 75,
+      "english": "a manner or way of doing something",
+      "chinese": "方式；样子",
+      "collocations": [
+        "after this fashion 以这种方式",
+        "in this fashion 这样"
+      ],
+      "compare": [
+        "fashion 在这里是“方式”；不是服装潮流。"
+      ],
+      "usage": "after this fashion 引出作者后来按领航经验给景色作的解释。",
+      "ipa": "/ˈfæʃn/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": {
+        "english": "How could they behave in such a fashion?",
+        "chinese": "他们的态度怎么会这样呢？",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a popular style of clothes, hair, etc. at a particular time or place; the state of being popular（",
+          "chinese": "衣服、发式等的）流行款式，时兴式样",
+          "exampleEnglish": "the latest fashion trends",
+          "exampleChinese": "最新的时装潮流"
+        },
+        {
+          "english": "the business of making or selling clothes in new and different styles",
+          "chinese": "时装业",
+          "exampleEnglish": "They all want to work in fashion.",
+          "exampleChinese": "他们都想时尚。"
+        },
+        {
+          "english": "a popular way of behaving, doing an activity, etc.（",
+          "chinese": "行为、活动等的）时尚，时兴",
+          "exampleEnglish": "This theory, though recent, is more than a passing fashion.",
+          "exampleChinese": "这个理论虽然最近才出现，但并不会昙花一现。"
+        },
+        {
+          "english": "to make or shape something, especially with your hands（",
+          "chinese": "尤指用手工）制作，使成形，塑造",
+          "exampleEnglish": "fashion A (from/out of B) She fashioned a pot from the clay.",
+          "exampleChinese": "她用黏土制成一个罐。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "30": {
+      "word": "bluff",
+      "sourceRow": 30,
+      "english": "steeply rising from the riverbed",
+      "chinese": "从河床陡然隆起的",
+      "collocations": [
+        "bluff banks 陡直河岸",
+        "a bluff reef 陡直的水下沙脊（本文）",
+        "a bluff manner 直率的态度"
+      ],
+      "compare": [
+        "bluff：本文说水下坡面陡直",
+        "steep：陡的常用词",
+        "sheer：接近垂直"
+      ],
+      "usage": "原书第 9 章前文解释 bluff reef 下方为侧面近乎直立的 sand-bar，不能机械译成珊瑚礁或“骗人的礁石”。Cambridge 常用义外，地形义补查 Merriam-Webster。",
+      "ipa": "/blʌf/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "bluff reef 是文学语境中的陡起暗礁；摘录的 bluff 词条只直接解释河边陡坡，本文复合说法按上下文整理。"
+    },
+    "31": {
+      "word": "reef",
+      "sourceRow": 31,
+      "english": "a ridge of rock, coral or sand near the water's surface",
+      "chinese": "礁或水下隆起的脊；本文为危险的水下沙脊",
+      "collocations": [
+        "a coral reef 珊瑚礁",
+        "a submerged reef 水下礁脊",
+        "a bluff reef 陡直沙脊（本文）"
+      ],
+      "compare": [
+        "reef：贴近水面的连续岩、珊瑚或沙脊",
+        "bar：常指水道内的沙洲",
+        "snag：卡在河床的枯木"
+      ],
+      "usage": "不要把现代常见 coral reef 套到密西西比河。原书前文明确把此处 bluff reef 与陡直 sand-bar 联系起来，译为陡直沙脊更准确。",
+      "ipa": "/riːf/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": {
+        "english": "a coral reef",
+        "chinese": "珊瑚礁",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a part of a sail that can be tied or rolled up to make the sail smaller in a strong wind",
+          "chinese": "缩帆部；帆的可收缩部"
+        },
+        {
+          "english": "reef something to make a sail smaller by tying or rolling up part of it",
+          "chinese": "收帆；卷起缩帆部；叠起缩帆部",
+          "exampleEnglish": "They set sail with the sails reefed against the strong winds.",
+          "exampleChinese": "他们乘着逆风刮起的帆起航。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "76": {
+      "word": "stretch out",
+      "sourceRow": 76,
+      "english": "to continue over a distance or area",
+      "chinese": "延伸；伸展",
+      "collocations": [
+        "a reef stretching out 暗礁向外延伸",
+        "stretch out into the river 向河中延伸"
+      ],
+      "compare": [
+        "stretch out 是向外伸展；stretch one's legs 是活动腿脚。"
+      ],
+      "usage": "it 指 bluff reef；如果暗礁继续延伸，就会威胁汽船。",
+      "ipa": "/stretʃ/",
+      "partOfSpeech": "phrasal verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "32": {
+      "word": "bar",
+      "sourceRow": 32,
+      "english": "a submerged or partly submerged bank of sediment",
+      "chinese": "水下或半露水面的沙洲",
+      "collocations": [
+        "a sand bar 沙洲",
+        "a bar in the river 河中的沙洲",
+        "cross a bar 越过沙洲水域"
+      ],
+      "compare": [
+        "bar：沉积形成、可能挡住航道的沙洲",
+        "reef：岩、沙或珊瑚形成的近水面脊",
+        "bank：岸或浅滩，范围较广"
+      ],
+      "usage": "a dissolving bar 是正在被水流冲蚀、改变的沙洲，不是酒吧关门，也不是盐溶于水那种化学过程。本文义补查 Merriam-Webster。",
+      "ipa": "/bɑː/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "本文 bar 是航道中的沙洲；所给 bar 摘录未列该航海义，因此语境义来自原句。"
+    },
+    "77": {
+      "word": "channel",
+      "sourceRow": 77,
+      "english": "a waterway through which a boat can pass",
+      "chinese": "航道；水道",
+      "collocations": [
+        "a changing channel 变化中的航道",
+        "the river channel 河道"
+      ],
+      "compare": [
+        "channel 在这里是水道；也可指电视频道或沟通渠道。"
+      ],
+      "usage": "changing channel 指可通行的河道不断变化，关乎驾驶安全。",
+      "ipa": "/ˈtʃænl/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "a television station",
+          "chinese": "电视台",
+          "exampleEnglish": "a television/TV channel",
+          "exampleChinese": "电视/电视频道"
+        },
+        {
+          "english": "a method or system that people use to get information, to communicate, or to send something somewhere",
+          "chinese": "途径；渠道；系统",
+          "exampleEnglish": "Complaints must be made through the proper channels.",
+          "exampleChinese": "投诉必须通过正当途径进行。"
+        },
+        {
+          "english": "a passage that water can flow along, especially in the ground, on the bottom of a river, etc.",
+          "chinese": "水渠；沟渠；河槽",
+          "exampleEnglish": "drainage channels in the rice fields",
+          "exampleChinese": "稻田的排水沟"
+        },
+        {
+          "english": "a passage of water that connects two areas of water, especially two seas",
+          "chinese": "海峡",
+          "exampleEnglish": "the Bristol Channel",
+          "exampleChinese": "布里斯托尔海峡"
+        },
+        {
+          "english": "channel something (into something) to direct money, feelings, ideas, etc. towards a particular thing or purpose",
+          "chinese": "为…引资；引导；贯注",
+          "exampleEnglish": "He channels his aggression into sport.",
+          "exampleChinese": "他把他的好斗劲头倾注于体育比赛之中。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "33": {
+      "word": "slick",
+      "sourceRow": 33,
+      "english": "smooth and glassy on the surface",
+      "chinese": "水面平滑如镜的",
+      "collocations": [
+        "slick water 平滑的水面",
+        "a slick surface 湿滑表面",
+        "a slick presentation 流畅娴熟的展示"
+      ],
+      "compare": [
+        "slick：平滑发亮，或做得娴熟却可能油滑",
+        "smooth：表面平滑或过程顺畅，较中性",
+        "slippery：容易滑倒，强调摩擦小"
+      ],
+      "usage": "本文仅描述水面形态，不能因此推断有石油污染。oil slick 的 slick 为名词，和此处形容词不同。",
+      "ipa": "/slɪk/",
+      "partOfSpeech": "adjective",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "34": {
+      "word": "yonder",
+      "sourceRow": 34,
+      "english": "in the place over there",
+      "chinese": "在那边；远处",
+      "collocations": [
+        "over yonder 在那边（旧式）",
+        "yonder hill 那边的山（文学）",
+        "the town yonder 那边的城镇"
+      ],
+      "compare": [
+        "yonder：旧式或地域性的“那边”",
+        "there：一般的在那里",
+        "over there：现代常用的指示远处表达"
+      ],
+      "usage": "现代主动表达通常用 over there。本文 over yonder 指说话人示意的远处，不是正式精确方位，也不是 beyond 的同义替换。",
+      "ipa": "/ˈjɒndə/",
+      "partOfSpeech": "adv.（本文），旧式",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": {
+        "english": "Let's rest under yonder tree.",
+        "chinese": "我们在那边的树下休息吧。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt"
+    },
+    "35": {
+      "word": "shoal up",
+      "sourceRow": 35,
+      "english": "to become shallower as sand accumulates",
+      "chinese": "因泥沙堆积而逐渐变浅",
+      "collocations": [
+        "the channel is shoaling 航道在变浅",
+        "shoal up 淤浅（本文）",
+        "a shoal of fish 一群鱼"
+      ],
+      "compare": [
+        "shoal（v.）：水深逐渐减小",
+        "silt up：泥沙淤积堵塞，强调原因",
+        "dry up：水消失或干涸"
+      ],
+      "usage": "is shoaling up 是现在进行时，不能译成“鱼在聚集”。Cambridge 给出浅滩等名词义，本文动词义补查 Merriam-Webster。",
+      "ipa": "/ʃəʊl/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "本文 shoaling up 是水道逐渐淤浅；所给 shoal 摘录只列浅滩名词，未单列此动词短语。"
+    },
+    "36": {
+      "word": "streak",
+      "sourceRow": 36,
+      "english": "a long narrow mark contrasting with its surroundings",
+      "chinese": "条纹；细长痕迹",
+      "collocations": [
+        "a silver streak 一道银色纹痕",
+        "a streak of light 一道光",
+        "a streak of grey 灰白的一缕"
+      ],
+      "compare": [
+        "streak：狭长、与背景对比明显的痕",
+        "stripe：较规则的带状条纹",
+        "trail：运动后留下的一路痕迹"
+      ],
+      "usage": "本文是阴影中的一道银色水纹，后文解释其航行含义。不要用比赛的 winning streak 义理解。",
+      "ipa": "/striːk/",
+      "partOfSpeech": "n. [C]",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": {
+        "english": "There was a streak of blood on his face.",
+        "chinese": "他脸上有一道血痕。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a part of a person’s character, especially an unpleasant part（",
+          "chinese": "尤指不好的）性格特征",
+          "exampleEnglish": "a ruthless/vicious/mean streak",
+          "exampleChinese": "冷酷／邪恶／卑鄙的性格"
+        },
+        {
+          "english": "a series of successes or failures, especially in a sport or in gambling（",
+          "chinese": "尤指体育比赛或赌博中）顺（或背）的时候，运气，手气",
+          "exampleEnglish": "a streak of good luck",
+          "exampleChinese": "运气好"
+        },
+        {
+          "english": "to mark or cover something with streaks",
+          "chinese": "在…上画条纹（或留下条痕）；使布满条纹（或条痕）",
+          "exampleEnglish": "streak something Tears streaked her face.",
+          "exampleChinese": "她脸上是道道泪痕。"
+        },
+        {
+          "english": "+ adv./prep. to move very fast in a particular direction",
+          "chinese": "飞奔；疾驰",
+          "exampleEnglish": "A car pulled out and streaked off down the road.",
+          "exampleChinese": "一辆汽车驶出后沿着公路疾驰而去。"
+        },
+        {
+          "english": "(+ adv./prep.) (informal) to run through a public place with no clothes on as a way of getting attention",
+          "chinese": "裸奔"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "78": {
+      "word": "break",
+      "sourceRow": 78,
+      "english": "a division or interruption in a water surface; here, disturbed water over a snag",
+      "chinese": "水面的断裂或扰动；此处指暗桩上方的破水纹",
+      "collocations": [
+        "the break from a new snag 新暗桩造成的水面破纹",
+        "a break in the surface 水面的断纹"
+      ],
+      "compare": [
+        "break 通常义很多；引号中的 break 在此由上下文限定为航行线索。"
+      ],
+      "usage": "这是作者对水面标志的专业解读；摘录没有给出这一专门航海义，不要把普通“休息”义套入。",
+      "ipa": "/breɪk/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "引号中的 break 指暗桩造成的水面异常；摘录没有单列这一航行专门义，语境解释依据上下文。"
+    },
+    "37": {
+      "word": "snag",
+      "sourceRow": 37,
+      "english": "a submerged tree trunk or branch that can damage a steamboat",
+      "chinese": "水下暗桩；易撞船的沉木",
+      "collocations": [
+        "a submerged snag 水下枯木",
+        "hit a snag 遇到障碍",
+        "snag a sleeve on a nail 袖子被钉子钩破"
+      ],
+      "compare": [
+        "snag：本文为固定在水底的危险木头",
+        "log：粗木段，原文可自由漂浮",
+        "reef：沙、岩等形成的水下脊"
+      ],
+      "usage": "本文随后用 he、himself、fish for steamboats 将 snag 拟人化，说它像在“钓”船。不能只译成抽象“小麻烦”；航行义补查 Merriam-Webster。",
+      "ipa": "/snæɡ/",
+      "partOfSpeech": "noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "本文 snag 是危及船只的水下沉木；摘录只列一般“尖突物”或“难题”等义项，航海义依据原文。"
+    },
+    "38": {
+      "word": "romance",
+      "sourceRow": 38,
+      "english": "a sense of excitement, mystery and imaginative appeal",
+      "chinese": "浪漫情趣；诗意的吸引力",
+      "collocations": [
+        "the romance of travel 旅行的浪漫",
+        "lose its romance 失去浪漫色彩",
+        "a historical romance 历史爱情小说"
+      ],
+      "compare": [
+        "romance：让想象活跃的情趣或神秘吸引力",
+        "love：对人或事的爱",
+        "beauty：美的性质或体验"
+      ],
+      "usage": "本文不是说作者与大河谈恋爱，而是专业习惯使惊叹与诗意退去。这个义通常不可数；两种名词重音均有词典依据。",
+      "ipa": "/rəʊˈmæns/，也读 /ˈrəʊmæns/",
+      "partOfSpeech": "n. [U]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "No, the romance and the beauty were all gone from the river.",
+      "dictionaryExample": {
+        "english": "the romance of travel",
+        "chinese": "旅行奇趣",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "an exciting, usually short, relationship between two people who are in love with each other（",
+          "chinese": "通常指短暂的）浪漫史，爱情关系，风流韵事",
+          "exampleEnglish": "a holiday romance",
+          "exampleChinese": "假日浪漫史"
+        },
+        {
+          "english": "love or the feeling of being in love",
+          "chinese": "恋爱；爱情",
+          "exampleEnglish": "Spring is here and romance is in the air.",
+          "exampleChinese": "春天来了，到处洋溢着爱情的气息。"
+        },
+        {
+          "english": "a story about a love affair",
+          "chinese": "爱情故事",
+          "exampleEnglish": "She's a compulsive reader of romances.",
+          "exampleChinese": "她热衷于阅读爱情故事。"
+        },
+        {
+          "english": "a story of excitement and adventure, often set in the past",
+          "chinese": "传奇故事"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "79": {
+      "word": "furnish",
+      "sourceRow": 79,
+      "english": "to provide or supply something",
+      "chinese": "提供；供给",
+      "collocations": [
+        "furnish useful information 提供有用信息",
+        "furnish somebody with facts 向某人提供事实"
+      ],
+      "compare": [
+        "furnish 在此是提供信息；也可指给房间配家具。"
+      ],
+      "usage": "usefulness it could furnish = 它所能提供的实用价值。",
+      "ipa": "/ˈfɜːrnɪʃ/",
+      "partOfSpeech": "verb",
+      "oxfordExcerptProvided": true,
+      "articleExample": "All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat.",
+      "dictionaryExample": {
+        "english": "She furnished him with the facts surrounding the case.",
+        "chinese": "她向他提供了与案件有关的事实。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "furnish something to put furniture in a house, room, etc.",
+          "chinese": "在（房屋等）处布置家具",
+          "exampleEnglish": "The room was furnished with antiques.",
+          "exampleChinese": "房间里摆放了古董。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "39": {
+      "word": "compass",
+      "sourceRow": 39,
+      "english": "to bring about or achieve something (literary)",
+      "chinese": "实现；促成（旧式文学用法）",
+      "collocations": [
+        "compass an end 达到目的（旧式）",
+        "compassing safe piloting 实现安全领航（本文）",
+        "a magnetic compass 磁罗盘"
+      ],
+      "compare": [
+        "compass（v.）：这里相当于 achieve/accomplish，旧式",
+        "navigate：实际导航或穿行",
+        "encompass：包含、环绕"
+      ],
+      "usage": "toward 是介词，所以后用 compassing；它不是“使用指南针”的普通动词说法。本文动词义补查 Merriam-Webster；现代笔记可释 achieve。",
+      "ipa": "/ˈkʌmpəs/",
+      "partOfSpeech": "verb (literary)",
+      "oxfordExcerptProvided": true,
+      "articleExample": "All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat.",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "本文 compassing 是旧式文学动词“实现”；摘录仅列 compass 名词（指南针等），不能据名词词条冒充核实该动词义。"
+    },
+    "80": {
+      "word": "ripple",
+      "sourceRow": 80,
+      "english": "a small wave on the surface of water",
+      "chinese": "涟漪；细浪",
+      "collocations": [
+        "ripples on the water 水面涟漪",
+        "a ripple of fear 一丝扩散的恐惧"
+      ],
+      "compare": [
+        "ripple 可以指水波，也可比喻情绪扩散。"
+      ],
+      "usage": "ripples 在此是医生比喻中的表面起伏，与河面波纹互相呼应。",
+      "ipa": "/ˈrɪpl/",
+      "partOfSpeech": "plural noun",
+      "oxfordExcerptProvided": true,
+      "articleExample": "What does the lovely flush in a beauty's cheek mean to a doctor but a \"break\" that ripples above some deadly disease?",
+      "dictionaryExample": {
+        "english": "The air was so still that there was hardly a ripple on the pond's surface.",
+        "chinese": "空气静止不动，池塘的水面上几乎看不到波纹。",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "a thing that looks or moves like a small wave（",
+          "chinese": "外观或运动）如波纹的东西",
+          "exampleEnglish": "ripples of sand",
+          "exampleChinese": "沙滩上的波纹"
+        },
+        {
+          "english": "ripple of something a sound that gradually becomes louder and then quieter again",
+          "chinese": "起伏的声音",
+          "exampleEnglish": "a ripple of applause/laughter",
+          "exampleChinese": "一阵阵的掌声／笑声"
+        },
+        {
+          "english": "ripple of something a feeling that gradually spreads through a person or group of people",
+          "chinese": "逐渐扩散的感觉",
+          "exampleEnglish": "A ripple of fear passed through him.",
+          "exampleChinese": "一股恐惧感传遍了他的全身。"
+        },
+        {
+          "english": "to move or to make something move in very small waves（",
+          "chinese": "使）如波浪般起伏",
+          "exampleEnglish": "The sea rippled and sparkled.",
+          "exampleChinese": "大海波光粼粼。"
+        },
+        {
+          "english": "+ adv./prep. (of a feeling, etc.",
+          "chinese": "感觉等) to spread through a person or a group of people like a wave扩散；涌起",
+          "exampleEnglish": "A gasp rippled through the crowd.",
+          "exampleChinese": "人群中传出一片惊诧之声。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "81": {
+      "word": "sown thick with",
+      "sourceRow": 81,
+      "english": "covered thickly with something scattered over a surface",
+      "chinese": "密密布满……",
+      "collocations": [
+        "sown thick with signs 密密布满征兆",
+        "sown with flowers 撒满花朵"
+      ],
+      "compare": [
+        "sown 是 sow 的过去分词；这里比喻“布满”，不是实际播种。"
+      ],
+      "usage": "sown thick with 修饰可见的魅力，暗示医生看到许多疾病征兆。",
+      "ipa": "/səʊ/",
+      "partOfSpeech": "participial phrase",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay?",
+      "dictionaryExample": null,
+      "otherMeanings": [],
+      "otherMeaningsStatus": "none_in_excerpt",
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+    },
+    "40": {
+      "word": "decay",
+      "sourceRow": 40,
+      "english": "gradual deterioration or breakdown",
+      "chinese": "衰败；腐坏；此处指暗藏的身体病变",
+      "collocations": [
+        "signs of decay 衰败迹象",
+        "tooth decay 蛀牙",
+        "fall into decay 逐渐破败"
+      ],
+      "compare": [
+        "decay：逐步坏损或分解",
+        "decline：水平、数量或状态下降",
+        "rot：生物性腐烂，具体感强"
+      ],
+      "usage": "本文 hidden decay 是医生类比中隐藏的病变，不是评论人物道德腐败。名词、动词同读音同重音；decay 一般不用复数表示过程。",
+      "ipa": "/dɪˈkeɪ/",
+      "partOfSpeech": "n. [U]（本文）",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay?",
+      "dictionaryExample": {
+        "english": "tooth decay",
+        "chinese": "蛀牙",
+        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
+      },
+      "otherMeanings": [
+        {
+          "english": "the process of a society, an institution, a system, etc. being gradually destroyed（",
+          "chinese": "社会、机构、制度等的）衰败，衰退，衰落",
+          "exampleEnglish": "the decay of the old industries",
+          "exampleChinese": "旧工业的衰败"
+        },
+        {
+          "english": "(physics) the process by which a radioactive substance changes to a different form by sending out radiation",
+          "chinese": "放射性衰变",
+          "exampleEnglish": "Radioactive decay happens at a constant rate regardless of exposure to air.",
+          "exampleChinese": "无论暴露于空气中如何，放射性衰变都以恒定的速率发生。"
+        },
+        {
+          "english": "decay (something) to be destroyed gradually by natural processes; to destroy something in this way（",
+          "chinese": "使）腐烂，腐朽"
+        },
+        {
+          "english": "if a building or an area decays, its condition slowly becomes worse（",
+          "chinese": "建筑、地方等）破败，衰落，衰败",
+          "exampleEnglish": "decaying inner city areas",
+          "exampleChinese": "衰败中的内城区"
+        },
+        {
+          "english": "to become less powerful and lose influence over people, society, etc.（",
+          "chinese": "力量、影响等）衰弱，衰退，衰减",
+          "exampleEnglish": "decaying standards of morality",
+          "exampleChinese": "日趋低下的道德标准"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    },
+    "41": {
+      "word": "unwholesome",
+      "sourceRow": 41,
+      "english": "unhealthy or harmful to well-being",
+      "chinese": "不健康的；有害的",
+      "collocations": [
+        "an unwholesome condition 不健康的状态",
+        "unwholesome food 不健康的食物",
+        "an unwholesome influence 不良影响"
+      ],
+      "compare": [
+        "unwholesome：不利于身体、心理或道德健康",
+        "unhealthy：健康不佳或有损健康，较常用",
+        "immoral：违反道德标准，不是本文义"
+      ],
+      "usage": "本文 her unwholesome condition 指医生眼中的身体状况，不要误译为女性品行不端。整段是文学类比和反问，未断言所有医生都丧失审美能力。",
+      "ipa": "/ʌnˈhəʊlsəm/",
+      "partOfSpeech": "adj.",
+      "oxfordExcerptProvided": true,
+      "articleExample": "Does he ever see her beauty at all, or doesn't he simply view her professionally, and comment upon her unwholesome condition all to himself?",
+      "dictionaryExample": null,
+      "otherMeanings": [
+        {
+          "english": "that you consider unpleasant or not natural",
+          "chinese": "令人不快的；讨厌的；不自然的",
+          "exampleEnglish": "She developed an obsessive and unwholesome passion for him.",
+          "exampleChinese": "她对他产生了沉迷和不健康的热情。"
+        }
+      ],
+      "otherMeaningsStatus": "present"
+    }
+  }
+}

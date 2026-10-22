@@ -1,0 +1,554 @@
+{
+  "07": {
+    "1": {
+      "file": "/audio/article-01-words-native/a07-row-001.wav",
+      "spokenText": "evolution",
+      "voice": "Samantha (US)"
+    },
+    "2": {
+      "file": "/audio/article-01-words-native/a07-row-002.wav",
+      "spokenText": "protohuman",
+      "voice": "Samantha (US)"
+    },
+    "44": {
+      "file": "/audio/article-01-words-native/a07-row-044.wav",
+      "spokenText": "glorified",
+      "voice": "Samantha (US)"
+    },
+    "3": {
+      "file": "/audio/article-01-words-native/a07-row-003.wav",
+      "spokenText": "chimpanzee",
+      "voice": "Samantha (US)"
+    },
+    "4": {
+      "file": "/audio/article-01-words-native/a07-row-004.wav",
+      "spokenText": "density",
+      "voice": "Samantha (US)"
+    },
+    "45": {
+      "file": "/audio/article-01-words-native/a07-row-045.wav",
+      "spokenText": "scatter",
+      "voice": "Samantha (US)"
+    },
+    "46": {
+      "file": "/audio/article-01-words-native/a07-row-046.wav",
+      "spokenText": "landscape",
+      "voice": "Samantha (US)"
+    },
+    "47": {
+      "file": "/audio/article-01-words-native/a07-row-047.wav",
+      "spokenText": "band",
+      "voice": "Samantha (US)"
+    },
+    "5": {
+      "file": "/audio/article-01-words-native/a07-row-005.wav",
+      "spokenText": "fraction",
+      "voice": "Samantha (US)"
+    },
+    "48": {
+      "file": "/audio/article-01-words-native/a07-row-048.wav",
+      "spokenText": "setting",
+      "voice": "Samantha (US)"
+    },
+    "6": {
+      "file": "/audio/article-01-words-native/a07-row-006.wav",
+      "spokenText": "inhabitant",
+      "voice": "Samantha (US)"
+    },
+    "49": {
+      "file": "/audio/article-01-words-native/a07-row-049.wav",
+      "spokenText": "urban",
+      "voice": "Samantha (US)"
+    },
+    "7": {
+      "file": "/audio/article-01-words-native/a07-row-007.wav",
+      "spokenText": "trade-off",
+      "voice": "Samantha (US)"
+    },
+    "50": {
+      "file": "/audio/article-01-words-native/a07-row-050.wav",
+      "spokenText": "benefit",
+      "voice": "Samantha (US)"
+    },
+    "8": {
+      "file": "/audio/article-01-words-native/a07-row-008.wav",
+      "spokenText": "in return for something",
+      "voice": "Samantha (US)"
+    },
+    "51": {
+      "file": "/audio/article-01-words-native/a07-row-051.wav",
+      "spokenText": "disadvantage",
+      "voice": "Samantha (US)"
+    },
+    "52": {
+      "file": "/audio/article-01-words-native/a07-row-052.wav",
+      "spokenText": "consider",
+      "voice": "Samantha (US)"
+    },
+    "9": {
+      "file": "/audio/article-01-words-native/a07-row-009.wav",
+      "spokenText": "anonymity",
+      "voice": "Samantha (US)"
+    },
+    "53": {
+      "file": "/audio/article-01-words-native/a07-row-053.wav",
+      "spokenText": "issue",
+      "voice": "Samantha (US)"
+    },
+    "54": {
+      "file": "/audio/article-01-words-native/a07-row-054.wav",
+      "spokenText": "in effect",
+      "voice": "Samantha (US)"
+    },
+    "55": {
+      "file": "/audio/article-01-words-native/a07-row-055.wav",
+      "spokenText": "micro-country",
+      "voice": "Samantha (US)"
+    },
+    "56": {
+      "file": "/audio/article-01-words-native/a07-row-056.wav",
+      "spokenText": "nearly",
+      "voice": "Samantha (US)"
+    },
+    "57": {
+      "file": "/audio/article-01-words-native/a07-row-057.wav",
+      "spokenText": "packed into",
+      "voice": "Samantha (US)"
+    },
+    "58": {
+      "file": "/audio/article-01-words-native/a07-row-058.wav",
+      "spokenText": "square mile",
+      "voice": "Samantha (US)"
+    },
+    "59": {
+      "file": "/audio/article-01-words-native/a07-row-059.wav",
+      "spokenText": "strait",
+      "voice": "Samantha (US)"
+    },
+    "60": {
+      "file": "/audio/article-01-words-native/a07-row-060.wav",
+      "spokenText": "prime",
+      "voice": "Samantha (US)"
+    },
+    "61": {
+      "file": "/audio/article-01-words-native/a07-row-061.wav",
+      "spokenText": "real estate",
+      "voice": "Samantha (US)"
+    },
+    "10": {
+      "file": "/audio/article-01-words-native/a07-row-010.wav",
+      "spokenText": "wedge",
+      "voice": "Samantha (US)"
+    },
+    "62": {
+      "file": "/audio/article-01-words-native/a07-row-062.wav",
+      "spokenText": "racial",
+      "voice": "Samantha (US)"
+    },
+    "63": {
+      "file": "/audio/article-01-words-native/a07-row-063.wav",
+      "spokenText": "tension",
+      "voice": "Samantha (US)"
+    },
+    "11": {
+      "file": "/audio/article-01-words-native/a07-row-011.wav",
+      "spokenText": "spur",
+      "voice": "Samantha (US)"
+    },
+    "12": {
+      "file": "/audio/article-01-words-native/a07-row-012.wav",
+      "spokenText": "provoke",
+      "voice": "Samantha (US)"
+    },
+    "64": {
+      "file": "/audio/article-01-words-native/a07-row-064.wav",
+      "spokenText": "monitor",
+      "voice": "Samantha (US)"
+    },
+    "65": {
+      "file": "/audio/article-01-words-native/a07-row-065.wav",
+      "spokenText": "citizen",
+      "voice": "Samantha (US)"
+    },
+    "66": {
+      "file": "/audio/article-01-words-native/a07-row-066.wav",
+      "spokenText": "closely",
+      "voice": "Samantha (US)"
+    },
+    "67": {
+      "file": "/audio/article-01-words-native/a07-row-067.wav",
+      "spokenText": "inspector",
+      "voice": "Samantha (US)"
+    },
+    "68": {
+      "file": "/audio/article-01-words-native/a07-row-068.wav",
+      "spokenText": "standing water",
+      "voice": "Samantha (US)"
+    },
+    "69": {
+      "file": "/audio/article-01-words-native/a07-row-069.wav",
+      "spokenText": "pot",
+      "voice": "Samantha (US)"
+    },
+    "70": {
+      "file": "/audio/article-01-words-native/a07-row-070.wav",
+      "spokenText": "lest",
+      "voice": "Samantha (US)"
+    },
+    "13": {
+      "file": "/audio/article-01-words-native/a07-row-013.wav",
+      "spokenText": "furnish",
+      "voice": "Samantha (US)"
+    },
+    "71": {
+      "file": "/audio/article-01-words-native/a07-row-071.wav",
+      "spokenText": "breed",
+      "voice": "Samantha (US)"
+    },
+    "14": {
+      "file": "/audio/article-01-words-native/a07-row-014.wav",
+      "spokenText": "transmit",
+      "voice": "Samantha (US)"
+    },
+    "15": {
+      "file": "/audio/article-01-words-native/a07-row-015.wav",
+      "spokenText": "sensor",
+      "voice": "Samantha (US)"
+    },
+    "72": {
+      "file": "/audio/article-01-words-native/a07-row-072.wav",
+      "spokenText": "measure",
+      "voice": "Samantha (US)"
+    },
+    "73": {
+      "file": "/audio/article-01-words-native/a07-row-073.wav",
+      "spokenText": "cast",
+      "voice": "Samantha (US)"
+    },
+    "74": {
+      "file": "/audio/article-01-words-native/a07-row-074.wav",
+      "spokenText": "track",
+      "voice": "Samantha (US)"
+    },
+    "75": {
+      "file": "/audio/article-01-words-native/a07-row-075.wav",
+      "spokenText": "consumption",
+      "voice": "Samantha (US)"
+    },
+    "16": {
+      "file": "/audio/article-01-words-native/a07-row-016.wav",
+      "spokenText": "flush",
+      "voice": "Samantha (US)"
+    },
+    "76": {
+      "file": "/audio/article-01-words-native/a07-row-076.wav",
+      "spokenText": "horror",
+      "voice": "Samantha (US)"
+    },
+    "77": {
+      "file": "/audio/article-01-words-native/a07-row-077.wav",
+      "spokenText": "bargain",
+      "voice": "Samantha (US)"
+    },
+    "78": {
+      "file": "/audio/article-01-words-native/a07-row-078.wav",
+      "spokenText": "first-class",
+      "voice": "Samantha (US)"
+    },
+    "17": {
+      "file": "/audio/article-01-words-native/a07-row-017.wav",
+      "spokenText": "tile",
+      "voice": "Samantha (US)"
+    },
+    "79": {
+      "file": "/audio/article-01-words-native/a07-row-079.wav",
+      "spokenText": "property",
+      "voice": "Samantha (US)"
+    },
+    "80": {
+      "file": "/audio/article-01-words-native/a07-row-080.wav",
+      "spokenText": "obtain",
+      "voice": "Samantha (US)"
+    },
+    "18": {
+      "file": "/audio/article-01-words-native/a07-row-018.wav",
+      "spokenText": "bristle",
+      "voice": "Samantha (US)"
+    },
+    "81": {
+      "file": "/audio/article-01-words-native/a07-row-081.wav",
+      "spokenText": "restriction",
+      "voice": "Samantha (US)"
+    },
+    "82": {
+      "file": "/audio/article-01-words-native/a07-row-082.wav",
+      "spokenText": "extreme",
+      "voice": "Samantha (US)"
+    },
+    "83": {
+      "file": "/audio/article-01-words-native/a07-row-083.wav",
+      "spokenText": "prized as",
+      "voice": "Samantha (US)"
+    },
+    "84": {
+      "file": "/audio/article-01-words-native/a07-row-084.wav",
+      "spokenText": "sacred",
+      "voice": "Samantha (US)"
+    },
+    "85": {
+      "file": "/audio/article-01-words-native/a07-row-085.wav",
+      "spokenText": "free-for-all",
+      "voice": "Samantha (US)"
+    },
+    "19": {
+      "file": "/audio/article-01-words-native/a07-row-019.wav",
+      "spokenText": "permissible",
+      "voice": "Samantha (US)"
+    },
+    "86": {
+      "file": "/audio/article-01-words-native/a07-row-086.wav",
+      "spokenText": "nonexistent",
+      "voice": "Samantha (US)"
+    },
+    "87": {
+      "file": "/audio/article-01-words-native/a07-row-087.wav",
+      "spokenText": "vanish",
+      "voice": "Samantha (US)"
+    },
+    "20": {
+      "file": "/audio/article-01-words-native/a07-row-020.wav",
+      "spokenText": "excavate",
+      "voice": "Samantha (US)"
+    },
+    "21": {
+      "file": "/audio/article-01-words-native/a07-row-021.wav",
+      "spokenText": "spray",
+      "voice": "Samantha (US)"
+    },
+    "22": {
+      "file": "/audio/article-01-words-native/a07-row-022.wav",
+      "spokenText": "pesticide",
+      "voice": "Samantha (US)"
+    },
+    "88": {
+      "file": "/audio/article-01-words-native/a07-row-088.wav",
+      "spokenText": "end up",
+      "voice": "Samantha (US)"
+    },
+    "89": {
+      "file": "/audio/article-01-words-native/a07-row-089.wav",
+      "spokenText": "bay",
+      "voice": "Samantha (US)"
+    },
+    "90": {
+      "file": "/audio/article-01-words-native/a07-row-090.wav",
+      "spokenText": "custom",
+      "voice": "Samantha (US)"
+    },
+    "23": {
+      "file": "/audio/article-01-words-native/a07-row-023.wav",
+      "spokenText": "intermediate",
+      "voice": "Samantha (US)"
+    },
+    "24": {
+      "file": "/audio/article-01-words-native/a07-row-024.wav",
+      "spokenText": "whence",
+      "voice": "Samantha (US)"
+    },
+    "25": {
+      "file": "/audio/article-01-words-native/a07-row-025.wav",
+      "spokenText": "millennium",
+      "voice": "Samantha (US)"
+    },
+    "26": {
+      "file": "/audio/article-01-words-native/a07-row-026.wav",
+      "spokenText": "communal",
+      "voice": "Samantha (US)"
+    },
+    "91": {
+      "file": "/audio/article-01-words-native/a07-row-091.wav",
+      "spokenText": "frontier",
+      "voice": "Samantha (US)"
+    },
+    "92": {
+      "file": "/audio/article-01-words-native/a07-row-092.wav",
+      "spokenText": "settlement",
+      "voice": "Samantha (US)"
+    },
+    "93": {
+      "file": "/audio/article-01-words-native/a07-row-093.wav",
+      "spokenText": "self-sufficient",
+      "voice": "Samantha (US)"
+    },
+    "94": {
+      "file": "/audio/article-01-words-native/a07-row-094.wav",
+      "spokenText": "legacy",
+      "voice": "Samantha (US)"
+    },
+    "95": {
+      "file": "/audio/article-01-words-native/a07-row-095.wav",
+      "spokenText": "live on",
+      "voice": "Samantha (US)"
+    },
+    "96": {
+      "file": "/audio/article-01-words-native/a07-row-096.wav",
+      "spokenText": "arrangement",
+      "voice": "Samantha (US)"
+    },
+    "97": {
+      "file": "/audio/article-01-words-native/a07-row-097.wav",
+      "spokenText": "practice",
+      "voice": "Samantha (US)"
+    },
+    "27": {
+      "file": "/audio/article-01-words-native/a07-row-027.wav",
+      "spokenText": "resemble",
+      "voice": "Samantha (US)"
+    },
+    "28": {
+      "file": "/audio/article-01-words-native/a07-row-028.wav",
+      "spokenText": "live out your life",
+      "voice": "Samantha (US)"
+    },
+    "98": {
+      "file": "/audio/article-01-words-native/a07-row-098.wav",
+      "spokenText": "constantly",
+      "voice": "Samantha (US)"
+    },
+    "29": {
+      "file": "/audio/article-01-words-native/a07-row-029.wav",
+      "spokenText": "lifelong",
+      "voice": "Samantha (US)"
+    },
+    "99": {
+      "file": "/audio/article-01-words-native/a07-row-099.wav",
+      "spokenText": "heartwarmingly",
+      "voice": "Samantha (US)"
+    },
+    "100": {
+      "file": "/audio/article-01-words-native/a07-row-100.wav",
+      "spokenText": "recent",
+      "voice": "Samantha (US)"
+    },
+    "101": {
+      "file": "/audio/article-01-words-native/a07-row-101.wav",
+      "spokenText": "isolation",
+      "voice": "Samantha (US)"
+    },
+    "30": {
+      "file": "/audio/article-01-words-native/a07-row-030.wav",
+      "spokenText": "proliferation",
+      "voice": "Samantha (US)"
+    },
+    "102": {
+      "file": "/audio/article-01-words-native/a07-row-102.wav",
+      "spokenText": "crime",
+      "voice": "Samantha (US)"
+    },
+    "31": {
+      "file": "/audio/article-01-words-native/a07-row-031.wav",
+      "spokenText": "dweller",
+      "voice": "Samantha (US)"
+    },
+    "32": {
+      "file": "/audio/article-01-words-native/a07-row-032.wav",
+      "spokenText": "romanticize",
+      "voice": "Samantha (US)"
+    },
+    "33": {
+      "file": "/audio/article-01-words-native/a07-row-033.wav",
+      "spokenText": "suffocating",
+      "voice": "Samantha (US)"
+    },
+    "103": {
+      "file": "/audio/article-01-words-native/a07-row-103.wav",
+      "spokenText": "potential",
+      "voice": "Samantha (US)"
+    },
+    "104": {
+      "file": "/audio/article-01-words-native/a07-row-104.wav",
+      "spokenText": "incessantly",
+      "voice": "Samantha (US)"
+    },
+    "34": {
+      "file": "/audio/article-01-words-native/a07-row-034.wav",
+      "spokenText": "sidewalk",
+      "voice": "Samantha (US)"
+    },
+    "35": {
+      "file": "/audio/article-01-words-native/a07-row-035.wav",
+      "spokenText": "importune",
+      "voice": "Samantha (US)"
+    },
+    "36": {
+      "file": "/audio/article-01-words-native/a07-row-036.wav",
+      "spokenText": "clan",
+      "voice": "Samantha (US)"
+    },
+    "37": {
+      "file": "/audio/article-01-words-native/a07-row-037.wav",
+      "spokenText": "bewail",
+      "voice": "Samantha (US)"
+    },
+    "105": {
+      "file": "/audio/article-01-words-native/a07-row-105.wav",
+      "spokenText": "opaque",
+      "voice": "Samantha (US)"
+    },
+    "38": {
+      "file": "/audio/article-01-words-native/a07-row-038.wav",
+      "spokenText": "conceal",
+      "voice": "Samantha (US)"
+    },
+    "39": {
+      "file": "/audio/article-01-words-native/a07-row-039.wav",
+      "spokenText": "thereby",
+      "voice": "Samantha (US)"
+    },
+    "106": {
+      "file": "/audio/article-01-words-native/a07-row-106.wav",
+      "spokenText": "luxury",
+      "voice": "Samantha (US)"
+    },
+    "40": {
+      "file": "/audio/article-01-words-native/a07-row-040.wav",
+      "spokenText": "drawback",
+      "voice": "Samantha (US)"
+    },
+    "107": {
+      "file": "/audio/article-01-words-native/a07-row-107.wav",
+      "spokenText": "come down to",
+      "voice": "Samantha (US)"
+    },
+    "41": {
+      "file": "/audio/article-01-words-native/a07-row-041.wav",
+      "spokenText": "compromise",
+      "voice": "Samantha (US)"
+    },
+    "108": {
+      "file": "/audio/article-01-words-native/a07-row-108.wav",
+      "spokenText": "increasingly",
+      "voice": "Samantha (US)"
+    },
+    "109": {
+      "file": "/audio/article-01-words-native/a07-row-109.wav",
+      "spokenText": "adopt",
+      "voice": "Samantha (US)"
+    },
+    "42": {
+      "file": "/audio/article-01-words-native/a07-row-042.wav",
+      "spokenText": "meter",
+      "voice": "Samantha (US)"
+    },
+    "43": {
+      "file": "/audio/article-01-words-native/a07-row-043.wav",
+      "spokenText": "affluence",
+      "voice": "Samantha (US)"
+    },
+    "110": {
+      "file": "/audio/article-01-words-native/a07-row-110.wav",
+      "spokenText": "surroundings",
+      "voice": "Samantha (US)"
+    }
+  }
+}

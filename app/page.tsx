@@ -1,6 +1,51 @@
 "use client";
+import { article01ReadingLesson } from "./article01Structure";
 
 import { CSSProperties, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { taylorCommencementArticle } from "./taylor-commencement";
+import { TaylorVocabularyArticleBody } from "./TaylorVocabularyNotes";
+import { BrooksVocabularyArticleBody } from "./BrooksVocabularyNotes";
+import { CrawfordVocabularyArticleBody } from "./CrawfordVocabularyNotes";
+import { HarvardVocabularyArticleBody } from "./HarvardVocabularyNotes";
+import { ColumbiaVocabularyArticleBody } from "./ColumbiaVocabularyNotes";
+import { DeepSeekVocabularyArticleBody } from "./DeepSeekVocabularyNotes";
+import { CarHandlesVocabularyArticleBody } from "./CarHandlesVocabularyNotes";
+import { AiMathVocabularyArticleBody } from "./AiMathVocabularyNotes";
+import { DictionaryVocabularyArticleBody } from "./DictionaryVocabularyNotes";
+import { ParentifiedChildVocabularyArticleBody } from "./ParentifiedChildVocabularyNotes";
+import { RaiseABullyVocabularyArticleBody } from "./RaiseABullyVocabularyNotes";
+import { CatLadiesVocabularyArticleBody } from "./CatLadiesVocabularyNotes";
+import { StereotypesVocabularyArticleBody } from "./StereotypesVocabularyNotes";
+import { DiversityVocabularyArticleBody } from "./DiversityVocabularyNotes";
+import { WomenLeadersVocabularyArticleBody } from "./WomenLeadersVocabularyNotes";
+import { LoveJointVocabularyArticleBody } from "./LoveJointVocabularyNotes";
+import { HealthyLoveVocabularyArticleBody } from "./HealthyLoveVocabularyNotes";
+import { GaslightVocabularyArticleBody } from "./GaslightVocabularyNotes";
+import { CaseAgainstTravelVocabularyArticleBody, FoxEyeVocabularyArticleBody, HanKangVocabularyArticleBody, LiZiqiVocabularyArticleBody, OrientalismVocabularyArticleBody, SlateVocabularyArticleBody, TokyoVocabularyArticleBody, ViceVocabularyArticleBody } from "./ReadingVocabularyNotes";
+import { liZiqiArticle } from "./inquire-li-ziqi-article";
+import { tokyoArticle } from "./inquire-tokyo-article";
+import { livingCityArticle } from "./inquire-living-city-article";
+import { orientalismArticle } from "./inquire-orientalism-article";
+import { hanKangArticle } from "./inquire-han-kang-article";
+import { caseAgainstTravelArticle } from "./inquire-case-against-travel-article";
+import { foxEyeArticle } from "./inquire-fox-eye-article";
+import { LivingCityArticleBody } from "./LivingCityArticleBody";
+import { columbiaArticle, harvardArticle, individualismArticle } from "./inquire-feature-articles";
+import { aiMathArticle, carHandlesArticle, deepSeekArticle, dictionaryArticle } from "./inquire-technology-articles";
+import { parentifiedChildArticle, raiseABullyArticle } from "./inquire-family-articles";
+import { catLadiesArticle, diversityArticle, stereotypesArticle, womenLeadersArticle } from "./inquire-stereotype-articles";
+import { loveJointArticle, gaslightArticle } from "./inquire-love-articles";
+import { healthyUnhealthyLoveArticle } from "./inquire-healthy-love-article";
+import { h1bVisaArticle } from "./inquire-h1b-visa-article";
+import { railroadWorkersArticle } from "./inquire-railroad-workers-article";
+import { chinaClimateLeaderArticle } from "./inquire-china-climate-article";
+import { ChinaClimateVocabularyArticleBody } from "./ChinaClimateVocabularyNotes";
+import { UniversityFooter } from "./UniversityFooter";
+import { ArticleSyntaxReading } from "./ArticleSyntaxReading";
+import { H1BVisaArticleBody } from "./H1BVisaArticleBody";
+import { malaysiaHistoryTranscript, singaporeExpulsionTranscript, singaporeHistoryTranscript } from "./inquire-urban-history-transcripts";
+import { chinaTransitPolicyTranscript, shanghaiTransitVlogTranscript, threeCupChickenTranscript } from "./inquire-video-transcripts";
+import type { InquireFeatureArticle } from "./inquire-feature-articles";
 import { articleStudioConfigs } from "./article04StudioConfig";
 import { article05StudioConfig } from "./article05StudioConfig";
 import { articleStudioConfigs0610 } from "./article06to10StudioConfig";
@@ -9,10 +54,10 @@ import { MuckRakeIntro } from "./MuckRakeIntro";
 import { article01StructureData } from "./article01StructureData";
 import { StructureDiagram } from "./ClauseMemo";
 import { ClauseEntry } from "./ClauseEntry";
-import { VocabularyParagraph, type VocabularyTarget } from "./ArticleVocabulary";
+import { VocabularyParagraph, vocabularyMatches as article01VocabularyMatches, type VocabularyTarget } from "./ArticleVocabulary";
 import { ArticleOneWords } from "./ArticleOneWords";
 import { LessonVocabularyParagraph, LessonVocabularyTitle, LessonWords, LessonStructure, LessonActivities } from "./ArticleLessonContent";
-import { getLesson } from "./articleLessons";
+import { getLesson, paragraphSegments, vocabularyMatches as lessonVocabularyMatches } from "./articleLessons";
 import { GrammarLegend, grammarRole } from "./GrammarLegend";
 import { PendingWordWorkspace } from "./WordFileDesk";
 import { ArticleOneParaphrase } from "./ArticleOneParaphrase";
@@ -21,10 +66,13 @@ import { article01Translations } from "./article01Translations";
 import { ArticleOneNotebook, SentenceBadge } from "./ArticleOneNotebook";
 import { ArticleOneQuiz } from "./ArticleOneQuiz";
 import { articles02to05QuizData } from "./articles02to05QuizData";
+import { articles06to10QuizData } from "./articles06to10QuizData";
 import { TextImageLetterHero } from "./TextImageLetterHero";
 import { isNarrativeCourseHash, NarrativeWritingCourse } from "./NarrativeWritingCourse";
 import { XiumiArticleShelf } from "./XiumiArticleShelf";
 import { toMediaUrl } from "./mediaUrl";
+import { ArticleMindmap } from "./ArticleMindmap";
+import { writingTaskCards } from "./writingTaskCards";
 
 type View = "library" | "guide" | "index" | "about" | "reading";
 type Section = "home" | "reading" | "writing" | "culture";
@@ -37,6 +85,19 @@ type Article = {
   theme: string;
   image: string;
 };
+
+function canUseEditorialDropCap(articleId: string, paragraph: string) {
+  const firstVisibleCharacter = paragraph.search(/\S/);
+  if (firstVisibleCharacter < 0) return false;
+  if (articleId === "01") {
+    return !article01VocabularyMatches(paragraph, 1).some(match => match.start <= firstVisibleCharacter && match.end > firstVisibleCharacter);
+  }
+  const lesson = getLesson(articleId);
+  if (!lesson) return true;
+  const firstSentence = paragraphSegments(lesson, 1, paragraph)[0];
+  if (!firstSentence) return true;
+  return !lessonVocabularyMatches(lesson, firstSentence.sentence, firstSentence.text).some(match => match.start <= firstVisibleCharacter && match.end > firstVisibleCharacter);
+}
 
 
 const articles: Article[] = [
@@ -151,7 +212,7 @@ function Header({ view, onNavigate, onHome }: { view: View; onNavigate: (view: V
         <button onClick={onHome ?? (() => onNavigate("library"))}>Home</button>
         {(["library", "guide", "index", "about"] as View[]).map((item) => (
           <button key={item} className={view === item ? "is-current" : ""} onClick={() => onNavigate(item)}>
-            {item === "guide" ? "Inquire Lab" : item[0].toUpperCase() + item.slice(1)}
+            {item === "guide" ? "Inquire Lab" : item === "index" ? "Writing" : item[0].toUpperCase() + item.slice(1)}
           </button>
         ))}
       </nav>
@@ -169,6 +230,10 @@ const primarySections: Array<{ id: Section; label: string }> = [
 function PrimaryNavigation({ current, onNavigate }: { current: Section; onNavigate: (section: Section) => void }) {
   return (
     <nav className="learning-primary-nav" aria-label="Primary navigation">
+      <span className="learning-primary-brand" aria-label="NegentropyLearning">
+        <img src="https://assets.negentropylearning.com.cn/media/brand/fat-cat-wordmark.png" alt="" />
+        <span>NegentropyLearning</span>
+      </span>
       {primarySections.map((item) => (
         <button
           key={item.id}
@@ -304,6 +369,20 @@ export default function Home() {
   const touchStart = useRef<number | null>(null);
 
   useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const requested = params.get("article");
+    const requestedIndex = articles.findIndex((article) => article.number === requested);
+    if (params.get("open") === "inquire") {
+      setSection("reading");
+      setView("guide");
+      return;
+    }
+    if (requestedIndex >= 0 && params.get("open") === "reading") {
+      setActive(requestedIndex);
+      setSection("reading");
+      setView("reading");
+      return;
+    }
     const saved = Number(sessionStorage.getItem("close-reading-active"));
     if (Number.isInteger(saved) && saved >= 0 && saved < articles.length) setActive(saved);
   }, []);
@@ -413,7 +492,7 @@ export default function Home() {
   }
 
   if (view !== "library") {
-    return <SimplePage view={view} onNavigate={navigate} onRead={openReading} onHome={() => openSection("home")} />;
+    return <SimplePage view={view} onNavigate={navigate} onHome={() => openSection("home")} />;
   }
 
   const previous = () => setActive((value) => (value - 1 + articles.length) % articles.length);
@@ -504,9 +583,12 @@ export default function Home() {
   );
 }
 
-const inquirySets = [
+type InquiryResource = { title: string; source: string; url?: string; referenceOnly?: boolean };
+type InquiryPrompt = { en: string; zh: string; resources: InquiryResource[]; details?: string[] };
+
+const inquirySets: InquiryPrompt[][] = [
   [
-    { en: "What if I were the valedictorian four years from now?", zh: "四年后如果我是毕业生代表，会怎样呢？", resources: [{ title: "NYU's 2022 Commencement Speaker Taylor Swift", source: "YouTube", url: "https://www.youtube.com/watch?v=_at_RdsZoc4" }, { title: "A Commencement Address Too Honest to Deliver in Person", source: "The Atlantic", url: "https://www.theatlantic.com/ideas/archive/2020/05/commencement-address-too-honest-have-been-delivered-person/611572/" }] },
+    { en: "What if I were the valedictorian four years from now?", zh: "四年后如果我是毕业生代表，会怎样呢？", resources: [{ title: "NYU's 2022 Commencement Speaker Taylor Swift", source: "YouTube", url: "https://www.youtube.com/watch?v=jiBvu2sydt4" }, { title: "A Commencement Address Too Honest to Deliver in Person", source: "The Atlantic", url: "https://www.theatlantic.com/ideas/archive/2020/05/commencement-address-too-honest-have-been-delivered-person/611572/" }] },
     { en: "Is learning better guided by critical reasoning or by traditional authority?", zh: "学习更应由批判性思考，还是由传统权威来引导？", resources: [{ title: "Why Individualism Fails to Create Individuals", source: "The Hedgehog Review", url: "https://hedgehogreview.com/web-features/thr/posts/why-individualism-fails-to-create-individuals" }] },
     { en: "What kind of person do you hope your university will shape you into?", zh: "你希望大学把你塑造成怎样的人？", resources: [{ title: "Why Harvard Decided to Challenge Donald Trump", source: "The New Yorker", url: "https://www.newyorker.com/news/the-lede/why-harvard-decided-to-challenge-donald-trump" }, { title: "First They Came for Columbia", source: "The Crimson", url: "https://www.thecrimson.com/article/2025/3/14/enos-levitsky-harvard-columbia-trump/" }] },
   ],
@@ -523,14 +605,97 @@ const inquirySets = [
   [
     { en: "What are your thoughts on gender stereotypes?", zh: "你如何看待性别刻板印象？", resources: [{ title: "JD Vance Isn't the First Man to Resent Cat Ladies — They've Always Been Politicized", source: "HuffPost", url: "https://www.huffpost.com/entry/jd-vance-cat-lady-symbol-meaning_l_66a7f022e4b07ad170d02010" }] },
     { en: "Can stereotypes ever be helpful?", zh: "刻板印象可能有益吗？", resources: [{ title: "Can Stereotypes Ever Be Good?", source: "TED Talk", url: "https://www.youtube.com/watch?v=aFXmyNUaXFo" }] },
-    { en: "How can we respond when others stereotype us?", zh: "当他人用刻板印象看待我们时，我们该如何回应？", resources: [{ title: "The Power of Diversity Within Yourself", source: "TED Talk", url: "https://www.youtube.com/watch?v=ovKqmRyOGcg" }] },
+    { en: "How can we respond when others stereotype us?", zh: "当他人用刻板印象看待我们时，我们该如何回应？", resources: [{ title: "The Power of Diversity Within Yourself", source: "TED Talk", url: "https://www.youtube.com/watch?v=ovKqmRyOGcg" }, { title: "Why We Have Too Few Women Leaders?", source: "TED Talk", url: "https://www.youtube.com/watch?v=18uDutylDa4" }] },
   ],
   [
     { en: "What does a healthy relationship look like?", zh: "健康的亲密关系是什么样的？", resources: [{ title: "Love Is a Joint Project", source: "Aeon", url: "https://aeon.co/essays/simone-de-beauvoirs-authentic-love-is-a-project-of-equals" }] },
     { en: "What are the signs of an unhealthy relationship?", zh: "不健康的亲密关系有哪些信号？", resources: [{ title: "The Difference Between Healthy and Unhealthy Love", source: "YouTube", url: "https://www.youtube.com/watch?v=ON4iy8hq2hM" }, { title: "Turn Off the Gaslight", source: "Aeon", url: "https://aeon.co/essays/what-gaslighting-does-in-exploiting-trust-therapy-can-repair" }] },
     { en: "What is your favorite film about love, and why?", zh: "你最喜欢哪部关于爱的电影？为什么？", resources: [{ title: "Love Actually", source: "Film" }] },
   ],
-] as const;
+  [
+    { en: "Task One: Book Sharing", zh: "任务一：好书分享", resources: [
+      { title: "Essays", source: "Francis Bacon · 1888 · New York City: WL Allison", referenceOnly: true },
+      { title: "Ten Novels and Their Authors", source: "W. Somerset Maugham · 2020 · New York City: Random House", referenceOnly: true },
+      { title: "《不被大风吹倒》", source: "莫言 · 2024 · 北京：北京日报出版社", referenceOnly: true },
+    ] },
+    { en: "Task Two: Introducing Benjamin Franklin and W. Somerset Maugham", zh: "任务二：介绍本杰明·富兰克林与威廉·萨默塞特·毛姆", resources: [
+      { title: "Poor Richard's Almanack ·《穷理查智慧书》", source: "Benjamin Franklin · 2020 · 王正林、王权译 · 北京：中国青年出版社", referenceOnly: true },
+      { title: "Ten Novels and Their Authors", source: "W. Somerset Maugham · 2020 · New York City: Random House", referenceOnly: true },
+      { title: "《美国文学选读》", source: "陶洁 · 2011 · 北京：高等教育出版社 · pp. 1–9", referenceOnly: true },
+    ] },
+    { en: "Task Three: How to Avoid Being a Shallow Reader?", zh: "任务三：如何应对数字阅读与碎片化信息，避免浅阅读？", resources: [
+      { title: "Just Read the Book Already", source: "Laura Miller · Slate · 2018", url: "https://slate.com/culture/2018/08/reader-come-home-by-maryanne-wolf-reviewed.html" },
+      { title: "Reading Is a Vice", source: "Adam Kirsch · The Atlantic · 2026", url: "https://www.theatlantic.com/ideas/2026/01/reading-crisis-solution-literature-personal-passion/685461/" },
+    ] },
+  ],
+  [
+    { en: "Task One: The History of Singapore, Malaysia, and Indonesia", zh: "任务一：新加坡、马来西亚与印度尼西亚的历史", resources: [
+      { title: "History of Singapore Explained in 5 Minutes", source: "Epimetheus · YouTube", url: "https://www.youtube.com/watch?v=69Fdgv2ZQQs" },
+      { title: "Why Was Singapore Kicked Out of Malaysia?", source: "History Matters · YouTube", url: "https://www.youtube.com/watch?v=sSI0WSCVHnU" },
+      { title: "A Super Quick History of Malaysia", source: "YouTube", url: "https://www.youtube.com/watch?v=JyzGus2bB08" },
+    ] },
+    { en: "Task Two: The Pros and Cons of City and Countryside Living", zh: "任务二：讨论城市与乡村生活的利弊", resources: [
+      { title: "Li Ziqi's Online Pastoral Poetics", source: "O. Schwartz · 2023 · The New Yorker", url: "https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics" },
+      { title: "Living in a Big City: Advantages and Disadvantages (2025)", source: "E. Long · Renovated", url: "https://renovated.com/living-in-a-big-city/" },
+      { title: "Tokyo Became a Megacity by Reinventing Itself", source: "N. Shea · 2019 · National Geographic", url: "https://www.nationalgeographic.com/magazine/article/how-tokyo-japan-became-megacity-by-rebuilding-after-earthquake-war" },
+    ] },
+    { en: "Task Three: Women, Nature, and Ecofeminism", zh: "任务三：讨论女性与自然／生态女性主义", resources: [
+      { title: "Tess of the D'Urbervilles", source: "Thomas Hardy · 2008 · Oxford University Press", referenceOnly: true },
+      { title: "Sister Carrie", source: "Theodore Dreiser · 1994 · London: Penguin Classics", referenceOnly: true },
+    ] },
+  ],
+  [
+    { en: "Task One: How to Make My Favorite Food / What Is Cultural Appropriation?", zh: "任务一：介绍一道我最喜欢的食物及其做法／何为文化挪用？", resources: [
+      { title: "Taiwanese Three Cup Chicken Recipe", source: "Souped Up Recipes · YouTube", url: "https://www.youtube.com/watch?v=pETnrudTSkw&list=PLaBxSZfJwNOF1qhCCgayr9uND89ODgxQs" },
+      { title: "Is the fox-eye makeup trend racially insensitive? Here’s what Asian cosmetic experts had to say", source: "Jenna Ryu · USA Today · Aug. 19, 2020" },
+    ] },
+    { en: "Task Two: Food and Culture — Patriarchy", zh: "任务二：食物与文化——父权制", resources: [
+      { title: "The Vegetarian: A Novel", source: "Han Kang · 2016 · London: Hogarth", referenceOnly: true },
+      { title: "This year’s Nobel-winning writer shows the dark power of dictatorship", source: "Jake Kerridge · 2024 · The Telegraph", url: "https://www.telegraph.co.uk/books/what-to-read/nobel-prize-han-kang-reveals-dark-power-dictatorship-korea/" },
+      { title: "Willed Arboreality: Feminist Worldmaking in Han Kang's The Vegetarian", source: "R. Casey · 2021 · Critique: Studies in Contemporary Fiction, 62(3), 347–360", referenceOnly: true },
+      { title: "Eating and Suffering in Han Kang's The Vegetarian", source: "Won-Chung Kim · 2019 · CLC Web: Comparative Literature and Culture, 21(5), 1–10", referenceOnly: true },
+    ] },
+    { en: "Task Three: Food and Culture — Colonization and Appropriation", zh: "任务三：食物与文化——殖民与文化挪用", resources: [
+      { title: "Reviews: Food Fears; Worlds of Food; Coping with Distances; Contentious Geographies", source: "R. Slocum, A. A. Lehtinen & K. Schlosser · 2009 · pp. 250–254", referenceOnly: true },
+      { title: "‘Let's Eat Chinese!’: Reflections on Cultural Food Colonialism", source: "L. Heldke · 2001 · Gastronomica, 1(2), 76–79", referenceOnly: true },
+      { title: "Orientalism by Edward Said (1978)", source: "Edward W. Said · 1978 · Routledge" },
+    ] },
+  ],
+  [
+    { en: "Task One: Introduce a Place or Share a Travel Plan", zh: "任务一：介绍一个地方，或分享旅行计划与感想", details: [
+      "Make a recommendation through culture, history, literature, or another lens.",
+      "Present your travel plan for the next holiday.",
+    ], resources: [] },
+    { en: "Task Two: The Meaning of Travel", zh: "任务二：旅行的意义", details: [
+      "Consider what travel means to us and whether visiting new places can change how we see our lives.",
+      "Discuss whether travel brings us closer to other people and cultures, or turns us into spectators.",
+      "Respond to Agnes Callard’s argument in “The Case Against Travel.”",
+    ], resources: [
+      { title: "The Case Against Travel", source: "Agnes Callard · The New Yorker · June 24, 2023", url: "https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel" },
+    ] },
+    { en: "Task Three: The Positive Effects of China's 72/144-Hour Visa-Free Transit", zh: "任务三：中国72／144小时过境免签政策的积极影响", resources: [
+      { title: "Our First Day in Shanghai, China — 144 Hours Transit Visa", source: "YouTube", url: "https://www.youtube.com/watch?v=9bqFjcDeVIg" },
+      { title: "Unboxing China's Visa-Free Transit Policy", source: "YouTube", url: "https://www.youtube.com/watch?v=g9SHJtl8UGA" },
+    ] },
+  ],
+  [
+    { en: "Task One: Reading Mark Twain and Nature", zh: "任务一：阅读马克·吐温与自然", resources: [
+      { title: "The Adventures of Tom Sawyer", source: "Mark Twain · 1876 · Chicago: The American Publishing Co.", referenceOnly: true },
+      { title: "The Adventures of Huckleberry Finn", source: "Mark Twain · 2005 · San Diego: ICON Group International, Inc.", referenceOnly: true },
+    ] },
+    { en: "Task Two: Mark Twain, China, and Chinese Immigrants in American History", zh: "任务二：介绍马克·吐温、吐温与中国，或华人移民对美国历史的贡献", resources: [
+      { title: "Mark Twain in China", source: "S. Lai-Henderson · 2015 · Los Angeles: Stanford University Press", referenceOnly: true },
+      { title: "3 Reasons Why Chinese Workers Were the MVP’s on the Transcontinental Railroad", source: "Jeffrey Bolognese · SASEprints · May 20, 2016", url: "https://medium.com/saseprints/3-reasons-why-chinese-workers-were-the-mvps-on-the-transcontinental-railroad-6fba195f7ea1" },
+      { title: "Why Trump Is Charging a $100,000 Fee for H-1B Visas", source: "Andrew Kreighbaum · Bloomberg Law · September 22, 2025", url: "https://news.bloomberglaw.com/immigration/why-trump-is-charging-a-100-000-fee-for-h-1b-visas-quicktake" },
+    ] },
+    { en: "Task Three: The Relationship Between Nature and Humans in the Modern Age", zh: "任务三：现代社会中自然与人的关系", resources: [
+      { title: "Silent Spring", source: "Rachel Carson · 1962 · Boston: Houghton Mifflin Harcourt Company", referenceOnly: true },
+      { title: "Americans and the Land", source: "John Steinbeck · 1966 · Anthology contribution", referenceOnly: true },
+      { title: "Walden", source: "Henry David Thoreau · 1854 · Boston: Ticknor and Fields", referenceOnly: true },
+      { title: "China: The reluctant climate leader", source: "Louise Osborne & Yuchen Li · DW · November 17, 2025", url: "https://www.dw.com/en/china-the-reluctant-climate-leader/a-74775403" },
+    ] },
+  ],
+];
 
 const commencementArticle = {
   title: "A Commencement Address Too Honest to Deliver in Person",
@@ -546,31 +711,143 @@ const commencementArticle = {
   ]
 };
 
-function UniversityFooter() {
-  return <footer className="library-footer">
-    <div className="library-footer-identity">
-      <span><strong>CHINA WEST NORMAL</strong><em>UNIVERSITY</em></span>
-      <img src="https://assets.negentropylearning.com.cn/media/china-west-normal-university-seal-transparent.png" alt="China West Normal University seal" />
-    </div>
-    <small>© 2026 China West Normal University</small>
-  </footer>;
-}
+const slateArticle: InquireFeatureArticle = {
+  title: "Just Read the Book Already",
+  eyebrow: "EXTERNAL READING · SLATE",
+  byline: "Laura Miller · Pocket · August 16, 2018",
+  dek: "Digital culture doesn't have to make you a shallow reader. But you have to do something about it.",
+  paragraphs: [
+    "Not long ago, a cognitive neuroscientist decided to perform an experiment on herself. Maryanne Wolf, an expert on the science of reading, was worried that she might be losing the knack for sustained, deep reading. She still bought books, she writes in Reader, Come Home: The Reading Brain in a Digital World, ‘but more and more I read in them rather than being whisked away by them. At some time impossible to pinpoint, I had begun to read more to be informed than to be immersed, much less to be transported.’ Wolf told herself that it wasn't the style of her reading that had changed, only the amount of time she could set aside for it. Nevertheless, she felt she owed the question more rigorous scrutiny. Hence the informal experiment.",
+    "Wolf resolved to allot a set period every day to reread a novel she had loved as a young woman, Hermann Hesse's Magister Ludi. It was exactly the sort of demanding text she'd once reveled in. But now she discovered to her dismay that she could not bear it. ‘I hated the book,’ she writes. ‘I hated the whole so-called experiment.’ She had to force herself to wrangle the novel's ‘unnecessarily difficult words and sentences whose snakelike constructions obfuscated, rather than illuminated, meaning for me.’ The narrative action struck her as intolerably slow. She had, she concluded, ‘changed in ways I would never have predicted. I now read on the surface and very quickly.’ She had lost the ‘cognitive patience’ that once sustained her in reading such books. She blamed the internet.",
+    "Wolf's goal, she insists, is not to bemoan the lost idylls of print reading, but to build ‘biliterate’ brains in children who are ‘expert, flexible code-switchers,’ with ‘parallel levels of fluency’ in both the skimming, ‘grasshopper’ style of reading fostered by digital media and the immersive, deep, reflective reading associated with print books. But if Wolf is impassioned about the importance of deep reading, she doesn't always seem fully cognizant of the forces arrayed against it. She seems to be responding to the digital culture of nearly a decade ago, when parents still thought it was cutting-edge for schools to issue tablets to students, not the 2018 in which parents worry that their kids have become ‘addicted’ to digital devices. Concentration had become more difficult even for me, a professional reader and lifelong lover of books. Now it seems utterly nuts that someone could insist both that technology is an unstoppable force that cannot be directed or corrected and also that everything will work out great in the end, but that was standard operating procedure among the tech commentariat as recently as eight years ago. Forget War and Peace—nothing could be as uninteresting as 99 percent of the stuff people post online. The medium remains the message, and in the case of the wide-open internet, that means the medium is ever more cacophonous and indiscriminate, its democratic qualities as much a bug as a feature.",
+    "Wolf arrives bearing a bit more evidence in defense of deep reading, and specifically the reading of fiction, which some researchers have found to increase empathy. The reader of a novel imagines herself into the psyche of a person who may be very different from herself, and this offers a qualitatively different experience from watching a visual, dramatic medium like film, where she witnesses the character's experience from the outside. Most of us, like Wolf, will have to resort to more ad hoc investigations. Wolf, struggling through Magister Ludi, found that she did eventually get her groove back, falling into the rhythms of Hesse's prose. This made her feel that she was ‘home again,’ hence the title of her book.",
+    "Perhaps the answer to Wolf's worries is neither so complicated nor so apocalyptic as technology's champions have made it out to be, but largely a matter of willpower and common sense. Most adults do know what's good for them. Like hitting the gym instead of the couch or having the salade niçoise instead of fries, you pick the less tempting option because in the long run it will make you feel better. As the programmers put it, garbage in, garbage out."
+  ]
+};
+
+const readingIsAViceArticle: InquireFeatureArticle = {
+  title: "Reading Is a Vice",
+  eyebrow: "EXTERNAL READING · THE ATLANTIC",
+  byline: "By Adam Kirsch · The Atlantic · Published January 2, 2026",
+  dek: "Being a reader means cultivating a relationship with the world that, by most standards, can seem pointless and counterproductive.",
+  paragraphs: [
+    "If you read a book in 2025—just one book—you belong to an endangered species. Like honeybees and red wolves, the population of American readers has been declining for decades. The most recent survey found that fewer than half of Americans had read a single book in the previous 12 months; only 38 percent had read a novel or short story. This decline is only getting steeper. Educators and policy makers have been agonizing about this trend line for decades, but they haven’t managed to change it. Now some are trying a new tactic: If people won’t read books because they enjoy it, perhaps they can be persuaded to do it to save democracy. The International Publishers Association has spent the past year promoting the slogan “Democracy depends on reading,” arguing that “ambitious, critical, reflective reading remains one of the few spaces where citizens can rehearse complexity, recover attention and cultivate the inner freedoms that public freedoms require.”",
+    "The problem with these kinds of arguments isn’t that they are wrong; it’s that they don’t actually persuade anyone to read more, because they misunderstand why people become readers in the first place. Telling someone to love literature because reading is good for society is like telling someone to believe in God because religion is good for society. It’s a utilitarian argument for what should be a personal passion. It would be better to describe reading not as a public duty but as a private pleasure, sometimes even a vice. This would be a more effective way to attract young people, and it also happens to be true. When literature was considered transgressive, moralists couldn’t get people to stop buying and reading dangerous books. Now that books are considered virtuous and edifying, moralists can’t persuade anyone to pick one up.",
+    "Being a reader means cultivating a relationship with the world that, by most standards, can seem pointless and counterproductive. Reading is not profitable; it doesn’t teach you any transferable skills or offer any networking opportunities. On the contrary, it is an antisocial activity in the most concrete sense: To do it you have to be alone, or else pretend you’re alone by tuning out other people. Reading teaches you to be more interested in what’s going on inside your head than in the real world. As a rule, if you’re looking for evidence that reading makes you a better world citizen, the last place you’ll find it is the work of great writers. They know too much about literature to idealize it the way educators do. In fact, some of the greatest novels are about how reading ruins lives—starting with the book often considered the first modern novel, Don Quixote. Cervantes’s comic hero is addicted to “reading books of chivalry,” until “his fancy grew full of what he used to read about in his books, enchantments, quarrels, battles, challenges, wounds, wooings, loves, agonies, and all sorts of impossible nonsense.” Convinced that he is a character in a novel—which, of course, he is—he embarks on a series of knightly adventures that go laughably and pathetically wrong.",
+    "Centuries later, the heroine of Gustave Flaubert’s novel Madame Bovary makes the same mistake, with more tragic consequences. Emma Bovary is addicted to reading—Flaubert writes that, as a teenager, she “made her hands dirty with books from old lending libraries.” When she gets married and finds that she doesn’t love her husband the way novels had led her to expect, she turns to adultery “to find out what one meant exactly in life by the words felicity, passion, rapture, that had seemed to her so beautiful in books.” But what is beautiful in books turns out to be ugly in life, and Emma’s attempt to live like the heroine of a romance ends in ruin and suicide. After Madame Bovary was published, in 1856, its frank depiction of sexual immorality got Flaubert prosecuted in Paris for obscenity. He was acquitted, and the attempt to censor the novel only made it more popular, just as would happen in the 20th century with Ulysses and Lady Chatterley’s Lover. Today, all of these books are considered classics, which means that most of us encounter them only in the classroom, as objects of dutiful study.",
+    "If we want to keep reading from going extinct, then the best thing we could do is tell young people what so many great writers readily admit: Literature doesn’t make you a better citizen or a more successful person. A passion for reading can even make life more difficult. And you don’t cultivate a passion for the sake of democracy. You do it for the thrill of staying up late to read under the covers by flashlight, unable to stop and hoping no one finds out."
+  ]
+};
 
 function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; onHome: () => void }) {
   const [selected, setSelected] = useState(0);
   const [selectedQuestion, setSelectedQuestion] = useState<number | null>(0);
   const [selectedResource, setSelectedResource] = useState<number | null>(null);
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("open") === "inquire" && params.get("task") === "travel") {
+      setSelected(8);
+      setSelectedQuestion(1);
+    }
+  }, []);
+  const isTaskTopic = selected >= 5;
   const questions = inquirySets[selected] ?? [];
   const activeQuestion = selectedQuestion === null ? null : questions[selectedQuestion];
   const selectedResourceData = selectedResource === null ? undefined : activeQuestion?.resources[selectedResource];
-  const opensPublication = Boolean(selectedResourceData && !["YouTube", "TED Talk", "TV series", "Film"].includes(selectedResourceData.source));
+  const isTaylorArticle = selected === 0 && selectedQuestion === 0 && selectedResource === 0;
   const isCommencementArticle = selected === 0 && selectedQuestion === 0 && selectedResource === 1;
+  const selectedFeatureArticle: InquireFeatureArticle | undefined = selected === 0 && selectedQuestion === 1 && selectedResource === 0
+    ? individualismArticle
+    : selected === 0 && selectedQuestion === 2 && selectedResource === 0
+      ? harvardArticle
+      : selected === 0 && selectedQuestion === 2 && selectedResource === 1
+        ? columbiaArticle
+        : selected === 1 && selectedQuestion === 0 && selectedResource === 0
+          ? deepSeekArticle
+          : selected === 1 && selectedQuestion === 1 && selectedResource === 1
+            ? carHandlesArticle
+            : selected === 1 && selectedQuestion === 2 && selectedResource === 0
+              ? aiMathArticle
+              : selected === 1 && selectedQuestion === 2 && selectedResource === 1
+                ? dictionaryArticle
+                : selected === 2 && selectedQuestion === 1 && selectedResource === 0
+                  ? parentifiedChildArticle
+                  : selected === 2 && selectedQuestion === 2 && selectedResource === 0
+                    ? raiseABullyArticle
+                    : selected === 3 && selectedQuestion === 0 && selectedResource === 0
+                      ? catLadiesArticle
+                      : selected === 3 && selectedQuestion === 1 && selectedResource === 0
+                        ? stereotypesArticle
+                        : selected === 3 && selectedQuestion === 2 && selectedResource === 0
+                          ? diversityArticle
+                          : selected === 3 && selectedQuestion === 2 && selectedResource === 1
+                            ? womenLeadersArticle
+                            : selected === 4 && selectedQuestion === 0 && selectedResource === 0
+                              ? loveJointArticle
+                              : selected === 4 && selectedQuestion === 1 && selectedResource === 0
+                                ? healthyUnhealthyLoveArticle
+                              : selected === 4 && selectedQuestion === 1 && selectedResource === 1
+                                ? gaslightArticle
+                                : selected === 5 && selectedQuestion === 2 && selectedResource === 0
+                                  ? slateArticle
+                                : selected === 5 && selectedQuestion === 2 && selectedResource === 1
+                                  ? readingIsAViceArticle
+                                : selected === 6 && selectedQuestion === 0 && selectedResource === 0
+                                  ? singaporeHistoryTranscript
+                                  : selected === 6 && selectedQuestion === 0 && selectedResource === 1
+                                    ? singaporeExpulsionTranscript
+                                : selected === 6 && selectedQuestion === 1 && selectedResource === 0
+                                  ? liZiqiArticle
+                                : selected === 6 && selectedQuestion === 1 && selectedResource === 2
+                                  ? tokyoArticle
+                                : selected === 6 && selectedQuestion === 1 && selectedResource === 1
+                                  ? livingCityArticle
+                                : selected === 7 && selectedQuestion === 2 && selectedResource === 2
+                                  ? orientalismArticle
+                                : selected === 7 && selectedQuestion === 1 && selectedResource === 1
+                                  ? hanKangArticle
+                                : selected === 7 && selectedQuestion === 0 && selectedResource === 0
+                                  ? threeCupChickenTranscript
+                                : selected === 8 && selectedQuestion === 1 && selectedResource === 0
+                                  ? caseAgainstTravelArticle
+                                : selected === 8 && selectedQuestion === 2 && selectedResource === 0
+                                  ? shanghaiTransitVlogTranscript
+                                : selected === 8 && selectedQuestion === 2 && selectedResource === 1
+                                  ? chinaTransitPolicyTranscript
+                                : selected === 6 && selectedQuestion === 0 && selectedResource === 2
+                                  ? malaysiaHistoryTranscript
+                                : selected === 9 && selectedQuestion === 1 && selectedResource === 2
+                                  ? h1bVisaArticle
+                                : selected === 9 && selectedQuestion === 1 && selectedResource === 1
+                                  ? railroadWorkersArticle
+                                : selected === 9 && selectedQuestion === 2 && selectedResource === 3
+                                  ? chinaClimateLeaderArticle
+                                : selected === 7 && selectedQuestion === 0 && selectedResource === 1
+                                  ? foxEyeArticle
+                                : undefined;
+  const isCommencementStyle = isTaylorArticle || isCommencementArticle || Boolean(selectedFeatureArticle);
+  const opensPublication = Boolean(selectedResourceData && !selectedResourceData.referenceOnly && (isTaylorArticle || selectedFeatureArticle || isTaskTopic || !["YouTube", "TED Talk", "TV series", "Film"].includes(selectedResourceData.source)));
   const resourceImages: Record<string, string> = {
     "0-0-0": "https://assets.negentropylearning.com.cn/media/inquire-taylor.png", "0-0-1": "https://assets.negentropylearning.com.cn/media/inquire-clock.png", "0-1-0": "https://assets.negentropylearning.com.cn/media/inquire-individualism.png", "0-2-0": "https://assets.negentropylearning.com.cn/media/inquire-harvard.png", "0-2-1": "https://assets.negentropylearning.com.cn/media/inquire-columbia.png",
     "1-0-0": "https://assets.negentropylearning.com.cn/media/inquire-deepseek.png", "1-1-0": "https://assets.negentropylearning.com.cn/media/inquire-gulliver.png", "1-1-1": "https://assets.negentropylearning.com.cn/media/inquire-cybertruck.png", "1-2-0": "https://assets.negentropylearning.com.cn/media/inquire-ai.png", "1-2-1": "https://assets.negentropylearning.com.cn/media/inquire-dictionary.png",
-    "2-0-0": "https://assets.negentropylearning.com.cn/media/inquire-modern-family.png", "2-1-0": "https://assets.negentropylearning.com.cn/media/inquire-parentified.png", "2-2-0": "https://assets.negentropylearning.com.cn/media/inquire-bully.png",
-    "3-0-0": "https://assets.negentropylearning.com.cn/media/inquire-catlady.png", "3-1-0": "https://assets.negentropylearning.com.cn/media/inquire-stereotypes.png", "3-2-0": "https://i.ytimg.com/vi/ovKqmRyOGcg/maxresdefault.jpg",
+    "2-0-0": "https://assets.negentropylearning.com.cn/media/inquire-modern-family.png", "2-1-0": "/inquire-assets/parentified-original.png", "2-2-0": "/inquire-assets/bully-original.png",
+    "3-0-0": "https://assets.negentropylearning.com.cn/media/inquire-catlady.png", "3-1-0": "https://assets.negentropylearning.com.cn/media/inquire-stereotypes.png", "3-2-0": "https://i.ytimg.com/vi/ovKqmRyOGcg/maxresdefault.jpg", "3-2-1": "/inquire-assets/women-leaders-original.png",
     "4-0-0": "https://assets.negentropylearning.com.cn/media/inquire-love-joint.png", "4-1-0": "https://assets.negentropylearning.com.cn/media/inquire-healthy-love.png", "4-1-1": "https://assets.negentropylearning.com.cn/media/inquire-gaslight.png", "4-2-0": "https://assets.negentropylearning.com.cn/media/inquire-love-actually.png",
+    "5-0-0": "/inquire-assets/06-bacon-essays-cover.png", "5-0-1": "/inquire-assets/06-maugham-io-cover.png", "5-0-2": "https://popular.com.sg/cdn/shop/files/download_80143a2c-3370-4041-aceb-5e98cd40ecd9.jpg?v=1758770652",
+    "5-1-0": "https://www.peterpauper.com/cdn/shop/products/9780880889186.jpg?v=1636326428", "5-1-1": "/inquire-assets/06-maugham-io-cover.png", "5-1-2": "/inquire-assets/06-american-literature-cover.png",
+    "5-2-0": "/inquire-assets/06-slate-reader-illustration.png", "5-2-1": "/inquire-assets/06-reading-is-a-vice-illustration.png",
+    "6-0-0": "https://i.ytimg.com/vi/69Fdgv2ZQQs/maxresdefault.jpg", "6-0-1": "https://i.ytimg.com/vi/sSI0WSCVHnU/maxresdefault.jpg", "6-0-2": "https://i.ytimg.com/vi/JyzGus2bB08/maxresdefault.jpg",
+    "6-1-0": "/inquire-assets/07-li-ziqi-pastoral-poetics.jpg", "6-1-1": "/inquire-assets/07-living-in-a-big-city.jpg", "6-1-2": "/inquire-assets/07-tokyo-megacity-national-geographic.jpg",
+    "6-2-0": "/inquire-assets/07-tess-of-the-durbervilles-cover.jpg", "6-2-1": "/inquire-assets/07-sister-carrie-cover.jpg",
+    "7-1-0": "/inquire-assets/08-vegetarian-cover.png", "7-1-1": "/inquire-assets/08-han-kang-portrait.png", "7-1-2": "/inquire-assets/08-willed-arboreality.png", "7-1-3": "/inquire-assets/08-eating-suffering.png",
+    "7-2-0": "/inquire-assets/08-food-reviews.png", "7-2-1": "/inquire-assets/08-food-colonialism.png", "7-2-2": "/inquire-assets/08-orientalism-said.png",
+    "7-0-1": "/inquire-assets/08-fox-eye-usa-today.png",
+    "7-0-0": "https://i.ytimg.com/vi/pETnrudTSkw/maxresdefault.jpg",
+    "8-1-0": "/inquire-assets/09-the-case-against-travel.png",
+    "8-2-0": "https://i.ytimg.com/vi/9bqFjcDeVIg/maxresdefault.jpg", "8-2-1": "https://i.ytimg.com/vi/g9SHJtl8UGA/maxresdefault.jpg",
+    "9-0-0": "/inquire-assets/09-tom-sawyer-cover.png", "9-0-1": "/inquire-assets/09-huckleberry-finn-cover.png",
+    "9-1-0": "/inquire-assets/09-mark-twain-in-china-cover.png", "9-1-1": "/inquire-assets/09-chinese-railroad-workers.png", "9-1-2": "/inquire-assets/09-h1b-visas-cover.png",
+    "9-2-0": "/inquire-assets/09-silent-spring-cover.png", "9-2-1": "/inquire-assets/09-americans-and-the-land-cover.png", "9-2-2": "/inquire-assets/09-walden-cover.png", "9-2-3": "/inquire-assets/09-china-climate-leader.jpg",
   };
 
   return (
@@ -579,16 +856,18 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
       <section className="inquire-picker" aria-labelledby="inquire-picker-title">
         <div className="inquire-picker-label">
           <p className="eyebrow" id="inquire-picker-title">SUPPLEMENTARY READING</p>
-          <span>{activeQuestion ? "Resources for the selected question." : "Choose a discussion question to reveal resources."}</span>
+          <span>{activeQuestion ? `Resources for the selected ${isTaskTopic ? "task" : "question"}.` : `Choose a ${isTaskTopic ? "task" : "discussion question"} to reveal resources.`}</span>
         </div>
-        <div className="inquire-materials" aria-live="polite" aria-label="Supplementary reading resources">
+        <div className={`inquire-materials${selected === 7 && selectedQuestion === 1 ? " is-eight-task-two" : ""}${selected === 9 && selectedQuestion === 2 ? " is-climate-2x2" : ""}`} aria-live="polite" aria-label="Supplementary reading resources">
           {activeQuestion?.resources.map((resource, index) => {
             const image = selectedQuestion === null ? undefined : resourceImages[`${selected}-${selectedQuestion}-${index}`];
-            const thumbnail = image ? <img className="inquire-resource-image" src={image} alt="" /> : <span className="inquire-resource-image is-placeholder" aria-hidden="true" />;
+            const isBookCover = (selected === 5 && (selectedQuestion === 0 || selectedQuestion === 1)) || (selected === 6 && selectedQuestion === 2) || (selected === 7 && selectedQuestion === 1 && index === 0) || (selected === 9 && selectedQuestion === 0) || (selected === 9 && selectedQuestion === 1 && index === 0) || (selected === 9 && selectedQuestion === 2 && (index === 0 || index === 2));
+            const isWideBookCover = (selected === 9 && selectedQuestion === 0 && index === 1) || (selected === 9 && selectedQuestion === 1 && (index === 1 || index === 2)) || (selected === 9 && selectedQuestion === 2 && (index === 1 || index === 3));
+            const thumbnail = image ? <img className={`inquire-resource-image${isBookCover ? " is-book-cover" : ""}${isWideBookCover ? " is-wide-book-cover" : ""}`} src={image} alt={isBookCover ? `Cover of ${resource.title}` : ""} /> : <span className="inquire-resource-image is-placeholder" aria-hidden="true" />;
             return <button type="button" className={`inquire-external-card${selectedResource === index ? " is-selected" : ""}`} aria-pressed={selectedResource === index} onClick={() => setSelectedResource(index)} key={resource.title}>{thumbnail}<span>EXTERNAL {String(index + 1).padStart(2, "0")}</span><strong>{resource.title}</strong><em>{resource.source}</em></button>;
           })}
-          {activeQuestion && !activeQuestion.resources.length && <p className="inquire-empty-materials">No supplementary reading has been assigned to this question yet.</p>}
-          {!activeQuestion && <p className="inquire-empty-materials">Select a question on the right to reveal its supplementary readings.</p>}
+          {activeQuestion && !activeQuestion.resources.length && <p className="inquire-empty-materials">No supplementary reading has been assigned to this {isTaskTopic ? "task" : "question"} yet.</p>}
+          {!activeQuestion && <p className="inquire-empty-materials">Select a {isTaskTopic ? "task" : "question"} on the right to reveal its supplementary readings.</p>}
         </div>
       </section>
 
@@ -600,15 +879,27 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
           </ol>
         </aside>
 
-        <aside className={`inquire-prompts${opensPublication ? " is-reading-publication" : ""}`} aria-labelledby="prompt-title">
+        <aside className={`inquire-prompts${opensPublication ? " is-reading-publication" : ""}${isCommencementStyle ? " is-commencement-article" : ""}`} aria-labelledby="prompt-title">
           {opensPublication ? (
-            <article className="inquire-publication">
-              {isCommencementArticle ? <>
+            <article className={`inquire-publication${isCommencementStyle ? " is-commencement-style" : ""}`}>
+              {isTaylorArticle ? <>
+                <p className="eyebrow">EXTERNAL READING · NEW YORK UNIVERSITY</p>
+                <h1><a href={selectedResourceData?.url} target="_blank" rel="noreferrer">{taylorCommencementArticle.title}</a></h1>
+                <p className="inquire-publication-byline">{taylorCommencementArticle.byline}</p>
+                <TaylorVocabularyArticleBody />
+              </> : isCommencementArticle ? <>
                 <p className="eyebrow">EXTERNAL READING · THE ATLANTIC</p>
                 <h1><a href={selectedResourceData?.url} target="_blank" rel="noreferrer">{commencementArticle.title}</a></h1>
                 <p className="inquire-publication-byline">{commencementArticle.byline}</p>
                 <p className="inquire-publication-dek">{commencementArticle.dek}</p>
-                <div className="inquire-publication-body">{commencementArticle.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>
+                <BrooksVocabularyArticleBody paragraphs={commencementArticle.paragraphs} />
+              </> : selectedFeatureArticle ? <>
+                <p className="eyebrow">{selectedFeatureArticle.eyebrow}</p>
+                <h1><a href={selectedResourceData?.url} target="_blank" rel="noreferrer">{selectedFeatureArticle.title}</a></h1>
+                <p className="inquire-publication-byline">{selectedFeatureArticle.byline}</p>
+                {selectedFeatureArticle === h1bVisaArticle ? <H1BVisaArticleBody article={selectedFeatureArticle} /> : selectedFeatureArticle === chinaClimateLeaderArticle ? <ChinaClimateVocabularyArticleBody /> : selectedFeatureArticle === foxEyeArticle ? <FoxEyeVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === caseAgainstTravelArticle ? <CaseAgainstTravelVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === hanKangArticle ? <HanKangVocabularyArticleBody paragraphs={[selectedFeatureArticle.dek, ...selectedFeatureArticle.paragraphs]} /> : selectedFeatureArticle === orientalismArticle ? <OrientalismVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === livingCityArticle ? <LivingCityArticleBody article={selectedFeatureArticle} /> : selectedFeatureArticle === loveJointArticle ? <LoveJointVocabularyArticleBody /> : selectedFeatureArticle === healthyUnhealthyLoveArticle ? <HealthyLoveVocabularyArticleBody /> : selectedFeatureArticle === gaslightArticle ? <GaslightVocabularyArticleBody /> : selectedFeatureArticle === catLadiesArticle ? <CatLadiesVocabularyArticleBody /> : selectedFeatureArticle === stereotypesArticle ? <StereotypesVocabularyArticleBody /> : selectedFeatureArticle === diversityArticle ? <DiversityVocabularyArticleBody /> : selectedFeatureArticle === womenLeadersArticle ? <WomenLeadersVocabularyArticleBody /> : selectedFeatureArticle === raiseABullyArticle ? <RaiseABullyVocabularyArticleBody /> : selectedFeatureArticle === parentifiedChildArticle ? <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}<ParentifiedChildVocabularyArticleBody /></> : selectedFeatureArticle === dictionaryArticle ? <DictionaryVocabularyArticleBody /> : selectedFeatureArticle === aiMathArticle ? <AiMathVocabularyArticleBody /> : selectedFeatureArticle === carHandlesArticle ? <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}<CarHandlesVocabularyArticleBody /></> : selectedFeatureArticle === deepSeekArticle ? <DeepSeekVocabularyArticleBody /> : selectedFeatureArticle === columbiaArticle ? <ColumbiaVocabularyArticleBody /> : selectedFeatureArticle === harvardArticle ? <HarvardVocabularyArticleBody dek={selectedFeatureArticle.dek} /> : <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}{selectedFeatureArticle === individualismArticle ? <CrawfordVocabularyArticleBody /> : selectedFeatureArticle === slateArticle ? <SlateVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === readingIsAViceArticle ? <ViceVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === liZiqiArticle ? <LiZiqiVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === tokyoArticle ? <TokyoVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} sectionHeadings={selectedFeatureArticle.sectionHeadings} /> : <div className="inquire-publication-body">{selectedFeatureArticle.paragraphs.map((paragraph, paragraphIndex) => selectedFeatureArticle.sectionHeadings?.includes(paragraph)
+                  ? <h2 className="inquire-publication-section-title" key={paragraph}>{paragraph}</h2>
+                  : <p className={selectedFeatureArticle.quoteParagraphIndexes?.includes(paragraphIndex) ? "inquire-publication-quote" : undefined} key={paragraph}>{paragraph}</p>)}</div>}</>}
               </> : <>
                 <p className="eyebrow">EXTERNAL READING</p>
                 <h1>{selectedResourceData?.url ? <a href={selectedResourceData.url} target="_blank" rel="noreferrer">{selectedResourceData.title}</a> : selectedResourceData?.title}</h1>
@@ -616,11 +907,11 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
               </>}
             </article>
           ) : <>
-            <p className="eyebrow" id="prompt-title">GUIDING QUESTIONS</p>
-            {questions.map((question, index) => <button className={`inquire-question${selectedQuestion === index ? " is-selected" : ""}`} key={question.en} onClick={() => { setSelectedQuestion(index); setSelectedResource(null); }}><span>{String(index + 1).padStart(2, "0")}</span><div><h2>{question.en}</h2><p className="inquire-question-translation">{question.zh}</p></div></button>)}
+            <p className="eyebrow" id="prompt-title">{isTaskTopic ? "TASKS" : "GUIDING QUESTIONS"}</p>
+            {questions.map((question, index) => <button className={`inquire-question${selectedQuestion === index ? " is-selected" : ""}`} key={question.en} onClick={() => { setSelectedQuestion(index); setSelectedResource(null); }}><span>{isTaskTopic ? `0${index + 1}` : String(index + 1).padStart(2, "0")}</span><div><h2>{question.en}</h2><p className="inquire-question-translation">{question.zh}</p>{question.details && <ul className="inquire-task-details">{question.details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}</div></button>)}
             <div className="inquire-upload-note">
               <p className="eyebrow">HOW IT WORKS</p>
-              <p>Choose an archive article, then a discussion question. Its linked external readings will appear above.</p>
+              <p>{isTaskTopic ? "Choose a task to see its supporting readings and presentation prompts." : "Choose an archive article, then a discussion question. Its linked external readings will appear above."}</p>
             </div>
           </>}
         </aside>
@@ -630,16 +921,39 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
   );
 }
 
-function SimplePage({ view, onNavigate, onRead, onHome }: { view: Exclude<View, "library" | "reading">; onNavigate: (view: View) => void; onRead: (index: number) => void; onHome: () => void }) {
+function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library" | "reading">; onNavigate: (view: View) => void; onHome: () => void }) {
+  const [selectedCard, setSelectedCard] = useState<number | null>(null);
+  const navigateFromPage = (destination: View) => {
+    setSelectedCard(null);
+    onNavigate(destination);
+  };
   const content = useMemo(() => ({
     guide: { kicker: "HOW TO READ", title: "Read first.\nAsk second.", body: ["Choose a text", "Read without analysis", "Follow the margins", "Reveal what you need", "Go deeper"] },
-    index: { kicker: "ALL TEN TEXTS", title: "The index.", body: [] },
+    index: { kicker: "TEN WRITING PROMPTS", title: "Writing Tasks", body: [] },
     about: { kicker: "ABOUT THE ARCHIVE", title: "Attention is\na form of inquiry.", body: ["This archive treats close reading as a sequence of choices. The page begins quietly; vocabulary, syntax, rhetoric, and context appear only when the reader asks."] },
   }[view]), [view]);
 
+  if (view === "index" && selectedCard !== null) {
+    const article = articles[selectedCard];
+    const card = writingTaskCards[selectedCard];
+    return (
+      <main className="simple-page writing-task-page">
+        <Header view={view} onNavigate={navigateFromPage} onHome={onHome} />
+        <section className="writing-task-view" aria-labelledby="writing-task-title">
+          <button type="button" className="writing-task-back" onClick={() => { setSelectedCard(null); window.scrollTo(0, 0); }}>← All writing tasks</button>
+          <p className="eyebrow">WRITING TASK 2 · {article.number} / 10</p>
+          <h1 id="writing-task-title">{article.title}</h1>
+          <img className="writing-task-image" src={card.image} alt={`Writing Task 2 study card ${article.number} for ${article.title}`} />
+          <p className="writing-task-source">Question paraphrased for study · <a href={card.url} target="_blank" rel="noopener noreferrer">View source: {card.source} ↗</a></p>
+        </section>
+        <UniversityFooter />
+      </main>
+    );
+  }
+
   return (
     <main className="simple-page">
-      <Header view={view} onNavigate={onNavigate} onHome={onHome} />
+      <Header view={view} onNavigate={navigateFromPage} onHome={onHome} />
       <section className="simple-intro">
         <p className="eyebrow">{content.kicker}</p>
         <h1>{content.title.split("\n").map((line) => <span key={line}>{line}<br /></span>)}</h1>
@@ -648,7 +962,7 @@ function SimplePage({ view, onNavigate, onRead, onHome }: { view: Exclude<View, 
         <ol className="article-index">
           {articles.map((article, index) => (
             <li key={article.number}>
-              <button onClick={() => onRead(index)}>
+              <button type="button" onClick={() => { setSelectedCard(index); window.scrollTo(0, 0); }} aria-label={`Open Writing Task 2 card ${article.number}: ${article.title}`}>
                 <span>{article.number}</span><strong>{article.title}</strong><em>{article.author}</em><b>↗</b>
               </button>
             </li>
@@ -668,6 +982,10 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   const [panel, setPanel] = useState<"education" | "syntax" | "irony" | "why" | null>(null);
   const [syntaxLevel, setSyntaxLevel] = useState(1);
   const [notesOpen, setNotesOpen] = useState(false);
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("panel") === "mindmap") setNotesOpen(true);
+  }, []);
   const [analysisMode, setAnalysisMode] = useState(false);
   const [quizOpen, setQuizOpen] = useState(false);
   const [vocabularyTarget, setVocabularyTarget] = useState<VocabularyTarget | undefined>();
@@ -676,19 +994,23 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
     <a className={`reading-nav-tab${active === "text" ? " is-active" : ""}`} href="#text" aria-current={active === "text" ? "location" : undefined} onClick={() => { setAnalysisMode(false); setQuizOpen(false); setNotesOpen(false); }}>Text</a>
     <button className={`reading-nav-tab${active === "analysis" ? " is-active" : ""}`} onClick={() => { setQuizOpen(false); setAnalysisMode(true); setNotesOpen(false); }}>Analysis</button>
     <button className={`reading-nav-tab${active === "quizzes" ? " is-active" : ""}`} onClick={() => { setAnalysisMode(false); setQuizOpen(true); setNotesOpen(false); }}>Quizzes</button>
-    <button className={`reading-nav-tab${active === "notes" ? " is-active" : ""}`} aria-pressed={active === "notes"} onClick={() => { setAnalysisMode(false); setQuizOpen(false); setNotesOpen(value => !value); }}>Translation</button>
+    <button className={`reading-nav-tab${active === "notes" ? " is-active" : ""}`} aria-pressed={active === "notes"} onClick={() => { setAnalysisMode(false); setQuizOpen(false); setNotesOpen(true); }}>Mindmap</button>
     <span className="reading-nav-count">{article.number} / 10</span>
     {onPrevious && <button className="reading-nav-previous" onClick={onPrevious} aria-label="Previous article">← Previous</button>}
     {onNext && <button onClick={onNext} aria-label="Next article">Next →</button>}
   </nav>;
+  if (notesOpen) {
+    return <div className="article-learning-shell">{navigation("notes")}<ArticleMindmap articleId={article.number} title={article.title} /></div>;
+  }
+
   if (analysisMode && index <= 9) {
     return <div className="article-learning-shell">{navigation("analysis")}<SentenceStudio key={article.number} articleId={article.number} initialVocabulary={vocabularyTarget} onExit={() => { setAnalysisMode(false); setVocabularyTarget(undefined); }} /></div>;
   }
 
   if (quizOpen) {
-    if (index === 0) return <ArticleOneQuiz onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} />;
-    const suppliedQuiz = articles02to05QuizData.find((item) => item.articleNumber === article.number);
-    if (suppliedQuiz) return <ArticleOneQuiz key={article.number} onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} categories={[...suppliedQuiz.categories]} unitLabel={suppliedQuiz.unitLabel} articleTitle={suppliedQuiz.articleTitle} />;
+    if (index === 0) return <ArticleOneQuiz onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} articleId={article.number} />;
+    const suppliedQuiz = [...articles02to05QuizData, ...articles06to10QuizData].find((item) => item.articleNumber === article.number);
+    if (suppliedQuiz) return <ArticleOneQuiz key={article.number} onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} articleId={article.number} categories={[...suppliedQuiz.categories]} unitLabel={suppliedQuiz.unitLabel} articleTitle={suppliedQuiz.articleTitle} />;
     return <div className="article-learning-shell">{navigation("quizzes")}<QuizWorkspace article={article} onExit={() => setQuizOpen(false)} /></div>;
   }
 
@@ -715,22 +1037,20 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
       </header>
 
       {index >= 2 && index <= 9 ? (
-        <article id="text" className="reading-column"><div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src={suppliedAudio[index]} /></div><p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p><div className="original-text">{fullArticleParagraphs[index].map((paragraph, paragraphIndex) => <p className="prose" key={paragraphIndex}><span className="paragraph-number">{String(paragraphIndex + 1).padStart(2, "0")}</span>{getLesson(article.number) ? <LessonVocabularyParagraph articleId={article.number} paragraph={paragraphIndex + 1} text={paragraph} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : paragraph}</p>)}</div></article>
+        <article id="text" className="reading-column"><div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src={suppliedAudio[index]} /></div><p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>{(article.number === "03" || article.number === "04" || article.number === "05" || article.number === "06" || article.number === "07" || article.number === "08" || article.number === "09" || article.number === "10") ? <ArticleSyntaxReading articleId={article.number} paragraphs={fullArticleParagraphs[index]} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : (<div className="original-text">{fullArticleParagraphs[index].map((paragraph, paragraphIndex) => <p className={`prose${paragraphIndex === 0 && canUseEditorialDropCap(article.number, paragraph) ? " prose-opening" : ""}`} key={paragraphIndex}><span className="paragraph-number">{String(paragraphIndex + 1).padStart(2, "0")}</span><span className="prose-copy">{getLesson(article.number) ? <LessonVocabularyParagraph articleId={article.number} paragraph={paragraphIndex + 1} text={paragraph} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : paragraph}</span></p>)}</div>)} </article>
       ) : index > 9 ? (
         <section className="placeholder-text"><span className="ink-orbit" aria-hidden="true" /><p>The complete text has not yet been supplied.</p><small>This place is held without invented commentary.</small></section>
       ) : index === 1 ? (
         <article id="text" className="reading-column">
           <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="https://assets.negentropylearning.com.cn/media/audio-should-the-robots-be-taxed.mp3" /></div>
           <p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>
-          <div className="original-text">{robotsParagraphs.map((paragraph, paragraphIndex) => <p className="prose" key={paragraphIndex}><span className="paragraph-number">{String(paragraphIndex + 1).padStart(2, "0")}</span><LessonVocabularyParagraph articleId="02" paragraph={paragraphIndex + 1} text={paragraph} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/></p>)}</div>
+          <ArticleSyntaxReading articleId="02" paragraphs={robotsParagraphs} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/>
         </article>
       ) : (
         <article id="text" className="reading-column">
           <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="https://assets.negentropylearning.com.cn/media/audio-i-become-a-student.mp3" /></div>
           <p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>
-          <div className="original-text">
-            {steffensParagraphs.map((paragraph, paragraphIndex) => <p className="prose" key={paragraphIndex}><span className="paragraph-number">0{paragraphIndex + 1}</span><VocabularyParagraph text={paragraph} sentenceStart={1 + steffensParagraphs.slice(0, paragraphIndex).reduce((total, part) => total + splitStudioSentences(part).length, 0)} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/></p>)}
-          </div>
+          <ArticleSyntaxReading articleId="01" paragraphs={steffensParagraphs} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/>
           {analysisMode && <section className="sentence-atlas" aria-label="Sentence analysis cards">
             <p className="chapter-label">SENTENCE ATLAS · SELECT A CARD</p>
             <div className="sentence-grid">
@@ -828,7 +1148,7 @@ const article01StructurePracticePanels: readonly StudioPanel[] = ["structure", "
 const article01FrontOnlySentence = 37;
 
 function article01PanelsForSentence(sentence: number): readonly StudioPanel[] {
-  if (sentence === article01FrontOnlySentence) return [];
+  if (sentence === article01FrontOnlySentence) return ["structure"];
   return article01VocabularySentences.has(sentence) ? article01FullPanels : article01StructurePracticePanels;
 }
 
@@ -944,6 +1264,9 @@ function SentenceStructure({ sentence, articleId, existingFunctions, notebook = 
   const reviewNote = articleId === "01" ? findStructureEntry(article01StructureData.reviewNotes, sentence)?.note : undefined;
   const clauses = clauseEntry?.rows;
   const functions = functionEntry?.parts;
+
+  const reviewedSentence = articleId === "01" ? article01ReadingLesson.sentences.find(item => item.text === sentence) : undefined;
+  if (notebook && reviewedSentence) return <LessonStructure sentence={reviewedSentence}/>;
 
   if (notebook) return <div className="notebook-structure">
     <section className={`notebook-analysis-card${clausesOpen ? " is-open" : ""}`}>
@@ -1141,7 +1464,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
   const currentSetupSentence = isSetup ? setupConfig!.sentences[selected] : null;
   const article01SentenceNumber = selected + 1;
   const article01AvailablePanels = article01PanelsForSentence(article01SentenceNumber);
-  const article01FrontOnly = article01SentenceNumber === article01FrontOnlySentence;
+  const article01FrontOnly = false;
   const article01ActivePanel = activePanel === null || article01AvailablePanels.includes(primaryStudioPanel(activePanel)) ? activePanel : null;
 
   useEffect(() => {
@@ -1170,7 +1493,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
   const lesson = getLesson(articleId);
   if (lesson) {
     const sentence = lesson.sentences[selected];
-    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={activePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={sentence.classification}>
+    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={activePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification}>
       {activePanel === "words" ? <LessonWords key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} initialSourceRow={initialVocabulary?.sentence === sentence.id ? initialVocabulary.sourceRow : undefined}/>
         : activePanel === "structure" ? <LessonStructure key={`${articleId}-${selected}`} sentence={sentence}/>
         : activePanel && <LessonActivities key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} panel={activePanel} onPanel={setActivePanel}/>}

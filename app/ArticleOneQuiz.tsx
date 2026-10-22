@@ -4,10 +4,14 @@ import { useEffect, useLayoutEffect, useRef, useState, type CSSProperties, type 
 import { article01QuizCategories, type QuizCategory } from "./article01QuizData";
 import { QuizPaperBackdrop, QuizFolderTint } from "./QuizPaperMaterial";
 import { toMediaUrl } from "./mediaUrl";
+import { ArticlesDeeperAnalysis } from "./ArticlesDeeperAnalysis";
+import { PrepositionsDeeperAnalysis } from "./PrepositionsDeeperAnalysis";
+import { ConcordDeeperAnalysis } from "./ConcordDeeperAnalysis";
 
 type ArticleOneQuizProps = {
   onBack: () => void;
   footer: ReactNode;
+  articleId?: string;
   categories?: QuizCategory[];
   unitLabel?: string;
   articleTitle?: string;
@@ -52,7 +56,7 @@ function layoutForCategory(category: QuizCategory, categoryIndex: number, folder
   const base = TAB_LAYOUT[categoryIndex % TAB_LAYOUT.length];
   const labelWidth = imageLabels.has(category.id)
     ? base.labelWidth
-    : Math.min(400, Math.max(150, Math.round(category.label.length * 16)));
+    : Math.min(400, Math.max(150, Math.round((category.label.length + (category.id.startsWith("u4-") ? 3 : 0)) * 16)));
   const width = Math.min(folderWidth - 20 * scale, Math.max(base.width, labelWidth + (imageLabels.has(category.id) ? 78 : 110)) * scale);
   return {
     width,
@@ -85,7 +89,9 @@ const folderOutline = (tab: FolderTabLayout, width: number, height: number, scal
   ].join(" ");
 };
 
-export function ArticleOneQuiz({ onBack, footer, categories = article01QuizCategories, unitLabel = "UNIT 1 · A FRESH START", articleTitle = "I Become a Student" }: ArticleOneQuizProps) {
+export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = article01QuizCategories, unitLabel = "UNIT 1 · A FRESH START", articleTitle = "I Become a Student" }: ArticleOneQuizProps) {
+  const folderNumber = (id: string) => articleId === "01" ? ({ "analytical-reading": "01", "word-roots": "02", "paraphrasing": "03", "prepositions": "04", "articles": "05", "present-participle": "06", "translation": "07" } as Record<string, string>)[id] : articleId === "02" ? ({ "u4-reading-outline": "01", "u4-true-false": "02", "u4-close-reading": "03", "u4-vocabulary": "04", "u4-paraphrasing": "05", "u4-subject-verb-concord": "06", "u4-translation": "07" } as Record<string, string>)[id] : undefined;
+  const folderLabel = (item: QuizCategory) => `${folderNumber(item.id) ? folderNumber(item.id) + " " : ""}${item.label}`;
   const [order, setOrder] = useState(() => categories.map((category) => category.id));
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [expandedAnswers, setExpandedAnswers] = useState<Record<string, boolean>>({});
@@ -223,7 +229,7 @@ export function ArticleOneQuiz({ onBack, footer, categories = article01QuizCateg
               className={`integrated-quiz-folder${active ? " is-front" : ""}${expanded ? " is-expanded" : ""}`}
               style={folderStyle}
               data-category={category.id}
-              aria-label={category.label}
+              aria-label={folderLabel(category)}
             >
               <svg className="integrated-quiz-folder-shape" viewBox={`0 0 ${folderWidth} ${folderHeight}`} preserveAspectRatio="none" aria-hidden="true">
                 <QuizFolderTint id={`paper-tint-${category.id}`} color={category.color} />
@@ -243,10 +249,11 @@ export function ArticleOneQuiz({ onBack, footer, categories = article01QuizCateg
                 type="button"
                 aria-current={active ? "page" : undefined}
                 aria-pressed={expanded}
-                aria-label={active ? (expanded ? `Collapse ${category.label}` : `Read ${category.label}`) : `Move ${category.label} to the front`}
+                aria-label={active ? (expanded ? `Collapse ${folderLabel(category)}` : `Read ${folderLabel(category)}`) : `Move ${folderLabel(category)} to the front`}
                 onClick={() => selectCategory(category.id)}
               >
-                <span className={`integrated-quiz-folder-tab-label${imageLabels.has(category.id) ? "" : " is-text"}`} aria-hidden="true">
+                <span className={`integrated-quiz-folder-tab-label${imageLabels.has(category.id) ? "" : " is-text"}${folderNumber(category.id) ? " has-number" : ""}`} aria-hidden="true">
+                  {folderNumber(category.id) && <span className="integrated-quiz-folder-number">{folderNumber(category.id)}</span>}
                   {imageLabels.has(category.id) ? <img src={toMediaUrl(`/quiz-label-${category.id}.png`)} alt="" /> : category.label}
                 </span>
               </button>
@@ -266,7 +273,7 @@ export function ArticleOneQuiz({ onBack, footer, categories = article01QuizCateg
                     <span>FOLDERS</span>
                     {order.map((id) => {
                       const item = categories.find((candidate) => candidate.id === id)!;
-                      return <button key={id} type="button" aria-current={id === category.id ? "page" : undefined} onClick={() => selectCategory(id)}>{item.label}</button>;
+                      return <button key={id} data-folder={id} type="button" aria-current={id === category.id ? "page" : undefined} onClick={() => selectCategory(id)}>{folderLabel(item)}</button>;
                     })}
                     <button className="integrated-quiz-collapse" type="button" onClick={() => { expandedRef.current = null; setExpandedId(null); }}>Return to stack <span aria-hidden="true">↘</span></button>
                   </nav>}
@@ -294,17 +301,20 @@ export function ArticleOneQuiz({ onBack, footer, categories = article01QuizCateg
                         <div className="integrated-quiz-question-title"><span>{String(index + 1).padStart(2, "0")}</span><h2>{exercise.title}</h2></div>
                         {exercise.instruction && <p className="integrated-quiz-instruction">{exercise.instruction}</p>}
                         <div className="integrated-quiz-prompt">{exercise.prompt}</div>
-                        {exercise.answer ? <>
+                        {exercise.selfManagedAnswers ? null : exercise.answer ? <>
                           <button className="integrated-quiz-answer-toggle" type="button" aria-expanded={open} aria-controls={answerId} onClick={() => toggleAnswer(answerId)}>
                             {open ? "Hide answer" : "Show answer"}<span aria-hidden="true">{open ? "−" : "+"}</span>
                           </button>
                           <div className="integrated-quiz-answer-motion" data-open={open}>
-                            <div className="integrated-quiz-answer-clip"><div className="integrated-quiz-answer" id={answerId} aria-hidden={!open}><p className="integrated-quiz-answer-label">ANSWER</p>{exercise.answer}</div></div>
+                            <div className="integrated-quiz-answer-clip"><div className="integrated-quiz-answer" id={answerId} aria-hidden={!open} inert={!open}><p className="integrated-quiz-answer-label">ANSWER</p>{exercise.answer}</div></div>
                           </div>
                         </> : <p className="integrated-quiz-no-answer">No answer key is supplied for this activity.</p>}
                       </section>
                     );
                   })}
+                  {articleId === "01" && category.id === "articles" && <ArticlesDeeperAnalysis />}
+                  {articleId === "01" && category.id === "prepositions" && <PrepositionsDeeperAnalysis />}
+                  {articleId === "02" && category.id === "u4-subject-verb-concord" && <ConcordDeeperAnalysis />}
                 </div>
               </div>
             </article>

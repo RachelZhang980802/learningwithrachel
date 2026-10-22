@@ -1,0 +1,7 @@
+// Used only by `npm run types:workers` to generate runtime declarations.
+// Deployment bindings remain managed by vite.config.ts and .openai/hosting.json.
+{
+  "name": "archive-runtime-types",
+  "compatibility_date": "2026-05-15",
+  "compatibility_flags": ["nodejs_compat"]
+}

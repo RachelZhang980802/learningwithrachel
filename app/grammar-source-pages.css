@@ -1,0 +1,27 @@
+.grammar-source-pages { display: grid; grid-template-columns: 1fr; gap: 34px; margin-top: 25px; }
+.grammar-text-page { width: 100%; min-width: 0; max-width: 900px; overflow: hidden; background: #fffdf9; border: 1px solid #ded5c8; border-radius: 16px; box-shadow: 0 12px 40px #4c39210e; }
+.grammar-text-caption { display: flex; align-items: center; justify-content: space-between; gap: 14px; padding: 20px 24px; font: 13px Arial, sans-serif; color: #64756c; }
+.grammar-text-caption strong { color: #2d514a; font-size: 17px; }
+.grammar-text-scroller { width: 100%; overflow-x: auto; }
+.grammar-text-sheet { position: relative; width: 100%; min-width: 0; aspect-ratio: 1327 / 1700; container-type: inline-size; overflow: hidden; background: linear-gradient(90deg, #e5f5fb 0 8%, #c6e9f4 8% 19%, #fff 19% 100%); color: #171b1d; }
+.grammar-text-sheet::before { content: ""; position: absolute; top: 0; left: 19%; right: 0; height: 9.2%; background: #c8edf7; }
+.grammar-text-sheet::after { content: ""; position: absolute; top: 0; bottom: 0; left: 8%; width: 10.5%; background: linear-gradient(180deg, #072c9a 0 9%, transparent 9% 100%); pointer-events: none; }
+.grammar-text-section-band { position: absolute; z-index: 1; left: 8%; width: 10.5%; height: 2.2%; background: #123db3; }
+.grammar-text-rule { position: absolute; z-index: 1; display: block; pointer-events: none; }
+.grammar-text-rule.is-h { border-top: 1.4px solid #7bbacd; }
+.grammar-text-rule.is-v { border-left: 1.4px solid #7bbacd; }
+.grammar-text-line { position: absolute; z-index: 1; max-width: 78%; white-space: pre; line-height: 1; font-family: "Times New Roman", Georgia, serif; font-weight: 400; letter-spacing: -.015em; }
+.grammar-text-line.is-body { font-size: 1.8cqw !important; }
+.grammar-text-line.is-body.is-long { font-size: 1.74cqw !important; }
+.grammar-text-line.is-title.is-long { font-size: 3.88cqw !important; }
+.grammar-text-line.is-example { padding-left: 1.75cqw; }
+.grammar-text-line.is-example::before { content: ""; position: absolute; left: .12cqw; top: .23cqw; width: .78cqw; height: .78cqw; border: 1px solid #84bac8; }
+.grammar-text-line strong { font-weight: 700; }
+.grammar-text-line em { font-style: italic; }
+.grammar-text-line.is-title { font-family: Arial, sans-serif; letter-spacing: -.035em; color: #111b22; }
+.grammar-text-line.is-badge { font-family: Arial, sans-serif; color: #fff; letter-spacing: 0; }
+.grammar-text-line.is-section { color: #fff; font: 700 2cqw Arial, sans-serif !important; text-align: center; }
+.grammar-text-line.is-folio { color: #152a61; font-family: Arial, sans-serif; font-weight: 700; }
+.grammar-text-page:focus-within { outline: 2px solid #9fbbae; }
+@media (max-width: 950px) { .grammar-text-caption::after { content: "Scroll horizontally to view the full page"; color: #68827c; } }
+@media (max-width: 800px) { .grammar-text-sheet { min-width: 680px; } }

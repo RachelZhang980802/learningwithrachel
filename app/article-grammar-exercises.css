@@ -1,0 +1,24 @@
+.ag-exercises .u44-section li { grid-template-columns: 2.5em minmax(0, 1fr); margin-bottom: 5px; }
+.ag-exercises .ag-row-copy { white-space: pre-line; }
+.ag-word-bank { display: flex; flex-wrap: wrap; gap: 5px 24px; width: fit-content; max-width: 100%; margin: 8px 0 14px 68px; border: 1px solid #bfd985; border-radius: 14px; padding: 4px 14px; font-weight: 600; }
+.ag-exercises .ag-underlined { text-decoration: underline; text-underline-offset: 3px; }
+.ag-exercises .ag-example-answer { color: #618d34; font-style: italic; }
+.ag-prompt-line { display: inline-block; min-width: 4em; border-bottom: 1px dotted #748362; }
+.articles-analysis-dialog .ag-exercises .ag-blank:has(.ag-prompt-line) { border-bottom: 0; }
+.ag-email { border: 3px solid #8d9cb4; box-shadow: 4px 5px 0 #d9e0d2; border-radius: 5px; background: #fff; margin-top: 18px; overflow: hidden; }
+.ag-email-titlebar { display: flex; gap: 7px; padding: 7px; background: linear-gradient(#c7c9be, #a8aaa3); }
+.ag-email-titlebar i { display: block; width: 12px; height: 12px; border: 1px solid #0002; border-radius: 50%; background: #d97566; }
+.ag-email-titlebar i:nth-child(2) { background: #e9c564; }
+.ag-email-titlebar i:nth-child(3) { background: #a6c86b; }
+.ag-email-actions { display: flex; gap: 10px; padding: 6px 10px; background: #eff4ff; color: #28416f; font: 12px/1.5 Arial, sans-serif; }
+.ag-email-actions span { border: 1px solid #b8c6d7; padding: 2px 8px; background: #fafcff; }
+.ag-email-format { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; padding: 6px 12px; font: 14px/1.5 Georgia, serif; border-bottom: 1px solid #b3c5e5; color: #244678; background: #f8fbff; }
+.ag-email-format span:last-child { margin-left: auto; }
+.ag-email p { margin: 0; padding: 12px 16px; font: inherit; line-height: 1.8; color: inherit; }
+.ag-exercises .u44-note { overflow-wrap: anywhere; }
+@container (max-width: 620px) {
+  .ag-word-bank { margin-left: 0; gap: 4px 14px; }
+  .ag-exercises .u44-section li { grid-template-columns: 2em minmax(0, 1fr); }
+  .ag-email p { padding: 10px; }
+  .ag-email-format { gap: 12px; }
+}

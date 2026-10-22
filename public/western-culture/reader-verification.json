@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-14",
+  "pages": 708,
+  "sections": 242,
+  "sourceParagraphsVerified": 4203,
+  "renderedParagraphs": 4029,
+  "accessibleOriginals": 879,
+  "desktopPagesChecked": 708,
+  "mobilePagesChecked": 708,
+  "mobileWidth": 390,
+  "issues": [],
+  "interactionsVerified": [
+    "previous",
+    "next",
+    "arrow-left",
+    "arrow-right",
+    "section-navigation",
+    "continuation-navigation",
+    "source-image-selector",
+    "legacy-source-hash"
+  ],
+  "notes": "Text compared after whitespace normalization; repeated text maps to identical retained text. Historical accuracy is not asserted by this layout check."
+}

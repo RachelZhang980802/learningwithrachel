@@ -1,0 +1,61 @@
+/** Vocabulary explicitly explained in the user's 17-page Day 42 PDF and present in article 02. */
+export type PendingPdfWord = {
+  sourceRow: number;
+  word: string;
+  forms: string[];
+  occurrences: number[];
+  pdfPages: number[];
+};
+
+export const article02PdfVocabulary: PendingPdfWord[] = [
+  { sourceRow: 1, word: "go viral", forms: ["going viral"], occurrences: [1], pdfPages: [2] },
+  { sourceRow: 2, word: "universal income", forms: ["universal income"], occurrences: [2], pdfPages: [2] },
+  { sourceRow: 3, word: "gain ground", forms: ["gaining ground"], occurrences: [2], pdfPages: [2] },
+  { sourceRow: 4, word: "sometime", forms: ["Sometime"], occurrences: [3], pdfPages: [3] },
+  { sourceRow: 5, word: "submit", forms: ["submitted"], occurrences: [3], pdfPages: [3] },
+  { sourceRow: 6, word: "European Parliament", forms: ["European Parliament"], occurrences: [3], pdfPages: [3] },
+  { sourceRow: 7, word: "state", forms: ["states"], occurrences: [3], pdfPages: [3] },
+  { sourceRow: 8, word: "advanced", forms: ["advanced"], occurrences: [4], pdfPages: [3] },
+  { sourceRow: 9, word: "recommend", forms: ["recommends"], occurrences: [4], pdfPages: [3] },
+  { sourceRow: 10, word: "European Commission", forms: ["European Commission"], occurrences: [4], pdfPages: [4] },
+  { sourceRow: 11, word: "establishment", forms: ["establishment"], occurrences: [5], pdfPages: [4] },
+  { sourceRow: 12, word: "guarantee", forms: ["guaranteed"], occurrences: [5], pdfPages: [4, 5] },
+  { sourceRow: 13, word: "see … as", forms: ["see robots as"], occurrences: [6], pdfPages: [5] },
+  { sourceRow: 14, word: "transformation", forms: ["transformations"], occurrences: [7], pdfPages: [5] },
+  { sourceRow: 15, word: "relevant / stay relevant", forms: ["stay relevant"], occurrences: [8], pdfPages: [5, 6] },
+  { sourceRow: 16, word: "a case in point", forms: ["A case in point"], occurrences: [9], pdfPages: [6] },
+  { sourceRow: 17, word: "textile", forms: ["Textile"], occurrences: [10], pdfPages: [6] },
+  { sourceRow: 18, word: "craft / craft production", forms: ["craft production"], occurrences: [10], pdfPages: [6] },
+  { sourceRow: 19, word: "handloom", forms: ["Handloom"], occurrences: [11], pdfPages: [6] },
+  { sourceRow: 20, word: "weaver", forms: ["weavers"], occurrences: [11, 17], pdfPages: [7] },
+  { sourceRow: 21, word: "pace", forms: ["pace"], occurrences: [11, 12], pdfPages: [7] },
+  { sourceRow: 22, word: "cottage", forms: ["cottages"], occurrences: [11], pdfPages: [7] },
+  { sourceRow: 23, word: "machinery", forms: ["machinery"], occurrences: [12, 13], pdfPages: [7] },
+  { sourceRow: 24, word: "division of labor", forms: ["division of labor"], occurrences: [14], pdfPages: [7] },
+  { sourceRow: 25, word: "scope", forms: ["scope"], occurrences: [15], pdfPages: [8] },
+  { sourceRow: 26, word: "now that", forms: ["Now that"], occurrences: [18], pdfPages: [8] },
+  { sourceRow: 27, word: "lag", forms: ["lag"], occurrences: [19], pdfPages: [9] },
+  { sourceRow: 28, word: "side effect", forms: ["side effect"], occurrences: [20], pdfPages: [9] },
+  { sourceRow: 29, word: "automation", forms: ["automation"], occurrences: [20], pdfPages: [9] },
+  { sourceRow: 30, word: "muscle power", forms: ["muscle power"], occurrences: [21], pdfPages: [10] },
+  { sourceRow: 31, word: "prosperity", forms: ["prosperity"], occurrences: [21], pdfPages: [10] },
+  { sourceRow: 32, word: "go through", forms: ["went through", "going through"], occurrences: [22, 48], pdfPages: [10] },
+  { sourceRow: 33, word: "be worth doing", forms: ["worth watching"], occurrences: [22], pdfPages: [10] },
+  { sourceRow: 34, word: "plummet", forms: ["plummeted"], occurrences: [22], pdfPages: [10] },
+  { sourceRow: 35, word: "resource-constrained / constrain", forms: ["resource-constrained"], occurrences: [26], pdfPages: [11, 12] },
+  { sourceRow: 36, word: "conserve", forms: ["conserve"], occurrences: [26], pdfPages: [12] },
+  { sourceRow: 37, word: "argue", forms: ["argues", "argue"], occurrences: [27, 46], pdfPages: [12] },
+  { sourceRow: 38, word: "spare", forms: ["spare"], occurrences: [27], pdfPages: [12] },
+  { sourceRow: 39, word: "per capita", forms: ["per capita"], occurrences: [28], pdfPages: [12] },
+  { sourceRow: 40, word: "skew", forms: ["skewed"], occurrences: [28], pdfPages: [12] },
+  { sourceRow: 41, word: "there is a cost to doing", forms: ["there is a cost to making"], occurrences: [32], pdfPages: [14] },
+  { sourceRow: 42, word: "flashpoint", forms: ["flashpoint"], occurrences: [34], pdfPages: [14] },
+  { sourceRow: 43, word: "boycott", forms: ["boycotting"], occurrences: [36], pdfPages: [14] },
+  { sourceRow: 44, word: "essential", forms: ["essential"], occurrences: [37], pdfPages: [15] },
+  { sourceRow: 45, word: "dramatic", forms: ["dramatic"], occurrences: [40], pdfPages: [15] },
+  { sourceRow: 46, word: "amplify", forms: ["amplifying"], occurrences: [45], pdfPages: [16] },
+  { sourceRow: 47, word: "disrupt", forms: ["disrupted"], occurrences: [47], pdfPages: [16] },
+  { sourceRow: 48, word: "equilibrium", forms: ["equilibrium"], occurrences: [47], pdfPages: [16] },
+  { sourceRow: 49, word: "empathy", forms: ["empathy"], occurrences: [48], pdfPages: [16, 17] },
+  { sourceRow: 50, word: "compassion", forms: ["compassion"], occurrences: [48], pdfPages: [16, 17] },
+];

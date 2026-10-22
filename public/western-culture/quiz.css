@@ -687,3 +687,11 @@ body.quiz-page {
   .quiz-nav button,
   .quiz-options li { transition: none; }
 }
+
+/* Keep the shared campus footer fully visible in the fixed quiz viewport. */
+.quiz-app{grid-template-rows:auto auto auto minmax(0,1fr) clamp(8rem,min(22svh,22vw),15rem) 230px}
+.quiz-app.is-long-question:not([data-scene='two']):not([data-scene='four']){grid-template-rows:auto auto auto minmax(0,1fr) clamp(3.25rem,6svh,7rem) 230px}
+.quiz-app[data-scene='two']{grid-template-rows:auto auto auto minmax(0,1fr) 230px}
+.quiz-app[data-scene='four']{grid-template-rows:auto auto auto minmax(0,1fr) 230px}
+@media(max-width:760px){.quiz-app,.quiz-app[data-scene='two'],.quiz-app[data-scene='four']{grid-template-rows:auto auto auto minmax(0,1fr) clamp(6.5rem,20svh,10rem) 230px}.quiz-app.is-long-question:not([data-scene='two']):not([data-scene='four']){grid-template-rows:auto auto auto minmax(0,1fr) clamp(3.25rem,6svh,7rem) 230px}}
+@media(max-width:520px){.quiz-app,.quiz-app[data-scene='two'],.quiz-app[data-scene='four']{grid-template-rows:auto auto auto minmax(0,1fr) clamp(6rem,18svh,9rem) 230px}}

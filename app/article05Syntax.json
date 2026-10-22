@@ -1,0 +1,4256 @@
+{
+  "1": {
+    "text": "Akira came directly, breaking all tradition.",
+    "lessonText": "Akira came directly, breaking all tradition.",
+    "paragraphStart": 0,
+    "paragraphEnd": 44,
+    "functions": [
+      [
+        "Subject",
+        "Akira "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Adverbial",
+        "directly, "
+      ],
+      [
+        "Adverbial",
+        "breaking all tradition."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "Akira came directly, breaking all tradition."
+      }
+    ],
+    "notes": [
+      "breaking 的逻辑主语是 Akira。directly 结合后文指不经媒人亲自来提亲，不只是说话坦率或行动迅速。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "came",
+        "role": "main"
+      }
+    ]
+  },
+  "2": {
+    "text": "Was that it?",
+    "lessonText": "Was that it?",
+    "paragraphStart": 45,
+    "paragraphEnd": 57,
+    "functions": [
+      [
+        "Linking verb",
+        "Was "
+      ],
+      [
+        "Subject",
+        "that "
+      ],
+      [
+        "Predicative",
+        "it?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 12,
+        "anchorEnd": 0,
+        "text": "Was that it?"
+      }
+    ],
+    "notes": [
+      "that 回指直接登门这件事；it 指使 Chie 作出这种反应的原因。这是叙述中的反思设问。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Was",
+        "role": "main"
+      }
+    ]
+  },
+  "3": {
+    "text": "Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?",
+    "lessonText": "Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?",
+    "paragraphStart": 58,
+    "paragraphEnd": 187,
+    "functions": [
+      [
+        "Auxiliary verb",
+        "Had "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "followed "
+      ],
+      [
+        "Object",
+        "form—"
+      ],
+      [
+        "Auxiliary verb",
+        "had "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "asked "
+      ],
+      [
+        "Object",
+        "his mother "
+      ],
+      [
+        "Object complement",
+        "to speak to his father to approach a go-between—"
+      ],
+      [
+        "Modal auxiliary",
+        "would "
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Linking verb",
+        "have been "
+      ],
+      [
+        "Predicative",
+        "more receptive?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 129,
+        "anchorEnd": 0,
+        "text": "Had he followed form—had he asked his mother to speak to his father to approach a go-between—would Chie have been more receptive?"
+      },
+      {
+        "kind": "condition",
+        "start": 0,
+        "end": 20,
+        "anchorEnd": 3,
+        "text": "Had he followed form",
+        "restoration": "if"
+      },
+      {
+        "kind": "condition",
+        "start": 21,
+        "end": 92,
+        "anchorEnd": 24,
+        "text": "had he asked his mother to speak to his father to approach a go-between",
+        "restoration": "if"
+      }
+    ],
+    "notes": [
+      "Had he followed = If he had followed，是与过去事实相反的条件；主句又因提问将 would 前置。两种倒装来源不同。破折号内说明循礼的具体步骤，不是第二个结果主句。",
+      "两个 Had/had 条件结构分别标为 Conditional clause，第二个是破折号内的改述；if 只在省略提示中出现，理解时需还原正常语序。would 与 have been 属于外层问句谓语链。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "Had",
+        "role": "sub"
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "followed",
+        "role": "sub"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "had",
+        "role": "sub"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "text": "asked",
+        "role": "sub"
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "text": "would",
+        "role": "main"
+      },
+      {
+        "start": 104,
+        "end": 113,
+        "text": "have been",
+        "role": "main"
+      }
+    ]
+  },
+  "4": {
+    "text": "He came on a winter's eve.",
+    "lessonText": "He came on a winter's eve.",
+    "paragraphStart": 0,
+    "paragraphEnd": 26,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "came "
+      ],
+      [
+        "Adverbial",
+        "on a winter's eve."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "He came on a winter's eve."
+      }
+    ],
+    "notes": [
+      "eve 在此为较文学的 evening“夜晚”，不是指定节日前夕。具体某个夜晚用 on。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "came",
+        "role": "main"
+      }
+    ]
+  },
+  "5": {
+    "text": "He pounded on the door while a cold rain beat on the shuttered veranda, so at first Chie thought him only the wind.",
+    "lessonText": "He pounded on the door while a cold rain beat on the shuttered veranda, so at first Chie thought him only the wind.",
+    "paragraphStart": 27,
+    "paragraphEnd": 142,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "pounded "
+      ],
+      [
+        "Complement",
+        "on the door "
+      ],
+      [
+        "Subordinator",
+        "while "
+      ],
+      [
+        "Subject",
+        "a cold rain "
+      ],
+      [
+        "Predicate",
+        "beat "
+      ],
+      [
+        "Complement",
+        "on the shuttered veranda, "
+      ],
+      [
+        "Coordinating conjunction",
+        "so "
+      ],
+      [
+        "Adverbial",
+        "at first "
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "thought "
+      ],
+      [
+        "Object",
+        "him "
+      ],
+      [
+        "Object complement",
+        "only the wind."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 72,
+        "anchorEnd": 0,
+        "text": "He pounded on the door while a cold rain beat on the shuttered veranda, "
+      },
+      {
+        "kind": "time",
+        "start": 23,
+        "end": 72,
+        "anchorEnd": 28,
+        "text": "while a cold rain beat on the shuttered veranda, "
+      },
+      {
+        "kind": "main",
+        "start": 72,
+        "end": 115,
+        "anchorEnd": 72,
+        "text": "so at first Chie thought him only the wind."
+      }
+    ],
+    "notes": [
+      "think him the wind 为宾语＋名词宾补；实际是把来人的敲门动静当成风。while 表同时发生，so 连接结果主句；thought 后并无 that 从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 10,
+        "text": "pounded",
+        "role": "main"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "beat",
+        "role": "sub"
+      },
+      {
+        "start": 89,
+        "end": 96,
+        "text": "thought",
+        "role": "main"
+      }
+    ]
+  },
+  "6": {
+    "text": "The maid knew better.",
+    "lessonText": "The maid knew better.",
+    "paragraphStart": 143,
+    "paragraphEnd": 164,
+    "functions": [
+      [
+        "Subject",
+        "The maid "
+      ],
+      [
+        "Predicate",
+        "knew "
+      ],
+      [
+        "Complement",
+        "better."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 21,
+        "anchorEnd": 0,
+        "text": "The maid knew better."
+      }
+    ],
+    "notes": [
+      "know better 表知道实情、不会误判，承接 Chie 把动静当风；不是泛指女佣学历更高。"
+    ],
+    "predicates": [
+      {
+        "start": 9,
+        "end": 13,
+        "text": "knew",
+        "role": "main"
+      }
+    ]
+  },
+  "7": {
+    "text": "Chie heard her soft scuttling footsteps, the creak of the door.",
+    "lessonText": "Chie heard her soft scuttling footsteps, the creak of the door.",
+    "paragraphStart": 165,
+    "paragraphEnd": 228,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "heard "
+      ],
+      [
+        "Object",
+        "her soft scuttling footsteps, "
+      ],
+      [
+        "Object",
+        "the creak of the door."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 63,
+        "anchorEnd": 0,
+        "text": "Chie heard her soft scuttling footsteps, the creak of the door."
+      }
+    ],
+    "notes": [
+      "两个声音名词短语并列作 heard 的宾语。scuttling 修饰 footsteps，并不是独立谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "heard",
+        "role": "main"
+      }
+    ]
+  },
+  "8": {
+    "text": "Then the maid brought a calling card to the drawing room, for Chie.",
+    "lessonText": "Then the maid brought a calling card to the drawing room, for Chie.",
+    "paragraphStart": 229,
+    "paragraphEnd": 296,
+    "functions": [
+      [
+        "Adverbial",
+        "Then "
+      ],
+      [
+        "Subject",
+        "the maid "
+      ],
+      [
+        "Predicate",
+        "brought "
+      ],
+      [
+        "Object",
+        "a calling card "
+      ],
+      [
+        "Complement",
+        "to the drawing room, "
+      ],
+      [
+        "Complement",
+        "for Chie."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 0,
+        "text": "Then the maid brought a calling card to the drawing room, for Chie."
+      }
+    ],
+    "notes": [
+      "to 引出送到的地点，for 引出给谁。calling card 为拜访名片，drawing room 为客厅，不按字面译“绘画房间”。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "brought",
+        "role": "main"
+      }
+    ]
+  },
+  "9": {
+    "text": "Chie was reluctant to go to her guest; perhaps she was feeling too cozy.",
+    "lessonText": "Chie was reluctant to go to her guest; perhaps she was feeling too cozy.",
+    "paragraphStart": 0,
+    "paragraphEnd": 72,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "reluctant "
+      ],
+      [
+        "Infinitival complement",
+        "to go to her guest; "
+      ],
+      [
+        "Adverbial",
+        "perhaps "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Linking verb",
+        "was feeling "
+      ],
+      [
+        "Predicative",
+        "too cozy."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "Chie was reluctant to go to her guest; "
+      },
+      {
+        "kind": "main",
+        "start": 39,
+        "end": 72,
+        "anchorEnd": 39,
+        "text": "perhaps she was feeling too cozy."
+      }
+    ],
+    "notes": [
+      "分号连接两个主句。reluctant to… 表不情愿；perhaps 保留叙述者对原因的推测，而不是绝对解释。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "text": "was feeling",
+        "role": "main"
+      }
+    ]
+  },
+  "10": {
+    "text": "She and Naomi were reading at a low table set atop a charcoal brazier.",
+    "lessonText": "She and Naomi were reading at a low table set atop a charcoal brazier.",
+    "paragraphStart": 73,
+    "paragraphEnd": 143,
+    "functions": [
+      [
+        "Subject",
+        "She and Naomi "
+      ],
+      [
+        "Predicate",
+        "were reading "
+      ],
+      [
+        "Adverbial",
+        "at a low table "
+      ],
+      [
+        "Participial modifier",
+        "set atop a charcoal brazier."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 70,
+        "anchorEnd": 0,
+        "text": "She and Naomi were reading at a low table set atop a charcoal brazier."
+      }
+    ],
+    "notes": [
+      "set 是过去分词，修饰 table，可释为 which was set…。它不是第二个过去式谓语；atop 相当于 on top of。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 26,
+        "text": "were reading",
+        "role": "main"
+      }
+    ]
+  },
+  "11": {
+    "text": "A thick quilt spread over the sides of the table so their legs were tucked inside with the heat.",
+    "lessonText": "A thick quilt spread over the sides of the table so their legs were tucked inside with the heat.",
+    "paragraphStart": 144,
+    "paragraphEnd": 240,
+    "functions": [
+      [
+        "Subject",
+        "A thick quilt "
+      ],
+      [
+        "Predicate",
+        "spread "
+      ],
+      [
+        "Complement",
+        "over the sides of the table "
+      ],
+      [
+        "Coordinating conjunction",
+        "so "
+      ],
+      [
+        "Subject",
+        "their legs "
+      ],
+      [
+        "Predicate",
+        "were tucked "
+      ],
+      [
+        "Adverbial",
+        "inside "
+      ],
+      [
+        "Supplement",
+        "with the heat."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 49,
+        "anchorEnd": 0,
+        "text": "A thick quilt spread over the sides of the table "
+      },
+      {
+        "kind": "main",
+        "start": 49,
+        "end": 96,
+        "anchorEnd": 49,
+        "text": "so their legs were tucked inside with the heat."
+      }
+    ],
+    "notes": [
+      "spread 的过去式与原形相同，在此为主句谓语。so 连接结果分句；第二句被动说明双腿被被子围住保暖。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 20,
+        "text": "spread",
+        "role": "main"
+      },
+      {
+        "start": 63,
+        "end": 74,
+        "text": "were tucked",
+        "role": "main"
+      }
+    ]
+  },
+  "12": {
+    "text": "\"Who is it at this hour, in this weather?\"",
+    "lessonText": "\"Who is it at this hour, in this weather?\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 42,
+    "functions": [
+      [
+        "Predicative",
+        "\"Who "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Subject",
+        "it "
+      ],
+      [
+        "Adverbial",
+        "at this hour, "
+      ],
+      [
+        "Adverbial",
+        "in this weather?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "\"Who is it at this hour, in this weather?\""
+      }
+    ],
+    "notes": [
+      "这是身份询问 Who is it?，两介词短语表惊讶的情境。本条和下一条属于同一段直接引语及报告内容，但保留已有音频划分。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 7,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "13": {
+    "text": "Chie questioned as she picked the name card off the maid's lacquer tray.",
+    "lessonText": "Chie questioned as she picked the name card off the maid's lacquer tray.",
+    "paragraphStart": 43,
+    "paragraphEnd": 115,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "questioned "
+      ],
+      [
+        "Subordinator",
+        "as "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "picked "
+      ],
+      [
+        "Object",
+        "the name card "
+      ],
+      [
+        "Complement",
+        "off the maid's lacquer tray."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 72,
+        "anchorEnd": 0,
+        "text": "Chie questioned as she picked the name card off the maid's lacquer tray."
+      },
+      {
+        "kind": "time",
+        "start": 16,
+        "end": 72,
+        "anchorEnd": 18,
+        "text": "as she picked the name card off the maid's lacquer tray."
+      }
+    ],
+    "notes": [
+      "questioned 承接上一条引语，在此是不带显式宾语的“问道”。as 表同时进行，off 表从表面取离。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 15,
+        "text": "questioned",
+        "role": "main"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "text": "picked",
+        "role": "sub"
+      }
+    ]
+  },
+  "14": {
+    "text": "\"Shinoda, Akira.",
+    "lessonText": "\"Shinoda, Akira.",
+    "paragraphStart": 0,
+    "paragraphEnd": 16,
+    "functions": [
+      [
+        "Name fragment",
+        "\"Shinoda, Akira."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 16,
+        "anchorEnd": 0,
+        "text": "\"Shinoda, Akira.",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "名片上先姓后名，没有限定谓语，是朗读姓名片段，不强行当作完整陈述句。",
+      "本条只朗读姓名，使用 Sentence fragment 中性框，不添加不存在的谓语。"
+    ],
+    "predicates": []
+  },
+  "15": {
+    "text": "Kobe Dental College,\" she read.",
+    "lessonText": "Kobe Dental College,\" she read.",
+    "paragraphStart": 17,
+    "paragraphEnd": 48,
+    "functions": [
+      [
+        "Quoted name fragment",
+        "Kobe Dental College,\" "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "read."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 22,
+        "anchorEnd": 0,
+        "text": "Kobe Dental College,\" ",
+        "label": "Quoted fragment",
+        "color": "#746958"
+      },
+      {
+        "kind": "main",
+        "start": 22,
+        "end": 31,
+        "anchorEnd": 22,
+        "text": "she read.",
+        "label": "Reporting clause"
+      }
+    ],
+    "notes": [
+      "院校名称是名词短语，报告句 she read 是完整主句。read 在过去叙事中读 /red/；沿用原音频，分句不合并。",
+      "名片上的院校名单列 Quoted fragment；she read 是 Reporting clause，只有 read 用主句谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 26,
+        "end": 30,
+        "text": "read",
+        "role": "main"
+      }
+    ]
+  },
+  "16": {
+    "text": "Naomi recognized the name.",
+    "lessonText": "Naomi recognized the name.",
+    "paragraphStart": 0,
+    "paragraphEnd": 26,
+    "functions": [
+      [
+        "Subject",
+        "Naomi "
+      ],
+      [
+        "Predicate",
+        "recognized "
+      ],
+      [
+        "Object",
+        "the name."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "Naomi recognized the name."
+      }
+    ],
+    "notes": [
+      "recognize 指认出曾知道的人或名字，不等于第一次学会读这个名字。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 16,
+        "text": "recognized",
+        "role": "main"
+      }
+    ]
+  },
+  "17": {
+    "text": "Chie heard a soft intake of air.",
+    "lessonText": "Chie heard a soft intake of air.",
+    "paragraphStart": 27,
+    "paragraphEnd": 59,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "heard "
+      ],
+      [
+        "Object",
+        "a soft intake of air."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 32,
+        "anchorEnd": 0,
+        "text": "Chie heard a soft intake of air."
+      }
+    ],
+    "notes": [
+      "intake 是名词，a soft intake 指一次轻轻吸气；语境暗示 Naomi 的反应，不在语法上硬补作者未明写的主语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "heard",
+        "role": "main"
+      }
+    ]
+  },
+  "18": {
+    "text": "\"I think you should go,\" said Naomi.",
+    "lessonText": "\"I think you should go,\" said Naomi.",
+    "paragraphStart": 0,
+    "paragraphEnd": 36,
+    "functions": [
+      [
+        "Subject",
+        "\"I "
+      ],
+      [
+        "Predicate",
+        "think "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "should go"
+      ],
+      [
+        "Punctuation",
+        ",\" "
+      ],
+      [
+        "Predicate",
+        "said "
+      ],
+      [
+        "Subject",
+        "Naomi."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "\"I think you should go,\" ",
+        "label": "Quoted main clause"
+      },
+      {
+        "kind": "object",
+        "start": 9,
+        "end": 23,
+        "anchorEnd": 12,
+        "text": "you should go,",
+        "restoration": "that"
+      },
+      {
+        "kind": "main",
+        "start": 25,
+        "end": 36,
+        "anchorEnd": 25,
+        "text": "said Naomi.",
+        "label": "Reporting clause"
+      }
+    ],
+    "notes": [
+      "引语内 think 后省略 that。said Naomi 是报告句倒装；should 表建议，而非已经作出的安排。",
+      "引语主句 I think 与倒装报告句 said Naomi 分开；you should go 是嵌在引语内的 Object clause，that 为省略提示。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "think",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "text": "should go",
+        "role": "sub"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "said",
+        "role": "main"
+      }
+    ]
+  },
+  "19": {
+    "text": "Akira was waiting in the entry.",
+    "lessonText": "Akira was waiting in the entry.",
+    "paragraphStart": 0,
+    "paragraphEnd": 31,
+    "functions": [
+      [
+        "Subject",
+        "Akira "
+      ],
+      [
+        "Predicate",
+        "was waiting "
+      ],
+      [
+        "Adverbial",
+        "in the entry."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 31,
+        "anchorEnd": 0,
+        "text": "Akira was waiting in the entry."
+      }
+    ],
+    "notes": [
+      "entry 在此为入口／门厅空间，不是词条或报名记录。过去进行时说明她出来时正在持续的状态。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 17,
+        "text": "was waiting",
+        "role": "main"
+      }
+    ]
+  },
+  "20": {
+    "text": "He was in his early twenties, slim and serious, wearing the black military-style uniform of a student.",
+    "lessonText": "He was in his early twenties, slim and serious, wearing the black military-style uniform of a student.",
+    "paragraphStart": 32,
+    "paragraphEnd": 134,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "in his early twenties, "
+      ],
+      [
+        "Predicative",
+        "slim and serious, "
+      ],
+      [
+        "Adverbial",
+        "wearing the black military-style uniform of a student."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 102,
+        "anchorEnd": 0,
+        "text": "He was in his early twenties, slim and serious, wearing the black military-style uniform of a student."
+      }
+    ],
+    "notes": [
+      "wearing 是附加的伴随分词，其逻辑主语为 He。in his early twenties 表二十出头，twenties 用复数。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "21": {
+    "text": "As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—Chie glanced beyond him.",
+    "lessonText": "As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—Chie glanced beyond him.",
+    "paragraphStart": 135,
+    "paragraphEnd": 265,
+    "functions": [
+      [
+        "Subordinator",
+        "As "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "bowed"
+      ],
+      [
+        "Punctuation",
+        "—"
+      ],
+      [
+        "Subject",
+        "his hands "
+      ],
+      [
+        "Non-finite predicate",
+        "hanging "
+      ],
+      [
+        "Adverbial",
+        "straight down, "
+      ],
+      [
+        "Subject",
+        "a black cap "
+      ],
+      [
+        "Predicative",
+        "in one, "
+      ],
+      [
+        "Subject",
+        "a yellow oil-paper umbrella "
+      ],
+      [
+        "Predicative",
+        "in the other—"
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "glanced "
+      ],
+      [
+        "Adverbial",
+        "beyond him."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 130,
+        "anchorEnd": 0,
+        "text": "As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—Chie glanced beyond him."
+      },
+      {
+        "kind": "time",
+        "start": 0,
+        "end": 106,
+        "anchorEnd": 2,
+        "text": "As he bowed—his hands hanging straight down, a black cap in one, a yellow oil-paper umbrella in the other—"
+      },
+      {
+        "kind": "absolute",
+        "start": 12,
+        "end": 45,
+        "anchorEnd": 21,
+        "text": "his hands hanging straight down, "
+      },
+      {
+        "kind": "absolute",
+        "start": 45,
+        "end": 65,
+        "anchorEnd": 56,
+        "text": "a black cap in one, ",
+        "restoration": "being"
+      },
+      {
+        "kind": "absolute",
+        "start": 65,
+        "end": 105,
+        "anchorEnd": 92,
+        "text": "a yellow oil-paper umbrella in the other",
+        "restoration": "being"
+      }
+    ],
+    "notes": [
+      "破折号内描写鞠躬姿态。hanging 有自己的逻辑主语 hands；cap / umbrella 后省略位置状态的系词。主句直到 Chie glanced 才开始，不能把整段插入语当主句谓语。",
+      "As 时间从句包含三组独立补充结构；hands hanging 有非谓语动词，cap 和 umbrella 的位置说明没有原文限定系词。Chie glanced 才是主句主谓。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 11,
+        "text": "bowed",
+        "role": "sub"
+      },
+      {
+        "start": 111,
+        "end": 118,
+        "text": "glanced",
+        "role": "main"
+      }
+    ]
+  },
+  "22": {
+    "text": "In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double.",
+    "lessonText": "In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double.",
+    "paragraphStart": 266,
+    "paragraphEnd": 382,
+    "functions": [
+      [
+        "Adverbial",
+        "In the glistening surface of the courtyard's rain-drenched paving stones, "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "saw "
+      ],
+      [
+        "Object",
+        "his reflection "
+      ],
+      [
+        "Supplement",
+        "like a dark double."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 116,
+        "anchorEnd": 0,
+        "text": "In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double."
+      }
+    ],
+    "notes": [
+      "长介词短语先交代倒影出现的位置；she 才是主语。glistening 和 rain-drenched 都修饰名词，不是新的限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 78,
+        "end": 81,
+        "text": "saw",
+        "role": "main"
+      }
+    ]
+  },
+  "23": {
+    "text": "\"Madame,\" said Akira, \"forgive my disruption, but I come with a matter of urgency.\"",
+    "lessonText": "\"Madame,\" said Akira, \"forgive my disruption, but I come with a matter of urgency.\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 83,
+    "functions": [
+      [
+        "Vocative",
+        "\"Madame,\" "
+      ],
+      [
+        "Predicate",
+        "said "
+      ],
+      [
+        "Subject",
+        "Akira, "
+      ],
+      [
+        "Punctuation",
+        "\""
+      ],
+      [
+        "Predicate",
+        "forgive "
+      ],
+      [
+        "Object",
+        "my disruption, "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "come "
+      ],
+      [
+        "Complement",
+        "with a matter of urgency.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 10,
+        "anchorEnd": 0,
+        "text": "\"Madame,\" ",
+        "label": "Vocative fragment",
+        "color": "#746958"
+      },
+      {
+        "kind": "main",
+        "start": 10,
+        "end": 22,
+        "anchorEnd": 10,
+        "text": "said Akira, ",
+        "label": "Reporting clause"
+      },
+      {
+        "kind": "main",
+        "start": 22,
+        "end": 46,
+        "anchorEnd": 22,
+        "text": "\"forgive my disruption, ",
+        "label": "Quoted main clause"
+      },
+      {
+        "kind": "main",
+        "start": 46,
+        "end": 83,
+        "anchorEnd": 46,
+        "text": "but I come with a matter of urgency.\"",
+        "label": "Quoted main clause"
+      }
+    ],
+    "notes": [
+      "Madame 是称呼语；forgive 省略主语 you，but 引出另一个明示主语 I 的句子。disruption 在此为冒昧打扰，不必译成严重破坏。",
+      "Madame 单列 Vocative fragment；said Akira 是 Reporting clause，后面两个引语主句分别是祈使请求与来意说明。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 14,
+        "text": "said",
+        "role": "main"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "forgive",
+        "role": "main"
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "come",
+        "role": "main"
+      }
+    ]
+  },
+  "24": {
+    "text": "His voice was soft, refined.",
+    "lessonText": "His voice was soft, refined.",
+    "paragraphStart": 0,
+    "paragraphEnd": 28,
+    "functions": [
+      [
+        "Subject",
+        "His voice "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "soft, refined."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 28,
+        "anchorEnd": 0,
+        "text": "His voice was soft, refined."
+      }
+    ],
+    "notes": [
+      "soft 和 refined 由逗号并置，共作表语。refined 描述教养与谈吐，不是音量“精炼”。"
+    ],
+    "predicates": [
+      {
+        "start": 10,
+        "end": 13,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "25": {
+    "text": "He straightened and stole a deferential peek at her face.",
+    "lessonText": "He straightened and stole a deferential peek at her face.",
+    "paragraphStart": 29,
+    "paragraphEnd": 86,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "straightened "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "stole "
+      ],
+      [
+        "Object",
+        "a deferential peek "
+      ],
+      [
+        "Complement",
+        "at her face."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 57,
+        "anchorEnd": 0,
+        "text": "He straightened and stole a deferential peek at her face."
+      }
+    ],
+    "notes": [
+      "straightened 为不及物“直起身”。stole a peek 是悄悄看一眼；不是窃取某个实体物品。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 15,
+        "text": "straightened",
+        "role": "main"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "stole",
+        "role": "main"
+      }
+    ]
+  },
+  "26": {
+    "text": "In the dim light his eyes shone with sincerity.",
+    "lessonText": "In the dim light his eyes shone with sincerity.",
+    "paragraphStart": 0,
+    "paragraphEnd": 47,
+    "functions": [
+      [
+        "Adverbial",
+        "In the dim light "
+      ],
+      [
+        "Subject",
+        "his eyes "
+      ],
+      [
+        "Predicate",
+        "shone "
+      ],
+      [
+        "Adverbial",
+        "with sincerity."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 47,
+        "anchorEnd": 0,
+        "text": "In the dim light his eyes shone with sincerity."
+      }
+    ],
+    "notes": [
+      "shone 是 shine 的过去式。with sincerity 写眼神流露的态度，不是眼睛发光的物理燃料。"
+    ],
+    "predicates": [
+      {
+        "start": 26,
+        "end": 31,
+        "text": "shone",
+        "role": "main"
+      }
+    ]
+  },
+  "27": {
+    "text": "Chie felt herself starting to like him.",
+    "lessonText": "Chie felt herself starting to like him.",
+    "paragraphStart": 48,
+    "paragraphEnd": 87,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "felt "
+      ],
+      [
+        "Object",
+        "herself "
+      ],
+      [
+        "Object complement",
+        "starting to like him."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 39,
+        "anchorEnd": 0,
+        "text": "Chie felt herself starting to like him."
+      }
+    ],
+    "notes": [
+      "feel + 宾语 + -ing 描述感知到正在发生的变化。herself 是反身宾语，starting 并非另一个限定谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "felt",
+        "role": "main"
+      }
+    ]
+  },
+  "28": {
+    "text": "\"Come inside, get out of this nasty night.",
+    "lessonText": "\"Come inside, get out of this nasty night.",
+    "paragraphStart": 0,
+    "paragraphEnd": 42,
+    "functions": [
+      [
+        "Punctuation",
+        "\""
+      ],
+      [
+        "Predicate",
+        "Come "
+      ],
+      [
+        "Complement",
+        "inside, "
+      ],
+      [
+        "Predicate",
+        "get out "
+      ],
+      [
+        "Preposition",
+        "of "
+      ],
+      [
+        "Prepositional complement",
+        "this nasty night."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 42,
+        "anchorEnd": 0,
+        "text": "\"Come inside, get out of this nasty night."
+      }
+    ],
+    "notes": [
+      "两个连续祈使动作共享隐含的 you。night 通过语境指夜间恶劣天气，come inside 是邀请，不是强硬命令。",
+      "get out 为动词部分，of 引出介词补足；保留连续祈使动作共用隐含 you 的分析。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 5,
+        "text": "Come",
+        "role": "main"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "text": "get out",
+        "role": "main"
+      }
+    ]
+  },
+  "29": {
+    "text": "Surely your business can wait for a moment or two.\"",
+    "lessonText": "Surely your business can wait for a moment or two.\"",
+    "paragraphStart": 43,
+    "paragraphEnd": 94,
+    "functions": [
+      [
+        "Adverbial",
+        "Surely "
+      ],
+      [
+        "Subject",
+        "your business "
+      ],
+      [
+        "Predicate",
+        "can wait "
+      ],
+      [
+        "Adverbial",
+        "for a moment or two.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 51,
+        "anchorEnd": 0,
+        "text": "Surely your business can wait for a moment or two.\""
+      }
+    ],
+    "notes": [
+      "business 是要办的事，不一定商业活动。Surely 带说话人的合理期待，中文可译“总……吧”。"
+    ],
+    "predicates": [
+      {
+        "start": 21,
+        "end": 29,
+        "text": "can wait",
+        "role": "main"
+      }
+    ]
+  },
+  "30": {
+    "text": "\"I don't want to trouble you.",
+    "lessonText": "\"I don't want to trouble you.",
+    "paragraphStart": 0,
+    "paragraphEnd": 29,
+    "functions": [
+      [
+        "Subject",
+        "\"I "
+      ],
+      [
+        "Predicate",
+        "don't want "
+      ],
+      [
+        "Infinitival complement",
+        "to trouble you."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 29,
+        "anchorEnd": 0,
+        "text": "\"I don't want to trouble you."
+      }
+    ],
+    "notes": [
+      "want 后接 to do，trouble 为及物动词“打扰”。一句简单礼貌表态，可快速带过。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 13,
+        "text": "don't want",
+        "role": "main"
+      }
+    ]
+  },
+  "31": {
+    "text": "Normally I would approach you more properly but I've received word of a position.",
+    "lessonText": "Normally I would approach you more properly but I've received word of a position.",
+    "paragraphStart": 30,
+    "paragraphEnd": 111,
+    "functions": [
+      [
+        "Adverbial",
+        "Normally "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "would approach "
+      ],
+      [
+        "Object",
+        "you "
+      ],
+      [
+        "Adverbial",
+        "more properly "
+      ],
+      [
+        "Coordinating conjunction",
+        "but "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ve received "
+      ],
+      [
+        "Object",
+        "word of a position."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 44,
+        "anchorEnd": 0,
+        "text": "Normally I would approach you more properly "
+      },
+      {
+        "kind": "main",
+        "start": 44,
+        "end": 81,
+        "anchorEnd": 44,
+        "text": "but I've received word of a position."
+      }
+    ],
+    "notes": [
+      "would 配合 Normally 表通常情况下本会采取的方式。word 在 receive word of 中为“消息”，通常不可数，不是收到一个单词。",
+      "I’ve received 中 ’ve 为完成时助动词，和 received 一起构成谓语；主语 I 单独保留。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 25,
+        "text": "would approach",
+        "role": "main"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "text": "'ve received",
+        "role": "main"
+      }
+    ]
+  },
+  "32": {
+    "text": "I've an opportunity to go to America, as dentist for Seattle's Japanese community.\"",
+    "lessonText": "I've an opportunity to go to America, as dentist for Seattle's Japanese community.\"",
+    "paragraphStart": 112,
+    "paragraphEnd": 195,
+    "functions": [
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ve "
+      ],
+      [
+        "Object",
+        "an opportunity "
+      ],
+      [
+        "Infinitival modifier",
+        "to go to America, "
+      ],
+      [
+        "Adverbial",
+        "as dentist for Seattle's Japanese community.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 83,
+        "anchorEnd": 0,
+        "text": "I've an opportunity to go to America, as dentist for Seattle's Japanese community.\""
+      }
+    ],
+    "notes": [
+      "I've 在此 = I have，have 是拥有，不是完成时助动词；后面没有过去分词。as dentist 表任职身份。",
+      "I’ve an opportunity 中 ’ve 是实义 have 的缩写，单独作谓语；与前句 I’ve received 的完成时用法区分。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "'ve",
+        "role": "main"
+      }
+    ]
+  },
+  "33": {
+    "text": "\"Congratulations,\" Chie said with amusement.",
+    "lessonText": "\"Congratulations,\" Chie said with amusement.",
+    "paragraphStart": 0,
+    "paragraphEnd": 44,
+    "functions": [
+      [
+        "Congratulatory expression",
+        "\"Congratulations,\" "
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "said "
+      ],
+      [
+        "Adverbial",
+        "with amusement."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 19,
+        "anchorEnd": 0,
+        "text": "\"Congratulations,\" ",
+        "label": "Quoted fragment",
+        "color": "#746958"
+      },
+      {
+        "kind": "main",
+        "start": 19,
+        "end": 44,
+        "anchorEnd": 19,
+        "text": "Chie said with amusement.",
+        "label": "Reporting clause"
+      }
+    ],
+    "notes": [
+      "Congratulations 为固定复数祝贺语。with amusement 描写她轻松看待此事的态度，不必译成嘲笑。",
+      "Congratulations 是祝贺片段，不补造谓语；Chie said 为报告主句。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 28,
+        "text": "said",
+        "role": "main"
+      }
+    ]
+  },
+  "34": {
+    "text": "\"That is an opportunity, I'm sure.",
+    "lessonText": "\"That is an opportunity, I'm sure.",
+    "paragraphStart": 45,
+    "paragraphEnd": 79,
+    "functions": [
+      [
+        "Subject",
+        "\"That "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "an opportunity, "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Linking verb",
+        "'m "
+      ],
+      [
+        "Predicative",
+        "sure."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 34,
+        "anchorEnd": 0,
+        "text": "\"That is an opportunity, I'm sure."
+      },
+      {
+        "kind": "parenthetical",
+        "start": 25,
+        "end": 34,
+        "anchorEnd": 26,
+        "text": "I'm sure."
+      }
+    ],
+    "notes": [
+      "I'm sure 为句后评注，表达她对前述机会的认可；与正式用逗号把任意两个主句拼在一起的情况区分。",
+      "I’m sure 使用 Parenthetical comment，绿色标注评注结构；内部 ’m 是从属评注的系动词，用从句谓语色。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 8,
+        "text": "is",
+        "role": "main"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "'m",
+        "role": "sub"
+      }
+    ]
+  },
+  "35": {
+    "text": "But how am I involved?\"",
+    "lessonText": "But how am I involved?\"",
+    "paragraphStart": 80,
+    "paragraphEnd": 103,
+    "functions": [
+      [
+        "Discourse connective",
+        "But "
+      ],
+      [
+        "Adverbial",
+        "how "
+      ],
+      [
+        "Linking verb",
+        "am "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicative",
+        "involved?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 23,
+        "anchorEnd": 0,
+        "text": "But how am I involved?\""
+      }
+    ],
+    "notes": [
+      "be involved 表卷入、与某事有关。how 询问参与关系，她此时尚不明白提亲意图。",
+      "此处采用状态分析：am 为系动词，involved 为描述参与关系的形容词性表语。"
+    ],
+    "predicates": [
+      {
+        "start": 8,
+        "end": 10,
+        "text": "am",
+        "role": "main"
+      }
+    ]
+  },
+  "36": {
+    "text": "Even noting Naomi's breathless reaction to the name card, Chie had no idea.",
+    "lessonText": "Even noting Naomi's breathless reaction to the name card, Chie had no idea.",
+    "paragraphStart": 0,
+    "paragraphEnd": 75,
+    "functions": [
+      [
+        "Adverbial",
+        "Even noting Naomi's breathless reaction to the name card, "
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "had "
+      ],
+      [
+        "Object",
+        "no idea."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 75,
+        "anchorEnd": 0,
+        "text": "Even noting Naomi's breathless reaction to the name card, Chie had no idea."
+      }
+    ],
+    "notes": [
+      "noting 的逻辑主语是 Chie；Even 赋予让步义，但后面没有限定谓语。no idea 指不了解来意，不是完全没有思想。"
+    ],
+    "predicates": [
+      {
+        "start": 63,
+        "end": 66,
+        "text": "had",
+        "role": "main"
+      }
+    ]
+  },
+  "37": {
+    "text": "Akira's message, delivered like a formal speech, filled her with maternal amusement.",
+    "lessonText": "Akira's message, delivered like a formal speech, filled her with maternal amusement.",
+    "paragraphStart": 76,
+    "paragraphEnd": 160,
+    "functions": [
+      [
+        "Subject",
+        "Akira's message, "
+      ],
+      [
+        "Participial modifier",
+        "delivered like a formal speech, "
+      ],
+      [
+        "Predicate",
+        "filled "
+      ],
+      [
+        "Object",
+        "her "
+      ],
+      [
+        "Complement",
+        "with maternal amusement."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 84,
+        "anchorEnd": 0,
+        "text": "Akira's message, delivered like a formal speech, filled her with maternal amusement."
+      }
+    ],
+    "notes": [
+      "delivered 修饰 message，主谓核心是 message filled。她把来客当孩子，是后面母女意愿冲突的伏笔。"
+    ],
+    "predicates": [
+      {
+        "start": 49,
+        "end": 55,
+        "text": "filled",
+        "role": "main"
+      }
+    ]
+  },
+  "38": {
+    "text": "You know how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?",
+    "lessonText": "You know how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?",
+    "paragraphStart": 161,
+    "paragraphEnd": 288,
+    "functions": [
+      [
+        "Subject",
+        "You "
+      ],
+      [
+        "Predicate",
+        "know "
+      ],
+      [
+        "Subordinator",
+        "how "
+      ],
+      [
+        "Subject",
+        "children "
+      ],
+      [
+        "Predicate",
+        "speak "
+      ],
+      [
+        "Adverbial",
+        "so earnestly, so hurriedly, so endearingly "
+      ],
+      [
+        "Complement",
+        "about things "
+      ],
+      [
+        "Relative pronoun",
+        "that "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Object",
+        "no importance "
+      ],
+      [
+        "Adverbial",
+        "in an adult's mind?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 127,
+        "anchorEnd": 0,
+        "text": "You know how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?"
+      },
+      {
+        "kind": "object",
+        "start": 9,
+        "end": 127,
+        "anchorEnd": 12,
+        "text": "how children speak so earnestly, so hurriedly, so endearingly about things that have no importance in an adult's mind?"
+      },
+      {
+        "kind": "relative",
+        "start": 84,
+        "end": 127,
+        "anchorEnd": 88,
+        "text": "that have no importance in an adult's mind?",
+        "antecedent": "things"
+      }
+    ],
+    "notes": [
+      "这是以陈述语序提问、邀请读者认同的问句。how 从句作 know 的宾语；that 指 things。所谓不重要是大人的看法，并非客观无价值。",
+      "how 宾语从句延伸至句末，并包含修饰 things 的 that 定语从句；两层分别显示。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "know",
+        "role": "main"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "text": "speak",
+        "role": "sub"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "have",
+        "role": "sub"
+      }
+    ]
+  },
+  "39": {
+    "text": "That's how she viewed him, as a child.",
+    "lessonText": "That's how she viewed him, as a child.",
+    "paragraphStart": 289,
+    "paragraphEnd": 327,
+    "functions": [
+      [
+        "Subject",
+        "That"
+      ],
+      [
+        "Linking verb",
+        "'s "
+      ],
+      [
+        "Subordinator",
+        "how "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "viewed "
+      ],
+      [
+        "Object",
+        "him, "
+      ],
+      [
+        "Object complement",
+        "as a child."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 38,
+        "anchorEnd": 0,
+        "text": "That's how she viewed him, as a child."
+      },
+      {
+        "kind": "predicative",
+        "start": 7,
+        "end": 38,
+        "anchorEnd": 10,
+        "text": "how she viewed him, as a child."
+      }
+    ],
+    "notes": [
+      "how 从句说明看待方式；as a child 补足 viewed him 的身份判断，child 指 him，不是说她在孩童时期。",
+      "how she viewed him, as a child 整体作表语；as a child 说明宾语 him 被看作的身份，不是 she 的年龄状语。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 6,
+        "text": "'s",
+        "role": "main"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "viewed",
+        "role": "sub"
+      }
+    ]
+  },
+  "40": {
+    "text": "It was how she viewed Naomi.",
+    "lessonText": "It was how she viewed Naomi.",
+    "paragraphStart": 0,
+    "paragraphEnd": 28,
+    "functions": [
+      [
+        "Subject",
+        "It "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Subordinator",
+        "how "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "viewed "
+      ],
+      [
+        "Object",
+        "Naomi."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 28,
+        "anchorEnd": 0,
+        "text": "It was how she viewed Naomi."
+      },
+      {
+        "kind": "predicative",
+        "start": 7,
+        "end": 28,
+        "anchorEnd": 10,
+        "text": "how she viewed Naomi."
+      }
+    ],
+    "notes": [
+      "It 指上句这种把年轻人当孩子的方式；how 从句作表语，不是时间从句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "was",
+        "role": "main"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "viewed",
+        "role": "sub"
+      }
+    ]
+  },
+  "41": {
+    "text": "Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, Chie had made no effort to find her a husband.",
+    "lessonText": "Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, Chie had made no effort to find her a husband.",
+    "paragraphStart": 29,
+    "paragraphEnd": 173,
+    "functions": [
+      [
+        "Subordinator",
+        "Even though "
+      ],
+      [
+        "Subject",
+        "Naomi "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "eighteen "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "training "
+      ],
+      [
+        "Adverbial",
+        "endlessly "
+      ],
+      [
+        "Complement",
+        "in the arts "
+      ],
+      [
+        "Participial modifier",
+        "needed to make a good marriage, "
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "had made "
+      ],
+      [
+        "Object",
+        "no effort "
+      ],
+      [
+        "Infinitival modifier",
+        "to find her a husband."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 144,
+        "anchorEnd": 0,
+        "text": "Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, Chie had made no effort to find her a husband."
+      },
+      {
+        "kind": "concessive",
+        "start": 0,
+        "end": 98,
+        "anchorEnd": 11,
+        "text": "Even though Naomi was eighteen and training endlessly in the arts needed to make a good marriage, ",
+        "restoration": "was (before training)"
+      }
+    ],
+    "notes": [
+      "从句 was 同时服务于 eighteen 和 (was) training，第二个 was 省略。needed 修饰 arts。find her a husband 为双宾语结构，her 是间接宾语。",
+      "was 在十八岁的状态和进行中的训练之间共享；training 作为省略第二个 was 的进行时谓语部分用从句色，needed 为修饰 arts 的非谓语。"
+    ],
+    "predicates": [
+      {
+        "start": 18,
+        "end": 21,
+        "text": "was",
+        "role": "sub"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "text": "training",
+        "role": "sub"
+      },
+      {
+        "start": 103,
+        "end": 111,
+        "text": "had made",
+        "role": "main"
+      }
+    ]
+  },
+  "42": {
+    "text": "Akira blushed.",
+    "lessonText": "Akira blushed.",
+    "paragraphStart": 0,
+    "paragraphEnd": 14,
+    "functions": [
+      [
+        "Subject",
+        "Akira "
+      ],
+      [
+        "Predicate",
+        "blushed."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 14,
+        "anchorEnd": 0,
+        "text": "Akira blushed."
+      }
+    ],
+    "notes": [
+      "不及物动词，主谓已完整。情绪通过动作呈现，不擅自断定一定是愤怒或羞耻。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 13,
+        "text": "blushed",
+        "role": "main"
+      }
+    ]
+  },
+  "43": {
+    "text": "\"Depending on your response, I may stay in Japan.",
+    "lessonText": "\"Depending on your response, I may stay in Japan.",
+    "paragraphStart": 0,
+    "paragraphEnd": 49,
+    "functions": [
+      [
+        "Complement",
+        "\"Depending on your response, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "may stay "
+      ],
+      [
+        "Adverbial",
+        "in Japan."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 49,
+        "anchorEnd": 0,
+        "text": "\"Depending on your response, I may stay in Japan."
+      }
+    ],
+    "notes": [
+      "Depending on 已常用作条件性附加表达，意为视……而定；原文没有 if 限定从句。may 保留不确定性。",
+      "Depending on… 保持条件性非谓语补充，不增加不存在的 If 从句框。"
+    ],
+    "predicates": [
+      {
+        "start": 31,
+        "end": 39,
+        "text": "may stay",
+        "role": "main"
+      }
+    ]
+  },
+  "44": {
+    "text": "I've come to ask for Naomi's hand.\"",
+    "lessonText": "I've come to ask for Naomi's hand.\"",
+    "paragraphStart": 50,
+    "paragraphEnd": 85,
+    "functions": [
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ve come "
+      ],
+      [
+        "Adverbial",
+        "to ask for Naomi's hand.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 35,
+        "anchorEnd": 0,
+        "text": "I've come to ask for Naomi's hand.\""
+      }
+    ],
+    "notes": [
+      "I've come = I have come，现在完成时；come 的过去分词仍是 come。ask for someone's hand 为传统提亲用语，不是要她的手这个身体部位。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 9,
+        "text": "'ve come",
+        "role": "main"
+      }
+    ]
+  },
+  "45": {
+    "text": "Suddenly Chie felt the dampness of the night.",
+    "lessonText": "Suddenly Chie felt the dampness of the night.",
+    "paragraphStart": 0,
+    "paragraphEnd": 45,
+    "functions": [
+      [
+        "Adverbial",
+        "Suddenly "
+      ],
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "felt "
+      ],
+      [
+        "Object",
+        "the dampness of the night."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 0,
+        "text": "Suddenly Chie felt the dampness of the night."
+      }
+    ],
+    "notes": [
+      "感觉突然转向外界湿冷，映衬她心理上的震动；dampness 是名词，不是感觉“潮湿地”。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 18,
+        "text": "felt",
+        "role": "main"
+      }
+    ]
+  },
+  "46": {
+    "text": "\"Does Naomi know anything of your…ambitions?\"",
+    "lessonText": "\"Does Naomi know anything of your…ambitions?\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 45,
+    "functions": [
+      [
+        "Punctuation",
+        "\""
+      ],
+      [
+        "Auxiliary verb",
+        "Does "
+      ],
+      [
+        "Subject",
+        "Naomi "
+      ],
+      [
+        "Predicate",
+        "know "
+      ],
+      [
+        "Object",
+        "anything "
+      ],
+      [
+        "Complement",
+        "of your…ambitions?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 45,
+        "anchorEnd": 0,
+        "text": "\"Does Naomi know anything of your…ambitions?\""
+      }
+    ],
+    "notes": [
+      "know of 表知道某事。省略号表现停顿、措辞和怀疑，不表示这里缺少一个语法从句。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 5,
+        "text": "Does",
+        "role": "main"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "know",
+        "role": "main"
+      }
+    ]
+  },
+  "47": {
+    "text": "\"We have an understanding.",
+    "lessonText": "\"We have an understanding.",
+    "paragraphStart": 0,
+    "paragraphEnd": 26,
+    "functions": [
+      [
+        "Subject",
+        "\"We "
+      ],
+      [
+        "Predicate",
+        "have "
+      ],
+      [
+        "Object",
+        "an understanding."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 0,
+        "text": "\"We have an understanding."
+      }
+    ],
+    "notes": [
+      "an understanding 可指非正式约定或共识；本文指 Akira 与 Naomi 已对婚事互有意愿，不是泛指理解能力。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "have",
+        "role": "main"
+      }
+    ]
+  },
+  "48": {
+    "text": "Please don't judge my candidacy by the unseemliness of this proposal.",
+    "lessonText": "Please don't judge my candidacy by the unseemliness of this proposal.",
+    "paragraphStart": 27,
+    "paragraphEnd": 96,
+    "functions": [
+      [
+        "Politeness marker",
+        "Please "
+      ],
+      [
+        "Predicate",
+        "don't judge "
+      ],
+      [
+        "Object",
+        "my candidacy "
+      ],
+      [
+        "Complement",
+        "by the unseemliness of this proposal."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 69,
+        "anchorEnd": 0,
+        "text": "Please don't judge my candidacy by the unseemliness of this proposal."
+      }
+    ],
+    "notes": [
+      "隐含主语 you。by 表评判标准；candidacy 与 proposal 使用正式语体，请她把人选与求婚方式区分。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 18,
+        "text": "don't judge",
+        "role": "main"
+      }
+    ]
+  },
+  "49": {
+    "text": "I ask directly because the use of a go-between takes much time.",
+    "lessonText": "I ask directly because the use of a go-between takes much time.",
+    "paragraphStart": 97,
+    "paragraphEnd": 160,
+    "functions": [
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "ask "
+      ],
+      [
+        "Adverbial",
+        "directly "
+      ],
+      [
+        "Subordinator",
+        "because "
+      ],
+      [
+        "Subject",
+        "the use of a go-between "
+      ],
+      [
+        "Predicate",
+        "takes "
+      ],
+      [
+        "Object",
+        "much time."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 63,
+        "anchorEnd": 0,
+        "text": "I ask directly because the use of a go-between takes much time."
+      },
+      {
+        "kind": "reason",
+        "start": 15,
+        "end": 63,
+        "anchorEnd": 22,
+        "text": "because the use of a go-between takes much time."
+      }
+    ],
+    "notes": [
+      "原因从句主语中心 use 为单数，因此 takes。directly 指绕过中间人，不仅是说话不委婉。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 5,
+        "text": "ask",
+        "role": "main"
+      },
+      {
+        "start": 47,
+        "end": 52,
+        "text": "takes",
+        "role": "sub"
+      }
+    ]
+  },
+  "50": {
+    "text": "Either method comes down to the same thing: a matter of parental approval.",
+    "lessonText": "Either method comes down to the same thing: a matter of parental approval.",
+    "paragraphStart": 161,
+    "paragraphEnd": 235,
+    "functions": [
+      [
+        "Subject",
+        "Either method "
+      ],
+      [
+        "Predicate",
+        "comes down "
+      ],
+      [
+        "Complement",
+        "to the same thing: "
+      ],
+      [
+        "Apposition",
+        "a matter of parental approval."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "Either method comes down to the same thing: a matter of parental approval."
+      }
+    ],
+    "notes": [
+      "either + 单数名词，谓语 comes。冒号后名词短语解释 thing，没有新谓语。to 是介词。"
+    ],
+    "predicates": [
+      {
+        "start": 14,
+        "end": 24,
+        "text": "comes down",
+        "role": "main"
+      }
+    ]
+  },
+  "51": {
+    "text": "If you give your consent, I become Naomi's yoshi.",
+    "lessonText": "If you give your consent, I become Naomi's yoshi.",
+    "paragraphStart": 236,
+    "paragraphEnd": 285,
+    "functions": [
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "give "
+      ],
+      [
+        "Object",
+        "your consent, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Linking verb",
+        "become "
+      ],
+      [
+        "Predicative",
+        "Naomi's yoshi."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 49,
+        "anchorEnd": 0,
+        "text": "If you give your consent, I become Naomi's yoshi."
+      },
+      {
+        "kind": "condition",
+        "start": 0,
+        "end": 26,
+        "anchorEnd": 2,
+        "text": "If you give your consent, "
+      }
+    ],
+    "notes": [
+      "真实条件的主句不强制用 will，become 可表获得许可后的直接结果。yoshi 为文本中的日语文化用语，指进入女方家庭并承其姓氏的女婿身份，勿机械当现代英语高频词。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 11,
+        "text": "give",
+        "role": "sub"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "become",
+        "role": "main"
+      }
+    ]
+  },
+  "52": {
+    "text": "We'll live in the House of Fuji.",
+    "lessonText": "We'll live in the House of Fuji.",
+    "paragraphStart": 286,
+    "paragraphEnd": 318,
+    "functions": [
+      [
+        "Subject",
+        "We"
+      ],
+      [
+        "Predicate",
+        "'ll live "
+      ],
+      [
+        "Complement",
+        "in the House of Fuji."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 32,
+        "anchorEnd": 0,
+        "text": "We'll live in the House of Fuji."
+      }
+    ],
+    "notes": [
+      "House 首字母大写，含家族／家门意味；不只是一栋普通房屋。We'll = We will。"
+    ],
+    "predicates": [
+      {
+        "start": 2,
+        "end": 10,
+        "text": "'ll live",
+        "role": "main"
+      }
+    ]
+  },
+  "53": {
+    "text": "Without your consent, I must go to America, to secure a new home for my bride.\"",
+    "lessonText": "Without your consent, I must go to America, to secure a new home for my bride.\"",
+    "paragraphStart": 319,
+    "paragraphEnd": 398,
+    "functions": [
+      [
+        "Adverbial",
+        "Without your consent, "
+      ],
+      [
+        "Subject",
+        "I "
+      ],
+      [
+        "Predicate",
+        "must go "
+      ],
+      [
+        "Complement",
+        "to America, "
+      ],
+      [
+        "Adverbial",
+        "to secure a new home for my bride.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 79,
+        "anchorEnd": 0,
+        "text": "Without your consent, I must go to America, to secure a new home for my bride.\""
+      }
+    ],
+    "notes": [
+      "without 后是名词，不是 if 从句。两个 to 不同：to America 是介词，to secure 是不定式。must 表情势所迫。"
+    ],
+    "predicates": [
+      {
+        "start": 24,
+        "end": 31,
+        "text": "must go",
+        "role": "main"
+      }
+    ]
+  },
+  "54": {
+    "text": "Eager to make his point, he'd been looking her full in the face.",
+    "lessonText": "Eager to make his point, he'd been looking her full in the face.",
+    "paragraphStart": 0,
+    "paragraphEnd": 64,
+    "functions": [
+      [
+        "Adverbial",
+        "Eager to make his point, "
+      ],
+      [
+        "Subject",
+        "he"
+      ],
+      [
+        "Predicate",
+        "'d been looking "
+      ],
+      [
+        "Object",
+        "her "
+      ],
+      [
+        "Complement",
+        "full in the face."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 64,
+        "anchorEnd": 0,
+        "text": "Eager to make his point, he'd been looking her full in the face."
+      }
+    ],
+    "notes": [
+      "he'd = he had，后接 been looking，为过去完成进行时。Eager 为形容词短语，逻辑主语是 he；full 在固定表达中为副词性“直直地”。",
+      "he’d been looking 为 he had been looking；主语 he 与谓语链 ’d been looking 分开。"
+    ],
+    "predicates": [
+      {
+        "start": 27,
+        "end": 42,
+        "text": "'d been looking",
+        "role": "main"
+      }
+    ]
+  },
+  "55": {
+    "text": "Abruptly, his voice turned gentle.",
+    "lessonText": "Abruptly, his voice turned gentle.",
+    "paragraphStart": 65,
+    "paragraphEnd": 99,
+    "functions": [
+      [
+        "Adverbial",
+        "Abruptly, "
+      ],
+      [
+        "Subject",
+        "his voice "
+      ],
+      [
+        "Linking verb",
+        "turned "
+      ],
+      [
+        "Predicative",
+        "gentle."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 34,
+        "anchorEnd": 0,
+        "text": "Abruptly, his voice turned gentle."
+      }
+    ],
+    "notes": [
+      "turn 在此为系动词，后接形容词 gentle，不用 gently。abruptly 修饰变化发生得突然，不指他的态度变粗鲁。"
+    ],
+    "predicates": [
+      {
+        "start": 20,
+        "end": 26,
+        "text": "turned",
+        "role": "main"
+      }
+    ]
+  },
+  "56": {
+    "text": "\"I see I've startled you.",
+    "lessonText": "\"I see I've startled you.",
+    "paragraphStart": 100,
+    "paragraphEnd": 125,
+    "functions": [
+      [
+        "Subject",
+        "\"I "
+      ],
+      [
+        "Predicate",
+        "see "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ve startled "
+      ],
+      [
+        "Object",
+        "you."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "\"I see I've startled you."
+      },
+      {
+        "kind": "object",
+        "start": 7,
+        "end": 25,
+        "anchorEnd": 8,
+        "text": "I've startled you.",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "see 表意识到；宾语从句省略 that。I've startled 强调此前言语对她造成的当前影响。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "see",
+        "role": "main"
+      },
+      {
+        "start": 8,
+        "end": 20,
+        "text": "'ve startled",
+        "role": "sub"
+      }
+    ]
+  },
+  "57": {
+    "text": "My humble apologies.",
+    "lessonText": "My humble apologies.",
+    "paragraphStart": 126,
+    "paragraphEnd": 146,
+    "functions": [
+      [
+        "Determiner",
+        "My "
+      ],
+      [
+        "Modifier",
+        "humble "
+      ],
+      [
+        "Head noun",
+        "apologies."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 20,
+        "anchorEnd": 0,
+        "text": "My humble apologies.",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "固定礼貌表达，可释为 Please accept my apologies，但原文没有这个谓语。apologies 为复数，不强行分主谓宾。",
+      "My humble apologies 为名词片段；保留中文礼貌释义，不把 Please accept… 写入原文。"
+    ],
+    "predicates": []
+  },
+  "58": {
+    "text": "I'll take no more of your evening.",
+    "lessonText": "I'll take no more of your evening.",
+    "paragraphStart": 147,
+    "paragraphEnd": 181,
+    "functions": [
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ll take "
+      ],
+      [
+        "Object",
+        "no more of your evening."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 34,
+        "anchorEnd": 0,
+        "text": "I'll take no more of your evening."
+      }
+    ],
+    "notes": [
+      "take 在此为占用时间。no more of 指不再占用更多，不是拒绝再拿取一个晚上。"
+    ],
+    "predicates": [
+      {
+        "start": 1,
+        "end": 9,
+        "text": "'ll take",
+        "role": "main"
+      }
+    ]
+  },
+  "59": {
+    "text": "My address is on my card.",
+    "lessonText": "My address is on my card.",
+    "paragraphStart": 182,
+    "paragraphEnd": 207,
+    "functions": [
+      [
+        "Subject",
+        "My address "
+      ],
+      [
+        "Linking verb",
+        "is "
+      ],
+      [
+        "Predicative",
+        "on my card."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 25,
+        "anchorEnd": 0,
+        "text": "My address is on my card."
+      }
+    ],
+    "notes": [
+      "on 表印在卡片表面。简短主系表句，可快速核对。"
+    ],
+    "predicates": [
+      {
+        "start": 11,
+        "end": 13,
+        "text": "is",
+        "role": "main"
+      }
+    ]
+  },
+  "60": {
+    "text": "If you don't wish to contact me, I'll reapproach you in two weeks' time.",
+    "lessonText": "If you don't wish to contact me, I'll reapproach you in two weeks' time.",
+    "paragraphStart": 208,
+    "paragraphEnd": 280,
+    "functions": [
+      [
+        "Subordinator",
+        "If "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "don't wish "
+      ],
+      [
+        "Infinitival complement",
+        "to contact me, "
+      ],
+      [
+        "Subject",
+        "I"
+      ],
+      [
+        "Predicate",
+        "'ll reapproach "
+      ],
+      [
+        "Object",
+        "you "
+      ],
+      [
+        "Adverbial",
+        "in two weeks' time."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 72,
+        "anchorEnd": 0,
+        "text": "If you don't wish to contact me, I'll reapproach you in two weeks' time."
+      },
+      {
+        "kind": "condition",
+        "start": 0,
+        "end": 33,
+        "anchorEnd": 2,
+        "text": "If you don't wish to contact me, "
+      }
+    ],
+    "notes": [
+      "if 从句用现在时谈将来条件；主句 will。two weeks' time 的所有格撇号在复数 s 后。reapproach 指再次接洽。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 17,
+        "text": "don't wish",
+        "role": "sub"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "text": "'ll reapproach",
+        "role": "main"
+      }
+    ]
+  },
+  "61": {
+    "text": "Until then, good night.\"",
+    "lessonText": "Until then, good night.\"",
+    "paragraphStart": 281,
+    "paragraphEnd": 305,
+    "functions": [
+      [
+        "Adverbial",
+        "Until then, "
+      ],
+      [
+        "Farewell expression",
+        "good night.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 24,
+        "anchorEnd": 0,
+        "text": "Until then, good night.\"",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "没有限定谓语，是礼貌告别的省略表达；不标成 until 引导的时间从句。",
+      "Until then 后接的是副词 then，而非有限定谓语的从句；整条使用 Sentence fragment。"
+    ],
+    "predicates": []
+  },
+  "62": {
+    "text": "He bowed and left.",
+    "lessonText": "He bowed and left.",
+    "paragraphStart": 0,
+    "paragraphEnd": 18,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "bowed "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "left."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 18,
+        "anchorEnd": 0,
+        "text": "He bowed and left."
+      }
+    ],
+    "notes": [
+      "两个谓语共享 He。bow 鞠躬读 /baʊ/，不是蝴蝶结 bow /bəʊ/；这里只作发音提示，原音频不变。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 8,
+        "text": "bowed",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "left",
+        "role": "main"
+      }
+    ]
+  },
+  "63": {
+    "text": "Taking her ease, with effortless grace, like a cat making off with a fish.",
+    "lessonText": "Taking her ease, with effortless grace, like a cat making off with a fish.",
+    "paragraphStart": 19,
+    "paragraphEnd": 93,
+    "functions": [
+      [
+        "Non-finite verb",
+        "Taking "
+      ],
+      [
+        "Object",
+        "her ease, "
+      ],
+      [
+        "Adverbial",
+        "with effortless grace, "
+      ],
+      [
+        "Comparative prepositional phrase",
+        "like a cat "
+      ],
+      [
+        "Participial modifier",
+        "making off with a fish."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 74,
+        "anchorEnd": 0,
+        "text": "Taking her ease, with effortless grace, like a cat making off with a fish.",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "全文语境支持 Taking 承接前句 He（Akira），her 指 Chie：他带走她的安宁，像猫叼走鱼。讲义把它当作 Chie 悠闲休息会错置主体。此为文学断句，没有限定谓语，解释属基于上下文的阅读判断。",
+      "Taking… 为承接前文的文学分词片段，主体解读仍保留在中文说明中；Taking 和 making off 都不标为限定谓语。"
+    ],
+    "predicates": []
+  },
+  "64": {
+    "text": "\"Mother?\"",
+    "lessonText": "\"Mother?\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 9,
+    "functions": [
+      [
+        "Vocative",
+        "\"Mother?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 9,
+        "anchorEnd": 0,
+        "text": "\"Mother?\"",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "用疑问语调轻声呼唤，没有主谓结构；下一条报告句说明这是 Naomi 的声音。",
+      "Mother? 是称呼片段，不强行补成疑问主句。"
+    ],
+    "predicates": []
+  },
+  "65": {
+    "text": "Chie heard Naomi's low voice and turned from the door.",
+    "lessonText": "Chie heard Naomi's low voice and turned from the door.",
+    "paragraphStart": 10,
+    "paragraphEnd": 64,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "heard "
+      ],
+      [
+        "Object",
+        "Naomi's low voice "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "turned "
+      ],
+      [
+        "Adverbial",
+        "from the door."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 54,
+        "anchorEnd": 0,
+        "text": "Chie heard Naomi's low voice and turned from the door."
+      }
+    ],
+    "notes": [
+      "heard 与 turned 共用主语 Chie；low 描述声音轻低，不指说话者地位低。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "heard",
+        "role": "main"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": "turned",
+        "role": "main"
+      }
+    ]
+  },
+  "66": {
+    "text": "\"He has asked you?\"",
+    "lessonText": "\"He has asked you?\"",
+    "paragraphStart": 65,
+    "paragraphEnd": 84,
+    "functions": [
+      [
+        "Subject",
+        "\"He "
+      ],
+      [
+        "Predicate",
+        "has asked "
+      ],
+      [
+        "Object",
+        "you?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 19,
+        "anchorEnd": 0,
+        "text": "\"He has asked you?\""
+      }
+    ],
+    "notes": [
+      "用陈述语序表达吃惊和确认；不是所有英语问句都必须助动词倒装。ask you 的具体内容由婚事语境补出。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 13,
+        "text": "has asked",
+        "role": "main"
+      }
+    ]
+  },
+  "67": {
+    "text": "The sight of Naomi's clear eyes, her dark brows gave Chie strength.",
+    "lessonText": "The sight of Naomi's clear eyes, her dark brows gave Chie strength.",
+    "paragraphStart": 0,
+    "paragraphEnd": 67,
+    "functions": [
+      [
+        "Subject",
+        "The sight of Naomi's clear eyes, her dark brows "
+      ],
+      [
+        "Predicate",
+        "gave "
+      ],
+      [
+        "Indirect object",
+        "Chie "
+      ],
+      [
+        "Direct object",
+        "strength."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 67,
+        "anchorEnd": 0,
+        "text": "The sight of Naomi's clear eyes, her dark brows gave Chie strength."
+      }
+    ],
+    "notes": [
+      "主语中心是 sight。eyes 与 brows 并列作 of 的对象，逗号形成列举；不是两个并列主语。give someone something 为双宾语结构。"
+    ],
+    "predicates": [
+      {
+        "start": 48,
+        "end": 52,
+        "text": "gave",
+        "role": "main"
+      }
+    ]
+  },
+  "68": {
+    "text": "Maybe his hopes were preposterous.",
+    "lessonText": "Maybe his hopes were preposterous.",
+    "paragraphStart": 68,
+    "paragraphEnd": 102,
+    "functions": [
+      [
+        "Adverbial",
+        "Maybe "
+      ],
+      [
+        "Subject",
+        "his hopes "
+      ],
+      [
+        "Linking verb",
+        "were "
+      ],
+      [
+        "Predicative",
+        "preposterous."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 34,
+        "anchorEnd": 0,
+        "text": "Maybe his hopes were preposterous."
+      }
+    ],
+    "notes": [
+      "his 指 Akira。Maybe 保留 Chie 自我安慰式的不确定；不是作者无条件宣布他的想法可笑。"
+    ],
+    "predicates": [
+      {
+        "start": 16,
+        "end": 20,
+        "text": "were",
+        "role": "main"
+      }
+    ]
+  },
+  "69": {
+    "text": "\"Where did you meet such a fellow?",
+    "lessonText": "\"Where did you meet such a fellow?",
+    "paragraphStart": 0,
+    "paragraphEnd": 34,
+    "functions": [
+      [
+        "Adverbial",
+        "\"Where "
+      ],
+      [
+        "Auxiliary verb",
+        "did "
+      ],
+      [
+        "Subject",
+        "you "
+      ],
+      [
+        "Predicate",
+        "meet "
+      ],
+      [
+        "Object",
+        "such a fellow?"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 34,
+        "anchorEnd": 0,
+        "text": "\"Where did you meet such a fellow?"
+      }
+    ],
+    "notes": [
+      "did 后 meet 用原形。such a fellow 带说话人的态度，不只是中性的 a person。"
+    ],
+    "predicates": [
+      {
+        "start": 7,
+        "end": 10,
+        "text": "did",
+        "role": "main"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "meet",
+        "role": "main"
+      }
+    ]
+  },
+  "70": {
+    "text": "Imagine!",
+    "lessonText": "Imagine!",
+    "paragraphStart": 35,
+    "paragraphEnd": 43,
+    "functions": [
+      [
+        "Predicate",
+        "Imagine!"
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 8,
+        "anchorEnd": 0,
+        "text": "Imagine!"
+      }
+    ],
+    "notes": [
+      "完整的单词祈使句，主语 you 省略，宾语从上下文可知；不同于没有谓语的称呼片段。",
+      "Imagine! 本身是完整祈使句，使用主句谓语色；与无谓语的称呼片段区别。"
+    ],
+    "predicates": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Imagine",
+        "role": "main"
+      }
+    ]
+  },
+  "71": {
+    "text": "He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!\"",
+    "lessonText": "He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!\"",
+    "paragraphStart": 44,
+    "paragraphEnd": 137,
+    "functions": [
+      [
+        "Subject",
+        "He "
+      ],
+      [
+        "Predicate",
+        "thinks "
+      ],
+      [
+        "Subject",
+        "he "
+      ],
+      [
+        "Predicate",
+        "can marry "
+      ],
+      [
+        "Object",
+        "the Fuji heir "
+      ],
+      [
+        "Coordinating conjunction",
+        "and "
+      ],
+      [
+        "Predicate",
+        "take "
+      ],
+      [
+        "Object",
+        "her "
+      ],
+      [
+        "Adverbial",
+        "to America all in the snap of his fingers!\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 93,
+        "anchorEnd": 0,
+        "text": "He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!\""
+      },
+      {
+        "kind": "object",
+        "start": 10,
+        "end": 93,
+        "anchorEnd": 12,
+        "text": "he can marry the Fuji heir and take her to America all in the snap of his fingers!\"",
+        "restoration": "that"
+      }
+    ],
+    "notes": [
+      "宾语从句的 marry 与 take 共享 he can。Fuji heir 为 Naomi；her 亦指 Naomi。in the snap of his fingers 夸张地表示轻易迅速，并非精确时长。",
+      "think 后省略 that；can marry 与 take 同在宾语从句内，均用从句谓语色，to America 仍为地点状语。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 9,
+        "text": "thinks",
+        "role": "main"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "text": "can marry",
+        "role": "sub"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "take",
+        "role": "sub"
+      }
+    ]
+  },
+  "72": {
+    "text": "Chie waited for Naomi's ripe laughter.",
+    "lessonText": "Chie waited for Naomi's ripe laughter.",
+    "paragraphStart": 0,
+    "paragraphEnd": 38,
+    "functions": [
+      [
+        "Subject",
+        "Chie "
+      ],
+      [
+        "Predicate",
+        "waited "
+      ],
+      [
+        "Complement",
+        "for Naomi's ripe laughter."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 38,
+        "anchorEnd": 0,
+        "text": "Chie waited for Naomi's ripe laughter."
+      }
+    ],
+    "notes": [
+      "ripe laughter 为文学描写，意为饱满、酣畅的笑声。她预期女儿同自己一起觉得荒唐，后文的沉默却打破期待。"
+    ],
+    "predicates": [
+      {
+        "start": 5,
+        "end": 11,
+        "text": "waited",
+        "role": "main"
+      }
+    ]
+  },
+  "73": {
+    "text": "Naomi was silent.",
+    "lessonText": "Naomi was silent.",
+    "paragraphStart": 0,
+    "paragraphEnd": 17,
+    "functions": [
+      [
+        "Subject",
+        "Naomi "
+      ],
+      [
+        "Linking verb",
+        "was "
+      ],
+      [
+        "Predicative",
+        "silent."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 17,
+        "anchorEnd": 0,
+        "text": "Naomi was silent."
+      }
+    ],
+    "notes": [
+      "silent 是形容词。简单短句与母亲等待笑声形成明显反差。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "was",
+        "role": "main"
+      }
+    ]
+  },
+  "74": {
+    "text": "She stood a full half minute looking straight into Chie's eyes.",
+    "lessonText": "She stood a full half minute looking straight into Chie's eyes.",
+    "paragraphStart": 18,
+    "paragraphEnd": 81,
+    "functions": [
+      [
+        "Subject",
+        "She "
+      ],
+      [
+        "Predicate",
+        "stood "
+      ],
+      [
+        "Adverbial",
+        "a full half minute "
+      ],
+      [
+        "Adverbial",
+        "looking straight into Chie's eyes."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 63,
+        "anchorEnd": 0,
+        "text": "She stood a full half minute looking straight into Chie's eyes."
+      }
+    ],
+    "notes": [
+      "a full half minute 为时长名词短语；looking 的逻辑主语为 She，描写同时持续的目光。full 加强“整整”。"
+    ],
+    "predicates": [
+      {
+        "start": 4,
+        "end": 9,
+        "text": "stood",
+        "role": "main"
+      }
+    ]
+  },
+  "75": {
+    "text": "Finally, she spoke.",
+    "lessonText": "Finally, she spoke.",
+    "paragraphStart": 82,
+    "paragraphEnd": 101,
+    "functions": [
+      [
+        "Adverbial",
+        "Finally, "
+      ],
+      [
+        "Subject",
+        "she "
+      ],
+      [
+        "Predicate",
+        "spoke."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 19,
+        "anchorEnd": 0,
+        "text": "Finally, she spoke."
+      }
+    ],
+    "notes": [
+      "spoke 为 speak 的过去式；短句延缓揭晓她的回答，形成叙事停顿。"
+    ],
+    "predicates": [
+      {
+        "start": 13,
+        "end": 18,
+        "text": "spoke",
+        "role": "main"
+      }
+    ]
+  },
+  "76": {
+    "text": "\"I met him at my literary meeting.\"",
+    "lessonText": "\"I met him at my literary meeting.\"",
+    "paragraphStart": 102,
+    "paragraphEnd": 137,
+    "functions": [
+      [
+        "Subject",
+        "\"I "
+      ],
+      [
+        "Predicate",
+        "met "
+      ],
+      [
+        "Object",
+        "him "
+      ],
+      [
+        "Adverbial",
+        "at my literary meeting.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 35,
+        "anchorEnd": 0,
+        "text": "\"I met him at my literary meeting.\""
+      }
+    ],
+    "notes": [
+      "英文是普通主谓宾加地点状语；中文可自然译“是在……”，不能据此误判英文为 It was…that 强调句。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "met",
+        "role": "main"
+      }
+    ]
+  },
+  "77": {
+    "text": "Naomi turned to go back into the house, then stopped.",
+    "lessonText": "Naomi turned to go back into the house, then stopped.",
+    "paragraphStart": 0,
+    "paragraphEnd": 53,
+    "functions": [
+      [
+        "Subject",
+        "Naomi "
+      ],
+      [
+        "Predicate",
+        "turned "
+      ],
+      [
+        "Adverbial",
+        "to go back into the house, "
+      ],
+      [
+        "Adverbial",
+        "then "
+      ],
+      [
+        "Predicate",
+        "stopped."
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 53,
+        "anchorEnd": 0,
+        "text": "Naomi turned to go back into the house, then stopped."
+      }
+    ],
+    "notes": [
+      "turned 与 stopped 共享主语 Naomi。to go 表转身的目的，不保证动作最终完成；stopped 之后的停顿引出决定。"
+    ],
+    "predicates": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "turned",
+        "role": "main"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "text": "stopped",
+        "role": "main"
+      }
+    ]
+  },
+  "78": {
+    "text": "\"Mother.\"",
+    "lessonText": "\"Mother.\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 9,
+    "functions": [
+      [
+        "Vocative",
+        "\"Mother.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 9,
+        "anchorEnd": 0,
+        "text": "\"Mother.\"",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "再次呼唤母亲，以句号落定语气。没有限定谓语，与前面问号式呼唤的语气不同。",
+      "Mother. 是称呼片段；保留句号及与前一次呼唤不同的语气。"
+    ],
+    "predicates": []
+  },
+  "79": {
+    "text": "\"Yes?\"",
+    "lessonText": "\"Yes?\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 6,
+    "functions": [
+      [
+        "Response particle",
+        "\"Yes?\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 6,
+        "anchorEnd": 0,
+        "text": "\"Yes?\"",
+        "label": "Sentence fragment",
+        "color": "#746958"
+      }
+    ],
+    "notes": [
+      "Yes? 在此示意“我在听，说吧”，不是对婚事给予正式同意；不要脱离对话顺序误读。",
+      "Yes? 为回应片段，不能按语法标签推定人物已经同意婚事。"
+    ],
+    "predicates": []
+  },
+  "80": {
+    "text": "\"I mean to have him.\"",
+    "lessonText": "\"I mean to have him.\"",
+    "paragraphStart": 0,
+    "paragraphEnd": 21,
+    "functions": [
+      [
+        "Subject",
+        "\"I "
+      ],
+      [
+        "Predicate",
+        "mean "
+      ],
+      [
+        "Infinitival complement",
+        "to have him.\""
+      ]
+    ],
+    "clauses": [
+      {
+        "kind": "main",
+        "start": 0,
+        "end": 21,
+        "anchorEnd": 0,
+        "text": "\"I mean to have him.\""
+      }
+    ],
+    "notes": [
+      "mean to do 表打算、决意；mean doing 表意味着，不能混用。have him 结合婚事语境是选择与他成婚，不按占有物品理解；简短句表达坚定意愿。"
+    ],
+    "predicates": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "mean",
+        "role": "main"
+      }
+    ]
+  }
+}

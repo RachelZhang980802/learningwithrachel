@@ -1,0 +1,2387 @@
+{
+  "1": {
+    "functions": [
+      [
+        "时间状语",
+        "In all my years of travel, "
+      ],
+      [
+        "范围举例状语",
+        "from twisting off bits of pastry in gold-tinged Vienna coffee houses "
+      ],
+      [
+        "并列范围终点",
+        "to stumbling around the jungle-wrapped temple ruins in Cambodia, "
+      ],
+      [
+        "主语",
+        "I "
+      ],
+      [
+        "谓语",
+        "have relied "
+      ],
+      [
+        "介词补足语",
+        "on the condensed wisdom of those "
+      ],
+      [
+        "从句主语",
+        "who "
+      ],
+      [
+        "从句谓语",
+        "knew "
+      ],
+      [
+        "从句宾语",
+        "those places "
+      ],
+      [
+        "方式状语",
+        "well "
+      ],
+      [
+        "目的状语",
+        "to find my way through abbreviated stays."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 276,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "先跨过长状语找 I have relied on。from … to … 中的 to 是介词，后接 stumbling；to find 才是不定式目的。who 的先行词 those 指人，不能把整段长前缀当主语。"
+  },
+  "2": {
+    "functions": [
+      [
+        "主语",
+        "I "
+      ],
+      [
+        "谓语",
+        "plan "
+      ],
+      [
+        "宾语",
+        "my trips "
+      ],
+      [
+        "方式状语",
+        "like a cultural interloper, "
+      ],
+      [
+        "分词状语",
+        "making sure to hit the \"only-here\" greatest hits "
+      ],
+      [
+        "比较状语",
+        "like the tourist "
+      ],
+      [
+        "从句表语",
+        "that "
+      ],
+      [
+        "从句主语",
+        "I "
+      ],
+      [
+        "程度状语",
+        "very much "
+      ],
+      [
+        "从句系动词",
+        "am."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 130,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "making 不是第二个限定谓语。关系词 that 对应 am 后的表语位置：I am the tourist。greatest hits 借音乐“精选金曲”比喻经典景点体验。"
+  },
+  "3": {
+    "functions": [
+      [
+        "主语",
+        "This "
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "否定状语",
+        "not "
+      ],
+      [
+        "表语",
+        "the going wisdom "
+      ],
+      [
+        "时间状语",
+        "these days."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 40,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "going 在这里修饰 wisdom，指当前流行或被普遍接受的观点；不是 is going 的进行时。This 回指前文坦然以游客身份旅行。"
+  },
+  "4": {
+    "functions": [
+      [
+        "条件连接词",
+        "If "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句谓语",
+        "have researched "
+      ],
+      [
+        "从句宾语",
+        "a trip "
+      ],
+      [
+        "时间状语",
+        "in, say, the past five to ten years or so, "
+      ],
+      [
+        "主语",
+        "you "
+      ],
+      [
+        "谓语",
+        "may have noticed "
+      ],
+      [
+        "宾语",
+        "a recurring and aggressive directive: "
+      ],
+      [
+        "引语祈使谓语",
+        "TRAVEL "
+      ],
+      [
+        "方式状语",
+        "LIKE A LOCAL!"
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 152,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [
+      {
+        "start": 132,
+        "end": 152,
+        "label": "引语祈使句",
+        "englishLabel": "Quoted imperative",
+        "restoration": "you"
+      }
+    ],
+    "note": "if 从句用现在完成时；may have noticed 对已有经历作可能性判断，不是第三类虚拟条件句。say 是插入的“比方说”，or so 表大约；年限依作者发表时点理解。"
+  },
+  "5": {
+    "functions": [
+      [
+        "主语",
+        "You"
+      ],
+      [
+        "助动词",
+        "'ve "
+      ],
+      [
+        "评注状语",
+        "probably also "
+      ],
+      [
+        "谓语实义动词",
+        "seen "
+      ],
+      [
+        "宾语",
+        "the entreaty, the shaming: "
+      ],
+      [
+        "标题内容①",
+        "How to Not Look like a Tourist; "
+      ],
+      [
+        "标题内容②",
+        "How to Not Act like a Tourist; "
+      ],
+      [
+        "标题内容③",
+        "How to Not Be a Tourist."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 140,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "三个 how + 不定式短语是标题，不是需用助动词倒装的完整疑问句。to Not 属分裂不定式，不能仅凭这一点判为错误。"
+  },
+  "6": {
+    "functions": [
+      [
+        "评注状语",
+        "On the surface, "
+      ],
+      [
+        "主语①",
+        "the promise "
+      ],
+      [
+        "系动词①",
+        "is "
+      ],
+      [
+        "表语①",
+        "an attractive one: "
+      ],
+      [
+        "主语②",
+        "You"
+      ],
+      [
+        "谓语②",
+        "'re getting "
+      ],
+      [
+        "宾语②",
+        "the inside scoop "
+      ],
+      [
+        "后置修饰",
+        "for the best places to eat and shop "
+      ],
+      [
+        "附加状语",
+        "with none of the tourist traps."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 50,
+        "label": "主句①",
+        "englishLabel": "Main clause"
+      },
+      {
+        "start": 50,
+        "end": 149,
+        "label": "主句②",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "one 替代 promise；to eat and shop 修饰 places。冒号后有自己的主语与限定谓语，所以是两套主句，而不是 promise 的定语从句。"
+  },
+  "7": {
+    "functions": [
+      [
+        "主语",
+        "You "
+      ],
+      [
+        "谓语",
+        "know "
+      ],
+      [
+        "宾语",
+        "only the spots "
+      ],
+      [
+        "从句宾语",
+        "that "
+      ],
+      [
+        "从句主语",
+        "those truly in the know "
+      ],
+      [
+        "从句谓语",
+        "can find."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 62,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "that 在从句中对应 find 的宾语；those 指人，truly in the know 修饰 those。不要把 spots 当成 can find 的主语。"
+  },
+  "8": {
+    "functions": [
+      [
+        "连接词",
+        "But "
+      ],
+      [
+        "主语",
+        "it"
+      ],
+      [
+        "系动词",
+        "'s "
+      ],
+      [
+        "总括副词",
+        "all "
+      ],
+      [
+        "表语",
+        "a complete farce."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 30,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "all 总括前面整套承诺，不能因此把 it 改成 they。complete 修饰 farce，强化作者否定口吻。"
+  },
+  "9": {
+    "functions": [
+      [
+        "立场状语①",
+        "At best, "
+      ],
+      [
+        "主语①",
+        "\"Travel like a Local\" "
+      ],
+      [
+        "系动词①",
+        "is "
+      ],
+      [
+        "表语①",
+        "a silly paradoxical myth; "
+      ],
+      [
+        "立场状语②",
+        "at worst, "
+      ],
+      [
+        "主语②",
+        "it"
+      ],
+      [
+        "系动词②",
+        "'s "
+      ],
+      [
+        "表语②",
+        "terrible vacation advice."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 60,
+        "label": "主句①",
+        "englishLabel": "Main clause"
+      },
+      {
+        "start": 60,
+        "end": 100,
+        "label": "主句②",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "引号内整个口号作单数主语。advice 为不可数，不能改成 a terrible advice。两种评价是作者的论证，不是两种旅行时间。"
+  },
+  "10": {
+    "functions": [
+      [
+        "篇章状语",
+        "For one thing, "
+      ],
+      [
+        "主语",
+        "locals "
+      ],
+      [
+        "谓语",
+        "aren't traveling."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 39,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "For one thing 用于提出一个理由。进行时描绘所谈日常状态，不是说当地人一生从不旅行。"
+  },
+  "11": {
+    "functions": [
+      [
+        "主语",
+        "They "
+      ],
+      [
+        "谓语",
+        "are working."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "They 指 locals；后句用 Or 开头接着列举他们可能正在做的事。"
+  },
+  "12": {
+    "functions": [
+      [
+        "承接连接词",
+        "Or "
+      ],
+      [
+        "省略结构动作①",
+        "folding laundry "
+      ],
+      [
+        "并列动作②",
+        "or cleaning their bathrooms "
+      ],
+      [
+        "并列动作③",
+        "or packing lunches "
+      ],
+      [
+        "并列省略 doing",
+        "or any of the eight zillion other inane chores "
+      ],
+      [
+        "从句主语",
+        "that "
+      ],
+      [
+        "方式状语",
+        "somehow "
+      ],
+      [
+        "从句谓语",
+        "take up "
+      ],
+      [
+        "从句宾语",
+        "every minute of your free time "
+      ],
+      [
+        "时间连接词",
+        "when "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句系动词与否定",
+        "are NOT "
+      ],
+      [
+        "从句表语",
+        "on vacation."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 194,
+        "label": "承接省略结构",
+        "englishLabel": "Elliptical continuation",
+        "restoration": "They are; doing"
+      }
+    ],
+    "extraClauses": [],
+    "note": "承接 They are working，folding / cleaning / packing 共享省略的 They are；最后的名词项 any of the… chores 还省略 doing。that 作定语从句主语，先行词为 chores；when… 是其中的时间状语从句。"
+  },
+  "13": {
+    "functions": [
+      [
+        "主语",
+        "Locals "
+      ],
+      [
+        "谓语",
+        "are not spending "
+      ],
+      [
+        "宾语",
+        "leisurely days "
+      ],
+      [
+        "活动补足①",
+        "strolling on stunning promenades "
+      ],
+      [
+        "活动补足②",
+        "or gawking "
+      ],
+      [
+        "介词",
+        "at "
+      ],
+      [
+        "并列介词补语①",
+        "the crank-your-neck-tall Art Deco buildings "
+      ],
+      [
+        "并列连接词",
+        "or "
+      ],
+      [
+        "并列介词补语②",
+        "sparkly turquoise waters "
+      ],
+      [
+        "后置分词定语",
+        "lapping on fine white-sand beaches."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 193,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "spend time doing；strolling 和 gawking 非谓语并列，gawking at 同时支配 buildings、waters。crank-your-neck-tall 为临时夸张构词，不作为现代固定表达背。"
+  },
+  "14": {
+    "functions": [
+      [
+        "主语",
+        "They "
+      ],
+      [
+        "谓语①",
+        "are making "
+      ],
+      [
+        "宾语①",
+        "to-do lists "
+      ],
+      [
+        "地点状语",
+        "in their heads "
+      ],
+      [
+        "时间情景",
+        "on cramped morning commutes "
+      ],
+      [
+        "连接词",
+        "or "
+      ],
+      [
+        "共享 are 的谓语②",
+        "scurrying "
+      ],
+      [
+        "地点状语②",
+        "between the grocery store, the dry cleaner, and the pharmacy, "
+      ],
+      [
+        "分词状语",
+        "trying to complete enough tasks "
+      ],
+      [
+        "时间状语",
+        "before falling into bed."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 202,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "making 与 scurrying 共用 are；trying 另作伴随目的性说明，不是第三个限定谓语。before 后的 falling 与 They 同主语。"
+  },
+  "15": {
+    "functions": [
+      [
+        "主语",
+        "The whole point of travel "
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "不定式表语",
+        "to get away from the humdrum of everyday life."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 75,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "不定式说明 point 的具体内容。the humdrum 在这里为名词，指单调的日常；get away from 是摆脱、暂时远离。"
+  },
+  "16": {
+    "functions": [
+      [
+        "主语",
+        "It "
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "不定式表语",
+        "to very much not be a local."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 34,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "It 回指上句的旅行目的，不是形式主语。to 与 be 之间放 very much not 以强调否定；分裂不定式可以成立。"
+  },
+  "17": {
+    "functions": [
+      [
+        "祈使谓语",
+        "Put "
+      ],
+      [
+        "宾语",
+        "it "
+      ],
+      [
+        "方式状语",
+        "this way: "
+      ],
+      [
+        "主语②",
+        "You "
+      ],
+      [
+        "强调状语",
+        "simply "
+      ],
+      [
+        "谓语②",
+        "cannot travel "
+      ],
+      [
+        "方式状语②",
+        "like a local."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "祈使主句①",
+        "englishLabel": "Imperative clause",
+        "restoration": "you"
+      },
+      {
+        "start": 17,
+        "end": 55,
+        "label": "主句②",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "冒号前祈使句省略 you，后面另有完整主句。cannot 这里表示概念上做不到，不是“不获准旅行”。"
+  },
+  "18": {
+    "functions": [
+      [
+        "主语",
+        "It "
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "表语",
+        "a contradiction in terms."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 31,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "in terms 在 contradiction in terms 这个表达中指用词或概念自相矛盾；不要拆成常见 in terms of（就……而言）。"
+  },
+  "19": {
+    "functions": [
+      [
+        "动名词主语",
+        "Staying at a neighborhood Airbnb in Mexico City's Roma "
+      ],
+      [
+        "谓语",
+        "doesn't make "
+      ],
+      [
+        "宾语",
+        "you "
+      ],
+      [
+        "宾语补足语",
+        "a Chilango."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 83,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "长 -ing 结构整体作单数主语，用 doesn't。make + 宾语 + 名词宾补；Chilango 指墨西哥城人，Roma 是这里的地名。"
+  },
+  "20": {
+    "functions": [
+      [
+        "主语",
+        "Parisians "
+      ],
+      [
+        "谓语",
+        "don't nibble "
+      ],
+      [
+        "介词补足语",
+        "on buttery pastries "
+      ],
+      [
+        "时间状语",
+        "every day for breakfast "
+      ],
+      [
+        "时间伴随状语",
+        "while overlooking the Seine."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 95,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "while 后省略的观看者是 Parisians；overlooking 不修饰 pastries。作者用概括对照日常和旅游体验，不主张没有巴黎人这么吃早餐。"
+  },
+  "21": {
+    "functions": [
+      [
+        "连接词",
+        "And "
+      ],
+      [
+        "否定频率状语",
+        "rarely "
+      ],
+      [
+        "倒装助动词",
+        "do "
+      ],
+      [
+        "主语",
+        "New Yorkers "
+      ],
+      [
+        "谓语原形",
+        "tuck "
+      ],
+      [
+        "介词",
+        "into "
+      ],
+      [
+        "介词宾语",
+        "a three-hour tasting menu "
+      ],
+      [
+        "时间状语",
+        "on a Tuesday night."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 81,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "rarely 前置触发部分倒装，do 后用 tuck 原形。three-hour 是复合定语，hour 不加 s；tasting menu 是多道少量的品鉴套餐。"
+  },
+  "22": {
+    "functions": [
+      [
+        "连接词",
+        "And "
+      ],
+      [
+        "主语",
+        "locals "
+      ],
+      [
+        "评注状语",
+        "certainly "
+      ],
+      [
+        "谓语",
+        "don't eat "
+      ],
+      [
+        "宾语",
+        "17 meals "
+      ],
+      [
+        "时间状语",
+        "in a week "
+      ],
+      [
+        "地点状语",
+        "at some of the best—and, at times, most expensive—restaurants in town."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 120,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "破折号中是并列形容词修饰，并无额外限定从句。best 与 most expensive 不保证永远重合；at times 表有时。"
+  },
+  "23": {
+    "functions": [
+      [
+        "评注状语",
+        "(Perhaps "
+      ],
+      [
+        "主语",
+        "they "
+      ],
+      [
+        "谓语",
+        "are saving up "
+      ],
+      [
+        "目的状语",
+        "to do so "
+      ],
+      [
+        "时间连接词",
+        "when "
+      ],
+      [
+        "从句主语",
+        "they "
+      ],
+      [
+        "从句谓语",
+        "go "
+      ],
+      [
+        "介词补足语",
+        "on their own non-local sojourn.)"
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 82,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "do so 回指前文在好餐厅享受大餐，不是“攒钱”本身；when 限定实现这一活动的时间。括号不改变内部主从关系。"
+  },
+  "24": {
+    "functions": [
+      [
+        "主语",
+        "Locals "
+      ],
+      [
+        "谓语①",
+        "pick up "
+      ],
+      [
+        "宾语①",
+        "takeout "
+      ],
+      [
+        "连接词",
+        "and "
+      ],
+      [
+        "谓语②",
+        "watch "
+      ],
+      [
+        "宾语②",
+        "a junky TV drama "
+      ],
+      [
+        "状态状语",
+        "in their pajamas."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 67,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "一个主语配两个并列谓语，仍按简单句整理。pajamas 为复数形式；junky 是形容词，不是 junkie。"
+  },
+  "25": {
+    "functions": [
+      [
+        "主语",
+        "They"
+      ],
+      [
+        "谓语",
+        "'re not going "
+      ],
+      [
+        "地点与活动补足",
+        "to three museums and a boat tour "
+      ],
+      [
+        "时间状语",
+        "before draining their bank account on regional textiles, "
+      ],
+      [
+        "从句宾语",
+        "which "
+      ],
+      [
+        "从句身份状语",
+        "as a non-local "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句情态动词",
+        "should "
+      ],
+      [
+        "评注状语",
+        "definitely "
+      ],
+      [
+        "从句谓语与否定",
+        "not miss!"
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 160,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "此处 going to 后为名词短语，不是 be going to do 的将来结构。which 回指 regional textiles，作 miss 的宾语；drain 为消费夸张。"
+  },
+  "26": {
+    "functions": [
+      [
+        "否定承接词",
+        "Neither "
+      ],
+      [
+        "倒装助动词",
+        "do "
+      ],
+      [
+        "主语",
+        "locals "
+      ],
+      [
+        "谓语原形",
+        "wander "
+      ],
+      [
+        "地点状语",
+        "around a city "
+      ],
+      [
+        "方式状语",
+        "with fresh eyes "
+      ],
+      [
+        "时间连接词",
+        "until "
+      ],
+      [
+        "从句主语",
+        "their feet "
+      ],
+      [
+        "从句系动词",
+        "are "
+      ],
+      [
+        "从句表语",
+        "sore."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 81,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "Neither 放句首承接前文否定，采用助动词 + 主语 + 动词原形。until 是时间界限；fresh eyes 比喻新鲜的眼光。"
+  },
+  "27": {
+    "functions": [
+      [
+        "主语",
+        "These "
+      ],
+      [
+        "系动词",
+        "are "
+      ],
+      [
+        "表语",
+        "the unique pleasures of being a tourist."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 50,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "These 回指前文逛博物馆、赏景等经历；of 后 being 是 -ing 结构，不能用 to be 直接替换成 of to be。"
+  },
+  "28": {
+    "functions": [
+      [
+        "动名词主语",
+        "Getting the most out of your visit to a place "
+      ],
+      [
+        "谓语",
+        "requires "
+      ],
+      [
+        "动名词宾语中心",
+        "acknowledging "
+      ],
+      [
+        "承认内容①",
+        "both ignorance and vulnerability "
+      ],
+      [
+        "并列连接词",
+        "and "
+      ],
+      [
+        "内容从句引导词",
+        "that "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句谓语①",
+        "don't know "
+      ],
+      [
+        "从句宾语①",
+        "much "
+      ],
+      [
+        "连接词",
+        "and "
+      ],
+      [
+        "从句谓语②",
+        "need "
+      ],
+      [
+        "从句宾语②",
+        "some help."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 150,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "requires 与单数长主语一致。acknowledge 可接名词与内容从句；形式不完全同类，但这里是列举、再展开所承认的内容。don't 的否定不延伸到肯定的 need。"
+  },
+  "29": {
+    "functions": [
+      [
+        "形式主语",
+        "There"
+      ],
+      [
+        "系动词",
+        "'s "
+      ],
+      [
+        "存在主体",
+        "nothing wrong with that: "
+      ],
+      [
+        "主语②",
+        "Remedial cultural lessons "
+      ],
+      [
+        "系动词②",
+        "are "
+      ],
+      [
+        "表语②",
+        "both fun and necessary."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 33,
+        "label": "主句①",
+        "englishLabel": "Main clause"
+      },
+      {
+        "start": 33,
+        "end": 86,
+        "label": "主句②",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "冒号后解释前一评价；wrong 后置修饰 nothing。both … and … 连接两个表语，不是两个从句。"
+  },
+  "30": {
+    "functions": [
+      [
+        "主语",
+        "I "
+      ],
+      [
+        "谓语",
+        "love "
+      ],
+      [
+        "动名词宾语中心",
+        "taking "
+      ],
+      [
+        "内层宾语①",
+        "cooking classes, "
+      ],
+      [
+        "补充定语",
+        "typically chock-full of naive tourists in dorky aprons, "
+      ],
+      [
+        "并列内层宾语②",
+        "and market tours "
+      ],
+      [
+        "地点状语",
+        "in different cities."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 124,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "长插语不要切断 cooking classes 与 market tours 的并列；in dorky aprons 修饰 tourists，非 classes。没有额外限定从句。"
+  },
+  "31": {
+    "functions": [
+      [
+        "评注状语",
+        "Sure, "
+      ],
+      [
+        "主语①",
+        "I "
+      ],
+      [
+        "情态动词（省略 visit）",
+        "can "
+      ],
+      [
+        "并列连接词",
+        "and "
+      ],
+      [
+        "谓语",
+        "have visited "
+      ],
+      [
+        "宾语①",
+        "markets "
+      ],
+      [
+        "方式状语",
+        "without guides "
+      ],
+      [
+        "并列连接词",
+        "and "
+      ],
+      [
+        "谓语（省略 have）",
+        "enjoyed "
+      ],
+      [
+        "宾语②",
+        "it, "
+      ],
+      [
+        "连接词",
+        "but "
+      ],
+      [
+        "动名词主语中心",
+        "having an actual expert "
+      ],
+      [
+        "主语内部不定式",
+        "to explain ingredients and practices "
+      ],
+      [
+        "从句主语",
+        "I "
+      ],
+      [
+        "从句谓语",
+        "couldn't intuit "
+      ],
+      [
+        "方式状语",
+        "on my own "
+      ],
+      [
+        "外层谓语",
+        "makes "
+      ],
+      [
+        "外层宾语",
+        "the experience "
+      ],
+      [
+        "宾语补足语",
+        "all the richer."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 68,
+        "label": "主句①",
+        "englishLabel": "Main clause"
+      },
+      {
+        "start": 72,
+        "end": 197,
+        "label": "主句②",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "前半句 can 后省略 visit 原形，have visited 与 (have) enjoyed 并列；后半句的完整主语是 having an actual expert to explain ingredients and practices I couldn’t intuit on my own，谓语到 makes 才出现。省略关系词 (that / which) 的定语从句修饰 ingredients and practices。"
+  },
+  "32": {
+    "functions": [
+      [
+        "篇章状语",
+        "More than that, "
+      ],
+      [
+        "动名词主语",
+        "being that vulnerable, ignorant non-local "
+      ],
+      [
+        "频率状语",
+        "sometimes "
+      ],
+      [
+        "谓语",
+        "gets "
+      ],
+      [
+        "间接宾语",
+        "you "
+      ],
+      [
+        "直接宾语",
+        "special treatment."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 95,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "being 短语作主语，谓语 gets 单数；you 是得到特别照顾的人，不是“变得特别”的宾补关系。"
+  },
+  "33": {
+    "functions": [
+      [
+        "主语",
+        "Some of my best travel experiences "
+      ],
+      [
+        "谓语",
+        "arose "
+      ],
+      [
+        "来源补足①",
+        "from a very un-local ineptitude "
+      ],
+      [
+        "并列来源②",
+        "and the kindness and hospitality "
+      ],
+      [
+        "后置定语",
+        "shown by actual locals."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 129,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "arose 是 arise 的过去式；shown 是被动意义的后置分词，不是第二个限定谓语。un-local 为作者呼应口号的临时构词。"
+  },
+  "34": {
+    "functions": [
+      [
+        "地点状语",
+        "In a small village in northern Thailand, "
+      ],
+      [
+        "主语",
+        "a woman "
+      ],
+      [
+        "时间状语",
+        "once "
+      ],
+      [
+        "谓语",
+        "closed down "
+      ],
+      [
+        "宾语",
+        "her coffee shop, "
+      ],
+      [
+        "让步状语",
+        "despite my pleas not to, "
+      ],
+      [
+        "目的状语",
+        "to drive me on her motorbike to a rice noodle factory "
+      ],
+      [
+        "时间连接词",
+        "when "
+      ],
+      [
+        "从句主语",
+        "I "
+      ],
+      [
+        "强调状语",
+        "merely "
+      ],
+      [
+        "从句谓语",
+        "asked "
+      ],
+      [
+        "从句宾语",
+        "her "
+      ],
+      [
+        "介词补足语",
+        "for directions."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 201,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "not to 后省略关店动作，后一个 to drive 独立引出她关店的目的。despite 接名词短语，不能当作 because 类从句连接词；when 情景形成“只是问路却亲送”的反差。"
+  },
+  "35": {
+    "functions": [
+      [
+        "地点状语",
+        "In Kyoto, "
+      ],
+      [
+        "时间连接词",
+        "when "
+      ],
+      [
+        "从句主语",
+        "I "
+      ],
+      [
+        "从句谓语",
+        "asked "
+      ],
+      [
+        "介词补足语",
+        "about ceramic stores "
+      ],
+      [
+        "地点状语",
+        "at a small coffee shop—"
+      ],
+      [
+        "插入原因连接词",
+        "because "
+      ],
+      [
+        "身份状语",
+        "as a dumb tourist "
+      ],
+      [
+        "原因从句主语",
+        "I "
+      ],
+      [
+        "原因从句谓语",
+        "did not know "
+      ],
+      [
+        "从句地点表语",
+        "where "
+      ],
+      [
+        "从句主语",
+        "they "
+      ],
+      [
+        "从句系动词",
+        "were—"
+      ],
+      [
+        "外层主语",
+        "I "
+      ],
+      [
+        "外层谓语",
+        "got "
+      ],
+      [
+        "外层宾语",
+        "an invite "
+      ],
+      [
+        "宾语后置修饰",
+        "into a couple's home "
+      ],
+      [
+        "目的状语",
+        "to learn kintsugi, "
+      ],
+      [
+        "同位说明",
+        "the Japanese art of repairing broken pottery with gold or silver."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 245,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "主干跨过两层插入才到 I got。where they were 为间接问句，不倒装成 where were they。讲义中的补充有助定位，dumb 是作者自嘲。"
+  },
+  "36": {
+    "functions": [
+      [
+        "主语",
+        "I"
+      ],
+      [
+        "谓语",
+        "'ve been whisked "
+      ],
+      [
+        "起点状语",
+        "from an artisan bread bakery "
+      ],
+      [
+        "终点状语",
+        "to a macaroon shop in Paris "
+      ],
+      [
+        "施事状语",
+        "by friends "
+      ],
+      [
+        "方式状语",
+        "with cheery gusto."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 104,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "动作执行者是 friends。Cambridge 的 macaroon 既可指椰蓉或杏仁饼，也收录夹心 macaron 义；保留原文，不凭巴黎地点判拼写错误。"
+  },
+  "37": {
+    "functions": [
+      [
+        "主语①",
+        "Hospitality to visitors "
+      ],
+      [
+        "系动词①",
+        "is "
+      ],
+      [
+        "表语①",
+        "a gift; "
+      ],
+      [
+        "祈使谓语②",
+        "embrace "
+      ],
+      [
+        "宾语②",
+        "it "
+      ],
+      [
+        "方式状语②",
+        "with gratitude, not shame."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 35,
+        "label": "主句①",
+        "englishLabel": "Main clause"
+      },
+      {
+        "start": 35,
+        "end": 72,
+        "label": "祈使主句②",
+        "englishLabel": "Imperative clause",
+        "restoration": "you"
+      }
+    ],
+    "extraClauses": [],
+    "note": "分号连接陈述和祈使两主句；it 指款待。not shame 是同一介词下的否定对照，非第三个主句。"
+  },
+  "38": {
+    "functions": [
+      [
+        "主语",
+        "The bid to \"Travel like a Local\"—"
+      ],
+      [
+        "插入补充",
+        "with suggestions "
+      ],
+      [
+        "建议内容①",
+        "to buy the de rigueur anorak in Copenhagen "
+      ],
+      [
+        "并列建议②",
+        "and study maps on your phone "
+      ],
+      [
+        "目的连接词",
+        "lest "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句谓语",
+        "stick out "
+      ],
+      [
+        "身份状语",
+        "as a foreigner—"
+      ],
+      [
+        "总括副词",
+        "all "
+      ],
+      [
+        "谓语",
+        "seems "
+      ],
+      [
+        "表语",
+        "a little middle-schoolish."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 192,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "先找单数 bid 与 seems；all 总括整件事，不是复数主语。lest 表“以免”，不是讲义所标的原因从句。middle-schoolish 为带讽刺的临时比喻。"
+  },
+  "39": {
+    "functions": [
+      [
+        "时间阶段状语",
+        "At the stage in life "
+      ],
+      [
+        "关系副词／时间状语",
+        "when "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句谓语",
+        "can book "
+      ],
+      [
+        "从句宾语",
+        "your own trip "
+      ],
+      [
+        "地点状语",
+        "abroad, "
+      ],
+      [
+        "主语",
+        "you"
+      ],
+      [
+        "系动词",
+        "'re "
+      ],
+      [
+        "表语",
+        "old enough "
+      ],
+      [
+        "不定式补足",
+        "to not worry about fitting in."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 109,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "when 在 stage 后是关系副词。enough 放形容词后；worry about 后接 fitting。to not worry 为可行的分裂不定式，不应机械判错。"
+  },
+  "40": {
+    "functions": [
+      [
+        "主语",
+        "(This "
+      ],
+      [
+        "系动词",
+        "is, "
+      ],
+      [
+        "插入评注",
+        "of course, "
+      ],
+      [
+        "表语",
+        "distinct "
+      ],
+      [
+        "介词补足语",
+        "from respecting local customs on religious and cultural dress.)"
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 93,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "distinct from 后用 respecting；This 指不必为游客身份羞耻。作者保留尊重当地习俗的要求，不能把这句省去后曲解为无须尊重当地文化。"
+  },
+  "41": {
+    "functions": [
+      [
+        "主语",
+        "One of the delicious freedoms in traveling "
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "表语从句引导词",
+        "that "
+      ],
+      [
+        "从句主语",
+        "no one "
+      ],
+      [
+        "从句谓语",
+        "knows "
+      ],
+      [
+        "从句宾语",
+        "you, "
+      ],
+      [
+        "表语从句②引导",
+        "that "
+      ],
+      [
+        "形式主语",
+        "there "
+      ],
+      [
+        "从句系动词",
+        "is "
+      ],
+      [
+        "存在主体",
+        "a very low likelihood "
+      ],
+      [
+        "内容连接词",
+        "that "
+      ],
+      [
+        "内容从句主语",
+        "your ex-boyfriend "
+      ],
+      [
+        "从句谓语",
+        "will happen "
+      ],
+      [
+        "介词",
+        "upon "
+      ],
+      [
+        "介词宾语",
+        "you "
+      ],
+      [
+        "宾语状态补足",
+        "covered in dust and sweat "
+      ],
+      [
+        "时间状语",
+        "after a half day of hiking around temple ruins."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 222,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "One 决定外层 is。两个并列的 that… 表语从句说明 freedoms 的内容；第二个表语从句中，likelihood 后嵌入 that… 同位语从句。knows / is / will happen 分属这三层从句，upon 为介词；covered… 描写 you。"
+  },
+  "42": {
+    "functions": [
+      [
+        "主语",
+        "You "
+      ],
+      [
+        "谓语",
+        "can wear "
+      ],
+      [
+        "并列宾语",
+        "a fanny pack or shoes "
+      ],
+      [
+        "内层宾语（关系代词）",
+        "that "
+      ],
+      [
+        "从句主语",
+        "you "
+      ],
+      [
+        "从句谓语",
+        "don't mind "
+      ],
+      [
+        "动名词宾语",
+        "muddying up."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 67,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "that 对应 muddying up 的对象 shoes，而不是 mind 的主语；mind + doing。fanny pack 为美式“腰包”，英式常用 bum bag。"
+  },
+  "43": {
+    "functions": [
+      [
+        "主语",
+        "You "
+      ],
+      [
+        "谓语",
+        "can ask "
+      ],
+      [
+        "宾语",
+        "a stranger "
+      ],
+      [
+        "介词补足语",
+        "for directions."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 38,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "ask someone for something；directions 在“路线指引”义通常复数，区别于 direction 的“方向”。"
+  },
+  "44": {
+    "functions": [
+      [
+        "原因连接词",
+        "Now that "
+      ],
+      [
+        "从句主语",
+        "I "
+      ],
+      [
+        "从句谓语",
+        "think "
+      ],
+      [
+        "介词补足语",
+        "about it, "
+      ],
+      [
+        "动名词主语",
+        "acting like a tourist in your hometown—"
+      ],
+      [
+        "从句主语",
+        "which, "
+      ],
+      [
+        "插入评注",
+        "yes, "
+      ],
+      [
+        "插入语主语",
+        "I "
+      ],
+      [
+        "插入语谓语",
+        "admit "
+      ],
+      [
+        "从句系动词",
+        "is "
+      ],
+      [
+        "从句表语",
+        "also a contradiction in terms—"
+      ],
+      [
+        "外层谓语",
+        "seems "
+      ],
+      [
+        "表语补足",
+        "like a better way "
+      ],
+      [
+        "后置不定式定语",
+        "to approach your everyday life too."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 178,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [
+      {
+        "start": 78,
+        "end": 85,
+        "label": "插入评注",
+        "englishLabel": "Parenthetical comment"
+      }
+    ],
+    "note": "按样板的插入语分析统一展示：Now that… 为原因／反思引入；which 回指 acting like a tourist in your hometown 这一活动，并作关系从句主语，is 为其系动词；I admit 是插入评注，有自己的主语和谓语。外层谓语是 seems，like 引出表语补足。原文亦可作嵌入报告分析，但此图不混用两套分析。"
+  },
+  "45": {
+    "functions": [
+      [
+        "动名词主语",
+        "Taking a bus tour through town "
+      ],
+      [
+        "谓语",
+        "will give "
+      ],
+      [
+        "间接宾语",
+        "you "
+      ],
+      [
+        "直接宾语",
+        "a completely different perspective."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 80,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "长主语的中心是 Taking 这个活动；give you a perspective 也可展开 give a perspective to you，但前者更自然。"
+  },
+  "46": {
+    "functions": [
+      [
+        "动名词主语",
+        "Actually visiting a museum—"
+      ],
+      [
+        "插入状语",
+        "instead of meaning to—"
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "表语",
+        "way more fulfilling "
+      ],
+      [
+        "比较补足",
+        "than sitting on your couch "
+      ],
+      [
+        "伴随分词",
+        "cruising Twitter and Instagram."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 130,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "meaning to 后省略参观动作；way 为口语程度副词，强化 more。cruising 的人是 sitting 的隐含主语，不修饰 couch；比较两种活动，不存在新的限定从句。"
+  },
+  "47": {
+    "functions": [
+      [
+        "主语",
+        "I"
+      ],
+      [
+        "谓语",
+        "'ve never been "
+      ],
+      [
+        "介词",
+        "to "
+      ],
+      [
+        "并列介词补语①",
+        "the Statue of Liberty in New York "
+      ],
+      [
+        "并列连接词",
+        "or "
+      ],
+      [
+        "并列介词补语②",
+        "the Emily Dickinson house in my home state of Massachusetts."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 116,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "have been to 表去过某地；never 的否定覆盖两个并列目的地。作者报告自身经历，不能从地点列表推出两处景点相邻。"
+  },
+  "48": {
+    "functions": [
+      [
+        "主语",
+        "It"
+      ],
+      [
+        "系动词",
+        "'s been "
+      ],
+      [
+        "表语",
+        "years "
+      ],
+      [
+        "时间连接词",
+        "since "
+      ],
+      [
+        "从句主语",
+        "I"
+      ],
+      [
+        "从句谓语",
+        "'ve visited "
+      ],
+      [
+        "从句宾语",
+        "the Cloisters "
+      ],
+      [
+        "地点状语",
+        "in Upper Manhattan "
+      ],
+      [
+        "并列连接词",
+        "and "
+      ],
+      [
+        "省略主句的表语",
+        "many months "
+      ],
+      [
+        "时间连接词",
+        "since "
+      ],
+      [
+        "从句主语",
+        "I"
+      ],
+      [
+        "从句谓语",
+        "'ve hiked "
+      ],
+      [
+        "路径状语",
+        "through the Mt. Holyoke range "
+      ],
+      [
+        "后置距离修饰",
+        "15 minutes from the house "
+      ],
+      [
+        "关系副词／地点状语",
+        "where "
+      ],
+      [
+        "从句主语",
+        "I "
+      ],
+      [
+        "从句谓语",
+        "grew up."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 68,
+        "label": "主句①",
+        "englishLabel": "Main clause"
+      },
+      {
+        "start": 72,
+        "end": 173,
+        "label": "省略主句②",
+        "englishLabel": "Elliptical main clause",
+        "restoration": "it's been"
+      }
+    ],
+    "extraClauses": [],
+    "note": "第一个主句是 It’s been years since…；and 后省略 it’s been，many months 为第二个主句的表语。两处 since… 分别归属各自的主句；where I grew up 嵌在第二个时间从句内，修饰 house。保留原文的现在完成时，不擅改时间表达或添加交通方式。"
+  },
+  "49": {
+    "functions": [
+      [
+        "主语",
+        "That urgent tourist energy "
+      ],
+      [
+        "不定式定语",
+        "to see and do all sorts of things "
+      ],
+      [
+        "系动词",
+        "is "
+      ],
+      [
+        "表语",
+        "far superior "
+      ],
+      [
+        "比较补足",
+        "to the apathy "
+      ],
+      [
+        "名词补充",
+        "of knowing "
+      ],
+      [
+        "从句主语",
+        "something "
+      ],
+      [
+        "从句情态动词",
+        "will "
+      ],
+      [
+        "频率状语",
+        "always "
+      ],
+      [
+        "从句谓语",
+        "be "
+      ],
+      [
+        "地点状语",
+        "there."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 133,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "superior 固定搭配 to，不用 than 或 more superior；far 可加强。knowing 后 that 可省略，something 是内层从句主语。"
+  },
+  "50": {
+    "functions": [
+      [
+        "评注状语",
+        "Maybe "
+      ],
+      [
+        "形式主语",
+        "it"
+      ],
+      [
+        "系动词",
+        "'s "
+      ],
+      [
+        "表语",
+        "best "
+      ],
+      [
+        "真正主语①",
+        "not just to travel like a tourist, "
+      ],
+      [
+        "并列真正主语②",
+        "but to live like one too."
+      ]
+    ],
+    "mainClauses": [
+      {
+        "start": 0,
+        "end": 76,
+        "label": "主句",
+        "englishLabel": "Main clause"
+      }
+    ],
+    "extraClauses": [],
+    "note": "形式主语 it 后置两个并列不定式；one 替代 tourist，too 呼应“不仅……也……”。两种活动并列，不是两个限定主句。"
+  }
+}

@@ -1,0 +1,1 @@
+Built-in image_gen; transparent background extraction of all nine women from the user-supplied painting. Preserve relative positions, poses, ivory robes and handheld objects; remove scenery and stone bench. Transparent alpha PNG for a decorative group above the university footer.

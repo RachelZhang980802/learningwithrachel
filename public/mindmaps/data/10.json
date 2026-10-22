@@ -1,0 +1,1655 @@
+{
+  "id": "10",
+  "title": "Two Ways of Seeing a River",
+  "author": "Mark Twain",
+  "scenes": [
+    {
+      "id": "10-river",
+      "label": "完整导图 · 两种目光",
+      "kind": "image",
+      "width": 2000,
+      "height": 1170,
+      "bg": "#ffffff",
+      "nodes": [
+        {
+          "id": "a10-root",
+          "text": "Two Ways of\nSeeing a River",
+          "x": 44,
+          "y": 543,
+          "w": 220,
+          "h": 71.28,
+          "section": null,
+          "parent": null,
+          "spans": [
+            {
+              "text": "Two Ways of",
+              "x": 44,
+              "y": 543,
+              "w": 144.6929473876953,
+              "h": 35.64,
+              "size": 27,
+              "font": "\"Marker Felt\", \"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                44,
+                570
+              ]
+            },
+            {
+              "text": "Seeing a River",
+              "x": 44,
+              "y": 578.64,
+              "w": 165.07794189453125,
+              "h": 35.64,
+              "size": 27,
+              "font": "\"Marker Felt\", \"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                44,
+                605.64
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-author",
+          "text": "Mark Twain",
+          "x": 44,
+          "y": 623,
+          "w": 220,
+          "h": 23.76,
+          "section": null,
+          "parent": null,
+          "spans": [
+            {
+              "text": "Mark Twain",
+              "x": 44,
+              "y": 623,
+              "w": 89.5078125,
+              "h": 23.76,
+              "size": 18,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#6f7e78",
+              "weight": 400,
+              "origin": [
+                44,
+                641
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-root-question",
+          "text": "What does expertise\nlet us see — and lose?",
+          "x": 36,
+          "y": 700,
+          "w": 230,
+          "h": 52.800000000000004,
+          "section": null,
+          "parent": null,
+          "spans": [
+            {
+              "text": "What does expertise",
+              "x": 36,
+              "y": 700,
+              "w": 182.724609375,
+              "h": 26.400000000000002,
+              "size": 20,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#4d8791",
+              "weight": 400,
+              "origin": [
+                36,
+                720
+              ]
+            },
+            {
+              "text": "let us see — and lose?",
+              "x": 36,
+              "y": 726.4,
+              "w": 194.04296875,
+              "h": 26.400000000000002,
+              "size": 20,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#4d8791",
+              "weight": 400,
+              "origin": [
+                36,
+                746.4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-book-title",
+          "text": "01  Reading the river",
+          "x": 343,
+          "y": 106,
+          "w": 220,
+          "h": 27.720000000000002,
+          "section": "a10-book",
+          "parent": "a10-root",
+          "spans": [
+            {
+              "text": "01  Reading the river",
+              "x": 343,
+              "y": 106,
+              "w": 196.11891174316406,
+              "h": 27.720000000000002,
+              "size": 21,
+              "font": "\"Marker Felt\", \"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                343,
+                127
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-book-p",
+          "text": "P1 · A wonderful book",
+          "x": 343,
+          "y": 141,
+          "w": 220,
+          "h": 21.12,
+          "section": "a10-book",
+          "parent": "a10-book-title",
+          "spans": [
+            {
+              "text": "P1 · A wonderful book",
+              "x": 343,
+              "y": 141,
+              "w": 158.53125,
+              "h": 21.12,
+              "size": 16,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#c59547",
+              "weight": 400,
+              "origin": [
+                343,
+                157
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-metaphor",
+          "text": "A living language",
+          "x": 655,
+          "y": 27,
+          "w": 300,
+          "h": 30.360000000000003,
+          "section": "a10-book",
+          "parent": "a10-book-title",
+          "spans": [
+            {
+              "text": "A living language",
+              "x": 655,
+              "y": 27,
+              "w": 181.6640625,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#c59547",
+              "weight": 700,
+              "origin": [
+                655,
+                50
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-metaphor-detail",
+          "text": "The water reveals its secrets to the trained eye.",
+          "x": 1020,
+          "y": 27,
+          "w": 720,
+          "h": 29.040000000000003,
+          "section": "a10-book",
+          "parent": "a10-metaphor",
+          "spans": [
+            {
+              "text": "The water reveals its secrets to the trained eye.",
+              "x": 1020,
+              "y": 27,
+              "w": 478.7470703125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                49
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-daily",
+          "text": "A new story every day",
+          "x": 655,
+          "y": 103,
+          "w": 335,
+          "h": 30.360000000000003,
+          "section": "a10-book",
+          "parent": "a10-book-title",
+          "spans": [
+            {
+              "text": "A new story every day",
+              "x": 655,
+              "y": 103,
+              "w": 239.79296875,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#c59547",
+              "weight": 700,
+              "origin": [
+                655,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-daily-detail",
+          "text": "1,200 miles of changing detail; repeated reading\nnever exhausts its interest.",
+          "x": 1020,
+          "y": 91,
+          "w": 720,
+          "h": 58.080000000000005,
+          "section": "a10-book",
+          "parent": "a10-daily",
+          "spans": [
+            {
+              "text": "1,200 miles of changing detail; repeated reading",
+              "x": 1020,
+              "y": 91,
+              "w": 481.1533203125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                113
+              ]
+            },
+            {
+              "text": "never exhausts its interest.",
+              "x": 1020,
+              "y": 120.04,
+              "w": 269.5537109375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                142.04000000000002
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-readers",
+          "text": "Pictures or warnings?",
+          "x": 655,
+          "y": 178,
+          "w": 335,
+          "h": 30.360000000000003,
+          "section": "a10-book",
+          "parent": "a10-book-title",
+          "spans": [
+            {
+              "text": "Pictures or warnings?",
+              "x": 655,
+              "y": 178,
+              "w": 230.134765625,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#c59547",
+              "weight": 700,
+              "origin": [
+                655,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-readers-detail",
+          "text": "Passenger: a faint dimple.  Pilot: a hidden wreck\nor rock that could destroy a vessel.",
+          "x": 1020,
+          "y": 166,
+          "w": 720,
+          "h": 58.080000000000005,
+          "section": "a10-book",
+          "parent": "a10-readers",
+          "spans": [
+            {
+              "text": "Passenger: a faint dimple.  Pilot: a hidden wreck",
+              "x": 1020,
+              "y": 166,
+              "w": 481.099609375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                188
+              ]
+            },
+            {
+              "text": "or rock that could destroy a vessel.",
+              "x": 1020,
+              "y": 195.04,
+              "w": 348.755859375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                217.04
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-sunset-title",
+          "text": "02  The same sunset",
+          "x": 343,
+          "y": 540,
+          "w": 220,
+          "h": 27.720000000000002,
+          "section": "a10-sunset",
+          "parent": "a10-root",
+          "spans": [
+            {
+              "text": "02  The same sunset",
+              "x": 343,
+              "y": 540,
+              "w": 189.41989135742188,
+              "h": 27.720000000000002,
+              "size": 21,
+              "font": "\"Marker Felt\", \"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                343,
+                561
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-sunset-p",
+          "text": "P2–3 · Two ways of seeing",
+          "x": 343,
+          "y": 582,
+          "w": 220,
+          "h": 21.12,
+          "section": "a10-sunset",
+          "parent": "a10-sunset-title",
+          "spans": [
+            {
+              "text": "P2–3 · Two ways of seeing",
+              "x": 343,
+              "y": 582,
+              "w": 183.5703125,
+              "h": 21.12,
+              "size": 16,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#d88470",
+              "weight": 400,
+              "origin": [
+                343,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-trade-off",
+          "text": "A valuable acquisition — an irreversible loss",
+          "x": 650,
+          "y": 279,
+          "w": 1090,
+          "h": 36.96,
+          "section": "a10-sunset",
+          "parent": "a10-sunset-title",
+          "spans": [
+            {
+              "text": "A valuable acquisition — an irreversible loss",
+              "x": 650,
+              "y": 279,
+              "w": 573.576171875,
+              "h": 36.96,
+              "size": 28,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                650,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-before",
+          "text": "BEFORE · The enchanted eye",
+          "x": 650,
+          "y": 334,
+          "w": 500,
+          "h": 30.360000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-trade-off",
+          "spans": [
+            {
+              "text": "BEFORE · The enchanted eye",
+              "x": 650,
+              "y": 334,
+              "w": 313.015625,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#c59547",
+              "weight": 700,
+              "origin": [
+                650,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-after",
+          "text": "AFTER · The trained eye",
+          "x": 1230,
+          "y": 334,
+          "w": 515,
+          "h": 30.360000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-trade-off",
+          "spans": [
+            {
+              "text": "AFTER · The trained eye",
+              "x": 1230,
+              "y": 334,
+              "w": 262.478515625,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#4d8791",
+              "weight": 700,
+              "origin": [
+                1230,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-sun-beauty",
+          "text": "Blood-red water brightens to gold.",
+          "x": 650,
+          "y": 392,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "Blood-red water brightens to gold.",
+              "x": 650,
+              "y": 392,
+              "w": 341.3974609375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                414
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-sun-meaning",
+          "text": "The sunset signals wind tomorrow.",
+          "x": 1230,
+          "y": 392,
+          "w": 525,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "The sunset signals wind tomorrow.",
+              "x": 1230,
+              "y": 392,
+              "w": 339.6142578125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                414
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-log-beauty",
+          "text": "A solitary black log stands out.",
+          "x": 650,
+          "y": 453,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "A solitary black log stands out.",
+              "x": 650,
+              "y": 453,
+              "w": 303.896484375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                475
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-log-meaning",
+          "text": "The river is rising.",
+          "x": 1230,
+          "y": 453,
+          "w": 525,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "The river is rising.",
+              "x": 1230,
+              "y": 453,
+              "w": 179.1474609375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                475
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-reef-beauty",
+          "text": "A long slanting mark sparkles.",
+          "x": 650,
+          "y": 514,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "A long slanting mark sparkles.",
+              "x": 650,
+              "y": 514,
+              "w": 295.1845703125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                536
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-reef-meaning",
+          "text": "A bluff reef threatens steamboats.",
+          "x": 1230,
+          "y": 514,
+          "w": 525,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "A bluff reef threatens steamboats.",
+              "x": 1230,
+              "y": 514,
+              "w": 342.4716796875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                536
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-bar-beauty",
+          "text": "Tumbling rings glow like an opal.",
+          "x": 650,
+          "y": 575,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "Tumbling rings glow like an opal.",
+              "x": 650,
+              "y": 575,
+              "w": 323.5546875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                597
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-bar-meaning",
+          "text": "A bar is dissolving; the channel\nis changing.",
+          "x": 1230,
+          "y": 575,
+          "w": 525,
+          "h": 58.080000000000005,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "A bar is dissolving; the channel",
+              "x": 1230,
+              "y": 575,
+              "w": 306.2275390625,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                597
+              ]
+            },
+            {
+              "text": "is changing.",
+              "x": 1230,
+              "y": 604.04,
+              "w": 116.7568359375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                626.04
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-shoal-beauty",
+          "text": "Graceful circles and radiating lines.",
+          "x": 650,
+          "y": 636,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "Graceful circles and radiating lines.",
+              "x": 650,
+              "y": 636,
+              "w": 352.8916015625,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-shoal-meaning",
+          "text": "The water is becoming\ndangerously shallow.",
+          "x": 1230,
+          "y": 636,
+          "w": 525,
+          "h": 58.080000000000005,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "The water is becoming",
+              "x": 1230,
+              "y": 636,
+              "w": 223.609375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                658
+              ]
+            },
+            {
+              "text": "dangerously shallow.",
+              "x": 1230,
+              "y": 665.04,
+              "w": 203.5107421875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                687.04
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-snag-beauty",
+          "text": "A trail shines like silver in shadow.",
+          "x": 650,
+          "y": 697,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "A trail shines like silver in shadow.",
+              "x": 650,
+              "y": 697,
+              "w": 340.26953125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                719
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-snag-meaning",
+          "text": "A new snag threatens passing boats.",
+          "x": 1230,
+          "y": 697,
+          "w": 525,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "A new snag threatens passing boats.",
+              "x": 1230,
+              "y": 697,
+              "w": 356.8232421875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                719
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-tree-beauty",
+          "text": "One leafy bough glows like a flame.",
+          "x": 650,
+          "y": 758,
+          "w": 490,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-before",
+          "spans": [
+            {
+              "text": "One leafy bough glows like a flame.",
+              "x": 650,
+              "y": 758,
+              "w": 353.33203125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                650,
+                780
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-tree-meaning",
+          "text": "A dying tree: a night-time landmark\nthat will soon be lost.",
+          "x": 1230,
+          "y": 758,
+          "w": 525,
+          "h": 58.080000000000005,
+          "section": "a10-sunset",
+          "parent": "a10-after",
+          "spans": [
+            {
+              "text": "A dying tree: a night-time landmark",
+              "x": 1230,
+              "y": 758,
+              "w": 354.6748046875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                780
+              ]
+            },
+            {
+              "text": "that will soon be lost.",
+              "x": 1230,
+              "y": 787.04,
+              "w": 215.9501953125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1230,
+                809.04
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-change",
+          "text": "Speechless rapture",
+          "x": 650,
+          "y": 835,
+          "w": 300,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-sunset-title",
+          "spans": [
+            {
+              "text": "Speechless rapture",
+              "x": 650,
+              "y": 835,
+              "w": 195.3681640625,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#c59547",
+              "weight": 700,
+              "origin": [
+                650,
+                857
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-habit",
+          "text": "Gradually stops noticing",
+          "x": 1020,
+          "y": 835,
+          "w": 360,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-sunset-title",
+          "spans": [
+            {
+              "text": "Gradually stops noticing",
+              "x": 1020,
+              "y": 835,
+              "w": 237.552734375,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#6f7e78",
+              "weight": 400,
+              "origin": [
+                1020,
+                857
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-utility",
+          "text": "Usefulness replaces beauty",
+          "x": 1430,
+          "y": 835,
+          "w": 335,
+          "h": 29.040000000000003,
+          "section": "a10-sunset",
+          "parent": "a10-sunset-title",
+          "spans": [
+            {
+              "text": "Usefulness replaces beauty",
+              "x": 1430,
+              "y": 835,
+              "w": 279.5439453125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#4d8791",
+              "weight": 700,
+              "origin": [
+                1430,
+                857
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-cost-title",
+          "text": "03  Beyond the river",
+          "x": 343,
+          "y": 1005,
+          "w": 220,
+          "h": 27.720000000000002,
+          "section": "a10-cost",
+          "parent": "a10-root",
+          "spans": [
+            {
+              "text": "03  Beyond the river",
+              "x": 343,
+              "y": 1005,
+              "w": 189.27291870117188,
+              "h": 27.720000000000002,
+              "size": 21,
+              "font": "\"Marker Felt\", \"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                343,
+                1026
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-cost-p",
+          "text": "P4 · Gain or loss?",
+          "x": 343,
+          "y": 1047,
+          "w": 220,
+          "h": 21.12,
+          "section": "a10-cost",
+          "parent": "a10-cost-title",
+          "spans": [
+            {
+              "text": "P4 · Gain or loss?",
+              "x": 343,
+              "y": 1047,
+              "w": 121.9375,
+              "h": 21.12,
+              "size": 16,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#9681ad",
+              "weight": 400,
+              "origin": [
+                343,
+                1063
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-safe",
+          "text": "The pilot’s priority",
+          "x": 655,
+          "y": 939,
+          "w": 320,
+          "h": 30.360000000000003,
+          "section": "a10-cost",
+          "parent": "a10-cost-title",
+          "spans": [
+            {
+              "text": "The pilot’s priority",
+              "x": 655,
+              "y": 939,
+              "w": 201.87890625,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#9681ad",
+              "weight": 700,
+              "origin": [
+                655,
+                962
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-safe-detail",
+          "text": "Each feature matters for safe navigation.",
+          "x": 1020,
+          "y": 939,
+          "w": 720,
+          "h": 29.040000000000003,
+          "section": "a10-cost",
+          "parent": "a10-safe",
+          "spans": [
+            {
+              "text": "Each feature matters for safe navigation.",
+              "x": 1020,
+              "y": 939,
+              "w": 408.310546875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                961
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-doctor",
+          "text": "The doctor analogy",
+          "x": 655,
+          "y": 1014,
+          "w": 320,
+          "h": 30.360000000000003,
+          "section": "a10-cost",
+          "parent": "a10-cost-title",
+          "spans": [
+            {
+              "text": "The doctor analogy",
+              "x": 655,
+              "y": 1014,
+              "w": 206.58447265625,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#9681ad",
+              "weight": 700,
+              "origin": [
+                655,
+                1037
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-doctor-detail",
+          "text": "A lovely flush → a sign of disease.\nProfessional diagnosis may displace admiration.",
+          "x": 1020,
+          "y": 1001,
+          "w": 720,
+          "h": 58.080000000000005,
+          "section": "a10-cost",
+          "parent": "a10-doctor",
+          "spans": [
+            {
+              "text": "A lovely flush → a sign of disease.",
+              "x": 1020,
+              "y": 1001,
+              "w": 337.0576171875,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                1023
+              ]
+            },
+            {
+              "text": "Professional diagnosis may displace admiration.",
+              "x": 1020,
+              "y": 1030.04,
+              "w": 469.8955078125,
+              "h": 29.040000000000003,
+              "size": 22,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 400,
+              "origin": [
+                1020,
+                1052.04
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-question",
+          "text": "The unresolved question",
+          "x": 655,
+          "y": 1089,
+          "w": 335,
+          "h": 30.360000000000003,
+          "section": "a10-cost",
+          "parent": "a10-cost-title",
+          "spans": [
+            {
+              "text": "The unresolved question",
+              "x": 655,
+              "y": 1089,
+              "w": 266.1171875,
+              "h": 30.360000000000003,
+              "size": 23,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#9681ad",
+              "weight": 700,
+              "origin": [
+                655,
+                1112
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a10-question-detail",
+          "text": "Has learning a trade brought more gain or loss?",
+          "x": 1020,
+          "y": 1089,
+          "w": 720,
+          "h": 31.68,
+          "section": "a10-cost",
+          "parent": "a10-question",
+          "spans": [
+            {
+              "text": "Has learning a trade brought more gain or loss?",
+              "x": 1020,
+              "y": 1089,
+              "w": 528.99609375,
+              "h": 31.68,
+              "size": 24,
+              "font": "\"Trebuchet MS\", Arial, sans-serif",
+              "color": "#273d3d",
+              "weight": 700,
+              "origin": [
+                1020,
+                1113
+              ]
+            }
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "a10-book",
+          "label": "01 · Reading the river",
+          "rect": [
+            325,
+            25,
+            1440,
+            215
+          ],
+          "paragraphs": [
+            1
+          ]
+        },
+        {
+          "id": "a10-sunset",
+          "label": "02 · Two readings of one sunset",
+          "rect": [
+            325,
+            270,
+            1440,
+            610
+          ],
+          "paragraphs": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "a10-cost",
+          "label": "03 · The cost of expertise",
+          "rect": [
+            325,
+            925,
+            1440,
+            210
+          ],
+          "paragraphs": [
+            4
+          ]
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "rect",
+          "x": 25,
+          "y": 515,
+          "width": 255,
+          "height": 158,
+          "rx": 25,
+          "fill": "#e6eeea",
+          "stroke": "#4d8791",
+          "strokeWidth": 2
+        },
+        {
+          "tag": "path",
+          "d": "M280,594 C305,594 300,133 328,133",
+          "stroke": "#c59547",
+          "strokeWidth": 3,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M280,594 C305,594 300,574 328,574",
+          "stroke": "#d88470",
+          "strokeWidth": 3,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M280,594 C305,594 300,1035 328,1035",
+          "stroke": "#9681ad",
+          "strokeWidth": 3,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "rect",
+          "x": 328,
+          "y": 94,
+          "width": 250,
+          "height": 78,
+          "rx": 14,
+          "fill": "#fbf2e2",
+          "stroke": "#c59547",
+          "strokeWidth": 1.6
+        },
+        {
+          "tag": "path",
+          "d": "M578,133 C610,133 600,53 640,53",
+          "stroke": "#c59547",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M578,133 C610,133 600,128 640,128",
+          "stroke": "#c59547",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M578,133 C610,133 600,204 640,204",
+          "stroke": "#c59547",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "rect",
+          "x": 328,
+          "y": 527,
+          "width": 250,
+          "height": 94,
+          "rx": 14,
+          "fill": "#fcf0eb",
+          "stroke": "#d88470",
+          "strokeWidth": 1.6
+        },
+        {
+          "tag": "path",
+          "d": "M578,574 H612 M628,294 Q612,294 612,310 V832 Q612,849 628,849",
+          "stroke": "#d88470",
+          "strokeWidth": 2.5,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,373 H1140",
+          "stroke": "#c59547",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1230,373 H1755",
+          "stroke": "#4d8791",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,409 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,450 H1755",
+          "stroke": "#e5e9e6",
+          "strokeWidth": 1,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,470 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,511 H1755",
+          "stroke": "#e5e9e6",
+          "strokeWidth": 1,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,531 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,572 H1755",
+          "stroke": "#e5e9e6",
+          "strokeWidth": 1,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,592 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,633 H1755",
+          "stroke": "#e5e9e6",
+          "strokeWidth": 1,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,653 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,694 H1755",
+          "stroke": "#e5e9e6",
+          "strokeWidth": 1,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,714 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M650,755 H1755",
+          "stroke": "#e5e9e6",
+          "strokeWidth": 1,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1166,775 H1202 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.8,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M956,852 H994 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.7,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M1370,852 H1410 m-7,-5 7,5 -7,5",
+          "stroke": "#d88470",
+          "strokeWidth": 1.7,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "rect",
+          "x": 328,
+          "y": 991,
+          "width": 250,
+          "height": 88,
+          "rx": 14,
+          "fill": "#f3eef8",
+          "stroke": "#9681ad",
+          "strokeWidth": 1.6
+        },
+        {
+          "tag": "path",
+          "d": "M578,1035 C610,1035 600,965 640,965",
+          "stroke": "#9681ad",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M578,1035 C610,1035 600,1040 640,1040",
+          "stroke": "#9681ad",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M578,1035 C610,1035 600,1112 640,1112",
+          "stroke": "#9681ad",
+          "strokeWidth": 2,
+          "fill": "none",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        {
+          "tag": "path",
+          "d": "M960,45 H1005",
+          "stroke": "#c59547",
+          "strokeWidth": 1.4,
+          "fill": "none",
+          "opacity": 0.6
+        },
+        {
+          "tag": "path",
+          "d": "M995,121 H1005",
+          "stroke": "#c59547",
+          "strokeWidth": 1.4,
+          "fill": "none",
+          "opacity": 0.6
+        },
+        {
+          "tag": "path",
+          "d": "M995,196 H1005",
+          "stroke": "#c59547",
+          "strokeWidth": 1.4,
+          "fill": "none",
+          "opacity": 0.6
+        },
+        {
+          "tag": "path",
+          "d": "M980,957 H1005",
+          "stroke": "#9681ad",
+          "strokeWidth": 1.4,
+          "fill": "none",
+          "opacity": 0.6
+        },
+        {
+          "tag": "path",
+          "d": "M980,1032 H1005",
+          "stroke": "#9681ad",
+          "strokeWidth": 1.4,
+          "fill": "none",
+          "opacity": 0.6
+        },
+        {
+          "tag": "path",
+          "d": "M995,1107 H1005",
+          "stroke": "#9681ad",
+          "strokeWidth": 1.4,
+          "fill": "none",
+          "opacity": 0.6
+        }
+      ],
+      "illustrations": []
+    }
+  ],
+  "checks": [
+    {
+      "title": "第一段：读懂河流，不等于只看见美景",
+      "body": "“书”是贯穿第一段的延展隐喻。乘客看到美丽图画，领航员从细小水纹中读出沉船或岩石的危险。这里的 uneducated 指没有领航训练，不是说乘客不识字。",
+      "paragraphs": [
+        1
+      ]
+    },
+    {
+      "title": "第二、三段：七组景物逐项对应",
+      "body": "两列按原文顺序对齐：落日、浮木、斜纹、沸腾般的水圈、细线与圆圈、银色水迹、枯树的活枝。左列概括第二段的感官描写，右列概括第三段的航行判断。第三段开头仍在回忆初见时的狂喜，随后才转入习惯与专业解读。",
+      "paragraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "结尾：类比与追问，保留不确定性",
+      "body": "医生类比把领航经验扩展为专业知识的代价：同一张脸，可能从“美”变为“病征”。这是作者带有感情色彩的反问，不是所有医生都失去审美的事实判断；最终也没有简单断言学习得不偿失。",
+      "paragraphs": [
+        4
+      ]
+    }
+  ],
+  "paragraphs": [
+    "The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice. And it was not a book to be read once and thrown aside, for it had a new story to tell every day. Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing. There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal. The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated. It is the faintest and simplest expression the water ever makes, and the most hideous to a pilot's eye. In truth, the passenger who could not read this book saw nothing but all manner of pretty pictures in it, painted by the sun and shaded by the clouds, whereas to the trained eye these were not pictures at all, but the grimmest and most dead-earnest of reading matter.",
+    "Now when I had mastered the language of this water and had come to know every trifling feature that bordered the great river as familiarly as I knew the letters of the alphabet, I had made a valuable acquisition. But I had lost something, too. I had lost something which could never be restored to me while I lived. All the grace, the beauty, the poetry had gone out of the majestic river! I still keep in mind a certain wonderful sunset which I witnessed when steamboating was new to me. A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun. There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.",
+    "I stood like one bewitched. I drank it in, in a speechless rapture. The world was new to me, and I had never seen anything like this at home. But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them. Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
+    "No, the romance and the beauty were all gone from the river. All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat. Since those days, I have pitied doctors from my heart. What does the lovely flush in a beauty's cheek mean to a doctor but a \"break\" that ripples above some deadly disease? Are not all her visible charms sown thick with what are to him the signs and symbols of hidden decay? Does he ever see her beauty at all, or doesn't he simply view her professionally, and comment upon her unwholesome condition all to himself? And doesn't he sometimes wonder whether he has gained most or lost most by learning his trade?"
+  ],
+  "summary": "原文脉络 · 两种目光，七组对照"
+}

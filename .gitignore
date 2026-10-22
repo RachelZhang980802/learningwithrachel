@@ -59,3 +59,8 @@ next-env.d.ts
 /*.tar.gz
 /*.tgz
 *.log
+
+# Nitro output and local audit images are generated, not release sources.
+/.output/
+/mindmap-audit/
+/public/qa/

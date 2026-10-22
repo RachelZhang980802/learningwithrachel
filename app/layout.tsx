@@ -4,6 +4,10 @@ import "./student-workspace.css";
 import "./grammar-theme.css";
 import "./editable-text.css";
 import "./article-one-quiz.css";
+import "./reading-deeper.css";
+import "./grammar-study.css";
+import "./grammar-source-pages.css";
+import "./grammar-exercise-text.css";
 import { EditableTextLayer } from "./EditableTextLayer";
 
 export const metadata: Metadata = {
