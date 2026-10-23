@@ -28,7 +28,7 @@ async function audit(dir){for(const entry of await readdir(dir,{withFileTypes:tr
   else if(entry.isSymbolicLink()||entry.name.endsWith('.node'))throw new Error('Unexpected platform-dependent file: '+p);
 }}
 await audit(bundle);
-for(const name of ['install-preview.sh','nginx-preview.conf','learningwithrachel.service']){
+for(const name of ['install-preview.sh','update-release.sh','nginx-preview.conf','learningwithrachel.service']){
  await cp(resolve(root,'deploy/aliyun',name),resolve(bundle,name));
 }
 const commit=execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim();

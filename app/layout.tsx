@@ -26,6 +26,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://assets.negentropylearning.com.cn" crossOrigin="anonymous" />
+      </head>
       <body className="antialiased"><EditableTextLayer>{children}</EditableTextLayer></body>
     </html>
   );

@@ -274,7 +274,7 @@ const homeCourses = [
   {
     id: "culture",
     title: ["Western", "Culture"],
-    image: "https://assets.negentropylearning.com.cn/home/western-culture.png",
+    image: "https://assets.negentropylearning.com.cn/home/western-culture.webp",
     paper: "#bdcbd7",
     ink: "#26394c",
   },
@@ -314,7 +314,7 @@ function HomeLanding({
               aria-label={`Open ${course.title.join(" ")}`}
             >
               <span className="learning-course-image">
-                <img src={course.image} alt="" draggable="false" />
+                <img src={course.image} alt="" draggable="false" decoding="async" loading={index === 0 ? "eager" : "lazy"} fetchPriority={index === 0 ? "high" : "auto"} />
               </span>
               <span className="learning-course-meta">
                 <span className="learning-card-dots" aria-hidden="true" />

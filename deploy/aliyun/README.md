@@ -1,6 +1,6 @@
 # Alibaba Cloud migration: staged deployment
 
-The production domain remains on Vercel while this standalone Node deployment is tested.
+The production domain now points to the Alibaba Cloud ECS deployment. Keep the previous release and Vercel deployment available for rollback.
 
 ## Build and package
 
@@ -30,10 +30,12 @@ Full redirect verification from a checkout:
 ALIYUN_TEST_URL=http://127.0.0.1:8080 node scripts/verify-aliyun-routes.mjs
 ```
 
+## Updating an existing deployment
+
+Build and package a new release, transfer the archive to the ECS instance, verify its SHA-256, then extract it and run `bash learningwithrachel/update-release.sh` as root. The updater requires an existing healthy deployment. It copies the new release into a dated directory, switches the `current` symlink, restarts the application, and checks the local preview and both HTTPS production hostnames. If a check fails, it restores the previous release and restarts the application. It does not change DNS, TLS certificates, Nginx configuration, or R2 objects. Keep the previous release until the public site has been checked from outside the server.
+
 ## Public preview after local readiness
 
 Run `bash deploy/aliyun/enable-public-preview.sh` on the server from an audited copy. It configures only `preview.negentropylearning.com.cn` on port 80 and keeps the public production domain unchanged. It verifies the website with a local Host header request. Next, create a DNS-only A record for `preview` pointing to the ECS public IPv4, ensure inbound TCP/80 and 443 are permitted, then issue a certificate and test HTTPS. Disable or remove this host after the migration if no longer needed.
 
-## Still required before production cutover
-
-Verify the packaged runtime on the actual server, prepare a public hostname and HTTPS certificate, check security-group rules and filing details, test production-domain resource access, and only then change DNS. Keep Vercel available for rollback. If changing the asset host later, migrate resources separately and retest CORS and audio range requests. This first-install script intentionally does not implement upgrades or automatic DNS changes.
+If changing the asset host later, migrate resources separately and retest CORS and audio range requests. The first-install script still refuses to overwrite an existing deployment.

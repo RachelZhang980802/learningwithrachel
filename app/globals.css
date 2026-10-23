@@ -5124,7 +5124,7 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
   background-color:#cad5dc;
   background-image:
     linear-gradient(180deg,rgba(247,243,222,.07),rgba(216,225,228,.04)),
-    url("https://assets.negentropylearning.com.cn/home/learning-bg.png");
+    url("https://assets.negentropylearning.com.cn/home/learning-bg.webp");
   background-position:center;
   background-size:cover;
   background-attachment:fixed;
