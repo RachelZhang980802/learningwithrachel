@@ -5762,6 +5762,12 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .library-footer-identity span em{font-size:16px}
 .library-footer-identity img{width:78px;height:78px}
 .library-footer small{bottom:18px;font-size:13px}
+.library-footer .library-footer-icp{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);color:#9ea8b2;font:13px/1.35 Arial,sans-serif;text-decoration:none;white-space:nowrap}
+.library-footer .library-footer-icp:hover{text-decoration:underline}
+@media(max-width:800px){
+  .library-footer small,.learning-home>.library-footer small,.library-page>.library-footer small{left:50%;bottom:34px;transform:translateX(-50%);font-size:11px;white-space:nowrap}
+  .library-footer .library-footer-icp{bottom:12px;font-size:11px}
+}
 .eg4-university{height:230px;min-height:230px;box-sizing:border-box;padding:28px max(32px,calc((100% - 1380px)/2)) 22px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;position:relative}
 .eg4-university strong{font:500 22px/1 Georgia,serif;letter-spacing:.06em}
 .eg4-university img{width:78px;height:78px;margin:0}
