@@ -39,6 +39,15 @@ server {
     gzip on;
     gzip_types text/css application/javascript application/json image/svg+xml;
 
+    # Vinext's public React Server Components endpoint is not a dotfile.
+    location = /.rsc {
+        proxy_pass http://127.0.0.1:3000;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
     location ~ /\. { deny all; }
     location / {
         try_files $uri $uri/index.html @learning_node;

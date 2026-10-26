@@ -41,3 +41,7 @@ Build and package a new release, transfer the archive to the ECS instance, verif
 Run `bash deploy/aliyun/enable-public-preview.sh` on the server from an audited copy. It configures only `preview.negentropylearning.com.cn` on port 80 and keeps the public production domain unchanged. It verifies the website with a local Host header request. Next, create a DNS-only A record for `preview` pointing to the ECS public IPv4, ensure inbound TCP/80 and 443 are permitted, then issue a certificate and test HTTPS. Disable or remove this host after the migration if no longer needed.
 
 If changing the asset host later, migrate resources separately and retest CORS and audio range requests. The first-install script still refuses to overwrite an existing deployment.
+
+## Runtime configuration
+
+Keep the exact `/.rsc` proxy location in each Nginx website block; Vinext uses it for React Server Component navigation and prefetch. The separate dotfile denial continues to protect all other hidden paths. Ensure `/etc/nginx/mime.types` maps `woff2` to `font/woff2` (older Ubuntu defaults may omit it). Back up configuration, run `nginx -t`, then reload Nginx after any change.

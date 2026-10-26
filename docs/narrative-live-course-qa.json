@@ -1,0 +1,100 @@
+{
+  "base": "https://negentropylearning.com.cn",
+  "release": {
+    "release": "narrative-2026-10-27",
+    "assetPrefix": "releases/2026-10-22/",
+    "assetCount": 3309,
+    "coursePages": 248,
+    "storybookPages": 98
+  },
+  "results": [
+    {
+      "unit": 1,
+      "page": 22,
+      "nativeTexts": 2,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 1,
+      "page": 156,
+      "nativeTexts": 5,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 2,
+      "page": 1,
+      "nativeTexts": 2,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 2,
+      "page": 118,
+      "nativeTexts": 6,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 3,
+      "page": 1,
+      "nativeTexts": 2,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 3,
+      "page": 37,
+      "nativeTexts": 3,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 4,
+      "page": 1,
+      "nativeTexts": 2,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 4,
+      "page": 106,
+      "nativeTexts": 25,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 5,
+      "page": 1,
+      "nativeTexts": 2,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 5,
+      "page": 186,
+      "nativeTexts": 12,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 6,
+      "page": 1,
+      "nativeTexts": 3,
+      "meaning": true,
+      "art": true
+    },
+    {
+      "unit": 6,
+      "page": 77,
+      "nativeTexts": 7,
+      "meaning": true,
+      "art": true
+    }
+  ],
+  "narrowPage33": true,
+  "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23285358'/%3E%3Cpath d='M8 21q6-8 12 0t12 0M8 28q6-8 12 0t12 0' fill='none' stroke='%23f4ecd7' stroke-width='2'/%3E%3C/svg%3E",
+  "errors": [],
+  "badResponses": []
+}

@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "units": 6,
+  "deckPages": 248,
+  "storybookPages": 98,
+  "characterChapters": 19,
+  "settingChapters": 19,
+  "fonts": 260,
+  "resources": 1492,
+  "local": false,
+  "baseUrl": "https://negentropylearning.com.cn",
+  "failureCount": 0,
+  "failures": []
+}

@@ -26,3 +26,11 @@ The legacy `/narrative-course/` redirect now excludes the generated `decks/`, `s
 - `app/StoryBook.tsx`, `app/storybookLayout.ts`, `app/storybookCreative.ts`, `app/storybookTranslations.ts`: bounded examples and language toggling.
 
 Historic theory components and their resources remain in the repository but do not replace the current unit reader. Avoid re-enabling the previous image-only lessons. Source-conversion scripts require the original local PPT/PDF files and extraction tools; the committed generated data are sufficient to build and deploy the website.
+
+## Live deployment
+
+Application source commit: `7243be3baa0be3368b83240bd2a5e7da1df98f90`. ECS release: `/opt/learningwithrachel/releases/20261026T170619Z` (UTC directory name; 2026-10-27 in Shanghai). Previous release `/opt/learningwithrachel/releases/20261024T093958Z` is retained for rollback.
+
+Both production hostnames report `narrative-2026-10-27`. Public checks passed all 1,492 required resources with exact HTTP 200 and correct MIME, all six unit readers at their first/last selected pages, a narrow Chinese layout, Greece's inline favicon, four complex storybook pages with 14 examples, and both Characters/Settings reference readers. Browser errors, failed requests, and failed resources: zero. Reports are saved as `narrative-live-*-qa.json`.
+
+The server's existing hidden-file rule originally blocked Vinext's legitimate `/.rsc` prefetch endpoint. Exact-path proxy rules now permit that endpoint while preserving the other dotfile protections, and the deployment templates carry the same change. The server MIME map now includes `font/woff2`. Nginx configuration backups were retained and `nginx -t` passed before reload. The earlier incomplete package was rolled back before the complete release was installed.

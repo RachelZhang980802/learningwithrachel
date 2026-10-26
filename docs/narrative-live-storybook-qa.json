@@ -1,0 +1,176 @@
+{
+  "origin": "https://negentropylearning.com.cn/",
+  "checkedAt": "2026-10-26T17:13:57.415Z",
+  "storybook": [
+    {
+      "page": 16,
+      "examples": 7,
+      "englishChineseToggle": true,
+      "keyboardReturn": true,
+      "frames": [
+        {
+          "width": 287.21875,
+          "height": 65.5,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 178.71875,
+          "height": 65.5,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 134.03125,
+          "height": 65.5,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 121.265625,
+          "height": 40.9375,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 146.796875,
+          "height": 65.5,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 159.5625,
+          "height": 65.5,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 255.3125,
+          "height": 49.125,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": 84,
+      "examples": 4,
+      "englishChineseToggle": true,
+      "keyboardReturn": true,
+      "frames": [
+        {
+          "width": 472.328125,
+          "height": 131.015625,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 344.671875,
+          "height": 57.3125,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 344.671875,
+          "height": 57.3125,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 344.671875,
+          "height": 49.125,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": 94,
+      "examples": 2,
+      "englishChineseToggle": true,
+      "keyboardReturn": true,
+      "frames": [
+        {
+          "width": 312.75,
+          "height": 180.15625,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        },
+        {
+          "width": 274.453125,
+          "height": 163.78125,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": 98,
+      "examples": 1,
+      "englishChineseToggle": true,
+      "keyboardReturn": true,
+      "frames": [
+        {
+          "width": 325.515625,
+          "height": 73.6875,
+          "matchesWritingBox": true,
+          "insidePage": true,
+          "clipsInsideBox": true,
+          "overlapsSource": []
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "references": [
+    {
+      "unit": 2,
+      "name": "Characters",
+      "chapters": 19,
+      "firstChapterLoaded": true,
+      "chinese": true,
+      "returnedToSource": true
+    },
+    {
+      "unit": 3,
+      "name": "Settings",
+      "chapters": 19,
+      "firstChapterLoaded": true,
+      "chinese": true,
+      "returnedToSource": true
+    }
+  ],
+  "errors": [],
+  "failedResources": [],
+  "requestFailures": [],
+  "passed": true
+}
