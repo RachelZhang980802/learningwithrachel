@@ -14,6 +14,8 @@ node scripts/package-aliyun.mjs
 
 The package contains bundled JavaScript and static pages; no npm installation or compilation is needed on the server. Packaging rejects native `.node` files and symlinks. It removes files covered by the existing `vercel.json` redirects; the standalone server applies those same redirects and preserves query strings. HTML pages excluded by the redirect rules remain local. Nginx serves local static files and proxies other requests to Node.
 
+Generated narrative decks, storybook pages, native-theory resources, and their fonts stay in the local release. Before archiving, the package audit verifies the interactive readers' required assets against the copied bundle so broad legacy redirects cannot silently omit them.
+
 Output: `dist/aliyun/learningwithrachel-aliyun.tar.gz`, with its SHA-256 in `dist/aliyun/SHA256SUMS`.
 
 ## First installation

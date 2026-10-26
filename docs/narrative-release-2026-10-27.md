@@ -14,6 +14,10 @@ The production build was run locally with the same static-file plus Node arrange
 
 The storybook production build also passed all 98 pages and 142 examples at 679px, plus 17 complex pages and 57 examples at 375px. Real mouse clicks and keyboard activation switched English/Chinese correctly. Examples remained inside their assigned writing regions, with no original-text overlap, page overflow, browser errors, or failed resources. See `storybook-production-qa.json`.
 
+## Deployment resources
+
+The legacy `/narrative-course/` redirect now excludes the generated `decks/`, `storybook/`, `theory/native/`, and `theory/unit-3/html/` directories. These assets are shipped with the application instead of being redirected to the older R2 release. The 193 existing narrative media redirects remain unchanged. The packager verifies the required generated resources before producing the archive.
+
 ## Implementation
 
 - `app/UnitDeckViewer.tsx`, `app/unit-deck-*.css`: reader and targeted layout repairs.

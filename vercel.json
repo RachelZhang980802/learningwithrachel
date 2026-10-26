@@ -1080,7 +1080,7 @@
       "statusCode": 307
     },
     {
-      "source": "/narrative-course/:path((?!.*\\.html$).+)",
+      "source": "/narrative-course/:path((?!decks/|storybook/|theory/native/|theory/unit-3/html/)(?!.*\\.html$).+)",
       "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/narrative-course/:path",
       "statusCode": 307
     },
