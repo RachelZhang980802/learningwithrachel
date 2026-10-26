@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1440" height="810" viewBox="0 0 1440 810">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1439.972V.028H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V0H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<g transform="matrix(2.4299536,0,0,1.6199441,0,-.0289917)">
+<image id="image_2" width="600" height="500" xlink:href="/narrative-course/theory/native/assets/95d9ee90302541c001da.jpg"/>
+</g>
+</g>
+</g>
+</svg>

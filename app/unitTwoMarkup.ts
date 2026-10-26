@@ -76,16 +76,8 @@ export const unitTwoMarkup = String.raw`
                 <div><p class="unit-two-step">03 · Action and emotion · slide 7</p><h2>What do speech and reaction reveal?</h2></div>
                 <blockquote>“I DON’T CARE!” Harry yelled at them, snatching up a lunascope and throwing it into the fireplace. “I’VE HAD ENOUGH, I’VE SEEN ENOUGH, I WANT OUT, I WANT IT TO END, I DON'T CARE ANYMORE!”<br /><br />“You do care,” said Dumbledore. He had not flinched or made a single move to stop Harry demolishing his office. His expression was calm, almost detached. “You care so much you feel as though you will bleed to death with the pain of it.”</blockquote>
               </article>
-              <article class="unit-two-observation" data-source-slides="8-9">
-                <p class="unit-two-step">04 · Observe people around you</p>
-                <h2>Appearance, clothing, hairstyle, facial expression, behaviour</h2>
-                <div class="unit-two-observation-grid">
-                  <p><b>Appearance</b> The person has [adjective] [feature], giving them a [impression/overall look].</p>
-                  <p><b>Clothing</b> They are dressed in [adjective] [type of clothing], which makes them look [impression].</p>
-                  <p><b>Hairstyle</b> [Their/His/Her] hair is [adjective] and [style], making them appear [impression].</p>
-                  <p><b>Facial expression</b> Their facial expression is [adjective], reflecting a sense of [emotion].</p>
-                  <p><b>Behaviour</b> They are [verb + ing] with a sense of [emotion/attitude], suggesting that they are [state of mind].</p>
-                </div>
+              <article class="unit-two-observation" data-source-pdf="Descriptosaurus" data-source-pages="184-366">
+                <div id="character-reference-slot"></div>
               </article>
             </div>
           </section>

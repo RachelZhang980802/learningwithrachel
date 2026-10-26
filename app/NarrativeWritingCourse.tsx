@@ -8,6 +8,12 @@ import "./unit-theory.css";
 import { narrativeWritingMarkup } from "./narrativeWritingMarkup";
 import { toMediaUrl } from "./mediaUrl";
 import { UniversityFooter } from "./UniversityFooter";
+import { CharacterReference } from "./CharacterReference";
+import { SettingReference } from "./SettingReference";
+import { StoryBook } from "./StoryBook";
+import { UnitDeckViewer } from "./UnitDeckViewer";
+import { initUnitThreeQuotes } from "./unitThreeInteractions";
+import { initUnitTheoryArt } from "./unitTheoryArt";
 
 type NarrativeView =
   | "cover"
@@ -28,6 +34,7 @@ type NarrativeView =
   | "unit-six"
   | "unit-six-knowledge"
   | "assessment"
+  | "writing-storybook"
   | "reading"
   | "reading-necklace"
   | "reading-fat"
@@ -63,6 +70,7 @@ const viewHashes: Partial<Record<NarrativeView, string>> = {
   "unit-six": "#unit-six",
   "unit-six-knowledge": "#unit-six-knowledge",
   assessment: "#assessment",
+  "writing-storybook": "#writing-storybook",
   reading: "#reading",
   "reading-necklace": "#reading-necklace",
   "reading-fat": "#reading-fat",
@@ -104,7 +112,7 @@ const flowerAngles = [-8, 6, -4, 9, -6, 5, -7, 4, -5, 8, -3, 6, -8, 5, -4, 7] as
 const tallLowercase = new Set(["h", "i", "t"]);
 
 const NarrativeMarkup = memo(function NarrativeMarkup() {
-  return <div dangerouslySetInnerHTML={{ __html: narrativeWritingMarkup }} />;
+  return <div className="narrative-legacy" dangerouslySetInnerHTML={{ __html: narrativeWritingMarkup }} />;
 });
 
 function routeForHash(hash = ""): NarrativeView | null {
@@ -127,6 +135,7 @@ function routeForHash(hash = ""): NarrativeView | null {
   if (value === "#unit-six") return "unit-six";
   if (value === "#unit-six-knowledge") return "unit-six-knowledge";
   if (value === "#assessment") return "assessment";
+  if (value === "#writing-storybook") return "writing-storybook";
   if (value === "#reading-necklace") return "reading-necklace";
   if (value === "#reading-fat") return "reading-fat";
   if (value === "#reading-after-twenty") return "reading-after-twenty";
@@ -147,11 +156,14 @@ function routeForHash(hash = ""): NarrativeView | null {
 }
 
 export function isNarrativeCourseHash(hash = "") {
-  return /^#(?:cover|intro|objectives|instructor|units|unit-(?:one|two|three|four|five|six)(?:-knowledge)?|assessment|reading(?:-.+)?|other-information|practice|sample)$/i.test(hash);
+  return /^#(?:cover|intro|objectives|instructor|units|unit-(?:one|two|three|four|five|six)(?:-knowledge)?|assessment|writing-storybook|reading(?:-.+)?|other-information|practice|sample)$/i.test(hash);
 }
 
 export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
   const rootRef = useRef<HTMLDivElement>(null);
+  const [characterSlot, setCharacterSlot] = useState<HTMLElement | null>(null);
+  const [settingSlot, setSettingSlot] = useState<HTMLElement | null>(null);
+  const [storybookSlot, setStorybookSlot] = useState<HTMLElement | null>(null);
   const [homeSlot, setHomeSlot] = useState<HTMLElement | null>(null);
   const [homeActionSlot, setHomeActionSlot] = useState<HTMLElement | null>(null);
   const [route, setRoute] = useState<{ view: NarrativeView; focusId: string | null; revision: number }>({
@@ -185,6 +197,7 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
         "unit-five-knowledge": "#unit-five-knowledge",
         "unit-six": "#unit-six",
         "unit-six-knowledge": "#unit-six-knowledge",
+        "writing-storybook": "#writing-storybook",
         reading: "#reading",
         "reading-necklace": "#reading-detail-necklace",
         "reading-fat": "#reading-detail-fat",
@@ -468,6 +481,14 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
           button.addEventListener("click", handleClick);
           cleanup.push(() => button.removeEventListener("click", handleClick));
         });
+        reader.closest("[data-theory-panel]")?.querySelectorAll<HTMLButtonElement>("[data-theory-jump-page]").forEach((button) => {
+          const handleClick = () => {
+            const index = pages.findIndex((page) => page.dataset.theoryPage === button.dataset.theoryJumpPage);
+            if (index >= 0) showPage(index, true);
+          };
+          button.addEventListener("click", handleClick);
+          cleanup.push(() => button.removeEventListener("click", handleClick));
+        });
         const handlePrevious = () => showPage(current - 1, true);
         const handleNext = () => showPage(current + 1, true);
         previous?.addEventListener("click", handlePrevious);
@@ -631,7 +652,11 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       showView(nextView, { historyMode: "none", focusId });
     };
     window.addEventListener("popstate", handlePopState);
-    cleanup.push(() => window.removeEventListener("popstate", handlePopState));
+    window.addEventListener("hashchange", handlePopState);
+    cleanup.push(() => {
+      window.removeEventListener("popstate", handlePopState);
+      window.removeEventListener("hashchange", handlePopState);
+    });
 
     const lightbox = root.querySelector<HTMLElement>(".lightbox");
     const lightboxImage = lightbox?.querySelector<HTMLImageElement>("img");
@@ -993,6 +1018,14 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
     };
   }, [route.view]);
 
+  useEffect(() => {
+    const root = rootRef.current;
+    if (!root) return;
+    const stopQuotes = initUnitThreeQuotes(root);
+    const stopArtwork = initUnitTheoryArt(root);
+    return () => { stopQuotes(); stopArtwork(); };
+  }, []);
+
   const returnHome = () => {
     const base = `${window.location.pathname}${window.location.search}`;
     window.history.pushState({ section: "home" }, "", base);
@@ -1000,8 +1033,21 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
     onHome();
   };
 
+  const unitMatch = /^unit-(one|two|three|four|five|six)(?:-knowledge)?$/.exec(route.view);
+  const activeUnit = unitMatch ? ["one", "two", "three", "four", "five", "six"].indexOf(unitMatch[1]) + 1 : null;
+  const navigateFromDeck = (hash: string) => {
+    const view = routeForHash(hash);
+    if (!view) return;
+    window.history.pushState({ narrativeView: view }, "", `${window.location.pathname}${window.location.search}${hash}`);
+    setRoute(current => ({ view, focusId: null, revision: current.revision + 1 }));
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+  };
+
   const setNarrativeRoot = useCallback((node: HTMLDivElement | null) => {
     rootRef.current = node;
+    setCharacterSlot(node?.querySelector<HTMLElement>("#character-reference-slot") ?? null);
+    setSettingSlot(node?.querySelector<HTMLElement>("#setting-reference-slot") ?? null);
+    setStorybookSlot(node?.querySelector<HTMLElement>("#storybook-slot") ?? null);
     setHomeSlot(node?.querySelector<HTMLElement>("#narrative-home-slot") ?? null);
     setHomeActionSlot(node?.querySelector<HTMLElement>("#narrative-home-action-slot") ?? null);
   }, []);
@@ -1011,10 +1057,14 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       ref={setNarrativeRoot}
       className={`narrative-course${route.view === "cover" ? " home-active" : ""}`}
       data-narrative-view={route.view}
+      data-unit-deck-active={activeUnit ? "true" : undefined}
       data-editable-skip
     >
       <NarrativeMarkup />
-      <UniversityFooter />
+      {activeUnit ? <UnitDeckViewer key={activeUnit} unit={activeUnit} onNavigate={navigateFromDeck} /> : <UniversityFooter />}
+      {characterSlot ? createPortal(<CharacterReference />, characterSlot) : null}
+      {settingSlot ? createPortal(<SettingReference />, settingSlot) : null}
+      {storybookSlot ? createPortal(<StoryBook />, storybookSlot) : null}
       {homeSlot ? createPortal(<a className="narrative-site-brand" href="/" aria-label="NegentropyLearning home"><img src="https://assets.negentropylearning.com.cn/media/brand/fat-cat-wordmark.png" alt="" /><span>NegentropyLearning</span></a>, homeSlot) : null}
       {homeActionSlot ? createPortal(<button className="narrative-home-button" type="button" onClick={returnHome} aria-label="Return to Learning with Rachel home">Home</button>, homeActionSlot) : null}
     </div>

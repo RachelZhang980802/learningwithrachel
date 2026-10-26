@@ -1,0 +1,1504 @@
+{
+  "id": 32,
+  "title": "Angry, aggressive, irritated, impatient",
+  "zh": "愤怒、好斗、恼怒、不耐烦",
+  "group": "Emotions and personality",
+  "startPage": 278,
+  "endPage": 291,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 279,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Heart, pulse, breath, throat; Anger, rage, fury, temper, wrath, disgust, contempt, resentment",
+          "page": 279,
+          "id": "32-001",
+          "zh": "心脏、脉搏、呼吸、喉咙；生气、暴怒、狂怒、脾气、怒火、厌恶、蔑视、怨恨。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Cross, furious, raging; Jealous, envious, resentful; Irritating, frustrating; Bitter, vicious, poisonous; Breathless, sweating",
+          "page": 279,
+          "id": "32-002",
+          "zh": "生气、盛怒、狂怒；嫉妒、羡嫉、怨恨；惹人烦、令人挫败；愤懑、恶毒、有毒般；喘不过气、出汗。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Swept, poured, simmered, smouldered; Pounded, exploded, erupted; Shook, trembled, writhed; Raced, hammered; Clenched, gripped",
+          "page": 279,
+          "id": "32-003",
+          "zh": "席卷、倾泻、暗暗沸腾、闷烧；猛跳、爆发、喷发；摇晃、颤抖、扭动；急跳、猛敲；握紧、紧抓。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Fog of rage",
+          "page": 279,
+          "id": "32-004",
+          "zh": "愤怒的迷雾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Red mist",
+          "page": 279,
+          "id": "32-005",
+          "zh": "怒火蒙住理智；气得眼前发红"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Spitting bundle of rage",
+          "page": 279,
+          "id": "32-006",
+          "zh": "怒不可遏、口沫横飞的人"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Vicious flash of temper",
+          "page": 279,
+          "id": "32-007",
+          "zh": "一阵凶猛的怒火"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Simmering fury",
+          "page": 279,
+          "id": "32-008",
+          "zh": "压抑着、暗暗沸腾的怒气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hard lump at the back of her throat",
+          "page": 279,
+          "id": "32-009",
+          "zh": "喉咙深处堵着一块硬结"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Left him breathless",
+          "page": 280,
+          "id": "32-010",
+          "zh": "使他喘不过气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Made his heart race",
+          "page": 280,
+          "id": "32-011",
+          "zh": "使他心跳加速"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hammered in his head",
+          "page": 280,
+          "id": "32-012",
+          "zh": "在脑中猛烈敲击"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swept through him like a tidal wave",
+          "page": 280,
+          "id": "32-013",
+          "zh": "像潮水一样席卷全身"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burning with rage",
+          "page": 280,
+          "id": "32-014",
+          "zh": "怒火中烧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wrath exploded like a volcano",
+          "page": 280,
+          "id": "32-015",
+          "zh": "怒火像火山一样爆发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Poured from her like an acid",
+          "page": 280,
+          "id": "32-016",
+          "zh": "愤怒像酸液一样从她身上倾泻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Surrounded him like a foul stench",
+          "page": 280,
+          "id": "32-017",
+          "zh": "像恶臭一样笼罩他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Poisoned the air around him",
+          "page": 280,
+          "id": "32-018",
+          "zh": "使他周围的空气充满敌意"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was sweating and burning with rage.",
+          "page": 280,
+          "id": "32-019",
+          "zh": "他汗流不止，怒火中烧。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She saw his face through narrowed eyes and a fog of rage.",
+          "page": 280,
+          "id": "32-020",
+          "zh": "她眯眼看着他的脸，怒气像雾一样遮住视线。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her reply fuelled his anger and he erupted like a volcano.",
+          "page": 280,
+          "id": "32-021",
+          "zh": "她的回答火上浇油，使他像火山一样爆发。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The anger had returned like a hard lump at the back of her throat.",
+          "page": 280,
+          "id": "32-022",
+          "zh": "怒气再次涌上来，像一块硬结堵在她喉咙深处。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His fury knew no limits – one vicious flash of temper after another.",
+          "page": 280,
+          "id": "32-023",
+          "zh": "他的狂怒没有尽头，凶猛的脾气一阵接一阵地发作。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her rage swept through her like a tidal wave, surrounding her like a foul stench.",
+          "page": 280,
+          "id": "32-024",
+          "zh": "愤怒像潮水般席卷她的全身，又像恶臭一样围住她。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 281,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Look, glance, stare, gaze; Snarl, grimace, leer; Expression, mask, demeanour, countenance",
+          "page": 281,
+          "id": "32-025",
+          "zh": "神情、瞥视、盯视、凝视；龇牙低吼、扭曲的表情、恶意的笑；表情、面具、举止神态、面容。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Nasty, sharp, sour, fierce, hostile, livid, vengeful, volatile, malicious, murderous; Scary, threatening, monstrous, venomous, reptilian, inhuman",
+          "page": 281,
+          "id": "32-026",
+          "zh": "恶劣、尖刻、阴沉、凶猛、敌意、暴怒、报复心强、暴躁、恶毒、杀气腾腾；可怕、威胁、怪物般、狠毒、爬行动物般阴冷、非人的。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Looked, glanced, gazed, stared, glared, glowered; Grinned, grimaced, leered; Twisted, clenched, jutted; Flushed, flared",
+          "page": 281,
+          "id": "32-027",
+          "zh": "看、瞥、凝望、盯、怒视、阴沉地瞪；咧嘴笑、做痛苦表情、恶笑；扭曲、紧咬、伸出；泛红、张开。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Evil look",
+          "page": 281,
+          "id": "32-028",
+          "zh": "恶狠狠的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Venomous stare",
+          "page": 281,
+          "id": "32-029",
+          "zh": "怨毒的凝视"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Murderous gaze",
+          "page": 281,
+          "id": "32-030",
+          "zh": "杀气腾腾的目光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Monstrous grimace",
+          "page": 281,
+          "id": "32-031",
+          "zh": "怪物般扭曲的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Grimace like a hissing cat",
+          "page": 281,
+          "id": "32-032",
+          "zh": "像嘶叫的猫一样龇牙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Reptilian snarl",
+          "page": 281,
+          "id": "32-033",
+          "zh": "爬行动物般阴冷地龇牙低吼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Nasty sneer",
+          "page": 281,
+          "id": "32-034",
+          "zh": "恶意的讥笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Malicious expression",
+          "page": 281,
+          "id": "32-035",
+          "zh": "恶毒的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hostile demeanour",
+          "page": 282,
+          "id": "32-036",
+          "zh": "充满敌意的举止神态"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Fierce countenance",
+          "page": 282,
+          "id": "32-037",
+          "zh": "凶狠的面容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Expression of utter disbelief",
+          "page": 282,
+          "id": "32-038",
+          "zh": "完全难以置信的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pulsing, purple face",
+          "page": 282,
+          "id": "32-039",
+          "zh": "紫涨而血管搏动的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Patches of red on his cheeks",
+          "page": 282,
+          "id": "32-040",
+          "zh": "脸颊上一块块红斑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jaw tightened",
+          "page": 282,
+          "id": "32-041",
+          "zh": "下颌绷紧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chin jutted out angrily",
+          "page": 282,
+          "id": "32-042",
+          "zh": "愤怒地把下巴伸出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Teeth clenched",
+          "page": 282,
+          "id": "32-043",
+          "zh": "咬紧牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ground teeth together",
+          "page": 282,
+          "id": "32-044",
+          "zh": "上下牙磨得咯咯响"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Arched her eyebrows",
+          "page": 282,
+          "id": "32-045",
+          "zh": "扬起眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Nostrils flared like an angry bull",
+          "page": 282,
+          "id": "32-046",
+          "zh": "鼻翼像发怒的公牛一样张开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lips curled back in a reptilian snarl",
+          "page": 282,
+          "id": "32-047",
+          "zh": "嘴唇后缩，露出阴冷的龇牙表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sucked his lips into his mouth",
+          "page": 282,
+          "id": "32-048",
+          "zh": "把嘴唇吸进嘴里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed lips tightly together into a thin line",
+          "page": 282,
+          "id": "32-049",
+          "zh": "紧抿双唇成一条细线"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lips were drawn into a sneer",
+          "page": 282,
+          "id": "32-050",
+          "zh": "嘴唇扯出讥笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted into a venomous snarl",
+          "page": 282,
+          "id": "32-051",
+          "zh": "扭成怨毒的龇牙怒容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Paled with anger",
+          "page": 282,
+          "id": "32-052",
+          "zh": "气得脸色发白"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flushed an angry red",
+          "page": 282,
+          "id": "32-053",
+          "zh": "气得涨红了脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Veins pulsed furiously in her neck",
+          "page": 282,
+          "id": "32-054",
+          "zh": "脖子上的血管剧烈跳动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Exploded in a burning heat",
+          "page": 282,
+          "id": "32-055",
+          "zh": "猛地灼热起来"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A burst of fury made his cheeks burn.",
+          "page": 282,
+          "id": "32-056",
+          "zh": "一阵怒火使他的脸颊发烫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The man strode towards Kitty, wearing an angry expression.",
+          "page": 282,
+          "id": "32-057",
+          "zh": "那人面带怒色，大步向基蒂走来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "It was as if her brain was flooding with boiling blood and her face exploding in a burning heat.",
+          "page": 282,
+          "id": "32-058",
+          "zh": "她仿佛脑中灌满沸腾的血，脸也烧灼得要爆开。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His reddening face was twisted into a venomous snarl and the veins in his neck pulsed furiously.",
+          "page": 283,
+          "id": "32-059",
+          "zh": "他涨红的脸扭成怨毒的龇牙怒容，脖子上的血管剧烈跳动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He made a fist and scowled at Kitty with malicious little eyes and a murderous gaze.",
+          "page": 283,
+          "id": "32-060",
+          "zh": "他攥紧拳头，用恶毒的小眼睛瞪着基蒂，目光里满是杀气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty saw the veins pulsing in his neck and a flash of anger burning in his eyes.",
+          "page": 283,
+          "id": "32-061",
+          "zh": "基蒂看到他脖子上的血管跳动，眼里闪着燃烧的怒火。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "There were patches of red on Robert’s usually pale cheeks. Sweat glistened on his forehead and his face was thunderous.",
+          "page": 283,
+          "id": "32-062",
+          "zh": "罗伯特平日苍白的两颊泛起红斑，额头汗光闪闪，脸色阴沉得像雷雨天。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her face was twisted with fury, her eyes menacing slits, her mouth a nasty sneer.",
+          "page": 283,
+          "id": "32-063",
+          "zh": "她的脸因暴怒而扭曲，双眼眯成威胁的细缝，嘴上带着恶毒的冷笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face twisted like a tribal mask – his eyes bulging and livid and his lips drawn back in a hideous sneer.",
+          "page": 283,
+          "id": "32-064",
+          "zh": "他的脸扭曲得像一张部族面具：双眼凸出、怒气冲冲，嘴唇后缩成可怕的讥笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His foaming lips curled back in a malicious smirk, spraying spittle as he spat out the words.",
+          "page": 283,
+          "id": "32-065",
+          "zh": "他口吐白沫，嘴唇卷起一丝恶笑，吐出字句时唾沫四溅。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Nostrils flaring like an angry bull, she curled back her lip in a reptilian snarl.",
+          "page": 283,
+          "id": "32-066",
+          "zh": "她像怒牛一样鼻翼翕张，嘴唇卷起，露出阴冷的龇牙怒容。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Eyes narrowed and teeth clenched, she stared at Robert with an expression of utter disbelief.",
+          "page": 283,
+          "id": "32-067",
+          "zh": "她眯着眼、咬紧牙，难以置信地盯着罗伯特。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 284,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Glare, stare, scowl, squint; Raisins, slits, razors",
+          "page": 284,
+          "id": "32-068",
+          "zh": "怒视、盯视、皱眉怒容、眯眼；葡萄干、细缝、剃刀。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Hard, cold, steely, staring, unblinking, demon-haunted; Cruel, fierce, hostile, piercing, withering, menacing, threatening, dangerous, malicious; Bulging, buggy, feverish",
+          "page": 284,
+          "id": "32-069",
+          "zh": "冷硬、冰冷、钢铁般、直盯、一眨不眨、恶魔附体般；残酷、凶猛、敌意、锐利、令人畏缩、威吓、威胁、危险、恶毒；凸出、鼓出、狂热。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Glinted, glittered, darkened, burned, blazed; Narrowed, bulged, rolled, flickered; Drilled, blasted",
+          "page": 284,
+          "id": "32-070",
+          "zh": "闪光、闪烁、变暗、燃烧、炽燃；眯起、凸出、转动、闪动；钻入、猛烈逼视。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small and hard as raisins",
+          "page": 284,
+          "id": "32-071",
+          "zh": "像葡萄干一样又小又硬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hard and narrowed",
+          "page": 284,
+          "id": "32-072",
+          "zh": "眼神冷硬，双眼眯起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold, staring eyes",
+          "page": 284,
+          "id": "32-073",
+          "zh": "冰冷地直盯着人的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Steely, menacing eyes",
+          "page": 284,
+          "id": "32-074",
+          "zh": "钢铁般冷硬、带威胁的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Piercing like razors",
+          "page": 284,
+          "id": "32-075",
+          "zh": "像剃刀一样锐利"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Slits of fury",
+          "page": 284,
+          "id": "32-076",
+          "zh": "因愤怒眯成细缝的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Fierce little eyes in a skull-like face",
+          "page": 284,
+          "id": "32-077",
+          "zh": "骷髅般的脸上一双凶狠的小眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Full of hatred and anger",
+          "page": 284,
+          "id": "32-078",
+          "zh": "充满仇恨和愤怒"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bulging and fierce in his twisted face",
+          "page": 284,
+          "id": "32-079",
+          "zh": "在扭曲的脸上凸出，目光凶狠"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glittered evilly",
+          "page": 285,
+          "id": "32-080",
+          "zh": "闪着邪恶的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drilled into her",
+          "page": 285,
+          "id": "32-081",
+          "zh": "目光像钻头一样逼视她"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burned with a cruel light",
+          "page": 285,
+          "id": "32-082",
+          "zh": "眼里燃着残酷的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blasted her with a fierce stare",
+          "page": 285,
+          "id": "32-083",
+          "zh": "狠狠地瞪她一眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glared at him through narrowed eyes",
+          "page": 285,
+          "id": "32-084",
+          "zh": "眯眼怒视他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Darkened warningly",
+          "page": 285,
+          "id": "32-085",
+          "zh": "眼神阴沉下来，带着警告"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burned like furnaces",
+          "page": 285,
+          "id": "32-086",
+          "zh": "像熔炉一样燃烧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rolled eyes to heaven",
+          "page": 285,
+          "id": "32-087",
+          "zh": "翻了个白眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Put head back and closed his eyes",
+          "page": 285,
+          "id": "32-088",
+          "zh": "仰头闭上眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Screwed eyes into narrow slits",
+          "page": 285,
+          "id": "32-089",
+          "zh": "把眼睛紧眯成狭缝"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His steely grey eyes were as piercing as razors.",
+          "page": 285,
+          "id": "32-090",
+          "zh": "他的钢灰色双眼像剃刀一样锐利。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes burned with a cruel light in her skull-like face.",
+          "page": 285,
+          "id": "32-091",
+          "zh": "她骷髅般的脸上，眼睛燃着残酷的光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes were as dark and hard as raisins, and full of hatred and anger.",
+          "page": 285,
+          "id": "32-092",
+          "zh": "他的眼睛像葡萄干一样黑而硬，满是仇恨与愤怒。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He squinted at her fiercely and snarled with frustration.",
+          "page": 285,
+          "id": "32-093",
+          "zh": "他凶狠地眯眼看她，挫败地低吼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were slits of fury; her voice full of ice cold venom.",
+          "page": 285,
+          "id": "32-094",
+          "zh": "她的眼睛是两道愤怒的细缝，声音里充满冰冷的恶意。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His cold, staring eyes bulged in his twisted face and drilled into Kitty as if they would pierce her.",
+          "page": 285,
+          "id": "32-095",
+          "zh": "他冰冷的双眼在扭曲的脸上凸出，盯着基蒂，仿佛要穿透她。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She drummed her fingers on the table impatiently and screwed her eyes into narrow slits.",
+          "page": 285,
+          "id": "32-096",
+          "zh": "她不耐烦地敲着桌子，把眼睛眯成狭窄的细缝。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Eyes bulging in her beak-like face, her voice rose to a harsh, shrill shriek.",
+          "page": 285,
+          "id": "32-097",
+          "zh": "她鸟喙般的脸上双眼凸出，声音升成刺耳的尖叫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Scowling, Robert rolled his eyes to heaven and blasted her with a fierce stare.",
+          "page": 285,
+          "id": "32-098",
+          "zh": "罗伯特皱着眉翻了个白眼，又凶狠地瞪她。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 286,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Tone, hiss, growl, cry, yell, shout, snarl, scream, shriek, howl",
+          "page": 286,
+          "id": "32-099",
+          "zh": "语气、嘶声、低吼、叫声、大喊、喊叫、咆哮、尖叫、尖啸、嚎叫。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Fierce, harsh, furious, hostile, savage, aggressive; Shrill, rasping",
+          "page": 286,
+          "id": "32-100",
+          "zh": "凶狠、刺耳、盛怒、敌意、粗暴、好斗；尖厉、沙哑刺耳。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Hissed, muttered, snapped; Shouted, yelled, barked, growled, snarled; Roared, ranted, boomed, screamed, howled, shrieked, bellowed, stormed, thundered; Shrugged, gasped, spat",
+          "page": 286,
+          "id": "32-101",
+          "zh": "嘶声说、嘟囔、厉声说；喊、叫、喝斥、低吼、咆哮；怒吼、叫骂、轰鸣般说、尖叫、嚎叫、尖啸、大吼、怒斥、雷鸣般吼；耸肩、喘气、啐吐。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Nastily, angrily, heatedly, fiercely, furiously; Spitefully, viciously, impatiently",
+          "page": 286,
+          "id": "32-102",
+          "zh": "恶狠狠地、生气地、激动地、凶狠地、暴怒地；恶意地、狠毒地、不耐烦地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Raised voice",
+          "page": 286,
+          "id": "32-103",
+          "zh": "提高的嗓门"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Menacing tone",
+          "page": 286,
+          "id": "32-104",
+          "zh": "带威胁的语气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a vicious dog",
+          "page": 286,
+          "id": "32-105",
+          "zh": "像凶恶的狗"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shouted nastily",
+          "page": 286,
+          "id": "32-106",
+          "zh": "恶狠狠地喊叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snapped furiously",
+          "page": 287,
+          "id": "32-107",
+          "zh": "暴怒地厉声呵斥"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snarled impatiently",
+          "page": 287,
+          "id": "32-108",
+          "zh": "不耐烦地低吼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Yelled heatedly",
+          "page": 287,
+          "id": "32-109",
+          "zh": "激动地大叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hissed angrily",
+          "page": 287,
+          "id": "32-110",
+          "zh": "愤怒地嘶声说"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Replied through clenched teeth",
+          "page": 287,
+          "id": "32-111",
+          "zh": "咬着牙回答"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Growled like a bear",
+          "page": 287,
+          "id": "32-112",
+          "zh": "像熊一样低吼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Demanded in a low, vicious tone",
+          "page": 287,
+          "id": "32-113",
+          "zh": "用低沉凶狠的语气要求"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Boomed viciously",
+          "page": 287,
+          "id": "32-114",
+          "zh": "凶狠地大吼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shrieked at him",
+          "page": 287,
+          "id": "32-115",
+          "zh": "冲他尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snarled with frustration",
+          "page": 287,
+          "id": "32-116",
+          "zh": "因挫败而咆哮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sighed bitterly",
+          "page": 287,
+          "id": "32-117",
+          "zh": "愤懑地叹气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Muttered under her breath",
+          "page": 287,
+          "id": "32-118",
+          "zh": "低声嘟囔"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hissed at Kitty out of the side of his mouth",
+          "page": 287,
+          "id": "32-119",
+          "zh": "从嘴角朝基蒂挤出嘶声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Voice shook",
+          "page": 287,
+          "id": "32-120",
+          "zh": "声音发抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gasped for breath",
+          "page": 287,
+          "id": "32-121",
+          "zh": "大口喘气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sucked air through his teeth",
+          "page": 287,
+          "id": "32-122",
+          "zh": "从牙缝里吸气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clicked tongue impatiently",
+          "page": 287,
+          "id": "32-123",
+          "zh": "不耐烦地咂舌"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprayed spittle as he spat out the words",
+          "page": 287,
+          "id": "32-124",
+          "zh": "咬字时唾沫四溅"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Too choked with frustration to talk",
+          "page": 287,
+          "id": "32-125",
+          "zh": "挫败得哽住，说不出话"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She snarled at him like a vicious dog.",
+          "page": 287,
+          "id": "32-126",
+          "zh": "她像恶狗一样冲他咆哮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty’s voice shook with anger and she glared at him through narrowed eyes.",
+          "page": 287,
+          "id": "32-127",
+          "zh": "基蒂气得声音发抖，眯眼怒视着他。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He clicked his tongue impatiently and shrugged his shoulders. Muttering under his breath, he stomped out of the room.",
+          "page": 287,
+          "id": "32-128",
+          "zh": "他不耐烦地咂舌耸肩，低声嘟囔着，重重踏步走出房间。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert folded his arms across his chest and started speaking over her in a raised voice.",
+          "page": 287,
+          "id": "32-129",
+          "zh": "罗伯特双臂抱在胸前，抬高嗓门盖过她的声音。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Rolling her eyes to heaven, Kitty sucked air through her teeth and hissed at him.",
+          "page": 287,
+          "id": "32-130",
+          "zh": "基蒂翻着白眼，从牙缝里吸气，嘶声斥责他。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Eyes ablaze, fists clenched, he hissed at Kitty out of the side of his mouth, spraying spittle as he spat out the words.",
+          "page": 288,
+          "id": "32-131",
+          "zh": "他两眼冒火，拳头紧攥，从嘴角对基蒂挤出狠话，唾沫随字句喷出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was a spitting bundle of rage. Waving her arms wildly in the air, she shrieked at him and advanced, with eyes bulging eyes in her twisted face.",
+          "page": 288,
+          "id": "32-132",
+          "zh": "她怒不可遏、口沫横飞，疯狂挥着双臂向他逼近并尖叫，扭曲的脸上双眼凸出。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 289,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Feet, hips, chest, shoulders, arms, hands, fist, palms, knuckles, fingers, nails, scalp, hair",
+          "page": 289,
+          "id": "32-133",
+          "zh": "脚、胯、胸、肩、手臂、手、拳、手掌、指关节、手指、指甲、头皮、头发。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Tense, rigid; Quick, jerky, wild, furious, frantic, feverish",
+          "page": 289,
+          "id": "32-134",
+          "zh": "紧绷、僵硬；迅速、急促抽动、狂乱、暴怒、疯狂、狂热。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Gripped, curled, crushed, clenched, balled; Tapped, drummed, thumped, pounded; Folded, crossed, raised, pointed, shook, waved; Rubbed, twisted, tugged, pressed, buried; Hunched, shrugged, braced; Rocked, swayed, paced; Walked, moved, strode, marched, advanced; Ran, sprinted, bounded, hurtled; Slammed, barged, barrelled, clattered",
+          "page": 289,
+          "id": "32-135",
+          "zh": "抓紧、蜷起、压碎、握紧、攥成团；轻敲、连续敲击、重捶、猛击；抱臂、交叉、举起、指、摇、挥；揉、拧、拽、按、埋；耸起、耸肩、撑稳；摇动、晃、踱步；走、移动、大步走、行进、逼近；跑、冲刺、跳跃、猛冲；猛撞、挤撞、横冲直撞、哐当作响。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Rigid with fury",
+          "page": 289,
+          "id": "32-136",
+          "zh": "气得身体僵硬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Frantic, jerky movements",
+          "page": 289,
+          "id": "32-137",
+          "zh": "疯狂而急促抽动的动作"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As quick as a panther",
+          "page": 289,
+          "id": "32-138",
+          "zh": "像豹子一样敏捷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like an uncoiled spring",
+          "page": 289,
+          "id": "32-139",
+          "zh": "像松开的弹簧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Feverish pace",
+          "page": 289,
+          "id": "32-140",
+          "zh": "狂热急切的步伐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pounded on the table with his fist",
+          "page": 290,
+          "id": "32-141",
+          "zh": "用拳头猛砸桌子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Thumped forehead with her fist",
+          "page": 290,
+          "id": "32-142",
+          "zh": "用拳头捶额头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drummed fingers on the table impatiently",
+          "page": 290,
+          "id": "32-143",
+          "zh": "不耐烦地用手指敲桌子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clenched fists",
+          "page": 290,
+          "id": "32-144",
+          "zh": "攥紧拳头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curled hand into a fist",
+          "page": 290,
+          "id": "32-145",
+          "zh": "把手蜷成拳头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Raised hand with palm upwards",
+          "page": 290,
+          "id": "32-146",
+          "zh": "掌心朝上抬起手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pointed index finger",
+          "page": 290,
+          "id": "32-147",
+          "zh": "伸出食指指着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Waved hands wildly before him",
+          "page": 290,
+          "id": "32-148",
+          "zh": "在面前疯狂挥手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gripped knuckles until they turned white",
+          "page": 290,
+          "id": "32-149",
+          "zh": "指关节攥得发白"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dug nails deep into the skin of her palms",
+          "page": 290,
+          "id": "32-150",
+          "zh": "指甲深深掐进掌心"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed hands into eyes",
+          "page": 290,
+          "id": "32-151",
+          "zh": "用手紧按双眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Buried head in hands",
+          "page": 290,
+          "id": "32-152",
+          "zh": "把头埋进双手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rubbed fingers into scalp",
+          "page": 290,
+          "id": "32-153",
+          "zh": "用手指揉搓头皮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted and tugged at hair",
+          "page": 290,
+          "id": "32-154",
+          "zh": "扭着、拽着头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Braced his feet",
+          "page": 290,
+          "id": "32-155",
+          "zh": "双脚站稳，撑住身体"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hunched shoulders",
+          "page": 290,
+          "id": "32-156",
+          "zh": "耸起肩膀"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood with arms crossed and hands on hips",
+          "page": 290,
+          "id": "32-157",
+          "zh": "抱臂或叉腰站着，表现强硬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rocked back and forth",
+          "page": 290,
+          "id": "32-158",
+          "zh": "前后摇晃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swayed on his feet",
+          "page": 290,
+          "id": "32-159",
+          "zh": "站着摇摇晃晃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Paced backwards and forwards",
+          "page": 290,
+          "id": "32-160",
+          "zh": "来回踱步"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Strode across the room",
+          "page": 290,
+          "id": "32-161",
+          "zh": "大步穿过房间"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Marched out of the room",
+          "page": 290,
+          "id": "32-162",
+          "zh": "昂然走出房间"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Advanced on him grimly",
+          "page": 290,
+          "id": "32-163",
+          "zh": "冷着脸向他逼近"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pounded down the street",
+          "page": 290,
+          "id": "32-164",
+          "zh": "重重踏着脚跑过街道"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bounded like an uncoiled spring",
+          "page": 290,
+          "id": "32-165",
+          "zh": "像松开的弹簧一样跃出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hurtled headlong...",
+          "page": 290,
+          "id": "32-166",
+          "zh": "一头猛冲向……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Barrelled forward...",
+          "page": 290,
+          "id": "32-167",
+          "zh": "横冲直撞地冲向前……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slammed into...",
+          "page": 290,
+          "id": "32-168",
+          "zh": "猛撞上……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Barged through...",
+          "page": 290,
+          "id": "32-169",
+          "zh": "强行挤过……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Thudded into...",
+          "page": 290,
+          "id": "32-170",
+          "zh": "砰地撞上……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shot past...",
+          "page": 291,
+          "id": "32-171",
+          "zh": "飞快掠过……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fought his way through...",
+          "page": 291,
+          "id": "32-172",
+          "zh": "奋力穿过……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hurtled full pelt towards...",
+          "page": 291,
+          "id": "32-173",
+          "zh": "全速猛冲向……"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She dismissed him with an impatient wave of her hand.",
+          "page": 291,
+          "id": "32-174",
+          "zh": "她不耐烦地挥挥手，打发他走。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He bounded towards them like an uncoiled spring.",
+          "page": 291,
+          "id": "32-175",
+          "zh": "他像松开的弹簧一样朝他们跃去。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He pounded on the table with his fist and glared at her furiously.",
+          "page": 291,
+          "id": "32-176",
+          "zh": "他用拳头砸桌子，怒气冲冲地瞪着她。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He dug his fingers into his scalp and tugged at his hair, until it stood up in wild tufts.",
+          "page": 291,
+          "id": "32-177",
+          "zh": "他把手指插进头发，揪扯到头发乱七八糟地竖成一撮撮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He exhaled once, a long hard gust, put his hands on his hips and spoke very slowly.",
+          "page": 291,
+          "id": "32-178",
+          "zh": "他长长地用力呼出一口气，双手叉腰，说话很慢。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She strode into the room, muttering under her breath, and then turned briskly and marched out again, with a stiff back and her head held high in the air.",
+          "page": 291,
+          "id": "32-179",
+          "zh": "她低声嘟囔着大步走进屋，又猛地转身，挺直背、昂着头走了出去。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Throwing his head back, he exhaled deeply and closed his eyes.",
+          "page": 291,
+          "id": "32-180",
+          "zh": "他仰起头，深深呼气，闭上眼睛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With a howl of rage, he buried his head in his hands and pressed them into his eyes.",
+          "page": 291,
+          "id": "32-181",
+          "zh": "他怒吼一声，把头埋在双手里，紧紧按住双眼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Speechless with rage, she curled her fist and dug her fingers deep into her palms.",
+          "page": 291,
+          "id": "32-182",
+          "zh": "她气得说不出话，攥起拳头，手指深深掐进掌心。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty opened her mouth to speak, but before she could utter a word, Robert silenced her by putting his hand, palm upwards, in the air in front of her.",
+          "page": 291,
+          "id": "32-183",
+          "zh": "基蒂张嘴想说话，还没发出声音，罗伯特便掌心朝上，把手举到她面前，示意她闭嘴。"
+        }
+      ]
+    }
+  ]
+}

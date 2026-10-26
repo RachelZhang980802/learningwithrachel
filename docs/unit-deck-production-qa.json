@@ -1,0 +1,92 @@
+{
+  "base": "http://127.0.0.1:4179",
+  "reports": [
+    {
+      "unit": 1,
+      "width": 1147,
+      "pages": 22,
+      "nativeTexts": 139,
+      "meanings": 22
+    },
+    {
+      "unit": 2,
+      "width": 1147,
+      "pages": 42,
+      "nativeTexts": 175,
+      "meanings": 42
+    },
+    {
+      "unit": 3,
+      "width": 1147,
+      "pages": 35,
+      "nativeTexts": 295,
+      "meanings": 35
+    },
+    {
+      "unit": 4,
+      "width": 1147,
+      "pages": 63,
+      "nativeTexts": 580,
+      "meanings": 63
+    },
+    {
+      "unit": 5,
+      "width": 1147,
+      "pages": 55,
+      "nativeTexts": 431,
+      "meanings": 50
+    },
+    {
+      "unit": 6,
+      "width": 1147,
+      "pages": 31,
+      "nativeTexts": 378,
+      "meanings": 31
+    },
+    {
+      "unit": 1,
+      "width": 679,
+      "pages": 22,
+      "nativeTexts": 139,
+      "meanings": 22
+    },
+    {
+      "unit": 2,
+      "width": 679,
+      "pages": 42,
+      "nativeTexts": 175,
+      "meanings": 42
+    },
+    {
+      "unit": 3,
+      "width": 679,
+      "pages": 35,
+      "nativeTexts": 295,
+      "meanings": 35
+    },
+    {
+      "unit": 4,
+      "width": 679,
+      "pages": 63,
+      "nativeTexts": 580,
+      "meanings": 63
+    },
+    {
+      "unit": 5,
+      "width": 679,
+      "pages": 55,
+      "nativeTexts": 431,
+      "meanings": 50
+    },
+    {
+      "unit": 6,
+      "width": 679,
+      "pages": 31,
+      "nativeTexts": 378,
+      "meanings": 31
+    }
+  ],
+  "mobile": true,
+  "errors": [],
+  "failures": []
+}

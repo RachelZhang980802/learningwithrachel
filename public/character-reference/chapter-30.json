@@ -1,0 +1,442 @@
+{
+  "id": 30,
+  "title": "Sympathetic, caring",
+  "zh": "同情、关怀",
+  "group": "Emotions and personality",
+  "startPage": 265,
+  "endPage": 272,
+  "sections": [
+    {
+      "title": "Section 1 – Expressions",
+      "page": 266,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Face, mouth, smile, eyebrows; Concern, sympathy, comfort, warmth",
+          "page": 266,
+          "id": "30-001",
+          "zh": "脸、嘴、微笑、眉毛；关切、同情、安慰、温暖。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Soft, warm, calm, sympathetic, comforting",
+          "page": 266,
+          "id": "30-002",
+          "zh": "柔和、温暖、平静、同情、令人安心。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Gave, flashed; Drew, turned",
+          "page": 266,
+          "id": "30-003",
+          "zh": "给予、闪现；拉拢、转变。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Face turned soft and sympathetic",
+          "page": 266,
+          "id": "30-004",
+          "zh": "神情变得温柔而充满同情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gave her a look of concern",
+          "page": 266,
+          "id": "30-005",
+          "zh": "投给她关切的目光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drew her eyebrows together",
+          "page": 266,
+          "id": "30-006",
+          "zh": "把双眉轻轻蹙在一起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth turned down at the corners",
+          "page": 266,
+          "id": "30-007",
+          "zh": "嘴角往下垂"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flashed a comforting smile",
+          "page": 266,
+          "id": "30-008",
+          "zh": "露出一个安慰的微笑"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face turned soft and sympathetic and his voice sank to a murmur.",
+          "page": 266,
+          "id": "30-009",
+          "zh": "他的神情变得柔和而同情，声音也放低成了轻语。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She drew her eyebrows together and turned her mouth down in a look of concern.",
+          "page": 266,
+          "id": "30-010",
+          "zh": "她双眉微蹙，嘴角下垂，显出关切的神情。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Eyes",
+      "page": 268,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Calm, patient, comforting; Soft, warm",
+          "page": 268,
+          "id": "30-011",
+          "zh": "平静、耐心、令人安心；柔和、温暖。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Gazed, looked; Shone, beamed",
+          "page": 268,
+          "id": "30-012",
+          "zh": "凝望、看；发亮、放光。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Calm and comforting",
+          "page": 268,
+          "id": "30-013",
+          "zh": "平静而令人安心"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As soft as velvet",
+          "page": 268,
+          "id": "30-014",
+          "zh": "像天鹅绒一样柔软"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Beamed with warmth, like candles in the dark",
+          "page": 268,
+          "id": "30-015",
+          "zh": "像黑暗中的蜡烛一样散发暖意"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her brown eyes were like velvet – warm and comforting.",
+          "page": 268,
+          "id": "30-016",
+          "zh": "她的棕眼睛像天鹅绒，温暖又令人安心。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As she looked down on him, her eyes beamed with warmth, like candles in the dark.",
+          "page": 268,
+          "id": "30-017",
+          "zh": "她低头看着他，眼里的暖光像黑暗中的烛火。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Voice",
+      "page": 269,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Sigh, whisper, murmur",
+          "page": 269,
+          "id": "30-018",
+          "zh": "叹息、耳语、轻声细语。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Soft, warm, low, silky, mild; Gentle, calm, patient, comforting",
+          "page": 269,
+          "id": "30-019",
+          "zh": "轻柔、温暖、低声、丝滑、温和；温柔、平静、耐心、抚慰人心。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Whispered, sighed; Sank, trailed off; Comforted, reassured",
+          "page": 269,
+          "id": "30-020",
+          "zh": "耳语、叹息；低下去、渐弱消失；安慰、使安心。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low sigh",
+          "page": 269,
+          "id": "30-021",
+          "zh": "低低的叹息"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "No more than a whisper",
+          "page": 269,
+          "id": "30-022",
+          "zh": "轻得只是耳语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Silky and soft, like a feathery whisper",
+          "page": 269,
+          "id": "30-023",
+          "zh": "丝绸般柔和，像羽毛一样轻的低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Mild, patient voice",
+          "page": 269,
+          "id": "30-024",
+          "zh": "温和而耐心的嗓音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Words were gentle and comforting",
+          "page": 269,
+          "id": "30-025",
+          "zh": "话语温柔，给人安慰"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Whispered in his ear",
+          "page": 269,
+          "id": "30-026",
+          "zh": "在他耳边低声说"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sighed gently",
+          "page": 269,
+          "id": "30-027",
+          "zh": "轻轻叹气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Made soothing noises",
+          "page": 269,
+          "id": "30-028",
+          "zh": "发出安抚的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Voice turned soft and low",
+          "page": 270,
+          "id": "30-029",
+          "zh": "声音变得轻柔低缓"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Trailed off to a low sigh",
+          "page": 270,
+          "id": "30-030",
+          "zh": "声音渐低，化作一声轻叹"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her voice was silky and soft, like a feathery whisper.",
+          "page": 270,
+          "id": "30-031",
+          "zh": "她的声音丝绸般柔和，像羽毛一样轻的耳语。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She held him close and murmured soothingly.",
+          "page": 270,
+          "id": "30-032",
+          "zh": "她把他紧紧搂在身边，低声安慰。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her voice was low and soft and her words gentle and comforting.",
+          "page": 270,
+          "id": "30-033",
+          "zh": "她声音低而柔，话语温暖且令人安心。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Movement",
+      "page": 271,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Arm, hand, hair, head; Gesture, squeeze, support",
+          "page": 271,
+          "id": "30-034",
+          "zh": "手臂、手、头发、头；动作、轻握、支持。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Gentle, mild",
+          "page": 271,
+          "id": "30-035",
+          "zh": "轻柔、温和。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Slid, wrapped; Held, stroked, squeezed",
+          "page": 271,
+          "id": "30-036",
+          "zh": "轻轻伸入、环抱；抱着、抚摸、轻握。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Tightly, kindly, tenderly, calmly, reassuringly",
+          "page": 271,
+          "id": "30-037",
+          "zh": "紧紧地、亲切地、温柔地、平静地、安抚地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases and Adjectives",
+          "en": "Gentle squeeze",
+          "page": 271,
+          "id": "30-038",
+          "zh": "轻轻捏握一下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases and Adjectives",
+          "en": "Gesture of support",
+          "page": 271,
+          "id": "30-039",
+          "zh": "表示支持的动作"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slid her arm around his shoulder",
+          "page": 271,
+          "id": "30-040",
+          "zh": "把手臂轻轻搭到他的肩上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gave her a gentle squeeze",
+          "page": 271,
+          "id": "30-041",
+          "zh": "轻轻搂她一下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stroked his hair",
+          "page": 271,
+          "id": "30-042",
+          "zh": "抚摸他的头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tilted his head forwards",
+          "page": 271,
+          "id": "30-043",
+          "zh": "把头稍稍前倾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Held her to his stomach",
+          "page": 271,
+          "id": "30-044",
+          "zh": "把她抱在自己腹前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wrapped arms tightly around him",
+          "page": 271,
+          "id": "30-045",
+          "zh": "双臂紧紧环抱他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Squeezed his arm in a gesture of support",
+          "page": 272,
+          "id": "30-046",
+          "zh": "轻握他的手臂以示支持"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She gave him a loving look and hugged him tightly to her.",
+          "page": 272,
+          "id": "30-047",
+          "zh": "她深情地看着他，把他紧紧抱在怀里。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He tilted his head forward and flashed a comforting smile.",
+          "page": 272,
+          "id": "30-048",
+          "zh": "他微微前倾着头，露出安慰的微笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She held John to her stomach and wrapped her arms around him.",
+          "page": 272,
+          "id": "30-049",
+          "zh": "她把约翰揽到腹前，双臂环抱着他。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She slid her arm around Kitty’s shoulder, gave her a gentle squeeze and whispered in her ear.",
+          "page": 272,
+          "id": "30-050",
+          "zh": "她轻轻搂住基蒂的肩膀，安抚地捏了捏，又在她耳边低语。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her voice trailed off into a low sigh and she squeezed Robert’s arm in a gesture of support.",
+          "page": 272,
+          "id": "30-051",
+          "zh": "她的声音渐弱，化成一声低叹；她轻握罗伯特的手臂，表示支持。"
+        }
+      ]
+    }
+  ]
+}

@@ -1017,3 +1017,4 @@
   width: 100%;
   margin: 0;
 }
+.narrative-course[data-narrative-view="writing-storybook"] main > #writing-storybook { display: block !important; }

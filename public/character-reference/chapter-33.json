@@ -1,0 +1,1082 @@
+{
+  "id": 33,
+  "title": "Cold, evil, sly, arrogant",
+  "zh": "冷酷、邪恶、狡猾、傲慢",
+  "group": "Emotions and personality",
+  "startPage": 292,
+  "endPage": 301,
+  "sections": [
+    {
+      "title": "Section 1 – Expressions",
+      "page": 293,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Look, expression, gaze; Grin, leer, sneer, smirk",
+          "page": 293,
+          "id": "33-001",
+          "zh": "神情、表情、凝视；咧嘴笑、恶意的笑、讥笑、得意的假笑。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Cold, chilly, icy, empty, expressionless; Nasty, cruel, evil, spiteful, vicious, venomous, callous, vengeful, malicious; Creepy, scary, hideous, monstrous, ghastly, demonic, moronic; Sly, cunning, furtive, sinister; Arrogant, sarcastic",
+          "page": 293,
+          "id": "33-002",
+          "zh": "冷漠、冷淡、冰冷、空洞、毫无表情；恶劣、残忍、邪恶、恶意、凶狠、狠毒、无情、心怀报复、恶毒；令人毛骨悚然、吓人、丑恶、怪物般、惨厉、恶魔般、愚钝；狡猾、诡诈、鬼祟、阴险；傲慢、讽刺。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Stared, glared, glanced; Grinned, grimaced, sneered",
+          "page": 293,
+          "id": "33-003",
+          "zh": "盯着、瞪视、瞥；咧嘴笑、扭曲表情、讥笑。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Smile as empty as a carcass",
+          "page": 293,
+          "id": "33-004",
+          "zh": "笑容像空壳尸体一样毫无温度"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a grinning snake",
+          "page": 293,
+          "id": "33-005",
+          "zh": "像一条咧嘴笑的蛇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Vicious smile",
+          "page": 293,
+          "id": "33-006",
+          "zh": "凶狠的笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Unpleasant, sarcastic smile",
+          "page": 293,
+          "id": "33-007",
+          "zh": "令人不快的讽刺笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Slow, demonic leer",
+          "page": 293,
+          "id": "33-008",
+          "zh": "缓缓露出的恶魔般狞笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Reptilian sneer",
+          "page": 293,
+          "id": "33-009",
+          "zh": "爬行动物般阴冷的讥笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Leering smile",
+          "page": 293,
+          "id": "33-010",
+          "zh": "带恶意的笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold, sinister look",
+          "page": 293,
+          "id": "33-011",
+          "zh": "冷漠阴险的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Furtive, viperish expression",
+          "page": 294,
+          "id": "33-012",
+          "zh": "鬼祟而毒蛇般的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold, arrogant expression",
+          "page": 294,
+          "id": "33-013",
+          "zh": "冷漠傲慢的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Amused, callous look",
+          "page": 294,
+          "id": "33-014",
+          "zh": "冷酷地看笑话的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Ghastly smile of pretended sympathy",
+          "page": 294,
+          "id": "33-015",
+          "zh": "假装同情的可怕笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dramatic expression of mock concern and sympathy",
+          "page": 294,
+          "id": "33-016",
+          "zh": "夸张地装出关心与同情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lips twisted briefly",
+          "page": 294,
+          "id": "33-017",
+          "zh": "嘴唇短暂地扭了一下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Face split into a nasty, demonic grin",
+          "page": 294,
+          "id": "33-018",
+          "zh": "脸上裂开一道恶魔般的坏笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted in a malicious smirk",
+          "page": 294,
+          "id": "33-019",
+          "zh": "扭出恶意的假笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth stretched in a hideous sneer",
+          "page": 294,
+          "id": "33-020",
+          "zh": "咧嘴露出丑恶的讥笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bared teeth",
+          "page": 294,
+          "id": "33-021",
+          "zh": "龇出牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stretched his mouth into a grisly smile",
+          "page": 294,
+          "id": "33-022",
+          "zh": "咧出一个令人毛骨悚然的笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Face wrinkled with disgust",
+          "page": 294,
+          "id": "33-023",
+          "zh": "脸因厌恶而皱起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shot him a withering look",
+          "page": 294,
+          "id": "33-024",
+          "zh": "朝他投去令人畏缩的一瞥"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Directed look of purest venom",
+          "page": 294,
+          "id": "33-025",
+          "zh": "投去怨毒至极的目光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Features tightened with contempt",
+          "page": 294,
+          "id": "33-026",
+          "zh": "五官因轻蔑而绷紧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Trained his steely gaze on her",
+          "page": 294,
+          "id": "33-027",
+          "zh": "把冷硬的目光对准她"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His pale, skull-like face split into an evil grin.",
+          "page": 294,
+          "id": "33-028",
+          "zh": "他苍白如骷髅的脸上裂开一个邪恶的笑容。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He curled his lips into a savage sneer.",
+          "page": 294,
+          "id": "33-029",
+          "zh": "他卷起嘴唇，露出残酷的讥笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She directed a look of pure venom at his retreating back.",
+          "page": 294,
+          "id": "33-030",
+          "zh": "她朝他渐渐远去的背影投去怨毒的目光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His smile was as empty as a carcass.",
+          "page": 294,
+          "id": "33-031",
+          "zh": "他的笑容空洞得像一具尸体。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her expression suddenly changed to a dramatic look of mock concern and sympathy.",
+          "page": 294,
+          "id": "33-032",
+          "zh": "她突然换了表情，夸张地装出关切和同情。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She took aim with an invisible gun and gave him a slow, demonic leer.",
+          "page": 294,
+          "id": "33-033",
+          "zh": "她用一把看不见的枪瞄准，朝他缓缓露出恶魔般的狞笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His mouth twisted into a smirk and his icy blue eyes narrowed to slits.",
+          "page": 294,
+          "id": "33-034",
+          "zh": "他的嘴扭成假笑，冰蓝的眼睛眯成细缝。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert trained his steely gaze on her and stretched his mouth into a grisly smile.",
+          "page": 295,
+          "id": "33-035",
+          "zh": "罗伯特把冷硬的目光对准她，咧出一个可怕的笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He raised his eyebrows and glanced at her with a cold, arrogant expression.",
+          "page": 295,
+          "id": "33-036",
+          "zh": "他扬起眉毛，神情冷漠傲慢地瞥了她一眼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had an amused, callous look on his face, as he watched Kitty writhing on the floor.",
+          "page": 295,
+          "id": "33-037",
+          "zh": "看着基蒂在地上扭动，他脸上露出冷酷而觉得有趣的表情。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As he opened the door for them to leave, his mouth twisted into a knowing grin.",
+          "page": 295,
+          "id": "33-038",
+          "zh": "他为他们开门让他们离开时，嘴角扭出心照不宣的坏笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Snorting with contempt, he bared his yellow teeth in a reptilian sneer.",
+          "page": 295,
+          "id": "33-039",
+          "zh": "他轻蔑地哼了一声，露出黄牙，阴冷地讥笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His mouth curled with revulsion, as she made a despairing lunge at his arm.",
+          "page": 295,
+          "id": "33-040",
+          "zh": "她绝望地伸手抓他的手臂，他厌恶得卷起了嘴角。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Eyes",
+      "page": 296,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Look, stare, glare, slits",
+          "page": 296,
+          "id": "33-041",
+          "zh": "目光、盯视、怒视、细缝。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Small, little, beady, buggy, staring, unblinking; Hard, cold, ice cold, frosty, steely; Sharp, evil, cruel, piercing, withering; Ghostly, monstrous, feverish, demon-haunted",
+          "page": 296,
+          "id": "33-042",
+          "zh": "小、细小、珠子般、凸出、直盯、一眨不眨；冷硬、冷漠、冰冷、霜冻般、钢铁般；锐利、邪恶、残酷、穿透、令人畏缩；幽灵般、怪物般、狂热、恶魔附体般。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Stared, squinted, narrowed, bulged, flickered, drilled, blasted; Darkened, burned, blazed, glinted, sparkled",
+          "page": 296,
+          "id": "33-043",
+          "zh": "凝视、眯眼、眯起、凸出、闪动、钻视、猛烈逼视；阴沉、燃烧、炽燃、闪光、闪耀。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold, steely eyes",
+          "page": 296,
+          "id": "33-044",
+          "zh": "冷漠、钢铁般的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small and hard as raisins",
+          "page": 296,
+          "id": "33-045",
+          "zh": "像葡萄干一样又小又硬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Buggy little eyes",
+          "page": 296,
+          "id": "33-046",
+          "zh": "小而凸出的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Piercing like razors",
+          "page": 296,
+          "id": "33-047",
+          "zh": "像剃刀般锐利"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Frosty and narrowed",
+          "page": 296,
+          "id": "33-048",
+          "zh": "冰冷地眯起眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Crafty look",
+          "page": 296,
+          "id": "33-049",
+          "zh": "狡黠的眼神"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Demon-haunted expression",
+          "page": 296,
+          "id": "33-050",
+          "zh": "恶魔附体般的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glinted evilly",
+          "page": 297,
+          "id": "33-051",
+          "zh": "闪着邪恶的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sparkled like frost – cold and dangerous",
+          "page": 297,
+          "id": "33-052",
+          "zh": "像霜一样闪光，冰冷而危险"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burned with a cruel light",
+          "page": 297,
+          "id": "33-053",
+          "zh": "眼里燃着残酷的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drilled into her",
+          "page": 297,
+          "id": "33-054",
+          "zh": "逼视着她，仿佛钻入她心里"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His small eyes were as dark and hard as raisins and had a demon-haunted expression.",
+          "page": 297,
+          "id": "33-055",
+          "zh": "他的小眼睛像葡萄干一样黑硬，透着恶魔般的神情。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She stared at Kitty for a moment and then a crafty look flickered in her buggy little eyes.",
+          "page": 297,
+          "id": "33-056",
+          "zh": "她盯着基蒂片刻，小而凸出的眼睛里闪过狡黠的神色。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He stared with unblinking eyes, but his lips twisted in a sneer.",
+          "page": 297,
+          "id": "33-057",
+          "zh": "他一眨不眨地盯着，嘴唇却扭成讥笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His feverish, staring eyes bulged in his monstrous face.",
+          "page": 297,
+          "id": "33-058",
+          "zh": "他狂热而直勾勾的双眼，在怪物般的脸上凸出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She stared with eyes that sparkled like frost – cold and dangerous.",
+          "page": 297,
+          "id": "33-059",
+          "zh": "她的眼睛像霜一样闪着光，冰冷危险地凝视着。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Voice",
+      "page": 298,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Tone, hiss, whisper, snort, giggle; Snarl, shout, screech, shriek, laughter",
+          "page": 298,
+          "id": "33-060",
+          "zh": "语气、嘶声、耳语、鼻哼、咯咯笑；咆哮、喊叫、尖鸣、尖叫、笑声。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Cold, icy, chilly, frosty, harsh, cruel, sharp; Mocking, spiteful, vicious, threatening, venomous",
+          "page": 298,
+          "id": "33-061",
+          "zh": "冷淡、冰冷、冷漠、霜冷、严厉、残酷、尖刻；嘲弄、恶意、凶狠、威胁、怨毒。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Sneered, sniggered, snorted, jeered",
+          "page": 298,
+          "id": "33-062",
+          "zh": "讥笑、窃笑、嗤鼻、嘲弄。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Frosty voice",
+          "page": 298,
+          "id": "33-063",
+          "zh": "冷若冰霜的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tone was firm and chilly",
+          "page": 298,
+          "id": "33-064",
+          "zh": "语气坚定而冰冷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tone was chiselled with menace",
+          "page": 298,
+          "id": "33-065",
+          "zh": "语气里刻满威胁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Voice was cold and cruel",
+          "page": 298,
+          "id": "33-066",
+          "zh": "声音冷酷无情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Voice of ice cold venom",
+          "page": 298,
+          "id": "33-067",
+          "zh": "带着冰冷恶意的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Splinter of ice in her voice",
+          "page": 298,
+          "id": "33-068",
+          "zh": "声音里仿佛藏着一片冰碴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Voice was low, cold and full of menace",
+          "page": 298,
+          "id": "33-069",
+          "zh": "声音低沉、冰冷，充满威胁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Stifled snort",
+          "page": 298,
+          "id": "33-070",
+          "zh": "强忍的一声鼻哼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Scornful giggle",
+          "page": 298,
+          "id": "33-071",
+          "zh": "轻蔑的窃笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sneering shout",
+          "page": 298,
+          "id": "33-072",
+          "zh": "带着讥讽的大喊"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Screech like a seagull",
+          "page": 298,
+          "id": "33-073",
+          "zh": "像海鸥一样尖鸣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Threatening, venomous hiss",
+          "page": 298,
+          "id": "33-074",
+          "zh": "威胁而怨毒的嘶声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Ghostly whisper",
+          "page": 298,
+          "id": "33-075",
+          "zh": "幽灵般的耳语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Manic laughter",
+          "page": 298,
+          "id": "33-076",
+          "zh": "疯狂的大笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Snort of mocking laughter",
+          "page": 299,
+          "id": "33-077",
+          "zh": "带嘲弄的一声喷笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Voice was full of malicious laughter",
+          "page": 299,
+          "id": "33-078",
+          "zh": "声音里满是恶意的笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Responded coldly",
+          "page": 299,
+          "id": "33-079",
+          "zh": "冷冷回应"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Added nastily",
+          "page": 299,
+          "id": "33-080",
+          "zh": "恶狠狠地补充"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Said in a low, vicious tone",
+          "page": 299,
+          "id": "33-081",
+          "zh": "用低沉凶狠的语气说"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ordered with a sneer of cold command",
+          "page": 299,
+          "id": "33-082",
+          "zh": "带着冷酷命令的讥笑发号施令"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snorted with disgust",
+          "page": 299,
+          "id": "33-083",
+          "zh": "厌恶地哼了一声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snarled like a vicious dog",
+          "page": 299,
+          "id": "33-084",
+          "zh": "像恶狗一样咆哮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Laughed scornfully",
+          "page": 299,
+          "id": "33-085",
+          "zh": "轻蔑地笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bored into her like a drill",
+          "page": 299,
+          "id": "33-086",
+          "zh": "像钻头一样钻进她耳里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chilled her to the bone",
+          "page": 299,
+          "id": "33-087",
+          "zh": "使她感到彻骨的寒意"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sharp words slashed the air",
+          "page": 299,
+          "id": "33-088",
+          "zh": "尖刻的话语像刀一样划破空气"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Every word he spoke dripped with venom and hate.",
+          "page": 299,
+          "id": "33-089",
+          "zh": "他说出的每个字都浸透恶意与仇恨。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She drew in her breath in a venomous hiss.",
+          "page": 299,
+          "id": "33-090",
+          "zh": "她吸了一口气，发出充满恶意的嘶声。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His hard, cold eyes and frosty voice chilled Kitty to the bone.",
+          "page": 299,
+          "id": "33-091",
+          "zh": "他冷硬的双眼和冰霜般的嗓音，让基蒂浑身发冷。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She threw back her head and laughed like a screeching seagull.",
+          "page": 299,
+          "id": "33-092",
+          "zh": "她仰头大笑，声音像海鸥尖叫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes narrowed dangerously and then she laughed scornfully.",
+          "page": 299,
+          "id": "33-093",
+          "zh": "她危险地眯起双眼，然后轻蔑地笑了。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "It was a haunting voice, and one that visited her nightly in her dreams – a voice of ice-cold venom.",
+          "page": 299,
+          "id": "33-094",
+          "zh": "那声音阴魂不散，每晚都会进入她的梦里，带着冰冷的恶意。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was used to giving orders; his tone was firm and cold and one that expected to be obeyed without question.",
+          "page": 299,
+          "id": "33-095",
+          "zh": "他习惯发号施令，语气冷而坚定，理所当然地要求别人无条件服从。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His tone was so sharp that the words seemed to slash the air.",
+          "page": 299,
+          "id": "33-096",
+          "zh": "他的语气尖刻得仿佛每个字都在割裂空气。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Movement",
+      "page": 300,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Snake, cobra, lizard, panther, peacock, cat; Shadow, ghost; Predator, prey",
+          "page": 300,
+          "id": "33-097",
+          "zh": "蛇、眼镜蛇、蜥蜴、豹子、孔雀、猫；影子、幽灵；捕食者、猎物。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Dark, quiet, silent; Still, motionless, invisible; Quick, deft, pecking, scuttling",
+          "page": 300,
+          "id": "33-098",
+          "zh": "黑暗、安静、无声；静止、一动不动、隐形；迅速、灵巧、啄食般点动、急窜。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Moved, glided, ran, strutted; Pointed, jerked, flexed; Dismissed, beckoned",
+          "page": 300,
+          "id": "33-099",
+          "zh": "移动、滑行、奔跑、趾高气扬地走；指、猛动、屈伸；打发走、招手。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a dark ghost",
+          "page": 300,
+          "id": "33-100",
+          "zh": "像黑暗中的幽灵"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a scuttling lizard",
+          "page": 300,
+          "id": "33-101",
+          "zh": "像迅速窜动的蜥蜴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a figure carved from stone",
+          "page": 300,
+          "id": "33-102",
+          "zh": "像石头雕成的人像"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Silent and motionless",
+          "page": 300,
+          "id": "33-103",
+          "zh": "无声无息，一动不动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a predator scenting its prey",
+          "page": 300,
+          "id": "33-104",
+          "zh": "像嗅到猎物的捕食者"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a panther waiting to pounce",
+          "page": 300,
+          "id": "33-105",
+          "zh": "像等待扑出的豹子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As silent as a shadow",
+          "page": 300,
+          "id": "33-106",
+          "zh": "像影子一样无声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Raised to his full height",
+          "page": 301,
+          "id": "33-107",
+          "zh": "把身体挺到最高"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Broadened shoulders",
+          "page": 301,
+          "id": "33-108",
+          "zh": "展开宽阔的肩膀"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Leaned forward menacingly",
+          "page": 301,
+          "id": "33-109",
+          "zh": "充满威胁地向前倾身"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Poised on the balls of his feet",
+          "page": 301,
+          "id": "33-110",
+          "zh": "用前脚掌支撑，蓄势待发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crouched on the edge",
+          "page": 301,
+          "id": "33-111",
+          "zh": "蹲伏在边缘"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Landed quietly like a cat",
+          "page": 301,
+          "id": "33-112",
+          "zh": "像猫一样轻轻落地"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Advanced slowly",
+          "page": 301,
+          "id": "33-113",
+          "zh": "缓慢逼近"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Strutted like a peacock",
+          "page": 301,
+          "id": "33-114",
+          "zh": "像孔雀一样趾高气扬地走"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glided like a shadow",
+          "page": 301,
+          "id": "33-115",
+          "zh": "像影子一样滑过"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moved stealthily",
+          "page": 301,
+          "id": "33-116",
+          "zh": "悄无声息地移动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glided noiselessly like a dark ghost",
+          "page": 301,
+          "id": "33-117",
+          "zh": "像黑暗幽灵般无声飘行"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ran in pecking strides",
+          "page": 301,
+          "id": "33-118",
+          "zh": "迈着啄食般急促的小步奔跑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flexed his fingers and formed them into a fist",
+          "page": 301,
+          "id": "33-119",
+          "zh": "屈伸手指，然后握成拳头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Beckoned them to come to him",
+          "page": 301,
+          "id": "33-120",
+          "zh": "招手叫他们过来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dismissed them with a wave of her hand",
+          "page": 301,
+          "id": "33-121",
+          "zh": "挥手打发他们走"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He landed quietly like a cat.",
+          "page": 301,
+          "id": "33-122",
+          "zh": "他像猫一样无声地落地。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was crouched on the edge, like a panther waiting to pounce.",
+          "page": 301,
+          "id": "33-123",
+          "zh": "他蹲伏在边缘，像一头等待扑出的豹子。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He beckoned them to him with a tense jerk of his fingers.",
+          "page": 301,
+          "id": "33-124",
+          "zh": "他紧绷着手指勾动一下，示意他们靠近。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She dismissed them with a wave of her hand.",
+          "page": 301,
+          "id": "33-125",
+          "zh": "她挥挥手，打发他们离开。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was as silent and motionless as a figure carved from stone.",
+          "page": 301,
+          "id": "33-126",
+          "zh": "他像石雕一样安静，一动不动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He stood still and poised, like a cobra about to strike.",
+          "page": 301,
+          "id": "33-127",
+          "zh": "他静立着蓄势待发，像一条马上要攻击的眼镜蛇。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty leaned forward and grimaced at him malevolently.",
+          "page": 301,
+          "id": "33-128",
+          "zh": "基蒂前倾身子，对他露出恶意的狰狞表情。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was tensed, poised on the balls of his feet, like a predator scenting its prey.",
+          "page": 301,
+          "id": "33-129",
+          "zh": "他身体绷紧，重心压在前脚掌上，像嗅到猎物的捕食者。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He flexed his fingers, formed them into a fist and advanced menacingly.",
+          "page": 301,
+          "id": "33-130",
+          "zh": "他屈伸手指，握成拳头，带着威胁逼近。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Gliding smoothly, noiselessly in the shadows, she was like a dark ghost.",
+          "page": 301,
+          "id": "33-131",
+          "zh": "她在阴影里平滑而无声地移动，像黑暗中的幽灵。"
+        }
+      ]
+    }
+  ]
+}

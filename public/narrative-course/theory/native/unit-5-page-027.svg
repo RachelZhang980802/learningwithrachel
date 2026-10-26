@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="720" height="405.01417" viewBox="0 0 720 405.01417">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 .028H719.972V405.014H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 .028H719.972V404.98503H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M-1.219 0H721.134V404.987H-1.219Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_4">
+<g transform="matrix(.45145247,0,0,.45145709,-1.219,.00015258789)">
+<image id="image_5" width="1600" height="897" xlink:href="/narrative-course/theory/native/assets/4568613a0a8a19bff547.png"/>
+</g>
+</mask>
+<clipPath id="clip_7">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 0H720V405.014H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M578.069-76.337H800.05V177.818H578.069Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_9">
+<g transform="matrix(.36293376,0,0,.36285509,578.069,227.16915)">
+<image id="image_10" width="453" height="552" xlink:href="/narrative-course/theory/native/assets/85f36cc53576b8784555.png"/>
+</g>
+</mask>
+<clipPath id="clip_12">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M578.183 23.442H715.153V175.635H578.183Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_13">
+<g transform="matrix(.28890718,0,0,.28873626,578.183,229.35117)">
+<image id="image_14" width="474" height="527" xlink:href="/narrative-course/theory/native/assets/57ffaff8ff8128c09517.png"/>
+</g>
+</mask>
+<clipPath id="clip_16">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M607.181 49.691H699.137V156.87H607.181Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M661.011-74.381H799.852V80.108H661.011Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_18">
+<g transform="matrix(.23961178,0,0,.2396869,661.011,324.87916)">
+<image id="image_19" width="340" height="428" xlink:href="/narrative-course/theory/native/assets/bfb1fd15fcf440b50f1a.png"/>
+</g>
+</mask>
+<clipPath id="clip_21">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M690.009-48.132H783.836V61.343H690.009Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M-1.729-57.402H240.775V148.281H-1.729Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_23">
+<g transform="matrix(.40683893,0,0,.40656907,-1.729,256.70616)">
+<image id="image_24" width="596" height="420" xlink:href="/narrative-course/theory/native/assets/a68f1aa8158eb6710d6a.png"/>
+</g>
+</mask>
+<mask id="mask_26">
+<g transform="matrix(.24057852,0,0,.24105037,63.071,393.95915)">
+<image id="image_27" width="503" height="139" xlink:href="/narrative-course/theory/native/assets/dcb921d0e3bbc72f82fc.png"/>
+</g>
+</mask>
+<clipPath id="clip_29">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M92.069-42.038H168.094V-7.738H92.069Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_30">
+<g transform="matrix(.24029342,0,0,.23937154,55.672,254.09717)">
+<image id="image_31" width="501" height="288" xlink:href="/narrative-course/theory/native/assets/d3b4ab07368354944e3d.png"/>
+</g>
+</mask>
+<clipPath id="clip_33">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M84.671 108.17H160.073V142.555H84.671Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M127.616 273.657H374.372V493.627H127.616Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_35">
+<g transform="matrix(.38977567,0,0,.38945825,127.616,-22.534852)">
+<image id="image_36" width="633" height="395" xlink:href="/narrative-course/theory/native/assets/0fa1304649c6b5f09c1c.png"/>
+</g>
+</mask>
+<mask id="mask_38">
+<g transform="matrix(.23964469,0,0,.2388855,162.539,-22.534846)">
+<image id="image_39" width="425" height="131" xlink:href="/narrative-course/theory/native/assets/687a6e5d47d479ee39f0.png"/>
+</g>
+</mask>
+<clipPath id="clip_41">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M191.537 422.447H248.4V481.324H191.537Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_42">
+<g transform="matrix(.24101204,0,0,.24039904,239.414,31.635178)">
+<image id="image_43" width="416" height="416" xlink:href="/narrative-course/theory/native/assets/4d179a56603b4894d0da.png"/>
+</g>
+</mask>
+<clipPath id="clip_45">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M268.413 293.811H323.689V354.587H268.413Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M1.02-9.581H705.089V406.773H1.02Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_47">
+<g transform="matrix(1.08314,0,0,1.081361,1.02,-1.7848511)">
+<image id="image_48" width="650" height="385" xlink:href="/narrative-course/theory/native/assets/4dd45fee086ebf66f381.png"/>
+</g>
+</mask>
+<clipPath id="clip_50">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M4.762 133.483H42.803V225.355H4.762Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M669.487 211.748H710.788V303.96H669.487Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M652.025 147.345H696.472V191.765H652.025Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_53">
+<g transform="matrix(.2414076,0,0,.24125543,652.025,213.22217)">
+<image id="image_54" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/a26671c183d37251d489.png"/>
+</g>
+</mask>
+<clipPath id="clip_56">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M652.961 148.734H697.408V193.154H652.961Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_57">
+<g transform="matrix(.2414076,0,0,.24125543,652.961,211.83319)">
+<image id="image_58" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/0971b4f8e629ca0ba108.png"/>
+</g>
+</mask>
+<clipPath id="clip_60">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M657.014 153.269H699.59V198.341H657.014Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_61">
+<g transform="matrix(.24038418,0,0,.23959042,657.014,206.64516)">
+<image id="image_62" width="177" height="188" xlink:href="/narrative-course/theory/native/assets/588b65e5875136344b25.png"/>
+</g>
+</mask>
+<clipPath id="clip_64">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M669.231 171.354H693.977V198.539H669.231Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M658.035 156.16H700.838V198.936H658.035Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_66">
+<g transform="matrix(.240309,0,0,.24014606,658.035,206.05117)">
+<image id="image_67" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/aa43229366c26ede094b.png"/>
+</g>
+</mask>
+<clipPath id="clip_69">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M658.97 157.663H701.716V200.41H658.97Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_70">
+<g transform="matrix(.23998876,0,0,.23998876,658.97,204.57616)">
+<image id="image_71" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/c95219fbb7935ef6987d.png"/>
+</g>
+</mask>
+<clipPath id="clip_73">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M21.912 220.082H66.359V264.53H21.912Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_74">
+<g transform="matrix(.2414076,0,0,.2414076,21.912,140.45716)">
+<image id="image_75" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/71af18ba2c27726d9af3.png"/>
+</g>
+</mask>
+<clipPath id="clip_77">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M21.175 221.612H65.594V266.06H21.175Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_78">
+<g transform="matrix(.24125543,0,0,.2414076,21.175,138.92615)">
+<image id="image_79" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/ac62c9ce7e821eadac2c.png"/>
+</g>
+</mask>
+<clipPath id="clip_81">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M20.211 226.29H61.767V271.872H20.211Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_82">
+<g transform="matrix(.24144186,0,0,.2423032,20.211,133.11518)">
+<image id="image_83" width="172" height="188" xlink:href="/narrative-course/theory/native/assets/af253a710632981a5a82.png"/>
+</g>
+</mask>
+<clipPath id="clip_85">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M32.457 244.375H56.155V272.07H32.457Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_86">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M18.737 229.578H61.54V272.382H18.737Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_87">
+<g transform="matrix(.240309,0,0,.240309,18.737,132.60517)">
+<image id="image_88" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/f103daee54a2347812cf.png"/>
+</g>
+</mask>
+<clipPath id="clip_90">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M18.028 231.165H60.803V273.912H18.028Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_91">
+<g transform="matrix(.24014606,0,0,.23998876,18.028,131.07416)">
+<image id="image_92" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/c7d986da250487a1b7b3.png"/>
+</g>
+</mask>
+<clipPath id="clip_94">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 .028H719.972V405.014H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_95">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M-115.909-90.199H233.688V314.816H-115.909Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_96">
+<g transform="matrix(.35963888,0,0,.35966785,-115.909,90.170169)">
+<image id="image_97" width="972" height="1126" xlink:href="/narrative-course/theory/native/assets/52289b22d29a91ce5d88.png"/>
+</g>
+</mask>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 405.014H719.972V.028H0V405.014Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 405.014H720V0H0V405.014Z" fill="#d9b289" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_2)">
+<g opacity=".6">
+<g clip-path="url(#clip_3)">
+<g mask="url(#mask_4)">
+<g transform="matrix(.45145247,0,0,.45145709,-1.219,.00015258789)">
+<image id="image_6" width="1600" height="897" xlink:href="/narrative-course/theory/native/assets/6ef76dda1e1663178fe7.jpg"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_7)">
+<g opacity=".2">
+<g clip-path="url(#clip_8)">
+<g mask="url(#mask_9)">
+<g transform="matrix(.36293376,0,0,.36285509,578.069,227.16915)">
+<image id="image_11" width="453" height="552" xlink:href="/narrative-course/theory/native/assets/2147c20612a77131b0fa.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M690.973-47.339C689.953-48.161 688.847-48.955 687.713-49.72 687.005-50.23 686.58-50.173 686.013-49.436 683.291-45.893 680.485-42.406 677.735-38.92 671.272-30.813 664.809-22.762 658.176-14.825 653.613-9.44 649.134-3.94 644.627 1.531 640.091 7.001 635.528 12.501 631.02 18 628.923 20.579 626.91 23.187 624.869 25.71 619.654 32.286 614.296 38.693 609.279 45.354 607.011 48.416 606.359 51.874 607.918 55.559 608.343 56.636 608.683 57.685 609.165 58.734 612.879 67.521 617.924 75.6 623.565 83.31 635.102 99.099 648.68 113.074 662.91 126.368 668.75 131.811 674.702 137.083 680.797 142.242 686.636 147.09 692.561 151.937 698.57 156.586 699.506 157.294 700.413 158.003 701.32 158.712 701.943 159.194 702.255 159.165 702.737 158.542 708.661 150.746 714.756 143.093 720.964 135.524 727.172 128.041 733.408 120.614 739.701 113.244 744.86 107.263 749.934 101.253 755.065 95.244 757.644 92.183 760.195 89.149 762.746 86.031 767.537 80.164 772.299 74.239 777.061 68.315 779.131 65.735 781.087 63.042 783.213 60.463 784.12 59.386 784.148 58.394 783.751 57.231 783.043 55.077 782.249 53.008 781.342 50.967 777.487 42.321 772.441 34.327 766.857 26.702 757.531 14.003 746.816 2.438 735.591-8.617 728.674-15.421 721.446-21.94 714.161-28.318 708.151-33.534 702.085-38.636 695.509-43.739 695.282-43.909 695.027-44.107 694.772-44.306 693.638-45.269 692.306-46.318 690.973-47.339Z" fill="#f7bad3" fill-rule="evenodd"/>
+<g opacity=".2">
+<g clip-path="url(#clip_12)">
+<g mask="url(#mask_13)">
+<g transform="matrix(.28890718,0,0,.28873626,578.183,229.35117)">
+<image id="image_15" width="474" height="527" xlink:href="/narrative-course/theory/native/assets/a9e8a80e75f51cf733f1.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<g opacity=".1">
+<g clip-path="url(#clip_16)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M623.48 49.72C613.389 56.834 609.449 56.097 607.975 54.992 607.408 54.538 607.209 54.057 607.181 53.943 619.682 93.43 678.784 141.222 694.97 153.751 697.578 155.764 699.109 156.869 699.109 156.869 637.257 99.893 623.48 49.72 623.48 49.72Z" fill="#434343" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_17)">
+<g mask="url(#mask_18)">
+<g transform="matrix(.23961178,0,0,.2396869,661.011,324.87916)">
+<image id="image_20" width="340" height="428" xlink:href="/narrative-course/theory/native/assets/beed72c38084f6f98f86.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<g opacity=".1">
+<g clip-path="url(#clip_21)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M694.176-44.901C691.512-46.97 690.009-48.104 690.009-48.104 753.109 10.006 767.112 61.342 767.112 61.342 777.458 54.028 781.483 54.765 782.986 55.927 783.553 56.353 783.751 56.834 783.808 56.976 770.995 16.639 710.759-32.088 694.176-44.901Z" fill="#434343" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_22)">
+<g mask="url(#mask_23)">
+<g transform="matrix(.40683893,0,0,.40656907,-1.729,256.70616)">
+<image id="image_25" width="596" height="420" xlink:href="/narrative-course/theory/native/assets/66597c8af6119756eba5.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M220.535 86.627C221.698 86.003 222.86 85.323 224.022 84.614 224.787 84.132 224.901 83.735 224.476 82.913 222.321 79.001 220.28 75.033 218.211 71.093 213.392 61.908 208.63 52.753 204.066 43.455 200.976 37.105 197.773 30.812 194.598 24.463 191.395 18.113 188.22 11.707 185.017 5.357 183.515 2.381 181.956-.51 180.454-3.402 176.57-10.829 172.885-18.312 168.803-25.597 166.904-28.914 164.041-30.898 160.044-30.955 158.882-31.011 157.748-31.125 156.643-31.125 147.061-31.266 137.65-29.934 128.324-27.893 109.191-23.698 90.935-16.951 73.02-9.326 65.679-6.18 58.45-2.863 51.279 .623 44.447 3.997 37.672 7.455 30.954 11.083 29.934 11.622 28.942 12.16 27.921 12.727 27.213 13.096 27.099 13.379 27.496 14.088 32.23 22.677 36.765 31.351 41.159 40.082 45.496 48.784 49.748 57.458 53.972 66.217 57.345 73.332 60.803 80.447 64.205 87.562 65.962 91.162 67.72 94.705 69.534 98.305 72.964 105.052 76.45 111.798 79.937 118.545 81.468 121.493 83.14 124.356 84.643 127.36 85.266 128.636 86.145 129.061 87.392 129.175 89.631 129.373 91.843 129.486 94.082 129.515 103.521 129.486 112.904 128.097 122.117 126.057 137.537 122.655 152.419 117.553 167.074 111.742 176.088 108.17 184.961 104.201 193.748 100.12 200.948 96.746 208.091 93.26 215.405 89.32 215.66 89.149 215.943 89.008 216.227 88.866 217.559 88.186 219.033 87.42 220.535 86.627Z" fill="#8ed3db" fill-rule="evenodd"/>
+<g mask="url(#mask_26)">
+<g transform="matrix(.24057852,0,0,.24105037,63.071,393.95915)">
+<image id="image_28" width="503" height="139" xlink:href="/narrative-course/theory/native/assets/43835b7f66b0b2369bc5.jpg"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_29)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M92.069-17.405C92.098-17.405 158.825-42.01 168.066-26.816 168.066-26.816 165.231-26.901 162.227-24.973 158.825-22.819 155.197-18.085 154.998-7.739 154.998-7.739 105.42-20.041 92.069-17.405Z" fill="#434343" fill-rule="evenodd"/>
+</g>
+</g>
+<g mask="url(#mask_30)">
+<g transform="matrix(.24029342,0,0,.23937154,55.672,254.09717)">
+<image id="image_32" width="501" height="288" xlink:href="/narrative-course/theory/native/assets/7de1f938851eb968764d.jpg"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_33)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M160.044 114.69C160.016 114.69 94.62 142.554 84.671 127.786 84.671 127.786 87.506 127.786 90.454 125.688 93.713 123.364 97.087 118.488 96.746 108.198 96.746 108.198 146.891 117.949 160.044 114.69Z" fill="#434343" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_34)">
+<g mask="url(#mask_35)">
+<g transform="matrix(.38977567,0,0,.38945825,127.616,-22.534852)">
+<image id="image_37" width="633" height="395" xlink:href="/narrative-course/theory/native/assets/1316a1e8eb043b8484f9.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M356.485 412.668C357.08 413.83 357.647 415.077 358.157 416.324 358.498 417.146 358.384 417.543 357.534 417.94 353.509 419.896 349.54 421.908 345.543 423.921 336.302 428.598 327.09 433.247 317.934 438.151 311.726 441.524 305.461 444.784 299.225 448.072 292.904 451.417 286.583 454.762 280.261 458.05 277.342 459.581 274.365 461.027 271.474 462.501 263.991 466.271 256.62 470.211 249.08 473.754 245.622 475.342 242.107 475.313 238.819 473.017 237.883 472.394 236.891 471.827 235.956 471.175 228.104 465.732 221.216 459.156 214.809 452.069 201.713 437.499 190.8 421.398 180.652 404.759 176.513 397.899 172.573 391.011 168.775 383.953 165.175 377.263 161.66 370.488 158.315 363.628 157.833 362.579 157.323 361.559 156.813 360.538 156.472 359.801 156.557 359.518 157.266 359.178 166.11 354.954 174.841 350.532 183.515 345.997 192.104 341.461 200.636 336.869 209.169 332.22 216.028 328.394 222.973 324.623 229.89 320.825 233.433 318.897 236.948 317.027 240.491 315.184 247.209 311.669 253.984 308.211 260.731 304.781 263.707 303.25 266.74 301.918 269.688 300.359 270.935 299.679 271.899 299.849 272.976 300.472 274.932 301.606 276.803 302.825 278.589 304.101 286.328 309.657 293.102 316.205 299.424 323.234 309.969 334.998 319.096 347.811 327.628 361.077 332.901 369.212 337.805 377.603 342.567 386.079 346.45 393.023 350.249 399.997 353.877 407.452 353.991 407.735 354.132 407.99 354.274 408.274 354.983 409.634 355.748 411.108 356.485 412.668Z" fill="#ffce80" fill-rule="evenodd"/>
+<g mask="url(#mask_38)">
+<g transform="matrix(.23964469,0,0,.2388855,162.539,-22.534846)">
+<image id="image_40" width="425" height="131" xlink:href="/narrative-course/theory/native/assets/7ace588becb9c7e27f42.jpg"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_41)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M191.537 422.475C191.565 422.504 231.506 481.323 247.89 474.349 247.89 474.349 245.48 472.762 244.148 469.445 242.674 465.732 242.476 459.751 248.372 451.247 248.372 451.247 200.863 432.397 191.537 422.475Z" fill="#434343" fill-rule="evenodd"/>
+</g>
+</g>
+<g mask="url(#mask_42)">
+<g transform="matrix(.24101204,0,0,.24039904,239.414,31.635178)">
+<image id="image_44" width="416" height="416" xlink:href="/narrative-course/theory/native/assets/ce48897ec932f7589966.jpg"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_45)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M323.66 354.586C323.66 354.586 286.696 293.839 270 300.019 270 300.019 272.324 301.691 273.515 305.121 274.819 308.891 274.677 314.816 268.413 323.008 268.413 323.008 314.901 344.268 323.66 354.586Z" fill="#434343" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".2">
+<g clip-path="url(#clip_46)">
+<g mask="url(#mask_47)">
+<g transform="matrix(1.08314,0,0,1.081361,1.02,-1.7848511)">
+<image id="image_49" width="650" height="385" xlink:href="/narrative-course/theory/native/assets/1af4a5cf13b07e2cba6c.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M356.4 22.337 30.019 27.978 36.227 388.006 689.046 376.724 682.809 16.696 356.4 22.337Z" fill="#f6f29b" fill-rule="evenodd"/>
+<g opacity=".6">
+<g clip-path="url(#clip_50)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M30.869 225.354 29.48 222.803 27.383 224.986 26.107 222.406 24.18 224.475 22.791 221.953 20.863 224.05 19.899 221.527 17.688 223.568 15.846 220.96 14.031 223.058 12.756 220.479 10.46 222.605 9.184 220.025 7.257 222.151 6.378 219.685 4.762 221.811 16.951 133.512 18.652 136.12 20.806 134.022 22.082 136.601 24.321 134.532 26.476 137.197 29.14 135.156 31.124 137.849 33.08 135.723 34.328 138.302 35.943 136.176 37.077 138.614 39.175 136.516 40.422 139.068 41.896 136.942 42.775 139.464 30.869 225.354Z" fill="#ffffff" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".6">
+<g clip-path="url(#clip_51)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M710.759 299.367 708.633 297.354 707.329 299.99 705.317 297.978 704.154 300.557 701.972 298.601 700.781 301.096 699.109 299.027 697.663 301.691 695.027 299.735 694.035 302.315 692.022 300.302 690.378 302.995 688.45 300.926 687.203 303.477 685.701 301.351 684.822 303.959 669.487 216.028 671.924 218.012 673.398 215.376 675.383 217.389 676.828 214.781 679.776 216.652 681.619 213.931 684.369 215.886 685.531 213.25 687.487 215.348 688.45 212.797 690.265 214.866 691.569 212.23 693.581 214.271 694.346 211.776 695.906 213.845 710.759 299.367Z" fill="#ffffff" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".13">
+<g clip-path="url(#clip_52)">
+<g mask="url(#mask_53)">
+<g transform="matrix(.2414076,0,0,.24125543,652.025,213.22217)">
+<image id="image_55" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/2721fea84e9ad91ffffa.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M684.085 188.901C693.156 183.118 690.633 169.285 680.173 166.96 676.772 166.195 673.625 166.932 671.102 168.52 665.915 171.864 663.477 179.093 667.389 185.244 670.989 190.857 678.472 192.501 684.085 188.901Z" fill="#a61c00" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_56)">
+<g mask="url(#mask_57)">
+<g transform="matrix(.2414076,0,0,.24125543,652.961,211.83319)">
+<image id="image_59" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/7d7a4676fd5d6f12702f.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M685.02 190.29C694.091 184.507 691.569 170.674 681.109 168.349 677.707 167.612 674.589 168.293 672.094 169.88 666.85 173.253 664.441 180.538 668.324 186.633 671.924 192.245 679.408 193.89 685.02 190.29Z" fill="#cc4125" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_60)">
+<g mask="url(#mask_61)">
+<g transform="matrix(.24038418,0,0,.23959042,657.014,206.64516)">
+<image id="image_63" width="177" height="188" xlink:href="/narrative-course/theory/native/assets/2aab0a9e221067470250.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<g opacity=".1">
+<g clip-path="url(#clip_64)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M688.819 195.732C692.787 193.181 693.95 187.908 691.427 183.94L686.608 176.457C684.113 172.516 678.841 171.383 674.872 173.934L674.419 174.217C670.45 176.74 669.231 181.984 671.754 185.924L676.545 193.436C679.096 197.405 684.397 198.538 688.365 196.016L688.819 195.732Z" fill="#252323" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".13">
+<g clip-path="url(#clip_65)">
+<g mask="url(#mask_66)">
+<g transform="matrix(.240309,0,0,.24014606,658.035,206.05117)">
+<image id="image_68" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/fe8967a51c7479f1d915.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M688.791 196.214C697.238 190.8 694.942 177.959 685.162 175.748 682.016 175.068 679.096 175.72 676.743 177.194 671.868 180.312 669.6 187.086 673.257 192.812 676.602 198.028 683.575 199.531 688.791 196.214Z" fill="#a61c00" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_69)">
+<g mask="url(#mask_70)">
+<g transform="matrix(.23998876,0,0,.23998876,658.97,204.57616)">
+<image id="image_72" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/c1cfa231d4bd3d00c51a.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M689.726 197.66C694.913 194.343 696.444 187.37 693.128 182.126 689.783 176.938 682.809 175.379 677.622 178.724 672.378 182.069 670.819 189.042 674.135 194.258 677.48 199.474 684.482 201.005 689.726 197.66Z" fill="#cc4125" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_73)">
+<g mask="url(#mask_74)">
+<g transform="matrix(.2414076,0,0,.2414076,21.912,140.45716)">
+<image id="image_76" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/80aa0f365ceb28ffc6f9.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M42.35 262.46C32.57 257.924 33.194 243.893 43.228 240.151 46.517 238.96 49.72 239.244 52.413 240.491 58.025 243.099 61.427 249.931 58.365 256.535 55.587 262.601 48.387 265.238 42.35 262.46Z" fill="#a61c00" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_77)">
+<g mask="url(#mask_78)">
+<g transform="matrix(.24125543,0,0,.2414076,21.175,138.92615)">
+<image id="image_80" width="184" height="184" xlink:href="/narrative-course/theory/native/assets/3ba63c20c2483524a145.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M41.613 263.99C31.833 259.455 32.457 245.423 42.491 241.682 45.751 240.52 48.954 240.775 51.619 241.994 57.288 244.63 60.661 251.518 57.628 258.066 54.85 264.132 47.65 266.768 41.613 263.99Z" fill="#cc4125" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_81)">
+<g mask="url(#mask_82)">
+<g transform="matrix(.24144186,0,0,.2423032,20.211,133.11518)">
+<image id="image_84" width="172" height="188" xlink:href="/narrative-course/theory/native/assets/8e34ece9498f302b435c.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<g opacity=".1">
+<g clip-path="url(#clip_85)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M38.608 269.886C34.328 267.902 32.457 262.828 34.441 258.548L38.154 250.469C40.11 246.217 45.184 244.403 49.436 246.387L49.946 246.614C54.198 248.57 56.126 253.616 54.17 257.868L50.428 265.946C48.472 270.227 43.37 272.069 39.09 270.113L38.608 269.886Z" fill="#252323" fill-rule="evenodd"/>
+</g>
+</g>
+<g opacity=".13">
+<g clip-path="url(#clip_86)">
+<g mask="url(#mask_87)">
+<g transform="matrix(.240309,0,0,.240309,18.737,132.60517)">
+<image id="image_89" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/a0e06e744798d411f76b.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M38.721 270.368C29.594 266.173 30.161 253.134 39.515 249.619 42.576 248.485 45.553 248.74 48.076 249.902 53.32 252.312 56.494 258.718 53.631 264.897 51.052 270.51 44.306 272.948 38.721 270.368Z" fill="#a61c00" fill-rule="evenodd"/>
+<g opacity=".13">
+<g clip-path="url(#clip_90)">
+<g mask="url(#mask_91)">
+<g transform="matrix(.24014606,0,0,.23998876,18.028,131.07416)">
+<image id="image_93" width="178" height="178" xlink:href="/narrative-course/theory/native/assets/bda63dafb1b2ffec28e5.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M37.984 271.899C32.372 269.32 29.906 262.601 32.513 256.989 35.093 251.376 41.783 248.91 47.395 251.49 53.036 254.097 55.531 260.787 52.923 266.4 50.343 272.041 43.625 274.507 37.984 271.899Z" fill="#cc4125" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_94)">
+<g opacity=".6">
+<g clip-path="url(#clip_95)">
+<g mask="url(#mask_96)">
+<g transform="matrix(.35963888,0,0,.35966785,-115.909,90.170169)">
+<image id="image_98" width="972" height="1126" xlink:href="/narrative-course/theory/native/assets/4ec803ebc2ea0b3b3a97.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M74.891 300.614H221.18701V335.45204H74.891Z" fill="#00ffff" fill-rule="evenodd"/>
+</g>
+</g>
+</svg>

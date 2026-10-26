@@ -1,0 +1,37 @@
+@font-face { font-family: 'U3 Balmy'; src: url('/narrative-course/theory/unit-3/html/assets/balmy.otf') format('opentype'); font-display: swap; }
+.narrative-course .u3-native-scroll { width: 100%; max-width: 100%; overflow-x: auto; margin: 20px auto; background: #fff8e5; box-shadow: 0 8px 25px #44281614; }
+.narrative-course .u3-native-slide { position: relative; width: 100%; aspect-ratio: 16 / 9; container-type: inline-size; overflow: hidden; color: #442816; text-align: left; isolation: isolate; }
+.narrative-course .u3-native-slide .u3-object { position: absolute; margin: 0; padding: 0; border: 0; }
+.narrative-course .u3-native-slide .u3-transform { position: absolute; inset: 0; pointer-events: none; }
+.narrative-course .u3-native-slide .u3-object-text { pointer-events: auto; }
+.narrative-course .u3-native-slide .u3-art,
+.narrative-course .u3-native-slide .u3-fill { position: absolute; inset: 0; display: block; overflow: hidden; pointer-events: none; box-sizing: border-box; }
+.narrative-course .u3-native-slide .u3-art img { position: absolute; display: block; max-width: none; margin: 0; border: 0; border-radius: 0; object-fit: fill; background: transparent; }
+.narrative-course .u3-native-slide svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; }
+.narrative-course .u3-native-slide .u3-text { position: absolute; inset: 0; display: flex; flex-direction: column; box-sizing: border-box; white-space: pre-wrap; overflow-wrap: normal; }
+.narrative-course .u3-native-slide .u3-text p { flex: 0 0 auto; display: block; width: auto; max-width: none; margin: 0; padding: 0; border: 0; letter-spacing: normal; text-transform: none; font-family: 'Times New Roman','Songti SC',serif; }
+.narrative-course .u3-native-slide .u3-text span { display: inline; margin: 0; padding: 0; letter-spacing: normal; }
+.narrative-course .u3-native-scroll:focus-visible { outline: 2px solid #ad4934; outline-offset: 4px; }
+@media (max-width:760px) {
+  .narrative-course .u3-native-slide { min-width: 780px; }
+  .narrative-course .u3-native-scroll { scrollbar-width: auto; }
+}
+
+/* Translations stay in the same paragraph; the layout grows around open passages. */
+.narrative-course .u3-native-slide .u3-quote-object { height: auto !important; }
+.narrative-course .u3-native-slide .u3-quote-text { position: relative; inset: auto; }
+.narrative-course .u3-native-slide .u3-quote { display: block; margin: 0; padding: 0; border: 0; background: transparent; }
+.narrative-course .u3-native-slide .u3-quote summary { display: block; padding: 0; border: 0; list-style: none; cursor: pointer; font-family: 'Times New Roman','Songti SC',serif; }
+.narrative-course .u3-native-slide .u3-quote summary::-webkit-details-marker { display: none; }
+.narrative-course .u3-native-slide .u3-quote summary:focus-visible { outline: 2px solid #a64e38; outline-offset: 3px; }
+.narrative-course .u3-native-slide .u3-quote summary:hover { background: #b9782610; }
+.narrative-course .u3-native-slide .u3-quote .u3-inline-zh { display: none; margin-left: .35em; color: #9a4e5e; font-family: 'Songti SC',SimSun,serif; font-size: .94em; font-weight: 400; }
+.narrative-course .u3-native-slide .u3-quote[open] .u3-inline-zh { display: inline; }
+
+/* Selected passages keep the source English column and reveal translation on the right. */
+.narrative-course .u3-native-slide .u3-quote-columns summary { display: grid; grid-template-columns: var(--u3-english-width) minmax(0, 1fr); column-gap: 3cqw; align-items: start; }
+.narrative-course .u3-native-slide .u3-quote-columns .u3-english { display: block; }
+.narrative-course .u3-native-slide .u3-quote-columns .u3-quote[open] .u3-inline-zh { display: block; margin-left: 0; text-align: left; }
+
+/* Give the long page 18 English passage more breathing room at narrow widths. */
+.narrative-course .u3-native-slide[data-native-page="18"] .u3-english > span { font-size: 2.45cqw !important; }

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1440" height="810" viewBox="0 0 1440 810">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,810)" d="M-13.55 1.672H1426.45V811.672H-13.55Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,0,810)" d="M-110.756 819.531 920.236 773.075 884.501-19.991-146.491 26.465-110.756 819.531Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_5">
+<g transform="matrix(1.0720664,0,0,.84285137,-146.466,-9.523987)">
+<image id="image_6" width="995" height="996" xlink:href="/narrative-course/theory/native/assets/916137a8f54bad5fa276.png"/>
+</g>
+</mask>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(1,0,0,-1,0,810)" d="M816.053 736.689 1440.006 708.574 1411.865 84.054 787.912 112.17 816.053 736.689Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_10">
+<g transform="matrix(.65535876,0,0,.6552128,787.918,73.304019)">
+<image id="image_11" width="995" height="996" xlink:href="/narrative-course/theory/native/assets/916137a8f54bad5fa276.png"/>
+</g>
+</mask>
+<clipPath id="clip_13">
+<path transform="matrix(1,0,0,-1,0,810)" d="M1204.953 466.633 1216.942 531.006 1426.448 491.988 1414.459 427.614 1204.953 466.633Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_15">
+<g transform="matrix(.71364226,0,0,.8686893,0,256.84703)">
+<image id="image_16" width="1104" height="502" xlink:href="/narrative-course/theory/native/assets/1cbcd293c385bdee320f.png"/>
+</g>
+</mask>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1439.972V.028H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V0H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_2)">
+<g transform="matrix(.4944959,0,0,.49418668,-13.521,-1.7009888)">
+<image id="image_3" width="2912" height="1639" xlink:href="/narrative-course/theory/native/assets/7b00486f53f2f6485346.jpg"/>
+</g>
+</g>
+<g clip-path="url(#clip_4)">
+<g mask="url(#mask_5)">
+<g transform="matrix(1.0720664,0,0,.84285137,-146.466,-9.523987)">
+<image id="image_7" width="995" height="996" xlink:href="/narrative-course/theory/native/assets/469d87cfd6769d903a02.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_8)">
+</g>
+<g clip-path="url(#clip_9)">
+<g mask="url(#mask_10)">
+<g transform="matrix(.65535876,0,0,.6552128,787.918,73.304019)">
+<image id="image_12" width="995" height="996" xlink:href="/narrative-course/theory/native/assets/25c237894c8f77fc35b6.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_13)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M1420.583 430.044C1383.704 455.896 1346.797 481.748 1309.833 507.6 1304.589 511.285 1299.373 514.942 1294.016 518.598 1289.565 521.66 1285.88 524.806 1280.098 527.839 1285.058 527.528 1289.906 527.187 1294.583 526.791 1310.655 525.43 1324.658 523.616 1335.713 521.461 1341.043 520.441 1352.75 521.32 1347.846 522.482 1336.734 524.948 1321.795 527.017 1304.22 528.491 1295.093 529.257 1285.37 529.852 1275.222 530.277 1274.655 530.277 1274.088 530.306 1273.493 530.306 1272.246 530.306 1271.027 530.249 1269.95 530.164 1268.872 530.079 1267.994 529.937 1267.37 529.795 1267.087 529.71 1266.86 529.654 1266.718 529.569 1248.86 522.624 1229.329 515.735 1210.649 508.819 1209.005 508.224 1216.176 507.77 1217.991 508.394 1235.82 514.318 1253.169 520.299 1271.424 526.195 1273.89 524.041 1277.235 521.915 1280.126 519.789 1284.548 516.586 1288.998 513.354 1293.506 510.151L1320.803 490.592C1339.002 477.553 1357.228 464.542 1375.54 451.502 1385.858 444.161 1396.148 436.819 1406.438 429.477 1408.309 428.117 1422.51 428.683 1420.583 430.044Z" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_14)">
+<g mask="url(#mask_15)">
+<g transform="matrix(.71364226,0,0,.8686893,0,256.84703)">
+<image id="image_17" width="1104" height="502" xlink:href="/narrative-course/theory/native/assets/dc98f5d0601e28533abd.png"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

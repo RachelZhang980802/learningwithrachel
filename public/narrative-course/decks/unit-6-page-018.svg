@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1440" height="810" viewBox="0 0 1440 810">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .2400181H1440V810H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,810)" d="M-43.7472 875.2941H1499.443V-152.8631H-43.7472Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .00001810491H1440V810H0Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(1,0,0,-1,0,810)" d="M153.8994 500.0195H720V81.00002H153.8994Z"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,0,810)" d="M153.6 80.88002H720V500.40003H153.6Z"/>
+</clipPath>
+<mask id="mask_7">
+<g transform="matrix(.4040689,0,0,.40406887,153.8994,309.9806)">
+<image id="image_8" width="1401" height="1037" xlink:href="/narrative-course/decks/assets/9f68dd6a7e8118223fed.png"/>
+</g>
+</mask>
+<clipPath id="clip_10">
+<path transform="matrix(1,0,0,-1,0,810)" d="M225.6758 510.5195H283.6348V452.6591H225.6758Z"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(1,0,0,-1,0,810)" d="M225.36 452.64H283.68V510.96003H225.36Z"/>
+</clipPath>
+<mask id="mask_12">
+<g transform="matrix(.2455889,0,0,.24621442,225.6758,299.48054)">
+<image id="image_13" width="236" height="235" xlink:href="/narrative-course/decks/assets/d862e861794f51d7f6a6.png"/>
+</g>
+</mask>
+<clipPath id="clip_15">
+<path transform="matrix(1,0,0,-1,0,810)" d="M735.2778 494.7695H1301.378V75.75002H735.2778Z"/>
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(1,0,0,-1,0,810)" d="M734.88 75.60002H1301.52V495.12H734.88Z"/>
+</clipPath>
+<mask id="mask_17">
+<g transform="matrix(.4040689,0,0,.40406887,735.2778,315.2306)">
+<use xlink:href="#image_8" x="0" y="0" width="1401" height="1037"/>
+</g>
+</mask>
+<clipPath id="clip_18">
+<path transform="matrix(1,0,0,-1,0,810)" d="M807.0542 505.2695H865.0132V447.4091H807.0542Z"/>
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(1,0,0,-1,0,810)" d="M806.88 447.36H865.44V505.68H806.88Z"/>
+</clipPath>
+<mask id="mask_20">
+<g transform="matrix(.2455889,0,0,.24621442,807.0542,304.73054)">
+<use xlink:href="#image_13" x="0" y="0" width="236" height="235"/>
+</g>
+</mask>
+<mask id="mask_21">
+<g transform="matrix(.24,0,0,.24000001,283.44,346.08)">
+<image id="image_22" width="1543" height="534" xlink:href="/narrative-course/decks/assets/e654b692e660a543f14a.png"/>
+</g>
+</mask>
+<mask id="mask_24">
+<g transform="matrix(.24,0,0,.24000001,866.4,346.08)">
+<image id="image_25" width="1543" height="534" xlink:href="/narrative-course/decks/assets/0ea3ce2db2c8766a01d0.png"/>
+</g>
+</mask>
+<mask id="mask_27">
+<g transform="matrix(.24,0,0,.24,96.24,56.64003)">
+<image id="image_28" width="555" height="711" xlink:href="/narrative-course/decks/assets/d6aa829d504647d0a0ba.png"/>
+</g>
+</mask>
+<mask id="mask_30">
+<g transform="matrix(.24000001,0,0,.24000001,1264.56,113.280017)">
+<image id="image_31" width="395" height="676" xlink:href="/narrative-course/decks/assets/57372a645f0df5647bb1.png"/>
+</g>
+</mask>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V.2400181H0Z" fill="#ffffff"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V.0000211224H0Z" fill="#ffffff"/>
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g transform="matrix(.4946122,0,0,.49430625,-43.7472,-65.293888)">
+<image id="image_4" width="3120" height="2080" xlink:href="/narrative-course/decks/assets/885d0c7b2cd5cf9b12e1.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_5)">
+<g clip-path="url(#clip_6)">
+<g mask="url(#mask_7)">
+<g transform="matrix(.4040689,0,0,.40406887,153.8994,309.9806)">
+<image id="image_9" width="1401" height="1037" xlink:href="/narrative-course/decks/assets/7b95c195d7b5bfe8e0f5.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_10)">
+<g clip-path="url(#clip_11)">
+<g mask="url(#mask_12)">
+<g transform="matrix(.2455889,0,0,.24621442,225.6758,299.48054)">
+<image id="image_14" width="236" height="235" xlink:href="/narrative-course/decks/assets/be25c1511f6cfafbd796.jpg"/>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_15)">
+<g clip-path="url(#clip_16)">
+<g mask="url(#mask_17)">
+<g transform="matrix(.4040689,0,0,.40406887,735.2778,315.2306)">
+<use xlink:href="#image_9" x="0" y="0" width="1401" height="1037"/>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_18)">
+<g clip-path="url(#clip_19)">
+<g mask="url(#mask_20)">
+<g transform="matrix(.2455889,0,0,.24621442,807.0542,304.73054)">
+<use xlink:href="#image_14" x="0" y="0" width="236" height="235"/>
+</g>
+</g>
+</g>
+</g>
+<g mask="url(#mask_21)">
+<g transform="matrix(.24,0,0,.24000001,283.44,346.08)">
+<image id="image_23" width="1543" height="534" xlink:href="/narrative-course/decks/assets/2c7fe0a1c1281b2ce7ee.png"/>
+</g>
+</g>
+<g mask="url(#mask_24)">
+<g transform="matrix(.24,0,0,.24000001,866.4,346.08)">
+<image id="image_26" width="1543" height="534" xlink:href="/narrative-course/decks/assets/2c7fe0a1c1281b2ce7ee.png"/>
+</g>
+</g>
+<g mask="url(#mask_27)">
+<g transform="matrix(.24,0,0,.24,96.24,56.64003)">
+<image id="image_29" width="555" height="711" xlink:href="/narrative-course/decks/assets/da0faaa87b96b32297fb.png"/>
+</g>
+</g>
+<g mask="url(#mask_30)">
+<g transform="matrix(.24000001,0,0,.24000001,1264.56,113.280017)">
+<image id="image_32" width="395" height="676" xlink:href="/narrative-course/decks/assets/8fdbfaedeeb5b8f93b18.jpg"/>
+</g>
+</g>
+</g>
+</svg>

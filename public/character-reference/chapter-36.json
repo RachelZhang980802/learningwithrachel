@@ -1,0 +1,1184 @@
+{
+  "id": 36,
+  "title": "Sad, miserable",
+  "zh": "悲伤、痛苦",
+  "group": "Emotions and personality",
+  "startPage": 332,
+  "endPage": 343,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 333,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Sadness, misery, grief, despair, loneliness, regret; Heart, throat, lump, sobs",
+          "page": 333,
+          "id": "36-001",
+          "zh": "悲伤、痛苦、哀恸、绝望、孤独、悔恨；心、喉咙、硬结、抽泣。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Cold, hollow; Painful, horrible",
+          "page": 333,
+          "id": "36-002",
+          "zh": "冰冷、空洞；痛苦、可怕。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Filled, welled, choked, broke",
+          "page": 333,
+          "id": "36-003",
+          "zh": "充满、涌起、哽住、崩溃爆发。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Silent, shuddering sobs",
+          "page": 333,
+          "id": "36-004",
+          "zh": "无声而颤抖的抽泣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Heart was swollen and bruised",
+          "page": 333,
+          "id": "36-005",
+          "zh": "心仿佛肿痛、伤痕累累"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Felt hollow and cold",
+          "page": 333,
+          "id": "36-006",
+          "zh": "感到空洞而冰冷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Huge lump in the back of his throat",
+          "page": 333,
+          "id": "36-007",
+          "zh": "喉咙深处堵着一大块硬结"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Horrible sense of loneliness like a dark fog",
+          "page": 333,
+          "id": "36-008",
+          "zh": "可怕的孤独感像浓黑的雾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sadness erupted inside him",
+          "page": 333,
+          "id": "36-009",
+          "zh": "悲伤在体内爆发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Enveloped her like a dark cloud",
+          "page": 333,
+          "id": "36-010",
+          "zh": "像乌云一样笼罩她"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spread through his chest like a dull ache",
+          "page": 333,
+          "id": "36-011",
+          "zh": "像隐痛一样在胸中蔓延"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wild grief was building inside her",
+          "page": 333,
+          "id": "36-012",
+          "zh": "强烈的悲痛在她体内不断积聚"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Despair washed over him",
+          "page": 333,
+          "id": "36-013",
+          "zh": "绝望席卷而来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Insides curled up and shrivelled",
+          "page": 334,
+          "id": "36-014",
+          "zh": "五脏六腑仿佛蜷缩干瘪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hopelessness washed over him",
+          "page": 334,
+          "id": "36-015",
+          "zh": "无望感淹没了他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Coldness settled inside him",
+          "page": 334,
+          "id": "36-016",
+          "zh": "寒意在体内沉淀下来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gripping pain in his heart",
+          "page": 334,
+          "id": "36-017",
+          "zh": "揪心的疼痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sob welled up in her throat",
+          "page": 334,
+          "id": "36-018",
+          "zh": "抽泣涌到喉咙口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Weight of his grief was crushing his windpipe",
+          "page": 334,
+          "id": "36-019",
+          "zh": "悲痛的重量压住了气管"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "His despair tightened around his chest in a vice-like grip",
+          "page": 334,
+          "id": "36-020",
+          "zh": "绝望像虎钳般夹紧胸口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "All thought and reason had shut down",
+          "page": 334,
+          "id": "36-021",
+          "zh": "思考与理智全部停止运转"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The pain of his loss spread through his chest like a dull ache.",
+          "page": 334,
+          "id": "36-022",
+          "zh": "失去所爱的痛苦像隐痛般在他胸中蔓延。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A horrible sense of loneliness bled through her.",
+          "page": 334,
+          "id": "36-023",
+          "zh": "一种可怕的孤独感渗遍她全身。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The gripping pain in her heart was reflected in her haunted expression.",
+          "page": 334,
+          "id": "36-024",
+          "zh": "她备受折磨的神情映出心里揪紧的疼痛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Sadness filled his chest and erupted in a wail of misery.",
+          "page": 334,
+          "id": "36-025",
+          "zh": "悲伤充满他的胸口，化作痛苦的哀号爆发出来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He buried his head in his hands and tried to block out the sadness erupting inside him.",
+          "page": 334,
+          "id": "36-026",
+          "zh": "他把头埋在双手里，想挡住体内爆发的悲伤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She felt a rush of anguish surge into her chest and throat, and flood her eyes with tears.",
+          "page": 334,
+          "id": "36-027",
+          "zh": "她感到一阵悲痛涌入胸口与喉咙，泪水充满双眼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She felt a wild grief building inside her – taking her over – until she could only break down in an agony of weeping.",
+          "page": 334,
+          "id": "36-028",
+          "zh": "强烈的悲痛在她体内积聚、占据她，直到她只能崩溃痛哭。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 335,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Sadness, misery, grief, pain, despair; Face, mouth, jaw, chin, lips, teeth; Tears, sobs",
+          "page": 335,
+          "id": "36-029",
+          "zh": "悲伤、痛苦、哀恸、疼痛、绝望；脸、嘴、下颌、下巴、嘴唇、牙齿；泪水、抽泣。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Sad, unhappy, haunted; Wet, red, swollen, blotchy",
+          "page": 335,
+          "id": "36-030",
+          "zh": "伤心、不快乐、饱受折磨；湿、红、肿、斑驳。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Trembled, wobbled; Twisted, tightened, faltered, crumpled; Bit, pressed, jammed; Welled, poured, spilled",
+          "page": 335,
+          "id": "36-031",
+          "zh": "颤抖、晃动；扭曲、绷紧、动摇、皱缩；咬、抿、抵紧；涌起、流下、溢出。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wet and red from weeping",
+          "page": 335,
+          "id": "36-032",
+          "zh": "哭得又湿又红"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Swollen and blotchy",
+          "page": 335,
+          "id": "36-033",
+          "zh": "肿胀且一块块泛红"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Quivering lips",
+          "page": 335,
+          "id": "36-034",
+          "zh": "颤抖的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Haunted expression",
+          "page": 335,
+          "id": "36-035",
+          "zh": "备受折磨的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lips trembled",
+          "page": 335,
+          "id": "36-036",
+          "zh": "双唇发颤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jaw wobbled",
+          "page": 336,
+          "id": "36-037",
+          "zh": "下颌颤动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jaw trembled as she spoke",
+          "page": 336,
+          "id": "36-038",
+          "zh": "说话时下巴发抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted in an unhappy smile",
+          "page": 336,
+          "id": "36-039",
+          "zh": "扭出一个不快乐的笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed lips together",
+          "page": 336,
+          "id": "36-040",
+          "zh": "紧抿双唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bit her lip until she drew blood",
+          "page": 336,
+          "id": "36-041",
+          "zh": "咬唇咬出了血"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jammed her knuckles against her teeth",
+          "page": 336,
+          "id": "36-042",
+          "zh": "把指关节死死抵在牙齿上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Expression faltered as her chin started to tremble",
+          "page": 336,
+          "id": "36-043",
+          "zh": "下巴开始发抖，强撑的表情也维持不住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Contorted with pain and misery",
+          "page": 336,
+          "id": "36-044",
+          "zh": "因疼痛与悲伤而扭曲"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She jammed her knuckles against her teeth.",
+          "page": 336,
+          "id": "36-045",
+          "zh": "她把指关节死死抵住牙齿。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She pressed her quivering lips together to smother the sob that welled in her throat.",
+          "page": 336,
+          "id": "36-046",
+          "zh": "她抿紧发颤的双唇，压住喉咙里涌起的抽泣。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His jaw tightened and his mouth twisted in an unhappy smile.",
+          "page": 336,
+          "id": "36-047",
+          "zh": "他下颌绷紧，嘴扭出一个苦笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She tried to hold the smile, but her expression faltered as her chin started to tremble.",
+          "page": 336,
+          "id": "36-048",
+          "zh": "她想保持微笑，但下巴一颤，表情就撑不住了。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She bit her lip to stem the tears that welled up in her eyes and threatened to spill onto her face.",
+          "page": 336,
+          "id": "36-049",
+          "zh": "她咬住嘴唇，试图止住眼里即将溢出的泪水。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her face became shadowed with grief and misery as she remembered the last time they had met.",
+          "page": 336,
+          "id": "36-050",
+          "zh": "想起他们上一次见面，她脸上蒙上了悲痛的阴影。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 337,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Grief, tears",
+          "page": 337,
+          "id": "36-051",
+          "zh": "悲痛、泪水。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Wet, teary, watery, cloudy, glassy, bloodshot, swollen; Dull, gloomy, blank, vacant, shadowed, downcast, forlorn",
+          "page": 337,
+          "id": "36-052",
+          "zh": "湿润、含泪、水汪汪、朦胧、呆滞发亮、布满血丝、肿胀；暗淡、忧郁、茫然、空洞、阴郁、低垂、凄凉。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Wept, poured, streamed, spilled; Filled, blurred",
+          "page": 337,
+          "id": "36-053",
+          "zh": "哭、倾泻、流淌、溢出；充满、模糊。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cloudy and sad",
+          "page": 337,
+          "id": "36-054",
+          "zh": "朦胧而悲伤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Glassy eyes",
+          "page": 337,
+          "id": "36-055",
+          "zh": "呆滞无神的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Gloomy and downcast",
+          "page": 337,
+          "id": "36-056",
+          "zh": "忧郁而低垂"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Vacant expression",
+          "page": 337,
+          "id": "36-057",
+          "zh": "空洞的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As if in a trance",
+          "page": 337,
+          "id": "36-058",
+          "zh": "仿佛恍惚失神"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shiny slug trails down her face",
+          "page": 337,
+          "id": "36-059",
+          "zh": "脸上的泪痕像蛞蝓留下的亮痕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wet and bloodshot from weeping",
+          "page": 337,
+          "id": "36-060",
+          "zh": "哭得湿润且布满血丝"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tears streamed from her eyes",
+          "page": 337,
+          "id": "36-061",
+          "zh": "眼泪不断流下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spilled out of her eyes",
+          "page": 337,
+          "id": "36-062",
+          "zh": "从眼中溢出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blurred his vision",
+          "page": 337,
+          "id": "36-063",
+          "zh": "模糊他的视线"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scalded her cheeks as they flowed",
+          "page": 338,
+          "id": "36-064",
+          "zh": "泪流过时灼痛脸颊"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Filled with grief",
+          "page": 338,
+          "id": "36-065",
+          "zh": "充满悲痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared with glassy eyes",
+          "page": 338,
+          "id": "36-066",
+          "zh": "用呆滞的眼睛盯着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Screwed eyes shut to hold back the tears",
+          "page": 338,
+          "id": "36-067",
+          "zh": "紧闭双眼强忍泪水"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared as if in a trance",
+          "page": 338,
+          "id": "36-068",
+          "zh": "失神般凝视"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared unblinking at the ground in front of him",
+          "page": 338,
+          "id": "36-069",
+          "zh": "一眨不眨地盯着面前的地面"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her dark brown eyes filled with grief.",
+          "page": 338,
+          "id": "36-070",
+          "zh": "她深棕色的眼睛充满悲伤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her lips started to tremble and her eyes filled with tears.",
+          "page": 338,
+          "id": "36-071",
+          "zh": "她的嘴唇开始发颤，泪水充盈双眼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert stared at her with glassy eyes and then screwed them shut to hold back the flood of tears.",
+          "page": 338,
+          "id": "36-072",
+          "zh": "罗伯特目光呆滞地看着她，然后紧闭双眼，强忍奔涌的泪水。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The pain of her loss filled her chest like a dull ache and her eyes grew clouded and sad.",
+          "page": 338,
+          "id": "36-073",
+          "zh": "失去所爱的痛苦像钝痛般填满她的胸口，她的双眼变得朦胧悲伤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was crying again, the tears spilling out of her eyes and leaving shiny slug trails down her face.",
+          "page": 338,
+          "id": "36-074",
+          "zh": "她又哭了，眼泪不断溢出，在脸上留下像蛞蝓爬过般闪亮的痕迹。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was shadowed with grief and misery, as he stared unblinking at the ground in front of him.",
+          "page": 338,
+          "id": "36-075",
+          "zh": "他一眨不眨地盯着面前的地面，脸上笼罩着悲痛的阴影。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Without any warning, tears welled up in her eyes and poured down her face, scalding her cheeks as they flowed.",
+          "page": 338,
+          "id": "36-076",
+          "zh": "毫无预兆，泪水涌满她的眼睛，沿脸流下，灼痛了双颊。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 339,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Emotion, tone; Sadness, misery, grief, despair, anguish; Sob, sigh, whisper, murmur, moan, groan, wail, howl",
+          "page": 339,
+          "id": "36-077",
+          "zh": "情绪、语气；悲伤、痛苦、哀恸、绝望、悲痛；抽泣、叹息、耳语、低语、呻吟、低哼、哀号、嚎哭。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Quiet, low, grave, solemn, husky, gruff, hoarse; Shaky, choking, quivering, gurgling, shuddering; Heartfelt, forlorn",
+          "page": 339,
+          "id": "36-078",
+          "zh": "安静、低沉、沉重、肃穆、沙哑、粗哑、嘶哑；颤抖、哽咽、发颤、咯咯、战栗；发自内心、凄凉。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Cried, wept, sobbed; Shook, trembled; Cracked, crumpled, swallowed, stifled, strangled",
+          "page": 339,
+          "id": "36-079",
+          "zh": "哭、流泪、抽泣；抖动、颤抖；破音、变得破碎、吞咽、强忍、哽住。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wild, ragged wail",
+          "page": 339,
+          "id": "36-080",
+          "zh": "狂乱破碎的哀号"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Quiet groan",
+          "page": 339,
+          "id": "36-081",
+          "zh": "低低的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low, gurgling moan",
+          "page": 339,
+          "id": "36-082",
+          "zh": "低沉、咯咯的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Moan of despair",
+          "page": 339,
+          "id": "36-083",
+          "zh": "绝望的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Stifled sob",
+          "page": 339,
+          "id": "36-084",
+          "zh": "强忍的抽泣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shuddering sobs",
+          "page": 339,
+          "id": "36-085",
+          "zh": "颤抖的抽泣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Quivering whisper",
+          "page": 339,
+          "id": "36-086",
+          "zh": "发颤的低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Husky with emotion",
+          "page": 339,
+          "id": "36-087",
+          "zh": "因情绪激动而沙哑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Full of sadness",
+          "page": 339,
+          "id": "36-088",
+          "zh": "充满悲伤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Heartfelt sigh",
+          "page": 340,
+          "id": "36-089",
+          "zh": "发自内心的叹息"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Unshed tears in her voice",
+          "page": 340,
+          "id": "36-090",
+          "zh": "嗓音里含着没流出的泪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tone was forlorn",
+          "page": 340,
+          "id": "36-091",
+          "zh": "语气凄凉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Let out a quiet groan",
+          "page": 340,
+          "id": "36-092",
+          "zh": "低低地呻吟一声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sobbed softly",
+          "page": 340,
+          "id": "36-093",
+          "zh": "轻轻抽泣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Choked with misery",
+          "page": 340,
+          "id": "36-094",
+          "zh": "悲伤得哽咽"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shook and cracked with grief",
+          "page": 340,
+          "id": "36-095",
+          "zh": "因悲痛而发抖、破音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swallowed hard before speaking",
+          "page": 340,
+          "id": "36-096",
+          "zh": "说话前用力咽了一下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Howled like a wounded dog",
+          "page": 340,
+          "id": "36-097",
+          "zh": "像受伤的狗一样嚎哭"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sob welled up in her throat",
+          "page": 340,
+          "id": "36-098",
+          "zh": "哭声涌到喉咙口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Broke out as a strangled moan",
+          "page": 340,
+          "id": "36-099",
+          "zh": "迸出哽塞的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Uncontrollable sobbing racked her body",
+          "page": 340,
+          "id": "36-100",
+          "zh": "无法控制的抽泣使全身震颤"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His voice trailed off into a heartfelt sigh.",
+          "page": 340,
+          "id": "36-101",
+          "zh": "他的声音慢慢弱下去，化作一声由衷的叹息。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She broke into a sudden and uncontrollable sobbing.",
+          "page": 340,
+          "id": "36-102",
+          "zh": "她突然无法控制地抽泣起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her words came in gasps and tears poured down her cheeks.",
+          "page": 340,
+          "id": "36-103",
+          "zh": "她边喘边说，泪水不断流过脸颊。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She rose shakily to her feet and her voice trembled as she greeted him.",
+          "page": 340,
+          "id": "36-104",
+          "zh": "她颤巍巍地站起来，向他打招呼时声音发抖。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "When he spoke, his voice was a gruff whisper.",
+          "page": 340,
+          "id": "36-105",
+          "zh": "他开口时，声音是粗哑的低语。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Shaking her head, she slumped to the ground and wept.",
+          "page": 340,
+          "id": "36-106",
+          "zh": "她摇着头瘫坐在地，哭了起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With a moan of despair, he buried his head in his hands.",
+          "page": 340,
+          "id": "36-107",
+          "zh": "他绝望地呻吟一声，把头埋进双手。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty’s voice sank to a murmur, as a single tear trickled down her cheek.",
+          "page": 340,
+          "id": "36-108",
+          "zh": "一滴泪沿基蒂的脸颊滚落，她的声音也低成了呢喃。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were filled with grief and, as she spoke, her voice crumpled with misery.",
+          "page": 340,
+          "id": "36-109",
+          "zh": "她眼里满是悲痛，开口时声音因伤心而破碎。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She swallowed hard before speaking – trying to dislodge the hard lump stuck in her throat.",
+          "page": 340,
+          "id": "36-110",
+          "zh": "她开口前用力咽了一下，想咽下堵在喉咙里的硬结。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Despite his efforts to conceal his disappointment, Robert’s voice was strained and husky with emotion.",
+          "page": 341,
+          "id": "36-111",
+          "zh": "罗伯特努力掩饰失望，但声音仍因情绪激动而绷紧沙哑。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 342,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Body, head, eyes, lips, teeth; Arms, shoulders, elbows, hand, fist, palms, knuckles, fingernails; Legs, knees, feet",
+          "page": 342,
+          "id": "36-112",
+          "zh": "身体、头、眼、唇、牙；手臂、肩、肘、手、拳、手掌、指关节、指甲；腿、膝、脚。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Bit, chewed, rubbed, pressed; Sniffed, wiped, brushed; Bent, stooped, hunched, slumped, slouched; Rocked, swayed",
+          "page": 342,
+          "id": "36-113",
+          "zh": "咬、啃、揉、按；抽鼻子、擦、拂；弯、躬、弓背、瘫倒、无精打采地站；摇、晃。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Quietly, slowly, clumsily, unhappily, frantically",
+          "page": 342,
+          "id": "36-114",
+          "zh": "安静地、缓慢地、笨拙地、难过地、疯狂地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed palms into his eyes",
+          "page": 342,
+          "id": "36-115",
+          "zh": "用手掌紧压眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bit lip unhappily",
+          "page": 342,
+          "id": "36-116",
+          "zh": "难过地咬嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chewed fingernails",
+          "page": 342,
+          "id": "36-117",
+          "zh": "啃指甲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bit her knuckles",
+          "page": 342,
+          "id": "36-118",
+          "zh": "咬自己的指关节"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jammed her knuckles against her teeth",
+          "page": 342,
+          "id": "36-119",
+          "zh": "把指关节死死抵住牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Brushed tears away with a clumsy fist",
+          "page": 342,
+          "id": "36-120",
+          "zh": "用笨拙的拳头擦去泪水"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wiped his eyes with the back of his hand",
+          "page": 342,
+          "id": "36-121",
+          "zh": "用手背擦眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shook his head frantically",
+          "page": 342,
+          "id": "36-122",
+          "zh": "拼命摇头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Head dropped onto his chest",
+          "page": 342,
+          "id": "36-123",
+          "zh": "头垂到胸前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bent over with elbows on her knees",
+          "page": 342,
+          "id": "36-124",
+          "zh": "弯着腰，把肘撑在膝上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hugged her body in both arms",
+          "page": 343,
+          "id": "36-125",
+          "zh": "双臂抱住自己的身体"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Entire body was hunched over",
+          "page": 343,
+          "id": "36-126",
+          "zh": "整个身体弓了起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slouched with hands in pockets",
+          "page": 343,
+          "id": "36-127",
+          "zh": "双手插袋，垂头塌肩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slumped like a puppet with its strings cut",
+          "page": 343,
+          "id": "36-128",
+          "zh": "像断线木偶般瘫倒"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rocked back and forth quietly",
+          "page": 343,
+          "id": "36-129",
+          "zh": "安静地前后摇晃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swayed on his feet",
+          "page": 343,
+          "id": "36-130",
+          "zh": "站着摇摇欲坠"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Whole body was racked with sobs",
+          "page": 343,
+          "id": "36-131",
+          "zh": "全身因抽泣而剧烈颤动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moved with agonizing slowness",
+          "page": 343,
+          "id": "36-132",
+          "zh": "动作慢得令人难受"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moved as if her legs were blocks of wood",
+          "page": 343,
+          "id": "36-133",
+          "zh": "两腿仿佛是木块，僵硬地移动"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He sank down on the chair and hung his head in despair.",
+          "page": 343,
+          "id": "36-134",
+          "zh": "他沉沉坐进椅子，绝望地低着头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She rocked back and forth, with tears streaming quietly down her cheeks.",
+          "page": 343,
+          "id": "36-135",
+          "zh": "她前后摇晃，泪水无声地沿双颊流下。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He crouched in the corner, tears spilling out of his eyes and snot bubbling in one nostril.",
+          "page": 343,
+          "id": "36-136",
+          "zh": "他蹲在角落，眼泪不断溢出，一侧鼻孔冒着鼻涕泡。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He held his body rigid – jaws tight, back hunched – elbows pressed into his knees.",
+          "page": 343,
+          "id": "36-137",
+          "zh": "他身体僵直，牙关紧咬、背弓着，双肘压在膝上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He sniffed, wiped his eyes with the back of his hand and rose shakily to his feet.",
+          "page": 343,
+          "id": "36-138",
+          "zh": "他抽抽鼻子，用手背擦眼睛，颤巍巍站起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Hugging his body in both arms, he swayed backwards and forwards.",
+          "page": 343,
+          "id": "36-139",
+          "zh": "他双臂紧抱身体，前后晃动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Rubbing her eyes, she brushed away the tears that blurred her vision.",
+          "page": 343,
+          "id": "36-140",
+          "zh": "她揉着眼睛，拭去模糊视线的泪水。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With a moan of despair, she slumped on the floor like a puppet with its strings cut.",
+          "page": 343,
+          "id": "36-141",
+          "zh": "她绝望地呻吟一声，像断线木偶一样瘫倒在地。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was a picture of despair with his bowed head and stooped shoulders.",
+          "page": 343,
+          "id": "36-142",
+          "zh": "他低着头、耷拉着肩，整个人就是绝望的写照。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Shuffling along, he moved slowly, awkwardly, as if his legs were blocks of wood and every movement was an effort.",
+          "page": 343,
+          "id": "36-143",
+          "zh": "他拖着脚，缓慢笨拙地走，两腿仿佛是木块，每动一下都很费力。"
+        }
+      ]
+    }
+  ]
+}

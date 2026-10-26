@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="720" height="405" viewBox="0 0 720 405">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,405)" d="M0 .120009H720V405H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,405)" d="M24.54331 309.8642H695.4567V52.82417H24.54331Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,405)" d="M24.24 52.44001H695.52V309.96H24.24Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,405)" d="M0 405H720V.120009H0Z" fill="#ffffff"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,405)" d="M0 405H720V.0000105612H0Z" fill="#ecdcc3"/>
+<path transform="matrix(1,0,0,-1,0,405)" d="M24.54331 369.9587H695.4567V324.8642H24.54331Z" fill="#ecdcc3"/>
+<path transform="matrix(.00007874016,0,0,.00007874016,24.54331,35.04129)" stroke-width="19050" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#9b463d" d="M0 0H8520600V572700H0Z"/>
+<path transform="matrix(1,0,0,-1,0,405)" d="M24.54331 309.8642H695.4567V52.82418H24.54331Z" fill="#ffffff"/>
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g transform="matrix(.34002368,0,0,.34090186,-32.2647,95.13583)">
+<image id="image_4" width="2541" height="754" xlink:href="/narrative-course/decks/assets/c4ab1d6142229be5b853.jpg"/>
+</g>
+</g>
+</g>
+<path transform="matrix(.00007874016,0,0,.00007874016,24.54331,95.1358)" stroke-width="19050" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#9b463d" d="M-9524.715-9524.88H8530125V3273933H-9524.715Z"/>
+</svg>

@@ -1,0 +1,672 @@
+{
+  "id": 37,
+  "title": "Tired",
+  "zh": "疲倦",
+  "group": "Emotions and personality",
+  "startPage": 344,
+  "endPage": 354,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 345,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Sleep, tiredness, exhaustion; Legs, head, eyes",
+          "page": 345,
+          "id": "37-001",
+          "zh": "睡眠、疲劳、精疲力竭；腿、头、眼睛。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Tired, sleepy, weary, exhausted; Heavy, stiff, corpse-like; Dizzy, faint, light-headed",
+          "page": 345,
+          "id": "37-002",
+          "zh": "疲倦、困倦、疲惫、筋疲力尽；沉重、僵硬、尸体般；眩晕、晕厥无力、头晕。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Sat, lay, dropped, slumped; Dragged, staggered",
+          "page": 345,
+          "id": "37-003",
+          "zh": "坐、躺、垂落、瘫下；拖、踉跄。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Light-headed with exhaustion",
+          "page": 345,
+          "id": "37-004",
+          "zh": "累得头昏脑涨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Legs were heavy like pieces of wood",
+          "page": 345,
+          "id": "37-005",
+          "zh": "双腿像木块一样沉重"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sat corpse-like",
+          "page": 345,
+          "id": "37-006",
+          "zh": "像尸体一样静坐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Head was swimming with tiredness",
+          "page": 345,
+          "id": "37-007",
+          "zh": "疲倦得头昏脑涨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dragged down by an irresistible urge to sleep",
+          "page": 345,
+          "id": "37-008",
+          "zh": "被无法抵抗的睡意拖垮"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He didn’t think he could go any further. His legs felt like pieces of wood – heavy and stiff.",
+          "page": 346,
+          "id": "37-009",
+          "zh": "他觉得再也走不动了，两腿像木块一样沉重僵硬。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Exhaustion had made him light-headed. He lay on the floor – dragged down by an irresistible urge to sleep.",
+          "page": 346,
+          "id": "37-010",
+          "zh": "疲惫使他头晕。他躺在地上，无法抗拒的睡意把他拖了下去。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 347,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Face, head, chin, eyes, nose, mouth, chest, arms; Yawn, saliva",
+          "page": 347,
+          "id": "37-011",
+          "zh": "脸、头、下巴、眼睛、鼻子、嘴、胸、手臂；哈欠、唾液。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "White, pale, grey, deathly, lifeless; Wide, gaping",
+          "page": 347,
+          "id": "37-012",
+          "zh": "白、苍白、灰、死一般、无生气；宽、大张。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Slept, yawned, dribbled; Dropped, slumped, stretched",
+          "page": 347,
+          "id": "37-013",
+          "zh": "睡、打哈欠、流口水；落下、垂下、伸展。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Gaping yawn",
+          "page": 347,
+          "id": "37-014",
+          "zh": "张大嘴打哈欠"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Face deathly white and eyes lifeless",
+          "page": 347,
+          "id": "37-015",
+          "zh": "脸色惨白，双眼无神"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth dropped open",
+          "page": 347,
+          "id": "37-016",
+          "zh": "嘴不自觉地张开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stretched arms behind his head",
+          "page": 347,
+          "id": "37-017",
+          "zh": "把双臂伸到脑后"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Opened mouth wide in a gaping yawn",
+          "page": 347,
+          "id": "37-018",
+          "zh": "张大嘴打了一个大哈欠"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chin fell onto her chest",
+          "page": 347,
+          "id": "37-019",
+          "zh": "下巴垂到胸前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Saliva dribbled out of the corner of his mouth",
+          "page": 347,
+          "id": "37-020",
+          "zh": "唾液从嘴角流下"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She slept with her chin slumped onto her chest, her mouth dropping open and saliva dribbling out of the corner of her mouth.",
+          "page": 348,
+          "id": "37-021",
+          "zh": "她睡着了，下巴垂在胸前，嘴张着，口水从嘴角淌下。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His mouth open in a wide, gaping yawn, he leant back and stretched his arms behind his head.",
+          "page": 348,
+          "id": "37-022",
+          "zh": "他张大嘴打哈欠，向后靠，把双臂伸到脑后。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 349,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Tiredness, exhaustion, fatigue; Eyes, eyelids",
+          "page": 349,
+          "id": "37-023",
+          "zh": "疲倦、精疲力竭、疲劳；眼睛、眼皮。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Dull, lifeless, tired-looking; Heavy, drooping, sagging, heavy-lidded; Pink, red, bloodshot",
+          "page": 349,
+          "id": "37-024",
+          "zh": "暗淡、无神、疲惫；沉重、下垂、松垂、眼皮沉重；粉红、红、布满血丝。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Closed, drooped, fluttered",
+          "page": 349,
+          "id": "37-025",
+          "zh": "闭上、下垂、颤动。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Drooping eyes",
+          "page": 349,
+          "id": "37-026",
+          "zh": "低垂的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tired-looking eyes",
+          "page": 349,
+          "id": "37-027",
+          "zh": "看起来疲惫的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sagging eyes",
+          "page": 349,
+          "id": "37-028",
+          "zh": "耷拉的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dull and heavy-lidded",
+          "page": 349,
+          "id": "37-029",
+          "zh": "双眼暗淡，眼皮沉重"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Heavy eyelids and bloodshot eyes",
+          "page": 349,
+          "id": "37-030",
+          "zh": "眼皮沉重，双眼布满血丝"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rimmed with red",
+          "page": 349,
+          "id": "37-031",
+          "zh": "眼圈发红"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drooped downwards",
+          "page": 349,
+          "id": "37-032",
+          "zh": "向下耷拉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Kept closing",
+          "page": 349,
+          "id": "37-033",
+          "zh": "总是不由自主地闭上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Had difficulty keeping eyes open",
+          "page": 350,
+          "id": "37-034",
+          "zh": "很难撑着眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "As if heavy weights were forcing them down",
+          "page": 350,
+          "id": "37-035",
+          "zh": "仿佛有重物往下压眼皮"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His drooping lids seemed to have heavy weights forcing them down.",
+          "page": 350,
+          "id": "37-036",
+          "zh": "他下垂的眼皮仿佛被重物往下压着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes were bloodshot and rimmed with red.",
+          "page": 350,
+          "id": "37-037",
+          "zh": "他的双眼布满血丝，眼圈发红。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her face was deathly white and her sagging eyes were lifeless.",
+          "page": 350,
+          "id": "37-038",
+          "zh": "她脸色惨白，耷拉的双眼毫无生气。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 351,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Sigh, gasps, wheeze",
+          "page": 351,
+          "id": "37-039",
+          "zh": "叹息、喘气、喘鸣。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Low, quiet",
+          "page": 351,
+          "id": "37-040",
+          "zh": "低、轻。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Whispered, sighed, whined, groaned, muttered, mumbled, murmured; Gasped, panted, croaked, faltered",
+          "page": 351,
+          "id": "37-041",
+          "zh": "耳语、叹息、抱怨、呻吟、嘟囔、含糊说、低语；喘气、气喘、嘶哑说、断续说。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Weakly, feebly, painfully",
+          "page": 351,
+          "id": "37-042",
+          "zh": "虚弱地、无力地、痛苦地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low, painful wheeze",
+          "page": 351,
+          "id": "37-043",
+          "zh": "低沉痛苦的喘鸣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Groaned with every step",
+          "page": 351,
+          "id": "37-044",
+          "zh": "每走一步都呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Whined that he couldn’t go any further",
+          "page": 351,
+          "id": "37-045",
+          "zh": "哼哼着说自己再也走不动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mumbled weakly",
+          "page": 351,
+          "id": "37-046",
+          "zh": "虚弱地含糊低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Voice came in painful gasps as he tried to get his breath",
+          "page": 351,
+          "id": "37-047",
+          "zh": "努力喘匀气，说话伴着痛苦的喘息"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He could barely put one foot in front of the other and groaned with every step.",
+          "page": 352,
+          "id": "37-048",
+          "zh": "他几乎迈不开腿，每走一步都呻吟。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes fluttered open and she mumbled weakly.",
+          "page": 352,
+          "id": "37-049",
+          "zh": "她眼皮颤动着睁开，虚弱地嘟囔。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His vision was blurred. He couldn’t do any more. With a sigh, he took off his glasses and closed his eyes.",
+          "page": 352,
+          "id": "37-050",
+          "zh": "他的视线模糊，再也撑不住了。他叹口气，摘下眼镜，闭上眼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He kept stopping every few metres – whining that he couldn’t go any further.",
+          "page": 352,
+          "id": "37-051",
+          "zh": "他每走几米就停下来，抱怨再也走不动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He slumped with his hands on his knees, gasping for breath; when he eventually spoke, his voice was a low, painful wheeze.",
+          "page": 352,
+          "id": "37-052",
+          "zh": "他双手撑膝，塌着身子大口喘气；终于开口时，只发出低沉痛苦的喘鸣。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Drenched in sweat, he fell back against the wall. His voice came in painful gasps as he tried to get his breath.",
+          "page": 352,
+          "id": "37-053",
+          "zh": "他汗流浃背，向后靠在墙上，努力喘气，说出的字句伴着痛苦的喘息。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 353,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Legs, feet, hips; Chest, arms, hands, shoulders; Head, chin, mouth, nose",
+          "page": 353,
+          "id": "37-054",
+          "zh": "腿、脚、胯；胸、臂、手、肩；头、下巴、嘴、鼻子。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Heavy, stiff, corpse-like; Tired, weary, exhausted, dizzy",
+          "page": 353,
+          "id": "37-055",
+          "zh": "沉重、僵硬、尸体般；疲倦、疲惫、精疲力竭、眩晕。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Fell, sank, slumped; Bowed, sagged, stooped",
+          "page": 353,
+          "id": "37-056",
+          "zh": "倒下、沉下、瘫下；低垂、松垮、弯腰。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shoulders stooped",
+          "page": 353,
+          "id": "37-057",
+          "zh": "肩膀耷拉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Head bowed",
+          "page": 353,
+          "id": "37-058",
+          "zh": "低着头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chin fell on his chest",
+          "page": 353,
+          "id": "37-059",
+          "zh": "下巴落到胸口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dragged his feet across the ground",
+          "page": 353,
+          "id": "37-060",
+          "zh": "拖着双脚在地上走"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood with hands on hips",
+          "page": 353,
+          "id": "37-061",
+          "zh": "双手叉腰站着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chin slumped onto his chest",
+          "page": 353,
+          "id": "37-062",
+          "zh": "下巴无力地垂在胸前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fell back against the wall panting",
+          "page": 353,
+          "id": "37-063",
+          "zh": "向后靠墙，气喘吁吁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sank to the floor gasping for breath",
+          "page": 353,
+          "id": "37-064",
+          "zh": "瘫坐到地上，大口喘气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Could barely put one foot in front of the other",
+          "page": 353,
+          "id": "37-065",
+          "zh": "几乎连迈步都做不到"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Kept stopping every few metres",
+          "page": 353,
+          "id": "37-066",
+          "zh": "每隔几米就停下来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Unable to walk another step",
+          "page": 353,
+          "id": "37-067",
+          "zh": "一步也走不动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slumped with his hands on his knees",
+          "page": 353,
+          "id": "37-068",
+          "zh": "双手撑膝，弯腰塌身"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slithered to a halt",
+          "page": 354,
+          "id": "37-069",
+          "zh": "滑着步停住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flicked his tongue round his lips",
+          "page": 354,
+          "id": "37-070",
+          "zh": "用舌头沿嘴唇舔一圈"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tried to get some moisture to his mouth and lips",
+          "page": 354,
+          "id": "37-071",
+          "zh": "想让口腔和嘴唇湿润一点"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stretched his arms behind his head",
+          "page": 354,
+          "id": "37-072",
+          "zh": "把双臂伸到脑后"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pinched the bridge of his nose and closed his eyes",
+          "page": 354,
+          "id": "37-073",
+          "zh": "捏着鼻梁闭上眼"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He slithered to a halt. His throat was parched and his breath was coming in painful gasps.",
+          "page": 354,
+          "id": "37-074",
+          "zh": "他滑着步停下，喉咙干得厉害，痛苦地一阵阵喘气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Unable to walk another step, she slumped forward and lay corpse-like on the floor.",
+          "page": 354,
+          "id": "37-075",
+          "zh": "她再也迈不动一步，向前瘫倒，像尸体一样躺在地上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Exhausted and drenched in sweat, he fell back against the wall, hands on hips, head bowed, gasping for breath.",
+          "page": 354,
+          "id": "37-076",
+          "zh": "他筋疲力尽、汗流浃背，背靠墙壁，双手叉腰、低着头，大口喘气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was so tired he could barely walk, but he kept on moving, dragging his feet across the ground, shoulders stooped and his head slumped on his chest.",
+          "page": 354,
+          "id": "37-077",
+          "zh": "他累得几乎走不动，却还拖着双脚前行，肩膀耷拉，头垂在胸前。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Unable to read any more, he took off his glasses, pinched the bridge of his nose and closed his eyes.",
+          "page": 354,
+          "id": "37-078",
+          "zh": "他再也读不下去，摘掉眼镜，捏着鼻梁，闭上眼。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Swallowing hard, he flicked his tongue round his lips – trying to draw some moisture to his mouth and lips.",
+          "page": 354,
+          "id": "37-079",
+          "zh": "他用力吞咽，舔了一圈嘴唇，想给口腔和嘴唇添一点水分。"
+        }
+      ]
+    }
+  ]
+}

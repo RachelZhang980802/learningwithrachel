@@ -1,0 +1,55 @@
+.narrative-course .character-reference { color: #293e38; scroll-margin-top: 100px; }
+.narrative-course .character-intro { margin: 15px 0 24px; color: #6a6256; font: 16px/1.7 var(--body, sans-serif); }
+.narrative-course .character-directory { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 30px; margin-top: 30px; }
+.narrative-course .character-directory-group h3 { display: flex; flex-direction: column; gap: 5px; margin: 0 0 16px; padding-bottom: 15px; border-bottom: 2px solid #ce9b52; color: #17463f; font: 700 23px/1.25 Georgia,serif; }
+.narrative-course .character-directory-group h3 span { color: #a14759; font: 14px/1.5 var(--body,sans-serif); }
+.narrative-course .character-directory ol { list-style: none; padding: 0; margin: 0; }
+.narrative-course .character-directory li { border-bottom: 1px solid #e9dfd4; }
+.narrative-course .character-directory button { display: flex; align-items: center; gap: 13px; width: 100%; min-height: 82px; padding: 14px 8px; background: transparent; border: 0; border-radius: 8px; text-align: left; color: #273f37; cursor: pointer; }
+.narrative-course .character-directory button:hover { background: #f8eedf; }
+.narrative-course .character-number { align-self: flex-start; margin-top: 2px; color: #b54352; font: 700 18px/1.35 Georgia,serif; }
+.narrative-course .character-topic { flex: 1; min-width: 0; display: grid; gap: 5px; }
+.narrative-course .character-topic strong { font: 600 19px/1.3 Georgia,serif; overflow-wrap: anywhere; }
+.narrative-course .character-topic > span { color: #766b60; font: 14px/1.5 var(--body,sans-serif); }
+.narrative-course .character-arrow { color: #a75b57; font: 20px/1 sans-serif; }
+.narrative-course .character-reference button:focus-visible,
+.narrative-course .character-reference summary:focus-visible,
+.narrative-course .character-reference select:focus-visible { outline: 3px solid #ba6871; outline-offset: 3px; }
+.narrative-course .character-source { padding-top: 25px; margin: 24px 0 0; border-top: 1px solid #e9dfd4; color: #75695f; font: 13px/1.7 var(--body,sans-serif); }
+.narrative-course .character-toolbar { display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 16px; margin: 20px 0 30px; }
+.narrative-course .character-toolbar button,
+.narrative-course .character-bottom-nav button,
+.narrative-course .character-status button { min-height: 44px; padding: 10px 15px; border: 1px solid #c5b5a0; border-radius: 8px; background: #faf5ec; color: #17463f; font: 15px/1.5 var(--body,sans-serif); cursor: pointer; }
+.narrative-course .character-toolbar label { display: grid; gap: 5px; max-width: 100%; color: #75695f; font: 13px/1.4 var(--body,sans-serif); }
+.narrative-course .character-toolbar select { min-height: 44px; width: min(100%,420px); max-width: 100%; padding: 8px; border: 1px solid #c5b5a0; border-radius: 8px; color: #17463f; background: white; font-size: 15px; }
+.narrative-course .character-group-name { color: #a14759; font: 700 16px/1.5 Georgia,serif; margin: 12px 0; }
+.narrative-course .character-hint { padding: 12px 16px; margin: 24px 0; border-left: 3px solid #d6ad69; background: #faf3e5; color: #76604b; font: 14px/1.7 var(--body,sans-serif); }
+.narrative-course .character-section-nav { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 30px; }
+.narrative-course .character-section-nav button { padding: 8px 12px; min-height: 40px; border: 1px solid #d4c2b1; border-radius: 20px; background: white; color: #8e4551; font: 15px/1.4 Georgia,serif; cursor: pointer; }
+.narrative-course .character-section { padding: 20px 0; scroll-margin-top: 100px; }
+.narrative-course .character-section > h3 { margin: 10px 0 26px; padding: 0 0 16px; border-bottom: 2px solid #c5a77b; color: #17463f; font: 700 25px/1.3 Georgia,serif; }
+.narrative-course .character-section > h3 small { display: block; margin-top: 8px; color: #8a6a5b; font: 14px/1.6 var(--body,sans-serif); }
+.narrative-course .character-entry h4 { margin: 30px 0 13px; color: #b54352; font: 700 18px/1.5 Georgia,serif; }
+.narrative-course .character-gloss { border: 0; border-bottom: 1px solid #eee5d9; border-radius: 0; background: transparent; padding: 0; margin: 0; }
+.narrative-course .character-gloss summary { display: block; overflow-wrap: anywhere; list-style: none; cursor: pointer; padding: 12px 9px; color: #2c342e; font: 18px/1.65 Georgia,serif; }
+.narrative-course .character-gloss summary::-webkit-details-marker { display: none; }
+.narrative-course .character-gloss summary:hover { background: #f8f4eb; }
+.narrative-course .character-gloss[open] summary { color: #17463f; background: #f6f0e5; }
+.narrative-course .character-gloss-words summary { font-size: 16px; line-height: 1.8; }
+.narrative-course .character-translation { display: none; margin-left: .35em; color: #9a4e5e; font-family: var(--body,sans-serif); font-size: .94em; }
+.narrative-course .character-gloss[open] .character-translation { display: inline; }
+.narrative-course .character-bottom-nav { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin: 28px 0 10px; }
+.narrative-course .character-status { padding: 20px; color: #765947; font: 16px/1.7 var(--body,sans-serif); }
+@media(max-width:760px) {
+  .narrative-course .character-directory { grid-template-columns: 1fr; gap: 36px; }
+  .narrative-course .character-toolbar { display: grid; grid-template-columns: minmax(0,1fr); }
+  .narrative-course .character-toolbar > button { justify-self: start; }
+  .narrative-course .character-toolbar select { width: 100%; }
+  .narrative-course .character-topic strong { font-size: 18px; }
+  .narrative-course .character-gloss summary { padding-inline: 3px; font-size: 17px; }
+  .narrative-course .character-gloss-words summary { font-size: 15px; }
+}
+
+.narrative-course .setting-reference .character-directory { grid-template-columns: 1fr; }
+.narrative-course .setting-reference .character-directory ol { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); column-gap: 26px; }
+@media(max-width:760px) { .narrative-course .setting-reference .character-directory ol { grid-template-columns: 1fr; } }

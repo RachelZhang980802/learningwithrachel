@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1440" height="810" viewBox="0 0 1440 810">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1439.972V.028H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V0H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M719.972 .028H-.028V810H1439.943V.028H719.972Z" fill="#4e6e58" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M720 56.721H56.353V753.307H1383.647V56.721H720Z" fill="#ffffff" fill-rule="evenodd"/>
+<g transform="matrix(.72657737,0,0,.7270475,254.976,95.27197)">
+<image id="image_2" width="1280" height="905" xlink:href="/narrative-course/theory/native/assets/e4cfef2e6f2cad40225b.jpg"/>
+</g>
+<g transform="matrix(3.59993,0,0,.99977996,0,-.02798462)">
+<image id="image_3" width="400" height="100" xlink:href="/narrative-course/theory/native/assets/a3f46c6a3626361c4bad.jpg"/>
+</g>
+</g>
+</g>
+</svg>

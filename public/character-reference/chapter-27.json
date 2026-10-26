@@ -1,0 +1,544 @@
+{
+  "id": 27,
+  "title": "Voice",
+  "zh": "声音",
+  "group": "Appearance",
+  "startPage": 238,
+  "endPage": 242,
+  "sections": [
+    {
+      "title": "Words, phrases and sentences",
+      "page": 238,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Whisper, murmur, wheeze, rattle; Scream, yell, shriek",
+          "page": 238,
+          "id": "27-001",
+          "zh": "低语、轻声细语、喘鸣、喉中咯咯声；尖叫、大喊、尖厉叫声。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Loud, big, strong, booming, thunderous, deafening, piercing, theatrical; Quiet, soft, gentle, mild, calm; Low, low-pitched, deep; High, squeaky, shrill, high-pitched, harsh; Dry, rough, hoarse, husky, croaky, scratchy, throaty; Smooth, sweet, musical, lilting, chirpy, sing-song; Bossy, whining, smug, mocking, wheedling, simpering, monotonous; Pleasant, silky, creamy, sweet, syrupy; Educated, cultured, drawling",
+          "page": 238,
+          "id": "27-002",
+          "zh": "响亮、宏大、有力、洪亮、雷鸣般、震耳欲聋、尖锐、戏剧化；安静、轻柔、温柔、温和、平静；低声、低音调、低沉；高、吱吱的、尖厉、高音调、刺耳；干涩、粗糙、嘶哑、沙哑、蛙鸣般、刮擦般、喉音重；圆润、甜美、悦耳、轻快抑扬、欢快、歌唱般；专横、哼哼抱怨、自鸣得意、嘲弄、哄劝、忸怩、单调；悦耳、丝滑、醇厚、甜美、甜腻；有教养、文雅、拖长腔调。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Echoed, vibrated, drilled, droned; Cracked, croaked, clicked, gurgled, rasped; Shouted, snarled, barked, growled; Yelled, boomed, thundered, bellowed; Hissed, whispered, muttered, mumbled, murmured; Whined, whimpered, simpered, bleated",
+          "page": 238,
+          "id": "27-003",
+          "zh": "回响、振动、钻入、单调低吟；破音、嘶哑地说、咔哒响、咯咯响、刺耳地说；喊叫、咆哮、厉声喝斥、低吼；大叫、轰鸣、雷鸣般说话、怒吼；嘶声说、耳语、嘟囔、含糊地说、轻声说；哀诉、呜咽、忸怩地说、咩咩般抱怨。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Big, booming voice",
+          "page": 239,
+          "id": "27-004",
+          "zh": "宏亮浑厚的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thunderous voice",
+          "page": 239,
+          "id": "27-005",
+          "zh": "雷鸣般的嗓音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Rich, theatrical voice",
+          "page": 239,
+          "id": "27-006",
+          "zh": "饱满、富有戏剧感的嗓音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Calm, deep voice",
+          "page": 239,
+          "id": "27-007",
+          "zh": "平静低沉的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Quiet, low-pitched voice",
+          "page": 239,
+          "id": "27-008",
+          "zh": "轻而低的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As smooth as silk",
+          "page": 239,
+          "id": "27-009",
+          "zh": "像丝绸一样顺滑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dry rattle in his voice",
+          "page": 239,
+          "id": "27-010",
+          "zh": "嗓音里带着干涩的咯咯声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cracked, old voice",
+          "page": 239,
+          "id": "27-011",
+          "zh": "苍老破哑的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Throaty wheeze",
+          "page": 239,
+          "id": "27-012",
+          "zh": "喉咙里粗重的喘鸣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Husky murmur",
+          "page": 239,
+          "id": "27-013",
+          "zh": "沙哑的低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Croaky whisper",
+          "page": 239,
+          "id": "27-014",
+          "zh": "嘶哑的耳语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Loud, rasping rattle",
+          "page": 239,
+          "id": "27-015",
+          "zh": "响亮刺耳的咯咯声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Voice clicked in an odd way",
+          "page": 239,
+          "id": "27-016",
+          "zh": "声音带着奇怪的咔哒声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Gruff voice with a thick accent",
+          "page": 239,
+          "id": "27-017",
+          "zh": "粗哑而口音浓重的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "High-pitched, whining voice",
+          "page": 239,
+          "id": "27-018",
+          "zh": "尖高、带抱怨腔的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Squeaky, rasping voice",
+          "page": 239,
+          "id": "27-019",
+          "zh": "尖细刺耳的嗓音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shrill and harsh like the shriek of a seagull",
+          "page": 239,
+          "id": "27-020",
+          "zh": "像海鸥尖叫一样尖厉刺耳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low, droning voice",
+          "page": 239,
+          "id": "27-021",
+          "zh": "低沉单调的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "High-pitched whimper",
+          "page": 239,
+          "id": "27-022",
+          "zh": "尖声呜咽"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wheedling tone",
+          "page": 239,
+          "id": "27-023",
+          "zh": "哄劝、央求的语气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thick, drawling accent",
+          "page": 239,
+          "id": "27-024",
+          "zh": "浓重而拖长的口音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Smooth like polished glass",
+          "page": 239,
+          "id": "27-025",
+          "zh": "像抛光玻璃一样顺滑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As sweet as syrup",
+          "page": 239,
+          "id": "27-026",
+          "zh": "像糖浆一样甜腻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Quiet and soft",
+          "page": 239,
+          "id": "27-027",
+          "zh": "轻声细语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Chirpy, sing-song voice",
+          "page": 239,
+          "id": "27-028",
+          "zh": "欢快、歌唱般的嗓音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Lilting and musical",
+          "page": 239,
+          "id": "27-029",
+          "zh": "轻快抑扬、悦耳动听"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Soft, feathery whisper",
+          "page": 239,
+          "id": "27-030",
+          "zh": "羽毛般轻柔的耳语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pleasant, educated accent",
+          "page": 240,
+          "id": "27-031",
+          "zh": "悦耳而有教养的口音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Echoed around the room",
+          "page": 240,
+          "id": "27-032",
+          "zh": "在房间四周回响"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Like he was speaking through a loudspeaker",
+          "page": 240,
+          "id": "27-033",
+          "zh": "像通过扩音器说话"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "As if he was acting on stage",
+          "page": 240,
+          "id": "27-034",
+          "zh": "仿佛在舞台上演戏"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Seemed to vibrate in his chest",
+          "page": 240,
+          "id": "27-035",
+          "zh": "仿佛在胸腔里振动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spoke in a wheedling tone",
+          "page": 240,
+          "id": "27-036",
+          "zh": "用哄劝的语气说"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Protested in a shrill voice",
+          "page": 240,
+          "id": "27-037",
+          "zh": "用尖厉的声音抗议"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words floated out of her mouth",
+          "page": 240,
+          "id": "27-038",
+          "zh": "话语从她口中轻轻飘出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "As if she was speaking through velvet",
+          "page": 240,
+          "id": "27-039",
+          "zh": "仿佛隔着天鹅绒说话"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Made the words dance in his ears",
+          "page": 240,
+          "id": "27-040",
+          "zh": "让话语在他的耳畔跳舞"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spoke without a trace of an accent",
+          "page": 240,
+          "id": "27-041",
+          "zh": "说话听不出地方口音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Difficult to know where he was from",
+          "page": 240,
+          "id": "27-042",
+          "zh": "很难知道他来自哪里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Difficult to understand",
+          "page": 240,
+          "id": "27-043",
+          "zh": "难以听懂"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Unable to listen to her whining",
+          "page": 240,
+          "id": "27-044",
+          "zh": "无法再忍受她的哼哼抱怨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Difficult to pay attention to ...",
+          "page": 240,
+          "id": "27-045",
+          "zh": "难以集中注意力听……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Found himself drifting off to sleep",
+          "page": 240,
+          "id": "27-046",
+          "zh": "发现自己渐渐睡着了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "He closed his eyes to block out ...",
+          "page": 240,
+          "id": "27-047",
+          "zh": "他闭上眼睛，试图隔绝……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drove him mad",
+          "page": 240,
+          "id": "27-048",
+          "zh": "让他抓狂"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bored into him like a drill",
+          "page": 240,
+          "id": "27-049",
+          "zh": "像钻头一样钻进他耳中"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Had a calming effect",
+          "page": 240,
+          "id": "27-050",
+          "zh": "起到安抚作用"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "‘Don’t move,’ he urged in a croaky whisper.",
+          "page": 240,
+          "id": "27-051",
+          "zh": "“别动。”他用嘶哑的低语急切地说。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "‘I didn’t do it,’ she screamed in a high-pitched, whining voice.",
+          "page": 240,
+          "id": "27-052",
+          "zh": "“不是我干的！”她用尖高的、带哭诉腔的声音叫道。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His voice was thunderous and seemed to vibrate in his chest.",
+          "page": 240,
+          "id": "27-053",
+          "zh": "他的声音如雷鸣，仿佛在胸腔里振动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert found it difficult to pay attention to her low, droning voice and drifted off to sleep.",
+          "page": 241,
+          "id": "27-054",
+          "zh": "她低沉单调的声音让罗伯特无法集中注意力，他慢慢睡了过去。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He closed his eyes and tried to block out her squeaky whimper.",
+          "page": 241,
+          "id": "27-055",
+          "zh": "他闭上眼睛，努力隔绝她尖细的呜咽。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a thick, drawling accent that made it difficult to understand what he wanted her to do.",
+          "page": 241,
+          "id": "27-056",
+          "zh": "他口音浓重，又拖长腔调，让她很难听懂他要她做什么。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a big, booming voice, which echoed around the room as if he was speaking through a loudspeaker.",
+          "page": 241,
+          "id": "27-057",
+          "zh": "他的声音浑厚洪亮，在屋里回响，像通过扩音器说话。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He spoke in a rich, theatrical voice, as if he was acting on a stage.",
+          "page": 241,
+          "id": "27-058",
+          "zh": "他说话嗓音饱满，充满戏剧感，仿佛站在舞台上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He turned and stomped out of the room, unable to listen to her simpering voice any longer.",
+          "page": 241,
+          "id": "27-059",
+          "zh": "他再也受不了她忸怩做作的声音，转身重重踏步走出了房间。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "When she yelled, her voice was high and harsh, like the shriek of a seagull.",
+          "page": 241,
+          "id": "27-060",
+          "zh": "她叫起来声音又高又刺耳，像海鸥的尖叫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The words floated out of her mouth as a soft, feathery whisper.",
+          "page": 241,
+          "id": "27-061",
+          "zh": "话语像羽毛般轻柔的耳语，从她口中飘出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her voice was as quiet and soft as velvet.",
+          "page": 241,
+          "id": "27-062",
+          "zh": "她的声音像天鹅绒一样轻柔。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He spoke in a deep voice that was calm and as smooth as silk.",
+          "page": 241,
+          "id": "27-063",
+          "zh": "他说话声音低沉平静，像丝绸一样顺滑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a pleasant, educated accent that inspired trust.",
+          "page": 241,
+          "id": "27-064",
+          "zh": "他悦耳而有教养的口音让人产生信任。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty had a lilting, musical voice, which made the words dance in his ears.",
+          "page": 241,
+          "id": "27-065",
+          "zh": "基蒂的声音轻快悦耳，让话语仿佛在他的耳畔跳舞。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "It was difficult to know where he was from, as he spoke without a trace of an accent.",
+          "page": 241,
+          "id": "27-066",
+          "zh": "他说话没有明显口音，因此很难判断他来自哪里。"
+        }
+      ]
+    }
+  ]
+}

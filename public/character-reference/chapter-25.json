@@ -1,0 +1,1136 @@
+{
+  "id": 25,
+  "title": "Hair and facial hair",
+  "zh": "头发与胡须",
+  "group": "Appearance",
+  "startPage": 221,
+  "endPage": 232,
+  "sections": [
+    {
+      "title": "Section 1 – Colour",
+      "page": 222,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Black, dark, jet black, raven black; Grey, silver, white; Blond, yellow, straw-coloured, fair, golden, sandy, honey, bleached; Red, copper, ginger, orange, carrot-coloured; Brown, chestnut, auburn, dark, light; Bald",
+          "page": 222,
+          "id": "25-001",
+          "zh": "黑、深色、乌黑、乌鸦羽毛般黑；灰、银、白；金黄、黄、稻草色、浅色、金色、沙色、蜜色、漂浅；红、铜红、姜红、橙、胡萝卜色；棕、栗棕、赤褐、深、浅；秃顶。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Cut, dyed, streaked, receded",
+          "page": 222,
+          "id": "25-002",
+          "zh": "剪、染、挑染成条纹、发际线后退。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Raven black",
+          "page": 222,
+          "id": "25-003",
+          "zh": "乌鸦羽毛般的黑色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Jet black hair",
+          "page": 222,
+          "id": "25-004",
+          "zh": "乌黑的头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Auburn hair like liquid copper",
+          "page": 222,
+          "id": "25-005",
+          "zh": "赤褐色头发，像流动的铜液"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thick and chestnut-coloured",
+          "page": 222,
+          "id": "25-006",
+          "zh": "浓密的栗色头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Light brown hair",
+          "page": 222,
+          "id": "25-007",
+          "zh": "浅棕色头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Unruly orange hair",
+          "page": 222,
+          "id": "25-008",
+          "zh": "不服帖的橙色头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Silver tufts on either side of his round head",
+          "page": 222,
+          "id": "25-009",
+          "zh": "圆脑袋两侧的银色发簇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hair as white and fluffy as cotton wool",
+          "page": 222,
+          "id": "25-010",
+          "zh": "像棉花一样洁白蓬松的头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shaggy, grey-streaked hair like a wolf",
+          "page": 222,
+          "id": "25-011",
+          "zh": "像狼毛般蓬乱、夹杂灰白的头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin strip down the centre of his forehead",
+          "page": 222,
+          "id": "25-012",
+          "zh": "额头中央细细的一缕头发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Few tufts of grizzled, black hair",
+          "page": 222,
+          "id": "25-013",
+          "zh": "几簇夹杂灰白的黑发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Completely bald",
+          "page": 223,
+          "id": "25-014",
+          "zh": "完全秃顶"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cut short like a hedgehog",
+          "page": 223,
+          "id": "25-015",
+          "zh": "剪短后像刺猬一样竖起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dyed a fierce red",
+          "page": 223,
+          "id": "25-016",
+          "zh": "染成鲜艳的火红色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cut in a bob",
+          "page": 223,
+          "id": "25-017",
+          "zh": "剪成波波头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fluffed out like a dandelion",
+          "page": 223,
+          "id": "25-018",
+          "zh": "像蒲公英一样蓬开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scalp gleamed like polished bone",
+          "page": 223,
+          "id": "25-019",
+          "zh": "头皮像磨亮的骨头一样发光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Losing his hair",
+          "page": 223,
+          "id": "25-020",
+          "zh": "正在脱发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Strands combed from one side to the other",
+          "page": 223,
+          "id": "25-021",
+          "zh": "把发丝从一侧梳向另一侧来遮盖秃处"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Receding at the temples",
+          "page": 223,
+          "id": "25-022",
+          "zh": "两鬓的发际线往后退"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her unruly orange hair looked like flames blazing around her head.",
+          "page": 223,
+          "id": "25-023",
+          "zh": "她不服帖的橙发像火焰一样围着头燃烧。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His blond hair fluffed out from his head like a dandelion.",
+          "page": 223,
+          "id": "25-024",
+          "zh": "他的金发像蒲公英一样蓬在脑袋周围。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her long white hair hung in thin, limp strands on her shrunken head.",
+          "page": 223,
+          "id": "25-025",
+          "zh": "她的白色长发细软无力，一缕缕垂在干瘦的头上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her scalp gleamed like polished bone through her white, sparse hair.",
+          "page": 223,
+          "id": "25-026",
+          "zh": "透过稀疏的白发，她的头皮像磨亮的骨头一样发亮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had jet black hair, cut short and spiked like a hedgehog.",
+          "page": 223,
+          "id": "25-027",
+          "zh": "他的头发乌黑，剪得很短，像刺猬一样竖起。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had shiny black hair that fell in a sheet down her back and fanned across her shoulders.",
+          "page": 223,
+          "id": "25-028",
+          "zh": "她亮黑的头发整片垂在背上，又在肩头扇形铺开。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her short hair was still thick and dark, but streaked with lines of pure white.",
+          "page": 223,
+          "id": "25-029",
+          "zh": "她的短发依然浓密乌黑，却夹杂着一道道纯白发丝。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had a head of tamed, reddish curls that cascaded down her back.",
+          "page": 223,
+          "id": "25-030",
+          "zh": "她梳理整齐的红棕卷发如瀑布般垂在背后。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was losing his hair and combed the remaining strands from one side to the other, then greased them heavily in place.",
+          "page": 223,
+          "id": "25-031",
+          "zh": "他正在脱发，把剩下的头发从一侧梳到另一侧，再抹上厚厚的发油固定。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Style (Long)",
+      "page": 224,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Ponytail, pigtail, plaits, bun",
+          "page": 224,
+          "id": "25-032",
+          "zh": "马尾、辫子、发辫、发髻。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Long, shoulder length; Curly, frizzy, wavy, straight",
+          "page": 224,
+          "id": "25-033",
+          "zh": "长、齐肩；卷曲、细密鬈曲、波浪形、直。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Fell, flowed, streamed, cascaded, swung; Tied, held, pulled, dragged, gathered, fastened",
+          "page": 224,
+          "id": "25-034",
+          "zh": "垂落、流泻、飘扬、瀑布般垂下、摆动；扎、固定、拉、往后拽、聚拢、扣牢。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Heavy rope of black hair",
+          "page": 224,
+          "id": "25-035",
+          "zh": "像粗重绳子一样的黑发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Loose ponytail",
+          "page": 224,
+          "id": "25-036",
+          "zh": "松松的马尾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Two long pigtails",
+          "page": 224,
+          "id": "25-037",
+          "zh": "两根长辫子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tight bun on top of her head",
+          "page": 224,
+          "id": "25-038",
+          "zh": "头顶扎得紧紧的发髻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fell in a sheet down her back",
+          "page": 224,
+          "id": "25-039",
+          "zh": "整片垂在背上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flowed over her shoulders",
+          "page": 224,
+          "id": "25-040",
+          "zh": "流泻在肩头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cascaded down her back",
+          "page": 224,
+          "id": "25-041",
+          "zh": "如瀑布般垂在背后"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swung rhythmically from side to side",
+          "page": 224,
+          "id": "25-042",
+          "zh": "有节奏地左右摆动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fell around her face like a curtain",
+          "page": 224,
+          "id": "25-043",
+          "zh": "像帘子一样垂在脸两侧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gathered in a loose ponytail",
+          "page": 224,
+          "id": "25-044",
+          "zh": "拢成一个松马尾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tied in plaits",
+          "page": 225,
+          "id": "25-045",
+          "zh": "编成辫子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung down in two long pigtails",
+          "page": 225,
+          "id": "25-046",
+          "zh": "垂成两根长辫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung behind her like a tail",
+          "page": 225,
+          "id": "25-047",
+          "zh": "像尾巴一样垂在身后"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Streamed back from her face",
+          "page": 225,
+          "id": "25-048",
+          "zh": "从脸旁向后飘扬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pulled tightly into a bun",
+          "page": 225,
+          "id": "25-049",
+          "zh": "紧紧盘成发髻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Held back by a silver headband",
+          "page": 225,
+          "id": "25-050",
+          "zh": "用银色发箍把头发拢到后面"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fastened at the back with a wooden spike",
+          "page": 225,
+          "id": "25-051",
+          "zh": "用木簪在脑后固定"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her hair hung down in two long pigtails.",
+          "page": 225,
+          "id": "25-052",
+          "zh": "她的头发扎成两根垂下来的长辫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her long black hair fell around her face like a curtain.",
+          "page": 225,
+          "id": "25-053",
+          "zh": "她的黑色长发像帘子一样垂在脸两边。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her sandy hair was held back from her face by a silver headband.",
+          "page": 225,
+          "id": "25-054",
+          "zh": "银色发箍把她沙色的头发从脸旁拢到后面。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her dark hair was pulled back tight to her head and fastened at the back with an enormous wooden spike.",
+          "page": 225,
+          "id": "25-055",
+          "zh": "她深色的头发被紧紧往后梳，用一根大木簪固定在脑后。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had a head of reddish curls, which cascaded down her back.",
+          "page": 225,
+          "id": "25-056",
+          "zh": "她满头红棕色卷发如瀑布般披在背后。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had shiny black hair, which fell in a sheet down her back and fanned across her shoulders.",
+          "page": 225,
+          "id": "25-057",
+          "zh": "她亮黑的头发整片垂在背上，在肩头扇形散开。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her hair was gathered on top of her head and held in place by diamond pins that had turned her hair into a sparkling tiara.",
+          "page": 225,
+          "id": "25-058",
+          "zh": "她把头发盘在头顶，用钻石发夹固定，仿佛戴了一顶闪闪发光的冠冕。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her shiny brown hair swung rhythmically from side to side as she walked.",
+          "page": 225,
+          "id": "25-059",
+          "zh": "她走路时，亮泽的棕发有节奏地左右摆动。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Style (Short)",
+      "page": 226,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Bob, crew cut, quiff, tuft, spikes",
+          "page": 226,
+          "id": "25-060",
+          "zh": "波波头、平头、额前翘发、一簇头发、尖刺状头发。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Short, curly, frizzy, wavy, straight, spiky, scalp-hugging",
+          "page": 226,
+          "id": "25-061",
+          "zh": "短、卷曲、细密鬈曲、波浪形、直、刺状、紧贴头皮。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Wore, combed, styled; Cut, cropped, shaved; Spiked, stuck up, sleeked, gelled",
+          "page": 226,
+          "id": "25-062",
+          "zh": "留着某种发型、梳、造型；剪、剪短、剃；弄成尖刺、翘起、梳得光滑、抹发胶。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Stylish, sleek bob",
+          "page": 226,
+          "id": "25-063",
+          "zh": "时髦光滑的波波头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Military, scalp-hugging crop",
+          "page": 226,
+          "id": "25-064",
+          "zh": "贴着头皮的军人短发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Short to the nape of her neck",
+          "page": 226,
+          "id": "25-065",
+          "zh": "短到后颈发际的长度"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wore her hair short",
+          "page": 226,
+          "id": "25-066",
+          "zh": "留短发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cropped stylishly in a bob",
+          "page": 226,
+          "id": "25-067",
+          "zh": "剪成时髦的波波头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sleeked back",
+          "page": 226,
+          "id": "25-068",
+          "zh": "光滑地向后梳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stuck up in a tuft at the front",
+          "page": 226,
+          "id": "25-069",
+          "zh": "额前一撮头发翘起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swept back behind her ears",
+          "page": 226,
+          "id": "25-070",
+          "zh": "梳到耳后"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Combed back from his face",
+          "page": 226,
+          "id": "25-071",
+          "zh": "从额前往后梳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cropped tight to his head",
+          "page": 226,
+          "id": "25-072",
+          "zh": "剪得紧贴头皮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spiked like a hedgehog",
+          "page": 227,
+          "id": "25-073",
+          "zh": "像刺猬一样竖起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sticky and spiked with gel",
+          "page": 227,
+          "id": "25-074",
+          "zh": "被发胶弄得黏黏的、尖尖的"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gelled in an oily quiff",
+          "page": 227,
+          "id": "25-075",
+          "zh": "用发胶做成油亮的额前翘发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung down to hide his face",
+          "page": 227,
+          "id": "25-076",
+          "zh": "垂下来遮住他的脸"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her blonde hair was cropped stylishly in a sleek bob.",
+          "page": 227,
+          "id": "25-077",
+          "zh": "她的金发剪成时髦而光滑的波波头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She wore her hair short and swept behind her ears.",
+          "page": 227,
+          "id": "25-078",
+          "zh": "她留着短发，发丝梳到耳后。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His thick fair hair stuck up in a tuft at the front.",
+          "page": 227,
+          "id": "25-079",
+          "zh": "他浓密的浅色头发在额前翘起一撮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had jet black hair, which was cut short and spiked like a hedgehog.",
+          "page": 227,
+          "id": "25-080",
+          "zh": "他的乌黑头发剪得短短的，像刺猬一样竖起。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had curly black hair that was cut close to his head.",
+          "page": 227,
+          "id": "25-081",
+          "zh": "他的黑色卷发剪得很贴头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His hair had been shaved into a military, scalp-hugging crop.",
+          "page": 227,
+          "id": "25-082",
+          "zh": "他的头发剃成紧贴头皮的军人短发。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had white hair cropped short to the nape of her neck.",
+          "page": 227,
+          "id": "25-083",
+          "zh": "她的白发剪得很短，刚到后颈发际。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Untidy",
+      "page": 228,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Dreadlocks, mane, strands",
+          "page": 228,
+          "id": "25-084",
+          "zh": "脏辫、鬃毛般的浓发、发丝。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Thick, bushy, shaggy, unruly; Straggly, stiff, limp, knotted, tangled, twisted; Dry, greasy",
+          "page": 228,
+          "id": "25-085",
+          "zh": "浓密、蓬松、蓬乱、不服帖；凌乱稀疏、硬直、软塌、打结、纠缠、扭结；干燥、油腻。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Hung, fell, tousled, stuck up",
+          "page": 228,
+          "id": "25-086",
+          "zh": "垂着、落下、弄乱、翘起。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Limp red hair",
+          "page": 228,
+          "id": "25-087",
+          "zh": "软塌塌的红发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Long, greasy black hair",
+          "page": 228,
+          "id": "25-088",
+          "zh": "油腻的黑色长发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Unruly orange hair",
+          "page": 228,
+          "id": "25-089",
+          "zh": "不服帖的橙发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shaggy mane of blond hair",
+          "page": 228,
+          "id": "25-090",
+          "zh": "鬃毛般蓬乱的金发"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hair was a tangled, wild stack",
+          "page": 228,
+          "id": "25-091",
+          "zh": "头发像纠结凌乱的一堆草"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like great, twisted roots",
+          "page": 228,
+          "id": "25-092",
+          "zh": "像粗大的盘曲树根"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fell into his eyes",
+          "page": 228,
+          "id": "25-093",
+          "zh": "落进他眼前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung in thin, limp strands",
+          "page": 228,
+          "id": "25-094",
+          "zh": "细细软软地一缕缕垂下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprawled over her face",
+          "page": 228,
+          "id": "25-095",
+          "zh": "凌乱地铺在脸上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stuck up madly in all directions",
+          "page": 228,
+          "id": "25-096",
+          "zh": "朝四面八方疯狂翘起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Grew at odd angles out of her head",
+          "page": 229,
+          "id": "25-097",
+          "zh": "从头上以古怪的角度长出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fluffed out from his head",
+          "page": 229,
+          "id": "25-098",
+          "zh": "从脑袋四周蓬开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "As if he had had an electric shock",
+          "page": 229,
+          "id": "25-099",
+          "zh": "好像刚遭了电击"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked as if it had been cut by a pair of garden shears",
+          "page": 229,
+          "id": "25-100",
+          "zh": "看起来像用园艺剪剪过的"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Combed by the fingers of the wind",
+          "page": 229,
+          "id": "25-101",
+          "zh": "被风的手指梳过"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her hair was dry and a tangled wild stack.",
+          "page": 229,
+          "id": "25-102",
+          "zh": "她的头发干枯，纠结成乱蓬蓬的一堆。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her long, grey hair sprawled over her shrivelled face.",
+          "page": 229,
+          "id": "25-103",
+          "zh": "她灰色的长发凌乱地铺在干瘪的脸上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a mop of dreadlocked hair like great, twisted roots.",
+          "page": 229,
+          "id": "25-104",
+          "zh": "他一头脏辫像一团粗大扭曲的树根。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His black hair was long and greasy and combed back from his face.",
+          "page": 229,
+          "id": "25-105",
+          "zh": "他的黑发又长又油，从额前梳到脑后。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His thick, black hair stuck up in all directions and looked as if it had been cut by a pair of garden shears.",
+          "page": 229,
+          "id": "25-106",
+          "zh": "他浓密的黑发朝四面八方翘着，像用园艺剪剪过。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her hair had been combed and knotted by the fingers of the wind.",
+          "page": 229,
+          "id": "25-107",
+          "zh": "风的手指梳过她的头发，又把它打成了结。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Facial Hair",
+      "page": 230,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Stubble, shadow, tufts; Beard, moustache, whiskers, sideburns",
+          "page": 230,
+          "id": "25-108",
+          "zh": "胡茬、胡茬形成的暗影、毛簇；胡须、上唇髭、络腮胡、鬓角。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Stubbly, unshaven; Thin, little, narrow, pencil, goatee; Enormous, heavy, bushy, drooping; Dark, black; Scruffy, grimy, tangled, grizzled, unkempt; Neat, trim",
+          "page": 230,
+          "id": "25-109",
+          "zh": "胡茬丛生、未剃须；细、少、窄、铅笔般细、山羊胡；巨大、浓重、浓密、下垂；深色、黑；邋遢、污脏、纠结、斑白、未修整；整齐、修剪利落。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Grew, sprouted, poked; Curved, drooped; Spread, crept, covered; Cut, trimmed",
+          "page": 230,
+          "id": "25-110",
+          "zh": "生长、冒出、探出；弯曲、下垂；蔓延、逐渐延伸、覆盖；剪、修整。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dark stubble",
+          "page": 230,
+          "id": "25-111",
+          "zh": "深色胡茬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Grizzled tufts of hair",
+          "page": 230,
+          "id": "25-112",
+          "zh": "灰白夹杂的毛簇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin little moustache",
+          "page": 230,
+          "id": "25-113",
+          "zh": "细细的小胡子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Enormous, heavy moustache",
+          "page": 230,
+          "id": "25-114",
+          "zh": "巨大浓重的髭须"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dark moustache on her upper lip",
+          "page": 230,
+          "id": "25-115",
+          "zh": "她上唇深色的绒须"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bushy sideburns",
+          "page": 230,
+          "id": "25-116",
+          "zh": "浓密的鬓角"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Goatee beard",
+          "page": 231,
+          "id": "25-117",
+          "zh": "山羊胡"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tangled and grimy with food",
+          "page": 231,
+          "id": "25-118",
+          "zh": "纠结着，沾满食物污渍"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spread across his cheeks and chin",
+          "page": 231,
+          "id": "25-119",
+          "zh": "遍布他的脸颊与下巴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crept down his neck",
+          "page": 231,
+          "id": "25-120",
+          "zh": "一路长到脖子上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered most of his face",
+          "page": 231,
+          "id": "25-121",
+          "zh": "覆盖大半张脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Poked out from her chin",
+          "page": 231,
+          "id": "25-122",
+          "zh": "从她下巴上冒出来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Grew in grizzled tufts from ears and nostrils",
+          "page": 231,
+          "id": "25-123",
+          "zh": "灰白毛簇从耳朵和鼻孔里长出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted fiercely upwards",
+          "page": 231,
+          "id": "25-124",
+          "zh": "用力地向上卷翘"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curved around his face",
+          "page": 231,
+          "id": "25-125",
+          "zh": "沿着脸弯成一圈"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drooped over his upper lip and into his mouth",
+          "page": 231,
+          "id": "25-126",
+          "zh": "垂过上唇，伸进嘴里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprouted in all directions",
+          "page": 231,
+          "id": "25-127",
+          "zh": "朝各个方向乱长"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked like a clothes brush",
+          "page": 231,
+          "id": "25-128",
+          "zh": "看起来像衣刷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked as if it had been cut by a hedge trimmer",
+          "page": 231,
+          "id": "25-129",
+          "zh": "像用修篱机剪过的"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gave him a rugged look",
+          "page": 231,
+          "id": "25-130",
+          "zh": "使他显得粗犷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Made him look slightly eccentric",
+          "page": 231,
+          "id": "25-131",
+          "zh": "让他显得有点古怪"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His black, carelessly trimmed beard looked as if it had been cut by a hedge trimmer.",
+          "page": 231,
+          "id": "25-132",
+          "zh": "他的黑胡子修得很随便，像是用修篱机剪过的。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His goatee beard and thick glasses made him look slightly eccentric.",
+          "page": 231,
+          "id": "25-133",
+          "zh": "山羊胡和厚眼镜让他显得有点古怪。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Grizzled hair sprouted in all directions from his unkempt, bushy sideburns.",
+          "page": 231,
+          "id": "25-134",
+          "zh": "他蓬乱浓密的鬓角长出灰白毛发，朝各个方向支着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Dark stubble was spreading across his cheeks and chin, and creeping down his neck.",
+          "page": 231,
+          "id": "25-135",
+          "zh": "深色胡茬遍布他的脸颊和下巴，还一路延伸到脖子。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His beard covered so much of his face that only his nose and black eyes were visible.",
+          "page": 231,
+          "id": "25-136",
+          "zh": "他的胡子遮住了大半张脸，只露出鼻子和黑眼睛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His beard was tangled and grimy with food, which had dribbled when he was eating.",
+          "page": 232,
+          "id": "25-137",
+          "zh": "他的胡子纠结在一起，沾着吃饭时滴落的食物污渍。"
+        }
+      ]
+    }
+  ]
+}

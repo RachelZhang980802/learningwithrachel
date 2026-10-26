@@ -1,0 +1,11 @@
+/* Coordinates and embedded typefaces come directly from the source slides. */
+.ud-source-text{position:absolute;box-sizing:border-box;margin:0;padding:0;border:0;background:none;cursor:pointer;font-kerning:none;font-synthesis:none;line-height:1;white-space:pre;}
+.ud-source-run{position:absolute;display:block;margin:0;padding:0;border:0;font-weight:400;font-style:normal;line-height:1;white-space:pre;font-kerning:none;font-synthesis:none;}
+.ud-source-text:focus-visible{outline:2px solid #a8563d;outline-offset:3px;border-radius:2px;}
+.ud-source-text:hover{filter:brightness(.85);}
+.ud-source-ocr{font-family:Arial,"Songti SC",serif;font-weight:400;line-height:1;}
+.ud-source-ocr>span{display:inline-block;white-space:pre;transform-origin:top left;}
+.ud-image-word{position:absolute;display:block;white-space:pre;font-weight:400;font-style:normal;line-height:1;font-kerning:none;font-synthesis:none;margin:0;padding:0;}
+/* Separate PDF fragments can share a large block; only actual words are hit targets. */
+.ud-source-text{pointer-events:none;}
+.ud-source-text>span{pointer-events:auto;}

@@ -1,0 +1,1008 @@
+{
+  "id": 28,
+  "title": "Excited, happy",
+  "zh": "兴奋、快乐",
+  "group": "Emotions and personality",
+  "startPage": 243,
+  "endPage": 253,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 244,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Happiness, joy, delight, elation; Excitement, eagerness, anticipation; Heart, pulse",
+          "page": 244,
+          "id": "28-001",
+          "zh": "快乐、喜悦、欣喜、兴高采烈；兴奋、热切、期待；心脏、脉搏。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Happy, jolly, pleased, delighted, thrilled, overjoyed, elated, ecstatic; Bubbly, fizzy, lively, buzzing, animated, radiant; Eager, excited, enthusiastic",
+          "page": 244,
+          "id": "28-002",
+          "zh": "快乐、愉快、高兴、欣喜、激动、喜出望外、振奋、狂喜；活泼、像汽水般欢腾、生机勃勃、兴奋不已、神采飞扬、容光焕发；急切、兴奋、热情。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Beat, raced, pounded, throbbed; Tingled, shook, trembled, shivered",
+          "page": 244,
+          "id": "28-003",
+          "zh": "跳动、加速、猛跳、搏动；酥麻、摇晃、颤抖、战栗。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "On top of the world",
+          "page": 244,
+          "id": "28-004",
+          "zh": "觉得幸福极了；心情好到极点"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Over the moon",
+          "page": 244,
+          "id": "28-005",
+          "zh": "欣喜若狂；高兴极了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bubbly like a fizzy drink",
+          "page": 244,
+          "id": "28-006",
+          "zh": "像汽水冒泡一样活泼欢腾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Buzzing with excitement",
+          "page": 244,
+          "id": "28-007",
+          "zh": "兴奋得浑身来劲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Glow of happiness",
+          "page": 244,
+          "id": "28-008",
+          "zh": "幸福的暖意"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sense of elation",
+          "page": 244,
+          "id": "28-009",
+          "zh": "兴高采烈的感觉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Unbearable gurgle in his stomach",
+          "page": 244,
+          "id": "28-010",
+          "zh": "胃里翻腾着几乎难以忍受的激动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Heart pounded",
+          "page": 245,
+          "id": "28-011",
+          "zh": "心脏怦怦直跳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pulse raced",
+          "page": 245,
+          "id": "28-012",
+          "zh": "脉搏加速"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shivered with eagerness",
+          "page": 245,
+          "id": "28-013",
+          "zh": "因热切期待而发抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Body tingled with excitement",
+          "page": 245,
+          "id": "28-014",
+          "zh": "全身因兴奋而发麻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hands shook with anticipation",
+          "page": 245,
+          "id": "28-015",
+          "zh": "双手因期待而颤抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Could hardly contain his excitement",
+          "page": 245,
+          "id": "28-016",
+          "zh": "几乎无法抑制兴奋"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His elation was an almost unbearable gurgle in his stomach.",
+          "page": 245,
+          "id": "28-017",
+          "zh": "他欣喜若狂，胃里激动得翻腾，几乎难以承受。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was buzzing with excitement and couldn’t help breaking into a wide grin.",
+          "page": 245,
+          "id": "28-018",
+          "zh": "他兴奋不已，忍不住咧嘴大笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She felt as if she was on top of the world and a glow of happiness spread through her.",
+          "page": 245,
+          "id": "28-019",
+          "zh": "她幸福到了极点，快乐的暖意传遍全身。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His pulse was racing and he took a deep and loudly enthusiastic breath.",
+          "page": 245,
+          "id": "28-020",
+          "zh": "他的脉搏飞快跳动，兴奋地大声深吸了一口气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With heart pounding and hands shaking, she tore open the envelope.",
+          "page": 245,
+          "id": "28-021",
+          "zh": "她心怦怦直跳，双手颤抖着撕开信封。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 246,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Look, grin, smile, laughter; Mouth, lip, laughter lines",
+          "page": 246,
+          "id": "28-022",
+          "zh": "神情、咧嘴笑、微笑、笑声；嘴、嘴唇、笑纹。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Wide, broad, huge, eager; Toothy, cheeky, impish, comical, humorous",
+          "page": 246,
+          "id": "28-023",
+          "zh": "宽大、开怀、巨大、热切；露齿、调皮、顽皮、滑稽、幽默。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Grinned, smiled, laughed, gazed; Lit, shone, glowed; Broke, flashed, flickered",
+          "page": 246,
+          "id": "28-024",
+          "zh": "咧嘴笑、微笑、笑、注视；照亮、发亮、红润；忽然绽开、一闪而过、闪现。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Happily, comically; Eagerly, excitedly, enthusiastically",
+          "page": 246,
+          "id": "28-025",
+          "zh": "快乐地、滑稽地；急切地、兴奋地、热情地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Broad grin",
+          "page": 246,
+          "id": "28-026",
+          "zh": "咧嘴大笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Toothy grin",
+          "page": 246,
+          "id": "28-027",
+          "zh": "露齿而笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Impish grin",
+          "page": 246,
+          "id": "28-028",
+          "zh": "顽皮地咧嘴笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide, excited grin",
+          "page": 246,
+          "id": "28-029",
+          "zh": "兴奋地咧嘴大笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Grin as broad as his face",
+          "page": 246,
+          "id": "28-030",
+          "zh": "笑得满脸都是笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Beaming smile",
+          "page": 246,
+          "id": "28-031",
+          "zh": "灿烂的微笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide, gap-toothed smile",
+          "page": 246,
+          "id": "28-032",
+          "zh": "张嘴笑着，露出豁牙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide, eager smile",
+          "page": 246,
+          "id": "28-033",
+          "zh": "热切灿烂的笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Amused expression",
+          "page": 246,
+          "id": "28-034",
+          "zh": "觉得有趣的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Eager expression",
+          "page": 247,
+          "id": "28-035",
+          "zh": "热切的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Look of eager anticipation",
+          "page": 247,
+          "id": "28-036",
+          "zh": "满怀热切期待的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cheeks glowed",
+          "page": 247,
+          "id": "28-037",
+          "zh": "双颊泛着红光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gazed eagerly",
+          "page": 247,
+          "id": "28-038",
+          "zh": "热切地注视"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Laughter shone in his face",
+          "page": 247,
+          "id": "28-039",
+          "zh": "脸上闪着笑意"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Face lit up in a wide smile",
+          "page": 247,
+          "id": "28-040",
+          "zh": "灿烂笑容使整张脸亮起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Grinned like a Cheshire cat",
+          "page": 247,
+          "id": "28-041",
+          "zh": "像柴郡猫一样咧嘴大笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Broke into a broad grin",
+          "page": 247,
+          "id": "28-042",
+          "zh": "忽然咧嘴大笑起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flashed her a warm smile",
+          "page": 247,
+          "id": "28-043",
+          "zh": "朝她露出温暖的微笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flickered across his face",
+          "page": 247,
+          "id": "28-044",
+          "zh": "在他脸上一闪而过"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Waggled his eyebrows comically",
+          "page": 247,
+          "id": "28-045",
+          "zh": "滑稽地上下挑动眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Nibbled at her lower lip to hold back a smile",
+          "page": 247,
+          "id": "28-046",
+          "zh": "轻咬下唇忍住笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Laughter lines at the edge of her eyes deepened",
+          "page": 247,
+          "id": "28-047",
+          "zh": "眼角的笑纹加深了"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She looked up with an amused expression on her face.",
+          "page": 247,
+          "id": "28-048",
+          "zh": "她抬起头，脸上带着觉得有趣的神情。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was lit up by a huge smile as broad as his face.",
+          "page": 247,
+          "id": "28-049",
+          "zh": "他满脸大大的笑容，使整张脸亮了起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was thrilled to be chosen. Her cheeks glowed with excitement and her face broke into a wide, beaming smile.",
+          "page": 247,
+          "id": "28-050",
+          "zh": "被选中让她激动极了，双颊泛红，脸上绽开灿烂的笑容。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With an impish grin, he gazed eagerly up at his mother.",
+          "page": 247,
+          "id": "28-051",
+          "zh": "他顽皮地咧嘴笑着，热切地仰望母亲。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He nibbled at his lower lip to hold back the laughter that was threatening to erupt.",
+          "page": 247,
+          "id": "28-052",
+          "zh": "他轻咬下唇，忍住即将爆发的笑声。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As her face lit up in a wide grin, her eyes disappeared in deep wrinkles.",
+          "page": 247,
+          "id": "28-053",
+          "zh": "她咧嘴笑得满面生辉，眼睛也挤进了深深的笑纹里。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 248,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Humour, joy, delight, laughter, amusement; Interest, eagerness, excitement; Gleam, glint",
+          "page": 248,
+          "id": "28-054",
+          "zh": "幽默、快乐、欣喜、笑意、趣味；兴趣、热切、兴奋；微光、闪光。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Wide, bright, glittering",
+          "page": 248,
+          "id": "28-055",
+          "zh": "睁大的、明亮的、闪闪发光的。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Shone, beamed; Laughed, danced, sparkled, twinkled",
+          "page": 248,
+          "id": "28-056",
+          "zh": "发亮、放光；含笑、跳动、闪耀、闪烁。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bright, twinkling eyes",
+          "page": 248,
+          "id": "28-057",
+          "zh": "明亮闪烁的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide with excitement",
+          "page": 248,
+          "id": "28-058",
+          "zh": "因兴奋而睁大"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bright with interest and excitement",
+          "page": 248,
+          "id": "28-059",
+          "zh": "因兴趣和兴奋而明亮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Gleam of humour in her eyes",
+          "page": 248,
+          "id": "28-060",
+          "zh": "眼里闪着幽默的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Danced with laughter",
+          "page": 248,
+          "id": "28-061",
+          "zh": "眼里跳动着笑意"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twinkled with amusement",
+          "page": 248,
+          "id": "28-062",
+          "zh": "饶有趣味地闪烁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Laughter shone in her eyes",
+          "page": 248,
+          "id": "28-063",
+          "zh": "眼里闪着笑意"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shone like beams from a torch",
+          "page": 248,
+          "id": "28-064",
+          "zh": "像手电筒光束一样明亮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burned with excitement",
+          "page": 249,
+          "id": "28-065",
+          "zh": "眼里燃着兴奋的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sparkled with eagerness",
+          "page": 249,
+          "id": "28-066",
+          "zh": "因热切期待而闪闪发亮"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her bright eyes danced with laughter.",
+          "page": 249,
+          "id": "28-067",
+          "zh": "她明亮的眼睛里跳动着笑意。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She looked down at him with laughter shining in her eyes.",
+          "page": 249,
+          "id": "28-068",
+          "zh": "她垂眼看着他，眼里满是笑意。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She leaned forward, her blue eyes bright with interest and excitement.",
+          "page": 249,
+          "id": "28-069",
+          "zh": "她向前倾身，蓝眼睛因兴趣和兴奋而发亮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes burned with excitement and he kept shifting from one foot to the other.",
+          "page": 249,
+          "id": "28-070",
+          "zh": "他的眼睛燃着兴奋的光，双脚不断交替站立。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The delight shone from his eyes like beams from a torch and he clenched his fist and punched the air.",
+          "page": 249,
+          "id": "28-071",
+          "zh": "他的眼睛像手电光束一样射出喜悦，握拳向空中一挥。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As he burst into the room, his eyes were wide with excitement.",
+          "page": 249,
+          "id": "28-072",
+          "zh": "他冲进屋时，兴奋得双眼大睁。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Even though she was not smiling, there was a glint of humour in her eyes.",
+          "page": 249,
+          "id": "28-073",
+          "zh": "虽然她没笑，眼里却闪着幽默的光。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 250,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Laugh, giggle, chuckle, squeal, snort, gurgle; Shriek, guffaw, roar",
+          "page": 250,
+          "id": "28-074",
+          "zh": "笑、咯咯笑、轻笑、尖叫、喷笑、咯咯声；尖叫、放声大笑、吼笑。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Low, little, big, loud, high-pitched; Hearty, manic, raucous, devilish",
+          "page": 250,
+          "id": "28-075",
+          "zh": "低声、小、大、响亮、尖高；爽朗、狂热、喧闹刺耳、恶作剧般。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Giggled, chortled, snorted, laughed; Shook, trembled, cracked; Let out, stifled, blurted, exploded",
+          "page": 250,
+          "id": "28-076",
+          "zh": "咯咯笑、欢笑、喷笑、笑；抖动、发颤、破音；发出、忍住、脱口而出、爆发。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Big, hearty laugh",
+          "page": 250,
+          "id": "28-077",
+          "zh": "爽朗的大笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Loud, raucous laughter",
+          "page": 250,
+          "id": "28-078",
+          "zh": "响亮喧闹的笑声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Piercing shriek",
+          "page": 250,
+          "id": "28-079",
+          "zh": "刺耳的尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Devilish roar of glee",
+          "page": 250,
+          "id": "28-080",
+          "zh": "恶作剧得逞般的狂笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Squeal of delight",
+          "page": 250,
+          "id": "28-081",
+          "zh": "喜悦的尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Stifled snort",
+          "page": 250,
+          "id": "28-082",
+          "zh": "忍住的一声喷笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low, wheezing chuckle",
+          "page": 250,
+          "id": "28-083",
+          "zh": "低低的、带喘鸣的轻笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Excited gasps",
+          "page": 250,
+          "id": "28-084",
+          "zh": "兴奋的喘息"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shook with laughter",
+          "page": 251,
+          "id": "28-085",
+          "zh": "笑得发抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Giggles bubbled at the back of her throat",
+          "page": 251,
+          "id": "28-086",
+          "zh": "喉咙深处涌起咯咯笑声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blurted out a little laugh",
+          "page": 251,
+          "id": "28-087",
+          "zh": "忍不住笑了一声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chortled at the look on her face",
+          "page": 251,
+          "id": "28-088",
+          "zh": "看着她的表情乐得笑起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Let out a peel of manic laughter",
+          "page": 251,
+          "id": "28-089",
+          "zh": "爆发出一阵狂笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Exploded into loud guffaws",
+          "page": 251,
+          "id": "28-090",
+          "zh": "突然放声大笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rose with excitement into a piercing squeal",
+          "page": 251,
+          "id": "28-091",
+          "zh": "声音因兴奋而升高，变成尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words tumbled over each other in a high-pitched gabble",
+          "page": 251,
+          "id": "28-092",
+          "zh": "话语挤在一起，变成尖声急语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words came in excited gasps",
+          "page": 251,
+          "id": "28-093",
+          "zh": "话语随着兴奋的喘息断续说出"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He laughed a big, hearty laugh that echoed around the room.",
+          "page": 251,
+          "id": "28-094",
+          "zh": "他爽朗地哈哈大笑，笑声回荡在房间里。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She let out a squeal of delight and hopped up and down on the spot.",
+          "page": 251,
+          "id": "28-095",
+          "zh": "她高兴地尖叫，站在原地上下跳。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He threw back his head and exploded into loud guffaws of laughter.",
+          "page": 251,
+          "id": "28-096",
+          "zh": "他仰起头，突然放声大笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty tried to smother her laughter, but it exploded as a snort.",
+          "page": 251,
+          "id": "28-097",
+          "zh": "基蒂试图忍笑，却还是噗地笑出了声。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His voice cracked with loud, raucous laughter and tears poured down his cheeks.",
+          "page": 251,
+          "id": "28-098",
+          "zh": "他笑得声音破哑，泪水沿着脸颊直流。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She pressed her lips tightly together to smother the giggles that were bubbling in the back of her throat.",
+          "page": 251,
+          "id": "28-099",
+          "zh": "她紧紧抿住嘴唇，想压住喉咙里不断冒出的笑声。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert let out a peel of manic laughter and held his sides.",
+          "page": 251,
+          "id": "28-100",
+          "zh": "罗伯特捧着肚子，爆发出一阵狂笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As the laughter exploded in his throat, his shoulders shook and his body convulsed helplessly.",
+          "page": 251,
+          "id": "28-101",
+          "zh": "笑声从喉咙里迸发时，他双肩抖动，全身不由自主地抽动。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 252,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Arms, hands, palms, fist",
+          "page": 252,
+          "id": "28-102",
+          "zh": "手臂、手、手掌、拳头。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Skipped, hopped, jigged, pranced, danced; Leapt, sprung, jumped, bounced; Rubbed, clapped, pumped, punched, clenched; Hugged",
+          "page": 252,
+          "id": "28-103",
+          "zh": "蹦跳、单脚跳、跳小步舞、雀跃、跳舞；跃起、弹起、跳、弹跳；搓、拍、上下摇动、挥拳、握紧；拥抱。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Walked with a bounce in her step",
+          "page": 252,
+          "id": "28-104",
+          "zh": "脚步轻快，带着弹跳感"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jumped up and down",
+          "page": 252,
+          "id": "28-105",
+          "zh": "上下跳跃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Leapt in the air, screaming with excitement",
+          "page": 252,
+          "id": "28-106",
+          "zh": "兴奋尖叫着跳起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hopped up and down on the spot",
+          "page": 252,
+          "id": "28-107",
+          "zh": "原地上下跳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Skipped along the pavement",
+          "page": 252,
+          "id": "28-108",
+          "zh": "沿人行道蹦蹦跳跳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jigged around the room",
+          "page": 252,
+          "id": "28-109",
+          "zh": "在屋里欢快地跳小步舞"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Threw her arms around his neck",
+          "page": 252,
+          "id": "28-110",
+          "zh": "双臂一下搂住他的脖子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clenched his fist and punched the air",
+          "page": 252,
+          "id": "28-111",
+          "zh": "握拳朝空中挥舞"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rubbed palms together with excitement",
+          "page": 252,
+          "id": "28-112",
+          "zh": "兴奋地搓着手掌"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clapped hands and squealed with delight",
+          "page": 252,
+          "id": "28-113",
+          "zh": "拍手并喜悦地尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pumped each other’s hands frantically",
+          "page": 252,
+          "id": "28-114",
+          "zh": "拼命握着对方的手上下摇"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She threw her arms around his neck and shrieked with joy.",
+          "page": 253,
+          "id": "28-115",
+          "zh": "她双臂搂住他的脖子，高兴地尖叫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She dropped the phone and leapt into the air. Screaming, she pumped the air with her fist.",
+          "page": 253,
+          "id": "28-116",
+          "zh": "她放下电话，跳了起来，一边尖叫一边朝空中挥拳。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He walked with a bounce in his step and a wide, eager grin on his face.",
+          "page": 253,
+          "id": "28-117",
+          "zh": "他步履轻快，脸上挂着热切的大笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She skipped along the pavement, grinning from ear to ear.",
+          "page": 253,
+          "id": "28-118",
+          "zh": "她沿人行道蹦蹦跳跳，笑得合不拢嘴。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He burst into the room, laughing madly and clapping his hands with delight.",
+          "page": 253,
+          "id": "28-119",
+          "zh": "他冲进房间，笑得停不下来，高兴地拍着手。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "They were shivering with excitement and pumped each other’s hands enthusiastically.",
+          "page": 253,
+          "id": "28-120",
+          "zh": "他们激动得发抖，热情地握住彼此的手使劲摇。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His whole body tingled with anticipation and he kept patting his plump hands together like an excited child.",
+          "page": 253,
+          "id": "28-121",
+          "zh": "期待使他全身发麻，他像兴奋的孩子一样不停地拍着胖乎乎的双手。"
+        }
+      ]
+    }
+  ]
+}

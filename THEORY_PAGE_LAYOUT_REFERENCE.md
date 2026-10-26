@@ -1,3 +1,34 @@
+# 当前执行规则：原课件内容与互动页面（2026-10-26）
+
+本节记录用户最新要求，优先于下方历史方案。
+
+- 入口为 Narrative Writing → Units → 对应单元；`#unit-one` 至 `#unit-six` 及各自 `-knowledge` 地址均进入课件阅读器。
+- 外层仅保留导航。所选课件内容作为主体，保留各单元原有配色、插图、背景与强调色；正文为原生 HTML，不用整页截图代替可交互文字。
+- 原稿/PDF 导出中已有的重叠、越界和裁切也要整理：完整可读且不遮挡优先于机械保留错误坐标。不得删减正文来解决空间问题。
+- 点击原文显示对应中文释义。中文放在不覆盖课件的独立区域；恢复自图片的文字按完整上下文显示释义。可选 Recall English 模式按原文本框逐一揭示英文。
+- Unit 2、3 的 Characters / Settings 导航保留此前加入的 Descriptosaurus 参考内容。
+
+选页按源文件物理页码：
+
+| 单元 | 页码 | 页数 |
+| --- | --- | --- |
+| Unit 1 | 22–24、42–47、57、145–156（与此前课程内容对应） | 22 |
+| Unit 2 | 1–16、19–21、23–27、35–43、110–118 | 42 |
+| Unit 3 | 1–20、22–34、36–37 | 35 |
+| Unit 4 | 1–56、100–106 | 63 |
+| Unit 5 | 1–18、22–33、161–175、177–186 | 55 |
+| Unit 6 | 1–19、66–77 | 31 |
+
+Unit 4 经用户确认使用原 PDF，其余使用 PPTX 对应内容。
+
+实现入口：`app/UnitDeckViewer.tsx`；选页目录：`app/unitDeckSources.json`；单元数据按需加载于 `public/narrative-course/decks/`。原稿转换：`scripts/convert-unit-decks.py`；释义字典：`app/unitDeckGlossary.json`、`app/unitDeckGlossaryById.json`。不要重新启用下方历史整页图片/额外标题方案。
+
+故事书：98 页原书内容保留；创作与中文切换限定在明确的写作框或漫画气泡内。无可写空白框的页面从导航打开独立范例区；长文在对应框内部滚动，不遮盖原文或插图。
+
+---
+
+以下内容为历史记录，发生冲突时以上述最新规则为准。
+
 # 单元理论知识页：导航与排版逻辑
 
 以第一单元现有页面为参考，供第二单元排版时复用。重点是**页面层级、导航行为和内容容器**；第二单元的栏目及教学内容仍以该单元材料决定。
@@ -92,3 +123,23 @@
 用户随后明确要求把课件图片直接放在网页正文里，并删除单独的 “Original page” 入口。这条要求优先于第 7 节关于正文必须逐页转成原生文字版式的建议：Unit 3–6 保留网页导航与各自单元封面，目录、学习目标及所选教学页直接显示源页图片；图片下方提供可展开的文字版，供窄屏阅读、复制与辅助技术使用。课件本身已有的拼写或排版问题会随图片呈现，不应把它误报成网页的错位。
 
 Unit 3 第 13 页的中文诗句在源页转图时变成缺字方框；网页用 PPTX 中的原始文字在图片上覆盖恢复。所有课件图片都应在正文中可见，而不是藏在“对照原页”的折叠区里。
+
+
+## 9. Unit 3 原生 HTML（2026-10-26）
+
+用户最新要求将 Unit 3 理论页全部按原稿还原为 HTML，取代第 8 节中 Unit 3 的整页图片方案。所选 34 页（2–20、22–34、36–37）使用 PPTX 的原始文本、富文本颜色、坐标和独立插图生成，文字为可选中的 HTML，装饰与插图使用独立 SVG/图像素材。沿用现有四个标签、页码和前后翻页；Unit 4–6 不变。
+
+生成器：`scripts/convert-unit-three.py`；网页内容：`app/unitThreeNativeSlides.json`；样式：`app/unit-three-native.css`；来源核对：`docs/unit-three-native-audit.json`。窄屏保持原稿比例，可在页面内部横向滚动。独立 HTML：`public/narrative-course/theory/unit-3/html/lesson.html`。
+
+
+### Unit 3 后续交互调整
+
+按用户要求删除第 3 页内部重复的 Teaching Objectives 标题，保留页面外层标题。第 5–20 页的英文描述与引用（第 13 页中文诗除外），以及第 31、32、33、37 页的引用，共 21 段，使用原生 details/summary 点击显隐：中文紧接对应英文，在同一段内自然换行。源课件已有译文移入该交互，不再单独常显；无译文的 8 段使用 `app/unitThreeQuoteTranslations.json` 中的辅助翻译。`app/unitThreeInteractions.js` 让展开内容增加页面高度并推开后续图文，折叠后恢复原排版。生成器同步更新网页与独立 HTML。
+
+### Unit 4–6 native theory pages (2026-10-26)
+
+The selected theory pages in Units 4, 5 and 6 now use native, selectable HTML text in the original slide coordinates. Their source artwork is stored as text-free SVG with separate image assets in `public/narrative-course/theory/native/`; the browser loads each SVG only when its page enters view. The source inventory and text counts are in `docs/unit-theory-native-audit.json`.
+
+Regenerate with `PYTHONPATH=/private/tmp/native-slides-libs python3 scripts/convert-unit-theory-native.py` after converting the Unit 5 and 6 PPTX files to PDF using LibreOffice. `app/unitTheoryImageText.json` holds the visible HTML transcription of 25 source pages whose PDF text layer is empty because the source text is baked into illustrations. Review those transcriptions against the source before editing; the original artwork remains alongside them.
+
+Unit 3 page 18 uses a scoped smaller English font in `app/unit-three-native.css`. Regenerate its standalone `lesson.html` after CSS changes with `scripts/convert-unit-three.py`.

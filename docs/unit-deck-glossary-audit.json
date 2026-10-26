@@ -1,0 +1,63 @@
+{
+  "glossaryEntries": 1019,
+  "contextualEntries": 1164,
+  "invalidEntries": [],
+  "contextMismatches": [],
+  "unusedContextIds": [],
+  "units": {
+    "1": {
+      "selectedPages": 22,
+      "englishBlocks": 131,
+      "translatedEnglishBlocks": 131,
+      "englishCharacters": 6908,
+      "translatedEnglishCharacters": 6908,
+      "otherBlocks": 8,
+      "missingEnglishBlocks": []
+    },
+    "2": {
+      "selectedPages": 42,
+      "englishBlocks": 167,
+      "translatedEnglishBlocks": 167,
+      "englishCharacters": 15845,
+      "translatedEnglishCharacters": 15845,
+      "otherBlocks": 8,
+      "missingEnglishBlocks": []
+    },
+    "3": {
+      "selectedPages": 35,
+      "englishBlocks": 271,
+      "translatedEnglishBlocks": 271,
+      "englishCharacters": 13250,
+      "translatedEnglishCharacters": 13250,
+      "otherBlocks": 24,
+      "missingEnglishBlocks": []
+    },
+    "4": {
+      "selectedPages": 63,
+      "englishBlocks": 566,
+      "translatedEnglishBlocks": 566,
+      "englishCharacters": 25912,
+      "translatedEnglishCharacters": 25912,
+      "otherBlocks": 14,
+      "missingEnglishBlocks": []
+    },
+    "5": {
+      "selectedPages": 55,
+      "englishBlocks": 414,
+      "translatedEnglishBlocks": 414,
+      "englishCharacters": 19231,
+      "translatedEnglishCharacters": 19231,
+      "otherBlocks": 17,
+      "missingEnglishBlocks": []
+    },
+    "6": {
+      "selectedPages": 31,
+      "englishBlocks": 371,
+      "translatedEnglishBlocks": 371,
+      "englishCharacters": 11481,
+      "translatedEnglishCharacters": 11481,
+      "otherBlocks": 7,
+      "missingEnglishBlocks": []
+    }
+  }
+}

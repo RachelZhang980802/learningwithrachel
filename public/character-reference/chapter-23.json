@@ -1,0 +1,858 @@
+{
+  "id": 23,
+  "title": "Mouth, teeth, nose and ears",
+  "zh": "嘴、牙齿、鼻子和耳朵",
+  "group": "Appearance",
+  "startPage": 208,
+  "endPage": 217,
+  "sections": [
+    {
+      "title": "Section 1 – Mouth",
+      "page": 209,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Narrow, thin, tight; Wide, thick, full, fleshy, flabby, plump, big-lipped; Wrinkled, dry, flaking, drooping; Beaming, excited, impish; Stern, menacing, sneering, reptilian",
+          "page": 209,
+          "id": "23-001",
+          "zh": "窄、薄、紧闭；宽、厚、饱满、多肉、松垮、丰润、厚嘴唇；起皱、干燥、脱皮、下垂；笑容灿烂、兴奋、顽皮；严厉、威胁、讥讽、爬行动物般阴冷。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Rose, curved; Pressed, pursed, pinched, puckered",
+          "page": 209,
+          "id": "23-002",
+          "zh": "扬起、弯起；抿紧、噘起、紧缩、皱缩。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide, full mouth",
+          "page": 209,
+          "id": "23-003",
+          "zh": "宽大饱满的嘴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide mouth and thick lips",
+          "page": 209,
+          "id": "23-004",
+          "zh": "宽嘴厚唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tiny rosebud mouth",
+          "page": 209,
+          "id": "23-005",
+          "zh": "小小的玫瑰花蕾般的嘴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Narrow mouth and thin, pursed lips",
+          "page": 209,
+          "id": "23-006",
+          "zh": "窄窄的嘴，薄唇紧抿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wrinkled, puckered mouth",
+          "page": 209,
+          "id": "23-007",
+          "zh": "皱缩的嘴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Plump lips",
+          "page": 209,
+          "id": "23-008",
+          "zh": "丰润的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thick, fleshy, drooping lips",
+          "page": 209,
+          "id": "23-009",
+          "zh": "厚厚的、多肉而下垂的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin, stern lips",
+          "page": 209,
+          "id": "23-010",
+          "zh": "薄薄的、显得严厉的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dry, flaking lips",
+          "page": 209,
+          "id": "23-011",
+          "zh": "干燥脱皮的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pinched lips",
+          "page": 209,
+          "id": "23-012",
+          "zh": "紧抿的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Reptilian smirk",
+          "page": 209,
+          "id": "23-013",
+          "zh": "爬行动物般阴冷的假笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Impish grin",
+          "page": 209,
+          "id": "23-014",
+          "zh": "顽皮的咧嘴笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Excited grin",
+          "page": 210,
+          "id": "23-015",
+          "zh": "兴奋的咧嘴笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Beaming smile",
+          "page": 210,
+          "id": "23-016",
+          "zh": "灿烂的笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rose in a perfect curve",
+          "page": 210,
+          "id": "23-017",
+          "zh": "扬起一道完美的弧线"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curved upwards into a wide, beaming smile",
+          "page": 210,
+          "id": "23-018",
+          "zh": "嘴角上扬，绽开灿烂的笑容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed into a tight, thin line",
+          "page": 210,
+          "id": "23-019",
+          "zh": "紧紧抿成一条细线"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stuck in a sneering smile",
+          "page": 210,
+          "id": "23-020",
+          "zh": "固定成一副讥笑的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stuck in a permanent pucker",
+          "page": 210,
+          "id": "23-021",
+          "zh": "一直噘着嘴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Turned down at the corners in a permanent sulk",
+          "page": 210,
+          "id": "23-022",
+          "zh": "嘴角下垂，仿佛总在生闷气"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had a tiny rosebud mouth.",
+          "page": 210,
+          "id": "23-023",
+          "zh": "她的嘴小巧得像玫瑰花蕾。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her mouth and plump lips rose in a perfect curve.",
+          "page": 210,
+          "id": "23-024",
+          "zh": "她丰润的嘴唇扬起一道完美的弧线。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was big-lipped and gap-toothed.",
+          "page": 210,
+          "id": "23-025",
+          "zh": "他嘴唇厚，牙缝大。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her lips were pale and pressed into a tight, thin line.",
+          "page": 210,
+          "id": "23-026",
+          "zh": "她的嘴唇苍白，紧紧抿成一条细线。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Saliva dribbled onto his chin from his limp, drooping lip.",
+          "page": 210,
+          "id": "23-027",
+          "zh": "唾液从他松垮下垂的嘴唇淌到下巴上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a wide, full mouth that seemed stuck in a sneering smile.",
+          "page": 210,
+          "id": "23-028",
+          "zh": "他的嘴宽大饱满，似乎始终挂着讥讽的笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her lips looked like they had been blown up by a bicycle pump and stuck in a permanent pucker.",
+          "page": 210,
+          "id": "23-029",
+          "zh": "她的嘴唇像被自行车打气筒充了气，一直噘在那里。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had a wide mouth and thick lips, which curved upwards into a broad, beaming smile.",
+          "page": 210,
+          "id": "23-030",
+          "zh": "她嘴巴宽、嘴唇厚，嘴角上扬时绽开灿烂的笑容。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Teeth",
+      "page": 211,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Molars, fangs, stumps, tombstones, false teeth, pearls",
+          "page": 211,
+          "id": "23-031",
+          "zh": "臼齿、獠牙、残根、墓碑、假牙、珍珠。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Toothless, gap-toothed; Straight, crooked, jagged; Rotting, crumbling; White, brown, yellow, grey, gold-capped; Sparkling, polished, stained",
+          "page": 211,
+          "id": "23-032",
+          "zh": "无牙、牙缝大；整齐、歪斜、参差；腐烂、碎裂；白、棕、黄、灰、包金牙冠；闪亮、光洁、有污渍。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Chipped, jutted, protruded",
+          "page": 211,
+          "id": "23-033",
+          "zh": "缺损、突出、凸出。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Teeth like polished pearls",
+          "page": 211,
+          "id": "23-034",
+          "zh": "像抛光珍珠一样的牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Great sheet of white, polished teeth",
+          "page": 211,
+          "id": "23-035",
+          "zh": "一大片洁白光亮的牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Toothless smile",
+          "page": 211,
+          "id": "23-036",
+          "zh": "露着无牙牙床的笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Two jagged rows of rotting, brown teeth",
+          "page": 211,
+          "id": "23-037",
+          "zh": "两排参差不齐、发棕腐烂的牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like crumbling tombstones",
+          "page": 211,
+          "id": "23-038",
+          "zh": "像崩裂的墓碑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Stained, chipped teeth",
+          "page": 211,
+          "id": "23-039",
+          "zh": "沾有污渍、磕缺的牙齿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Mouth full of yellow teeth",
+          "page": 211,
+          "id": "23-040",
+          "zh": "满口黄牙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Crooked teeth and cracked, flaky lips",
+          "page": 211,
+          "id": "23-041",
+          "zh": "歪斜的牙齿和开裂脱皮的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jutted out like fangs",
+          "page": 212,
+          "id": "23-042",
+          "zh": "像獠牙一样伸出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chipped diagonally in half",
+          "page": 212,
+          "id": "23-043",
+          "zh": "斜斜地磕掉了一半"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Worn to yellowing stumps",
+          "page": 212,
+          "id": "23-044",
+          "zh": "磨损成发黄的残根"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clicked when she moved her lips",
+          "page": 212,
+          "id": "23-045",
+          "zh": "她动嘴唇时发出咔哒声"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curved down over his lower lip",
+          "page": 212,
+          "id": "23-046",
+          "zh": "向下弯过下唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Teeth bared in a reptilian leer",
+          "page": 212,
+          "id": "23-047",
+          "zh": "露出牙齿，阴冷地狞笑"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her teeth were like polished pearls.",
+          "page": 212,
+          "id": "23-048",
+          "zh": "她的牙齿像抛光的珍珠。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a great sheet of polished, white teeth and a warm smile.",
+          "page": 212,
+          "id": "23-049",
+          "zh": "他一笑便露出一大片光洁的白牙，笑容温暖。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her false teeth clicked when she moved her lips.",
+          "page": 212,
+          "id": "23-050",
+          "zh": "她的嘴唇一动，假牙就咔哒作响。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A gold-capped molar glinted when he opened his mouth.",
+          "page": 212,
+          "id": "23-051",
+          "zh": "他张嘴时，一颗包金的臼齿闪了一下。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His teeth jutted out like fangs and curved down over his lower lip.",
+          "page": 212,
+          "id": "23-052",
+          "zh": "他的牙齿像獠牙般突出，向下弯到下唇外。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His teeth had worn away into yellowing stumps that looked like crumbling tombstones.",
+          "page": 212,
+          "id": "23-053",
+          "zh": "他的牙齿磨成了发黄的残根，像一排崩裂的墓碑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Behind the thick fleshy lips, she could see his stained and crooked teeth.",
+          "page": 212,
+          "id": "23-054",
+          "zh": "透过那厚厚的嘴唇，她看见了他沾满污渍、歪斜的牙齿。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "When he snarled, he revealed two jagged rows of brown, rotting teeth.",
+          "page": 212,
+          "id": "23-055",
+          "zh": "他龇牙低吼时，露出两排参差不齐、发棕腐烂的牙。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Nose",
+      "page": 213,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Nose, nostrils, freckles, veins, hairs; Boxer, hawk, eagle",
+          "page": 213,
+          "id": "23-056",
+          "zh": "鼻子、鼻孔、雀斑、血管、毛发；拳击手、鹰、雕。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Large, small, long, short; Thin, narrow, wide, broad; Straight, flattened, pointed, curved, turned up, hooked, broken, crooked; Pug, button, snub, triangle, beak-like",
+          "page": 213,
+          "id": "23-057",
+          "zh": "大、小、长、短；细、窄、宽、宽阔；笔直、扁平、尖、弯、上翘、钩状、折断、歪；短塌鼻、小圆鼻、短翘鼻、三角形、鸟喙般。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Covered, spread, stretched; Flared, pinched",
+          "page": 213,
+          "id": "23-058",
+          "zh": "覆盖、扩展、延伸；鼻翼张开、紧缩。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small pug nose",
+          "page": 213,
+          "id": "23-059",
+          "zh": "小小的短塌鼻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tiny, triangular nose",
+          "page": 213,
+          "id": "23-060",
+          "zh": "小巧的三角鼻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Long, narrow and pointed",
+          "page": 213,
+          "id": "23-061",
+          "zh": "又长又窄又尖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thick and broad",
+          "page": 213,
+          "id": "23-062",
+          "zh": "厚实宽大"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Large, hooked nose",
+          "page": 213,
+          "id": "23-063",
+          "zh": "大鹰钩鼻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Broken nose",
+          "page": 213,
+          "id": "23-064",
+          "zh": "折断过的鼻子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Crooked nose",
+          "page": 213,
+          "id": "23-065",
+          "zh": "歪鼻子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Flattened nose of a boxer",
+          "page": 213,
+          "id": "23-066",
+          "zh": "像拳击手那样的扁鼻子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Perfectly straight",
+          "page": 213,
+          "id": "23-067",
+          "zh": "十分笔直"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Large bulbous nose",
+          "page": 214,
+          "id": "23-068",
+          "zh": "大而圆鼓的鼻子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Narrow pinched nostrils",
+          "page": 214,
+          "id": "23-069",
+          "zh": "狭窄紧缩的鼻孔"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide flared nostrils",
+          "page": 214,
+          "id": "23-070",
+          "zh": "宽大张开的鼻孔"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thick tufts of sprouting hair",
+          "page": 214,
+          "id": "23-071",
+          "zh": "一簇簇浓密长出的毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered in swollen red veins",
+          "page": 214,
+          "id": "23-072",
+          "zh": "布满凸起的红色血管"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered in freckles",
+          "page": 214,
+          "id": "23-073",
+          "zh": "满是雀斑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprouted from his nostrils",
+          "page": 214,
+          "id": "23-074",
+          "zh": "从鼻孔里长出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spread across his cheek",
+          "page": 214,
+          "id": "23-075",
+          "zh": "向脸颊上扩展"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Made him look stern and arrogant",
+          "page": 214,
+          "id": "23-076",
+          "zh": "使他显得严厉傲慢"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flared with every breath",
+          "page": 214,
+          "id": "23-077",
+          "zh": "随每一次呼吸翕张"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had the flattened nose of a boxer.",
+          "page": 214,
+          "id": "23-078",
+          "zh": "他有一个拳击手般的扁鼻子。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her small, upturned nose was covered in freckles.",
+          "page": 214,
+          "id": "23-079",
+          "zh": "她小巧上翘的鼻子上满是雀斑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was a petite woman with a thin, perfectly straight nose.",
+          "page": 214,
+          "id": "23-080",
+          "zh": "她是个娇小的女人，鼻子纤细而笔直。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eagle beak of a nose made him look stern and arrogant.",
+          "page": 214,
+          "id": "23-081",
+          "zh": "他的鹰钩鼻让他显得严厉又傲慢。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His wide nostrils flared with every breath like an angry bull.",
+          "page": 214,
+          "id": "23-082",
+          "zh": "他宽大的鼻孔像发怒的公牛一样，随着每次呼吸翕张。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His bulbous nose was covered in swollen red veins and had clumps of dark wiry hair sprouting from the nostrils.",
+          "page": 214,
+          "id": "23-083",
+          "zh": "他圆鼓的鼻子上满是凸起的红血管，鼻孔里长出一团团黑而硬的毛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a thin, scarred face and a nose that had been broken so many times it seemed to spreading across his right cheek.",
+          "page": 214,
+          "id": "23-084",
+          "zh": "他脸瘦而有疤，鼻子折断过多次，仿佛已经歪向右脸颊。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He looked at them over his glasses, which were perched on the end of his large, hooked nose.",
+          "page": 214,
+          "id": "23-085",
+          "zh": "眼镜架在他大鹰钩鼻的鼻尖上，他从镜片上方向他们望去。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She glanced down at him over her narrow pinched nostrils, as if he was a nasty smell under her nose.",
+          "page": 214,
+          "id": "23-086",
+          "zh": "她抬着鼻子，从紧缩的鼻孔上方垂眼看他，仿佛他是鼻子底下难闻的气味。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Ears",
+      "page": 216,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Cauliflower, cabbage, bat, basset hound, satellite dish; Earlobes, earrings",
+          "page": 216,
+          "id": "23-087",
+          "zh": "菜花、卷心菜、蝙蝠、巴吉度猎犬、卫星接收碟；耳垂、耳环。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Big, large, huge, enormous, small, tiny; Droopy, dangling, prominent, protruding",
+          "page": 216,
+          "id": "23-088",
+          "zh": "大、宽大、巨大、硕大、小、微小；耷拉、悬垂、显眼、突出。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Jutted, stretched, veined",
+          "page": 216,
+          "id": "23-089",
+          "zh": "突出、拉长、布满脉络。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Big, droopy ears",
+          "page": 216,
+          "id": "23-090",
+          "zh": "大而下垂的耳朵"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Huge cauliflower ears",
+          "page": 216,
+          "id": "23-091",
+          "zh": "巨大的菜花耳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a basset hound",
+          "page": 216,
+          "id": "23-092",
+          "zh": "像巴吉度猎犬的耳朵"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like mini satellite dishes",
+          "page": 216,
+          "id": "23-093",
+          "zh": "像小型卫星接收碟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small, bat-like ears",
+          "page": 216,
+          "id": "23-094",
+          "zh": "小小的蝙蝠般的耳朵"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Enormous, heavy, dangling earrings",
+          "page": 216,
+          "id": "23-095",
+          "zh": "又大又重、晃荡着的耳环"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jutted out on either side of his head",
+          "page": 216,
+          "id": "23-096",
+          "zh": "从头两侧向外支出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Attached to his head",
+          "page": 216,
+          "id": "23-097",
+          "zh": "连在头上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Veined like a cabbage leaf",
+          "page": 216,
+          "id": "23-098",
+          "zh": "纹路像卷心菜叶的叶脉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Earlobes stretched into long, narrow ovals",
+          "page": 216,
+          "id": "23-099",
+          "zh": "耳垂被拉成长长的窄椭圆形"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His huge, cauliflower ears jutted out on either side of his head.",
+          "page": 217,
+          "id": "23-100",
+          "zh": "他的菜花状大耳朵从头两侧支出来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His ears were large and veined like a cabbage leaf.",
+          "page": 217,
+          "id": "23-101",
+          "zh": "他的耳朵很大，上面的血管纹路像卷心菜叶的叶脉。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her earlobes were stretched into long narrow ovals by enormous, dangling earrings.",
+          "page": 217,
+          "id": "23-102",
+          "zh": "巨大的悬垂耳环把她的耳垂拉成了细长的椭圆形。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His ears were so big it looked like he had two mini satellite dishes attached to either side of his head.",
+          "page": 217,
+          "id": "23-103",
+          "zh": "他的耳朵大得像头两边各装了一面小卫星接收碟。"
+        }
+      ]
+    }
+  ]
+}

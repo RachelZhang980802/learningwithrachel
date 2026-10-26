@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1440" height="810" viewBox="0 0 1440 810">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_2">
+<g transform="matrix(1.1830913,0,0,.8148611,1.332,-.0289917)">
+<image id="image_3" width="1216" height="994" xlink:href="/narrative-course/theory/native/assets/3ac39c027e8a1479a04a.png"/>
+</g>
+</mask>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1439.972V.028H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V0H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<g mask="url(#mask_2)">
+<g transform="matrix(1.1830913,0,0,.8148611,1.332,-.0289917)">
+<image id="image_4" width="1216" height="994" xlink:href="/narrative-course/theory/native/assets/015600cf557aaa8d36cd.jpg"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

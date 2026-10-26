@@ -1,0 +1,1016 @@
+{
+  "id": 38,
+  "title": "Pain",
+  "zh": "疼痛",
+  "group": "Emotions and personality",
+  "startPage": 355,
+  "endPage": 366,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 356,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Head, breath, throat, chest; Stomach, leg; Grip, grasp, vice; Poison, acid, bile",
+          "page": 356,
+          "id": "38-001",
+          "zh": "头、呼吸、喉咙、胸；胃、腿；紧握、抓握、虎钳；毒、酸、胆汁。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Sick, dizzy, breathless; Claw-like, hammering, overwhelming",
+          "page": 356,
+          "id": "38-002",
+          "zh": "恶心、眩晕、喘不过气；爪子般、锤击般、难以承受。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Gripped, grasped, tightened, contracted, throbbed; Churned, gnawed, jerked, writhed",
+          "page": 356,
+          "id": "38-003",
+          "zh": "紧抓、攥住、收紧、收缩、跳痛；翻腾、啃噬、猛抽、扭动。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Felt dizzy",
+          "page": 356,
+          "id": "38-004",
+          "zh": "感到头晕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pain was overwhelming",
+          "page": 356,
+          "id": "38-005",
+          "zh": "疼痛难以承受"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a clenched fist",
+          "page": 356,
+          "id": "38-006",
+          "zh": "像一只攥紧的拳头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a vice around his chest",
+          "page": 356,
+          "id": "38-007",
+          "zh": "像虎钳夹着胸口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a razor-edged breath",
+          "page": 356,
+          "id": "38-008",
+          "zh": "每次呼吸都像剃刀划过"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like an acid burning his stomach",
+          "page": 356,
+          "id": "38-009",
+          "zh": "像酸液灼烧胃部"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As if a poison had taken root in his gut",
+          "page": 356,
+          "id": "38-010",
+          "zh": "仿佛毒物在肠腹里生了根"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bile at the back of her throat",
+          "page": 356,
+          "id": "38-011",
+          "zh": "胆汁涌到喉咙深处"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hammering pain in his head",
+          "page": 356,
+          "id": "38-012",
+          "zh": "头里锤击般的疼痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Took his breath away",
+          "page": 357,
+          "id": "38-013",
+          "zh": "疼得喘不过气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Felt a blaze of pain",
+          "page": 357,
+          "id": "38-014",
+          "zh": "感到一阵灼烈的疼痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pain twisted in his stomach",
+          "page": 357,
+          "id": "38-015",
+          "zh": "胃里一阵绞痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tore through his stomach",
+          "page": 357,
+          "id": "38-016",
+          "zh": "撕扯着他的胃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stomach was churning",
+          "page": 357,
+          "id": "38-017",
+          "zh": "胃里翻江倒海"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stomach contracted like a clenched fist",
+          "page": 357,
+          "id": "38-018",
+          "zh": "胃像攥紧的拳头般收缩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gnawed in his empty stomach",
+          "page": 357,
+          "id": "38-019",
+          "zh": "空空的胃里一阵阵啃噬般疼痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tightened like a vice around his chest",
+          "page": 357,
+          "id": "38-020",
+          "zh": "像虎钳一样在胸口越夹越紧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pain in his leg jerked with a claw-like grasp",
+          "page": 357,
+          "id": "38-021",
+          "zh": "腿疼得像被爪子猛抓、抽紧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Every nerve in his body screamed at him as...",
+          "page": 357,
+          "id": "38-022",
+          "zh": "全身每根神经都在尖叫，当……"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The gnawing in her empty stomach was making her feel sick and dizzy.",
+          "page": 357,
+          "id": "38-023",
+          "zh": "空腹中啃噬般的疼痛使她恶心、眩晕。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The pain in his leg jerked with a claw-like grip and left him feeling breathless and sick.",
+          "page": 357,
+          "id": "38-024",
+          "zh": "腿上的疼痛像爪子般猛地抓紧，让他喘不过气又恶心。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "It felt like a poison had taken root in his stomach, seeping through his veins and spreading bile to the back of his throat.",
+          "page": 357,
+          "id": "38-025",
+          "zh": "仿佛毒物在他胃里生根，沿血管渗透，把苦胆汁送到喉咙深处。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Every nerve in his body screamed at him, as the pain gripped his head like a clenched fist.",
+          "page": 357,
+          "id": "38-026",
+          "zh": "疼痛像紧握的拳头攥住他的头，全身每根神经都在尖叫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "All thought drained out of him, as the pain tore through his head and left him bent double and writhing in agony.",
+          "page": 357,
+          "id": "38-027",
+          "zh": "疼痛撕过头部，他脑中一片空白，弯着身子，在剧痛中扭动。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 358,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Face, eyes, nose, nostrils, mouth, tongue, teeth, lip; Muscles, arms, fist, legs; Cramps, ache, sore, sting, wound, bruise; Pain, spasm, agony, anguish",
+          "page": 358,
+          "id": "38-028",
+          "zh": "脸、眼、鼻、鼻孔、嘴、舌、牙、唇；肌肉、臂、拳、腿；痉挛、隐痛、痛处、刺痛、伤口、瘀青；疼痛、抽搐、剧痛、苦痛。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Wounded, bruised, aching, sore; Red, deep; Wild, fierce, searing, hammering, stinging",
+          "page": 358,
+          "id": "38-029",
+          "zh": "受伤、瘀伤、疼痛、酸痛；红、深；狂烈、猛烈、灼烧般、锤击般、针刺般。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Throbbed, ached, stung, pounded, hammered; Reddened, twisted, scrunched, tightened; Dropped, lolled; Bit, gritted; Bent, staggered, rocked, buckled, crashed",
+          "page": 358,
+          "id": "38-030",
+          "zh": "跳痛、疼、刺痛、猛跳、锤击；发红、扭曲、皱紧、绷紧；落下、无力耷拉；咬、咬紧牙关；弯腰、踉跄、摇晃、腿软、摔倒。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pained look on his face",
+          "page": 358,
+          "id": "38-031",
+          "zh": "脸上露出痛苦的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Red in the face",
+          "page": 358,
+          "id": "38-032",
+          "zh": "脸涨红了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Fierce grimace",
+          "page": 358,
+          "id": "38-033",
+          "zh": "强烈扭曲的痛苦表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Reddened and twisted in agony",
+          "page": 359,
+          "id": "38-034",
+          "zh": "脸涨红，并因剧痛而扭曲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Nostrils flared",
+          "page": 359,
+          "id": "38-035",
+          "zh": "鼻翼张开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Deep lines creased the bridge of his nose",
+          "page": 359,
+          "id": "38-036",
+          "zh": "鼻梁上皱出深纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gritted her teeth",
+          "page": 359,
+          "id": "38-037",
+          "zh": "咬紧牙关"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth was set in a fierce grimace",
+          "page": 359,
+          "id": "38-038",
+          "zh": "嘴扭成强烈的痛苦表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scrunched eyes tight",
+          "page": 359,
+          "id": "38-039",
+          "zh": "紧紧皱眼闭上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bit his lip until it bled",
+          "page": 359,
+          "id": "38-040",
+          "zh": "咬嘴唇直到出血"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spasm crossed his face",
+          "page": 359,
+          "id": "38-041",
+          "zh": "脸上一阵抽搐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth dropped open and tongue lolled out",
+          "page": 359,
+          "id": "38-042",
+          "zh": "嘴张开，舌头无力垂出"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "There was a pained look on his face.",
+          "page": 359,
+          "id": "38-043",
+          "zh": "他脸上显出痛苦。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He rubbed his forehead, trying to ease the hammering ache in his head.",
+          "page": 359,
+          "id": "38-044",
+          "zh": "他揉着额头，试图缓解脑中锤击般的疼痛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As she cleaned the wound, his face reddened and twisted in agony.",
+          "page": 359,
+          "id": "38-045",
+          "zh": "她清洗伤口时，他的脸涨红，在剧痛中扭曲。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was bent in half by the cramps in his stomach. Holding his breath and gritting his teeth – he staggered to his feet.",
+          "page": 359,
+          "id": "38-046",
+          "zh": "胃部痉挛使他弯成两截。他屏住呼吸、咬紧牙关，踉跄着站起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As the next of wave of pain surged through his shoulder, he scrunched his eyes shut and bit his lip.",
+          "page": 359,
+          "id": "38-047",
+          "zh": "下一波疼痛涌过肩头时，他紧闭双眼，咬住嘴唇。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He gasped, as the wave of pain flooded through him. Scrunching his eyes tight and clenching his fists, he rocked backwards and forwards.",
+          "page": 359,
+          "id": "38-048",
+          "zh": "疼痛席卷全身，他猛地喘气，紧闭双眼、攥紧拳头，前后摇晃。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The wound had been torn open and was throbbing savagely. Nostrils flared and deep lines creasing the bridge of his nose, he gritted his teeth and got to his feet.",
+          "page": 359,
+          "id": "38-049",
+          "zh": "伤口被扯开，剧烈地跳痛。他鼻翼翕张、鼻梁皱出深纹，咬着牙站起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her mouth dropped open and her tongue lolled out. With one final gasp, her legs buckled under her and she crashed to the floor.",
+          "page": 359,
+          "id": "38-050",
+          "zh": "她嘴巴张开，舌头无力垂出。最后喘了一口气，双腿一软，重重倒在地上。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 360,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Whites, sockets, tears",
+          "page": 360,
+          "id": "38-051",
+          "zh": "眼白、眼窝、眼泪。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Wide, bulging",
+          "page": 360,
+          "id": "38-052",
+          "zh": "睁大的、凸出的。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Shut, squeezed, scrunched; Rolled, popped, bulged",
+          "page": 360,
+          "id": "38-053",
+          "zh": "闭上、挤紧、皱紧；翻转、瞪出、凸出。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Squeezed eyes shut",
+          "page": 360,
+          "id": "38-054",
+          "zh": "紧紧闭眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bulged in his head",
+          "page": 360,
+          "id": "38-055",
+          "zh": "眼球凸出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rolled in their sockets",
+          "page": 360,
+          "id": "38-056",
+          "zh": "眼球在眼窝里翻转"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Only the whites were showing",
+          "page": 360,
+          "id": "38-057",
+          "zh": "只露出眼白"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked as if they were going to pop out of his head",
+          "page": 360,
+          "id": "38-058",
+          "zh": "眼睛仿佛要从头里瞪出来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tears streamed down her face",
+          "page": 360,
+          "id": "38-059",
+          "zh": "眼泪沿脸流下"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her mouth gaped like a fish out of water and tears streamed down her face.",
+          "page": 360,
+          "id": "38-060",
+          "zh": "她像离水的鱼一样张大嘴，泪水不断流下。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As she hit the wall, her head was thrown backwards and her eyes rolled in their sockets, until only the whites were showing.",
+          "page": 360,
+          "id": "38-061",
+          "zh": "她撞上墙时，头向后甩，眼球向上翻，最后只剩眼白。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 362,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Cry, whimper, whine, groan, moan, gasp; Scream, yell, shriek, howl, wail",
+          "page": 362,
+          "id": "38-062",
+          "zh": "哭声、呜咽、哀诉、呻吟、哀吟、喘息；尖叫、大喊、尖啸、嚎叫、哀号。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Small, low, ragged; Wild, deathly, piercing, high-pitched, ear-splitting",
+          "page": 362,
+          "id": "38-063",
+          "zh": "微弱、低、破碎；狂乱、死亡般、刺耳、高调、震耳欲聋。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Cried, whined, groaned, moaned, whimpered; Yelled, howled, wailed; Gasped, gulped; Let out, uttered, released",
+          "page": 362,
+          "id": "38-064",
+          "zh": "哭、哀诉、呻吟、哀吟、呜咽；喊、嚎、哀号；喘气、大口吸气；发出、说出、释放。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low, gurgling groan",
+          "page": 362,
+          "id": "38-065",
+          "zh": "低沉的咯咯呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Deathly moan",
+          "page": 362,
+          "id": "38-066",
+          "zh": "死亡般的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Piercing scream",
+          "page": 362,
+          "id": "38-067",
+          "zh": "刺耳的尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "High-pitched howl",
+          "page": 362,
+          "id": "38-068",
+          "zh": "尖高的嚎叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wild, ragged wail",
+          "page": 362,
+          "id": "38-069",
+          "zh": "狂乱破碎的哀号"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Let out a small whimper",
+          "page": 362,
+          "id": "38-070",
+          "zh": "发出轻微的呜咽"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Uttered a low, gurgling groan",
+          "page": 363,
+          "id": "38-071",
+          "zh": "发出低沉的咯咯呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moaned and writhed in agony",
+          "page": 363,
+          "id": "38-072",
+          "zh": "呻吟着在剧痛中扭动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Released an ear-splitting yell",
+          "page": 363,
+          "id": "38-073",
+          "zh": "发出震耳欲聋的大叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gulped for air",
+          "page": 363,
+          "id": "38-074",
+          "zh": "大口吸气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words came in painful gasps",
+          "page": 363,
+          "id": "38-075",
+          "zh": "伴着痛苦的喘息说出话语"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She curled into a ball and howled like a wounded animal.",
+          "page": 363,
+          "id": "38-076",
+          "zh": "她蜷成一团，像受伤的动物一样嚎叫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He winced and put his hands to his head.",
+          "page": 363,
+          "id": "38-077",
+          "zh": "他疼得一缩，双手抱住头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He let out a loud, ragged wail and tugged wildly at his hair.",
+          "page": 363,
+          "id": "38-078",
+          "zh": "他发出响亮破碎的哀号，疯狂地扯着头发。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She crouched in the corner, with her arms wrapped around her, and let out a small whimper.",
+          "page": 363,
+          "id": "38-079",
+          "zh": "她双臂抱着自己，蜷在角落，发出轻微的呜咽。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Writhing in agony, he clutched his stomach and groaned.",
+          "page": 363,
+          "id": "38-080",
+          "zh": "他在剧痛中扭动，捂着胃呻吟。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She bent forward with her hands on her knees. Gulping for air, her words came in painful gasps.",
+          "page": 363,
+          "id": "38-081",
+          "zh": "她双手撑膝向前弯腰，大口喘气，话语伴着痛苦的喘息断续说出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Half-mad with the pain in her back, she released an ear-splitting yell.",
+          "page": 363,
+          "id": "38-082",
+          "zh": "背部的疼痛几乎让她发疯，她发出震耳欲聋的大叫。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 364,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Head, brow, eyes, sockets; Stomach, arms, hands, fists, knees, feet, hair; Ball, heap, ragdoll, puppet",
+          "page": 364,
+          "id": "38-083",
+          "zh": "头、额头、眼睛、眼窝；胃、臂、手、拳、膝、脚、头发；球、堆、布娃娃、木偶。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Painful, wild, savage, searing, cramping; Half-mad, spread-eagled",
+          "page": 364,
+          "id": "38-084",
+          "zh": "疼痛、狂乱、猛烈、灼痛、痉挛；近乎疯狂、四肢张开。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Buried, wrapped; Tugged, grabbed, twisted, clenched, clutched; Shivered, shuddered; Struggled, writhed, thrashed; Lay, sprawled, slouched, slumped; Bent, curled, hunched, huddled; Limped, hobbled, buckled, dragged",
+          "page": 364,
+          "id": "38-085",
+          "zh": "埋、裹；拉扯、抓、扭、握紧、捂紧；打寒战、战栗；挣扎、扭动、剧烈翻滚；躺、摊开躺、无力倚靠、瘫下；弯、蜷、弓背、缩成团；跛行、蹒跚、腿软、拖行。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Shakily, unsteadily; Tightly, fiercely, violently",
+          "page": 364,
+          "id": "38-086",
+          "zh": "颤巍巍、不稳；紧紧、猛烈、剧烈。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cramping pain",
+          "page": 364,
+          "id": "38-087",
+          "zh": "痉挛性疼痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As limp as a ragdoll",
+          "page": 364,
+          "id": "38-088",
+          "zh": "软瘫得像布娃娃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a puppet with its strings cut",
+          "page": 364,
+          "id": "38-089",
+          "zh": "像断了线的木偶"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Doubled up",
+          "page": 365,
+          "id": "38-090",
+          "zh": "痛得弯腰蜷缩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curled into a ball",
+          "page": 365,
+          "id": "38-091",
+          "zh": "蜷成一个球"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clutched at her stomach",
+          "page": 365,
+          "id": "38-092",
+          "zh": "紧捂着胃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Huddled in a heap",
+          "page": 365,
+          "id": "38-093",
+          "zh": "缩成一团"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hunched her shoulders",
+          "page": 365,
+          "id": "38-094",
+          "zh": "耸起肩膀"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bent over to ease the cramping pain",
+          "page": 365,
+          "id": "38-095",
+          "zh": "弯腰以缓解痉挛的疼痛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lay spread-eagled",
+          "page": 365,
+          "id": "38-096",
+          "zh": "四肢张开躺着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprawled on the floor groaning",
+          "page": 365,
+          "id": "38-097",
+          "zh": "摊在地板上呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fell in a struggling heap",
+          "page": 365,
+          "id": "38-098",
+          "zh": "倒成一团，挣扎不已"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slouched against the wall",
+          "page": 365,
+          "id": "38-099",
+          "zh": "无力地倚着墙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slumped to the ground",
+          "page": 365,
+          "id": "38-100",
+          "zh": "瘫倒在地"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Legs buckled under her",
+          "page": 365,
+          "id": "38-101",
+          "zh": "双腿一软"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Thrashed around on the floor",
+          "page": 365,
+          "id": "38-102",
+          "zh": "在地板上剧烈翻滚"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Struggled into a sitting position",
+          "page": 365,
+          "id": "38-103",
+          "zh": "挣扎着坐起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Got unsteadily to his feet",
+          "page": 365,
+          "id": "38-104",
+          "zh": "摇摇晃晃站起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Limped slowly, dragging foot behind him",
+          "page": 365,
+          "id": "38-105",
+          "zh": "一瘸一拐慢走，一只脚拖在身后"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hobbled to the door",
+          "page": 365,
+          "id": "38-106",
+          "zh": "蹒跚走到门口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Buried head in his hands",
+          "page": 365,
+          "id": "38-107",
+          "zh": "把头埋进双手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Head lolled from side to side",
+          "page": 365,
+          "id": "38-108",
+          "zh": "脑袋无力地左右摇摆"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clenched his fist",
+          "page": 365,
+          "id": "38-109",
+          "zh": "握紧拳头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shivered violently",
+          "page": 365,
+          "id": "38-110",
+          "zh": "剧烈发抖"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The blistering pain made him crumple into a heap.",
+          "page": 365,
+          "id": "38-111",
+          "zh": "灼烈的疼痛使他倒下，蜷成一团。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He pressed his hands tightly over his eyes to block out the pain.",
+          "page": 365,
+          "id": "38-112",
+          "zh": "他用双手紧紧捂住眼睛，试图隔绝疼痛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She crouched in a corner, with her arms wrapped tightly around her.",
+          "page": 365,
+          "id": "38-113",
+          "zh": "她蹲在角落，双臂紧紧抱着自己。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He thrashed wildly – fighting the pain that came again and again.",
+          "page": 365,
+          "id": "38-114",
+          "zh": "他疯狂地扭动，对抗一波又一波的疼痛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He twisted his head and tugged his hair, trying to escape the searing pain.",
+          "page": 365,
+          "id": "38-115",
+          "zh": "他扭着头、拽着头发，想逃脱灼烧般的剧痛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She writhed on the floor, clutching her stomach. Her eyes rolled in their sockets and sweat streamed from her brow.",
+          "page": 366,
+          "id": "38-116",
+          "zh": "她捂着胃在地上扭动，眼球在眼窝里翻转，汗水沿额头流下。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She hunched her shoulders and bent forward, hands on knees, gasping for air.",
+          "page": 366,
+          "id": "38-117",
+          "zh": "她耸着肩、弯腰向前，双手撑膝，大口喘气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He limped slowly away, with his foot dragging behind him and scraping on the pavement.",
+          "page": 366,
+          "id": "38-118",
+          "zh": "他慢慢一瘸一拐地走远，一只脚拖在后面，擦着人行道。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His legs buckled under him and he slumped on the pavement, legs splayed and eyes rolling back in their sockets.",
+          "page": 366,
+          "id": "38-119",
+          "zh": "他的双腿一软，瘫到人行道上，两腿岔开，眼球向上翻。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Staggering to a halt, she slumped to the ground.",
+          "page": 366,
+          "id": "38-120",
+          "zh": "她踉跄着停下，瘫倒在地。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Curled in a ball, he shuddered and shivered violently.",
+          "page": 366,
+          "id": "38-121",
+          "zh": "他蜷成一团，一阵阵战栗，剧烈发抖。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Clutching at his stomach, he doubled over, gasping as the pain shuddered through his body.",
+          "page": 366,
+          "id": "38-122",
+          "zh": "他捂紧胃，弯下腰；疼痛颤过全身时，他不住地喘气。"
+        }
+      ]
+    }
+  ]
+}

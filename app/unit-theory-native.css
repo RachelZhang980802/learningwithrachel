@@ -1,0 +1,8 @@
+.narrative-course .ut-native-scroll{width:100%;max-width:100%;margin:20px auto;overflow-x:auto;background:#fff;box-shadow:0 8px 25px #44281614}
+.narrative-course .ut-native-slide{position:relative;width:100%;container-type:inline-size;overflow:hidden;isolation:isolate}
+.narrative-course .ut-native-art{display:block;position:absolute;inset:0;width:100%;height:100%;max-width:none;object-fit:fill;margin:0;border:0;pointer-events:none;user-select:none}
+.narrative-course .ut-native-text{position:absolute;display:block;white-space:pre;line-height:1;letter-spacing:normal;text-transform:none;max-width:none;padding:0;margin:0;overflow:visible;z-index:1;cursor:text;user-select:text}
+.narrative-course .ut-native-scroll:focus-visible{outline:2px solid #a64e38;outline-offset:3px}
+@media(max-width:760px){.narrative-course .ut-native-slide{min-width:780px}}
+.narrative-course .ut-native-image-text{padding:16px 22px 22px;background:#fffdfa;color:#32281f;font:18px/1.5 Georgia,"Times New Roman",serif}
+.narrative-course .ut-native-image-text p{margin:0 0 5px;white-space:normal}

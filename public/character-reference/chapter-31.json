@@ -1,0 +1,222 @@
+{
+  "id": 31,
+  "title": "Relieved",
+  "zh": "如释重负",
+  "group": "Emotions and personality",
+  "startPage": 273,
+  "endPage": 277,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 274,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Heart, pulse, blood; Chest, head, brow, scalp, sweat",
+          "page": 274,
+          "id": "31-001",
+          "zh": "心脏、脉搏、血液；胸腔、头、额头、头皮、汗水。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Calm, grateful",
+          "page": 274,
+          "id": "31-002",
+          "zh": "平静、感激。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Eased, slowed, calmed, released; Tingled, prickled, ached",
+          "page": 274,
+          "id": "31-003",
+          "zh": "缓解、减慢、平静下来、释放；发麻、刺痒、疼痛。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pounding eased in her chest",
+          "page": 274,
+          "id": "31-004",
+          "zh": "胸腔里猛烈的心跳逐渐平缓"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Breathing slowed",
+          "page": 274,
+          "id": "31-005",
+          "zh": "呼吸慢下来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rapid beat of her heart became calmer",
+          "page": 274,
+          "id": "31-006",
+          "zh": "急促的心跳渐渐平稳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scalp prickled with relief",
+          "page": 274,
+          "id": "31-007",
+          "zh": "如释重负时头皮一阵发麻"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sweat dried on her brow",
+          "page": 274,
+          "id": "31-008",
+          "zh": "额头的汗干了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blood surged round her body",
+          "page": 274,
+          "id": "31-009",
+          "zh": "血液在全身涌动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Released the tension in her body",
+          "page": 274,
+          "id": "31-010",
+          "zh": "释放身体里的紧张"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Grateful for his narrow escape",
+          "page": 274,
+          "id": "31-011",
+          "zh": "为自己侥幸脱险而庆幸"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She began to calm down and her heart started to slow, but the panic had left an ache in her head and a ringing in her ears.",
+          "page": 274,
+          "id": "31-012",
+          "zh": "她开始冷静，心跳也放慢，但恐慌留下了头疼和耳鸣。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Slowly, the pounding eased in her chest and the sweat dried on her brow.",
+          "page": 275,
+          "id": "31-013",
+          "zh": "慢慢地，她胸口的猛跳平缓下来，额头上的汗也干了。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She could feel the blood surging round her body and releasing the tension.",
+          "page": 275,
+          "id": "31-014",
+          "zh": "她能感觉到血液流遍全身，紧张也随之释放。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her breathing grew slower, as a new calm settled over her.",
+          "page": 275,
+          "id": "31-015",
+          "zh": "她的呼吸慢下来，一种新的平静笼罩着她。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions, Eyes, Voice and Movement",
+      "page": 276,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Cheeks, eyes, shoulders, sigh",
+          "page": 276,
+          "id": "31-016",
+          "zh": "脸颊、眼睛、肩膀、叹息。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Pale, heartfelt",
+          "page": 276,
+          "id": "31-017",
+          "zh": "苍白、发自内心的。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Blew, uttered; Closed, lowered, relaxed",
+          "page": 276,
+          "id": "31-018",
+          "zh": "鼓起后呼气、发出；闭上、放低、放松。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blew out her cheeks",
+          "page": 276,
+          "id": "31-019",
+          "zh": "鼓起脸颊，长长呼出气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Closed her eyes",
+          "page": 276,
+          "id": "31-020",
+          "zh": "闭上眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lowered her shoulders",
+          "page": 276,
+          "id": "31-021",
+          "zh": "放下紧绷的双肩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Uttered a heartfelt sigh",
+          "page": 276,
+          "id": "31-022",
+          "zh": "发出由衷的叹息"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Slowly, the rapid beat of her heart became calmer and her pale face relaxed, as the tension in her body eased.",
+          "page": 276,
+          "id": "31-023",
+          "zh": "随着身体不再紧绷，她急促的心跳慢慢平稳，苍白的面容也舒展开来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She blew out her cheeks and closed her eyes, hardly daring to believe that she had escaped without any injuries.",
+          "page": 276,
+          "id": "31-024",
+          "zh": "她鼓着脸颊呼出一口气，闭上眼睛，几乎不敢相信自己毫发无伤地逃了出来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As the tension left her body, she lowered her shoulders and uttered a heartfelt sigh.",
+          "page": 277,
+          "id": "31-025",
+          "zh": "身体的紧张消散后，她放下双肩，发出一声由衷的长叹。"
+        }
+      ]
+    }
+  ]
+}

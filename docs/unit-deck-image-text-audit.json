@@ -1,0 +1,544 @@
+{
+  "1": [
+    {
+      "page": 155,
+      "recoveredLines": 21,
+      "artLabelsPreserved": false
+    }
+  ],
+  "2": [
+    {
+      "page": 5,
+      "recoveredLines": 1,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 12,
+      "recoveredLines": 4,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 13,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 15,
+      "recoveredLines": 3,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 16,
+      "recoveredLines": 11,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 35,
+      "recoveredLines": 2,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 36,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 37,
+      "recoveredLines": 2,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 41,
+      "recoveredLines": 2,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 111,
+      "recoveredLines": 30,
+      "artLabelsPreserved": false
+    }
+  ],
+  "3": [
+    {
+      "page": 1,
+      "recoveredLines": 1,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 5,
+      "recoveredLines": 1,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 6,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 12,
+      "recoveredLines": 4,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 13,
+      "recoveredLines": 4,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 14,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 15,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 16,
+      "recoveredLines": 5,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 17,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 18,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 19,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 20,
+      "recoveredLines": 5,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 22,
+      "recoveredLines": 10,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 23,
+      "recoveredLines": 15,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 24,
+      "recoveredLines": 9,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 25,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 26,
+      "recoveredLines": 5,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 27,
+      "recoveredLines": 66,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 28,
+      "recoveredLines": 13,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 31,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 33,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 34,
+      "recoveredLines": 6,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 37,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    }
+  ],
+  "4": [
+    {
+      "page": 5,
+      "recoveredLines": 12,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 8,
+      "recoveredLines": 0,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 9,
+      "recoveredLines": 0,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 10,
+      "recoveredLines": 0,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 11,
+      "recoveredLines": 0,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 12,
+      "recoveredLines": 4,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 13,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 14,
+      "recoveredLines": 1,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 21,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 22,
+      "recoveredLines": 17,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 23,
+      "recoveredLines": 5,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 24,
+      "recoveredLines": 13,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 30,
+      "recoveredLines": 18,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 31,
+      "recoveredLines": 14,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 32,
+      "recoveredLines": 11,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 33,
+      "recoveredLines": 17,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 34,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 39,
+      "recoveredLines": 16,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 44,
+      "recoveredLines": 10,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 47,
+      "recoveredLines": 12,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 48,
+      "recoveredLines": 10,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 49,
+      "recoveredLines": 52,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 50,
+      "recoveredLines": 20,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 51,
+      "recoveredLines": 26,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 52,
+      "recoveredLines": 30,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 53,
+      "recoveredLines": 11,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 54,
+      "recoveredLines": 15,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 55,
+      "recoveredLines": 14,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 56,
+      "recoveredLines": 12,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 101,
+      "recoveredLines": 10,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 103,
+      "recoveredLines": 10,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 104,
+      "recoveredLines": 8,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 105,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 106,
+      "recoveredLines": 24,
+      "artLabelsPreserved": false
+    }
+  ],
+  "5": [
+    {
+      "page": 12,
+      "recoveredLines": 1,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 13,
+      "recoveredLines": 6,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 24,
+      "recoveredLines": 5,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 26,
+      "recoveredLines": 18,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 28,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 30,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 32,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 165,
+      "recoveredLines": 7,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 166,
+      "recoveredLines": 14,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 167,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 168,
+      "recoveredLines": 55,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 172,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 175,
+      "recoveredLines": 9,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 177,
+      "recoveredLines": 60,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 178,
+      "recoveredLines": 12,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 179,
+      "recoveredLines": 10,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 180,
+      "recoveredLines": 6,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 183,
+      "recoveredLines": 10,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 184,
+      "recoveredLines": 7,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 185,
+      "recoveredLines": 11,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 186,
+      "recoveredLines": 12,
+      "artLabelsPreserved": false
+    }
+  ],
+  "6": [
+    {
+      "page": 7,
+      "recoveredLines": 30,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 8,
+      "recoveredLines": 3,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 9,
+      "recoveredLines": 24,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 11,
+      "recoveredLines": 19,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 15,
+      "recoveredLines": 52,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 17,
+      "recoveredLines": 26,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 19,
+      "recoveredLines": 16,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 67,
+      "recoveredLines": 2,
+      "artLabelsPreserved": true
+    },
+    {
+      "page": 69,
+      "recoveredLines": 8,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 70,
+      "recoveredLines": 7,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 71,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 72,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 73,
+      "recoveredLines": 9,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 74,
+      "recoveredLines": 7,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 75,
+      "recoveredLines": 15,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 76,
+      "recoveredLines": 2,
+      "artLabelsPreserved": false
+    },
+    {
+      "page": 77,
+      "recoveredLines": 7,
+      "artLabelsPreserved": false
+    }
+  ]
+}

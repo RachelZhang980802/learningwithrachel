@@ -1,0 +1,900 @@
+{
+  "id": 20,
+  "title": "Age, height and shape",
+  "zh": "年龄、身高与体型",
+  "group": "Appearance",
+  "startPage": 184,
+  "endPage": 190,
+  "sections": [
+    {
+      "title": "Section 1 – Age",
+      "page": 184,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Baby, infant, toddler, child, teenager, teens, youth, juvenile, adolescent, thirties, seventies",
+          "page": 184,
+          "id": "20-001",
+          "zh": "婴儿；婴幼儿；蹒跚学步的孩子；儿童；青少年；十几岁；青年；少年；青春期少年；三十多岁；七十多岁。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Young, middle-aged, old, elderly, aged, wizened",
+          "page": 184,
+          "id": "20-002",
+          "zh": "年轻的；中年的；年老的；上了年纪的；高龄的；衰老干瘪的。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Eleven years old",
+          "page": 184,
+          "id": "20-003",
+          "zh": "十一岁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Man in his thirties",
+          "page": 184,
+          "id": "20-004",
+          "zh": "三十多岁的男子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Middle-aged woman",
+          "page": 184,
+          "id": "20-005",
+          "zh": "中年女子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Little, wizened old man",
+          "page": 184,
+          "id": "20-006",
+          "zh": "身材矮小、满脸皱纹的老人"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "About ten",
+          "page": 184,
+          "id": "20-007",
+          "zh": "大约十岁"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was eleven years old, tall and had curly brown hair.",
+          "page": 184,
+          "id": "20-008",
+          "zh": "他十一岁，个子很高，长着棕色卷发。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The man was middle-aged and had a sly, crumpled face.",
+          "page": 184,
+          "id": "20-009",
+          "zh": "那男子已到中年，脸上皱纹密布，透着狡黠。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Even though he must have been in his seventies, he was still running five miles a day.",
+          "page": 184,
+          "id": "20-010",
+          "zh": "虽然他想必已有七十多岁，却仍每天跑五英里。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Height",
+      "page": 185,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Short, small, little, tiny, elfin; Average, medium; Tall, big, large, lanky; Huge, massive, enormous, gigantic",
+          "page": 185,
+          "id": "20-011",
+          "zh": "矮小、瘦小、小巧、娇小、精灵般纤小；中等、适中；高大、大块头、体型大、瘦高；巨大、魁梧、硕大、庞大。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Short, squat and as broad as a bull",
+          "page": 185,
+          "id": "20-012",
+          "zh": "矮胖结实，像公牛一样宽壮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small man with stumpy little legs",
+          "page": 185,
+          "id": "20-013",
+          "zh": "双腿短粗的小个子男子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small, delicate boy",
+          "page": 185,
+          "id": "20-014",
+          "zh": "小巧、纤弱的男孩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tiny, elfin girl",
+          "page": 185,
+          "id": "20-015",
+          "zh": "娇小得像精灵一样的女孩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Girl of average height",
+          "page": 185,
+          "id": "20-016",
+          "zh": "中等身高的女孩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tall, lanky teenager",
+          "page": 185,
+          "id": "20-017",
+          "zh": "瘦高的少年"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Big for his age",
+          "page": 185,
+          "id": "20-018",
+          "zh": "比同龄人高大"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "An enormous giant of a man",
+          "page": 185,
+          "id": "20-019",
+          "zh": "巨人般魁梧的男子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a human pyramid",
+          "page": 185,
+          "id": "20-020",
+          "zh": "像一座人形金字塔"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Legs like tree trunks",
+          "page": 185,
+          "id": "20-021",
+          "zh": "双腿像树干一样粗"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "John was short, squat and as broad as a bull.",
+          "page": 185,
+          "id": "20-022",
+          "zh": "约翰矮胖结实，像公牛一样宽壮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A small man, with stumpy little legs, shuffled towards them.",
+          "page": 186,
+          "id": "20-023",
+          "zh": "一个小个子男子拖着短粗的双腿向他们走来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The girl was elfin, but surprisingly strong for someone so small.",
+          "page": 186,
+          "id": "20-024",
+          "zh": "那女孩精灵般娇小，力气却大得令人吃惊。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Ann was of average height and had a lean, athletic build.",
+          "page": 186,
+          "id": "20-025",
+          "zh": "安身高中等，体格精瘦，充满运动感。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was big for his age, with broad, muscular shoulders.",
+          "page": 186,
+          "id": "20-026",
+          "zh": "他比同龄人高大，双肩宽阔，肌肉发达。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The tall, lanky teenager used his long legs to intercept the ball.",
+          "page": 186,
+          "id": "20-027",
+          "zh": "那个瘦高少年利用自己的长腿截住了球。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The doorway was blocked by an enormous giant of a man, with huge, powerful shoulders and legs like tree trunks.",
+          "page": 186,
+          "id": "20-028",
+          "zh": "一名巨人般魁梧的男子堵住门口，肩膀宽厚有力，双腿粗如树干。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He shivered as he looked up at the human pyramid towering over him.",
+          "page": 186,
+          "id": "20-029",
+          "zh": "他抬头望着面前高耸的人形金字塔，不禁打了个寒战。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Shape",
+      "page": 187,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Body, build, legs, shoulders, chest, stomach, belly, arms; Chin, neck, face; Skin, pouch, folds, muscles; China doll, rake, stick, skeleton; Bull, ox, wrestler, rugby forward",
+          "page": 187,
+          "id": "20-030",
+          "zh": "身体、体格、腿、肩膀、胸膛、腹部、肚子、手臂；下巴、颈部、脸；皮肤、袋状物、褶皱、肌肉；瓷娃娃、耙子、棍子、骨架；公牛、牛、摔跤手、橄榄球前锋。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Huge, enormous, massive; Chubby, plump, pot-bellied, flabby, fleshy, obese; Slim, slender, slight, petite, elfin; Bony, skinny, weedy, scrawny, spindly, skeletal, gaunt, emaciated, haggard; Broad, square, burly, strong, powerful, muscular; Athletic, dainty, graceful; Stooped, hunched, crooked; Upright, straight-backed, erect",
+          "page": 187,
+          "id": "20-031",
+          "zh": "巨大、硕大、魁梧；圆胖、丰满、大腹便便、松垮、多肉、肥胖；苗条、修长、纤细、娇小、精灵般纤小；瘦骨嶙峋、皮包骨、瘦弱、干瘦、细长、骨架般、憔悴消瘦、极度消瘦、形容枯槁；宽厚、方正、壮实、强壮、有力、肌肉发达；健美、娇巧、优雅；驼背、弓背、弯曲；挺直、腰背笔直、直立。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Stood, walked, moved, ran, shuffled, hobbled; Hung, wobbled, flapped, slumped; Hunched",
+          "page": 187,
+          "id": "20-032",
+          "zh": "站立、行走、移动、跑、拖步走、蹒跚；垂挂、晃动、扑动、瘫垂；弓背。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Jolly, pot-bellied man",
+          "page": 188,
+          "id": "20-033",
+          "zh": "乐呵呵、大腹便便的男子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small and dumpy",
+          "page": 188,
+          "id": "20-034",
+          "zh": "矮小敦实"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Short and plump",
+          "page": 188,
+          "id": "20-035",
+          "zh": "矮胖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a well-padded cushion",
+          "page": 188,
+          "id": "20-036",
+          "zh": "像填得厚实的软垫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Huge pot-belly",
+          "page": 188,
+          "id": "20-037",
+          "zh": "硕大的肚腩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Massive, puckered folds",
+          "page": 188,
+          "id": "20-038",
+          "zh": "厚厚的、皱缩的褶皱"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like an enormous skin pouch",
+          "page": 188,
+          "id": "20-039",
+          "zh": "像一个巨大的皮囊"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Loose skin like huge, fleshy wings on her arms",
+          "page": 188,
+          "id": "20-040",
+          "zh": "手臂上松弛的皮肤像两片巨大的肉翅"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tall and slender",
+          "page": 188,
+          "id": "20-041",
+          "zh": "高挑修长"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Slim and dainty",
+          "page": 188,
+          "id": "20-042",
+          "zh": "苗条娇巧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a ballet dancer",
+          "page": 188,
+          "id": "20-043",
+          "zh": "像芭蕾舞者"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small, slight body",
+          "page": 188,
+          "id": "20-044",
+          "zh": "小巧纤细的身体"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Petite, dainty woman",
+          "page": 188,
+          "id": "20-045",
+          "zh": "身材娇小玲珑的女子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tiny, fragile boy",
+          "page": 188,
+          "id": "20-046",
+          "zh": "娇小纤弱的男孩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a china doll",
+          "page": 188,
+          "id": "20-047",
+          "zh": "像瓷娃娃一样"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin as a rake",
+          "page": 188,
+          "id": "20-048",
+          "zh": "瘦得像根耙柄；形容骨瘦如柴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tall and scrawny",
+          "page": 188,
+          "id": "20-049",
+          "zh": "瘦高、干瘦"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Weedy boy",
+          "page": 188,
+          "id": "20-050",
+          "zh": "瘦弱的男孩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Painfully thin",
+          "page": 188,
+          "id": "20-051",
+          "zh": "瘦得让人心疼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tall, thin stick of a man",
+          "page": 188,
+          "id": "20-052",
+          "zh": "又高又瘦、像根竹竿的男子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Scrawny like a plucked chicken",
+          "page": 188,
+          "id": "20-053",
+          "zh": "像拔了毛的鸡一样干瘦"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Legs and arms like sticks",
+          "page": 188,
+          "id": "20-054",
+          "zh": "四肢细得像棍子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Spindly arms and legs",
+          "page": 188,
+          "id": "20-055",
+          "zh": "细长瘦弱的四肢"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Emaciated and gaunt-looking",
+          "page": 188,
+          "id": "20-056",
+          "zh": "消瘦憔悴的模样"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As broad as a bull",
+          "page": 188,
+          "id": "20-057",
+          "zh": "像公牛一样宽壮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Square shoulders",
+          "page": 188,
+          "id": "20-058",
+          "zh": "方正宽阔的肩膀"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Burly like a rugby forward",
+          "page": 188,
+          "id": "20-059",
+          "zh": "像橄榄球前锋一样壮实"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Built like a wrestler",
+          "page": 188,
+          "id": "20-060",
+          "zh": "体格像摔跤手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Strong and muscular",
+          "page": 188,
+          "id": "20-061",
+          "zh": "强健且肌肉发达"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As strong as an ox",
+          "page": 188,
+          "id": "20-062",
+          "zh": "力壮如牛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Powerful, with broad, muscular shoulders",
+          "page": 188,
+          "id": "20-063",
+          "zh": "肩膀宽阔、肌肉发达，充满力量"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Slim body with muscular arms and legs",
+          "page": 188,
+          "id": "20-064",
+          "zh": "身形修长，四肢肌肉发达"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Heavily muscled arms and legs",
+          "page": 188,
+          "id": "20-065",
+          "zh": "四肢肌肉十分发达"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Athletic build",
+          "page": 189,
+          "id": "20-066",
+          "zh": "健美的运动员体格"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Crooked as a walking stick",
+          "page": 189,
+          "id": "20-067",
+          "zh": "弯得像一根拐杖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Old and stooped",
+          "page": 189,
+          "id": "20-068",
+          "zh": "年迈驼背"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hunched like a question mark",
+          "page": 189,
+          "id": "20-069",
+          "zh": "弓着背，像个问号"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Straight-backed like a soldier",
+          "page": 189,
+          "id": "20-070",
+          "zh": "腰背像军人一样笔直"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wobbled when he walked",
+          "page": 189,
+          "id": "20-071",
+          "zh": "走路时晃来晃去"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung over his trousers",
+          "page": 189,
+          "id": "20-072",
+          "zh": "垂在裤腰上方"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slumped onto his chest",
+          "page": 189,
+          "id": "20-073",
+          "zh": "垂塌到胸前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Built for speed",
+          "page": 189,
+          "id": "20-074",
+          "zh": "天生适合快速奔跑的体型"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ran with a natural rhythm",
+          "page": 189,
+          "id": "20-075",
+          "zh": "跑起来节奏自然"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Walked gracefully",
+          "page": 189,
+          "id": "20-076",
+          "zh": "走姿优雅"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked like a walking skeleton",
+          "page": 189,
+          "id": "20-077",
+          "zh": "看起来像具会走路的骷髅"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked as if a gust of wind would bend him in half",
+          "page": 189,
+          "id": "20-078",
+          "zh": "仿佛一阵风就能把他吹得折成两半"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hips stood out like tusks",
+          "page": 189,
+          "id": "20-079",
+          "zh": "髋骨像獠牙一样突出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Skin hung in folds",
+          "page": 189,
+          "id": "20-080",
+          "zh": "皮肤一层层松垂下来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked as if he had shrunk inside his skin",
+          "page": 189,
+          "id": "20-081",
+          "zh": "仿佛身体在皮囊里缩小了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stooped badly",
+          "page": 189,
+          "id": "20-082",
+          "zh": "弯腰驼背得很厉害"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Could only walk with the aid of a walking stick",
+          "page": 189,
+          "id": "20-083",
+          "zh": "只能靠拐杖行走"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood straight-backed",
+          "page": 189,
+          "id": "20-084",
+          "zh": "挺直腰背站着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood erect",
+          "page": 189,
+          "id": "20-085",
+          "zh": "笔直地站着"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Santa Claus is a jolly, pot-bellied man with a white beard.",
+          "page": 189,
+          "id": "20-086",
+          "zh": "圣诞老人是个留着白胡子、乐呵呵且大腹便便的人。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her huge pot-belly hung over her trousers like an enormous skin pouch.",
+          "page": 189,
+          "id": "20-087",
+          "zh": "她硕大的肚腩像一个巨大的皮囊，垂在裤腰上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was short and plump, and cosy like a well-padded cushion.",
+          "page": 189,
+          "id": "20-088",
+          "zh": "她矮胖而柔软，像填得厚厚的软垫，让人觉得舒服。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The skin on her arms was loose and flapped like huge, fleshy wings.",
+          "page": 189,
+          "id": "20-089",
+          "zh": "她手臂上的皮肤松弛，像巨大的肉翅一样晃动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His chins hung in massive folds, covering his neck and slumping onto his chest.",
+          "page": 190,
+          "id": "20-090",
+          "zh": "他层层叠叠的下巴肉遮住了脖子，一直垂到胸前。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was short, fat and so flabby his stomach wobbled when he walked.",
+          "page": 190,
+          "id": "20-091",
+          "zh": "他又矮又胖，赘肉松垮，走路时肚子一颤一颤的。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "For someone so short and dumpy, he was very fast on his feet.",
+          "page": 190,
+          "id": "20-092",
+          "zh": "别看他矮小敦实，脚下却十分灵活。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The gymnast was a petite, dainty woman.",
+          "page": 190,
+          "id": "20-093",
+          "zh": "这位体操运动员是个娇小玲珑的女子。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was slim and dainty and walked gracefully like a ballet dancer.",
+          "page": 190,
+          "id": "20-094",
+          "zh": "她身材苗条娇巧，步态像芭蕾舞者一样优雅。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The girl was tiny and delicate like a china doll.",
+          "page": 190,
+          "id": "20-095",
+          "zh": "那女孩娇小精致，像个瓷娃娃。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The fragile boy looked as if a gust of wind would bend him in half.",
+          "page": 190,
+          "id": "20-096",
+          "zh": "那纤弱的男孩仿佛一阵风就会被吹得折成两半。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was a tall, scrawny boy with a face like a weasel.",
+          "page": 190,
+          "id": "20-097",
+          "zh": "他是个瘦高的男孩，脸像黄鼠狼一样尖瘦。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was so emaciated he looked like a walking skeleton.",
+          "page": 190,
+          "id": "20-098",
+          "zh": "他极度消瘦，像一具会走路的骷髅。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert was a tall, thin stick of a man, with hips that stood out like two tusks.",
+          "page": 190,
+          "id": "20-099",
+          "zh": "罗伯特高瘦得像根竹竿，髋骨像两根獠牙一样突出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was old, stooped and painfully thin. Every step, every painful shuffle, took every ounce of her strength.",
+          "page": 190,
+          "id": "20-100",
+          "zh": "她年迈驼背，瘦得令人心疼。每走一步，每艰难地挪动一下，都要耗尽全身力气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was tall and scrawny like a plucked chicken, with horrid, bony hands and long, clawed fingers.",
+          "page": 190,
+          "id": "20-101",
+          "zh": "他高瘦得像只拔了毛的鸡，双手瘦骨嶙峋，长长的手指像爪子一样吓人。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her skin hung in creased folds around her neck and arms, as if she had shrunk inside it.",
+          "page": 190,
+          "id": "20-102",
+          "zh": "她脖子和手臂上的皮肤皱皱地松垂着，仿佛身子在皮囊里缩小了。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His father was as broad as a bull and burly like a rugby forward.",
+          "page": 190,
+          "id": "20-103",
+          "zh": "他的父亲像公牛一样宽壮，像橄榄球前锋一样结实。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert may have had a slim body, but he had broad, powerful shoulders and muscular arms and legs.",
+          "page": 190,
+          "id": "20-104",
+          "zh": "罗伯特虽然身形瘦长，却有宽厚有力的肩膀和肌肉发达的四肢。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Slim and athletic, Kitty ran with a natural rhythm.",
+          "page": 190,
+          "id": "20-105",
+          "zh": "基蒂身材苗条健美，跑起来节奏自然。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert was old and stooped and could only walk with the aid of a walking stick.",
+          "page": 190,
+          "id": "20-106",
+          "zh": "罗伯特年迈驼背，只能拄着拐杖行走。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "An old tramp hobbled towards the bench. He was frail, crumpled and hunched like a question mark.",
+          "page": 190,
+          "id": "20-107",
+          "zh": "一位老流浪汉蹒跚着走向长凳。他虚弱衰老，弓背的样子像个问号。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was tall and thin and stood straight-backed like a soldier.",
+          "page": 190,
+          "id": "20-108",
+          "zh": "他又高又瘦，像军人一样挺直腰背站着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She stood erect, her head held high, with the air of someone who was used to being obeyed.",
+          "page": 190,
+          "id": "20-109",
+          "zh": "她昂首挺立，带着一种习惯于别人服从自己的气势。"
+        }
+      ]
+    }
+  ]
+}

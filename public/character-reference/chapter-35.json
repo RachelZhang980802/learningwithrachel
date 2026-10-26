@@ -1,0 +1,936 @@
+{
+  "id": 35,
+  "title": "Nervous, shy, embarrassed",
+  "zh": "紧张、害羞、尴尬",
+  "group": "Emotions and personality",
+  "startPage": 321,
+  "endPage": 331,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 322,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Mind, senses, nerves, confusion, embarrassment; Body, heart, breath, throat, tongue, mouth; Hands, palms, stomach",
+          "page": 322,
+          "id": "35-001",
+          "zh": "头脑、感官、神经、混乱、尴尬；身体、心脏、呼吸、喉咙、舌头、嘴；双手、手掌、胃。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Thick, dry, fuzzy; Tense, sharp, alert; Sweaty, breathless",
+          "page": 322,
+          "id": "35-002",
+          "zh": "厚重、干燥、发涩发糊；紧绷、敏锐、警觉；汗湿、喘不过气。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Shook, trembled; Pounded, fluttered; Gulped, swallowed; Shrunk, shrivelled",
+          "page": 322,
+          "id": "35-003",
+          "zh": "摇晃、颤抖；猛跳、扑动；大口吞咽、咽下；缩小、萎缩。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tongue was thick and fuzzy",
+          "page": 322,
+          "id": "35-004",
+          "zh": "舌头又厚又发涩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Throat was dry",
+          "page": 322,
+          "id": "35-005",
+          "zh": "喉咙干涩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a nervous rabbit caught in the headlights",
+          "page": 322,
+          "id": "35-006",
+          "zh": "像车灯照住的惊慌兔子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Blizzard of nerves and confusion",
+          "page": 322,
+          "id": "35-007",
+          "zh": "仿佛置身紧张与混乱的暴风雪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Heart pounded",
+          "page": 323,
+          "id": "35-008",
+          "zh": "心怦怦直跳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Heart fluttered",
+          "page": 323,
+          "id": "35-009",
+          "zh": "心里一阵扑腾"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Held their breath",
+          "page": 323,
+          "id": "35-010",
+          "zh": "屏住呼吸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Watched with bated breath",
+          "page": 323,
+          "id": "35-011",
+          "zh": "紧张地屏息观看"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Trembled like a nervous rabbit",
+          "page": 323,
+          "id": "35-012",
+          "zh": "像受惊的兔子一样发抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Butterflies fluttered in her stomach",
+          "page": 323,
+          "id": "35-013",
+          "zh": "胃里像有蝴蝶扑动；紧张得心神不定"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Body was tense and her senses alert",
+          "page": 323,
+          "id": "35-014",
+          "zh": "身体紧绷，感官警觉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Felt as if the whole world was watching",
+          "page": 323,
+          "id": "35-015",
+          "zh": "觉得全世界都在看自己"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Insides shrivelled with embarrassment",
+          "page": 323,
+          "id": "35-016",
+          "zh": "羞窘得五脏六腑仿佛缩成一团"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mist descended on his mind",
+          "page": 323,
+          "id": "35-017",
+          "zh": "脑海里蒙上一层迷雾"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her hands were shaking. Butterflies fluttered in her heart and stomach.",
+          "page": 323,
+          "id": "35-018",
+          "zh": "她双手发抖，心口和胃里仿佛有蝴蝶扑腾。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A mist descended on her mind. She felt as if she was walking in a blizzard of nerves and confusion.",
+          "page": 323,
+          "id": "35-019",
+          "zh": "她脑中笼罩迷雾，感觉像走在紧张与混乱的暴风雪中。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She felt her body tense and her senses sharpen, as she watched with bated breath.",
+          "page": 323,
+          "id": "35-020",
+          "zh": "她屏息看着，感到身体绷紧，感官变得敏锐。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He tried to speak, but his tongue was thick and fuzzy and pasted to the roof of his mouth.",
+          "page": 323,
+          "id": "35-021",
+          "zh": "他想开口，可舌头又厚又涩，仿佛粘在上颚上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He felt as if the whole world was watching him, and his insides shrivelled with embarrassment.",
+          "page": 323,
+          "id": "35-022",
+          "zh": "他觉得全世界都在看他，羞窘得内里缩成一团。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 324,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Look, expression, tic, twitch; Neck, cheeks, lips, tongue, teeth, forehead, pulse; Smile, grin; Blush, sweat",
+          "page": 324,
+          "id": "35-023",
+          "zh": "神情、表情、抽搐、颤动；脖子、脸颊、嘴唇、舌头、牙齿、额头、脉搏；微笑、咧嘴笑；脸红、汗。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Blank, nervous, twitchy, jerky, edgy",
+          "page": 324,
+          "id": "35-024",
+          "zh": "茫然、紧张、抽动不安、动作急促、焦躁。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Crept, ran, rushed; Chewed, gnashed",
+          "page": 324,
+          "id": "35-025",
+          "zh": "悄悄蔓延、流、涌；咬、磨牙。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Blank expression",
+          "page": 324,
+          "id": "35-026",
+          "zh": "茫然的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small nervous tic",
+          "page": 324,
+          "id": "35-027",
+          "zh": "轻微的神经性抽搐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Nervous twitch",
+          "page": 324,
+          "id": "35-028",
+          "zh": "紧张地抽动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Twitchy smile",
+          "page": 324,
+          "id": "35-029",
+          "zh": "抽搐般不自然的微笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Edgy grin",
+          "page": 324,
+          "id": "35-030",
+          "zh": "紧张的咧嘴笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blood rushed to her cheeks",
+          "page": 324,
+          "id": "35-031",
+          "zh": "血一下涌上脸颊"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blush spread from her neck to her face",
+          "page": 324,
+          "id": "35-032",
+          "zh": "红晕从脖子蔓延到脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drenched in sweat",
+          "page": 325,
+          "id": "35-033",
+          "zh": "浑身被汗浸透"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bared teeth in an edgy grin",
+          "page": 325,
+          "id": "35-034",
+          "zh": "露齿而笑，显得很紧张"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chewed nervously on her tongue",
+          "page": 325,
+          "id": "35-035",
+          "zh": "紧张地咬着舌头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ran a tongue nervously over his lips",
+          "page": 325,
+          "id": "35-036",
+          "zh": "紧张地用舌头舔嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Teeth gnashed against each other",
+          "page": 325,
+          "id": "35-037",
+          "zh": "上下牙不断磨碰"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cheeks bulged, as she held her breath to slow her pulse",
+          "page": 325,
+          "id": "35-038",
+          "zh": "鼓着脸屏息，试图减慢脉搏"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her teeth were gnashing against each other inside her cheeks.",
+          "page": 325,
+          "id": "35-039",
+          "zh": "她嘴里的牙齿互相磨碰。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He ran his tongue nervously over his lips and kept baring his teeth in an edgy grin.",
+          "page": 325,
+          "id": "35-040",
+          "zh": "他紧张地舔着嘴唇，不停露出不自在的龇牙笑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She could feel the blood rush to her cheeks and she kept her gaze fixed to the floor.",
+          "page": 325,
+          "id": "35-041",
+          "zh": "她感觉血涌上双颊，目光一直盯着地板。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She blushed, feeling the warmth spread up from her neck, her cheeks, her ears and drenching her in sweat.",
+          "page": 325,
+          "id": "35-042",
+          "zh": "她脸红了，热意沿脖子、脸颊、耳朵蔓延，全身都出了汗。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her cheeks bulged, as she held her breath to slow her pulse and calm her nerves.",
+          "page": 325,
+          "id": "35-043",
+          "zh": "她鼓着脸屏息，想让脉搏慢下来，让神经安定。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With beads of sweat running down her forehead, she folded her arms across her chest and chewed nervously on her tongue.",
+          "page": 325,
+          "id": "35-044",
+          "zh": "汗珠流下额头，她双臂抱胸，紧张地咬着舌头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His jaw was trembling, his teeth chattering like castanets, and no matter how hard he bit his lips, he couldn’t control either.",
+          "page": 325,
+          "id": "35-045",
+          "zh": "他的下颌发颤，牙齿像响板一样打战，无论怎样咬紧嘴唇都控制不住。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 326,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Look, glance, tic, twitch",
+          "page": 326,
+          "id": "35-046",
+          "zh": "目光、瞥视、抽搐、颤动。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Nervous, anxious",
+          "page": 326,
+          "id": "35-047",
+          "zh": "紧张、焦虑。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Lowered, blinked, flickered; Glanced, exchanged",
+          "page": 326,
+          "id": "35-048",
+          "zh": "垂下、眨、闪动；瞥、交换。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Rapidly, furtively",
+          "page": 326,
+          "id": "35-049",
+          "zh": "迅速地、偷偷摸摸地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small nervous tic",
+          "page": 326,
+          "id": "35-050",
+          "zh": "轻微的神经性抽搐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Nervous glance",
+          "page": 326,
+          "id": "35-051",
+          "zh": "紧张的一瞥"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Eyes were downcast",
+          "page": 326,
+          "id": "35-052",
+          "zh": "垂着眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fixed to the floor",
+          "page": 326,
+          "id": "35-053",
+          "zh": "目光盯着地板"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blinked rapidly",
+          "page": 326,
+          "id": "35-054",
+          "zh": "迅速眨眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Exchanged nervous looks",
+          "page": 326,
+          "id": "35-055",
+          "zh": "交换紧张的眼神"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flickered beneath her eye",
+          "page": 326,
+          "id": "35-056",
+          "zh": "眼下微微抽动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glanced rapidly around him",
+          "page": 326,
+          "id": "35-057",
+          "zh": "快速环顾四周"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Eyes flicked from one to the other",
+          "page": 326,
+          "id": "35-058",
+          "zh": "目光从一个人移到另一个人"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Looked round furtively",
+          "page": 326,
+          "id": "35-059",
+          "zh": "偷偷向四周看"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes flickered briefly to his face and they exchanged a nervous look.",
+          "page": 327,
+          "id": "35-060",
+          "zh": "她的目光短暂掠过他的脸，两人交换了一个紧张的眼神。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He found it difficult to meet her gaze and kept his head down and his eyes fixed to the floor.",
+          "page": 327,
+          "id": "35-061",
+          "zh": "他难以迎上她的目光，一直低头盯着地板。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Glancing rapidly around him, his eyes flicked from one to the other.",
+          "page": 327,
+          "id": "35-062",
+          "zh": "他飞快环顾四周，目光从一个人扫向另一个人。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 328,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Giggle, gasp, whisper, murmur, gabble, laugh",
+          "page": 328,
+          "id": "35-063",
+          "zh": "咯咯笑、喘息、耳语、低语、急促含糊的话、笑声。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Low, deep; Quick, urgent, nervous, hissing",
+          "page": 328,
+          "id": "35-064",
+          "zh": "低声、低沉；快速、急迫、紧张、嘶声。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Spoke, giggled, laughed, stammered, stuttered",
+          "page": 328,
+          "id": "35-065",
+          "zh": "说、咯咯笑、笑、结巴、口吃。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Urgent whisper",
+          "page": 328,
+          "id": "35-066",
+          "zh": "急切的耳语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Low, gasping gabble",
+          "page": 328,
+          "id": "35-067",
+          "zh": "低声喘气、含糊急语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hissing giggle",
+          "page": 328,
+          "id": "35-068",
+          "zh": "带嘶声的咯咯笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Laugh was a quick, nervous stutter",
+          "page": 328,
+          "id": "35-069",
+          "zh": "笑声短促紧张，像结巴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words came in gasps",
+          "page": 328,
+          "id": "35-070",
+          "zh": "话语随着喘息断续说出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sank to a murmur",
+          "page": 328,
+          "id": "35-071",
+          "zh": "声音低成细语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Giggled nervously",
+          "page": 328,
+          "id": "35-072",
+          "zh": "紧张地咯咯笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dropped to an urgent whisper",
+          "page": 328,
+          "id": "35-073",
+          "zh": "声音降为急迫的耳语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stammered nervously",
+          "page": 328,
+          "id": "35-074",
+          "zh": "紧张得结结巴巴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Took a deep breath",
+          "page": 328,
+          "id": "35-075",
+          "zh": "深吸一口气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words tumbled out in a rush",
+          "page": 328,
+          "id": "35-076",
+          "zh": "话语急急忙忙涌出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spoke through clenched teeth",
+          "page": 329,
+          "id": "35-077",
+          "zh": "咬着牙说话"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Struggled to keep his voice steady",
+          "page": 329,
+          "id": "35-078",
+          "zh": "努力让声音保持平稳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Opened his mouth as if to speak, but closed it again",
+          "page": 329,
+          "id": "35-079",
+          "zh": "张嘴想说话，却又闭上"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She faltered, took a deep breath and rushed on.",
+          "page": 329,
+          "id": "35-080",
+          "zh": "她迟疑了一下，深吸一口气，又急急说下去。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her voice sank to a murmur and she tried to hide her embarrassment behind a cloak of dark hair.",
+          "page": 329,
+          "id": "35-081",
+          "zh": "她的声音低成细语，想用披下的黑发遮住自己的窘迫。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her words came in gasps and tumbled over each other in a low gabble.",
+          "page": 329,
+          "id": "35-082",
+          "zh": "她喘着气，话语低低地急促涌出，挤成一团。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He spoke through clenched teeth, struggling to keep his voice steady.",
+          "page": 329,
+          "id": "35-083",
+          "zh": "他咬着牙说话，努力保持声音平稳。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The words tumbled out in a rush, as if he was making himself speak before he lost his nerve.",
+          "page": 329,
+          "id": "35-084",
+          "zh": "话语急急涌出，仿佛他要趁勇气消失前逼自己把话说完。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes darted from one to the other uncertainly and he opened his mouth as if he was about to speak – but closed it again.",
+          "page": 329,
+          "id": "35-085",
+          "zh": "他的目光犹疑地从一个人移向另一个人，张嘴似乎要说话，却又闭上。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 330,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Neck, shoulders, arms, hands, fingers, nails; Head, forehead, brow, mouth, lips; Legs, feet",
+          "page": 330,
+          "id": "35-086",
+          "zh": "脖子、肩、臂、手、手指、指甲；头、额头、眉额、嘴、唇；腿、脚。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Nervous, sweaty, trembling, jerky",
+          "page": 330,
+          "id": "35-087",
+          "zh": "紧张、汗湿、发抖、急促抽动。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Gnawed, twisted, stroked; Folded, lowered, hunched; Danced, twitched, trembled",
+          "page": 330,
+          "id": "35-088",
+          "zh": "啃咬、缠绕、抚摸；折叠抱臂、低下、耸起；跳动、抽动、颤抖。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Tightly, shakily, nervously, feverishly",
+          "page": 330,
+          "id": "35-089",
+          "zh": "紧紧地、颤巍巍地、紧张地、焦躁急切地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sweaty brow",
+          "page": 330,
+          "id": "35-090",
+          "zh": "汗湿的额头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Trembling lips",
+          "page": 330,
+          "id": "35-091",
+          "zh": "颤抖的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hunched shoulders",
+          "page": 330,
+          "id": "35-092",
+          "zh": "耸起的肩膀"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Arms folded tightly across her chest",
+          "page": 330,
+          "id": "35-093",
+          "zh": "双臂紧紧抱在胸前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Made jerky movements with his hands",
+          "page": 330,
+          "id": "35-094",
+          "zh": "双手不自然地急促动作"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clicked nails on table",
+          "page": 330,
+          "id": "35-095",
+          "zh": "用指甲敲桌子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gnawed at her fingernails",
+          "page": 331,
+          "id": "35-096",
+          "zh": "啃咬指甲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted a strand of hair round and round her finger",
+          "page": 331,
+          "id": "35-097",
+          "zh": "把一缕头发在手指上一圈圈缠绕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stroked her forehead feverishly",
+          "page": 331,
+          "id": "35-098",
+          "zh": "焦躁地不停摸额头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wiped a handkerchief across his sweaty brow",
+          "page": 331,
+          "id": "35-099",
+          "zh": "用手帕擦汗湿的额头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Put a finger on her trembling lips",
+          "page": 331,
+          "id": "35-100",
+          "zh": "把一根手指放在颤抖的唇上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered her mouth and whispered through her fingers",
+          "page": 331,
+          "id": "35-101",
+          "zh": "捂着嘴，从指缝间低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lowered his head and looked intently at his feet",
+          "page": 331,
+          "id": "35-102",
+          "zh": "低着头，专注地盯着自己的脚"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Neck disappeared into his hunched shoulders",
+          "page": 331,
+          "id": "35-103",
+          "zh": "脖子缩进耸起的双肩之间"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twitched nervously",
+          "page": 331,
+          "id": "35-104",
+          "zh": "紧张地抽动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Feet danced with nervous strain",
+          "page": 331,
+          "id": "35-105",
+          "zh": "双脚因紧张而不停挪动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Trembled like a nervous rabbit",
+          "page": 331,
+          "id": "35-106",
+          "zh": "像受惊的兔子一样颤抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rose shakily to her feet",
+          "page": 331,
+          "id": "35-107",
+          "zh": "颤巍巍站起来"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She moved with the frantic, jerky movements of a nervous hamster.",
+          "page": 331,
+          "id": "35-108",
+          "zh": "她动作慌乱而急促，像一只紧张的仓鼠。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He stiffened slightly and twitched from one foot to the other.",
+          "page": 331,
+          "id": "35-109",
+          "zh": "他略微僵了一下，不安地在两脚间换重心。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She looked round furtively, covered her mouth and whispered through her fingers.",
+          "page": 331,
+          "id": "35-110",
+          "zh": "她偷偷环顾四周，捂着嘴，从指缝里低声说话。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Trembling nervously, she gnawed at her fingernails and looked up without meeting his gaze.",
+          "page": 331,
+          "id": "35-111",
+          "zh": "她紧张地发抖，啃着指甲，抬头时却避开他的目光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Feeling a blush creeping up his neck and burning his cheeks, he lowered his head and looked intently at his feet.",
+          "page": 331,
+          "id": "35-112",
+          "zh": "他感到红晕爬上脖子、烧热脸颊，便低下头，直盯着自己的双脚。"
+        }
+      ]
+    }
+  ]
+}

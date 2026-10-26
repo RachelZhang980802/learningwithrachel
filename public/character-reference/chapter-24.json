@@ -1,0 +1,264 @@
+{
+  "id": 24,
+  "title": "Hands and fingers",
+  "zh": "手与手指",
+  "group": "Appearance",
+  "startPage": 218,
+  "endPage": 220,
+  "sections": [
+    {
+      "title": "Words, phrases and sentences",
+      "page": 218,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Nails, claws, talons; Veins, spots, dirt, grime",
+          "page": 218,
+          "id": "24-001",
+          "zh": "指甲、爪子、利爪；血管、斑点、泥土、污垢。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Bony, skeletal, shovel-like, long-fingered; Wrinkled, swollen, lumpy; Black, sharp, dirty",
+          "page": 218,
+          "id": "24-002",
+          "zh": "骨感、骷髅般、铲子般、长手指；起皱、肿胀、疙疙瘩瘩；黑、尖、脏。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Covered, blackened, encrusted; Chipped, burnt, twisted; Felt, shook, held; Drummed, grabbed, grasped, lunged",
+          "page": 218,
+          "id": "24-003",
+          "zh": "覆盖、变黑、结满；磕缺、烧伤、扭曲；摸起来、握手、伸出；敲击、抓住、攥取、猛扑。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wrinkled hands",
+          "page": 218,
+          "id": "24-004",
+          "zh": "布满皱纹的双手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Burnt, twisted claw",
+          "page": 218,
+          "id": "24-005",
+          "zh": "烧伤扭曲成爪形的手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bony, long-fingered hands",
+          "page": 218,
+          "id": "24-006",
+          "zh": "手指细长、骨节突出的手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shovel-like hands",
+          "page": 218,
+          "id": "24-007",
+          "zh": "铲子般的大手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Nails like claws",
+          "page": 218,
+          "id": "24-008",
+          "zh": "像爪子一样的指甲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Black talons",
+          "page": 218,
+          "id": "24-009",
+          "zh": "乌黑的利爪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dangerous weapons",
+          "page": 219,
+          "id": "24-010",
+          "zh": "危险的武器"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Swollen, lumpy veins",
+          "page": 219,
+          "id": "24-011",
+          "zh": "肿胀凸起的血管"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Veins like rivers on a map",
+          "page": 219,
+          "id": "24-012",
+          "zh": "血管像地图上的河流"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Filthy with dirt and grime",
+          "page": 219,
+          "id": "24-013",
+          "zh": "沾满泥土污垢，肮脏不堪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sharpened to points",
+          "page": 219,
+          "id": "24-014",
+          "zh": "磨得尖尖的"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chipped and encrusted with dirt",
+          "page": 219,
+          "id": "24-015",
+          "zh": "磕缺且结满污垢"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Felt as cold as a skeleton",
+          "page": 219,
+          "id": "24-016",
+          "zh": "摸起来冰冷得像骷髅"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shook his hand",
+          "page": 219,
+          "id": "24-017",
+          "zh": "和他握手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Held out a bony hand",
+          "page": 219,
+          "id": "24-018",
+          "zh": "伸出一只骨瘦嶙峋的手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Backed away from the claw-like hand",
+          "page": 219,
+          "id": "24-019",
+          "zh": "从那爪子般的手前退开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Grabbed her by the wrist",
+          "page": 219,
+          "id": "24-020",
+          "zh": "一把抓住她的手腕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Grasped at the air in front of him",
+          "page": 219,
+          "id": "24-021",
+          "zh": "在面前的空气中抓挠"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lunged at him",
+          "page": 219,
+          "id": "24-022",
+          "zh": "向他猛扑过去"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drummed on the table impatiently",
+          "page": 219,
+          "id": "24-023",
+          "zh": "不耐烦地用手指敲桌子"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His nails were chipped and encrusted with dirt.",
+          "page": 219,
+          "id": "24-024",
+          "zh": "他的指甲残缺不齐，结满污垢。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Two enormous shovel-like hands lunged at him.",
+          "page": 219,
+          "id": "24-025",
+          "zh": "两只铲子般的大手朝他猛扑过来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She drummed her long, bony fingers on the table impatiently.",
+          "page": 219,
+          "id": "24-026",
+          "zh": "她用细长的骨感手指不耐烦地敲着桌子。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His hand was a burnt, twisted claw, with blackened talons for nails.",
+          "page": 219,
+          "id": "24-027",
+          "zh": "他的手烧伤后扭曲得像爪子，发黑的指甲就像利爪。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her old hands were swollen and covered in lumpy blue veins like rivers on a map.",
+          "page": 219,
+          "id": "24-028",
+          "zh": "她苍老的双手肿胀，凸起的青色血管像地图上的河流。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He backed away from the claw-like hand that was grasping at the air in front of him.",
+          "page": 219,
+          "id": "24-029",
+          "zh": "他往后退，躲开那只在面前空气里抓挠的爪子般的手。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her nails were like claws, sharpened to points and dangerous weapons.",
+          "page": 219,
+          "id": "24-030",
+          "zh": "她的指甲像爪子，磨得尖尖的，成了危险的武器。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She held out a bony hand, which felt as cold as a skeleton when Robert shook it.",
+          "page": 220,
+          "id": "24-031",
+          "zh": "她伸出一只骨感的手，罗伯特握上去时觉得冷得像握着骷髅。"
+        }
+      ]
+    }
+  ]
+}

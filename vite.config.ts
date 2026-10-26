@@ -4,7 +4,7 @@ import { defineConfig, type ViteDevServer } from "vite";
 import hostingConfig from "./.openai/hosting.json";
 import { sites } from "./build/sites-vite-plugin";
 import { createReadStream } from "node:fs";
-import { stat } from "node:fs/promises";
+import { readFile, stat } from "node:fs/promises";
 import { resolve, sep, extname } from "node:path";
 
 const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
@@ -75,6 +75,28 @@ export default defineConfig(async () => {
         apply: "serve",
         configureServer(server: ViteDevServer) {
           server.middlewares.use(async (req, res, next) => {
+            // The painting needs CORS for WebGL. Use the checked-in image during
+            // local preview; production keeps its existing R2 URLs unchanged.
+            const pathname = req.url?.split("?")[0];
+            const paintingPages: Record<string, string> = {
+              "/western-culture/": "western-culture/index.html",
+              "/western-culture/index.html": "western-culture/index.html",
+              "/western-culture/hero-motion.js": "western-culture/hero-motion.js",
+            };
+            const paintingPage = pathname ? paintingPages[pathname] : undefined;
+            if (paintingPage && (req.method === "GET" || req.method === "HEAD")) {
+              try {
+                const source = await readFile(resolve("public", paintingPage), "utf8");
+                const body = source.replaceAll(
+                  "https://assets.negentropylearning.com.cn/releases/2026-10-22/western-culture/assets/shore-wide.webp",
+                  "/western-culture/assets/shore-wide.webp",
+                );
+                res.setHeader("Content-Type", paintingPage.endsWith(".js") ? "text/javascript; charset=utf-8" : "text/html; charset=utf-8");
+                res.setHeader("Cache-Control", "no-cache");
+                res.setHeader("Content-Length", Buffer.byteLength(body));
+                return res.end(req.method === "HEAD" ? undefined : body);
+              } catch { return next(); }
+            }
             if (!req.url?.startsWith("/media/")) return next();
             const root = resolve(".r2-media");
             let path: string;

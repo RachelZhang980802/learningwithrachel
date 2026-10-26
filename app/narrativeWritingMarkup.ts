@@ -589,10 +589,12 @@ export const narrativeWritingMarkup = String.raw`
         <div class="assessment-grid">
           <article class="assessment-card attendance"><p>01 / ATTENDANCE</p><h3>Attendance</h3><strong>10%</strong><span class="grid-icon"></span></article>
           <article class="assessment-card presentation"><p>02 / PRESENTATION</p><h3>Presentation</h3><strong>10%</strong><span class="screen-icon"></span></article>
-          <article class="assessment-card assignment"><p>03 / ASSIGNMENT</p><h3>Assignment</h3><strong>15%</strong><span class="assignment-detail">X-mind 5%<br /><b>+ Writing 10%</b></span></article>
+          <article class="assessment-card assignment"><p>03 / ASSIGNMENT</p><h3>Assignment</h3><strong>15%</strong><span class="assignment-detail">X-mind 5%<br /><b>+ <a href="#writing-storybook">Writing 10%</a></b></span></article>
           <article class="assessment-card interaction"><p>04 / INTERACTION</p><h3>Interaction</h3><strong>5%</strong><span class="chat-icon"></span></article>
         </div>
       </section>
+
+      <section class="slide storybook-slide" id="writing-storybook" aria-label="Write Your Own Story Book"><a class="storybook-back" href="#assessment">← Writing 10%</a><div id="storybook-slot"></div></section>
 
       <section class="slide presentation-slide" data-nav="assessment" aria-labelledby="presentation-title">
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>PRESENTATION</p></div></div>
@@ -608,7 +610,7 @@ export const narrativeWritingMarkup = String.raw`
 
       <section class="slide writing-slide" data-nav="assessment" aria-labelledby="writing-title">
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>WRITING PRACTICE</p></div></div>
-        <div class="writing-heading"><div><p class="section-kicker">Writing practice</p><h1 id="writing-title">Continue the story.<br />Make it your own.</h1></div><div><h2>Assignment 15%</h2><p>X-mind 5% <b>+</b> <span>Writing 10%</span></p></div></div>
+        <div class="writing-heading"><div><p class="section-kicker">Writing practice</p><h1 id="writing-title">Continue the story.<br />Make it your own.</h1></div><div><h2>Assignment 15%</h2><p>X-mind 5% <b>+</b> <span><a href="#writing-storybook">Writing 10%</a></span></p></div></div>
         <div class="writing-grid">
           <a class="writing-card coral-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-01.png" alt="The Necklace" /><b>Unit 1</b><h3>The Necklace</h3><p>Continuation writing</p></a>
           <a class="writing-card yellow-card" href="#practice"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/write-02.png" alt="After Twenty Years" /><b>Unit 2</b><h3>After Twenty Years</h3><p>Continuation writing</p></a>

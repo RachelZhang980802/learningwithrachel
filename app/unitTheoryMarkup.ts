@@ -1,5 +1,10 @@
 // Theory pages for the user-selected source pages in Units Three through Six.
 // The guided readers show each selected slide or PDF page inline in teaching order.
+import unitThreeNativeSlides from "./unitThreeNativeSlides.json";
+import unitThreeReadingPages from "./unitThreeReadingPages.json";
+import unitTheoryNativeSlides from "./unitTheoryNativeSlides.json";
+import "./unit-three-native.css";
+import "./unit-theory-native.css";
 import { unitTheoryPageTitles } from "./unitTheoryPageGuide";
 import { unitTheoryTranscripts } from "./unitTheoryTranscripts";
 import { unitFourTheoryTranscripts } from "./unitFourTheoryTranscripts";
@@ -156,84 +161,46 @@ const sourceText = (unit: TheoryUnit, page: number) => unit.number === 4
   ? unitFourTheoryTranscripts[page]
   : unitTheoryTranscripts[unit.number]?.[page];
 
-const sourceImageText: Record<number, { title: string; items: { label: string; text: string }[] }> = {
-  165: { title: "Brand-name examples shown on the slide", items: [
-    { label: "PayPal", text: "" }, { label: "lululemon", text: "" },
-    { label: "KitKat", text: "" }, { label: "Coca-Cola", text: "" }
-  ] },
-  175: { title: "Sound words shown on the slide", items: [
-    { label: "BOOM!", text: "" }, { label: "WOW!", text: "" }, { label: "OMG", text: "" }, { label: "OOOPS!", text: "" },
-    { label: "SPLAT!", text: "" }, { label: "ZAP!", text: "" }, { label: "POP!", text: "" }, { label: "WHAM!", text: "" },
-    { label: "CRASH!", text: "" }, { label: "POW!", text: "" }, { label: "SMASH!", text: "" }, { label: "POOF!", text: "" },
-    { label: "BANG!", text: "" }, { label: "WTF?!", text: "" }, { label: "HAHA!", text: "" }, { label: "YEAH!", text: "" }
-  ] },
-  178: { title: "Activity 7 · examples 1–8", items: [
-    { label: "1 · Hyperbole", text: "Because he wanted to fall into their clutches, they seemed to regard him as a king who could do no wrong." },
-    { label: "2 · Metaphor", text: "Arrest seemed but a rosy dream." },
-    { label: "3 · Hyperbole", text: "I went out and caught that boy and shook him until his freckles rattled." },
-    { label: "4 · Personification", text: "A dead leaf fell in Soapy’s lap. That was Jack Frost’s card." },
-    { label: "5 · Metaphor", text: "Days, weeks, and months went by, and still that little cloud of unforgotten cowardice hung above the camp." },
-    { label: "6 · Alliteration", text: "… one of the deputies and two of the valorous volunteers—waited, concealed by beer barrels…" },
-    { label: "7 · Personification", text: "The city marshal was resolved. He had decided that Calliope Catesby should no more wake the echoes of Quicksand." },
-    { label: "8 · Metaphor", text: "She began to talk in Spanish, a mournful stream of melancholy music." }
-  ] },
-  179: { title: "Activity 7 · examples 9–15", items: [
-    { label: "9 · Understatement", text: "It was considered an improper act to shoot the bride and groom at a wedding." },
-    { label: "10 · Personification", text: "For there drifted out to Soapy’s ears sweet music that caught and held him transfixed against the convolutions of the iron fence." },
-    { label: "11 · Onomatopoeia", text: "There was a confused hum of wheels below, and the sedative buzz of an electric fan." },
-    { label: "12 · Simile", text: "Light as a cork, he was kept bobbing along by the human tide." },
-    { label: "13 · Personification", text: "… luck would again run against him." },
-    { label: "14 · Metaphor", text: "A man gets in a groove in New York. It takes the West to put a razor-edge on him." },
-    { label: "15 · Onomatopoeia", text: "… birds twittered sleepily under the roof." }
-  ] },
-  180: { title: "Activity 10 · sample revisions", items: [
-    { label: "1 · Alliteration", text: "Tanysha sat up late in her bedroom silently and studiously trying to study." },
-    { label: "2 · Hyperbole", text: "She was such a great student that anything less than a 100++ would send her sobbing from the room." },
-    { label: "3 · Simile", text: "Tomorrow’s math test was as important to Tanysha as a candidate’s final election speech is in the presidential election." },
-    { label: "4 · Onomatopoeia", text: "With a squeak of bedsprings and the crunch of crumpled paper, Tanysha lay back on her bed for a minute." },
-    { label: "5 · Metaphor", text: "She started daydreaming about going to the ivory tower learning to become a disease fighter one day." }
-  ] }
-};
+const slideImage = (unit: TheoryUnit, page: number, _title: string) => unit.number === 3
+  ? (unitThreeNativeSlides as Record<string, string>)[String(page)] ?? ""
+  : (unitTheoryNativeSlides as Record<string, Record<string, string>>)[String(unit.number)]?.[String(page)] ?? "";
 
-const slideText = (unit: TheoryUnit, page: number) => {
-  if (unit.number === 6 && page === 14) return `<div class="theory-slide-clarity"><h4>Five Elements of Plot</h4><dl><div><dt>Exposition</dt><dd>It refers to the introduction of a story, the background information needed to properly understand the story (p.139–140).</dd></div><div><dt>Rising action</dt><dd>It refers to the events leading up to the climax (p.140).</dd></div><div><dt>Climax</dt><dd>It is the most exciting part of the story. This is where the rising action reaches its peak (p.140).</dd></div><div><dt>Falling action</dt><dd>It deals with the events occurring right after the climax (p.140).</dd></div><div><dt>Resolution / Denouement</dt><dd>It is the end of the falling action and the conclusion to the story (p.140).</dd></div></dl></div>`;
-  if (unit.number === 5 && sourceImageText[page]) {
-    const { title, items } = sourceImageText[page];
-    return `<div class="theory-slide-clarity theory-slide-clarity--examples"><h4>${escapeHtml(title)}</h4><dl>${items.map(({ label, text }) => `<div><dt>${escapeHtml(label)}</dt>${text ? `<dd>${escapeHtml(text)}</dd>` : ""}</div>`).join("")}</dl></div>`;
+type ReadingItem = { type: "text" | "quote"; text: string; translation?: string };
+
+const readablePage = (unit: TheoryUnit, page: number) => {
+  if (unit.number === 3) {
+    const items = (unitThreeReadingPages as Record<string, ReadingItem[]>)[String(page)] || [];
+    return items.map(({ type, text, translation }) => type === "quote"
+      ? `<details class="theory-reading-quote"><summary lang="en">${escapeHtml(text)}</summary><span lang="zh-CN">${escapeHtml(translation || "")}</span></details>`
+      : `<p>${escapeHtml(text)}</p>`).join("");
   }
-  const transcript = sourceText(unit, page)?.replace(/\u00a0/g, " ").trim();
-  return transcript ? `<details class="theory-slide-transcript"><summary>Read this page as text</summary><p>${escapeHtml(transcript)}</p></details>` : "";
+  const source = sourceText(unit, page)?.replace(/\u00a0/g, " ").trim() || "";
+  const paragraphs = source.split(/\n\s*\n/).map(block => block.replace(/\s*\n\s*/g, " ").replace(/\s{2,}/g, " ").trim()).filter(Boolean);
+  return paragraphs.map(block => `<p>${escapeHtml(block)}</p>`).join("");
 };
 
-const slideImage = (unit: TheoryUnit, page: number, title: string) => {
-  const image = pageImage(unit, page);
-  const poem = unit.number === 3 && page === 13
-    ? `<div class="theory-slide-poem" aria-hidden="true">${(sourceText(unit, page) || "").split("\n").slice(1).map(escapeHtml).join("<br>")}</div>`
-    : "";
-  const fiveElements = unit.number === 6 && page === 14
-    ? `<div class="theory-slide-repair theory-slide-repair--u6-elements" aria-hidden="true"><span class="theory-element--exposition"><b>Exposition</b>Introduces the story and the background needed to understand it.</span><span class="theory-element--rising"><b>Rising action</b>Events leading up to the climax.</span><span class="theory-element--climax"><b>Climax</b>The most exciting part of the story, when rising action reaches its peak.</span><span class="theory-element--falling"><b>Falling action</b>Events right after the climax.</span><span class="theory-element--resolution"><b>Resolution</b>The end of the falling action and the story’s conclusion.</span></div>`
-    : "";
-  const repair = unit.number === 5 && page === 3
-    ? `<div class="theory-slide-repair theory-slide-repair--u5-objectives"><h4>Learning Objectives</h4><p><mark>1) Identify and analyze</mark> themes</p></div>`
-    : unit.number === 5 && page === 2
-      ? `<div class="theory-slide-repair theory-slide-repair--u5-contents"><strong>05</strong><span>Self-Evaluation</span></div>`
-      : unit.number === 3 && page === 3
-        ? `<div class="theory-slide-repair theory-slide-repair--u3-objectives"><strong>05</strong><span>${escapeHtml((sourceText(unit, page) || "").split("\n").at(-1) || "")}</span></div>`
-        : unit.number === 5 && page === 22
-          ? `<div class="theory-slide-repair theory-slide-repair--u5-develop-heading" aria-hidden="true">How to Develop Themes?</div><div class="theory-slide-repair theory-slide-repair--u5-develop-sub" aria-hidden="true"><strong>2) Indirect Telling</strong> [Themes work best when they are subtle in most cases (p.116)]:</div>`
-          : "";
-  const zoomable = Boolean(poem || repair || fiveElements);
-  return `<figure class="theory-inline-slide"><a href="${image}" target="_blank" rel="noopener noreferrer" aria-label="Enlarge Unit ${unit.number}, page ${page}"${zoomable ? ' data-theory-zoom="true"' : ""}><img src="${image}" alt="Unit ${unit.number}, page ${page}: ${escapeHtml(title)}" loading="lazy" decoding="async" />${poem}${repair}${fiveElements}</a>${zoomable ? '<button type="button" class="theory-slide-close" aria-label="Close enlarged page">Close ×</button>' : ""}<figcaption>Click or tap the page to enlarge it.</figcaption></figure>`;
+const pageArtwork = (unit: TheoryUnit, page: number, original: string) => {
+  if (unit.number === 3) {
+    const images = [...original.matchAll(/<img[^>]+src="([^"]+\.(?:png|jpe?g|webp))"/gi)].map(match => match[1]);
+    const distinct = [...new Set(images)].slice(0, 2);
+    return distinct.length ? `<figure class="theory-page-art" aria-label="Original source illustrations">${distinct.map(src => `<img src="${escapeHtml(src)}" alt="" loading="lazy" />`).join("")}</figure>` : "";
+  }
+  const art = original.match(/data-src="([^"]+\.svg)"/)?.[1];
+  return art ? `<figure class="theory-page-art theory-page-art--slide"><object type="image/svg+xml" data="${escapeHtml(art)}" aria-label="Source illustration"></object></figure>` : "";
 };
+
+const topicOverview = (section: Section) => `<div class="theory-topic-overview" aria-label="Topics in ${escapeHtml(section.label)}"><h2>Explore this section</h2><div class="theory-card-grid">${section.cards.map(card => `<article class="theory-card"><span class="theory-page-ref">Pages ${escapeHtml(card.pages)}</span><h3>${escapeHtml(card.title)}</h3><p>${escapeHtml(card.body)}</p><button type="button" data-theory-jump-page="${expandPageRanges(card.pages)[0]}">Read this topic <span aria-hidden="true">→</span></button></article>`).join("")}</div></div>`;
 
 const pageReader = (unit: TheoryUnit, section: Section) => {
   const pages = expandPageRanges(section.pages);
   const pageButtons = pages.map((page, index) => `${index && page > pages[index - 1] + 1 ? '<span class="theory-page-gap" aria-label="Unselected source pages omitted">···</span>' : ""}<button type="button" data-theory-page-button="${page}" aria-pressed="${index === 0}" aria-label="Show source page ${page}">${page}</button>`).join("");
   const pagePanels = pages.map((page, index) => {
     const title = unitTheoryPageTitles[unit.number]?.[page] || `Source page ${page}`;
-    return `<article class="theory-page" data-theory-page="${page}"${index ? " hidden" : ""}><header><span>Unit ${unit.number} · page ${page}</span><h3>${escapeHtml(title)}</h3></header>${slideImage(unit, page, title)}${slideText(unit, page)}</article>`;
+    const reading = readablePage(unit, page);
+    const original = slideImage(unit, page, title);
+    return `<article class="theory-page" data-theory-page="${page}"${index ? " hidden" : ""}><header><span>Unit ${unit.number} · page ${page}</span><h3>${escapeHtml(title)}</h3></header>${reading ? `<div class="theory-page-composition"><div class="theory-page-reading">${reading}</div>${pageArtwork(unit, page, original)}</div>` : ""}<details class="theory-original-layout"${reading ? "" : " open"}><summary>View original page layout</summary><div class="theory-original-content">${original}</div></details></article>`;
   }).join("");
-  return `<div class="theory-lesson-reader" data-theory-reader><div class="theory-reader-intro"><div><p>SOURCE-LED WEB LESSON</p><h2>${escapeHtml(section.label)}</h2></div><span>${pages.length} selected pages · ${section.pages}</span></div><div class="theory-page-strip" aria-label="Source pages in this section">${pageButtons}</div><div class="theory-reader-pages">${pagePanels}</div><div class="theory-reader-controls"><button type="button" data-theory-page-prev disabled>← Previous</button><span data-theory-page-progress>1 / ${pages.length}</span><button type="button" data-theory-page-next${pages.length === 1 ? " disabled" : ""}>Next →</button></div></div>`;
+  return `<div class="theory-lesson-reader" data-theory-reader><div class="theory-reader-intro"><div><p>READ &amp; EXPLORE</p><h2>${escapeHtml(section.label)}</h2></div><span>${pages.length} selected pages · ${section.pages}</span></div><div class="theory-page-strip" aria-label="Source pages in this section">${pageButtons}</div><div class="theory-reader-pages">${pagePanels}</div><div class="theory-reader-controls"><button type="button" data-theory-page-prev disabled>← Previous</button><span data-theory-page-progress>1 / ${pages.length}</span><button type="button" data-theory-page-next${pages.length === 1 ? " disabled" : ""}>Next →</button></div></div>`;
 };
 
 const coverArtwork = (unit: TheoryUnit) => {
@@ -249,15 +216,16 @@ const content = (unit: TheoryUnit) => {
   const tabs = [
     { key: "objectives", label: "Learning Objectives" },
     { key: "contents", label: "Contents" },
-    ...unit.sections.map(({ key, label }) => ({ key, label }))
+    ...unit.sections.map(({ key, label }) => ({ key, label })),
+    ...(unit.number === 3 ? [{ key: "settings", label: "Setting Description" }] : [])
   ];
   const tabButtons = tabs.map(({ key, label }, i) => `<button type="button" role="tab" id="${prefix}-tab-${key}" aria-controls="${prefix}-panel-${key}" aria-selected="${i === 0}" tabindex="${i === 0 ? 0 : -1}" data-theory-tab="${key}">${label}</button>`).join("");
   const panel = (key: string, inner: string, pages: string) => `<section class="theory-panel" id="${prefix}-panel-${key}" role="tabpanel" aria-labelledby="${prefix}-tab-${key}" data-theory-panel="${key}" data-source-pages="${pages}"${key === "objectives" ? "" : " hidden"}>${inner}</section>`;
-  const objectivePanel = panel("objectives", `<p class="theory-kicker">Unit ${unit.word} · page 3</p><h1 id="${prefix}-knowledge-title">${unit.number === 3 ? "Teaching Objectives" : "Learning Objectives"}</h1>${slideImage(unit, 3, "Learning Objectives")}${slideText(unit, 3)}`, "3");
-  const contentPanel = panel("contents", `<p class="theory-kicker">Unit ${unit.word} · page 2</p><h1>Table of Contents</h1>${slideImage(unit, 2, "Table of Contents")}${slideText(unit, 2)}<nav class="theory-section-links" aria-label="Open a lesson section"><button type="button" data-theory-open-tab="exploration">Pre-exploration</button><button type="button" data-theory-open-tab="skills">Learning the Skills</button>${unit.sections.some(s => s.key === "language") ? '<button type="button" data-theory-open-tab="language">Language Study</button>' : ""}</nav>`, "2");
-  const sectionPanels = unit.sections.map(section => panel(section.key, `<p class="theory-kicker">Unit ${unit.word} · pages ${section.pages}</p><h1>${section.title}</h1><p class="theory-lead">${section.intro}</p>${pageReader(unit, section)}`, section.pages)).join("");
+  const objectivePanel = panel("objectives", `<p class="theory-kicker">Unit ${unit.word} · page 3</p><h1 id="${prefix}-knowledge-title">${unit.number === 3 ? "Teaching Objectives" : "Learning Objectives"}</h1><div class="theory-ornament"><span></span>✦<span></span></div><div class="theory-objective-layout"><ol class="theory-objectives">${unit.objectives.map(objective => `<li>${escapeHtml(objective)}</li>`).join("")}</ol><img class="theory-objective-image" src="${unit.image}" alt="${escapeHtml(unit.imageAlt)}" loading="lazy" /></div><p class="theory-source-note">Based on the original lesson, page 3.</p><details class="theory-original-layout"><summary>View original page layout</summary><div class="theory-original-content">${slideImage(unit, 3, "Learning Objectives")}</div></details>`, "3");
+  const contentPanel = panel("contents", `<p class="theory-kicker">Unit ${unit.word} · page 2</p><h1>Table of Contents</h1><ol class="theory-contents">${unit.sections.map(section => `<li><button type="button" data-theory-open-tab="${section.key}">${escapeHtml(section.label)}</button><span>p. ${escapeHtml(section.pages)}</span></li>`).join("")}</ol><p class="theory-source-note">Choose a section to read its topics and source pages.</p><details class="theory-original-layout"><summary>View original page layout</summary><div class="theory-original-content">${slideImage(unit, 2, "Table of Contents")}</div></details>`, "2");
+  const sectionPanels = unit.sections.map(section => panel(section.key, `<p class="theory-kicker">Unit ${unit.word} · pages ${section.pages}</p><h1>${section.title}</h1><p class="theory-lead">${section.intro}</p>${topicOverview(section)}${pageReader(unit, section)}`, section.pages)).join("");
   return `<section class="slide theory-unit-cover theory-unit--${unit.number}" id="${prefix}" aria-labelledby="${prefix}-title"><div class="theory-cover-inner"><div class="theory-cover-copy"><p class="theory-overline">Unit ${unit.word} · Narrative Writing</p><h1 id="${prefix}-title">${unit.title}</h1><p class="theory-focus">Writing Critically I: Narrative Writing</p><div class="theory-cover-actions"><a class="theory-primary-link" href="#${prefix}-knowledge">Start unit <span aria-hidden="true">→</span></a><div><a href="#${prefix}-knowledge">View theoretical knowledge</a><a href="#reading" data-reading-target="${unit.reading}">View readings</a></div></div></div>${coverArtwork(unit)}</div></section>
-    <section class="slide theory-unit-knowledge theory-unit--${unit.number}" id="${prefix}-knowledge" aria-labelledby="${prefix}-knowledge-title"><a class="theory-back" href="#${prefix}">← Back to unit</a><div class="theory-shell" data-theory-unit="${unit.number}"><div class="theory-tabs" role="tablist" aria-label="Unit ${unit.word} theory sections">${tabButtons}</div>${objectivePanel}${contentPanel}${sectionPanels}</div></section>`;
+    <section class="slide theory-unit-knowledge theory-unit--${unit.number}" id="${prefix}-knowledge" aria-labelledby="${prefix}-knowledge-title"><a class="theory-back" href="#${prefix}">← Back to unit</a><div class="theory-shell" data-theory-unit="${unit.number}"><div class="theory-tabs" role="tablist" aria-label="Unit ${unit.word} theory sections">${tabButtons}</div>${objectivePanel}${contentPanel}${sectionPanels}${unit.number === 3 ? panel("settings", `<p class="theory-kicker">Descriptosaurus · PDF pp. 46–180</p><div id="setting-reference-slot"></div>`, "46–180") : ""}</div></section>`;
 };
 
 export const unitTheoryMarkup = units.map(content).join("\n");

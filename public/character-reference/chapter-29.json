@@ -1,0 +1,592 @@
+{
+  "id": 29,
+  "title": "Concentrating, determined",
+  "zh": "专注、坚定",
+  "group": "Emotions and personality",
+  "startPage": 254,
+  "endPage": 264,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 255,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Thoughts, concentration, determination",
+          "page": 255,
+          "id": "29-001",
+          "zh": "想法、专注、决心。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Felt, tried, resolved, determined; Heard, remembered",
+          "page": 255,
+          "id": "29-002",
+          "zh": "感觉、努力、下定决心、决定；听见、回想起。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Deep in thought",
+          "page": 255,
+          "id": "29-003",
+          "zh": "陷入沉思"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lost in her own thoughts",
+          "page": 255,
+          "id": "29-004",
+          "zh": "沉浸在自己的思绪里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tried desperately to remember",
+          "page": 255,
+          "id": "29-005",
+          "zh": "拼命回想"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Heard little of what was being said around her",
+          "page": 255,
+          "id": "29-006",
+          "zh": "几乎没听到周围的人在说什么"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Nothing was going to stop him now",
+          "page": 255,
+          "id": "29-007",
+          "zh": "现在没有什么能阻止他了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Felt a hard ball of determination tightening in his stomach",
+          "page": 255,
+          "id": "29-008",
+          "zh": "决心仿佛一颗硬球，在胃里越收越紧"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She tried desperately to remember where she had seen him before.",
+          "page": 255,
+          "id": "29-009",
+          "zh": "她拼命回想以前在哪里见过他。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was deep in thought and heard little of what was being said around her.",
+          "page": 255,
+          "id": "29-010",
+          "zh": "她陷入沉思，周围人说的话几乎一句也没听进去。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He shuddered and tensed, as a hard ball of determination tightened in his stomach.",
+          "page": 255,
+          "id": "29-011",
+          "zh": "他战栗着绷紧身体，决心像颗硬球在腹中收紧。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 257,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Face, chin, mouth, teeth, forehead, brow",
+          "page": 257,
+          "id": "29-012",
+          "zh": "脸、下巴、嘴、牙齿、额头、眉额。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Silent, stony-faced, firm",
+          "page": 257,
+          "id": "29-013",
+          "zh": "沉默、面无表情、坚定。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Jutted, clenched, gritted; Creased, scrunched, squinted, furrowed",
+          "page": 257,
+          "id": "29-014",
+          "zh": "伸出、咬紧、紧咬；起褶、皱起、眯眼看、皱眉。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Silent and stony-faced",
+          "page": 257,
+          "id": "29-015",
+          "zh": "沉默而面无表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Mask of determination",
+          "page": 257,
+          "id": "29-016",
+          "zh": "满脸坚定；像戴着决心铸成的面具"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chin jutted out",
+          "page": 257,
+          "id": "29-017",
+          "zh": "下巴向前伸出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth set in a firm line",
+          "page": 257,
+          "id": "29-018",
+          "zh": "嘴抿成坚定的一条线"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clenched his teeth",
+          "page": 257,
+          "id": "29-019",
+          "zh": "咬紧牙关"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Forehead creased",
+          "page": 257,
+          "id": "29-020",
+          "zh": "额头起了褶皱"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Brow furrowed with concentration",
+          "page": 257,
+          "id": "29-021",
+          "zh": "因专注而眉头紧锁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scrunched his face",
+          "page": 257,
+          "id": "29-022",
+          "zh": "皱起整张脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Squinted at the page",
+          "page": 257,
+          "id": "29-023",
+          "zh": "眯着眼看书页"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was silent and stony-faced. With his chin jutting out, he paced backwards and forwards across the room, deep in thought.",
+          "page": 258,
+          "id": "29-024",
+          "zh": "他沉默而面无表情，下巴前伸，在房间里来回踱步，陷入沉思。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was a mask of determination, as he clenched his teeth and looked over the edge.",
+          "page": 258,
+          "id": "29-025",
+          "zh": "他咬紧牙关往边缘下看，脸上尽是坚定。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 259,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Trance, daze, dream",
+          "page": 259,
+          "id": "29-026",
+          "zh": "恍惚、迷茫、梦境。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Steady, unblinking",
+          "page": 259,
+          "id": "29-027",
+          "zh": "稳定的、一眨不眨的。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Narrowed, stared, peered",
+          "page": 259,
+          "id": "29-028",
+          "zh": "眯起、凝视、仔细看。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Steady and unblinking",
+          "page": 259,
+          "id": "29-029",
+          "zh": "目光稳定，一眨不眨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As if in a trance",
+          "page": 259,
+          "id": "29-030",
+          "zh": "仿佛进入恍惚状态"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Narrowed eyes",
+          "page": 259,
+          "id": "29-031",
+          "zh": "眯起的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared off into the distance",
+          "page": 259,
+          "id": "29-032",
+          "zh": "凝视远方"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty’s forehead creased and her eyes narrowed, as she tried desperately to remember where she had seen him before.",
+          "page": 259,
+          "id": "29-033",
+          "zh": "基蒂拼命回忆曾在哪里见过他，额头皱起，双眼也眯了起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He stared off into the distance, his eyes steady and unblinking.",
+          "page": 259,
+          "id": "29-034",
+          "zh": "他望着远方，目光坚定，一眨不眨。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 261,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Tone, authority",
+          "page": 261,
+          "id": "29-035",
+          "zh": "语气、威严。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Crisp, defiant, challenging; Urgent, firm, forceful",
+          "page": 261,
+          "id": "29-036",
+          "zh": "干脆利落、抗拒不服、挑衅；急迫、坚定、有力。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Spoke, insisted, commanded",
+          "page": 261,
+          "id": "29-037",
+          "zh": "说、坚持、命令。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Urgent voice",
+          "page": 261,
+          "id": "29-038",
+          "zh": "急迫的声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Crisp authority",
+          "page": 261,
+          "id": "29-039",
+          "zh": "干脆利落的威严"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tone was defiant and challenging",
+          "page": 261,
+          "id": "29-040",
+          "zh": "语气抗拒而充满挑战"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Answered in a firm tone",
+          "page": 261,
+          "id": "29-041",
+          "zh": "坚定地回答"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spoke in a tone that assumed no possibility of disagreement",
+          "page": 261,
+          "id": "29-042",
+          "zh": "以不容反对的口吻说话"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Demanded agreement",
+          "page": 261,
+          "id": "29-043",
+          "zh": "要求对方赞同"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Insisted forcefully",
+          "page": 261,
+          "id": "29-044",
+          "zh": "强有力地坚持"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her gentle voice was urgent and demanded agreement.",
+          "page": 262,
+          "id": "29-045",
+          "zh": "她的声音温柔却急迫，要求对方认同。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He answered in a tone that was respectful, but firm.",
+          "page": 262,
+          "id": "29-046",
+          "zh": "他回答时态度恭敬，语气却坚定。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He spoke in a tone that assumed no possibility of disagreement.",
+          "page": 262,
+          "id": "29-047",
+          "zh": "他说话的语气不容任何反对。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Movement",
+      "page": 263,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Head, cheek, nose, lips, teeth, chin; Arms, hands, palms",
+          "page": 263,
+          "id": "29-048",
+          "zh": "头、脸颊、鼻子、嘴唇、牙齿、下巴；手臂、手、手掌。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Silent, corpse-like, backwards, forwards",
+          "page": 263,
+          "id": "29-049",
+          "zh": "沉默、尸体般一动不动、向后、向前。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Sat, stood, tilted, paced; Tensed, braced; Stroked, wound, chewed, pinched",
+          "page": 263,
+          "id": "29-050",
+          "zh": "坐、站、倾斜、踱步；绷紧、撑稳；抚摸、缠绕、咬、捏。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wound a strand of her hair round and round her finger",
+          "page": 263,
+          "id": "29-051",
+          "zh": "把一缕头发一圈圈绕在手指上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stroked chin absently",
+          "page": 263,
+          "id": "29-052",
+          "zh": "心不在焉地摸下巴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed palms together",
+          "page": 263,
+          "id": "29-053",
+          "zh": "把两手掌合拢"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tilted head",
+          "page": 263,
+          "id": "29-054",
+          "zh": "歪着头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Caught lip between his teeth",
+          "page": 263,
+          "id": "29-055",
+          "zh": "用牙齿咬住嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Chewed inside of her cheek",
+          "page": 263,
+          "id": "29-056",
+          "zh": "咬着脸颊内侧的肉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pinched bridge of her nose",
+          "page": 263,
+          "id": "29-057",
+          "zh": "捏着鼻梁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sat corpse-like",
+          "page": 263,
+          "id": "29-058",
+          "zh": "像尸体一样一动不动地坐着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shuddered and tensed",
+          "page": 263,
+          "id": "29-059",
+          "zh": "一颤，绷紧身体"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood silently, head bowed",
+          "page": 263,
+          "id": "29-060",
+          "zh": "低头默默站着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Braced his feet",
+          "page": 263,
+          "id": "29-061",
+          "zh": "双脚站稳，撑住身体"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood with arms crossed and hands on hips",
+          "page": 263,
+          "id": "29-062",
+          "zh": "站着抱臂、叉腰；表示用姿态表现坚定"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood with weight on one leg",
+          "page": 263,
+          "id": "29-063",
+          "zh": "站着把重心放在一条腿上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Paced backwards and forwards",
+          "page": 264,
+          "id": "29-064",
+          "zh": "来回踱步"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He pressed the palms of his hands against his chin and gazed into the distance.",
+          "page": 264,
+          "id": "29-065",
+          "zh": "他把两只手掌抵在下巴上，凝望远方。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He stuffed both hands deep into his front pockets and looked intently at something in the distance.",
+          "page": 264,
+          "id": "29-066",
+          "zh": "他把双手深深插进前面的口袋，专注地看着远处的某样东西。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She listened carefully, her head tilted and her brow furrowed with concentration.",
+          "page": 264,
+          "id": "29-067",
+          "zh": "她歪着头认真聆听，专注得眉头紧锁。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As she listened to what he was saying, Kitty absent-mindedly wound a strand of hair round her finger.",
+          "page": 264,
+          "id": "29-068",
+          "zh": "基蒂一边听他说话，一边心不在焉地把一缕头发绕在手指上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She sat corpse-like, lost in her own thoughts, hearing little of what was being said around her.",
+          "page": 264,
+          "id": "29-069",
+          "zh": "她像尸体一样静坐，沉浸在思绪里，周围的话几乎全没听见。"
+        }
+      ]
+    }
+  ]
+}

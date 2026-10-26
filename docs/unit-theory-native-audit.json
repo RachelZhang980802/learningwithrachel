@@ -1,0 +1,639 @@
+{
+  "units": {
+    "4": {
+      "source": "/Users/rachel/Downloads/cwnu课程课件/narrative writing/课件/Unit 4/Unit 4-Narrative Writing-Truth and Interpretation.pdf",
+      "pages": 62,
+      "emptyTextPages": [
+        14,
+        22,
+        39,
+        49,
+        50,
+        51,
+        52
+      ],
+      "counts": {
+        "2": {
+          "characters": 105,
+          "spans": 11
+        },
+        "3": {
+          "characters": 409,
+          "spans": 8
+        },
+        "4": {
+          "characters": 21,
+          "spans": 3
+        },
+        "5": {
+          "characters": 33,
+          "spans": 1
+        },
+        "6": {
+          "characters": 106,
+          "spans": 4
+        },
+        "7": {
+          "characters": 312,
+          "spans": 10
+        },
+        "8": {
+          "characters": 506,
+          "spans": 12
+        },
+        "9": {
+          "characters": 443,
+          "spans": 10
+        },
+        "10": {
+          "characters": 384,
+          "spans": 9
+        },
+        "11": {
+          "characters": 374,
+          "spans": 9
+        },
+        "12": {
+          "characters": 658,
+          "spans": 21
+        },
+        "13": {
+          "characters": 596,
+          "spans": 15
+        },
+        "14": {
+          "characters": 0,
+          "spans": 0
+        },
+        "15": {
+          "characters": 418,
+          "spans": 16
+        },
+        "16": {
+          "characters": 24,
+          "spans": 3
+        },
+        "17": {
+          "characters": 573,
+          "spans": 15
+        },
+        "18": {
+          "characters": 519,
+          "spans": 16
+        },
+        "19": {
+          "characters": 417,
+          "spans": 10
+        },
+        "20": {
+          "characters": 401,
+          "spans": 19
+        },
+        "21": {
+          "characters": 419,
+          "spans": 17
+        },
+        "22": {
+          "characters": 0,
+          "spans": 0
+        },
+        "23": {
+          "characters": 346,
+          "spans": 7
+        },
+        "24": {
+          "characters": 264,
+          "spans": 7
+        },
+        "25": {
+          "characters": 719,
+          "spans": 35
+        },
+        "26": {
+          "characters": 385,
+          "spans": 11
+        },
+        "27": {
+          "characters": 275,
+          "spans": 9
+        },
+        "28": {
+          "characters": 454,
+          "spans": 9
+        },
+        "29": {
+          "characters": 295,
+          "spans": 11
+        },
+        "30": {
+          "characters": 164,
+          "spans": 9
+        },
+        "31": {
+          "characters": 208,
+          "spans": 8
+        },
+        "32": {
+          "characters": 153,
+          "spans": 6
+        },
+        "33": {
+          "characters": 189,
+          "spans": 7
+        },
+        "34": {
+          "characters": 178,
+          "spans": 5
+        },
+        "35": {
+          "characters": 288,
+          "spans": 8
+        },
+        "36": {
+          "characters": 253,
+          "spans": 7
+        },
+        "37": {
+          "characters": 168,
+          "spans": 10
+        },
+        "38": {
+          "characters": 625,
+          "spans": 12
+        },
+        "39": {
+          "characters": 0,
+          "spans": 0
+        },
+        "40": {
+          "characters": 220,
+          "spans": 10
+        },
+        "41": {
+          "characters": 581,
+          "spans": 14
+        },
+        "42": {
+          "characters": 453,
+          "spans": 12
+        },
+        "43": {
+          "characters": 225,
+          "spans": 10
+        },
+        "44": {
+          "characters": 205,
+          "spans": 11
+        },
+        "45": {
+          "characters": 435,
+          "spans": 10
+        },
+        "46": {
+          "characters": 171,
+          "spans": 9
+        },
+        "47": {
+          "characters": 181,
+          "spans": 8
+        },
+        "48": {
+          "characters": 153,
+          "spans": 6
+        },
+        "49": {
+          "characters": 0,
+          "spans": 0
+        },
+        "50": {
+          "characters": 0,
+          "spans": 0
+        },
+        "51": {
+          "characters": 0,
+          "spans": 0
+        },
+        "52": {
+          "characters": 0,
+          "spans": 0
+        },
+        "53": {
+          "characters": 96,
+          "spans": 8
+        },
+        "54": {
+          "characters": 105,
+          "spans": 8
+        },
+        "55": {
+          "characters": 104,
+          "spans": 8
+        },
+        "56": {
+          "characters": 103,
+          "spans": 8
+        },
+        "100": {
+          "characters": 21,
+          "spans": 3
+        },
+        "101": {
+          "characters": 27,
+          "spans": 1
+        },
+        "102": {
+          "characters": 452,
+          "spans": 17
+        },
+        "103": {
+          "characters": 17,
+          "spans": 1
+        },
+        "104": {
+          "characters": 17,
+          "spans": 1
+        },
+        "105": {
+          "characters": 17,
+          "spans": 1
+        },
+        "106": {
+          "characters": 16,
+          "spans": 1
+        }
+      }
+    },
+    "5": {
+      "source": "/private/tmp/native-units/sources/Unit 5-Narrative Writing-Dream and Faith.pdf",
+      "pages": 54,
+      "emptyTextPages": [
+        24,
+        26,
+        30,
+        32,
+        165,
+        166,
+        168,
+        172,
+        175,
+        177,
+        183,
+        184,
+        185,
+        186
+      ],
+      "counts": {
+        "2": {
+          "characters": 110,
+          "spans": 15
+        },
+        "3": {
+          "characters": 194,
+          "spans": 12
+        },
+        "4": {
+          "characters": 23,
+          "spans": 3
+        },
+        "5": {
+          "characters": 418,
+          "spans": 13
+        },
+        "6": {
+          "characters": 227,
+          "spans": 13
+        },
+        "7": {
+          "characters": 181,
+          "spans": 7
+        },
+        "8": {
+          "characters": 696,
+          "spans": 14
+        },
+        "9": {
+          "characters": 726,
+          "spans": 23
+        },
+        "10": {
+          "characters": 21,
+          "spans": 3
+        },
+        "11": {
+          "characters": 504,
+          "spans": 21
+        },
+        "12": {
+          "characters": 435,
+          "spans": 10
+        },
+        "13": {
+          "characters": 48,
+          "spans": 6
+        },
+        "14": {
+          "characters": 312,
+          "spans": 16
+        },
+        "15": {
+          "characters": 264,
+          "spans": 19
+        },
+        "16": {
+          "characters": 455,
+          "spans": 11
+        },
+        "17": {
+          "characters": 577,
+          "spans": 13
+        },
+        "18": {
+          "characters": 59,
+          "spans": 4
+        },
+        "22": {
+          "characters": 322,
+          "spans": 12
+        },
+        "23": {
+          "characters": 185,
+          "spans": 9
+        },
+        "24": {
+          "characters": 0,
+          "spans": 0
+        },
+        "25": {
+          "characters": 172,
+          "spans": 7
+        },
+        "26": {
+          "characters": 0,
+          "spans": 0
+        },
+        "27": {
+          "characters": 161,
+          "spans": 8
+        },
+        "28": {
+          "characters": 62,
+          "spans": 5
+        },
+        "29": {
+          "characters": 221,
+          "spans": 9
+        },
+        "30": {
+          "characters": 0,
+          "spans": 0
+        },
+        "31": {
+          "characters": 158,
+          "spans": 6
+        },
+        "32": {
+          "characters": 0,
+          "spans": 0
+        },
+        "33": {
+          "characters": 30,
+          "spans": 2
+        },
+        "161": {
+          "characters": 17,
+          "spans": 2
+        },
+        "162": {
+          "characters": 261,
+          "spans": 7
+        },
+        "163": {
+          "characters": 406,
+          "spans": 12
+        },
+        "164": {
+          "characters": 335,
+          "spans": 9
+        },
+        "165": {
+          "characters": 0,
+          "spans": 0
+        },
+        "166": {
+          "characters": 0,
+          "spans": 0
+        },
+        "167": {
+          "characters": 79,
+          "spans": 4
+        },
+        "168": {
+          "characters": 0,
+          "spans": 0
+        },
+        "169": {
+          "characters": 339,
+          "spans": 8
+        },
+        "170": {
+          "characters": 358,
+          "spans": 10
+        },
+        "171": {
+          "characters": 362,
+          "spans": 8
+        },
+        "172": {
+          "characters": 0,
+          "spans": 0
+        },
+        "173": {
+          "characters": 289,
+          "spans": 7
+        },
+        "174": {
+          "characters": 424,
+          "spans": 12
+        },
+        "175": {
+          "characters": 0,
+          "spans": 0
+        },
+        "177": {
+          "characters": 0,
+          "spans": 0
+        },
+        "178": {
+          "characters": 135,
+          "spans": 10
+        },
+        "179": {
+          "characters": 130,
+          "spans": 9
+        },
+        "180": {
+          "characters": 535,
+          "spans": 11
+        },
+        "181": {
+          "characters": 38,
+          "spans": 2
+        },
+        "182": {
+          "characters": 40,
+          "spans": 3
+        },
+        "183": {
+          "characters": 0,
+          "spans": 0
+        },
+        "184": {
+          "characters": 0,
+          "spans": 0
+        },
+        "185": {
+          "characters": 0,
+          "spans": 0
+        },
+        "186": {
+          "characters": 0,
+          "spans": 0
+        }
+      }
+    },
+    "6": {
+      "source": "/private/tmp/native-units/sources/Unit 6-Narrative Writing-Conflict and Harmony.pdf",
+      "pages": 30,
+      "emptyTextPages": [
+        15,
+        17,
+        75,
+        77
+      ],
+      "counts": {
+        "2": {
+          "characters": 108,
+          "spans": 17
+        },
+        "3": {
+          "characters": 290,
+          "spans": 11
+        },
+        "4": {
+          "characters": 23,
+          "spans": 2
+        },
+        "5": {
+          "characters": 14,
+          "spans": 1
+        },
+        "6": {
+          "characters": 857,
+          "spans": 19
+        },
+        "7": {
+          "characters": 29,
+          "spans": 4
+        },
+        "8": {
+          "characters": 239,
+          "spans": 18
+        },
+        "9": {
+          "characters": 161,
+          "spans": 16
+        },
+        "10": {
+          "characters": 130,
+          "spans": 19
+        },
+        "11": {
+          "characters": 146,
+          "spans": 17
+        },
+        "12": {
+          "characters": 21,
+          "spans": 2
+        },
+        "13": {
+          "characters": 730,
+          "spans": 21
+        },
+        "14": {
+          "characters": 507,
+          "spans": 28
+        },
+        "15": {
+          "characters": 0,
+          "spans": 0
+        },
+        "16": {
+          "characters": 935,
+          "spans": 29
+        },
+        "17": {
+          "characters": 0,
+          "spans": 0
+        },
+        "18": {
+          "characters": 163,
+          "spans": 11
+        },
+        "19": {
+          "characters": 218,
+          "spans": 11
+        },
+        "66": {
+          "characters": 16,
+          "spans": 2
+        },
+        "67": {
+          "characters": 375,
+          "spans": 10
+        },
+        "68": {
+          "characters": 503,
+          "spans": 30
+        },
+        "69": {
+          "characters": 9,
+          "spans": 1
+        },
+        "70": {
+          "characters": 12,
+          "spans": 1
+        },
+        "71": {
+          "characters": 5,
+          "spans": 1
+        },
+        "72": {
+          "characters": 9,
+          "spans": 1
+        },
+        "73": {
+          "characters": 14,
+          "spans": 1
+        },
+        "74": {
+          "characters": 11,
+          "spans": 1
+        },
+        "75": {
+          "characters": 0,
+          "spans": 0
+        },
+        "76": {
+          "characters": 117,
+          "spans": 6
+        },
+        "77": {
+          "characters": 0,
+          "spans": 0
+        }
+      }
+    }
+  },
+  "assets": 585,
+  "totalAssetBytes": 28157915
+}

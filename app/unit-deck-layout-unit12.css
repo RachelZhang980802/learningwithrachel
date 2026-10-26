@@ -1,0 +1,107 @@
+/* Source-specific clear areas: keep every original text run and illustration.
+   These adjustments repair collisions already present in the exported slides. */
+.narrative-course [data-deck-text-id="u1-p44-b4"] {
+  transform: scale(.88);
+  transform-origin: top left;
+}
+.narrative-course [data-deck-text-id="u1-p44-b5"] {
+  left: 1.8% !important;
+  transform: scale(.9);
+  transform-origin: top left;
+}
+.narrative-course [data-deck-text-id="u1-p44-b4"] > span:nth-child(2) { font-size: 0 !important; }
+.narrative-course [data-deck-text-id="u1-p44-b4"] > span:nth-child(3) { left: 23cqw !important; }
+/* Two source text boxes use a PDF font matrix; restore their visible point sizes. */
+.narrative-course [data-deck-text-id="u1-p44-b3"] > span:nth-child(2) {
+  top: .8cqw !important; font-size: 3.889722cqw !important;
+}
+
+/* Time expressions retain their rows, with grammar labels in one clear column. */
+.narrative-course :is(
+  [data-deck-text-id="u1-p147-b2"],
+  [data-deck-text-id="u1-p147-b3"],
+  [data-deck-text-id="u1-p147-b4"],
+  [data-deck-text-id="u1-p147-b5"],
+  [data-deck-text-id="u1-p147-b6"],
+  [data-deck-text-id="u1-p147-b7"],
+  [data-deck-text-id="u1-p147-b8"]
+) { left: 56% !important; }
+.narrative-course [data-deck-text-id="u1-p147-b6"] > span { left: 0 !important; }
+.narrative-course [data-deck-text-id="u1-p147-b9"] > :is(span:nth-child(1), span:nth-child(2), span:nth-child(4)) {
+  left: 38.1cqw !important;
+}
+.narrative-course [data-deck-text-id="u1-p147-b9"] > span:nth-child(3) {
+  top: 7.2cqw !important; font-size: 2.779583cqw !important;
+}
+.narrative-course [data-deck-text-id="u1-p147-b9"] { pointer-events: none; }
+.narrative-course [data-deck-text-id="u1-p147-b9"] > span { pointer-events: auto; }
+.narrative-course [data-deck-text-id="u1-p147-b9"] > span:nth-child(4) { font-size: 2.35cqw !important; }
+
+/* Dense definitions stop inside the white source panels. */
+.narrative-course [data-deck-text-id="u2-p11-b0"] { transform: scale(.94); transform-origin: top left; }
+.narrative-course [data-deck-text-id="u2-p13-b3"] { left: 70.5% !important; transform: scale(.77); transform-origin: top left; }
+.narrative-course [data-deck-text-id="u2-p37-b1"] { transform: scale(.9); transform-origin: top left; }
+.narrative-course [data-deck-text-id="u2-p37-b0"] { left: 34.5% !important; }
+
+/* Questions and their red answers occupy separate rows beside the original sign. */
+.narrative-course :is(
+  [data-deck-text-id="u2-p14-b2"], [data-deck-text-id="u2-p14-b3"],
+  [data-deck-text-id="u2-p14-b4"], [data-deck-text-id="u2-p14-b5"],
+  [data-deck-text-id="u2-p14-b6"], [data-deck-text-id="u2-p14-b7"],
+  [data-deck-text-id="u2-p14-b8"], [data-deck-text-id="u2-p14-b9"]
+) { left: 34% !important; width: 58cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b2"] { top: 9cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b3"] { top: 18.5cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b4"] { top: 32.5cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b5"] { top: 44cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b6"] { top: 13.2cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b7"] { top: 22.5cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b8"] { top: 36cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b9"] { top: 48.2cqw !important; }
+.narrative-course :is(
+  [data-deck-text-id="u2-p14-b2"], [data-deck-text-id="u2-p14-b3"],
+  [data-deck-text-id="u2-p14-b4"], [data-deck-text-id="u2-p14-b5"]
+) > span { font-size: 2.6cqw !important; }
+.narrative-course :is(
+  [data-deck-text-id="u2-p14-b6"], [data-deck-text-id="u2-p14-b7"],
+  [data-deck-text-id="u2-p14-b8"], [data-deck-text-id="u2-p14-b9"]
+) > span { left: 0 !important; font-size: 2.2cqw !important; }
+.narrative-course [data-deck-text-id="u2-p14-b8"] > span:nth-child(1) {
+  left: 43cqw !important; top: -7.5cqw !important; font-size: 1.8cqw !important;
+}
+.narrative-course [data-deck-text-id="u2-p14-b8"] > span:nth-child(2) { top: 0 !important; }
+.narrative-course [data-deck-text-id="u2-p14-b8"] > span:nth-child(3) { top: 3cqw !important; }
+
+/* The Chekhov quotation stays fully to the right of his portrait. */
+.narrative-course [data-deck-text-id="u2-p36-b0"] {
+  left: 40.5% !important; top: 16cqw !important;
+  transform: scale(.73); transform-origin: top left;
+}
+.narrative-course [data-deck-text-id="u2-p36-b1"] {
+  left: 63% !important; top: 25cqw !important;
+  transform: scale(.8); transform-origin: top left;
+}
+
+/* Leave breathing room between the highlighted quote and the closing task. */
+.narrative-course [data-deck-text-id="u2-p43-b1"] > span:last-child {
+  top: 18.5cqw !important; font-size: 4cqw !important;
+}
+.narrative-course [data-deck-text-id="u2-p43-b2"] {
+  top: 48.5cqw !important; transform: scale(.8); transform-origin: top left;
+}
+/* PDF glyph spacing split “After”; join its existing text runs without changing text. */
+.narrative-course [data-deck-text-id="u2-p43-b2"] > span {
+  position: static !important; display: inline !important; transform: none !important;
+}
+.narrative-course [data-deck-text-id="u2-p43-b2"] > span:nth-child(2) { font-size: 0 !important; }
+
+/* Keep the sensory example clear of the lower leaf illustration. */
+.narrative-course [data-deck-text-id="u1-p151-b2"] {
+  transform: scale(.94); transform-origin: top left;
+}
+/* The sign and title need the same clear gutter on both comparison pages. */
+.narrative-course [data-deck-text-id="u2-p35-b0"] { left: 34.5% !important; }
+/* Inset the dialogue from both decorative stars without removing any lines. */
+.narrative-course [data-deck-text-id^="u2-p117-b"] {
+  left: 10.5% !important; transform: scale(.89); transform-origin: top left;
+}

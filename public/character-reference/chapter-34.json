@@ -1,0 +1,2054 @@
+{
+  "id": 34,
+  "title": "Scared, frightened, timid",
+  "zh": "害怕、恐惧、胆怯",
+  "group": "Emotions and personality",
+  "startPage": 302,
+  "endPage": 320,
+  "sections": [
+    {
+      "title": "Section 1 – Emotions",
+      "page": 303,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Fear, dread, panic, terror, horror, turmoil; Thoughts, instinct; Heart, chest, pulse, blood; Head, brain, temples, forehead; Breath, throat, windpipe, cheeks, tongue, bile; Stomach, gut, cramps; Skin, hair, shivers, tingle, prickle",
+          "page": 303,
+          "id": "34-001",
+          "zh": "害怕、惧怕、惊慌、恐惧、惊骇、慌乱；思绪、本能；心脏、胸口、脉搏、血液；头、脑、太阳穴、额头；呼吸、喉咙、气管、脸颊、舌头、胆汁；胃、肠腹、痉挛；皮肤、毛发、寒战、麻感、刺痛。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Numb, sick, nervous, uneasy; Dry, tight, thick, heavy; Long, deep, short, shallow; Unsteady, shuddering, rasping; Quick, fast, painful; Cold, tingling; Hot, sweaty",
+          "page": 303,
+          "id": "34-002",
+          "zh": "麻木、恶心、紧张、不安；干、紧、厚、沉；长、深、短、浅；不稳、颤抖、粗重；快、迅速、痛苦；冷、发麻；热、出汗。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Felt, thought, urged, warned, paralysed; Rose, grew, swept, surged, seized; Bubbled, gripped, clutched, choked, strangled; Breathed, blew, hissed, sucked, gulped, gasped, tasted; Beat, leapt, raced, banged, throbbed, pounded, hammered, quickened; Crept, crawled, prickled, scuttled; Ran, tore, pumped, drenched; Dropped, fluttered, squeezed, tightened, gripped, stabbed",
+          "page": 303,
+          "id": "34-003",
+          "zh": "感觉、想、催促、警告、使僵住；升起、增强、席卷、涌起、抓住；冒泡、紧抓、攫住、噎住、扼住；呼吸、呼气、嘶气、吸、吞气、喘、尝到；跳、猛跳、加速、撞击、搏动、猛跳、猛敲、加快；爬、蠕动、刺痛、急窜；流、撕裂、泵送、浸透；下沉、扑动、挤压、收紧、攥住、刺痛。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sick with fear",
+          "page": 304,
+          "id": "34-004",
+          "zh": "吓得胃里难受"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Throat was dry and tight",
+          "page": 304,
+          "id": "34-005",
+          "zh": "喉咙又干又紧"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tongue felt thick and heavy in his mouth",
+          "page": 304,
+          "id": "34-006",
+          "zh": "嘴里的舌头又厚又沉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Fear was like a bitter bile at the back of his throat",
+          "page": 304,
+          "id": "34-007",
+          "zh": "恐惧像喉咙深处苦涩的胆汁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold sweat",
+          "page": 304,
+          "id": "34-008",
+          "zh": "冷汗"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Prickle of fear in the bottom of his spine",
+          "page": 304,
+          "id": "34-009",
+          "zh": "脊柱底部泛起恐惧的刺麻感"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like an electric shock",
+          "page": 304,
+          "id": "34-010",
+          "zh": "像触电一样"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like a lead ball in his stomach",
+          "page": 304,
+          "id": "34-011",
+          "zh": "像胃里压着一个铅球"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Numb and paralysed by fear",
+          "page": 304,
+          "id": "34-012",
+          "zh": "吓得麻木，动弹不得"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dread swept through him like a tidal wave",
+          "page": 304,
+          "id": "34-013",
+          "zh": "恐惧像潮水一样席卷他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fear settled on him like a dark fog",
+          "page": 304,
+          "id": "34-014",
+          "zh": "恐惧像浓黑的雾笼罩他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Struck dead with terror",
+          "page": 304,
+          "id": "34-015",
+          "zh": "吓得呆若木鸡"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Terror surged through her",
+          "page": 304,
+          "id": "34-016",
+          "zh": "恐惧涌遍她全身"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fear seized him in its jaws",
+          "page": 304,
+          "id": "34-017",
+          "zh": "恐惧像猛兽一样把他咬住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Thought of the consequences urged him on",
+          "page": 304,
+          "id": "34-018",
+          "zh": "想到后果，便逼着自己继续"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Instincts screamed at him to...",
+          "page": 304,
+          "id": "34-019",
+          "zh": "本能在尖叫着催他……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Every nerve in his body warned him not to...",
+          "page": 304,
+          "id": "34-020",
+          "zh": "全身每根神经都在警告他不要……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Could taste the fear in the back of his throat",
+          "page": 304,
+          "id": "34-021",
+          "zh": "仿佛能尝到喉咙深处恐惧的滋味"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gulped air",
+          "page": 304,
+          "id": "34-022",
+          "zh": "大口吞吸空气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Let out a gasp",
+          "page": 304,
+          "id": "34-023",
+          "zh": "猛地喘了一口气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blew out her cheeks to stop herself howling",
+          "page": 305,
+          "id": "34-024",
+          "zh": "鼓着脸呼气，阻止自己嚎叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Took long, shuddering breaths",
+          "page": 305,
+          "id": "34-025",
+          "zh": "长长地、颤抖着呼吸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Panic rose in his chest",
+          "page": 305,
+          "id": "34-026",
+          "zh": "惊慌在胸中升起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Panic bubbled in her throat",
+          "page": 305,
+          "id": "34-027",
+          "zh": "恐慌在喉咙里翻涌"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fear choked him with its murderous hands",
+          "page": 305,
+          "id": "34-028",
+          "zh": "恐惧用杀人的双手掐住他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snaked round his windpipe",
+          "page": 305,
+          "id": "34-029",
+          "zh": "像蛇一样缠绕他的气管"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Heart pounded",
+          "page": 305,
+          "id": "34-030",
+          "zh": "心怦怦猛跳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pulse raced",
+          "page": 305,
+          "id": "34-031",
+          "zh": "脉搏飞快跳动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Missed a beat",
+          "page": 305,
+          "id": "34-032",
+          "zh": "心漏跳了一拍"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Banged against his ribs",
+          "page": 305,
+          "id": "34-033",
+          "zh": "心脏撞击着肋骨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Heart abandoned his chest to pound in his throat",
+          "page": 305,
+          "id": "34-034",
+          "zh": "心仿佛跳离胸腔，在喉咙口猛撞"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Squeezed her heart like a vice",
+          "page": 305,
+          "id": "34-035",
+          "zh": "像虎钳一样夹紧她的心"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blood pounded in her temples",
+          "page": 305,
+          "id": "34-036",
+          "zh": "太阳穴里的血管突突跳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drenched in sweat",
+          "page": 305,
+          "id": "34-037",
+          "zh": "汗流浃背"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cold sweat poured down his forehead",
+          "page": 305,
+          "id": "34-038",
+          "zh": "冷汗沿额头直流"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Skin crawled",
+          "page": 305,
+          "id": "34-039",
+          "zh": "浑身起鸡皮疙瘩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hairs prickled on the back of his neck",
+          "page": 305,
+          "id": "34-040",
+          "zh": "后颈的汗毛因恐惧竖起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shivers tore down her spine and racked her body",
+          "page": 305,
+          "id": "34-041",
+          "zh": "寒战沿脊柱掠下，使全身颤抖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Like a hundred spiders were scuttling down her back",
+          "page": 305,
+          "id": "34-042",
+          "zh": "像一百只蜘蛛爬过她的背"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stomach dropped",
+          "page": 305,
+          "id": "34-043",
+          "zh": "胃猛地一沉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Like a moth fluttering inside her stomach",
+          "page": 305,
+          "id": "34-044",
+          "zh": "胃里仿佛有蛾子扑动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Doubled over with cramps",
+          "page": 305,
+          "id": "34-045",
+          "zh": "腹部痉挛，痛得弯下腰"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gripped with anxiety",
+          "page": 305,
+          "id": "34-046",
+          "zh": "被焦虑紧紧攫住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Like a volcano erupting inside her",
+          "page": 305,
+          "id": "34-047",
+          "zh": "像身体里有座火山爆发"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Every nerve in his body warned him not to go any further.",
+          "page": 305,
+          "id": "34-048",
+          "zh": "全身每根神经都在警告他不要再往前走。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "All his instincts screamed at him to slip away before he was spotted.",
+          "page": 305,
+          "id": "34-049",
+          "zh": "他的本能拼命催促他，在被发现之前悄悄溜走。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was sick with fear, but the thought of the consequences urged him on.",
+          "page": 305,
+          "id": "34-050",
+          "zh": "他吓得胃里难受，但想到后果，还是逼着自己往前走。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her throat was dry, her tongue thick and heavy in her mouth.",
+          "page": 305,
+          "id": "34-051",
+          "zh": "她喉咙干涩，嘴里的舌头又厚又沉。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Fear choked him with its murderous hands. It gripped at his throat and strangled his breath into short, shallow gasps.",
+          "page": 306,
+          "id": "34-052",
+          "zh": "恐惧用杀人的双手扼住他，掐紧喉咙，使他的呼吸变成短浅的喘息。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was struck dead with terror. Her heart was beating painfully fast and banging against her ribs.",
+          "page": 306,
+          "id": "34-053",
+          "zh": "她吓得僵住，心脏快得生疼，一下下撞着肋骨。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her heart missed a beat, squeezed like a vice by the shock.",
+          "page": 306,
+          "id": "34-054",
+          "zh": "惊吓像虎钳般夹住她的心，使心跳漏了一拍。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As the blood pounded in her temples, her brain quickened and all her senses were alert.",
+          "page": 306,
+          "id": "34-055",
+          "zh": "血液在太阳穴里突突跳动，她的大脑迅速运转，所有感官都警觉起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Blowing out her cheeks, she drew a long, shuddering breath and tried to dampen the sense of impending doom.",
+          "page": 306,
+          "id": "34-056",
+          "zh": "她鼓着脸呼气，又长长地颤抖着吸了一口，努力压住大祸临头的感觉。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He felt uneasy. The hairs on the back of his neck prickled with dread and he was drenched in sweat.",
+          "page": 306,
+          "id": "34-057",
+          "zh": "他心里不安，后颈汗毛因恐惧竖起，全身被汗浸透。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Fear settled on her like a dark fog, bringing a chill that crept over her and that no amount of heat could drive away.",
+          "page": 306,
+          "id": "34-058",
+          "zh": "恐惧像浓黑的雾笼罩她，寒意爬遍全身，再多热量也驱不散。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The fear was like an electric shock, pumping shivering waves tearing through his body and making his hair stand on end.",
+          "page": 306,
+          "id": "34-059",
+          "zh": "恐惧像电击，带着一阵阵寒战撕过他的身体，使毛发直竖。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He doubled over with cramps. It was as if a lead ball had been dropped in his stomach and was blocking his gut.",
+          "page": 306,
+          "id": "34-060",
+          "zh": "他痉挛得弯下腰，仿佛胃里落下一个铅球，堵住了肠腹。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her stomach was gripped with anxiety, like a volcano erupting inside her.",
+          "page": 306,
+          "id": "34-061",
+          "zh": "焦虑紧攥着她的胃，仿佛一座火山正在体内喷发。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Something was making her feel very uneasy. It was gnawing at her stomach and fluttering as if she had swallowed a butterfly.",
+          "page": 306,
+          "id": "34-062",
+          "zh": "某种东西让她十分不安，啃噬着她的胃，又扑腾不止，仿佛吞下一只蝴蝶。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Expressions",
+      "page": 307,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Worry, anxiety, terror, horror; Look, expression, glance, gaze, stare; Mouth, teeth, jaw",
+          "page": 307,
+          "id": "34-063",
+          "zh": "担忧、焦虑、恐惧、惊骇；神情、表情、瞥视、凝视、盯视；嘴、牙齿、下颌。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Alert, sharp, urgent; Edgy, nervous, troubled, pinched; Startled, horrified, haggard, contorted; Pale, bloodless, ashen, expressionless",
+          "page": 307,
+          "id": "34-064",
+          "zh": "警觉、敏锐、急迫；紧张不安、紧张、忧虑、紧缩；受惊、惊恐、憔悴、扭曲；苍白、无血色、灰白、无表情。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Wore, showed, drained; Froze, dropped, trembled; Bared, clenched, chattered, gnashed",
+          "page": 307,
+          "id": "34-065",
+          "zh": "带着、显示、褪去；僵住、落下、颤抖；露出、咬紧、打战、磨牙。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Troubled look",
+          "page": 307,
+          "id": "34-066",
+          "zh": "忧虑的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Look of sheer terror",
+          "page": 307,
+          "id": "34-067",
+          "zh": "极度恐惧的神情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Startled look",
+          "page": 307,
+          "id": "34-068",
+          "zh": "受惊的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Face was drawn with worry",
+          "page": 307,
+          "id": "34-069",
+          "zh": "因担忧而面容憔悴紧绷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pinched with terror",
+          "page": 307,
+          "id": "34-070",
+          "zh": "因恐惧而五官紧缩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sharp with anxiety",
+          "page": 307,
+          "id": "34-071",
+          "zh": "焦虑得神情紧绷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Urgent and anxious",
+          "page": 307,
+          "id": "34-072",
+          "zh": "急迫而焦虑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Face was expressionless",
+          "page": 307,
+          "id": "34-073",
+          "zh": "脸上毫无表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Expression was haggard and drawn",
+          "page": 308,
+          "id": "34-074",
+          "zh": "神情憔悴而紧绷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Froze in horror",
+          "page": 308,
+          "id": "34-075",
+          "zh": "惊恐得僵住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drained of all colour",
+          "page": 308,
+          "id": "34-076",
+          "zh": "脸上血色尽失"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wore a startled expression",
+          "page": 308,
+          "id": "34-077",
+          "zh": "带着惊愕的表情"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Smile dropped from her face like a theatrical mask",
+          "page": 308,
+          "id": "34-078",
+          "zh": "笑容像戏剧面具一样从脸上掉落"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Cold sweat poured down his face",
+          "page": 308,
+          "id": "34-079",
+          "zh": "冷汗沿着脸流下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bit her lip",
+          "page": 308,
+          "id": "34-080",
+          "zh": "咬住嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lips moved silently in prayer",
+          "page": 308,
+          "id": "34-081",
+          "zh": "嘴唇无声翕动着祈祷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Mouth twisted in a scream",
+          "page": 308,
+          "id": "34-082",
+          "zh": "嘴扭成尖叫的形状"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clenched his jaw",
+          "page": 308,
+          "id": "34-083",
+          "zh": "咬紧下颌"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jaw dropped open with horror",
+          "page": 308,
+          "id": "34-084",
+          "zh": "惊恐得张大嘴巴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Teeth gnashed against each other",
+          "page": 308,
+          "id": "34-085",
+          "zh": "上下牙互相磨碰"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bared teeth in an edgy grin",
+          "page": 308,
+          "id": "34-086",
+          "zh": "紧张地龇牙而笑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Teeth were chattering like castanets",
+          "page": 308,
+          "id": "34-087",
+          "zh": "牙齿像响板一样咯咯打战"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes swept over the scene in front of her and her face froze in horror.",
+          "page": 308,
+          "id": "34-088",
+          "zh": "她的目光扫过眼前景象，脸因惊骇而僵住。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was rooted to the spot, hands trembling and her face ashen and drenched in sweat.",
+          "page": 308,
+          "id": "34-089",
+          "zh": "她双脚像生根般定在原地，双手发抖，脸色灰白，满是冷汗。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her face was expressionless, but inwardly she was fighting to remain calm.",
+          "page": 308,
+          "id": "34-090",
+          "zh": "她面无表情，内心却在拼命保持镇静。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The smile dropped from her face like a theatrical mask, to be replaced by a look of sheer terror.",
+          "page": 308,
+          "id": "34-091",
+          "zh": "笑容像戏剧面具一样从她脸上掉下，取而代之的是极度恐惧。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "As she listened to the news, a troubled expression settled on her face.",
+          "page": 308,
+          "id": "34-092",
+          "zh": "听着消息，她脸上渐渐浮现忧虑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her face was drawn and anxious, as she paced backwards and forwards across the room.",
+          "page": 308,
+          "id": "34-093",
+          "zh": "她在房间里来回踱步，脸上焦虑憔悴。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her mouth was twisted in a scream that never came.",
+          "page": 308,
+          "id": "34-094",
+          "zh": "她的嘴扭成了尖叫的形状，却始终没发出声音。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The smile suddenly fell from her face and her jaw dropped open.",
+          "page": 309,
+          "id": "34-095",
+          "zh": "笑容突然从她脸上消失，她惊得张开了嘴。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She bit her lip to stop her teeth chattering like castanets.",
+          "page": 309,
+          "id": "34-096",
+          "zh": "她咬住嘴唇，不让牙齿像响板般打战。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Clasping her hands in her lap, she moved her lips silently in prayer.",
+          "page": 309,
+          "id": "34-097",
+          "zh": "她把双手握在膝上，嘴唇无声地动着，默默祈祷。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He turned his head sharply, raised an eyebrow and bared his teeth in an edgy grin.",
+          "page": 309,
+          "id": "34-098",
+          "zh": "他猛地转头，挑起一边眉毛，紧张地龇牙笑了一下。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyes",
+      "page": 310,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Gaze, stare, glance, trance, twitch, tic",
+          "page": 310,
+          "id": "34-099",
+          "zh": "凝视、盯视、瞥视、恍惚、抽动、神经性痉挛。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Round, wide, staring, gaping, unblinking; Wary, wild, horror-struck",
+          "page": 310,
+          "id": "34-100",
+          "zh": "圆睁、睁大、直盯、大张、一眨不眨；警惕、狂乱、惊恐。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Blinked, stared, strained; Swept, darted, snapped, flicked, flickered",
+          "page": 310,
+          "id": "34-101",
+          "zh": "眨眼、盯、用力看；扫视、急转、猛然睁开、掠过、闪动。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide eyes",
+          "page": 310,
+          "id": "34-102",
+          "zh": "睁大的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Round with terror",
+          "page": 310,
+          "id": "34-103",
+          "zh": "吓得双眼圆睁"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Alert and strained",
+          "page": 310,
+          "id": "34-104",
+          "zh": "警惕而紧绷"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As if in a trance",
+          "page": 310,
+          "id": "34-105",
+          "zh": "仿佛陷入恍惚"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Staring and horror-struck",
+          "page": 310,
+          "id": "34-106",
+          "zh": "惊恐地直盯着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Nervous tic",
+          "page": 310,
+          "id": "34-107",
+          "zh": "紧张引起的抽搐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Widened in horror",
+          "page": 310,
+          "id": "34-108",
+          "zh": "惊恐地睁大"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Snapped open in panic",
+          "page": 310,
+          "id": "34-109",
+          "zh": "惊慌中猛地睁开"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Narrowed eyes",
+          "page": 310,
+          "id": "34-110",
+          "zh": "眯起眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Nervous tic flickered beneath her eyes",
+          "page": 310,
+          "id": "34-111",
+          "zh": "眼下因紧张而抽动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Blinked rapidly",
+          "page": 311,
+          "id": "34-112",
+          "zh": "飞快地眨眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared unblinking, horror-struck",
+          "page": 311,
+          "id": "34-113",
+          "zh": "惊恐地一眨不眨地盯着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared off into the shadows",
+          "page": 311,
+          "id": "34-114",
+          "zh": "望向远处的阴影"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Kept eyes fixed to the floor",
+          "page": 311,
+          "id": "34-115",
+          "zh": "一直盯着地板"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Strained to pierce the darkness",
+          "page": 311,
+          "id": "34-116",
+          "zh": "努力看穿黑暗"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Threw out darting little glances",
+          "page": 311,
+          "id": "34-117",
+          "zh": "飞快地四处偷瞥"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flicked from one to the other",
+          "page": 311,
+          "id": "34-118",
+          "zh": "目光从一个人移向另一个人"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Darted backwards and forwards",
+          "page": 311,
+          "id": "34-119",
+          "zh": "目光来回急速扫动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swept over the scene in front of him",
+          "page": 311,
+          "id": "34-120",
+          "zh": "扫视面前的景象"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes snapped open in panic and he froze to the spot.",
+          "page": 311,
+          "id": "34-121",
+          "zh": "他惊慌地猛睁双眼，整个人僵在原地。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He shifted uncomfortably and flicked his eyes from one to the other.",
+          "page": 311,
+          "id": "34-122",
+          "zh": "他不自在地挪动身体，目光从一个人扫向另一个人。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was horror-struck. She stared unblinking, as if in a trance, and frozen to the spot.",
+          "page": 311,
+          "id": "34-123",
+          "zh": "她吓坏了，一眨不眨地盯着，仿佛失神般僵在原地。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His wide eyes strained to pierce the darkness, darting wildly from side to side.",
+          "page": 311,
+          "id": "34-124",
+          "zh": "他瞪大眼努力看穿黑暗，目光慌乱地左右扫动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Drenched in sweat and heart pounding, Kitty kept her narrowed eyes fixed to the floor, unable to meet his cold, unblinking stare.",
+          "page": 311,
+          "id": "34-125",
+          "zh": "基蒂汗流浃背、心跳如鼓，眯着眼盯住地板，不敢迎上他冷漠而不眨的目光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Eyes round with terror, Robert let out a moan of despair and drew in a deep, shuddering breath.",
+          "page": 311,
+          "id": "34-126",
+          "zh": "罗伯特吓得双眼圆睁，绝望地呻吟一声，深深吸了一口颤抖的气。"
+        }
+      ]
+    },
+    {
+      "title": "Section 4 – Voice",
+      "page": 312,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Tone, whisper, gasp, moan; Wail, yell, howl, scream, shriek",
+          "page": 312,
+          "id": "34-127",
+          "zh": "语气、耳语、喘气、呻吟；哀号、大叫、嚎叫、尖叫、尖啸。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Silent, numb; Wild, urgent, savage, deathly; Shrill, high-pitched, harsh, strangled, piercing, quivering",
+          "page": 312,
+          "id": "34-128",
+          "zh": "无声、麻木；狂乱、急迫、凶猛、死亡般；尖厉、高调、刺耳、哽塞、穿透、颤抖。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Spoke, whispered, mumbled, murmured, muttered; Gasped, panted, croaked, spluttered; Bleated, whined, pleaded, simpered, whimpered; Lowered, rushed, faltered, strained",
+          "page": 312,
+          "id": "34-129",
+          "zh": "说、耳语、含糊说、低语、嘟囔；喘气、气喘、嘶哑说、急促结巴；咩咩般哀诉、哭诉、恳求、忸怩说、呜咽；压低、急说、迟疑、勉强发声。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Tensely, anxiously, hurriedly, desperately, despairingly; Weakly, meekly",
+          "page": 312,
+          "id": "34-130",
+          "zh": "紧张地、焦虑地、匆忙地、拼命地、绝望地；虚弱地、怯弱地。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Strangled whisper",
+          "page": 312,
+          "id": "34-131",
+          "zh": "哽在喉咙里的低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Deathly moan",
+          "page": 312,
+          "id": "34-132",
+          "zh": "死亡般的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Moan of despair",
+          "page": 312,
+          "id": "34-133",
+          "zh": "绝望的呻吟"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin, high-pitched howl",
+          "page": 312,
+          "id": "34-134",
+          "zh": "细而尖高的嚎叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "High, piercing scream",
+          "page": 312,
+          "id": "34-135",
+          "zh": "高而刺耳的尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Piercing yell",
+          "page": 312,
+          "id": "34-136",
+          "zh": "刺耳的大叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wild, ragged wail",
+          "page": 312,
+          "id": "34-137",
+          "zh": "狂乱破碎的哀号"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Howl like a wounded dog",
+          "page": 313,
+          "id": "34-138",
+          "zh": "像受伤的狗一样嚎叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Voice was urgent and shrill",
+          "page": 313,
+          "id": "34-139",
+          "zh": "声音急迫尖厉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shrill and harsh like the shriek of a seagull",
+          "page": 313,
+          "id": "34-140",
+          "zh": "像海鸥尖啸一样高而刺耳"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Tone was numb with horror",
+          "page": 313,
+          "id": "34-141",
+          "zh": "语气因恐惧而麻木"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Faltering tone",
+          "page": 313,
+          "id": "34-142",
+          "zh": "结结巴巴、犹疑的语气"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Full of violence and despair",
+          "page": 313,
+          "id": "34-143",
+          "zh": "充满暴烈和绝望"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Words were a jumbled stream, one rushing into the next",
+          "page": 313,
+          "id": "34-144",
+          "zh": "话语混乱地连成一串，争先恐后涌出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lowered his voice",
+          "page": 313,
+          "id": "34-145",
+          "zh": "压低声音"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shrank into silence",
+          "page": 313,
+          "id": "34-146",
+          "zh": "退缩着陷入沉默"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Voice froze in her throat",
+          "page": 313,
+          "id": "34-147",
+          "zh": "声音冻结在喉咙里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Opened her mouth wide in a silent scream",
+          "page": 313,
+          "id": "34-148",
+          "zh": "张大嘴无声地尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Spoke in a rush",
+          "page": 313,
+          "id": "34-149",
+          "zh": "急促地说"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pleaded desperately",
+          "page": 313,
+          "id": "34-150",
+          "zh": "绝望地恳求"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Words came in gasps",
+          "page": 313,
+          "id": "34-151",
+          "zh": "一边喘气一边断续说话"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His voice dropped to an urgent whisper.",
+          "page": 313,
+          "id": "34-152",
+          "zh": "他的声音降成急切的耳语。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her high-pitched scream echoed through the house.",
+          "page": 313,
+          "id": "34-153",
+          "zh": "她尖高的叫声回荡在整栋房子里。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her voice shook and her words came in gasps.",
+          "page": 313,
+          "id": "34-154",
+          "zh": "她声音颤抖，话语随着喘息断断续续。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He let out a long, quivering sigh and shrank into silence.",
+          "page": 313,
+          "id": "34-155",
+          "zh": "他长长地颤抖着叹了口气，退缩着沉默了。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She spoke in a rush, the words tumbling over each other in a jumbled stream, one rushing into the next.",
+          "page": 313,
+          "id": "34-156",
+          "zh": "她说得很急，话语乱成一团，一个接一个地抢着涌出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She flung her head back and screamed – a savage, desperate yell like a wounded dog.",
+          "page": 313,
+          "id": "34-157",
+          "zh": "她猛地仰头尖叫，像受伤的狗一样凶猛而绝望。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He started to shout. His voice, shrill and harsh like the shriek of a seagull, was full of violence and despair.",
+          "page": 313,
+          "id": "34-158",
+          "zh": "他开始大叫，声音像海鸥尖啸一样尖厉刺耳，充满暴烈和绝望。"
+        }
+      ]
+    },
+    {
+      "title": "Section 5 – Hands",
+      "page": 315,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Pain, agony, surrender; Knees, hand, fist, palms, fingers, thumb, knuckles, nails; Chest, head, face, eyes, cheeks, mouth, lips; Skin, hair",
+          "page": 315,
+          "id": "34-159",
+          "zh": "疼痛、剧痛、投降；膝、手、拳、掌、指、拇指、指关节、指甲；胸、头、脸、眼、颊、嘴、唇；皮肤、头发。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "White, pale, tense",
+          "page": 315,
+          "id": "34-160",
+          "zh": "白、苍白、紧绷。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Bent, leant, curled, drew, hugged; Covered, buried; Squeezed, pinched, rubbed, pressed, gripped, clutched, crushed",
+          "page": 315,
+          "id": "34-161",
+          "zh": "弯曲、倾身、蜷起、收起、抱紧；遮住、埋；挤、捏、揉、按、攥、抓、压紧。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curled hand into a fist",
+          "page": 315,
+          "id": "34-162",
+          "zh": "把手攥成拳头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gripped knuckles until they turned white",
+          "page": 315,
+          "id": "34-163",
+          "zh": "握得指关节发白"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drew knees up and hugged them to his chest",
+          "page": 315,
+          "id": "34-164",
+          "zh": "蜷起双膝，紧紧抱到胸前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Buried his head in his hands",
+          "page": 315,
+          "id": "34-165",
+          "zh": "把头埋进双手"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pressed fingers into his eyes",
+          "page": 315,
+          "id": "34-166",
+          "zh": "用手指紧压眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rubbed eyes trying to get rid of the image",
+          "page": 315,
+          "id": "34-167",
+          "zh": "揉眼，试图抹去脑中的画面"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Put his finger to his lips for her to be quiet",
+          "page": 315,
+          "id": "34-168",
+          "zh": "把手指放在嘴唇上，示意她安静"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered his mouth and whispered through his fingers",
+          "page": 315,
+          "id": "34-169",
+          "zh": "捂着嘴，从指缝里低语"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rammed fingers into her ears to block out the screams",
+          "page": 315,
+          "id": "34-170",
+          "zh": "把手指塞进耳朵以隔绝尖叫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ran hand through his hair, tugging it into wild tufts",
+          "page": 315,
+          "id": "34-171",
+          "zh": "手穿过头发，把它扯成乱糟糟的发簇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clutched hand to her mouth",
+          "page": 316,
+          "id": "34-172",
+          "zh": "猛地捂住嘴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Beckoned him forward with a tense jerk of her fingers",
+          "page": 316,
+          "id": "34-173",
+          "zh": "紧张地勾动手指，示意他上前"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Raised her shaking hands in the air in an act of surrender",
+          "page": 316,
+          "id": "34-174",
+          "zh": "举起颤抖的双手，表示投降"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He clutched his hand to his mouth to stop himself from screaming out.",
+          "page": 316,
+          "id": "34-175",
+          "zh": "他死死捂住嘴，不让自己尖叫出声。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He shuddered and rubbed his eyes, trying to clear the image of what he had just seen.",
+          "page": 316,
+          "id": "34-176",
+          "zh": "他打了个寒战，揉揉眼，试图抹去刚看到的画面。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He lowered his voice, leant forward in his chair and looked around cautiously before he spoke.",
+          "page": 316,
+          "id": "34-177",
+          "zh": "他压低声音，在椅子上前倾，小心地环顾四周才开口。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He raised his shaking hands in the air, palms upwards, in an act of surrender.",
+          "page": 316,
+          "id": "34-178",
+          "zh": "他举起颤抖的双手，掌心朝上，表示投降。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She screwed her eyes shut tight and rammed her fingers into her ears to block out the screams.",
+          "page": 316,
+          "id": "34-179",
+          "zh": "她紧紧闭上眼，把手指塞进耳朵，想隔绝尖叫。"
+        }
+      ]
+    },
+    {
+      "title": "Section 6 – Body",
+      "page": 317,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Statue, corpse; Legs, feet, knees, hands",
+          "page": 317,
+          "id": "34-180",
+          "zh": "雕像、尸体；腿、脚、膝盖、手。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Still, frozen, rigid, corpse-like, motionless; Low, flat, snake-like; Slow, cautious, tentative; Fast, frantic, feverish, jerky; Upright, backwards, forwards",
+          "page": 317,
+          "id": "34-181",
+          "zh": "静止、僵住、僵硬、尸体般、一动不动；低伏、平贴、蛇般；缓慢、小心、试探；快、疯狂、狂热、急促抽动；直立、向后、向前。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Froze, paralysed, stiffened; Stopped, halted, faltered; Skidded, slithered; Sat, crouched, squatted, huddled, flattened; Moved, walked, tiptoed, treaded, sneaked; Crept, crawled, groped, edged, clawed, squirmed, crabbed; Approached, advanced; Ran, sprinted, darted, bolted, hurtled; Crashed, dodged, leaped, jerked; Scrambled, scurried, scuttled; Struggled, fought, wrenched, staggered, stumbled, clambered, floundered, flailed",
+          "page": 317,
+          "id": "34-182",
+          "zh": "僵住、瘫住、变僵；停止、停下、踉跄迟疑；滑停、蜿蜒滑动；坐、蹲伏、蹲、蜷缩、贴平；移动、行走、踮脚、踏步、偷走；爬行、匍匐、摸索、挪动、攀抓、扭动、横挪；靠近、前进；跑、冲刺、急窜、逃窜、猛冲；撞、闪躲、跳、猛动；攀爬、疾跑、急窜；挣扎、奋力、扭脱、踉跄、绊倒、爬上、慌乱挣扎、乱挥。"
+        },
+        {
+          "kind": "words",
+          "label": "Adverbs",
+          "en": "Slowly, lightly, quickly, swiftly; Shakily, cautiously; Wildly, blindly, helplessly, desperately, relentlessly",
+          "page": 317,
+          "id": "34-183",
+          "zh": "慢慢、轻轻、快速、敏捷；颤巍巍、小心；疯狂、盲目、无助、拼命、不停歇。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fear turned her to stone",
+          "page": 318,
+          "id": "34-184",
+          "zh": "恐惧把她变成了石头"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood rooted to the spot",
+          "page": 318,
+          "id": "34-185",
+          "zh": "像生根一样定在原地"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stood utterly still like a living statue",
+          "page": 318,
+          "id": "34-186",
+          "zh": "像活雕像一样纹丝不动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sat corpse-like",
+          "page": 318,
+          "id": "34-187",
+          "zh": "像尸体一样静坐"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Body stiffened and she froze to the spot",
+          "page": 318,
+          "id": "34-188",
+          "zh": "身体一僵，定在原地"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung back, paralysed with terror",
+          "page": 318,
+          "id": "34-189",
+          "zh": "吓得动弹不得，缩在后面"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shuddered and went rigid",
+          "page": 318,
+          "id": "34-190",
+          "zh": "打个寒战，全身僵硬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Huddled in the darkness",
+          "page": 318,
+          "id": "34-191",
+          "zh": "蜷缩在黑暗里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Squatted like a frozen toad",
+          "page": 318,
+          "id": "34-192",
+          "zh": "像冻僵的蟾蜍一样蹲着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crouched down, afraid to move",
+          "page": 318,
+          "id": "34-193",
+          "zh": "蹲伏着，不敢移动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Flattened himself against the wall",
+          "page": 318,
+          "id": "34-194",
+          "zh": "把身体紧贴在墙上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Slithered to a halt",
+          "page": 318,
+          "id": "34-195",
+          "zh": "滑行着停住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Skidded to a halt",
+          "page": 318,
+          "id": "34-196",
+          "zh": "滑了一下才停住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rose on his toes",
+          "page": 318,
+          "id": "34-197",
+          "zh": "踮起脚尖"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rose shakily to his feet",
+          "page": 318,
+          "id": "34-198",
+          "zh": "颤巍巍站起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Edged forward",
+          "page": 318,
+          "id": "34-199",
+          "zh": "一点点向前挪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Groped his way forward",
+          "page": 318,
+          "id": "34-200",
+          "zh": "摸索着往前走"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Kept low to the ground",
+          "page": 318,
+          "id": "34-201",
+          "zh": "身体贴近地面"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crawled over the ground flat on her belly",
+          "page": 318,
+          "id": "34-202",
+          "zh": "肚皮贴地向前爬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moved forward cautiously",
+          "page": 318,
+          "id": "34-203",
+          "zh": "小心地前进"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Took one small, tentative step",
+          "page": 318,
+          "id": "34-204",
+          "zh": "试探着迈出一小步"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Treaded lightly",
+          "page": 318,
+          "id": "34-205",
+          "zh": "轻轻落脚"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sneaked along the passage",
+          "page": 318,
+          "id": "34-206",
+          "zh": "沿通道悄悄溜行"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Walked slowly back and forth",
+          "page": 318,
+          "id": "34-207",
+          "zh": "缓缓来回走动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clawed his way up",
+          "page": 318,
+          "id": "34-208",
+          "zh": "抓扒着往上爬"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crabbed slowly along the edge",
+          "page": 318,
+          "id": "34-209",
+          "zh": "沿边缘慢慢横挪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Squirmed his way between...",
+          "page": 319,
+          "id": "34-210",
+          "zh": "扭动身子挤过……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Approached cautiously...",
+          "page": 319,
+          "id": "34-211",
+          "zh": "小心地靠近……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Advanced slowly...",
+          "page": 319,
+          "id": "34-212",
+          "zh": "慢慢向前逼近……"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tiptoed along...",
+          "page": 319,
+          "id": "34-213",
+          "zh": "踮脚沿着……走"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ran wildly",
+          "page": 319,
+          "id": "34-214",
+          "zh": "狂奔"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bolted out of the room",
+          "page": 319,
+          "id": "34-215",
+          "zh": "冲出房间"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprinted down the corridor",
+          "page": 319,
+          "id": "34-216",
+          "zh": "沿走廊疾跑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moved at a feverish pace",
+          "page": 319,
+          "id": "34-217",
+          "zh": "以狂热的速度前进"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Moved with frantic, jerky movements",
+          "page": 319,
+          "id": "34-218",
+          "zh": "动作慌乱急促"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hurtled full pelt",
+          "page": 319,
+          "id": "34-219",
+          "zh": "全速猛冲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scurried like a spider",
+          "page": 319,
+          "id": "34-220",
+          "zh": "像蜘蛛一样急窜"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scuttled in a low crouch",
+          "page": 319,
+          "id": "34-221",
+          "zh": "低低蹲着快步挪动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scrambled away on hands and knees",
+          "page": 319,
+          "id": "34-222",
+          "zh": "手脚并用慌忙爬走"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Jerked upright",
+          "page": 319,
+          "id": "34-223",
+          "zh": "猛然直起身"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Leaped to his feet",
+          "page": 319,
+          "id": "34-224",
+          "zh": "一跃而起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crashed to the floor",
+          "page": 319,
+          "id": "34-225",
+          "zh": "砰地跌到地板上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Struggled like a fish in a net",
+          "page": 319,
+          "id": "34-226",
+          "zh": "像网里的鱼一样挣扎"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wrenched himself free",
+          "page": 319,
+          "id": "34-227",
+          "zh": "用力挣脱"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Floundered around in the dark",
+          "page": 319,
+          "id": "34-228",
+          "zh": "在黑暗中乱撞摸索"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Clambered up the bank",
+          "page": 319,
+          "id": "34-229",
+          "zh": "手脚并用爬上河岸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Darted and dodged",
+          "page": 319,
+          "id": "34-230",
+          "zh": "左冲右闪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fought his way through...",
+          "page": 319,
+          "id": "34-231",
+          "zh": "奋力穿过……"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She sat corpse-like – frozen and motionless.",
+          "page": 319,
+          "id": "34-232",
+          "zh": "她像尸体一样坐着，僵硬而一动不动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She moved as delicately as a wild creature stalking its prey.",
+          "page": 319,
+          "id": "34-233",
+          "zh": "她动作轻巧，像潜行追踪猎物的野兽。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He padded noiselessly up the stairs in his bare feet.",
+          "page": 319,
+          "id": "34-234",
+          "zh": "他光着脚，无声地走上楼梯。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He crabbed slowly along the ledge and felt the way with his feet.",
+          "page": 319,
+          "id": "34-235",
+          "zh": "他沿凸沿慢慢横挪，用双脚探路。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "It was as if time had stopped. He stood perfectly still, frozen to the floor, paralysed by fear.",
+          "page": 319,
+          "id": "34-236",
+          "zh": "时间仿佛停了。他一动不动地站着，像被冻在地上，恐惧使他无法动弹。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He lingered in the shadows, motionless – alert and ready to move quickly.",
+          "page": 320,
+          "id": "34-237",
+          "zh": "他停在阴影里纹丝不动，警惕着，随时准备迅速行动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He slithered to a halt and stood with his hands on his hips, head bowed, gasping for breath.",
+          "page": 320,
+          "id": "34-238",
+          "zh": "他滑行着停下，双手叉腰、低着头，大口喘气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He huddled in the darkness, listening for any sound that might guide him.",
+          "page": 320,
+          "id": "34-239",
+          "zh": "他蜷在黑暗里，倾听任何可能为他指路的声音。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She curled herself into a ball, shivering violently, and covered her head with her hands.",
+          "page": 320,
+          "id": "34-240",
+          "zh": "她蜷成一团，剧烈发抖，双手护住头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He crawled over the ground, keeping low, hardly daring to raise his head.",
+          "page": 320,
+          "id": "34-241",
+          "zh": "他低伏着在地上爬，几乎不敢抬头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He moved slowly. Treading lightly, he checked the area around him, searching for any movement.",
+          "page": 320,
+          "id": "34-242",
+          "zh": "他慢慢移动，轻轻落脚，查看四周，搜寻任何动静。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Flat on her belly, she slithered snake-like out of the room.",
+          "page": 320,
+          "id": "34-243",
+          "zh": "她肚皮贴地，像蛇一样爬出了房间。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her steps quickened until her feet appeared to be flying.",
+          "page": 320,
+          "id": "34-244",
+          "zh": "她越走越快，双脚仿佛飞了起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She scrambled up the bank, chest heaving and gasping for breath.",
+          "page": 320,
+          "id": "34-245",
+          "zh": "她手脚并用爬上岸，胸口剧烈起伏，大口喘气。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He ran like a scuttling lizard, with his legs flailing sideways and forwards.",
+          "page": 320,
+          "id": "34-246",
+          "zh": "他像急窜的蜥蜴一样奔跑，两腿向侧面和前方乱甩。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert bent over and ran with his bottom in the air, scuttling like a rabbit in a warren.",
+          "page": 320,
+          "id": "34-247",
+          "zh": "罗伯特弯腰翘着屁股奔跑，像兔子在洞穴里急窜。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She stumbled and flung her hand out in front of her – groping for something to stop her falling.",
+          "page": 320,
+          "id": "34-248",
+          "zh": "她绊了一下，猛地向前伸手，想抓住什么以免摔倒。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "They maintained a feverish pace and surged forward relentlessly.",
+          "page": 320,
+          "id": "34-249",
+          "zh": "他们保持着急切的速度，不停向前冲。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He started to run, faster and faster, his head down, his arms pumping and his legs a blur of movement.",
+          "page": 320,
+          "id": "34-250",
+          "zh": "他开始跑，越跑越快，低着头，双臂摆动，两腿快成一团模糊的影子。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He darted and dodged through the trees. Blundering and slipping, he fought his way through the undergrowth.",
+          "page": 320,
+          "id": "34-251",
+          "zh": "他在树间左冲右闪，跌撞打滑，奋力穿过低矮的灌木。"
+        }
+      ]
+    }
+  ]
+}

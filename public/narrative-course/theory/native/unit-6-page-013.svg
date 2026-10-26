@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1440" height="810" viewBox="0 0 1440 810">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,810)" d="M-.028 0H1439.972V810H-.028Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,0,810)" d="M80.39 1041.012 1687.656 770.028 1343.476-1271.387-263.79-1000.404 80.39 1041.012Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_5">
+<g transform="matrix(1.1713247,0,0,1.0927987,-263.792,-231.0232)">
+<image id="image_6" width="1666" height="2116" xlink:href="/narrative-course/theory/native/assets/705e5c823980cb67e1c2.png"/>
+</g>
+</mask>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,0,810)" d="M771.101 487.652 1293.901 578.895 1383.116 67.712 860.317-23.531 771.101 487.652Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_9">
+<g transform="matrix(.6545155,0,0,.64016047,771.137,231.10803)">
+<image id="image_10" width="935" height="941" xlink:href="/narrative-course/theory/native/assets/83ece2b6c9397084bb94.png"/>
+</g>
+</mask>
+<clipPath id="clip_12">
+<path transform="matrix(1,0,0,-1,0,810)" d="M-.01 630.041 758.882 765.631 886.749 49.962 127.856-85.627-.01 630.041Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_13">
+<g transform="matrix(1.4853635,0,0,1.4163327,0,44.362)">
+<image id="image_14" width="597" height="601" xlink:href="/narrative-course/theory/native/assets/69d1c7abb6d2b75351c1.png"/>
+</g>
+</mask>
+<clipPath id="clip_16">
+<path transform="matrix(1,0,0,-1,0,810)" d="M558.027 603.434 887.116 564.134 881.97 521.042 552.881 560.342 558.027 603.434Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 .028H1439.972V810H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1439.972V.028H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M0 810H1440V0H0V810Z" fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_2)">
+<g transform="matrix(.4944959,0,0,.49418668,0,-.0289917)">
+<image id="image_3" width="2912" height="1639" xlink:href="/narrative-course/theory/native/assets/7b00486f53f2f6485346.jpg"/>
+</g>
+</g>
+<g clip-path="url(#clip_4)">
+<g mask="url(#mask_5)">
+<g transform="matrix(1.1713247,0,0,1.0927987,-263.792,-231.0232)">
+<image id="image_7" width="1666" height="2116" xlink:href="/narrative-course/theory/native/assets/d63fdc5d3cbe3b4fec60.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_8)">
+<g mask="url(#mask_9)">
+<g transform="matrix(.6545155,0,0,.64016047,771.137,231.10803)">
+<image id="image_11" width="935" height="941" xlink:href="/narrative-course/theory/native/assets/98087e369f7c33d4217d.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_12)">
+<g mask="url(#mask_13)">
+<g transform="matrix(1.4853635,0,0,1.4163327,0,44.362)">
+<image id="image_15" width="597" height="601" xlink:href="/narrative-course/theory/native/assets/45634e52185447f23740.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_16)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M819.581 600.406C797.868 599.102 776.154 596.976 754.469 593.745 732.926 590.57 711.439 586.318 690.038 580.791 668.58 575.235 647.235 568.318 626.031 560.098 604.63 551.679 583.398 541.757 562.394 530.277 559.757 528.831 557.121 527.357 554.485 525.855 553.493 525.288 553.918 522.369 554.939 522.935 575.83 534.699 596.948 544.876 618.293 553.493 639.468 562.11 660.784 569.31 682.271 575.065 703.672 580.876 725.159 585.468 746.731 588.813 768.359 592.243 790.044 594.595 811.757 596.069 833.556 597.543 855.383 598.139 877.209 598.309 879.959 598.337 882.709 598.337 885.43 598.337 885.6 598.337 885.77 598.422 885.94 598.564 886.082 598.734 886.195 598.961 886.28 599.244 886.365 599.499 886.422 599.811 886.422 600.123 886.422 600.435 886.365 600.746 886.28 601.03 886.195 601.313 886.082 601.54 885.94 601.682 885.77 601.852 885.628 601.937 885.458 601.937 863.49 602.192 841.55 601.682 819.581 600.406Z" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M862.214 575.405C829.049 578.976 795.798 580.45 762.605 577.984 728.731 575.461 694.828 568.97 661.72 555.364 643.663 548.079 625.918 538.214 608.683 525.855 607.72 525.146 608.145 522.227 609.137 522.935 640.091 545.074 672.831 558.085 705.685 565.795 734.967 572.287 764.419 575.546 793.928 575.546 798.321 575.546 802.743 575.49 807.137 575.32 825.506 574.923 843.874 573.619 862.214 571.663 863.518 571.493 863.518 575.263 862.214 575.405Z" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_17)">
+<path transform="matrix(1,0,0,-1,0,810)" d="M314.759 599.726 689.839 598.422 689.669 552.728 314.589 554.031 314.759 599.726Z" fill="#ffff00" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M148.961 565.994 689.641 564.094 689.471 518.4 148.791 520.299 148.961 565.994Z" fill="#ff00ff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M148.819 531.581 287.802 531.099 287.631 485.405 148.649 485.887 148.819 531.581Z" fill="#ff00ff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M455.159 530.306 607.436 529.767 607.266 484.072 454.989 484.611 455.159 530.306Z" fill="#00ff00" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M148.677 497.169 383.357 496.346 383.187 450.652 148.507 451.474 148.677 497.169Z" fill="#00ff00" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M148.535 462.756 436.819 461.735 436.649 416.069 148.365 417.061 148.535 462.756Z" fill="#00ff00" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M579.543 392.117 681.109 391.748 680.939 346.054 579.373 346.422 579.543 392.117Z" fill="#008000" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M319.294 324.397 537.676 323.631 537.506 277.937 319.124 278.702 319.294 324.397Z" fill="#008000" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M548.334 323.433 704.296 322.894 704.126 277.2 548.164 277.739 548.334 323.433Z" fill="#008000" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,810)" d="M147.827 290.693 461.112 289.587 460.942 243.893 147.657 244.998 147.827 290.693Z" fill="#008000" fill-rule="evenodd"/>
+</g>
+</g>
+</svg>

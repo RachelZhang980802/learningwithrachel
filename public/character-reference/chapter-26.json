@@ -1,0 +1,712 @@
+{
+  "id": 26,
+  "title": "Clothes",
+  "zh": "衣着",
+  "group": "Appearance",
+  "startPage": 233,
+  "endPage": 237,
+  "sections": [
+    {
+      "title": "Words, phrases and sentences",
+      "page": 233,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Coat, jacket, parka, duffle, bomber, blazer, trench, suit; Trousers, chinos, jeans, leggings, tracksuit bottoms, shorts; Blouse, smock, shirt, t-shirt, vest, sweatshirt, jumper, sweater, fleece; Dress, gown; Shoes, sandals, boots, trainers; Rags",
+          "page": 233,
+          "id": "26-001",
+          "zh": "外套、夹克、派克大衣、粗呢连帽大衣、飞行夹克、休闲西装、风衣、套装；长裤、斜纹棉布裤、牛仔裤、紧身裤、运动裤、短裤；女衬衫、罩衫、衬衫、T恤、背心、卫衣、套头毛衣、毛衣、抓绒衫；连衣裙、长礼服；鞋、凉鞋、靴子、运动鞋；破衣烂衫。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Black, brown, beige, khaki, purple, green, blue, turquoise, grey, yellow, orange, red, pink, white, cream; Floral, striped, spotted, patterned, psychedelic, pin-striped; Linen, cotton, nylon, denim, leather, woollen, down, tweed, corduroy, silk, jersey; Loose, baggy, shapeless, tight, fitted, tailored; Straight, flared, wide-legged; Long, flowing, short, mini, cropped; Trendy, designer, new, old, battered, faded; Polo, rugby, football; Bermuda, skater, combat; Long-sleeved, short-sleeved; Hooded, open-necked, v-neck, roll-neck",
+          "page": 233,
+          "id": "26-002",
+          "zh": "黑、棕、米色、卡其、紫、绿、蓝、蓝绿、灰、黄、橙、红、粉、白、奶油色；花卉、条纹、圆点、图案、迷幻花纹、细条纹；亚麻、棉、尼龙、牛仔布、皮革、羊毛、羽绒、粗花呢、灯芯绒、丝绸、针织；宽松、肥大、不成形、紧、合身、剪裁利落；直筒、喇叭形、阔腿；长、飘逸、短、迷你、截短；时髦、名牌、新、旧、破旧、褪色；马球、橄榄球、足球款；百慕大、滑板、工装款；长袖、短袖；连帽、敞领、V领、翻高领。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Dressed, wore, wrapped, hung, draped, buttoned; Ripped, torn, crumpled, creased",
+          "page": 234,
+          "id": "26-003",
+          "zh": "穿着、穿戴、裹着、垂挂、披着、扣上；撕破、扯破、弄皱、起褶。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Black trench coat",
+          "page": 234,
+          "id": "26-004",
+          "zh": "黑色风衣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Green nylon parka",
+          "page": 234,
+          "id": "26-005",
+          "zh": "绿色尼龙派克大衣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pink, hooded bolero",
+          "page": 234,
+          "id": "26-006",
+          "zh": "粉色连帽短上衣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Denim jacket",
+          "page": 234,
+          "id": "26-007",
+          "zh": "牛仔夹克"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pilot’s bomber jacket",
+          "page": 234,
+          "id": "26-008",
+          "zh": "飞行员式短夹克"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Grey pin-striped suit",
+          "page": 234,
+          "id": "26-009",
+          "zh": "灰色细条纹西装"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Linen suit",
+          "page": 234,
+          "id": "26-010",
+          "zh": "亚麻西装"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Loose, faded jeans",
+          "page": 234,
+          "id": "26-011",
+          "zh": "宽松褪色的牛仔裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Designer skinny jeans",
+          "page": 234,
+          "id": "26-012",
+          "zh": "名牌紧身牛仔裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cropped leggings",
+          "page": 234,
+          "id": "26-013",
+          "zh": "截短款紧身裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Blue, wide-legged trousers",
+          "page": 234,
+          "id": "26-014",
+          "zh": "蓝色阔腿裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Khaki Bermuda shorts",
+          "page": 234,
+          "id": "26-015",
+          "zh": "卡其色百慕大短裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Loose skater shorts",
+          "page": 234,
+          "id": "26-016",
+          "zh": "宽松的滑板短裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "White polo shirt",
+          "page": 234,
+          "id": "26-017",
+          "zh": "白色马球衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Striped rugby shirt",
+          "page": 234,
+          "id": "26-018",
+          "zh": "条纹橄榄球衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Psychedelic smock top",
+          "page": 234,
+          "id": "26-019",
+          "zh": "迷幻图案的宽罩衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Layered skateboard shirt",
+          "page": 234,
+          "id": "26-020",
+          "zh": "叠穿式滑板上衣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Long-sleeved t-shirt",
+          "page": 234,
+          "id": "26-021",
+          "zh": "长袖T恤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cropped vest top",
+          "page": 234,
+          "id": "26-022",
+          "zh": "短款背心"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Baggy sweatshirt",
+          "page": 234,
+          "id": "26-023",
+          "zh": "肥大的卫衣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hooded fleece",
+          "page": 234,
+          "id": "26-024",
+          "zh": "连帽抓绒衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Red silk blouse",
+          "page": 234,
+          "id": "26-025",
+          "zh": "红色丝绸女衬衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Floral cotton shirt",
+          "page": 234,
+          "id": "26-026",
+          "zh": "花卉图案棉衬衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Open-necked shirt",
+          "page": 234,
+          "id": "26-027",
+          "zh": "敞领衬衫"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Long black dress",
+          "page": 235,
+          "id": "26-028",
+          "zh": "黑色长连衣裙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Linen sundress",
+          "page": 235,
+          "id": "26-029",
+          "zh": "亚麻吊带夏裙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Blue cotton shirt dress",
+          "page": 235,
+          "id": "26-030",
+          "zh": "蓝色棉质衬衫裙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shapeless brown dress",
+          "page": 235,
+          "id": "26-031",
+          "zh": "不显身形的棕色连衣裙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Turquoise silk gown",
+          "page": 235,
+          "id": "26-032",
+          "zh": "蓝绿色丝绸长礼服"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Beige miniskirt",
+          "page": 235,
+          "id": "26-033",
+          "zh": "米色迷你裙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Flared denim skirt",
+          "page": 235,
+          "id": "26-034",
+          "zh": "喇叭形牛仔裙"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Canvas sandals",
+          "page": 235,
+          "id": "26-035",
+          "zh": "帆布凉鞋"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Black suede boots",
+          "page": 235,
+          "id": "26-036",
+          "zh": "黑色麂皮靴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sturdy, black lace-up shoes",
+          "page": 235,
+          "id": "26-037",
+          "zh": "结实的黑色系带鞋"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Navy high-heeled shoes",
+          "page": 235,
+          "id": "26-038",
+          "zh": "藏蓝色高跟鞋"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Purple platform shoes",
+          "page": 235,
+          "id": "26-039",
+          "zh": "紫色厚底鞋"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Walking boots",
+          "page": 235,
+          "id": "26-040",
+          "zh": "徒步靴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Worn, filthy clothes",
+          "page": 235,
+          "id": "26-041",
+          "zh": "破旧肮脏的衣服"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like rags on a scarecrow",
+          "page": 235,
+          "id": "26-042",
+          "zh": "像稻草人身上的破布"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Shoes with flapping soles",
+          "page": 235,
+          "id": "26-043",
+          "zh": "鞋底脱开、走路时拍打的鞋"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Filthy, tattered jeans",
+          "page": 235,
+          "id": "26-044",
+          "zh": "肮脏破烂的牛仔裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wrapped in a heavy winter coat",
+          "page": 235,
+          "id": "26-045",
+          "zh": "裹在厚重的冬大衣里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wearing a denim jacket",
+          "page": 235,
+          "id": "26-046",
+          "zh": "穿着牛仔夹克"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Draped casually around his shoulders",
+          "page": 235,
+          "id": "26-047",
+          "zh": "随意地披在肩上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dressed in loose, faded jeans",
+          "page": 235,
+          "id": "26-048",
+          "zh": "穿着宽松褪色的牛仔裤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung loosely on his hips",
+          "page": 235,
+          "id": "26-049",
+          "zh": "松松地挂在胯上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dragged along the floor",
+          "page": 235,
+          "id": "26-050",
+          "zh": "拖在地板上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Casually dressed",
+          "page": 235,
+          "id": "26-051",
+          "zh": "穿着休闲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Smartly dressed",
+          "page": 235,
+          "id": "26-052",
+          "zh": "衣着整洁讲究"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Tucked in loosely",
+          "page": 235,
+          "id": "26-053",
+          "zh": "松松地掖进去"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fastened by a brooch",
+          "page": 235,
+          "id": "26-054",
+          "zh": "用胸针别住"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Fastened to the neck",
+          "page": 235,
+          "id": "26-055",
+          "zh": "一直扣到脖子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Left her midriff bare",
+          "page": 236,
+          "id": "26-056",
+          "zh": "露出她的腰腹部"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dressed in rags",
+          "page": 236,
+          "id": "26-057",
+          "zh": "衣衫褴褛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Collar torn off his shirt",
+          "page": 236,
+          "id": "26-058",
+          "zh": "衬衫领子被扯掉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shirt hung outside his trousers",
+          "page": 236,
+          "id": "26-059",
+          "zh": "衬衫下摆垂在裤腰外"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sleeves rolled to the elbows",
+          "page": 236,
+          "id": "26-060",
+          "zh": "袖子卷到肘部"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wore jumper inside out and back to front",
+          "page": 236,
+          "id": "26-061",
+          "zh": "毛衣里外、前后都穿反了"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Trousers ripped at the knees",
+          "page": 236,
+          "id": "26-062",
+          "zh": "裤子的膝盖处破了"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her gown was a beautiful turquoise silk.",
+          "page": 236,
+          "id": "26-063",
+          "zh": "她的礼服是漂亮的蓝绿色丝绸做的。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her black trench coat was draped casually around her shoulders.",
+          "page": 236,
+          "id": "26-064",
+          "zh": "她的黑风衣随意地披在肩头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was casually dressed in skater shorts and sandals.",
+          "page": 236,
+          "id": "26-065",
+          "zh": "他穿着滑板短裤和凉鞋，十分休闲。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was wearing a blue linen blazer and white, wide-legged trousers.",
+          "page": 236,
+          "id": "26-066",
+          "zh": "她穿着蓝色亚麻西装外套和白色阔腿裤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was casual in designer jeans and a pilot’s bomber jacket.",
+          "page": 236,
+          "id": "26-067",
+          "zh": "他穿名牌牛仔裤和飞行员夹克，显得随意自在。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A plump woman, in a shapeless black dress, sat down beside her.",
+          "page": 236,
+          "id": "26-068",
+          "zh": "一个穿着宽大黑裙的丰满女人在她身旁坐下。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "It was freezing cold, but she was warm and snug in her white down jacket.",
+          "page": 236,
+          "id": "26-069",
+          "zh": "天气冰冷，但白色羽绒服让她暖和又舒适。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was wrapped in a heavy winter overcoat and his face hidden by a scarf.",
+          "page": 236,
+          "id": "26-070",
+          "zh": "他裹着厚厚的冬大衣，脸藏在围巾后。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was dressed in a striped shirt and tight, faded jeans.",
+          "page": 236,
+          "id": "26-071",
+          "zh": "她穿着条纹衬衫和褪色的紧身牛仔裤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He looked out of his place in his rugby shirt, jeans and denim jacket.",
+          "page": 236,
+          "id": "26-072",
+          "zh": "他的橄榄球衫、牛仔裤和牛仔夹克让他显得与周围格格不入。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His loose, shapeless jeans hung loosely on his hips and dragged along the floor.",
+          "page": 236,
+          "id": "26-073",
+          "zh": "他宽松没形的牛仔裤松松挂在胯上，裤脚拖着地。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was wearing a layered skateboard t-shirt, torn tracksuit bottoms and muddy trainers.",
+          "page": 236,
+          "id": "26-074",
+          "zh": "他穿着叠穿款滑板T恤、破运动裤和沾泥的运动鞋。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was elegantly dressed in a long black dress, with a shimmering silver scarf draped over her shoulders.",
+          "page": 236,
+          "id": "26-075",
+          "zh": "她穿着优雅的黑色长裙，肩上披着闪光的银色围巾。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was smartly dressed in a navy skirt and matching jacket, with a cream blouse fastened with a brooch.",
+          "page": 236,
+          "id": "26-076",
+          "zh": "她穿着藏蓝裙子和配套外套，奶油色衬衫上别着胸针，十分整洁得体。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her cotton miniskirt and cropped top left her midriff bare.",
+          "page": 236,
+          "id": "26-077",
+          "zh": "棉质迷你裙和短上衣露出了她的腰腹。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She looked stern, but professional, in a black tailored suit, and a red silk blouse fastened to the neck.",
+          "page": 236,
+          "id": "26-078",
+          "zh": "她穿剪裁利落的黑色套装，红丝绸衬衫一直扣到脖子，显得严肃而专业。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He felt casual, but smart, in his linen suit and t-shirt.",
+          "page": 237,
+          "id": "26-079",
+          "zh": "他穿亚麻西装配T恤，觉得既休闲又体面。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had changed into a white, chic blouse, tailored black trousers and expensive, black, high-heeled boots.",
+          "page": 237,
+          "id": "26-080",
+          "zh": "她换上时髦的白衬衫、剪裁合身的黑裤和昂贵的黑色高跟靴。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She was dirty and dressed in rags.",
+          "page": 237,
+          "id": "26-081",
+          "zh": "她脏兮兮的，衣衫褴褛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His worn clothes hung on him like rags on a scarecrow.",
+          "page": 237,
+          "id": "26-082",
+          "zh": "他破旧的衣服挂在身上，像稻草人身上的破布。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The soles of her shoes flapped as she walked.",
+          "page": 237,
+          "id": "26-083",
+          "zh": "她走路时，脱开的鞋底一下一下拍打着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He looked like a tramp in his filthy, tattered jeans and ripped, shapeless t-shirt.",
+          "page": 237,
+          "id": "26-084",
+          "zh": "他穿着肮脏破烂的牛仔裤和撕破变形的T恤，像个流浪汉。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The collar of his shirt was torn and hanging loose on his shoulder.",
+          "page": 237,
+          "id": "26-085",
+          "zh": "他的衬衫领子撕破了，松垮地挂在肩上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His shirt was hanging outside his trousers and his long sleeves were rolled to the elbows.",
+          "page": 237,
+          "id": "26-086",
+          "zh": "他的衬衫垂在裤腰外，长袖卷到肘部。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His trousers were ripped at the knees, his t-shirt torn and blood soaked through both in dark, damp patches.",
+          "page": 237,
+          "id": "26-087",
+          "zh": "他的裤子膝盖处撕破，T恤也破了，血渗透了衣裤，形成一块块深色湿斑。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "Forests and woods",
+    "zh": "森林与树林",
+    "group": "Settings",
+    "startPage": 46,
+    "endPage": 51
+  },
+  {
+    "id": 2,
+    "title": "Mountains",
+    "zh": "山脉",
+    "group": "Settings",
+    "startPage": 52,
+    "endPage": 56
+  },
+  {
+    "id": 3,
+    "title": "Caves",
+    "zh": "洞穴",
+    "group": "Settings",
+    "startPage": 57,
+    "endPage": 59
+  },
+  {
+    "id": 4,
+    "title": "Beaches, islands, volcanoes and deserts",
+    "zh": "海滩、岛屿、火山与沙漠",
+    "group": "Settings",
+    "startPage": 60,
+    "endPage": 69
+  },
+  {
+    "id": 5,
+    "title": "Ground and paths",
+    "zh": "地面与小径",
+    "group": "Settings",
+    "startPage": 70,
+    "endPage": 76
+  },
+  {
+    "id": 6,
+    "title": "Streams, rivers, lakes and waterfalls",
+    "zh": "溪流、河流、湖泊与瀑布",
+    "group": "Settings",
+    "startPage": 77,
+    "endPage": 81
+  },
+  {
+    "id": 7,
+    "title": "Sea and waves",
+    "zh": "海洋与海浪",
+    "group": "Settings",
+    "startPage": 82,
+    "endPage": 87
+  },
+  {
+    "id": 8,
+    "title": "Cities, towns and villages",
+    "zh": "城市、城镇与村庄",
+    "group": "Settings",
+    "startPage": 88,
+    "endPage": 92
+  },
+  {
+    "id": 9,
+    "title": "Roads",
+    "zh": "道路",
+    "group": "Settings",
+    "startPage": 93,
+    "endPage": 95
+  },
+  {
+    "id": 10,
+    "title": "Gardens",
+    "zh": "花园",
+    "group": "Settings",
+    "startPage": 96,
+    "endPage": 100
+  },
+  {
+    "id": 11,
+    "title": "Buildings",
+    "zh": "建筑",
+    "group": "Settings",
+    "startPage": 101,
+    "endPage": 105
+  },
+  {
+    "id": 12,
+    "title": "Doors, halls, corridors and stairs",
+    "zh": "门、门厅、走廊与楼梯",
+    "group": "Settings",
+    "startPage": 106,
+    "endPage": 111
+  },
+  {
+    "id": 13,
+    "title": "Rooms",
+    "zh": "房间",
+    "group": "Settings",
+    "startPage": 112,
+    "endPage": 116
+  },
+  {
+    "id": 14,
+    "title": "Time of day",
+    "zh": "一天中的时段",
+    "group": "Settings",
+    "startPage": 117,
+    "endPage": 127
+  },
+  {
+    "id": 15,
+    "title": "Seasons",
+    "zh": "季节",
+    "group": "Settings",
+    "startPage": 128,
+    "endPage": 143
+  },
+  {
+    "id": 16,
+    "title": "Rain, mist and fog",
+    "zh": "雨、薄雾与浓雾",
+    "group": "Settings",
+    "startPage": 144,
+    "endPage": 150
+  },
+  {
+    "id": 17,
+    "title": "Wind, thunder and lightning",
+    "zh": "风、雷与闪电",
+    "group": "Settings",
+    "startPage": 151,
+    "endPage": 157
+  },
+  {
+    "id": 18,
+    "title": "Smell and touch",
+    "zh": "嗅觉与触觉",
+    "group": "Settings",
+    "startPage": 158,
+    "endPage": 166
+  },
+  {
+    "id": 19,
+    "title": "Sound",
+    "zh": "声音",
+    "group": "Settings",
+    "startPage": 167,
+    "endPage": 180
+  }
+]

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="720" height="405.01417" viewBox="0 0 720 405.01417">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 .028H719.972V405.014H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 0H720V405.014H0Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_3">
+<g transform="matrix(1.44,0,0,.8100281,0,-.027862549)">
+<image id="image_4" width="500" height="500" xlink:href="/narrative-course/decks/assets/4028034f205e6c291850.png"/>
+</g>
+</mask>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 0H720V402.265H0Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_7">
+<g transform="matrix(.88860407,0,0,.88860407,135.184,6.067169)">
+<image id="image_8" width="500" height="500" xlink:href="/narrative-course/decks/assets/44f498bdc33ee3365008.png"/>
+</g>
+</mask>
+<clipPath id="clip_10">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M614.154 326.353H720V402.265H614.154Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_11">
+<g transform="matrix(.24059369,0,0,.24022787,613.786,2.7211457)">
+<image id="image_12" width="443" height="316" xlink:href="/narrative-course/decks/assets/7d72d4caa3c9aa0802c5.png"/>
+</g>
+</mask>
+<clipPath id="clip_14">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 9.978H105.874V85.89H0Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_15">
+<g transform="matrix(.2406569,0,0,.24022787,-.369,319.09614)">
+<image id="image_16" width="443" height="316" xlink:href="/narrative-course/decks/assets/5f5f10e5ff5290713c7b.png"/>
+</g>
+</mask>
+<clipPath id="clip_18">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 .028H719.972V405.014H0Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_19">
+<g transform="matrix(.24029799,0,0,.24006923,240.151,336.89814)">
+<image id="image_20" width="547" height="130" xlink:href="/narrative-course/decks/assets/0f6215c7827547c8fcf5.png"/>
+</g>
+</mask>
+<mask id="mask_22">
+<g transform="matrix(.24029799,0,0,.24006923,365.272,336.89814)">
+<image id="image_23" width="547" height="130" xlink:href="/narrative-course/decks/assets/f796a443cd17d60b0232.png"/>
+</g>
+</mask>
+<mask id="mask_25">
+<g transform="matrix(.24029799,0,0,.24006923,226.8,61.399156)">
+<image id="image_26" width="547" height="130" xlink:href="/narrative-course/decks/assets/a08f636e68d6dc3775cb.png"/>
+</g>
+</mask>
+<mask id="mask_28">
+<g transform="matrix(.24117981,0,0,.24116406,351.921,61.739156)">
+<image id="image_29" width="545" height="128" xlink:href="/narrative-course/decks/assets/af995a15c3b9ff808558.png"/>
+</g>
+</mask>
+<clipPath id="clip_31">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M-2.92 246.728H93.26V409.29499H-2.92Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_32">
+<g transform="matrix(.2403474,0,0,.2401285,-3.26,-4.308838)">
+<image id="image_33" width="403" height="677" xlink:href="/narrative-course/decks/assets/d228ac44d4e43ac12040.png"/>
+</g>
+</mask>
+<clipPath id="clip_35">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M633.005-28.8H729.185V133.767H633.005Z" clip-rule="evenodd"/>
+</clipPath>
+<mask id="mask_36">
+<g transform="matrix(.2403474,0,0,.2401285,632.665,271.21919)">
+<image id="image_37" width="403" height="677" xlink:href="/narrative-course/decks/assets/fe91b6c5f48179738ae4.png"/>
+</g>
+</mask>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,405.01417)" d="M0 405.014H719.972V.028H0V405.014Z" fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_2)">
+<g mask="url(#mask_3)">
+<g transform="matrix(1.44,0,0,.8100281,0,-.027862549)">
+<image id="image_5" width="500" height="500" xlink:href="/narrative-course/decks/assets/8d2e6ad9bbedf6076a97.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_6)">
+<g mask="url(#mask_7)">
+<g transform="matrix(.88860407,0,0,.88860407,135.184,6.067169)">
+<image id="image_9" width="500" height="500" xlink:href="/narrative-course/decks/assets/79d9bb73028ab99f156e.jpg"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.01417)" stroke-width=".737" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#783f04" d="M357.591 9.751H10.715V394.016H704.438V9.751H357.591Z"/>
+<path transform="matrix(1,0,0,-1,0,405.01417)" stroke-width=".737" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#c24445" d="M357.591 14.286H14.797V389.48H700.356V14.286H357.591Z"/>
+<path transform="matrix(1,0,0,-1,0,405.01417)" stroke-width=".737" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#783f04" d="M357.591 9.751H10.715V394.016H704.438V9.751H357.591Z"/>
+<path transform="matrix(1,0,0,-1,0,405.01417)" stroke-width=".737" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#c24445" d="M357.591 14.286H14.797V389.48H700.356V14.286H357.591Z"/>
+</g>
+<g clip-path="url(#clip_10)">
+<g mask="url(#mask_11)">
+<g transform="matrix(.24059369,0,0,.24022787,613.786,2.7211457)">
+<image id="image_13" width="443" height="316" xlink:href="/narrative-course/decks/assets/0c170d861e10a1846c1a.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_14)">
+<g mask="url(#mask_15)">
+<g transform="matrix(.2406569,0,0,.24022787,-.369,319.09614)">
+<image id="image_17" width="443" height="316" xlink:href="/narrative-course/decks/assets/39eb9cb22f19ade47409.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_18)">
+<g mask="url(#mask_19)">
+<g transform="matrix(.24029799,0,0,.24006923,240.151,336.89814)">
+<image id="image_21" width="547" height="130" xlink:href="/narrative-course/decks/assets/c343d0e3faa5b0a9df40.jpg"/>
+</g>
+</g>
+<g mask="url(#mask_22)">
+<g transform="matrix(.24029799,0,0,.24006923,365.272,336.89814)">
+<image id="image_24" width="547" height="130" xlink:href="/narrative-course/decks/assets/8667429fe03b2b188827.jpg"/>
+</g>
+</g>
+<g mask="url(#mask_25)">
+<g transform="matrix(.24029799,0,0,.24006923,226.8,61.399156)">
+<image id="image_27" width="547" height="130" xlink:href="/narrative-course/decks/assets/5094cf1d89db526b6559.jpg"/>
+</g>
+</g>
+<g mask="url(#mask_28)">
+<g transform="matrix(.24117981,0,0,.24116406,351.921,61.739156)">
+<image id="image_30" width="545" height="128" xlink:href="/narrative-course/decks/assets/3c2e9a0c8f964793750b.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_31)">
+<g mask="url(#mask_32)">
+<g transform="matrix(.2403474,0,0,.2401285,-3.26,-4.308838)">
+<image id="image_34" width="403" height="677" xlink:href="/narrative-course/decks/assets/f2fc06550842fa8dadec.jpg"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_35)">
+<g mask="url(#mask_36)">
+<g transform="matrix(.2403474,0,0,.2401285,632.665,271.21919)">
+<image id="image_38" width="403" height="677" xlink:href="/narrative-course/decks/assets/65ed51f97914675b06b0.jpg"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

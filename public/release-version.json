@@ -1,5 +1,7 @@
 {
-  "release": "weekly-2026-10-22",
+  "release": "narrative-2026-10-27",
   "assetPrefix": "releases/2026-10-22/",
-  "assetCount": 3309
+  "assetCount": 3309,
+  "coursePages": 248,
+  "storybookPages": 98
 }

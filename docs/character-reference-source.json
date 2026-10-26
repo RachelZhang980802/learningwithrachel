@@ -1,0 +1,16 @@
+{
+  "source": "Descriptosaurus: Supporting Creative Writing, third edition, Alison Wilcox",
+  "sourceSha256": "05b177a2799c1d0713bee0b98566d33e64250c1d1a6a6367ae2a3f7d3657d401",
+  "pdfPages": [
+    184,
+    366
+  ],
+  "chapters": 19,
+  "entries": 2032,
+  "types": {
+    "words": 214,
+    "phrase": 1274,
+    "sentence": 544
+  },
+  "extractionNotes": "Empty pages and chapter divider pages carry no entries. Private-use ligatures and extraction spacing repaired. Original word lists, phrases, example paragraphs, order and PDF page references retained. Chinese learning glosses added per entry."
+}

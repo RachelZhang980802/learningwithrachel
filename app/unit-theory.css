@@ -334,3 +334,52 @@
   .narrative-course .theory-inline-slide.is-enlarged .theory-slide-repair--u5-develop-sub { font-size: 21px; }
   .narrative-course .theory-inline-slide.is-enlarged .theory-slide-repair--u6-elements > span { font-size: 11px; }
 }
+
+/* Units 3–6 follow the readable, topic-first flow used by the first two units. */
+.narrative-course .theory-topic-overview { margin: 40px 0 0; }
+.narrative-course .theory-topic-overview > h2 { margin: 0 0 18px; color: var(--theory-ink); font: 700 clamp(28px,3.5vw,43px)/1.12 Georgia,serif; }
+.narrative-course .theory-card { grid-template-rows: auto auto auto; }
+.narrative-course .theory-card h3 { margin: 0 0 9px; color: var(--theory-ink); font: 700 clamp(23px,2.5vw,33px)/1.15 Georgia,serif; }
+.narrative-course .theory-card button { grid-column: 2; justify-self: start; margin-top: 12px; padding: 7px 0; border: 0; border-bottom: 1px solid var(--theory-accent); background: transparent; color: var(--theory-accent); font: 800 14px/1.25 var(--body); cursor: pointer; }
+.narrative-course .theory-card button:hover { color: var(--theory-ink); }
+.narrative-course .theory-contents { width: min(100%,900px); grid-template-columns: 1fr; }
+.narrative-course .theory-contents li { flex-wrap: wrap; }
+.narrative-course .theory-contents li span { margin-left: auto; font: 700 13px/1.3 var(--body); }
+.narrative-course .theory-page-reading { display: grid; gap: 18px; max-width: 900px; margin-bottom: 28px; }
+.narrative-course .theory-page-reading > p { margin: 0; color: var(--theory-ink); font: clamp(18px,1.7vw,23px)/1.6 Georgia,serif; overflow-wrap: anywhere; }
+.narrative-course .theory-page-reading > p:first-child { font-weight: 700; }
+.narrative-course .theory-reading-quote { border-left: 4px solid var(--theory-accent); padding: 4px 0 4px 18px; }
+.narrative-course .theory-reading-quote > summary { color: var(--theory-ink); font: clamp(18px,1.7vw,23px)/1.55 Georgia,serif; cursor: pointer; }
+.narrative-course .theory-reading-quote > summary::marker { color: var(--theory-accent); }
+.narrative-course .theory-reading-quote > span { display: block; margin: 14px 0 0; color: #985057; font: clamp(16px,1.45vw,20px)/1.65 Georgia,serif; }
+.narrative-course .theory-original-layout { margin-top: 22px; border-top: 1px solid color-mix(in srgb,var(--theory-ink) 25%,transparent); }
+.narrative-course .theory-original-layout > summary { width: fit-content; padding: 16px 0; color: var(--theory-accent); font: 800 14px/1.3 var(--body); cursor: pointer; }
+.narrative-course .theory-original-content { padding: 12px 0 0; }
+@media (min-width: 600px) {
+  .narrative-course .theory-reading-quote[open] { display: grid; grid-template-columns: minmax(0,1fr) minmax(220px,38%); column-gap: clamp(22px,4vw,54px); }
+  .narrative-course .theory-reading-quote[open] > span { margin: 0; }
+}
+@media (max-width: 760px) {
+  .narrative-course .theory-card button { margin-top: 12px; }
+  .narrative-course .theory-page-reading > p,
+  .narrative-course .theory-reading-quote > summary { font-size: 18px; }
+}
+
+/* Source illustrations sit within the same paper surface as the HTML lesson. */
+.narrative-course .theory-objective-layout { display: grid; grid-template-columns: minmax(0,1.35fr) minmax(210px,.65fr); gap: 26px; align-items: center; max-width: 960px; margin: 0 auto; padding: 28px; border: 1px solid color-mix(in srgb,var(--theory-accent) 35%,transparent); background: color-mix(in srgb,var(--theory-pale) 55%,white); }
+.narrative-course .theory-objective-image { display: block; width: 100%; max-height: 380px; object-fit: contain; }
+.narrative-course .theory-page-composition { display: grid; grid-template-columns: minmax(0,1.55fr) minmax(215px,.65fr); gap: clamp(20px,3vw,36px); align-items: start; padding: clamp(17px,2.5vw,28px); border: 1px solid color-mix(in srgb,var(--theory-accent) 38%,transparent); background: color-mix(in srgb,var(--theory-pale) 28%,white); }
+.narrative-course .theory-page-composition .theory-page-reading { max-width: none; margin: 0; }
+.narrative-course .theory-page-art { display: grid; align-content: start; gap: 10px; min-width: 0; margin: 0; }
+.narrative-course .theory-page-art img { display: block; width: 100%; max-height: 310px; object-fit: contain; border: 1px solid color-mix(in srgb,var(--theory-accent) 26%,transparent); background: color-mix(in srgb,var(--theory-pale) 30%,white); }
+.narrative-course .theory-page-art--slide img { aspect-ratio: 16/9; max-height: none; }
+.narrative-course .theory-page-composition:has(.theory-page-art--slide) { grid-template-columns: minmax(0,1fr); }
+.narrative-course .theory-page-composition .theory-page-art--slide { grid-row: 1; width: min(100%,680px); margin-inline: auto; }
+.narrative-course .theory-page-composition:has(.theory-page-art--slide) .theory-page-reading { columns: 2 260px; column-gap: 32px; }
+@media(max-width:760px) { .narrative-course .theory-objective-layout { grid-template-columns: minmax(0,1fr) minmax(105px,.32fr); padding: 17px; gap: 12px; } .narrative-course .theory-objective-image { max-height: 245px; } .narrative-course .theory-page-composition { grid-template-columns: minmax(0,1fr) minmax(110px,.32fr); gap: 13px; } .narrative-course .theory-page-art img { max-height: 210px; } .narrative-course .theory-page-composition:has(.theory-page-art--slide) .theory-page-reading { columns: 1; } }
+.narrative-course .theory-page-composition:has(.theory-page-art--slide) { grid-template-columns: minmax(0,1.35fr) minmax(190px,.65fr); }
+.narrative-course .theory-page-composition .theory-page-art--slide { grid-row: auto; width: 100%; margin: 0; }
+.narrative-course .theory-page-composition:has(.theory-page-art--slide) .theory-page-reading { columns: 1; }
+@media(max-width:760px) { .narrative-course .theory-page-composition:has(.theory-page-art--slide) { grid-template-columns: minmax(0,1fr) minmax(110px,.32fr); } }
+
+.narrative-course .theory-page-art--slide object { display: block; width: 100%; aspect-ratio: 16/9; border: 1px solid color-mix(in srgb,var(--theory-accent) 26%,transparent); background: color-mix(in srgb,var(--theory-pale) 30%,white); }

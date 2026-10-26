@@ -1,0 +1,1004 @@
+{
+  "id": 21,
+  "title": "Face",
+  "zh": "脸部",
+  "group": "Appearance",
+  "startPage": 191,
+  "endPage": 199,
+  "sections": [
+    {
+      "title": "Section 1 – Shape",
+      "page": 192,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Forehead, brow, cheeks, cheekbones",
+          "page": 192,
+          "id": "21-001",
+          "zh": "额头、眉额、脸颊、颧骨。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Oval, round, square, rectangular, heart-shaped; Wide, broad, full, plump, fleshy; Narrow, long, thin, lean, bony, sunken, hollow; Pointed, sharp, angular; Drooping, sagging",
+          "page": 192,
+          "id": "21-002",
+          "zh": "椭圆、圆、方、长方、心形；宽、宽阔、饱满、圆润、多肉；窄、长、瘦、清瘦、骨感、凹陷、空瘪；尖、锐利、棱角分明；下垂、松弛。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Narrow, pointed face",
+          "page": 192,
+          "id": "21-003",
+          "zh": "狭长尖削的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Oval, bony face",
+          "page": 192,
+          "id": "21-004",
+          "zh": "骨感的椭圆脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin, sunken face",
+          "page": 192,
+          "id": "21-005",
+          "zh": "瘦削凹陷的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Hollow cheeks",
+          "page": 192,
+          "id": "21-006",
+          "zh": "凹陷的双颊"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "High cheekbones",
+          "page": 192,
+          "id": "21-007",
+          "zh": "高颧骨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sharp, angular cheekbones",
+          "page": 192,
+          "id": "21-008",
+          "zh": "尖锐、棱角分明的颧骨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Broad, round face",
+          "page": 192,
+          "id": "21-009",
+          "zh": "宽圆的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Plump hamster cheeks",
+          "page": 192,
+          "id": "21-010",
+          "zh": "像仓鼠一样鼓鼓的脸颊"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide, heart-shaped face",
+          "page": 192,
+          "id": "21-011",
+          "zh": "宽宽的心形脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Round-faced woman",
+          "page": 192,
+          "id": "21-012",
+          "zh": "圆脸女子"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Square, wrinkly face",
+          "page": 192,
+          "id": "21-013",
+          "zh": "方方的、满是皱纹的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Rectangular-shaped face with a high, bald forehead",
+          "page": 192,
+          "id": "21-014",
+          "zh": "长方脸，额头高而光秃"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "She had a long, pointed face like a bird.",
+          "page": 193,
+          "id": "21-015",
+          "zh": "她的脸又长又尖，像鸟的脸。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His once full cheeks were droopy and grey.",
+          "page": 193,
+          "id": "21-016",
+          "zh": "他曾经饱满的脸颊如今松垂而灰暗。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her wide, round face was framed by a mass of curly black hair.",
+          "page": 193,
+          "id": "21-017",
+          "zh": "一头浓密的黑色卷发围着她宽圆的脸。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a very round face and plump hamster cheeks.",
+          "page": 193,
+          "id": "21-018",
+          "zh": "他的脸很圆，两颊鼓得像仓鼠。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was oval-shaped and he had a high, bald forehead.",
+          "page": 193,
+          "id": "21-019",
+          "zh": "他长着椭圆脸，额头高而光秃。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The little girl looked like a cherub with her plump, heart-shaped face and angelic smile.",
+          "page": 193,
+          "id": "21-020",
+          "zh": "小女孩圆润的心形脸上挂着天使般的笑容，像个小天使。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her cheeks looked hollow and the flesh was wrinkled and sagging.",
+          "page": 193,
+          "id": "21-021",
+          "zh": "她的双颊凹陷，皮肉起皱松垂。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her cheekbones were so high, they formed two slashes across her face.",
+          "page": 193,
+          "id": "21-022",
+          "zh": "她的颧骨很高，像两道斜线横在脸上。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Bald, with a thin, angular face, his high, sharp cheekbones gave him a haunted look.",
+          "page": 193,
+          "id": "21-023",
+          "zh": "他头顶光秃，脸瘦而棱角分明，高而尖的颧骨让他显得饱受折磨。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Colour and Texture",
+      "page": 194,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Freckles, veins, shadows, bags, circles; Wrinkles, folds, lines, slashes",
+          "page": 194,
+          "id": "21-024",
+          "zh": "雀斑、血管、阴影、眼袋、黑眼圈；皱纹、褶皱、纹路、深刻的划痕状纹路。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Pale, grey, ashen, pallid, deathly, colourless, translucent; Black, brown, olive-skinned; Red, pink, ruddy, bronze-coloured, sunburned, tanned, leathery; Smooth, shiny, glowing; Deep, sharp, vertical",
+          "page": 194,
+          "id": "21-025",
+          "zh": "苍白、灰暗、灰白、惨白、死灰般、毫无血色、半透明；黑、棕、橄榄色皮肤；红、粉红、红润、古铜色、晒伤、晒黑、皮革般粗糙；光滑、发亮、容光焕发；深、尖锐、垂直。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Scrubbed, glowed; Lined, creased, wrinkled, crumpled; Hung, sagged, drooped; Stretched, bulged",
+          "page": 194,
+          "id": "21-026",
+          "zh": "擦洗、发亮；布满纹路、起褶、起皱、皱缩；悬垂、松垂、耷拉；绷紧、鼓起。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pale like a porcelain doll",
+          "page": 194,
+          "id": "21-027",
+          "zh": "苍白得像瓷娃娃"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Deathly pale",
+          "page": 194,
+          "id": "21-028",
+          "zh": "死一般苍白"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pale, almost colourless skin",
+          "page": 194,
+          "id": "21-029",
+          "zh": "苍白得几乎毫无血色的皮肤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pallid, deathly, grey colour",
+          "page": 194,
+          "id": "21-030",
+          "zh": "惨白、死灰般的颜色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Smooth, brown skin",
+          "page": 194,
+          "id": "21-031",
+          "zh": "光滑的棕色皮肤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Ruddy, glowing face",
+          "page": 194,
+          "id": "21-032",
+          "zh": "红润发亮的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like beaten leather",
+          "page": 194,
+          "id": "21-033",
+          "zh": "像反复捶打过的皮革"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Round, pinkish look of a prize pig",
+          "page": 195,
+          "id": "21-034",
+          "zh": "圆圆粉粉的，像获奖的肥猪"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Dark circles",
+          "page": 195,
+          "id": "21-035",
+          "zh": "黑眼圈"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Purple shadows",
+          "page": 195,
+          "id": "21-036",
+          "zh": "紫色阴影"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bags like giant, purple suitcases",
+          "page": 195,
+          "id": "21-037",
+          "zh": "像巨大紫色旅行箱一样的眼袋"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Deep laughter lines in the corners of his eyes and mouth",
+          "page": 195,
+          "id": "21-038",
+          "zh": "眼角和嘴角深深的笑纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Sharp, vertical lines",
+          "page": 195,
+          "id": "21-039",
+          "zh": "深刻的竖纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Face like thin, crumpled paper",
+          "page": 195,
+          "id": "21-040",
+          "zh": "薄薄皱纸般的脸"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like the skin of a lizard",
+          "page": 195,
+          "id": "21-041",
+          "zh": "像蜥蜴的皮肤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Crumpled and unshaven",
+          "page": 195,
+          "id": "21-042",
+          "zh": "满脸褶皱、胡子拉碴"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sagged with wrinkles beneath her eyes",
+          "page": 195,
+          "id": "21-043",
+          "zh": "眼下皮肤松垂，满是皱纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hung in wrinkled folds",
+          "page": 195,
+          "id": "21-044",
+          "zh": "一层层皱褶松垂下来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stretched tight over his face",
+          "page": 195,
+          "id": "21-045",
+          "zh": "紧紧绷在脸上"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gave him a skull-like appearance",
+          "page": 195,
+          "id": "21-046",
+          "zh": "让他看起来像骷髅"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scrubbed until it glowed",
+          "page": 195,
+          "id": "21-047",
+          "zh": "擦洗得发亮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Laughter lines burnt into her skin",
+          "page": 195,
+          "id": "21-048",
+          "zh": "深深刻进皮肤的笑纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lines drew together when he smiled",
+          "page": 195,
+          "id": "21-049",
+          "zh": "他微笑时纹路聚拢在一起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Deeply lined with age",
+          "page": 195,
+          "id": "21-050",
+          "zh": "年岁留下深深的纹路"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered in wrinkles",
+          "page": 195,
+          "id": "21-051",
+          "zh": "满是皱纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Wrinkles looked like cruel slashes",
+          "page": 195,
+          "id": "21-052",
+          "zh": "皱纹像一道道无情的刀痕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Eyes were lost within their wrinkles",
+          "page": 195,
+          "id": "21-053",
+          "zh": "眼睛几乎埋在皱纹里"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lines burrowed between his brows",
+          "page": 195,
+          "id": "21-054",
+          "zh": "双眉之间刻着深纹"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gave him a permanent frown",
+          "page": 195,
+          "id": "21-055",
+          "zh": "让他看上去总在皱眉"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He was painfully thin and his face deathly pale.",
+          "page": 195,
+          "id": "21-056",
+          "zh": "他瘦得让人心疼，脸色像死人一样苍白。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was ashen and twisted with pain.",
+          "page": 195,
+          "id": "21-057",
+          "zh": "他的脸灰白，因疼痛而扭曲。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her skin was a sickly, grey colour and hung in wrinkled folds.",
+          "page": 196,
+          "id": "21-058",
+          "zh": "她的皮肤是病态的灰色，一层层皱褶松垂着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a ruddy face that had been scrubbed until it glowed.",
+          "page": 196,
+          "id": "21-059",
+          "zh": "他的脸红润，擦洗得闪闪发亮。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was crumpled, unshaven and grey with anxiety.",
+          "page": 196,
+          "id": "21-060",
+          "zh": "他满脸皱纹，胡子拉碴，焦虑使他的脸色灰暗。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He looked like a walrus, with huge folds of sagging skin drooping from his face.",
+          "page": 196,
+          "id": "21-061",
+          "zh": "他像一头海象，脸上厚厚的松皮一层层垂下来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her pale skin was translucent. It was almost purple under her eyes and limp and sagging with wrinkles.",
+          "page": 196,
+          "id": "21-062",
+          "zh": "她苍白的皮肤近乎透明，眼下发紫，松软下垂且满是皱纹。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a sallow, scarred face and the haunted look of someone who had seen many battles.",
+          "page": 196,
+          "id": "21-063",
+          "zh": "他面色蜡黄，布满疤痕，神情像历经战火的人一样备受折磨。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "With her pale, almost colourless skin, she looked like a fragile china doll.",
+          "page": 196,
+          "id": "21-064",
+          "zh": "她肤色苍白得几乎没有血色，像个脆弱的瓷娃娃。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His colourless skin was stretched tight over his face and gave him a skull-like appearance.",
+          "page": 196,
+          "id": "21-065",
+          "zh": "他毫无血色的皮肤紧绷在脸上，让他看起来像骷髅。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "There were shadows and bags like giant, purple suitcases under her eyes.",
+          "page": 196,
+          "id": "21-066",
+          "zh": "她的眼下有阴影，还有像巨大紫色旅行箱一样的眼袋。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Sharp, vertical lines burrowed between his brows and gave him a permanent frown.",
+          "page": 196,
+          "id": "21-067",
+          "zh": "深刻的竖纹嵌在双眉之间，使他总像皱着眉头。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Laughter lines surrounded her eyes and mouth, burnt by the sun and wind during the hours spent outside with the animals.",
+          "page": 196,
+          "id": "21-068",
+          "zh": "她长时间在户外与动物为伴，风吹日晒把笑纹深深刻在眼角和嘴边。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The years had not been kind to her and decay was obvious in a face covered in wrinkles like thin, crumpled paper.",
+          "page": 196,
+          "id": "21-069",
+          "zh": "岁月对她并不仁慈；那张像揉皱的薄纸一样满是皱纹的脸，显露出衰老的痕迹。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Wounds and Scars",
+      "page": 197,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Skull, face, jaw, cheeks, mouth, lip, eye, eyebrows; Skin, flesh, tissue, folds, lumps, patches; Sores, blisters, burns, bruise, wound, scabs; Scar, mole, wart; Width, length",
+          "page": 197,
+          "id": "21-070",
+          "zh": "头骨、脸、下颌、脸颊、嘴、嘴唇、眼睛、眉毛；皮肤、皮肉、组织、褶皱、肿块、斑块；疮、水疱、烧伤、瘀青、伤口、痂；疤痕、痣、疣；宽度、长度。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Red, pink, black, purple, brown, green, yellow, creamy; Wide, thin, huge, small; Jagged, gnarled; Ugly, horrible, grotesque, hideous; Angry, swollen, festering; Peeling, flaking, blotchy",
+          "page": 197,
+          "id": "21-071",
+          "zh": "红、粉红、黑、紫、棕、绿、黄、乳白；宽、细、巨大、小；锯齿状、扭曲粗糙；难看、可怕、怪异丑陋、狰狞；红肿发炎、肿胀、化脓；脱皮、起屑、斑驳。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Scarred, scabbed, burnt, blistered; Ran, covered, stretched, oozed, sprouted; Pulled, dragged, closed, twisted, puckered, disfigured; Scorched, singed, seared, shrivelled",
+          "page": 197,
+          "id": "21-072",
+          "zh": "结疤、结痂、烧伤、起疱；延伸、覆盖、伸展、渗出、长出；拉扯、拖拽、闭合、扭曲、皱缩、毁损容貌；烤焦、燎焦、灼伤、干瘪。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Black eye",
+          "page": 197,
+          "id": "21-073",
+          "zh": "被打青的眼眶"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Purple bruise",
+          "page": 197,
+          "id": "21-074",
+          "zh": "紫色瘀伤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Flaking skin",
+          "page": 198,
+          "id": "21-075",
+          "zh": "起屑脱皮的皮肤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Swollen, red blisters",
+          "page": 198,
+          "id": "21-076",
+          "zh": "红肿的水疱"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Mass of angry sores around his lips",
+          "page": 198,
+          "id": "21-077",
+          "zh": "嘴唇周围一片红肿的疮"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Festering, green wound",
+          "page": 198,
+          "id": "21-078",
+          "zh": "发绿、化脓的伤口"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Creamy pus",
+          "page": 198,
+          "id": "21-079",
+          "zh": "乳白色的脓液"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Huge, pink mole",
+          "page": 198,
+          "id": "21-080",
+          "zh": "一颗巨大的粉红色痣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Enormous, wrinkled warts on her lip",
+          "page": 198,
+          "id": "21-081",
+          "zh": "她嘴唇上巨大而皱缩的疣"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thin, jagged scar",
+          "page": 198,
+          "id": "21-082",
+          "zh": "细细的锯齿状疤痕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Ugly, wide scar",
+          "page": 198,
+          "id": "21-083",
+          "zh": "难看而宽大的疤痕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Singed hair and eyebrows",
+          "page": 198,
+          "id": "21-084",
+          "zh": "被燎焦的头发和眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Mass of seared, scarred skin",
+          "page": 198,
+          "id": "21-085",
+          "zh": "一大片灼伤结疤的皮肤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Blotched, horribly stretched skin",
+          "page": 198,
+          "id": "21-086",
+          "zh": "斑驳且被可怕地拉伸的皮肤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Puckered, fleshy folds",
+          "page": 198,
+          "id": "21-087",
+          "zh": "皱缩的肉褶"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Gnarled lump of flesh",
+          "page": 198,
+          "id": "21-088",
+          "zh": "一团扭曲粗糙的肉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Scar above his left eyebrow",
+          "page": 198,
+          "id": "21-089",
+          "zh": "左眉上方的疤痕"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Scarred and twisted lip",
+          "page": 198,
+          "id": "21-090",
+          "zh": "结疤而扭曲的嘴唇"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Had a battle-scarred face",
+          "page": 198,
+          "id": "21-091",
+          "zh": "脸上留着战斗的伤疤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Disfigured by fire",
+          "page": 198,
+          "id": "21-092",
+          "zh": "被火毁容"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sprouted two gristly hairs",
+          "page": 198,
+          "id": "21-093",
+          "zh": "长出两根粗硬的毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Oozed creamy pus",
+          "page": 198,
+          "id": "21-094",
+          "zh": "渗出乳白色脓液"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Puckered around the wound",
+          "page": 198,
+          "id": "21-095",
+          "zh": "伤口周围皱缩起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Scorched into huge, pink patches",
+          "page": 198,
+          "id": "21-096",
+          "zh": "灼烧成大片粉红色斑块"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shrivelled into a twisted lump of flesh",
+          "page": 198,
+          "id": "21-097",
+          "zh": "萎缩成一团扭曲的肉"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stretched the width of his jaw",
+          "page": 198,
+          "id": "21-098",
+          "zh": "横跨整个下颌"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Ran the length of one side of his face",
+          "page": 198,
+          "id": "21-099",
+          "zh": "从脸的一侧一直延伸下去"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Just visible above left eyebrow",
+          "page": 198,
+          "id": "21-100",
+          "zh": "在左眉上方隐约可见"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Covered his face and skull",
+          "page": 198,
+          "id": "21-101",
+          "zh": "覆盖脸部和头骨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pulled into a permanent snarl",
+          "page": 198,
+          "id": "21-102",
+          "zh": "把嘴扯成永远龇牙的模样"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Eye closed in the puckered folds of a scar",
+          "page": 199,
+          "id": "21-103",
+          "zh": "眼睛被疤痕的皱褶挤得闭了起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Pulled his eye into a curious squint",
+          "page": 199,
+          "id": "21-104",
+          "zh": "把眼睛拉扯成奇怪的斜视模样"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Twisted his lips",
+          "page": 199,
+          "id": "21-105",
+          "zh": "使嘴唇扭曲"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Dragged his lip to meet his nostril",
+          "page": 199,
+          "id": "21-106",
+          "zh": "把嘴唇拉到鼻孔旁"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was a mass of sores and peeling skin.",
+          "page": 199,
+          "id": "21-107",
+          "zh": "他的脸上满是疮和脱落的皮屑。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The swollen, red blisters twisted his lips into a grimace.",
+          "page": 199,
+          "id": "21-108",
+          "zh": "红肿的水疱使他的嘴唇扭曲成痛苦的表情。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The skin on his face and bald skull was scarred and scabbed.",
+          "page": 199,
+          "id": "21-109",
+          "zh": "他脸上和光秃头顶的皮肤布满疤痕和痂。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a black eye and an angry, purple bruise on his cheek.",
+          "page": 199,
+          "id": "21-110",
+          "zh": "他有一只乌青的眼眶，脸颊上还有一块触目惊心的紫色瘀伤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "A thin, jagged scar was just visible above his left eyebrow.",
+          "page": 199,
+          "id": "21-111",
+          "zh": "左眉上方隐约可见一道细细的锯齿状疤痕。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "One of his cheeks was dragged downwards by an ugly scar.",
+          "page": 199,
+          "id": "21-112",
+          "zh": "一道难看的疤痕把他的一侧脸颊往下拉扯。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The scars on his skull were clearly visible through his closely shaved hair.",
+          "page": 199,
+          "id": "21-113",
+          "zh": "透过剃得很短的头发，可以清楚看到他头皮上的伤疤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "One side of his face was a pocked mass of scars and seared skin.",
+          "page": 199,
+          "id": "21-114",
+          "zh": "他半边脸坑坑洼洼，尽是疤痕和灼伤的皮肤。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The huge pink mole on her upper lip sprouted two long, gristly hairs.",
+          "page": 199,
+          "id": "21-115",
+          "zh": "她上唇那颗巨大的粉红色痣上，长出两根粗硬的长毛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The left side of his face was terribly burned. It was a mass of seared skin and scorched in huge, pink patches.",
+          "page": 199,
+          "id": "21-116",
+          "zh": "他左半边脸严重烧伤，灼伤的皮肤上有大片粉红色斑块。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The skin was bunched up around the festering, green wound and oozing pus.",
+          "page": 199,
+          "id": "21-117",
+          "zh": "发绿化脓的伤口周围皮肤皱成一团，往外渗着脓液。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "The skin around one eye had been pulled out of shape and gave her a curious squint.",
+          "page": 199,
+          "id": "21-118",
+          "zh": "一只眼睛周围的皮肤被拉扯变形，使她呈现出奇怪的斜视。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had a scarred and twisted lip, which was pulled up to meet his nostril.",
+          "page": 199,
+          "id": "21-119",
+          "zh": "他的嘴唇结着疤，扭曲着向上牵拉，几乎连到鼻孔。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face had been disfigured by fire. His eyebrows were singed and sprouted at odd angles, and his ear was a shrivelled, gnarled lump.",
+          "page": 199,
+          "id": "21-120",
+          "zh": "火灾毁了他的容貌。眉毛被燎焦，朝奇怪的角度翘着；耳朵萎缩成粗糙扭曲的一团。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was disfigured by a hideous scar that ran the length of one side of his face and pulled his mouth into a permanent snarl.",
+          "page": 199,
+          "id": "21-121",
+          "zh": "一道狰狞的疤痕沿着他半边脸延伸，使他毁了容，嘴也被扯成永远龇牙的模样。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His face was a mass of scar tissue that almost closed one eye in its puckered folds.",
+          "page": 199,
+          "id": "21-122",
+          "zh": "他满脸都是疤痕组织，皱缩的褶皱几乎挤闭了一只眼睛。"
+        }
+      ]
+    }
+  ]
+}

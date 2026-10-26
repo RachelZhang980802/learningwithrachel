@@ -1,0 +1,748 @@
+{
+  "id": 22,
+  "title": "Eyes",
+  "zh": "眼睛",
+  "group": "Appearance",
+  "startPage": 200,
+  "endPage": 207,
+  "sections": [
+    {
+      "title": "Section 1 – Colour",
+      "page": 201,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Blue, grey, green, brown, hazel, black, yellow, bloodshot, pink-rimmed; Dark, pale, transparent; Sapphires, emeralds, diamonds, charcoal, slate, velvet; Beautiful, brilliant, sparkling, gleaming, twinkling; Soft, gentle, calm; Laughing, impish, mischievous; Cold, icy, steely, piercing, flinty, dangerous, mysterious",
+          "page": 201,
+          "id": "22-001",
+          "zh": "蓝、灰、绿、棕、榛褐、黑、黄、布满血丝、眼圈泛红；深色、浅淡、透明；蓝宝石、祖母绿、钻石、木炭、板岩、天鹅绒；美丽、明亮、闪耀、发亮、闪烁；柔和、温柔、平静；含笑、淘气、顽皮；冷淡、冰冷、钢铁般冷硬、锐利、冷酷、危险、神秘。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Lit, shone, beamed, danced, sparkled, gleamed; Burned, glinted, stared, drilled, pierced, bulged",
+          "page": 201,
+          "id": "22-002",
+          "zh": "点亮、发光、放光、跳动、闪耀、发亮；燃烧、闪现、凝视、钻入、刺透、凸出。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Pale, sapphire blue",
+          "page": 201,
+          "id": "22-003",
+          "zh": "浅浅的蓝宝石色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Emerald green",
+          "page": 201,
+          "id": "22-004",
+          "zh": "祖母绿般的碧绿"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As black as coal",
+          "page": 201,
+          "id": "22-005",
+          "zh": "像煤一样黑"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Velvet brown",
+          "page": 201,
+          "id": "22-006",
+          "zh": "天鹅绒般柔和的棕色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Flinty grey",
+          "page": 201,
+          "id": "22-007",
+          "zh": "燧石般冷硬的灰色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Slate grey",
+          "page": 201,
+          "id": "22-008",
+          "zh": "板岩般的深灰色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Enormous mud brown eyes",
+          "page": 201,
+          "id": "22-009",
+          "zh": "硕大的泥棕色眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Marsh brown",
+          "page": 201,
+          "id": "22-010",
+          "zh": "沼泽泥土般的棕色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Yellow wolf’s eyes",
+          "page": 202,
+          "id": "22-011",
+          "zh": "黄色的狼眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Eyes like a hawk",
+          "page": 202,
+          "id": "22-012",
+          "zh": "鹰一般的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Beautiful blue eyes",
+          "page": 202,
+          "id": "22-013",
+          "zh": "美丽的蓝眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Eyes like sparkling diamonds",
+          "page": 202,
+          "id": "22-014",
+          "zh": "眼睛像闪亮的钻石"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Twinkling, grey",
+          "page": 202,
+          "id": "22-015",
+          "zh": "闪烁着光的灰眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like candles in the dark",
+          "page": 202,
+          "id": "22-016",
+          "zh": "像黑暗中的烛光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Icy blue",
+          "page": 202,
+          "id": "22-017",
+          "zh": "冰蓝色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Steely blue",
+          "page": 202,
+          "id": "22-018",
+          "zh": "钢铁般冷硬的蓝色"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Piercing grey",
+          "page": 202,
+          "id": "22-019",
+          "zh": "锐利的灰眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Yellow and unblinking",
+          "page": 202,
+          "id": "22-020",
+          "zh": "黄色的眼睛一眨不眨"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Staring, bright green eyes",
+          "page": 202,
+          "id": "22-021",
+          "zh": "明亮的绿眼睛直直地盯着"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold and almost transparent",
+          "page": 202,
+          "id": "22-022",
+          "zh": "冰冷且几乎透明"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Brown, deep and mysterious",
+          "page": 202,
+          "id": "22-023",
+          "zh": "棕色，深邃而神秘"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Cold and dangerous",
+          "page": 202,
+          "id": "22-024",
+          "zh": "冰冷而危险"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Danced with laughter",
+          "page": 202,
+          "id": "22-025",
+          "zh": "眼里跳动着笑意"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Lit up his face",
+          "page": 202,
+          "id": "22-026",
+          "zh": "使他的脸亮了起来"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Beamed with warmth",
+          "page": 202,
+          "id": "22-027",
+          "zh": "散发温暖的光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Sparkled impishly",
+          "page": 202,
+          "id": "22-028",
+          "zh": "闪着顽皮的光芒"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Peered at her from beneath long lashes",
+          "page": 202,
+          "id": "22-029",
+          "zh": "从长睫毛下望着她"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glinted like frost",
+          "page": 202,
+          "id": "22-030",
+          "zh": "像霜一样闪着冷光"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burned with a cruel light",
+          "page": 202,
+          "id": "22-031",
+          "zh": "燃着残酷的光芒"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Drilled into him",
+          "page": 202,
+          "id": "22-032",
+          "zh": "目光像钻头般逼视着他"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Burned with anger",
+          "page": 202,
+          "id": "22-033",
+          "zh": "眼里燃着怒火"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Bulged like a frog",
+          "page": 202,
+          "id": "22-034",
+          "zh": "像青蛙一样凸出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Filled with sadness",
+          "page": 202,
+          "id": "22-035",
+          "zh": "充满悲伤"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Swollen and bloodshot from weeping",
+          "page": 202,
+          "id": "22-036",
+          "zh": "哭得肿胀，布满血丝"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Rimmed with bulging, blue veins",
+          "page": 202,
+          "id": "22-037",
+          "zh": "周围凸起青色血管"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hidden beneath huge, bushy eyebrows",
+          "page": 202,
+          "id": "22-038",
+          "zh": "藏在浓密粗大的眉毛下"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Took in every detail, every move",
+          "page": 203,
+          "id": "22-039",
+          "zh": "看清每个细节、每个动作"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His emerald green eyes sparkled impishly.",
+          "page": 203,
+          "id": "22-040",
+          "zh": "他祖母绿般的双眼闪着顽皮的光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Curly, ink-black eyelashes feathered her beautiful sapphire blue eyes.",
+          "page": 203,
+          "id": "22-041",
+          "zh": "墨黑卷翘的睫毛像羽毛般衬着她美丽的蓝宝石色眼睛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were mud brown and as big as saucers.",
+          "page": 203,
+          "id": "22-042",
+          "zh": "她的眼睛是泥棕色的，大得像茶碟。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty’s eyes were like sparkling blue diamonds and always seemed to dance with laughter.",
+          "page": 203,
+          "id": "22-043",
+          "zh": "基蒂的眼睛像闪亮的蓝钻，总像有笑意在其中跳动。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were velvet-brown and beamed with warmth like candles in the dark.",
+          "page": 203,
+          "id": "22-044",
+          "zh": "她天鹅绒般的棕色眼睛散发温暖的光，像黑暗中的蜡烛。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Robert’s mouth was set in a firm line, but his twinkling grey eyes lit up his face.",
+          "page": 203,
+          "id": "22-045",
+          "zh": "罗伯特紧抿着嘴，但闪亮的灰眼睛使他的脸生动起来。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Eyes that were as black as coal peered at her from beneath curly black lashes.",
+          "page": 203,
+          "id": "22-046",
+          "zh": "煤黑的双眼从卷曲的黑睫毛下望着她。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His steely blue eyes glinted like frost.",
+          "page": 203,
+          "id": "22-047",
+          "zh": "他钢蓝色的眼睛闪着霜一般的冷光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His large, staring eyes were an icy grey.",
+          "page": 203,
+          "id": "22-048",
+          "zh": "他瞪大的双眼是冰冷的灰色。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His bright green eyes burned with a cruel light.",
+          "page": 203,
+          "id": "22-049",
+          "zh": "他明亮的绿眼睛里燃着残酷的光。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were an icy blue – cold and dangerous.",
+          "page": 203,
+          "id": "22-050",
+          "zh": "她的眼睛是冰蓝色的，冷漠而危险。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes were a slate grey and bulging like a frog.",
+          "page": 203,
+          "id": "22-051",
+          "zh": "他的眼睛呈板岩灰色，像青蛙的眼睛一样突出。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His eyes were as black as coal and hidden beneath huge bushy eyebrows.",
+          "page": 203,
+          "id": "22-052",
+          "zh": "他的眼睛像煤一样黑，藏在粗大浓密的眉毛下面。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His flinty, narrowed eyes were cold and rimmed with bulging blue veins.",
+          "page": 203,
+          "id": "22-053",
+          "zh": "他眯起的双眼冷酷如燧石，四周凸起青色血管。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Like a hawk, her eyes were yellow and unblinking and took in every detail, every move.",
+          "page": 203,
+          "id": "22-054",
+          "zh": "她的双眼像鹰眼一样黄而不眨，捕捉着每一个细节、每一个动作。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her cold blue eyes were almost transparent and made Robert shiver as they drilled into him.",
+          "page": 203,
+          "id": "22-055",
+          "zh": "她冰冷的蓝眼睛几乎透明，钻探般的注视使罗伯特打了个寒战。"
+        }
+      ]
+    },
+    {
+      "title": "Section 2 – Size",
+      "page": 204,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Nouns",
+          "en": "Saucers, frog; Slits, folds",
+          "page": 204,
+          "id": "22-056",
+          "zh": "茶碟、青蛙；狭缝、褶皱。"
+        },
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Big, wide, bulging, gaping; Small, little, beady, oval, narrow; Buggy, puffy, sunken; Staring, unblinking",
+          "page": 204,
+          "id": "22-057",
+          "zh": "大、睁大、凸出、大张；小、细小、珠子般、椭圆、狭长；鼓出、浮肿、凹陷；直勾勾注视、一眨不眨。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Stared, glared, darted",
+          "page": 204,
+          "id": "22-058",
+          "zh": "凝视、怒视、目光迅速移动。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Wide, bulging eyes like a frog",
+          "page": 204,
+          "id": "22-059",
+          "zh": "像青蛙一样大而凸出的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Big, staring eyes",
+          "page": 204,
+          "id": "22-060",
+          "zh": "瞪大的双眼"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "As big as saucers",
+          "page": 204,
+          "id": "22-061",
+          "zh": "像茶碟一样大"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Long, narrow eyes",
+          "page": 204,
+          "id": "22-062",
+          "zh": "细长的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Like dangerous slits",
+          "page": 204,
+          "id": "22-063",
+          "zh": "像两道危险的细缝"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Small, buggy eyes",
+          "page": 204,
+          "id": "22-064",
+          "zh": "小而突出的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Little, puffy brown eyes",
+          "page": 204,
+          "id": "22-065",
+          "zh": "小小的、浮肿的棕色眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stared as if he was in a trance",
+          "page": 205,
+          "id": "22-066",
+          "zh": "像入了迷一样直勾勾地看"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Glared unblinking",
+          "page": 205,
+          "id": "22-067",
+          "zh": "一眨不眨地瞪视"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Darted rapidly",
+          "page": 205,
+          "id": "22-068",
+          "zh": "目光飞快地来回扫动"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Hidden in drooping skin",
+          "page": 205,
+          "id": "22-069",
+          "zh": "藏在松垂的皮肤里"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His narrow, flint grey eyes were like dangerous slits.",
+          "page": 205,
+          "id": "22-070",
+          "zh": "他狭长的燧石灰眼睛像两道危险的细缝。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were as big as saucers and twinkled with laughter.",
+          "page": 205,
+          "id": "22-071",
+          "zh": "她的眼睛像茶碟一样大，闪着笑意。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her small, pig-like eyes were hidden in the folds of her wrinkled, drooping skin.",
+          "page": 205,
+          "id": "22-072",
+          "zh": "她那猪眼般的小眼睛藏在起皱松垂的皮肤褶里。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had wide, bulging eyes like a frog, that stared as if he was in a trance.",
+          "page": 205,
+          "id": "22-073",
+          "zh": "他有一双青蛙般大而凸出的眼睛，像失神一样直勾勾地看着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Kitty watched as his small, buggy eyes darted rapidly from one to the other.",
+          "page": 205,
+          "id": "22-074",
+          "zh": "基蒂看着他那小而突出的双眼飞快地从一个人扫向另一个人。"
+        }
+      ]
+    },
+    {
+      "title": "Section 3 – Eyebrows",
+      "page": 206,
+      "entries": [
+        {
+          "kind": "words",
+          "label": "Adjectives",
+          "en": "Dark, black, heavy, bushy, thin; Arched, straight, rectangular",
+          "page": 206,
+          "id": "22-075",
+          "zh": "深色、黑、浓重、浓密、稀薄；弓形、平直、长方形。"
+        },
+        {
+          "kind": "words",
+          "label": "Verbs",
+          "en": "Stuck, sprouted, met, shadowed, curtained",
+          "page": 206,
+          "id": "22-076",
+          "zh": "突出、长出、相接、遮暗、遮挡。"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Bushy eyebrows",
+          "page": 206,
+          "id": "22-077",
+          "zh": "浓密的眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Heavy black eyebrows",
+          "page": 206,
+          "id": "22-078",
+          "zh": "浓重的黑眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Rectangular eyebrows",
+          "page": 206,
+          "id": "22-079",
+          "zh": "长方形的眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Gnarled brow",
+          "page": 206,
+          "id": "22-080",
+          "zh": "布满皱纹的眉额"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Nouns and Adjectives",
+          "en": "Thinly plucked, arched eyebrows",
+          "page": 206,
+          "id": "22-081",
+          "zh": "修剪得细细弯弯的眉毛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Shadowed by a gnarled brow",
+          "page": 206,
+          "id": "22-082",
+          "zh": "被皱褶深刻的眉额笼罩"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Stuck out fiercely at odd angles",
+          "page": 206,
+          "id": "22-083",
+          "zh": "向奇怪的角度凶猛地翘出"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Met in the middle",
+          "page": 206,
+          "id": "22-084",
+          "zh": "两眉在中间连在一起"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Curtained her eyes",
+          "page": 206,
+          "id": "22-085",
+          "zh": "像帘子一样遮住她的眼睛"
+        },
+        {
+          "kind": "phrase",
+          "label": "Phrases – Verbs",
+          "en": "Gave her a constant look of surprise",
+          "page": 206,
+          "id": "22-086",
+          "zh": "让她总带着惊讶的神情"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her eyes were curtained by heavy black eyebrows.",
+          "page": 207,
+          "id": "22-087",
+          "zh": "她浓重的黑眉毛像帘子一样覆在眼睛上方。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "Her thinly plucked, arched eyebrows made her look permanently surprised.",
+          "page": 207,
+          "id": "22-088",
+          "zh": "她修得细细弯弯的眉毛让她看起来总是很惊讶。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "His bushy eyebrows met in the middle and stuck out fiercely at odd angles.",
+          "page": 207,
+          "id": "22-089",
+          "zh": "他浓密的眉毛中间连在一起，还朝奇怪的角度张牙舞爪般翘着。"
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "en": "He had deep-set eyes, which were shadowed by a gnarled brow.",
+          "page": 207,
+          "id": "22-090",
+          "zh": "他的眼窝很深，皱褶深刻的眉额使双眼笼在阴影里。"
+        }
+      ]
+    }
+  ]
+}
