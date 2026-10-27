@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { chinaClimateTranslations } from "./SupplementaryTranslations";
 
 export const chinaClimateLeaderArticle: InquireFeatureArticle = {
   title: "China: The reluctant climate leader",
   byline: "Louise Osborne & Yuchen Li · DW · November 17, 2025",
   dek: "",
   eyebrow: "EXTERNAL READING · DW",
+  paragraphTranslations: chinaClimateTranslations,
   sectionHeadings: [
     "China dominates the clean energy market",
     "China’s influence flowing into the Global South",

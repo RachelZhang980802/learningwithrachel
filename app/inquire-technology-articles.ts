@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { aiMathTranslations, carHandlesTranslations, deepSeekTranslations, dictionaryTranslations } from "./SupplementaryTranslations";
 
 export const deepSeekArticle: InquireFeatureArticle = {
   "title": "DeepSeek Has Ripped Away AI’s Veil of Mystique",
   "byline": "Kenan Malik · The Guardian · February 2, 2025",
   "dek": "While privacy fears are justified, the main beef Silicon Valley has is that China’s chatbot is democratising the technology.",
   "eyebrow": "EXTERNAL READING · THE GUARDIAN",
+  paragraphTranslations: deepSeekTranslations,
   "paragraphs": [
     "No, it was not a “Sputnik moment”. The launch last month of DeepSeek R1, the Chinese generative AI or chatbot, created mayhem in the tech world, with stocks plummeting and much chatter about the US losing its supremacy in AI technology. Yet, for all the disruption, the Sputnik analogy reveals less about DeepSeek than about American neuroses.",
     "The original Sputnik moment came on 4 October 1957 when the Soviet Union shocked the world by launching Sputnik 1, the first time humanity had sent a satellite into orbit. It was, to anachronistically borrow a phrase from a later and even more momentous landmark, “one giant leap for mankind”, in Neil Armstrong’s historic words as he took a “small step” on to the surface of the moon.",
@@ -28,6 +30,7 @@ export const carHandlesArticle: InquireFeatureArticle = {
   "byline": "Dave Schilling · The Guardian · April 5, 2025",
   "dek": "Why is everything computerised, automated or impossible to turn off these days?",
   "eyebrow": "EXTERNAL READING · THE GUARDIAN",
+  paragraphTranslations: carHandlesTranslations,
   "sectionHeadings": [
     "In an effort to solve problems that don’t exist, carmakers are creating more problems"
   ],
@@ -60,6 +63,7 @@ export const aiMathArticle: InquireFeatureArticle = {
   "byline": "Leif Weatherby, The New York Times, Published June 2, 2025",
   "dek": "",
   "eyebrow": "EXTERNAL READING · THE NEW YORK TIMES",
+  paragraphTranslations: aiMathTranslations,
   "paragraphs": [
     "ChatGPT was released two and a half years ago, and we have been in a public panic ever since. Artificial intelligence can write in a way that passes for human, creating a fear that relying too heavily on machine-generated text will diminish our ability to read and write at a high level. We’ve heard that the college essay is dead and that alarming number of students use A.I. tools to cheat their way through college. This has the potential to undermine the future of jobs, education and art all at once.",
     "The Titanic is indeed headed toward the iceberg, but the largest problem—at least at the moment—is not the college essay, the novel or the office memo. It’s computer code. I realized this last year when I was teaching a course on A.I., language and philosophy. When I asked my students how they use chatbots, one told me that he had been taught in high school that whenever he had a spreadsheet full of data (such as results from a lab experiment or information collected from a survey), he could write a quick bit of code to parse and analyze that data. But now, he told me, he just throws the spreadsheet into ChatGPT, which analyzes it more quickly and requires him to do almost nothing. That’s when it hit me: A.I. is just as much a challenge to numeracy—our knowledge and ability to use mathematics and reason quantitatively—as it is to literacy.",
@@ -80,6 +84,7 @@ export const dictionaryArticle: InquireFeatureArticle = {
   "byline": "Alessandro Tersigni, The New York Times, Published July 20, 2025",
   "dek": "A.I. and spell-check make choices for writers. With real, physical dictionaries, writers are empowered to decide how to express themselves.",
   "eyebrow": "EXTERNAL READING · THE NEW YORK TIMES",
+  paragraphTranslations: dictionaryTranslations,
   "paragraphs": [
     "Have you ever obeyed the suggestions of a digital writing assistant to replace a word or restructure a sentence without knowing how, why or even if it made your writing better? Before the reign of digital tools, you’d probably have turned to a dictionary for the same assistance. Our parents and grandparents picked up a heavy book and looked up what words meant, how they’re used, maybe glanced at their etymology — and then made a linguistic choice, however shaky or idiosyncratic, to express their ideas. In today’s universe of spell-check, autocorrect and artificial intelligence — each of which is capable of making those choices for us — why should we keep producing and owning actual, cinder-block-sized dictionaries?",
     "Because dictionaries enable us to write not with fail-safe convenience but with originality and a point of view. While A.I. assistants manufacture phrases and statements so writers don’t have to think them up, dictionaries provide us with the knowledge to use language ourselves in expressive and potentially infinite ways. They place choice — and authority — literally in human hands, forcing us to discover how we want to explain ourselves and our ideas to the world.",

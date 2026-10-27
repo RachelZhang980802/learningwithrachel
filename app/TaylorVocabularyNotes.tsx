@@ -98,7 +98,7 @@ export function TaylorVocabularyArticleBody() {
       cursor = start + surface.length;
     }
     if (cursor < paragraph.length) nodes.push(paragraph.slice(cursor));
-    return <p key={paragraphIndex}>{nodes.map((node,index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node)}</p>;
+    return <Fragment key={paragraphIndex}><p>{nodes.map((node,index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node)}</p>{taylorCommencementArticle.paragraphTranslations?.[paragraphIndex] && <details className="supplementary-translation"><summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary><p lang="zh-CN">{taylorCommencementArticle.paragraphTranslations[paragraphIndex]}</p></details>}</Fragment>;
   })}{openNote && <span className="taylor-vocabulary-note" id={openNote.id} role="group" aria-label={`Vocabulary note for ${openNote.surface}`} style={{ left: openNote.left, top: openNote.top, width: openNote.width }}>
     <span className="taylor-vocabulary-note-tape" aria-hidden="true" />
     <span className="taylor-vocabulary-note-heading"><strong>{openNote.surface}</strong><span className="taylor-vocabulary-note-pos">{openNote.note.pos}</span><span>{openNote.note.ipa}</span></span>

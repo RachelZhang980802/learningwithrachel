@@ -14,25 +14,25 @@ type Example = { title: string; body: string; zh: string; titleZh: string; box?:
 const pagePrompts: Record<number, Prompt[]> = {
   5: [
     { trigger: "Featuring fabulous", title: "Written by", body: "Nell Vale, with Pip the fox.", box: { x: 27, y: 60, w: 55, h: 4 } },
-    { trigger: "If found", title: "If found", body: "Please return to whoever still believes a story can change its mind.", box: { x: 27, y: 71, w: 55, h: 5 } },
+    { trigger: "If found", title: "If found", body: "Please return to Nell Vale, Bellweather Clock Shop. Ask for the girl with the red bootlace.", box: { x: 27, y: 71, w: 55, h: 5 } },
   ],
   14: [
     { trigger: "Beginning", title: "Beginning", body: "Wednesday goes missing.", box: { x: 28, y: 63, w: 61, h: 4 } },
-    { trigger: "Build-up", title: "Build-up", body: "Nell follows the bell across the village.", box: { x: 28, y: 69, w: 61, h: 4 } },
-    { trigger: "Problem", title: "Problem", body: "The clockmaker traps tomorrow to prevent a goodbye.", box: { x: 28, y: 75, w: 61, h: 4 } },
-    { trigger: "Resolution", title: "Resolution", body: "Nell shows him that stopping time cannot keep love.", box: { x: 28, y: 82, w: 61, h: 4 } },
-    { trigger: "End", title: "End", body: "Thursday dawns. Everyone is a little braver.", box: { x: 28, y: 88, w: 61, h: 4 } },
+    { trigger: "Build-up", title: "Build-up", body: "Nell finds the missing day locked in a jar in the clock tower.", box: { x: 28, y: 69, w: 61, h: 4 } },
+    { trigger: "Problem", title: "Problem", body: "Grandfather hid Wednesday because he feared Nell would leave.", box: { x: 28, y: 75, w: 61, h: 4 } },
+    { trigger: "Resolution", title: "Resolution", body: "Nell asks him to open the jar with her.", box: { x: 28, y: 82, w: 61, h: 4 } },
+    { trigger: "End", title: "End", body: "The church clock strikes Wednesday. Grandfather tells her the goodbye he had been avoiding.", box: { x: 28, y: 88, w: 61, h: 4 } },
   ],
   22: [
-    { trigger: "Five classes", title: "Five classes", body: "Art: free imagination. History: learning from mistakes. Science: tiny discoveries. Music: new songs. English: stories that make strangers friends.", box: { x: 6, y: 9, w: 33, h: 12 } },
-    { trigger: "Thursday", title: "Thursday", body: "This afternoon we found a drawing of our clock tower in a book printed a hundred years ago. Someone had written my name beneath it. Mara said it might be a coincidence. Then the bell rang.", box: { x: 7, y: 32, w: 82, h: 54 } },
+    { trigger: "Five classes", title: "Five classes", body: "Art: blue paint on my sleeve. History: an old river map. Science: a seed splitting open. Music: the piano's missing key. Lunch: orange cake saved by Mara.", box: { x: 6, y: 9, w: 33, h: 12 } },
+    { trigger: "Thursday", title: "Thursday", body: "After class, Mara and I found a drawing of our clock tower in a book printed a hundred years ago. Someone had written 'Nell Vale' beneath it. She turned the page over. There was a date in pencil: 1894.", box: { x: 7, y: 32, w: 82, h: 54 } },
   ],
   86: [
-    { trigger: "__blank_3", title: "3", body: "The ticket vanishes!", box: { x: 28, y: 84, w: 15, h: 6 } },
-    { trigger: "__blank_4", title: "4", body: "He follows muddy paw prints.", box: { x: 40, y: 67, w: 15, h: 6 } },
-    { trigger: "__blank_5", title: "5", body: "A puppy has torn it up.", box: { x: 52, y: 84, w: 14, h: 6 } },
-    { trigger: "__blank_6", title: "6", body: "He fits the pieces together.", box: { x: 66, y: 67, w: 15, h: 6 } },
-    { trigger: "__blank_7", title: "7", body: "His prize builds an animal shelter.", box: { x: 76, y: 84, w: 13, h: 6 } },
+    { trigger: "__blank_3", title: "3", body: "His raffle ticket wins the prize.", box: { x: 28, y: 84, w: 15, h: 6 } },
+    { trigger: "__blank_4", title: "4", body: "Then the ticket slips from his pocket.", box: { x: 40, y: 67, w: 15, h: 6 } },
+    { trigger: "__blank_5", title: "5", body: "A puppy chews it into scraps.", box: { x: 52, y: 84, w: 14, h: 6 } },
+    { trigger: "__blank_6", title: "6", body: "He tapes the number back together.", box: { x: 66, y: 67, w: 15, h: 6 } },
+    { trigger: "__blank_7", title: "7", body: "He gives the prize to the shelter.", box: { x: 76, y: 84, w: 13, h: 6 } },
   ],
   12: [
     { trigger: "Once upon a time", title: "The hero", body: "Nell Vale was eleven, curious, and much better at fixing clocks than keeping secrets.", box: { x: 35, y: 26, w: 57, h: 8 } },
@@ -41,10 +41,10 @@ const pagePrompts: Record<number, Prompt[]> = {
     { trigger: "And so", title: "The choice", body: "Nell followed the sound. She hoped to bring tomorrow home before anyone noticed it was gone.", box: { x: 35, y: 78, w: 57, h: 9 } },
   ],
   13: [
-    { trigger: "However", title: "The problem", body: "The clockmaker had trapped tomorrow in a jar so that he would never have to say goodbye.", box: { x: 10, y: 17, w: 57, h: 10 } },
-    { trigger: "Then", title: "The attempt", body: "Nell climbed the tower with Mara and Pip, carrying a key made from her grandfather's oldest watch.", box: { x: 10, y: 37, w: 57, h: 10 } },
-    { trigger: "Eventually", title: "The turning point", body: "She opened the jar. The future rushed out, wild and uncertain, like birds released into the rain.", box: { x: 10, y: 57, w: 57, h: 10 } },
-    { trigger: "In the end", title: "The ending", body: "Bellweather woke on Thursday. Nell could not know what came next, and at last that felt like freedom.", box: { x: 10, y: 77, w: 57, h: 10 } },
+    { trigger: "However", title: "The problem", body: "Grandfather locked Wednesday in a jar because he feared Nell would leave Bellweather.", box: { x: 10, y: 17, w: 57, h: 10 } },
+    { trigger: "Then", title: "The attempt", body: "Nell brought Mara and Pip to the tower and asked Grandfather to open it with her.", box: { x: 10, y: 37, w: 57, h: 10 } },
+    { trigger: "Eventually", title: "The turning point", body: "Together they turned the old key. The jar cracked, and Wednesday returned.", box: { x: 10, y: 57, w: 57, h: 10 } },
+    { trigger: "In the end", title: "The ending", body: "The church clock struck Wednesday. Grandfather told Nell he was leaving for a job in the next town, then asked her to visit.", box: { x: 10, y: 77, w: 57, h: 10 } },
   ],
   16: [
     { trigger: "Who or what", title: "Who?", body: "Nell Vale, eleven, apprentice clock-mender.", box: { x: 42, y: 32, w: 45, h: 8 } },
@@ -57,27 +57,27 @@ const pagePrompts: Record<number, Prompt[]> = {
   ],
   21: [
     { trigger: "Tuesday:", title: "Tuesday", body: "Pip followed me into the library and hid under a table. Mr Ward saw his tail but asked only whether my 'friend' had a library card.", box: { x: 10, y: 17, w: 62, h: 27 } },
-    { trigger: "Wednesday:", title: "Wednesday", body: "The bell rang during a spelling test. I expected disaster. Instead, Mara arrived with a suitcase and a grin. I had never been so pleased to misspell a word.", box: { x: 10, y: 57, w: 62, h: 28 } },
+    { trigger: "Wednesday:", title: "Wednesday", body: "The clocks slipped back to Tuesday during our spelling test. I was the only one who noticed. Then Mara arrived, soaked from the train and carrying a torch. I had never been so glad to see anyone.", box: { x: 10, y: 57, w: 62, h: 28 } },
   ],
   23: [
-    { trigger: "Friday:", title: "Friday", body: "I told Mara the truth about the bell. She asked only one question: 'What are we going to do?' I knew then that she meant we.", box: { x: 11, y: 20, w: 60, h: 27 } },
-    { trigger: "The weekend:", title: "The weekend", body: "We climbed the clock tower with Pip. Behind its great face, we found a door with no handle. On it was scratched: Every ending begins with a choice.", box: { x: 11, y: 62, w: 42, h: 25 } },
-    { trigger: "My new best", title: "Friends", body: "Mara, who arrives when she says she will. Pip, who never does. Both worth waiting for.", box: { x: 62, y: 78, w: 26, h: 10 } },
+    { trigger: "Friday:", title: "Friday", body: "I showed Mara the drawing of our clock tower. She turned it over and found a date: 1894. Neither of us spoke for a moment.", box: { x: 11, y: 20, w: 60, h: 27 } },
+    { trigger: "The weekend:", title: "The weekend", body: "We climbed the tower with Pip. Behind the clock face, Grandfather's old key opened a narrow door. Inside was a child's coat and a bundle of letters tied with blue thread.", box: { x: 11, y: 62, w: 42, h: 25 } },
+    { trigger: "My new best", title: "Friends", body: "Mara reads the whole letter before asking questions. Pip sits on the page when he thinks we should stop.", box: { x: 62, y: 78, w: 26, h: 10 } },
   ],
   84: [
-    { trigger: "List them here", title: "Possible titles", body: "The Bell That Kept Tomorrow · The Clockmaker's Daughter · A Fox at School · The Library of Unwritten Days · The Island That Could Swim · Clover's Choice · The Last Chime. Nell circles the first title, then leaves the others in her notebook for stories still waiting to be written.", box: { x: 12, y: 36, w: 74, h: 16 } },
+    { trigger: "List them here", title: "Possible titles", body: "The Missing Wednesday · The Clockmaker's Daughter · A Fox at School · The Girl with the Blue Thread · The Seventh Island · Clover at the Old Fence · The Last Train to Larkspur. Nell crosses out two, then writes a question mark beside the last one.", box: { x: 12, y: 36, w: 74, h: 16 } },
     { trigger: "The adventures", title: "The talking dog", body: "A Bark Across the Map", box: { x: 34, y: 71, w: 54, h: 7 } },
-    { trigger: "A boy who has", title: "The dinosaur", body: "My Pet Has a Jurassic Appetite", box: { x: 34, y: 80, w: 54, h: 7 } },
-    { trigger: "A princess who dreams", title: "The astronaut", body: "Princess of the Moon", box: { x: 34, y: 89, w: 54, h: 6 } },
+    { trigger: "A boy who has", title: "The dinosaur", body: "The Boy Who Fed His Homework to a Dinosaur", box: { x: 34, y: 80, w: 54, h: 7 } },
+    { trigger: "A princess who dreams", title: "The astronaut", body: "The Princess Who Borrowed a Telescope", box: { x: 34, y: 89, w: 54, h: 6 } },
   ],
   94: [
-    { trigger: "Try writing a micro", title: "A key", body: "Nell found a key that opened nothing. She carried it for years. When Grandfather forgot her name, she put it in his hand. He remembered how to hold hers.", box: { x: 36, y: 34, w: 49, h: 22 } },
-    { trigger: "Use a snippet of conversation", title: "A bell", body: "'Did you hear that?' asked the fox. 'No,' said the clockmaker. 'Good,' said the fox, and buried the bell where only hope could find it.", box: { x: 42, y: 70, w: 43, h: 20 } },
+    { trigger: "Try writing a micro", title: "A key", body: "Nell found a key in the library return slot. The next day, a woman came back for it. She had been trying to open the shed where her father's tools were kept.", box: { x: 36, y: 34, w: 49, h: 22 } },
+    { trigger: "Use a snippet of conversation", title: "A glove", body: "'Is this yours?' asked the baker. The fox looked at the glove, then at the acorns spilling from it. 'It was,' he said.", box: { x: 42, y: 70, w: 43, h: 20 } },
   ],
   95: [
-    { trigger: "Imagine going", title: "The journey", body: "Mara boarded a train that stopped only at places she had dreamed of. The last station was one she had not dreamed yet.", box: { x: 41, y: 11, w: 40, h: 15 } },
-    { trigger: "Use a saying", title: "Pigs might fly", body: "When pigs learned to fly, the clouds demanded landing permits. A girl at the airport knew a kinder way.", box: { x: 42, y: 39, w: 44, h: 18 } },
-    { trigger: "Think of an intriguing", title: "The mirror", body: "Nell bought a cracked mirror that reflected the room one minute in the future. She kept looking until it showed an empty chair.", box: { x: 41, y: 70, w: 38, h: 18 } },
+    { trigger: "Imagine going", title: "The journey", body: "Mara boarded the last train. The conductor checked her ticket twice; no destination was printed on it.", box: { x: 41, y: 11, w: 40, h: 15 } },
+    { trigger: "Use a saying", title: "Pigs might fly", body: "When pigs learned to fly, the airport shut its doors. The cleaner knew a service ladder to the roof.", box: { x: 42, y: 39, w: 44, h: 18 } },
+    { trigger: "Think of an intriguing", title: "The mirror", body: "Nell bought a cracked mirror at a jumble sale. Each morning, it showed one chair pulled away from the table.", box: { x: 41, y: 70, w: 38, h: 18 } },
   ],
 };
 
@@ -184,7 +184,6 @@ export function StoryBook() {
         onClick={() => { setShowOriginal(false); toggleAll(); }}>
         {openExamples.length ? "Hide writing examples" : "Show writing examples"}
       </button>
-      <span>点击提示查看范例；点击范例英文切换中文，再点返回英文。</span>
       <button type="button" aria-pressed={showOriginal} onClick={() => setShowOriginal(value => !value)}>{showOriginal ? "Read HTML page" : "Compare original page"}</button>
     </div>
     {!showOriginal && externalExample && openExamples.length > 0 && <aside className="storybook-example-drawer" aria-label="Original writing example">{examples.map(renderExample)}</aside>}

@@ -10,11 +10,20 @@ const groupLabels: Record<string, string> = {
   Nouns: "Nouns", Adjectives: "Adjectives", Verbs: "Verbs", Adverbs: "Adverbs",
   "Phrases – Nouns and Adjectives": "Phrases", "Phrases – Verbs": "Phrases", Sentences: "Sentences",
 };
-const sectionLabels: Record<string, string> = { Age: "年龄", Height: "身高", Shape: "形状与体型", "Colour and Texture": "肤色与质感", "Wounds and Scars": "伤口与疤痕", Colour: "颜色", Size: "大小", Eyebrows: "眉毛", Mouth: "嘴", Teeth: "牙齿", Nose: "鼻子", Ears: "耳朵", "Style (Long)": "长发造型", "Style (Short)": "短发造型", Untidy: "凌乱的头发", "Facial Hair": "胡须", Emotions: "情绪感受", Expressions: "面部表情", Eyes: "眼睛", Voice: "声音", Movement: "动作", Hands: "手部动作", Body: "身体动作", "Expressions, Eyes, Voice and Movement": "表情、眼神、声音与动作" };
+const sectionLabels: Record<string, string> = { "Colour and Texture": "肤色与质感", "Wounds and Scars": "伤口与疤痕", Colour: "颜色", Size: "大小", Eyebrows: "眉毛", Mouth: "嘴", Teeth: "牙齿", Nose: "鼻子", Ears: "耳朵", "Style (Long)": "长发造型", "Style (Short)": "短发造型", Untidy: "凌乱的头发", "Facial Hair": "胡须", Emotions: "情绪感受", Expressions: "面部表情", Eyes: "眼睛", Voice: "声音", Movement: "动作", Hands: "手部动作", Body: "身体动作", "Expressions, Eyes, Voice and Movement": "表情、眼神、声音与动作" };
+
+function getWordGlosses(entry: Entry) {
+  const terms = entry.en.split(/[,;，；]\s*/).map(term => term.trim()).filter(Boolean);
+  const separators = entry.en.match(/[,;，；]\s*/g) ?? [];
+  const translations = entry.zh.replace(/[。.!?]+$/u, "").split(/[;；、，,]\s*/).map(term => term.trim()).filter(Boolean);
+  if (terms.length !== translations.length) return [{ en: entry.en, zh: entry.zh, separator: "" }];
+  return terms.map((en, index) => ({ en, zh: translations[index], separator: separators[index] ?? "" }));
+}
 
 export function CharacterReference() {
   const [selected, setSelected] = useState<number | null>(null);
   const [chapter, setChapter] = useState<Chapter | null>(null);
+  const [openWordGlosses, setOpenWordGlosses] = useState<Set<string>>(() => new Set());
   const [error, setError] = useState(false);
   const [retry, setRetry] = useState(0);
   const cache = useRef(new Map<number, Chapter>());
@@ -63,16 +72,15 @@ export function CharacterReference() {
     <p className="unit-two-step">04 · Descriptosaurus</p>
     {selected === null ? <>
       <h2>Part 2: Characters</h2>
-      <p className="character-intro">人物描写素材库 · 选择章节阅读，点击英文词组或句子查看中文解释。</p>
       <div className="character-directory">
         {(["Appearance", "Emotions and personality"] as const).map(group => <section className="character-directory-group" key={group}>
-          <h3>{group}<span lang="zh-CN">{group === "Appearance" ? "外貌" : "情绪与性格"}</span></h3>
+          <h3>{group}</h3>
           <ol start={group === "Appearance" ? 20 : 28}>
             {catalog.filter(item => item.group === group).map(item => <li key={item.id}>
               <button type="button" data-character-chapter={item.id} onClick={() => openChapter(item.id)}>
                 <span className="character-number">{item.id}</span>
-                <span className="character-topic"><strong>{item.title}</strong><span lang="zh-CN">{item.zh}</span></span>
-                <span className="character-arrow" aria-hidden="true">↗</span>
+                <span className="character-topic"><strong>{item.title}</strong></span>
+                <span className="character-arrow" aria-hidden="true">🚩</span>
               </button>
             </li>)}
           </ol>
@@ -81,15 +89,13 @@ export function CharacterReference() {
       <p className="character-source">Alison Wilcox · <cite>Descriptosaurus</cite>, 3rd edition · PDF pp. 184–366</p>
     </> : <>
       <div className="character-toolbar">
-        <button type="button" onClick={returnToContents}>← 返回目录</button>
-        <label>切换章节<select aria-label="切换人物描写章节" value={selected} onChange={event => openChapter(Number(event.target.value))}>
+        <button type="button" onClick={returnToContents}>Back</button>
+        <label>Switch chapter<select aria-label="Switch character chapter" value={selected} onChange={event => openChapter(Number(event.target.value))}>
           {catalog.map(item => <option key={item.id} value={item.id}>{item.id} · {item.title}</option>)}
         </select></label>
       </div>
       <p className="character-group-name">{meta?.group} · {selected}</p>
       <h2 ref={heading} tabIndex={-1}>{meta?.title}</h2>
-      <p className="character-intro"><span lang="zh-CN">{meta?.zh}</span> · PDF pp. {meta?.startPage}–{meta?.endPage}</p>
-      <p className="character-hint">点击英文，中文直接显示在后面；再次点击隐藏。</p>
       {!chapter && !error && <p role="status" className="character-status">正在加载章节…</p>}
       {error && <div role="alert" className="character-status"><p>这一章暂时未能加载，请重试。</p><button type="button" onClick={() => setRetry(value => value + 1)}>重新加载</button></div>}
       {chapter?.id === selected && <>
@@ -98,21 +104,32 @@ export function CharacterReference() {
         </nav>}
         <div className="character-reading" key={selected}>
           {chapter.sections.map((section, index) => <section className="character-section" id={`character-section-${index}`} key={section.title}>
-            <h3>{section.title === "Words, phrases and sentences" ? "Words, phrases and sentences · 词汇、词组与例句" : section.title}<small>{sectionLabels[section.title.replace(/^Section \d+ – /, "")]}</small></h3>
+            <h3>{section.title === "Words, phrases and sentences" ? "Words, phrases and sentences · 词汇、词组与例句" : section.title}{sectionLabels[section.title.replace(/^Section \d+ – /, "")] && <small>{sectionLabels[section.title.replace(/^Section \d+ – /, "")]}</small>}</h3>
             {section.entries.map((entry, position) => <div className="character-entry" key={entry.id} data-character-entry={entry.id}>
               {(position === 0 || section.entries[position - 1].label !== entry.label) && <h4>{groupLabels[entry.label] ?? entry.label}</h4>}
-              <details className={`character-gloss character-gloss-${entry.kind}`}>
+              {entry.kind === "words" ? <span className="character-word-list" lang="en">
+                {getWordGlosses(entry).map((word, wordIndex) => <span key={`${entry.id}-${wordIndex}`}>
+                  <button type="button" className="character-word-toggle" aria-expanded={openWordGlosses.has(`${entry.id}-${wordIndex}`)} onClick={() => setOpenWordGlosses(current => {
+                    const next = new Set(current);
+                    const key = `${entry.id}-${wordIndex}`;
+                    if (next.has(key)) next.delete(key); else next.add(key);
+                    return next;
+                  })}>{word.en}{openWordGlosses.has(`${entry.id}-${wordIndex}`) && <span className="character-translation" lang="zh-CN">（{word.zh}）</span>}</button>{word.separator}
+                </span>)}
+              </span> : entry.kind === "phrase" ? <details className="character-gloss character-gloss-phrase">
                 <summary><span lang="en">{entry.en}</span><span className="character-translation" lang="zh-CN">（{entry.zh}）</span></summary>
-              </details>
+              </details> : <details className="character-gloss character-gloss-sentence">
+                <summary><span lang="en">{entry.en}</span><span className="character-translation" lang="zh-CN">（{entry.zh}）</span></summary>
+              </details>}
             </div>)}
           </section>)}
         </div>
         <div className="character-bottom-nav">
-          {selected > 20 && <button type="button" onClick={() => openChapter(selected - 1)}>← 上一章</button>}
-          <button type="button" onClick={returnToContents}>返回目录</button>
-          {selected < 38 && <button type="button" onClick={() => openChapter(selected + 1)}>下一章 →</button>}
+          {selected > 20 && <button type="button" onClick={() => openChapter(selected - 1)}>Back</button>}
+          <button type="button" onClick={returnToContents}>Back</button>
+          {selected < 38 && <button type="button" onClick={() => openChapter(selected + 1)}>Home</button>}
         </div>
-        <p className="character-source">英文内容：Alison Wilcox, <cite>Descriptosaurus</cite>, 3rd edition · 中文为学习辅助释义。</p>
+        <p className="character-source">English source: Alison Wilcox, <cite>Descriptosaurus</cite>, 3rd edition.</p>
       </>}
     </>}
   </div>;

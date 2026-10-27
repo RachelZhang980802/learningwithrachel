@@ -42,5 +42,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function LoveJointVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={loveJointArticle.paragraphs} terms={terms} idPrefix="love-joint-note" leadParagraph={loveJointArticle.dek} /><LoveJointExercises /></>;
+  return <><VocabularyArticleBody paragraphs={loveJointArticle.paragraphs} terms={terms} idPrefix="love-joint-note" leadParagraph={loveJointArticle.dek} paragraphTranslations={loveJointArticle.paragraphTranslations} /><LoveJointExercises /></>;
 }

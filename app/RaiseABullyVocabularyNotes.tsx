@@ -32,5 +32,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function RaiseABullyVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={raiseABullyArticle.paragraphs} terms={terms} idPrefix="raise-a-bully-note" sectionHeadings={raiseABullyArticle.sectionHeadings} /><RaiseABullyExercises /></>;
+  return <><VocabularyArticleBody paragraphs={raiseABullyArticle.paragraphs} terms={terms} idPrefix="raise-a-bully-note" sectionHeadings={raiseABullyArticle.sectionHeadings} paragraphTranslations={raiseABullyArticle.paragraphTranslations} /><RaiseABullyExercises /></>;
 }

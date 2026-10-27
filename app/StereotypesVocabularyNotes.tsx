@@ -39,5 +39,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function StereotypesVocabularyArticleBody() {
-  return <VocabularyArticleBody paragraphs={stereotypesArticle.paragraphs} terms={terms} idPrefix="stereotypes-note" />;
+  return <VocabularyArticleBody paragraphs={stereotypesArticle.paragraphs} terms={terms} idPrefix="stereotypes-note" paragraphTranslations={stereotypesArticle.paragraphTranslations} />;
 }

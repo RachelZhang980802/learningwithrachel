@@ -47,5 +47,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function DeepSeekVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={deepSeekArticle.paragraphs} terms={terms} idPrefix="deepseek-note" leadParagraph={deepSeekArticle.dek} /><DeepSeekExercises /></>;
+  return <><VocabularyArticleBody paragraphs={deepSeekArticle.paragraphs} terms={terms} idPrefix="deepseek-note" leadParagraph={deepSeekArticle.dek} paragraphTranslations={deepSeekArticle.paragraphTranslations} /><DeepSeekExercises /></>;
 }

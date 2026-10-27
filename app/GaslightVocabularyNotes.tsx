@@ -62,5 +62,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function GaslightVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={gaslightArticle.paragraphs} terms={terms} idPrefix="gaslight-note" leadParagraph={gaslightArticle.dek} sectionHeadings={gaslightArticle.sectionHeadings} /><GaslightExercises /></>;
+  return <><VocabularyArticleBody paragraphs={gaslightArticle.paragraphs} paragraphTranslations={gaslightArticle.paragraphTranslations} terms={terms} idPrefix="gaslight-note" leadParagraph={gaslightArticle.dek} sectionHeadings={gaslightArticle.sectionHeadings} /><GaslightExercises /></>;
 }

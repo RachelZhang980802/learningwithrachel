@@ -25,5 +25,5 @@ const climateTerms: readonly VocabularyNoteTerm[] = [
 ];
 
 export function ChinaClimateVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={chinaClimateLeaderArticle.paragraphs} terms={climateTerms} idPrefix="china-climate-note" sectionHeadings={chinaClimateLeaderArticle.sectionHeadings} /><ChinaClimateExercises /></>;
+  return <><VocabularyArticleBody paragraphs={chinaClimateLeaderArticle.paragraphs} terms={climateTerms} idPrefix="china-climate-note" sectionHeadings={chinaClimateLeaderArticle.sectionHeadings} paragraphTranslations={chinaClimateLeaderArticle.paragraphTranslations} /><ChinaClimateExercises /></>;
 }

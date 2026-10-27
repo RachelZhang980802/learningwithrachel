@@ -16,6 +16,7 @@ import { SlateExercises } from "./SlateExercises";
 
 import { Fragment, useState, type MouseEvent, type ReactNode } from "react";
 import type { VocabularyNoteTerm } from "./BrooksVocabularyNotes";
+import { caseAgainstTravelTranslations, foxEyeTranslations, hanKangTranslations, liZiqiTranslations, orientalismTranslations, slateTranslations, tokyoTranslations, viceTranslations } from "./SupplementaryTranslations";
 
 const slateTerms: VocabularyNoteTerm[] = [
   { key: "knack", pattern: "knack", label: "knack", pos: "n.", ipa: "/næk/", definition: "A special skill or ability that you have naturally or can learn.", zh: "窍门；本领" },
@@ -72,7 +73,7 @@ const viceTerms: VocabularyNoteTerm[] = [
   { key: "extinct", pattern: "extinct", label: "extinct", pos: "adj.", ipa: "/ɪkˈstɪŋkt/", definition: "No longer existing.", zh: "不再存在的；已灭绝的" }
 ];
 
-function ArticleWithVocabularyNotes({ paragraphs, terms, idPrefix, sectionHeadings = [] }: { paragraphs: readonly string[]; terms: readonly VocabularyNoteTerm[]; idPrefix: string; sectionHeadings?: readonly string[] }) {
+function ArticleWithVocabularyNotes({ paragraphs, terms, idPrefix, sectionHeadings = [], paragraphTranslations = [] }: { paragraphs: readonly string[]; terms: readonly VocabularyNoteTerm[]; idPrefix: string; sectionHeadings?: readonly string[]; paragraphTranslations?: readonly string[] }) {
   const [openNote, setOpenNote] = useState<{ id: string; term: VocabularyNoteTerm; left: number; top: number } | null>(null);
   const seen = new Set<string>();
   const pattern = new RegExp(terms.map((term) => `(?<${term.key}>\\b(?:${term.pattern})\\b)`).join("|"), "gi");
@@ -116,9 +117,16 @@ function ArticleWithVocabularyNotes({ paragraphs, terms, idPrefix, sectionHeadin
     }
     if (cursor < paragraph.length) nodes.push(paragraph.slice(cursor));
     const content = nodes.map((node, index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node);
-    return sectionHeadings.includes(paragraph)
-      ? <h2 className="inquire-publication-section-title" key={paragraphIndex}>{content}</h2>
-      : <p key={paragraphIndex}>{content}</p>;
+    const translatedText = paragraphTranslations[paragraphIndex];
+    return <Fragment key={paragraphIndex}>
+      {sectionHeadings.includes(paragraph)
+        ? <h2 className="inquire-publication-section-title">{content}</h2>
+        : <p>{content}</p>}
+      {translatedText && <details className="supplementary-translation">
+        <summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary>
+        <p lang="zh-CN">{translatedText}</p>
+      </details>}
+    </Fragment>;
   })}{openNote && <span className="taylor-vocabulary-note" id={openNote.id} role="group" aria-label={`Vocabulary note for ${openNote.term.label}`} style={{ left: openNote.left, top: openNote.top, width: 286 }}>
     <span className="taylor-vocabulary-note-tape" aria-hidden="true" />
     <span className="taylor-vocabulary-note-heading"><strong>{openNote.term.label}</strong><span className="taylor-vocabulary-note-pos">{openNote.term.pos}</span>{openNote.term.ipa && <span>{openNote.term.ipa}</span>}</span>
@@ -308,33 +316,33 @@ const foxEyeTerms: VocabularyNoteTerm[] = [
 ];
 
 export function SlateVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={slateTerms} idPrefix="slate-note" /><SlateExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={slateTerms} idPrefix="slate-note" paragraphTranslations={slateTranslations} /><SlateExercises /></>;
 }
 
 export function ViceVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={viceTerms} idPrefix="vice-note" /><ViceExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={viceTerms} idPrefix="vice-note" paragraphTranslations={viceTranslations} /><ViceExercises /></>;
 }
 
 export function LiZiqiVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={liZiqiTerms} idPrefix="li-ziqi-note" /><LiZiqiExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={liZiqiTerms} idPrefix="li-ziqi-note" paragraphTranslations={liZiqiTranslations} /><LiZiqiExercises /></>;
 }
 
 export function TokyoVocabularyArticleBody({ paragraphs, sectionHeadings }: { paragraphs: readonly string[]; sectionHeadings?: readonly string[] }) {
-  return <ArticleWithVocabularyNotes paragraphs={paragraphs} terms={tokyoTerms} idPrefix="tokyo-note" sectionHeadings={sectionHeadings} />;
+  return <ArticleWithVocabularyNotes paragraphs={paragraphs} terms={tokyoTerms} idPrefix="tokyo-note" sectionHeadings={sectionHeadings} paragraphTranslations={tokyoTranslations} />;
 }
 
 export function OrientalismVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={orientalismTerms} idPrefix="orientalism-note" /><OrientalismExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={orientalismTerms} idPrefix="orientalism-note" paragraphTranslations={orientalismTranslations} /><OrientalismExercises /></>;
 }
 
 export function HanKangVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={hanKangTerms} idPrefix="han-kang-note" /><HanKangExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={hanKangTerms} idPrefix="han-kang-note" paragraphTranslations={["韩江的小说深受韩国大屠杀暴行影响，其黑暗而扣人心弦的叙事却能打动不同背景的读者。", ...hanKangTranslations]} /><HanKangExercises /></>;
 }
 
 export function CaseAgainstTravelVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={caseAgainstTravelTerms} idPrefix="case-against-travel-note" /><CaseAgainstTravelExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={caseAgainstTravelTerms} idPrefix="case-against-travel-note" paragraphTranslations={caseAgainstTravelTranslations} /><CaseAgainstTravelExercises /></>;
 }
 
 export function FoxEyeVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={foxEyeTerms} idPrefix="fox-eye-note" /><FoxEyeExercises /></>;
+  return <><ArticleWithVocabularyNotes paragraphs={paragraphs} terms={foxEyeTerms} idPrefix="fox-eye-note" paragraphTranslations={foxEyeTranslations} /><FoxEyeExercises /></>;
 }

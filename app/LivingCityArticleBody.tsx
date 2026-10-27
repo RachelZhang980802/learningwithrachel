@@ -1,12 +1,20 @@
+import { Fragment } from "react";
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
 import { livingCityProsCons } from "./inquire-living-city-article";
+import { livingCityTranslations } from "./SupplementaryTranslations";
 
 export function LivingCityArticleBody({ article }: { article: InquireFeatureArticle }) {
   return <div className="inquire-publication-body living-city-reading">
     {article.dek && <p className="inquire-publication-dek">{article.dek}</p>}
-    {article.paragraphs.map((paragraph) => article.sectionHeadings?.includes(paragraph)
-      ? <h2 className="inquire-publication-section-title" key={paragraph}>{paragraph}</h2>
-      : <p key={paragraph}>{paragraph}</p>)}
+    {article.paragraphs.map((paragraph, paragraphIndex) => <Fragment key={paragraphIndex}>
+      {article.sectionHeadings?.includes(paragraph)
+        ? <h2 className="inquire-publication-section-title">{paragraph}</h2>
+        : <p>{paragraph}</p>}
+      {livingCityTranslations[paragraphIndex] && <details className="supplementary-translation">
+        <summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary>
+        <p lang="zh-CN">{livingCityTranslations[paragraphIndex]}</p>
+      </details>}
+    </Fragment>)}
     <section className="living-city-table-section" aria-labelledby="living-city-table-title">
       <h2 className="inquire-publication-section-title" id="living-city-table-title">Pros and Cons of Living in the City</h2>
       <div className="living-city-table-scroll">

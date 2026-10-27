@@ -124,9 +124,90 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
   const [revealed, setRevealed] = useState<string[]>([]);
   const [zoom, setZoom] = useState(1);
   const stage = useRef<HTMLDivElement>(null);
+  const meaningCard = useRef<HTMLElement>(null);
+  const [meaningPlacement, setMeaningPlacement] = useState<{ textId: string; left: number; top: number; width: number; maxHeight: number } | null>(null);
   const page = deck?.pages[index];
-  const selectedContext = selected ? contextTranslations[selected.id] : null;
   const meaning = useMemo(() => selected ? contextTranslations[selected.id]?.translation ?? translationFor(selected.text) : null, [selected]);
+
+  useEffect(() => {
+    const pageNode = stage.current;
+    const card = meaningCard.current;
+    if (!selected || !meaning || !pageNode || !card) {
+      setMeaningPlacement(null);
+      return;
+    }
+
+    const placeCard = () => {
+      const pageRect = pageNode.getBoundingClientRect();
+      const target = pageNode.querySelector<HTMLElement>(`[data-deck-text-id="${selected.id}"]`);
+      if (!target || !pageRect.width || !pageRect.height) return;
+      const targetRect = target.getBoundingClientRect();
+      const margin = Math.max(6, pageRect.width * 0.01);
+      const gap = Math.max(6, pageRect.width * 0.008);
+      const maxWidth = Math.min(pageRect.width * 0.4, 340);
+      const maxHeight = Math.max(82, pageRect.height * 0.38);
+      const anchorLeft = targetRect.left - pageRect.left;
+      const anchorRight = targetRect.right - pageRect.left;
+      const anchorTop = targetRect.top - pageRect.top;
+      const anchorBottom = targetRect.bottom - pageRect.top;
+      const candidates = [
+        { side: "after", left: anchorRight + gap, width: Math.min(maxWidth, pageRect.width - anchorRight - gap - margin), top: anchorTop },
+        { side: "below", left: Math.min(Math.max(margin, anchorLeft), pageRect.width - maxWidth - margin), width: maxWidth, top: anchorBottom + gap },
+        { side: "above", left: Math.min(Math.max(margin, anchorLeft), pageRect.width - maxWidth - margin), width: maxWidth, top: 0 },
+        { side: "before", left: anchorLeft - gap - maxWidth, width: Math.min(maxWidth, anchorLeft - gap - margin), top: anchorTop },
+      ].filter(item => item.width >= Math.min(100, pageRect.width * 0.18));
+      const textRects = Array.from(pageNode.querySelectorAll<HTMLElement>("[data-deck-text-id]"))
+        .filter(node => node !== target && node.getBoundingClientRect().width && node.getBoundingClientRect().height)
+        .map(node => node.getBoundingClientRect());
+      const ranked: Array<{ left: number; top: number; width: number; height: number; collisions: number; overlap: number; rank: number }> = [];
+
+      card.style.visibility = "hidden";
+      for (const [rank, candidate] of candidates.entries()) {
+        card.style.width = `${candidate.width}px`;
+        card.style.maxHeight = `${maxHeight}px`;
+        card.style.left = `${candidate.left}px`;
+        card.style.top = "0px";
+        const height = card.getBoundingClientRect().height;
+        const top = candidate.side === "below"
+          ? candidate.top
+          : candidate.side === "above"
+            ? anchorTop - gap - height
+            : Math.min(Math.max(margin, candidate.top), pageRect.height - height - margin);
+        if (candidate.left < margin || top < margin || candidate.left + candidate.width > pageRect.width - margin || top + height > pageRect.height - margin) continue;
+        const overlaps = textRects.map(rect => {
+          const left = Math.max(pageRect.left + candidate.left, rect.left);
+          const right = Math.min(pageRect.left + candidate.left + candidate.width, rect.right);
+          const upper = Math.max(pageRect.top + top, rect.top);
+          const lower = Math.min(pageRect.top + top + height, rect.bottom);
+          return Math.max(0, right - left) * Math.max(0, lower - upper);
+        }).filter(area => area > 4);
+        ranked.push({ left: candidate.left, top, width: candidate.width, height, collisions: overlaps.length, overlap: overlaps.reduce((sum, area) => sum + area, 0), rank });
+      }
+
+      const best = ranked.sort((a, b) => a.collisions - b.collisions || a.overlap - b.overlap || a.rank - b.rank)[0];
+      if (!best) {
+        setMeaningPlacement(null);
+        return;
+      }
+      setMeaningPlacement(current => current &&
+        current.textId === selected.id &&
+        Math.abs(current.left - best.left) < 1 &&
+        Math.abs(current.top - best.top) < 1 &&
+        Math.abs(current.width - best.width) < 1 &&
+        Math.abs(current.maxHeight - maxHeight) < 1
+        ? current
+        : { textId: selected.id, left: best.left, top: best.top, width: best.width, maxHeight });
+    };
+
+    placeCard();
+    const observer = new ResizeObserver(placeCard);
+    observer.observe(pageNode);
+    window.addEventListener("resize", placeCard);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("resize", placeCard);
+    };
+  }, [selected, meaning, page, zoom]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -226,21 +307,31 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
         <label><span className="ud-sr-only">Page zoom</span><select aria-label="Page zoom" value={zoom} onChange={event => setZoom(Number(event.target.value))}><option value={1}>Fit page</option><option value={1.25}>125%</option><option value={1.5}>150%</option><option value={2}>200%</option></select></label>
       </div>}
     </nav>
-    {reference ? <div className="ud-reference">{unit === 2 ? <CharacterReference /> : <SettingReference />}</div> : error ? <div className="ud-load-state" role="alert">This lesson could not be loaded. <button type="button" onClick={() => setAttempt(value => value + 1)}>Try again</button></div> : !page ? <div className="ud-load-state" role="status">Loading Unit {unit}…</div> : <div className={`ud-workspace${selected ? " ud-has-meaning" : ""}`}>
+    {reference ? <div className="ud-reference">{unit === 2 ? <CharacterReference /> : <SettingReference />}</div> : error ? <div className="ud-load-state" role="alert">This lesson could not be loaded. <button type="button" onClick={() => setAttempt(value => value + 1)}>Try again</button></div> : !page ? <div className="ud-load-state" role="status">Loading Unit {unit}…</div> : <div className="ud-workspace">
       <div className="ud-page-scroll">
         <div className="ud-page-size" style={{ width: `${zoom * 100}%` }}>
           <div className={`ud-source-page${recall ? " ud-recall" : ""}`} ref={stage} data-deck-page={page.page} style={{ aspectRatio: `${page.width ?? deck?.width ?? meta.width} / ${page.height ?? deck?.height ?? meta.height}` }} onClick={activateText} onKeyDown={onStageKey} aria-label={`Original page ${page.page}`}>
             {page.art.endsWith(".svg") ? <object key={page.art} className="ud-source-art" type="image/svg+xml" data={versionedAsset(page.art, meta.version)} aria-hidden="true" tabIndex={-1} /> : <img key={page.art} className="ud-source-art" src={versionedAsset(page.art, meta.version)} alt="" draggable={false} />}
             <SourceHtml html={page.html} />
+            {selected && meaning && <aside
+              className="ud-inline-translation"
+              ref={meaningCard}
+              role="status"
+              aria-label="中文译文"
+              style={meaningPlacement?.textId === selected.id ? {
+                left: meaningPlacement.left,
+                top: meaningPlacement.top,
+                width: meaningPlacement.width,
+                maxHeight: meaningPlacement.maxHeight,
+                visibility: "visible",
+              } : { visibility: "hidden" }}
+            >
+              <button className="ud-inline-translation-close" type="button" aria-label="关闭译文" onClick={closeMeaning}>×</button>
+              <p lang="zh-CN">{meaning}</p>
+            </aside>}
           </div>
         </div>
       </div>
-      {selected && <aside className="ud-meaning" aria-label="Selected text" aria-live="polite">
-        <button className="ud-meaning-close" type="button" aria-label="Close meaning" onClick={closeMeaning}>×</button>
-        <p className="ud-meaning-label">Original text · p. {page.page}</p>
-        <p className="ud-meaning-english">{selectedContext?.sourceEnglish ?? selected.text}</p>
-        {meaning && <><p className="ud-meaning-label">中文释义</p><p className="ud-meaning-chinese" lang="zh-CN">{meaning}</p></>}
-      </aside>}
     </div>}
   </section>;
 }

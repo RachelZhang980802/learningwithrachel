@@ -39,5 +39,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function CrawfordVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={individualismArticle.paragraphs} terms={terms} idPrefix="crawford-note" /><CrawfordExercises /></>;
+  return <><VocabularyArticleBody paragraphs={individualismArticle.paragraphs} terms={terms} idPrefix="crawford-note" paragraphTranslations={individualismArticle.paragraphTranslations} /><CrawfordExercises /></>;
 }

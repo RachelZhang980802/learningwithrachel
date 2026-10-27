@@ -51,5 +51,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function CarHandlesVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={carHandlesArticle.paragraphs} terms={terms} idPrefix="car-handles-note" sectionHeadings={carHandlesArticle.sectionHeadings} /><CarHandlesExercises /></>;
+  return <><VocabularyArticleBody paragraphs={carHandlesArticle.paragraphs} terms={terms} idPrefix="car-handles-note" sectionHeadings={carHandlesArticle.sectionHeadings} paragraphTranslations={carHandlesArticle.paragraphTranslations} /><CarHandlesExercises /></>;
 }

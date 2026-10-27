@@ -1,3 +1,5 @@
+import { columbiaTranslations, harvardTranslations, individualismTranslations } from "./SupplementaryTranslations";
+
 export type InquireFeatureArticle = {
   title: string;
   byline: string;
@@ -6,6 +8,7 @@ export type InquireFeatureArticle = {
   sectionHeadings?: readonly string[];
   quoteParagraphIndexes?: readonly number[];
   paragraphs: readonly string[];
+  paragraphTranslations?: readonly string[];
 };
 
 export const individualismArticle: InquireFeatureArticle = {
@@ -13,6 +16,7 @@ export const individualismArticle: InquireFeatureArticle = {
   "byline": "Matthew B. Crawford · The Hedgehog Review · October 10, 2024",
   "dek": "Independence of mind requires sustained submission to authority.",
   "eyebrow": "EXTERNAL READING · THE HEDGEHOG REVIEW",
+  paragraphTranslations: individualismTranslations,
   "quoteParagraphIndexes": [8, 10, 24],
   "paragraphs": [
     "Learning requires that a student place trust in a teacher, or in an authoritative text, without yet knowing if the trust is warranted. One has to trust that the teacher knows what he is talking about, or that the text contains riches that are not yet visible through a thicket of strangeness and obscurity (as is often the case with books written in another century).",
@@ -53,6 +57,7 @@ export const harvardArticle: InquireFeatureArticle = {
   "byline": "Jeannie Suk Gersen, The New Yorker, Published April 15, 2025",
   "dek": "Universities are accustomed to acquiescing to the government, but Trump made Harvard an offer it couldn’t not refuse.",
   "eyebrow": "EXTERNAL READING · THE NEW YORKER",
+  paragraphTranslations: harvardTranslations,
   "paragraphs": [
     "In a thrillingly delightful surprise—and that’s understating it—to many of us who’ve been working in universities for much of our adult lives, Harvard chose not to accede to the Trump Administration’s threats to its federal funding and announced on Monday that the university “will not surrender its independence or relinquish its constitutional rights.” The development was a stunning break from the submission to government coercion that, in recent decades, I’d come to expect.",
     "When I was a law student at Harvard, during the Clinton and Bush Administrations, “don’t ask, don’t tell” was the U.S. military’s policy on gay service members. Many students wanted the school to protest by ending military recruitment on campus, but a federal law conditioned the receipt of funding on military access. Jeopardizing the university’s federal funding was a non-starter. Several years later, when I was a professor, the then dean, Elena Kagan, sent anguished yearly emails to the Harvard Law School community expressing support for gay equality but explaining that the school could not refuse the government and endanger funding on which the university depended.",
@@ -66,6 +71,7 @@ export const columbiaArticle: InquireFeatureArticle = {
   "byline": "Ryan D. Enos and Steven Levitsky · The Harvard Crimson · March 14, 2025",
   "dek": "Like many autocrats before him, Donald Trump has launched what could be a devastating attack on universities.",
   "eyebrow": "EXTERNAL READING · THE HARVARD CRIMSON",
+  paragraphTranslations: columbiaTranslations,
   "paragraphs": [
     "Over the last week, the Trump administration has cancelled $400 million in grants and contracts to Columbia University and $800 million in grants to Johns Hopkins University.",
     "Both schools were on a list of 10 universities (including Harvard) that the Department of Justice announced it was investigating over politicized allegations of antisemitism. The Department of Education subsequently launched a similar investigation into 60 universities.",

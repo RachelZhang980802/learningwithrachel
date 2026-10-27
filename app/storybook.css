@@ -29,9 +29,9 @@
 /* The printed writing panel owns its dimensions. Neither language nor focus
    can enlarge it or paint over another prompt, panel, or illustration. */
 .narrative-course .storybook-example { box-sizing: border-box; color: #403c51; pointer-events: auto; }
-.narrative-course .storybook-example--inset { position: absolute; min-width: 0; min-height: 0; overflow: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: #9b8d7c transparent; contain: paint; isolation: isolate; font: clamp(11px,2.05cqw,17px)/1.65 "Chalkboard SE","Comic Sans MS","Trebuchet MS",sans-serif; }
-.narrative-course .storybook-example--short { font-size: clamp(10px,1.72cqw,14px); line-height: 1.35; }
-.narrative-course .storybook-example--comic { font-size: clamp(9px,1.7cqw,14px); line-height: 1.25; text-align: center; color: #24212b; }
+.narrative-course .storybook-example--inset { position: absolute; min-width: 0; min-height: 0; overflow: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: #9b8d7c transparent; contain: paint; isolation: isolate; font: clamp(12px,2.2cqw,18px)/1.6 "Chalkboard SE","Comic Sans MS","Trebuchet MS",sans-serif; }
+.narrative-course .storybook-example--short { font-size: clamp(11px,1.9cqw,15px); line-height: 1.35; }
+.narrative-course .storybook-example--comic { font-size: clamp(10px,1.9cqw,15px); line-height: 1.25; text-align: center; color: #24212b; }
 .narrative-course .storybook-example:focus-visible { outline: 2px solid #8b6d59; outline-offset: -2px; }
 .narrative-course .storybook-example-text { display: block; box-sizing: border-box; width: 100%; min-width: 0; min-height: 0; margin: 0; padding: 0 2px; border: 0; border-radius: 0; background: transparent; color: inherit; font: inherit; letter-spacing: normal; line-height: inherit; text-align: inherit; white-space: pre-wrap; overflow-wrap: anywhere; cursor: pointer; box-shadow: none; }
 .narrative-course .storybook-example-text strong { display: block; margin: 0 0 .4em; color: #704b3a; font-size: 1em; }
@@ -40,7 +40,7 @@
 .narrative-course .storybook-example-text:hover { color: #795136; }
 .narrative-course .storybook-example-text:focus-visible { outline: 2px solid #8b6d59; outline-offset: -2px; }
 .narrative-course .storybook-example-drawer { box-sizing: border-box; width: min(100%,795px); margin: 0 auto 18px; padding: 20px 24px; border: 1px solid #c9b69b; background: #fffaf0; }
-.narrative-course .storybook-example--drawer { position: static; max-height: 300px; overflow: auto; font: 16px/1.7 Georgia,serif; }
+.narrative-course .storybook-example--drawer { position: static; max-height: 300px; overflow: auto; font: 18px/1.6 Georgia,serif; }
 @media(max-width:700px) {
   .narrative-course .storybook-nav { grid-template-columns: auto 1fr auto; gap: 6px; }
   .narrative-course .storybook-nav button { padding: 7px 9px; font-size: 12px; }

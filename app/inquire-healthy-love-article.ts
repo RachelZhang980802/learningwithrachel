@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { healthyUnhealthyLoveTranslations } from "./SupplementaryTranslations";
 
 export const healthyUnhealthyLoveArticle: InquireFeatureArticle = {
   title: "The Difference Between Healthy and Unhealthy Love",
   byline: "Katie Hood · TED Talk transcript",
   dek: "Five markers can help us recognize unhealthy love and build healthier relationships.",
   eyebrow: "EXTERNAL READING · TED",
+  paragraphTranslations: healthyUnhealthyLoveTranslations,
   sectionHeadings: ["The first is intensity.", "A second marker is isolation.", "A third marker of unhealthy love is extreme jealousy.", "A fourth marker is belittling.", "Finally, a fifth marker: volatility."],
   paragraphs: [
     "So when you think about a child, a close friend, or a romantic partner, the word \"love\" probably comes to mind, and instantly other emotions rush in: joy and hope, excitement, trust and security, and yes, sometimes sadness and disappointment. There might not be a word in the dictionary that more of us are connected to than love.",

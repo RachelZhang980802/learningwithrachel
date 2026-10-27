@@ -26,5 +26,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function HarvardVocabularyArticleBody({ dek }: { dek: string }) {
-  return <><VocabularyArticleBody paragraphs={harvardArticle.paragraphs} terms={terms} idPrefix="harvard-note" leadParagraph={dek} /><HarvardExercises /></>;
+  return <><VocabularyArticleBody paragraphs={harvardArticle.paragraphs} terms={terms} idPrefix="harvard-note" leadParagraph={dek} paragraphTranslations={harvardArticle.paragraphTranslations} /><HarvardExercises /></>;
 }

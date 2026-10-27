@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { chinaTransitPolicyTranslations, shanghaiTransitTranslations, threeCupChickenTranslations } from "./SupplementaryTranslations";
 
 export const threeCupChickenTranscript: InquireFeatureArticle = {
   title: "Taiwanese Three Cup Chicken Recipe",
   byline: "Souped Up Recipes · YouTube",
   dek: "",
   eyebrow: "VIDEO TRANSCRIPT · YOUTUBE",
+  paragraphTranslations: threeCupChickenTranslations,
   paragraphs: [
     "Hi everyone, welcome to Souped Up Recipes. Today we're making three cup chicken. This recipe is originally from Shanxi Province; now it has become famous in Taiwan. The chicken is super flavorful, tender, juicy, and so easy to make. I'm so excited to share it with you.",
     "First, let's talk about the chicken. Traditionally, this dish is made with a whole chicken, chopped into one-and-a-half-inch pieces, because we like to cook the chicken with the bones for more flavor. But I'm lazy today, and I don't want to deal with a whole chicken, so I have two pounds of chicken wings here. They're the perfect size and have the perfect ratio between meat and bones. We're not going to do anything besides dry them with a paper towel. Set that aside.",
@@ -23,6 +25,7 @@ export const shanghaiTransitVlogTranscript: InquireFeatureArticle = {
   byline: "YouTube",
   dek: "",
   eyebrow: "VIDEO TRANSCRIPT · YOUTUBE",
+  paragraphTranslations: shanghaiTransitTranslations,
   sectionHeadings: ["Chapter 1: Intro", "Chapter 2: Budapest Airport", "Chapter 3: Arriving in Shanghai", "Chapter 4: Dumplings", "Chapter 5: Shanghai Metro", "Chapter 6: Nanjing Road"],
   paragraphs: [
     "Chapter 1: Intro",
@@ -73,6 +76,7 @@ export const chinaTransitPolicyTranscript: InquireFeatureArticle = {
   byline: "YouTube",
   dek: "",
   eyebrow: "VIDEO TRANSCRIPT · YOUTUBE",
+  paragraphTranslations: chinaTransitPolicyTranslations,
   paragraphs: [
     "There's been a lot of talk this year about transiting through China without a visa, but the policy has been around for years. So what changed? China expanded this visa-free program to cover more countries and more entry points. Travelers from 54 nations, from Europe to the Americas, closer to home in Asia, and down south in the Pacific, can enjoy three days of visa-free travel if they come in through these four cities, or six days from 37 ports in these 26 cities. Also, anyone from any country can get 24-hour visa-free access to China. That's not enough for a full adventure, but it's still much better than getting stuck at the airport during a layover.",
     "There are a couple of reasons behind this facilitation. Tourism, of course, is the obvious one. The sector contributed 11 percent of China's GDP in 2019, just before COVID, and while domestic travel has already bounced back, inbound tourism is still recovering. But perhaps more importantly, it's an opportunity for visitors to experience the real face of China for themselves, away from the noise of disinformation and political bias. That connection is priceless."

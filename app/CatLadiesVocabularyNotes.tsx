@@ -39,5 +39,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function CatLadiesVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={catLadiesArticle.paragraphs} terms={terms} idPrefix="cat-ladies-note" /><CatLadiesExercises /></>;
+  return <><VocabularyArticleBody paragraphs={catLadiesArticle.paragraphs} terms={terms} idPrefix="cat-ladies-note" paragraphTranslations={catLadiesArticle.paragraphTranslations} /><CatLadiesExercises /></>;
 }

@@ -30,5 +30,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function DiversityVocabularyArticleBody() {
-  return <VocabularyArticleBody paragraphs={diversityArticle.paragraphs} terms={terms} idPrefix="diversity-note" />;
+  return <VocabularyArticleBody paragraphs={diversityArticle.paragraphs} terms={terms} idPrefix="diversity-note" paragraphTranslations={diversityArticle.paragraphTranslations} />;
 }

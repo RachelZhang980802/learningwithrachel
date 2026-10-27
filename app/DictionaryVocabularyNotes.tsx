@@ -52,5 +52,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function DictionaryVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={dictionaryArticle.paragraphs} terms={terms} idPrefix="dictionary-note" leadParagraph={dictionaryArticle.dek} /><DictionaryExercises /></>;
+  return <><VocabularyArticleBody paragraphs={dictionaryArticle.paragraphs} terms={terms} idPrefix="dictionary-note" leadParagraph={dictionaryArticle.dek} paragraphTranslations={dictionaryArticle.paragraphTranslations} /><DictionaryExercises /></>;
 }

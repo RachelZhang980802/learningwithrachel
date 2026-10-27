@@ -1,4 +1,5 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { railroadWorkersTranslations } from "./SupplementaryTranslations";
 
 export const railroadWorkersArticle: InquireFeatureArticle = {
   title: "3 Reasons Why Chinese Workers Were the MVP’s on the Transcontinental Railroad",
@@ -6,6 +7,7 @@ export const railroadWorkersArticle: InquireFeatureArticle = {
   dek: "A concise overview of the workers’ contributions, based on the linked Medium article.",
   eyebrow: "EXTERNAL READING · SASEPRINTS / MEDIUM",
   sectionHeadings: ["A workforce that changed the project", "Dangerous work through the Sierra Nevada", "Food, health, and daily care", "The ten-mile workday", "Remembering workers left out of the record"],
+  paragraphTranslations: railroadWorkersTranslations,
   paragraphs: [
     "The transcontinental railroad joined the United States in 1869. Chinese immigrants formed a large share of the Central Pacific workforce, supplying labor that the company struggled to recruit elsewhere. By 1868, thousands of Chinese workers were employed on the project.",
     "A workforce that changed the project",

@@ -48,5 +48,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function ColumbiaVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={columbiaArticle.paragraphs} terms={terms} idPrefix="columbia-note" leadParagraph={columbiaArticle.dek} /><ColumbiaExercises /></>;
+  return <><VocabularyArticleBody paragraphs={columbiaArticle.paragraphs} terms={terms} idPrefix="columbia-note" leadParagraph={columbiaArticle.dek} paragraphTranslations={columbiaArticle.paragraphTranslations} /><ColumbiaExercises /></>;
 }

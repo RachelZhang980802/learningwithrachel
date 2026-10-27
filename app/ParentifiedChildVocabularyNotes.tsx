@@ -31,5 +31,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function ParentifiedChildVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={parentifiedChildArticle.paragraphs} terms={terms} idPrefix="parentified-child-note" /><ParentifiedChildExercises /></>;
+  return <><VocabularyArticleBody paragraphs={parentifiedChildArticle.paragraphs} terms={terms} idPrefix="parentified-child-note" paragraphTranslations={parentifiedChildArticle.paragraphTranslations} /><ParentifiedChildExercises /></>;
 }

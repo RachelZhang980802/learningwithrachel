@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { gaslightTranslations, loveJointTranslations } from "./SupplementaryTranslations";
 
 export const loveJointArticle: InquireFeatureArticle = {
   title: "Love Is a Joint Project",
   byline: "Kate Kirkpatrick · Aeon · January 30, 2020",
   dek: "For Simone de Beauvoir, authentic love is an ethical undertaking: it can be spoilt by devotion as much as by selfishness.",
   eyebrow: "EXTERNAL READING · AEON",
+  paragraphTranslations: loveJointTranslations,
   paragraphs: [
     "The desires to love and be loved are, on Simone de Beauvoir’s view, part of the structure of human existence. Often, they go awry. But even so, she claimed, authentic love is not only possible but one of the most powerful tools available to individuals who want to be free. So what, exactly, is this authentic love?",
     "In The Second Sex (1949), Beauvoir argued that culture led men and women to have asymmetrical expectations, with the result that ‘love’ frequently felt like a battlefield of conflicting desires or a graveyard for their disappointments. Surely, she argued, the situation could be improved – and everyone is ‘judge and party’ in the question of how to love well. Beauvoir’s account of ‘authentic love’ in this book was the product of more than 20 years of philosophical reflection. As a young philosophy student in Paris, she had already recognised that some conceptions of ‘love’ legitimated injustice and perpetuated suffering. As a teenager, she began a project of revaluating love, in both theory and practice, that would last most of her life. Caricatures of her beliefs put all the emphasis on the existential theme of freedom, on whom you love and how, but there was far more to authentic love for Beauvoir than unhindered individual choice. For the later Beauvoir, in order for love to be authentic, it must be reciprocal and non-exploitative. But it was difficult to achieve this, because society perpetuated myths of love that idealised unethical relations between the sexes.",
@@ -43,6 +45,7 @@ export const gaslightArticle: InquireFeatureArticle = {
   byline: "Ramani Durvasula · Aeon · January 15, 2021",
   dek: "The skilled manipulator casts a shadow of doubt over everything that you feel or think. Therapy can bring the daylight in.",
   eyebrow: "EXTERNAL READING · AEON",
+  paragraphTranslations: gaslightTranslations,
   sectionHeadings: ["Abandonment."],
   paragraphs: [
     "‘He didn’t mean anything by it, stop making such a big deal out of it.’ ‘Here, let me take care of it, you don’t know what you are doing.’ ‘You’re too sensitive.’ ‘Stop overreacting.’ ‘You keep imagining things.’ ‘That’s not how it happened.’ ‘Your memory seems to be slipping.’",

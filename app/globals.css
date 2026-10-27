@@ -5002,6 +5002,11 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .inquire-publication-dek{max-width:720px;margin:34px 0 0;color:#493f38;font:italic 24px/1.32 Georgia,serif}
 .inquire-publication-body{max-width:790px;margin-top:42px;color:#262b2e;font:19px/1.72 Georgia,serif}
 .inquire-publication-body p{margin:0 0 25px}
+.inquire-publication-body .supplementary-translation{margin:-12px 0 25px;font:14px/1.65 Arial,"PingFang SC","Microsoft Yahei",sans-serif;color:#6d5548}
+.inquire-publication-body .supplementary-translation summary{display:grid;width:44px;height:44px;place-items:center;border-radius:3px;color:#8b5e48;font:30px/1 Arial,"PingFang SC","Microsoft Yahei",sans-serif;cursor:pointer;list-style:none}
+.inquire-publication-body .supplementary-translation summary::-webkit-details-marker{display:none}
+.inquire-publication-body .supplementary-translation summary:hover,.inquire-publication-body .supplementary-translation summary:focus-visible{background:rgba(139,94,72,.1);outline:2px solid rgba(139,94,72,.55);outline-offset:1px}
+.inquire-publication-body .supplementary-translation p{margin:0;padding:9px 12px 12px;border-left:2px solid #c19a73;background:rgba(255,250,240,.76);font:inherit;line-height:inherit}
 @media(max-width:650px){
   .inquire-prompts.is-reading-publication{margin:0 -16px}
   .inquire-publication{padding:38px 26px 52px;background:linear-gradient(90deg,rgba(250,248,241,.58),rgba(250,248,241,.91) 22%,rgba(250,248,241,.96))}

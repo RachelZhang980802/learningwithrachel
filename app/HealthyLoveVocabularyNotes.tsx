@@ -136,5 +136,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function HealthyLoveVocabularyArticleBody() {
-  return <VocabularyArticleBody paragraphs={healthyUnhealthyLoveArticle.paragraphs} terms={terms} idPrefix="healthy-love-note" leadParagraph={healthyUnhealthyLoveArticle.dek} sectionHeadings={healthyUnhealthyLoveArticle.sectionHeadings} />;
+  return <VocabularyArticleBody paragraphs={healthyUnhealthyLoveArticle.paragraphs} paragraphTranslations={healthyUnhealthyLoveArticle.paragraphTranslations} terms={terms} idPrefix="healthy-love-note" leadParagraph={healthyUnhealthyLoveArticle.dek} sectionHeadings={healthyUnhealthyLoveArticle.sectionHeadings} />;
 }

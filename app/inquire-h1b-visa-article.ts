@@ -1,4 +1,5 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { h1bVisaTranslations } from "./SupplementaryTranslations";
 
 export const h1bVisaArticle: InquireFeatureArticle = {
   title: "Why Trump Is Charging a $100,000 Fee for H-1B Visas",
@@ -14,6 +15,7 @@ export const h1bVisaArticle: InquireFeatureArticle = {
     "What are the arguments for and against the H-1B visa program?",
     "How has the H-1B visa program been changed in the past?",
   ],
+  paragraphTranslations: h1bVisaTranslations,
   paragraphs: [
     "After focusing on immigration enforcement and ramping up deportations for much of his second term, US President Donald Trump has turned to overhauling the H-1B visa program, a cornerstone of the employment-based immigration system that allows US companies to hire college-educated foreign workers for specialized occupations. As of Sept. 21, new applications for H-1B visas carry a $100,000 fee.",
     "What exactly is the H-1B visa program?",

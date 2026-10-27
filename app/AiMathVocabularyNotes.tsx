@@ -27,5 +27,5 @@ const terms: VocabularyNoteTerm[] = [
 ];
 
 export function AiMathVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={aiMathArticle.paragraphs} terms={terms} idPrefix="ai-math-note" /><AiMathExercises /></>;
+  return <><VocabularyArticleBody paragraphs={aiMathArticle.paragraphs} terms={terms} idPrefix="ai-math-note" paragraphTranslations={aiMathArticle.paragraphTranslations} /><AiMathExercises /></>;
 }

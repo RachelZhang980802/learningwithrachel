@@ -41,7 +41,7 @@ const brooksTerms: VocabularyNoteTerm[] = [
   { key: "register", pattern: "registers?", label: "register", pos: "n.", ipa: "/ˈredʒɪstər/", definition: "A particular range or level of feeling, thought, or expression.", zh: "（情感或思想的）层次；范围" }
 ];
 
-export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagraph, sectionHeadings = [], paragraphClassNames = [] }: { paragraphs: readonly string[]; terms: readonly VocabularyNoteTerm[]; idPrefix: string; leadParagraph?: string; sectionHeadings?: readonly string[]; paragraphClassNames?: readonly (string | undefined)[] }) {
+export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagraph, sectionHeadings = [], paragraphClassNames = [], paragraphTranslations = [] }: { paragraphs: readonly string[]; terms: readonly VocabularyNoteTerm[]; idPrefix: string; leadParagraph?: string; sectionHeadings?: readonly string[]; paragraphClassNames?: readonly (string | undefined)[]; paragraphTranslations?: readonly string[] }) {
   const termsByKey = Object.fromEntries(terms.map((term) => [term.key, term])) as Record<string, VocabularyNoteTerm>;
   const termPattern = new RegExp(terms.map((term) => `(?<${term.key}>\\b(?:${term.pattern})\\b)`).join("|"), "gi");
   const seenTerms = new Set<string>();
@@ -101,7 +101,14 @@ export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagra
       cursor = start + surface.length;
     }
     if (cursor < paragraph.length) nodes.push(paragraph.slice(cursor));
-    return <p className={className} key={paragraphIndex}>{nodes.map((node, index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node)}</p>;
+    const translation = typeof paragraphIndex === "number" ? paragraphTranslations[paragraphIndex] : undefined;
+    return <Fragment key={paragraphIndex}>
+      <p className={className}>{nodes.map((node, index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node)}</p>
+      {translation && <details className="supplementary-translation">
+        <summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary>
+        <p lang="zh-CN">{translation}</p>
+      </details>}
+    </Fragment>;
   }
 
   return <div className="inquire-publication-body">{leadParagraph && renderParagraph(leadParagraph, "lead", "inquire-publication-dek")}{paragraphs.map((paragraph, paragraphIndex) => renderParagraph(paragraph, paragraphIndex, paragraphClassNames[paragraphIndex]))}{openNote && <span className="taylor-vocabulary-note" id={openNote.id} role="group" aria-label={`Vocabulary note for ${openNote.term.label}`} style={{ left: openNote.left, top: openNote.top, width: 286 }}>
@@ -113,6 +120,15 @@ export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagra
   </span>}</div>;
 }
 
+const commencementParagraphTranslations = [
+  "你们这群混蛋，居然放了我的鸽子！几个月前你们邀请我来发表毕业典礼演讲，却从没告诉我典礼取消了。我原本准备的演讲，完全符合这种场合平庸得不能再平庸的套路。你们邀请我，是因为我在事业上算是有所成就。你们想让我先讲几个暖心的笑话，再提几支鲜为人知的乐队，好证明我懂年轻人的文化。最后，你们希望我用励志故事收尾，讲讲失败如何教会我宝贵的人生道理——尤其是要慷慨解囊，捐助母校的校友会。",
+  "既然你们没来，我就换个话题。先说说我不能当着你们父母的面讲的话。你们的父母为你们骄傲，也有点惊讶你们居然顺利毕业了。他们迫不及待地想看你们开启成功的人生。去他的吧。未来几年并不是开启职业生涯的好时候，所以先别急着工作。把职业起步推迟到 2023 年吧。你们恰好在全球危机期间毕业，一切都被打乱了。你们一直担心的那条职业发展路线，已经彻底中断。别把这看成一片虚无，把它当作一张许可：你们可以暂时不按原计划前进。",
+  "现在说说我不能当着教职员工和行政人员讲的话。毕业这一天适合停下来，回想大学里学到的东西；也适合想想大学有哪些地方辜负了你们。许多大学最大的失职在于：它们没有播下思想和道德的种子，而这些种子是你们日后遭遇人生起伏时需要的。如果你们在校时没读简·奥斯汀，可能就缺少认真思考婚姻选择的能力；没读乔治·艾略特，就错过了一堂判断人物品格的大师课；没读尼采，可能还没准备好面对无神论的复杂性；没读奥古斯丁和克尔凯郭尔，也可能还没准备好面对信仰的复杂性。这样的例子还很多：没读托克维尔，你们可能不了解自己的国家；没读吉本，你们可能缺少描述文化与国家兴衰的词汇。",
+  "先贤的智慧是你们继承的遗产，能让人生更从容。这些资源常常没能传到学生手中，原因可能是大学过于看重职业发展，也可能是教师更关心自己的学术专长或政治议题，而不是教本科生；当然，还有许多其他原因。但要走过人生，你们会需要借助这份积累下来的智慧。今天正适合找出大学留下了哪些空缺，然后开始把它们补上。",
+  "最后，同学们，让我说说那句我不能当着你们本人讲的话：它关乎你们的“饮食”。我说的不是身体摄入的食物，而是精神食粮。你们在往脑子里装些什么？我担心的是，尤其是离开大学以后，你们不会再给大脑补充足够优秀的内容。我把这称为“品味上限理论”：接触天才作品能够拓展意识。若你们常与天才的思想为伴，头脑就会比只接触平庸之作时更加开阔、丰盈。",
+  "在大学里，你们会被布置有难度的材料，也会被教着用更有挑战性的方式欣赏绘画、思考科学。毕业后，我们大多数人都打算继续做这些事，可是日子忙碌，到了晚上大脑也疲惫不堪。几个月、几年就这样过去，我们忙着处理各种琐事，最后满足于刷推特，说实话，也包括读新闻。我们的品味上限渐渐降低。你们有没有发现，认识的人里，到了三十岁比二十岁时更无趣的，大概占了七成？我不能当着你们的面说的是：我担心你们未来的品味会停滞甚至萎缩。我这一代以及更早的一些人，至少是有幸接受过大学教育的人，曾接触过经典；经典点燃了一把火，每当我们坐下来读真正优秀的作品，它就会重新燃起。我担心的是，如今人们长大后，甚至可能不知道人类情感与思想还有那些更高远的层次。"
+];
+
 export function BrooksVocabularyArticleBody({ paragraphs }: { paragraphs: readonly string[] }) {
-  return <><VocabularyArticleBody paragraphs={paragraphs} terms={brooksTerms} idPrefix="brooks-note" /><CommencementExercises /></>;
+  return <><VocabularyArticleBody paragraphs={paragraphs} terms={brooksTerms} idPrefix="brooks-note" paragraphTranslations={commencementParagraphTranslations} /><CommencementExercises /></>;
 }

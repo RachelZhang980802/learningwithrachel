@@ -66,9 +66,15 @@ export function H1BVisaArticleBody({ article }: { article: InquireFeatureArticle
       }
       if (cursor < paragraph.length) nodes.push(paragraph.slice(cursor));
       const content = nodes.map((node, index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node);
-      return article.sectionHeadings?.includes(paragraph)
-        ? <h2 className="inquire-publication-section-title" key={paragraphIndex}>{content}</h2>
-        : <p key={paragraphIndex}>{content}</p>;
+      return <Fragment key={paragraphIndex}>
+        {article.sectionHeadings?.includes(paragraph)
+          ? <h2 className="inquire-publication-section-title">{content}</h2>
+          : <p>{content}</p>}
+        {article.paragraphTranslations?.[paragraphIndex] && <details className="supplementary-translation">
+          <summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary>
+          <p lang="zh-CN">{article.paragraphTranslations[paragraphIndex]}</p>
+        </details>}
+      </Fragment>;
     })}
     {openNote && <span className="taylor-vocabulary-note" id={openNote.id} role="group" aria-label={`Vocabulary note for ${openNote.term}`} style={{ left: openNote.left, top: openNote.top, width: 286 }}>
       <span className="taylor-vocabulary-note-tape" aria-hidden="true" />

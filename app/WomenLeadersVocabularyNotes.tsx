@@ -47,5 +47,6 @@ export function WomenLeadersVocabularyArticleBody() {
     terms={terms}
     idPrefix="women-leaders-note"
     leadParagraph={womenLeadersArticle.dek}
+    paragraphTranslations={womenLeadersArticle.paragraphTranslations}
   />;
 }

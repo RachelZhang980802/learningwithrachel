@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { catLadiesTranslations, diversityTranslations, stereotypesTranslations, womenLeadersTranslations } from "./SupplementaryTranslations";
 
 export const catLadiesArticle: InquireFeatureArticle = {
   title: "JD Vance Isn't the First Man to Resent Cat Ladies — They've Always Been Politicized",
   byline: "Brittany Wong · HuffPost · August 1, 2024",
   dek: "Donald Trump's running mate should be afraid of childless cat ladies.",
   eyebrow: "EXTERNAL READING · HUFFPOST",
+  paragraphTranslations: catLadiesTranslations,
   paragraphs: [
     "One voting bloc JD Vance seems completely disinterested in trying to court this election season? Childless cat ladies.",
     "Last week, Vance — Donald Trump’s running mate in the 2024 presidential election — doubled down on his dismissive 2021 comments about “miserable” “childless cat ladies” running the government while having no “direct stake in” the future of the country.",
@@ -45,6 +47,7 @@ export const stereotypesArticle: InquireFeatureArticle = {
   byline: "TED-Ed · Video transcript",
   dek: "How the model minority myth reveals the harm behind seemingly favorable stereotypes.",
   eyebrow: "EXTERNAL READING · TED-ED",
+  paragraphTranslations: stereotypesTranslations,
   paragraphs: [
     "In 2007, researchers surveyed over 180 teachers to understand if they held stereotypes about students from three racial groups. The results surfaced several negative stereotypes, labeling Black students as aggressive and stubborn, white students as selfish and materialistic, and Asian students as shy and meek. But regardless of the teachers’ other biases, the most commonly held opinion was that Asian students were significantly more industrious, intelligent, and gentle than their peers.",
     "On the surface, this might seem like a good thing, or at least better than other, negative characterizations. But treating this seemingly favorable stereotype as reality can actually cause a surprising amount of harm—to those it describes, those it doesn’t, and even those who believe it to be true.",
@@ -65,6 +68,7 @@ export const diversityArticle: InquireFeatureArticle = {
   byline: "TED Talk · Video transcript",
   dek: "A lifelong identity quest becomes an invitation to cultivate diversity within ourselves.",
   eyebrow: "EXTERNAL READING · TED",
+  paragraphTranslations: diversityTranslations,
   paragraphs: [
     "We’re holding hands, staring at the door. My siblings and I were waiting for my mother to come back from the hospital. She was there because my grandmother had cancer surgery that day. Finally, the doors opened, and she said, “She’s gone. She’s gone.” She started sobbing and immediately said, “We must make arrangements. Your grandmother’s dying wish was to be buried back home in Korea.”",
     "I was barely 12 years old, and when the shock wore off, my mother’s words were ringing in my ears. My grandmother wanted to be buried back home. We had moved from Korea to Argentina six years prior, without knowing any Spanish, or how we were going to make a living. And upon arrival, we were immigrants who had lost everything, so we had to work really hard to rebuild our lives. So it hadn’t occurred to me that after all these years, back home was still in Korea.",
@@ -91,6 +95,7 @@ export const womenLeadersArticle: InquireFeatureArticle = {
   byline: "Sheryl Sandberg · TEDWomen · Video transcript",
   dek: "Three messages for women who want to remain in the workforce and reach leadership roles.",
   eyebrow: "EXTERNAL READING · TEDWOMEN",
+  paragraphTranslations: womenLeadersTranslations,
   paragraphs: [
     "So for any of us in this room today, let's start out by admitting we're lucky. We don't live in the world our mothers lived in, our grandmothers lived in, where career choices for women were so limited. And if you're in this room today, most of us grew up in a world where we have basic civil rights, and amazingly, we still live in a world where some women don't have them. But all that aside, we still have a problem, and it's a real problem. And the problem is this: Women are not making it to the top of any profession anywhere in the world.",
     "The numbers tell the story quite clearly. 190 heads of state -- nine are women. Of all the people in parliament in the world, 13 percent are women. In the corporate sector, women at the top, C-level jobs, board seats -- tops out at 15, 16 percent. The numbers have not moved since 2002 and are going in the wrong direction. And even in the non-profit world, a world we sometimes think of as being led by more women, women at the top: 20 percent. We also have another problem, which is that women face harder choices between professional success and personal fulfillment.",

@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { malaysiaHistoryTranslations, singaporeExpulsionTranslations, singaporeHistoryTranslations } from "./SupplementaryTranslations";
 
 export const singaporeHistoryTranscript: InquireFeatureArticle = {
   title: "History of Singapore Explained in 5 Minutes",
   byline: "Epimetheus · YouTube",
   dek: "",
   eyebrow: "VIDEO TRANSCRIPT · YOUTUBE",
+  paragraphTranslations: singaporeHistoryTranslations,
   paragraphs: [
     "He's striding the aquatic crossroads connecting the two most populous regions on Earth. This small nation, lacking any significant natural resources, has become an economic colossus, transforming this once remote island from mangrove to metropolis. The story of Singapore begins when a prince from the Sri Vijaya Empire took refuge on the island after a particularly bad storm. While hunting, he spotted a lion, which he took as a good omen, and decided to build a city there, calling it Lion City, or Singapore.",
     "The pre-existing trading settlement of Temasek on the island was incorporated into the kingdom of Singapura. Over the next 100 years, Singapura became a prosperous trading city with strong kings. They developed strong trading ties with the Mongol Yuan dynasty in China. However, both the growing Majapahit Empire, based on the island of Java in the south, and the kingdom of Ayutthaya in the north claimed the city as their own. Both laid siege to Singapura, and in 1398 it was burnt to the ground.",
@@ -22,6 +24,7 @@ export const singaporeExpulsionTranscript: InquireFeatureArticle = {
   byline: "History Matters · YouTube",
   dek: "",
   eyebrow: "VIDEO TRANSCRIPT · YOUTUBE",
+  paragraphTranslations: singaporeExpulsionTranslations,
   paragraphs: [
     "It's not often that territories are kicked out of countries. Most nations will go to great lengths to make sure they keep hold of as much land and as many people as humanly possible. Yet in 1965, this very thing happened to Singapore when it was ejected from Malaysia. Given how rare it is to willingly lose a bit of land throughout human history, the obvious question is: Why was Singapore, such a geographically important region, kicked out of Malaysia?",
     "After the Second World War, Southeast Asia was in a state of flux, and many imperial powers were struggling to reassert their authority. Throughout the war, these areas had been occupied by Japan, which had placed them under the control of native people. At the end of the war, the Europeans returned and wanted everything to go back to normal. As of 1948, Britain's Southeast Asian colonies were the Federation of Malaya, Singapore, Sarawak, Brunei, and North Borneo. Despite Britain's best efforts, by September 1963 all of these colonies, barring Brunei, were independent, and all of these independent states opted to join the brand-new Malaysia that year. For some, fear of a communist takeover pushed them into the union. For Singapore, it was about gaining access to larger markets and increasing its wealth. Malaysia also seemed like a step in the right direction because it was not Britain.",
@@ -37,6 +40,7 @@ export const malaysiaHistoryTranscript: InquireFeatureArticle = {
   byline: "YouTube",
   dek: "",
   eyebrow: "VIDEO TRANSCRIPT · YOUTUBE",
+  paragraphTranslations: malaysiaHistoryTranslations,
   paragraphs: [
     "Hello, everyone, and welcome. This is Asia, and here's Malaysia. Now let's take a look, shall we? The country of Malaysia is split in two pieces, separated by the South China Sea. This bit sits at the base of the Malay Peninsula, and this bit is perched upon the top quarter of Borneo, a tropical, humid, equatorial, monsoon-swept segment of the Earth. People have lived in Malaysia for many thousands of years, but little is known about its most ancient inhabitants. Whoever they were, they ended up pushed out by waves of new arrivals in the first millennium BC, who became the ancestors of the modern Malays.",
     "Over the centuries, the peninsula culturally soaked up the influence of India in the form of Hinduism and Buddhism. A fusion of these religions was observed in the kingdom of Langkasuka. This long-lived state was first described by the Chinese in the sixth century and was a prominent commercial power, trading aloeswood, camphor, elephant tusks, and rhino horns. The Malay Peninsula was afterward absorbed into the Sumatra-based Srivijaya Empire and, in 1025, was invaded by the South Indian king Rajendra Chola. From the 1200s onward, merchants from the west brought Islam to the region, which was increasingly adopted by peasant farmers.",

@@ -1,10 +1,12 @@
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { parentifiedChildTranslations, raiseABullyTranslations } from "./SupplementaryTranslations";
 
 export const parentifiedChildArticle: InquireFeatureArticle = {
   title: "The Parentified Child",
   byline: "Nivida Chandra · Aeon · March 4, 2022",
   dek: "When parents cast a child into the role of mediator, friend and carer, the wounds are profound. But recovery is possible.",
   eyebrow: "EXTERNAL READING · AEON",
+  paragraphTranslations: parentifiedChildTranslations,
   paragraphs: [
     "I came to research the emotional neglect of children by accident. More than a decade ago, I wrote my Master’s thesis on the relationship between the personal and professional lives of psychotherapists. How did they manage to keep the distress they heard in their clinics from affecting their own emotional balance? And how did they stop their personal challenges from impacting their clinical work? In our conversations, I asked what brought them to be clinicians. The consistency of their answers surprised me. Virtually all said that being there for others, emotionally, came naturally; they were good at it because they were practised in tending to others’ needs since childhood, starting with their own parents. With deeper conversations, I learned of the difficult family circumstances that they each came from.",
     "Their childhood stories were dominated by watching one parent beat the other, or a parent with undiagnosed depression, or other shades of pervasive discord between their parents. Their ‘job’ was to protect and support their parents however possible. It made sense then that, as adults, they channelled this exceptional skill towards helping even more people.",
@@ -60,6 +62,7 @@ export const raiseABullyArticle: InquireFeatureArticle = {
   byline: "Maia Szalavitz · TIME · April 17, 2010",
   dek: "",
   eyebrow: "EXTERNAL READING · TIME",
+  paragraphTranslations: raiseABullyTranslations,
   sectionHeadings: ["Discipline, but Don’t Punish?", "Setting an Empathetic Example"],
   paragraphs: [
     "Since the Jan. 14 death of Phoebe Prince, the 15-year-old in South Hadley, Mass., who committed suicide after being bullied by fellow students, many onlookers have meditated on whether the circumstances that led to her after- school hanging might have been avoided.",
