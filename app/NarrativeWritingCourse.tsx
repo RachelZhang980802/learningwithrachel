@@ -242,32 +242,6 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
     const root = rootRef.current;
     if (!root) return;
 
-    root.querySelectorAll<HTMLElement>(".reading-full-text-header").forEach((header) => {
-      if (header.querySelector(".reading-deeper-analysis")) return;
-
-      const title = header.querySelector<HTMLHeadingElement>("h2");
-      if (!title?.id) return;
-
-      const actions = document.createElement("div");
-      actions.className = "reading-full-text-actions";
-
-      const link = document.createElement("a");
-      link.className = "reading-deeper-analysis";
-      const deeperAnalysisUrl = title.id === "reading-necklace-text-title"
-        ? "https://mp.weixin.qq.com/s/-R78oghVNGjxPbhlxAIuJw"
-        : `#${title.id}`;
-      link.href = deeperAnalysisUrl;
-      if (title.id === "reading-necklace-text-title") {
-        link.target = "_blank";
-        link.rel = "noreferrer";
-      }
-      link.setAttribute("aria-label", `Deeper Analysis for ${title.textContent?.trim() || "this reading"}`);
-      link.textContent = "Deeper Analysis";
-
-      actions.append(link);
-      header.append(actions);
-    });
-
     const cleanup: Array<() => void> = [];
     const timers = new Set<number>();
     const later = (callback: () => void, delay: number) => {
