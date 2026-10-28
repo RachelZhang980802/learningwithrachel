@@ -1008,3 +1008,28 @@
   margin: 0;
 }
 .narrative-course[data-narrative-view="writing-storybook"] main > #writing-storybook { display: block !important; }
+
+/* Give the reading column enough room before placing study notes beside it. */
+@media (min-width: 821px) and (max-width: 1100px) {
+  .narrative-course .reading-detail-slide--with-test-notes > .reading-full-text,
+  .narrative-course .reading-detail-slide--with-analysis-notes > .reading-full-text {
+    display: flex;
+    flex-direction: column;
+    width: min(calc(100% - 36px), 680px);
+    margin-inline: auto;
+  }
+  .narrative-course .reading-full-text-header { order: 0; }
+  .narrative-course .reading-full-text-body { order: 1; width: 100%; }
+  .narrative-course .reading-test-notes { order: 2; position: static; width: 100%; height: auto; max-height: none; margin: 28px 0 0; overflow: visible; }
+  .narrative-course .reading-full-text > .reading-analysis-note { order: 3; }
+  .narrative-course .reading-full-text > footer { order: 4; }
+  .narrative-course .reading-detail-slide--with-test-notes .reading-analysis-note,
+  .narrative-course .reading-detail-slide--with-analysis-notes .reading-analysis-note {
+    position: relative;
+    top: auto !important;
+    right: auto;
+    width: 100%;
+    margin: 0 0 18px;
+  }
+  .narrative-course .reading-analysis-connectors { display: none; }
+}
