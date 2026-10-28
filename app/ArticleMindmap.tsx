@@ -13,8 +13,8 @@ export function ArticleMindmap({ articleId, title }: { articleId: string; title:
   }, [articleId]);
 
   return <iframe
-    key={`${articleId}-river-10-1`}
-    src={`/mindmaps/index.html?article=${encodeURIComponent(articleId)}&rev=river-10-1`}
+    key={`${articleId}-atlas-10-2`}
+    src={`/mindmaps/index.html?article=${encodeURIComponent(articleId)}&rev=atlas-10-2`}
     title={`Mindmap — ${title}`}
     allow="fullscreen"
     style={{ display: "block", width: "100%", height: "calc(100dvh - 64px)", minHeight: 560, border: 0, background: "#f5f3eb" }}

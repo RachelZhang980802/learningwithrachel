@@ -22,3 +22,47 @@
 
 /* Every native text node can be selected with one click and edited with two. */
 .map-node.is-edited .edited-node-text{position:relative;display:block;max-width:100%;white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.12;text-align:left;pointer-events:none}.map-node.is-empty{min-width:80px;min-height:30px;border:2px dashed #9aa993}.map-node.is-empty .edited-node-text{color:#788b75!important}.edit-hint{font-size:11px;color:#687a65;margin:9px 0 12px}.restore-node{font-size:11px;color:#925336;border:1px solid #dccbb9;border-radius:5px;padding:6px 9px;margin:0 0 12px}.node-editor{position:absolute;z-index:20;width:min(400px,calc(100% - 20px));background:#fffdf7;border:2px solid #a5662d;border-radius:9px;box-shadow:0 15px 44px #27362338;padding:12px;cursor:default}.node-editor-title{font-size:12px;font-weight:700;color:#4f6047;margin-bottom:8px}.node-editor-input{display:block;width:100%;min-height:85px;max-height:45vh;resize:vertical;border:1px solid #becbb8;border-radius:5px;background:white;padding:9px;font:16px/1.4 Georgia,"PingFang SC",serif;color:#26342e;outline:none}.node-editor-input:focus{border-color:#925336;box-shadow:0 0 0 2px #92533622}.node-editor-actions{display:flex;align-items:center;justify-content:flex-end;gap:9px;margin-top:9px}.node-editor-actions span{margin-right:auto;font-size:10px;color:#788b75}.node-editor-actions button{border:1px solid #c7d1c2;border-radius:5px;padding:6px 10px;font-size:12px}.node-editor-actions button.primary{border-color:#3c5946;background:#3c5946;color:white}@media(max-width:650px){.node-editor-actions span{font-size:9px}.node-editor{width:min(350px,calc(100% - 20px))}}
+
+/* Reading atlas: branching, comparison and sequence share a legible figure system. */
+body.worksheet-mode .toolbar,body.worksheet-mode .outline,body.worksheet-mode #scene,body.worksheet-mode .minimap-wrap,body.worksheet-mode .canvas-help,body.worksheet-mode .canvas-label{display:none!important}
+body.worksheet-mode #viewport{overflow:auto;touch-action:auto;cursor:auto;background:#eaece7}
+#worksheet{width:min(1190px,calc(100% - 48px));margin:30px auto 60px}
+.reading-atlas{--atlas-ink:#243d3a;--atlas-muted:#526662;--atlas-rule:#b8c5bf;--atlas-paper:#fffefa;color:var(--atlas-ink);background:var(--atlas-paper);padding:38px clamp(20px,3.2vw,46px) 24px;border:1px solid #c9d1c9;box-shadow:0 9px 28px #1e3a3010}
+.atlas-header{margin-bottom:32px;padding-bottom:25px;border-bottom:2px solid #315f56}
+.atlas-meta{display:flex;justify-content:space-between;gap:15px;color:#45685e;font:700 11px/1.4 Arial,sans-serif;letter-spacing:.16em}
+.atlas-header h2{margin:16px 0 12px;font:400 clamp(29px,3.4vw,43px)/1.17 Georgia,serif;letter-spacing:-.025em;text-wrap:balance}
+.atlas-subtitle{max-width:760px;margin:0;color:#52645e;font:18px/1.5 Georgia,serif}
+.atlas-help{margin:16px 0 0;color:#586960;font:12px/1.5 Arial,sans-serif}
+.atlas-stage{position:relative;border:1px solid #bac9c1;background:#fafbf8;padding:18px 20px 21px;border-radius:9px}
+.atlas-stage-parallel{border-style:dashed;background:#f7faf8}
+.atlas-stage-contrast{border-color:#c6b4a4;background:#fbf7f2}
+.atlas-stage-heading{display:flex;align-items:center;gap:11px;margin-bottom:17px}
+.atlas-stage-index{flex:none;display:grid;place-items:center;width:31px;height:31px;border:1px solid #698c7d;border-radius:50%;color:#385c50;font:700 11px Arial,sans-serif}
+.atlas-stage-heading h3{flex:1;margin:0;font:400 22px/1.25 Georgia,serif;text-wrap:balance}
+.atlas-stage-kind{font:700 9px Arial,sans-serif;letter-spacing:.1em;color:#78614e;white-space:nowrap}
+.atlas-nodes{position:relative;display:grid;grid-template-columns:repeat(var(--columns),minmax(0,1fr));gap:32px;align-items:stretch}
+.atlas-nodes-parallel,.atlas-nodes-contrast{padding-block:30px;gap:22px}
+.atlas-links{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;color:#537a6c;overflow:visible;z-index:0}
+.atlas-node{position:relative;min-width:0;padding:17px 16px 18px;border:1px solid var(--node-border);border-top:4px solid var(--node-accent);border-radius:5px;background:var(--node-bg);z-index:1}
+.atlas-tone-blue{--node-bg:#eaf1f6;--node-border:#b4c7d4;--node-accent:#52748e}
+.atlas-tone-rose{--node-bg:#f5eae5;--node-border:#d5bcb0;--node-accent:#a16c58}
+.atlas-tone-sage{--node-bg:#ecf1e5;--node-border:#becaab;--node-accent:#6a8050}
+.atlas-tone-sand{--node-bg:#f7f0dc;--node-border:#d3c499;--node-accent:#9c8140}
+.atlas-node-label{display:flex;align-items:baseline;gap:9px;margin-bottom:10px}
+.atlas-node-index{flex:none;color:var(--node-accent);font:700 10px Arial,sans-serif}
+.atlas-node h4{margin:0;color:#2d443f;font:700 14px/1.35 Arial,sans-serif}
+.atlas-node p{margin:0;color:#293f39;font:17px/1.68 Georgia,serif;overflow-wrap:break-word}
+.atlas-bridge{position:relative;min-height:70px;display:flex;align-items:center;justify-content:center;padding:12px 0 17px;text-align:center}
+.atlas-bridge::before{content:'';position:absolute;left:50%;top:0;bottom:0;border-left:1.5px solid #567c6b}
+.atlas-bridge::after{content:'';position:absolute;left:calc(50% - 4px);bottom:2px;width:7px;height:7px;border-right:1.5px solid #567c6b;border-bottom:1.5px solid #567c6b;transform:rotate(45deg)}
+.atlas-bridge span{position:relative;max-width:90%;padding:5px 12px;background:var(--atlas-paper);color:#537265;font:italic 14px/1.35 Georgia,serif}
+.atlas-gap{position:relative;display:inline-flex;align-items:baseline;gap:4px;min-width:84px;max-width:100%;min-height:32px;padding:1px 3px 2px;border:0;border-bottom:1.5px solid #8d6847;background:#fffdf68c;border-radius:2px 2px 0 0;color:#284b3d;font:inherit;line-height:1.4;vertical-align:baseline;text-align:left;white-space:normal;transition:background .15s}
+.atlas-gap-number{color:#795535;font:700 9px Arial,sans-serif;align-self:flex-start;margin-top:3px}
+.atlas-gap-answer{min-width:42px;overflow-wrap:anywhere}
+.atlas-gap:hover{background:#fff6db}
+.atlas-gap:focus-visible{outline:2px solid #8e4d33;outline-offset:3px}
+.atlas-gap[aria-pressed=true]{background:#fffdf4;border-color:#3c6851}
+.atlas-footer{display:flex;justify-content:space-between;gap:15px;margin-top:28px;padding-top:15px;border-top:1px solid #ccd5cb;color:#5c7064;font:11px/1.5 Arial,sans-serif}
+@media(max-width:950px){.atlas-nodes{gap:23px}.atlas-node{padding:13px 12px}.atlas-node p{font-size:16px}.atlas-stage{padding:17px 14px}.atlas-stage-kind{display:none}}
+@media(max-width:700px){#worksheet{width:calc(100% - 24px);margin:14px auto 32px}.reading-atlas{padding:24px 16px 20px}.atlas-meta{font-size:9px;letter-spacing:.11em}.atlas-meta span:last-child{display:none}.atlas-subtitle{font-size:17px}.atlas-header{margin-bottom:24px}.atlas-stage-heading h3{font-size:21px}.atlas-stage{padding:16px 12px}.atlas-nodes{grid-template-columns:1fr;gap:29px}.atlas-nodes-parallel,.atlas-nodes-contrast{padding:0 0 0 24px;gap:12px}.atlas-node{padding:15px}.atlas-node p{font-size:17px}.atlas-gap{min-height:36px}.atlas-stage-index{width:27px;height:27px}.atlas-bridge{min-height:62px}.atlas-footer{font-size:10px}.atlas-footer span:last-child{max-width:45%;text-align:right}}
+@media(prefers-reduced-motion:reduce){.atlas-gap{transition:none}}

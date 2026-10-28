@@ -5823,3 +5823,63 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 
 
 @media(max-width:700px){.learning-primary-nav{left:auto;top:auto;translate:none;margin:14px auto 0}}
+
+/* Writing Tasks: question cards and annotated model essays. */
+.article-index button > b { color: var(--red); font-family: Arial, "Apple Color Emoji", sans-serif; font-size: 27px; font-weight: 400; line-height: 1; text-align: right; }
+.writing-task-question-button { display: block; width: min(760px, 100%); margin: 0 auto; padding: 0; border: 0; background: transparent; cursor: pointer; text-align: left; }
+.writing-task-question-button .writing-task-image { width: 100%; transition: transform .2s ease, box-shadow .2s ease; }
+.writing-task-question-button:hover .writing-task-image { transform: translateY(-3px); box-shadow: 0 14px 44px rgba(28, 26, 22, .18); }
+.writing-task-question-button > span { display: inline-block; margin-top: 19px; padding: 0 0 5px; border-bottom: 1px solid var(--red); color: var(--red); font-size: 15px; font-weight: 600; }
+.writing-sample { width: min(820px, 100%); margin: 0 auto; padding: clamp(28px, 5vw, 62px); border: 1px solid rgba(24,27,24,.18); background: #fffdf8; box-shadow: 0 12px 40px rgba(28,26,22,.08); }
+.writing-sample-topline { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; padding-bottom: 26px; border-bottom: 1px solid rgba(24,27,24,.25); }
+.writing-sample-kicker { margin: 0 0 12px; color: var(--red); font-size: 11px; font-weight: 700; letter-spacing: .16em; }
+.writing-task-view .writing-sample h2 { margin: 0; font: 400 clamp(29px,3vw,41px)/1.1 Georgia,serif; letter-spacing: -.03em; }
+.writing-sample-switch { flex: 0 0 auto; padding: 9px 0 5px; border: 0; border-bottom: 1px solid currentColor; background: transparent; color: var(--red); font-size: 14px; font-weight: 600; cursor: pointer; }
+.writing-sample-intro, .writing-sample-paragraph p, .writing-sample-conclusion p { margin: 0; color: #26312b; font: 400 clamp(19px,2vw,22px)/1.65 Georgia,serif; }
+.writing-sample-intro { margin: 31px 0 26px; }
+.writing-sample-anchors { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 34px; }
+.writing-sample-anchors > p { grid-column: 1 / -1; margin: 0 0 4px; color: var(--muted); font-size: 11px; font-weight: 700; letter-spacing: .13em; }
+.writing-sample-anchors > span { display: flex; gap: 11px; align-items: baseline; padding: 14px 16px; border-top: 2px solid var(--red); background: #f5f1e9; color: #26312b; font: 400 18px/1.3 Georgia,serif; }
+.writing-sample-anchors b { color: var(--red); font: 700 11px Arial,sans-serif; }
+.writing-peel-legend { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0 0 9px; color: var(--muted); font-size: 12px; }
+.writing-peel-legend b { color: var(--red); letter-spacing: .13em; }
+.writing-sample-paragraph { padding: 28px 0 35px; border-top: 1px solid rgba(24,27,24,.22); }
+.writing-sample-paragraph h3 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 15px; margin: 0 0 20px; color: #263d34; font: 400 23px/1.25 Georgia,serif; }
+.writing-sample-paragraph h3 span, .writing-sample-conclusion h3 { color: var(--red); font: 700 11px/1.4 Arial,sans-serif; letter-spacing: .12em; }
+.writing-peel-step { display: inline; }
+.writing-peel-step > b { display: inline-block; margin: 0 7px 0 0; padding: 1px 6px 2px; border-radius: 2px; background: #efe5da; color: #8a3e30; font: 700 10px/1.4 Arial,sans-serif; vertical-align: .15em; }
+.writing-peel-step:not(:first-child) > b { margin-left: 5px; }
+.writing-sample-conclusion { padding: 27px 0 32px; border-top: 1px solid rgba(24,27,24,.22); }
+.writing-sample-conclusion h3 { margin: 0 0 15px; }
+.writing-sample-reading-link { padding: 19px 22px; border-left: 3px solid var(--moss); background: #f1f3ed; color: #33473a; }
+.writing-sample-reading-link b { font-size: 12px; letter-spacing: .06em; }
+.writing-sample-reading-link p { margin: 8px 0 0; font: 400 15px/1.55 Arial,sans-serif; }
+.writing-sample-sources { display: flex; flex-wrap: wrap; gap: 9px 18px; margin: 24px 0 0; color: var(--muted); font-size: 12px; line-height: 1.5; }
+.writing-sample-sources a { color: var(--red); text-underline-offset: 3px; }
+.writing-sample-bottom-switch { margin-top: 24px; }
+@media (max-width: 650px) {
+  .writing-task-view { width: calc(100% - 32px); padding-top: 40px; }
+  .writing-sample { padding: 27px 22px; }
+  .writing-sample-topline { display: block; }
+  .writing-sample-topline .writing-sample-switch { margin-top: 18px; }
+  .writing-sample-anchors { grid-template-columns: 1fr; }
+  .writing-sample-anchors > p { grid-column: auto; }
+  .writing-sample-anchors > span { font-size: 17px; }
+  .writing-sample-paragraph h3 { font-size: 20px; }
+}
+
+/* Full argument claims need more room than topic labels. */
+.writing-sample-anchors > span { font-size: clamp(17px, 1.7vw, 18px); line-height: 1.4; }
+@media (max-width: 800px) {
+  .writing-sample-anchors { grid-template-columns: 1fr; }
+  .writing-sample-anchors > p { grid-column: auto; }
+}
+
+/* The two argument keywords share their highlight colors with the matching PEEL Point sentences. */
+.writing-sample .argument-1 { --argument-ink: #8f3e33; --argument-bg: #f7e4dd; }
+.writing-sample .argument-2 { --argument-ink: #1b625d; --argument-bg: #e0f0eb; }
+.writing-sample-anchors > span.argument-1, .writing-sample-anchors > span.argument-2 { border-top-color: var(--argument-ink); background: var(--argument-bg); color: var(--argument-ink); font-weight: 600; }
+.writing-sample-anchors > span.argument-1 b, .writing-sample-anchors > span.argument-2 b { color: inherit; }
+.writing-sample-paragraph.argument-1 h3, .writing-sample-paragraph.argument-2 h3 { color: var(--argument-ink); }
+.writing-peel-point > b { background: var(--argument-bg); color: var(--argument-ink); }
+.writing-peel-point > mark { padding: 2px 3px; background: var(--argument-bg); color: var(--argument-ink); -webkit-box-decoration-break: clone; box-decoration-break: clone; }

@@ -84,14 +84,14 @@ export const article01Paraphrases: Record<string, { segments: { text: string; ch
   "At the beginning of my junior year I had several cinches in history.": {
     "segments": [
       {
-        "text": "By the time I entered my third year",
+        "text": "At the start of my third year",
         "changed": true
       },
       {
-        "text": ", I had received several warnings about my poor performance in history."
+        "text": ", I had several history courses that were considered easy to pass."
       }
     ],
-    "note": "用 by the time 组织时间关系；cinches 按该语境中的学业警告理解，不当作“轻松的课程”。"
+    "note": "cinches 是旧时美国大学俚语，指容易应付或容易通过的课程；后文提到的挂科另有交代。"
   },
   "Now I liked history; I had neglected it partly because I rebelled at the way it was taught, as positive knowledge unrelated to politics, art, life, or anything else.": {
     "segments": [

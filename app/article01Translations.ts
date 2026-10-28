@@ -7,7 +7,7 @@ export const article01Translations: Record<string, string> = {
   "I specialized.": "我的办法是集中精力，专门钻研。",
   "With several courses prescribed, I concentrated on the one or two that interested me most and worked intensively on my favorites.": "学校规定了好几门课程，而我把精力集中在最感兴趣的一两门上，在自己喜爱的科目上下苦功夫。",
   "In my first two years, for example, I worked at English and political economy and read philosophy.": "譬如大学头两年，我用功学习英语和政治经济学，也读些哲学著作。",
-  "At the beginning of my junior year I had several cinches in history.": "大三刚开始时，我已经收到几门历史课成绩不合格的警告。",
+  "At the beginning of my junior year I had several cinches in history.": "大三刚开始时，我有几门比较容易过的历史课。",
   "Now I liked history; I had neglected it partly because I rebelled at the way it was taught, as positive knowledge unrelated to politics, art, life, or anything else.": "其实，我是喜欢历史的。此前之所以疏于学习，部分是因为我反感当时的教法：历史被当成一套确定无疑的知识，仿佛与政治、艺术、生活以及其他一切都毫无关联。",
   "The professors gave us chapters out of a few books to read and be quizzed on.": "教授们从几本书里指定一些章节，叫我们读，然后就这些内容测验我们。",
   "Blessed as I was with a \"bad memory,\" I could not commit to it anything that I did not understand and intellectually need.": "好在我记性不好，记不住那些无法理解也并不需要的知识。",

@@ -1,4 +1,5 @@
 import { renderNoteHighlights } from "./narrativeNoteHighlights";
+import { literaryConcepts } from "./literaryConcepts";
 import { afterTwentyStoryParagraphs } from "./afterTwentyStoryText";
 import { copAnthemStoryParagraphs } from "./copAnthemStoryText";
 import { daysWaitStoryParagraphs } from "./daysWaitStoryText";
@@ -14,6 +15,8 @@ import { triflesStoryParagraphs } from "./triflesStoryText";
 import { unitTwoMarkup } from "./unitTwoMarkup";
 import { unitTheoryMarkup } from "./unitTheoryMarkup";
 import { veryShortStoryParagraphs } from "./veryShortStoryText";
+import { narrativeAuthorBios } from "./narrativeAuthorBios";
+import { narrativeParagraphTranslations } from "./narrativeParagraphTranslations";
 
 function escapeStoryText(value: string) {
   return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
@@ -34,6 +37,15 @@ function renderReadingTestNotes(title: string, questionsData: readonly ReadingTe
 function renderNecklaceTestNotes() {
   return renderReadingTestNotes("The Necklace", necklaceTestQuestions);
 }
+
+function renderReadingAuthorBio(author: string) {
+  const biography = narrativeAuthorBios[author];
+  const note = biography
+    ? `<details class="reading-author-note"><summary aria-label="Read author biography: ${escapeStoryText(author)}"><span class="reading-author-pin" aria-hidden="true">✦</span><span class="reading-author-name">By ${escapeStoryText(author)}</span></summary><div class="reading-author-biography" lang="en">${biography}</div></details>`
+    : "";
+  return note ? `<span class="reading-author-group">${note}</span>` : `<span class="reading-author-name">By ${escapeStoryText(author)}</span>`;
+}
+
 function renderStoryParagraphs(paragraphs: readonly string[], story = "", insertions: Readonly<Record<number, string>> = {}) {
   const isPlay = paragraphs[0]?.trim() === "CHARACTERS";
   let openingAssigned = false;
@@ -58,7 +70,20 @@ function renderStoryParagraphs(paragraphs: readonly string[], story = "", insert
         '<details class="reading-analysis-note',
         `<details data-note-anchor-index="${paragraphIndex}" class="reading-analysis-note`,
       );
-      return `${insertion}<p${className} data-reading-paragraph-index="${paragraphIndex}">${renderNoteHighlights(story, paragraphIndex, paragraph)}</p>`;
+      // The Necklace is rendered from a legacy id (`necklace`), while its
+      // translation map uses the stable reading id. Normalize before lookup so
+      // the per-paragraph controls are actually emitted for this story.
+      const translationStory = story === "necklace" ? "reading-necklace" : story;
+      const storyTranslations = narrativeParagraphTranslations[translationStory];
+      const translation = story === "reading-trifles"
+        ? paragraphIndex === 69
+          ? "【她迅速关上通往楼上的门。】"
+          : storyTranslations?.[paragraphIndex >= 70 ? paragraphIndex - 1 : paragraphIndex]
+        : storyTranslations?.[paragraphIndex];
+      const translationControl = translation
+        ? `<details class="reading-paragraph-translation"><summary aria-label="Show Chinese translation for paragraph ${paragraphIndex + 1}">☃︎</summary><p lang="zh-CN">${translation}</p></details>`
+        : "";
+      return `${insertion}<p${className} data-reading-story="${story}" data-reading-paragraph-index="${paragraphIndex}">${renderNoteHighlights(story, paragraphIndex, paragraph)}</p>${translationControl}`;
     })
     .join("\n");
 }
@@ -208,6 +233,23 @@ const earlyAutumnTestQuestions: readonly ReadingTestQuestion[] = [
   {question:"What is ironic about the statement “She lost sight of Bill”?",options:["She can no longer see Bill physically and no longer knows who he has become","Trees obstruct her view","The audience knows Mary was blinded by impulsiveness","Bill avoids her because he is bitter about their breakup"],answer:""},
 ];
 
+const flowersNotes: Readonly<Record<number, string>> = {
+  0: renderAnalysisNote("setting", "Setting · Harvest season and sharecropping", `<p>The opening joins an abundant harvest with Myop’s family’s sharecropper cabin. The golden sensory detail makes the landscape feel generous, while the economic condition quietly locates the family within a system of labor and unequal ownership.</p>`),
+  4: renderAnalysisNote("setting", "Setting · The gloomy cove", `<p>The movement from familiar paths into a “gloomy” cove changes the story’s atmosphere before Myop understands what she has found. Dampness, close silence, and unfamiliar ground turn the woods from a child’s playground into a place carrying a buried history.</p>`),
+  5: renderAnalysisNote("plot", "Plot · The discovery", `<p>Myop first encounters the body through physical contact, then sees the “naked grin.” The sequence delays recognition by a beat: the child’s unafraid attempt to free her heel gives way to a sudden perception that changes the story’s direction.</p>`),
+  6: renderAnalysisNote("indirect", "Characterization · Myop’s changing awareness", `<p>Myop studies the remains with “interest,” a response consistent with her earlier curiosity about the woods. Walker keeps the focal attention close to the child’s observations; the restrained description lets readers register the violence and historical weight that Myop may not yet be able to name.</p>`),
+  7: renderAnalysisNote("literary-device", "Symbolism · The rose and the noose", `<p>The living rose grows beside the remains of the noose, joining beauty and violence in one place. The rope has blended “benignly into the soil,” a quiet image of how racial violence can be absorbed into a landscape and obscured from ordinary view.</p>`),
+  8: renderAnalysisNote("theme", "Theme · The end of innocence", `<p>The final sentence, “And the summer was over,” gives no explicit moral or explanation. Its seasonal language makes Myop’s discovery feel like an irreversible threshold: her childhood world has not physically changed, but what she can know about it has.</p>`),
+};
+
+const earlyAutumnNotes: Readonly<Record<number, string>> = {
+  0: renderAnalysisNote("plot", "Plot · Compressed backstory", `<p>The first paragraph condenses a relationship, a misunderstanding, a marriage, and Bill’s departure into a few sentences. The phrase “something not very important” reduces the apparent cause of a separation whose consequences endure for years, setting up the story’s contrast between small moments and lasting distance.</p>`),
+  3: renderAnalysisNote("indirect", "Characterization · Recognition and age", `<p>Bill recognizes Mary only after she names him, and the narration immediately adds that she looks old to him. The brief asymmetry frames their reunion through his first perception, while later details reveal Mary’s sharper awareness of the past and its unfinished emotional claims.</p>`),
+  13: renderAnalysisNote("setting", "Setting · Washington Square at dusk", `<p>The crowded public park and the falling temperature place the former lovers’ meeting amid strangers and impending night. The external scene narrows their brief opportunity to speak and echoes the emotional chill of a relationship they never resolved.</p>`),
+  17: renderAnalysisNote("pov", "Point of View · Close access to Mary", `<p>The third-person narrator moves close to Mary’s thoughts, including the words she wants to say and her fear of opening her mouth. Bill’s feelings remain less accessible, so readers experience the missed reunion chiefly through Mary’s awareness and regret.</p>`),
+  26: renderAnalysisNote("theme", "Theme · Words left unsaid", `<p>Mary remembers that she forgot to give Bill her address, ask for his, and mention her son’s name. The three omissions widen the gap between the life she has built and the relationship she briefly hoped to reopen; the story leaves the significance of the shared name unresolved.</p>`),
+};
+
 const storyHourTestQuestions: readonly ReadingTestQuestion[] = [
   {question:"Why does Josephine tell Louise about her husband’s death as calmly as possible?",options:["Josephine is afraid of showing her emotions","Josephine does not want to worsen Louise’s weak heart","Richards told Josephine to speak calmly","Josephine does not want Richards to overhear what she is saying"],answer:""},
   {question:"How does Louise’s heart condition relate to nineteenth-century expectations of women?",options:["It contrasts with the expectation that women should be strong and independent","It supports the expectation that women should be career-oriented","It challenges the expectation that women should be emotional and nurturing","It reinforces the expectation that women should be passive and delicate"],answer:""},
@@ -263,18 +305,18 @@ function renderFullTextArticle({
   testQuestions?: readonly ReadingTestQuestion[];
   analysisNotes?: Readonly<Record<number, string>>;
 }) {
-  const articleContent = `
+  const articleContent = addDefinitionsAndExamples(`
           <header class="reading-full-text-header">
             <p class="reading-full-text-kicker">${escapeStoryText(kicker)} · FULL TEXT</p>
             <h2 id="${id}-text-title">${escapeStoryText(title)}</h2>
             <p class="reading-full-text-deck">${escapeStoryText(deck)}</p>
-            <div class="reading-full-text-byline"><span>By ${escapeStoryText(author)}</span><span>${escapeStoryText(label)}</span></div>
+            <div class="reading-full-text-byline">${renderReadingAuthorBio(author)}<span>${escapeStoryText(label)}</span></div>
           </header>
           ${testQuestions.length ? renderReadingTestNotes(title, testQuestions) : ""}
           <div class="reading-full-text-body">
             ${renderStoryParagraphs(paragraphs, id, analysisNotes)}
           </div>
-          <footer>THE END</footer>`;
+          <footer>THE END</footer>`);
 
   return `
         <article class="reading-full-text${testQuestions.length ? " reading-full-text--has-test-notes" : ""}" aria-labelledby="${id}-text-title">
@@ -282,7 +324,94 @@ function renderFullTextArticle({
         </article>`;
 }
 
-export const narrativeWritingMarkup = String.raw`
+const narrativeNoteDefinitions: Readonly<Record<string, string>> = {
+  ...Object.fromEntries(literaryConcepts.map((concept) => [concept.name.toLowerCase(), concept.exact_definition])),
+  symbolism: literaryConcepts.find((concept) => concept.concept_id === "symbol")!.exact_definition,
+  foreshadowing: "Foreshadowing refers to the use of clues or hints to suggest what will happen later in the story. It is a way for authors to create anticipation and build suspense by hinting at future events or outcomes.",
+};
+
+const ironyFormDefinitions: Readonly<Record<string, string>> = {
+  dramatic: "Dramatic irony is a storytelling and literary device where the audience or reader knows crucial information that the characters inside the narrative do not. This gap in knowledge creates a contrast between what characters believe and what is actually true.",
+  situational: "Situational irony happens when the actual result of an event is the exact opposite of what you reasonably expect to happen.",
+};
+
+function literaryConceptDefinition(id: string) {
+  return literaryConcepts.find((concept) => concept.concept_id === id)?.exact_definition ?? "";
+}
+
+function normalizeDefinitionLabels(markup: string) {
+  // Keep the concept name in the authoritative definition itself, but don't
+  // repeat it in the label immediately before that definition.
+  return markup.replace(
+    /<strong>Definition\s*[·:—-]\s*(?:Allusion|Alliteration|Analogy|Characterization|Conflict|Hyperbole|Irony|Metaphor|Onomatopoeia|Personification|Plot|Point of View|Setting|Simile|Symbol(?:ism)?|Theme|Understatement)<\/strong>/gi,
+    "<strong>Definition</strong>",
+  );
+}
+
+function addDefinitionsAndExamples(markup: string) {
+  const sourceDetails: Record<string, { author: string; title: string }> = {
+    necklace: { author: "Guy de Maupassant", title: "The Necklace" },
+    fat: { author: "Raymond Carver", title: "Fat" },
+    aftertwenty: { author: "O. Henry", title: "After Twenty Years" },
+    lastleaf: { author: "O. Henry", title: "The Last Leaf" },
+    flowers: { author: "Alice Walker", title: "The Flowers" },
+    egg: { author: "Sherwood Anderson", title: "The Egg" },
+    dayswait: { author: "Ernest Hemingway", title: "A Day’s Wait" },
+    shortstory: { author: "Ernest Hemingway", title: "A Very Short Story" },
+    copanthem: { author: "O. Henry", title: "The Cop and the Anthem" },
+    earlyautumn: { author: "Langston Hughes", title: "Early Autumn" },
+    storyhour: { author: "Kate Chopin", title: "The Story of an Hour" },
+    trifles: { author: "Susan Glaspell", title: "Trifles" },
+  };
+
+  return normalizeDefinitionLabels(markup.replace(/(<details\b[^>]*class="reading-analysis-note(?: reading-analysis-note--[\w-]+)*"[^>]*>[\s\S]*?<div class="reading-analysis-note-content">)([\s\S]*?)(<\/div>\s*<\/details>)/g, (whole, open, originalContent, close, offset: number) => {
+    const heading = originalContent.match(/<h3>([\s\S]*?)<\/h3>/)?.[1]?.replace(/<[^>]+>/g, " ").replace(/&amp;/g, "&").trim() ?? "";
+    const summary = open.match(/<summary>\s*<span>([\s\S]*?)<\/span>/)?.[1]?.replace(/<[^>]+>/g, " ").replace(/&amp;/g, "&").trim() ?? "";
+    const classes = open.match(/class="([^"]+)"/)?.[1] ?? "";
+    const classConcept = /(?:^|\s)reading-analysis-note--pov(?:\s|$)/.test(classes) ? "point of view" : "";
+    const normalized = `${summary} ${heading} ${classConcept}`.toLowerCase();
+    const terms = Object.keys(narrativeNoteDefinitions)
+      .sort((a, b) => b.length - a.length)
+      .filter((key) => normalized.includes(key) && !(key === "symbol" && normalized.includes("symbolism")));
+    if (!terms.length) return open + originalContent + close;
+
+    const followingParagraph = markup.slice(offset + whole.length).match(/^\s*(?:<details\b[^>]*class="[^"]*\breading-analysis-note\b[^"]*"[^>]*>[\s\S]*?<\/details>\s*)*<p\b[^>]*data-reading-story="([^"]+)"[^>]*data-reading-paragraph-index="(\d+)"[^>]*>([\s\S]*?)<\/p>/);
+    const definitionBlock = originalContent.includes('class="reading-note-definition"')
+      ? ""
+      : `<div class="reading-note-definition">${terms.flatMap((term) => {
+        const definitions = [`<p><strong>Definition</strong> ${narrativeNoteDefinitions[term]}</p>`];
+        if (term === "irony") {
+          for (const [form, definition] of Object.entries(ironyFormDefinitions)) {
+            const namesForm = form === "situational"
+              ? /\bsituational\b[\s\S]*\birony\b/.test(normalized)
+              : /\bdramatic\b[\s\S]*\birony\b/.test(normalized);
+            if (namesForm) definitions.push(`<p><strong>Form-specific definition</strong> ${definition}</p>`);
+          }
+        }
+        return definitions;
+      }).join("")}</div>`;
+
+    let content = originalContent;
+    if (definitionBlock) {
+      content = /<h3>[\s\S]*?<\/h3>/.test(content)
+        ? content.replace(/(<h3>[\s\S]*?<\/h3>)/, `$1${definitionBlock}`)
+        : definitionBlock + content;
+    }
+
+    if (followingParagraph) {
+      const [, story, paragraphNumber, quotation] = followingParagraph;
+      const source = sourceDetails[story.replace(/^reading-/, "").replaceAll("-", "")];
+      const citation = source
+        ? `${source.author}, <em>${source.title}</em>, paragraph ${Number(paragraphNumber) + 1} in this edition.`
+        : `Paragraph ${Number(paragraphNumber) + 1} in this edition.`;
+      const quotationBlock = `<section class="reading-note-section reading-note-quotation"><h4>Original Quotation</h4><blockquote>${quotation}</blockquote><p class="reading-note-source">${citation}</p></section>`;
+      if (!content.includes("reading-note-quotation")) content = content.replace(/(<div class="reading-note-definition">[\s\S]*?<\/div>)/, `$1${quotationBlock}`);
+    }
+    return open + content + close;
+  }));
+}
+
+export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
     <header class="site-nav" aria-label="Primary navigation">
       <nav class="nav-pill">
         <span id="narrative-home-slot"></span>
@@ -653,23 +782,24 @@ export const narrativeWritingMarkup = String.raw`
             <p class="reading-full-text-kicker">FICTION · FULL TEXT</p>
             <h2 id="reading-necklace-text-title">The Necklace</h2>
             <p class="reading-full-text-deck">Madame Mathilde Loisel dreams of elegance, admiration, and a life beyond her modest circumstances.</p>
-            <div class="reading-full-text-byline"><span>By Guy de Maupassant</span><span>Short fiction</span></div>
+            <div class="reading-full-text-byline">${renderReadingAuthorBio("Guy de Maupassant")}<span>Short fiction</span></div>
           </header>
           ${renderNecklaceTestNotes()}
           <details class="reading-analysis-note" data-note-anchor-index="0">
             <summary><span>Characterization</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary>
             <div class="reading-analysis-note-content">
               <h3>Direct Characterization</h3>
-              <p><strong>Appearance and circumstances:</strong> The narrator directly describes Mathilde as beautiful and charming, while also showing that she is dissatisfied with her life.</p>
+              <div class="reading-note-definition"><p><strong>Definition</strong> ${literaryConceptDefinition("characterization")}</p><p><strong>Textual example</strong> “pretty and charming” and her dissatisfaction with her ordinary circumstances.</p></div>
+              <p><strong>Analysis:</strong> The narrator states Mathilde’s beauty directly, then contrasts it with her unhappiness. This establishes the gap between her outward appeal and the life she believes she deserves.</p>
             </div>
           </details>
           <div class="reading-full-text-body">
-            ${renderStoryParagraphs(necklaceStoryParagraphs, "necklace", {
+          ${addDefinitionsAndExamples(renderStoryParagraphs(necklaceStoryParagraphs, "necklace", {
               2: `<details class="reading-analysis-note reading-analysis-note--indirect reading-analysis-note--mathilde"><summary><span>Characterization</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Indirect Characterization</h3><p><strong>Desires and thoughts:</strong> Mathilde imagines luxurious rooms, elegant dinners, expensive clothes, and high society. These reveal her social ambition and dissatisfaction with her life.</p></div></details>`,
               88: `<details class="reading-analysis-note reading-analysis-note--indirect reading-analysis-note--loisel"><summary><span>Characterization</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Indirect Characterization</h3><p><strong>Contrast:</strong> M. Loisel is characterized mainly through action. He gives up his savings, searches for the necklace, sacrifices his inheritance, borrows money, and works extra jobs. His generosity and sense of responsibility contrast with Mathilde's dissatisfaction and social ambition.</p></div></details>`,
               56: `<details class="reading-analysis-note reading-analysis-note--setting"><summary><span>Setting</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><p>The story is set in Paris, where differences in wealth and social status are highly visible.</p><p>More importantly, Maupassant uses contrasting spaces to reflect Mathilde's changing relationship with reality:</p><ul><li><strong>The Loisel apartment</strong> → ordinary middle-class reality</li><li><strong>Mme. Forestier's home and jewelry box</strong> → access to the world Mathilde desires</li><li><strong>The ballroom</strong> → luxury, admiration, social performance</li><li><strong>The dark streets and shabby carriage</strong> → sudden return to reality</li><li><strong>The garret and marketplace</strong> → real poverty after years of debt</li></ul><p>The movement of setting follows a larger pattern:</p><p class="reading-setting-pattern">Ordinary Reality → Glamorous Illusion → Harsh Reality</p><p>The ballroom allows Mathilde to look wealthy for one night; the streets immediately expose how temporary that appearance is. The name Rue des Martyrs also anticipates the suffering that follows.</p><p>Setting is therefore not merely a backdrop. It makes Mathilde's social rise and fall physically visible.</p></div></details>`,
-              0: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Personification · “a slip of fate”</h3><p>The phrase presents Fate as if it could make a mistake, framing Mathilde’s birth into a clerk’s family as an unlucky accident. This reflects how she blames her circumstances for her unhappiness.</p></div></details>`,
-              3: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Allusion · The Sphinx</h3><p>An allusion is a brief reference to something outside the story that adds meaning.</p><p>The phrase “sphinxlike smile” alludes to the mythical Sphinx, suggesting a mysterious, unreadable expression. It adds elegance to Mathilde’s fantasy of high society and shows how far that fantasy is from her ordinary life. It also reflects the sophisticated image she hopes to imitate.</p></div></details>`,
+              0: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Personification · “a slip of fate”</h3><div class="reading-note-definition"><p><strong>Definition</strong> ${literaryConceptDefinition("personification")}</p><p><strong>Textual example</strong> “as if by a slip of fate”</p></div><p>This wording frames Mathilde’s birth into a clerk’s family as an accident. It reflects her belief that her social circumstances prevent her from living the life she imagines.</p></div></details>`,
+               3: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Allusion · The Sphinx</h3><p>The phrase “sphinxlike smile” alludes to the mythical Sphinx, suggesting a mysterious, unreadable expression. It adds elegance to Mathilde’s fantasy of high society and shows how far that fantasy is from her ordinary life. It also reflects the sophisticated image she hopes to imitate.</p></div></details>`,
               42: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Symbolism · The Necklace</h3><p>The necklace looks like a diamond but is made of paste and worth at most 500 francs. To Mathilde, it represents the wealth and status she longs for. Her choice reflects her habit of judging value by appearance; the final revelation reinforces the story’s contrast between appearance and reality.</p></div></details>`,
               45: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Symbolism · The Mirror</h3><p>The mirror symbolizes vanity, self-image, and fixation on outward appearance. Mathilde’s joy as she admires herself wearing the necklace shows how strongly her sense of worth depends on how she looks. Her fascination with her reflection also recalls Narcissus and suggests the danger of excessive self-absorption.</p><p>A reflection reveals only the surface, not the reality behind it. When Mathilde later looks in the glass and discovers the necklace is gone, her temporary illusion of wealth and status disappears with it.</p></div></details>`,
               50: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Dramatic Irony · The Ball</h3><p>Readers know Mathilde is displaying borrowed luxury while the guests see only an elegant, wealthy-looking woman. The gap between her appearance and her real circumstances reinforces appearance versus reality.</p></div></details>`,
@@ -678,7 +808,7 @@ export const narrativeWritingMarkup = String.raw`
               101: `<details class="reading-analysis-note reading-analysis-note--pov"><summary><span>Point of View</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Third-Person Narration, Closely Aligned with Mathilde</h3><ul><li>The narration gives us access to Mathilde’s dissatisfaction, fantasies, desires, and emotional response to the ball.</li><li>We see the necklace as she sees it, while the narrator withholds its true value.</li><li>The reader shares Mathilde’s mistake: both mistake appearance for reality.</li><li>The final revelation changes both Mathilde’s understanding and ours.</li></ul></div></details>`,
               121: `<details class="reading-analysis-note reading-analysis-note--literary-device"><summary><span>Literary Devices</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><h3>Situational Irony · The Revelation</h3><p>After ten years of hardship replacing a “diamond” necklace, Mathilde learns the original was paste worth at most 500 francs. The real value sharply reverses what she and the reader expected.</p></div></details><details class="reading-analysis-note reading-analysis-note--theme"><summary><span>Theme</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><p>A theme expresses a universal truth, so it should be written as a complete idea rather than as a topic.</p><p>For <em>The Necklace</em>:</p><p><strong>Topic:</strong> Appearance vs. Reality</p><p><strong>Theme / Universal Truth:</strong> When people judge happiness, worth, and social status by appearances, they may overlook what is truly valuable and suffer lasting consequences.</p></div></details>`,
               105: `<details class="reading-analysis-note reading-analysis-note--plot"><summary><span>Plot</span><span class="reading-analysis-note-toggle" aria-hidden="true"></span></summary><div class="reading-analysis-note-content"><p>The plot of <em>The Necklace</em> follows a chain of cause and effect:</p><p class="reading-plot-chain">Desire → Opportunity → Loss → Concealment → Sacrifice → Revelation</p><h3>Exposition</h3><p>Mathilde is beautiful but deeply dissatisfied with her ordinary middle-class life. She longs for wealth, admiration, and a higher social status.</p><h3>Rising Action</h3><p>An invitation to a ministerial ball gives Mathilde the opportunity she desires. She gets a dress, borrows a necklace, enjoys one night of admiration, and then discovers that the necklace is missing.</p><h3>Complication</h3><p>Rather than tell Mme. Forestier the truth, Mathilde and her husband secretly replace the necklace. They buy one priced at 36,000 francs, although the jeweler says it is worth 40,000 francs.</p><h3>Consequences</h3><p>The Loisels spend ten years in poverty repaying their debt. The hardship changes Mathilde’s appearance and way of life.</p><h3>Climax / Final Revelation</h3><p>When Mathilde finally tells Mme. Forestier what happened, Forestier reveals that the original necklace was imitation jewelry, worth at most 500 francs.</p><h3>Cause and Effect</h3><p>The necklace is lost by accident, but Mathilde’s choice to hide the loss and replace it turns a misfortune into ten years of poverty. The final revelation shows how appearances—and the assumptions people make about them—shape the tragedy.</p></div></details>`,
-            })}
+          }))}
           </div>
           <footer>THE END</footer>
         </article>
@@ -698,7 +828,7 @@ export const narrativeWritingMarkup = String.raw`
             <p class="reading-full-text-kicker">FICTION · FULL TEXT</p>
             <h2 id="reading-fat-text-title">Fat</h2>
             <p class="reading-full-text-deck">A waitress recounts a story to her friend about “the fattest person I have ever seen.”</p>
-            <div class="reading-full-text-byline"><span>By Raymond Carver</span><span>Short fiction</span></div>
+            <div class="reading-full-text-byline">${renderReadingAuthorBio("Raymond Carver")}<span>Short fiction</span></div>
           </header>
           <div class="reading-full-text-body">
             ${renderStoryParagraphs(fatStoryParagraphs, "fat", fatReadingNotes)}
@@ -747,7 +877,7 @@ export const narrativeWritingMarkup = String.raw`
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text" id="reading-detail-flowers" aria-labelledby="reading-detail-flowers-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-flowers" aria-labelledby="reading-detail-flowers-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="flowers" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-flowers.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -762,6 +892,7 @@ export const narrativeWritingMarkup = String.raw`
           deck: "It is not until she notices something else on the ground that we are told her summer was over.",
           author: "Alice Walker",
           paragraphs: flowersStoryParagraphs,
+          analysisNotes: flowersNotes,
         })}
       </section>
 
@@ -842,7 +973,7 @@ export const narrativeWritingMarkup = String.raw`
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes" id="reading-detail-early-autumn" aria-labelledby="reading-detail-early-autumn-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-early-autumn" aria-labelledby="reading-detail-early-autumn-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="early-autumn" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-early-autumn.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -858,6 +989,7 @@ export const narrativeWritingMarkup = String.raw`
           author: "Langston Hughes",
           paragraphs: earlyAutumnStoryParagraphs,
           testQuestions: earlyAutumnTestQuestions,
+          analysisNotes: earlyAutumnNotes,
         })}
       </section>
 
@@ -937,4 +1069,4 @@ export const narrativeWritingMarkup = String.raw`
       <button class="lightbox-close" type="button" aria-label="Close image">×</button>
       <div class="lightbox-inner"><img src="" alt="" /><div><h2 id="lightbox-title"></h2><p></p></div></div>
     </div>
-`;
+`);

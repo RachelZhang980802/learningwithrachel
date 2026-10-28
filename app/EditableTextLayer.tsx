@@ -253,15 +253,6 @@ export function EditableTextLayer({ children }: { children: ReactNode }) {
         ))}
       </div>}
 
-      <div className="editable-toolbar" data-editable-ui>
-        <button type="button" className={editing ? "is-active" : ""} onClick={() => { setEditing((value) => !value); setActiveKey(null); }}>
-          {editing ? "Done" : "Edit text"}
-        </button>
-        {editing && <button type="button" onClick={() => { setAddOpen(true); setActiveKey(null); }}>＋ Add text</button>}
-        {Object.keys(edits).length > 0 && <button type="button" className="editable-reset" onClick={resetEdits}>Reset saved</button>}
-        {(saving || Object.keys(edits).length > 0 || notes.length > 0) && <span role="status">{saving ? "Saving…" : "Saved locally"}</span>}
-      </div>
-
       {activeTarget && <section className="editable-popover" data-editable-ui role="dialog" aria-label="Edit text">
         <header><strong>Edit text</strong><button type="button" aria-label="Close editor" onClick={() => setActiveKey(null)}>×</button></header>
         <textarea value={draft} onChange={(event) => setDraft(event.target.value)} rows={4} autoFocus />

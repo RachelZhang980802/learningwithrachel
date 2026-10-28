@@ -1,0 +1,30 @@
+.article-cloze-page { min-height: 100vh; padding: 35px 24px 90px; background: #f7f5ef; background-image: radial-gradient(rgba(28,31,27,.08) .55px, transparent .7px); background-size: 5px 5px; color: #26312b; }
+.article-cloze-shell { width: min(880px, 100%); margin: 0 auto; }
+.article-cloze-back { padding: 5px 0; border: 0; border-bottom: 1px solid currentColor; background: transparent; color: #8e4937; font: 600 15px Arial,sans-serif; cursor: pointer; }
+.article-cloze-header { padding: 65px 0 36px; border-bottom: 1px solid #d4c9bb; }
+.article-cloze-header > p { margin: 0 0 16px; color: #8e4937; font: 700 11px Arial,sans-serif; letter-spacing: .18em; }
+.article-cloze-header h1 { margin: 0 0 26px; font: 400 clamp(42px,6vw,72px)/1.02 Georgia,serif; letter-spacing: -.045em; }
+.article-cloze-intro { max-width: 730px; font: 18px/1.6 Georgia,serif; }
+.article-cloze-intro p { margin: 0 0 10px; }
+.article-cloze-bank { padding: 28px 0 32px; border-bottom: 1px solid #d4c9bb; }
+.article-cloze-bank h2 { margin: 0 0 17px; color: #8e4937; font: 700 12px Arial,sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+.article-cloze-bank > div { display: flex; flex-wrap: wrap; gap: 8px; }
+.article-cloze-bank span { padding: 7px 11px; border: 1px solid #d9c9b5; border-radius: 999px; background: #fffdf8; font: 15px/1.2 Georgia,serif; }
+.article-cloze-stage { padding: 40px 0 44px; border-bottom: 1px solid #d4c9bb; }
+.article-cloze-stage-heading { display: flex; align-items: baseline; gap: 22px; margin-bottom: 20px; }
+.article-cloze-stage-heading > span { flex: 0 0 53px; color: #a24c38; font: 700 11px Arial,sans-serif; letter-spacing: .1em; }
+.article-cloze-stage-heading h2 { margin: 0; color: #214940; font: 400 32px/1.2 Georgia,serif; }
+.article-cloze-stage-heading p { margin: 6px 0 0; color: #737770; font: 14px Arial,sans-serif; }
+.article-cloze-passage { margin: 0 0 0 75px; font: 21px/2.25 Georgia,serif; }
+.article-cloze-blank { display: inline-flex; align-items: baseline; gap: 4px; white-space: nowrap; vertical-align: baseline; }
+.article-cloze-number { color: #a24c38; font: 700 10px Arial,sans-serif; }
+.article-cloze-reveal { display: inline-block; min-width: 145px; max-width: 100%; padding: 2px 6px 3px; border: 0; border-bottom: 2px solid #a24c38; border-radius: 0; background: transparent; color: #214940; font: 18px/1.25 Georgia,serif; text-align: center; white-space: nowrap; cursor: pointer; }
+.article-cloze-reveal:hover { background: #efe8db; }
+.article-cloze-reveal:focus-visible { outline: 2px solid #a24c38; outline-offset: 3px; }
+.article-cloze-reveal.is-revealed { border-color: #35785d; }
+.article-cloze-bottom-back { margin-top: 36px; }
+.article-cloze-entry { position: relative; }
+.article-cloze-trigger { position: absolute; top: -10px; right: 0; padding: 0 8px; border: 0; background: transparent; color: #a24c38; font: 34px/1 Georgia,serif; cursor: pointer; }
+.article-cloze-trigger:hover { transform: scale(1.08); }
+.article-cloze-trigger:focus-visible { outline: 2px solid #a24c38; outline-offset: 3px; }
+@media (max-width: 600px) { .article-cloze-page { padding: 22px 16px 70px; } .article-cloze-header { padding-top: 42px; } .article-cloze-intro { font-size: 17px; } .article-cloze-stage { padding: 30px 0 34px; } .article-cloze-stage-heading { gap: 12px; } .article-cloze-stage-heading > span { flex-basis: 36px; } .article-cloze-stage-heading h2 { font-size: 27px; } .article-cloze-passage { margin-left: 0; font-size: 18px; line-height: 2.4; } .article-cloze-reveal { min-width: 118px; font-size: 16px; } }

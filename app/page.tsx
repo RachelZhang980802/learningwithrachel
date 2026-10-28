@@ -73,6 +73,9 @@ import { XiumiArticleShelf } from "./XiumiArticleShelf";
 import { toMediaUrl } from "./mediaUrl";
 import { ArticleMindmap } from "./ArticleMindmap";
 import { writingTaskCards } from "./writingTaskCards";
+import { ArticleOneCloze } from "./ArticleOneCloze";
+import { ArticleClozeExercise } from "./ArticleClozeExercise";
+import { writingSampleAnswers } from "./writingSampleAnswers";
 
 type View = "library" | "guide" | "index" | "about" | "reading";
 type Section = "home" | "reading" | "writing" | "culture";
@@ -923,8 +926,10 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
 
 function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library" | "reading">; onNavigate: (view: View) => void; onHome: () => void }) {
   const [selectedCard, setSelectedCard] = useState<number | null>(null);
+  const [showSample, setShowSample] = useState(false);
   const navigateFromPage = (destination: View) => {
     setSelectedCard(null);
+    setShowSample(false);
     onNavigate(destination);
   };
   const content = useMemo(() => ({
@@ -936,15 +941,58 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
   if (view === "index" && selectedCard !== null) {
     const article = articles[selectedCard];
     const card = writingTaskCards[selectedCard];
+    const answer = writingSampleAnswers[selectedCard];
+    const wordCount = [answer.introduction, ...answer.body.flatMap((paragraph) => [paragraph.point, paragraph.explanation, paragraph.example, paragraph.link]), answer.conclusion].join(" ").trim().split(/\s+/).length;
     return (
       <main className="simple-page writing-task-page">
         <Header view={view} onNavigate={navigateFromPage} onHome={onHome} />
         <section className="writing-task-view" aria-labelledby="writing-task-title">
-          <button type="button" className="writing-task-back" onClick={() => { setSelectedCard(null); window.scrollTo(0, 0); }}>← All writing tasks</button>
+          <button type="button" className="writing-task-back" onClick={() => { setSelectedCard(null); setShowSample(false); window.scrollTo(0, 0); }}>← All writing tasks</button>
           <p className="eyebrow">WRITING TASK 2 · {article.number} / 10</p>
           <h1 id="writing-task-title">{article.title}</h1>
-          <img className="writing-task-image" src={card.image} alt={`Writing Task 2 study card ${article.number} for ${article.title}`} />
-          <p className="writing-task-source">Question paraphrased for study · <a href={card.url} target="_blank" rel="noopener noreferrer">View source: {card.source} ↗</a></p>
+          {showSample ? (
+            <article className="writing-sample" aria-labelledby="writing-sample-title">
+              <div className="writing-sample-topline">
+                <div>
+                  <p className="writing-sample-kicker">BAND 8–9 TARGET · ORIGINAL MODEL ANSWER · {wordCount} WORDS</p>
+                  <h2 id="writing-sample-title">A clear line of argument</h2>
+                </div>
+                <button type="button" className="writing-sample-switch" onClick={() => { setShowSample(false); window.scrollTo(0, 0); }}>← View question</button>
+              </div>
+              <p className="writing-sample-intro">{answer.introduction}</p>
+              <div className="writing-sample-anchors" aria-label="Two argument keywords; each color matches the point sentence in its body paragraph">
+                <p>ARGUMENT KEYWORDS</p>
+                {answer.anchors.map((anchor, index) => <span className={`argument-${index + 1}`} key={anchor}><b>0{index + 1}</b>{anchor}</span>)}
+              </div>
+              <p className="writing-peel-legend"><b>PEEL</b><span>Point · Explanation · Example · Link</span></p>
+              {answer.body.map((paragraph, index) => (
+                <section className={`writing-sample-paragraph argument-${index + 1}`} key={answer.anchors[index]} aria-labelledby={`writing-sample-paragraph-${index}`}>
+                  <h3 id={`writing-sample-paragraph-${index}`}><span>BODY 0{index + 1}</span>{answer.anchors[index]}</h3>
+                  <p>
+                    <span className="writing-peel-step writing-peel-point"><b>Point</b><mark>{paragraph.point}</mark>{" "}</span>
+                    <span className="writing-peel-step"><b>Explanation</b>{paragraph.explanation} </span>
+                    <span className="writing-peel-step"><b>Example</b>{paragraph.example} </span>
+                    <span className="writing-peel-step"><b>Link</b>{paragraph.link}</span>
+                  </p>
+                </section>
+              ))}
+              <section className="writing-sample-conclusion">
+                <h3>CONCLUSION</h3>
+                <p>{answer.conclusion}</p>
+              </section>
+              <aside className="writing-sample-reading-link"><b>From this unit’s reading</b><p>{answer.readingConnection}</p></aside>
+              <p className="writing-sample-sources">Written for this study card. <a href={answer.sampleSource.url} target="_blank" rel="noopener noreferrer">Compare a published sample ↗</a> <a href={card.url} target="_blank" rel="noopener noreferrer">Question source ↗</a></p>
+              <button type="button" className="writing-sample-switch writing-sample-bottom-switch" onClick={() => { setShowSample(false); window.scrollTo(0, 0); }}>← View question</button>
+            </article>
+          ) : (
+            <>
+              <button type="button" className="writing-task-question-button" onClick={() => { setShowSample(true); window.scrollTo(0, 0); }} aria-label={`Read sample answer for ${article.title}`}>
+                <img className="writing-task-image" src={card.image} alt={`Writing Task 2 study card ${article.number} for ${article.title}`} />
+                <span>Click the question to read the sample answer →</span>
+              </button>
+              <p className="writing-task-source">Question paraphrased for study · <a href={card.url} target="_blank" rel="noopener noreferrer">View source: {card.source} ↗</a></p>
+            </>
+          )}
         </section>
         <UniversityFooter />
       </main>
@@ -962,8 +1010,8 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
         <ol className="article-index">
           {articles.map((article, index) => (
             <li key={article.number}>
-              <button type="button" onClick={() => { setSelectedCard(index); window.scrollTo(0, 0); }} aria-label={`Open Writing Task 2 card ${article.number}: ${article.title}`}>
-                <span>{article.number}</span><strong>{article.title}</strong><em>{article.author}</em><b>↗</b>
+              <button type="button" onClick={() => { setSelectedCard(index); setShowSample(false); window.scrollTo(0, 0); }} aria-label={`Open Writing Task 2 card ${article.number}: ${article.title}`}>
+                <span>{article.number}</span><strong>{article.title}</strong><em>{article.author}</em><b aria-hidden="true">⛄︎</b>
               </button>
             </li>
           ))}
@@ -988,6 +1036,8 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   }, []);
   const [analysisMode, setAnalysisMode] = useState(false);
   const [quizOpen, setQuizOpen] = useState(false);
+  const [clozeOpen, setClozeOpen] = useState(false);
+  const clozeReturnScroll = useRef(0);
   const [vocabularyTarget, setVocabularyTarget] = useState<VocabularyTarget | undefined>();
   const navigation = (active: "text" | "analysis" | "quizzes" | "notes") => <nav className="reading-nav" aria-label="Article navigation">
     <button onClick={onBack}>← Library</button>
@@ -999,6 +1049,10 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
     {onPrevious && <button className="reading-nav-previous" onClick={onPrevious} aria-label="Previous article">← Previous</button>}
     {onNext && <button onClick={onNext} aria-label="Next article">Next →</button>}
   </nav>;
+  if (clozeOpen && index <= 9) {
+    const onClozeBack = () => { setClozeOpen(false); window.requestAnimationFrame(() => window.scrollTo(0, clozeReturnScroll.current)); };
+    return index === 0 ? <ArticleOneCloze onBack={onClozeBack} /> : <ArticleClozeExercise key={article.number} articleId={article.number} onBack={onClozeBack} />;
+  }
   if (notesOpen) {
     return <div className="article-learning-shell">{navigation("notes")}<ArticleMindmap articleId={article.number} title={article.title} /></div>;
   }
@@ -1037,19 +1091,19 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
       </header>
 
       {index >= 2 && index <= 9 ? (
-        <article id="text" className="reading-column"><div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src={suppliedAudio[index]} /></div><p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>{(article.number === "03" || article.number === "04" || article.number === "05" || article.number === "06" || article.number === "07" || article.number === "08" || article.number === "09" || article.number === "10") ? <ArticleSyntaxReading articleId={article.number} paragraphs={fullArticleParagraphs[index]} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : (<div className="original-text">{fullArticleParagraphs[index].map((paragraph, paragraphIndex) => <p className={`prose${paragraphIndex === 0 && canUseEditorialDropCap(article.number, paragraph) ? " prose-opening" : ""}`} key={paragraphIndex}><span className="paragraph-number">{String(paragraphIndex + 1).padStart(2, "0")}</span><span className="prose-copy">{getLesson(article.number) ? <LessonVocabularyParagraph articleId={article.number} paragraph={paragraphIndex + 1} text={paragraph} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : paragraph}</span></p>)}</div>)} </article>
+        <article id="text" className="reading-column"><div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src={suppliedAudio[index]} /></div><div className="article-cloze-entry"><p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p><button type="button" className="article-cloze-trigger" aria-label="Open a 20-gap vocabulary exercise for this text" title="20-gap word-family exercise" onClick={() => { clozeReturnScroll.current = window.scrollY; setClozeOpen(true); window.scrollTo(0, 0); }}>☺︎</button></div>{(article.number === "03" || article.number === "04" || article.number === "05" || article.number === "06" || article.number === "07" || article.number === "08" || article.number === "09" || article.number === "10") ? <ArticleSyntaxReading articleId={article.number} paragraphs={fullArticleParagraphs[index]} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : (<div className="original-text">{fullArticleParagraphs[index].map((paragraph, paragraphIndex) => <p className={`prose${paragraphIndex === 0 && canUseEditorialDropCap(article.number, paragraph) ? " prose-opening" : ""}`} key={paragraphIndex}><span className="paragraph-number">{String(paragraphIndex + 1).padStart(2, "0")}</span><span className="prose-copy">{getLesson(article.number) ? <LessonVocabularyParagraph articleId={article.number} paragraph={paragraphIndex + 1} text={paragraph} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/> : paragraph}</span></p>)}</div>)} </article>
       ) : index > 9 ? (
         <section className="placeholder-text"><span className="ink-orbit" aria-hidden="true" /><p>The complete text has not yet been supplied.</p><small>This place is held without invented commentary.</small></section>
       ) : index === 1 ? (
         <article id="text" className="reading-column">
           <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="https://assets.negentropylearning.com.cn/media/audio-should-the-robots-be-taxed.mp3" /></div>
-          <p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>
+          <div className="article-cloze-entry"><p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p><button type="button" className="article-cloze-trigger" aria-label="Open a 20-gap vocabulary exercise for this text" title="20-gap word-family exercise" onClick={() => { clozeReturnScroll.current = window.scrollY; setClozeOpen(true); window.scrollTo(0, 0); }}>☺︎</button></div>
           <ArticleSyntaxReading articleId="02" paragraphs={robotsParagraphs} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/>
         </article>
       ) : (
         <article id="text" className="reading-column">
           <div className="audio-dock"><span>LISTEN TO THE READING</span><audio controls preload="metadata" src="https://assets.negentropylearning.com.cn/media/audio-i-become-a-student.mp3" /></div>
-          <p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p>
+          <div className="article-cloze-entry"><p className="chapter-label">THE ORIGINAL TEXT · READ FIRST</p><button type="button" className="article-cloze-trigger" aria-label="Open a 20-gap vocabulary exercise for this text" title="20-gap word-family exercise" onClick={() => { clozeReturnScroll.current = window.scrollY; setClozeOpen(true); window.scrollTo(0, 0); }}>☺︎</button></div>
           <ArticleSyntaxReading articleId="01" paragraphs={steffensParagraphs} onSelect={(target) => { setVocabularyTarget(target); setAnalysisMode(true); window.scrollTo(0, 0); }}/>
           {analysisMode && <section className="sentence-atlas" aria-label="Sentence analysis cards">
             <p className="chapter-label">SENTENCE ATLAS · SELECT A CARD</p>

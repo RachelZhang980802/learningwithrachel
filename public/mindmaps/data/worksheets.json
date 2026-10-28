@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "01",
+    "title": "I Become a Student",
+    "subtitle": "How independent study turns received knowledge into a question worth pursuing",
+    "stages": [
+      {
+        "id": "01-claim",
+        "title": "Introduction · A possibility, with conditions",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "01-possibility",
+            "label": "The claim",
+            "tone": "blue",
+            "text": "A real university education is possible, though rare. Students need the [[capacity and drive]] to learn."
+          },
+          {
+            "id": "01-condition",
+            "label": "The condition",
+            "tone": "sand",
+            "text": "Pursue [[methodical, independent study]] while resisting institutional [[mind-fixing]]."
+          }
+        ]
+      },
+      {
+        "id": "01-habits",
+        "title": "The method · Choose a direction and develop the tools",
+        "relation": "put the claim into practice",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "01-choice",
+            "label": "Direction",
+            "tone": "blue",
+            "text": "[[Interest-driven specialization]] gives deep independent study its focus."
+          },
+          {
+            "id": "01-reading",
+            "label": "Reading and memory",
+            "tone": "sand",
+            "text": "Read extensively. Practise [[selective memorization]] grounded in understanding."
+          },
+          {
+            "id": "01-thinking",
+            "label": "Critical thinking",
+            "tone": "sage",
+            "text": "Bring ideas from other disciplines to bear on historical questions."
+          }
+        ]
+      },
+      {
+        "id": "01-compare",
+        "title": "The method · Let disagreement become a question",
+        "relation": "use these habits to examine accounts",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "01-references",
+            "label": "Find a starting point",
+            "tone": "blue",
+            "text": "Use authoritative references and ask professors for further reading."
+          },
+          {
+            "id": "01-conflict",
+            "label": "Compare accounts",
+            "tone": "rose",
+            "text": "Look for [[conflicting claims]] about the same historical events."
+          },
+          {
+            "id": "01-crosscheck",
+            "label": "Check other authorities",
+            "tone": "sand",
+            "text": "Consult libraries and professors for [[triangulation]]."
+          }
+        ]
+      },
+      {
+        "id": "01-research",
+        "title": "The method · Build an answer from evidence",
+        "relation": "turn disagreement into research",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "01-problem",
+            "label": "Frame the problem",
+            "tone": "sand",
+            "text": "Use [[independent judgement]] to decide what remains unexplained."
+          },
+          {
+            "id": "01-sources",
+            "label": "Return to the evidence",
+            "tone": "blue",
+            "text": "Go back to the [[primary sources]], then develop a [[working hypothesis]] from the gaps."
+          },
+          {
+            "id": "01-paper",
+            "label": "Write and substantiate",
+            "tone": "sage",
+            "text": "Present the research in scientific papers, supporting the argument with evidence."
+          }
+        ]
+      },
+      {
+        "id": "01-conclusion",
+        "title": "Conclusion · What the learner carries forward",
+        "relation": "draw out the value of this education",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "01-value",
+            "label": "The lasting value",
+            "tone": "sage",
+            "text": "[[Method]], and the capacity and drive to learn, matter more than the degree."
+          },
+          {
+            "id": "01-youth",
+            "label": "The task ahead",
+            "tone": "blue",
+            "text": "History calls for [[revision]]. Young learners can take up that task."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Should the Robots Be Taxed?",
+    "subtitle": "A proposed tax, a historical test, and the cost of transition",
+    "stages": [
+      {
+        "id": "02-debate",
+        "title": "01 · The debate and its proposed solution",
+        "relation": "",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "02-threat",
+            "label": "The concern",
+            "text": "If robots replace workers, governments may lose tax revenue while people face [[unemployment]].",
+            "tone": "rose"
+          },
+          {
+            "id": "02-proposal",
+            "label": "The proposal",
+            "text": "Tax robot owners and use a [[basic income]] to protect those whose jobs disappear.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "02-history",
+        "title": "02 · Put the proposal in historical context",
+        "relation": "test the underlying assumption",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "02-tools",
+            "label": "Tools keep changing",
+            "text": "Robots belong to a long history of [[automation]]. New tools change how people work; later generations learn new skills.",
+            "tone": "blue"
+          },
+          {
+            "id": "02-textiles",
+            "label": "Work is reorganised",
+            "text": "Handloom weaving gives way to factory production: fixed hours, shared machinery and a greater [[division of labour]].",
+            "tone": "sand"
+          },
+          {
+            "id": "02-society",
+            "label": "Change extends beyond jobs",
+            "text": "Birth rates fall and populations age. Future generations may learn to [[conserve resources]] as conditions change.",
+            "tone": "sage"
+          }
+        ]
+      },
+      {
+        "id": "02-objections",
+        "title": "03 · Answer three objections",
+        "relation": "apply this history to present concerns",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "02-jobs",
+            "label": "What happens to employment?",
+            "text": "Some workers are left behind during the [[lag]]. Other skills and jobs emerge, but the benefits remain [[uneven]].",
+            "tone": "rose"
+          },
+          {
+            "id": "02-tax",
+            "label": "What happens to taxes?",
+            "text": "Machines earn no wages, but the author argues that higher [[corporate profits]] and new robot-related jobs create other tax revenue.",
+            "tone": "blue"
+          },
+          {
+            "id": "02-speed",
+            "label": "Is the speed unprecedented?",
+            "text": "Earlier transport revolutions also displaced workers. Today's rapid flow of [[information]] makes disruption more visible.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "02-response",
+        "title": "04 · The author's response",
+        "relation": "recognise both adaptation and pain",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "02-equilibrium",
+            "label": "Adjustment takes time",
+            "text": "A disrupted system does not reach a new [[equilibrium]] immediately. The transition can be painful.",
+            "tone": "blue"
+          },
+          {
+            "id": "02-care",
+            "label": "Respond to people",
+            "text": "The present phase calls for [[empathy]], compassion and [[social responsibility]].",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Roommates",
+    "subtitle": "Three stages of companionship lead to an inherited way of living",
+    "stages": [
+      {
+        "id": "03-opening",
+        "title": "01 · Looking back",
+        "relation": "",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "03-roommate",
+            "label": "The unusual roommate",
+            "text": "The narrator's grandfather lives to 107. For years, the grandson takes his extraordinary [[energy]] for granted.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "03-childhood",
+        "title": "02 · Childhood: hearing without understanding",
+        "relation": "return to the earliest shared room",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "03-boy",
+            "label": "The boy's perspective",
+            "text": "The boy casts himself as his grandfather's [[teacher]], explaining electricity and other school knowledge.",
+            "tone": "sand"
+          },
+          {
+            "id": "03-memory",
+            "label": "What the older narrator now hears",
+            "text": "The grandfather's quarrels and dreams once sounded like noise. In [[retrospect]], those outbursts become [[music]].",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "03-graduate",
+        "title": "03 · Graduate school: closeness across difference",
+        "relation": "reunite after the college years",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "03-companion",
+            "label": "A renewed household",
+            "text": "Despite the age gap, the grandson is his most [[congenial companion]]. His grandfather makes friends and does much of the housework.",
+            "tone": "sage"
+          },
+          {
+            "id": "03-work",
+            "label": "Two ideas of work",
+            "text": "Reading on a couch counts as study for the grandson; the grandfather mocks it as [[laziness]]. Their closeness does not erase misunderstanding.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "03-crisis",
+        "title": "04 · Adulthood: the direction of care reverses",
+        "relation": "a family crisis exposes a different kind of strength",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "03-reversal",
+            "label": "An expectation overturned",
+            "text": "The established grandson plans to care for his grandfather. His wife's illness creates a painful [[irony]]: he needs the help instead.",
+            "tone": "rose"
+          },
+          {
+            "id": "03-depression",
+            "label": "Two responses to suffering",
+            "text": "The grandson turns anger inward as [[depression]]. His grandfather responds through the ordinary work of [[daily life]].",
+            "tone": "blue"
+          },
+          {
+            "id": "03-recovery",
+            "label": "An example becomes a way back",
+            "text": "Caring for children, reading the news and mowing the lawn continue. After two years, the grandson begins to [[join him]].",
+            "tone": "sage"
+          }
+        ]
+      },
+      {
+        "id": "03-inheritance",
+        "title": "05 · Present self: carrying the example forward",
+        "relation": "turn companionship into an inheritance",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "03-legacy",
+            "label": "The lasting lesson",
+            "text": "The narrator now gets up early and stays [[busy]]. His final tribute expresses [[gratitude]] for a roommate whose example taught him how to keep living.",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Never Trust Appearances",
+    "subtitle": "Observation becomes assumption—until evidence breaks the pattern",
+    "stages": [
+      {
+        "id": "04-scene",
+        "title": "01 · An ordinary train journey",
+        "relation": "",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "04-routine",
+            "label": "James's routine",
+            "text": "James takes the later train to secure his usual [[corner seat]]. He quietly reads while commuters hurry around him.",
+            "tone": "blue"
+          },
+          {
+            "id": "04-observer",
+            "label": "Matti's limited view",
+            "text": "On his [[first visit]] to England, Matti studies the one passenger he can see clearly.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "04-filter",
+        "title": "02 · Expectations filter what Matti sees",
+        "relation": "interpret a stranger through a ready-made image",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "04-stereotype",
+            "label": "The imagined Englishman",
+            "text": "Matti expects a bowler hat, fair hair, a moustache and a pipe. He treats these features as signs of a [[typical Englishman]].",
+            "tone": "sand"
+          },
+          {
+            "id": "04-details",
+            "label": "The actual passenger",
+            "text": "James has dark curly hair and no hat or moustache. His [[old clothes]] and worn briefcase become Matti's evidence for an invented life.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "04-invention",
+        "title": "03 · Details turn into an unsupported story",
+        "relation": "fill the gaps with imagination",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "04-job",
+            "label": "Invent an identity",
+            "text": "The initials J. S. suggest “John Smith”. Matti guesses that James is a poorly paid [[clerk]], shop assistant or teacher.",
+            "tone": "rose"
+          },
+          {
+            "id": "04-family",
+            "label": "Invent a household",
+            "text": "Matti supplies a wife, an increasing number of children and a tiny garden. His [[pity]] rests on [[assumptions]], not verified facts.",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "04-reveal",
+        "title": "04 · Reality overturns the reading",
+        "relation": "confront the imagined story with evidence",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "04-car",
+            "label": "The visible contradiction",
+            "text": "A uniformed chauffeur opens a [[Rolls-Royce]] for James. Matti's account can no longer explain what he sees.",
+            "tone": "blue"
+          },
+          {
+            "id": "04-facts",
+            "label": "Geoffrey supplies the facts",
+            "text": "Sir James controls 42 factories and is a [[bachelor]]. His parents are [[Finnish]], and his real name is Jussi Saksalainen.",
+            "tone": "sage"
+          },
+          {
+            "id": "04-lesson",
+            "label": "The judgement under examination",
+            "text": "Matti recalls warnings about his [[unreliable imagination]]. Appearance alone cannot establish a person's identity or life.",
+            "tone": "sand"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Courage",
+    "subtitle": "A direct proposal brings parental authority and personal choice into conflict",
+    "stages": [
+      {
+        "id": "05-arrival",
+        "title": "01 · An arrival that breaks convention",
+        "relation": "",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "05-tradition",
+            "label": "The expected route",
+            "text": "Marriage negotiations would normally pass through parents and a [[go-between]].",
+            "tone": "sand"
+          },
+          {
+            "id": "05-visit",
+            "label": "Akira's chosen route",
+            "text": "Akira comes [[directly]] to Chie's door on a cold, rainy evening, interrupting the warmth shared by mother and daughter.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "05-reception",
+        "title": "02 · Politeness meets a mistaken assumption",
+        "relation": "enter Chie's point of view",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "05-manner",
+            "label": "A respectful visitor",
+            "text": "Akira bows, apologises and speaks with [[sincerity]]. Chie begins to like him.",
+            "tone": "blue"
+          },
+          {
+            "id": "05-child",
+            "label": "A parent's blind spot",
+            "text": "His earnest speech produces [[maternal amusement]]. Chie still sees both him and Naomi as [[children]].",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "05-proposal",
+        "title": "03 · One proposal, two possible homes",
+        "relation": "urgency makes the choice explicit",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "05-consent",
+            "label": "With parental consent",
+            "text": "Akira will stay in [[Japan]], become Naomi's yoshi and live in the House of Fuji.",
+            "tone": "sage"
+          },
+          {
+            "id": "05-refusal",
+            "label": "Without parental consent",
+            "text": "His dentistry position in [[Seattle]] offers another route: he will secure a home in America for his bride.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "05-reaction",
+        "title": "04 · The proposal changes the emotional balance",
+        "relation": "make the possibility of separation real",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "05-chill",
+            "label": "Chie's sudden chill",
+            "text": "Asked for Naomi's hand, Chie suddenly feels the night's [[dampness]]. The matter she dismissed now touches her own family.",
+            "tone": "rose"
+          },
+          {
+            "id": "05-departure",
+            "label": "Akira leaves the decision open",
+            "text": "He apologises for startling her and promises to return in [[two weeks]]. No consent has yet been given.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "05-ending",
+        "title": "05 · Mother and daughter confront the same choice",
+        "relation": "hear Naomi's own answer",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "05-expectation",
+            "label": "Chie's expectation",
+            "text": "Chie dismisses Akira's hopes as [[preposterous]] and waits for Naomi to laugh with her.",
+            "tone": "rose"
+          },
+          {
+            "id": "05-resolution",
+            "label": "Naomi's resolve",
+            "text": "Naomi answers with [[silence]], then declares, “I mean to have him.” Her [[determination]] challenges the assumption that her mother will decide for her.",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Reading",
+    "subtitle": "Access to books → a writing problem → deliberate practice → improvement",
+    "stages": [
+      {
+        "id": "06-access",
+        "title": "A reader finds ways to learn",
+        "relation": "",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "06-buy",
+            "label": "Buy and exchange",
+            "text": "His childhood [[bookish inclination]] leads him to spend his money on books and sell one collection to buy another.",
+            "tone": "blue"
+          },
+          {
+            "id": "06-library",
+            "label": "Read what is available",
+            "text": "His father's religious books encourage argument; Plutarch, Defoe and Mather also shape his [[thinking]].",
+            "tone": "blue"
+          },
+          {
+            "id": "06-borrow",
+            "label": "Borrow beyond the home",
+            "text": "Booksellers' apprentices and Matthew Adams give him access to better books, often read late into the night.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "06-direction",
+        "title": "Reading changes his direction",
+        "relation": "opens opportunities",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "06-printer",
+            "label": "A practical occupation",
+            "text": "His love of books helps determine his [[apprenticeship]] as a printer, which gives him further access to reading.",
+            "tone": "sand"
+          },
+          {
+            "id": "06-ballads",
+            "label": "Two reactions to poetry",
+            "text": "A ballad's sales flatter his [[vanity]], but his father ridicules the writing and discourages a poetic career.",
+            "tone": "rose"
+          },
+          {
+            "id": "06-prose",
+            "label": "A different ambition",
+            "text": "He moves towards [[prose]], later an important means of his advancement.",
+            "tone": "sage"
+          }
+        ]
+      },
+      {
+        "id": "06-diagnosis",
+        "title": "A dispute exposes a writing problem",
+        "relation": "reveals a weakness",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "06-collins",
+            "label": "From debate to letters",
+            "text": "Unable to settle a dispute with Collins over women's education, Franklin puts his [[arguments]] into writing.",
+            "tone": "sand"
+          },
+          {
+            "id": "06-feedback",
+            "label": "Accept specific criticism",
+            "text": "His father praises his spelling and punctuation but finds weak expression, method and [[perspicuity]]. Franklin resolves to improve.",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "06-practice",
+        "title": "The Spectator becomes a working model",
+        "relation": "turns criticism into practice",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "06-hints",
+            "label": "Read → note → wait",
+            "text": "He records short [[hints]] of each sentence's meaning, then puts the original aside for several days.",
+            "tone": "blue"
+          },
+          {
+            "id": "06-reconstruct",
+            "label": "Rebuild from meaning",
+            "text": "Without looking back, he [[reconstructs]] the essays in whatever words he can find.",
+            "tone": "blue"
+          },
+          {
+            "id": "06-compare",
+            "label": "Compare → correct",
+            "text": "Comparison with the original reveals faults and a limited [[stock of words]], directing the next round of practice.",
+            "tone": "sage"
+          }
+        ]
+      },
+      {
+        "id": "06-training",
+        "title": "Different exercises address different weaknesses",
+        "relation": "targets the remaining gaps",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "06-vocabulary",
+            "label": "Word choice",
+            "text": "Prose → verse → prose forces him to search for verbal [[variety]] and recall suitable alternatives.",
+            "tone": "sand"
+          },
+          {
+            "id": "06-order",
+            "label": "Order of ideas",
+            "text": "Jumbling and rearranging his notes teaches [[method]] in the arrangement of thoughts.",
+            "tone": "sand"
+          },
+          {
+            "id": "06-persistence",
+            "label": "Sustained improvement",
+            "text": "Practice at night, before work and on Sundays builds [[confidence]] that he can become a competent English writer.",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "What We Gain or Lose in Cities",
+    "subtitle": "Urban growth → two trade-offs → the conditions behind our choices",
+    "stages": [
+      {
+        "id": "07-context",
+        "title": "Cities change the setting of human life",
+        "relation": "",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "07-past",
+            "label": "Most of human history",
+            "text": "People live at low densities in families and small bands.",
+            "tone": "blue"
+          },
+          {
+            "id": "07-urban",
+            "label": "The past 6,000 years",
+            "text": "Cities emerge; today they house more than half the world's population.",
+            "tone": "blue"
+          },
+          {
+            "id": "07-thesis",
+            "label": "The central claim",
+            "text": "Urban life involves [[trade-offs]]: substantial gains can come with substantial costs.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "07-freedom",
+        "title": "Trade-off 1 · Individual freedom and community interests",
+        "relation": "compare three responses",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "07-singapore",
+            "label": "Singapore · collective security",
+            "text": "High density and dependence on neighbours encourage close [[monitoring]]. Citizens accept less freedom for health, safety and high living standards.",
+            "tone": "blue"
+          },
+          {
+            "id": "07-germany",
+            "label": "Germany · shared public goods",
+            "text": "Rules protect architecture, trees and fish stocks. Limits on individual choice support long-term [[community interests]].",
+            "tone": "sage"
+          },
+          {
+            "id": "07-la",
+            "label": "Los Angeles · individual rights",
+            "text": "Strong [[property rights]] allow broad personal freedom, but the resulting [[free-for-all]] harms neighbours, trees, architecture and fish populations.",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "07-conditions",
+        "title": "Why do these societies choose differently?",
+        "relation": "explain the differences",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "07-density",
+            "label": "Geography and density",
+            "text": "Land, resources and [[population density]] affect how closely one person's actions constrain others.",
+            "tone": "sand"
+          },
+          {
+            "id": "07-history",
+            "label": "Urban history",
+            "text": "Different lengths of urban experience help form distinct [[customs]].",
+            "tone": "sand"
+          },
+          {
+            "id": "07-farming",
+            "label": "Patterns of settlement",
+            "text": "Communal farming, close-packed farms and scattered frontier families leave different [[cultural legacies]].",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "07-ties",
+        "title": "Trade-off 2 · Social ties and anonymity",
+        "relation": "consider a second trade-off",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "07-village",
+            "label": "Village life · support and constraint",
+            "text": "New Guinea villages offer lifelong friends and [[social support]]. Constant watching, demands and gossip can also become [[socially suffocating]].",
+            "tone": "blue"
+          },
+          {
+            "id": "07-city",
+            "label": "City life · isolation and freedom",
+            "text": "Scattered friendships can produce [[isolation]], but [[anonymity]] also allows privacy, peaceful solitude and freedom from constant clan demands.",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "07-choice",
+        "title": "A choice of compromises",
+        "relation": "weigh gains against costs",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "07-conclusion",
+            "label": "The question remains open",
+            "text": "As urbanisation increases, which [[compromises]] would we accept for safety, health, prosperity and attractive surroundings?",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "title": "The Guide to Being a Foodie Without Being Culturally Appropriative",
+    "subtitle": "A personal contradiction → unequal power → mechanisms → consequences → response",
+    "stages": [
+      {
+        "id": "08-observation",
+        "title": "An everyday contradiction raises the question",
+        "relation": "",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "08-mocked",
+            "label": "The food of childhood",
+            "text": "Foods from the author's culture are mocked as strange or presented as an [[exotic]] spectacle.",
+            "tone": "rose"
+          },
+          {
+            "id": "08-trendy",
+            "label": "The fashionable version",
+            "text": "The same foods become expensive restaurant [[trends]], while their communities still face prejudice.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "08-boundary",
+        "title": "Where does enjoyment become appropriation?",
+        "relation": "define the boundary",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "08-enjoy",
+            "label": "Cross-cultural enjoyment",
+            "text": "Trying, cooking and enjoying another culture's food are not automatically [[appropriation]].",
+            "tone": "sage"
+          },
+          {
+            "id": "08-power",
+            "label": "An unequal relationship",
+            "text": "The author's concern is a [[dominant culture]] extracting pleasure, profit or control from communities it has oppressed.",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "08-mechanisms",
+        "title": "Three mechanisms of appropriation",
+        "relation": "trace how power operates",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "08-fetish",
+            "label": "Culture as spectacle",
+            "text": "[[Fetishization]] turns people and histories into exotic dishes and a fixed idea of “authentic” culture.",
+            "tone": "blue"
+          },
+          {
+            "id": "08-commerce",
+            "label": "Culture as a product",
+            "text": "[[Commercialization]] repackages community food for outside consumption and profit.",
+            "tone": "blue"
+          },
+          {
+            "id": "08-control",
+            "label": "Control over resources",
+            "text": "[[Access hoarding]] lets dominant groups control the ingredients and resources needed to produce the food.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "08-consequences",
+        "title": "What gets lost when food is detached from people?",
+        "relation": "produces linked consequences",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "08-flatten",
+            "label": "Cultural flattening",
+            "text": "Reducing Japan to sushi or India to curry encourages [[homogenization]] and erases diverse communities and histories.",
+            "tone": "rose"
+          },
+          {
+            "id": "08-disconnect",
+            "label": "Disconnection",
+            "text": "Enjoying selected dishes while ignoring [[oppression]] separates food from colonial histories, labour rights and current community concerns.",
+            "tone": "rose"
+          },
+          {
+            "id": "08-gentrify",
+            "label": "Loss of access",
+            "text": "Food [[gentrification]] can make traditional ingredients and cuisines unaffordable to their own communities.",
+            "tone": "rose"
+          }
+        ]
+      },
+      {
+        "id": "08-response",
+        "title": "Enjoy food with attention to people and power",
+        "relation": "calls for reflection and action",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "08-reflect",
+            "label": "Ask who benefits",
+            "text": "Consider who is [[labouring and profiting]], where recipes come from, and whose access is being reduced.",
+            "tone": "sage"
+          },
+          {
+            "id": "08-learn",
+            "label": "Learn beyond the menu",
+            "text": "Keep enjoying food across cultures while learning about [[colonization]] and the issues affecting the communities behind it.",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "title": "Stop Telling Me to Travel like a Local, Okay?",
+    "subtitle": "Own the tourist identity → challenge the myth → learn openly → bring curiosity home",
+    "stages": [
+      {
+        "id": "09-identity",
+        "title": "The author's starting position",
+        "relation": "",
+        "kind": "parallel",
+        "nodes": [
+          {
+            "id": "09-tourist",
+            "label": "A self-aware visitor",
+            "text": "She accepts being a [[cultural interloper]], uses experienced travellers' and locals' knowledge, and seeks a place's “only-here” highlights.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "09-myth",
+        "title": "Test the promise of “travel like a local”",
+        "relation": "challenge the prevailing advice",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "09-promise",
+            "label": "The advertised promise",
+            "text": "Insider tips offer an [[inside scoop]] while tourist-shaming urges visitors to hide their unfamiliarity.",
+            "tone": "sand"
+          },
+          {
+            "id": "09-routine",
+            "label": "The everyday reality",
+            "text": "Locals work, commute and do chores. Travelling like them is a [[contradiction]] when a holiday aims to escape routine.",
+            "tone": "rose"
+          },
+          {
+            "id": "09-discovery",
+            "label": "The tourist's opportunity",
+            "text": "Museums, special meals and wandering with [[fresh eyes]] are distinctive pleasures of being a visitor.",
+            "tone": "sage"
+          }
+        ]
+      },
+      {
+        "id": "09-practice",
+        "title": "Admitting unfamiliarity opens a path to learning",
+        "relation": "replace pretence with openness",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "09-humility",
+            "label": "Acknowledge what you lack",
+            "text": "Accept [[ignorance]] and [[vulnerability]] instead of pretending to understand everything already.",
+            "tone": "blue"
+          },
+          {
+            "id": "09-guidance",
+            "label": "Learn from others",
+            "text": "Cooking classes, guided market visits and local [[expertise]] explain practices a visitor cannot simply intuit.",
+            "tone": "blue"
+          },
+          {
+            "id": "09-hospitality",
+            "label": "Receive unexpected kindness",
+            "text": "Experiences in Thailand, Kyoto and Paris show how openness can invite [[hospitality]] and personal connection.",
+            "tone": "sage"
+          }
+        ]
+      },
+      {
+        "id": "09-freedom",
+        "title": "Freedom from fitting in still allows respect",
+        "relation": "clarify the freedom involved",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "09-anonymity",
+            "label": "Release social anxiety",
+            "text": "Travel's [[anonymity]] frees visitors to look unfamiliar, ask directions and stop worrying about appearances.",
+            "tone": "sage"
+          },
+          {
+            "id": "09-respect",
+            "label": "Keep cultural consideration",
+            "text": "This freedom still requires respecting local [[customs]], including religious and cultural expectations about dress.",
+            "tone": "sand"
+          }
+        ]
+      },
+      {
+        "id": "09-transfer",
+        "title": "Bring the tourist's attention into everyday life",
+        "relation": "extend the argument beyond travel",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "09-apathy",
+            "label": "Familiarity can postpone action",
+            "text": "Assuming nearby places will always be there produces [[apathy]] and repeated delay.",
+            "tone": "rose"
+          },
+          {
+            "id": "09-energy",
+            "label": "Visit, notice and participate",
+            "text": "[[Tourist energy]] restores curiosity and urgency: take the tour, enter the museum and explore the places close to home.",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Two Ways of Seeing a River",
+    "subtitle": "One river, two readings → professional knowledge → the question of gain and loss",
+    "stages": [
+      {
+        "id": "10-book",
+        "title": "The river is a book that different readers see differently",
+        "relation": "",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "10-passenger",
+            "label": "The passenger's eye",
+            "text": "The water is a [[dead language]]: its surface offers attractive pictures, while a faint dimple may seem insignificant.",
+            "tone": "sand"
+          },
+          {
+            "id": "10-pilot",
+            "label": "The trained pilot's eye",
+            "text": "The river tells a new story every day. The same dimple is a warning of a hidden [[wreck or rock]].",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "10-sunset",
+        "title": "The same sunset · beauty becomes information",
+        "relation": "compare the two readings",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "10-sunset-before",
+            "label": "BEFORE · colours and shapes",
+            "text": "Red water brightens into gold, a black log stands out, and a slanting mark [[sparkles]] on the surface.",
+            "tone": "sand"
+          },
+          {
+            "id": "10-sunset-after",
+            "label": "AFTER · weather and danger",
+            "text": "The sunset means wind; the log signals a [[rising river]]; the slanting mark reveals a dangerous [[reef]].",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "10-surface",
+        "title": "The same water · attractive patterns become warnings",
+        "relation": "extend the contrast",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "10-surface-before",
+            "label": "BEFORE · a scene of wonder",
+            "text": "Tumbling rings shine like an [[opal]], circles trace delicate patterns, and a trail glows silver in the forest's shadow.",
+            "tone": "sand"
+          },
+          {
+            "id": "10-surface-after",
+            "label": "AFTER · a changing channel",
+            "text": "The rings reveal a dissolving bar; the circles mean dangerous [[shoaling]]; the silver streak exposes a new [[snag]].",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "10-cost",
+        "title": "A change in attention changes the river's value",
+        "relation": "reveals what expertise displaces",
+        "kind": "contrast",
+        "nodes": [
+          {
+            "id": "10-rapture",
+            "label": "The enchanted view",
+            "text": "A leafy bough glows like flame above the forest. The novice takes in the whole scene with speechless [[rapture]].",
+            "tone": "sand"
+          },
+          {
+            "id": "10-usefulness",
+            "label": "The professional view",
+            "text": "The same dying tree is a night-time [[landmark]] that may soon disappear. Features now matter for safe navigation, and their beauty gradually goes unnoticed.",
+            "tone": "blue"
+          }
+        ]
+      },
+      {
+        "id": "10-reflection",
+        "title": "Beyond the river · an unresolved question",
+        "relation": "generalise through an analogy",
+        "kind": "sequence",
+        "nodes": [
+          {
+            "id": "10-doctor",
+            "label": "The doctor analogy",
+            "text": "A lovely flush may suggest [[disease]] to a doctor: professional interpretation can displace admiration.",
+            "tone": "rose"
+          },
+          {
+            "id": "10-question",
+            "label": "Weigh acquisition against loss",
+            "text": "Has learning a trade brought more [[gain or loss]]? Twain leaves the reader to consider both knowledge acquired and wonder diminished.",
+            "tone": "sage"
+          }
+        ]
+      }
+    ]
+  }
+]
