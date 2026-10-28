@@ -868,6 +868,7 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
 
     const notes = Array.from(article.querySelectorAll<HTMLDetailsElement>(".reading-analysis-note"));
     if (notes.length === 0) return;
+    const authorNote = article.querySelector<HTMLDetailsElement>(".reading-author-note");
     const anchors = new Map<HTMLDetailsElement, HTMLParagraphElement>();
     const paragraphs = Array.from(body.querySelectorAll<HTMLParagraphElement>("p:not(.reading-full-text-divider)"));
     for (const note of notes) {
@@ -972,10 +973,14 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       settleFrame = requestAnimationFrame(arrange);
     };
     notes.forEach((note) => note.addEventListener("toggle", handleToggle));
+    authorNote?.addEventListener("toggle", handleToggle);
     const resizeObserver = new ResizeObserver(arrange);
     // Observe card size changes only. Watching the article/body here would observe
     // the padding and connector size that arrange() itself writes, causing a loop.
     notes.forEach((note) => resizeObserver.observe(note));
+    if (authorNote) resizeObserver.observe(authorNote);
+    const authorObserver = new MutationObserver(arrange);
+    if (authorNote) authorObserver.observe(authorNote, { attributes: true, attributeFilter: ["open"] });
     window.addEventListener("resize", arrange);
     arrange();
 
@@ -984,7 +989,9 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       cancelAnimationFrame(settleFrame);
       window.removeEventListener("resize", arrange);
       notes.forEach((note) => note.removeEventListener("toggle", handleToggle));
+      authorNote?.removeEventListener("toggle", handleToggle);
       resizeObserver.disconnect();
+      authorObserver.disconnect();
       connector.remove();
       notes.forEach((note) => note.style.removeProperty("top"));
       body.style.removeProperty("padding-bottom");
