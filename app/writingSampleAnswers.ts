@@ -1,6 +1,13 @@
 export type WritingSampleAnswer = {
   introduction: string;
   anchors: readonly [string, string];
+  context: {
+    heading: string;
+    point: string;
+    explanation: string;
+    example: string;
+    link: string;
+  };
   body: readonly {
     point: string;
     explanation: string;
@@ -12,217 +19,287 @@ export type WritingSampleAnswer = {
   sampleSource: { label: string; url: string };
 };
 
-// Original model responses. Each essay is arranged as introduction, two PEEL
-// paragraphs, and conclusion. The sources document comparable public samples;
+// Original model responses. Each essay presents a considered context or other
+// view before developing two distinct, keyword-led PEEL arguments. The sources document comparable public samples;
 // their wording is not reproduced here.
 export const writingSampleAnswers: readonly WritingSampleAnswer[] = [
   {
-    introduction: "University students must choose how much time to spend beyond their major. Technical degrees need protected time for core competence: a qualification is worthless if practical skills are weak. Nevertheless, I favour a limited number of well-chosen electives, because they sharpen judgement and adaptability without displacing essential training.",
-    anchors: ["Protect core mastery", "Build broader judgement"],
+    introduction: "University students must decide whether to devote all their time to their main subject or explore other disciplines. Concentration is essential when a degree requires extensive practical training. Nevertheless, I favour a small number of carefully chosen electives: they can improve students’ judgement within their major and their adaptability beyond it without compromising core training.",
+    anchors: ["Judgement", "Adaptability"],
+    context: {
+      heading: "The case for exclusive focus",
+      point: "The case for exclusive focus is strongest when gaps in a student's training could harm others.",
+      explanation: "In medicine and engineering, knowledge builds sequentially, and a weakness in the basics can have consequences far beyond an examination. Required laboratories and placements also leave little flexibility.",
+      example: "A medical student, for example, cannot replace supervised clinical hours with courses chosen merely for personal interest.",
+      link: "Core requirements must therefore come first; an elective is worthwhile only if it fits around them."
+    },
     body: [
       {
-        point: "The case for exclusive focus is strongest in courses with extensive practical or professional requirements.",
-        explanation: "Medical and engineering students must develop knowledge systematically; superficial familiarity with many subjects cannot substitute for safe clinical decisions or sound structural calculations. Extra modules can also increase costs and leave too little time for practice.",
-        example: "A trainee surgeon who neglects anatomy to take several unrelated electives would be making a poor academic choice, however interesting those electives might be.",
-        link: "This is why breadth should be limited by the genuine demands of the qualification, rather than treated as an equal claim on every student's timetable."
+        point: "Within that boundary, carefully chosen electives can sharpen judgement in the major itself.",
+        explanation: "Another discipline can reveal questions that a standard course leaves unasked and encourage students to test apparently settled claims against different evidence.",
+        example: "Lincoln Steffens, for instance, found that reading literature, philosophy and political economy gave history a relevance he had not seen in class. When historical accounts then conflicted, he sought original documents instead of memorising one authority's version.",
+        link: "The broader reading led him deeper into his chosen subject, showing how breadth can strengthen rather than dilute specialist study."
       },
       {
-        point: "Even so, carefully chosen courses beyond a major can sharpen judgement and make graduates more adaptable.",
-        explanation: "Different disciplines ask different questions and test evidence in different ways. Encountering those methods helps students recognise assumptions within their own field and apply specialist knowledge to problems that cross disciplinary boundaries.",
-        example: "A student of economics who also studies history might question whether a policy that works in a model would be accepted by the communities it affects. Likewise, an engineer who takes a communication course may explain a design more clearly to the public.",
-        link: "The wider perspective therefore supports, rather than weakens, serious study of the main subject when the electives are selected with care. Universities can protect this balance by making a small number of well-chosen electives available without reducing required teaching hours."
+        point: "That habit of looking beyond one set of assumptions can also build adaptability when graduates apply their expertise.",
+        explanation: "Real problems rarely follow departmental boundaries: a sound technical solution may still need to respond to social needs or a changing brief.",
+        example: "A civil engineering graduate who has studied urban planning, for example, may adjust a proposed flood barrier so that it protects homes without cutting a neighbourhood off from the river.",
+        link: "The elective has not replaced engineering knowledge; it has helped the graduate use that knowledge more effectively in a new setting."
       }
     ],
-    conclusion: "In short, a degree should retain a rigorous centre, especially where professional competence is at stake. Yet allowing room for relevant study beyond that centre produces graduates who can think across boundaries and respond to unfamiliar challenges.",
-    readingConnection: "Steffens follows questions across history, literature and economics while learning to check competing sources. The essay draws on that link between depth and breadth.",
+    conclusion: "Students should not sacrifice mastery of their main subject, especially where professional safety is at stake. Once essential training is protected, however, selective breadth can help them question evidence within their field and apply what they know when real problems cross disciplinary lines.",
+    readingConnection: "Steffens specialised in history, but his earlier reading in literature, philosophy and political economy made its questions matter to him. Conflicting historical accounts then drove him to consult original documents. The essay uses that movement from breadth to deeper specialist inquiry.",
     sampleSource: { label: "How to do IELTS · university subjects sample", url: "https://howtodoielts.com/ielts-cambridge-18-university-students-and-main-subjects/" }
   },
   {
-    introduction: "Robots are increasingly performing routine work at home and on the job. I see this as a positive development chiefly because they remove dangerous and repetitive tasks, freeing people for work that needs judgement. That benefit can last, however, only if employers and governments support workers displaced by automation. My view therefore rests on better work and a fair transition.",
-    anchors: ["Remove hazardous work", "Share automation gains"],
+    introduction: "Robots now perform more tasks in homes and workplaces, from cleaning floors to moving industrial goods. Their spread can displace workers, but I consider it positive overall for two reasons: it can reduce human exposure to danger and give people more time for work that requires care and judgement.",
+    anchors: ["Safety", "Human time"],
+    context: {
+      heading: "The cost of displacement",
+      point: "The fear of lost jobs is legitimate.",
+      explanation: "A machine can replace a routine position faster than its former occupant can learn a new trade, and the owner may capture most of the savings.",
+      example: "A warehouse employee whose packing station is automated cannot simply become a robot technician the following week.",
+      link: "This is why retraining and temporary income support must accompany adoption; otherwise the gains are unevenly shared."
+    },
     body: [
       {
-        point: "Robots can improve daily life by taking over tasks that are dangerous, exhausting or needlessly repetitive.",
-        explanation: "A machine can operate in unsafe conditions or perform the same physical movement consistently, while a person can concentrate on supervision, problem solving and human contact. In homes, automation can also give people with limited mobility more independence.",
-        example: "For instance, a warehouse robot could move heavy goods while staff inspect deliveries and resolve mistakes; at home, a simple device could help an older resident clean without risking a fall.",
-        link: "These gains are substantial because the technology changes the quality of work as well as its speed."
+        point: "The clearest benefit of robots is greater safety.",
+        explanation: "Machines can lift heavy loads, enter contaminated spaces and repeat hazardous movements without suffering injuries. People still set standards and inspect results, but fewer need to stand where an accident is most likely.",
+        example: "In a chemical plant, a remotely controlled unit could check a leaking pipe while trained staff make decisions from a protected room.",
+        link: "Preventing even a small number of serious injuries is a stronger reason to use automation than simply increasing output."
       },
       {
-        point: "The principal danger is that workers may bear the costs of automation long before its benefits are shared.",
-        explanation: "A displaced employee cannot necessarily move straight into a new role, especially when training requires time and money. If firms keep all productivity gains, automation may deepen inequality even as output rises.",
-        example: "Suppose a factory replaces packing jobs with machines: a funded training programme and temporary income support would give employees a realistic route into maintenance or other local work.",
-        link: "Policies that share the gains, including well-designed taxation and retraining, make technological progress socially sustainable. The goal should be new opportunities for affected workers, not simply more machines producing goods with fewer employees."
+        point: "Automation can also return human time to tasks that need human attention.",
+        explanation: "Routine work takes hours without always using a person's ability to interpret a problem or respond to another person. If employers redesign jobs thoughtfully, staff can spend more of the day on those harder tasks.",
+        example: "A care worker whose trolley delivers supplies automatically could spend the saved minutes listening to residents; at home, a cleaning device could help someone with limited mobility remain independent.",
+        link: "The value lies in what people can do with the released time, so employers should measure improved service as well as reduced labour costs."
       }
     ],
-    conclusion: "Overall, robots' capacity to protect people and release their time makes this a positive trend. The judgement remains conditional: employers and governments should ensure that those displaced are supported rather than expected to absorb the transition alone. Measuring success by human well-being as well as output would keep that responsibility visible.",
+    conclusion: "Overall, robotics is a positive development when it makes work safer and frees people for tasks machines cannot perform well. Its benefits will be convincing only if workers who lose routine jobs receive a genuine route into new ones.",
     readingConnection: "The unit reading asks who gains when robots raise productivity and whether taxation can help workers through the transition. The essay carries that trade-off into the answer.",
     sampleSource: { label: "How to do IELTS · robots sample", url: "https://howtodoielts.com/ielts-writing-task-2-sample-answer-essay-robots-home/" }
   },
   {
-    introduction: "Residential nursing care can be too expensive for many older people and their relatives. The government should guarantee necessary care regardless of family income, since medical need must not become a lottery of access. Relatives should contribute companionship and advocacy, but should not be compelled to pay the full bill. These distinct responsibilities provide both security and personal connection.",
-    anchors: ["Guarantee essential care", "Keep family ties"],
+    introduction: "In Britain, some older people live in residential homes where professional nurses care for them. Although families may wish to help, I believe the government should pay for necessary nursing care. Public funding protects equal access and prevents a medical crisis from becoming a financial crisis for relatives.",
+    anchors: ["Equal access", "Financial protection"],
+    context: {
+      heading: "Why family payment appeals",
+      point: "The argument for family payment is understandable.",
+      explanation: "Relatives often know the resident best and may feel a duty to give something back after years of care. Some families can also afford to contribute.",
+      example: "An adult child might willingly pay for a larger room or extra outings for a parent.",
+      link: "Such voluntary help is welcome, but it cannot form the basis of a system that must serve older people with very different family circumstances."
+    },
     body: [
       {
-        point: "The state should provide a reliable minimum of residential care for those who need it.",
-        explanation: "Nursing is a specialised service, and a sudden illness can create bills that even a prudent family could not reasonably have saved for. Older citizens have also contributed to society through work, taxation and unpaid care; they should not lose access to treatment because their children happen to earn less.",
-        example: "If two residents have the same medical needs but one has wealthy adult children and the other has none, the quality of their basic nursing care should not depend on that accident of family circumstance.",
-        link: "Public funding therefore protects equal access to an essential service while allowing fees for optional extras to be assessed separately."
+        point: "Government payment is needed to secure equal access.",
+        explanation: "Nursing is a specialist service required because of a person's health, not a luxury chosen by their children. A resident with no relatives should receive the same essential care as one from a prosperous family.",
+        example: "If two people require daily help with medication and bathing, it would be unjust for one to receive less because her son earns little.",
+        link: "Funding basic care collectively makes need, rather than a relative's income, the deciding factor."
       },
       {
-        point: "Relatives nonetheless have an important role that cannot be measured only in money.",
-        explanation: "They know an older person's preferences, can check whether a care home listens to them and can maintain relationships that professional staff cannot replace. Making relatives legally responsible for the full bill, however, risks hardship and may overlook estrangement or the older person's own wishes.",
-        example: "A daughter who visits her father each week and helps him decide how to spend his time may support his independence more meaningfully than one who pays a fee but never asks what he wants.",
-        link: "Family participation should therefore complement publicly guaranteed care, with voluntary financial help available where circumstances permit."
+        point: "Public funding also provides financial protection to families.",
+        explanation: "The need for residential nursing can arise suddenly and continue for years; its cost is difficult to predict or save for. Requiring adult children to cover the whole bill could force them to sacrifice their own housing or their children's education.",
+        example: "A daughter may visit her father every week and advocate for his wishes while lacking the income to pay a nurse's salary.",
+        link: "The state should carry the essential bill, leaving relatives free to offer companionship and optional support without risking their own security."
       }
     ],
-    conclusion: "The government should carry primary responsibility for necessary residential nursing, financed collectively and assessed according to need. Families can offer companionship, advocacy and optional support, but an older person's security should never depend entirely on their relatives' finances.",
+    conclusion: "The government should therefore pay for necessary residential nursing in Britain. Families remain important as visitors, advocates and voluntary contributors, but professional care should be available on equal terms without exposing them to unpredictable debts.",
     readingConnection: "Roommates presents an older family member with agency and a relationship of mutual care. The essay preserves that sense of independence while addressing who pays for professional nursing.",
     sampleSource: { label: "Paramount IELTS · elderly care sample", url: "https://www.paramountielts.com/ielts-writing-task-2-who-should-pay-for-elderly-care/" }
   },
   {
-    introduction: "First impressions are unavoidable, but treating them as final judgements of character is usually a mistake. Quick verdicts often mistake stereotypes for evidence, while genuine trust is better grounded in repeated conduct. A rapid assessment may be necessary for immediate safety, but it should remain provisional in ordinary relationships.",
-    anchors: ["Resist stereotypes", "Trust repeated conduct"],
+    introduction: "People often decide within minutes whether they like a new acquaintance. Such impressions may help in an urgent situation, yet I regard quick judgements of character as mostly harmful. They can turn stereotypes into verdicts, whereas a reliable opinion requires evidence from a person's behaviour over time.",
+    anchors: ["Fairness", "Reliable evidence"],
+    context: {
+      heading: "The appeal of first impressions",
+      point: "A quick impression can serve a limited purpose.",
+      explanation: "When someone behaves aggressively, caution is reasonable before there is time for a fuller assessment. First meetings also give clues about how a person chooses to present themselves.",
+      example: "A passenger may avoid sharing a taxi with someone who repeatedly ignores a clear refusal.",
+      link: "But a decision about immediate safety differs from deciding whether a stranger is kind, honest or worth knowing."
+    },
     body: [
       {
-        point: "An instant assessment can reveal more about the observer's expectations than about the person observed.",
-        explanation: "Dress, accent and manner may reflect culture, circumstances or simple nervousness rather than honesty or kindness. Although a rapid response can be sensible when there is an immediate safety concern, everyday social judgements rarely have that urgency.",
-        example: "A quiet new colleague may be labelled unfriendly at an introduction, when in fact she is concentrating on understanding a second language and later proves exceptionally helpful.",
-        link: "Allowing such an impression to harden into a fixed opinion risks unfair treatment from the start. It can also create a self-fulfilling pattern: the person who feels excluded may become more reserved, seeming to confirm an inaccurate initial assessment."
+        point: "Quick judgements can undermine fairness.",
+        explanation: "An accent, a plain coat or a hesitant greeting says little about someone's moral character. Yet observers often treat familiar social signals as evidence, rewarding people who resemble themselves and excluding those who do not.",
+        example: "A new colleague who pauses before speaking may be called unfriendly when she is simply finding the right words in a second language.",
+        link: "Keeping the first impression provisional gives that colleague a fair chance to be known."
       },
       {
-        point: "Reliable judgements of character need evidence gathered across different situations.",
-        explanation: "A person's choices under pressure, willingness to keep promises and treatment of others reveal patterns that a short meeting cannot. Taking time to revise a judgement is also a sign of discernment, not naivety.",
-        example: "Someone who speaks confidently at an interview may still fail to support a teammate, whereas an awkward applicant may consistently share credit and meet deadlines once employed.",
-        link: "Repeated behaviour gives a much stronger basis for deciding whom to like or trust than an attractive or uncomfortable first encounter. This approach still permits caution; it simply asks us to separate what we have observed from what we have inferred."
+        point: "Reliable evidence of character emerges through repeated conduct.",
+        explanation: "How a person keeps promises, shares credit and responds when something goes wrong reveals habits that a polished introduction cannot show. Revising an early opinion as new evidence appears is sensible rather than naive.",
+        example: "An impressive interviewee may take credit for a team's work, while a nervous applicant may quietly help others and meet every deadline.",
+        link: "Waiting for a pattern of behaviour leads to sounder choices about trust and friendship than treating one encounter as a final test."
       }
     ],
-    conclusion: "First impressions are useful as tentative observations, particularly when personal safety is at stake. In ordinary relationships, however, it is better to keep them provisional and let subsequent conduct, rather than appearances, determine a person's reputation.",
+    conclusion: "A first impression can warn us when immediate caution is needed. In ordinary relationships, however, quick judgements are more likely to be unfair and inaccurate; character should be assessed through what people do repeatedly.",
     readingConnection: "Never Trust Appearances shows how a visitor constructs a stereotype from clothes and manner. The essay applies that warning to ordinary encounters while allowing for genuine safety concerns.",
     sampleSource: { label: "Simply IELTS · first impressions sample", url: "https://simplyielts.com/first-impressions-of-character-cambridge-ielts-18-writing-task-2/" }
   },
   {
-    introduction: "Some people prefer friends who agree with them, whereas others welcome friends who challenge them. Shared values can make friendship emotionally secure, so the appeal of agreement is understandable. Yet I prefer friends who sometimes disagree: respectful challenge can improve decisions and strengthen trust. Its value lies in how differences are expressed, not in constant opposition.",
-    anchors: ["Security through agreement", "Growth through disagreement"],
+    introduction: "Some people want friends who agree with them, while others value friends who sometimes take another view. Agreement can make companionship comfortable, but I prefer the latter. Thoughtful disagreement can improve judgement and, when expressed with respect, build a more honest form of trust.",
+    anchors: ["Judgement", "Honest trust"],
+    context: {
+      heading: "Why agreement feels valuable",
+      point: "Friends who share opinions can provide ease and reassurance.",
+      explanation: "A person under stress may need sympathetic company rather than another argument, and common values often make it easier to understand each other's choices.",
+      example: "Two friends who both place family first may immediately understand why one cancels dinner to care for a parent.",
+      link: "This emotional security is real, but it does not require friends to approve of every decision."
+    },
     body: [
       {
-        point: "Friends who think alike can offer immediate understanding and emotional security.",
-        explanation: "Shared values reduce the need to explain every decision and can make time together relaxing, particularly when someone is facing stress elsewhere. Disagreement over fundamental principles can also be exhausting if it repeatedly becomes a personal attack.",
-        example: "Two friends who both value family time may understand why one declines an evening invitation to care for a relative, without demanding a lengthy defence.",
-        link: "Thus, common ground is a useful foundation for trust, even though it need not extend to every opinion."
+        point: "A friend who disagrees can improve judgement.",
+        explanation: "Someone who knows us well can see a weak assumption that we miss ourselves. Their questions force us to test a plan before its costs become difficult to reverse.",
+        example: "If I wanted to resign after one bad week at work, a friend who asked about my savings and future options would help me more than one who simply applauded.",
+        link: "The useful disagreement concerns a decision and its consequences, not the friend's desire to win an argument."
       },
       {
-        point: "Friends who sometimes disagree can offer a more valuable form of support: a candid alternative perspective.",
-        explanation: "A loyal friend need not endorse an unwise choice. When criticism is specific and delivered with care, it exposes blind spots while showing enough respect to take the other person's decisions seriously.",
-        example: "If I planned to leave a secure job after one difficult week, a friend who asked about my savings and longer-term goals would help me more than one who simply praised the impulse.",
-        link: "Constructive disagreement therefore combines loyalty with judgement and can deepen, rather than threaten, the relationship. The key is that the friend challenges an action or assumption without treating a difference of opinion as a reason to withdraw affection."
+        point: "Respectful disagreement can also create honest trust.",
+        explanation: "If friends know that they may differ without being rejected, they need not pretend to share every belief. A candid response becomes more credible because approval is no longer automatic.",
+        example: "A friend who says she enjoyed my presentation but found one claim unconvincing offers praise I can believe and criticism I can use.",
+        link: "Provided both people listen and avoid personal attacks, disagreement makes room for honesty within the relationship."
       }
     ],
-    conclusion: "Friendships need a basis of mutual respect, and shared beliefs often supply it. Nevertheless, I would choose friends who can disagree thoughtfully: their honesty helps both people grow while preserving the trust that makes the disagreement possible. Such friendships also make room for personal change, because neither person must defend every view they have ever held.",
+    conclusion: "Shared opinions can make a friendship comfortable, and that explains their appeal. I would nevertheless choose friends who can disagree kindly, since they help me think better and make our trust depend on honesty rather than constant agreement.",
     readingConnection: "Courage depicts the difficulty and value of speaking honestly when convention favours silence. The essay translates that idea into the context of friendship.",
     sampleSource: { label: "Simply IELTS · friendship sample", url: "https://simplyielts.com/friends-with-the-same-opinions-cambridge-ielts-14-writing-task-2/" }
   },
   {
-    introduction: "The prediction that nobody will buy printed books or newspapers because all reading will be free online is too absolute. I disagree on two grounds: free online access cannot finance every valuable publication, and print still serves purposes that screens do not replace. Digital reading will grow, but neither publishing costs nor readers' varied habits support the word 'nobody'.",
-    anchors: ["Fund quality writing", "Preserve print choices"],
+    introduction: "It has been predicted that free online reading will end the sale of printed books and newspapers. I disagree with this absolute claim. Digital access will certainly grow, but quality publishing still needs funding, and physical editions continue to meet needs that a screen does not.",
+    anchors: ["Funding", "Physical use"],
+    context: {
+      heading: "Why digital reading will grow",
+      point: "The attraction of online reading is undeniable.",
+      explanation: "A phone holds many titles, allows instant search and delivers breaking news without a trip to a shop. Open websites also give readers access to material they might never encounter in print.",
+      example: "A commuter can check several newspapers on the way to work without carrying any of them.",
+      link: "These advantages explain falling demand for some printed products, but not the prediction that every printed sale will disappear."
+    },
     body: [
       {
-        point: "The assumption that everything worth reading will be online for free overlooks how publishing is funded.",
-        explanation: "Investigative reporting, careful editing and specialist books require sustained labour. Advertising or subscriptions may pay for some of that work, but neither model makes every work universally free. Authors and publishers also have reasons to sell reliable editions directly.",
-        example: "A student might read breaking headlines on an open website yet pay for a thoroughly edited textbook or a newspaper investigation available only to subscribers.",
-        link: "As long as readers value dependable work, some will continue to pay for publications regardless of the device on which they read them."
+        point: "The prediction overlooks the funding required for valuable writing.",
+        explanation: "Research, reporting and editing take time. Advertising supports some websites, yet it cannot reliably pay for every specialist book or investigation; subscriptions, institutional purchases and sales remain important.",
+        example: "A student may read free headlines each morning but still buy a carefully edited textbook whose production required expert authors and fact-checking.",
+        link: "If the work itself is not always free, the claim that all desirable reading will be available online without payment cannot hold."
       },
       {
-        point: "Printed materials also offer an experience that many readers will continue to choose deliberately.",
-        explanation: "A physical page can be annotated, shared, kept for years and read without a battery or notifications. These advantages may matter particularly in education, libraries and long-form leisure reading, even if digital formats remain more convenient for search and travel.",
-        example: "A parent may buy a picture book to read with a child, while the same household uses a phone for the latest transport updates; the two habits answer different needs.",
-        link: "A shift toward digital reading therefore predicts a smaller print market, not the disappearance of all print purchases. The claim that every reader will make the same choice ignores how differently people read for news, study and pleasure."
+        point: "Printed publications also retain a distinct physical use.",
+        explanation: "They can be lent, annotated, displayed and read without a battery or notifications. Readers may prefer those properties for long study sessions or for sharing a story aloud, even while using screens for quick information.",
+        example: "A parent might buy a picture book to turn pages with a child while checking the day's train times on a phone.",
+        link: "These different purposes make a smaller print market plausible, but they make a world with no print buyers implausible."
       }
     ],
-    conclusion: "Online reading will continue to expand, and some printed newspapers may struggle. Still, the claim that no one will buy print and all desirable reading will be free ignores both the economics of quality writing and the enduring uses of a physical book.",
+    conclusion: "Online reading is likely to take a larger share of people's attention. Nevertheless, I strongly disagree that nobody will purchase print: good writing has costs, and a physical book or newspaper can serve readers in ways a free webpage cannot.",
     readingConnection: "Franklin's account of seeking out books and learning through sustained reading informs the distinction between access to text and the value readers attach to particular editions.",
     sampleSource: { label: "How to do IELTS · print and online sample", url: "https://howtodoielts.com/ielts-writing-task-2-sample-answer-essay-ielts-cambridge-15-printed-newspapers-reading-online/" }
   },
   {
-    introduction: "The movement from the countryside to cities is reshaping many countries. I regard it as broadly positive because cities can expand access to jobs and essential services. The outcome becomes positive in practice only when housing and transport keep pace and rural services remain viable. Opportunity and planning, rather than urban population growth alone, are therefore the two tests.",
-    anchors: ["Expand urban opportunity", "Plan liveable growth"],
+    introduction: "As people leave rural areas for cities, the countryside loses residents and urban populations grow. This can strain both places, yet I consider the trend positive overall when managed well. It can widen employment choices and give more people access to specialist services; governments must still plan for those who move and those who remain.",
+    anchors: ["Employment", "Specialist services"],
+    context: {
+      heading: "The pressure on both places",
+      point: "Migration can impose real costs on cities and villages.",
+      explanation: "Rapid arrivals may outpace housing and transport, while a village with fewer families can struggle to keep its school or bus route.",
+      example: "A worker may secure a higher-paid city job yet spend hours commuting from an overcrowded district, while her parents lose their local clinic.",
+      link: "These problems call for planning, not a presumption that people should be denied the chance to move."
+    },
     body: [
       {
-        point: "For many rural residents, a city offers opportunities unavailable in a small local economy.",
-        explanation: "A dense labour market brings employers, training institutions and specialist services together. Young people can change careers without leaving their region entirely, while hospitals and colleges can serve larger populations.",
-        example: "A graduate from a farming village might find an apprenticeship in a city hospital and later send income home or return with skills that support a regional clinic.",
-        link: "Such mobility can improve household prospects and national productivity, provided rural residents remain free to choose where they live."
+        point: "The strongest benefit of migration is broader employment.",
+        explanation: "A small rural economy may offer only a few occupations, whereas a city brings employers, training institutions and customers into one area. Workers can find a position that matches their skills and change direction if a local industry declines.",
+        example: "A young person from a farming village might train as an electrician in the city, earn a stable income and later take contracts in nearby towns.",
+        link: "That mobility can improve a household's prospects without making rural work less valuable."
       },
       {
-        point: "Urban growth becomes harmful when the population expands faster than public services.",
-        explanation: "Crowded housing, long commutes and strained water systems can erase the benefits of higher wages. At the same time, a shrinking countryside may lose shops and schools, making life harder for those who stay.",
-        example: "If a city adds new jobs but builds neither affordable flats nor reliable buses, workers may spend much of their extra income and time travelling from distant suburbs.",
-        link: "Planning compact housing and transport, alongside maintaining essential rural services, is therefore part of making migration a genuine improvement. Governments can also connect smaller towns to urban employment through regional transport and digital infrastructure, reducing the pressure to move."
+        point: "Cities can also improve access to specialist services.",
+        explanation: "Hospitals, colleges and technical programmes need enough users and staff to operate well. A city can bring those resources within reach of people who previously faced long journeys for treatment or study.",
+        example: "A student who moves for nursing training may gain access to a teaching hospital and then serve patients in a regional clinic.",
+        link: "To make this benefit durable, governments should add housing and transport capacity while retaining essential services for rural residents."
       }
     ],
-    conclusion: "Rural-to-urban migration is broadly beneficial when people gain realistic access to work, education and care. Its success should be judged by whether cities remain liveable and rural areas remain viable, rather than by the number of new urban residents alone. A successful policy would also give those who remain in the countryside access to decent services and economic choices.",
+    conclusion: "The movement to cities is positive overall because it can expand work and access to specialised care and education. Its gains depend on practical planning: cities must absorb newcomers, and the countryside must remain a viable place for those who stay.",
     readingConnection: "Jared Diamond's reading treats city life as a set of trade-offs involving opportunity, services and social ties. The essay follows that balanced approach.",
     sampleSource: { label: "How to do IELTS · rural migration sample", url: "https://howtodoielts.com/ielts-cambridge-18-rural-people-moving-to-cities/" }
   },
   {
-    introduction: "Supermarkets increasingly sell food produced around the world. On balance, I regard this as positive: global trade broadens consumer choice and can raise producer income. Yet those gains are worthwhile only if retailers pay fairly, source responsibly and recognise the communities behind what they sell. My judgement depends on who benefits and what the supply chain costs.",
-    anchors: ["Widen food access", "Pay producers fairly"],
+    introduction: "Supermarkets now stock foods grown and made in many parts of the world. Transport and packaging create legitimate concerns, but I regard this as a positive development overall. It offers households greater choice and gives producers access to customers beyond their local markets, provided retailers buy responsibly.",
+    anchors: ["Choice", "Producer income"],
+    context: {
+      heading: "The environmental objection",
+      point: "The environmental criticism of imported food deserves attention.",
+      explanation: "Refrigeration, air freight and disposable packaging can increase emissions, and a distant supply chain may be harder for shoppers to examine.",
+      example: "Flying delicate fruit across the world for a short selling season could consume resources out of proportion to its value.",
+      link: "Supermarkets should therefore favour transparent sourcing and efficient transport, but these costs do not make every imported product harmful."
+    },
     body: [
       {
-        point: "International sourcing can enrich diets and connect producers with customers far beyond their home region.",
-        explanation: "Imported foods may make varied ingredients available throughout the year, allowing families to try unfamiliar dishes and communities to maintain culinary traditions after migration. A stable export market can also provide income where domestic demand is limited.",
-        example: "A family preparing a traditional meal abroad may find its essential spices in an ordinary supermarket, while a small farming cooperative can potentially reach buyers in several countries.",
-        link: "These are meaningful benefits because they concern both everyday choice and the livelihoods associated with that choice."
+        point: "International shelves give households more meaningful choice.",
+        explanation: "They let families cook dishes from their own traditions after migration and allow other shoppers to encounter ingredients beyond the local harvest. The point is access to foods people actually use, not novelty for its own sake.",
+        example: "A family living abroad may find the lentils and spices needed for a familiar meal in an ordinary supermarket rather than travelling across a city.",
+        link: "Such availability makes daily life more flexible and can help culinary traditions continue across borders."
       },
       {
-        point: "However, international availability is beneficial only if its environmental and social costs are taken seriously.",
-        explanation: "Transport, packaging and cold storage can consume resources, and powerful retailers may leave growers with little of the final price. Marketing can also present a cuisine as a novelty while erasing the communities that developed it.",
-        example: "A supermarket could disclose where a product comes from, pay suppliers transparently and favour seasonal shipments where possible, instead of advertising an imported dish as a newly discovered trend.",
-        link: "Responsible purchasing and honest attribution allow global food trade to broaden choice without treating producers or cultures as disposable. Consumers may not be able to verify every supply chain, so supermarkets must make the relevant information easy to find and act on."
+        point: "Wider markets can also increase producer income.",
+        explanation: "A farmer or cooperative may find buyers when local demand is too small or prices are unstable. Yet this benefit depends on contracts that leave growers a reasonable share rather than allowing powerful retailers to capture all the value.",
+        example: "A coffee cooperative might use a long-term supermarket agreement to pay its members predictably and invest in processing equipment.",
+        link: "Fair contracts and clear information about origin turn an international supply chain into an opportunity for producers as well as shoppers."
       }
     ],
-    conclusion: "Selling food from many regions is positive overall, but variety alone is a thin measure of success. Retailers and consumers should also consider fair returns, accurate cultural credit and the environmental cost of bringing that food to the shelf.",
+    conclusion: "Selling food from around the world is positive when it expands useful choice and pays producers fairly. The environmental costs require scrutiny, so supermarkets should make sourcing and transport decisions visible rather than treating variety alone as proof of success.",
     readingConnection: "Rachel Kuo asks readers to distinguish cultural appreciation from exoticising or exploiting the people behind a cuisine. The essay applies that concern to global supermarket trade.",
     sampleSource: { label: "IELTS Charlie · global food model essays", url: "https://ieltscharlie.com/ielts-model-essay-food-all-over-world/" }
   },
   {
-    introduction: "International tourism can create jobs, but it can also burden residents and fragile environments. I believe its advantages can outweigh its disadvantages because tourism can sustain local livelihoods and public amenities. Yet those gains depend on limits that protect residents and nature from overcrowding. Without local benefit and effective regulation, the same visitor numbers could become a liability.",
-    anchors: ["Keep gains local", "Protect residents and nature"],
+    introduction: "International tourism brings visitors and revenue to many places, yet it can crowd neighbourhoods and damage fragile landscapes. I believe its advantages generally outweigh its disadvantages when destinations govern it carefully. The strongest gains are local livelihoods and resources for conservation, neither of which should be purchased at residents' expense.",
+    anchors: ["Local livelihoods", "Conservation resources"],
+    context: {
+      heading: "Costs residents can feel",
+      point: "Tourism has costs that visitor spending alone can conceal.",
+      explanation: "Short-term rentals can reduce local housing, crowds can overwhelm buses, and unmanaged visits can wear down beaches or historic streets.",
+      example: "A resident priced out of her neighbourhood gains little from a record number of hotel bookings.",
+      link: "Destinations should set limits on rentals and visitor numbers before assessing whether the industry's gains outweigh those losses."
+    },
     body: [
       {
-        point: "Tourism can create a diverse source of income for places with few other industries.",
-        explanation: "Visitors spend money on accommodation, transport, food and guides, which can support small businesses as well as public revenue. This can help maintain historic sites and paths that residents themselves also use.",
-        example: "A town near a national park might employ local guides and use entrance fees to repair trails, while nearby cafés and guesthouses purchase goods from surrounding farms.",
-        link: "When the economic gains circulate locally, tourism can strengthen rather than merely occupy a destination."
+        point: "Tourism can sustain local livelihoods.",
+        explanation: "Visitors need accommodation, meals, transport and guides, so spending can reach businesses beyond a single hotel. When these firms hire residents and buy local goods, the value circulates through the community.",
+        example: "A town near a national park might employ local guides while guesthouses purchase food from nearby farms.",
+        link: "That income can be especially valuable where few other industries offer steady work, provided residents share in the returns."
       },
       {
-        point: "The drawbacks are serious where visitor demand displaces everyday life or damages the environment.",
-        explanation: "Short-term rentals can reduce housing supply, large crowds can strain water and waste systems, and sensitive habitats may be harmed. A tourist should also remember that a resident's ordinary day is not an attraction staged for visitors.",
-        example: "A coastal city could restrict holiday lets in residential streets, cap access to a vulnerable beach and direct a visitor levy toward waste collection and local housing.",
-        link: "These measures do not remove every cost, but they make the industry's benefits more likely to exceed its harms. Their effectiveness should be reviewed with residents, whose experience of crowded streets and rising rents is as relevant as visitor spending figures."
+        point: "Visitor revenue can also provide conservation resources.",
+        explanation: "Maintaining trails, restoring historic buildings and collecting waste cost money. Entry fees and a modest visitor levy can fund this work without requiring residents alone to meet the bill.",
+        example: "A coastal reserve could limit daily entry and use ticket income to repair paths and protect nesting areas.",
+        link: "This makes tourism more defensible only if spending is transparent and visitor limits are enforced; otherwise the site itself may be damaged."
       }
     ],
-    conclusion: "Tourism's advantages can outweigh its disadvantages, but only where communities have a say in how it grows. Revenue, housing and environmental protection must be considered together; visitor numbers by themselves are a poor measure of success. A smaller flow of visitors who stay longer and support local businesses may be better than mass tourism that leaves little behind.",
+    conclusion: "I therefore judge international tourism's advantages to be greater, but only under local control. Jobs and conservation funding are substantial benefits; housing pressure and environmental harm can overturn that judgement if authorities ignore residents or abandon sensible limits.",
     readingConnection: "Mari Uyehara questions the demand to travel 'like a local' and reminds readers that residents have ordinary lives. The essay uses that perspective when weighing tourism's effects.",
     sampleSource: { label: "IELTS Mentor · international tourism sample", url: "https://www.ielts-mentor.com/index.php/writing-sample/writing-task-2/2065-ielts-writing-task-2-sample-925-international-tourism-has-brought-enormous-benefit-to-many-places" }
   },
   {
-    introduction: "Science and technology can explain how the world works, but they cannot exhaust what it feels like to live in it. Art offers two forms of understanding that measurements alone cannot supply: it communicates the felt experience of living through an event, and it invites reflection on the values behind people's choices. These strengths complement scientific explanation.",
-    anchors: ["Convey lived experience", "Explore moral choices"],
+    introduction: "Scientific research explains many mechanisms of life, yet people still turn to music, painting and literature. The arts can show what an experience feels like from within and let us consider the values at stake in a human choice. These insights are different from, and compatible with, scientific knowledge.",
+    anchors: ["Lived experience", "Moral insight"],
+    context: {
+      heading: "What science explains",
+      point: "Science offers explanations the arts cannot replace.",
+      explanation: "It can test a treatment, measure a river's current or establish how memory works. Technology can then apply those findings and distribute information widely.",
+      example: "A pilot needs a chart of a river's depth before steering a boat through a narrow channel.",
+      link: "Yet an accurate chart tells us little about what that same river means to someone who grew up beside it."
+    },
     body: [
       {
-        point: "Art can communicate the felt quality of an experience that scientific description measures from the outside.",
-        explanation: "Research may identify the physical effects of grief or map the colours of a river at sunset. A poem, painting or piece of music can place an audience inside one person's perception of that loss or scene, making its emotional contradictions intelligible.",
-        example: "A painting of a familiar river may show why it represents childhood to one observer, whereas a navigation chart tells a boat pilot where the current becomes dangerous. Both are informative, but they answer different questions.",
-        link: "Art therefore adds a first-person dimension that data, however accurate, cannot supply by itself."
+        point: "Art can reveal lived experience from the inside.",
+        explanation: "Research can describe the bodily effects of grief, but a poem can convey how an ordinary room feels altered after a death. Form, rhythm and image allow readers to recognise conflicting emotions that a measurement cannot itself express.",
+        example: "A painting of a familiar river may evoke a person's childhood, while a navigation chart records the current and the depth.",
+        link: "The artwork makes a private experience shareable without disputing the chart's practical accuracy."
       },
       {
-        point: "The arts also help people examine values rather than merely identify facts.",
-        explanation: "A novel can present conflicting motives without giving readers a simple correct answer; in following its characters, they must weigh loyalty, responsibility and regret. Technology may distribute such stories widely, but the ethical reflection comes from the imaginative work itself.",
-        example: "A play about a family deciding whether to leave home can make an audience feel the pull of security against belonging in a way that a table of migration figures cannot.",
-        link: "By opening several defensible perspectives, art develops empathy and judgement alongside the explanatory power of science. This does not make every artwork morally wise; it gives people a space in which to question their assumptions and compare possible responses."
+        point: "Art can also generate moral insight.",
+        explanation: "A story places readers among people with competing obligations and makes them follow the consequences of a decision. Scientific evidence may describe those consequences, but it cannot determine by itself what loyalty, fairness or belonging should mean to the people involved.",
+        example: "A play about a family leaving its home can make an audience weigh safety against attachment to a place, rather than seeing migration only as a statistic.",
+        link: "By inviting that judgement without supplying an easy verdict, art helps people think about how they ought to live."
       }
     ],
-    conclusion: "Science is indispensable for understanding mechanisms and testing claims. Art offers another kind of knowledge: it makes private experience shareable and gives us room to consider what the evidence means for the lives we choose to lead.",
+    conclusion: "Science remains essential for testing claims and solving practical problems. The arts reveal other dimensions of life: the texture of personal experience and the moral weight of choices. People continue to value artists because those questions cannot be settled by technical progress alone.",
     readingConnection: "Twain describes how a pilot's expert knowledge of a river can reveal danger while altering the beauty he once saw. The essay develops that distinction without suggesting scientific knowledge has no value.",
     sampleSource: { label: "IELTS Mentor · art and science sample", url: "https://www.ielts-mentor.com/writing-sample/writing-task-2/1490-ielts-writing-task-2-sample-465-what-can-arts-tell-us-about-life-that-science-cannot" }
   }

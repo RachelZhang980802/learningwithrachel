@@ -41,7 +41,7 @@ const brooksTerms: VocabularyNoteTerm[] = [
   { key: "register", pattern: "registers?", label: "register", pos: "n.", ipa: "/ˈredʒɪstər/", definition: "A particular range or level of feeling, thought, or expression.", zh: "（情感或思想的）层次；范围" }
 ];
 
-export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagraph, sectionHeadings = [], paragraphClassNames = [], paragraphTranslations = [] }: { paragraphs: readonly string[]; terms: readonly VocabularyNoteTerm[]; idPrefix: string; leadParagraph?: string; sectionHeadings?: readonly string[]; paragraphClassNames?: readonly (string | undefined)[]; paragraphTranslations?: readonly string[] }) {
+export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagraph, sectionHeadings = [], paragraphClassNames = [], paragraphTranslations = [], afterParagraph }: { paragraphs: readonly string[]; terms: readonly VocabularyNoteTerm[]; idPrefix: string; leadParagraph?: string; sectionHeadings?: readonly string[]; paragraphClassNames?: readonly (string | undefined)[]; paragraphTranslations?: readonly string[]; afterParagraph?: (index: number) => ReactNode }) {
   const termsByKey = Object.fromEntries(terms.map((term) => [term.key, term])) as Record<string, VocabularyNoteTerm>;
   const termPattern = new RegExp(terms.map((term) => `(?<${term.key}>\\b(?:${term.pattern})\\b)`).join("|"), "gi");
   const seenTerms = new Set<string>();
@@ -104,6 +104,7 @@ export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagra
     const translation = typeof paragraphIndex === "number" ? paragraphTranslations[paragraphIndex] : undefined;
     return <Fragment key={paragraphIndex}>
       <p className={className}>{nodes.map((node, index) => typeof node === "string" ? <Fragment key={index}>{node}</Fragment> : node)}</p>
+      {typeof paragraphIndex === "number" && afterParagraph?.(paragraphIndex)}
       {translation && <details className="supplementary-translation">
         <summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary>
         <p lang="zh-CN">{translation}</p>

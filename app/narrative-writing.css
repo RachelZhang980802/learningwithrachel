@@ -1033,3 +1033,60 @@
     margin: 0;
   }
 }
+
+/* Every supplementary story now uses the same three-column reading frame. */
+@media (min-width: 821px) {
+  .narrative-course .reading-detail-slide--with-test-notes > .reading-full-text,
+  .narrative-course .reading-detail-slide--with-test-notes.reading-detail-slide--with-analysis-notes > .reading-full-text {
+    display: grid;
+    grid-template-columns: clamp(155px, 19vw, 240px) minmax(0, 1fr) clamp(155px, 19vw, 240px);
+    grid-template-rows: auto auto auto;
+    column-gap: clamp(16px, 2.2vw, 32px);
+    align-items: start;
+    width: min(calc(100% - 40px), 1320px);
+    margin-inline: auto;
+  }
+  .narrative-course .reading-detail-slide--with-test-notes .reading-full-text-header {
+    grid-column: 2;
+    grid-row: 1;
+    min-width: 0;
+  }
+  .narrative-course .reading-detail-slide--with-test-notes .reading-test-notes {
+    grid-column: 1;
+    grid-row: 2;
+    position: static;
+    width: 100%;
+    height: auto;
+    max-height: none;
+    margin: 0;
+    overflow: visible;
+  }
+  .narrative-course .reading-detail-slide--with-test-notes .reading-full-text-body {
+    grid-column: 2;
+    grid-row: 2;
+    min-width: 0;
+    width: 100%;
+  }
+  .narrative-course .reading-detail-slide--with-test-notes > .reading-full-text > footer {
+    grid-column: 2;
+    grid-row: 3;
+  }
+  .narrative-course .reading-detail-slide--with-test-notes .reading-analysis-note,
+  .narrative-course .reading-detail-slide--with-test-notes.reading-detail-slide--with-analysis-notes .reading-analysis-note {
+    position: absolute;
+    right: 0;
+    left: auto;
+    width: clamp(155px, 19vw, 240px);
+    margin: 0;
+    float: none;
+    overflow-wrap: anywhere;
+  }
+}
+.narrative-course .reading-test-level {
+  display: block;
+  margin: 0 0 4px;
+  color: #88543b;
+  font: 700 9px/1.3 Futura, "Avenir Next", Arial, sans-serif;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}

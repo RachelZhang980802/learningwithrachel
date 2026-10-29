@@ -5007,6 +5007,13 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .inquire-publication-body .supplementary-translation summary::-webkit-details-marker{display:none}
 .inquire-publication-body .supplementary-translation summary:hover,.inquire-publication-body .supplementary-translation summary:focus-visible{background:rgba(139,94,72,.1);outline:2px solid rgba(139,94,72,.55);outline-offset:1px}
 .inquire-publication-body .supplementary-translation p{margin:0;padding:9px 12px 12px;border-left:2px solid #c19a73;background:rgba(255,250,240,.76);font:inherit;line-height:inherit}
+.inquire-publication-body .columbia-poem-note{max-width:680px;margin:-12px 0 25px}
+.inquire-publication-body .columbia-poem-note summary{display:grid;place-items:center;width:44px;height:44px;border-radius:3px;list-style:none;color:#8b5e48;font:27px/1 Georgia,serif;cursor:pointer}
+.inquire-publication-body .columbia-poem-note summary::-webkit-details-marker{display:none}
+.inquire-publication-body .columbia-poem-note summary:hover,.inquire-publication-body .columbia-poem-note summary:focus-visible{background:rgba(139,94,72,.1);outline:2px solid rgba(139,94,72,.55);outline-offset:1px}
+.inquire-publication-body .columbia-poem-note-content{margin:6px 0 12px;padding:20px 24px;border-left:3px solid #a75b43;background:rgba(255,250,240,.88)}
+.inquire-publication-body .columbia-poem-note-content h3{margin:0 0 15px;color:#744737;font:600 23px/1.2 Georgia,serif}
+.inquire-publication.is-commencement-style .inquire-publication-body .columbia-poem-note-content p{max-width:none;margin:0;white-space:pre-line;hyphens:none;font:17px/1.8 Georgia,serif}
 @media(max-width:650px){
   .inquire-prompts.is-reading-publication{margin:0 -16px}
   .inquire-publication{padding:38px 26px 52px;background:linear-gradient(90deg,rgba(250,248,241,.58),rgba(250,248,241,.91) 22%,rgba(250,248,241,.96))}
@@ -5878,6 +5885,8 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 /* The two argument keywords share their highlight colors with the matching PEEL Point sentences. */
 .writing-sample .argument-1 { --argument-ink: #8f3e33; --argument-bg: #f7e4dd; }
 .writing-sample .argument-2 { --argument-ink: #1b625d; --argument-bg: #e0f0eb; }
+.writing-sample .writing-sample-context { --argument-ink: #5a635e; --argument-bg: #eceee9; }
+.writing-sample-context h3 { color: #4e5b52; }
 .writing-sample-anchors > span.argument-1, .writing-sample-anchors > span.argument-2 { border-top-color: var(--argument-ink); background: var(--argument-bg); color: var(--argument-ink); font-weight: 600; }
 .writing-sample-anchors > span.argument-1 b, .writing-sample-anchors > span.argument-2 b { color: inherit; }
 .writing-sample-paragraph.argument-1 h3, .writing-sample-paragraph.argument-2 h3 { color: var(--argument-ink); }

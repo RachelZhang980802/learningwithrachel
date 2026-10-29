@@ -25,7 +25,9 @@
 
 /* Reading atlas: branching, comparison and sequence share a legible figure system. */
 body.worksheet-mode .toolbar,body.worksheet-mode .outline,body.worksheet-mode #scene,body.worksheet-mode .minimap-wrap,body.worksheet-mode .canvas-help,body.worksheet-mode .canvas-label{display:none!important}
-body.worksheet-mode #viewport{overflow:auto;touch-action:auto;cursor:auto;background:#eaece7}
+body.worksheet-mode{height:auto;min-height:0;display:block;overflow:visible}
+body.worksheet-mode .workspace{display:block;flex:none;min-height:0}
+body.worksheet-mode #viewport{display:flow-root;overflow:visible;min-height:0;touch-action:auto;cursor:auto;background:#eaece7}
 #worksheet{width:min(1190px,calc(100% - 48px));margin:30px auto 60px}
 .reading-atlas{--atlas-ink:#243d3a;--atlas-muted:#526662;--atlas-rule:#b8c5bf;--atlas-paper:#fffefa;color:var(--atlas-ink);background:var(--atlas-paper);padding:38px clamp(20px,3.2vw,46px) 24px;border:1px solid #c9d1c9;box-shadow:0 9px 28px #1e3a3010}
 .atlas-header{margin-bottom:32px;padding-bottom:25px;border-bottom:2px solid #315f56}
@@ -66,3 +68,6 @@ body.worksheet-mode #viewport{overflow:auto;touch-action:auto;cursor:auto;backgr
 @media(max-width:950px){.atlas-nodes{gap:23px}.atlas-node{padding:13px 12px}.atlas-node p{font-size:16px}.atlas-stage{padding:17px 14px}.atlas-stage-kind{display:none}}
 @media(max-width:700px){#worksheet{width:calc(100% - 24px);margin:14px auto 32px}.reading-atlas{padding:24px 16px 20px}.atlas-meta{font-size:9px;letter-spacing:.11em}.atlas-meta span:last-child{display:none}.atlas-subtitle{font-size:17px}.atlas-header{margin-bottom:24px}.atlas-stage-heading h3{font-size:21px}.atlas-stage{padding:16px 12px}.atlas-nodes{grid-template-columns:1fr;gap:29px}.atlas-nodes-parallel,.atlas-nodes-contrast{padding:0 0 0 24px;gap:12px}.atlas-node{padding:15px}.atlas-node p{font-size:17px}.atlas-gap{min-height:36px}.atlas-stage-index{width:27px;height:27px}.atlas-bridge{min-height:62px}.atlas-footer{font-size:10px}.atlas-footer span:last-child{max-width:45%;text-align:right}}
 @media(prefers-reduced-motion:reduce){.atlas-gap{transition:none}}
+.statusbar{justify-content:flex-end}
+.statusbar>span:last-child{display:block}
+.screen-reader-only{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}

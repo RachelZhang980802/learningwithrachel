@@ -942,7 +942,7 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
     const article = articles[selectedCard];
     const card = writingTaskCards[selectedCard];
     const answer = writingSampleAnswers[selectedCard];
-    const wordCount = [answer.introduction, ...answer.body.flatMap((paragraph) => [paragraph.point, paragraph.explanation, paragraph.example, paragraph.link]), answer.conclusion].join(" ").trim().split(/\s+/).length;
+    const wordCount = [answer.introduction, answer.context.point, answer.context.explanation, answer.context.example, answer.context.link, ...answer.body.flatMap((paragraph) => [paragraph.point, paragraph.explanation, paragraph.example, paragraph.link]), answer.conclusion].join(" ").trim().split(/\s+/).length;
     return (
       <main className="simple-page writing-task-page">
         <Header view={view} onNavigate={navigateFromPage} onHome={onHome} />
@@ -961,13 +961,22 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
               </div>
               <p className="writing-sample-intro">{answer.introduction}</p>
               <div className="writing-sample-anchors" aria-label="Two argument keywords; each color matches the point sentence in its body paragraph">
-                <p>ARGUMENT KEYWORDS</p>
+                <p>ARGUMENT KEYWORDS · THE RESPONSE</p>
                 {answer.anchors.map((anchor, index) => <span className={`argument-${index + 1}`} key={anchor}><b>0{index + 1}</b>{anchor}</span>)}
               </div>
+              <section className="writing-sample-paragraph writing-sample-context" aria-labelledby="writing-sample-context-heading">
+                <h3 id="writing-sample-context-heading"><span>BODY 01 · COUNTERARGUMENT</span>{answer.context.heading}</h3>
+                <p>
+                  <span className="writing-peel-step writing-peel-point"><b>Point</b>{answer.context.point}{" "}</span>
+                  <span className="writing-peel-step"><b>Explanation</b>{answer.context.explanation} </span>
+                  <span className="writing-peel-step"><b>Example</b>{answer.context.example} </span>
+                  <span className="writing-peel-step"><b>Link</b>{answer.context.link}</span>
+                </p>
+              </section>
               <p className="writing-peel-legend"><b>PEEL</b><span>Point · Explanation · Example · Link</span></p>
               {answer.body.map((paragraph, index) => (
                 <section className={`writing-sample-paragraph argument-${index + 1}`} key={answer.anchors[index]} aria-labelledby={`writing-sample-paragraph-${index}`}>
-                  <h3 id={`writing-sample-paragraph-${index}`}><span>BODY 0{index + 1}</span>{answer.anchors[index]}</h3>
+                  <h3 id={`writing-sample-paragraph-${index}`}><span>BODY 0{index + 2}</span>{answer.anchors[index]}</h3>
                   <p>
                     <span className="writing-peel-step writing-peel-point"><b>Point</b><mark>{paragraph.point}</mark>{" "}</span>
                     <span className="writing-peel-step"><b>Explanation</b>{paragraph.explanation} </span>

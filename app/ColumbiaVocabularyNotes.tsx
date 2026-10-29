@@ -47,6 +47,31 @@ const terms: VocabularyNoteTerm[] = [
   { key: "come_for", pattern: "(?:come|comes|came)\\s+for", label: "come for", pos: "v. phr.", ipa: "/kʌm fɔːr/", definition: "To target or attack someone, or try to take something from them.", zh: "冲向；攻击；针对" }
 ];
 
+const firstTheyCame = [
+  "They came first for the Communists,",
+  "and I didn't speak up",
+  "because I wasn't a Communist.",
+  "Then they came for the Jews,",
+  "and I didn't speak up",
+  "because I wasn't a Jew.",
+  "Then they came for the trade unionists,",
+  "and I didn't speak up",
+  "because I wasn't a trade unionist.",
+  "Then they came for the Catholics,",
+  "and I didn't speak up",
+  "because I was a Protestant.",
+  "Then they came for me,",
+  "and by that time,",
+  "there was no one left to speak up.",
+].join("\n");
+
 export function ColumbiaVocabularyArticleBody() {
-  return <><VocabularyArticleBody paragraphs={columbiaArticle.paragraphs} terms={terms} idPrefix="columbia-note" leadParagraph={columbiaArticle.dek} paragraphTranslations={columbiaArticle.paragraphTranslations} /><ColumbiaExercises /></>;
+  const poemParagraphIndex = columbiaArticle.paragraphs.findIndex(paragraph => paragraph.includes("Martin Niemoller’s poem"));
+  return <>
+    <VocabularyArticleBody paragraphs={columbiaArticle.paragraphs} terms={terms} idPrefix="columbia-note" leadParagraph={columbiaArticle.dek} paragraphTranslations={columbiaArticle.paragraphTranslations} afterParagraph={index => index === poemParagraphIndex ? <details className="columbia-poem-note">
+      <summary aria-label="Read First They Came" title="Read First They Came"><span aria-hidden="true">©️</span></summary>
+      <div className="columbia-poem-note-content"><h3>First They Came</h3><p>{firstTheyCame}</p></div>
+    </details> : null} />
+    <ColumbiaExercises />
+  </>;
 }

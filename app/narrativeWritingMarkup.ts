@@ -17,19 +17,22 @@ import { unitTheoryMarkup } from "./unitTheoryMarkup";
 import { veryShortStoryParagraphs } from "./veryShortStoryText";
 import { narrativeAuthorBios } from "./narrativeAuthorBios";
 import { narrativeParagraphTranslations } from "./narrativeParagraphTranslations";
+import { narrativeBloomQuestions } from "./narrativeBloomQuestions";
 
 function escapeStoryText(value: string) {
   return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
 }
 
-type ReadingTestQuestion = { question: string; options: readonly string[]; answer: string | null };
+type ReadingTestQuestion = { question: string; options?: readonly string[]; answer: string | null; level?: string };
 
 function renderReadingTestNotes(title: string, questionsData: readonly ReadingTestQuestion[]) {
   const questions = questionsData.map((item, index) => {
     const number = String(index + 1).padStart(2, "0");
-    const options = item.options.map((option, optionIndex) => "<li><strong>" + String.fromCharCode(65 + optionIndex) + ".</strong> " + escapeStoryText(option) + "</li>").join("");
+    const options = item.options?.map((option, optionIndex) => "<li><strong>" + String.fromCharCode(65 + optionIndex) + ".</strong> " + escapeStoryText(option) + "</li>").join("") ?? "";
+    const optionList = options ? "<ol type=\"A\">" + options + "</ol>" : "";
+    const level = item.level ? "<span class=\"reading-test-level\">" + escapeStoryText(item.level) + "</span>" : "";
     const answer = item.answer ? "<details class=\"reading-test-answer\"><summary>Reveal answer</summary><p><strong>" + escapeStoryText(item.answer) + "</strong></p></details>" : "<p class=\"reading-test-answer-missing\">Answer key not supplied</p>";
-    return "<li><details class=\"reading-test-note\"><summary><span class=\"reading-test-number\">Q" + number + "</span><span>" + escapeStoryText(item.question) + "</span></summary><div class=\"reading-test-note-content\"><ol type=\"A\">" + options + "</ol>" + answer + "</div></details></li>";
+    return "<li><details class=\"reading-test-note\"><summary><span class=\"reading-test-number\">Q" + number + "</span><span>" + level + escapeStoryText(item.question) + "</span></summary><div class=\"reading-test-note-content\">" + optionList + answer + "</div></details></li>";
   }).join("");
   return "<aside class=\"reading-test-notes\" aria-label=\"" + escapeStoryText(title) + " reading questions\"><header class=\"reading-test-notes-heading\"><p>TEST NOTES</p><h2>Check your reading</h2><span>" + questionsData.length + " questions</span></header><ol class=\"reading-test-note-list\">" + questions + "</ol></aside>";
 }
@@ -814,7 +817,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
         </article>
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-fat" aria-labelledby="reading-detail-fat-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-fat" aria-labelledby="reading-detail-fat-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="fat" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-fat.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -823,13 +826,14 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
           <p>A waitress recounts a story to her friend, about “the fattest person I have ever seen.”</p>
           <p>Raymond Carver</p>
         </article>
-        <article class="reading-full-text" aria-labelledby="reading-fat-text-title">
+        <article class="reading-full-text reading-full-text--has-test-notes" aria-labelledby="reading-fat-text-title">
           <header class="reading-full-text-header">
             <p class="reading-full-text-kicker">FICTION · FULL TEXT</p>
             <h2 id="reading-fat-text-title">Fat</h2>
             <p class="reading-full-text-deck">A waitress recounts a story to her friend about “the fattest person I have ever seen.”</p>
             <div class="reading-full-text-byline">${renderReadingAuthorBio("Raymond Carver")}<span>Short fiction</span></div>
           </header>
+          ${renderReadingTestNotes("Fat", narrativeBloomQuestions.fat)}
           <div class="reading-full-text-body">
             ${renderStoryParagraphs(fatStoryParagraphs, "fat", fatReadingNotes)}
           </div>
@@ -877,7 +881,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-flowers" aria-labelledby="reading-detail-flowers-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-flowers" aria-labelledby="reading-detail-flowers-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="flowers" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-flowers.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -892,6 +896,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
           deck: "It is not until she notices something else on the ground that we are told her summer was over.",
           author: "Alice Walker",
           paragraphs: flowersStoryParagraphs,
+          testQuestions: narrativeBloomQuestions.flowers,
           analysisNotes: flowersNotes,
         })}
       </section>
@@ -916,7 +921,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-days-wait" aria-labelledby="reading-detail-days-wait-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-days-wait" aria-labelledby="reading-detail-days-wait-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="days-wait" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-days-wait.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -931,11 +936,12 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
           deck: "A boy with a fever quietly waits for death after confusing Fahrenheit with Celsius.",
           author: "Ernest Hemingway",
           paragraphs: daysWaitStoryParagraphs,
+          testQuestions: narrativeBloomQuestions["days-wait"],
           analysisNotes: daysWaitNotes,
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-short-story" aria-labelledby="reading-detail-short-story-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-short-story" aria-labelledby="reading-detail-short-story-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="short-story" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-short-story.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -950,11 +956,12 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
           deck: "A soldier and a nurse fall in love in wartime, then discover how distance changes what they imagined together.",
           author: "Ernest Hemingway",
           paragraphs: veryShortStoryParagraphs,
+          testQuestions: narrativeBloomQuestions["short-story"],
           analysisNotes: veryShortNotes,
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-cop-anthem" aria-labelledby="reading-detail-cop-anthem-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-cop-anthem" aria-labelledby="reading-detail-cop-anthem-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="cop-anthem" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-cop-anthem.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -969,6 +976,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
           deck: "Soapy tries every way he can imagine to be arrested before winter, until music awakens a different resolve.",
           author: "O. Henry",
           paragraphs: copAnthemStoryParagraphs,
+          testQuestions: narrativeBloomQuestions["cop-anthem"],
           analysisNotes: copAnthemNotes,
         })}
       </section>
@@ -1013,7 +1021,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
         })}
       </section>
 
-      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-analysis-notes" id="reading-detail-trifles" aria-labelledby="reading-detail-trifles-title">
+      <section class="slide reading-detail-slide reading-detail-slide--with-text reading-detail-slide--with-test-notes reading-detail-slide--with-analysis-notes" id="reading-detail-trifles" aria-labelledby="reading-detail-trifles-title">
         <a class="reading-detail-back" href="#reading" data-reading-target="trifles" aria-label="Back to supplementary reading">← Reading list</a>
         <img class="reading-detail-visual" src="https://assets.negentropylearning.com.cn/narrative-writing/assets/reading-detail-trifles.png" alt="" aria-hidden="true" loading="lazy" decoding="async" />
         <article class="reading-detail-accessible">
@@ -1030,6 +1038,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
           kicker: "DRAMA",
           label: "One-act play",
           paragraphs: triflesStoryParagraphs,
+          testQuestions: narrativeBloomQuestions.trifles,
           analysisNotes: triflesNotes,
         })}
       </section>

@@ -625,3 +625,20 @@
 @media (max-width: 600px) {
   .integrated-quiz-page .root-expansion-words { grid-template-columns: minmax(0, 1fr); gap: 6px; }
 }
+.integrated-quiz-page .root-expansion { margin-top: 0; }
+.integrated-quiz-page .root-expansion-family { padding: 0 0 20px; border-top: 0; }
+.integrated-quiz-page .root-expansion-family + .root-expansion-family { padding-top: 20px; border-top: 1px solid #a6644940; }
+.integrated-quiz-page .root-expansion-family h3 { font-size: 23px; }
+.integrated-quiz-page .root-expansion-family h3 span { font-size: 13px; }
+.integrated-quiz-page .root-expansion-meaning,
+.integrated-quiz-page .root-expansion-formation,
+.integrated-quiz-page .root-expansion-context { margin: 8px 0; font: 17px/1.65 Georgia, "PingFang SC", serif; }
+.integrated-quiz-page .root-expansion-formation { padding: 12px 15px; background: #fff8ef; border-left: 3px solid #a96044; }
+.integrated-quiz-page .root-expansion-context { color: #493e38; }
+.integrated-quiz-page .root-expansion-family h4 { margin: 22px 0 4px; color: #9c4937; font: 700 14px/1.5 Arial, "PingFang SC", sans-serif; letter-spacing: .02em; }
+.integrated-quiz-page .root-expansion-words { display: block; list-style: decimal; padding-left: 28px; margin: 0; }
+.integrated-quiz-page .root-expansion-words li { padding: 8px 2px; border-bottom: 1px solid #a6644926; font: 15px/1.6 Georgia, "PingFang SC", serif; }
+.integrated-quiz-page .root-expansion-words li::marker { color: #9c4937; }
+.integrated-quiz-page .root-expansion-words strong { margin-right: 10px; font-size: 17px; }
+.integrated-quiz-page .root-expansion-words span { color: #514940; }
+.integrated-quiz-page .root-expansion-note { margin-top: 16px; }
