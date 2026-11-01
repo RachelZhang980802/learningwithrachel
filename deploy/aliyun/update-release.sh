@@ -41,8 +41,19 @@ for attempt in {1..30}; do
 done
 [[ "$ready" == 1 ]]
 curl --noproxy '*' -fsS http://127.0.0.1:8080/western-culture/greece-rome.html | grep -F 'early-greece-lilies-background.webp' >/dev/null
-curl --noproxy '*' --resolve negentropylearning.com.cn:443:127.0.0.1 -fsS https://negentropylearning.com.cn/ -o /dev/null
-curl --noproxy '*' --resolve www.negentropylearning.com.cn:443:127.0.0.1 -fsS https://www.negentropylearning.com.cn/ -o /dev/null
+# Production HTTPS is protected by Nginx Basic Auth. Accept 401 here as
+# evidence that the TLS virtual host responds; the app itself is checked above.
+check_protected_site() {
+  local host status
+  host="$1"
+  status=$(curl --noproxy '*' --resolve "$host:443:127.0.0.1" -sS -o /dev/null -w '%{http_code}' "https://$host/")
+  [[ "$status" =~ ^[23][0-9]{2}$ || "$status" == 401 ]] || {
+    echo "HTTPS check failed for $host (HTTP $status)" >&2
+    return 1
+  }
+}
+check_protected_site negentropylearning.com.cn
+check_protected_site www.negentropylearning.com.cn
 systemctl is-active --quiet learningwithrachel
 systemctl is-active --quiet nginx
 trap - ERR
