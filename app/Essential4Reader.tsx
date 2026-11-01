@@ -1,7 +1,6 @@
 "use client";
 import { Fragment, useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { UniversityFooter } from "./UniversityFooter";
 import "./essential4.css";
 
 type Topic={id:string;title:string;units:number[];extras:string[];note?:string;coverage?:string};
@@ -81,7 +80,7 @@ export function Essential4Reader({articleId,mode}:{articleId:string;mode:"notes"
  {page?(mode==='exercise'?<InlineBookPage page={page}/>:<BookPage page={page} onSource={setSource}/>):<p>Page pending verification.</p>}
  <footer className="eg4-next"><button type="button" disabled={topic.units.indexOf(unit)===0} onClick={()=>select(topic,topic.units[topic.units.indexOf(unit)-1])}>← Previous unit</button><Link href={`${target}?unit=${unit}#${topic.id}`}>{mode==='notes'?'Practise this unit →':'Review this explanation →'}</Link><button type="button" disabled={topic.units.indexOf(unit)===topic.units.length-1} onClick={()=>select(topic,topic.units[topic.units.indexOf(unit)+1])}>Next unit →</button></footer>
  </section></div>
- <UniversityFooter/>
+
  <dialog className="eg4-source" ref={dialog} onCancel={()=>setSource(null)} onClick={e=>{if(e.target===e.currentTarget)setSource(null);}}><header><strong>Original PDF · page {source}</strong><button type="button" onClick={()=>setSource(null)}>Close ×</button></header>{source&&<img src={`${base}assets/original-${source}.webp`} alt={`Original supplied PDF, page ${source}`}/>}</dialog>
  </main>;
 }

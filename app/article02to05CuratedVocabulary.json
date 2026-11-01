@@ -33,11 +33,16 @@
         "english": "Within 24 hours, the video went viral on YouTube and Facebook.",
         "chinese": "在 24 小时内，该视频在影片分享网站和脸书上疯传。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "virus n. 病毒"
+      ],
+      "wordFamilyNote": "This phrase contains viral; virus is its common related noun.",
+      "wordFamilyRoot": "viral"
     },
     "2": {
-      "english": "a regular income provided to people regardless of their job status",
-      "chinese": "全民收入保障；这里指面向普遍人群的基本收入",
+      "english": "a proposal to provide a regular basic income to everyone, regardless of employment status",
+      "chinese": "全民基本收入构想：提议向所有人提供定期基本收入，不论其就业状况如何",
       "collocations": [
         "universal basic income 全民基本收入",
         "provide a basic income 提供基本收入",
@@ -61,7 +66,18 @@
         "chinese": "近年来，全民基本收入这一构想受到广泛讨论。",
         "source": "Oxford Learner’s Dictionaries online: universal basic income"
       },
-      "sourceCaveat": "本文写 universal income；该复制文件没有此短语的独立词条。Oxford 在线词条收录 universal basic income，语境相近，但不能把两个词组说成字面完全相同。"
+      "sourceCaveat": "本文写 universal income，而不是完整名称 universal basic income；这里两者相关，但文章没有说明具体发放条件，不能把短语直接当成完全相同的定义。",
+      "family": [
+        "universality n. 普遍性；普遍适用",
+        "universally adv. 普遍地；人人都"
+      ],
+      "wordFamilyNote": "The expandable word is universal; these are its common noun and adverb forms.",
+      "wordFamilyRoot": "universal",
+      "relatedTerm": {
+        "phrase": "Universal basic income (UBI)",
+        "english": "A social welfare proposal under which all members of a population regularly receive a minimum income as an unconditional transfer, without a means test or a requirement to work.",
+        "chinese": "全民基本收入（UBI）：一种社会福利提案，定期向某一人口中的所有成员发放最低收入；这笔转移支付不附带经济状况审查，也不要求受益者工作。"
+      }
     },
     "3": {
       "english": "become increasingly accepted or successful",
@@ -96,7 +112,13 @@
         "english": "Sterling continues to gain ground against the dollar.",
         "chinese": "英镑兑美元继续走高。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "gained v. gain 的过去式／过去分词",
+        "gaining n./v. 增加；获得；gain 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around gain; the branches show common verb forms.",
+      "wordFamilyRoot": "gain"
     },
     "4": {
       "english": "at an unspecified point in time",
@@ -170,7 +192,12 @@
         "english": "She submitted her report to the committee.",
         "chinese": "她把报告呈交给了委员会。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "submitted v. submit 的过去式／过去分词",
+        "submitting n./v. 提交；递交",
+        "submission n. 提交；提交物"
+      ]
     },
     "6": {
       "english": "the EU institution whose directly elected members debate and pass legislation",
@@ -246,7 +273,14 @@
         "english": "He stated categorically that he knew nothing about the deal.",
         "chinese": "他明确表示对那笔交易一无所知。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "stated v. state 的过去式／过去分词",
+        "stating n./v. 陈述；说明",
+        "statement n. 陈述；声明",
+        "stately adj. 庄严的；气派的",
+        "stateless adj. 无国籍的"
+      ]
     },
     "8": {
       "english": "using highly developed technology",
@@ -292,7 +326,13 @@
         "english": "Scientists are working on highly advanced technology to replace fossil fuels.",
         "chinese": "科学家们正在研究替代矿物燃料的先进技术。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "advance v./n. 推进；进展",
+        "advanced adj. 先进的；高级的",
+        "advancement n. 进步；晋升",
+        "advancing adj./v. 前进的；推进"
+      ]
     },
     "9": {
       "english": "formally advise that an action should be taken",
@@ -326,7 +366,13 @@
         "english": "I recommend that he see a lawyer.",
         "chinese": "我建议他去找个律师。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "recommendation n. 建议；推荐；推荐信",
+        "recommended adj./v. 被推荐的；recommend 的过去式／过去分词",
+        "recommending n./v. 推荐；recommend 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The most useful distinct noun is recommendation; recommended and recommending are the common inflected forms of the verb."
     },
     "10": {
       "english": "the European Union's executive body, which proposes laws and carries out policies",
@@ -389,7 +435,12 @@
         "english": "The speaker announced the establishment of a new college.",
         "chinese": "发言人宣布了新学院的成立。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "establish v. 建立；确立",
+        "established adj. 已确立的；公认的",
+        "establishing n./v. 建立；确立"
+      ]
     },
     "12": {
       "english": "promise or ensure that something will be provided",
@@ -435,11 +486,16 @@
         "english": "Basic human rights, including freedom of speech, are now guaranteed.",
         "chinese": "现在，包括言论自由在内的基本人权已有了保障。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "guaranteed adj./v. 有保证的；guarantee 的过去式／过去分词",
+        "guaranteeing n./v. 保证；担保",
+        "guarantor n. 担保人"
+      ]
     },
     "13": {
-      "english": "regard one thing as having a particular role",
-      "chinese": "把……看作……",
+      "english": "regard or interpret a person or thing as having a particular nature, role, or significance",
+      "chinese": "把某人或某事看作、理解为某种性质、角色或意义",
       "collocations": [
         "see robots as tools 把机器人看作工具",
         "see sth as an opportunity 把某事看作机会",
@@ -463,7 +519,15 @@
         "chinese": "同事们认为他将来会成为董事。",
         "source": "Oxford Learner’s Dictionaries online: see verb"
       },
-      "sourceCaveat": "复制文件此行没有独立词条；see somebody/something as something 的结构另据 Oxford 在线 see 动词词条核对。"
+      "sourceCaveat": "复制文件此行没有独立词条；see somebody/something as something 的结构另据 Oxford 在线 see 动词词条核对。",
+      "family": [
+        "sees v. 第三人称单数",
+        "saw v. 过去式",
+        "seen v. 过去分词",
+        "seeing v./n. -ing 形式；动名词"
+      ],
+      "wordFamilyNote": "This phrase is built around the verb see; the branches show its inflected forms.",
+      "wordFamilyRoot": "see"
     },
     "14": {
       "english": "a major change in how people live or work",
@@ -497,7 +561,14 @@
         "english": "The way in which we work has undergone a complete transformation in the past decade.",
         "chinese": "在过去的十年里，我们的工作方式经历了彻底的变革。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "transform v. 改变；使转变",
+        "transformed adj./v. 改变了的；transform 的过去式／过去分词",
+        "transforming n./v. 转变；改变",
+        "transformative adj. 带来重大变化的",
+        "transformational adj. 转型的"
+      ]
     },
     "15": {
       "english": "continue to have useful skills as jobs change",
@@ -531,11 +602,19 @@
         "english": "Her novel is still relevant today.",
         "chinese": "她的小说今天仍有现实意义。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "relevance n. 相关性；切题性",
+        "relevant adj. 相关的；切题的",
+        "irrelevant adj. 不相关的",
+        "irrelevance n. 不相关；无关紧要"
+      ],
+      "wordFamilyRoot": "relevant",
+      "wordFamilyNote": "The phrase contains relevant; the branches show its common noun, adjective, and opposite forms."
     },
     "16": {
-      "english": "an example that directly supports the point just made",
-      "chinese": "恰当的例子；这里引出纺织厂案例",
+      "english": "a phrase used to introduce a specific example that supports or illustrates the point just made",
+      "chinese": "恰当的例子；用于引出能够支持或说明前述观点的具体实例",
       "collocations": [
         "a case in point is… 一个恰当的例子是……",
         "cite a case in point 举出贴切例证",
@@ -636,7 +715,14 @@
       ],
       "otherMeaningsStatus": "present",
       "articleExample": "Textile factories organized workers' lives much differently from craft production.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "crafted adj./v. 精心制作的；craft 的过去式／过去分词",
+        "crafting n./v. 手工制作；craft 的 -ing 形式",
+        "craftsmanship n. 手艺；工艺水平"
+      ],
+      "wordFamilyNote": "The expandable word is craft; the branches stay with the making-skill sense.",
+      "wordFamilyRoot": "craft"
     },
     "19": {
       "english": "a loom operated by hand",
@@ -724,7 +810,12 @@
         "english": "We encourage all students to work at their own pace (= as fast or as slow as they can).",
         "chinese": "我们鼓励学生都按自己的节奏学习。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "paced v./adj. pace 的过去式／过去分词；按节奏进行的",
+        "pacing n./v. 节奏安排；踱步",
+        "pacer n. 配速员；定速器"
+      ]
     },
     "22": {
       "english": "a small house, here the weavers' own home workplace",
@@ -751,7 +842,8 @@
         "english": "James lived in a charming country cottage with roses around the door.",
         "chinese": "詹姆斯住在一间迷人的乡村小屋中，门旁满是玫瑰。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": []
     },
     "23": {
       "english": "machines considered as a group",
@@ -785,8 +877,8 @@
       "dictionaryExample": null
     },
     "24": {
-      "english": "splitting work into separate specialized tasks",
-      "chinese": "劳动分工",
+      "english": "a system for allocating different tasks to individuals or groups, who specialize in separate parts of the work, often to improve efficiency",
+      "chinese": "劳动分工：把不同任务分配给个人或群体，使其各自专做部分工作，通常有助于提高效率",
       "collocations": [
         "the division of labor 劳动分工",
         "increase the division of labor 加强分工",
@@ -811,7 +903,15 @@
         "chinese": "即使是简单的生产过程，通常也有劳动分工。",
         "source": "Oxford Learner’s Dictionaries online: division of labour"
       },
-      "sourceCaveat": "复制文件此行没有独立词条；另据 Oxford 在线 division of labour（美式拼写 division of labor）词条核对。"
+      "sourceCaveat": "复制文件此行没有独立词条；另据 Oxford 在线 division of labour（美式拼写 division of labor）词条核对。",
+      "family": [
+        "divide v. 分开；划分",
+        "division n. 分工；划分",
+        "divisional adj. 部门的；分区的",
+        "divisible adj. 可分的"
+      ],
+      "wordFamilyRoot": "division",
+      "wordFamilyNote": "The expandable word is division; the branches stay within the divide/division family."
     },
     "25": {
       "english": "the range of what an activity covers",
@@ -945,7 +1045,15 @@
         "english": "Opponents of the policy fear that it could have unfortunate side effects on the economy.",
         "chinese": "反对该政策的人担心该政策可能对经济产生不利的副作用。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "effective adj. 有效的；产生预期结果的",
+        "effectively adv. 有效地；实际上",
+        "effectiveness n. 效果；效力",
+        "ineffective adj. 无效的"
+      ],
+      "wordFamilyNote": "The expandable word is effect; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "effect"
     },
     "29": {
       "english": "the use of machines or software to perform work automatically",
@@ -976,8 +1084,8 @@
       }
     },
     "30": {
-      "english": "physical strength used to do work",
-      "chinese": "人力；体力劳动能力",
+      "english": "physical strength—the ability to exert force with the muscles; here, human strength used to do work",
+      "chinese": "体力；用肌肉发力的能力。本文指用人的体力做功，与机器动力相对。",
       "collocations": [
         "rely on muscle power 依靠人力",
         "replace muscle power with machines 用机器替代人力",
@@ -1001,7 +1109,13 @@
         "chinese": "我使出了自己全部微薄的体力。",
         "source": "Oxford Learner’s Dictionaries online: muscle noun"
       },
-      "sourceCaveat": "复制文件此行没有独立词条；Oxford 在线 muscle 名词词条中的 physical strength 义和 muscle power 例句支持本文解释。"
+      "sourceCaveat": "复制文件此行没有独立词条；Oxford 在线 muscle 名词词条中的 physical strength 义和 muscle power 例句支持本文解释。",
+      "family": [
+        "muscular adj. 肌肉的；强健的",
+        "musculature n. 肌肉系统；肌肉组织"
+      ],
+      "wordFamilyRoot": "muscle",
+      "wordFamilyNote": "The expandable word is muscle; muscular and musculature are its common related forms."
     },
     "31": {
       "english": "economic success and material well-being",
@@ -1086,7 +1200,14 @@
             "这里不能沿用第 22 句的“社会进步过程”；that painful phase 指眼下的痛苦阶段。"
           ]
         }
-      }
+      },
+      "family": [
+        "went v. go 的过去式",
+        "gone v. go 的过去分词",
+        "going n./v. 进行；go 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around go; the branches show its irregular verb forms.",
+      "wordFamilyRoot": "go"
     },
     "33": {
       "english": "deserve the time or effort needed to do it",
@@ -1114,10 +1235,10 @@
           "exampleChinese": "我们的房子大约值 10 万英镑。"
         },
         {
-          "english": "worth the effort: good or important enough to justify the effort",
-          "chinese": "值得付出努力或代价",
-          "exampleEnglish": "Was it worth the effort?",
-          "exampleChinese": "这值得付出努力吗？"
+          "english": "worth doing: valuable or beneficial enough to justify the time, effort, or cost involved",
+          "chinese": "值得做：有足够的价值或益处，值得投入相应的时间、精力或代价",
+          "exampleEnglish": "It is worth checking the details before you sign.",
+          "exampleChinese": "签字前核对一下细节是值得的。"
         }
       ],
       "otherMeaningsStatus": "present",
@@ -1127,7 +1248,14 @@
         "chinese": "这个想法很值得考虑。",
         "source": "Oxford Learner’s Dictionaries online: worth adjective"
       },
-      "sourceCaveat": "复制文件此行没有独立词条；另据 Oxford 在线 worth 形容词词条的 worth doing something 结构核对。"
+      "sourceCaveat": "复制文件此行没有独立词条；另据 Oxford 在线 worth 形容词词条的 worth doing something 结构核对。",
+      "family": [
+        "worthy adj. 值得尊敬／重视的",
+        "worthwhile adj. 值得做的",
+        "worthiness n. 值得；价值"
+      ],
+      "wordFamilyRoot": "worth",
+      "wordFamilyNote": "The phrase is built around worth; the branches show common adjective and noun forms."
     },
     "34": {
       "english": "fall very quickly and sharply",
@@ -1196,7 +1324,15 @@
         "english": "Research has been constrained by a lack of funds.",
         "chinese": "研究工作因经费不足而受限制。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "constrained adj./v. 受限制的；constrain 的过去式／过去分词",
+        "constraining adj./v. 起限制作用的；constrain 的 -ing 形式",
+        "constraint n. 限制；约束",
+        "unconstrained adj. 不受限制的"
+      ],
+      "wordFamilyNote": "The expandable word is constrain; constraint is its common related noun.",
+      "wordFamilyRoot": "constrain"
     },
     "36": {
       "english": "use resources carefully so they are not wasted",
@@ -1230,7 +1366,15 @@
         "english": "Renewable energy resources can help conserve fossil fuels and reduce carbon emissions.",
         "chinese": "可再生能源可以帮助节约化石燃料并减少碳排放。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "conserved adj./v. 保存的；conserve 的过去式／过去分词",
+        "conserving n./v. 保护；节约",
+        "conservation n. 保护；节约",
+        "conservationist n. 环保人士；资源保护者",
+        "conservative adj./n. 保守的；保守派",
+        "conservatively adv. 保守地"
+      ]
     },
     "37": {
       "english": "put forward a reasoned claim",
@@ -1264,7 +1408,14 @@
         "english": "Critics argue that Britain is not investing enough in broadband.",
         "chinese": "批评人士认为，英国对宽带的投资不足。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "argued v. argue 的过去式／过去分词",
+        "arguing n./v. 争论；论证",
+        "argument n. 争论；论据",
+        "arguable adj. 可论证的；有争议的",
+        "arguably adv. 可以说；可论证地"
+      ]
     },
     "38": {
       "english": "available beyond what is currently needed",
@@ -1310,7 +1461,12 @@
         "english": "We've got a spare bedroom, if you'd like to stay.",
         "chinese": "要是愿意你就住下，我们空着一间卧室。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "spared v./adj. spare 的过去式／过去分词；免受伤害的",
+        "sparing adj. 节省的；有限度的",
+        "sparingly adv. 节省地；少量地"
+      ]
     },
     "39": {
       "english": "for each person in a population",
@@ -1395,11 +1551,24 @@
       "word": "there is a cost to doing",
       "sourceRow": 41,
       "oxfordExcerptProvided": false,
-      "otherMeanings": [],
-      "otherMeaningsStatus": "missing_source",
+      "otherMeanings": [
+        {
+          "english": "cost: a negative consequence, sacrifice, or disadvantage associated with an action or decision",
+          "chinese": "（行动或决定带来的）代价、牺牲或不利后果",
+          "exampleEnglish": "At a cost to her free time, she completed the course.",
+          "exampleChinese": "她牺牲了自己的空闲时间，完成了这门课程。"
+        }
+      ],
+      "otherMeaningsStatus": "present",
       "articleExample": "Also, there is a cost to making robots and investing in such technologies.",
       "dictionaryExample": null,
-      "sourceCaveat": "复制文件此行没有完整句式词条；cost 的成本义可由 Oxford 在线词条核对，to doing 的结构按正文语法分析。"
+      "sourceCaveat": "复制文件此行没有完整句式词条；cost 的成本义可由 Oxford 在线词条核对，to doing 的结构按正文语法分析。",
+      "family": [
+        "cost n./v. 代价；使付出代价",
+        "costly adj. 昂贵的；代价高的"
+      ],
+      "wordFamilyRoot": "cost",
+      "wordFamilyNote": "The phrase is built around cost; the branches show its common adjective form."
     },
     "42": {
       "english": "an issue or place likely to trigger conflict",
@@ -1462,7 +1631,14 @@
         "english": "We are asking people to boycott goods from companies that use child labour.",
         "chinese": "我们正呼吁大家抵制雇用童工的公司的产品。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "boycott n. 抵制",
+        "boycott v. 抵制",
+        "boycotted v./adj. boycott 的过去式／过去分词；遭抵制的",
+        "boycotting n./v. 抵制",
+        "boycotter n. 抵制者"
+      ]
     },
     "44": {
       "english": "completely necessary for a situation",
@@ -1502,7 +1678,12 @@
         "english": "Vitamins play an essential role in many body processes.",
         "chinese": "维生素在许多人体过程中起着至关重要的作用。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "essence n. 本质；精髓",
+        "essentially adv. 本质上；基本上",
+        "essentials n. 必需品；要点"
+      ]
     },
     "45": {
       "english": "very large and noticeable, often sudden",
@@ -1542,7 +1723,14 @@
         "english": "There has been a dramatic rise in reported crime.",
         "chinese": "报告的犯罪率急剧上升。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "drama n. 戏剧；戏剧性事件",
+        "dramatically adv. 戏剧性地；显著地",
+        "dramatize v. 使戏剧化；生动表现",
+        "dramatization n. 戏剧化；改编",
+        "dramatist n. 剧作家"
+      ]
     },
     "46": {
       "english": "make an effect or signal stronger",
@@ -1648,7 +1836,12 @@
         "english": "We have achieved an equilibrium in the economy.",
         "chinese": "我们已在经济上达到平衡。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "equilibrium n. 均衡",
+        "equilibrate v. 使平衡；达到平衡",
+        "equilibrated adj./v. 平衡的；达到平衡的"
+      ]
     },
     "49": {
       "english": "understanding another person's feelings from their perspective",
@@ -1728,7 +1921,14 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "I came rather late to understanding myself in the cycle of life.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "lateness n. 迟到；晚",
+        "later adj./adv. late 的比较级；较晚的／较晚地",
+        "latest adj./adv. late 的最高级；最晚的／最近的"
+      ],
+      "wordFamilyNote": "The expandable word is late; lateness is its noun, and later/latest are its comparison forms. Lately means ‘recently’, so it is not included.",
+      "wordFamilyRoot": "late"
     },
     "2": {
       "english": "when considered in connection with somebody else",
@@ -1772,7 +1972,16 @@
         "english": "Its brain is small in relation to (= compared with) its body.",
         "chinese": "和它的身体相比，它的大脑很小。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "relate v. 有关；联系",
+        "related adj. 有关的；相关的",
+        "relating n./v. 联系；relate 的 -ing 形式",
+        "relationship n. 关系",
+        "relational adj. 关系的；关联的"
+      ],
+      "wordFamilyNote": "The expandable word is relation; the branches show its common verb, adjective, and noun forms.",
+      "wordFamilyRoot": "relation"
     },
     "3": {
       "english": "continue to be in the same condition",
@@ -1818,7 +2027,12 @@
         "english": "His reputation remains intact.",
         "chinese": "他的声誉保持不变。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "remained v. remain 的过去式／过去分词",
+        "remaining adj./n. 剩余的；剩余部分",
+        "remainder n. 剩余部分；余数"
+      ]
     },
     "4": {
       "english": "cut grass with a blade or machine",
@@ -1871,7 +2085,16 @@
         "english": "They insisted upon being given every detail of the case.",
         "chinese": "他们坚持要求说明事情的来龙去脉。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "insisted v. insist 的过去式／过去分词",
+        "insisting n./v. 坚持；insist 的 -ing 形式",
+        "insistence n. 坚持；坚决要求",
+        "insistent adj. 坚持的；坚决要求的",
+        "insistently adv. 坚持地；坚决地"
+      ],
+      "wordFamilyNote": "This phrase is built around insist; the branches show common inflected forms and its noun and adjective forms.",
+      "wordFamilyRoot": "insist"
     },
     "6": {
       "english": "pull or struggle hard to take something away",
@@ -1909,7 +2132,12 @@
         "english": "She wrestled the keys out of the ignition.",
         "chinese": "她使劲把插在点火装置上的钥匙拔下来。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "wrestled v. wrestle 的过去式／过去分词",
+        "wrestling n./v. 摔跤；搏斗",
+        "wrestler n. 摔跤运动员"
+      ]
     },
     "7": {
       "english": "a firm hold on something",
@@ -2005,7 +2233,14 @@
         "english": "We take having an endless supply of clean water for granted.",
         "chinese": "我们想当然地认为洁净水的供应是无穷无尽的。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "took v. take 的过去式",
+        "taken v. take 的过去分词",
+        "taking n./v. 拿取；take 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase contains the verb take; the branches show its common irregular forms.",
+      "wordFamilyRoot": "take"
     },
     "9": {
       "english": "a kind, mild-tempered person",
@@ -2027,7 +2262,15 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "At my birth he was 64, middle age to him, and he was not a gentle old soul.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "gently adv. 温和地；轻柔地",
+        "gentleness n. 温和；和善",
+        "gentler adj. gentle 的比较级；更温和的",
+        "gentlest adj. gentle 的最高级；最温和的"
+      ],
+      "wordFamilyNote": "The expandable word is gentle; the branches show its common adverb, noun, and comparison forms.",
+      "wordFamilyRoot": "gentle"
     },
     "10": {
       "english": "a building for Jewish worship and community life",
@@ -2120,7 +2363,14 @@
         "english": "She had loved him at a distance for years.",
         "chinese": "她曾经暗恋他好多年。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "distant adj. 遥远的；有距离的",
+        "distantly adv. 遥远地；冷淡地",
+        "distance v. 使疏远；拉开距离"
+      ],
+      "wordFamilyNote": "The expandable word is distance; distant and distantly are its common related forms.",
+      "wordFamilyRoot": "distance"
     },
     "13": {
       "english": "make the sound from a device louder",
@@ -2175,7 +2425,14 @@
         "english": "Could you turn the TV up?",
         "chinese": "你能把电视机的音量开大些吗？",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "turns v. turn 的第三人称单数",
+        "turned v. turn 的过去式／过去分词",
+        "turning n./v. 转动；turn 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around turn; the branches show common inflected forms.",
+      "wordFamilyRoot": "turn"
     },
     "14": {
       "english": "how loud a television or radio is",
@@ -2221,7 +2478,10 @@
         "english": "He adjusted the volume on his phone.",
         "chinese": "他调整了手机上的音量。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "voluminous adj. 大量的；篇幅大的"
+      ]
     },
     "15": {
       "english": "by free choice, without being forced",
@@ -2342,7 +2602,14 @@
         "english": "There are subtle differences between the two versions.",
         "chinese": "两个版本之间有一些细微的差异。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "subtlety n. 微妙之处",
+        "subtle adj. 微妙的",
+        "subtly adv. 巧妙地",
+        "subtly adv. 微妙地；不易察觉地",
+        "subtlety n. 微妙；细微差别"
+      ]
     },
     "19": {
       "english": "typical of a particular person",
@@ -2374,7 +2641,13 @@
         "english": "She spoke with characteristic enthusiasm.",
         "chinese": "她说话带着特有的热情。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "character n. 性格；特征",
+        "characterize v. 以……为特征；描述",
+        "characterization n. 描写；特征刻画",
+        "characteristically adv. 典型地"
+      ]
     },
     "20": {
       "english": "breathing noisily while asleep",
@@ -2407,7 +2680,12 @@
         "english": "I could hear Paul snoring in the next room.",
         "chinese": "我听得见保罗在隔壁房间里打呼噜。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "snore n./v. 鼾声；打鼾",
+        "snored v. snore 的过去式／过去分词",
+        "snorer n. 打鼾的人"
+      ]
     },
     "21": {
       "english": "a high sound made through a small opening",
@@ -2547,7 +2825,16 @@
         "english": "He specialized in criminal law.",
         "chinese": "他专攻刑法。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "specialized adj./v. 专业化的；specialize 的过去式／过去分词",
+        "specializing n./v. 专攻；specialize 的 -ing 形式",
+        "specialization n. 专业化；专长",
+        "specialist n. 专家；专科医生",
+        "specialty n. 专长；专业领域"
+      ],
+      "wordFamilyNote": "The expandable word is specialize; the branches show common related forms.",
+      "wordFamilyRoot": "specialize"
     },
     "24": {
       "english": "suddenly express a strong emotion",
@@ -2590,7 +2877,14 @@
         "english": "Suddenly Charles exploded with rage.",
         "chinese": "查尔斯勃然大怒。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "exploded v. explode 的过去式／过去分词",
+        "exploding n./v. 爆炸；激增",
+        "explosion n. 爆炸；激增",
+        "explosive adj./n. 爆炸性的；炸药",
+        "explosively adv. 爆炸性地；急剧地"
+      ]
     },
     "25": {
       "english": "a language historically used by many European Jews",
@@ -2866,7 +3160,14 @@
         "english": "Whole stretches of land were laid waste and depopulated.",
         "chinese": "一片片土地荒芜，人口减少。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "population n. 人口",
+        "depopulation n. 人口减少",
+        "depopulate v. 使人口减少",
+        "depopulated adj./v. 人口减少的；depopulate 的过去式／过去分词",
+        "depopulating n./v. 使人口减少"
+      ]
     },
     "33": {
       "english": "come out through an opening without being controlled",
@@ -2888,7 +3189,16 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "The deep background of his life as it escaped through his lips became the chorus of my nights.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "escaped v. escape 的过去式／过去分词",
+        "escaping n./v. 逃脱；escape 的 -ing 形式",
+        "escapee n. 逃脱者；越狱者",
+        "escapism n. 逃避现实",
+        "escapist n./adj. 逃避现实的人；逃避现实的"
+      ],
+      "wordFamilyNote": "The phrase is built around escape; the branches show common forms related to escaping.",
+      "wordFamilyRoot": "escape"
     },
     "34": {
       "english": "a repeated or collective sound",
@@ -2931,7 +3241,11 @@
         "english": "A chorus of laughter greeted his remark.",
         "chinese": "一阵欢笑声打了招呼。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "choral adj. 合唱的；合唱队的",
+        "chorister n. 合唱团成员"
+      ]
     },
     "35": {
       "english": "crackling noise interfering with a radio signal",
@@ -3024,7 +3338,15 @@
         "english": "What do you make of it all?",
         "chinese": "你明白那都是什么意思吗？",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "made v. make 的过去式／过去分词",
+        "making n./v. 制作；make 的 -ing 形式",
+        "maker n. 制作者；制造商",
+        "remake n./v. 翻拍作品；重新制作"
+      ],
+      "wordFamilyNote": "The expandable word is make; these are common inflected and derived forms.",
+      "wordFamilyRoot": "make"
     },
     "38": {
       "english": "extend from now into the distant past",
@@ -3069,7 +3391,14 @@
         "english": "The town's history stretches back to before 1500.",
         "chinese": "该镇的历史可以上溯到公元 1500 年以前。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "stretched v./adj. stretch 的过去式／过去分词；延伸的",
+        "stretching n./v. 延伸；拉伸",
+        "stretchable adj. 可拉伸的"
+      ],
+      "wordFamilyRoot": "stretch",
+      "wordFamilyNote": "The phrase is built around stretch; the branches show common verb and adjective forms."
     },
     "39": {
       "english": "remember something from the past",
@@ -3115,7 +3444,12 @@
         "english": "Many years later Muir recalled his days at Glasgow University.",
         "chinese": "多年后，缪尔回忆起自己在格拉斯哥大学的日子。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "recalled adj./v. 被召回的；recall 的过去式／过去分词",
+        "recalling n./v. 回忆；召回",
+        "recall n. 回忆；召回"
+      ]
     },
     "40": {
       "english": "made up of short, separate sounds",
@@ -3218,7 +3552,14 @@
         "english": "He switched over from acting to journalism.",
         "chinese": "他从表演转向新闻。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "switched v. switch 的过去式／过去分词",
+        "switching n./v. 转换；switch 的 -ing 形式",
+        "switchable adj. 可切换的；可转换的"
+      ],
+      "wordFamilyNote": "The phrase is built around switch; the branches show common inflected and derived forms.",
+      "wordFamilyRoot": "switch"
     },
     "43": {
       "english": "the stage of university study after an undergraduate degree",
@@ -3239,7 +3580,16 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "Then, in graduate school, I had my own apartment, and my old roommate joined me.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "graduated v./adj. 毕业了的；graduate 的过去式／过去分词",
+        "graduating n./v. 毕业；graduate 的 -ing 形式",
+        "graduation n. 毕业；毕业典礼",
+        "undergraduate n./adj. 本科生；本科阶段的",
+        "postgraduate n./adj. 研究生；研究生阶段的"
+      ],
+      "wordFamilyNote": "The expandable word is graduate; the branches show common study-related forms.",
+      "wordFamilyRoot": "graduate"
     },
     "44": {
       "english": "live in a place",
@@ -3341,7 +3691,12 @@
         "english": "Geoff was my companion on the journey.",
         "chinese": "杰夫是我旅途中的同伴。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "companionship n. 陪伴；交往",
+        "companionable adj. 好相处的；友善的",
+        "companionably adv. 友善地"
+      ]
     },
     "47": {
       "english": "despite something that might have prevented the result",
@@ -3411,7 +3766,13 @@
           ],
           "usage": "第 62 句的 him 指祖父，作者不再只是忧郁，而是和祖父一起动手做事；不是再次搬去与祖父同住。"
         }
-      }
+      },
+      "family": [
+        "joined v./adj. join 的过去式／过去分词；连接的",
+        "joining n./v. 加入；连接",
+        "joiner n. 加入者；木工",
+        "joint adj./n. 联合的；关节"
+      ]
     },
     "49": {
       "english": "the Michigan city where the university is located",
@@ -3467,7 +3828,16 @@
         "english": "His sister was his ally against their grandparents.",
         "chinese": "姐姐和他一伙，共同对付爷爷奶奶。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "ally n. 盟友",
+        "alliance n. 联盟",
+        "ally v. 结盟",
+        "allied adj. 结盟的",
+        "allied adj./v. 结盟的；ally 的过去式／过去分词",
+        "alliance n. 联盟；结盟",
+        "allies n. ally 的复数形式"
+      ]
     },
     "51": {
       "english": "a member or supporter of the US Republican Party",
@@ -3497,7 +3867,12 @@
       ],
       "otherMeaningsStatus": "present",
       "articleExample": "In Ann Arbor he found plenty of allies in hating Republicans, but it was even better than that.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "republic n. 共和国；共和政体",
+        "republicanism n. 共和主义",
+        "Republicans n. Republican 的复数形式"
+      ]
     },
     "52": {
       "english": "in terms of political or social beliefs",
@@ -3589,7 +3964,17 @@
         "english": "Their conversation consisted almost entirely of gossip.",
         "chinese": "他们的谈话几乎全是些闲言碎语。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "consisted v. consist 的过去式／过去分词",
+        "consisting n./v. 构成；consist 的 -ing 形式",
+        "consistent adj. 一致的；连贯的",
+        "consistency n. 一致性；连贯性",
+        "consistently adv. 一贯地；始终如一地",
+        "inconsistent adj. 不一致的；前后矛盾的"
+      ],
+      "wordFamilyNote": "This phrase is built around consist; its common adjective, noun, and adverb forms are shown.",
+      "wordFamilyRoot": "consist"
     },
     "55": {
       "english": "fall asleep briefly and unintentionally",
@@ -3616,7 +4001,13 @@
         "english": "She dozed off in front of the fire.",
         "chinese": "她在炉火前打起盹儿来",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "dozed v. doze 的过去式／过去分词",
+        "dozing n./v. 打盹；doze 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around doze; only common verb forms are included.",
+      "wordFamilyRoot": "doze"
     },
     "56": {
       "english": "in a way that makes fun of someone",
@@ -3709,7 +4100,13 @@
         "english": "Will the president be able to convince voters that he deserves a second term?",
         "chinese": "总统能否说服选民相信他应该再度当选？",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "convinced adj./v. 确信的；convince 的过去式／过去分词",
+        "convincing adj. 有说服力的",
+        "convincingly adv. 有说服力地",
+        "conviction n. 确信；信念"
+      ]
     },
     "59": {
       "english": "unwilling and hesitant",
@@ -3734,7 +4131,11 @@
         "english": "She was reluctant to admit she was wrong.",
         "chinese": "她不愿承认自己有错。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "reluctance n. 不情愿；勉强",
+        "reluctantly adv. 不情愿地"
+      ]
     },
     "60": {
       "english": "settled securely in life or career",
@@ -3773,7 +4174,12 @@
         "english": "By then she was established as a star.",
         "chinese": "那时她作为明星的地位已经确立。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "establish v. 建立；确立",
+        "establishing n./v. 建立；确立",
+        "establishment n. 建立；机构"
+      ]
     },
     "61": {
       "english": "plan or mean to do something",
@@ -3799,7 +4205,16 @@
         "english": "I never intended to hurt you.",
         "chinese": "我从来都没想伤害你。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "intended adj./v. 预定的；intend 的过去式／过去分词",
+        "intending n./v. 打算；计划",
+        "intention n. 意图；打算",
+        "intentional adj. 有意的",
+        "intentionally adv. 有意地"
+      ],
+      "wordFamilyRoot": "intend",
+      "wordFamilyNote": "The phrase is built around intend; the branches show its common noun, adjective, and adverb forms."
     },
     "62": {
       "english": "a contrast between what is expected and what happens",
@@ -3890,7 +4305,13 @@
         "english": "This provided a solid foundation for their marriage.",
         "chinese": "这为他们的婚姻提供了坚实的基础。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "solidly adv. 坚固地；一致地",
+        "solidity n. 坚固；坚实",
+        "solidify v. 使坚固；巩固",
+        "solidification n. 凝固；巩固"
+      ]
     },
     "64": {
       "english": "break or develop a split; fail under strain",
@@ -3960,7 +4381,15 @@
         "english": "Whole villages were stricken with the disease.",
         "chinese": "整村整村的人染上了这种病。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "strike v. 打击；使遭受",
+        "struck v. strike 的过去式／过去分词",
+        "striking adj./v. 显著的；strike 的 -ing 形式",
+        "stricken adj. 遭受……的；受……侵袭的"
+      ],
+      "wordFamilyNote": "The phrase is built around strike; these are common forms of that verb.",
+      "wordFamilyRoot": "strike"
     },
     "66": {
       "english": "relating to the nervous system or neurology",
@@ -4014,7 +4443,14 @@
       "articleExample": "I could not scream out my anger as my grandfather did in his sleep.",
       "dictionaryExample": null,
       "sourceCaveat": "Excel 对应格的 scream out 词条只给出“明显迫切需要”义；本文“喊出怒气”义依据 Oxford Learner’s Dictionaries 的 scream 动词词条核对。",
-      "contextMeaningSource": "article_inference"
+      "contextMeaningSource": "article_inference",
+      "family": [
+        "screamed v. scream 的过去式／过去分词",
+        "screaming n./adj./v. 尖叫；尖叫的；scream 的 -ing 形式",
+        "screamer n. 尖叫者；令人震惊的事物"
+      ],
+      "wordFamilyRoot": "scream",
+      "wordFamilyNote": "The phrase is built around scream; the branches show common verb and noun forms."
     },
     "68": {
       "english": "go to live and become established in a place",
@@ -4088,7 +4524,13 @@
           ],
           "usage": "本文第二次出现 settled：主语是 it（指怒气），而非祖父或作者；in my bones 是身体意象。不要沿用前一次 settled in Texas 的“定居”译法。"
         }
-      }
+      },
+      "family": [
+        "settled adj./v. 安定的；settle 的过去式／过去分词",
+        "settling n./v. 定居；解决",
+        "settlement n. 定居点；解决",
+        "settler n. 定居者"
+      ]
     },
     "69": {
       "english": "a prolonged state of severe sadness, sometimes a medical condition",
@@ -4137,7 +4579,14 @@
         "english": "There was a feeling of gloom and depression in the office when the news of the job cuts was announced.",
         "chinese": "裁员消息宣布时办公室里一片忧郁和沮丧的气氛。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "depress v. 使沮丧；使萧条",
+        "depressed adj. 沮丧的；萧条的",
+        "depressing adj. 令人沮丧的",
+        "depressive adj./n. 抑郁的；抑郁症患者",
+        "depressingly adv. 令人沮丧地"
+      ]
     },
     "70": {
       "english": "draw a line under a word or passage to mark it",
@@ -4193,7 +4642,14 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "Although by then he must have been wearing the shadow of death as an undershirt, the aroma of life stayed in his nostrils.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "shadowed adj./v. 有阴影的；shadow 的过去式／过去分词",
+        "shadowing n./v. 遮蔽；shadow 的 -ing 形式",
+        "shadowy adj. 模糊的；阴森的"
+      ],
+      "wordFamilyNote": "The expandable word is shadow; the branches show common adjective and verb forms.",
+      "wordFamilyRoot": "shadow"
     },
     "72": {
       "english": "a garment worn under a shirt",
@@ -4354,7 +4810,13 @@
         "english": "When the right opportunity comes along, she'll take it.",
         "chinese": "适当的机会来临时，她会抓住的。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "came v. come 的过去式",
+        "coming n./v. 到来；come 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around come; the branches show its common verb forms.",
+      "wordFamilyRoot": "come"
     }
   },
   "04": {
@@ -4384,7 +4846,13 @@
         "english": "Don't travel at rush hour/in the rush hour.",
         "chinese": "别在交通高峰期间出行。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "rushed adj./v. 匆忙的；rush 的过去式／过去分词",
+        "rushing n./v. 冲；rush 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The expandable word is rush; the branches show common related forms.",
+      "wordFamilyRoot": "rush"
     },
     "2": {
       "english": "belonging to places outside the capital or main cities",
@@ -4448,7 +4916,16 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "Rush hour in a provincial town is certainly not so busy as in London, but even so there are plenty of people moving about.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "moved v./adj. move 的过去式／过去分词；移动的",
+        "moving n./adj./v. 移动；感人的；move 的 -ing 形式",
+        "movement n. 移动；活动",
+        "movable adj. 可移动的",
+        "mover n. 搬运工；推动者"
+      ],
+      "wordFamilyRoot": "move",
+      "wordFamilyNote": "The phrase is built around move; the branches show common noun, adjective, and verb forms."
     },
     "4": {
       "english": "in a way that shows tiredness",
@@ -4481,7 +4958,13 @@
         "english": "He closed his eyes wearily.",
         "chinese": "他疲惫地闭上了眼睛。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "weary adj. 疲倦的；厌倦的",
+        "weariness n. 疲倦；厌倦",
+        "wearied adj./v. 疲惫的；weary 的过去式／过去分词",
+        "wearisome adj. 令人厌倦的"
+      ]
     },
     "5": {
       "english": "be stopped or slowed down",
@@ -4502,7 +4985,15 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "Never-ending lines of cars are checked while red traffic lights change to green.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "check n./v. 检查；核对",
+        "checked adj./v. 已检查的；check 的过去式／过去分词",
+        "checking n./v. 检查；核对",
+        "checkable adj. 可核查的"
+      ],
+      "wordFamilyRoot": "check",
+      "wordFamilyNote": "The phrase is built around check; the branches show common verb, noun, and adjective forms."
     },
     "6": {
       "english": "fill a place tightly with people or things",
@@ -4611,7 +5102,14 @@
         "english": "He buried his face in his hands and wept.",
         "chinese": "他双手掩面而泣。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "buried adj./v. 被埋的；bury 的过去式／过去分词",
+        "burying n./v. 埋葬；埋藏",
+        "burial n. 埋葬；葬礼"
+      ],
+      "wordFamilyRoot": "bury",
+      "wordFamilyNote": "The phrase is built around bury; the branches show common verb and noun forms."
     },
     "8": {
       "english": "without achieving the desired result",
@@ -4645,7 +5143,14 @@
         "english": "They tried in vain to persuade her to go.",
         "chinese": "他们极力劝说她去，但枉费了一番口舌。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "vain adj. 徒劳的；无结果的",
+        "vainly adv. 徒劳地；枉然地",
+        "vanity n. 徒劳；虚荣"
+      ],
+      "wordFamilyNote": "The expandable word is vain; vanity and vainly are its common noun and adverb forms.",
+      "wordFamilyRoot": "vain"
     },
     "9": {
       "english": "make fabric by interlocking loops of yarn",
@@ -4686,7 +5191,15 @@
         "english": "Lucy was sitting on the sofa, knitting.",
         "chinese": "露西坐在沙发上织毛线活儿。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "knitting n. 针织",
+        "knit v. 编织",
+        "knitted adj. 针织的",
+        "knitted / knit v./adj. knit 的过去式／过去分词；编织的",
+        "knitting n./v. 编织；针织品",
+        "knitter n. 编织者"
+      ]
     },
     "10": {
       "english": "be quite likely to happen",
@@ -4837,7 +5350,13 @@
             }
           ]
         }
-      }
+      },
+      "family": [
+        "reserve n./v. 储备；预订",
+        "reservation n. 预订；保留意见",
+        "reserving n./v. 保留；预订",
+        "reserved adj. 矜持的；预留的"
+      ]
     },
     "14": {
       "english": "giving all one's attention to something",
@@ -4893,7 +5412,13 @@
         "english": "This work had absorbed him for several years.",
         "chinese": "这项工作曾使他沉迷了好几年。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "absorb v. 吸收；全神贯注",
+        "absorbing adj. 引人入胜的；吸收的",
+        "absorption n. 吸收；专注",
+        "absorbent adj./n. 吸收性的；吸收材料"
+      ]
     },
     "15": {
       "english": "a group of people moving quickly",
@@ -4914,7 +5439,15 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "He appears to be absorbed in the sports news on the back page of his paper and ignores the hurrying crowds.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "hurry n./v. 匆忙；赶快",
+        "hurried adj./v. 匆忙的；hurry 的过去式／过去分词",
+        "hurrying n./adj./v. 匆忙；匆忙的；hurry 的 -ing 形式",
+        "hurriedly adv. 匆忙地"
+      ],
+      "wordFamilyRoot": "hurry",
+      "wordFamilyNote": "The phrase is built around hurry; the branches show common verb, adjective, and adverb forms."
     },
     "16": {
       "english": "relating to Finland; its language",
@@ -4975,7 +5508,12 @@
         "english": "Judy is a typical American teenager.",
         "chinese": "朱迪是典型的美国少年。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "typically adv. 典型地；通常",
+        "typify v. 是……的典型；代表",
+        "typicality n. 典型性"
+      ]
     },
     "18": {
       "english": "in a tidy and orderly way",
@@ -5009,7 +5547,11 @@
         "english": "neatly folded clothes",
         "chinese": "折叠整齐的衣服",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "neat adj. 整洁的；利落的",
+        "neatness n. 整洁；利落"
+      ]
     },
     "19": {
       "english": "a stiff round hat with a curved brim",
@@ -5109,7 +5651,13 @@
         "english": "Please state your height and weight.",
         "chinese": "请说明身高和体重。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "high adj./adv. 高的；高地",
+        "heighten v. 提高；加剧",
+        "heightening n./v. 提高；增强",
+        "highly adv. 高度地；非常"
+      ]
     },
     "22": {
       "english": "light in colour, especially hair or skin",
@@ -5285,7 +5833,13 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "shave n./v. 刮胡子；剃",
+        "shaved v./adj. shave 的过去式／过去分词；剃过的",
+        "shaven adj. 刮过脸的",
+        "shaving n./v. 刮脸；剃毛"
+      ]
     },
     "27": {
       "english": "a little, but not much",
@@ -5311,7 +5865,11 @@
         "english": "She smiled slightly, as if she were hiding something.",
         "chinese": "她微微一笑，好像在藏着什么。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "slight adj./n./v. 轻微的；冷落；轻视",
+        "slightness n. 轻微；纤细"
+      ]
     },
     "28": {
       "english": "not straight or properly aligned",
@@ -5401,7 +5959,14 @@
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "He is frowning a little, but the eyes beneath his worried-looking forehead are sincere and honest.",
       "dictionaryExample": null,
-      "sourceCaveat": "Excel 对应格是 worried 词条；worried-looking 是本文合成形容词，释义按语境组合。"
+      "sourceCaveat": "Excel 对应格是 worried 词条；worried-looking 是本文合成形容词，释义按语境组合。",
+      "family": [
+        "worry n./v. 担心；使担心",
+        "worried adj. 担心的",
+        "worrying adj./n. 令人担心的；担心",
+        "worrisome adj. 令人担忧的",
+        "worryingly adv. 令人担忧地"
+      ]
     },
     "31": {
       "english": "not at all",
@@ -5494,7 +6059,12 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "In fact, they are rather old, though well-brushed.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "brush n./v. 刷子；刷",
+        "brushed adj./v. 刷过的；brush 的过去式／过去分词",
+        "brushing n./v. 刷；轻擦"
+      ]
     },
     "34": {
       "english": "having fur on the inside",
@@ -5515,7 +6085,13 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "His gloves are fur-lined and his trousers well pressed.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "fur n. 毛皮；毛皮衣物",
+        "furry adj. 毛茸茸的",
+        "furrier adj. fur 的比较级",
+        "furriest adj. fur 的最高级"
+      ]
     },
     "35": {
       "english": "ironed so that the fabric looks neat",
@@ -5536,7 +6112,15 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "His gloves are fur-lined and his trousers well pressed.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "press n./v. 按压；新闻界；熨烫",
+        "pressed adj./v. 熨过的；press 的过去式／过去分词",
+        "pressing adj./n./v. 紧迫的；熨烫；按压",
+        "pressure n./v. 压力；施压"
+      ],
+      "wordFamilyRoot": "press",
+      "wordFamilyNote": "The phrase is built around press; the branches show common verb and noun forms."
     },
     "36": {
       "english": "by much more than is acceptable",
@@ -5574,7 +6158,13 @@
         "english": "She always gives us far too much homework.",
         "chinese": "她总是让我们做多得不得了的家庭作业。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "farther / further adj./adv. far 的比较级；更远；进一步",
+        "farthest / furthest adj./adv. far 的最高级；最远；最大程度"
+      ],
+      "wordFamilyRoot": "far",
+      "wordFamilyNote": "The phrase contains far; the branches show its irregular comparison forms."
     },
     "37": {
       "english": "no longer having its proper shape",
@@ -5596,7 +6186,16 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "He keeps far too many things in his pockets, so his suit looks badly out of shape.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "shape n./v. 形状；塑造",
+        "shaped adj./v. 成形的；shape 的过去式／过去分词",
+        "shaping n./v. 塑造；形成",
+        "shapely adj. 体形匀称的",
+        "shapeless adj. 无定形的；不成形的"
+      ],
+      "wordFamilyRoot": "shape",
+      "wordFamilyNote": "The phrase is built around shape; the branches show common verb and adjective forms."
     },
     "38": {
       "english": "lacking colour or visual interest",
@@ -5663,7 +6262,13 @@
         "english": "The fire died down to a dull glow.",
         "chinese": "火焰逐渐变弱，只剩些许暗淡的光。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "dulled adj./v. 变钝的；dull 的过去式／过去分词",
+        "dulling n./v. 变钝；使迟钝",
+        "dullness n. 迟钝；乏味",
+        "dully adv. 乏味地；迟钝地"
+      ]
     },
     "39": {
       "english": "no longer considered modern or stylish",
@@ -5697,7 +6302,13 @@
         "english": "His clothes were curiously old-fashioned.",
         "chinese": "他的衣服式样陈旧古怪。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "fashion n./v. 时尚；塑造",
+        "fashionable adj. 时髦的",
+        "fashionably adv. 时髦地",
+        "unfashionable adj. 不时髦的"
+      ]
     },
     "40": {
       "english": "sticking out because something is very full",
@@ -5719,7 +6330,11 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "His briefcase is old too and bulging, so that the zip-fastener does not close properly.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "bulge n./v. 鼓起；凸出",
+        "bulged v./adj. bulge 的过去式／过去分词；鼓起的"
+      ]
     },
     "41": {
       "english": "the fastening device with interlocking teeth on a bag",
@@ -5779,7 +6394,12 @@
         "english": "The television isn't working properly.",
         "chinese": "这台电视机出故障了。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "proper adj. 合适的；恰当的",
+        "propriety n. 得体；礼貌",
+        "improper adj. 不合适的；不正当的"
+      ]
     },
     "43": {
       "english": "the first letter of a person's name",
@@ -5817,7 +6437,13 @@
         "english": "John Fitzgerald Kennedy was often known by his initials JFK.",
         "chinese": "人们常以姓名的首字母 JFK 称约翰 · 菲茨杰拉德 · 肯尼迪。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "initial adj./n./v. 最初的；首字母；签姓名首字母",
+        "initially adv. 最初；起初",
+        "initiate v. 开始；发起",
+        "initiation n. 开始；入会仪式"
+      ]
     },
     "44": {
       "english": "however, used to add a contrasting afterthought",
@@ -5932,7 +6558,12 @@
         "english": "She looked very plain and dowdy.",
         "chinese": "她看起来相貌平平，衣着也显得过时。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; English example from user excerpt; Chinese translation corrected)"
-      }
+      },
+      "family": [
+        "plain adj./n. 清楚的；朴素的；平原",
+        "plainly adv. 清楚地；朴素地",
+        "plainness n. 朴素；平淡"
+      ]
     },
     "47": {
       "english": "time when a person is not working",
@@ -5965,7 +6596,11 @@
         "english": "Make the most of your leisure time!",
         "chinese": "充分利用您的休闲时间！",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "leisurely adj./adv. 悠闲的；悠闲地",
+        "leisureliness n. 悠闲；从容"
+      ]
     },
     "48": {
       "english": "a small building used for storing tools",
@@ -6089,7 +6724,11 @@
         "english": "Don't look so miserable!",
         "chinese": "别一副闷闷不乐的样子！",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "misery n. 痛苦；苦难",
+        "miserably adv. 悲惨地；极其不舒服地"
+      ]
     },
     "51": {
       "english": "a place where routes or railway lines meet",
@@ -6120,7 +6759,12 @@
         "english": "In the 19th century the town became an important railway junction.",
         "chinese": "在19世纪，该镇成为重要的铁路枢纽。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "juncture n. 关头；连接处",
+        "join v. 连接；加入",
+        "joint adj./n. 联合的；接合处"
+      ]
     },
     "52": {
       "english": "hand something over to a person in authority",
@@ -6177,7 +6821,14 @@
         "english": "We had to give our passports up to the authorities.",
         "chinese": "我们得把护照交给当局。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "gave v. give 的过去式",
+        "given v. give 的过去分词",
+        "giving n./v. 给；give 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around give; the branches show its common irregular verb forms.",
+      "wordFamilyRoot": "give"
     },
     "53": {
       "english": "extremely impressive or beautiful",
@@ -6226,7 +6877,12 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "Near it there stands another car, a magnificent Rolls-Royce, and a handsome, uniformed chauffeur is holding the door open while James Saxon steps in.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "uniform n./adj. 制服；一致的",
+        "uniformity n. 一致；统一",
+        "uniformly adv. 一致地；均匀地"
+      ]
     },
     "55": {
       "english": "a person employed to drive a private car",
@@ -6260,7 +6916,14 @@
         "english": "His chauffeur was waiting in the street outside.",
         "chinese": "他的司机在外面的街道上等着。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "chauffeur n. 专职司机",
+        "chauffeur v. 接送",
+        "chauffeurs n. chauffeur 的复数形式",
+        "chauffeured v./adj. chauffeur 的过去式／过去分词；由专职司机接送的",
+        "chauffeuring n./v. 开车接送；担任专职司机"
+      ]
     },
     "56": {
       "english": "a man who has never married",
@@ -6419,7 +7082,14 @@
         "english": "He was naturalized as a British citizen in 1940.",
         "chinese": "他于1940年被归化为英国公民。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "natural adj. 自然的；天生的",
+        "naturalize / naturalise v. 使归化；使自然化",
+        "naturalization / naturalisation n. 归化；自然化",
+        "naturally adv. 自然地；当然",
+        "unnatural adj. 不自然的"
+      ]
     }
   },
   "05": {
@@ -6497,7 +7167,15 @@
         "chinese": "申请科研补助金按常规应该怎么办？",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
-      "sourceCaveat": "本文的 follow form 指遵循求婚礼节；所给 form 词条没有单列这一搭配，语境义依据原文整理。"
+      "sourceCaveat": "本文的 follow form 指遵循求婚礼节；所给 form 词条没有单列这一搭配，语境义依据原文整理。",
+      "family": [
+        "formed adj./v. 形成的；form 的过去式／过去分词",
+        "forming n./v. 形成；构成",
+        "formation n. 形成；编队",
+        "formal adj. 正式的；形式上的",
+        "formally adv. 正式地",
+        "former adj./n. 以前的；前者"
+      ]
     },
     "2": {
       "english": "go to someone to speak to them",
@@ -6566,7 +7244,13 @@
         "english": "We have been approached by a number of companies that are interested in our product.",
         "chinese": "一些对我们的产品感兴趣的公司已和我们接洽。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "approached v. approach 的过去式／过去分词",
+        "approaching n./adj./v. 接近；临近的；approach 的 -ing 形式",
+        "approachable adj. 平易近人的；可接近的",
+        "approachability n. 平易近人；易接近"
+      ]
     },
     "3": {
       "english": "a person carrying messages between two parties",
@@ -6725,7 +7409,7 @@
         "curtain：布帘",
         "blind：调光遮帘，形式多样。"
       ],
-      "usage": "正文是 shuttered veranda，shuttered 为过去分词作定语。Excel 提供的 shutter 词条是名词“百叶窗板”；不能直接把名词释义当成 shuttered 的语境词义。",
+      "usage": "正文是 shuttered veranda，shuttered 为过去分词作定语。Excel 提供的 shutter 词条是名词“百叶窗板”；不要直接把 shutter 的名词释义套用到过去分词 shuttered；这里它作定语，表示窗户被百叶窗遮住。",
       "ipa": "/ˈʃʌtə/",
       "partOfSpeech": "adj. (past participle)",
       "word": "shutter",
@@ -6805,7 +7489,12 @@
         "english": "There is a maid to do the housework.",
         "chinese": "有个女仆做家务事。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "maid n. 女佣",
+        "maids n. maid 的复数形式",
+        "maidservant n. 女仆；女佣"
+      ]
     },
     "10": {
       "english": "moving quickly with short steps",
@@ -6842,7 +7531,11 @@
         "english": "She scuttled off when she heard the sound of his voice.",
         "chinese": "听到他的说话声，她赶紧跑开了。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "scuttle n./v. 碎步疾走；急速移动",
+        "scuttled v./adj. scuttle 的过去式／过去分词；疾走的"
+      ]
     },
     "11": {
       "english": "a long squeaking sound from movement or pressure",
@@ -6914,7 +7607,15 @@
       "otherMeaningsStatus": "present",
       "articleExample": "Then the maid brought a calling card to the drawing room, for Chie.",
       "dictionaryExample": null,
-      "sourceCaveat": "词典本义为旧时正式拜访时留下的名片；所给完整例句属于比喻义，故此处不误用为本义例句。"
+      "sourceCaveat": "词典本义为旧时正式拜访时留下的名片；所给完整例句属于比喻义，故此处不误用为本义例句。",
+      "family": [
+        "call n./v. 电话；呼叫；拜访",
+        "called v./adj. call 的过去式／过去分词；名叫……的",
+        "calling n./v. 职业；呼叫；call 的 -ing 形式",
+        "caller n. 来访者；打电话的人"
+      ],
+      "wordFamilyRoot": "call",
+      "wordFamilyNote": "The phrase contains calling; the branches show common forms of call."
     },
     "13": {
       "english": "a formal room for receiving guests",
@@ -6936,7 +7637,9 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "Then the maid brought a calling card to the drawing room, for Chie.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [],
+      "wordFamilyNote": "Drawing room is a fixed historical expression; its meaning here does not call for the ordinary draw word family."
     },
     "14": {
       "english": "comfortably warm and pleasant",
@@ -7328,7 +8031,14 @@
         "english": "You can leave your umbrella in the entry.",
         "chinese": "你可以把伞放在入口处。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "enter v. 进入；登记",
+        "entered v./adj. enter 的过去式／过去分词；登记的",
+        "entering n./v. 进入；登记",
+        "entrance n. 入口；进入",
+        "entrant n. 参加者；新加入者"
+      ]
     },
     "25": {
       "english": "thin in an attractive way",
@@ -7367,7 +8077,13 @@
         "english": "She was tall and slim.",
         "chinese": "她是个瘦高个儿。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "slimmer adj./n. slim 的比较级；减肥者",
+        "slimmest adj. slim 的最高级",
+        "slimming n./adj. 减肥；减肥的",
+        "slimness n. 苗条；纤细"
+      ]
     },
     "26": {
       "english": "bend the upper body to show respect",
@@ -7430,7 +8146,11 @@
         "english": "He bowed low to the assembled crowd.",
         "chinese": "他向集结的人群深深地鞠了一躬。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "bowed v./adj. bow 的过去式／过去分词；鞠躬的",
+        "bowing n./v. 鞠躬；弯腰"
+      ]
     },
     "27": {
       "english": "look at someone briefly",
@@ -7470,7 +8190,11 @@
         "english": "She glanced at her watch.",
         "chinese": "她匆匆看了看表。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "glanced v. glance 的过去式／过去分词",
+        "glancing n./adj./v. 一瞥；掠过的；glance 的 -ing 形式"
+      ]
     },
     "28": {
       "english": "shining because the surface is wet",
@@ -7496,7 +8220,11 @@
         "english": "The road glistened wet after the rain.",
         "chinese": "雨后的道路润泽闪亮。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "glisten v. 闪亮；闪耀",
+        "glistened v. glisten 的过去式／过去分词"
+      ]
     },
     "29": {
       "english": "extremely wet",
@@ -7545,7 +8273,15 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "articleExample": "In the glistening surface of the courtyard's rain-drenched paving stones, she saw his reflection like a dark double.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "pave v. 铺设；铺路",
+        "paved adj./v. 铺好的；pave 的过去式／过去分词",
+        "paving n./v. 铺设；铺路",
+        "pavement n. 人行道；铺面"
+      ],
+      "wordFamilyRoot": "pave",
+      "wordFamilyNote": "The phrase is built around pave; the branches show its common verb and noun forms."
     },
     "31": {
       "english": "an image seen in a shiny or wet surface",
@@ -7593,7 +8329,13 @@
         "english": "He admired his reflection in the mirror.",
         "chinese": "他欣赏着自己在镜中的影像。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "reflect v. 反射；反映；认真思考",
+        "reflected adj./v. 反射的；reflect 的过去式／过去分词",
+        "reflective adj. 反光的；深思的",
+        "reflectively adv. 反光地；深思地"
+      ]
     },
     "32": {
       "english": "an interruption to the normal course of events",
@@ -7618,7 +8360,13 @@
         "english": "We aim to help you move house with minimum disruption to yourself.",
         "chinese": "我们的宗旨是帮您搬家，并且尽量减少给您带来的不便。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "disrupt v. 扰乱；中断",
+        "disrupted adj./v. 受扰乱的；disrupt 的过去式／过去分词",
+        "disruptive adj. 造成混乱的",
+        "disruptively adv. 破坏性地"
+      ]
     },
     "33": {
       "english": "the need for immediate attention",
@@ -7650,7 +8398,11 @@
         "english": "This is a matter of some urgency.",
         "chinese": "这件事相当紧迫。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "urgent adj. 紧急的；急迫的",
+        "urgently adv. 紧急地；急切地"
+      ]
     },
     "34": {
       "english": "polite, cultured and elegant",
@@ -7766,7 +8518,14 @@
       ],
       "otherMeaningsStatus": "present",
       "articleExample": "He straightened and stole a deferential peek at her face.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "stole v. steal 的过去式",
+        "stolen v./adj. steal 的过去分词；偷来的",
+        "stealing n./v. 偷窃；偷",
+        "stealth n. 秘密行动；不声张",
+        "stealthy adj. 秘密的；鬼鬼祟祟的"
+      ]
     },
     "37": {
       "english": "showing respect for someone's position or wishes",
@@ -7892,7 +8651,17 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "Normally I would approach you more properly but I've received word of a position.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "receive v. 收到；接到",
+        "received adj./v. 收到的；receive 的过去式／过去分词",
+        "receiving n./v. 接收；收到",
+        "receiver n. 接收者；收音机",
+        "reception n. 接待；接收；反响",
+        "receptive adj. 善于接受的；愿意倾听的"
+      ],
+      "wordFamilyRoot": "receive",
+      "wordFamilyNote": "The phrase is built around receive; the branches show common noun, adjective, and verb forms."
     },
     "41": {
       "english": "a city in the northwestern United States",
@@ -7952,7 +8721,13 @@
         "english": "Her eyes twinkled with amusement.",
         "chinese": "她的眼睛闪耀着愉悦的光芒。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "amuse v. 使发笑；使消遣",
+        "amused adj. 愉快的；被逗乐的",
+        "amusing adj. 有趣的；好笑的",
+        "amusingly adv. 有趣地"
+      ]
     },
     "43": {
       "english": "notice or observe something",
@@ -8021,7 +8796,14 @@
         "english": "There are a few points here that are worth noting.",
         "chinese": "这儿有几点值得注意。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "noted adj./v. 著名的；note 的过去式／过去分词",
+        "noting n./v. 注意到；记录",
+        "notation n. 记号；符号系统",
+        "notable adj./n. 值得注意的；名人",
+        "noteworthy adj. 值得注意的"
+      ]
     },
     "44": {
       "english": "say a message in a particular manner",
@@ -8078,7 +8860,14 @@
         "english": "The video delivers a clear message about road safety.",
         "chinese": "该视频清楚地传达了有关道路安全的信息。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "delivered adj./v. 交付的；deliver 的过去式／过去分词",
+        "delivering n./v. 递送；发表",
+        "delivery n. 递送；交付；分娩",
+        "deliverer n. 递送者；履行者",
+        "deliverable n./adj. 可交付成果；可交付的"
+      ]
     },
     "45": {
       "english": "cause someone to feel a particular emotion",
@@ -8140,7 +8929,15 @@
         "english": "We were all filled with admiration for his achievements.",
         "chinese": "我们都十分佩服他的成就。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "fill v. 装满；使充满",
+        "filled adj./v. 充满的；fill 的过去式／过去分词",
+        "filling n./adj./v. 填充；馅料；充实的",
+        "filler n. 填充物；填料"
+      ],
+      "wordFamilyRoot": "fill",
+      "wordFamilyNote": "The phrase is built around fill; the branches show common noun and verb forms."
     },
     "46": {
       "english": "relating to a mother or her feelings",
@@ -8207,7 +9004,11 @@
         "english": "He gazed earnestly into my eyes.",
         "chinese": "他认真地凝视着我的眼睛。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "earnest adj. 认真的；诚挚的",
+        "earnestness n. 认真；诚挚"
+      ]
     },
     "48": {
       "english": "in a quick and rushed manner",
@@ -8233,7 +9034,12 @@
         "english": "I hurriedly got up and dressed.",
         "chinese": "我急忙起床穿好衣服。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "hurry n./v. 匆忙；赶快",
+        "hurried adj./v. 匆忙的；hurry 的过去式／过去分词",
+        "hurrying n./v. 匆忙；hurry 的 -ing 形式"
+      ]
     },
     "49": {
       "english": "in a way that makes others feel affection",
@@ -8325,7 +9131,13 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "I've come to ask for Naomi's hand.\"",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "asked v. ask 的过去式／过去分词",
+        "asking n./v. 询问；请求；ask 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around ask; the branches show common verb forms.",
+      "wordFamilyRoot": "ask"
     },
     "52": {
       "english": "a slightly wet quality or feeling",
@@ -8351,7 +9163,13 @@
         "english": "To avoid dampness, air the room regularly.",
         "chinese": "为避免潮湿，房间要经常通风。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "damp adj./n./v. 潮湿的；潮气；使潮湿",
+        "dampen v. 弄湿；减弱",
+        "dampened adj./v. 潮湿的；dampen 的过去式／过去分词",
+        "damply adv. 潮湿地"
+      ]
     },
     "53": {
       "english": "the status of being considered for a role",
@@ -8428,7 +9246,13 @@
         "english": "What it comes down to is either I get more money or I leave.",
         "chinese": "归结起来就是：不给我加薪，我就辞职。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "came v. come 的过去式",
+        "coming n./v. 到来；come 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around come; the branches show its common verb forms.",
+      "wordFamilyRoot": "come"
     },
     "56": {
       "english": "permission or agreement given by someone in authority",
@@ -8466,7 +9290,13 @@
         "english": "I can't agree to anything without my partner's approval.",
         "chinese": "没有合伙人的认可我什么也不能答应。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "approve v. 批准；赞成",
+        "approved adj./v. 经批准的；approve 的过去式／过去分词",
+        "approving adj. 赞许的",
+        "approvingly adv. 赞许地"
+      ]
     },
     "57": {
       "english": "permission or agreement freely given",
@@ -8572,7 +9402,15 @@
         "english": "He secured a place for himself at law school.",
         "chinese": "他被法学院录取了。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "secured adj./v. 安全的；secure 的过去式／过去分词",
+        "securing n./v. 保护；确保",
+        "security n. 安全；保障",
+        "securely adv. 安全地；牢固地",
+        "insecure adj. 不安全的；缺乏信心的",
+        "insecurity n. 不安全；不安"
+      ]
     },
     "60": {
       "english": "express an idea clearly and persuasively",
@@ -8627,7 +9465,16 @@
         "chinese": "好了，你已经把话说清楚了！",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
-      "sourceCaveat": "Excel 对应格是 point 名词词条；未直接给出本文 make one’s point 的完整释义。"
+      "sourceCaveat": "Excel 对应格是 point 名词词条；未直接给出本文 make one’s point 的完整释义。",
+      "family": [
+        "pointed adj. 尖锐的；明确的",
+        "pointing n./v. 指向；point 的 -ing 形式",
+        "pointer n. 指示物；指针",
+        "pointless adj. 无意义的；无谓的",
+        "pointlessly adv. 无意义地"
+      ],
+      "wordFamilyNote": "The expandable word is point; the branches show common adjective, adverb, and noun forms.",
+      "wordFamilyRoot": "point"
     },
     "61": {
       "english": "look directly at someone's face without turning away",
@@ -8648,7 +9495,15 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "articleExample": "Eager to make his point, he'd been looking her full in the face.",
-      "dictionaryExample": null
+      "dictionaryExample": null,
+      "family": [
+        "faced v. face 的过去式／过去分词",
+        "facing n./v. 面对；face 的 -ing 形式",
+        "facial adj. 面部的",
+        "face-to-face adj./adv. 面对面的；面对面地"
+      ],
+      "wordFamilyNote": "The expandable word is face; the branches show common verb and adjective forms.",
+      "wordFamilyRoot": "face"
     },
     "62": {
       "english": "suddenly, with little preparation or transition",
@@ -8754,7 +9609,12 @@
         "english": "My humble apologies. I did not understand.",
         "chinese": "对不起。我没有弄懂。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "humbly adv. 谦逊地；卑微地",
+        "humility n. 谦逊；谦卑",
+        "humbleness n. 谦逊；卑微"
+      ]
     },
     "65": {
       "english": "relax comfortably and without hurry",
@@ -8804,7 +9664,17 @@
       "otherMeaningsStatus": "present",
       "articleExample": "Taking her ease, with effortless grace, like a cat making off with a fish.",
       "dictionaryExample": null,
-      "sourceCaveat": "Excel 此行提供的是 ease 词条，没有 take one's ease 这一完整表达的独立词典释义；语境词义按文章整理，其他义项来自所附 ease 词条。"
+      "sourceCaveat": "The supplied Excel row lists ease but has no separate dictionary entry for the full phrase take one's ease. This contextual explanation is based on the article; any additional senses shown come from the supplied ease entry.",
+      "family": [
+        "eased v. ease 的过去式／过去分词",
+        "easing n./v. 缓解；ease 的 -ing 形式",
+        "easy adj. 轻松的；安逸的",
+        "easily adv. 容易地；轻松地",
+        "uneasy adj. 不安的；不自在的",
+        "uneasily adv. 不安地"
+      ],
+      "wordFamilyNote": "The phrase is built around ease; the branches show its common noun, verb, and adjective forms.",
+      "wordFamilyRoot": "ease"
     },
     "66": {
       "english": "take something and leave quickly",
@@ -8830,7 +9700,13 @@
         "english": "Thieves made off with $30 000 worth of computer equipment.",
         "chinese": "盗贼抢走了价值3万美元的计算机设备。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "made v. make 的过去式／过去分词",
+        "making n./v. 制作；make 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around make; the branches show its common verb forms.",
+      "wordFamilyRoot": "make"
     },
     "67": {
       "english": "so unreasonable that it seems absurd",
@@ -8949,7 +9825,13 @@
       "otherMeaningsStatus": "present",
       "articleExample": "He thinks he can marry the Fuji heir and take her to America all in the snap of his fingers!\"",
       "dictionaryExample": null,
-      "sourceCaveat": "Excel 此行提供的是 snap 词条，没有 in the snap of one's fingers 这一完整表达的独立词典释义；语境词义按文章整理，其他义项来自所附 snap 词条。"
+      "sourceCaveat": "The supplied Excel row lists snap but has no separate dictionary entry for the full phrase in the snap of one's fingers. This contextual explanation is based on the article; any additional senses shown come from the supplied snap entry.",
+      "family": [
+        "snapped v. snap 的过去式／过去分词",
+        "snapping n./v. 啪地折断；snap 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The expandable word is snap; the branches show its common verb forms.",
+      "wordFamilyRoot": "snap"
     },
     "70": {
       "english": "full, ready-to-burst laughter",
@@ -8993,7 +9875,14 @@
       "otherMeaningsStatus": "present",
       "articleExample": "Chie waited for Naomi's ripe laughter.",
       "dictionaryExample": null,
-      "sourceCaveat": "Excel 此行提供的是 ripe 词条，没有 ripe laughter 这一完整表达的独立词典释义；语境词义按文章整理，其他义项来自所附 ripe 词条。"
+      "sourceCaveat": "The supplied Excel row lists ripe but has no separate dictionary entry for the phrase ripe laughter. This contextual explanation is based on the article; any additional senses shown come from the supplied ripe entry.",
+      "family": [
+        "ripe adj. 成熟的；时机成熟的",
+        "ripened adj./v. 成熟的；ripen 的过去式／过去分词",
+        "ripeness n. 成熟；适宜"
+      ],
+      "wordFamilyRoot": "ripe",
+      "wordFamilyNote": "The phrase is built around ripe; the branches show its common verb and noun forms."
     },
     "71": {
       "english": "intend to do something",
@@ -9057,7 +9946,14 @@
         "english": "She means to succeed.",
         "chinese": "她一意求成。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      }
+      },
+      "family": [
+        "means v. mean (intend) 的第三人称单数",
+        "meant v. mean (intend) 的过去式／过去分词",
+        "meaning v. mean to do 的 -ing 形式；打算"
+      ],
+      "wordFamilyRoot": "mean",
+      "wordFamilyNote": "The phrase uses mean to do in the sense ‘intend’; only forms of that verb are included."
     }
   }
 }

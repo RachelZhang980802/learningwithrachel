@@ -5,6 +5,7 @@ import type { Lesson, LessonSentence } from "./articleLessons";
 import type { StructureNode } from "./structureDiagram";
 
 import { syntaxColors } from "./articleSyntaxLabels";
+import { getSentenceLearningLevel } from "./sentenceLearningLevel";
 
 export const article01SyntaxKey: Record<string, { label: string; color: string }> = {
  appositive: { label: "Appositive clause", color: syntaxColors.appositive },
@@ -83,7 +84,7 @@ export const article01ReadingLesson: Lesson = {
  sentences: Object.entries(article01Annotations).map(([id, a]) => withArticle01Structure({
   id: Number(id), text: a.text, paragraph: a.paragraph, paragraphStart: a.paragraphStart, paragraphEnd: a.paragraphEnd,
   functions: a.functions, clauses: [], note: a.notes[0], pdfNotes: [],
-  classification: classification.sentences[Number(id) - 1],
+  classification: { ...classification.sentences[Number(id) - 1], studyLevel: getSentenceLearningLevel("01", Number(id), classification.sentences[Number(id) - 1].type) },
   audioSrc: "", translation: article01Translations[a.text] ?? "", paraphrase: "", reuse: { pattern: "", zh: "", en: "" },
  })),
 };

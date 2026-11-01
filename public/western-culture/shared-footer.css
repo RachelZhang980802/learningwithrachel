@@ -1,9 +1,90 @@
-.shared-campus-footer{width:100%;height:230px;min-height:230px;box-sizing:border-box;margin:40px 0 0;padding:28px max(32px,calc((100% - 1380px)/2)) 22px!important;position:relative;display:flex!important;flex-direction:column;align-items:center;justify-content:center;gap:8px;background:#101216!important;color:#eef0f1!important}
-.shared-campus-footer .university-identity{display:flex;flex-direction:column;align-items:center;gap:3px;margin:0}
-.shared-campus-footer .university-identity strong,.shared-campus-footer .review-university-name,.shared-campus-footer .quiz-footer-name{font:500 22px/1 Georgia,'Times New Roman',serif;letter-spacing:.06em;text-align:center;color:#eef0f1}
-.shared-campus-footer .university-identity em{margin:0;font:500 16px/1 Georgia,'Times New Roman',serif;font-style:normal;letter-spacing:.16em;color:#eef0f1}
-.shared-campus-footer img{display:block;width:78px!important;height:78px!important;object-fit:contain;margin:0!important}
-.shared-campus-footer>small,.shared-campus-footer .review-footer-meta{position:absolute;left:max(32px,calc((100% - 1380px)/2));right:max(32px,calc((100% - 1380px)/2));bottom:18px;margin:0;color:#9ea8b2;font:13px/1.35 Arial,sans-serif;letter-spacing:0}
-.shared-campus-footer .review-footer-meta{display:flex;align-items:center;justify-content:space-between;width:auto}
-.shared-campus-footer a{color:inherit;font:inherit}
-@media(max-width:650px){.shared-campus-footer{padding:22px 16px 18px!important}.shared-campus-footer>small,.shared-campus-footer .review-footer-meta{left:16px;right:16px;bottom:18px;font-size:11px}}
+/* Shared by the app shell and every standalone course page. */
+#site-footer.library-footer {
+  position: relative;
+  inset: auto;
+  z-index: 1;
+  width: 100%;
+  height: auto;
+  min-height: 190px;
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 18px 28px 12px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: 1fr auto;
+  justify-content: normal;
+  justify-items: center;
+  align-items: center;
+  gap: 14px;
+  overflow: visible;
+  background: #101216;
+  color: #eef0f1;
+  text-align: center;
+}
+#site-footer .library-footer-identity {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  transform: none;
+}
+#site-footer .library-footer-identity span { display: block; }
+#site-footer .library-footer-identity strong {
+  display: block;
+  font: 500 20px/1.15 Georgia, 'Times New Roman', serif;
+  letter-spacing: .06em;
+}
+#site-footer .library-footer-identity em {
+  display: block;
+  font: normal 500 14px/1.2 Georgia, 'Times New Roman', serif;
+  letter-spacing: .16em;
+}
+#site-footer .library-footer-identity img {
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 0;
+  object-fit: contain;
+}
+#site-footer .library-footer-registrations,
+#site-footer .library-footer-registrations > * {
+  position: static;
+  inset: auto;
+  transform: none;
+  margin: 0;
+  color: #aeb5bb;
+  font: 12px/1.5 Arial, 'PingFang SC', sans-serif;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+#site-footer .library-footer-registrations {
+  width: min(1200px, 100%);
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: end;
+  gap: 24px;
+}
+#site-footer .library-footer-registrations > :first-child { text-align: left; }
+#site-footer .library-footer-registrations > :last-child { text-align: right; }
+#site-footer .library-footer-registrations a { color: inherit; text-decoration: none; }
+#site-footer .library-footer-registrations a:hover { color: #fff; text-decoration: underline; }
+#site-footer a:focus-visible { outline: 2px solid #eef0f1; outline-offset: 4px; }
+/* Preserve the standalone canvas, with its footer below the workspace. */
+html.standalone-mindmap body { height: auto; min-height: 100dvh; overflow-y: auto; }
+html.standalone-mindmap body:not(.worksheet-mode) .workspace { flex: none; height: max(480px, calc(100dvh - 240px)); }
+@media (max-width: 760px) {
+  #site-footer.library-footer { padding: 16px 16px 12px; gap: 10px; }
+  #site-footer .library-footer-identity strong { font-size: 18px; }
+  #site-footer .library-footer-identity img { width: 60px; height: 60px; }
+  #site-footer .library-footer-registrations { gap: 12px; }
+  #site-footer .library-footer-registrations > * {
+    min-width: 0;
+    font-size: 10px;
+    line-height: 1.4;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    text-wrap: balance;
+  }
+}

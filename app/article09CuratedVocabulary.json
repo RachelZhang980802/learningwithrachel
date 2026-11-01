@@ -23,7 +23,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "twisted adj./v. 弯曲的；twist 的过去式／过去分词",
+        "twisting n./v. 扭转；twist 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around twist; the branches show common verb forms.",
+      "wordFamilyRoot": "twist"
     },
     "1": {
       "word": "tinge",
@@ -99,13 +105,19 @@
           "exampleChinese": "孩子绊了一下，摔倒了。"
         },
         {
-          "english": "stumble (over/through something) to make a mistake or mistakes and stop while you are speaking, reading to somebody or playing music（",
-          "chinese": "不顺畅地）说，读，演奏",
+          "english": "stumble (over/through something) to make a mistake or mistakes and stop while you are speaking, reading to somebody or playing music",
+          "chinese": "（不顺畅地）说，读，演奏",
           "exampleEnglish": "In her nervousness she stumbled over her words.",
           "exampleChinese": "她因紧张说话结结巴巴的。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "stumbled v. stumble 的过去式／过去分词",
+        "stumbling n./adj./v. 踉跄；跌跌撞撞的；stumble 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around stumble; the branches show common verb forms.",
+      "wordFamilyRoot": "stumble"
     },
     "55": {
       "word": "jungle-wrapped",
@@ -156,7 +168,14 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "condensed adj./v. 浓缩的；condense 的过去式／过去分词",
+        "condensing n./v. 浓缩；condense 的 -ing 形式",
+        "condensation n. 浓缩；凝结"
+      ],
+      "wordFamilyNote": "The expandable word is condense; the branches show its common noun and verb forms.",
+      "wordFamilyRoot": "condense"
     },
     "4": {
       "word": "abbreviated stay",
@@ -181,7 +200,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "abbreviated adj./v. 缩短的；abbreviate 的过去式／过去分词",
+        "abbreviating n./v. 缩写；缩短；abbreviate 的 -ing 形式",
+        "abbreviation n. 缩写；缩略形式"
+      ],
+      "wordFamilyNote": "The expandable word is abbreviate; the branches show its common noun and verb forms.",
+      "wordFamilyRoot": "abbreviate"
     },
     "5": {
       "word": "interloper",
@@ -257,8 +283,8 @@
       },
       "otherMeanings": [
         {
-          "english": "to bring your hand, or an object you are holding, against somebody/something quickly and with force（",
-          "chinese": "用手或器具）击，打"
+          "english": "to bring your hand, or an object you are holding, against somebody/something quickly and with force",
+          "chinese": "（用手或器具）击，打"
         },
         {
           "english": "to come against something/somebody with force, especially causing damage or injury",
@@ -310,7 +336,13 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "一个词卡覆盖同句中的 hit（去到）与 greatest hits（热门精选，借指必看景点）；摘录中的 hit 动词和名词本义分开核对。"
+      "sourceCaveat": "一个词卡覆盖同句中的 hit（去到）与 greatest hits（热门精选，借指必看景点）；摘录中的 hit 动词和名词本义分开核对。",
+      "family": [
+        "hits v. hit 的第三人称单数；热门作品的复数形式",
+        "hitting n./v. 击中；访问；hit 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase contains hit; the branches show common inflected forms without extending into unrelated meanings.",
+      "wordFamilyRoot": "hit"
     },
     "58": {
       "word": "going wisdom",
@@ -332,7 +364,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "went v. go 的过去式",
+        "gone v. go 的过去分词",
+        "goes v. go 的第三人称单数"
+      ],
+      "wordFamilyNote": "The phrase contains go; the branches show its common irregular verb forms.",
+      "wordFamilyRoot": "go"
     },
     "6": {
       "word": "recur",
@@ -398,7 +437,12 @@
           "exampleChinese": "尼古拉斯（Nicholas）于11月被诊断出患有这种罕见病，此后就开始接受积极治疗。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "aggression n. 侵略；攻击性",
+        "aggressively adv. 挑衅地；积极进取地",
+        "aggressiveness n. 攻击性；进取心"
+      ]
     },
     "7": {
       "word": "directive",
@@ -483,7 +527,14 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "scooped v./adj. scoop 的过去式／过去分词；舀出的",
+        "scooping n./v. 舀取；独家报道；scoop 的 -ing 形式",
+        "scoopful n. 一满勺；一铲"
+      ],
+      "wordFamilyNote": "The expandable word is scoop; the branches show common verb and noun forms.",
+      "wordFamilyRoot": "scoop"
     },
     "60": {
       "word": "in the know",
@@ -505,7 +556,17 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。",
+      "family": [
+        "knew v. know 的过去式",
+        "known v./adj. know 的过去分词；已知的",
+        "knowing adj./n. 会意的；知情；know 的 -ing 形式",
+        "knowledge n. 知识；了解",
+        "knowledgeable adj. 知识渊博的；了解内情的",
+        "unknown adj./n. 未知的；未知事物"
+      ],
+      "wordFamilyNote": "The phrase is built around know; the branches show its common verb and noun forms.",
+      "wordFamilyRoot": "know"
     },
     "10": {
       "word": "farce",
@@ -565,7 +626,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。",
+      "family": [
+        "paradox n. 悖论；矛盾的人或事",
+        "paradoxically adv. 看似矛盾地；出人意料地"
+      ],
+      "wordFamilyNote": "The expandable word is paradoxical; paradox is its common related noun.",
+      "wordFamilyRoot": "paradoxical"
     },
     "12": {
       "word": "laundry",
@@ -729,7 +796,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "strolled v. stroll 的过去式／过去分词",
+        "strolling n./v. 闲逛；stroll 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around stroll; the branches show common verb forms.",
+      "wordFamilyRoot": "stroll"
     },
     "61": {
       "word": "stunning",
@@ -761,7 +834,12 @@
           "exampleChinese": "他在选举中惨败。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "stun v. 使震惊；使昏迷",
+        "stunned adj./v. 震惊的；stun 的过去式／过去分词",
+        "stunningly adv. 令人震惊地；极其"
+      ]
     },
     "17": {
       "word": "promenade",
@@ -790,12 +868,12 @@
       },
       "otherMeanings": [
         {
-          "english": "a walk that you take for pleasure or exercise, especially by the sea, in a public park, etc.（",
-          "chinese": "尤指在海滨、公园等的）散步，漫步"
+          "english": "a walk that you take for pleasure or exercise, especially by the sea, in a public park, etc.",
+          "chinese": "（尤指在海滨、公园等的）散步，漫步"
         },
         {
-          "english": "to walk up and down in a relaxed way, by the sea, in a public park, etc.（",
-          "chinese": "在海滨、公园等）散步，漫步"
+          "english": "to walk up and down in a relaxed way, by the sea, in a public park, etc.",
+          "chinese": "（在海滨、公园等）散步，漫步"
         }
       ],
       "otherMeaningsStatus": "present"
@@ -826,7 +904,14 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "gawked v. gawk 的过去式／过去分词",
+        "gawking n./v. 傻看；gawk 的 -ing 形式",
+        "gawker n. 呆看的人；傻看者"
+      ],
+      "wordFamilyNote": "The phrase is built around gawk; the branches show common verb forms.",
+      "wordFamilyRoot": "gawk"
     },
     "62": {
       "word": "crank-your-neck-tall",
@@ -959,8 +1044,8 @@
       },
       "otherMeanings": [
         {
-          "english": "to travel regularly by bus, train, car, etc. between your place of work and your home（",
-          "chinese": "乘公共汽车、火车、汽车等）上下班往返，经常往返（于两地）"
+          "english": "to travel regularly by bus, train, car, etc. between your place of work and your home",
+          "chinese": "（乘公共汽车、火车、汽车等）上下班往返，经常往返（于两地）"
         },
         {
           "english": "commute something (to something) (law) to replace one punishment with another that is less severe",
@@ -975,7 +1060,12 @@
           "exampleChinese": "投入的资本将转换为贷款。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "commuted v. commute 的过去式／过去分词",
+        "commuting n./v. 通勤；减刑",
+        "commuter n. 通勤者"
+      ]
     },
     "65": {
       "word": "scurry",
@@ -1007,7 +1097,11 @@
           "exampleChinese": "为了安全而奔跑的动物"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "scurried v. scurry 的过去式／过去分词",
+        "scurrying n./adj./v. 急跑；匆忙的；scurry 的 -ing 形式"
+      ]
     },
     "21": {
       "word": "pharmacy",
@@ -1036,8 +1130,8 @@
       },
       "otherMeanings": [
         {
-          "english": "a place in a hospital where medicines are prepared（",
-          "chinese": "医院的）药房，配药室"
+          "english": "a place in a hospital where medicines are prepared",
+          "chinese": "（医院的）药房，配药室"
         },
         {
           "english": "the study of how to prepare medicines and drugs",
@@ -1108,7 +1202,12 @@
           "exampleChinese": "就算有人反驳，我也敢说…"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "contradict v. 与……矛盾；反驳",
+        "contradictory adj. 矛盾的；相反的",
+        "contradictorily adv. 矛盾地"
+      ]
     },
     "67": {
       "word": "Chilango",
@@ -1181,8 +1280,8 @@
       },
       "otherMeanings": [
         {
-          "english": "nibble (at something) to show a slight interest in an offer, idea, etc.（",
-          "chinese": "对…）略微表现出兴趣",
+          "english": "nibble (at something) to show a slight interest in an offer, idea, etc.",
+          "chinese": "（对…）略微表现出兴趣",
           "exampleEnglish": "He nibbled at the idea, but would not make a definite decision.",
           "exampleChinese": "他对这个主意略感兴趣，但还不愿意作出明确决定。"
         },
@@ -1193,8 +1292,8 @@
           "exampleChinese": "我从饼干里拿了一口。"
         },
         {
-          "english": "nibbles [plural] small things to eat with a drink before a meal or at a party（",
-          "chinese": "餐前或聚会中的）点心，小吃",
+          "english": "nibbles [plural] small things to eat with a drink before a meal or at a party",
+          "chinese": "（餐前或聚会中的）点心，小吃",
           "exampleEnglish": "wine and nibbles",
           "exampleChinese": "酒和小吃"
         }
@@ -1225,7 +1324,11 @@
           "chinese": "油酥面团；油酥面皮"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "pastries n. pastry 的复数形式",
+        "pastry-making n. 糕点制作"
+      ]
     },
     "70": {
       "word": "overlook",
@@ -1257,19 +1360,23 @@
           "exampleChinese": "他好像忽略了一个重要的事实。"
         },
         {
-          "english": "overlook something to see something wrong or bad but decide to ignore it（",
-          "chinese": "对不良现象等）不予理会，视而不见",
+          "english": "overlook something to see something wrong or bad but decide to ignore it",
+          "chinese": "（对不良现象等）不予理会，视而不见",
           "exampleEnglish": "We could not afford to overlook such a serious offence.",
           "exampleChinese": "对这样严重的违法行为，我们决不能视若无睹。"
         },
         {
-          "english": "overlook somebody (for something) to not consider somebody for a job or position, even though they might be suitable（",
-          "chinese": "提拔等时）对（某人）不予考虑",
+          "english": "overlook somebody (for something) to not consider somebody for a job or position, even though they might be suitable",
+          "chinese": "（提拔等时）对（某人）不予考虑",
           "exampleEnglish": "She's been overlooked for promotion several times.",
           "exampleChinese": "几次提职时都没有考虑她"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "overlooked adj./v. 被忽视的；overlook 的过去式／过去分词",
+        "overlooking n./v. 忽略；俯瞰"
+      ]
     },
     "71": {
       "word": "tuck",
@@ -1291,7 +1398,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "tucked v. tuck 的过去式／过去分词",
+        "tucking n./v. 掖好；塞入"
+      ]
     },
     "72": {
       "word": "save up",
@@ -1343,7 +1454,15 @@
           "exampleChinese": "我收藏剧院的节目单已有多年了。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "saved v./adj. save 的过去式／过去分词；已存下的",
+        "saving n./adj./v. 储蓄；节省的；save 的 -ing 形式",
+        "savings n. 存款；储蓄",
+        "saver n. 储蓄者；节省型产品"
+      ],
+      "wordFamilyRoot": "save",
+      "wordFamilyNote": "The phrase is built around save; the branches show common noun and verb forms."
     },
     "24": {
       "word": "sojourn",
@@ -1483,7 +1602,14 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "drained adj./v. 耗尽的；drain 的过去式／过去分词",
+        "draining adj./n./v. 令人疲惫的；排水；drain 的 -ing 形式",
+        "drainage n. 排水；排出物"
+      ],
+      "wordFamilyNote": "The phrase is built around drain; the branches show common noun and verb forms.",
+      "wordFamilyRoot": "drain"
     },
     "73": {
       "word": "wander",
@@ -1539,7 +1665,12 @@
           "exampleChinese": "我去公园转了一圈。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "wandered v. wander 的过去式／过去分词",
+        "wandering n./adj./v. 漫游；漫游的；wander 的 -ing 形式",
+        "wanderer n. 漫游者；流浪者"
+      ]
     },
     "29": {
       "word": "sore",
@@ -1778,7 +1909,14 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "arose v. arise 的过去式",
+        "arisen v. arise 的过去分词",
+        "arising adj./v. 新出现的；arise 的 -ing 形式"
+      ],
+      "wordFamilyRoot": "arise",
+      "wordFamilyNote": "The phrase is built around arise; the branches show its irregular verb forms."
     },
     "36": {
       "word": "ineptitude",
@@ -1835,8 +1973,8 @@
       },
       "otherMeanings": [
         {
-          "english": "food, drink or services that are provided by an organization for guests, customers, etc.（",
-          "chinese": "款待客人、顾客等的）食物，饮料，服务；款待",
+          "english": "food, drink or services that are provided by an organization for guests, customers, etc.",
+          "chinese": "（款待客人、顾客等的）食物，饮料，服务；款待",
           "exampleEnglish": "We were entertained in the company's hospitality suite.",
           "exampleChinese": "公司款待我们住进他们的迎宾套间。"
         }
@@ -1870,14 +2008,14 @@
       },
       "otherMeanings": [
         {
-          "english": "a statement made by somebody or for somebody who is accused of a crime（",
-          "chinese": "被告或被告律师的）诉讼抗辩，答辩",
+          "english": "a statement made by somebody or for somebody who is accused of a crime",
+          "chinese": "（被告或被告律师的）诉讼抗辩，答辩",
           "exampleEnglish": "a plea of guilty/not guilty",
           "exampleChinese": "承认／不承认有罪"
         },
         {
-          "english": "plea of something (law) a reason given to a court for doing or not doing something（",
-          "chinese": "向法庭提供的）理由，借口，辩解",
+          "english": "plea of something (law) a reason given to a court for doing or not doing something",
+          "chinese": "（向法庭提供的）理由，借口，辩解",
           "exampleEnglish": "He was charged with murder, but got off on a plea of insanity.",
           "exampleChinese": "他被指控犯了谋杀罪，但以精神错乱为由逃过惩罚。"
         }
@@ -1947,8 +2085,8 @@
       },
       "otherMeanings": [
         {
-          "english": "to ask somebody formally to go somewhere or do something; to make a formal or polite request for something（",
-          "chinese": "正式）邀请，请求，要求",
+          "english": "to ask somebody formally to go somewhere or do something; to make a formal or polite request for something",
+          "chinese": "（正式）邀请，请求，要求",
           "exampleEnglish": "The bishop invited representatives from all the parishes in the diocese.",
           "exampleChinese": "主教邀请了教区所有教区的代表。"
         },
@@ -1960,7 +2098,13 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文 invite 是口语名词；摘录主要收录动词，仅保留其中明确出现的名词例句。"
+      "sourceCaveat": "本文 invite 是口语名词；摘录主要收录动词，仅保留其中明确出现的名词例句。",
+      "family": [
+        "invited adj./v. 受邀的；invite 的过去式／过去分词",
+        "inviting adj./v. 吸引人的；邀请",
+        "invitation n. 邀请；请柬",
+        "inviter n. 邀请者"
+      ]
     },
     "76": {
       "word": "kintsugi",
@@ -2368,7 +2512,15 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "stuck v./adj. stick 的过去式／过去分词；卡住的",
+        "sticking n./v. 粘住；stick 的 -ing 形式",
+        "sticky adj. 黏的；棘手的",
+        "stickiness n. 黏性；棘手"
+      ],
+      "wordFamilyNote": "The phrase is built around stick; the branches show common verb and adjective forms.",
+      "wordFamilyRoot": "stick"
     },
     "79": {
       "word": "middle-schoolish",
@@ -2390,7 +2542,12 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。",
+      "family": [
+        "middle school n. 初中；中学阶段",
+        "school n./v. 学校；教育；训练",
+        "schooling n. 教育；学校教育"
+      ]
     },
     "80": {
       "word": "fit in",
@@ -2428,7 +2585,15 @@
           "exampleChinese": "我们没有地方再摆更多的椅子了。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "fit v./adj. 适合；健康的",
+        "fitted / fit v. fit 的过去式／过去分词",
+        "fitting adj./n./v. 合适的；配件；使合适",
+        "fitness n. 健康；适合"
+      ],
+      "wordFamilyRoot": "fit",
+      "wordFamilyNote": "The phrase is built around fit; the branches show common verb, adjective, and noun forms."
     },
     "81": {
       "word": "customs",
@@ -2454,14 +2619,14 @@
       },
       "otherMeanings": [
         {
-          "english": "(British English also Revenue and Customs) the government department that collects taxes on goods bought and sold and on goods brought into the country, and that checks what is brought in（",
-          "chinese": "政府部门）海关",
+          "english": "(British English also Revenue and Customs) the government department that collects taxes on goods bought and sold and on goods brought into the country, and that checks what is brought in",
+          "chinese": "（政府部门）海关",
           "exampleEnglish": "The Customs have seized large quantities of smuggled heroin.",
           "exampleChinese": "海关查获了大量走私的海洛因。"
         },
         {
-          "english": "the place at a port or an airport where your bags are checked as you come into a country（",
-          "chinese": "港口或机场的）海关",
+          "english": "the place at a port or an airport where your bags are checked as you come into a country",
+          "chinese": "（港口或机场的）海关",
           "exampleEnglish": "to go through customs and passport control",
           "exampleChinese": "通过海关和交验护照"
         },
@@ -2472,14 +2637,20 @@
           "exampleChinese": "你必须为所有进口的酒缴纳关税。"
         },
         {
-          "english": "the way a person always behaves（",
-          "chinese": "个人的）习惯，习性，惯常行为",
+          "english": "the way a person always behaves",
+          "chinese": "（个人的）习惯，习性，惯常行为",
           "exampleEnglish": "It was her custom to rise early.",
           "exampleChinese": "早起是她的习惯。"
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文 customs 是 custom（习俗）的复数；摘录开头另有 Customs（海关），两者需要区分。"
+      "sourceCaveat": "本文 customs 是 custom（习俗）的复数；摘录开头另有 Customs（海关），两者需要区分。",
+      "family": [
+        "custom n. 习俗；惯例",
+        "customary adj. 习惯上的；惯常的",
+        "customarily adv. 按惯例；通常",
+        "customs n. 海关；关税"
+      ]
     },
     "50": {
       "word": "likelihood",
@@ -2529,7 +2700,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
+      "family": [
+        "happened v. happen 的过去式／过去分词",
+        "happening n./adj./v. 事件；时髦的；发生"
+      ],
+      "wordFamilyRoot": "happen",
+      "wordFamilyNote": "The phrase is built around happen; the branches show common verb and noun forms."
     },
     "51": {
       "word": "muddy",
@@ -2615,14 +2792,14 @@
           "chinese": "乘船游览"
         },
         {
-          "english": "(of a car, plane, etc.",
-          "chinese": "汽车、飞机等) to travel at a steady speed以平稳的速度行驶",
+          "english": "(of a car, plane, etc.) to travel at a steady speed",
+          "chinese": "（指汽车、飞机等）以平稳速度行驶",
           "exampleEnglish": "a light aircraft cruising at 4 000 feet",
           "exampleChinese": "一架在 4 000 英尺高度巡航的轻型飞机"
         },
         {
-          "english": "to drive along slowly, especially when you are looking at or for something（",
-          "chinese": "尤指查看或寻找时）慢速行驶，巡行",
+          "english": "to drive along slowly, especially when you are looking at or for something",
+          "chinese": "（尤指查看或寻找时）慢速行驶，巡行",
           "exampleEnglish": "+ adv./prep. She cruised around the block looking for a parking space.",
           "exampleChinese": "她绕着那个街区慢慢行驶，想找个停车位。"
         },
@@ -2633,8 +2810,8 @@
           "exampleChinese": "主队轻松取胜。"
         },
         {
-          "english": "cruise (something) (slang) to go around in public places looking for a sexual partner（",
-          "chinese": "在公共场所）寻觅性伙伴，猎艳"
+          "english": "cruise (something) (slang) to go around in public places looking for a sexual partner",
+          "chinese": "（在公共场所）寻觅性伙伴，猎艳"
         }
       ],
       "otherMeaningsStatus": "present"

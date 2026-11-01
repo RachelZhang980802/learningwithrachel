@@ -40,7 +40,6 @@ import { h1bVisaArticle } from "./inquire-h1b-visa-article";
 import { railroadWorkersArticle } from "./inquire-railroad-workers-article";
 import { chinaClimateLeaderArticle } from "./inquire-china-climate-article";
 import { ChinaClimateVocabularyArticleBody } from "./ChinaClimateVocabularyNotes";
-import { UniversityFooter } from "./UniversityFooter";
 import { ArticleSyntaxReading } from "./ArticleSyntaxReading";
 import { H1BVisaArticleBody } from "./H1BVisaArticleBody";
 import { malaysiaHistoryTranscript, singaporeExpulsionTranscript, singaporeHistoryTranscript } from "./inquire-urban-history-transcripts";
@@ -51,6 +50,7 @@ import { article05StudioConfig } from "./article05StudioConfig";
 import { articleStudioConfigs0610 } from "./article06to10StudioConfig";
 import { fullArticleParagraphs } from "./suppliedArticles";
 import { MuckRakeIntro } from "./MuckRakeIntro";
+import { AuthorProfilePage, hasAuthorProfile } from "./AuthorProfilePage";
 import { article01StructureData } from "./article01StructureData";
 import { StructureDiagram } from "./ClauseMemo";
 import { ClauseEntry } from "./ClauseEntry";
@@ -331,7 +331,7 @@ function HomeLanding({
           ))}
         </div>
       </section>
-      <UniversityFooter />
+
     </main>
   );
 }
@@ -581,7 +581,7 @@ export default function Home() {
       </section>
       <XiumiArticleShelf />
 
-      <UniversityFooter />
+
     </main>
   );
 }
@@ -919,7 +919,7 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
           </>}
         </aside>
       </section>
-      <UniversityFooter />
+
     </main>
   );
 }
@@ -1003,7 +1003,7 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
             </>
           )}
         </section>
-        <UniversityFooter />
+
       </main>
     );
   }
@@ -1030,7 +1030,7 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
           {content.body.map((item, index) => <li key={item}><span>0{index + 1}</span><strong>{item}</strong><p>{["Explore the curved library and bring one text to the center.", "Let the language arrive before the explanation.", "Handwritten prompts mark places worth noticing.", "Open vocabulary, syntax, rhetoric, or context one at a time.", "Technical analysis waits until you explicitly request it."][index]}</p></li>)}
         </ol>
       ) : <p className="about-copy">{content.body[0]}</p>}
-      <UniversityFooter />
+
     </main>
   );
 }
@@ -1046,6 +1046,8 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   const [analysisMode, setAnalysisMode] = useState(false);
   const [quizOpen, setQuizOpen] = useState(false);
   const [clozeOpen, setClozeOpen] = useState(false);
+  const [authorProfileOpen, setAuthorProfileOpen] = useState(false);
+  const authorProfileAvailable = hasAuthorProfile(article.number);
   const clozeReturnScroll = useRef(0);
   const [vocabularyTarget, setVocabularyTarget] = useState<VocabularyTarget | undefined>();
   const navigation = (active: "text" | "analysis" | "quizzes" | "notes") => <nav className="reading-nav" aria-label="Article navigation">
@@ -1071,14 +1073,18 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   }
 
   if (quizOpen) {
-    if (index === 0) return <ArticleOneQuiz onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} articleId={article.number} />;
+    if (index === 0) return <ArticleOneQuiz onBack={() => setQuizOpen(false)} articleId={article.number} />;
     const suppliedQuiz = [...articles02to05QuizData, ...articles06to10QuizData].find((item) => item.articleNumber === article.number);
-    if (suppliedQuiz) return <ArticleOneQuiz key={article.number} onBack={() => setQuizOpen(false)} footer={<UniversityFooter />} articleId={article.number} categories={[...suppliedQuiz.categories]} unitLabel={suppliedQuiz.unitLabel} articleTitle={suppliedQuiz.articleTitle} />;
+    if (suppliedQuiz) return <ArticleOneQuiz key={article.number} onBack={() => setQuizOpen(false)} articleId={article.number} categories={[...suppliedQuiz.categories]} unitLabel={suppliedQuiz.unitLabel} articleTitle={suppliedQuiz.articleTitle} />;
     return <div className="article-learning-shell">{navigation("quizzes")}<QuizWorkspace article={article} onExit={() => setQuizOpen(false)} /></div>;
   }
 
   if (index === 0 && showMuckRakeIntro) {
     return <MuckRakeIntro onBack={onBack} onReadText={onDismissMuckRakeIntro} />;
+  }
+
+  if (authorProfileOpen && authorProfileAvailable) {
+    return <AuthorProfilePage articleId={article.number} onBackToText={() => { setAuthorProfileOpen(false); window.requestAnimationFrame(() => window.scrollTo(0, 0)); }} />;
   }
 
   return (
@@ -1093,6 +1099,15 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
             className="article-author-intro-trigger"
             onClick={onOpenMuckRakeIntro}
             aria-label="Open the Lincoln Steffens author introduction"
+          >
+            {article.author}
+          </button>
+        ) : authorProfileAvailable ? (
+          <button
+            type="button"
+            className="article-author-intro-trigger"
+            onClick={() => { setAuthorProfileOpen(true); window.scrollTo(0, 0); }}
+            aria-label={`Open the ${article.author} author introduction`}
           >
             {article.author}
           </button>
@@ -1205,14 +1220,16 @@ function QuizWorkspace({ article, onExit }: { article: Article; onExit: () => vo
 type StudioPanel = "words" | "structure" | "meaning" | "voice" | "context" | "translation" | "paraphrase" | "reuse";
 type StudioPanelItem = { id: StudioPanel; number: string; label: string };
 
-const article01VocabularySentences = new Set([2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 25, 28, 29, 30, 32, 33, 38, 39]);
-const article01FullPanels: readonly StudioPanel[] = ["words", "structure", "translation", "paraphrase"];
-const article01StructurePracticePanels: readonly StudioPanel[] = ["structure", "paraphrase"];
-const article01FrontOnlySentence = 37;
+const article01FullPanels: readonly StudioPanel[] = ["words", "structure", "translation", "paraphrase", "reuse"];
 
 function article01PanelsForSentence(sentence: number): readonly StudioPanel[] {
-  if (sentence === article01FrontOnlySentence) return ["structure"];
-  return article01VocabularySentences.has(sentence) ? article01FullPanels : article01StructurePracticePanels;
+  const sentenceData = article01ReadingLesson.sentences[sentence - 1];
+  if (sentenceData?.classification.studyLevel === "simple") {
+    return article01VocabularyMatches(sentenceData.text, sentence).length > 0
+      ? ["words", "structure", "translation"]
+      : ["structure", "translation"];
+  }
+  return article01FullPanels;
 }
 
 function primaryStudioPanel(panel: StudioPanel): StudioPanel {
@@ -1525,23 +1542,21 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
   const currentAppearanceSentence = isAppearances ? appearancesConfig!.sentences[selected] : null;
   const currentCourageSentence = isCourage ? courageConfig!.sentences[selected] : null;
   const currentSetupSentence = isSetup ? setupConfig!.sentences[selected] : null;
+  const lesson = getLesson(articleId);
   const article01SentenceNumber = selected + 1;
   const article01AvailablePanels = article01PanelsForSentence(article01SentenceNumber);
   const article01FrontOnly = false;
-  const article01ActivePanel = activePanel === null || article01AvailablePanels.includes(primaryStudioPanel(activePanel)) ? activePanel : null;
+  const article01ActivePanel = activePanel === null || article01AvailablePanels.includes(activePanel) ? activePanel : null;
 
   useEffect(() => {
     if (!isStudent || activePanel === null) return;
-    const primaryPanel = primaryStudioPanel(activePanel);
-    if (!article01AvailablePanels.includes(primaryPanel)) {
+    if (!article01AvailablePanels.includes(activePanel)) {
       setActivePanel(null);
-    } else if (primaryPanel === "translation" && activePanel !== "translation") {
-      setActivePanel("translation");
     }
   }, [activePanel, article01AvailablePanels, isStudent]);
 
-  if (isStudent) return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={article01ActivePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} showClassificationBadge suppressClassificationLabel availablePanels={article01AvailablePanels} frontOnly={article01FrontOnly}>
-    {article01ActivePanel === "words" ? <ArticleOneWords key={selected} initialSourceRow={initialVocabulary?.sentence === selected + 1 ? initialVocabulary.sourceRow : undefined} sentence={selected + 1} text={sentences[selected]} contextAdornment={<SentenceBadge sentence={selected + 1} compact hideClassificationLabel/>}/>
+  if (isStudent) return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={article01ActivePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} sentenceClassification={article01ReadingLesson.sentences[article01SentenceNumber - 1]?.classification} showClassificationBadge suppressClassificationLabel availablePanels={article01AvailablePanels} frontOnly={article01FrontOnly}>
+    {article01ActivePanel === "words" ? <ArticleOneWords key={selected} initialSourceRow={initialVocabulary?.sentence === selected + 1 ? initialVocabulary.sourceRow : undefined} sentence={selected + 1} text={sentences[selected]} contextAdornment={<SentenceBadge sentence={selected + 1} compact entry={article01ReadingLesson.sentences[selected]?.classification} hideClassificationLabel/>}/>
       : article01ActivePanel === "structure" ? <SentenceStructure key={`01-${selected}`} sentence={sentences[selected]} articleId="01" notebook/>
       : article01ActivePanel && <div className="student-existing-content">
         <nav className="student-subtabs" aria-label="Activities">{(["meaning", "translation", "voice", "context"].includes(article01ActivePanel) ? studioPanels.filter((item) => item.id === "translation") : practicePanels.filter((item) => item.id !== "translation")).map((item) => <button key={item.id} aria-pressed={item.id === article01ActivePanel} onClick={() => setActivePanel(item.id)}>{item.label}</button>)}</nav>
@@ -1553,10 +1568,13 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
       </div>}
   </ArticleOneNotebook>;
 
-  const lesson = getLesson(articleId);
   if (lesson) {
     const sentence = lesson.sentences[selected];
-    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={activePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification}>
+    const simpleSentencePanels: readonly StudioPanel[] | undefined = sentence.classification.studyLevel === "simple"
+      ? lessonVocabularyMatches(lesson, sentence.id, sentence.text).length > 0 ? ["words", "structure", "translation"] : ["structure", "translation"]
+      : undefined;
+    const notebookPanel = simpleSentencePanels && activePanel && !simpleSentencePanels.includes(activePanel as "words" | "structure" | "translation") ? null : activePanel;
+    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={notebookPanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification} availablePanels={simpleSentencePanels}>
       {activePanel === "words" ? <LessonWords key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} initialSourceRow={initialVocabulary?.sentence === sentence.id ? initialVocabulary.sourceRow : undefined}/>
         : activePanel === "structure" ? <LessonStructure key={`${articleId}-${selected}`} sentence={sentence}/>
         : activePanel && <LessonActivities key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} panel={activePanel} onPanel={setActivePanel}/>}

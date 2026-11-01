@@ -1,0 +1,106 @@
+[
+  {
+    "articleId": "03",
+    "title": "Roommates: My Grandfather’s Story",
+    "isbn": "9780446518260",
+    "image": "/media/authors/books/roommates.jpg",
+    "source": "https://www.publishersweekly.com/9780446518260",
+    "imageSource": "https://www.publishersweekly.com/cover/9780446518260"
+  },
+  {
+    "articleId": "03",
+    "title": "I Love Gootie: My Grandmother’s Story",
+    "isbn": "9780446520744",
+    "image": "/media/authors/books/i-love-gootie.webp",
+    "source": "https://www.kirkusreviews.com/book-reviews/max-apple/i-love-gootie/",
+    "imageSource": "https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/160077afded14fa895cc602bb5615f11/0446520748.jpg.300x0_q85_autocrop.webp"
+  },
+  {
+    "articleId": "05",
+    "title": "Talking to High Monks in the Snow",
+    "isbn": "9780060168094",
+    "image": "/media/authors/books/talking-to-high-monks.jpg",
+    "source": "https://www.publishersweekly.com/9780060168094",
+    "imageSource": "https://www.publishersweekly.com/cover/9780060168094"
+  },
+  {
+    "articleId": "05",
+    "title": "The Strangeness of Beauty",
+    "isbn": "9780684853628",
+    "image": "/media/authors/books/strangeness-of-beauty.webp",
+    "source": "https://www.kirkusreviews.com/book-reviews/lydia-minatoya/the-strangeness-of-beauty/",
+    "imageSource": "https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/620b5ff3b643438c98502d9f20ae2b32/0684853620.jpg.300x0_q85_autocrop.webp"
+  },
+  {
+    "articleId": "06",
+    "title": "The Autobiography of Benjamin Franklin",
+    "isbn": "9780743255066",
+    "image": "/media/authors/books/franklin-autobiography.jpg",
+    "source": "https://www.simonandschuster.com/books/The-Autobiography-of-Benjamin-Franklin/Benjamin-Franklin/9780743255066",
+    "imageSource": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780743255066/the-autobiography-of-benjamin-franklin-9780743255066_hr.jpg"
+  },
+  {
+    "articleId": "06",
+    "title": "Poor Richard’s Almanack",
+    "isbn": "9781602391178",
+    "image": "/media/authors/books/poor-richards-almanack.jpg",
+    "source": "https://www.skyhorsepublishing.com/9781602391178/poor-richards-almanack/",
+    "imageSource": "https://skyhorse-us.imgix.net/covers/9781602391178.jpg?auto=format&w=298"
+  },
+  {
+    "articleId": "07",
+    "title": "Guns, Germs, and Steel",
+    "isbn": "9780393354324",
+    "image": "/media/authors/books/guns-germs-and-steel.jpg",
+    "source": "https://wwnorton.co.uk/books/9780393354324-guns-germs-and-steel",
+    "imageSource": "https://cdn2.wwnorton.com/wwnproducts/TRADE/4/2/9780393354324/9780393354324_300.jpeg"
+  },
+  {
+    "articleId": "07",
+    "title": "Collapse",
+    "isbn": "9780143117001",
+    "image": "/media/authors/books/collapse.jpg",
+    "source": "https://www.penguinrandomhouse.com/books/288954/collapse-by-jared-diamond/",
+    "imageSource": "https://images1.penguinrandomhouse.com/cover/9780143117001?width=300"
+  },
+  {
+    "articleId": "08",
+    "title": "Movement Media",
+    "isbn": "9780197695388",
+    "image": "/media/authors/books/movement-media.jpg",
+    "source": "https://www.rachelkuo.com/movement-media-book",
+    "imageSource": "https://images.squarespace-cdn.com/content/v1/5c54c041e4afe91fa0783fb1/5936fefa-1314-4c8b-b435-51f021726109/RKuo+Cover+high+res.jpg?format=300w"
+  },
+  {
+    "articleId": "08",
+    "title": "We Are Each Other’s Liberation",
+    "isbn": "9798888903728",
+    "image": "/media/authors/books/each-others-liberation.jpg",
+    "source": "https://www.haymarketbooks.org/books/2519-we-are-each-other-s-liberation",
+    "imageSource": "https://cdn-ed.haymarketbooks.org/images/000008/281/9798888903728-9edd76aac2d2647a47f9297f9d20d906.jpg20250604-60-5xwmdb"
+  },
+  {
+    "articleId": "10",
+    "title": "Life on the Mississippi",
+    "isbn": "9780140390506",
+    "image": "/media/authors/books/life-on-the-mississippi.jpg",
+    "source": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780140390506",
+    "imageSource": "https://images.penguinrandomhouse.com/cover/9780140390506?width=300"
+  },
+  {
+    "articleId": "10",
+    "title": "The Adventures of Tom Sawyer",
+    "isbn": "9780143107330",
+    "image": "/media/authors/books/tom-sawyer.jpg",
+    "source": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780143107330",
+    "imageSource": "https://images.penguinrandomhouse.com/cover/9780143107330?width=300"
+  },
+  {
+    "articleId": "10",
+    "title": "Adventures of Huckleberry Finn",
+    "isbn": "9780143107323",
+    "image": "/media/authors/books/huckleberry-finn.jpg",
+    "source": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780143107323",
+    "imageSource": "https://images.penguinrandomhouse.com/cover/9780143107323?width=300"
+  }
+]

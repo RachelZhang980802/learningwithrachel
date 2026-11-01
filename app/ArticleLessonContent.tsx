@@ -11,9 +11,10 @@ import { StructureDiagram } from "./ClauseMemo";
 import { ClauseEntry } from "./ClauseEntry";
 import { MeaningExamples, splitMeaningLine } from "./MeaningExamples";
 import { CollocationLines } from "./CollocationLines";
-import { WordFamilyReminder } from "./WordFamilyReminder";
+import { WordFamilyTreeGame } from "./WordFamilyTreeGame";
 import { toMediaUrl } from "./mediaUrl";
 import { article02PdfVocabulary } from "./article02PdfVocabulary";
+import { article02PressExamples } from "./article02PressExamples";
 import { article03to05PdfVocabulary } from "./article03to05PdfVocabulary";
 import { article06to08PdfVocabulary } from "./article06to08PdfVocabulary";
 import { article09PdfVocabulary } from "./article09PdfVocabulary";
@@ -93,15 +94,6 @@ function LessonWordAudio({ word, localFile }: { word: string; localFile?: string
   return <><button type="button" className="word-speak" onClick={play} aria-label={`${playing ? "暂停" : "播放"} ${word} 的美式发音`} aria-pressed={playing} title={`播放 ${word} 的${localFile ? "本机生成" : "词典"}美式发音`}><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg></button><audio ref={audioRef} preload="none" src={dictionaryAudio} onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)}/></>;
 }
 
-function LessonWordFamilyGame({ values }: { values: string[] }) {
-  const [revealed, setRevealed] = useState(false);
-  return <section className="word-family-game">
-    <div className="word-family-heading"><h3>Word family · 词族</h3><button type="button" aria-pressed={revealed} onClick={() => setRevealed(value => !value)}>{revealed ? "Hide answers" : "Reveal answers"}</button></div>
-    <p className="word-family-prompt">Fill in the related word before checking the answer.</p>
-    <ol>{values.map((value, index) => <li key={index}>{revealed ? value : value.replace(/^([A-Za-z][A-Za-z-]*)/, "＿＿＿＿＿＿")}</li>)}</ol>
-  </section>;
-}
-
 function LessonParaphraseText({ original, paraphrase }: { original: string; paraphrase: string }) {
   const originalWords = new Set((original.toLowerCase().match(/[a-z]+(?:['-][a-z]+)*/g) ?? []));
   return <>{paraphrase.split(/(\s+)/).map((part, index) => {
@@ -138,19 +130,53 @@ type CuratedWord = {
   dictionaryExample?: { english: string; chinese: string; source: string } | null;
   otherMeanings: { english: string; chinese: string; exampleEnglish?: string; exampleChinese?: string }[];
   otherMeaningsStatus: "present" | "none_in_excerpt" | "missing_source";
+  family?: string[];
+  wordFamilyRoot?: string;
+  wordFamilyNote?: string;
   sourceCaveat?: string;
-  contextBySentence?: Record<string, Partial<Pick<CuratedWord, "english" | "chinese" | "collocations" | "compare" | "usage" | "dictionaryExample" | "otherMeanings" | "sourceCaveat">>>;
+  relatedTerm?: { phrase: string; english: string; chinese: string };
+  relatedSayings?: { phrase: string; english: string; chinese: string; sourceLabel?: string; sourceUrl?: string }[];
+  relatedExpressions?: { phrase: string; english: string; chinese: string; sourceLabel?: string; sourceUrl?: string }[];
+  contextBySentence?: Record<string, Partial<Pick<CuratedWord, "english" | "chinese" | "collocations" | "compare" | "usage" | "dictionaryExample" | "otherMeanings" | "sourceCaveat" | "relatedSayings" | "relatedExpressions">>>;
 };
+
+function familyWordTokens(value: string) {
+  return value
+    .replace(/[.…]+/g, " ")
+    .replace(/\b(?:sb|sth|somebody|someone|something)\b\.?/gi, " ")
+    .match(/[a-z]+/gi)?.map(token => token.toLocaleLowerCase()) ?? [];
+}
+
+function familyRootContainsWord(root: string, word: string) {
+  const wordTokens = familyWordTokens(word);
+  if (!wordTokens.length) return false;
+  const rootAlternatives = root.split(/\s*\/\s*/).map(familyWordTokens);
+  return rootAlternatives.some(rootTokens => wordTokens.every(token => rootTokens.includes(token)));
+}
+
+function familyRootMatchesWord(root: string, word: string) {
+  const wordKey = familyWordTokens(word).join(" ");
+  return root.split(/\s*\/\s*/).some(variant => familyWordTokens(variant).join(" ") === wordKey);
+}
 
 function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesson; sentence: LessonSentence; initialSourceRow?: number }) {
   const pdfWords = lesson.articleId === "02" ? article02PdfVocabulary : lesson.articleId === "09" ? article09PdfVocabulary : lesson.articleId === "10" ? article10PdfVocabulary : (article03to05PdfVocabulary[lesson.articleId] ?? article06to08PdfVocabulary[lesson.articleId] ?? []);
   const entries = pdfWords.filter(word => word.occurrences.includes(sentence.id));
   const [selected, setSelected] = useState(() => Math.max(0, entries.findIndex(word => word.sourceRow === initialSourceRow)));
   const entry = entries[selected] ?? entries[0];
+  // PDF rows and lesson vocabulary rows come from different lists. Match the lexical root first,
+  // then a complete constituent; use row number only to break ties between valid matches.
+  const lessonWord = entry && lesson.vocabulary
+    .map(word => ({ word, exact: familyRootMatchesWord(entry.word, word.word), component: familyRootContainsWord(entry.word, word.word) }))
+    .filter(candidate => candidate.exact || candidate.component)
+    .sort((left, right) => Number(right.exact) - Number(left.exact)
+      || familyWordTokens(right.word.word).length - familyWordTokens(left.word.word).length
+      || Number(right.word.sourceRow === entry.sourceRow) - Number(left.word.sourceRow === entry.sourceRow))[0]?.word;
   const badge = <SentenceBadge sentence={sentence.id} entry={sentence.classification} compact/>;
   if (!entry) return <div className="word-workspace"><div className="word-context">{badge}{sentence.text}</div><div className="word-empty"><h2>Words</h2><p>{["09", "10"].includes(lesson.articleId) ? "这句没有已标记的词语。" : "这句没有讲义中明确解释的生词。"}</p></div></div>;
   const baseCurated = ({ ...curatedWords, ...article06CuratedWords, ...article07CuratedWords, ...article08CuratedWords, ...article09CuratedWords, ...article10CuratedWords } as Record<string, Record<string, CuratedWord>>)[lesson.articleId]?.[String(entry.sourceRow)];
   const contextual = baseCurated?.contextBySentence?.[String(sentence.id)];
+  const pressExample = lesson.articleId === "02" ? article02PressExamples[entry.sourceRow] : undefined;
   const curated = baseCurated && contextual ? { ...baseCurated, ...contextual } : baseCurated;
   const recording = ({ ...localAudio, ...article06LocalAudio, ...article07LocalAudio, ...article08LocalAudio, ...article09LocalAudio, ...article10LocalAudio } as Record<string, Record<string, { file: string }>>)[lesson.articleId]?.[String(entry.sourceRow)];
   const pending = (heading: string) => <div className="word-related"><section><h3>{heading}</h3><p className="study-pending">{["06", "07"].includes(lesson.articleId) ? "已收到你提供的词典资料，正在逐词核对整理。" : "等待你提供词典资料后整理。"}</p></section></div>;
@@ -159,7 +185,7 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
       <h2>{entry.word}</h2>{lesson.vocabulary.find(word => word.sourceRow === entry.sourceRow)?.titleOnly && <small>Title word · 标题词汇</small>}
       <div className="word-pronunciation">{curated.partOfSpeech && <span>{curated.partOfSpeech}</span>}{curated.ipa && <span>{curated.ipa}</span>}<LessonWordAudio word={entry.word} localFile={recording?.file}/></div>
       <section className="word-context-meaning">
-        <h3>Meaning in context · 语境词义</h3>
+        <h3>Meaning in context</h3>
         <p className="word-definition word-definition-en" lang="en">{curated.english}</p>
         <p className="word-definition word-definition-zh" lang="zh-CN">{curated.chinese}</p>
         {curated.dictionaryExample && <details className="word-context-example">
@@ -172,14 +198,17 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
         </details>}
       </section>
       {curated.image && <a className="word-picture" href={curated.image} target="_blank" rel="noopener noreferrer" aria-label={`查看 ${entry.word} 原图`}><img src={curated.image} alt={`${entry.word} · 词汇配图`} loading="lazy"/><span>↗ 查看原图</span></a>}
-      {curated.otherMeanings.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={curated.otherMeanings} useCatalog={false}/></section>}
+      {curated.otherMeanings.length > 0 && <section className="word-other"><h3>Other meanings</h3><MeaningExamples word={entry.word} items={curated.otherMeanings} useCatalog={false}/></section>}
+      {curated.relatedTerm && <section className="word-related-lexemes"><h4>Related policy term · 相关政策术语</h4><div className="word-related-lexeme"><p className="word-related-lexeme-phrase" lang="en">{curated.relatedTerm.phrase}</p><p lang="en">{curated.relatedTerm.english}</p><p lang="zh-CN">{curated.relatedTerm.chinese}</p></div></section>}
+      {curated.relatedSayings?.length ? <section className="word-related-lexemes"><h4>Related saying · 谚语</h4>{curated.relatedSayings.map((saying, index) => <div className="word-related-lexeme" key={`${saying.phrase}-${index}`}><p className="word-related-lexeme-phrase" lang="en">{saying.phrase}</p><p lang="en">{saying.english}</p><p lang="zh-CN">{saying.chinese}</p>{saying.sourceUrl && <a href={saying.sourceUrl} target="_blank" rel="noopener noreferrer">{saying.sourceLabel ?? "Dictionary source"} ↗</a>}</div>)}</section> : null}
+      {curated.relatedExpressions?.length ? <section className="word-related-lexemes"><h4>Related expressions · 固定表达</h4>{curated.relatedExpressions.map((expression, index) => <div className="word-related-lexeme" key={`${expression.phrase}-${index}`}><p className="word-related-lexeme-phrase" lang="en">{expression.phrase}</p><p lang="en">{expression.english}</p><p lang="zh-CN">{expression.chinese}</p>{expression.sourceUrl && <a href={expression.sourceUrl} target="_blank" rel="noopener noreferrer">{expression.sourceLabel ?? "Dictionary source"} ↗</a>}</div>)}</section> : null}
       {curated.sourceCaveat ? <p className="study-pending">{curated.sourceCaveat}</p> : !curated.oxfordExcerptProvided && <p className="study-pending">此短语所在行未单独附词典原文；释义按文章语境整理，不能标为牛津词典已核实。</p>}
-      {curated.otherMeaningsStatus === "missing_source" && <p className="study-pending">其他义项尚无可核对的词典原文。</p>}
-    </section> : <section className="word-primary"><h2>{entry.word}</h2><section className="word-context-meaning"><h3>Meaning in context · 语境词义</h3><p className="word-definition study-pending">{lesson.articleId === "06" ? "词义和音标正在依据已提供的词典资料核对；图片待补充。" : "词义、音标和图片待你提供。"}</p></section><p className="study-pending">{["09", "10"].includes(lesson.articleId) ? `讲义第 ${entry.pdfPages.join("、")} 页的原文词语；词义待核对。` : `已在讲义第 ${entry.pdfPages.join("、")} 页找到对应讲解。`}</p></section> },
-    { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section></div> : pending("Collocations · 搭配") },
+      {curated.otherMeaningsStatus === "missing_source" && !curated.relatedTerm && <p className="study-pending">No additional dictionary senses can be verified from the supplied source.</p>}
+    </section> : <section className="word-primary"><h2>{entry.word}</h2><section className="word-context-meaning"><h3>Meaning in context</h3><p className="word-definition study-pending">{lesson.articleId === "06" ? "词义和音标正在依据已提供的词典资料核对；图片待补充。" : "词义、音标和图片待你提供。"}</p></section><p className="study-pending">{["09", "10"].includes(lesson.articleId) ? `讲义第 ${entry.pdfPages.join("、")} 页的原文词语；词义待核对。` : `已在讲义第 ${entry.pdfPages.join("、")} 页找到对应讲解。`}</p></section> },
+    { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section><WordFamilyTreeGame root={curated.wordFamilyRoot ?? entry.word} entries={curated.family ?? lessonWord?.family ?? []} note={curated.wordFamilyNote ?? (lessonWord && !familyRootMatchesWord(entry.word, lessonWord.word) ? `This phrase contains “${lessonWord.word}”; the branches follow that constituent.` : undefined)}/></div> : pending("Collocations · 搭配") },
     { id: "compare", title: "Compare", subtitle: "近义辨析", content: curated ? <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={curated.compare}/></section></div> : pending("Compare · 近义辨析") },
     { id: "usage", title: "Usage note", subtitle: "用法提醒", content: curated ? <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{curated.usage}</p></section></div> : pending("Usage note · 用法提醒") },
-    { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3><p className="word-press-placeholder">外刊例句待补充。</p></section> },
+    { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{pressExample ? <><blockquote><p lang="en">{pressExample.english}</p><a className="word-press-source" href={pressExample.url} target="_blank" rel="noopener noreferrer">{pressExample.source} ↗</a></blockquote><details className="word-translation"><summary>Translation</summary><p lang="zh-CN">{pressExample.chinese}</p></details></> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> },
   ];
   return <div className="word-workspace" data-source-row={entry.sourceRow}>
     <nav className="word-picker" aria-label="本句词条"><span>{entries.length} {entries.length === 1 ? "ENTRY" : "ENTRIES"}</span>{entries.map((word, index) => <button type="button" key={word.sourceRow} aria-pressed={index === selected} onClick={() => setSelected(index)}>{word.word}</button>)}</nav>
@@ -208,13 +237,13 @@ function PopulatedLessonWords({ lesson, sentence, initialSourceRow }: { lesson: 
   const cards: WordFileCard[] = [
     { id: "meaning", title: "Word & meaning", subtitle: "词义与发音", content: <section className="word-primary">
       <h2>{entry.word}</h2>{entry.titleOnly && <small>Title word · 标题词汇</small>}<div className="word-pronunciation"><span>{entry.partOfSpeech}</span><span>{entry.ipa}</span><LessonWordAudio word={entry.word}/></div>
-      <section className="word-context-meaning"><h3>Meaning in context · 语境词义</h3><p className="word-definition word-definition-en" lang="en">{english}</p><p className="word-definition word-definition-zh" lang="zh-CN">{contextChinese}</p></section>
-      {otherExamples.length > 0 && <section className="word-other"><h3>Other meanings · 其他义项</h3><MeaningExamples word={entry.word} items={otherExamples}/></section>}
+      <section className="word-context-meaning"><h3>Meaning in context</h3><p className="word-definition word-definition-en" lang="en">{english}</p><p className="word-definition word-definition-zh" lang="zh-CN">{contextChinese}</p></section>
+      {otherExamples.length > 0 && <section className="word-other"><h3>Other meanings</h3><MeaningExamples word={entry.word} items={otherExamples}/></section>}
       <div className="lesson-dictionary-sources">{entry.sources.map(source => <a className="word-dictionary" href={source.url} key={source.url} target="_blank" rel="noopener noreferrer">{source.label} ↗</a>)}</div>
     </section> },
-    { id: "collocations", title: "Collocations", subtitle: "搭配", content: <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={entry.collocations}/></section></div> },
+    { id: "collocations", title: "Collocations", subtitle: "搭配", content: <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={entry.collocations}/></section><WordFamilyTreeGame root={entry.word} entries={entry.family}/></div> },
     { id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={entry.compare}/></section></div> },
-    { id: "usage", title: "Usage note", subtitle: "用法提醒", content: <div className="word-related"><LessonWordFamilyGame values={entry.family}/><WordFamilyReminder values={entry.family}/><section><h3>Usage note · 用法提醒</h3><p>{entry.usage}</p></section></div> },
+    { id: "usage", title: "Usage note", subtitle: "用法提醒", content: <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{entry.usage}</p></section></div> },
     { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3><p className="word-press-placeholder">外刊例句待补充。</p></section> },
   ];
   return <div className="word-workspace" data-source-row={entry.sourceRow}>

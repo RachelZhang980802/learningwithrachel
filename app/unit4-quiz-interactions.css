@@ -15,7 +15,99 @@
 .integrated-quiz-page .u4-outline-blank:focus-visible,
 .integrated-quiz-page .u4-choice-sentence:focus-visible { outline: 2px solid #8b4835; outline-offset: 3px; }
 .integrated-quiz-page .u4-inline-answer { color: #9e3e2b; font-weight: 600; }
-.integrated-quiz-page .u4-answer-note { font-size: .88em; color: #685746; margin: .5em 0 0; }
+.integrated-quiz-page .u4-click-answer-statement {
+  display: block;
+  width: 100%;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.integrated-quiz-page .u4-click-answer-statement:hover { background: #b59e6517; }
+.integrated-quiz-page .u4-click-answer-statement:focus-visible { outline: 2px solid #8b4835; outline-offset: 4px; }
+.integrated-quiz-page .u4-statement-answer { white-space: normal; }
+.integrated-quiz-page .u4-statement-explanation { font-weight: 500; }
+.integrated-quiz-page .u4-answer-note {
+  display: block;
+  margin: .35em 0 .65em;
+  padding: .35em .65em;
+  border-left: 2px solid #b3262d;
+  background: #b3262d0d;
+  color: #9e3e2b;
+  font-size: .76em;
+  line-height: 1.55;
+}
+.integrated-quiz-folder[data-category="u4-vocabulary"] .u4-context-source {
+  margin: .15em 0 .8em;
+  padding: .55em .85em;
+  border: 1px solid #8d826f;
+  border-radius: 3px;
+  background: rgba(255, 252, 241, .42);
+}
+.integrated-quiz-folder[data-category="u4-vocabulary"] .u4-context-source ol { margin: 0; padding-left: 1.4em; }
+.integrated-quiz-page .u4-context-sentence {
+  display: block;
+  width: 100%;
+  padding: .08em .12em;
+  border: 0;
+  border-radius: 2px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.integrated-quiz-page .u4-context-sentence:hover { background: #b59e6517; }
+.integrated-quiz-page .u4-context-sentence:focus-visible { outline: 2px solid #8b4835; outline-offset: 2px; }
+.integrated-quiz-page .u4-context-translation {
+  display: block;
+  margin-top: .22em;
+  padding: .3em .65em;
+  border-left: 2px solid #b3262d;
+  background: #b3262d0d;
+  color: #9e3e2b;
+  font-size: .76em;
+  line-height: 1.55;
+}
+.integrated-quiz-folder[data-category="u4-vocabulary"] .u4-word-bank {
+  box-sizing: border-box;
+  margin: .15em 0 .8em 1.8em;
+  padding: .45em .7em;
+  border: 1px solid #8d826f;
+  border-radius: 3px;
+  background: rgba(255, 252, 241, .42);
+}
+.integrated-quiz-folder[data-category="u4-vocabulary"] .u4-numbered-blanks {
+  margin-top: 0;
+  padding-left: 1.8em;
+  list-style: decimal;
+}
+.integrated-quiz-folder[data-category="u4-vocabulary"] .u4-numbered-blanks > li::marker { color: #9c4937; font-weight: 700; }
+.integrated-quiz-page .u4-concord-passage { padding-top: .15em; }
+.integrated-quiz-page .u4-concord-sentence {
+  display: block;
+  margin: 0;
+  padding: .22em .3em;
+  border-bottom: 1px solid rgba(107, 83, 58, .14);
+  border-radius: 2px;
+  cursor: pointer;
+}
+.integrated-quiz-page .u4-concord-sentence:last-child { border-bottom: 0; }
+.integrated-quiz-page .u4-concord-sentence:hover { background: #b59e6517; }
+.integrated-quiz-page .u4-concord-sentence:focus-visible { outline: 2px solid #8b4835; outline-offset: 2px; }
+.integrated-quiz-page .u4-sentence-translation {
+  display: block;
+  margin-top: .22em;
+  padding-left: .7em;
+  border-left: 2px solid #b3262d;
+  color: #9e3e2b;
+  font-size: .76em;
+  line-height: 1.55;
+}
 .integrated-quiz-page .u4-outline-table { width: 100%; border-collapse: collapse; table-layout: fixed; font: inherit; }
 .u4-outline-table .u4-outline-part { width: 10%; }
 .u4-outline-table .u4-outline-paras { width: 18%; }
@@ -30,6 +122,16 @@
 .u4-choice-number { text-align: right; }
 .integrated-quiz-page .u4-choice-sentence { width: 100%; line-height: inherit; padding: .1em 0; }
 .u4-choice-answer { white-space: normal; }
+.integrated-quiz-page .u4-choice-explanation {
+  display: block;
+  margin: .3em 0 .15em;
+  padding: .35em .65em;
+  border-left: 2px solid #b3262d;
+  background: #b3262d0d;
+  color: #9e3e2b;
+  font-size: .76em;
+  line-height: 1.55;
+}
 @media (max-width: 760px) {
   .integrated-quiz-page .u4-outline-table thead th { font-size: .78em; white-space: nowrap; }
   .u4-outline-table .u4-outline-part { width: 13%; }

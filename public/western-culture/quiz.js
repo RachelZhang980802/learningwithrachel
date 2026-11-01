@@ -135,9 +135,11 @@
   });
 
   window.addEventListener('wheel', event => {
-    if (event.target.closest('a, input, .quiz-nav, .quiz-footer')) return;
+    if (!event.target.closest('.quiz-question-viewport') || event.target.closest('a, input')) return;
     const deltaY = event.deltaY;
     if (!deltaY || canScrollInsideQuestion(deltaY)) return;
+    const chapter = currentChapter();
+    if (!chapter || (deltaY > 0 && activeIndex === chapter.questions.length - 1) || (deltaY < 0 && activeIndex === 0)) return;
     event.preventDefault();
     const now = performance.now();
     if (now < wheelLockedUntil) return;

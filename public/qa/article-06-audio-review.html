@@ -362,4 +362,4 @@ const audios=[...document.querySelectorAll('audio')];let activeAudio=0;
 audios.forEach((audio,index)=>{audio.addEventListener('play',()=>{activeAudio=index;audios.forEach((other,i)=>{if(i!==index)other.pause()})});audio.addEventListener('ended',()=>{const next=audios[index+1];if(next)next.play();});});
 document.querySelector('#previous-audio').addEventListener('click',()=>{activeAudio=Math.max(0,activeAudio-1);audios[activeAudio]?.play();});
 document.querySelector('#next-audio').addEventListener('click',()=>{activeAudio=Math.min(audios.length-1,activeAudio+1);audios[activeAudio]?.play();});
-</script></body></html>
+</script><script src="/western-culture/shared-footer.js" defer></script></body></html>

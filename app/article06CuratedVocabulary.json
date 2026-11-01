@@ -49,7 +49,13 @@
           "exampleChinese": "我整天等待，痴心地希望她会回心转意。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "fondness n. 喜爱；钟爱",
+        "fondly adv. 喜爱地；深情地"
+      ],
+      "wordFamilyNote": "The expandable word is fond; fondness and fondly are its common noun and adverb forms.",
+      "wordFamilyRoot": "fond"
     },
     "1": {
       "word": "lay out sth.",
@@ -94,7 +100,13 @@
           "exampleChinese": "所有的条款与条件在合同中均已清楚地列明。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "laid v. lay 的过去式／过去分词",
+        "laying n./v. 放置；lay 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around lay; these are common verb forms used in lay out.",
+      "wordFamilyRoot": "lay"
     },
     "64": {
       "word": "pilgrim",
@@ -230,7 +242,12 @@
           "exampleChinese": "要启用此功能，请转到“帐户设置”，然后单击“安全性”。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "enabled adj./v. 获得授权的；enable 的过去式／过去分词",
+        "enabling adj./n./v. 使能够；授权的；赋能",
+        "enablement n. 赋能；使能够"
+      ]
     },
     "2": {
       "word": "chapman",
@@ -387,7 +404,14 @@
           "exampleChinese": "成千上万的人都干渴得奄奄一息。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "thirsty adj. 渴望的；口渴的",
+        "thirstily adv. 渴望地；口渴地",
+        "thirstiness n. 渴望；口渴"
+      ],
+      "wordFamilyNote": "The expandable word is thirst; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "thirst"
     },
     "68": {
       "word": "resolve",
@@ -432,7 +456,13 @@
           "exampleChinese": "她所遇到的困难只是让她更加坚定。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "resolved adj./v. 坚决的；resolve 的过去式／过去分词",
+        "resolving n./v. 解决；分解",
+        "resolution n. 决定；解决；分辨率",
+        "resolvable adj. 可解决的；可分解的"
+      ]
     },
     "6": {
       "word": "clergyman",
@@ -524,7 +554,15 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "所贴资料含 advantage 词条，但未给 to great advantage 的独立释义和牛津例句；此处按正文整理。"
+      "sourceCaveat": "所贴资料含 advantage 词条，但未给 to great advantage 的独立释义和牛津例句；此处按正文整理。",
+      "family": [
+        "advantageous adj. 有利的",
+        "advantageously adv. 有利地",
+        "disadvantage n. 不利条件；劣势",
+        "disadvantageous adj. 不利的"
+      ],
+      "wordFamilyNote": "The expandable word is advantage; the branches show common adjective and adverb forms.",
+      "wordFamilyRoot": "advantage"
     },
     "70": {
       "word": "a turn of thinking",
@@ -547,7 +585,17 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "所贴资料未见 turn of thinking 的独立词条；语境义依据正文和讲义。"
+      "sourceCaveat": "所贴资料未见 turn of thinking 的独立词条；语境义依据正文和讲义。",
+      "family": [
+        "thought n. 思想；想法；think 的过去式／过去分词",
+        "thinking n./adj. 思考；思考的",
+        "thinker n. 思想者；思考者",
+        "thoughtful adj. 深思熟虑的；体贴的",
+        "thoughtfully adv. 深思熟虑地；体贴地",
+        "thoughtless adj. 欠考虑的；不体贴的"
+      ],
+      "wordFamilyNote": "The expandable word is think; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "think"
     },
     "71": {
       "word": "have an influence on",
@@ -586,7 +634,14 @@
           "exampleChinese": "他的第一位音乐老师是他一生中对他影响非常大的人。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "influenced v./adj. 受影响的；influence 的过去式／过去分词",
+        "influencing n./v. 影响；influence 的 -ing 形式",
+        "influential adj. 有影响力的"
+      ],
+      "wordFamilyNote": "The expandable word is influence; the branches show its common verb and adjective forms.",
+      "wordFamilyRoot": "influence"
     },
     "8": {
       "word": "principal",
@@ -750,7 +805,13 @@
             }
           ]
         }
-      }
+      },
+      "family": [
+        "lengthen v. 延长；加长",
+        "lengthy adj. 冗长的；漫长的"
+      ],
+      "wordFamilyNote": "The expandable word is length; the branches show its common verb and adjective forms.",
+      "wordFamilyRoot": "length"
     },
     "72": {
       "word": "determine sb. to do",
@@ -792,7 +853,15 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "所贴 determine 词条未列 determine somebody to do 这一旧式使役搭配；正文释义按句法核对，不把词典其他例句伪作该搭配。"
+      "sourceCaveat": "所贴 determine 词条未列 determine somebody to do 这一旧式使役搭配；正文释义按句法核对，不把词典其他例句伪作该搭配。",
+      "family": [
+        "determined adj./v. 坚定的；determine 的过去式／过去分词",
+        "determining adj./n./v. 起决定作用的；决定；determine 的 -ing 形式",
+        "determination n. 决心；决定",
+        "determinant n. 决定因素；行列式"
+      ],
+      "wordFamilyRoot": "determine",
+      "wordFamilyNote": "The phrase is built around determine; the branches show common noun and verb forms."
     },
     "73": {
       "word": "profession",
@@ -837,7 +906,12 @@
           "exampleChinese": "实业界与专业界的工作"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "professional adj./n. 专业的；专业人士",
+        "professionally adv. 专业地",
+        "professionalism n. 专业素养"
+      ]
     },
     "74": {
       "word": "press",
@@ -882,7 +956,13 @@
           "exampleChinese": "压蒜器"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "pressed adj./v. 按压的；press 的过去式／过去分词",
+        "pressing adj./n./v. 紧迫的；新闻界；按压",
+        "pressure n./v. 压力；施压",
+        "pressurize v. 加压；迫使"
+      ]
     },
     "75": {
       "word": "letters (printing type)",
@@ -918,7 +998,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "所贴资料未给 letter 的“印刷活字”义；正文语境与讲义指活字，其他义项仍可依据所贴词条展示。"
+      "sourceCaveat": "The supplied source does not include the “printing type” sense of letter. The article and handout use that sense; any other senses shown come from the supplied entry."
     },
     "76": {
       "word": "set up",
@@ -975,7 +1055,13 @@
           "exampleChinese": "华尔街股价暴跌在全球股票市场上引起了连锁反应。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "setting n. 设置；环境；set 的 -ing 形式",
+        "setup n. 设置；安排；机构"
+      ],
+      "wordFamilyNote": "The phrase is built around set; setup is the related noun for an arrangement or establishment.",
+      "wordFamilyRoot": "set"
     },
     "12": {
       "word": "hankering",
@@ -1076,7 +1162,16 @@
           "exampleChinese": "不愿接受批评"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "impatience n. 不耐烦；急切",
+        "impatiently adv. 不耐烦地；急切地",
+        "patient adj. 有耐心的",
+        "patience n. 耐心",
+        "patiently adv. 耐心地"
+      ],
+      "wordFamilyNote": "The expandable word is impatient; the branches show its related noun, adverb, and opposite family.",
+      "wordFamilyRoot": "impatient"
     },
     "14": {
       "word": "bind",
@@ -1154,7 +1249,14 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "所贴 stand out 词条未收本文“坚持不答应”义；不能把“显眼”的例句当成正文释义证据。"
+      "sourceCaveat": "所贴 stand out 词条未收本文“坚持不答应”义；不能把“显眼”的例句当成正文释义证据。",
+      "family": [
+        "stood v. stand 的过去式／过去分词",
+        "standing n./adj. 站立；现有的",
+        "outstanding adj. 杰出的；突出的"
+      ],
+      "wordFamilyNote": "The phrase is built around stand; the branches show common forms, including the adjective outstanding.",
+      "wordFamilyRoot": "stand"
     },
     "79": {
       "word": "persuade",
@@ -1180,7 +1282,14 @@
           "chinese": "使信服；使相信"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "persuaded v. persuade 的过去式／过去分词",
+        "persuading n./v. 劝说；说服",
+        "persuasion n. 说服；信念",
+        "persuasive adj. 有说服力的",
+        "persuasively adv. 有说服力地"
+      ]
     },
     "15": {
       "word": "indenture",
@@ -1375,7 +1484,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "usefulness n. 用处；实用性",
+        "usefully adv. 有用地",
+        "useless adj. 无用的",
+        "uselessness n. 无用；无价值"
+      ],
+      "wordFamilyNote": "The expandable word is useful; the branches show its common noun, adverb, and opposite forms.",
+      "wordFamilyRoot": "useful"
     },
     "83": {
       "word": "have access to",
@@ -1400,7 +1517,16 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "accessed v. access 的过去式／过去分词",
+        "accessing n./v. 使用；获取；access 的 -ing 形式",
+        "accessible adj. 可获得的；可使用的",
+        "accessibility n. 可及性；易用性",
+        "inaccessible adj. 难以获得的；无法进入的"
+      ],
+      "wordFamilyNote": "The expandable word is access; the branches show common adjective and noun forms.",
+      "wordFamilyRoot": "access"
     },
     "84": {
       "word": "acquaintance",
@@ -1432,8 +1558,8 @@
           "exampleChinese": "克莱尔交游很广。"
         },
         {
-          "english": "[uncountable, countable] acquaintance with something (formal) knowledge of something（",
-          "chinese": "对某事物的）了解",
+          "english": "[uncountable, countable] acquaintance with something (formal) knowledge of something",
+          "chinese": "（对某事物的）了解",
           "exampleEnglish": "I had little acquaintance with modern poetry.",
           "exampleChinese": "我对现代诗所知甚少。"
         },
@@ -1456,7 +1582,12 @@
           "exampleChinese": "初次见面就看出他显然不是 “对路子的人”。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "acquaint v. 使认识；使了解",
+        "acquainted adj. 认识的；熟悉的",
+        "acquaintanceship n. 相识；交往"
+      ]
     },
     "19": {
       "word": "sit up",
@@ -1494,7 +1625,13 @@
           "exampleChinese": "这项建议引起了他的主顾们的关注。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "sat v. sit 的过去式／过去分词",
+        "sitting n./v. 坐；sit 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around sit; the branches show its common irregular verb forms.",
+      "wordFamilyRoot": "sit"
     },
     "20": {
       "word": "lest",
@@ -1520,8 +1657,8 @@
       },
       "otherMeanings": [
         {
-          "english": "used to introduce the reason for the particular emotion mentioned（",
-          "chinese": "引出产生某种情感的原因）唯恐，担心",
+          "english": "used to introduce the reason for the particular emotion mentioned",
+          "chinese": "（引出产生某种情感的原因）唯恐，担心",
           "exampleEnglish": "She was afraid lest she had revealed too much.",
           "exampleChinese": "她担心她泄露得太多了。"
         }
@@ -1581,13 +1718,13 @@
       "otherMeanings": [
         {
           "english": "with adjectives and adverbs",
-          "chinese": "与形容词和副词连用 (rather informal)",
+          "chinese": "与形容词和副词连用（较非正式）",
           "exampleEnglish": "to some extent; fairly",
           "exampleChinese": "颇；相当"
         },
         {
-          "english": "(informal) to be in a good situation, especially when others are not（",
-          "chinese": "尤指在他人处境不好时）处境好",
+          "english": "(informal) to be in a good situation, especially when others are not",
+          "chinese": "（尤指在他人处境不好时）处境好",
           "exampleEnglish": "With profits at record levels, the company’s certainly sitting pretty this year.",
           "exampleChinese": "由于利润达到了创纪录的水平，该公司今年肯定会表现良好。"
         },
@@ -1598,8 +1735,8 @@
           "exampleChinese": "在我看来，狗长得都差不多。"
         },
         {
-          "english": "(especially of a woman, or a girl",
-          "chinese": "尤指女子或女孩) attractive without being very beautiful漂亮的；标致的；妩媚的；动人的",
+          "english": "(especially of a woman or a girl) attractive without being very beautiful",
+          "chinese": "（尤指女子或女孩）漂亮的；标致的；妩媚的；动人的",
           "exampleEnglish": "a pretty face",
           "exampleChinese": "俏丽的脸"
         },
@@ -1667,7 +1804,14 @@
           "exampleChinese": "他常常访问这个国家。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "frequent v./adj. 常去；频繁的",
+        "frequented adj./v. 常去的；frequent 的过去式／过去分词",
+        "frequently adv. 经常地",
+        "frequency n. 频率；频繁",
+        "infrequent adj. 不频繁的"
+      ]
     },
     "88": {
       "word": "take notice of",
@@ -1689,7 +1833,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "noticed v. notice 的过去式／过去分词",
+        "noticing n./v. 注意到；notice 的 -ing 形式",
+        "noticeable adj. 明显的；显著的",
+        "noticeably adv. 明显地",
+        "unnoticed adj. 未被注意到的"
+      ],
+      "wordFamilyNote": "The expandable word is notice; the branches show its common adjective and verb forms.",
+      "wordFamilyRoot": "notice"
     },
     "89": {
       "word": "take a fancy to",
@@ -1714,7 +1867,15 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "fancied v. fancy 的过去式／过去分词",
+        "fancying n./v. 喜欢；想象；fancy 的 -ing 形式",
+        "fanciful adj. 想象出来的；不切实际的",
+        "fancifully adv. 想象地；不切实际地"
+      ],
+      "wordFamilyNote": "The phrase is built around fancy; fanciful is a common related adjective with a different meaning.",
+      "wordFamilyRoot": "fancy"
     },
     "90": {
       "word": "turn to account",
@@ -1791,7 +1952,11 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典原文只列 occasional 的“偶尔的”义；本文 occasional ballads 是为特定事件写的时事歌谣，语境义据原文整理。"
+      "sourceCaveat": "词典原文只列 occasional 的“偶尔的”义；本文 occasional ballads 是为特定事件写的时事歌谣，语境义据原文整理。",
+      "family": [
+        "occasion n. 时机；场合",
+        "occasionally adv. 偶尔；有时"
+      ]
     },
     "22": {
       "word": "ballad",
@@ -1852,7 +2017,13 @@
           "exampleChinese": "防止流行病的蔓延"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "contained adj./v. 被包含的；contain 的过去式／过去分词",
+        "containing n./v. 包含；容纳",
+        "container n. 容器",
+        "containment n. 控制；遏制"
+      ]
     },
     "94": {
       "word": "account",
@@ -1884,14 +2055,14 @@
           "exampleChinese": "我没有银行账户。"
         },
         {
-          "english": "an arrangement that somebody has with a company that allows them to use the internet, send and receive messages by email, social media, etc.（",
-          "chinese": "互联网、电子邮件等的）账户，账号",
+          "english": "an arrangement that somebody has with a company that allows them to use the internet, send and receive messages by email, social media, etc.",
+          "chinese": "（互联网、电子邮件等的）账户，账号",
           "exampleEnglish": "Twitter account",
           "exampleChinese": "电子邮件/ Twitter帐户"
         },
         {
-          "english": "account (of something) an explanation or a description of an idea, a theory or a process（",
-          "chinese": "对思想、理论、过程的）解释，说明，叙述",
+          "english": "account (of something) an explanation or a description of an idea, a theory or a process",
+          "chinese": "（对思想、理论、过程的）解释，说明，叙述",
           "exampleEnglish": "Biblical account of the creation of the world《",
           "exampleChinese": "圣经》对创世的叙述"
         },
@@ -1926,8 +2097,8 @@
           "exampleChinese": "他坚持要向我们详尽介绍发生的事情。"
         },
         {
-          "english": "(British English) to do something or perform well, especially in a contest（",
-          "chinese": "尤指比赛中）表现好／不好，干得出色／差劲",
+          "english": "(British English) to do something or perform well, especially in a contest",
+          "chinese": "（尤指比赛中）表现好／不好，干得出色／差劲",
           "exampleEnglish": "The team gave a good account of themselves in the match.",
           "exampleChinese": "这个队在比赛中表现出色。"
         },
@@ -1960,15 +2131,25 @@
           "chinese": "认为是；视为",
           "exampleEnglish": "English law a person is accounted innocent until they are proved guilty.",
           "exampleChinese": "按英格兰法律，一个人未经证实有罪之前被视为无罪。"
-        },
-        {
-          "english": "(saying) used to say how difficult it is to understand why somebody likes somebody/something that you do not like at all",
-          "chinese": "人的爱憎好恶是无法解释的；人各有所好",
-          "exampleEnglish": "She thinks he's wonderful—oh well, there's no accounting for taste.",
-          "exampleChinese": "她认为他了不起。嗯，算了，人各有所好嘛。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "accounted adj./v. 已说明的；account 的过去式／过去分词",
+        "accounting n. 会计；记账",
+        "accountant n. 会计师",
+        "accountable adj. 负有责任的",
+        "accountability n. 责任；问责"
+      ],
+      "relatedSayings": [
+        {
+          "phrase": "there’s no accounting for taste",
+          "english": "(saying) used to say how difficult it is to understand why somebody likes somebody/something that you do not like at all",
+          "chinese": "人各有所好；喜好难以解释。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/account_2"
+        }
+      ]
     },
     "23": {
       "word": "drown",
@@ -2116,8 +2297,8 @@
           "exampleChinese": "她最后同意用药结束这个可怜的动物的生命。"
         },
         {
-          "english": "[only before noun] (informal) used to show that you think that somebody/something is extremely annoying（",
-          "chinese": "表示憎恶）该死的，无法容忍的",
+          "english": "[only before noun] (informal) used to show that you think that somebody/something is extremely annoying",
+          "chinese": "（表示憎恶）该死的，无法容忍的",
           "exampleEnglish": "Is it that wretched woman again?",
           "exampleChinese": "这又是那个该死的女人吗？"
         }
@@ -2165,7 +2346,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "sent v. send 的过去式／过去分词",
+        "sending n./v. 派送；发送；send 的 -ing 形式",
+        "sender n. 发送者；寄件人"
+      ],
+      "wordFamilyNote": "The phrase is built around send; the branches show its common irregular verb forms.",
+      "wordFamilyRoot": "send"
     },
     "98": {
       "word": "recent",
@@ -2212,7 +2400,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "noisy adj. 嘈杂的；喧闹的",
+        "noisily adv. 嘈杂地",
+        "noisiness n. 嘈杂；吵闹",
+        "noiseless adj. 无声的；寂静的"
+      ],
+      "wordFamilyNote": "The expandable word is noise; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "noise"
     },
     "100": {
       "word": "flatter",
@@ -2259,7 +2455,13 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "flatter my vanity 的搭配比一般“奉承某人”更具体；例句只用于说明基本义。"
+      "sourceCaveat": "flatter my vanity 的搭配比一般“奉承某人”更具体；例句只用于说明基本义。",
+      "family": [
+        "flattered adj./v. 受宠若惊的；flatter 的过去式／过去分词",
+        "flattering adj. 奉承的；衬托得好看的",
+        "flatterer n. 奉承者",
+        "flattery n. 奉承"
+      ]
     },
     "101": {
       "word": "vanity",
@@ -2285,13 +2487,18 @@
       },
       "otherMeanings": [
         {
-          "english": "[uncountable] (literary) the fact of being unimportant, especially compared with other things that are important（",
-          "chinese": "尤指与其他重大事物相比）渺小，无所谓，不重要",
+          "english": "[uncountable] (literary) the fact of being unimportant, especially compared with other things that are important",
+          "chinese": "（尤指与其他重大事物相比）渺小，无所谓，不重要",
           "exampleEnglish": "the vanity of human ambition in the face of death",
           "exampleChinese": "个人抱负在死亡面前的微不足道"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "vain adj. 虚荣的；徒劳的",
+        "vainly adv. 徒劳地；虚荣地",
+        "vanities n. vanity 的复数形式"
+      ]
     },
     "26": {
       "word": "ridicule",
@@ -2307,7 +2514,7 @@
       ],
       "usage": "可作名词或动词；本文是动词，后直接接对象。",
       "ipa": "/ˈrɪdɪkjuːl/",
-      "partOfSpeech": "noun",
+      "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
       "articleExample": "This flattered my vanity; but my father discouraged me by ridiculing my performances, and telling me verse-makers were generally beggars.",
       "dictionaryExample": {
@@ -2348,7 +2555,15 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "versify v. 作诗；用诗表达",
+        "versification n. 作诗；诗体",
+        "versifier n. 诗作者",
+        "versified adj./v. 写成诗的；versify 的过去式／过去分词"
+      ],
+      "wordFamilyNote": "The expandable word is verse; the branches show its common verb and noun forms.",
+      "wordFamilyRoot": "verse"
     },
     "27": {
       "word": "beggar",
@@ -2374,18 +2589,10 @@
       },
       "otherMeanings": [
         {
-          "english": "(British English, informal) used with an adjective to describe somebody in a particular way（",
-          "chinese": "与形容词连用）家伙",
+          "english": "(British English, informal) used with an adjective to describe somebody in a particular way",
+          "chinese": "（与形容词连用）家伙",
           "exampleEnglish": "Aren't you dressed yet, you lazy beggar?",
           "exampleChinese": "你这个懒虫还没穿好衣服吗？"
-        },
-        {
-          "english": "(saying) people say beggars can’t be choosers when there is no choice and somebody must be satisfied with what is available",
-          "chinese": "要饭就不能嫌馊；给什么就得要什么"
-        },
-        {
-          "english": "(saying) wishing for something does not make it happen",
-          "chinese": "想有不见得就有；愿望不等于事实"
         },
         {
           "english": "beggar somebody/something/yourself to make somebody/something very poor",
@@ -2394,7 +2601,23 @@
           "exampleChinese": "我为什么要为你受穷？"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "relatedSayings": [
+        {
+          "phrase": "beggars can’t be choosers",
+          "english": "(saying) people say beggars can’t be choosers when there is no choice and somebody must be satisfied with what is available",
+          "chinese": "没有选择时，只能接受现有的东西；有求于人就不能挑三拣四。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/us/definition/english/beggar_1"
+        },
+        {
+          "phrase": "if wishes were horses, beggars would ride",
+          "english": "(saying) wishing for something does not make it happen",
+          "chinese": "光有愿望并不能让事情成真。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/us/definition/english/beggar_1"
+        }
+      ]
     },
     "102": {
       "word": "escape doing",
@@ -2419,7 +2642,16 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "escaped v. escape 的过去式／过去分词",
+        "escaping n./v. 逃脱；escape 的 -ing 形式",
+        "escapee n. 逃脱者；越狱者",
+        "escapism n. 逃避现实",
+        "escapist n./adj. 逃避现实的人；逃避现实的"
+      ],
+      "wordFamilyNote": "The phrase is built around escape; the branches show common related forms.",
+      "wordFamilyRoot": "escape"
     },
     "28": {
       "word": "prose",
@@ -2466,7 +2698,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "useful adj. 有用的",
+        "usefulness n. 用处；实用性",
+        "usefully adv. 有用地",
+        "useless adj. 无用的"
+      ],
+      "wordFamilyNote": "The expandable word is use; the branches show common adjective and noun forms.",
+      "wordFamilyRoot": "use"
     },
     "104": {
       "word": "course",
@@ -2492,14 +2732,14 @@
       },
       "otherMeanings": [
         {
-          "english": "[countable] a series of lessons or lectures on a particular subject（",
-          "chinese": "有关某学科的系列）课程，讲座",
+          "english": "[countable] a series of lessons or lectures on a particular subject",
+          "chinese": "（有关某学科的系列）课程，讲座",
           "exampleEnglish": "a French/chemistry course",
           "exampleChinese": "法语/化学课程"
         },
         {
-          "english": "[countable] (especially British English) a period of study at a college or university that leads to an exam or a qualification（",
-          "chinese": "大学中要进行考试或取得资格的）课程",
+          "english": "[countable] (especially British English) a period of study at a college or university that leads to an exam or a qualification",
+          "chinese": "（大学中要进行考试或取得资格的）课程",
           "exampleEnglish": "What degree course did you choose?",
           "exampleChinese": "您选择了什么学位课程？"
         },
@@ -2522,8 +2762,8 @@
           "exampleChinese": "有四道菜的正餐"
         },
         {
-          "english": "[uncountable, countable, usually singular] a direction or route followed by a ship or an aircraft（",
-          "chinese": "船或飞机的）航向，航线",
+          "english": "[uncountable, countable, usually singular] a direction or route followed by a ship or an aircraft",
+          "chinese": "（船或飞机的）航向，航线",
           "exampleEnglish": "He radioed the pilot to change course.",
           "exampleChinese": "他用无线电通知飞行员改变航向。"
         },
@@ -2550,14 +2790,14 @@
           "exampleChinese": "小路沿河道延伸。"
         },
         {
-          "english": "[countable] course (of something) a series of medical treatments, tablets, etc.（",
-          "chinese": "医疗、服药等的）疗程",
+          "english": "[countable] course (of something) a series of medical treatments, tablets, etc.",
+          "chinese": "（医疗、服药等的）疗程",
           "exampleEnglish": "to prescribe a course of antibiotics",
           "exampleChinese": "开一个疗程抗生素的处方"
         },
         {
-          "english": "[countable] a continuous layer of brick, stone or other building material in a wall（",
-          "chinese": "砖、石等墙的）层",
+          "english": "[countable] a continuous layer of brick, stone or other building material in a wall",
+          "chinese": "（砖、石等墙的）层",
           "exampleEnglish": "A new damp-proof course could cost £1 000 or more.",
           "exampleChinese": "新的防潮层可花掉 1 000 英镑以上。"
         },
@@ -2584,46 +2824,46 @@
           "exampleChinese": "新的教科书正在准备之中。"
         },
         {
-          "english": "(used with expressions for periods of time",
-          "chinese": "与表示时间段的词组连用) during在…期间；在…的时候"
+          "english": "(used with expressions for periods of time) during",
+          "chinese": "（与表示时间段的词组连用）在……期间；在……的时候"
         },
         {
-          "english": "(as) the usual and correct thing to do（",
-          "chinese": "作为）理所当然的事；（当作）常规",
+          "english": "(as) the usual and correct thing to do",
+          "chinese": "（作为）理所当然的事；（当作）常规",
           "exampleEnglish": "We always check people's addresses as a matter of course.",
           "exampleChinese": "我们总是照例检查一下人们的地址。"
         },
         {
-          "english": "(to take/find) an acceptable course of action that avoids two extreme positions（",
-          "chinese": "走）中间道路；（取）中庸之道；（采取）折中办法"
+          "english": "(to take/find) an acceptable course of action that avoids two extreme positions",
+          "chinese": "（走）中间道路；（取）中庸之道；（采取）折中办法"
         },
         {
-          "english": "used to emphasize that what you are saying is true or correct（",
-          "chinese": "强调所说的话属实或正确）当然",
+          "english": "used to emphasize that what you are saying is true or correct",
+          "chinese": "（强调所说的话属实或正确）当然",
           "exampleEnglish": "‘Don't you like my mother?’ ‘Of course I do!’“",
           "exampleChinese": "难道你不喜欢我母亲？” “当然喜欢！”"
         },
         {
-          "english": "used as a polite way of giving somebody permission to do something（",
-          "chinese": "允许某人做某事的客气说法）当然",
+          "english": "used as a polite way of giving somebody permission to do something",
+          "chinese": "（允许某人做某事的客气说法）当然",
           "exampleEnglish": "‘Can I come, too?’ ‘Course you can.’“",
           "exampleChinese": "我也可以来吗？” “当然可以。”"
         },
         {
-          "english": "used as a polite way of agreeing with what somebody has just said（",
-          "chinese": "礼貌地同意某人刚说的话）当然",
+          "english": "used as a polite way of agreeing with what somebody has just said",
+          "chinese": "（礼貌地同意某人刚说的话）当然",
           "exampleEnglish": "‘I did all I could to help.’ ‘Of course,’ he murmured gently.“",
           "exampleChinese": "我尽全力帮忙了。” “当然。” 他轻声低语道。"
         },
         {
-          "english": "used to show that what you are saying is not surprising or is generally known or accepted（",
-          "chinese": "表示所说的事不令人惊讶或具有普遍性）当然，自然",
+          "english": "used to show that what you are saying is not surprising or is generally known or accepted",
+          "chinese": "（表示所说的事不令人惊讶或具有普遍性）当然，自然",
           "exampleEnglish": "Ben, of course, was the last to arrive.",
           "exampleChinese": "本当然是最后一个到的。"
         },
         {
-          "english": "used to emphasize the fact that you are saying ‘no’（",
-          "chinese": "强调不同意）当然不",
+          "english": "used to emphasize the fact that you are saying ‘no’",
+          "chinese": "（强调不同意）当然不",
           "exampleEnglish": "‘Are you going?’ ‘Of course not.’“",
           "exampleChinese": "你要去吗？” “当然不去。”"
         },
@@ -2641,7 +2881,11 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典原文收有 in the course of time；本文 in the course of my life 指“在人生历程中”。"
+      "sourceCaveat": "词典原文收有 in the course of time；本文 in the course of my life 指“在人生历程中”。",
+      "family": [
+        "coursed v./adj. course 的过去式／过去分词；流过的",
+        "coursing n./v. 奔流；追逐"
+      ]
     },
     "105": {
       "word": "advancement",
@@ -2673,7 +2917,13 @@
           "exampleChinese": "知识／教育／科学的发展"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "advance v./n. 推进；进展",
+        "advanced adj. 先进的；高级的",
+        "advancing adj./v. 前进的；推进的",
+        "advancement n. 进步；晋升"
+      ]
     },
     "106": {
       "word": "acquire",
@@ -2705,7 +2955,13 @@
           "exampleChinese": "尚未全部偿还用于道路的土地。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "acquired adj./v. acquire 的过去式／过去分词；后天获得的",
+        "acquiring n./v. 获得；学会",
+        "acquisition n. 获得；收购",
+        "acquisitive adj. 贪求的；渴望获得的"
+      ]
     },
     "29": {
       "word": "lad",
@@ -2737,8 +2993,8 @@
           "exampleChinese": "与伙伴一起去酒吧"
         },
         {
-          "english": "[countable, usually singular] (British English, informal) a lively young man, especially one who is very interested in women and having sex, drinks a lot of alcohol and enjoys sport（",
-          "chinese": "精力旺盛的）放荡小伙子",
+          "english": "[countable, usually singular] (British English, informal) a lively young man, especially one who is very interested in women and having sex, drinks a lot of alcohol and enjoys sport",
+          "chinese": "（精力旺盛的）放荡小伙子",
           "exampleEnglish": "Tony was a bit of a lad—always had an eye for the women.",
           "exampleChinese": "托尼这小子真是个花花公子，对女人总是很有眼光。"
         },
@@ -2819,7 +3075,15 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "acquaint v. 使熟悉；使了解",
+        "acquainted adj. 熟悉的；认识的",
+        "acquaintance n. 相识的人；了解",
+        "unacquainted adj. 不熟悉的；不认识的"
+      ],
+      "wordFamilyNote": "The phrase is built around acquaint; acquaintance is its common noun form.",
+      "wordFamilyRoot": "acquaint"
     },
     "31": {
       "word": "dispute",
@@ -2884,7 +3148,16 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "desired adj./v. 渴望的；desire 的过去式／过去分词",
+        "desiring n./v. 渴望；desire 的 -ing 形式",
+        "desirable adj. 值得拥有的；理想的",
+        "desirability n. 可取；理想性",
+        "undesirable adj. 不受欢迎的；不理想的"
+      ],
+      "wordFamilyNote": "The expandable word is desire; the branches show common adjective and adverb forms.",
+      "wordFamilyRoot": "desire"
     },
     "33": {
       "word": "confute",
@@ -2948,7 +3221,13 @@
       "articleExample": "We sometimes disputed, and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "aptly adv. 恰当地；适切地",
+        "aptitude n. 天资；才能"
+      ],
+      "wordFamilyNote": "The expandable word is apt; the branches show its common adverb and noun forms.",
+      "wordFamilyRoot": "apt"
     },
     "36": {
       "word": "disagreeable",
@@ -3027,13 +3306,19 @@
       },
       "otherMeanings": [
         {
-          "english": "[countable, uncountable] a lack of agreement between facts, opinions, actions, etc.（",
-          "chinese": "事实、看法、行动等的）不一致，矛盾，对立",
+          "english": "[countable, uncountable] a lack of agreement between facts, opinions, actions, etc.",
+          "chinese": "（事实、看法、行动等的）不一致，矛盾，对立",
           "exampleEnglish": "There is a contradiction between the two sets of figures.",
           "exampleChinese": "这两组数据相互矛盾。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "contradict v. 与……矛盾；反驳",
+        "contradicted adj./v. 与……矛盾的；contradict 的过去式／过去分词",
+        "contradictory adj. 矛盾的；相反的",
+        "contradictorily adv. 矛盾地"
+      ]
     },
     "37": {
       "word": "thence",
@@ -3106,17 +3391,20 @@
           "exampleChinese": "她是一个心灰意冷、幻想破灭的老女人。"
         },
         {
-          "english": "(saying) used to show that you think somebody is jealous and is pretending that something is not important",
-          "chinese": "酸葡萄（表示某人表面贬低某事物，实则是嫉妒）",
-          "exampleEnglish": "He said he didn't want the job anyway, but that's just sour grapes.",
-          "exampleChinese": "他说他其实并不想干这份工作，这不过是吃不着葡萄就说葡萄酸而已。"
-        },
-        {
-          "english": "[intransitive, transitive] sour (something) if milk sours or if something sours it, it becomes sour and has an unpleasant taste or smell （",
-          "chinese": "牛奶等）变味，酸腐；使变酸腐"
+          "english": "[intransitive, transitive] sour (something) if milk sours or if something sours it, it becomes sour and has an unpleasant taste or smell ",
+          "chinese": "（牛奶等）变味，酸腐；使变酸腐"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "relatedSayings": [
+        {
+          "phrase": "sour grapes",
+          "english": "(saying) used to show that you think somebody is jealous and is pretending that something is not important",
+          "chinese": "酸葡萄心理；因得不到而贬低自己羡慕的东西。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/sour_1"
+        }
+      ]
     },
     "39": {
       "word": "spoil",
@@ -3160,25 +3448,33 @@
           "exampleChinese": "该组织呼吁其支持者破坏选票。"
         },
         {
-          "english": "(saying) to cause something good to fail because you did not spend a small but necessary amount of money or time on a small but essential part of it",
-          "chinese": "因小失大"
-        },
-        {
-          "english": "(saying) if too many people are involved in doing something, it will not be done well",
-          "chinese": "厨师多了烧坏汤；人多手杂反坏事；人多添乱"
-        },
-        {
           "english": "the spoils [plural] (formal or literary) goods taken from a place by thieves or by an army that has won a battle or war",
           "chinese": "赃物；战利品；掠夺物",
           "exampleEnglish": "the spoils of war",
           "exampleChinese": "战利品"
         },
         {
-          "english": "[uncountable] (specialist) waste material that is brought up when a hole is dug, etc.（",
-          "chinese": "开掘等时挖出的）弃土，废石方"
+          "english": "[uncountable] (specialist) waste material that is brought up when a hole is dug, etc.",
+          "chinese": "（开掘等时挖出的）弃土，废石方"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "relatedSayings": [
+        {
+          "phrase": "spoil the ship for a ha’p’orth of tar",
+          "english": "(saying) to cause something good to fail because you did not spend a small but necessary amount of money or time on a small but essential part of it",
+          "chinese": "因舍不得在关键小处花一点钱或时间，反而坏了大事。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/us/definition/english/spoil_1"
+        },
+        {
+          "phrase": "too many cooks spoil the broth",
+          "english": "(saying) if too many people are involved in doing something, it will not be done well",
+          "chinese": "做一件事的人过多，反而会把事情弄糟。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/us/definition/english/spoil_1"
+        }
+      ]
     },
     "111": {
       "word": "be productive of",
@@ -3203,7 +3499,18 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "produced v. produce 的过去式／过去分词",
+        "producing n./v. 生产；产生；produce 的 -ing 形式",
+        "product n. 产品；结果",
+        "production n. 生产；产生",
+        "productive adj. 富有成效的；多产的",
+        "productivity n. 生产率；效率",
+        "unproductive adj. 没有成效的"
+      ],
+      "wordFamilyNote": "The expandable word is produce; the branches show common noun and adjective forms.",
+      "wordFamilyRoot": "produce"
     },
     "112": {
       "word": "disgust",
@@ -3235,7 +3542,13 @@
           "exampleChinese": "影片中的暴力程度实在让我反感。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "disgusted adj./v. 厌恶的；使厌恶",
+        "disgusting adj. 令人厌恶的",
+        "disgustedly adv. 厌恶地",
+        "disgustingly adv. 令人厌恶地"
+      ]
     },
     "40": {
       "word": "enmity",
@@ -3282,7 +3595,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "词典原文没有单列 have occasion for；本文指“有需要／用得着”。"
+      "sourceCaveat": "词典原文没有单列 have occasion for；本文指“有需要／用得着”。",
+      "family": [
+        "occasional adj. 偶尔的；间或的",
+        "occasionally adv. 偶尔；有时",
+        "occasioned v. 引起；occasion 的过去式／过去分词"
+      ],
+      "wordFamilyNote": "The expandable word is occasion; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "occasion"
     },
     "114": {
       "word": "catch a habit",
@@ -3304,7 +3624,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "habitual adj. 习惯性的",
+        "habitually adv. 习惯性地",
+        "habituate v. 使习惯于",
+        "habituation n. 习惯化；适应"
+      ],
+      "wordFamilyNote": "The expandable word is habit; the branches show common adjective, adverb, and verb forms.",
+      "wordFamilyRoot": "habit"
     },
     "115": {
       "word": "person of good sense",
@@ -3330,7 +3658,15 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "所给摘录为相关词条；本文整块短语义按原句核对，词典例句仅用于相关义项。"
+      "sourceCaveat": "所给摘录为相关词条；本文整块短语义按原句核对，词典例句仅用于相关义项。",
+      "family": [
+        "sensible adj. 明智的；理智的",
+        "sensibly adv. 明智地",
+        "sensibility n. 感受力；辨别力",
+        "senseless adj. 愚蠢的；失去知觉的"
+      ],
+      "wordFamilyNote": "The expandable word is sense; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "sense"
     },
     "116": {
       "word": "fall into a habit",
@@ -3352,13 +3688,21 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "habitual adj. 习惯性的",
+        "habitually adv. 习惯性地",
+        "habituate v. 使习惯于",
+        "habituation n. 习惯化；适应"
+      ],
+      "wordFamilyNote": "The expandable word is habit; the branches show common adjective, adverb, and verb forms.",
+      "wordFamilyRoot": "habit"
     },
     "41": {
       "word": "breed",
       "sourceRow": 41,
       "english": "to have been educated or trained in a place",
-      "chinese": "在某地受教育",
+      "chinese": "在某地受过教育或培养（本文指在爱丁堡受过教育）",
       "collocations": [
         "be bred to a trade",
         "be bred in a place"
@@ -3398,24 +3742,28 @@
           "exampleChinese": "他从小就养成了对失败的恐惧。"
         },
         {
-          "english": "(saying) knowing somebody/something very well may cause you to lose respect for them/it",
-          "chinese": "过分亲密就会有所侮慢"
-        },
-        {
-          "english": "a particular type of animal that has been developed by people in a certain way, especially a type of dog, cat or farm animal",
+          "english": "[noun] a particular type of animal that has been developed by people in a certain way, especially a type of dog, cat or farm animal",
           "chinese": "品种（尤指人工培育的狗、猫或牲畜）",
           "exampleEnglish": "Labradors and other large breeds of dog",
           "exampleChinese": "拉布拉多及其他大型犬"
         },
         {
-          "english": "[usually singular] a type of person（",
-          "chinese": "人的）类型，种类",
+          "english": "[noun, usually singular] a type of person",
+          "chinese": "（人的）类型，种类",
           "exampleEnglish": "He represents a new breed of politician.",
           "exampleChinese": "他代表着新一类的政治家。"
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典原文没有单列 acquaintance with apprentices 的“结识／交往”搭配；按上下文释义。"
+      "relatedSayings": [
+        {
+          "phrase": "familiarity breeds contempt",
+          "english": "Knowing somebody or something very well may cause you to lose respect for them or it.",
+          "chinese": "与人或事物过于熟悉，可能会使人失去对其的敬意。",
+          "sourceLabel": "Oxford Learner’s Dictionaries · saying",
+          "sourceUrl": "https://www.oxfordlearnersdictionaries.com/us/definition/english/breed_1"
+        }
+      ]
     },
     "117": {
       "word": "somehow or other",
@@ -3512,7 +3860,17 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "equally adv. 相等地；同样地",
+        "equality n. 平等；相等",
+        "inequality n. 不平等；不相等",
+        "unequal adj. 不相等的；不平等的",
+        "unequally adv. 不相等地；不平等地",
+        "equalize v. 使相等；使平等"
+      ],
+      "wordFamilyNote": "The expandable word is equal; the branches show its common adjective, noun, adverb, and verb forms.",
+      "wordFamilyRoot": "equal"
     },
     "43": {
       "word": "for sb.'s/sth.'s sake",
@@ -3614,7 +3972,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "bore v. bear 的过去式",
+        "borne v. bear 的过去分词",
+        "bearing n./v. 承受；举止；bear 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around bear; the branches show its common irregular verb forms.",
+      "wordFamilyRoot": "bear"
     },
     "121": {
       "word": "take occasion to do",
@@ -3640,7 +4005,14 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "所给摘录为相关词条；本文整块短语义按原句核对，词典例句仅用于相关义项。"
+      "sourceCaveat": "所给摘录为相关词条；本文整块短语义按原句核对，词典例句仅用于相关义项。",
+      "family": [
+        "occasional adj. 偶尔的；间或的",
+        "occasionally adv. 偶尔；有时",
+        "occasioned v. 引起；occasion 的过去式／过去分词"
+      ],
+      "wordFamilyNote": "The expandable word is occasion; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "occasion"
     },
     "122": {
       "word": "have the advantage of",
@@ -3665,7 +4037,15 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "advantageous adj. 有利的",
+        "advantageously adv. 有利地",
+        "disadvantage n. 不利条件；劣势",
+        "disadvantageous adj. 不利的"
+      ],
+      "wordFamilyNote": "The expandable word is advantage; the branches show common adjective and adverb forms.",
+      "wordFamilyRoot": "advantage"
     },
     "123": {
       "word": "antagonist",
@@ -3712,7 +4092,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "所给原文是 point 的词条，未单列 pointing 表“标点”的历史用法。"
+      "sourceCaveat": "所给原文是 point 的词条，未单列 pointing 表“标点”的历史用法。",
+      "family": [
+        "point n./v. 点；指出",
+        "pointed adj./v. 尖的；point 的过去式／过去分词",
+        "pointer n. 指示物；指针",
+        "pointedly adv. 尖锐地；明确地"
+      ]
     },
     "125": {
       "word": "owe to",
@@ -3734,7 +4120,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "词典原文列出 owe somebody something 等，但本文 owe ... to the printing-house 表“归因于”。"
+      "sourceCaveat": "词典原文列出 owe somebody something 等，但本文 owe ... to the printing-house 表“归因于”。",
+      "family": [
+        "owed v. owe 的过去式／过去分词",
+        "owing adj./prep. 欠着的；由于"
+      ],
+      "wordFamilyNote": "The phrase is built around owe; the branches show its common verb forms.",
+      "wordFamilyRoot": "owe"
     },
     "126": {
       "word": "fall short in",
@@ -3756,7 +4148,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "shortfall n. 不足；亏空",
+        "shorten v. 缩短；减少",
+        "shortage n. 短缺；不足"
+      ],
+      "wordFamilyNote": "The expandable word is short; the branches show common related forms such as shortfall and shortage.",
+      "wordFamilyRoot": "short"
     },
     "46": {
       "word": "perspicuity",
@@ -3842,7 +4241,18 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "attend v. 注意；出席",
+        "attended v. attend 的过去式／过去分词",
+        "attending n./v. 出席；注意；attend 的 -ing 形式",
+        "attention n. 注意；关注",
+        "attentively adv. 专心地；留意地",
+        "attentiveness n. 专注；留心",
+        "inattentive adj. 不专心的；疏忽的"
+      ],
+      "wordFamilyNote": "The phrase is built around attentive; attention is its common related noun.",
+      "wordFamilyRoot": "attentive"
     },
     "128": {
       "word": "determine to do",
@@ -3867,7 +4277,16 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "determined adj./v. 坚决的；determine 的过去式／过去分词",
+        "determining n./v. 决定；determine 的 -ing 形式",
+        "determination n. 决心；决定",
+        "determinable adj. 可确定的",
+        "undetermined adj. 未确定的"
+      ],
+      "wordFamilyNote": "The phrase is built around determine; the branches show common noun and adjective forms.",
+      "wordFamilyRoot": "determine"
     },
     "48": {
       "word": "endeavor",
@@ -3950,13 +4369,18 @@
       },
       "otherMeanings": [
         {
-          "english": "[uncountable] (sometimes disapproving) feelings of sympathy, romantic love, being sad, etc. which may be too strong or not appropriate（",
-          "chinese": "失之过度或不恰当的）伤感，柔情，哀伤",
+          "english": "[uncountable] (sometimes disapproving) feelings of sympathy, romantic love, being sad, etc. which may be too strong or not appropriate",
+          "chinese": "（失之过度或不恰当的）伤感，柔情，哀伤",
           "exampleEnglish": "There was no fatherly affection, no display of sentiment.",
           "exampleChinese": "没有温情脉脉的父爱流露。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "sentimental adj. 多愁善感的；情感的",
+        "sentimentally adv. 多愁善感地",
+        "sentimentality n. 多愁善感"
+      ]
     },
     "130": {
       "word": "lay by",
@@ -3978,7 +4402,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "laid v. lay 的过去式／过去分词",
+        "laying n./v. 放置；lay 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around lay; these are common verb forms used in lay by.",
+      "wordFamilyRoot": "lay"
     },
     "50": {
       "word": "come to hand",
@@ -4000,7 +4430,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。"
+      "sourceCaveat": "你提供的本组词典摘录未单列这一整条短语／词形；语境义据文章原句整理，暂不标作已核实的牛津释义。",
+      "family": [
+        "came v. come 的过去式",
+        "coming n./v. 到来；come 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around come; the branches show its common verb forms.",
+      "wordFamilyRoot": "come"
     },
     "51": {
       "word": "stock",
@@ -4022,8 +4458,8 @@
       "dictionaryExample": null,
       "otherMeanings": [
         {
-          "english": "[uncountable, countable] a supply of goods that is available for sale in a shop（",
-          "chinese": "商店的）现货，存货，库存",
+          "english": "[uncountable, countable] a supply of goods that is available for sale in a shop",
+          "chinese": "（商店的）现货，存货，库存",
           "exampleEnglish": "We have a fast turnover of stock.",
           "exampleChinese": "我们的货物周转快。"
         },
@@ -4092,8 +4528,8 @@
           "exampleChinese": "他把生意全盘卖掉了。"
         },
         {
-          "english": "(especially North American English) to have a particular amount of belief in something（",
-          "chinese": "在某种程度上）相信，信任",
+          "english": "(especially North American English) to have a particular amount of belief in something",
+          "chinese": "（在某种程度上）相信，信任",
           "exampleEnglish": "She no longer puts much stock in their claims.",
           "exampleChinese": "她再也不过于相信他们的断言了。"
         },
@@ -4152,7 +4588,12 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典原文的 readiness 是“准备就绪／愿意”；本文指回忆和用词的熟练敏捷。"
+      "sourceCaveat": "词典原文的 readiness 是“准备就绪／愿意”；本文指回忆和用词的熟练敏捷。",
+      "family": [
+        "ready adj./v. 准备好的；使准备好",
+        "readily adv. 乐意地；容易地",
+        "readied v. ready 的过去式／过去分词"
+      ]
     },
     "52": {
       "word": "recollect",
@@ -4179,7 +4620,7 @@
       "otherMeanings": [
         {
           "english": "[transitive, intransitive] not used in the progressive tenses",
-          "chinese": "不用于进行时 (rather formal)"
+          "chinese": "不用于进行时（较正式）"
         }
       ],
       "otherMeaningsStatus": "present"
@@ -4214,8 +4655,8 @@
           "chinese": "廉价进口到美国"
         },
         {
-          "english": "[uncountable, plural] the act of bringing a product or service into one country from another（",
-          "chinese": "产品、劳务的）进口，输入，引进",
+          "english": "[uncountable, plural] the act of bringing a product or service into one country from another",
+          "chinese": "（产品、劳务的）进口，输入，引进",
           "exampleEnglish": "The report calls for a ban on the import of hazardous waste.",
           "exampleChinese": "这篇报道呼吁禁止危险废弃物的进口。"
         },
@@ -4281,8 +4722,8 @@
           "exampleChinese": "治疗前应测量血压和心率。"
         },
         {
-          "english": "linking verb (not used in the progressive tenses",
-          "chinese": "不用于进行时) + noun to be a particular size, length, amount, etc.（指尺寸、长短、数量等）量度为",
+          "english": "linking verb (not used in the progressive tenses) + noun to be a particular size, length, amount, etc.",
+          "chinese": "（不用于进行时；后接名词）量度为（指尺寸、长度、数量等）",
           "exampleEnglish": "The main bedroom measures 12ft by 15ft.",
           "exampleChinese": "主卧室宽 12 英尺，长 15 英尺。"
         },
@@ -4323,8 +4764,8 @@
           "exampleChinese": "送花能表明你有多关心。"
         },
         {
-          "english": "[singular] measure of something a particular amount of something, especially a fairly large amount（",
-          "chinese": "一定的）量，程度",
+          "english": "[singular] measure of something a particular amount of something, especially a fairly large amount",
+          "chinese": "（一定的）量，程度",
           "exampleEnglish": "A measure of technical knowledge is desirable in this job.",
           "exampleChinese": "做这项工作最好多懂一些技术知识。"
         },
@@ -4335,14 +4776,14 @@
           "exampleChinese": "法案"
         },
         {
-          "english": "[countable] (North American English) a written suggestion, especially one for a new law made by the lawmakers of a state（",
-          "chinese": "尤指州立法者的）提案，法案，议案",
+          "english": "[countable] (North American English) a written suggestion, especially one for a new law made by the lawmakers of a state",
+          "chinese": "（尤指州立法者的）提案，法案，议案",
           "exampleEnglish": "a motion to refer the measure to another committee",
           "exampleChinese": "将提案提交给另一个委员会的动议"
         },
         {
-          "english": "(British English usually bar) [countable] one of the short sections of equal length that a piece of music is divided into, and the notes that are in it（",
-          "chinese": "乐谱的）小节（音乐节拍单位）",
+          "english": "(British English usually bar) [countable] one of the short sections of equal length that a piece of music is divided into, and the notes that are in it",
+          "chinese": "（乐谱的）小节（音乐节拍单位）",
           "exampleEnglish": "(formal) very much",
           "exampleChinese": "非常；极其"
         },
@@ -4378,7 +4819,14 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典原文的 measure 未单列诗歌“格律／韵律”义；本文按诗歌语境解释。"
+      "sourceCaveat": "词典原文的 measure 未单列诗歌“格律／韵律”义；本文按诗歌语境解释。",
+      "family": [
+        "measured adj./v. 慎重的；measure 的过去式／过去分词",
+        "measuring n./v. 测量；衡量",
+        "measurement n. 测量；尺寸",
+        "measurable adj. 可测量的",
+        "measurably adv. 可测量地"
+      ]
     },
     "133": {
       "word": "rhyme",
@@ -4416,8 +4864,8 @@
           "exampleChinese": "儿歌和童话"
         },
         {
-          "english": "[intransitive] rhyme (with something) if two words, syllables, etc. rhyme, or if one rhymes with the other, they have or end with the same sound（",
-          "chinese": "词或音节）押韵，和…同韵",
+          "english": "[intransitive] rhyme (with something) if two words, syllables, etc. rhyme, or if one rhymes with the other, they have or end with the same sound",
+          "chinese": "（词或音节）押韵，和…同韵",
           "exampleEnglish": "‘Though’ rhymes with ‘low’.though",
           "exampleChinese": "和 low 押韵。"
         },
@@ -4434,7 +4882,11 @@
           "exampleChinese": "我喜欢句尾押韵的诗。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "rhymed adj./v. 押韵的；rhyme 的过去式／过去分词",
+        "rhyming n./adj./v. 押韵；押韵的；rhyme 的 -ing 形式"
+      ]
     },
     "135": {
       "word": "lay sb. under the necessity of",
@@ -4460,7 +4912,16 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "所给摘录为相关词条；本文整块短语义按原句核对，词典例句仅用于相关义项。"
+      "sourceCaveat": "所给摘录为相关词条；本文整块短语义按原句核对，词典例句仅用于相关义项。",
+      "family": [
+        "necessary adj. 必要的",
+        "necessarily adv. 必然地；必要地",
+        "necessitate v. 使成为必要",
+        "necessitated v. necessitate 的过去式／过去分词",
+        "unnecessary adj. 不必要的"
+      ],
+      "wordFamilyNote": "The expandable word is necessity; the branches show its common adjective and verb forms.",
+      "wordFamilyRoot": "necessity"
     },
     "134": {
       "word": "tend to do",
@@ -4485,7 +4946,14 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "tended v. tend 的过去式／过去分词",
+        "tending n./v. 照料；趋向；tend 的 -ing 形式",
+        "tendency n. 倾向；趋势"
+      ],
+      "wordFamilyNote": "The phrase is built around tend; tendency is its common related noun.",
+      "wordFamilyRoot": "tend"
     },
     "55": {
       "word": "jumble",
@@ -4543,7 +5011,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "词典原文的 reduce 未单列 reduce ... into ... 表“整理成”的本文用法。"
+      "sourceCaveat": "词典原文的 reduce 未单列 reduce ... into ... 表“整理成”的本文用法。",
+      "family": [
+        "reduced adj./v. 减少的；reduce 的过去式／过去分词",
+        "reducing n./v. 减少；reduce 的 -ing 形式",
+        "reduction n. 减少；降低",
+        "reducible adj. 可减少的；可简化的",
+        "irreducible adj. 不可简化的"
+      ],
+      "wordFamilyNote": "The expandable word is reduce; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "reduce"
     },
     "56": {
       "word": "amend",
@@ -4612,8 +5089,8 @@
           "exampleChinese": "彼得躺在沙发上，无所事事。"
         },
         {
-          "english": "[usually plural] a fact or detail, especially one that is officially written down（",
-          "chinese": "正式记下的）细节，详情",
+          "english": "[usually plural] a fact or detail, especially one that is officially written down",
+          "chinese": "（正式记下的）细节，详情",
           "exampleEnglish": "The police officer took down all the particulars of the burglary.",
           "exampleChinese": "这名警察记下了窃案发生的详细情况。"
         }
@@ -4656,7 +5133,15 @@
           "exampleChinese": "你该打扫自己的房间了！"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "timely adj. 及时的",
+        "timing n. 时机；时间安排",
+        "timeless adj. 永恒的；不受时间影响的",
+        "untimely adj./adv. 不合时宜的；过早地"
+      ],
+      "wordFamilyNote": "The expandable word is time; the branches show common adjective and noun forms.",
+      "wordFamilyRoot": "time"
     },
     "57": {
       "word": "tolerable",
@@ -4714,8 +5199,8 @@
       },
       "otherMeanings": [
         {
-          "english": "contrive something to succeed in making something happen despite difficulties（",
-          "chinese": "克服困难）促成某事",
+          "english": "contrive something to succeed in making something happen despite difficulties",
+          "chinese": "（克服困难）促成某事",
           "exampleEnglish": "I decided to contrive a meeting between the two of them.",
           "exampleChinese": "我决定设法让他们双方见上一面。"
         },

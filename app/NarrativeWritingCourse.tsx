@@ -7,7 +7,6 @@ import "./unit-two-knowledge.css";
 import "./unit-theory.css";
 import { narrativeWritingMarkup } from "./narrativeWritingMarkup";
 import { toMediaUrl } from "./mediaUrl";
-import { UniversityFooter } from "./UniversityFooter";
 import { CharacterReference } from "./CharacterReference";
 import { SettingReference } from "./SettingReference";
 import { StoryBook } from "./StoryBook";
@@ -1042,7 +1041,7 @@ export function NarrativeWritingCourse({ onHome }: { onHome: () => void }) {
       data-editable-skip
     >
       <NarrativeMarkup />
-      {activeUnit ? <UnitDeckViewer key={activeUnit} unit={activeUnit} onNavigate={navigateFromDeck} /> : <UniversityFooter />}
+      {activeUnit && <UnitDeckViewer key={activeUnit} unit={activeUnit} onNavigate={navigateFromDeck} />}
       {characterSlot ? createPortal(<CharacterReference />, characterSlot) : null}
       {settingSlot ? createPortal(<SettingReference />, settingSlot) : null}
       {storybookSlot ? createPortal(<StoryBook />, storybookSlot) : null}

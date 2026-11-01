@@ -16,6 +16,7 @@ import { article06to08PdfVocabulary } from "./article06to08PdfVocabulary";
 import { article09PdfVocabulary } from "./article09PdfVocabulary";
 import { article10PdfVocabulary } from "./article10PdfVocabulary";
 import type { SentenceClassification } from "./ArticleOneNotebook";
+import { getSentenceLearningLevel } from "./sentenceLearningLevel";
 
 export type PdfNote = {
   entry: "words" | "grammar" | "meaning" | "voice" | "context";
@@ -52,6 +53,19 @@ articleLessons["05"] = { ...articleLessons["05"], sentences: articleLessons["05"
 articleLessons["04"] = { ...articleLessons["04"], sentences: articleLessons["04"].sentences.map(withArticle04Structure) };
 articleLessons["03"] = { ...articleLessons["03"], sentences: articleLessons["03"].sentences.map(withArticle03Structure) };
 articleLessons["02"] = { ...articleLessons["02"], sentences: articleLessons["02"].sentences.map(withArticle02Structure) };
+for (const [articleId, lesson] of Object.entries(articleLessons)) {
+  articleLessons[articleId] = {
+    ...lesson,
+    sentences: lesson.sentences.map(sentence => {
+      const studyLevel = getSentenceLearningLevel(articleId, sentence.id, sentence.classification.type);
+      return {
+        ...sentence,
+        classification: { ...sentence.classification, studyLevel },
+        ...(sentence.structureClassification ? { structureClassification: { ...sentence.structureClassification, studyLevel } } : {}),
+      };
+    }),
+  };
+}
 export const getLesson = (articleId: string): Lesson | undefined => articleLessons[articleId];
 const escapeRegex = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 

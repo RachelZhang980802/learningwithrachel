@@ -154,7 +154,16 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
+      "family": [
+        "associated adj./v. 有关的；associate 的过去式／过去分词",
+        "associating n./v. 联系；associate 的 -ing 形式",
+        "association n. 联系；协会",
+        "associative adj. 联想的；关联的",
+        "unassociated adj. 无关联的"
+      ],
+      "wordFamilyNote": "The phrase is built around associate; the branches show common noun and adjective forms.",
+      "wordFamilyRoot": "associate"
     },
     "6": {
       "word": "stinky",
@@ -224,7 +233,15 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录提供 spectacle 的名词义，未单列 make a spectacle out of；整句的“把……当猎奇看点”按原文整理。"
+      "sourceCaveat": "摘录提供 spectacle 的名词义，未单列 make a spectacle out of；整句的“把……当猎奇看点”按原文整理。",
+      "family": [
+        "spectacular adj. 壮观的；引人注目的",
+        "spectacularly adv. 壮观地；惊人地",
+        "spectator n. 观众；旁观者",
+        "spectate v. 观看比赛"
+      ],
+      "wordFamilyNote": "The expandable word is spectacle; spectacular and spectator are common related forms.",
+      "wordFamilyRoot": "spectacle"
     },
     "46": {
       "word": "seemingly",
@@ -370,7 +387,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "diversity n. 多样性；差异",
+        "diversify v. 使多样化；多样化经营",
+        "diversified adj. 多样化的",
+        "diversely adv. 多样地"
+      ]
     },
     "50": {
       "word": "continent",
@@ -400,7 +423,11 @@
           "chinese": "能控制排泄或欲望的（较正式的形容词）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "continental adj. 大陆的；欧洲大陆的",
+        "continentally adv. 在大陆范围内"
+      ]
     },
     "51": {
       "word": "sinking",
@@ -439,7 +466,14 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
+      "family": [
+        "sink v./n. 下沉；水槽",
+        "sank v. sink 的过去式",
+        "sunk v./adj. sink 的过去分词；沉没的",
+        "sunken adj. 沉没的；凹陷的",
+        "sinker n. 铅坠；下沉物"
+      ]
     },
     "9": {
       "word": "suspicion",
@@ -613,7 +647,14 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "funny adj. 有趣的；滑稽的",
+        "funnily adv. 有趣地；滑稽地",
+        "funniness n. 滑稽；可笑"
+      ],
+      "wordFamilyNote": "The phrase contains fun; funny is its common adjective form.",
+      "wordFamilyRoot": "fun"
     },
     "13": {
       "word": "Spam",
@@ -771,7 +812,14 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录对 appropriation 给出一般“挪用／占用”义，并提示参见 cultural appropriation；本文的文化含义据原文定义整理。"
+      "sourceCaveat": "词典摘录对 appropriation 给出一般“挪用／占用”义，并提示参见 cultural appropriation；本文的文化含义据原文定义整理。",
+      "family": [
+        "appropriate v./adj. 挪用；恰当的",
+        "appropriated adj./v. 被挪用的；appropriate 的过去式／过去分词",
+        "appropriating n./v. 挪用；占用",
+        "appropriateness n. 恰当；合适",
+        "appropriately adv. 恰当地"
+      ]
     },
     "16": {
       "word": "tricky",
@@ -859,7 +907,14 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "oppress v. 压迫；使烦恼",
+        "oppressed adj./v. 受压迫的；oppress 的过去式／过去分词",
+        "oppressive adj. 压迫性的；令人窒息的",
+        "oppressively adv. 压迫地；沉闷地",
+        "oppressor n. 压迫者"
+      ]
     },
     "56": {
       "word": "hand-pulled",
@@ -935,7 +990,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "commercialization / commercialisation n. 商业化",
+        "commercial adj. 商业的；商业化的",
+        "commercially adv. 商业上；以营利为目的地"
+      ]
     },
     "19": {
       "word": "hoard",
@@ -1016,7 +1076,16 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录列有 reduce 和 reduce to，但没有单列“把复杂事物简化为……”这一用法；语境义据原句整理。"
+      "sourceCaveat": "摘录列有 reduce 和 reduce to，但没有单列“把复杂事物简化为……”这一用法；语境义据原句整理。",
+      "family": [
+        "reduced adj./v. 减少的；reduce 的过去式／过去分词",
+        "reducing n./v. 减少；reduce 的 -ing 形式",
+        "reduction n. 减少；降低",
+        "reducible adj. 可减少的；可简化的",
+        "irreducible adj. 不可简化的"
+      ],
+      "wordFamilyNote": "The phrase is built around reduce; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "reduce"
     },
     "58": {
       "word": "cuisine",
@@ -1073,7 +1142,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "problem n. 问题；难题",
+        "problematically adv. 有问题地；棘手地"
+      ]
     },
     "60": {
       "word": "consumption",
@@ -1109,7 +1182,13 @@
           "chinese": "肺病；肺痨；肺结核"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "consume v. 消耗；消费",
+        "consumer n. 消费者",
+        "consumable adj./n. 可消耗的；消耗品",
+        "consumptive adj. 消耗性的"
+      ]
     },
     "2": {
       "word": "appropriative",
@@ -1313,7 +1392,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "ethnic adj./n. 族裔的；少数族裔",
+        "ethnically adv. 在族裔方面；从民族角度"
+      ]
     },
     "67": {
       "word": "be perceived as",
@@ -1346,7 +1429,17 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
+      "family": [
+        "perceived adj./v. 被看作的；perceive 的过去式／过去分词",
+        "perceiving n./v. 感知；perceive 的 -ing 形式",
+        "perception n. 感知；看法",
+        "perceptive adj. 理解力强的；敏锐的",
+        "perceptible adj. 可察觉的",
+        "imperceptible adj. 察觉不到的"
+      ],
+      "wordFamilyNote": "The phrase is built around perceive; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "perceive"
     },
     "68": {
       "word": "folk",
@@ -1396,7 +1489,12 @@
           "exampleChinese": "大蒜广泛应用于中国民间医药。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "folklore n. 民间传说；民俗",
+        "folkloric adj. 民俗的；民间传说的",
+        "folksy adj. 质朴亲切的；民间风格的"
+      ]
     },
     "69": {
       "word": "other than",
@@ -1541,7 +1639,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。",
+      "family": [
+        "ended v. end 的过去式／过去分词",
+        "ending n./v. 结尾；结束；end 的 -ing 形式",
+        "endless adj. 无尽的",
+        "endlessly adv. 无休止地"
+      ],
+      "wordFamilyNote": "The phrase is built around end; the branches show common adjective and verb forms.",
+      "wordFamilyRoot": "end"
     },
     "25": {
       "word": "homogenize / homogenization",
@@ -1566,7 +1672,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的摘录未单列 homogenize 或 homogenization；本文语境义据原句整理。"
+      "sourceCaveat": "你提供的摘录未单列 homogenize 或 homogenization；本文语境义据原句整理。",
+      "family": [
+        "homogenized adj./v. 均质化的；homogenize 的过去式／过去分词",
+        "homogenizing n./v. 使均质化；homogenize 的 -ing 形式",
+        "homogenization n. 均质化；同质化",
+        "homogeneous adj. 同质的；均匀的",
+        "homogeneity n. 同质性；均匀性"
+      ],
+      "wordFamilyNote": "The expandable word is homogenize; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "homogenize"
     },
     "26": {
       "word": "authentic / authenticity",
@@ -1608,7 +1723,16 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录提供 authentic 的词条，未单列 authenticity；词卡同时解释两者在本文的用法。"
+      "sourceCaveat": "摘录提供 authentic 的词条，未单列 authenticity；词卡同时解释两者在本文的用法。",
+      "family": [
+        "authenticity n. 真实性；可靠性",
+        "authentically adv. 真实地；可信地",
+        "authenticate v. 证明……真实；验证",
+        "authentication n. 认证；验证",
+        "inauthentic adj. 不真实的；不可信的"
+      ],
+      "wordFamilyNote": "The expandable word is authentic; the branches show common noun, verb, and adverb forms.",
+      "wordFamilyRoot": "authentic"
     },
     "27": {
       "word": "immersive",
@@ -1668,8 +1792,8 @@
           "exampleChinese": "工会代表着 20 余万名教师的利益。"
         },
         {
-          "english": "linking verb + noun (not used in the progressive tenses",
-          "chinese": "不用于进行时) to be something等于；相当于；意味着",
+          "english": "linking verb + noun (not used in the progressive tenses) to be something",
+          "chinese": "（不用于进行时）等于；相当于；意味着",
           "exampleEnglish": "This contract represents 20% of the company's annual revenue.",
           "exampleChinese": "这份合约相当于公司 20% 的年收入。"
         },
@@ -1696,7 +1820,14 @@
           "exampleChinese": "剧中国王的形象是一个恶棍。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "represented adj./v. 代表的；represent 的过去式／过去分词",
+        "representing n./v. 代表；表现",
+        "representation n. 代表；表现形式",
+        "representative adj./n. 代表性的；代表",
+        "representational adj. 再现的；具象的"
+      ]
     },
     "28": {
       "word": "perception",
@@ -1765,7 +1896,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "stemmed v. stem 的过去式／过去分词",
+        "stemming n./v. 源自；stem 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around stem; these are common verb forms used in stem from.",
+      "wordFamilyRoot": "stem"
     },
     "30": {
       "word": "preconceived",
@@ -1876,7 +2013,18 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录给出 colonization 的词条，未单列 re-colonize；本文两种词形的语境义分别据原句整理。"
+      "sourceCaveat": "摘录给出 colonization 的词条，未单列 re-colonize；本文两种词形的语境义分别据原句整理。",
+      "family": [
+        "colonized adj./v. 被殖民的；colonize 的过去式／过去分词",
+        "colonizing n./v. 殖民；colonize 的 -ing 形式",
+        "colonization n. 殖民；殖民化",
+        "colonist n. 殖民者；殖民地居民",
+        "colonial adj./n. 殖民的；殖民者",
+        "decolonize v. 使非殖民化",
+        "decolonization n. 非殖民化"
+      ],
+      "wordFamilyNote": "The expandable word is colonize; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "colonize"
     },
     "72": {
       "word": "devastating",
@@ -1914,7 +2062,13 @@
           "exampleChinese": "她的笑容令人倾倒。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "devastate v. 毁灭；使震惊",
+        "devastated adj./v. 遭受毁灭的；devastate 的过去式／过去分词",
+        "devastation n. 毁灭；震惊",
+        "devastatingly adv. 毁灭性地；极其"
+      ]
     },
     "73": {
       "word": "freeze",
@@ -2010,7 +2164,14 @@
           "exampleChinese": "据警报星期四夜间有霜冻。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "froze v. freeze 的过去式",
+        "frozen v./adj. freeze 的过去分词；冷冻的",
+        "freezing adj./n./v. 极冷的；冰点；freeze 的 -ing 形式",
+        "freezer n. 冰箱；冷冻室",
+        "freezable adj. 可冷冻的"
+      ]
     },
     "74": {
       "word": "get disconnected from",
@@ -2043,7 +2204,17 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
+      "family": [
+        "disconnected adj./v. 断开联系的；disconnect 的过去式／过去分词",
+        "disconnecting n./v. 断开；disconnect 的 -ing 形式",
+        "disconnection n. 断开；脱节",
+        "connected adj. 有联系的；连接的",
+        "connection n. 联系；连接",
+        "connectivity n. 连通性；联系"
+      ],
+      "wordFamilyNote": "The phrase is built around disconnect; the branches show common noun and adjective forms.",
+      "wordFamilyRoot": "disconnect"
     },
     "33": {
       "word": "immigration",
@@ -2171,7 +2342,13 @@
           "exampleChinese": "很多失业者有孤独沮丧的感觉。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "isolate v./n. 隔离；孤立者",
+        "isolated adj./v. 孤立的；isolate 的过去式／过去分词",
+        "isolating adj./n./v. 隔离的；隔离；isolate 的 -ing 形式",
+        "isolator n. 隔离装置；隔离者"
+      ]
     },
     "36": {
       "word": "repurpose",
@@ -2232,7 +2409,16 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
+      "family": [
+        "accessed v. access 的过去式／过去分词",
+        "accessing n./v. 使用；获取；access 的 -ing 形式",
+        "accessible adj. 可获得的；可使用的",
+        "accessibility n. 可及性；易用性",
+        "inaccessible adj. 难以获得的；无法进入的"
+      ],
+      "wordFamilyNote": "The expandable word is access; accessible and accessibility are its common related forms.",
+      "wordFamilyRoot": "access"
     },
     "78": {
       "word": "labor",
@@ -2289,7 +2475,13 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。"
+      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
+      "family": [
+        "laborer / labourer n. 劳动者；工人",
+        "laborious adj. 艰苦的；费力的",
+        "laboriously adv. 艰苦地；费力地",
+        "laboring / labouring n./adj./v. 劳动；劳动的；labor 的 -ing 形式"
+      ]
     },
     "79": {
       "word": "profit off",
@@ -2311,7 +2503,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。",
+      "family": [
+        "profited v. profit 的过去式／过去分词",
+        "profiting n./v. 获利；受益",
+        "profitable adj. 有利可图的",
+        "profitably adv. 有利可图地",
+        "profitability n. 盈利能力"
+      ],
+      "wordFamilyRoot": "profit",
+      "wordFamilyNote": "The phrase is built around profit; the branches show common verb, adjective, and noun forms."
     },
     "80": {
       "word": "reappropriate",
@@ -2333,7 +2534,12 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。",
+      "family": [
+        "reappropriated adj./v. 重新占用的；reappropriate 的过去式／过去分词",
+        "reappropriating n./v. 重新占用；重新挪用",
+        "reappropriation n. 重新占用；重新挪用"
+      ]
     },
     "81": {
       "word": "corporation",
@@ -2371,7 +2577,11 @@
           "exampleChinese": "伦敦市长及市政当局"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "corporate adj. 公司的；团体的",
+        "corporately adv. 以公司方式；由公司整体"
+      ]
     },
     "82": {
       "word": "repackage",
@@ -2401,7 +2611,11 @@
           "chinese": "改变（产品）包装；重新包装"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "repackaged adj./v. 重新包装的；repackage 的过去式／过去分词",
+        "repackaging n./v. 重新包装；重新包装的产品"
+      ]
     },
     "37": {
       "word": "quinoa",
@@ -2735,7 +2949,13 @@
           "exampleChinese": "法庭支持他的主张，认定该合同不合法。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "sustained adj./v. 持续的；sustain 的过去式／过去分词",
+        "sustaining n./v. 维持；支撑",
+        "sustainable adj. 可持续的",
+        "sustainability n. 可持续性"
+      ]
     },
     "85": {
       "word": "truck",
@@ -2783,7 +3003,12 @@
           "exampleChinese": "水必须用卡车运到镇上。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "trucked v./adj. 用卡车运送的；truck 的过去式／过去分词",
+        "trucking n./v. 卡车运输",
+        "trucker n. 卡车司机；卡车运输商"
+      ]
     },
     "86": {
       "word": "try out",
@@ -2808,7 +3033,16 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "tried v. try 的过去式／过去分词",
+        "trying n./adj./v. 尝试；困难的；try 的 -ing 形式",
+        "trial n. 试用；试验",
+        "retry v. 再试一次",
+        "retried v. retry 的过去式／过去分词"
+      ],
+      "wordFamilyNote": "The phrase is built around try; the branches show common verb and noun forms.",
+      "wordFamilyRoot": "try"
     },
     "87": {
       "word": "critical",
@@ -2852,7 +3086,13 @@
           "exampleChinese": "大火的一位受害者依然病情危急。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "critically adv. 批判性地；至关重要地",
+        "criticism n. 批评；评论",
+        "criticize / criticise v. 批评；评论",
+        "critic n. 评论家；批评者"
+      ]
     },
     "76": {
       "word": "reflect",

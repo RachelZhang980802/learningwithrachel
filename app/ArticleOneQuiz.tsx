@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useLayoutEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
+import { useEffect, useLayoutEffect, useRef, useState, type CSSProperties } from "react";
 import { article01QuizCategories, type QuizCategory } from "./article01QuizData";
 import { QuizPaperBackdrop, QuizFolderTint } from "./QuizPaperMaterial";
 import { toMediaUrl } from "./mediaUrl";
@@ -10,7 +10,6 @@ import { ConcordDeeperAnalysis } from "./ConcordDeeperAnalysis";
 
 type ArticleOneQuizProps = {
   onBack: () => void;
-  footer: ReactNode;
   articleId?: string;
   categories?: QuizCategory[];
   unitLabel?: string;
@@ -89,8 +88,12 @@ const folderOutline = (tab: FolderTabLayout, width: number, height: number, scal
   ].join(" ");
 };
 
-export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = article01QuizCategories, unitLabel = "UNIT 1 · A FRESH START", articleTitle = "I Become a Student" }: ArticleOneQuizProps) {
-  const folderNumber = (id: string) => articleId === "01" ? ({ "analytical-reading": "01", "word-roots": "02", "paraphrasing": "03", "prepositions": "04", "articles": "05", "present-participle": "06", "translation": "07" } as Record<string, string>)[id] : articleId === "02" ? ({ "u4-reading-outline": "01", "u4-true-false": "02", "u4-close-reading": "03", "u4-vocabulary": "04", "u4-paraphrasing": "05", "u4-subject-verb-concord": "06", "u4-translation": "07" } as Record<string, string>)[id] : undefined;
+export function ArticleOneQuiz({ onBack, articleId = "01", categories = article01QuizCategories, unitLabel = "UNIT 1 · A FRESH START", articleTitle = "I Become a Student" }: ArticleOneQuizProps) {
+  const folderNumber = (id: string) => {
+    const index = categories.findIndex((category) => category.id === id);
+    return index >= 0 ? String(index + 1).padStart(2, "0") : undefined;
+  };
+  const isGrammarCategory = (item: QuizCategory) => /\b(articles?|prepositions?|participles?|concord|gerunds?|tenses?|perfect|infinitive|modals?|auxiliar(?:y|ies)|passive|comparison|linking verbs?|if\s*&\s*lest|by\s*\+\s*-ing|when\s*&\s*while|repetition)\b/i.test(item.label);
   const folderLabel = (item: QuizCategory) => `${folderNumber(item.id) ? folderNumber(item.id) + " " : ""}${item.label}`;
   const [order, setOrder] = useState(() => categories.map((category) => category.id));
   const [expandedId, setExpandedId] = useState<string | null>(null);
@@ -107,9 +110,9 @@ export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = 
     ? Math.max(.5, Math.min(viewport.width / 768, viewport.height / 1024))
     : Math.min(viewport.width / 1536, viewport.height / 1024);
   const stageTop = mobile ? Math.max(122, 190 * designScale) : 190 * designScale;
-  const footerHeight = Math.max(mobile ? 94 : 88, 164 * designScale);
+  const bottomSpace = Math.max(24, 32 * designScale);
   const stageWidth = mobile ? viewport.width - 24 : viewport.width * .8034;
-  const stageHeight = viewport.height - stageTop - footerHeight;
+  const stageHeight = viewport.height - stageTop - bottomSpace;
 
   useLayoutEffect(() => {
     const page = pageRef.current;
@@ -181,7 +184,7 @@ export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = 
     <main ref={pageRef} className={`integrated-quiz-page${expandedId ? " has-expanded-folder" : ""}`} style={{
       "--quiz-unit": `${designScale}px`,
       "--quiz-stage-top": `${stageTop}px`,
-      "--quiz-footer-height": `${footerHeight}px`,
+      "--quiz-bottom-space": `${bottomSpace}px`,
     } as CSSProperties}>
       <QuizPaperBackdrop scale={designScale} />
       <header className="integrated-quiz-header">
@@ -226,7 +229,7 @@ export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = 
           return (
             <article
               key={category.id}
-              className={`integrated-quiz-folder${active ? " is-front" : ""}${expanded ? " is-expanded" : ""}`}
+              className={`integrated-quiz-folder${active ? " is-front" : ""}${expanded ? " is-expanded" : ""}${isGrammarCategory(category) ? " is-grammar-folder" : ""}`}
               style={folderStyle}
               data-category={category.id}
               aria-label={folderLabel(category)}
@@ -273,7 +276,7 @@ export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = 
                     <span>FOLDERS</span>
                     {order.map((id) => {
                       const item = categories.find((candidate) => candidate.id === id)!;
-                      return <button key={id} data-folder={id} type="button" aria-current={id === category.id ? "page" : undefined} onClick={() => selectCategory(id)}>{folderLabel(item)}</button>;
+                      return <button key={id} data-folder={id} className={isGrammarCategory(item) ? "is-grammar-category" : undefined} type="button" aria-current={id === category.id ? "page" : undefined} onClick={() => selectCategory(id)}>{folderLabel(item)}</button>;
                     })}
                     <button className="integrated-quiz-collapse" type="button" onClick={() => { expandedRef.current = null; setExpandedId(null); }}>Return to stack <span aria-hidden="true">↘</span></button>
                   </nav>}
@@ -286,27 +289,36 @@ export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = 
                   ) : category.exercises.map((exercise, index) => {
                     const answerId = `${category.id}-answer-${index}`;
                     const open = Boolean(expandedAnswers[answerId]);
+                    const inlineAnswer = articleId === "01" && Boolean(exercise.inlineAnswer);
+                    const answerContent = <>{exercise.answer}{exercise.answerTranslation && <span className="integrated-quiz-answer-translation" lang="zh-CN">{exercise.answerTranslation}</span>}</>;
                     return (
                       <section
-                        className={`integrated-quiz-question${open ? " is-open" : ""}${exercise.answer ? " has-answer" : ""}`}
+                        className={`integrated-quiz-question${open ? " is-open" : ""}${exercise.answer ? " has-answer" : ""}${inlineAnswer ? " has-inline-answer" : ""}`}
                         key={answerId}
-                        onClick={(event) => {
-                          if (!exercise.answer || !(event.target instanceof Element)) return;
-                          if (!event.target.closest(".integrated-quiz-question-title, .integrated-quiz-instruction, .integrated-quiz-prompt")) return;
-                          if (event.target.closest("a, button, input, select, textarea")) return;
-                          if (window.getSelection()?.toString()) return;
-                          toggleAnswer(answerId);
-                        }}
                       >
                         <div className="integrated-quiz-question-title"><span>{String(index + 1).padStart(2, "0")}</span><h2>{exercise.title}</h2></div>
                         {exercise.instruction && <p className="integrated-quiz-instruction">{exercise.instruction}</p>}
-                        <div className="integrated-quiz-prompt">{exercise.prompt}</div>
-                        {exercise.selfManagedAnswers ? null : exercise.answer ? <>
-                          <button className="integrated-quiz-answer-toggle" type="button" aria-expanded={open} aria-controls={answerId} onClick={() => toggleAnswer(answerId)}>
-                            {open ? "Hide answer" : "Show answer"}<span aria-hidden="true">{open ? "−" : "+"}</span>
-                          </button>
+                        <div
+                          className="integrated-quiz-prompt"
+                          role={exercise.answer ? "button" : undefined}
+                          tabIndex={exercise.answer ? 0 : undefined}
+                          aria-expanded={exercise.answer ? open : undefined}
+                          aria-controls={exercise.answer ? answerId : undefined}
+                          onClick={exercise.answer ? (event) => {
+                            if (!(event.target instanceof Element)) return;
+                            if (event.target.closest("a, button, input, select, textarea")) return;
+                            if (window.getSelection()?.toString()) return;
+                            toggleAnswer(answerId);
+                          } : undefined}
+                          onKeyDown={exercise.answer ? (event) => {
+                            if (event.key !== "Enter" && event.key !== " ") return;
+                            event.preventDefault();
+                            toggleAnswer(answerId);
+                          } : undefined}
+                        >{exercise.prompt}{inlineAnswer && open && <span className="integrated-quiz-inline-answer" id={answerId} aria-live="polite">{answerContent}</span>}</div>
+                        {exercise.selfManagedAnswers || inlineAnswer ? null : exercise.answer ? <>
                           <div className="integrated-quiz-answer-motion" data-open={open}>
-                            <div className="integrated-quiz-answer-clip"><div className="integrated-quiz-answer" id={answerId} aria-hidden={!open} inert={!open}><p className="integrated-quiz-answer-label">ANSWER</p>{exercise.answer}</div></div>
+                            <div className="integrated-quiz-answer-clip"><div className="integrated-quiz-answer" id={answerId} aria-hidden={!open} inert={!open}><p className="integrated-quiz-answer-label">ANSWER</p>{answerContent}</div></div>
                           </div>
                         </> : <p className="integrated-quiz-no-answer">No answer key is supplied for this activity.</p>}
                       </section>
@@ -321,8 +333,6 @@ export function ArticleOneQuiz({ onBack, footer, articleId = "01", categories = 
           );
         })}
       </section>
-
-      {footer}
     </main>
   );
 }

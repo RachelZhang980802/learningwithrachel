@@ -9,6 +9,7 @@ import "./grammar-study.css";
 import "./grammar-source-pages.css";
 import "./grammar-exercise-text.css";
 import { EditableTextLayer } from "./EditableTextLayer";
+import { UniversityFooter } from "./UniversityFooter";
 
 export const metadata: Metadata = {
   title: "Learning with Rachel",
@@ -27,9 +28,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="stylesheet" href="/western-culture/shared-footer.css" />
         <link rel="preconnect" href="https://assets.negentropylearning.com.cn" crossOrigin="anonymous" />
       </head>
-      <body className="antialiased"><EditableTextLayer>{children}</EditableTextLayer></body>
+      <body className="antialiased"><EditableTextLayer>{children}</EditableTextLayer><UniversityFooter /></body>
     </html>
   );
 }

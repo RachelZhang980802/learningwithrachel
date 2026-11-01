@@ -20,7 +20,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。",
+      "family": [
+        "death n. 死亡；dead 的相关名词",
+        "die v. 死亡",
+        "died v. die 的过去式／过去分词",
+        "dying n./adj./v. 死亡；垂死的；die 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase uses dead to mean ‘no longer in everyday use’; these are common forms from the same word family.",
+      "wordFamilyRoot": "dead"
     },
     "43": {
       "word": "uneducated",
@@ -45,7 +53,16 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "educate v. 教育；培养",
+        "educated adj. 受过教育的",
+        "uneducated adj. 未受教育的；缺乏相关训练的",
+        "education n. 教育",
+        "educational adj. 教育的",
+        "educator n. 教育工作者"
+      ],
+      "wordFamilyNote": "The adjective uneducated belongs to the educate family; education and educator are common noun forms."
     },
     "44": {
       "word": "reserve",
@@ -77,8 +94,8 @@
           "exampleChinese": "现金/外汇储备"
         },
         {
-          "english": "a piece of land that is a protected area for animals, plants, etc.（",
-          "chinese": "动植物）保护区；自然保护区",
+          "english": "a piece of land that is a protected area for animals, plants, etc.",
+          "chinese": "（动植物）保护区；自然保护区",
           "exampleEnglish": "a wildlife/forest reserve",
           "exampleChinese": "野生动植物/森林保护区"
         },
@@ -99,7 +116,13 @@
           "exampleChinese": "这些座位是留给贵宾的。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "reserved adj./v. 预留的；reserve 的过去式／过去分词",
+        "reserving n./v. 预订；保留",
+        "reservation n. 预订；保留意见",
+        "reservoir n. 水库；储备"
+      ]
     },
     "45": {
       "word": "deliver",
@@ -165,7 +188,14 @@
           "exampleChinese": "圣经’救我们脱离邪恶"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "delivered adj./v. 交付的；deliver 的过去式／过去分词",
+        "delivering n./v. 递送；发表",
+        "delivery n. 递送；交付；分娩",
+        "deliverer n. 递送者；履行者",
+        "deliverable n./adj. 可交付成果；可交付的"
+      ]
     },
     "46": {
       "word": "utter",
@@ -197,7 +227,13 @@
           "exampleChinese": "那纯属一派胡言！"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "uttered v. 说出（过去式／过去分词）",
+        "uttering v. 说出（-ing 形式）",
+        "utterance n. 说出的话；话语"
+      ],
+      "wordFamilyNote": "These branches follow the verb meaning “to say”; the unrelated adjective utter (“complete”) is excluded."
     },
     "1": {
       "word": "void of something",
@@ -232,14 +268,14 @@
           "exampleChinese": "他下面只是一片漆黑。"
         },
         {
-          "english": "(law) (of a contract, an agreement etc.",
-          "chinese": "合同、协议等) not correct or legally valid无效的",
+          "english": "(law) (of a contract, an agreement, etc.) not correct or legally valid",
+          "chinese": "（法律；指合同、协议等）无效的",
           "exampleEnglish": "The agreement was declared void.",
           "exampleChinese": "该协议已宣布无效。"
         },
         {
-          "english": "(law) (of an election, agreement, etc.",
-          "chinese": "选举、协议等) having no legal force; not valid无法律效力的；无效的",
+          "english": "(law) (of an election, agreement, etc.) having no legal force; not valid",
+          "chinese": "（法律；指选举、协议等）无法律效力的；无效的",
           "exampleEnglish": "The contract was declared null and void.",
           "exampleChinese": "合同被宣布无效。"
         },
@@ -253,7 +289,9 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [],
+      "wordFamilyNote": "Void of is a fixed phrase meaning ‘completely lacking’; no common related form fits this sense."
     },
     "47": {
       "word": "so wonderful a book",
@@ -275,7 +313,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。",
+      "family": [
+        "wonder n./v. 惊奇；想知道",
+        "wonderfully adv. 精彩地；令人惊叹地",
+        "wonderment n. 惊奇；惊叹",
+        "wondrous adj. 奇妙的；令人惊叹的",
+        "wondrously adv. 奇妙地；令人惊叹地"
+      ],
+      "wordFamilyNote": "The expandable word is wonder; the branches show its common adjective, adverb, and noun forms.",
+      "wordFamilyRoot": "wonder"
     },
     "48": {
       "word": "absorbing",
@@ -300,7 +347,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "absorb v. 吸收；全神贯注",
+        "absorbed adj./v. 全神贯注的；absorb 的过去式／过去分词",
+        "absorption n. 吸收；专注",
+        "absorbent adj./n. 吸收性的；吸收材料"
+      ]
     },
     "2": {
       "word": "unflagging",
@@ -376,7 +429,16 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "renewed adj./v. 更新的；renew 的过去式／过去分词",
+        "renewing n./v. 更新；renew 的 -ing 形式",
+        "renewal n. 更新；恢复",
+        "renewable adj. 可更新的；可再生的",
+        "renewability n. 可更新性；可再生性"
+      ],
+      "wordFamilyNote": "The phrase is built around renew; the branches show common noun and adjective forms.",
+      "wordFamilyRoot": "renew"
     },
     "3": {
       "word": "perusal",
@@ -430,8 +492,8 @@
       },
       "otherMeanings": [
         {
-          "english": "peculiar (to somebody/something) belonging or relating to one particular place, situation, person, etc., and not to others（",
-          "chinese": "某人、某地、某种情况等）特有的，特殊的",
+          "english": "peculiar (to somebody/something) belonging or relating to one particular place, situation, person, etc., and not to others",
+          "chinese": "（某人、某地、某种情况等）特有的，特殊的",
           "exampleEnglish": "a humour that is peculiar to American sitcoms",
           "exampleChinese": "美国情景喜剧特有的幽默"
         },
@@ -442,7 +504,11 @@
           "exampleChinese": "我认为我不会吃任何东西，我感觉有点奇怪。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "peculiarly adv. 奇特地；特别地",
+        "peculiarity n. 特点；怪异之处"
+      ]
     },
     "4": {
       "word": "faint",
@@ -576,7 +642,11 @@
           "chinese": "理由；原因"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "occasional adj. 偶尔的；特定场合的",
+        "occasionally adv. 偶尔；有时"
+      ]
     },
     "53": {
       "word": "overlook",
@@ -602,8 +672,8 @@
       },
       "otherMeanings": [
         {
-          "english": "overlook something to see something wrong or bad but decide to ignore it（",
-          "chinese": "对不良现象等）不予理会，视而不见",
+          "english": "overlook something to see something wrong or bad but decide to ignore it",
+          "chinese": "（对不良现象等）不予理会，视而不见",
           "exampleEnglish": "We could not afford to overlook such a serious offence.",
           "exampleChinese": "对这样严重的违法行为，我们决不能视若无睹。"
         },
@@ -614,13 +684,17 @@
           "exampleChinese": "一家濒湖餐厅"
         },
         {
-          "english": "overlook somebody (for something) to not consider somebody for a job or position, even though they might be suitable（",
-          "chinese": "提拔等时）对（某人）不予考虑",
+          "english": "overlook somebody (for something) to not consider somebody for a job or position, even though they might be suitable",
+          "chinese": "（提拔等时）对（某人）不予考虑",
           "exampleEnglish": "She's been overlooked for promotion several times.",
           "exampleChinese": "几次提职时都没有考虑她"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "overlooked adj./v. 被忽视的；overlook 的过去式／过去分词",
+        "overlooking n./v. 忽略；俯瞰"
+      ]
     },
     "6": {
       "word": "italicize",
@@ -679,14 +753,14 @@
           "exampleChinese": "这部电影是根据罗宾汉的传奇故事改编的。"
         },
         {
-          "english": "a very famous person, especially in a particular field, who is admired by other people（",
-          "chinese": "尤指某领域中的）传奇人物",
+          "english": "a very famous person, especially in a particular field, who is admired by other people",
+          "chinese": "（尤指某领域中的）传奇人物",
           "exampleEnglish": "a jazz/screen/sporting legend",
           "exampleChinese": "爵士/银幕/体育传奇"
         },
         {
-          "english": "(specialist) the explanation of a map or a diagram in a book（",
-          "chinese": "地图或书中图表的）图例，说明，解释"
+          "english": "(specialist) the explanation of a map or a diagram in a book",
+          "chinese": "（地图或书中图表的）图例，说明，解释"
         }
       ],
       "otherMeaningsStatus": "present"
@@ -754,8 +828,8 @@
           "exampleChinese": "死罪"
         },
         {
-          "english": "used to emphasize that a word has a stronger meaning than usual in a particular situation（",
-          "chinese": "强调有特别含义的字眼）真正地，名副其实地，不折不扣地",
+          "english": "used to emphasize that a word has a stronger meaning than usual in a particular situation",
+          "chinese": "（强调有特别含义的字眼）真正地，名副其实地，不折不扣地",
           "exampleEnglish": "He was romantic with a capital R.",
           "exampleChinese": "他纯属浪漫派"
         }
@@ -785,7 +859,15 @@
       "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "exclaimed v. exclaim 的过去式／过去分词",
+        "exclaiming n./v. 惊叫；呼喊；exclaim 的 -ing 形式",
+        "exclamation n. 感叹；感叹词",
+        "exclamatory adj. 感叹的；感叹句的"
+      ],
+      "wordFamilyNote": "The expandable word is exclaim; exclamation is its common noun form.",
+      "wordFamilyRoot": "exclaim"
     },
     "54": {
       "word": "wreck",
@@ -811,14 +893,14 @@
       },
       "otherMeanings": [
         {
-          "english": "a car, plane, etc. that has been very badly damaged in an accident（",
-          "chinese": "事故中）遭严重毁坏的汽车（或飞机等）",
+          "english": "a car, plane, etc. that has been very badly damaged in an accident",
+          "chinese": "（事故中）遭严重毁坏的汽车（或飞机等）",
           "exampleEnglish": "Two passengers are still trapped in the wreck.",
           "exampleChinese": "有两名乘客仍被困在失事的车辆里。"
         },
         {
-          "english": "(informal) a person who is in a bad physical or mental condition（",
-          "chinese": "身体或精神上）受到严重损伤的人",
+          "english": "(informal) a person who is in a bad physical or mental condition",
+          "chinese": "（身体或精神上）受到严重损伤的人",
           "exampleEnglish": "Physically, I was a total wreck.",
           "exampleChinese": "从身体上说，我完全是一个废人。"
         },
@@ -853,7 +935,13 @@
           "exampleChinese": "那艘船在法国的沿岸失事。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "wrecked adj./v. 失事的；wreck 的过去式／过去分词",
+        "wrecking n./v. 破坏；拆毁",
+        "wrecker n. 拆船者；破坏者",
+        "wreckage n. 残骸；失事现场"
+      ]
     },
     "55": {
       "word": "vessel",
@@ -879,14 +967,14 @@
       },
       "otherMeanings": [
         {
-          "english": "a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant（",
-          "chinese": "人或动物的）血管，脉管；（植物的）导管",
+          "english": "a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant",
+          "chinese": "（人或动物的）血管，脉管；（植物的）导管",
           "exampleEnglish": "to burst/rupture a blood vessel",
           "exampleChinese": "破裂/破裂血管"
         },
         {
-          "english": "(old use or specialist) a container used for holding liquids, such as a bowl, cup, etc.（",
-          "chinese": "盛液体的）容器，器皿",
+          "english": "(old use or specialist) a container used for holding liquids, such as a bowl, cup, etc.",
+          "chinese": "（盛液体的）容器，器皿",
           "exampleEnglish": "a Bronze Age drinking vessel",
           "exampleChinese": "青铜器时代的饮具"
         }
@@ -935,14 +1023,14 @@
           "exampleChinese": "他们建议提高酒税。"
         },
         {
-          "english": "float something (business) to sell shares in a company or business to the public for the first time（",
-          "chinese": "公司或企业）首次公开发行（股票），使上市",
+          "english": "float something (business) to sell shares in a company or business to the public for the first time",
+          "chinese": "（公司或企业）首次公开发行（股票），使上市",
           "exampleEnglish": "The company was floated on the stock market in 2014.",
           "exampleChinese": "这家公司于 2014 年上市。"
         },
         {
-          "english": "float (something) (economics) if a government floats its country’s money or allows it to float, it allows its value to change freely according to the value of the money of other countries（",
-          "chinese": "使货币汇率）自由浮动",
+          "english": "float (something) (economics) if a government floats its country’s money or allows it to float, it allows its value to change freely according to the value of the money of other countries",
+          "chinese": "（使货币汇率）自由浮动",
           "exampleEnglish": "The government decided to allow the peso to float freely.",
           "exampleChinese": "政府决定让比索自由浮动。"
         },
@@ -953,11 +1041,18 @@
           "exampleChinese": "一杯加冰淇淋的可口可乐"
         },
         {
-          "english": "(especially British English) a sum of money consisting of coins and notes of low value that is given to somebody before they start selling things so that they can give customers change（",
-          "chinese": "商店的）备用零钱"
+          "english": "(especially British English) a sum of money consisting of coins and notes of low value that is given to somebody before they start selling things so that they can give customers change",
+          "chinese": "（商店的）备用零钱"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "floated v. float 的过去式／过去分词",
+        "floating adj./n./v. 漂浮的；浮体；float 的 -ing 形式",
+        "flotation n. 漂浮；浮选",
+        "floatable adj. 可漂浮的",
+        "floater n. 漂浮物；流动人员"
+      ]
     },
     "10": {
       "word": "hideous",
@@ -1012,7 +1107,17 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "true adj. 真实的；正确的",
+        "truly adv. 真实地；确实",
+        "truthful adj. 诚实的；真实的",
+        "truthfully adv. 诚实地；如实地",
+        "truthfulness n. 诚实；真实性",
+        "untrue adj. 不真实的；不正确的"
+      ],
+      "wordFamilyNote": "The expandable word is truth; the branches show its common adjective and adverb forms.",
+      "wordFamilyRoot": "truth"
     },
     "12": {
       "word": "grim",
@@ -1109,7 +1214,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "read v. 阅读；read 的原形／过去式／过去分词",
+        "reader n. 读者；读本",
+        "readable adj. 可读的；易读的",
+        "readability n. 可读性",
+        "reread v. 重读；再读"
+      ],
+      "wordFamilyNote": "The phrase is built around read; the branches show common verb and noun forms.",
+      "wordFamilyRoot": "read"
     },
     "13": {
       "word": "trifling",
@@ -1175,7 +1289,12 @@
           "exampleChinese": "波罗的海沿岸国家"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "bordered adj./v. 有边界的；border 的过去式／过去分词",
+        "bordering adj./v. 接壤的；border 的 -ing 形式",
+        "borderless adj. 无国界的；无边框的"
+      ]
     },
     "14": {
       "word": "alphabet",
@@ -1232,8 +1351,8 @@
       },
       "otherMeanings": [
         {
-          "english": "something that somebody buys to add to what they already own, usually something valuable（",
-          "chinese": "多指贵重的）购得物",
+          "english": "something that somebody buys to add to what they already own, usually something valuable",
+          "chinese": "（多指贵重的）购得物",
           "exampleEnglish": "His latest acquisition is a racehorse.",
           "exampleChinese": "他最近购得一匹赛马。"
         },
@@ -1294,7 +1413,14 @@
           "exampleChinese": "警察已经把这幅油画归还给了它的合法主人。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "restored adj./v. 修复的；restore 的过去式／过去分词",
+        "restoring n./v. 修复；恢复",
+        "restoration n. 修复；恢复",
+        "restorative adj./n. 有恢复作用的；恢复剂",
+        "restorer n. 修复者"
+      ]
     },
     "16": {
       "word": "majestic",
@@ -1372,7 +1498,11 @@
           "exampleChinese": "近年来人们的社会流动性越来越大。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "witnessed adj./v. 见证的；witness 的过去式／过去分词",
+        "witnessing n./v. 见证；目击"
+      ]
     },
     "62": {
       "word": "steamboating",
@@ -1483,8 +1613,8 @@
       },
       "otherMeanings": [
         {
-          "english": "an official record of events during a particular period of time, especially a journey on a ship or plane（",
-          "chinese": "某时期事件的）正式记录，日志；（尤指）航海日志，飞行日志",
+          "english": "an official record of events during a particular period of time, especially a journey on a ship or plane",
+          "chinese": "（某时期事件的）正式记录，日志；（尤指）航海日志，飞行日志",
           "exampleEnglish": "The captain keeps a log.",
           "exampleChinese": "船长记航海日志。"
         },
@@ -1550,7 +1680,12 @@
       "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "slant n./v. 倾斜；有倾向地报道",
+        "slanted adj./v. 倾斜的；slant 的过去式／过去分词",
+        "slantwise adv. 斜向地；倾斜地"
+      ]
     },
     "65": {
       "word": "tumbling",
@@ -1572,7 +1707,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "tumble n./v. 翻滚；跌倒",
+        "tumbled adj./v. 翻倒的；tumble 的过去式／过去分词",
+        "tumbler n. 翻筋斗者；玻璃杯",
+        "tumbling n. 翻滚；体操"
+      ]
     },
     "20": {
       "word": "tint",
@@ -1669,7 +1810,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "ruddier adj. ruddy 的比较级；更红润的",
+        "ruddiest adj. ruddy 的最高级；最红润的",
+        "ruddiness n. 红润；赤红"
+      ],
+      "wordFamilyNote": "The expandable word is ruddy; ruddiness is its common noun form.",
+      "wordFamilyRoot": "ruddy"
     },
     "66": {
       "word": "radiating",
@@ -1691,7 +1839,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "radiate v. 发光；散发；辐射",
+        "radiated adj./v. 发出的；radiate 的过去式／过去分词",
+        "radiation n. 辐射；放射",
+        "radiant adj. 容光焕发的；发光的",
+        "radiantly adv. 容光焕发地"
+      ]
     },
     "67": {
       "word": "delicately traced",
@@ -1713,7 +1868,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "traced adj./v. 描绘的；trace 的过去式／过去分词",
+        "tracing n./v. 描绘；追踪；trace 的 -ing 形式",
+        "traceable adj. 可追溯的；可描绘的",
+        "traceability n. 可追溯性",
+        "untraceable adj. 无法追踪的"
+      ],
+      "wordFamilyNote": "The phrase is built around trace; the branches show common noun and adjective forms.",
+      "wordFamilyRoot": "trace"
     },
     "68": {
       "word": "somber",
@@ -1735,7 +1899,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "somberly adv. 忧郁地；阴沉地",
+        "somberness n. 阴沉；忧郁"
+      ]
     },
     "69": {
       "word": "ruffled trail",
@@ -1757,7 +1925,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "ruffled adj./v. 起皱的；ruffle 的过去式／过去分词",
+        "ruffling n./v. 弄皱；扰乱；ruffle 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around ruffle; the branches show common verb forms.",
+      "wordFamilyRoot": "ruffle"
     },
     "70": {
       "word": "clean-stemmed",
@@ -1878,7 +2052,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "dissolve v. 溶解；解散",
+        "dissolved adj./v. 已溶解的；dissolve 的过去式／过去分词",
+        "dissolution n. 溶解；解散",
+        "dissolvable adj. 可溶解的"
+      ]
     },
     "72": {
       "word": "drift",
@@ -1928,8 +2108,8 @@
           "exampleChinese": "由农村到城市贫民区的人口流动"
         },
         {
-          "english": "the movement of a ship or plane away from its direction because of currents or wind（",
-          "chinese": "船只或飞机的）偏航，航差",
+          "english": "the movement of a ship or plane away from its direction because of currents or wind",
+          "chinese": "（船只或飞机的）偏航，航差",
           "exampleEnglish": "Remember to allow for drift.",
           "exampleChinese": "记住要允许漂移。"
         },
@@ -1952,7 +2132,12 @@
           "exampleChinese": "你大概明白我的意思吗？"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "drifted v. drift 的过去式／过去分词",
+        "drifting n./adj./v. 漂流；漂移的；drift 的 -ing 形式",
+        "drifter n. 漂泊者；流浪者"
+      ]
     },
     "26": {
       "word": "bewitch",
@@ -2005,7 +2190,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "rapturous adj. 狂喜的；欣喜若狂的",
+        "rapturously adv. 狂喜地；欣喜若狂地"
+      ]
     },
     "74": {
       "word": "cease from",
@@ -2027,7 +2216,16 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "ceased v. cease 的过去式／过去分词",
+        "ceasing n./v. 停止；cease 的 -ing 形式",
+        "cessation n. 停止；中止",
+        "ceaseless adj. 不停的；不断的",
+        "ceaselessly adv. 不停地；不断地"
+      ],
+      "wordFamilyNote": "The expandable word is cease; the branches show its common noun and adjective forms.",
+      "wordFamilyRoot": "cease"
     },
     "27": {
       "word": "glory",
@@ -2062,8 +2260,8 @@
           "exampleChinese": "奥林匹克 100 米赛跑的桂冠"
         },
         {
-          "english": "praise and worship of God（",
-          "chinese": "对上帝的）赞颂，赞美，崇拜",
+          "english": "praise and worship of God",
+          "chinese": "（对上帝的）赞颂，赞美，崇拜",
           "exampleEnglish": "‘Glory to God in the highest’“",
           "exampleChinese": "荣耀归于至高无上的上帝”"
         }
@@ -2151,8 +2349,8 @@
       },
       "otherMeanings": [
         {
-          "english": "a popular style of clothes, hair, etc. at a particular time or place; the state of being popular（",
-          "chinese": "衣服、发式等的）流行款式，时兴式样",
+          "english": "a popular style of clothes, hair, etc. at a particular time or place; the state of being popular",
+          "chinese": "（衣服、发式等的）流行款式，时兴式样",
           "exampleEnglish": "the latest fashion trends",
           "exampleChinese": "最新的时装潮流"
         },
@@ -2163,19 +2361,25 @@
           "exampleChinese": "他们都想时尚。"
         },
         {
-          "english": "a popular way of behaving, doing an activity, etc.（",
-          "chinese": "行为、活动等的）时尚，时兴",
+          "english": "a popular way of behaving, doing an activity, etc.",
+          "chinese": "（行为、活动等的）时尚，时兴",
           "exampleEnglish": "This theory, though recent, is more than a passing fashion.",
           "exampleChinese": "这个理论虽然最近才出现，但并不会昙花一现。"
         },
         {
-          "english": "to make or shape something, especially with your hands（",
-          "chinese": "尤指用手工）制作，使成形，塑造",
+          "english": "to make or shape something, especially with your hands",
+          "chinese": "（尤指用手工）制作，使成形，塑造",
           "exampleEnglish": "fashion A (from/out of B) She fashioned a pot from the clay.",
           "exampleChinese": "她用黏土制成一个罐。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "fashionable adj. 时髦的；流行的",
+        "fashionably adv. 时髦地；流行地",
+        "fashioned adj./v. 制成的；fashion 的过去式／过去分词",
+        "fashionista n. 时尚达人"
+      ]
     },
     "30": {
       "word": "bluff",
@@ -2261,7 +2465,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "stretched adj./v. 延伸的；stretch 的过去式／过去分词",
+        "stretching n./v. 延伸；拉伸；stretch 的 -ing 形式",
+        "stretchable adj. 可拉伸的；有弹性的"
+      ],
+      "wordFamilyNote": "The phrase is built around stretch; the branches show common verb forms.",
+      "wordFamilyRoot": "stretch"
     },
     "32": {
       "word": "bar",
@@ -2338,7 +2549,11 @@
           "exampleChinese": "他把他的好斗劲头倾注于体育比赛之中。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "channeled / channelled v./adj. 引导的；channel 的过去式／过去分词",
+        "channeling / channelling n./v. 引导；输送"
+      ]
     },
     "33": {
       "word": "slick",
@@ -2416,7 +2631,13 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "本文 shoaling up 是水道逐渐淤浅；所给 shoal 摘录只列浅滩名词，未单列此动词短语。"
+      "sourceCaveat": "本文 shoaling up 是水道逐渐淤浅；所给 shoal 摘录只列浅滩名词，未单列此动词短语。",
+      "family": [
+        "shoaled v. shoal 的过去式／过去分词",
+        "shoaling n./v. 逐渐变浅；shoal 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around shoal; the branches show its common verb forms.",
+      "wordFamilyRoot": "shoal"
     },
     "36": {
       "word": "streak",
@@ -2445,14 +2666,14 @@
       },
       "otherMeanings": [
         {
-          "english": "a part of a person’s character, especially an unpleasant part（",
-          "chinese": "尤指不好的）性格特征",
+          "english": "a part of a person’s character, especially an unpleasant part",
+          "chinese": "（尤指不好的）性格特征",
           "exampleEnglish": "a ruthless/vicious/mean streak",
           "exampleChinese": "冷酷／邪恶／卑鄙的性格"
         },
         {
-          "english": "a series of successes or failures, especially in a sport or in gambling（",
-          "chinese": "尤指体育比赛或赌博中）顺（或背）的时候，运气，手气",
+          "english": "a series of successes or failures, especially in a sport or in gambling",
+          "chinese": "（尤指体育比赛或赌博中）顺（或背）的时候，运气，手气",
           "exampleEnglish": "a streak of good luck",
           "exampleChinese": "运气好"
         },
@@ -2495,7 +2716,15 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "引号中的 break 指暗桩造成的水面异常；摘录没有单列这一航行专门义，语境解释依据上下文。"
+      "sourceCaveat": "引号中的 break 指暗桩造成的水面异常；摘录没有单列这一航行专门义，语境解释依据上下文。",
+      "family": [
+        "broke v. break 的过去式",
+        "broken v./adj. break 的过去分词；破碎的",
+        "breaking n./adj./v. 破裂；突发的；break 的 -ing 形式",
+        "breakage n. 破损；破裂",
+        "breaker n. 破坏者；断路器",
+        "breakable adj. 易碎的"
+      ]
     },
     "37": {
       "word": "snag",
@@ -2549,8 +2778,8 @@
       },
       "otherMeanings": [
         {
-          "english": "an exciting, usually short, relationship between two people who are in love with each other（",
-          "chinese": "通常指短暂的）浪漫史，爱情关系，风流韵事",
+          "english": "an exciting, usually short, relationship between two people who are in love with each other",
+          "chinese": "（通常指短暂的）浪漫史，爱情关系，风流韵事",
           "exampleEnglish": "a holiday romance",
           "exampleChinese": "假日浪漫史"
         },
@@ -2603,7 +2832,13 @@
           "exampleChinese": "房间里摆放了古董。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "furnished adj./v. 配备的；furnish 的过去式／过去分词",
+        "furnishing n./v. 配置；家具",
+        "furnishings n. 家具；室内陈设",
+        "furnisher n. 家具供应商；提供者"
+      ]
     },
     "39": {
       "word": "compass",
@@ -2654,8 +2889,8 @@
       },
       "otherMeanings": [
         {
-          "english": "a thing that looks or moves like a small wave（",
-          "chinese": "外观或运动）如波纹的东西",
+          "english": "a thing that looks or moves like a small wave",
+          "chinese": "（外观或运动）如波纹的东西",
           "exampleEnglish": "ripples of sand",
           "exampleChinese": "沙滩上的波纹"
         },
@@ -2672,19 +2907,23 @@
           "exampleChinese": "一股恐惧感传遍了他的全身。"
         },
         {
-          "english": "to move or to make something move in very small waves（",
-          "chinese": "使）如波浪般起伏",
+          "english": "to move or to make something move in very small waves",
+          "chinese": "（使）如波浪般起伏",
           "exampleEnglish": "The sea rippled and sparkled.",
           "exampleChinese": "大海波光粼粼。"
         },
         {
-          "english": "+ adv./prep. (of a feeling, etc.",
-          "chinese": "感觉等) to spread through a person or a group of people like a wave扩散；涌起",
+          "english": "+ adv./prep. (of a feeling, etc.) to spread through a person or a group of people like a wave",
+          "chinese": "（指感觉等）在某人或一群人中像波浪般传开；扩散；涌起",
           "exampleEnglish": "A gasp rippled through the crowd.",
           "exampleChinese": "人群中传出一片惊诧之声。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "rippled adj./v. 起涟漪的；ripple 的过去式／过去分词",
+        "rippling n./adj./v. 涟漪；起伏的；ripple 的 -ing 形式"
+      ]
     },
     "81": {
       "word": "sown thick with",
@@ -2706,7 +2945,14 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
+      "family": [
+        "sowed v. sow 的过去式",
+        "sown v. sow 的过去分词",
+        "sowing n./v. 播种；sow 的 -ing 形式"
+      ],
+      "wordFamilyNote": "The phrase is built around sow; the branches show its irregular verb forms.",
+      "wordFamilyRoot": "sow"
     },
     "40": {
       "word": "decay",
@@ -2735,8 +2981,8 @@
       },
       "otherMeanings": [
         {
-          "english": "the process of a society, an institution, a system, etc. being gradually destroyed（",
-          "chinese": "社会、机构、制度等的）衰败，衰退，衰落",
+          "english": "the process of a society, an institution, a system, etc. being gradually destroyed",
+          "chinese": "（社会、机构、制度等的）衰败，衰退，衰落",
           "exampleEnglish": "the decay of the old industries",
           "exampleChinese": "旧工业的衰败"
         },
@@ -2747,18 +2993,18 @@
           "exampleChinese": "无论暴露于空气中如何，放射性衰变都以恒定的速率发生。"
         },
         {
-          "english": "decay (something) to be destroyed gradually by natural processes; to destroy something in this way（",
-          "chinese": "使）腐烂，腐朽"
+          "english": "decay (something) to be destroyed gradually by natural processes; to destroy something in this way",
+          "chinese": "（使）腐烂，腐朽"
         },
         {
-          "english": "if a building or an area decays, its condition slowly becomes worse（",
-          "chinese": "建筑、地方等）破败，衰落，衰败",
+          "english": "if a building or an area decays, its condition slowly becomes worse",
+          "chinese": "（建筑、地方等）破败，衰落，衰败",
           "exampleEnglish": "decaying inner city areas",
           "exampleChinese": "衰败中的内城区"
         },
         {
-          "english": "to become less powerful and lose influence over people, society, etc.（",
-          "chinese": "力量、影响等）衰弱，衰退，衰减",
+          "english": "to become less powerful and lose influence over people, society, etc.",
+          "chinese": "（力量、影响等）衰弱，衰退，衰减",
           "exampleEnglish": "decaying standards of morality",
           "exampleChinese": "日趋低下的道德标准"
         }

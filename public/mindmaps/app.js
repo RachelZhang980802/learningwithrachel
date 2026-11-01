@@ -1,4 +1,4 @@
-import { renderWorksheet } from "./worksheets.js?v=atlas-10-2";
+import { renderWorksheet } from "./worksheets.js?v=source-branches-20261101";
 import { applyMapCorrections } from "./corrections.js?v=atlas-10-3";
 let worksheetData=null,worksheetCount=0;
 const $=id=>document.getElementById(id);
@@ -33,11 +33,11 @@ function setWorksheetMode(open){
   if(!worksheetData)return;
   document.body.classList.toggle('worksheet-mode',open);
   viewport.scrollTop=0;viewport.scrollLeft=0;
-  viewport.setAttribute('aria-label',open?`Article ${articleId} fill-in flowchart`:'可缩放、拖动的思维导图画布');
+  viewport.setAttribute('aria-label',open?`Article ${articleId} reading framework`:'可缩放、拖动的思维导图画布');
   $('worksheet').hidden=!open;
   $('worksheet-toggle').setAttribute('aria-selected',String(open));
   $('sources').querySelectorAll('.map-source-tab').forEach((button,index)=>button.setAttribute('aria-selected',String(!open&&index===sceneIndex)));
-  if(open){reviewOpen(false);status(`${articleId} · 填空流程图 · ${worksheetCount} 个关键概念`);}
+  if(open){reviewOpen(false);status(`${articleId} · 文章框架 · ${worksheetCount} 个关键空格`);}
   else status(`${articleId} · 完整导图`);
   reportFrameHeight();
 }
@@ -160,5 +160,42 @@ viewport.addEventListener('pointermove',e=>{if(!pointers.has(e.pointerId)||!gest
 function endPointer(e){pointers.delete(e.pointerId);if(viewport.hasPointerCapture(e.pointerId))viewport.releasePointerCapture(e.pointerId);if(!pointers.size){gesture=null;viewport.classList.remove('dragging');}else{const [a]=pointers.values();gesture={x:a.x,y:a.y,tx,ty};}}
 viewport.addEventListener('pointerup',endPointer);viewport.addEventListener('pointercancel',endPointer);viewport.addEventListener('dblclick',e=>{if(!scene||document.body.classList.contains('worksheet-mode'))return;const r=viewport.getBoundingClientRect();zoom(1.7,e.clientX-r.left,e.clientY-r.top);});viewport.addEventListener('keydown',e=>{if(e.target!==viewport||document.body.classList.contains('worksheet-mode'))return;if(e.key==='+'||e.key==='='){zoom(1.2);e.preventDefault();}if(e.key==='-'){zoom(1/1.2);e.preventDefault();}if(e.key==='0'){fit();e.preventDefault();}const deltas={ArrowLeft:[60,0],ArrowRight:[-60,0],ArrowUp:[0,60],ArrowDown:[0,-60]};if(deltas[e.key]){const [x,y]=deltas[e.key];tx+=x;ty+=y;transform();e.preventDefault();}});
 let sizeTimer;new ResizeObserver(()=>{clearTimeout(sizeTimer);sizeTimer=setTimeout(()=>{if(scene)transform();},100);}).observe(viewport);
-try{const response=await fetch(`data/${articleId}.json?rev=text-clean-04-20261021`,{cache:"no-store"});if(!response.ok)throw Error(`HTTP ${response.status}`);book=await response.json();applyMapCorrections(book);const atlasResponse=await fetch('data/worksheets.json?rev=atlas-10-2',{cache:'no-store'});if(!atlasResponse.ok)throw Error('Worksheet data unavailable');worksheetData=(await atlasResponse.json()).find(item=>item.id===articleId);loadNodeEdits();document.title=`Mindmap · ${book.title}`;$('eyebrow').textContent=`TEXT ${book.id} / READING ATLAS`;$('article-title').textContent=book.title;$('article-title').title=book.title;$('source-count').textContent=book.scenes.length?`${book.scenes.length} source map${book.scenes.length===1?'':'s'}`:'Map coming soon';if(!book.scenes.length){$('outline').hidden=true;$('scene').hidden=true;$('empty').hidden=false;$('empty').append(make('div','empty-number',book.id),make('h2',null,'The map is still to come.'),make('p',null,'尚未收到这篇文章的思维导图。收到源文件后，这里会按原稿还原。'));document.querySelector('.toolbar').hidden=true;document.querySelector('.minimap-wrap').hidden=true;status('第 10 篇待提供源文件');}else{for(const [i,s] of book.scenes.entries()){const b=make('button','map-source-tab',EnglishSourceLabel(s.label,i));b.setAttribute('role','tab');b.onclick=()=>{setWorksheetMode(false);renderScene(i);};$('sources').insertBefore(b,$('worksheet-toggle'));}await Promise.allSettled([...new Set(book.scenes.flatMap(s=>s.nodes.flatMap(n=>(n.spans||[]).map(p=>`${p.weight||400} 20px ${p.font}`))))].map(f=>document.fonts.load(f)));await document.fonts.ready;renderScene(0);if(worksheetData){$('worksheet-toggle').hidden=false;worksheetCount=renderWorksheet($('worksheet'),worksheetData);$('worksheet-toggle').onclick=()=>setWorksheetMode(true);setWorksheetMode(new URLSearchParams(location.search).get('view')!=='map');}}}
-catch(error){$('empty').hidden=false;$('empty').append(make('h2',null,'导图暂时无法加载'),make('p',null,'请刷新页面重试。'));status(`加载失败：${error.message}`);console.error(error);}
+// Load the overview immediately; the detailed source canvas is rendered on demand.
+try {
+  const [response, atlasResponse] = await Promise.all([
+    fetch(`data/${articleId}.json?rev=text-clean-04-20261021`, { cache: 'no-store' }),
+    fetch('data/worksheets.json?rev=source-branches-20261101', { cache: 'no-store' }),
+  ]);
+  if (!response.ok || !atlasResponse.ok) throw Error('Mindmap data unavailable');
+  book = await response.json(); applyMapCorrections(book);
+  worksheetData = (await atlasResponse.json()).find(item => item.id === articleId);
+  loadNodeEdits();
+  document.title = `Mindmap · ${book.title}`;
+  $('eyebrow').textContent = `TEXT ${book.id} / READING ATLAS`;
+  $('article-title').textContent = book.title;
+  $('article-title').title = book.title;
+  $('source-count').textContent = `${book.scenes.length} source map${book.scenes.length === 1 ? '' : 's'}`;
+  function showSource(index = sceneIndex) {
+    setWorksheetMode(false); renderScene(index);
+    // Source SVG text uses bundled font faces; refit when these finish loading.
+    document.fonts.ready.then(() => { if (!document.body.classList.contains('worksheet-mode')) fit(); });
+  }
+  for (const [i, s] of book.scenes.entries()) {
+    const b = make('button', 'map-source-tab', EnglishSourceLabel(s.label, i));
+    b.onclick = () => showSource(i);
+    $('sources').insertBefore(b, $('worksheet-toggle'));
+  }
+  document.addEventListener('atlas-source-map', () => showSource());
+  if (worksheetData) {
+    $('worksheet-toggle').hidden = false;
+    worksheetCount = renderWorksheet($('worksheet'), worksheetData, book);
+    $('worksheet-toggle').onclick = () => setWorksheetMode(true);
+    if (new URLSearchParams(location.search).get('view') === 'map') showSource(0);
+    else setWorksheetMode(true);
+  } else if (book.scenes.length) showSource(0);
+  else throw Error('No article framework available');
+} catch (error) {
+  $('empty').hidden = false;
+  $('empty').append(make('h2', null, '导图暂时无法加载'), make('p', null, '请刷新页面重试。'));
+  status(`加载失败：${error.message}`); console.error(error);
+}

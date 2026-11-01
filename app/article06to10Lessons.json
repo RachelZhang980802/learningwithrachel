@@ -198,10 +198,10 @@
         "paragraphEnd": 345,
         "paraphrase": "The river offered fresh information every day, so it could never be read once and dismissed.",
         "reuse": {
-          "pattern": "It was not ___ to be ___, for it had ___.",
-          "zh": "这不是一份可以随手忽略的报告，因为它包含重要证据。",
-          "en": "It was not a report to be casually ignored, for it had important evidence.",
-          "note": "to be done 作后置定语；for 后接完整主句说明原因。"
+          "pattern": "It was not a ___ to ___, for ___.",
+          "zh": "这不是一条可以匆匆看过就忘掉的信息，因为里面有重要细节。",
+          "en": "It was not a message to skim and forget, for it contained important details.",
+          "note": "to skim and forget 是并列的不定式后置修饰语；for 后接完整句说明原因。"
         },
         "pdfNotes": [
           {
@@ -1545,10 +1545,10 @@
         "paragraphEnd": 1299,
         "paraphrase": "The remembered sunset is a sequence of vivid colours, patterns, reflections and glowing branches.",
         "reuse": {
-          "pattern": "In ___, ___; where ___ was ___, was ___ that ___.",
-          "zh": "在厨房里，汤正在慢慢炖煮；光线最明亮的地方，有一只映着窗户的碗。",
-          "en": "In the kitchen, the soup simmered; where the light was brightest, was a bowl that reflected the window.",
-          "note": "描景的地点前置与完全倒装较文学；普通表达也可用 a calm stretch of water was where …。"
+          "pattern": "In ___ stood ___; where ___, there was ___.",
+          "zh": "客厅角落里放着我那把旧阅读椅；光线最亮的地方摆着一张小桌子。",
+          "en": "In the corner of the living room stood my old reading chair; where the light was brightest, there was a small table.",
+          "note": "In the corner of the living room 置于句首引发地点倒装；where 从句定位小桌所在的位置。"
         },
         "pdfNotes": [
           {
@@ -1687,10 +1687,10 @@
         "paragraphEnd": 1522,
         "paraphrase": "Changing light continually added new colour to the whole scene.",
         "reuse": {
-          "pattern": "___ drifted ___, enriching ___ with ___.",
-          "zh": "音乐缓缓飘过花园，为夜晚增添暖意。",
-          "en": "Music drifted through the garden, enriching the evening with warmth.",
-          "note": "enriching 的隐含主语是 Music；enrich A with B。"
+          "pattern": "___ drifted through ___, enriching ___ with ___.",
+          "zh": "笑声飘过花园，为夜晚增添了温暖。",
+          "en": "Laughter drifted through the garden, enriching the evening with warmth.",
+          "note": "enriching 的逻辑主语是 Laughter；enrich A with B 表示给 A 增添 B。"
         },
         "pdfNotes": [
           {
@@ -2852,9 +2852,9 @@
         "paragraphEnd": 479,
         "paraphrase": "He asks whether a doctor sees apparent beauty as a collection of diagnostic signs.",
         "reuse": {
-          "pattern": "Are not ___ filled with what are to ___ ___?",
-          "zh": "这些旧照片难道不充满了对她而言最珍贵的记忆吗？",
-          "en": "Are not these old photographs filled with what are to her the most precious memories?",
+          "pattern": "Aren't ___ filled with what are to ___ the most precious ___?",
+          "zh": "这些旧照片难道不装满了对她而言最珍贵的回忆吗？",
+          "en": "Aren't these old photographs filled with what are to her the most precious memories?",
           "note": "what 结构作 with 的宾语，内部为复数意义；普通语序也可用 Aren't these …?。"
         },
         "pdfNotes": [
@@ -3226,7 +3226,9 @@
         ],
         "family": [
           "perusal n. 阅览",
-          "peruse v. 阅读；查阅"
+          "peruse v. 阅读；查阅",
+          "perused v. peruse 的过去式／过去分词",
+          "perusing n./v. 阅读；查阅"
         ],
         "usage": "原文 re-perusal 加 re- 表再次阅读。不能只凭 perusal 就断言“一定逐字精读”；程度由 careful、quick 等语境说明。",
         "sources": [
@@ -3386,7 +3388,8 @@
         ],
         "family": [
           "legend n. 传说；传奇人物；题字",
-          "legendary adj. 传奇的"
+          "legendary adj. 传奇的",
+          "legendarily adv. 传奇般地"
         ],
         "usage": "这里 a legend of the largest capitals 是以巨大大写字母呈现的警示文字，不是“最大的首都传说”。与 book、italicized、exclamation points 同属阅读隐喻。",
         "sources": [
@@ -3506,7 +3509,8 @@
         ],
         "family": [
           "hideous adj. 丑陋可怕的",
-          "hideously adv. 极其难看地；骇人地"
+          "hideously adv. 极其难看地；骇人地",
+          "hideousness n. 丑陋；可怕"
         ],
         "usage": "对领航员而言 hideous 重点在细纹意味着严重危险，不是它在颜色形状上特别丑。the most hideous 后省略重复的 expression。",
         "sources": [
@@ -3581,7 +3585,8 @@
         ],
         "family": [
           "grim adj. 严峻的",
-          "grimly adv. 严肃坚定地"
+          "grimly adv. 严肃坚定地",
+          "grimness n. 严峻；冷酷"
         ],
         "usage": "比较级 grimmer、最高级 grimmest，双写 m。本文 the grimmest … of reading matter 指最严峻的解读材料，不是“最阴沉的读书人”。",
         "sources": [
@@ -3696,7 +3701,10 @@
         ],
         "family": [
           "acquisition n. 获得；收获",
-          "acquire v. 获得；学会"
+          "acquire v. 获得；学会",
+          "acquired v./adj. acquire 的过去式／过去分词；后天获得的",
+          "acquiring n./v. 获得；学会",
+          "acquisitive adj. 贪求的；渴望获得的"
         ],
         "usage": "a valuable acquisition 把知识技能看作一项收获；不能机械译为收购了一家公司。过程义常不可数，具体收获可数。",
         "sources": [
@@ -3814,7 +3822,9 @@
         "family": [
           "log n. 木段；日志",
           "logging n. 伐木",
-          "log v. 记录；伐木"
+          "log v. 记录；伐木",
+          "logged v./adj. log 的过去式／过去分词；有记录的",
+          "logger n. 伐木工；日志记录器"
         ],
         "usage": "本文 floating log 是漂浮木头，和后面嵌在河床的 snag 不同。log 作动词双写 g：logged、logging。",
         "sources": [
@@ -3971,7 +3981,8 @@
           "flushed：因热、情绪等而涨红"
         ],
         "family": [
-          "ruddy adj. 红润的"
+          "ruddy adj. 红润的",
+          "ruddiness n. 红润；红色"
         ],
         "usage": "ruddy flush 是霞光映在水面的红晕，不说明水面生病。也不在这里使用英式口语粗话替代义。",
         "sources": [
@@ -4246,7 +4257,10 @@
         ],
         "family": [
           "work v. 工作；产生作用",
-          "wrought adj. 精心制作的"
+          "wrought adj. 精心制作的",
+          "worked v./adj. work 的过去式／过去分词；加工过的",
+          "working n./adj./v. 工作；工作的；work 的 -ing 形式",
+          "worker n. 工人；工作者"
         ],
         "usage": "which … wrought … 中 wrought 是限定过去时谓语，宾语由 which 对应 glories and charms。Oxford 明确指出它是 work 的旧形式；不把这里解释成现在分词或普通形容词。",
         "sources": [
@@ -4292,7 +4306,10 @@
         "family": [
           "bluff n. 陡岸；虚张声势",
           "bluff v. 虚张声势",
-          "bluff adj. 陡直的；直率的"
+          "bluff adj. 陡直的；直率的",
+          "bluffed v./adj. bluff 的过去式／过去分词；虚张声势的",
+          "bluffing n./v. 虚张声势；欺骗",
+          "bluffer n. 虚张声势的人"
         ],
         "usage": "原书第 9 章前文解释 bluff reef 下方为侧面近乎直立的 sand-bar，不能机械译成珊瑚礁或“骗人的礁石”。Cambridge 常用义外，地形义补查 Merriam-Webster。",
         "sources": [
@@ -4338,7 +4355,9 @@
         ],
         "family": [
           "reef n. 礁；水下脊",
-          "reef v. 缩帆（航海）"
+          "reef v. 缩帆（航海）",
+          "reefed v./adj. reef 的过去式／过去分词；缩帆的",
+          "reefing n./v. 缩帆；收帆"
         ],
         "usage": "不要把现代常见 coral reef 套到密西西比河。原书前文明确把此处 bluff reef 与陡直 sand-bar 联系起来，译为陡直沙脊更准确。",
         "sources": [
@@ -4381,7 +4400,10 @@
         ],
         "family": [
           "bar n. 沙洲；条；酒吧",
-          "bar v. 阻止；禁止"
+          "bar v. 阻止；禁止",
+          "barred adj./v. 被禁止的；bar 的过去式／过去分词",
+          "barring prep./v. 除……之外；阻挡",
+          "barrier n. 障碍；屏障"
         ],
         "usage": "a dissolving bar 是正在被水流冲蚀、改变的沙洲，不是酒吧关门，也不是盐溶于水那种化学过程。本文义补查 Merriam-Webster。",
         "sources": [
@@ -4431,7 +4453,10 @@
           "slick n. 浮油",
           "slick v. 使光滑（常用 slick back）",
           "slick adj. 光滑的；娴熟的",
-          "slickly adv. 娴熟地"
+          "slickly adv. 娴熟地",
+          "slickness n. 光滑；圆滑",
+          "slicker adj. slick 的比较级",
+          "slickest adj. slick 的最高级"
         ],
         "usage": "本文仅描述水面形态，不能因此推断有石油污染。oil slick 的 slick 为名词，和此处形容词不同。",
         "sources": [
@@ -4513,7 +4538,9 @@
         "family": [
           "shoal n. 浅滩；鱼群",
           "shoal v. 变浅",
-          "shoal adj. 浅的（航海）"
+          "shoal adj. 浅的（航海）",
+          "shoaled v. shoal 的过去式／过去分词",
+          "shoaling n./v. 变浅；鱼群聚集"
         ],
         "usage": "is shoaling up 是现在进行时，不能译成“鱼在聚集”。Cambridge 给出浅滩等名词义，本文动词义补查 Merriam-Webster。",
         "sources": [
@@ -4559,7 +4586,9 @@
         "family": [
           "streak n. 条纹；一连串",
           "streak v. 飞驰；使带条纹",
-          "streaky adj. 有条纹的"
+          "streaky adj. 有条纹的",
+          "streaked v./adj. streak 的过去式／过去分词；有条纹的",
+          "streaking n./v. 飞驰；使带条纹"
         ],
         "usage": "本文是阴影中的一道银色水纹，后文解释其航行含义。不要用比赛的 winning streak 义理解。",
         "sources": [
@@ -4601,7 +4630,9 @@
         ],
         "family": [
           "snag n. 障碍；枯木",
-          "snag v. 钩住；抢到"
+          "snag v. 钩住；抢到",
+          "snagged v./adj. snag 的过去式／过去分词；被钩住的",
+          "snagging n./v. 钩住；抢到"
         ],
         "usage": "本文随后用 he、himself、fish for steamboats 将 snag 拟人化，说它像在“钓”船。不能只译成抽象“小麻烦”；航行义补查 Merriam-Webster。",
         "sources": [
@@ -4740,7 +4771,9 @@
         ],
         "family": [
           "decay n. 腐坏；衰败",
-          "decay v. 腐坏；衰退"
+          "decay v. 腐坏；衰退",
+          "decayed adj./v. 腐坏的；decay 的过去式／过去分词",
+          "decaying adj./n./v. 腐朽的；腐朽；逐渐腐坏"
         ],
         "usage": "本文 hidden decay 是医生类比中隐藏的病变，不是评论人物道德腐败。名词、动词同读音同重音；decay 一般不用复数表示过程。",
         "sources": [
@@ -4781,7 +4814,9 @@
         ],
         "family": [
           "wholesome adj. 有益健康的",
-          "unwholesome adj. 不健康的"
+          "unwholesome adj. 不健康的",
+          "wholesomeness n. 有益健康；健康性",
+          "wholesomely adv. 有益健康地；正派地"
         ],
         "usage": "本文 her unwholesome condition 指医生眼中的身体状况，不要误译为女性品行不端。整段是文学类比和反问，未断言所有医生都丧失审美能力。",
         "sources": [
@@ -9442,10 +9477,10 @@
         "paragraphEnd": 2358,
         "paraphrase": "I read and practised around work or on Sundays, arranging to stay alone at the shop and avoiding services I still regarded as a duty but felt unable to make time for.",
         "reuse": {
-          "pattern": "I still thought ___ a duty, though ___.",
-          "zh": "我仍把帮助别人看作责任，尽管时间有限。",
-          "en": "I still thought helping others a duty, though my time was limited.",
-          "note": "thought + doing 宾语 + 名词宾补；though 表让步。"
+          "pattern": "I still considered ___ a ___, though ___.",
+          "zh": "虽然日程排得很满，我仍认为帮助同学是自己的责任。",
+          "en": "I still considered helping a classmate a responsibility, though my schedule was full.",
+          "note": "consider 在此接宾语和名词补足语；though 引导让步从句。"
         },
         "pdfNotes": [
           {
@@ -9579,7 +9614,9 @@
         ],
         "family": [
           "polemic n. 论战",
-          "polemical adj. 论战性的"
+          "polemical adj. 论战性的",
+          "polemicist n. 论战者",
+          "polemically adv. 论战性地"
         ],
         "usage": "polemic divinity 是旧式组合，指论辩神学，不能按 political 理解。名词 a polemic 常接 against／on。",
         "sources": [
@@ -9617,7 +9654,9 @@
         ],
         "family": [
           "divinity n. 神性；神学",
-          "divine adj. 神的"
+          "divine adj. 神的",
+          "divinities n. divinity 的复数形式",
+          "divinely adv. 神圣地；极好地"
         ],
         "usage": "作为学科不可数；polemic divinity 应按论辩神学整体理解，不能译成“好辩的神”。",
         "sources": [
@@ -9693,7 +9732,9 @@
         ],
         "family": [
           "clergy n. 神职人员（集合名词）",
-          "clergyman n. 男性神职人员"
+          "clergyman n. 男性神职人员",
+          "clergymen n. clergyman 的复数形式",
+          "clerical adj. 神职人员的；文书工作的"
         ],
         "usage": "复数 clergymen；the clergy 指整个神职群体。不要从此句推断具体教派职衔。现代泛指各性别可用 member of the clergy。",
         "sources": [
@@ -9806,7 +9847,8 @@
         ],
         "family": [
           "book n. 书",
-          "bookish adj. 书卷气的"
+          "bookish adj. 书卷气的",
+          "bookishness n. 书卷气；爱读书"
         ],
         "usage": "词典常标轻微贬义，但本文作者以此说明爱书的习性，不能一律译成书呆子。",
         "sources": [
@@ -10082,7 +10124,9 @@
         "family": [
           "apprentice n. 学徒",
           "apprenticeship n. 学徒期",
-          "apprentice v. 使当学徒"
+          "apprentice v. 使当学徒",
+          "apprenticed v./adj. apprentice 的过去式／过去分词；当学徒的",
+          "apprenticing n./v. 使当学徒；学徒训练"
         ],
         "usage": "apprentice to somebody／in a trade。并非所有 student 或 intern 都是 apprentice；原文属于历史行业制度。",
         "sources": [
@@ -10119,7 +10163,8 @@
           "master：手艺成熟并可指导或雇用他人"
         ],
         "family": [
-          "journeyman n. 熟练工"
+          "journeyman n. 熟练工",
+          "journeymen n. journeyman 的复数形式"
         ],
         "usage": "复数 journeymen；与旅途 journey 的现代意思无关。最后一年获熟练工工资，并不把前面所有学徒年限都改成雇员身份。",
         "sources": [
@@ -10304,7 +10349,8 @@
           "verse：诗体写作或一节诗歌"
         ],
         "family": [
-          "ballad n. 歌谣"
+          "ballad n. 歌谣",
+          "balladeer n. 民谣歌手；叙事歌手"
         ],
         "usage": "本文指为当地事件编写的叙事歌谣。不要把所有 ballad 都理解为现代流行情歌。",
         "sources": [
@@ -10342,7 +10388,9 @@
         ],
         "family": [
           "drowning n. 溺亡",
-          "drown v. 淹死"
+          "drown v. 淹死",
+          "drowned v./adj. drown 的过去式／过去分词；溺亡的",
+          "drowning n./adj. 溺水；溺水的"
         ],
         "usage": "the drowning of… 是名词化结构。be drowned 和 drown 都可描述溺亡；drowning 正在溺水与 drowned 已溺亡要分清。",
         "sources": [
@@ -10382,7 +10430,10 @@
         "family": [
           "pirate n. 海盗",
           "piracy n. 海盗行为；盗版",
-          "pirate v. 盗版"
+          "pirate v. 盗版",
+          "pirated v./adj. pirate 的过去式／过去分词；盗版的",
+          "piratical adj. 海盗的；盗版的",
+          "piratically adv. 海盗式地"
         ],
         "usage": "Teach… the pirate 中 the pirate 是同位说明，不是另一名人物。版权语境的 pirate 不涉及海上抢劫。",
         "sources": [
@@ -10421,7 +10472,8 @@
         ],
         "family": [
           "wretchedness n. 悲惨",
-          "wretched adj. 糟糕的；悲惨的"
+          "wretched adj. 糟糕的；悲惨的",
+          "wretchedly adv. 悲惨地；糟糕地"
         ],
         "usage": "结尾 -ed 发 /ɪd/，不是 /t/。wretched stuff 指低劣作品，stuff 在此不可数。",
         "sources": [
@@ -10499,7 +10551,9 @@
         ],
         "family": [
           "beggar n. 乞丐",
-          "beg v. 乞讨；恳求"
+          "beg v. 乞讨；恳求",
+          "beggarly adj. 贫乏的；微不足道的",
+          "beggared v. 使一贫如洗；使难以形容"
         ],
         "usage": "原文父亲说诗人往往成为乞丐，强调生计困境，不能仅译为“可悲的人”。",
         "sources": [
@@ -10538,7 +10592,8 @@
         ],
         "family": [
           "prose n. 散文体",
-          "prosaic adj. 平淡乏味的"
+          "prosaic adj. 平淡乏味的",
+          "prosaically adv. 平淡乏味地；散文式地"
         ],
         "usage": "不可数；不等于中文狭义的抒情散文体裁。prosaic 现代常指乏味，不能机械当作中性的“散文的”。",
         "sources": [
@@ -10651,7 +10706,10 @@
         "family": [
           "dispute n. 争议",
           "dispute v. 争论",
-          "disputed adj. 有争议的"
+          "disputed adj. 有争议的",
+          "disputable adj. 有争议的",
+          "disputant n. 争论者",
+          "disputed adj./v. 有争议的；dispute 的过去式／过去分词"
         ],
         "usage": "名词和动词可同重音，不能强定为“名词前重、动词后重”。dispute a claim 是质疑其有效性，不保证已经证明它错。",
         "sources": [
@@ -10727,7 +10785,9 @@
           "deny：否认某事，并不自动构成反证"
         ],
         "family": [
-          "confute v. 驳倒"
+          "confute v. 驳倒",
+          "confutation n. 驳倒；反驳",
+          "confuted v. confute 的过去式／过去分词"
         ],
         "usage": "本词较正式，现代主动表达通常用 refute an argument。不是 confuse（使困惑），也不只是吵赢。",
         "sources": [
@@ -10918,7 +10978,10 @@
         ],
         "family": [
           "sour v. 使恶化",
-          "sour adj. 酸的；不友好的"
+          "sour adj. 酸的；不友好的",
+          "sourness n. 酸味；不友善",
+          "sourly adv. 酸涩地；不友善地",
+          "soured v. sour 的过去式／过去分词"
         ],
         "usage": "besides souring and spoiling 后两个 -ing 并列作介词宾语。sour 的酸味与 bitter 的苦味不同。",
         "sources": [
@@ -11000,7 +11063,9 @@
         ],
         "family": [
           "enmity n. 仇怨",
-          "enemy n. 敌人"
+          "enemy n. 敌人",
+          "enemies n. enemy 的复数形式",
+          "inimical adj. 有害的；不友善的"
         ],
         "usage": "本句复数 enmities 指具体结下的仇怨。不要读成 envy（嫉妒），也不等同于普通意见分歧。",
         "sources": [
@@ -11037,7 +11102,10 @@
         "family": [
           "breed n. 品种",
           "breeder n. 饲养者",
-          "breed v. 繁殖；培养"
+          "breed v. 繁殖；培养",
+          "bred v. breed 的过去式／过去分词",
+          "breeding n./adj. 繁殖；教养",
+          "breeder n. 饲养者；培育者"
         ],
         "usage": "breed–bred–bred。have been bred at Edinburgh 不表示人为繁殖；此育人义较旧，现代可用 brought up／educated，需避免把作者讽刺当事实。",
         "sources": [
@@ -11240,7 +11308,8 @@
         ],
         "family": [
           "perspicuity n. 明晰",
-          "perspicuous adj. 明晰的"
+          "perspicuous adj. 明晰的",
+          "perspicuously adv. 清楚明白地"
         ],
         "usage": "现代笔记和日常写作常用 clarity。不要和 perspicacity 混记；这里父亲批评的是论述清晰度，不是视力。",
         "sources": [
@@ -11436,7 +11505,10 @@
         ],
         "family": [
           "stock n. 库存；股份",
-          "stock v. 储备；备有"
+          "stock v. 储备；备有",
+          "stocked v./adj. stock 的过去式／过去分词；备有库存的",
+          "stocking n./v. 储备；长筒袜",
+          "stockist n. 经销商；备货商"
         ],
         "usage": "a stock of words 可理解为脑中可调用的一批词。不是 stock market 中的股票；stock 也可作动词。",
         "sources": [
@@ -11477,7 +11549,9 @@
         ],
         "family": [
           "recollection n. 回忆",
-          "recollect v. 回想"
+          "recollect v. 回想",
+          "recollected v./adj. recollect 的过去式／过去分词；记得的",
+          "recollecting n./v. 回忆；想起"
         ],
         "usage": "recollect doing 指记得已经做过；不等于 remember to do 的记得去做。原文 readiness in recollecting 说的是能迅速调用词语。",
         "sources": [
@@ -11513,7 +11587,10 @@
           "prose：非诗体的行文形式"
         ],
         "family": [
-          "verse n. 诗体；诗节"
+          "verse n. 诗体；诗节",
+          "versify v. 作诗；使有韵律",
+          "versification n. 作诗；诗体",
+          "versed adj. 精通的"
         ],
         "usage": "turn into verse 中 verse 不可数；making verses 是写诗。诗体并非必须押韵，blank verse 就不押尾韵。",
         "sources": [
@@ -11554,7 +11631,11 @@
         ],
         "family": [
           "import n. 进口物；意义",
-          "import v. 进口；导入"
+          "import v. 进口；导入",
+          "imported adj./v. 进口的；import 的过去式／过去分词",
+          "importing n./v. 进口；导入",
+          "importer n. 进口商",
+          "importation n. 进口；引入"
         ],
         "usage": "第 44 句 same import 是意思相同，第 48 句 small import 是不重要。名词重音在首音节，动词进口义重音在后。",
         "sources": [
@@ -11603,7 +11684,9 @@
         "family": [
           "jumble n. 杂乱的一堆",
           "jumble v. 弄乱",
-          "jumbled adj. 杂乱的"
+          "jumbled adj. 杂乱的",
+          "jumbled adj./v. 混乱的；jumble 的过去式／过去分词",
+          "jumbling n./v. 混杂；弄乱"
         ],
         "usage": "jumble something up 可分，jumble them up。本文故意打乱提示以练重组，不是无意把文章弄坏。",
         "sources": [
@@ -11847,7 +11930,11 @@
         "family": [
           "worship n. 礼拜",
           "worshipper n. 敬拜者",
-          "worship v. 敬拜"
+          "worship v. 敬拜",
+          "worshipped / worshiped v. worship 的过去式／过去分词",
+          "worshipping / worshiping n./v. 崇拜；敬拜",
+          "worshipful adj. 虔诚的；崇敬的",
+          "worshipfully adv. 虔敬地"
         ],
         "usage": "本文作不可数名词，不是“公众崇拜名人”。动词英式 worshipped／worshipping 双写 p，美式也可单写。",
         "sources": [
@@ -12697,10 +12784,10 @@
         "paragraphEnd": 563,
         "paraphrase": "Economic and racial conflict helped bring about Singapore's departure from Malaysia in 1965.",
         "reuse": {
-          "pattern": "___ until ___, when ___ spurred ___.",
-          "zh": "公司一直保持小规模，直到二〇一〇年，那时新的需求推动了它的扩张。",
-          "en": "The company remained small until 2010, when new demand spurred its expansion.",
-          "note": "when 回指年份；spur 后可直接接表示发展变化的名词。"
+          "pattern": "___ remained ___ until ___.",
+          "zh": "网购订单增长后，这支团队才开始扩大规模。",
+          "en": "The team remained small until a rise in online orders prompted it to expand.",
+          "note": "until 引出持续状态的终点；prompt someone to do something 表示促使某人做某事。"
         },
         "pdfNotes": [
           {
@@ -16155,7 +16242,8 @@
         ],
         "family": [
           "fraction n. 分数；小部分",
-          "fractional adj. 很小的；分数的"
+          "fractional adj. 很小的；分数的",
+          "fractionally adv. 少量地；略微"
         ],
         "usage": "a fraction of 后的主谓一致看所指对象：a fraction of the population is；a fraction of the people are。本文是插入的同位说明，不另成句。",
         "sources": [
@@ -16343,7 +16431,10 @@
         ],
         "family": [
           "wedge n. 楔子；楔形块",
-          "wedge v. 楔住；挤入"
+          "wedge v. 楔住；挤入",
+          "wedged v./adj. wedge 的过去式／过去分词；楔入的",
+          "wedging n./v. 楔入；挤入",
+          "wedgelike adj. 楔形的"
         ],
         "usage": "原文 wedged 是修饰 piece of real estate 的过去分词，省略理解为 which is wedged；不是新的过去时主句。",
         "sources": [
@@ -16383,7 +16474,9 @@
         ],
         "family": [
           "spur n. 推动力；马刺",
-          "spur v. 促使"
+          "spur v. 促使",
+          "spurred v./adj. spur 的过去式／过去分词；受激励的",
+          "spurring n./v. 激励；促使"
         ],
         "usage": "spurred、spurring 双写 r；spur separation 不等于亲自执行分离。spur someone to do，to 后接原形。",
         "sources": [
@@ -16581,7 +16674,10 @@
         "family": [
           "flush n. 一次冲水；潮红",
           "flush v. 冲洗；脸红",
-          "flushed adj. 脸红的"
+          "flushed adj. 脸红的",
+          "flushed v./adj. flush 的过去式／过去分词；脸红的",
+          "flushing n./v. 冲洗；脸红",
+          "flushable adj. 可冲走的"
         ],
         "usage": "is flushed 是被动；every flushing 中 flushing 是名词化，指每一次冲水。记录冲水时间不等于检查“没有冲水”。",
         "sources": [
@@ -16622,7 +16718,10 @@
         ],
         "family": [
           "tile n. 瓦；瓷砖",
-          "tile v. 铺瓦；贴瓷砖"
+          "tile v. 铺瓦；贴瓷砖",
+          "tiled v./adj. tile 的过去式／过去分词；铺了瓷砖的",
+          "tiling n./v. 铺瓷砖；瓷砖铺面",
+          "tiler n. 瓷砖铺设工"
         ],
         "usage": "本文 on roofs 指屋瓦，不宜机械理解成浴室瓷砖。复数 tiles；动词 tiling 去 e 加 -ing。",
         "sources": [
@@ -16661,7 +16760,9 @@
         "family": [
           "bristle n. 硬毛",
           "bristle v. 动怒；毛竖起",
-          "bristly adj. 有硬毛的"
+          "bristly adj. 有硬毛的",
+          "bristled v./adj. bristle 的过去式／过去分词；竖起硬毛的",
+          "bristling n./adj. 硬毛；竖起的"
         ],
         "usage": "bristle at something；不直接 bristle something。would bristle 是作者设想的反应，不是已完成的调查结果。",
         "sources": [
@@ -16738,7 +16839,10 @@
         ],
         "family": [
           "excavation n. 挖掘",
-          "excavate v. 挖掘"
+          "excavate v. 挖掘",
+          "excavated v./adj. excavate 的过去式／过去分词；挖掘出的",
+          "excavating n./v. 挖掘；开凿",
+          "excavator n. 挖掘机；挖掘者"
         ],
         "usage": "excavated dirt 是过去分词作前置修饰，意思是挖出来的泥土；整句谓语在后面的 end up。",
         "sources": [
@@ -16776,7 +16880,10 @@
         ],
         "family": [
           "spray n. 喷雾；喷剂",
-          "spray v. 喷洒"
+          "spray v. 喷洒",
+          "sprayed v./adj. spray 的过去式／过去分词；喷洒的",
+          "spraying n./v. 喷洒；喷雾",
+          "sprayer n. 喷雾器；喷洒者"
         ],
         "usage": "spray A with B 与 spray B on A 对应；sprayed pesticides 指已喷洒的药剂，不能当该句第二个谓语。",
         "sources": [
@@ -16816,7 +16923,8 @@
         ],
         "family": [
           "pest n. 有害生物",
-          "pesticide n. 农药"
+          "pesticide n. 农药",
+          "pesticidal adj. 杀虫剂的；有杀虫作用的"
         ],
         "usage": "pesticide 范围比 insecticide 广；不能把所有 pesticide 都限定成只杀昆虫。-cide 表示杀灭。",
         "sources": [
@@ -16851,7 +16959,9 @@
           "moderate：不极端、适度，不必正处于中间"
         ],
         "family": [
-          "intermediate adj. 中间的"
+          "intermediate adj. 中间的",
+          "intermediary n./adj. 中间人；中间的",
+          "intermediately adv. 居中地；在中间阶段"
         ],
         "usage": "文中是新加坡、德国、美国三者比较的中间位置，不是断言德国人口密度等于世界平均值。",
         "sources": [
@@ -16924,7 +17034,8 @@
         ],
         "family": [
           "millennium n. 千年",
-          "millennial adj. 千年的；千禧一代的"
+          "millennial adj. 千年的；千禧一代的",
+          "millennia n. millennium 的复数形式"
         ],
         "usage": "复数 millennia 或 millenniums；five millennia = 5,000 years。millennial 指千禧一代时按具体上下文判断，不能等同于所有年轻人。",
         "sources": [
@@ -16960,7 +17071,8 @@
         ],
         "family": [
           "community n. 社区；共同体",
-          "communal adj. 共有的"
+          "communal adj. 共有的",
+          "communally adv. 共同地；集体地"
         ],
         "usage": "本文是作者对传统耕作组织的概括；不能据一个形容词推断所有农场都实行同一所有制，更不能直接套用某个现代政治制度。",
         "sources": [
@@ -17109,7 +17221,9 @@
         ],
         "family": [
           "proliferation n. 激增",
-          "proliferate v. 激增"
+          "proliferate v. 激增",
+          "proliferative adj. 激增的；增殖的",
+          "proliferating adj./v. 激增的；proliferate 的 -ing 形式"
         ],
         "usage": "不可数，the proliferation of …；常用于担忧的事物，但词本身不必然含贬义，服务或技术也可 proliferate。",
         "sources": [
@@ -17297,7 +17411,10 @@
           "beg：强烈或卑微地恳求，不必反复纠缠"
         ],
         "family": [
-          "importune v. 纠缠恳求"
+          "importune v. 纠缠恳求",
+          "importuned v. importune 的过去式／过去分词",
+          "importuning n./v. 纠缠请求；恳求",
+          "importunate adj. 一再恳求的"
         ],
         "usage": "重音在最后一节。without being importuned 是介词后接被动 -ing 结构；被纠缠者是 she，而不是向她求助的亲族。",
         "sources": [
@@ -17369,7 +17486,9 @@
           "mourn：因失去人或事物而悲痛，不必向人诉说"
         ],
         "family": [
-          "bewail v. 悲叹"
+          "bewail v. 悲叹",
+          "bewailed v. bewail 的过去式／过去分词",
+          "bewailing n./v. 悲叹；哀悼"
         ],
         "usage": "直接接宾语，不必加 about；不一定真的哭出声。asking … and bewailing … 共同修饰 clan members。",
         "sources": [
@@ -17405,7 +17524,9 @@
         ],
         "family": [
           "concealment n. 隐藏",
-          "conceal v. 隐藏"
+          "conceal v. 隐藏",
+          "concealed adj./v. 隐藏的；conceal 的过去式／过去分词",
+          "concealing n./v. 隐藏；隐瞒"
         ],
         "usage": "conceal A from B；本文是不透明袋子让物品不被邻居看见，不是说物品消失。",
         "sources": [
@@ -17513,7 +17634,9 @@
         "family": [
           "compromise n. 妥协",
           "compromise v. 妥协；损害",
-          "uncompromising adj. 不妥协的"
+          "uncompromising adj. 不妥协的",
+          "compromised adj./v. 受损的；妥协了的",
+          "compromising adj./n. 妥协的；妥协"
         ],
         "usage": "本文复数指各种折中选择，不一概含贬义。作“损害”时及物：compromise safety；不能都译成“向……妥协”。",
         "sources": [
@@ -17552,7 +17675,9 @@
         ],
         "family": [
           "meter n. 计量仪",
-          "meter v. 计量"
+          "meter v. 计量",
+          "metered adj./v. 计量的；meter 的过去式／过去分词",
+          "metering n./v. 计量；测量"
         ],
         "usage": "本文是记录冲水的仪器。表示仪器时英美都写 meter；表示长度单位“米”时英式通常写 metre，美式写 meter。",
         "sources": [
@@ -17591,7 +17716,8 @@
         ],
         "family": [
           "affluence n. 富裕",
-          "affluent adj. 富裕的"
+          "affluent adj. 富裕的",
+          "affluently adv. 富裕地；丰富地"
         ],
         "usage": "不可数；不是 influence（影响）或 fluency（流利）。本文与 safety、health 等并列，列出居民可能得到的生活条件。",
         "sources": [
@@ -18544,10 +18670,10 @@
         "paragraphEnd": 115,
         "paraphrase": "The author defines appropriation through the taking of culture within unequal power relations.",
         "reuse": {
-          "pattern": "___ is when ___ takes ___ from people that it has ___.",
-          "zh": "剥削的一种情形，是一家公司从被它置于不利地位的人那里索取更多。",
-          "en": "One form of exploitation is when a company takes more from people that it has disadvantaged.",
-          "note": "is when 以情景说明定义；that 在内层作 disadvantaged 的宾语。"
+          "pattern": "One form of ___ is when ___.",
+          "zh": "剥削的一种形式，是商店向选择有限的顾客收取更高价格。",
+          "en": "One form of exploitation is when a store charges more to customers who have few alternatives.",
+          "note": "is when 后用具体情形说明一种形式；who 引导定语从句修饰 customers。"
         },
         "pdfNotes": [
           {
@@ -19197,9 +19323,9 @@
         "paragraphEnd": 359,
         "paraphrase": "Controlling production resources solely for the dominant group's benefit can also cause harm.",
         "reuse": {
-          "pattern": "It's harmful when ___ controls ___ for ___.",
-          "zh": "一个机构为自身利益控制所有信息时，会造成伤害。",
-          "en": "It's harmful when an institution controls all information for its own benefit.",
+          "pattern": "It's harmful when ___ controls ___ for its own benefit.",
+          "zh": "一个网站为了自身利益控制信息的获取渠道，会造成伤害。",
+          "en": "It's harmful when a website controls access to information for its own benefit.",
           "note": "when 提供被评价情景；its 与单数机构保持一致。"
         },
         "pdfNotes": [
@@ -19439,10 +19565,10 @@
         "paragraphEnd": 235,
         "paraphrase": "The label is often applied to cuisines from places associated with people of colour.",
         "reuse": {
-          "pattern": "Usually, we're talking about ___ from places where ___.",
-          "zh": "通常，我们说的是来自艺术家仍靠手工工作的地方的产品。",
-          "en": "Usually, we're talking about products from places where artists still work by hand.",
-          "note": "明确加 from places，避免把产品与地点直接画成同位关系。"
+          "pattern": "Usually, we're talking about ___ made by ___ who ___.",
+          "zh": "通常，我们说的是仍以手工创作的艺术家所制作的产品。",
+          "en": "Usually, we're talking about products made by artists who still work by hand.",
+          "note": "products 后的 made by ... 是过去分词短语；who 引导定语从句修饰 artists。"
         },
         "pdfNotes": [
           {
@@ -19522,10 +19648,10 @@
         "paragraphEnd": 412,
         "paraphrase": "Although all these cuisines have cultural roots, only some are treated as foreign or exotic.",
         "reuse": {
-          "pattern": "While ___ is connected to ___, ___ has become reserved for ___ that ___.",
-          "zh": "虽然阅读与每个人的生活有关，这项活动却渐渐只留给有时间参加的人。",
-          "en": "While reading is connected to everyone's life, the activity has become reserved for people that have time to attend.",
-          "note": "While 为让步；that 回指 people，内部用 have。"
+          "pattern": "While ___ benefits ___, ___ have become reserved for ___.",
+          "zh": "虽然锻炼对每个人都有益，健身课程却渐渐只留给负担得起健身房的人。",
+          "en": "While exercise benefits everyone, fitness classes have become reserved for people who can afford a gym.",
+          "note": "While 引导让步对比；who 引导定语从句修饰 people。"
         },
         "pdfNotes": [
           {
@@ -21052,10 +21178,10 @@
         "paragraphEnd": 477,
         "paraphrase": "Food stereotypes can reduce people to what they eat or make them targets of insulting labels.",
         "reuse": {
-          "pattern": "There are ___ where people are reduced to the ___ they ___ or are called ___.",
-          "zh": "有些故事里，人被简化为他们做的工作，或被叫作失败者。",
-          "en": "There are stories where people are reduced to the work they do or are called failures.",
-          "note": "they do 只修饰 work；are called 回到 people，与 are reduced 并列。"
+          "pattern": "In some ___, people are reduced to ___ or labeled as ___.",
+          "zh": "有些网络个人简介把人简化成职位头衔，或者给人贴上失败者的标签。",
+          "en": "In some online profiles, people are reduced to their job titles or labeled as failures.",
+          "note": "people are reduced to ... 与 are labeled ... 是并列的被动结构。"
         },
         "pdfNotes": [
           {
@@ -21397,10 +21523,10 @@
         "paragraphEnd": 310,
         "paraphrase": "Some chefs turn inexpensive community foods into products for upscale restaurants.",
         "reuse": {
-          "pattern": "Because of this, ___ opens ___ that ___ from communities that ___.",
-          "zh": "因此，这家公司开设商店，出售来自依靠手工劳动的社群的产品。",
-          "en": "Because of this, the company opens shops that sell products from communities that rely on manual work.",
-          "note": "Because of this 为介词短语；两个 that 分别修饰 shops 与 communities。"
+          "pattern": "The company opens ___ that sell ___ from communities where ___.",
+          "zh": "这家公司开设商店，出售来自当地手工艺社群的作品，而当地手艺人依靠手工劳动谋生。",
+          "en": "The company opens shops that sell crafts from communities where local artisans rely on handwork for their livelihoods.",
+          "note": "that 修饰 shops；where 引导定语从句，说明 communities 中的情况。"
         },
         "pdfNotes": [
           {
@@ -21561,9 +21687,9 @@
         "paragraphEnd": 522,
         "paraphrase": "The source communities may be unable to afford or enter the restaurants using their food traditions.",
         "reuse": {
-          "pattern": "___ is inaccessible to the people it ___ from.",
-          "zh": "这份档案对它所取材的那些人来说无法获取。",
-          "en": "The archive is inaccessible to the people it draws material from.",
+          "pattern": "The ___ is inaccessible to the people it ___.",
+          "zh": "这份档案的内容取自一些人的故事，但这些人却无法查阅档案。",
+          "en": "The archive is inaccessible to the people it took the stories from.",
           "note": "people 后省略 from 的关系宾语；it 指 archive。"
         },
         "pdfNotes": [
@@ -22789,10 +22915,10 @@
         "paragraphEnd": 209,
         "paraphrase": "The author welcomes cross-cultural cooking and eating.",
         "reuse": {
-          "pattern": "I'm not against doing ___—I ___ it, too.",
-          "zh": "我不反对尝试新方法——我也支持这样做。",
-          "en": "I'm not against trying new methods—I support it, too.",
-          "note": "against 后是 -ing；破折号后是独立主句，it 指前述行动。"
+          "pattern": "I'm not against ___; in fact, I support ___.",
+          "zh": "我并不反对尝试新方法；事实上，我支持这个想法。",
+          "en": "I'm not against trying a new method; in fact, I support the idea.",
+          "note": "against 后接动名词；in fact 引出对前句立场的补充说明。"
         },
         "pdfNotes": [
           {
@@ -23247,7 +23373,10 @@
           "unfamiliar：对观察者不熟悉，不必来自国外"
         ],
         "family": [
-          "exotic adj. 异域的"
+          "exotic adj. 异域的",
+          "exotically adv. 异域风情地；奇异地",
+          "exoticism n. 异国情调；异域风格",
+          "exoticize v. 使异国情调化；把……异域化"
         ],
         "usage": "形容人或整种文化时可能把对方当作“异类”，要看语境。本文引号批评这种观看方式；不要把 exotic 当“低级”或“不卫生”。",
         "sources": [
@@ -23407,7 +23536,9 @@
         ],
         "family": [
           "fusion n. 融合",
-          "fuse v. 融合"
+          "fuse v. 融合",
+          "fused v./adj. fuse 的过去式／过去分词；融合的",
+          "fusing n./v. 融合；熔合"
         ],
         "usage": "Asian-fusion 是修饰语，不是覆盖全亚洲的单一传统菜系。作者批评忽略差异的包装，不等于所有融合菜都错。",
         "sources": [
@@ -23720,7 +23851,10 @@
         ],
         "family": [
           "trick n. 花招；技巧",
-          "tricky adj. 棘手的"
+          "tricky adj. 棘手的",
+          "trickiness n. 棘手；狡猾",
+          "trickier adj. tricky 的比较级",
+          "trickiest adj. tricky 的最高级"
         ],
         "usage": "something is tricky to think about 中，不定式主动形式与前面的被思考对象呼应，不加重复宾语 it。trickier、trickiest 把 y 改 i。",
         "sources": [
@@ -23800,7 +23934,11 @@
         ],
         "family": [
           "fetish n. 过度迷恋的对象",
-          "fetishize v. 过度迷恋"
+          "fetishize v. 过度迷恋",
+          "fetishism n. 迷恋；恋物癖",
+          "fetishist n. 迷恋者；恋物癖者",
+          "fetishistic adj. 迷恋的；恋物的",
+          "fetishistically adv. 迷恋地"
         ],
         "usage": "英式也写 fetishise。本文为非性意味的文化批评；不要机械译成“性癖化”，也不是所有喜欢某种食物都等于 fetishize。",
         "sources": [
@@ -23839,7 +23977,10 @@
         ],
         "family": [
           "hoard n. 储藏物",
-          "hoard v. 囤积"
+          "hoard v. 囤积",
+          "hoarded adj./v. 囤积的；hoard 的过去式／过去分词",
+          "hoarding n./v. 囤积；储藏",
+          "hoarder n. 囤积者"
         ],
         "usage": "hoard access 是本文的比喻性组合，指把持取得食物或资源的渠道，不能只译成在仓库囤原料。horde 是“一大群人”，拼写不同。",
         "sources": [
@@ -23925,7 +24066,8 @@
         ],
         "family": [
           "ethnicity n. 族群身份",
-          "ethnic adj. 族裔的"
+          "ethnic adj. 族裔的",
+          "ethnically adv. 在族裔方面；从民族角度"
         ],
         "usage": "ethnic food 在本文带引号，作者质疑为何只给非西方食物贴此标签。ethnic 不等于 exotic，更不是 ethic（道德准则）。",
         "sources": [
@@ -24042,7 +24184,9 @@
         ],
         "family": [
           "curry n. 咖喱",
-          "curry v. 用咖喱调味烹制"
+          "curry v. 用咖喱调味烹制",
+          "curried adj./v. 加咖喱的；curry 的过去式／过去分词",
+          "currying n./v. 用咖喱调味；梳理（马毛）"
         ],
         "usage": "a curry 可指一道菜；不可数 curry 指食物本身。spicy 可突出香料味，不保证每种咖喱都很辣；不能以 curry 代替整个南亚文化。",
         "sources": [
@@ -24258,7 +24402,7 @@
             "url": "https://dictionary.cambridge.org/dictionary/english/stem-from"
           },
           {
-            "label": "Cambridge · stem（其他义项）",
+            "label": "Cambridge · stem (other senses)",
             "url": "https://dictionary.cambridge.org/dictionary/english/stem"
           }
         ],
@@ -24459,7 +24603,10 @@
         "family": [
           "stereotype n. 刻板印象",
           "stereotype v. 对……抱刻板印象",
-          "stereotypical adj. 典型化的；刻板的"
+          "stereotypical adj. 典型化的；刻板的",
+          "stereotyped adj./v. 刻板化的；stereotype 的过去式／过去分词",
+          "stereotyping n./v. 形成刻板印象；刻板化",
+          "stereotypically adv. 刻板地；典型地"
         ],
         "usage": "可数；不一定公开表现为恶意，却可能抹去个体差异。本文关注食物如何被用来给人贴标签，而非认同这些标签。",
         "sources": [
@@ -24534,7 +24681,10 @@
         ],
         "family": [
           "purpose n. 用途",
-          "repurpose v. 改作他用"
+          "repurpose v. 改作他用",
+          "repurposed adj./v. 改作他用的；repurpose 的过去式／过去分词",
+          "repurposing n./v. 改作他用",
+          "repurposable adj. 可改作他用的"
         ],
         "usage": "词本身不必贬义；文中对外来商业包装与社区自行创新作了区分。repurpose something for/as …，不要等同于简单加价。",
         "sources": [
@@ -24789,7 +24939,9 @@
           "staple n. 基本物品；订书钉",
           "stapler n. 订书机",
           "staple v. 用订书钉装订",
-          "staple adj. 基本的"
+          "staple adj. 基本的",
+          "stapled adj./v. 用订书钉装订的；staple 的过去式／过去分词",
+          "stapling n./v. 用订书钉装订"
         ],
         "usage": "本文 staples at … markets 为常备主要商品，不限于米面一类“主食”。名词、形容词和动词读音相同。",
         "sources": [
@@ -26742,10 +26894,10 @@
         "paragraphEnd": 227,
         "paraphrase": "The packed sightseeing and shopping programme is a tourist experience, not residents' routine.",
         "reuse": {
-          "pattern": "___, which as a ___ you should not miss.",
-          "zh": "这里有一个周末市集，身为美食爱好者的你不该错过。",
-          "en": "There is a weekend market here, which as a foodie you should not miss.",
-          "note": "which 回指 market，作 miss 的宾语；as … 是从句内部身份说明。"
+          "pattern": "There is ___ here that you should not miss if ___.",
+          "zh": "这里有个周末市集，如果你喜欢美食，可别错过。",
+          "en": "There's a weekend market here that you shouldn't miss if you're a foodie.",
+          "note": "that 引导定语从句修饰 market；if 引导条件状语从句。"
         },
         "pdfNotes": [
           {
@@ -27498,10 +27650,10 @@
         "paragraphEnd": 426,
         "paraphrase": "A Thai café owner went far beyond giving directions and personally drove the writer to the destination.",
         "reuse": {
-          "pattern": "___, despite my pleas not to, to ___.",
-          "zh": "朋友尽管听到我劝他不必如此，还是放下工作来帮我。",
-          "en": "My friend put his work aside, despite my pleas not to, to help me.",
-          "note": "not to 后省略 put his work aside；最后 to help 另表目的。"
+          "pattern": "Despite my pleas not to, ___ ___ to ___.",
+          "zh": "尽管我劝朋友不必如此，他还是提早下班来帮我。",
+          "en": "Despite my pleas not to, my friend left work early to help me.",
+          "note": "Despite my pleas not to 后省略前文可推知的动作；to help 表示目的。"
         },
         "pdfNotes": [
           {
@@ -27611,10 +27763,10 @@
         "paragraphEnd": 672,
         "paraphrase": "An uninformed question in Kyoto led to a personal invitation to learn a traditional craft.",
         "reuse": {
-          "pattern": "When I asked about ___ because I didn't know ___, I got ___.",
-          "zh": "我因为不知道办公室在哪儿而问路，结果得到了一张地图。",
-          "en": "When I asked about the office because I didn't know where it was, I got a map.",
-          "note": "where it was 用陈述语序；主干为 I got a map。"
+          "pattern": "When I asked ___ because ___, ___ gave me ___.",
+          "zh": "我不知道办公室在哪里，开口问路后，有人给了我一张地图。",
+          "en": "When I asked where the office was because I did not know, someone gave me a map.",
+          "note": "where the office was 是间接疑问句，使用陈述语序；because 从句说明提问原因。"
         },
         "pdfNotes": [
           {
@@ -27854,9 +28006,9 @@
         "paragraphEnd": 191,
         "paraphrase": "Trying hard not to look foreign resembles adolescent anxiety about belonging.",
         "reuse": {
-          "pattern": "The ___ to ___ seems ___, with suggestions to ___ lest ___.",
-          "zh": "那套隐藏生疏的努力看起来很累，还建议人们不提问，以免显得缺经验。",
-          "en": "The effort to hide uncertainty seems exhausting, with suggestions to avoid questions lest one seem inexperienced.",
+          "pattern": "Trying to ___ can be ___, especially when ___.",
+          "zh": "明明迷了路却试图装作熟门熟路，会让人很累，尤其是为了不显得不熟悉而不敢问路时。",
+          "en": "Trying to hide that you are lost can be exhausting, especially when you avoid asking for directions lest you seem unfamiliar with the area.",
           "note": "lest 表预防目的；此处用动词原形 seem，不是原因解释。"
         },
         "pdfNotes": [
@@ -28471,7 +28623,7 @@
         "text": "Actually visiting a museum—instead of meaning to—is way more fulfilling than sitting on your couch cruising Twitter and Instagram.",
         "paragraph": 10,
         "audioSrc": "https://assets.negentropylearning.com.cn/media/audio/article-09-aligned-v4/a09-p10-s03-v4.mp3?v=20260828-article09-user-confirmed-v4",
-        "translation": "真正去参观一次博物馆——而不只是想着以后去——远比坐在沙发上刷推特和照片墙更有满足感。",
+        "translation": "真正去参观一次博物馆——而不只是想着以后去——远比坐在沙发上刷推特和 Instagram 更有满足感。",
         "classification": {
           "type": "simple",
           "badge": "simple",
@@ -28902,7 +29054,9 @@
         ],
         "family": [
           "tinge n. 淡淡的色彩；少许",
-          "tinge v. 使略带"
+          "tinge v. 使略带",
+          "tinged adj./v. 略带……的；tinge 的过去式／过去分词",
+          "tinging n./v. 使略带颜色；略染"
         ],
         "usage": "原文 gold-tinged 是复合修饰语，形容咖啡馆带着金色光泽；不等于用纯金建造。常用 be tinged with。",
         "sources": [
@@ -28942,7 +29096,9 @@
         ],
         "family": [
           "stumble n. 绊步；失误",
-          "stumble v. 绊脚；蹒跚"
+          "stumble v. 绊脚；蹒跚",
+          "stumbled v. stumble 的过去式／过去分词",
+          "stumbling n./adj. 绊倒；蹒跚的"
         ],
         "usage": "本文 stumbling around 写在遗址中跌跌撞撞地走，不能机械套 stumble across 的“偶然发现”。stumble over words 可指说话磕巴。",
         "sources": [
@@ -29170,7 +29326,9 @@
         ],
         "family": [
           "entreaty n. 恳求",
-          "entreat v. 恳求（正式）"
+          "entreat v. 恳求（正式）",
+          "entreated v. entreat 的过去式／过去分词",
+          "entreating adj./v. 恳求的；恳求"
         ],
         "usage": "复数 entreaties。作者把旅游劝说并称 entreaty、shaming，重在其劝诱和施压方式，不应只理解成礼貌邀请。",
         "sources": [
@@ -29207,7 +29365,10 @@
         ],
         "family": [
           "scoop n. 内幕；独家新闻；勺",
-          "scoop v. 舀起"
+          "scoop v. 舀起",
+          "scooped v./adj. scoop 的过去式／过去分词；舀出的",
+          "scooping n./v. 舀；独家报道",
+          "scooper n. 舀取工具；独家报道者"
         ],
         "usage": "本文 get the inside scoop 是获得吃喝购物的内行门道，不一定是新闻独家报道。不要把 scoop 单独一概译为“内幕”。",
         "sources": [
@@ -29322,7 +29483,10 @@
           "washing：英式常指待洗或洗好的衣物，也可指洗涤活动"
         ],
         "family": [
-          "laundry n. 待洗或洗好的衣物；洗衣店"
+          "laundry n. 待洗或洗好的衣物；洗衣店",
+          "launder v. 洗涤；洗钱",
+          "laundering n./v. 洗涤；洗钱",
+          "launderer n. 洗衣工；洗钱者"
         ],
         "usage": "folding laundry 是叠衣物，并非“叠洗衣店”。泛指衣物时不可数，不说 many laundries。",
         "sources": [
@@ -29395,7 +29559,9 @@
         ],
         "family": [
           "inane adj. 空洞无聊的",
-          "inanely adv. 愚蠢无聊地"
+          "inanely adv. 愚蠢无聊地",
+          "inanity n. 空洞；愚蠢",
+          "inanely adv. 空洞地；愚蠢地"
         ],
         "usage": "原文带着对日常杂务的幽默抱怨，并非客观断言洗衣、做饭毫无价值。与 insane（精神失常的；疯狂的）拼写不同。",
         "sources": [
@@ -29468,7 +29634,10 @@
         ],
         "family": [
           "stroll n. 散步",
-          "stroll v. 悠闲地走"
+          "stroll v. 悠闲地走",
+          "strolled v. stroll 的过去式／过去分词",
+          "strolling n./v. 悠闲散步",
+          "stroller n. 散步者；婴儿推车"
         ],
         "usage": "通常不及物，用 along、through、around 等接地点。本文 strolling 由 spend days doing 引出，不是独立的现在进行时谓语。",
         "sources": [
@@ -29506,7 +29675,9 @@
         ],
         "family": [
           "promenade n. 滨水步道",
-          "promenade v. 漫步（旧式）"
+          "promenade v. 漫步（旧式）",
+          "promenaded v. promenade 的过去式／过去分词",
+          "promenading n./v. 漫步；散步"
         ],
         "usage": "本文指景色优美的步道，不是音乐会 prom。所列英式名词、动词均重读末音节，不套“名词前重、动词后重”的规则。",
         "sources": [
@@ -29543,7 +29714,11 @@
           "glance：短暂看一眼"
         ],
         "family": [
-          "gawk v. 呆望"
+          "gawk v. 呆望",
+          "gawked v. gawk 的过去式／过去分词",
+          "gawking n./v. 呆望；盯看",
+          "gawker n. 呆望的人",
+          "gawky adj. 笨拙的；局促的"
         ],
         "usage": "固定 gawk at，不直接 gawk something。英式也常用 gawp。本文带自嘲趣味，并非仅指普通的“看见”。",
         "sources": [
@@ -29742,7 +29917,10 @@
         ],
         "family": [
           "nibble n. 一小口",
-          "nibble v. 小口吃"
+          "nibble v. 小口吃",
+          "nibbled v. nibble 的过去式／过去分词",
+          "nibbling n./v. 小口咬；轻微减少",
+          "nibbler n. 小口吃的人；小型啮齿动物"
         ],
         "usage": "nibble on/at something 都可。作者用来描绘慢慢享受糕点；“巴黎人不天天如此”是论证性概括，不是饮食统计。",
         "sources": [
@@ -29783,7 +29961,9 @@
         ],
         "family": [
           "sojourn n. 旅居",
-          "sojourn v. 暂住（文学）"
+          "sojourn v. 暂住（文学）",
+          "sojourned v. sojourn 的过去式／过去分词",
+          "sojourning n./v. 暂住；旅居"
         ],
         "usage": "比 stay 书面，不必暗含多年旅居。所列英式名词、动词通常同为首音节重读。",
         "sources": [
@@ -29859,7 +30039,10 @@
         ],
         "family": [
           "junk n. 废旧杂物；垃圾",
-          "junky adj. 劣质的"
+          "junky adj. 劣质的",
+          "junkiness n. 劣质；无用",
+          "junkier adj. junky 的比较级",
+          "junkiest adj. junky 的最高级"
         ],
         "usage": "Oxford 核实为形容词。这里不是 junkie（瘾君子；狂热爱好者）的名词义，也不要误写成 janky。",
         "sources": [
@@ -29977,7 +30160,8 @@
         ],
         "family": [
           "soreness n. 酸痛",
-          "sore adj. 疼痛的"
+          "sore adj. 疼痛的",
+          "sorely adv. 疼痛地；非常"
         ],
         "usage": "feet are sore 中 sore 为表语；不能把 sore 当动词套成 feet sore。与 soar（高飞）同音，拼写和词义不同。",
         "sources": [
@@ -30018,7 +30202,11 @@
         ],
         "family": [
           "ignorance n. 无知",
-          "ignorant adj. 不了解的"
+          "ignorant adj. 不了解的",
+          "ignorantly adv. 无知地；不了解地",
+          "ignore v. 忽视；不理会",
+          "ignored adj./v. 被忽视的；ignore 的过去式／过去分词",
+          "ignoring n./v. 忽视；不理会"
         ],
         "usage": "ignorance of/about something。原文 ignorant 是形容词；ignore 指有意不理会，不能拿它表达“我不知道”。这里无需译成对人格的侮辱。",
         "sources": [
@@ -30169,7 +30357,9 @@
         ],
         "family": [
           "dork n. 呆头呆脑的人（口语）",
-          "dorky adj. 傻气的"
+          "dorky adj. 傻气的",
+          "dorkiness n. 呆头呆脑；傻气",
+          "dorkily adv. 傻气地"
         ],
         "usage": "本文修饰 aprons，是诙谐的外观评价，不能机械译为“智力低下的围裙”。称呼别人 dork 可能冒犯。",
         "sources": [
@@ -30326,7 +30516,10 @@
         ],
         "family": [
           "plea n. 恳求；答辩",
-          "plead v. 恳求；答辩"
+          "plead v. 恳求；答辩",
+          "pleaded / pled v. plead 的过去式／过去分词",
+          "pleading n./adj./v. 恳求；恳求的；恳求",
+          "pleader n. 申诉者；辩护人"
         ],
         "usage": "原文 pleas not to 后省略 close down her coffee shop；接下来的 to drive 是另一层目的，不能全连成“请求不要开车”。",
         "sources": [
@@ -30365,7 +30558,8 @@
         "family": [
           "ceramic n. 陶瓷材料",
           "ceramics n. 陶瓷制品；陶艺",
-          "ceramic adj. 陶瓷的"
+          "ceramic adj. 陶瓷的",
+          "ceramicist n. 陶艺家；陶瓷艺术家"
         ],
         "usage": "ceramic stores 指卖陶瓷的店，不是“陶瓷建造的店”。表材料的 ceramic 可作不可数名词。",
         "sources": [
@@ -30484,7 +30678,8 @@
         "family": [
           "artisan n. 工匠",
           "artisan adj. 手工制作的",
-          "artisanal adj. 手工艺的"
+          "artisanal adj. 手工艺的",
+          "artisans n. artisan 的复数形式"
         ],
         "usage": "本文 artisan 修饰 bread。名词、形容词所列常用读音相同；不能把 artisan bread 译为“艺术家的面包”。",
         "sources": [
@@ -30602,7 +30797,9 @@
         ],
         "family": [
           "embrace n. 拥抱",
-          "embrace v. 拥抱；欣然接受"
+          "embrace v. 拥抱；欣然接受",
+          "embraced v./adj. embrace 的过去式／过去分词；欣然接受的",
+          "embracing n./adj./v. 拥抱；包容的；拥抱"
         ],
         "usage": "本文 embrace it 的 it 指 hospitality，是欣然接受款待，不是要求拥抱陌生人。名词和动词都重读第二音节。",
         "sources": [
@@ -30833,7 +31030,10 @@
         "family": [
           "mud n. 泥",
           "muddy v. 弄上泥；搅混",
-          "muddy adj. 泥泞的"
+          "muddy adj. 泥泞的",
+          "muddied v./adj. muddy 的过去式／过去分词；沾泥的",
+          "muddiness n. 泥泞；含混",
+          "muddily adv. 泥泞地；含混地"
         ],
         "usage": "原文 mind muddying up 中 muddying 为动词 -ing，宾语由关系词 that 对应 shoes；mind 后用 doing，不用 to do。muddying 保留 y，muddied 变 y 为 i。",
         "sources": [
@@ -30874,7 +31074,10 @@
         ],
         "family": [
           "cruise n. 乘船游览",
-          "cruise v. 巡航；悠闲地逛"
+          "cruise v. 巡航；悠闲地逛",
+          "cruised v. cruise 的过去式／过去分词",
+          "cruising n./adj./v. 巡航；悠闲逛的；巡航",
+          "cruiser n. 巡洋舰；巡航者"
         ],
         "usage": "cruising Twitter and Instagram 是语境引申，不能译成“驾驶推特”。这里 cruise 可直接带被浏览的平台，不需强加 on。",
         "sources": [

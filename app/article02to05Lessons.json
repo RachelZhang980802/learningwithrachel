@@ -3386,7 +3386,9 @@
         ],
         "family": [
           "commission n. 委员会／佣金",
-          "commission v. 委托"
+          "commission v. 委托",
+          "commissioner n. 委员；专员",
+          "commissioning n. 委托；调试启用（设备）"
         ],
         "usage": "本文是专有机构名称。commission 也指“佣金”，此处不能套用这个义项。",
         "sources": [
@@ -3658,7 +3660,9 @@
           "extent：程度或规模。"
         ],
         "family": [
-          "scope n. 范围"
+          "scope n. 范围",
+          "scoped v. scope 的过去式／过去分词",
+          "scoping n./v. 界定范围；范围界定"
         ],
         "usage": "本文与 number 并列：任务的数量和范围是两个维度。scope for 指机会或余地，义项不同。",
         "sources": [
@@ -3696,7 +3700,10 @@
         ],
         "family": [
           "lag n. 滞后",
-          "lag v. 落后"
+          "lag v. 落后",
+          "lagged v. lag 的过去式／过去分词",
+          "lagging adj./n. 落后的；滞后",
+          "laggard n. 落后者"
         ],
         "usage": "本文 a lag 指旧工作消失与新技能适应之间的时间差，不特指时差反应 jet lag。",
         "sources": [
@@ -3956,7 +3963,9 @@
           "fluctuate：上下波动。"
         ],
         "family": [
-          "plummet v. 骤降"
+          "plummet v. 骤降",
+          "plummeted v. plummet 的过去式／过去分词",
+          "plummeting adj./n. 急剧下降的；骤降"
         ],
         "usage": "常作不及物动词，不能把“使出生率下降”写成 plummet the birth rate。过去式 plummeted。",
         "sources": [
@@ -4579,7 +4588,7 @@
         "paragraph": 1,
         "id": 1,
         "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-01.mp3?v=20260828-forced-alignment",
-        "translation": "我很晚才开始理解自己在生命轮回中的位置。",
+        "translation": "我很晚才开始明白自己在生命循环中的位置。",
         "paraphrase": "It took me a long time to understand my own place in the course of a human life.",
         "classification": {
           "type": "simple",
@@ -5732,7 +5741,7 @@
         "paragraph": 4,
         "id": 17,
         "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-17.mp3?v=20260828-forced-alignment",
-        "translation": "他那独特的鼾声，先是低低的哨音，末了以一大口呼气收尾。",
+        "translation": "他那独特的鼾声，先是一声低低的哨音，最后以一大口长气收尾。",
         "paraphrase": "His usual snore began as a faint whistling sound and finished with a strong breath.",
         "classification": {
           "type": "complex",
@@ -7077,7 +7086,7 @@
         "paragraph": 6,
         "id": 37,
         "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-37.mp3?v=20260828-forced-alignment",
-        "translation": "战争和反战运动，都能让他兴致勃勃。",
+        "translation": "战事和反战运动，他都看得津津有味。",
         "paraphrase": "Both the war and the protests against it gave him something to enjoy.",
         "classification": {
           "type": "simple",
@@ -8511,7 +8520,7 @@
         "paragraph": 10,
         "id": 58,
         "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-58.mp3?v=20260828-forced-alignment",
-        "translation": "但他看得见眼前日常生活的活计，并且一如既往地把它们做了。",
+        "translation": "但他看得见眼前日常生活中的种种事，并且一如既往地动手去做。",
         "paraphrase": "He did, however, recognize the everyday tasks that needed doing, and he carried them out as he always had.",
         "classification": {
           "type": "compound",
@@ -8803,7 +8812,7 @@
         "paragraph": 10,
         "id": 62,
         "audioSrc": "https://assets.negentropylearning.com.cn/media/audio-roommates-sentences-v6/roommates-sentence-62.mp3?v=20260828-forced-alignment",
-        "translation": "忧郁了约两年后，我也加入了他，开始看见原来有那么多事情要做。",
+        "translation": "经历了大约两年的忧郁后，我也开始像他一样行动，逐渐看见原来有那么多事可以做。",
         "paraphrase": "After roughly two years of sadness, I began working alongside him and noticing all the things that needed doing.",
         "classification": {
           "type": "complex",
@@ -9743,7 +9752,10 @@
         ],
         "family": [
           "whistle n. 哨声",
-          "whistle v. 吹口哨"
+          "whistle v. 吹口哨",
+          "whistled v. whistle 的过去式／过去分词",
+          "whistling n./v. 吹口哨；口哨声",
+          "whistler n. 吹口哨的人"
         ],
         "usage": "t 不发音。本文用哨声比喻祖父一种鼾声，不是祖父清醒地吹口哨。",
         "sources": [
@@ -9783,7 +9795,11 @@
         ],
         "family": [
           "puff n. 一股气",
-          "puff v. 喘气／喷出"
+          "puff v. 喘气／喷出",
+          "puffed v. puff 的过去式／过去分词",
+          "puffing n./v. 喘气；喷出",
+          "puffy adj. 浮肿的；蓬松的",
+          "puffiness n. 浮肿；蓬松"
         ],
         "usage": "本文 a great puff 指鼾声末尾较强的一次呼气。a puff of 后可接不可数物质名词。",
         "sources": [
@@ -9823,7 +9839,9 @@
         ],
         "family": [
           "curse n. 诅咒",
-          "curse v. 咒骂"
+          "curse v. 咒骂",
+          "cursed adj./v. 受诅咒的；curse 的过去式／过去分词",
+          "cursing n./v. 咒骂；诅咒"
         ],
         "usage": "curse words 通常指粗俗骂人话；后文关于疾病的愿景又呈现了诅咒义。不可只保留“魔咒”。",
         "sources": [
@@ -9896,7 +9914,9 @@
         ],
         "family": [
           "cushion n. 靠垫",
-          "cushion v. 缓冲"
+          "cushion v. 缓冲",
+          "cushioned adj./v. 有衬垫的；缓和了的",
+          "cushioning n./v. 缓冲；减轻冲击"
         ],
         "usage": "本文 Cushioned by… 是过去分词，描绘毁灭意象被呼气声托载或包裹，属于文学隐喻。不是名词“垫子”。",
         "sources": [
@@ -9934,7 +9954,10 @@
         ],
         "family": [
           "boil n. 疖",
-          "boil v. 煮沸（另一义项）"
+          "boil v. 煮沸（另一义项）",
+          "boiled v. boil 的过去式／过去分词",
+          "boiling adj./n. 沸腾的；沸腾",
+          "boiler n. 锅炉；煮水器"
         ],
         "usage": "本文 Boils 是主语名词，sprouted 才是谓语；不要译为“肠子沸腾”。此处是梦中的诅咒意象。",
         "sources": [
@@ -9973,7 +9996,9 @@
         ],
         "family": [
           "sprout n. 嫩芽",
-          "sprout v. 萌生"
+          "sprout v. 萌生",
+          "sprouted v. sprout 的过去式／过去分词",
+          "sprouting n./v. 发芽；萌生"
         ],
         "usage": "本文把疾病写成植物般“长出”，为不及物 sprout on…；不是说祖父真在栽种。",
         "sources": [
@@ -10293,7 +10318,9 @@
           "compatible：性质或生活方式能相容。"
         ],
         "family": [
-          "congenial adj. 合得来的"
+          "congenial adj. 合得来的",
+          "congeniality n. 合意；意气相投",
+          "congenially adv. 合意地；友善地"
         ],
         "usage": "本文不是说“同龄”，恰恰强调年龄悬殊仍合得来。较正式，常修饰 companion/company。",
         "sources": [
@@ -10448,7 +10475,10 @@
         ],
         "family": [
           "doze n. 小睡",
-          "doze v. 打盹"
+          "doze v. 打盹",
+          "dozed v. doze 的过去式／过去分词",
+          "dozing n./v. 打盹",
+          "dozy adj. 困倦的（非正式）"
         ],
         "usage": "doze off 强调渐渐进入睡眠，本文是读书时打盹，不是熟睡一整夜。",
         "sources": [
@@ -10752,7 +10782,9 @@
         ],
         "family": [
           "line n. 线",
-          "underline v. 划线"
+          "underline v. 划线",
+          "underlined v. underline 的过去式／过去分词",
+          "underlining n./v. 划线；强调"
         ],
         "usage": "本文为实际读书动作。anything glorious to underline 中 to underline 后的宾语位置由 anything 对应。",
         "sources": [
@@ -10822,7 +10854,8 @@
         ],
         "family": [
           "aroma n. 香气",
-          "aromatic adj. 芳香的"
+          "aromatic adj. 芳香的",
+          "aromatically adv. 芳香地"
         ],
         "usage": "本文 the aroma of life 为通感式隐喻，指生命的吸引力，不是真有一种固定气味。",
         "sources": [
@@ -10891,7 +10924,9 @@
         ],
         "family": [
           "melancholy n. 忧郁",
-          "melancholy adj. 忧郁的"
+          "melancholy adj. 忧郁的",
+          "melancholic adj./n. 忧郁的；忧郁症患者",
+          "melancholia n. 忧郁；忧郁症"
         ],
         "usage": "本文是 after about two years of melancholy，名词。不能仅凭这个词作医学诊断。",
         "sources": [
@@ -10925,7 +10960,9 @@
           "come over：过来拜访。"
         ],
         "family": [
-          "come v. 来（came—come）"
+          "come v. 来（came—come）",
+          "came v. come 的过去式",
+          "coming n./adj./v. 来临；即将到来的；come 的 -ing 形式"
         ],
         "usage": "本文“一百年才遇到一个这样的室友”是夸张的赞叹。不是催促 Come along!，也不是“跟随”。",
         "sources": [
@@ -14312,10 +14349,10 @@
         "paragraphStart": 261,
         "paragraphEnd": 355,
         "reuse": {
-          "pattern": "___ gives it up to ___ and goes off to ___.",
-          "zh": "他把钥匙交给经理，然后离开去找同事。",
-          "en": "He gives it up to the manager and goes off to find his colleague.",
-          "note": "it 承接语境中的钥匙；give up 在此表示交出。"
+          "pattern": "___ gives ___ to ___ and goes off to ___.",
+          "zh": "他把车票交给检票员，然后去找自己的站台。",
+          "en": "He gives his ticket to the inspector and goes off to find his platform.",
+          "note": "give something to someone 表示把某物交给某人。"
         },
         "pdfNotes": [
           {
@@ -15344,9 +15381,9 @@
         "paragraphStart": 601,
         "paragraphEnd": 701,
         "reuse": {
-          "pattern": "___ is ___, but ___ is now ___ with ___.",
-          "zh": "他的姓氏是法语姓氏，但他现在是使用英国护照的英国公民。",
-          "en": "His surname is French, but he is now a British citizen with a British passport."
+          "pattern": "___ came from ___, but ___ is now ___ with ___.",
+          "zh": "她的家人来自西班牙，但她现在是持英国护照的英国公民。",
+          "en": "Her family came from Spain, but she is now a British citizen with a British passport."
         },
         "pdfNotes": [
           {
@@ -15822,8 +15859,8 @@
         "paragraphEnd": 278,
         "reuse": {
           "pattern": "You don't know how to ___ yet, but I'm taking you to ___.",
-          "zh": "你还不知道怎样攀岩，但周六我会带你去上一节课。",
-          "en": "You don't know how to climb yet, but I'm taking you to a lesson on Saturday."
+          "zh": "你还不会游泳，不过周六我会带你去上课。",
+          "en": "You don't know how to swim yet, but I'm taking you to a lesson on Saturday."
         },
         "pdfNotes": [
           {
@@ -16541,7 +16578,10 @@
           "seat：单个座位。"
         ],
         "family": [
-          "compartment n. 隔间"
+          "compartment n. 隔间",
+          "compartmental adj. 分隔的；分区的",
+          "compartmentalize v. 分隔；划分",
+          "compartmentalization n. 分隔；划分"
         ],
         "usage": "本文 first-class compartments 指一等车厢隔间，和 reserved seats“预订座位”不是同一概念。",
         "sources": [
@@ -16765,7 +16805,9 @@
         ],
         "family": [
           "crook n. 弯处／骗子",
-          "crooked adj. 歪的"
+          "crooked adj. 歪的",
+          "crookedly adv. 歪斜地；不正当地",
+          "crookedness n. 弯曲；不正"
         ],
         "usage": "形容词词尾读 /ɪd/，有两个音节。本文指鼻子外形，不能由此译成“奸诈的鼻子”。",
         "sources": [
@@ -16803,7 +16845,9 @@
         ],
         "family": [
           "frown n. 皱眉",
-          "frown v. 皱眉"
+          "frown v. 皱眉",
+          "frowned v. frown 的过去式／过去分词",
+          "frowning n./adj. 皱眉；皱眉的"
         ],
         "usage": "frown on/upon 是“不赞成”，不是字面朝某物皱眉。本文 is frowning 表当时的面部动作。",
         "sources": [
@@ -17102,7 +17146,8 @@
           "appearance：外表整体。"
         ],
         "family": [
-          "complexion n. 面色"
+          "complexion n. 面色",
+          "complexioned adj. ……肤色的（常用于复合修饰语）"
         ],
         "usage": "不要与 complexity“复杂性”混淆。pale complexion 不能单独证明健康或经济状况。",
         "sources": [
@@ -17209,7 +17254,9 @@
           "widower：妻子已去世的男子。"
         ],
         "family": [
-          "bachelor n. 未婚男子／学士"
+          "bachelor n. 未婚男子／学士",
+          "bachelorhood n. 单身生活；学士身份",
+          "bachelorette n. 未婚女子；单身女性"
         ],
         "usage": "本文不是大学“学士”。揭示他未婚，推翻 Matti 想象出的妻子和一再增加的孩子。",
         "sources": [
@@ -17793,10 +17840,10 @@
         "paragraphStart": 27,
         "paragraphEnd": 141,
         "reuse": {
-          "pattern": "___ pounded on ___ while ___, so at first ___ thought ___ ___.",
-          "zh": "他在雷声响起时猛敲门，所以起初我把敲门声当成了雷声。",
-          "en": "He pounded on the door while thunder rolled, so at first I thought the knocking only thunder.",
-          "note": "think + 宾语 + 名词补足语在此偏文学；日常可说 I thought the knocking was only thunder。"
+          "pattern": "___ knocked hard while ___ rumbled, so at first ___ thought it was ___.",
+          "zh": "他猛敲门时，雷声也在轰鸣，所以我起初以为那只是雷声。",
+          "en": "He knocked hard while thunder rumbled, so at first I thought it was just the thunder.",
+          "note": "while 引出同时发生的背景；think it was ... 表示把眼前声音误认为雷声。"
         },
         "pdfNotes": [
           {
@@ -18239,10 +18286,10 @@
         "paragraphStart": 144,
         "paragraphEnd": 239,
         "reuse": {
-          "pattern": "___ spread over ___ so ___ was ___.",
-          "zh": "一条厚毯子铺在椅子上，因此座位很暖和。",
-          "en": "A thick blanket spread over the chair so the seat was warm.",
-          "note": "spread 与原形同形，这里是过去式谓语。"
+          "pattern": "A thick ___ was spread over ___, keeping ___.",
+          "zh": "椅子上铺着一条厚毯子，让座位保持温暖。",
+          "en": "A thick blanket was spread over the chair, keeping the seat warm.",
+          "note": "be spread over 表示铺在……上；keeping the seat warm 是结果补充。"
         },
         "pdfNotes": [
           {
@@ -18354,9 +18401,9 @@
         "paragraphStart": 43,
         "paragraphEnd": 114,
         "reuse": {
-          "pattern": "___ questioned as ___ picked ___ off ___.",
-          "zh": "她一边从桌上拿起信，一边询问。",
-          "en": "She questioned as she picked the letter off the table."
+          "pattern": "___ asked as ___ picked up ___.",
+          "zh": "她一边从桌上拿起信，一边问道。",
+          "en": "She asked as she picked up the letter from the table."
         },
         "pdfNotes": [
           {
@@ -21510,10 +21557,10 @@
         "paragraphStart": 19,
         "paragraphEnd": 92,
         "reuse": {
-          "pattern": "___ left, taking away ___, like ___.",
-          "zh": "他离开了，带走了她的平静，像一阵突来的风。",
-          "en": "He left, taking away her calm, like a sudden gust of wind.",
-          "note": "把文学片段接回主句；taking 的动作仍由 he 完成。"
+          "pattern": "After ___, ___ sat back, taking ___.",
+          "zh": "晚饭后，他端着一杯茶坐下来，悠闲地休息。",
+          "en": "After dinner, he sat back, taking his ease with a cup of tea.",
+          "note": "take one's ease 表示放松休息；现在分词补充主语 he 的伴随动作。"
         },
         "pdfNotes": [
           {
@@ -22571,7 +22618,8 @@
           "matchmaker：撮合婚姻或恋爱。"
         ],
         "family": [
-          "go-between n. 中间人"
+          "go-between n. 中间人",
+          "go-betweens n. go-between 的复数形式"
         ],
         "usage": "复数 go-betweens。本文涉及传统提亲方式，不是所有 go-between 都是媒人。",
         "sources": [
@@ -22721,7 +22769,8 @@
           "porch：入口门廊。"
         ],
         "family": [
-          "veranda n. 廊台（亦拼 verandah）"
+          "veranda n. 廊台（亦拼 verandah）",
+          "verandas / verandahs n. veranda 的复数形式"
         ],
         "usage": "不同建筑与文化中的形式不完全一致；本文先把握它是宅外与室内之间的过渡空间。",
         "sources": [
@@ -22794,7 +22843,9 @@
           "shuffle：拖着脚步走。"
         ],
         "family": [
-          "scuttle v. 碎步疾走"
+          "scuttle v. 碎步疾走",
+          "scuttled v. scuttle 的过去式／过去分词",
+          "scuttling n./v. 碎步疾走；急速移动"
         ],
         "usage": "本文 scuttling 修饰 footsteps。scuttle 另有“使船沉没／破坏计划”义，不适用于这里。",
         "sources": [
@@ -23086,7 +23137,9 @@
           "wrap：从外面包裹。"
         ],
         "family": [
-          "tuck v. 塞好／掖好"
+          "tuck v. 塞好／掖好",
+          "tucked v. tuck 的过去式／过去分词",
+          "tucking n./v. 掖好；塞入"
         ],
         "usage": "本文 legs were tucked inside 说明腿藏进被子保暖。过去式 tucked，不双写 k。",
         "sources": [
@@ -23164,7 +23217,9 @@
         "family": [
           "dentist n. 牙医",
           "dentistry n. 牙科",
-          "dental adj. 牙科的"
+          "dental adj. 牙科的",
+          "lacquered adj./v. 涂漆的；lacquer 的过去式／过去分词",
+          "lacquering n./v. 上漆；涂漆"
         ],
         "usage": "dental 是形容词，dentist 才是人。本文出现在名片的院校名称中。",
         "sources": [
@@ -23238,7 +23293,9 @@
         ],
         "family": [
           "glisten v. 闪亮",
-          "glistening adj. 闪光的"
+          "glistening adj. 闪光的",
+          "glistened v. glisten 的过去式／过去分词",
+          "glistening adj./n. 闪亮的；闪光"
         ],
         "usage": "t 不发音。本文 glistening 修饰 surface，雨水让地面能映出来客的影子。",
         "sources": [
@@ -23384,7 +23441,10 @@
         ],
         "family": [
           "straighten v. 弄直",
-          "straight adj. 直的"
+          "straight adj. 直的",
+          "straight adj. 直的；笔直的",
+          "straightness n. 笔直；正直",
+          "straightening n./v. 弄直；挺直"
         ],
         "usage": "本文是 Akira 鞠躬后直起身，不是“纠正她”。不及物用法，没有宾语。",
         "sources": [
@@ -23459,7 +23519,9 @@
         ],
         "family": [
           "peek n. 一瞥",
-          "peek v. 偷看"
+          "peek v. 偷看",
+          "peeked v. peek 的过去式／过去分词",
+          "peeking n./v. 偷看；窥视"
         ],
         "usage": "peek at 后接对象。不要混淆 peak“顶峰”或 pique“激起”；本文 stole a peek 指悄悄瞥了一眼。",
         "sources": [
@@ -23577,7 +23639,9 @@
         ],
         "family": [
           "mother n. 母亲（相关基础词）",
-          "maternal adj. 母性的"
+          "maternal adj. 母性的",
+          "maternity n. 母亲身份；孕产期",
+          "maternally adv. 母亲般地；母系地"
         ],
         "usage": "maternal amusement 指把来客当孩子时的母亲式莞尔，带居高临下的温柔；不是说来客真的就是她儿子。",
         "sources": [
@@ -23650,7 +23714,10 @@
         ],
         "family": [
           "blush n. 脸红",
-          "blush v. 脸红"
+          "blush v. 脸红",
+          "blushed v. blush 的过去式／过去分词",
+          "blushing n./adj. 脸红；脸红的",
+          "blusher n. 腮红；脸红的人"
         ],
         "usage": "不及物；不要写 blush his face。本文没有明说唯一原因，可理解为提亲时羞赧或局促。",
         "sources": [
@@ -23831,7 +23898,9 @@
         ],
         "family": [
           "consent n. 同意",
-          "consent v. 同意"
+          "consent v. 同意",
+          "consented v. consent 的过去式／过去分词",
+          "consenting adj./v. 同意的；同意"
         ],
         "usage": "名词常不可数；动词 consent to something / to do something 均可。本文是母亲对婚事的许可，不与赞赏来客混同。",
         "sources": [

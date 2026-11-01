@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useRef, useState, type CSSProperties, type PointerEvent as ReactPointerEvent, type ReactNode } from "react";
-import classification from "../public/sentence-badges/article01-classification.json";
 import { toMediaUrl } from "./mediaUrl";
 import "./article-one-notebook.css";
 
@@ -21,17 +20,11 @@ function Icon({ name }: { name: string }) {
   return <img className="notebook-icon" src={`/sentence-studio/icons/${name}.svg`} alt="" aria-hidden="true" width="24" height="24"/>;
 }
 
-export type SentenceClassification = { type: string; badge: string; label: string; priorityLabel: string; reason: string; note: string };
-export function SentenceBadge({ sentence, compact = false, entry: suppliedEntry, hideClassificationLabel = false }: { sentence: number; compact?: boolean; entry?: SentenceClassification; hideClassificationLabel?: boolean }) {
-  const entry = suppliedEntry ?? classification.sentences[sentence - 1];
-  if (!entry) return null;
-  return <div className={`notebook-badge${compact ? " is-compact" : ""}`} data-sentence-type={entry.type}>
-    <img src={toMediaUrl(`/sentence-badges/${entry.badge}-cat.png`)} alt="" width={compact ? 76 : 154} height={compact ? 45 : 86}/>
-    {!hideClassificationLabel && <details>
-      <summary>{entry.label}<span> · {entry.priorityLabel}</span></summary>
-      <div><p>{entry.reason}</p><p>{entry.note}</p><small>{classification.convention}</small></div>
-    </details>}
-  </div>;
+export type SentenceClassification = { type: string; badge: string; label: string; priorityLabel: string; reason: string; note: string; studyLevel?: "simple" | "long" };
+export function SentenceBadge({ sentence, compact, entry }: { sentence: number; compact?: boolean; entry?: SentenceClassification; hideClassificationLabel?: boolean }) {
+  const simple = (entry?.studyLevel ?? (entry?.type === "simple" ? "simple" : "long")) === "simple";
+  const label = simple ? "Simple sentence" : "Long or difficult sentence";
+  return <span className={`notebook-badge sentence-kind-badge${compact ? " is-compact" : ""}`} data-sentence-id={sentence} role="img" aria-label={label} title={label}><img src={`https://assets.negentropylearning.com.cn/sentence-badges/${simple ? "simple" : "complex"}-cat.png`} alt=""/></span>;
 }
 
 function SentencePlayer({ sentence, hidden, audioSrc }: { sentence: number; hidden: boolean; audioSrc?: string }) {
@@ -172,11 +165,11 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
             </div>
             <SentencePlayer key={`${articleId}-${selected}`} sentence={selected + 1} hidden={isBack} audioSrc={audioSrc}/>
             <div className="notebook-draw-row">
-              <section className={`notebook-draw${drawing ? " is-drawing" : ""}`} aria-label="抽学号">
-                <button type="button" className={`notebook-draw-cat${catDragging ? " is-cat-dragging" : ""}`} onClick={clickCat} onPointerDown={beginCatDrag} onPointerMove={moveCat} onPointerUp={finishCatDrag} onPointerCancel={finishCatDrag} disabled={drawing} aria-label="拖动小猫调整位置，松开后自动保存；点击小猫抽取学号" style={{ "--cat-offset-x": `${catPosition.x}px`, "--cat-offset-y": `${catPosition.y}px` } as CSSProperties}><img src={catSrc} alt={articleId === "01" ? "戴博士帽的小猫，双爪扶着卡片上沿" : `第 ${Number(articleId)} 篇的主题小猫`} width="84" height="84"/></button>
-                <div className="notebook-draw-main"><div><span>{isArticle01 ? "Student ID" : "本次学号"}</span><output aria-live="polite" aria-atomic="true">{drawing ? "··" : drawn === null ? "—" : String(drawn).padStart(2, "0")}</output></div><button type="button" onClick={draw} disabled={drawing}>{drawing ? (isArticle01 ? "Drawing" : "抽取中") : drawn === null ? (isArticle01 ? "Draw student ID" : "抽取学号") : (isArticle01 ? "Again" : "再抽一次")}<Icon name="refresh"/></button></div>
-                <div className="notebook-draw-bottom"><small>{isArticle01 ? "The first seven times" : "01–50 · 最近7次不重复"}</small><button type="button" className="notebook-cat-reset" onClick={resetCatPosition}>{isArticle01 ? "Reset" : "Reset cat"}</button><details><summary>{isArticle01 ? "Record" : "记录"}</summary><div className="notebook-draw-history"><p>{history.length ? history.map(n => String(n).padStart(2, "0")).join(" · ") : (isArticle01 ? "No draws yet" : "还没有抽号记录")}</p><button type="button" onClick={clearDraws} disabled={!history.length && !drawing}>{isArticle01 ? "Clear history" : "清空记录"}</button></div></details></div>
-                {catSaved && <small className="notebook-cat-saved" role="status">位置已保存</small>}
+              <section className={`notebook-draw${drawing ? " is-drawing" : ""}`} aria-label="Student ID draw card">
+                <button type="button" className={`notebook-draw-cat${catDragging ? " is-cat-dragging" : ""}`} onClick={clickCat} onPointerDown={beginCatDrag} onPointerMove={moveCat} onPointerUp={finishCatDrag} onPointerCancel={finishCatDrag} disabled={drawing} aria-label="Drag the cat to adjust its position; release to save, or click to draw a student ID" style={{ "--cat-offset-x": `${catPosition.x}px`, "--cat-offset-y": `${catPosition.y}px` } as CSSProperties}><img src={catSrc} alt={articleId === "01" ? "Cat in a graduation cap holding the card" : `Theme cat for article ${Number(articleId)}`} width="84" height="84"/></button>
+                <div className="notebook-draw-main"><div><span>Student ID</span><output aria-live="polite" aria-atomic="true">{drawing ? "··" : drawn === null ? "—" : String(drawn).padStart(2, "0")}</output></div><button type="button" onClick={draw} disabled={drawing}>{drawing ? "Drawing" : drawn === null ? "Draw student ID" : "Draw again"}<Icon name="refresh"/></button></div>
+                <div className="notebook-draw-bottom"><small>01–50 · no repeats among the last 7</small><button type="button" className="notebook-cat-reset" onClick={resetCatPosition}>Reset cat</button><details><summary>History</summary><div className="notebook-draw-history"><p>{history.length ? history.map(n => String(n).padStart(2, "0")).join(" · ") : "No draws yet"}</p><button type="button" onClick={clearDraws} disabled={!history.length && !drawing}>Clear history</button></div></details></div>
+                {catSaved && <small className="notebook-cat-saved" role="status">Position saved</small>}
               </section>
             </div>
           </> : <>
