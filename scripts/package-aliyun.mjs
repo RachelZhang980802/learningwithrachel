@@ -19,6 +19,9 @@ await cp(publicRoot,resolve(bundle,'public'),{recursive:true,filter:async p=>{
   const rel=relative(publicRoot,p).replaceAll('\\','/');
   if(basename(p)==='.DS_Store'||rel==='qa'||rel.startsWith('qa/'))return false;
   if((await stat(p)).isDirectory())return true;
+  // Mindmap pages are self-contained static apps. Keep their modules, data,
+  // fonts and artwork version-matched with the HTML instead of redirecting to R2.
+  if(rel.startsWith('mindmaps/'))return true;
   if(routes.some(test=>test('/'+encodeURI(rel)))){omitted++;return false;}
   return true;
 }});

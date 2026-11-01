@@ -41,6 +41,11 @@ for attempt in {1..30}; do
 done
 [[ "$ready" == 1 ]]
 curl --noproxy '*' -fsS http://127.0.0.1:8080/western-culture/greece-rome.html | grep -F 'early-greece-lilies-background.webp' >/dev/null
+# The mindmap HTML imports local modules and data; verify these are present
+# before accepting a release, so a missing R2 object cannot leave a blank canvas.
+for path in /mindmaps/app.js /mindmaps/worksheets.js /mindmaps/corrections.js /mindmaps/data/02.json /mindmaps/data/worksheets.json; do
+  curl --noproxy '*' -fsS "http://127.0.0.1:8080$path" -o /dev/null
+done
 # Production HTTPS is protected by Nginx Basic Auth. Accept 401 here as
 # evidence that the TLS virtual host responds; the app itself is checked above.
 check_protected_site() {
