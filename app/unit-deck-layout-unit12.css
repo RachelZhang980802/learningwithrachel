@@ -72,10 +72,12 @@
 .narrative-course [data-deck-text-id="u2-p14-b8"] > span:nth-child(2) { top: 0 !important; }
 .narrative-course [data-deck-text-id="u2-p14-b8"] > span:nth-child(3) { top: 3cqw !important; }
 
-/* The Chekhov quotation stays fully to the right of his portrait. */
+/* The Chekhov adaptation flows as two complete lines beside the portrait. */
 .narrative-course [data-deck-text-id="u2-p36-b0"] {
   left: 40.5% !important; top: 16cqw !important;
-  transform: scale(.73); transform-origin: top left;
+  width: 51.5cqw !important; height: auto !important;
+  transform: none; white-space: normal;
+  color: #304c47; font: 3cqw/1.36 Georgia, serif;
 }
 .narrative-course [data-deck-text-id="u2-p36-b1"] {
   left: 63% !important; top: 25cqw !important;
