@@ -11,11 +11,9 @@
         "a foodie blog 美食博客"
       ],
       "compare": [
-        "foodie：喜欢探索食物，不必具备专业资格",
-        "gourmet：强调精细饮食与鉴赏品味",
-        "glutton：贪吃的人，重点是吃得过量"
+        "foodie 与 gourmet 都指关注美食的人；foodie 更口语，重在兴趣与探索，gourmet 更突出精细品味或鉴赏。"
       ],
-      "usage": "本词出现在标题，词汇卡安排在开篇；不是“厨师”的同义词。也拼 foody。",
+      "usage": "foodie 是可数名词，可说 a foodie、foodies；也可作定语，如 a foodie blog。标题中指对食物感兴趣的人，不等于专业厨师。",
       "ipa": "/ˈfuːdi/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -23,14 +21,13 @@
       "dictionaryExample": null,
       "otherMeanings": [
         {
-          "english": "having or showing great interest in cooking and eating different kinds of food",
-          "chinese": "美食家",
+          "english": "foodie (adjective): connected with people who enjoy food and cooking",
+          "chinese": "美食相关的；面向美食爱好者的",
           "exampleEnglish": "a foodie blog",
           "exampleChinese": "美食博客"
         }
       ],
-      "otherMeaningsStatus": "present",
-      "sourceCaveat": "foodie 出现在本文标题，以下语境义对应标题中的名词用法。"
+      "otherMeaningsStatus": "present"
     },
     "3": {
       "word": "bizarre",
@@ -43,9 +40,7 @@
         "a bizarre combination 古怪的组合"
       ],
       "compare": [
-        "bizarre：明显违反通常预期，令人诧异",
-        "strange：一般的陌生或不寻常",
-        "exotic：因外来背景而显得新奇，不必离奇"
+        "bizarre 与 strange 都表不同寻常；bizarre 程度更强，常让人觉得荒诞或难以理解。"
       ],
       "usage": "原文加引号，标出媒体给食材贴的标签；不是作者承认自己的食物本质怪异。bizarre 不一定令人恐惧，也不能只按强弱解释与 exotic 的差别。",
       "ipa": "/bɪˈzɑː/",
@@ -58,7 +53,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "bizarre",
+      "family": [
+        "bizarrely adv. 怪异地；离奇地"
+      ]
     },
     "4": {
       "word": "exotic",
@@ -70,11 +69,7 @@
         "exotic plants 外来奇异植物",
         "an exotic destination 有异域情调的目的地"
       ],
-      "compare": [
-        "exotic：突出外来、异域的新奇感",
-        "foreign：来自别国，较客观",
-        "unfamiliar：对观察者不熟悉，不必来自国外"
-      ],
+      "compare": [],
       "usage": "形容人或整种文化时可能把对方当作“异类”，要看语境。本文引号批评这种观看方式；不要把 exotic 当“低级”或“不卫生”。",
       "ipa": "/ɪɡˈzɒtɪk/",
       "partOfSpeech": "adj.",
@@ -86,7 +81,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "exotic",
+      "family": [
+        "exotically adv. 带异国情调地",
+        "exoticism n. 异域风情；异国情调"
+      ]
     },
     "5": {
       "word": "ingredient",
@@ -99,9 +99,7 @@
         "an ingredient in success 成功的一个要素"
       ],
       "compare": [
-        "ingredient：做菜、配制时投入的材料",
-        "dish：烹调后的菜",
-        "component：设备或整体的构成部分，不专指食物"
+        "ingredient 与 component 都指构成整体的部分；ingredient 主要用于食物、配方，也可比喻成功要素；component 更常用于机器、系统。"
       ],
       "usage": "可数；a list of ingredients。ingredient、cuisine、dish 分别是材料、菜系和菜品，不宜都译为“食物”。",
       "ipa": "/ɪnˈɡriːdiənt/",
@@ -133,7 +131,7 @@
         "risks associated with smoking 与吸烟有关的风险"
       ],
       "compare": [
-        "be associated with 强调关联；be caused by 明确主张因果。"
+        "be associated with 与 be linked to 都表有关联；前者更正式，后者更常见于报道。"
       ],
       "usage": "原句 it 指被称为“怪异”的食材；associated with 后接名词或 -ing，并不单凭关联推出因果。",
       "ipa": "/əˈsəʊsieɪtɪd/, /əˈsəʊʃieɪtɪd/",
@@ -154,16 +152,21 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
       "family": [
-        "associated adj./v. 有关的；associate 的过去式／过去分词",
-        "associating n./v. 联系；associate 的 -ing 形式",
-        "association n. 联系；协会",
-        "associative adj. 联想的；关联的",
-        "unassociated adj. 无关联的"
+        "association n. 联系；关联",
+        "associated adj. 相关联的",
+        "associative adj. 联想的；关联的"
       ],
-      "wordFamilyNote": "The phrase is built around associate; the branches show common noun and adjective forms.",
-      "wordFamilyRoot": "associate"
+      "wordFamilyRoot": "associate",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "associated",
+            "associative"
+          ],
+          "distinction": "associated 指已经与某事发生联系的人或物；associative 更常描述依靠联想运作的思维或过程，如 associative memory。"
+        }
+      ]
     },
     "6": {
       "word": "stinky",
@@ -176,22 +179,29 @@
         "stinky socks 臭袜子"
       ],
       "compare": [
-        "stinky：口语化、直接说臭",
-        "smelly：一般说气味难闻",
-        "pungent：气味或味道强烈刺鼻，不一定难闻"
+        "stinky 与 smelly 都可说气味难闻；stinky 更口语，厌恶语气更强。"
       ],
       "usage": "stinky tofu 是常见食物名称；有强烈气味不等于腐败变质。stink–stank/stunk–stunk。",
       "ipa": "/ˈstɪŋki/",
       "partOfSpeech": "adj.，口语",
       "oxfordExcerptProvided": true,
       "articleExample": "And it seems like whenever there is a \"bizarre\" or \"exotic\" cooking ingredient, it's associated with foods from my culture and childhood, for example 100-year-old egg or stinky tofu.",
-      "dictionaryExample": {
-        "english": "extremely unpleasant or bad",
-        "chinese": "令人厌恶的；糟糕透顶的",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "stink",
+      "family": [
+        "stinky adj. 难闻的；臭的",
+        "stinking adj. 臭气熏天的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "stinky",
+            "stinking"
+          ],
+          "distinction": "stinky 是口语中形容气味难闻；stinking 常表示臭味更强，也能在非正式语境中加强负面评价。"
+        }
+      ]
     },
     "7": {
       "word": "spectacle / make a spectacle out of",
@@ -204,20 +214,13 @@
         "make a spectacle of oneself 当众出丑"
       ],
       "compare": [
-        "spectacle：重在吸引围观，可褒可贬",
-        "show：展示或表演的一般名称",
-        "scandal：引起公愤的丑闻，不只是吸睛"
+        "spectacle 与 show／display 都可指引人观看的场面；spectacle 更强调强烈视觉效果或被人围观，可褒可贬。"
       ],
       "usage": "本文 make a spectacle out of 是用常见 make … out of … 构成的批评性表达。眼镜义是复数 spectacles，不是单数 a spectacle。",
       "ipa": "/ˈspektəkəl/",
       "partOfSpeech": "noun / verb phrase",
       "oxfordExcerptProvided": true,
       "articleExample": "Mainstream media has made a spectacle out of foods from seemingly exotic places, and I've also observed a lot of White chefs create \"Asian-inspired\" dishes.",
-      "dictionaryExample": {
-        "english": "I remember the sad spectacle of her standing in her wedding dress, covered in mud.",
-        "chinese": "我记得她穿着婚纱、满身泥污站在那儿的凄惨样。",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [
         {
           "english": "a performance or an event that is very impressive and exciting to look at",
@@ -233,14 +236,11 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录提供 spectacle 的名词义，未单列 make a spectacle out of；整句的“把……当猎奇看点”按原文整理。",
       "family": [
         "spectacular adj. 壮观的；引人注目的",
         "spectacularly adv. 壮观地；惊人地",
-        "spectator n. 观众；旁观者",
-        "spectate v. 观看比赛"
+        "spectator n. 观众；旁观者"
       ],
-      "wordFamilyNote": "The expandable word is spectacle; spectacular and spectator are common related forms.",
       "wordFamilyRoot": "spectacle"
     },
     "46": {
@@ -253,7 +253,7 @@
         "a seemingly simple question 看似简单的问题"
       ],
       "compare": [
-        "seemingly 留有“实际未必如此”的余地；clearly 表示判断明确。"
+        "seemingly 与 apparently 都可表“表面看来”；seemingly 更易暗示事实可能不同，apparently 也可表“据所知”。"
       ],
       "usage": "修饰 exotic，提醒读者“异域”是媒体的观看方式，不是地点本身的属性。",
       "ipa": "/ˈsiːmɪŋli/",
@@ -273,7 +273,12 @@
           "exampleChinese": "据说，他从银行贷出了那笔钱。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "seem",
+      "family": [
+        "seeming adj. 表面上的；看似的",
+        "seemingly adv. 看似；表面上"
+      ]
     },
     "48": {
       "word": "chef",
@@ -285,7 +290,7 @@
         "a head chef 主厨"
       ],
       "compare": [
-        "chef 是职业厨师；cook 也可指任何做饭的人。"
+        "chef 与 cook 都指做饭的人；chef 通常是专业厨师，尤其在餐馆；cook 范围更广，也可指家庭做饭者。"
       ],
       "usage": "原句的 White chefs 是作者论述文化权力关系时指出的群体，大小写照录原文。",
       "ipa": "/ʃef/",
@@ -311,9 +316,7 @@
         "Asian-fusion restaurants 亚洲融合菜餐厅"
       ],
       "compare": [
-        "fusion：多种元素结合成新形式",
-        "mixture：混合物，元素可以保持分离",
-        "assimilation：一方逐渐融入另一方，可能失去差异"
+        "fusion 与 blend 都指不同元素融合；fusion 强调形成新风格，blend 更重混合后的整体。"
       ],
       "usage": "Asian-fusion 是修饰语，不是覆盖全亚洲的单一传统菜系。作者批评忽略差异的包装，不等于所有融合菜都错。",
       "ipa": "/ˈfjuːʒən/",
@@ -337,7 +340,12 @@
           "chinese": "合成音乐，混合音乐（尤指爵士乐和摇滚乐）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "fuse",
+      "family": [
+        "fusion n. 融合；结合",
+        "fused adj. 融合的；结合的"
+      ]
     },
     "47": {
       "word": "themed",
@@ -348,9 +356,7 @@
         "themed restaurants 主题餐馆",
         "a themed event 主题活动"
       ],
-      "compare": [
-        "themed 强调围绕主题设计；traditional 强调传承。"
-      ],
+      "compare": [],
       "usage": "在 Asian-fusion themed restaurants 中修饰 restaurants；连字符复合修饰语宜整体理解。",
       "ipa": "/θiːmd/",
       "partOfSpeech": "adjective",
@@ -362,7 +368,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "theme",
+      "family": [
+        "themed adj. 围绕特定主题的",
+        "thematic adj. 主题的；与主题有关的",
+        "thematically adv. 从主题上"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "themed",
+            "thematic"
+          ],
+          "distinction": "themed 常形容餐厅、派对等特意按一个主题布置；thematic 常形容文章、研究或作品的主题内容。"
+        }
+      ]
     },
     "49": {
       "word": "diverse",
@@ -374,7 +395,7 @@
         "diverse cultures 多元文化"
       ],
       "compare": [
-        "diverse 强调内部种类多；different 仅表示有差异。"
+        "diverse 与 varied 都表种类多；diverse 强调成员差异明显，varied 强调形式多样。"
       ],
       "usage": "原句强调亚洲内部的丰富差异，因此不能把多种菜系概括成一种统一风味。",
       "ipa": "/daɪˈvɜːrs/",
@@ -390,9 +411,18 @@
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
         "diversity n. 多样性；差异",
-        "diversify v. 使多样化；多样化经营",
-        "diversified adj. 多样化的",
-        "diversely adv. 多样地"
+        "diversify v. 使多样化",
+        "diversified adj. 多样化的"
+      ],
+      "wordFamilyRoot": "diverse",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "diverse",
+            "diversified"
+          ],
+          "distinction": "diverse 说明现有成员种类不同；diversified 强调经过扩展或调整后变得多样，常用于产业或投资组合。"
+        }
       ]
     },
     "50": {
@@ -404,9 +434,7 @@
         "the continent of Asia 亚洲大陆",
         "across the continent 遍及该洲"
       ],
-      "compare": [
-        "continent 是大洲；country 是国家。"
-      ],
+      "compare": [],
       "usage": "Asia 是一个 continent，不是单一国家或菜系。",
       "ipa": "/ˈkɑːntɪnənt/",
       "partOfSpeech": "noun",
@@ -425,9 +453,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "continental adj. 大陆的；欧洲大陆的",
-        "continentally adv. 在大陆范围内"
-      ]
+        "continental adj. 大陆的；洲的"
+      ],
+      "wordFamilyRoot": "continent"
     },
     "51": {
       "word": "sinking",
@@ -438,9 +466,7 @@
         "a sinking suspicion 不祥的预感",
         "a sinking feeling 心里一沉的感觉"
       ],
-      "compare": [
-        "sinking suspicion 是不安的预感；certainty 表示确定。"
-      ],
+      "compare": [],
       "usage": "原句 a sinking suspicion 引出作者对“改造版”寿司的怀疑，并非真的下沉。",
       "ipa": "/ˈsɪŋkɪŋ/",
       "partOfSpeech": "adjective",
@@ -466,13 +492,19 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
       "family": [
-        "sink v./n. 下沉；水槽",
-        "sank v. sink 的过去式",
-        "sunk v./adj. sink 的过去分词；沉没的",
-        "sunken adj. 沉没的；凹陷的",
-        "sinker n. 铅坠；下沉物"
+        "sinking adj. 突然沉下去的；令人不安的",
+        "sunken adj. 下沉的；凹陷的"
+      ],
+      "wordFamilyRoot": "sink",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "sinking",
+            "sunken"
+          ],
+          "distinction": "sinking 可形容正在下沉或心头一沉的不安；sunken 形容已经沉下或凹陷的外观。"
+        }
       ]
     },
     "9": {
@@ -486,9 +518,7 @@
         "a sinking suspicion 令人心沉下去的疑虑"
       ],
       "compare": [
-        "suspicion：隐约认为某件事可能是真的，也可带不信任",
-        "doubt：不能确信或倾向不信",
-        "evidence：支持判断的事实依据"
+        "suspicion 与 hunch 都是证据不足时的一种猜测；suspicion 常带怀疑或不信任，hunch 更像直觉预感。"
       ],
       "usage": "a suspicion that 后是说明怀疑内容的从句。sinking 给疑虑加上不安的感受；不可误换成同样常见但含义侧重不同的 sneaking suspicion。",
       "ipa": "/səˈspɪʃən/",
@@ -520,7 +550,13 @@
           "exampleChinese": "他嘴唇微微一颤，露出一丝笑意。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "suspect",
+      "family": [
+        "suspicion n. 怀疑；猜疑",
+        "suspicious adj. 怀疑的；可疑的",
+        "suspiciously adv. 怀疑地"
+      ]
     },
     "10": {
       "word": "sushi",
@@ -532,11 +568,7 @@
         "a piece of sushi 一块寿司",
         "a sushi roll 寿司卷"
       ],
-      "compare": [
-        "sushi：以调味米饭配其他食材",
-        "sashimi：生鱼等切片，通常不含寿司米饭",
-        "ramen：日式面食，不是米饭制品"
-      ],
+      "compare": [],
       "usage": "通常不可数，用 pieces of sushi。寿司不一定有生鱼；原文妈妈用黄瓜、午餐肉和鸡蛋做寿司并不构成词义矛盾。",
       "ipa": "/ˈsuːʃi/",
       "partOfSpeech": "n. [U]",
@@ -560,11 +592,7 @@
         "cucumber salad 黄瓜沙拉",
         "as cool as a cucumber 泰然自若"
       ],
-      "compare": [
-        "cucumber：黄瓜，常生吃",
-        "courgette：西葫芦，外形相似而食材不同",
-        "pickle：腌制食品，常指腌黄瓜，不是新鲜黄瓜的通称"
-      ],
+      "compare": [],
       "usage": "一根用 a cucumber；表示切片后作为食材可不可数，如 a cucumber sandwich。as cool as a cucumber 描写镇定，不是体温低。",
       "ipa": "/ˈkjuːkʌmbə/",
       "partOfSpeech": "n. [C/U]",
@@ -584,11 +612,7 @@
         "spread mayonnaise on toast 在吐司上抹蛋黄酱",
         "homemade mayonnaise 自制蛋黄酱"
       ],
-      "compare": [
-        "mayonnaise：一种特定的浓稠冷酱",
-        "dressing：沙拉调味汁的总称",
-        "sauce：酱汁的广义称呼，可冷可热"
-      ],
+      "compare": [],
       "usage": "不可数；口语常说 mayo。英式重音通常在最后一节 /neɪz/，美式常在首节。",
       "ipa": "/ˌmeɪəˈneɪz/",
       "partOfSpeech": "n. [U]",
@@ -611,18 +635,15 @@
         "pork sung on toast 吐司上的肉松",
         "mayonnaise and pork sung 蛋黄酱与肉松"
       ],
-      "compare": [
-        "pork sung 是食材；pork 是猪肉总称。"
-      ],
-      "usage": "本文的 pork sung 指肉松；粘贴词典未单列这一食品名称。",
+      "compare": [],
+      "usage": "pork sung 是食材名，通常不加复数 -s；也常称 pork floss，指调味后撕成细丝的干猪肉。",
       "ipa": "",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": false,
       "articleExample": "Or toast with mayonnaise and pork sung.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "otherMeaningsStatus": "missing_source"
     },
     "53": {
       "word": "make fun of",
@@ -634,7 +655,7 @@
         "make fun of somebody's accent 嘲笑某人的口音"
       ],
       "compare": [
-        "make fun of 带嘲弄意味；joke with 可以是友善的玩笑。"
+        "make fun of 与 mock 都指嘲笑；mock 更直接，语气往往更尖刻。"
       ],
       "usage": "make fun of 后直接接对象；过去 used to make fun of 指过去经常这样做。",
       "ipa": "/meɪk fʌn əv/",
@@ -653,7 +674,6 @@
         "funnily adv. 有趣地；滑稽地",
         "funniness n. 滑稽；可笑"
       ],
-      "wordFamilyNote": "The phrase contains fun; funny is its common adjective form.",
       "wordFamilyRoot": "fun"
     },
     "13": {
@@ -666,11 +686,7 @@
         "Spam musubi 午餐肉饭团",
         "a tin of Spam 一罐世棒午餐肉"
       ],
-      "compare": [
-        "Spam：特定品牌",
-        "luncheon meat：午餐肉的通称",
-        "ham：火腿，不等于所有罐装午餐肉"
-      ],
+      "compare": [],
       "usage": "食品义通常大写，不能把 Spam 直接定义成所有罐头肉。小写 spam 在网络语境是垃圾信息；spammed、spamming 双写 m。",
       "ipa": "/spæm/",
       "partOfSpeech": "noun",
@@ -745,9 +761,7 @@
         "appropriate money for a project 为项目拨款"
       ],
       "compare": [
-        "appropriate（v.）：把东西拿来为己所用",
-        "borrow：借用，通常认可来源或归还关系",
-        "appreciate：理解、欣赏价值，不等于占用"
+        "appropriate（动词）与 co-opt 都可指把别人的东西拿来为己用；co-opt 还强调把原本属于别人的观念或文化纳入自己体系。"
       ],
       "usage": "动词末尾 /eɪt/，形容词末尾 /ət/，重音均在 /prəʊ/，不是重音位置变化。cultural appropriation 是文化批评概念，不能机械等于任何跨文化饮食或法律盗窃。",
       "ipa": "v. /əˈprəʊprieɪt/；adj. /əˈprəʊpriət/",
@@ -773,7 +787,22 @@
           "exampleChinese": "已拨款五百万美元用于这种疾病的研究。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "appropriate",
+      "family": [
+        "appropriation n. 挪用；拨款",
+        "appropriative adj. 挪用性的",
+        "appropriated adj. 已被挪用的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "appropriative",
+            "appropriated"
+          ],
+          "distinction": "appropriative 指具有挪用性质的做法；appropriated 指已经被挪用的事物。"
+        }
+      ]
     },
     "54": {
       "word": "appropriation",
@@ -784,9 +813,7 @@
         "cultural appropriation 文化挪用",
         "food appropriation 食物文化挪用"
       ],
-      "compare": [
-        "appropriation 在本文谈文化中的取用；appreciation 是尊重与欣赏。"
-      ],
+      "compare": [],
       "usage": "原文随后给出作者采用的 cultural appropriation 定义；须结合权力关系和实际语境理解。",
       "ipa": "/əˌprəʊpriˈeɪʃn/",
       "partOfSpeech": "noun",
@@ -812,14 +839,11 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录对 appropriation 给出一般“挪用／占用”义，并提示参见 cultural appropriation；本文的文化含义据原文定义整理。",
       "family": [
-        "appropriate v./adj. 挪用；恰当的",
-        "appropriated adj./v. 被挪用的；appropriate 的过去式／过去分词",
-        "appropriating n./v. 挪用；占用",
-        "appropriateness n. 恰当；合适",
-        "appropriately adv. 恰当地"
-      ]
+        "appropriation n. 挪用；拨款",
+        "appropriative adj. 挪用性的"
+      ],
+      "wordFamilyRoot": "appropriate"
     },
     "16": {
       "word": "tricky",
@@ -832,9 +856,7 @@
         "tricky to explain 难解释清楚"
       ],
       "compare": [
-        "tricky：处理时容易出错，需要技巧",
-        "complex：构成关系复杂",
-        "difficult：泛指有难度，未必有隐藏难点"
+        "tricky 与 difficult 都表有难度；tricky 更强调容易出错、需要技巧。"
       ],
       "usage": "something is tricky to think about 中，不定式主动形式与前面的被思考对象呼应，不加重复宾语 it。trickier、trickiest 把 y 改 i。",
       "ipa": "/ˈtrɪki/",
@@ -847,7 +869,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "trick",
+      "family": [
+        "tricky adj. 棘手的；难处理的",
+        "trickiness n. 棘手；难处理"
+      ]
     },
     "17": {
       "word": "oppress",
@@ -882,7 +909,30 @@
           "exampleChinese": "办公室的低沉气氛使她感到郁闷。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "oppress",
+      "family": [
+        "oppression n. 压迫；欺压",
+        "oppressed adj. 受压迫的",
+        "oppressive adj. 压迫性的",
+        "oppressor n. 压迫者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "oppressed",
+            "oppressive"
+          ],
+          "distinction": "oppressed 描述受到压迫的人；oppressive 描述造成压迫的制度、环境或行为。"
+        },
+        {
+          "forms": [
+            "oppression",
+            "oppressor"
+          ],
+          "distinction": "oppression 是人们所承受的压迫状态，如 live under oppression；oppressor 是造成这种状态的个人或群体。"
+        }
+      ]
     },
     "55": {
       "word": "oppression",
@@ -894,7 +944,7 @@
         "systems of oppression 压迫制度"
       ],
       "compare": [
-        "oppression 指持续性不公对待；disagreement 只是意见不一。"
+        "oppression 与 persecution 都指系统性的压迫；oppression 范围更广，persecution 常指因身份或信仰受到持续迫害。"
       ],
       "usage": "without ever having to experience oppression 表示支配群体可以尝试食物而不承受相同处境。",
       "ipa": "/əˈpreʃn/",
@@ -909,11 +959,27 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "oppress v. 压迫；使烦恼",
-        "oppressed adj./v. 受压迫的；oppress 的过去式／过去分词",
-        "oppressive adj. 压迫性的；令人窒息的",
-        "oppressively adv. 压迫地；沉闷地",
+        "oppression n. 压迫；欺压",
+        "oppressed adj. 受压迫的",
+        "oppressive adj. 压迫性的",
         "oppressor n. 压迫者"
+      ],
+      "wordFamilyRoot": "oppress",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "oppression",
+            "oppressor"
+          ],
+          "distinction": "oppression 是压迫的制度、状态或行为；oppressor 是施加压迫的人或群体。"
+        },
+        {
+          "forms": [
+            "oppressed",
+            "oppressive"
+          ],
+          "distinction": "oppressed 形容承受压迫的人；oppressive 形容造成压迫的制度、环境或行为。"
+        }
       ]
     },
     "56": {
@@ -925,10 +991,8 @@
         "hand-pulled noodles 手拉面",
         "hand-pulled dough 手工拉制的面团"
       ],
-      "compare": [
-        "hand-pulled 说制作方法；handmade 泛指手工制作。"
-      ],
-      "usage": "复合形容词置于 noodles 前；粘贴词典未单列 hand-pulled。",
+      "compare": [],
+      "usage": "hand-pulled 是置于名词前的复合形容词，如 hand-pulled noodles；pulled 是 pull 的过去分词，说明制作方式。",
       "ipa": "/ˌhænd ˈpʊld/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": false,
@@ -936,7 +1000,8 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "wordFamilyRoot": "hand-pulled",
+      "family": []
     },
     "18": {
       "word": "fetishize",
@@ -948,11 +1013,7 @@
         "fetishize authenticity 过度崇拜正宗性",
         "fetishize the past 过度迷恋过去"
       ],
-      "compare": [
-        "fetishize：不成比例地迷恋某个特征或符号",
-        "admire：欣赏优点，不必失去整体认识",
-        "objectify：把人当物，忽视其主体性"
-      ],
+      "compare": [],
       "usage": "英式也写 fetishise。本文为非性意味的文化批评；不要机械译成“性癖化”，也不是所有喜欢某种食物都等于 fetishize。",
       "ipa": "/ˈfetɪʃaɪz/",
       "partOfSpeech": "verb",
@@ -965,7 +1026,23 @@
           "chinese": "对…有恋物癖"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "fetish",
+      "family": [
+        "fetishize v. 过度迷恋；物化",
+        "fetishism n. 过度迷恋；物恋",
+        "fetishization n. 过度迷恋；物化",
+        "fetishistic adj. 过度迷恋的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "fetishism",
+            "fetishization"
+          ],
+          "distinction": "fetishism 指对某对象或特征的执迷观念；fetishization 指把人或事物当成迷恋对象的过程，常强调将其简化或物化。"
+        }
+      ]
     },
     "57": {
       "word": "commercialize",
@@ -977,7 +1054,7 @@
         "commercialize a tradition 将传统商业化"
       ],
       "compare": [
-        "commercialize 强调转为营利活动；popularize 只强调传播。"
+        "commercialize 与 monetize 都涉及通过事物获利；commercialize 强调投入商业市场，monetize 强调设计收入来源。"
       ],
       "usage": "与 fetishize 并列，指支配群体利用他人的饮食文化牟利。",
       "ipa": "/kəˈmɜːrʃəlaɪz/",
@@ -992,10 +1069,11 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "commercialization / commercialisation n. 商业化",
-        "commercial adj. 商业的；商业化的",
-        "commercially adv. 商业上；以营利为目的地"
-      ]
+        "commercialize v. 使商业化",
+        "commercialization n. 商业化",
+        "commercially adv. 商业上；营利性地"
+      ],
+      "wordFamilyRoot": "commercial"
     },
     "19": {
       "word": "hoard",
@@ -1008,9 +1086,7 @@
         "a hoard of coins 一批珍藏硬币"
       ],
       "compare": [
-        "hoard：收存并留给自己，常带过量或不分享意味",
-        "store：一般储存",
-        "stockpile：为未来需要大量储备，不必是个人私藏"
+        "hoard 与 stockpile 都指大量储备；hoard 常暗示私藏或不分享，stockpile 可是有计划地备货。"
       ],
       "usage": "hoard access 是本文的比喻性组合，指把持取得食物或资源的渠道，不能只译成在仓库囤原料。horde 是“一大群人”，拼写不同。",
       "ipa": "/hɔːd/",
@@ -1030,7 +1106,21 @@
           "exampleChinese": "他们挖出一批秘藏的古罗马硬币。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "hoard",
+      "family": [
+        "hoarding n. 囤积；私藏",
+        "hoarder n. 囤积者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "hoarding",
+            "hoarder"
+          ],
+          "distinction": "hoarding 指囤积行为，如 hoarding food during a shortage；hoarder 是反复囤积物品的人，不能指被囤积的东西。"
+        }
+      ]
     },
     "20": {
       "word": "reduce sth. to sth.",
@@ -1043,9 +1133,7 @@
         "be reduced to tears 被弄哭"
       ],
       "compare": [
-        "reduce A to B：改变或压缩到某状态，常丢失复杂性",
-        "summarize：提炼要点，未必歪曲",
-        "represent：代表或呈现，不必缩减"
+        "reduce something to something 与 oversimplify something 都可批评把复杂事物简化；reduce to 更突出压成单一形象。"
       ],
       "usage": "to 后是结果：reduce prices to £10 为降到十镑；by £10 才是降了十镑。be reduced to doing 表落到不得不做的境地，to 是介词。",
       "ipa": "/rɪˈdjuːs/",
@@ -1076,16 +1164,21 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录列有 reduce 和 reduce to，但没有单列“把复杂事物简化为……”这一用法；语境义据原句整理。",
       "family": [
-        "reduced adj./v. 减少的；reduce 的过去式／过去分词",
-        "reducing n./v. 减少；reduce 的 -ing 形式",
-        "reduction n. 减少；降低",
-        "reducible adj. 可减少的；可简化的",
-        "irreducible adj. 不可简化的"
+        "reduction n. 减少；简化",
+        "reduced adj. 被简化的；减少的",
+        "reducible adj. 可简化的"
       ],
-      "wordFamilyNote": "The phrase is built around reduce; the branches show its common noun and adjective forms.",
-      "wordFamilyRoot": "reduce"
+      "wordFamilyRoot": "reduce",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "reduced",
+            "reducible"
+          ],
+          "distinction": "reduced 说明事物已被减少或简化；reducible 说明它能够被减少或简化，谈的是可能性而非结果。"
+        }
+      ]
     },
     "58": {
       "word": "cuisine",
@@ -1097,9 +1190,9 @@
         "traditional cuisine 传统烹饪"
       ],
       "compare": [
-        "cuisine 是烹饪风格或菜系；dish 是一道菜。"
+        "cuisine 与 cooking style 都指某地区或群体的烹饪风格；cuisine 更凝练、正式，也可指这一风格的菜肴整体。"
       ],
-      "usage": "another community to its cuisine 指把一个群体简化成它的饮食，不能译成“厨房”。",
+      "usage": "cuisine 可指一种菜系或烹饪风格；French cuisine 常不可数，a cuisine 可指一种特定菜系。原文说把社群缩减为其饮食。",
       "ipa": "/kwɪˈziːn/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -1129,7 +1222,7 @@
         "problematic behavior 有争议的行为"
       ],
       "compare": [
-        "problematic 表示存在问题；impossible 表示无法做到。"
+        "problematic 与 troublesome 都表会引起问题；problematic 常用于观点、方法或伦理问题，troublesome 常指实际麻烦。"
       ],
       "usage": "that's where it gets problematic 回指前面的简化和商业化做法。",
       "ipa": "/ˌprɑːbləˈmætɪk/",
@@ -1144,9 +1237,9 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "problem n. 问题；难题",
-        "problematically adv. 有问题地；棘手地"
-      ]
+        "problematic adj. 有问题的；值得质疑的"
+      ],
+      "wordFamilyRoot": "problem"
     },
     "60": {
       "word": "consumption",
@@ -1158,7 +1251,7 @@
         "for their own consumption 供他们自己消费"
       ],
       "compare": [
-        "consumption 可指食用或消费；production 是生产。"
+        "consumption 与 use 都可指资源的使用；consumption 更强调资源在过程中被耗掉。"
       ],
       "usage": "原句与 profit 并列：支配群体掌控资源，供自己消费并获利。",
       "ipa": "/kənˈsʌmpʃn/",
@@ -1184,10 +1277,20 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "consume v. 消耗；消费",
+        "consumption n. 消费；食用",
         "consumer n. 消费者",
-        "consumable adj./n. 可消耗的；消耗品",
-        "consumptive adj. 消耗性的"
+        "consumable adj./n. 可消耗的；消耗品"
+      ],
+      "wordFamilyRoot": "consume",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "consumption",
+            "consumer",
+            "consumable"
+          ],
+          "distinction": "consumption 是使用或吃掉资源的过程；consumer 是使用商品的人；consumable 作名词指用完后需要补充的物品。"
+        }
       ]
     },
     "2": {
@@ -1199,12 +1302,8 @@
         "culturally appropriative 具有文化挪用性质的",
         "appropriative practices 挪用性的做法"
       ],
-      "compare": [
-        "appropriative：关注拿取、占用他人的东西",
-        "appropriate（adj.）：关注是否合适，意思不同",
-        "exploitative：关注利用他人牟利或获益"
-      ],
-      "usage": "不能因为拼写相近就译成“合适的”。Cambridge 来源对应 cultural appropriation，Oxford 对应动词词根；本派生词和读音补查 Merriam-Webster。本文是作者的文化批评框架，不自动等于法律上的盗窃认定。",
+      "compare": [],
+      "usage": "culturally appropriative 是形容词短语，修饰会涉及文化挪用的行为；不要与 appropriate（合适的）混同。是否构成文化挪用要结合权力关系和具体语境。",
       "ipa": "/əˈproʊpriˌeɪtɪv/（美式）",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": false,
@@ -1212,7 +1311,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "wordFamilyRoot": "appropriate",
+      "family": [
+        "appropriation n. 挪用；占用",
+        "appropriative adj. 挪用性的"
+      ]
     },
     "21": {
       "word": "ethnic",
@@ -1224,11 +1327,7 @@
         "ethnic roots 族裔文化根源",
         "ethnic diversity 族群多样性"
       ],
-      "compare": [
-        "ethnic：从文化、历史、血缘等说群体",
-        "national：从国家或国籍说",
-        "racial：从社会种族分类说，三者不能互换"
-      ],
+      "compare": [],
       "usage": "ethnic food 在本文带引号，作者质疑为何只给非西方食物贴此标签。ethnic 不等于 exotic，更不是 ethic（道德准则）。",
       "ipa": "/ˈeθnɪk/",
       "partOfSpeech": "adjective",
@@ -1247,7 +1346,12 @@
           "exampleChinese": "种族冲突／紧张形势／暴力"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "ethnic",
+      "family": [
+        "ethnicity n. 族裔身份；民族属性",
+        "ethnically adv. 在族裔方面"
+      ]
     },
     "62": {
       "word": "Thai",
@@ -1258,10 +1362,8 @@
         "Thai food 泰国菜",
         "Thai cuisine 泰式菜系"
       ],
-      "compare": [
-        "Thai 是泰国的；Tai 是另一拼写或专名，不可随意替换。"
-      ],
-      "usage": "在并列食物类别中修饰 food；词典摘录仅有简短 Thai 词条。",
+      "compare": [],
+      "usage": "Thai 在 Thai food 中作形容词，也可作名词指泰国人或泰语；国名 Thailand 不能直接替换这里的 Thai。",
       "ipa": "/taɪ/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -1279,9 +1381,7 @@
         "Vietnamese food 越南菜",
         "Vietnamese cuisine 越南菜系"
       ],
-      "compare": [
-        "Vietnamese 可指语言、人民或食物所属背景；这里修饰 food。"
-      ],
+      "compare": [],
       "usage": "与 Thai、Indian 等并列，是形容词用法。",
       "ipa": "/ˌviːetnəˈmiːz/",
       "partOfSpeech": "adjective",
@@ -1300,9 +1400,7 @@
         "Indian food 印度菜",
         "Indian cuisine 印度菜系"
       ],
-      "compare": [
-        "Indian 在此指印度的；别把其他词典义项带入这个语境。"
-      ],
+      "compare": [],
       "usage": "修饰 food；原句并列多种来源，不是一个统一的“异域菜”。",
       "ipa": "/ˈɪndiən/",
       "partOfSpeech": "adjective",
@@ -1332,9 +1430,7 @@
         "Ethiopian food 埃塞俄比亚菜",
         "Ethiopian cuisine 埃塞俄比亚菜系"
       ],
-      "compare": [
-        "Ethiopian 指国别来源；ethnic 是更宽泛的族裔标签。"
-      ],
+      "compare": [],
       "usage": "在列举菜系的句子里修饰 food。",
       "ipa": "/ˌiːθiˈəʊpiən/",
       "partOfSpeech": "adjective",
@@ -1353,19 +1449,12 @@
         "Mexican food 墨西哥菜",
         "Mexican communities 墨西哥社群"
       ],
-      "compare": [
-        "Mexican 是国别形容词；Hispanic 是不同维度的文化标签。"
-      ],
+      "compare": [],
       "usage": "在句 21、40 均修饰 food，保持国别含义。",
       "ipa": "/ˈmeksɪkən/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
       "articleExample": "Usually, we're talking about Thai, Vietnamese, Indian, Ethiopian, and Mexican food—places where food is cooked by the \"brownest\" people.",
-      "dictionaryExample": {
-        "english": "a person from Mexico",
-        "chinese": "墨西哥人",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt"
     },
@@ -1378,9 +1467,7 @@
         "ethnicities perceived as exotic 被视为异域的族裔",
         "ethnicity and culture 族裔身份与文化"
       ],
-      "compare": [
-        "ethnicity 关注族裔背景；nationality 关注国籍。"
-      ],
+      "compare": [],
       "usage": "复数 ethnicities 指多个族裔群体；原文讨论谁被贴上 ethnic 标签。",
       "ipa": "/eθˈnɪsəti/",
       "partOfSpeech": "noun",
@@ -1394,9 +1481,10 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "ethnic adj./n. 族裔的；少数族裔",
-        "ethnically adv. 在族裔方面；从民族角度"
-      ]
+        "ethnicity n. 族裔身份；民族属性",
+        "ethnically adv. 在族裔方面"
+      ],
+      "wordFamilyRoot": "ethnic"
     },
     "67": {
       "word": "be perceived as",
@@ -1408,7 +1496,7 @@
         "be perceived as a threat 被视为威胁"
       ],
       "compare": [
-        "be perceived as 强调他人的看法；be 本身不证明判断正确。"
+        "be perceived as 与 be regarded as 都表“被视为”；perceived 更强调观察者的主观印象。"
       ],
       "usage": "被动结构 be perceived as + 名词或形容词；本文指出标签是观察者赋予的。",
       "ipa": "/pərˈsiːv/",
@@ -1429,17 +1517,23 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
       "family": [
-        "perceived adj./v. 被看作的；perceive 的过去式／过去分词",
-        "perceiving n./v. 感知；perceive 的 -ing 形式",
         "perception n. 感知；看法",
-        "perceptive adj. 理解力强的；敏锐的",
+        "perceptive adj. 洞察敏锐的",
         "perceptible adj. 可察觉的",
-        "imperceptible adj. 察觉不到的"
+        "imperceptible adj. 难以察觉的"
       ],
-      "wordFamilyNote": "The phrase is built around perceive; the branches show its common noun and adjective forms.",
-      "wordFamilyRoot": "perceive"
+      "wordFamilyRoot": "perceive",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "perceptive",
+            "perceptible",
+            "imperceptible"
+          ],
+          "distinction": "perceptive 形容人看得透、观察敏锐；perceptible 形容事物能被察觉；imperceptible 形容变化小到几乎察觉不到。"
+        }
+      ]
     },
     "68": {
       "word": "folk",
@@ -1490,11 +1584,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "folklore n. 民间传说；民俗",
-        "folkloric adj. 民俗的；民间传说的",
-        "folksy adj. 质朴亲切的；民间风格的"
-      ]
+      "family": [],
+      "wordFamilyRoot": "folk"
     },
     "69": {
       "word": "other than",
@@ -1506,7 +1597,7 @@
         "other than that 除此之外"
       ],
       "compare": [
-        "other than 在此表示“除……之外”；rather than 表示“而不是”。"
+        "other than 与 except for 都表示“除……之外”；other than 还可用于表示“不同于”，except for 通常只说例外。"
       ],
       "usage": "后接 our own，省略了 culture；不是比较级结构。",
       "ipa": "/ˈʌðər ðən/",
@@ -1538,11 +1629,7 @@
         "ramen noodles 拉面面条",
         "ramen broth 拉面汤底"
       ],
-      "compare": [
-        "ramen：日式面食类别",
-        "noodles：面条总称",
-        "sushi：米饭制品，不是面食"
-      ],
+      "compare": [],
       "usage": "通常不可数，用 a bowl of ramen；不要把所有中国手工拉面都自动称作 ramen。文章反对用一种食物概括整个国家。",
       "ipa": "/ˈrɑːmen/",
       "partOfSpeech": "n. [U]",
@@ -1566,11 +1653,7 @@
         "a taco truck 塔可餐车",
         "taco filling 塔可馅料"
       ],
-      "compare": [
-        "taco：薄饼对折或包拢馅料",
-        "tortilla：作为外皮的薄饼本身",
-        "burrito：通常用较大薄饼把馅料完整卷起"
-      ],
+      "compare": [],
       "usage": "复数 tacos。不是所有 taco 都用炸硬的壳；也不要把 taco、tortilla 和 burrito 当作完全同一种食品。",
       "ipa": "/ˈtækəʊ/（英）；/ˈtɑːkoʊ/（美）",
       "partOfSpeech": "n. [C]",
@@ -1590,11 +1673,7 @@
         "a mild curry 不太辣的咖喱",
         "curry powder 咖喱粉"
       ],
-      "compare": [
-        "curry：香料酱汁烹成的一类菜",
-        "spice：单种香料或香辛料",
-        "sauce：酱汁总称，不限定咖喱风味"
-      ],
+      "compare": [],
       "usage": "a curry 可指一道菜；不可数 curry 指食物本身。spicy 可突出香料味，不保证每种咖喱都很辣；不能以 curry 代替整个南亚文化。",
       "ipa": "/ˈkʌri/",
       "partOfSpeech": "n. [C/U]",
@@ -1629,7 +1708,7 @@
         "end up doing something 最终做了某事"
       ],
       "compare": [
-        "end up 强调结果；intend to 强调原先打算。"
+        "end up doing 与 wind up doing 都表最终做了某事；wind up 更口语。"
       ],
       "usage": "end up 后接 -ing；本文的 getting homogenized 为被动变化。",
       "ipa": "/end ʌp ˈduːɪŋ/",
@@ -1639,15 +1718,8 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。",
-      "family": [
-        "ended v. end 的过去式／过去分词",
-        "ending n./v. 结尾；结束；end 的 -ing 形式",
-        "endless adj. 无尽的",
-        "endlessly adv. 无休止地"
-      ],
-      "wordFamilyNote": "The phrase is built around end; the branches show common adjective and verb forms.",
-      "wordFamilyRoot": "end"
+      "family": [],
+      "wordFamilyRoot": "end up"
     },
     "25": {
       "word": "homogenize / homogenization",
@@ -1660,9 +1732,7 @@
         "homogenized milk 均质奶"
       ],
       "compare": [
-        "homogenize：让各部分越来越相同",
-        "standardize：统一标准、规格或流程",
-        "integrate：结合为整体，可保留内部差异"
+        "homogenize 与 make uniform 都表示使各部分趋于一致；standardize 更强调按统一标准处理，未必抹去文化差异。"
       ],
       "usage": "英式也写 homogenise。end up getting homogenized 为 end up + -ing，内部 getting homogenized 是被动；不是文化主动把别人同质化。",
       "ipa": "/həˈmɒdʒɪnaɪz/",
@@ -1672,16 +1742,21 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的摘录未单列 homogenize 或 homogenization；本文语境义据原句整理。",
       "family": [
-        "homogenized adj./v. 均质化的；homogenize 的过去式／过去分词",
-        "homogenizing n./v. 使均质化；homogenize 的 -ing 形式",
-        "homogenization n. 均质化；同质化",
+        "homogenization n. 同质化；均质化",
         "homogeneous adj. 同质的；均匀的",
-        "homogeneity n. 同质性；均匀性"
+        "homogeneity n. 同质性"
       ],
-      "wordFamilyNote": "The expandable word is homogenize; the branches show its common noun and adjective forms.",
-      "wordFamilyRoot": "homogenize"
+      "wordFamilyRoot": "homogenize",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "homogenization",
+            "homogeneity"
+          ],
+          "distinction": "homogenization 指把不同事物变得一致的过程；homogeneity 指由此形成的同质状态，不表示正在改变。"
+        }
+      ]
     },
     "26": {
       "word": "authentic / authenticity",
@@ -1694,9 +1769,7 @@
         "verify authenticity 核实真实性"
       ],
       "compare": [
-        "authentic：是否真实、名副其实",
-        "traditional：是否沿袭传统，未必完全未变",
-        "original：最初的或原创的，不等于正宗"
+        "authentic 与 genuine 都可指真实、名副其实；authentic 常用于来源、风格或文化是否可信，genuine 还常指感情真诚。"
       ],
       "usage": "本文引号质疑谁有权规定“正宗”，并非说这个词不能使用。authentic 不自动等于“从未变化”或符合游客预想。",
       "ipa": "/ɔːˈθentɪk/",
@@ -1723,16 +1796,23 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录提供 authentic 的词条，未单列 authenticity；词卡同时解释两者在本文的用法。",
       "family": [
-        "authenticity n. 真实性；可靠性",
-        "authentically adv. 真实地；可信地",
-        "authenticate v. 证明……真实；验证",
-        "authentication n. 认证；验证",
-        "inauthentic adj. 不真实的；不可信的"
+        "authenticity n. 真实性；正宗性",
+        "authentically adv. 真实地；地道地",
+        "authenticate v. 证实……真实",
+        "authentication n. 身份／真实性验证",
+        "inauthentic adj. 不真实的"
       ],
-      "wordFamilyNote": "The expandable word is authentic; the branches show common noun, verb, and adverb forms.",
-      "wordFamilyRoot": "authentic"
+      "wordFamilyRoot": "authentic",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "authenticity",
+            "authentication"
+          ],
+          "distinction": "authenticity 是某事物真实或正宗的性质；authentication 是核验其真伪或身份的程序。"
+        }
+      ]
     },
     "27": {
       "word": "immersive",
@@ -1745,9 +1825,7 @@
         "immerse oneself in a culture 深入体验一种文化"
       ],
       "compare": [
-        "immersive：体验使人有置身其中的感受",
-        "engaging：吸引注意与兴趣",
-        "interactive：可以参与并影响过程，不保证沉浸"
+        "immersive 与 absorbing 都表能强烈抓住注意力；immersive 还强调置身其中的感觉。"
       ],
       "usage": "元音音素开头，应为 an immersive experience，不是讲义中的 a immersive experience。常用 an experience of/in … 或 immersion in …；原文 into 带进入文化的修辞意味，不当固定介词来背。",
       "ipa": "/ɪˈmɜːsɪv/",
@@ -1760,7 +1838,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "immerse",
+      "family": [
+        "immersion n. 沉浸；深入体验",
+        "immersed adj. 沉浸其中的",
+        "immersive adj. 让人沉浸的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "immersed",
+            "immersive"
+          ],
+          "distinction": "immersed 描述人已经沉浸其中；immersive 描述体验本身使人沉浸。"
+        }
+      ]
     },
     "71": {
       "word": "represent",
@@ -1772,7 +1865,7 @@
         "represent a community 代表一个社群"
       ],
       "compare": [
-        "represent 在此指“代表、承载”；replace 指取代。"
+        "represent 与 stand for／symbolize 都可指代表；represent 可指实际代表群体或事物，symbolize 更强调象征意义。"
       ],
       "usage": "comes to represent 表示逐渐被当作整段文化体验的代表，而非法律上的代言。",
       "ipa": "/ˌreprɪˈzent/",
@@ -1822,11 +1915,18 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "represented adj./v. 代表的；represent 的过去式／过去分词",
-        "representing n./v. 代表；表现",
-        "representation n. 代表；表现形式",
-        "representative adj./n. 代表性的；代表",
-        "representational adj. 再现的；具象的"
+        "representation n. 代表；表现",
+        "representative adj./n. 有代表性的；代表"
+      ],
+      "wordFamilyRoot": "represent",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "representation",
+            "representative"
+          ],
+          "distinction": "representation 指群体在作品或机构中的呈现／代言，如 political representation；representative 作名词指替群体发声的人。"
+        }
       ]
     },
     "28": {
@@ -1840,9 +1940,7 @@
         "perceive something as … 把某物看成……"
       ],
       "compare": [
-        "perception：经过观察与解释形成的认识",
-        "fact：可核对的事实",
-        "opinion：观点或判断，未必强调如何感知"
+        "perception 与 impression 都可指人形成的认识；impression 更可能是初步感觉，perception 可较稳定。"
       ],
       "usage": "具体看法可数，原文 perceptions 作主语，谓语 stem。what is authentic 是 of 的宾语从句；看法不等于客观事实。",
       "ipa": "/pəˈsepʃən/",
@@ -1868,7 +1966,22 @@
           "exampleChinese": "她对家庭状况的分析显示出敏锐的洞察力。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "perceive",
+      "family": [
+        "perception n. 看法；感知",
+        "perceptive adj. 观察敏锐的",
+        "perceptible adj. 可察觉的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "perceptive",
+            "perceptible"
+          ],
+          "distinction": "perceptive 指人洞察敏锐；perceptible 指事物能够被察觉。"
+        }
+      ]
     },
     "29": {
       "word": "stem from sth.",
@@ -1881,9 +1994,7 @@
         "stem from several causes 源于多种原因"
       ],
       "compare": [
-        "stem from：结果回溯原因",
-        "lead to：原因指向结果",
-        "relate to：有关联，不保证因果"
+        "stem from 与 arise from 都指出现某结果的来源；stem from 更常用于追溯深层原因。"
       ],
       "usage": "主语是结果，from 后是原因；不写 is stemmed from。stemmed、stemming 双写 m。",
       "ipa": "/stem frəm/",
@@ -1897,12 +2008,8 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "stemmed v. stem 的过去式／过去分词",
-        "stemming n./v. 源自；stem 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase is built around stem; these are common verb forms used in stem from.",
-      "wordFamilyRoot": "stem"
+      "family": [],
+      "wordFamilyRoot": "stem from"
     },
     "30": {
       "word": "preconceived",
@@ -1915,9 +2022,7 @@
         "without preconceived assumptions 不带预先假定"
       ],
       "compare": [
-        "preconceived：形成时间早于充分了解",
-        "biased：偏向一方、影响公正",
-        "mistaken：结论错误，不一定形成得早"
+        "preconceived 与 prejudged 都指在充分了解前已形成判断；preconceived 常修饰想法或印象，prejudged 强调提前下结论。"
       ],
       "usage": "通常修饰 ideas、notions 等观念词；不是“有预谋的”或“已被证实的”。先有印象与印象一定错误不是同一命题。",
       "ipa": "/ˌpriːkənˈsiːvd/",
@@ -1930,7 +2035,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "preconceive",
+      "family": [
+        "preconception n. 先入之见",
+        "preconceived adj. 预先形成的"
+      ]
     },
     "31": {
       "word": "narrative",
@@ -1977,7 +2087,23 @@
           "exampleChinese": "他以南北战争的叙事诗而闻名。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "narrate",
+      "family": [
+        "narrative n./adj. 叙事；叙事的",
+        "narration n. 讲述；叙述",
+        "narrator n. 叙述者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "narrative",
+            "narration",
+            "narrator"
+          ],
+          "distinction": "narrative 是有组织的故事或叙述框架；narration 是讲述这一行为或旁白；narrator 是讲故事的叙述者。"
+        }
+      ]
     },
     "32": {
       "word": "colonization / re-colonize",
@@ -1989,11 +2115,7 @@
         "European colonization 欧洲殖民扩张",
         "colonial rule 殖民统治"
       ],
-      "compare": [
-        "colonization：建立定居与控制的过程",
-        "imperialism：扩张支配权力的制度或政策，范围更广",
-        "immigration：迁入定居，本身不意味着统治当地人"
-      ],
+      "compare": [],
       "usage": "英式也拼 colonisation。re-colonized 在这里是关于商业控制的批评性比喻，不是说厨师直接建立了领土殖民政府。",
       "ipa": "/ˌkɒlənaɪˈzeɪʃən/",
       "partOfSpeech": "noun / verb",
@@ -2013,18 +2135,24 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录给出 colonization 的词条，未单列 re-colonize；本文两种词形的语境义分别据原句整理。",
       "family": [
-        "colonized adj./v. 被殖民的；colonize 的过去式／过去分词",
-        "colonizing n./v. 殖民；colonize 的 -ing 形式",
-        "colonization n. 殖民；殖民化",
-        "colonist n. 殖民者；殖民地居民",
-        "colonial adj./n. 殖民的；殖民者",
-        "decolonize v. 使非殖民化",
-        "decolonization n. 非殖民化"
+        "colonization n. 殖民化",
+        "colonist n. 殖民者",
+        "colonial adj. 殖民的",
+        "decolonize v. 非殖民化",
+        "decolonization n. 去殖民化"
       ],
-      "wordFamilyNote": "The expandable word is colonize; the branches show its common noun and adjective forms.",
-      "wordFamilyRoot": "colonize"
+      "wordFamilyRoot": "colonize",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "colonization",
+            "colonist",
+            "decolonization"
+          ],
+          "distinction": "colonization 指建立殖民控制的过程；colonist 是参与定居殖民的人；decolonization 指废除殖民统治及其影响的过程。"
+        }
+      ]
     },
     "72": {
       "word": "devastating",
@@ -2036,7 +2164,7 @@
         "a devastating loss 沉重损失"
       ],
       "compare": [
-        "devastating 强调严重后果；disappointing 只是令人失望。"
+        "devastating 与 disastrous 都形容后果极严重；devastating 更强调沉重的情感、社会或物质打击。"
       ],
       "usage": "原句主语是殖民化的影响，不能弱译为“一般的不便”。",
       "ipa": "/ˈdevəsteɪtɪŋ/",
@@ -2064,10 +2192,20 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "devastate v. 毁灭；使震惊",
-        "devastated adj./v. 遭受毁灭的；devastate 的过去式／过去分词",
-        "devastation n. 毁灭；震惊",
-        "devastatingly adv. 毁灭性地；极其"
+        "devastation n. 毁灭；严重破坏",
+        "devastated adj. 遭受重创的；震惊的",
+        "devastating adj. 破坏性极大的",
+        "devastatingly adv. 破坏性地；极其"
+      ],
+      "wordFamilyRoot": "devastate",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "devastated",
+            "devastating"
+          ],
+          "distinction": "devastated 描述遭受重创的人或地方；devastating 描述造成严重破坏的事。"
+        }
       ]
     },
     "73": {
@@ -2080,7 +2218,7 @@
         "freeze a moment 定格一瞬间"
       ],
       "compare": [
-        "freeze 在此为比喻，指固化认识；preserve 是保存，未必固化。"
+        "freeze 与 fossilize 在此都可批评把文化看成不再变化；freeze 强调定格在某一时点，fossilize 更像把活文化当成古物。"
       ],
       "usage": "第三人称 freezes；宾语是 a culture，后接 in a particular place in time。",
       "ipa": "/friːz/",
@@ -2166,12 +2304,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "froze v. freeze 的过去式",
-        "frozen v./adj. freeze 的过去分词；冷冻的",
-        "freezing adj./n./v. 极冷的；冰点；freeze 的 -ing 形式",
-        "freezer n. 冰箱；冷冻室",
-        "freezable adj. 可冷冻的"
-      ]
+        "frozen adj. 冻住的；被固化的"
+      ],
+      "wordFamilyRoot": "freeze"
     },
     "74": {
       "word": "get disconnected from",
@@ -2183,7 +2318,7 @@
         "feel disconnected from home 感到与家乡疏离"
       ],
       "compare": [
-        "disconnected from 强调联系断开；different from 仅表示不同。"
+        "get disconnected from 与 be cut off from 都表失去联系；cut off 更可能暗示外力造成隔绝。"
       ],
       "usage": "get + 过去分词表示状态变化；from 后接 communities and places。",
       "ipa": "/ˌdɪskəˈnektɪd/",
@@ -2204,17 +2339,29 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
       "family": [
-        "disconnected adj./v. 断开联系的；disconnect 的过去式／过去分词",
-        "disconnecting n./v. 断开；disconnect 的 -ing 形式",
         "disconnection n. 断开；脱节",
-        "connected adj. 有联系的；连接的",
-        "connection n. 联系；连接",
-        "connectivity n. 连通性；联系"
+        "disconnected adj. 失去联系的",
+        "connected adj. 有联系的",
+        "connection n. 联系；关联"
       ],
-      "wordFamilyNote": "The phrase is built around disconnect; the branches show common noun and adjective forms.",
-      "wordFamilyRoot": "disconnect"
+      "wordFamilyRoot": "disconnect",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "disconnection",
+            "connection"
+          ],
+          "distinction": "connection 是人与文化之间仍存在的联系；disconnection 指这种联系中断或缺失的状态。"
+        },
+        {
+          "forms": [
+            "disconnected",
+            "connected"
+          ],
+          "distinction": "connected 形容仍与人群或文化保持联系；disconnected 形容联系已经断开，不只是“与别人不同”。"
+        }
+      ]
     },
     "33": {
       "word": "immigration",
@@ -2227,9 +2374,7 @@
         "immigration control 入境检查"
       ],
       "compare": [
-        "immigration：从目的地看移入",
-        "emigration：从出发地看移出",
-        "migration：迁移总称，可在一国内，也可用于动物"
+        "immigration 与 migration 都指人口迁移；immigration 特指从目的国看“移入”，migration 范围更广，可跨境也可境内。"
       ],
       "usage": "immigration 是过程，通常不可数；具体的人是 an immigrant。同一迁移行为可以从两端分别说 immigration 与 emigration。",
       "ipa": "/ˌɪmɪˈɡreɪʃən/",
@@ -2249,7 +2394,21 @@
           "exampleChinese": "我们在希思罗机场降落，之后办理了海关和移民入境检查手续。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "immigrate",
+      "family": [
+        "immigration n. 移民入境；移居",
+        "immigrant n. 移民；移入者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "immigration",
+            "immigrant"
+          ],
+          "distinction": "immigration 指迁入一国的过程，如 immigration policy 所管理的流动；immigrant 指完成或正在经历这种迁移的人。"
+        }
+      ]
     },
     "34": {
       "word": "stereotype",
@@ -2261,11 +2420,7 @@
         "challenge a stereotype 挑战刻板印象",
         "stereotype people as … 把人一概当作……"
       ],
-      "compare": [
-        "stereotype：用固定模型概括整个群体",
-        "prejudice：事先形成的偏见，常含不公评价",
-        "generalization：一般概括，可能审慎且有依据"
-      ],
+      "compare": [],
       "usage": "可数；不一定公开表现为恶意，却可能抹去个体差异。本文关注食物如何被用来给人贴标签，而非认同这些标签。",
       "ipa": "/ˈsteriətaɪp/",
       "partOfSpeech": "n. [C]，通常贬义",
@@ -2282,7 +2437,22 @@
           "chinese": "对…形成模式化（或类型化）的看法"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "stereotype",
+      "family": [
+        "stereotypical adj. 刻板的；老套的",
+        "stereotypically adv. 典型地；刻板地",
+        "stereotyped adj. 被刻板化的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "stereotypical",
+            "stereotyped"
+          ],
+          "distinction": "stereotypical 指符合刻板印象；stereotyped 指被人按刻板印象来描绘。"
+        }
+      ]
     },
     "35": {
       "word": "smelly",
@@ -2295,9 +2465,7 @@
         "a strong smell 强烈的气味"
       ],
       "compare": [
-        "smelly：明确含难闻评价",
-        "stinky：更口语、更直接说臭",
-        "strong-smelling：只突出气味浓烈，未必难闻"
+        "smelly 与 stinky 都表有难闻气味；stinky 更口语，厌恶语气更强。"
       ],
       "usage": "原文 are called things like smelly 报告他人对群体的侮辱性标签，不是客观认定某群体“臭”。比较级 smellier。",
       "ipa": "/ˈsmeli/",
@@ -2310,7 +2478,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "smell",
+      "family": [
+        "smelly adj. 难闻的；有臭味的"
+      ]
     },
     "75": {
       "word": "isolation",
@@ -2322,18 +2494,13 @@
         "social isolation 社会孤立"
       ],
       "compare": [
-        "in isolation 指单独看待；in context 指放回背景。"
+        "in isolation 与 on its own 都可表单独看待；in isolation 更书面，常暗示缺少必要背景。"
       ],
       "usage": "eating food in isolation from history 是脱离历史背景地消费，不是指一个人独自吃饭。",
       "ipa": "/ˌaɪsəˈleɪʃn/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
       "articleExample": "Eating food from another culture in isolation from that culture's history and also current issues means that we're just borrowing the pieces that are enjoyable.",
-      "dictionaryExample": {
-        "english": "an isolation hospital/ward (= for people with infectious diseases)",
-        "chinese": "隔离医院／病房",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [
         {
           "english": "isolation (from somebody/something) the state of being alone or lonely",
@@ -2344,10 +2511,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "isolate v./n. 隔离；孤立者",
-        "isolated adj./v. 孤立的；isolate 的过去式／过去分词",
-        "isolating adj./n./v. 隔离的；隔离；isolate 的 -ing 形式",
-        "isolator n. 隔离装置；隔离者"
+        "isolation n. 隔离；孤立",
+        "isolated adj. 被隔离的；孤立的",
+        "isolating adj. 使人感到孤立的"
+      ],
+      "wordFamilyRoot": "isolate",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "isolated",
+            "isolating"
+          ],
+          "distinction": "isolated 是处于孤立状态；isolating 是使人感到孤立的。"
+        }
       ]
     },
     "36": {
@@ -2361,9 +2537,7 @@
         "repurpose something as … 把……改用作……"
       ],
       "compare": [
-        "repurpose：改变用途",
-        "reuse：再次使用，用途可以不变",
-        "recycle：回收加工材料后再利用"
+        "repurpose 与 reuse 都表再次利用；repurpose 必须改变原用途，reuse 可保持原用途。"
       ],
       "usage": "词本身不必贬义；文中对外来商业包装与社区自行创新作了区分。repurpose something for/as …，不要等同于简单加价。",
       "ipa": "/ˌriːˈpɜːpəs/",
@@ -2376,7 +2550,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "purpose",
+      "family": [
+        "repurpose v. 改作他用",
+        "repurposed adj. 被改作他用的"
+      ]
     },
     "77": {
       "word": "be inaccessible to",
@@ -2388,7 +2567,7 @@
         "inaccessible to the public 不向公众开放的"
       ],
       "compare": [
-        "inaccessible 表示获取存在障碍；unpopular 只是受欢迎程度低。"
+        "inaccessible to 与 unavailable to 都可表无法取得或使用；inaccessible 更强调通道、价格或制度障碍。"
       ],
       "usage": "be inaccessible to + 人群；本文主要指餐馆价格和资源门槛。",
       "ipa": "/ˌɪnækˈsesəbl/",
@@ -2409,32 +2588,37 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
       "family": [
-        "accessed v. access 的过去式／过去分词",
-        "accessing n./v. 使用；获取；access 的 -ing 形式",
-        "accessible adj. 可获得的；可使用的",
-        "accessibility n. 可及性；易用性",
-        "inaccessible adj. 难以获得的；无法进入的"
+        "accessible adj. 可进入的；可获得的",
+        "inaccessible adj. 难以获得的",
+        "accessibility n. 可及性"
       ],
-      "wordFamilyNote": "The expandable word is access; accessible and accessibility are its common related forms.",
-      "wordFamilyRoot": "access"
+      "wordFamilyRoot": "access",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "accessible",
+            "inaccessible"
+          ],
+          "distinction": "accessible 形容可进入、可取得或易懂；inaccessible 表示距离、价格、制度或表达方式使人难以接近。"
+        }
+      ]
     },
     "78": {
       "word": "labor",
       "sourceRow": 78,
-      "english": "work, especially the work needed to produce food",
-      "chinese": "劳动；劳力",
+      "english": "to do the work, especially the work of producing and serving food",
+      "chinese": "劳动；做这些食物背后的工作（原文 laboring）",
       "collocations": [
         "labor rights 劳工权利",
         "who is laboring 谁在劳动"
       ],
       "compare": [
-        "labor 是美式拼写；labour 是英式拼写。"
+        "labor 与 work 都可指劳动；labor 更强调体力、持续投入或劳动力，也常用于劳动权益；work 适用范围更广。"
       ],
       "usage": "原文既有名词 labor rights，也有动词 laboring，词卡需区分词性。 句 49 的 laboring 是动词现在分词，句 40 的 labor rights 是名词作定语。",
       "ipa": "/ˈleɪbər/",
-      "partOfSpeech": "noun / verb",
+      "partOfSpeech": "verb (laboring); noun elsewhere",
       "oxfordExcerptProvided": true,
       "articleExample": "One of the questions that both chefs and diners should ask themselves is, who is laboring and profiting?",
       "dictionaryExample": {
@@ -2475,12 +2659,19 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录提供的是相关原形或词性；本词卡的语境义结合文章中的实际形式整理。",
       "family": [
-        "laborer / labourer n. 劳动者；工人",
-        "laborious adj. 艰苦的；费力的",
-        "laboriously adv. 艰苦地；费力地",
-        "laboring / labouring n./adj./v. 劳动；劳动的；labor 的 -ing 形式"
+        "laborer n. 劳动者；工人",
+        "laborious adj. 费力的；艰苦的"
+      ],
+      "wordFamilyRoot": "labor",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "labor",
+            "laborer"
+          ],
+          "distinction": "labor 作名词指劳动活动或劳动力；laborer 指从事劳动的人，尤其是体力劳动者。"
+        }
       ]
     },
     "79": {
@@ -2503,30 +2694,24 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。",
       "family": [
-        "profited v. profit 的过去式／过去分词",
-        "profiting n./v. 获利；受益",
         "profitable adj. 有利可图的",
         "profitably adv. 有利可图地",
         "profitability n. 盈利能力"
       ],
-      "wordFamilyRoot": "profit",
-      "wordFamilyNote": "The phrase is built around profit; the branches show common verb, adjective, and noun forms."
+      "wordFamilyRoot": "profit"
     },
     "80": {
       "word": "reappropriate",
       "sourceRow": 80,
-      "english": "to take something back and use it again",
-      "chinese": "重新取回；重新挪用",
+      "english": "to take or use ingredients again for a new group’s purposes, often away from the original community",
+      "chinese": "再次挪用；重新占用（原文指食材被商业力量重新取用）",
       "collocations": [
         "ingredients get reappropriated 食材被重新占用",
         "reappropriate a tradition 重新占用一种传统"
       ],
-      "compare": [
-        "reappropriate 表示再度取用；appropriate 在文中指挪用。"
-      ],
-      "usage": "本文是被动 get reappropriated；摘录没有单列 reappropriate 的词典条目。",
+      "compare": [],
+      "usage": "原文 get reappropriated 是 get + 过去分词的被动式；这里指食材再次被取用和重新包装，并非原社群“取回”食材。",
       "ipa": "/ˌriːəˈproʊprieɪt/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": false,
@@ -2534,12 +2719,10 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。",
       "family": [
-        "reappropriated adj./v. 重新占用的；reappropriate 的过去式／过去分词",
-        "reappropriating n./v. 重新占用；重新挪用",
-        "reappropriation n. 重新占用；重新挪用"
-      ]
+        "reappropriation n. 重新占用；重新取回"
+      ],
+      "wordFamilyRoot": "reappropriate"
     },
     "81": {
       "word": "corporation",
@@ -2551,7 +2734,7 @@
         "large corporations 大公司"
       ],
       "compare": [
-        "corporation 通常指有法人地位的企业；community 指社群。"
+        "corporation 与 company 都指企业；corporation 特指依法成立的法人组织，company 可泛指企业。"
       ],
       "usage": "原句 corporations 是行为主体，复数与 have repackaged 连用。",
       "ipa": "/ˌkɔːrpəˈreɪʃn/",
@@ -2579,9 +2762,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "corporate adj. 公司的；团体的",
-        "corporately adv. 以公司方式；由公司整体"
-      ]
+        "corporate adj. 公司的；企业的"
+      ],
+      "wordFamilyRoot": "corporation"
     },
     "82": {
       "word": "repackage",
@@ -2593,7 +2776,7 @@
         "repackage an idea 以新方式包装想法"
       ],
       "compare": [
-        "repackage 既可实指换包装，也可比喻换形象。"
+        "repackage 与 rebrand 都可改变商品呈现；repackage 更聚焦包装或说法，rebrand 更聚焦品牌形象。"
       ],
       "usage": "原文既说食品被包装为高端商品，也暗示文化商品化。",
       "ipa": "/ˌriːˈpækɪdʒ/",
@@ -2613,9 +2796,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "repackaged adj./v. 重新包装的；repackage 的过去式／过去分词",
-        "repackaging n./v. 重新包装；重新包装的产品"
-      ]
+        "repackaging n. 重新包装",
+        "repackaged adj. 重新包装的"
+      ],
+      "wordFamilyRoot": "repackage"
     },
     "37": {
       "word": "quinoa",
@@ -2627,11 +2811,7 @@
         "quinoa salad 藜麦沙拉",
         "quinoa seeds 藜麦种子"
       ],
-      "compare": [
-        "quinoa：作为粮食食用的藜麦种子",
-        "rice：稻米",
-        "couscous：以粗粒面粉制成的蒸煮食物，外形相似而来源不同"
-      ],
+      "compare": [],
       "usage": "重音可在首节，不按拼写读成 queen-oh-a。表示食材通常不可数。原文 now 的价格判断有发表时点，不能当今天所有产区的普遍事实。",
       "ipa": "/ˈkiːnwɑː/",
       "partOfSpeech": "n. [U]",
@@ -2650,9 +2830,7 @@
         "native to Bolivia 原产于玻利维亚",
         "communities in Bolivia 玻利维亚社群"
       ],
-      "compare": [
-        "Bolivia 是国家；quinoa 是原产于此的食物。"
-      ],
+      "compare": [],
       "usage": "专有名词首字母大写；在 which is native to Bolivia 中作介词宾语。",
       "ipa": "/bəˈlɪviə/",
       "partOfSpeech": "proper noun",
@@ -2672,11 +2850,7 @@
         "a bunch of collard greens 一把散叶甘蓝",
         "collard green leaves 散叶甘蓝叶"
       ],
-      "compare": [
-        "collard greens：通常叶片较宽平的甘蓝类叶菜",
-        "kale：羽衣甘蓝，常见卷曲叶",
-        "spinach：菠菜，是另一种蔬菜"
-      ],
+      "compare": [],
       "usage": "词表写 collard green，实际食材名通常用 collard greens；作前置修饰可单数。the new kale 是市场潮流比喻，不是说两种菜变成同一品种。",
       "ipa": "/ˈkɒləd ɡriːnz/（复数）",
       "partOfSpeech": "noun",
@@ -2696,11 +2870,7 @@
         "kale leaves 羽衣甘蓝叶",
         "a kale salad 羽衣甘蓝沙拉"
       ],
-      "compare": [
-        "kale：羽衣甘蓝",
-        "collard greens：另一类散叶甘蓝",
-        "cabbage：甘蓝大类，日常也常指结球甘蓝"
-      ],
+      "compare": [],
       "usage": "食材义不可数。原文 the new kale 指“下一种被追捧的健康叶菜”，并非生物学上的新品种。",
       "ipa": "/keɪl/",
       "partOfSpeech": "n. [U]",
@@ -2724,11 +2894,7 @@
         "coconut milk 椰奶",
         "shredded coconut 椰蓉"
       ],
-      "compare": [
-        "coconut water：椰果内的液体",
-        "coconut milk：通常由椰肉加工得到的乳状液",
-        "coconut flesh：椰肉本身"
-      ],
+      "compare": [],
       "usage": "整颗椰子可数，椰肉作食材通常不可数。原文把椰子包装成奢侈饮水是营销层面的转喻，不是所有椰子都只用来卖水。",
       "ipa": "/ˈkəʊkənʌt/",
       "partOfSpeech": "noun",
@@ -2760,9 +2926,7 @@
         "soy sauce 酱油"
       ],
       "compare": [
-        "soy：大豆及相关制品的概括",
-        "tofu：凝固豆浆制成的豆腐",
-        "tempeh：发酵整豆制成的块状食品"
+        "soy 与 soya 是美式／英式常见变体，均指大豆或相关食品；soy sauce 才是酱油。"
       ],
       "usage": "本文与 tofu、tempeh 并列，应按大豆及制品理解，不宜机械译作酱油。可数的一粒或一种豆常说 soybean。",
       "ipa": "/sɔɪ/",
@@ -2775,7 +2939,20 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "soy",
+      "family": [
+        "soybean n. 大豆；黄豆"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "soy",
+            "soybean"
+          ],
+          "distinction": "soy 可泛指大豆这种作物及其食品，常作不可数名词；soybean 指一粒大豆或豆株，是可数名词。"
+        }
+      ]
     },
     "42": {
       "word": "tempeh",
@@ -2787,11 +2964,7 @@
         "grilled tempeh 烤天贝",
         "fermented soybeans 发酵大豆"
       ],
-      "compare": [
-        "tempeh：主要以发酵整豆制成块状",
-        "tofu：凝固豆浆制成，质地不同",
-        "soy：大豆原料或相关制品总称"
-      ],
+      "compare": [],
       "usage": "末尾通常读 /peɪ/；不可数，可用 a block/piece of tempeh。它不是 tofu 的另一种拼写。",
       "ipa": "/ˈtempeɪ/",
       "partOfSpeech": "n. [U]",
@@ -2816,9 +2989,7 @@
         "staple foods 基本食物"
       ],
       "compare": [
-        "staple：经常使用、供应的基本项目",
-        "specialty：某店或某地拿手、特色的东西",
-        "essential：不可缺少，不必是最常销售的商品"
+        "staple 与 mainstay 都指经常依靠的基本事物；staple 常指基本食品或固定商品，mainstay 也可指人。"
       ],
       "usage": "本文 staples at … markets 为常备主要商品，不限于米面一类“主食”。名词、形容词和动词读音相同。",
       "ipa": "/ˈsteɪpəl/",
@@ -2870,11 +3041,7 @@
         "food gentrification 食物中产化",
         "a gentrified neighbourhood 经中产化改造的社区"
       ],
-      "compare": [
-        "gentrification：社会阶层与使用者改变，常伴原居民负担问题",
-        "renovation：建筑修缮，不必换掉居民群体",
-        "commercialization：商业化，未必专为富裕人群服务"
-      ],
+      "compare": [],
       "usage": "不可数；不是培养绅士礼貌。food gentrification 是作者把概念用于食物市场的延伸，重点在价格、获取渠道及原社区能否延续生活。",
       "ipa": "/ˌdʒentrɪfɪˈkeɪʃən/",
       "partOfSpeech": "n. [U]",
@@ -2893,7 +3060,12 @@
           "exampleChinese": "足球经历了高级化。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "gentrify",
+      "family": [
+        "gentrification n. 中产阶层化；绅士化",
+        "gentrified adj. 已中产阶层化的"
+      ]
     },
     "84": {
       "word": "sustain",
@@ -2905,7 +3077,7 @@
         "sustain a community 维系社群"
       ],
       "compare": [
-        "sustain 指让事物持续；create 指新建。"
+        "sustain 与 maintain 都表使某事继续；sustain 更强调提供维持所需的支持。"
       ],
       "usage": "句中与 afford 并列：社群可能无法负担自身菜系，也难维持传统。",
       "ipa": "/səˈsteɪn/",
@@ -2951,10 +3123,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "sustained adj./v. 持续的；sustain 的过去式／过去分词",
-        "sustaining n./v. 维持；支撑",
+        "sustained adj. 持续的；长期保持的",
         "sustainable adj. 可持续的",
         "sustainability n. 可持续性"
+      ],
+      "wordFamilyRoot": "sustain",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "sustained",
+            "sustainable"
+          ],
+          "distinction": "sustained 指已经持续一段时间；sustainable 指能长期维持下去。"
+        }
       ]
     },
     "85": {
@@ -2966,9 +3147,7 @@
         "a taco truck 塔可餐车",
         "a food truck 餐车"
       ],
-      "compare": [
-        "truck 是车辆；restaurant 是固定营业场所。"
-      ],
+      "compare": [],
       "usage": "taco truck 是提供塔可饼的餐车，不能解作运输塔可的普通货车。",
       "ipa": "/trʌk/",
       "partOfSpeech": "noun",
@@ -3004,11 +3183,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "trucked v./adj. 用卡车运送的；truck 的过去式／过去分词",
-        "trucking n./v. 卡车运输",
-        "trucker n. 卡车司机；卡车运输商"
-      ]
+      "family": [],
+      "wordFamilyRoot": "truck"
     },
     "86": {
       "word": "try out",
@@ -3020,7 +3196,7 @@
         "try out a new method 试用新方法"
       ],
       "compare": [
-        "try out 强调试用、体验；try to do 表示努力做某事。"
+        "try out 与 test 都有试用之义；try out 可用于尝试菜谱、活动，看是否喜欢；test 更重检验效果。"
       ],
       "usage": "句中 enjoy trying out，enjoy 后接 -ing；try out 是可分短语动词。",
       "ipa": "/traɪ aʊt/",
@@ -3034,15 +3210,8 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "tried v. try 的过去式／过去分词",
-        "trying n./adj./v. 尝试；困难的；try 的 -ing 形式",
-        "trial n. 试用；试验",
-        "retry v. 再试一次",
-        "retried v. retry 的过去式／过去分词"
-      ],
-      "wordFamilyNote": "The phrase is built around try; the branches show common verb and noun forms.",
-      "wordFamilyRoot": "try"
+      "family": [],
+      "wordFamilyRoot": "try out"
     },
     "87": {
       "word": "critical",
@@ -3054,7 +3223,7 @@
         "critical thinking 审慎思考"
       ],
       "compare": [
-        "critical 在这里是“非常重要”；critical thinking 中是“审慎判断”。"
+        "critical 在这里近于 essential／vital，强调关键重要；essential 更强调不可缺少，critical 往往暗示结果取决于此。"
       ],
       "usage": "句型 It’s critical for us to + 动词原形；此处是“很重要”，critical thinking 中则是“审慎判断”。",
       "ipa": "/ˈkrɪtɪkl/",
@@ -3088,11 +3257,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "critically adv. 批判性地；至关重要地",
-        "criticism n. 批评；评论",
-        "criticize / criticise v. 批评；评论",
-        "critic n. 评论家；批评者"
-      ]
+        "critically adv. 关键地；极其"
+      ],
+      "wordFamilyRoot": "critical"
     },
     "76": {
       "word": "reflect",
@@ -3104,7 +3271,7 @@
         "reflect on the relationship 思考关系"
       ],
       "compare": [
-        "reflect on 表示深思；reflect something 也可表示反映某事。"
+        "reflect on 与 think carefully about 都指深入思考；reflect on 常带回顾、审视自身想法的意味。"
       ],
       "usage": "原句 reflect on how we perceive...，on 后接疑问词从句。",
       "ipa": "/rɪˈflekt/",
@@ -3136,7 +3303,13 @@
           "exampleChinese": "本报的宗旨是表达当地人民的心声。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "reflect",
+      "family": [
+        "reflection n. 反思；反映",
+        "reflective adj. 深思的；反思的",
+        "reflectively adv. 沉思地"
+      ]
     }
   }
 }

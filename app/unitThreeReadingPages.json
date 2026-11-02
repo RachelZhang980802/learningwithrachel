@@ -65,7 +65,7 @@
     },
     {
       "type": "text",
-      "text": "The House of The Seven Gables ——Nathanial Hawthorne"
+      "text": "The House of the Seven Gables — Nathaniel Hawthorne"
     }
   ],
   "6": [
@@ -75,8 +75,12 @@
     },
     {
       "type": "quote",
-      "text": "It was a mansion over which, if any mortal could make the boast, a witch had been hanged in front, and a dead man’s curse seemed to linger on it from the very threshold. Its walls were heavily timbered with dark oak, and stood in gloomy massiveness, as if built with a stern regard to permanence and security, yet with a grim look of desolation, and a warning of some secret thing, subtly hidden within.",
-      "translation": "“那是一座古老的宅邸，据说曾有女巫在前面被处以绞刑，而一个死者的诅咒似乎从门槛开始就萦绕其间。它的墙壁厚重，以深色橡木建造，笼罩在一种阴暗的压抑中，仿佛专为永恒与安全而筑，但却透着一种严峻的荒凉气息，隐隐透露出某种隐藏的秘密，仿佛在警告着过路人”。"
+      "text": "His home would include the home of the dead and buried wizard, and would thus afford the ghost of the latter a kind of privilege to haunt its new apartments, and the chambers into which future bridegrooms were to lead their brides, and where children of the Pyncheon blood were to be born. The terror and ugliness of Maule’s crime, and the wretchedness of his punishment, would darken the freshly plastered walls, and infect them early with the scent of an old and melancholy house.",
+      "translation": "他的新宅将覆盖那位已经去世、被埋葬的“巫师”的旧居；于是，后者的幽灵仿佛也有权出没于新宅的房间——未来的新郎将在这里迎来新娘，品钦家的孩子也将在这里出生。莫尔所谓罪行带来的恐惧，以及他受刑的悲惨，仿佛会使新粉刷的墙壁也暗下来，让这座新宅过早染上古老而忧郁的气息。"
+    },
+    {
+      "type": "text",
+      "text": "原著第一章；“巫师”指被指控行巫术的马修·莫尔。原文见 Project Gutenberg: https://www.gutenberg.org/cache/epub/77/pg77-images.html"
     }
   ],
   "7": [
@@ -91,7 +95,7 @@
     },
     {
       "type": "text",
-      "text": "Beauty and the Beast -----Jeanne Marie Leprince de Beaumont"
+      "text": "Beauty and the Beast\nAndrew Lang (ed.), The Blue Fairy Book\nafter Madame de Villeneuve"
     }
   ],
   "8": [
@@ -101,23 +105,23 @@
     },
     {
       "type": "quote",
-      "text": "Presently, it led him onto an avenue of trees which ended a splendid castle. It seemed to the merchant very strange that no snow had fallen in the avenue, which was entirely composed of orange trees, covered with flowers and fruit. When he reached the first court of the castle, he saw before him a flight of agate steps. He went up them and passed through several splendidly furnished rooms.",
-      "translation": "不久，他沿着路来到一条林荫大道，大道的尽头是一座富丽堂皇的城堡。商人感到十分奇怪：这条大道上竟然没有积雪，两旁尽是开满花、结满果实的橙树。他来到城堡的第一座庭院，看见面前有一段玛瑙台阶。他拾级而上，穿过了几间陈设华丽的房间。"
+      "text": "It seemed to the merchant very strange that no snow had fallen in the avenue, which was entirely composed of orange trees, covered with flowers and fruit. When he reached the first court of the castle he saw before him a flight of agate steps, and went up them, and passed through several splendidly furnished rooms.",
+      "translation": "商人觉得奇怪：林荫道上竟没有落雪；道路两旁全是橙树，花果并生。来到城堡的第一重庭院，他看见前方有一道玛瑙台阶，便拾级而上，穿过几间陈设华丽的房间。"
     },
     {
       "type": "text",
-      "text": "Beauty and the Beast -----Jeanne Marie Leprince de Beaumont"
+      "text": "Beauty and the Beast\nAndrew Lang (ed.), The Blue Fairy Book\nafter Madame de Villeneuve"
     }
   ],
   "9": [
     {
       "type": "text",
-      "text": "THE REMOTE CASTLE"
+      "text": "THE MOORLAND HOUSE"
     },
     {
       "type": "quote",
-      "text": "The Heights is seen as a dark and gloomy place where even the lives of those who live there become more dysfunctional and harsh later in life. It was also the sight of some of the most dramatic moments in the novel, such as Hareton being dropped over the banister as a baby but saved by Heathcliff, and Catherine making her shocking love confession about Heathcliff. It is also a place where most of the lives of its inhabitants were cut short, where disease and hardship would have run rapid there and had died at a young age. (e.g. Frances Earnshaw dying from consumption after childbirth and Linton Heathcliff succumbing to his frail health).",
-      "translation": "呼啸山庄被描绘成一个阴暗压抑的地方，住在那里的人，后来的生活也愈发失序而艰难。小说中一些最富戏剧性的事件就发生在这里：例如，还是婴儿的哈里顿从楼梯栏杆上被扔下，却被希斯克利夫救住；凯瑟琳也曾在这里吐露她对希斯克利夫令人震惊的爱情。这里许多居民的人生都过早结束，疾病和苦难肆虐，不少人年纪轻轻便离开人世。例如，弗朗西丝·恩肖在产后死于肺结核，林顿·希斯克利夫则因体弱多病而早逝。"
+      "text": "One step brought us into the family sitting-room, without any introductory lobby or passage: they call it here “the house” pre-eminently.\n\nIt includes kitchen and parlour, generally; but I believe at Wuthering Heights the kitchen is forced to retreat altogether into another quarter: at least I distinguished a chatter of tongues, and a clatter of culinary utensils, deep within; and I observed no signs of roasting, boiling, or baking, about the huge fireplace; nor any glitter of copper saucepans and tin cullenders on the walls.",
+      "translation": "洛克伍德一步便走进了起居室，中间没有门厅，也没有过道；这里的人尤其把它叫作“正屋”。\n一般说来，正屋兼作厨房和客厅；但在呼啸山庄，厨房似乎被挪到了别处。我只听见深处有人说话、厨具叮当作响；那座巨大的壁炉旁看不见烤煮食物的迹象，墙上也没有闪亮的铜锅与锡滤锅。"
     },
     {
       "type": "text",
@@ -142,7 +146,7 @@
   "11": [
     {
       "type": "text",
-      "text": "Windmill and Sunflower"
+      "text": "Windmill and Sunflowers"
     },
     {
       "type": "quote",
@@ -153,22 +157,30 @@
   "12": [
     {
       "type": "text",
-      "text": "Windmill and Sunflower"
+      "text": "The Floss and Its Watermill"
     },
     {
       "type": "quote",
-      "text": "The rush of the water and the booming of the mill bring a dreamy deafness, which seems to heighten the peacefulness of the scene. A wide plain where the broadening Floss hurries on between its green banks to the sea; and the loving tide, rushing to meet it, checks its passage with an impetuous embrace.",
-      "translation": "水流的奔涌声和磨坊的轰鸣声带来一种朦胧的沉寂，似乎让这片景色更显宁静。宽广的平原上，弗洛斯河在绿意葱茏的河岸间奔腾，奔向大海；温柔的潮汐急切地迎上去，以一种汹涌的拥抱将它挽留。"
+      "text": "A wide plain, where the broadening Floss hurries on between its green banks to the sea, and the loving tide, rushing to meet it, checks its passage with an impetuous embrace. […] The rush of the water and the booming of the mill bring a dreamy deafness, which seems to heighten the peacefulness of the scene.",
+      "translation": "一片广阔的平原上，弗洛斯河沿着绿色河岸奔向大海；潮水迎面涌来，热烈地拥住河水，阻住了它的去路。［原文此处略去数段］水流的奔涌与磨坊的轰鸣带来梦一般的听觉隔绝，反倒使景色显得更加宁静。"
+    },
+    {
+      "type": "text",
+      "text": "图中的风车是视觉素材；艾略特原文写的是河边的水磨坊，不是风车。"
     }
   ],
   "13": [
     {
       "type": "text",
-      "text": "Windmill and Sunflower"
+      "text": "Sound and Silence"
     },
     {
       "type": "text",
       "text": "王籍《入若耶溪》艅艎何泛泛，空水共悠悠。阴霞生远岫，阳景逐回流。蝉噪林逾静，鸟鸣山更幽。此地动归念，长年悲倦游。"
+    },
+    {
+      "type": "text",
+      "text": "王籍的诗用蝉鸣、鸟鸣反衬林静山幽，与上一页水声衬托宁静的写法相呼应。"
     }
   ],
   "14": [
@@ -189,8 +201,8 @@
     },
     {
       "type": "quote",
-      "text": "When I came near the bazaar I found that it was dark and silent and had almost closed. I recognised a silence like that which pervades a church after a service. I walked into the centre of the bazaar timidly. A few people were gathered about the stalls which were still open. I listened to the fall of the coins... remembering with difficulty why I had come.",
-      "translation": "当我走近集市时，发现那里一片黑暗和寂静，几乎已经关门。我感受到了一种教堂礼拜后那种弥漫的沉寂。我怯生生地走向集市的中心。少数人聚在仍然营业的摊位旁。我听到硬币落下的声音……却勉强记起了我来此的目的。"
+      "text": "Nearly all the stalls were closed and the greater part of the hall was in darkness. I recognised a silence like that which pervades a church after a service. I walked into the centre of the bazaar timidly. A few people were gathered about the stalls which were still open.",
+      "translation": "大多数摊位已经关门，大厅里大半都陷在黑暗中。我感到一种教堂礼拜后那样的寂静。我怯生生地走到集市中央；只有几个人聚在仍然营业的摊位前。"
     }
   ],
   "16": [
@@ -218,12 +230,12 @@
   "18": [
     {
       "type": "text",
-      "text": "Sunrises Over Hills"
+      "text": "A Road Through the Hills"
     },
     {
       "type": "quote",
-      "text": "At the far end of the valley, the river narrowed and went into a gorge. It was chilly in the early morning, but as the sun rose, the heat came suddenly, and I started to sweat. The sun was hot, and the country was brown and dry, and you could see the trees along the river. In the morning, it was too hot to fish, but I found a good spot and lay down, and I watched the sun rise over the mountains.",
-      "translation": "在山谷的尽头，河流变窄，流入一条峡谷。清晨寒冷，但随着太阳升起，热浪突然袭来，我开始出汗。太阳炙热，土地褐黄干燥，河边可以看到树木。早上太热了，不适合钓鱼，但我找了个好地方，躺下，看着太阳从山上升起。"
+      "text": "The bus climbed steadily up the road. The country was barren and rocks stuck up through the clay. There was no grass beside the road. Looking back we could see the country spread out below. Far back the fields were squares of green and brown on the hillsides. Making the horizon were the brown mountains. They were strangely shaped. As we climbed higher the horizon kept changing.",
+      "translation": "公共汽车沿着山路稳稳爬升。土地贫瘠，岩石从黏土中突出来，路边没有草。回头望去，乡野在下方铺展开来；远处山坡上的田地分成绿色和褐色的方块。褐色的群山勾勒出地平线，形状奇特。随着车继续上行，地平线也不断变化。"
     }
   ],
   "19": [
@@ -426,8 +438,8 @@
     },
     {
       "type": "quote",
-      "text": "It was one of those March evenings when the lingering light promised spring, but the air was as cold as February, and January still whistled in. (Harvard Yard by William Martin)",
-      "translation": "那是三月份的一个夜晚，久久徘徊的光线暗示着春天已经到来，但天气却如二月一般寒冷，也依然能够感受到一月的狂风嚎叫"
+      "text": "…the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. — Charlotte Brontë, Jane Eyre, Chapter I",
+      "translation": "……寒冷的冬风带来了阴沉的云和透骨的雨，户外活动也就不可能继续了。"
     }
   ],
   "33": [
@@ -456,7 +468,7 @@
     },
     {
       "type": "text",
-      "text": "Using sensory detail is the key to bringing the setting alive. And it’s not about coming up with a few random sights, smells, sounds, or textures but about carefully choosing these elements via POV so that they not only bring a locale to life but share something helpful about the character experiencing the setting."
+      "text": "“Using sensory detail is the key to bringing setting alive.” Rather than list a place’s sights and sounds, choose details through a character’s eyes. An unexpected smell or texture can suggest what that character remembers or fears, while helping readers picture where the scene takes place."
     },
     {
       "type": "text",

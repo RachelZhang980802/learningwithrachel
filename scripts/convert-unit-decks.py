@@ -115,6 +115,16 @@ def prepare_font(doc,font):
   for nameid,value in [(1,alias),(2,'Regular'),(4,alias),(6,alias)]:tt['name'].setName(value,nameid,3,1,0x409)
   # Fixed line metrics make the HTML baseline equal to the PDF baseline.
   tt['hhea'].ascent=units;tt['hhea'].descent=0;tt['hhea'].lineGap=0
+  # Some embedded TrueType subsets omit tables that PDF readers tolerate but
+  # browser OpenType Sanitizer requires. Preserve their glyphs while adding
+  # standard metadata before exporting them as WOFF2.
+  if 'OS/2' not in tt or 'post' not in tt:
+   repair_builder=FontBuilder(units,isTTF='glyf' in tt)
+   repair_builder.font=tt
+   if 'OS/2' not in tt:
+    repair_builder.setupOS2(sTypoAscender=units,sTypoDescender=0,usWinAscent=units,usWinDescent=0)
+   if 'post' not in tt:
+    repair_builder.setupPost(keepGlyphNames=False)
   if 'OS/2' in tt:
    tt['OS/2'].sTypoAscender=units;tt['OS/2'].sTypoDescender=0;tt['OS/2'].sTypoLineGap=0;tt['OS/2'].usWinAscent=units;tt['OS/2'].usWinDescent=0
   cmap=tt.getBestCmap() or {};widths={c:tt['hmtx'][g][0]/units for c,g in cmap.items()}

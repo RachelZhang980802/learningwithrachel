@@ -562,7 +562,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
 
       <section class="slide units-slide" id="units" data-nav="units" aria-labelledby="units-title">
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>LEARNING UNITS</p></div></div>
-        <div class="units-heading"><h1 id="units-title">Six units to know<br />Narrative Writing</h1><p>A writing skill and a language focus<br />in every unit.</p></div>
+        <div class="units-heading"><h1 id="units-title">Six units to know<br />Narrative Writing</h1><p>Explore selected pages from<br />each original lesson deck.</p></div>
         <div class="unit-grid">
           <a class="unit-card coral-card" href="#unit-one"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-01.png" alt="A garden dinner beneath trees and string lights" /><div><b>01</b><h3>Life and Value</h3><p>Overview</p></div></a>
           <a class="unit-card yellow-card" href="#unit-two"><img src="https://assets.negentropylearning.com.cn/narrative-writing/assets/unit-custom-02.png" alt="Blue figures reaching toward one another in a crowd" /><div><b>02</b><h3>Empathy and<br />Justice</h3><p>Characterization</p></div></a>

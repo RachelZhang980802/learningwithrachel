@@ -5842,15 +5842,14 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .writing-sample-kicker { margin: 0 0 12px; color: var(--red); font-size: 11px; font-weight: 700; letter-spacing: .16em; }
 .writing-task-view .writing-sample h2 { margin: 0; font: 400 clamp(29px,3vw,41px)/1.1 Georgia,serif; letter-spacing: -.03em; }
 .writing-sample-switch { flex: 0 0 auto; padding: 9px 0 5px; border: 0; border-bottom: 1px solid currentColor; background: transparent; color: var(--red); font-size: 14px; font-weight: 600; cursor: pointer; }
-.writing-sample-intro, .writing-sample-paragraph p, .writing-sample-conclusion p { margin: 0; color: #26312b; font: 400 clamp(19px,2vw,22px)/1.65 Georgia,serif; }
-.writing-sample-intro { margin: 31px 0 26px; }
+.writing-sample-intro, .writing-sample-paragraph-copy, .writing-sample-conclusion p { margin: 0; color: #26312b; font: 400 clamp(17px,1.5vw,20px)/1.7 Georgia,serif; }
+.writing-sample-intro-guide { margin: 28px 0 8px; color: var(--muted); font: 700 10px/1.4 Arial,sans-serif; letter-spacing: .13em; }
+.writing-sample-intro { margin: 0 0 26px; }
 .writing-sample-anchors { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 34px; }
 .writing-sample-anchors > p { grid-column: 1 / -1; margin: 0 0 4px; color: var(--muted); font-size: 11px; font-weight: 700; letter-spacing: .13em; }
 .writing-sample-anchors > span { display: flex; gap: 11px; align-items: baseline; padding: 14px 16px; border-top: 2px solid var(--red); background: #f5f1e9; color: #26312b; font: 400 18px/1.3 Georgia,serif; }
 .writing-sample-anchors b { color: var(--red); font: 700 11px Arial,sans-serif; }
-.writing-peel-legend { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0 0 9px; color: var(--muted); font-size: 12px; }
-.writing-peel-legend b { color: var(--red); letter-spacing: .13em; }
-.writing-sample-paragraph { padding: 28px 0 35px; border-top: 1px solid rgba(24,27,24,.22); }
+.writing-sample-paragraph { --argument-ink: #8f3e33; --argument-bg: #f7e4dd; padding: 28px 0 35px; border-top: 1px solid rgba(24,27,24,.22); }
 .writing-sample-paragraph h3 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 15px; margin: 0 0 20px; color: #263d34; font: 400 23px/1.25 Georgia,serif; }
 .writing-sample-paragraph h3 span, .writing-sample-conclusion h3 { color: var(--red); font: 700 11px/1.4 Arial,sans-serif; letter-spacing: .12em; }
 .writing-peel-step { display: inline; }
@@ -5885,10 +5884,23 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 /* The two argument keywords share their highlight colors with the matching PEEL Point sentences. */
 .writing-sample .argument-1 { --argument-ink: #8f3e33; --argument-bg: #f7e4dd; }
 .writing-sample .argument-2 { --argument-ink: #1b625d; --argument-bg: #e0f0eb; }
-.writing-sample .writing-sample-context { --argument-ink: #5a635e; --argument-bg: #eceee9; }
-.writing-sample-context h3 { color: #4e5b52; }
 .writing-sample-anchors > span.argument-1, .writing-sample-anchors > span.argument-2 { border-top-color: var(--argument-ink); background: var(--argument-bg); color: var(--argument-ink); font-weight: 600; }
 .writing-sample-anchors > span.argument-1 b, .writing-sample-anchors > span.argument-2 b { color: inherit; }
 .writing-sample-paragraph.argument-1 h3, .writing-sample-paragraph.argument-2 h3 { color: var(--argument-ink); }
-.writing-peel-point > b { background: var(--argument-bg); color: var(--argument-ink); }
+.writing-sample-concession h3 { color: #5d6254 !important; }
+.writing-peel-point > b, .writing-peel-point summary > b { background: var(--argument-bg); color: var(--argument-ink); }
 .writing-peel-point > mark { padding: 2px 3px; background: var(--argument-bg); color: var(--argument-ink); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+
+/* Tap the blank PEEEL element to reveal the model sentence for comparison. */
+.writing-peel-practice { display: inline; }
+.writing-peel-practice-trigger { display: inline; margin: 0; padding: 0; border: 0; background: transparent; color: inherit; font: inherit; line-height: inherit; text-align: inherit; cursor: pointer; }
+.writing-peel-practice-trigger > b { margin-right: 7px; padding: 1px 6px 2px; border-radius: 2px; background: #f2d481; color: #71421e; box-shadow: 0 0 0 2px rgba(242,212,129,.38); font: 700 10px/1.4 Arial,sans-serif; vertical-align: .15em; }
+.writing-peel-blank { display: inline-block; min-width: 12em; margin-right: .2em; border-bottom: 1px solid currentColor; vertical-align: baseline; }
+.writing-peel-practice-trigger[aria-expanded="true"] .writing-peel-blank { display: none; }
+.writing-peel-answer { display: inline; padding: 2px 3px; background: var(--argument-bg); color: var(--argument-ink); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+
+.writing-sentence-translation { display: inline; }
+.writing-sentence-trigger { display: inline; margin: 0; padding: 0; border: 0; border-radius: 2px; background: transparent; color: inherit; font: inherit; line-height: inherit; text-align: inherit; cursor: pointer; }
+.writing-sentence-trigger:hover, .writing-sentence-trigger[aria-expanded="true"] { background: rgba(230, 201, 142, .28); }
+.writing-sentence-translation > span[lang="zh-CN"] { display: inline; margin-left: .45em; padding: 1px 4px; border-radius: 2px; background: rgba(255,250,240,.78); color: #705b4d; font: 400 14px/1.6 Arial,"PingFang SC","Microsoft Yahei",sans-serif; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.writing-peel-answer .writing-sentence-translation > span[lang="zh-CN"] { color: var(--argument-ink); }

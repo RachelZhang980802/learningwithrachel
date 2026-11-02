@@ -25,8 +25,9 @@ test('all 49 sentences retain original content, Chinese explanations and vocabul
   assert.equal(lesson.sentences.length,49);assert.deepEqual(lesson.vocabulary,raw['06'].vocabulary);
   for(const [i,s]of lesson.sentences.entries()){
     const original=raw['06'].sentences[i];
-    for(const f of ['id','paragraph','audioSrc','translation','classification','paraphrase','reuse','pdfNotes'])assert.deepEqual(s[f],original[f],`${s.id}: ${f}`);
+    for(const f of ['id','paragraph','audioSrc','translation','classification','paraphrase','reuse','pdfNotes'])assert.deepEqual(f==='classification'?Object.fromEntries(Object.entries(s[f]).filter(([key])=>key!=='studyLevel')):s[f],original[f],`${s.id}: ${f}`);
     assert.ok(s.note.includes(original.note));
+    assert.ok(["simple","long"].includes(s.classification.studyLevel));
     const {fullArticleParagraphs}=load(path.join(root,'app/suppliedArticles.ts'));
     assert.equal(fullArticleParagraphs[5][s.paragraph-1].slice(s.paragraphStart,s.paragraphEnd),s.text);
     const destinations=(owner,text)=>vocabularyMatches(owner,s.id,text).map(v=>({sourceRow:v.sourceRow,word:v.word,form:text.slice(v.start,v.end)}));

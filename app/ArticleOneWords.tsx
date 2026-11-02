@@ -90,7 +90,7 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   ];
   groups.forEach(group => {
     const items = parsed.filter(item => group.matches(item.title));
-    if (items.length || group.id === "collocations") cards.push({ ...group, content: <div className="word-related">{items.map((item, index) => <section key={index}><h3>{labels[item.title] ?? item.title}</h3>{item.title === "Pattern & Collocation" ? <CollocationLines values={item.content.split("\n").filter(Boolean)}/> : <p>{item.content}</p>}</section>)}{group.id === "collocations" && <WordFamilyTreeGame root={family?.root ?? entry.word} entries={familyEntries} note={family?.note}/>}</div> });
+    if (items.length || group.id === "collocations") cards.push({ ...group, content: <div className="word-related">{items.map((item, index) => <section key={index}><h3>{labels[item.title] ?? item.title}</h3>{item.title === "Pattern & Collocation" ? <CollocationLines values={item.content.split("\n").filter(Boolean)}/> : <p>{item.content}</p>}</section>)}{group.id === "collocations" && <WordFamilyTreeGame root={family?.root ?? entry.word} entries={familyEntries} distinctions={family?.distinctions}/>}</div> });
   });
   const hasPressExample = Boolean(entry.examples?.trim() && entry.examples.trim() !== "—");
   const pressExample = parsePressExample(entry.examples ?? "");

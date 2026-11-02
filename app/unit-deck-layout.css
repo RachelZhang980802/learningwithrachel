@@ -1,6 +1,16 @@
 /* Keep the source artwork; fit these source text boxes within their clear areas.
    The original PDF export lets them touch illustrations or the page border. */
-.narrative-course [data-deck-text-id="u3-p3-b6"] { transform:scale(.85); transform-origin:top left; }
+.narrative-course [data-deck-text-id="u3-p3-b6"] {
+  width:35cqw!important; height:auto!important; transform:none!important; line-height:1.16!important;
+}
+.narrative-course [data-deck-text-id="u3-p3-b6"] > span {
+  position:static!important; display:inline!important; white-space:normal!important;
+  font-size:2cqw!important; line-height:1.16!important; transform:none!important;
+}
+@media (max-width:600px) {
+  .narrative-course [data-deck-text-id="u3-p3-b6"] { width:39cqw!important; line-height:1.02!important; }
+  .narrative-course [data-deck-text-id="u3-p3-b6"] > span { font-size:1.65cqw!important; line-height:1.02!important; }
+}
 .narrative-course [data-deck-text-id="u4-p15-b3"] { transform:scale(.86); transform-origin:top left; }
 .narrative-course [data-deck-text-id="u4-p15-b4"] { transform:translate(1cqw,-2cqw) scale(.9); transform-origin:top left; }
 .narrative-course [data-deck-text-id="u4-p17-b1"] { transform:scale(.9); transform-origin:top left; }
@@ -23,6 +33,11 @@
 }
 .narrative-course [data-deck-text-id="u3-p23-b3"] { transform:scale(.9); transform-origin:top left; }
 .narrative-course [data-deck-text-id="u3-p30-b2"] { transform:translateY(-1.5cqw); }
+.narrative-course [data-deck-text-id="u3-p30-b2"] > span {
+  padding:0 .35cqw;
+  background:rgba(255,249,231,.96);
+  box-decoration-break:clone;
+}
 .narrative-course [data-deck-text-id="u3-p33-b0"],
 .narrative-course [data-deck-text-id="u3-p37-b0"] { transform:scale(.9); transform-origin:top left; }
 .narrative-course [data-deck-text-id="u3-p33-b1"] { transform:scale(.95); transform-origin:top left; }

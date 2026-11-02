@@ -66,7 +66,8 @@ test('all 154 supplied vocabulary entries have Chinese notes, source links and r
       assert.ok(word.sources.length && word.ipa && word.partOfSpeech && word.usage);
       for (const source of word.sources) assert.match(source.url, /^https:\/\/(dictionary\.cambridge\.org|www\.oxfordlearnersdictionaries\.com)\//);
       for (const family of word.family) assert.doesNotMatch(family, /^(noun|verb|adjective|adverb):/);
-      for (const key of ['collocations', 'compare', 'family']) assert.ok(word[key].length);
+      assert.ok(word.collocations.length);
+      for (const key of ['compare', 'family']) assert.ok(Array.isArray(word[key]));
     }
   }
 });

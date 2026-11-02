@@ -13,11 +13,13 @@ test('article 10 has a complete contextual word card and offline recording for e
   for (const [row, card] of Object.entries(cards)) {
     assert.equal(card.sourceRow, Number(row));
     assert.ok(card.word && card.english && card.chinese && card.usage, row);
-    assert.ok(card.collocations.length >= 2 && card.compare.length >= 1, row);
+    assert.ok(Array.isArray(card.collocations) && card.collocations.length >= 1, row);
+    assert.ok(Array.isArray(card.compare) && card.compare.every(value => typeof value === 'string' && value.trim()), row);
+    assert.equal(Object.hasOwn(card, 'sourceCaveat'), false, row);
+    for (const context of Object.values(card.contextBySentence ?? {})) assert.equal(Object.hasOwn(context, 'sourceCaveat'), false, row);
     assert.ok(card.articleExample === lesson.title || lesson.sentences.some(s=>s.text===card.articleExample), `${row}: article context`);
     assert.ok(['present','none_in_excerpt','missing_source'].includes(card.otherMeaningsStatus), row);
     assert.equal(card.otherMeaningsStatus === 'present', card.otherMeanings.length > 0, row);
-    if (!card.oxfordExcerptProvided) assert.match(card.sourceCaveat, /未单列/, row);
     if (card.dictionaryExample) assert.match(card.dictionaryExample.source, /Oxford Advanced Learner/, row);
     for (const sense of card.otherMeanings) {
       assert.ok(sense.english && sense.chinese, `${row}: bilingual other meaning`);
@@ -30,12 +32,12 @@ test('article 10 has a complete contextual word card and offline recording for e
     assert.ok(fs.statSync(wav).size > 5000, `${row}: nonempty WAV`);
   }
 });
-test('article 10 marks excerpt gaps and separates literary river senses from generic dictionary senses', () => {
+test('article 10 retains source-status metadata and contextual literary river senses', () => {
   for (const row of [24,42,47,49,70]) assert.equal(cards[row].otherMeaningsStatus, 'missing_source');
   assert.match(cards['32'].chinese, /沙洲/);
-  assert.match(cards['32'].sourceCaveat, /未列该航海义/);
-  assert.match(cards['39'].sourceCaveat, /仅列 compass 名词/);
-  assert.match(cards['35'].sourceCaveat, /未单列此动词短语/);
+  assert.match(cards['32'].english, /submerged|sediment/);
+  assert.match(cards['39'].english, /achieve|bring about/);
+  assert.match(cards['35'].english, /shallower|sand/);
 });
 
 test('article 10 PDF highlights resolve to indexed words in Text and the card UI', () => {

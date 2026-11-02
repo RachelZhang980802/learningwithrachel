@@ -13,8 +13,9 @@ import "./unit-deck-layout.css";
 import "./unit-deck-layout-unit12.css";
 import "./unit-deck-layout-unit56.css";
 
-type SourceText = { id: string; text: string; bbox?: number[]; x?: number; y?: number; width?: number; height?: number };
-type SourcePage = { page: number; width?: number; height?: number; art: string; html: string; texts: SourceText[] };
+type SourceText = { id: string; text: string; translation?: string; bbox?: number[]; x?: number; y?: number; width?: number; height?: number };
+type SourceCitation = { textId: string; label: string; url?: string; status: "verbatim" | "excerpted" | "adapted" | "paraphrase" | "classroom" | "unverified"; note?: string };
+type SourcePage = { page: number; width?: number; height?: number; art: string; html: string; texts: SourceText[]; citations?: SourceCitation[] };
 type SourceDeck = { unit?: number; width: number; height: number; pages: SourcePage[] };
 type SourceManifest = { version?: string; unit: number; title: string; source: string; sourceKind: string; pageCount: number; width: number; height: number; dataUrl: string; sourcePages: number[] };
 const manifests = sources as Record<string, SourceManifest>;
@@ -25,6 +26,14 @@ const normalize = (text: string) => text.normalize("NFKC").toLowerCase().replace
 const compact = (text: string) => normalize(text).replace(/[^\p{L}\p{N}]/gu, "");
 const contextTranslations = glossaryById as Record<string, { sourceEnglish: string; translation: string }>;
 const translations = new Map(Object.entries(glossary).map(([en, zh]) => [compact(en), zh as string]));
+const citationStatusLabels: Record<SourceCitation["status"], string> = {
+  verbatim: "已核实原文",
+  excerpted: "原文节录",
+  adapted: "改写，非逐字原文",
+  paraphrase: "概述，非原文",
+  classroom: "课堂材料，非摘录",
+  unverified: "出处待核实",
+};
 function translationFor(text: string) {
   const direct = translations.get(compact(text));
   if (direct) return direct;
@@ -106,10 +115,100 @@ function reflowMarkup(html: string) {
   });
 }
 
+// These source answer slides place their red answers over the printed
+// questions. Keep the original paper artwork, but set each question and answer
+// on its own row so every word remains legible at the page's native aspect ratio.
+function readableWorksheet(page: SourcePage) {
+  const isFirstIdentification = page.page === 178 && page.texts.some(text => text.id === "u5-p178-b0");
+  const isIdentification = page.page === 179 && page.texts.some(text => text.id === "u5-p179-b0");
+  const isRewrite = page.page === 180 && page.texts.some(text => text.id === "u5-p180-b0");
+  if (!isFirstIdentification && !isIdentification && !isRewrite) return null;
+  const prefix = isFirstIdentification ? "u5-p178" : isIdentification ? "u5-p179" : "u5-p180";
+  const heading = isFirstIdentification
+    ? '<div class="ud-worksheet-title">Activity 7: Finding out the Figurative Devices</div>'
+    : page.html.match(new RegExp(`<div[^>]*data-deck-text-id="${prefix}-b0"[\\s\\S]*?<\\/div>`))?.[0] ?? "";
+  const escape = (value: string) => value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  const entry = (id: string, tone: "question" | "answer") => {
+    const value = page.texts.find(text => text.id === id)?.text.replace(/\s+/g, " ").trim() ?? "";
+    return `<div class="ud-worksheet-${tone}" data-deck-text-id="${id}" tabindex="0" role="button" aria-label="${escape(value)}"><span>${escape(value)}</span></div>`;
+  };
+  if (isFirstIdentification) {
+    const inlineQuestion = (id: string) => {
+      const value = page.texts.find(text => text.id === id)?.text.replace(/\s+/g, " ").trim() ?? "";
+      return `<span class="ud-worksheet-question" data-deck-text-id="${id}" tabindex="0" role="button" aria-label="${escape(value)}">${escape(value)}</span>`;
+    };
+    const rows: [string[], string][] = [
+      [["img2", "img3"], "Hyperbole"], [["img4"], "Metaphor"], [["img6"], "Hyperbole"],
+      [["img7"], "Personification"], [["img8", "img9"], "Metaphor"], [["img11", "img12"], "Alliteration"],
+      [["img14", "img15"], "Personification"], [["img17"], "Metaphor"],
+    ];
+    const body = rows.map(([questionIds, answer], index) => `<div class="ud-worksheet-row"><div class="ud-worksheet-question-group">${questionIds.map(id => inlineQuestion(`${prefix}-${id}`)).join(" ")}</div><div class="ud-worksheet-answer" data-deck-text-id="${prefix}-answer-${index + 1}" data-deck-value="${escape(answer)}" tabindex="0" role="button" aria-label="${escape(answer)}"><span>${escape(answer)}</span></div></div>`).join("");
+    return `${heading}<div class="ud-worksheet-layout ud-worksheet-identification ud-worksheet-identification--first">${body}</div>`;
+  }
+  const rows = isIdentification
+    ? [
+        [["img2"], "b6"], [["img3", "img4"], "b2"], [["img6", "img7"], "b3"],
+        [["img9"], "b7"], [["img11"], "b4"], [["img13", "img14"], "b1"], [["img16"], "b5"],
+      ] as const
+    : [
+        [["img1"], "b1"], [["img4"], "b2"], [["img7"], "b3"],
+        [["img10"], "b4"], [["img13", "img14"], "b5"],
+      ] as const;
+  const body = rows.map(([questionIds, answerId]) => `<div class="ud-worksheet-row"><div class="ud-worksheet-question-group">${questionIds.map(id => entry(`${prefix}-${id}`, "question")).join(" ")}</div>${entry(`${prefix}-${answerId}`, "answer")}</div>`).join("");
+  return `${heading}<div class="ud-worksheet-layout ${isIdentification ? "ud-worksheet-identification" : "ud-worksheet-rewrite"}">${body}</div>`;
+}
+
+const hemingwayStarRules = [
+  ["Use short sentences.", "使用简短的句子。"],
+  ["Use short first paragraphs.", "开篇段落要简短。"],
+  ["Use vigorous English.", "使用有力的英语。"],
+  ["Avoid the use of adjectives.", "避免滥用形容词。"],
+  ["Eliminate every superfluous word.", "删去每个多余的词。"],
+] as const;
+
+// This source slide contains a clipped screenshot of an article. Its five
+// Star style-sheet rules are complete, but the surrounding prose is cut off.
+// Replace the fragments with a short verified context sentence and full rules.
+function readableHemingwayPage(page: SourcePage) {
+  if (page.page !== 101 || !page.texts.some(text => text.id === "u4-p101-b0")) return null;
+  const rules = hemingwayStarRules.map(([english, translation], index) => `<li data-deck-text-id="u4-p101-rule-${index}" data-deck-value="${english}" data-deck-label="${english}" data-deck-translation="${translation}" tabindex="0" role="button" aria-label="${english}">${english}</li>`).join("");
+  return `<div class="ud-hemingway-panel"><p>At The Kansas City Star, Hemingway learned newsroom rules that shaped his spare prose.</p><ol>${rules}</ol><a href="https://www.themorgan.org/press/2015/ernest-hemingway-between-two-wars" target="_blank" rel="noopener noreferrer">Source: The Morgan Library &amp; Museum ↗</a></div>`;
+}
+
+// The embedded tense infographic on Unit 4 page 106 is cropped in the source
+// PDF. Rebuild its intended 12-form comparison as selectable HTML, keeping the
+// original past/present/future palette while restoring every clipped example.
+function readableTensesPage(page: SourcePage) {
+  if (page.page !== 106 || !page.texts.some(text => text.id === "u4-p106-b0")) return null;
+  const escape = (value: string) => value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  const columns = [
+    { time: "Past", tone: "past", forms: [
+      ["Simple", "I went to school.", "我去上学了。"],
+      ["Continuous", "I was going to school.", "那时我正去学校。"],
+      ["Perfect", "I had gone to school.", "那时我已经去学校了。"],
+      ["Perfect continuous", "I had been going to school.", "到过去那个时候，我一直在上学。"],
+    ] },
+    { time: "Present", tone: "present", forms: [
+      ["Simple", "I go to school.", "我上学。"],
+      ["Continuous", "I am going to school.", "我现在正去学校。"],
+      ["Perfect", "I have gone to school.", "我已经去学校了。"],
+      ["Perfect continuous", "I have been going to school.", "我一直在上学。"],
+    ] },
+    { time: "Future", tone: "future", forms: [
+      ["Simple", "I will go to school.", "我将去学校。"],
+      ["Continuous", "I will be going to school.", "到那时我会正在去学校的路上。"],
+      ["Perfect", "I will have gone to school.", "到那时我已经去学校了。"],
+      ["Perfect continuous", "I will have been going to school.", "到那时，我已经持续上学一段时间了。"],
+    ] },
+  ];
+  const cards = columns.map(column => `<section class="ud-tense-column ud-tense-${column.tone}"><h3>${column.time}</h3>${column.forms.map(([label, example, translation], index) => `<div class="ud-tense-card" data-deck-text-id="u4-p106-${column.tone}-${index}" data-deck-value="${escape(example)}" data-deck-label="${escape(`${column.time} ${label}: ${example}`)}" data-deck-translation="${escape(translation)}" tabindex="0" role="button" aria-label="${escape(`${column.time} ${label}: ${example}`)}"><b>${escape(label)}</b><span>${escape(example)}</span></div>`).join("")}</section>`).join("");
+  return `<div class="ud-tense-timeline"><h2>English Tenses Timeline</h2><p>How time and aspect change the same action</p><div class="ud-tense-columns">${cards}</div><a href="https://englishlessonsbrighton.co.uk/all-english-tenses-timeline-infographic/" target="_blank" rel="noopener noreferrer">Adapted from English Lessons Brighton · View the original chart ↗</a></div>`;
+}
+
 // Keep source nodes stable while selection/recall changes, so keyboard focus and
 // the recovered text's fitted width survive React updates.
-const SourceHtml = memo(function SourceHtml({ html }: { html: string }) {
-  return <div className="ud-source-html" dangerouslySetInnerHTML={{ __html: reflowMarkup(reflowRecoveredGroups(html)) }} />;
+const SourceHtml = memo(function SourceHtml({ page }: { page: SourcePage }) {
+  return <div className="ud-source-html" dangerouslySetInnerHTML={{ __html: readableHemingwayPage(page) ?? readableTensesPage(page) ?? readableWorksheet(page) ?? reflowMarkup(reflowRecoveredGroups(page.html)) }} />;
 });
 
 export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate: (hash: string) => void }) {
@@ -125,9 +224,10 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
   const [zoom, setZoom] = useState(1);
   const stage = useRef<HTMLDivElement>(null);
   const meaningCard = useRef<HTMLElement>(null);
+  const citationSection = useRef<HTMLElement>(null);
   const [meaningPlacement, setMeaningPlacement] = useState<{ textId: string; left: number; top: number; width: number; maxHeight: number } | null>(null);
   const page = deck?.pages[index];
-  const meaning = useMemo(() => selected ? contextTranslations[selected.id]?.translation ?? translationFor(selected.text) : null, [selected]);
+  const meaning = useMemo(() => selected ? selected.translation ?? contextTranslations[selected.id]?.translation ?? translationFor(selected.text) : null, [selected]);
 
   useEffect(() => {
     const pageNode = stage.current;
@@ -232,7 +332,7 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
       node.classList.toggle("ud-revealed", revealed.includes(id));
       node.classList.toggle("ud-selected", selected?.id === id);
       node.setAttribute("aria-expanded", String(selected?.id === id || revealed.includes(id)));
-      node.setAttribute("aria-label", recall && !revealed.includes(id) ? "Reveal English" : page?.texts.find(text => text.id === id)?.text ?? "Read text");
+      node.setAttribute("aria-label", recall && !revealed.includes(id) ? "Reveal English" : page?.texts.find(text => text.id === id)?.text ?? node.dataset.deckLabel ?? node.dataset.deckValue ?? "Read text");
     });
   }, [page, selected, recall, revealed, reference]);
 
@@ -267,7 +367,8 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
   const activateText = (event: MouseEvent<HTMLDivElement> | KeyboardEvent<HTMLDivElement>) => {
     const target = (event.target as HTMLElement).closest<HTMLElement>("[data-deck-text-id]");
     if (!target || !stage.current?.contains(target)) return;
-    const text = page?.texts.find(item => item.id === target.dataset.deckTextId);
+    const text = page?.texts.find(item => item.id === target.dataset.deckTextId)
+      ?? (target.dataset.deckValue ? { id: target.dataset.deckTextId ?? "", text: target.dataset.deckValue, translation: target.dataset.deckTranslation } : null);
     if (!text) return;
     event.preventDefault();
     if (recall && !revealed.includes(text.id)) {
@@ -304,7 +405,8 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
         </select></label>
         <button type="button" aria-label="Next page" disabled={index === meta.pageCount - 1 || !deck} onClick={() => turnPage(index + 1)}>→</button>
         <button type="button" aria-pressed={recall} title="Hide text, then click each box to reveal its English" onClick={() => { setRecall(current => !current); setRevealed([]); setSelected(null); }}>Recall English</button>
-        <label><span className="ud-sr-only">Page zoom</span><select aria-label="Page zoom" value={zoom} onChange={event => setZoom(Number(event.target.value))}><option value={1}>Fit page</option><option value={1.25}>125%</option><option value={1.5}>150%</option><option value={2}>200%</option></select></label>
+        <label><span className="ud-sr-only">Page zoom</span><select aria-label="Page zoom" value={zoom} onChange={event => setZoom(Number(event.target.value))}><option value={1}>Fit page</option><option value={1.25}>125%</option><option value={1.5}>150%</option><option value={2}>200%</option><option value={3}>300%</option><option value={4}>400%</option></select></label>
+        {page?.citations?.length ? <button type="button" onClick={() => citationSection.current?.scrollIntoView({ behavior: "smooth", block: "start" })}>Sources · {page.citations.length}</button> : null}
       </div>}
     </nav>
     {reference ? <div className="ud-reference">{unit === 2 ? <CharacterReference /> : <SettingReference />}</div> : error ? <div className="ud-load-state" role="alert">This lesson could not be loaded. <button type="button" onClick={() => setAttempt(value => value + 1)}>Try again</button></div> : !page ? <div className="ud-load-state" role="status">Loading Unit {unit}…</div> : <div className="ud-workspace">
@@ -312,7 +414,7 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
         <div className="ud-page-size" style={{ width: `${zoom * 100}%` }}>
           <div className={`ud-source-page${recall ? " ud-recall" : ""}`} ref={stage} data-deck-page={page.page} style={{ aspectRatio: `${page.width ?? deck?.width ?? meta.width} / ${page.height ?? deck?.height ?? meta.height}` }} onClick={activateText} onKeyDown={onStageKey} aria-label={`Original page ${page.page}`}>
             {page.art.endsWith(".svg") ? <object key={page.art} className="ud-source-art" type="image/svg+xml" data={versionedAsset(page.art, meta.version)} aria-hidden="true" tabIndex={-1} /> : <img key={page.art} className="ud-source-art" src={versionedAsset(page.art, meta.version)} alt="" draggable={false} />}
-            <SourceHtml html={page.html} />
+            <SourceHtml page={page} />
             {selected && meaning && <aside
               className="ud-inline-translation"
               ref={meaningCard}
@@ -332,6 +434,37 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
           </div>
         </div>
       </div>
+      {page.citations?.length ? <section className="ud-citations" ref={citationSection} aria-label="Excerpt sources">
+        <h3>Page {page.page} · 摘录出处</h3>
+        <ol>{page.citations.map((citation, position) => <li key={`${citation.textId}-${position}`}>
+          <span className={`ud-citation-status ud-citation-status--${citation.status}`}>{citationStatusLabels[citation.status]}</span>
+          {citation.url ? <a href={citation.url} target="_blank" rel="noopener noreferrer">{citation.label} ↗</a> : <span className="ud-citation-label">{citation.label}</span>}
+          {citation.note ? <p>{citation.note}</p> : null}
+        </li>)}</ol>
+      </section> : null}
+      {unit === 3 && (page.page === 33 || page.page === 37) && <section className="ud-readable-translation" aria-label="Readable Chinese translation">
+        <h3>中文译文</h3>
+        <p lang="zh-CN">{page.texts.find(item => item.id === `u3-p${page.page}-b2`)?.text}</p>
+      </section>}
+      {unit === 3 && page.page === 13 && <section className="ud-mobile-poem" aria-label="Readable poem text" lang="zh-CN">
+        <p>{page.texts.find(item => item.id === "u3-p13-b1")?.text}</p>
+      </section>}
+      {unit === 3 && page.page === 6 && <section className="ud-mobile-novel" aria-label="Readable original novel excerpt">
+        <p className="ud-mobile-novel-original">{page.texts.find(item => item.id === "u3-p6-b1")?.text}</p>
+        <p lang="zh-CN">{page.texts.find(item => item.id === "u3-p6-b2")?.text}</p>
+        <small lang="zh-CN">原著第一章。“巫师”指被指控行巫术的马修·莫尔；宅邸建于他死后的旧居地块。</small>
+        <a href="https://www.gutenberg.org/cache/epub/77/pg77-images.html" target="_blank" rel="noopener noreferrer">Nathaniel Hawthorne, <i>The House of the Seven Gables</i>, Chapter I ↗</a>
+      </section>}
+      {unit === 3 && (page.page === 8 || page.page === 12) && <section className="ud-mobile-novel" aria-label="Readable literary excerpt">
+        <p className="ud-mobile-novel-original">{page.texts.find(item => item.id === `u3-p${page.page}-b${page.page === 8 ? 2 : 1}`)?.text}</p>
+        <p lang="zh-CN">{page.page === 8 ? translationFor(page.texts.find(item => item.id === "u3-p8-b2")?.text ?? "") : page.texts.find(item => item.id === "u3-p12-b2")?.text}</p>
+        <a href={page.page === 8 ? "https://www.gutenberg.org/files/503/503-h/503-h.htm" : "https://www.gutenberg.org/files/6688/6688-h/6688-h.htm"} target="_blank" rel="noopener noreferrer">{page.page === 8 ? <>Andrew Lang (ed.), <i>The Blue Fairy Book</i>, after Madame de Villeneuve ↗</> : <>George Eliot, <i>The Mill on the Floss</i>, Book I, Chapter I ↗</>}</a>
+      </section>}
+      {unit === 4 && page.page === 101 && <section className="ud-mobile-hemingway" aria-label="Readable Hemingway writing advice">
+        <p>At The Kansas City Star, Hemingway learned newsroom rules that shaped his spare prose.</p>
+        <ol>{hemingwayStarRules.map(([english]) => <li key={english}>{english}</li>)}</ol>
+        <a href="https://www.themorgan.org/press/2015/ernest-hemingway-between-two-wars" target="_blank" rel="noopener noreferrer">Source: The Morgan Library &amp; Museum ↗</a>
+      </section>}
     </div>}
   </section>;
 }

@@ -10,7 +10,8 @@
         "twist off the lid 拧开盖子"
       ],
       "compare": [
-        "twist off 是旋转着取下；tear off 是撕下。"
+        "twist off：转动着把东西取下",
+        "unscrew：旋开螺纹固定的东西，动作更具体"
       ],
       "usage": "本文 twisting off bits of pastry 描述用手拧下一小块，off 表示脱离原物。",
       "ipa": "/twɪst ɒf/",
@@ -25,10 +26,8 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "twisted adj./v. 弯曲的；twist 的过去式／过去分词",
-        "twisting n./v. 扭转；twist 的 -ing 形式"
+        "twisted adj. 扭曲的；弯曲的"
       ],
-      "wordFamilyNote": "The phrase is built around twist; the branches show common verb forms.",
       "wordFamilyRoot": "twist"
     },
     "1": {
@@ -42,9 +41,9 @@
         "gold-tinged 带金色的"
       ],
       "compare": [
-        "tinge：少量颜色或情绪渗入",
-        "colour：给整体着色，也可影响看法",
-        "stain：留下难以去除的污迹，常含负面意味"
+        "tinge：仅染上一点颜色或带上一丝情绪",
+        "tint：轻微地给某物着色，常指颜色",
+        "colour：较宽泛地使某物带上颜色"
       ],
       "usage": "原文 gold-tinged 是复合修饰语，形容咖啡馆带着金色光泽；不等于用纯金建造。常用 be tinged with。",
       "ipa": "/tɪndʒ/",
@@ -70,7 +69,12 @@
           "exampleChinese": "感到几分妒忌"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "tinged adj. 略带某种颜色或情绪的",
+        "tinge n. 一丝；少许"
+      ],
+      "wordFamilyRoot": "tinge"
     },
     "2": {
       "word": "stumble around",
@@ -83,20 +87,15 @@
         "stumble across a place 偶然发现某地"
       ],
       "compare": [
-        "stumble：步伐不稳，可能未跌倒",
-        "trip：脚被障碍物绊住",
-        "fall：身体实际倒下"
+        "stumble：脚步失稳，可能只是险些跌倒",
+        "stagger：因虚弱、眩晕或撞击而摇晃着走",
+        "trip：脚被东西绊住，可能因此跌倒"
       ],
       "usage": "本文 stumbling around 写在遗址中跌跌撞撞地走，不能机械套 stumble across 的“偶然发现”。stumble over words 可指说话磕巴。",
       "ipa": "/ˈstʌmbəl/",
       "partOfSpeech": "v. [I]",
       "oxfordExcerptProvided": true,
       "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
-      "dictionaryExample": {
-        "english": "Max stumbled out of bed sleepily.",
-        "chinese": "麦克斯昏昏欲睡地跌了床。",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [
         {
           "english": "to hit your foot against something while you are walking or running and almost fall",
@@ -112,12 +111,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "stumbled v. stumble 的过去式／过去分词",
-        "stumbling n./adj./v. 踉跄；跌跌撞撞的；stumble 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase is built around stumble; the branches show common verb forms.",
-      "wordFamilyRoot": "stumble"
+      "family": []
     },
     "55": {
       "word": "jungle-wrapped",
@@ -129,9 +123,9 @@
         "wrapped in vines 被藤蔓缠绕"
       ],
       "compare": [
-        "jungle-wrapped 是作者临时组成的形容词；jungle-covered 意思相近。"
+        "jungle-wrapped 与 jungle-covered 都指被丛林环绕；wrapped 更有被植物层层包住的画面感。"
       ],
-      "usage": "jungle-wrapped 修饰 temple ruins，不是词典中独立收录的固定词。",
+      "usage": "jungle-wrapped 是 jungle + wrapped 构成的临时复合形容词，连字符把整个短语放在 temple ruins 前作定语；画面是遗址被丛林包围。",
       "ipa": "/ˈdʒʌŋɡl ræpt/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -139,74 +133,63 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "family": []
     },
     "3": {
       "word": "condensed wisdom",
       "sourceRow": 3,
-      "english": "reduced to a shorter or more concentrated form",
-      "chinese": "浓缩的；本文指经验经过提炼的",
+      "english": "practical knowledge distilled into a brief, useful form",
+      "chinese": "经过提炼的经验和智慧",
       "collocations": [
         "condensed wisdom 浓缩的经验智慧",
         "a condensed version 精简版",
         "condensed milk 炼乳"
       ],
       "compare": [
-        "condensed：减少体积或篇幅，内容更集中",
-        "abbreviated：长度或形式缩短",
-        "concise：表达简洁而没有多余话，不必由长版删改而来"
+        "condensed wisdom：将大量经验浓缩成简练的见解",
+        "distilled wisdom：从经历中提炼出的精华",
+        "concentrated wisdom：内容密集、要点高度集中的智慧"
       ],
       "usage": "原文不是“冷凝的智慧”，而是前人经验的提炼。condense A into B：把 A 浓缩成 B。",
       "ipa": "/kənˈdenst/",
-      "partOfSpeech": "adj.",
+      "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": true,
       "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
-      "dictionaryExample": {
-        "english": "The article was condensed into just two pages.",
-        "chinese": "这篇文章被简缩成仅两页。",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
       "family": [
-        "condensed adj./v. 浓缩的；condense 的过去式／过去分词",
-        "condensing n./v. 浓缩；condense 的 -ing 形式",
-        "condensation n. 浓缩；凝结"
+        "condensed adj. 浓缩的；简明的",
+        "condensation n. 凝结；浓缩"
       ],
-      "wordFamilyNote": "The expandable word is condense; the branches show its common noun and verb forms.",
       "wordFamilyRoot": "condense"
     },
     "4": {
       "word": "abbreviated stay",
       "sourceRow": 4,
-      "english": "shorter than usual or expected",
-      "chinese": "缩短的；本文指短暂的停留",
+      "english": "a visit or period of staying somewhere that is shorter than usual",
+      "chinese": "短暂停留；缩短了的行程",
       "collocations": [
         "an abbreviated stay 短暂停留",
         "an abbreviated version 缩略版",
         "be abbreviated to 缩写为"
       ],
       "compare": [
-        "abbreviated：相较完整或通常长度有所缩短",
-        "brief：持续时间或篇幅短，未必经过缩减",
-        "condensed：压缩后信息更集中"
+        "abbreviated stay：比原定或通常时间更短的停留",
+        "brief stay：短暂停留，不暗示曾被缩减",
+        "short stay：最普通的说法，只说明持续时间短"
       ],
       "usage": "stays 指停留时段，故译“短暂停留”，不是“缩写的住宿”。词语缩写用 be abbreviated to/as。",
       "ipa": "/əˈbriːvieɪtɪd/",
-      "partOfSpeech": "adj.",
+      "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": true,
       "articleExample": "In all my years of travel, from twisting off bits of pastry in gold-tinged Vienna coffee houses to stumbling around the jungle-wrapped temple ruins in Cambodia, I have relied on the condensed wisdom of those who knew those places well to find my way through abbreviated stays.",
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
       "family": [
-        "abbreviated adj./v. 缩短的；abbreviate 的过去式／过去分词",
-        "abbreviating n./v. 缩写；缩短；abbreviate 的 -ing 形式",
+        "abbreviated adj. 缩短的；简略的",
         "abbreviation n. 缩写；缩略形式"
       ],
-      "wordFamilyNote": "The expandable word is abbreviate; the branches show its common noun and verb forms.",
       "wordFamilyRoot": "abbreviate"
     },
     "5": {
@@ -220,9 +203,8 @@
         "an unwelcome interloper 不受欢迎的闯入者"
       ],
       "compare": [
-        "interloper：强调进入了不属于自己的圈子",
-        "outsider：只是圈外人，不必闯入",
-        "intruder：强调未经允许的侵入，安全威胁意味更强"
+        "interloper：闯入原本不属于自己的圈子或场合的人",
+        "intruder：未经允许进入某处的人，常带安全威胁"
       ],
       "usage": "作者用 cultural interloper 自嘲游客身份，不是在承认非法闯入。不要当作 visitor 的中性替代词。",
       "ipa": "/ˈɪntəˌləʊpə/",
@@ -235,7 +217,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "56": {
       "word": "only-here",
@@ -247,9 +230,9 @@
         "an only-here experience 独此一处的体验"
       ],
       "compare": [
-        "only-here 强调地点独特；local 只表示当地的。"
+        "only-here 强调“仅此地才有”；unique to this place 也有这个意思，但更平实。"
       ],
-      "usage": "引号中的 only-here 是作者临时构造的复合修饰语，不宜当固定习语背诵。",
+      "usage": "only-here 是作者临时组成的复合形容词，置于 greatest hits 前；引号强调“只此地才有”的旅游宣传口吻。",
       "ipa": "/ˌəʊnli ˈhɪə(r)/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": false,
@@ -257,19 +240,20 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "57": {
       "word": "hit / greatest hits",
       "sourceRow": 57,
-      "english": "to visit the best-known attractions; the attractions people most want to see",
-      "chinese": "去游览最热门的景点；最有代表性的景点",
+      "english": "to visit; greatest hits here means the best-known sights",
+      "chinese": "游览；greatest hits 在这里指最有名的景点",
       "collocations": [
         "the greatest hits of a city 城市最热门的景点",
         "a band's greatest hits 乐队的金曲精选"
       ],
       "compare": [
-        "hit 本指热门作品；greatest hits 在本文借指必看景点。"
+        "hit the sights 是去游览景点；visit the sights 更中性，少了直奔热门景点的口语感。",
+        "greatest hits 原指最受欢迎的作品；must-see sights 是旅行语境中更直接的说法。"
       ],
       "usage": "hit 是动词，greatest hits 是名词复数；句中 to hit 是“去到”，后面的 greatest hits 是热门景点，二者不要混作一个义项。",
       "ipa": "/hɪt/; /ˌɡreɪtɪst ˈhɪts/",
@@ -336,13 +320,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "一个词卡覆盖同句中的 hit（去到）与 greatest hits（热门精选，借指必看景点）；摘录中的 hit 动词和名词本义分开核对。",
-      "family": [
-        "hits v. hit 的第三人称单数；热门作品的复数形式",
-        "hitting n./v. 击中；访问；hit 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase contains hit; the branches show common inflected forms without extending into unrelated meanings.",
-      "wordFamilyRoot": "hit"
+      "family": []
     },
     "58": {
       "word": "going wisdom",
@@ -354,9 +332,9 @@
         "conventional wisdom 一般公认的看法"
       ],
       "compare": [
-        "going wisdom 近似 conventional wisdom；going rate 指现行价格。"
+        "going wisdom 与 conventional wisdom 都指通行看法；going 更强调“目前流行”，conventional 更强调长期约定俗成。"
       ],
-      "usage": "going 在此表示“现行的”，并非“离去”；摘录中的 going 名词词条不能直接证明整个短语的含义。",
+      "usage": "going wisdom 是“当时流行的看法”；going 在名词前作形容词，表示现行的。它不是 go 的进行时。",
       "ipa": "/ˈɡəʊɪŋ ˈwɪzdəm/",
       "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": true,
@@ -364,14 +342,21 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
       "family": [
-        "went v. go 的过去式",
-        "gone v. go 的过去分词",
-        "goes v. go 的第三人称单数"
+        "wise adj. 明智的",
+        "wisely adv. 明智地",
+        "unwise adj. 不明智的"
       ],
-      "wordFamilyNote": "The phrase contains go; the branches show its common irregular verb forms.",
-      "wordFamilyRoot": "go"
+      "wordFamilyRoot": "wisdom",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "wise",
+            "unwise"
+          ],
+          "distinction": "a wise decision 是判断周全的决定；an unwise decision 是欠考虑的决定，un- 是否定评价，不只是语气变轻。"
+        }
+      ]
     },
     "6": {
       "word": "recur",
@@ -384,9 +369,9 @@
         "recur at intervals 间歇性重现"
       ],
       "compare": [
-        "recur：事情自己再次发生",
-        "repeat：再次做、说某事，也可指重复出现",
-        "persist：一直持续，未必曾中断"
+        "recur：发生过的事再次出现，可多次发生",
+        "repeat：再次发生或由人再次做出",
+        "reappear：消失或中断后重新出现"
       ],
       "usage": "不及物，不能说 recur a problem。变形双写 r：recurred、recurring。原文 recurring 修饰 directive，表示同一口号反复出现。",
       "ipa": "/rɪˈkɜː/",
@@ -399,7 +384,23 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "recurrence n. 再次发生；反复出现",
+        "recurrent adj. 反复出现的",
+        "recurring adj. 一再发生的",
+        "recurrently adv. 反复地"
+      ],
+      "wordFamilyRoot": "recur",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "recurrent",
+            "recurring"
+          ],
+          "distinction": "recurrent 多用于周期性或反复出现的现象；recurring 常指某事一再出现，语气更日常。"
+        }
+      ]
     },
     "59": {
       "word": "aggressive",
@@ -411,9 +412,9 @@
         "an aggressive campaign 强势宣传活动"
       ],
       "compare": [
-        "aggressive 可指攻击性，也可指积极进取；此处批评广告话语的压迫感。"
+        "aggressive 指施压感强；assertive 指坚定表达诉求，不必咄咄逼人；pushy 更直接批评过分强迫。"
       ],
-      "usage": "与 recurring 并列修饰 directive，不必译为身体上的“侵略”。",
+      "usage": "aggressive 与 recurring 一起修饰 directive，形容劝说语气过于强硬。这里没有身体攻击的意思。",
       "ipa": "/əˈɡresɪv/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -432,7 +433,7 @@
         },
         {
           "english": "using all possible treatment options in order to extend somebody’s life",
-          "chinese": "气势汹汹的；声势浩大的；志在必得的",
+          "chinese": "（治疗）积极而强力的；采用各种可行疗法的",
           "exampleEnglish": "Nicholas was diagnosed with the rare disease in November and has undergone aggressive treatments since then.",
           "exampleChinese": "尼古拉斯（Nicholas）于11月被诊断出患有这种罕见病，此后就开始接受积极治疗。"
         }
@@ -442,6 +443,15 @@
         "aggression n. 侵略；攻击性",
         "aggressively adv. 挑衅地；积极进取地",
         "aggressiveness n. 攻击性；进取心"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "aggression",
+            "aggressiveness"
+          ],
+          "distinction": "aggression 指攻击行为或侵略；aggressiveness 指易攻击或积极进取的性格倾向。"
+        }
       ]
     },
     "7": {
@@ -455,9 +465,9 @@
         "follow a directive 遵照指示"
       ],
       "compare": [
-        "directive：从权威位置给出应如何行动的指示",
-        "advice：供对方选择的建议",
-        "instruction：操作指示或命令，范围较广"
+        "directive：来自权威机构或上级的正式指示",
+        "instruction：较宽泛的指令或操作说明",
+        "order：明确要求服从的命令"
       ],
       "usage": "这里把旅游口号称为 aggressive directive，突出强硬、咄咄逼人的语气，不表示存在法律命令。",
       "ipa": "/daɪˈrektɪv/，也读 /dɪˈrektɪv/",
@@ -470,7 +480,23 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "direct v. 指示；指导",
+        "direction n. 方向；指示",
+        "direct adj. 直接的",
+        "directly adv. 直接地"
+      ],
+      "wordFamilyRoot": "directive",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "directive",
+            "direction"
+          ],
+          "distinction": "directive 是机构或上级要求执行的正式指令，如 follow a directive；direction 可指方向，复数 directions 也可指操作步骤，如 ask for directions，不自带上级命令的意味。"
+        }
+      ]
     },
     "8": {
       "word": "entreaty",
@@ -483,9 +509,9 @@
         "ignore someone's entreaties 无视某人的恳求"
       ],
       "compare": [
-        "entreaty：语气恳切，试图打动对方",
-        "request：一般的请求",
-        "demand：带有要求别人服从的意味"
+        "entreaty：恳切而带感情的请求",
+        "plea：急切的恳求，常希望对方改变决定",
+        "request：普通请求，语气不一定急切"
       ],
       "usage": "复数 entreaties。作者把旅游劝说并称 entreaty、shaming，重在其劝诱和施压方式，不应只理解成礼貌邀请。",
       "ipa": "/ɪnˈtriːti/",
@@ -498,7 +524,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "entreat v. 恳求；央求"
+      ],
+      "wordFamilyRoot": "entreaty"
     },
     "9": {
       "word": "inside scoop",
@@ -511,9 +541,9 @@
         "a news scoop 独家新闻"
       ],
       "compare": [
-        "inside scoop：内行才知道的信息",
-        "tip：实用的小建议",
-        "scoop（新闻义）：抢先于其他媒体的独家报道"
+        "inside scoop：口语化的内幕消息，常含别人不知道的细节",
+        "inside information：来自内部人士、尚未公开的信息",
+        "insider knowledge：圈内人才掌握的知识或门道"
       ],
       "usage": "本文 get the inside scoop 是获得吃喝购物的内行门道，不一定是新闻独家报道。不要把 scoop 单独一概译为“内幕”。",
       "ipa": "/skuːp/",
@@ -527,14 +557,7 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
-      "family": [
-        "scooped v./adj. scoop 的过去式／过去分词；舀出的",
-        "scooping n./v. 舀取；独家报道；scoop 的 -ing 形式",
-        "scoopful n. 一满勺；一铲"
-      ],
-      "wordFamilyNote": "The expandable word is scoop; the branches show common verb and noun forms.",
-      "wordFamilyRoot": "scoop"
+      "family": []
     },
     "60": {
       "word": "in the know",
@@ -546,9 +569,9 @@
         "be in the know 了解内情"
       ],
       "compare": [
-        "in the know 指掌握消息；knowledgeable 泛指知识丰富。"
+        "in the know 指掌握特定内幕的人；well-informed 指了解情况充分，未必拥有内部消息。"
       ],
-      "usage": "those truly in the know 指号称知道私藏地点的人；摘录未单列此习语。",
+      "usage": "in the know 是固定短语，表示“掌握内情”；those truly in the know 指那些自称熟悉隐藏地点的人。know 在该短语中不单独作普通动词使用。",
       "ipa": "/ɪn ðə nəʊ/",
       "partOfSpeech": "idiom",
       "oxfordExcerptProvided": false,
@@ -556,17 +579,25 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。",
       "family": [
-        "knew v. know 的过去式",
-        "known v./adj. know 的过去分词；已知的",
-        "knowing adj./n. 会意的；知情；know 的 -ing 形式",
+        "known adj. 已知的；知名的",
+        "knowing adj. 会意的；显出知情的",
         "knowledge n. 知识；了解",
         "knowledgeable adj. 知识渊博的；了解内情的",
-        "unknown adj./n. 未知的；未知事物"
+        "unknown adj. 未知的"
       ],
-      "wordFamilyNote": "The phrase is built around know; the branches show its common verb and noun forms.",
-      "wordFamilyRoot": "know"
+      "wordFamilyRoot": "know",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "known",
+            "knowing",
+            "knowledgeable",
+            "unknown"
+          ],
+          "distinction": "a known place 是已为人所知的地点；a knowing smile 暗示说话人掌握内情；be knowledgeable about a place 表示对它了解很多；an unknown place 则尚未被认出或广为人知。"
+        }
+      ]
     },
     "10": {
       "word": "farce",
@@ -579,9 +610,9 @@
         "a theatrical farce 滑稽喜剧"
       ],
       "compare": [
-        "farce：场面荒唐、失去严肃性",
-        "joke：笑话，或不值得认真对待的事",
-        "fraud：以欺骗谋利，涉及真实虚假和意图，不只是可笑"
+        "farce：荒唐到难以认真对待的局面",
+        "charade：徒有其表、假装认真进行的事情",
+        "joke：口语中也可批评某事荒唐，但语气通常更轻"
       ],
       "usage": "本文是作者的强烈评价，不表示“像当地人旅行”构成诈骗。a complete farce 中 farce 可数。",
       "ipa": "/fɑːs/",
@@ -601,37 +632,38 @@
           "exampleChinese": "床上笑剧"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "farcical adj. 荒唐可笑的"
+      ],
+      "wordFamilyRoot": "farce"
     },
     "11": {
       "word": "paradoxical myth",
       "sourceRow": 11,
-      "english": "seeming to involve contradictory ideas",
-      "chinese": "看似矛盾的；悖论式的",
+      "english": "a commonly accepted belief that seems self-contradictory",
+      "chinese": "看似自相矛盾的观念",
       "collocations": [
         "a paradoxical situation 自相矛盾的情形",
         "a paradoxical result 看似矛盾的结果",
         "seem paradoxical 看起来矛盾"
       ],
       "compare": [
-        "paradoxical：两面似乎冲突，需要进一步解释",
-        "contradictory：主张互相冲突，不能同时按同一意义成立",
-        "ironic：结果与预期或表面意思形成有意味的反差"
+        "paradoxical：表面矛盾，却可能有更深一层道理",
+        "contradictory：两个说法互相冲突，通常不能同时成立"
       ],
       "usage": "本文认为 travel 与当 local 的生活状态有冲突。paradoxical 不自动等于逻辑错误或事实虚假，也不是“程度更强的 ironic”。",
       "ipa": "/ˌpærəˈdɒksɪkəl/",
-      "partOfSpeech": "adj.",
+      "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": false,
       "articleExample": "At best, \"Travel like a Local\" is a silly paradoxical myth; at worst, it's terrible vacation advice.",
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。",
       "family": [
         "paradox n. 悖论；矛盾的人或事",
         "paradoxically adv. 看似矛盾地；出人意料地"
       ],
-      "wordFamilyNote": "The expandable word is paradoxical; paradox is its common related noun.",
       "wordFamilyRoot": "paradoxical"
     },
     "12": {
@@ -673,11 +705,25 @@
           "exampleChinese": "医院洗衣房"
         },
         {
-          "english": "to discuss your personal affairs in public, especially something embarrassing",
-          "chinese": "公开谈论个人的事；（尤指）家丑外扬"
+          "english": "air your dirty laundry in public: to discuss embarrassing personal matters openly",
+          "chinese": "公开谈论难堪的私事；家丑外扬"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "launder v. 洗涤；清洗",
+        "laundering n. 洗涤；洗钱"
+      ],
+      "wordFamilyRoot": "laundry",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "laundry",
+            "laundering"
+          ],
+          "distinction": "laundry 指待洗或洗好的衣物，可说 do the laundry；laundering 指洗涤这一过程，还用于 money laundering“洗钱”，不能用它指一堆衣服。"
+        }
+      ]
     },
     "13": {
       "word": "zillion",
@@ -690,9 +736,8 @@
         "eight zillion chores 数不清的杂事（夸张）"
       ],
       "compare": [
-        "zillion：幽默地说极大数量，没有固定数值",
-        "million：精确的一百万，也能夸张使用",
-        "countless：形容多得无法计数，不假装给出数字"
+        "zillion 幽默地夸张“极多”；umpteen 也是口语的“很多”，但通常直接修饰复数名词。",
+        "countless 说多得数不清，不假装给出一个数字。"
       ],
       "usage": "eight zillion 中 zillion 不加 s；zillions of 才是复数加 of。不能像 billion 一样换算成确定数字。",
       "ipa": "/ˈzɪljən/",
@@ -705,7 +750,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "14": {
       "word": "inane",
@@ -718,9 +764,9 @@
         "inane chores 无聊琐事（本文评价）"
       ],
       "compare": [
-        "inane：缺乏意义或思想内容",
-        "boring：让人觉得乏味，不一定没意义",
-        "trivial：重要性小、细枝末节，不一定愚蠢"
+        "inane：愚蠢、空洞，缺少有价值的思想",
+        "silly：愚蠢或不严肃，未必空洞",
+        "vacuous：思想或内容空洞，语气更书面"
       ],
       "usage": "原文带着对日常杂务的幽默抱怨，并非客观断言洗衣、做饭毫无价值。与 insane（精神失常的；疯狂的）拼写不同。",
       "ipa": "/ɪˈneɪn/",
@@ -733,7 +779,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "inanity n. 空洞无意义；愚蠢",
+        "inanely adv. 空洞地；愚蠢地"
+      ],
+      "wordFamilyRoot": "inane"
     },
     "15": {
       "word": "chore",
@@ -746,9 +797,8 @@
         "a tedious chore 乏味的差事"
       ],
       "compare": [
-        "chore：常规、不得不做，往往烦琐",
-        "task：需要完成的具体任务，较中性",
-        "errand：往往要外出去办的小事，如取物或购物"
+        "chore：日常必须做、通常令人厌烦的小事",
+        "task：需要完成的具体工作，感情色彩中性"
       ],
       "usage": "可数，housework 通常不可数。家务可说 household chores 或 housework，不说 a housework。",
       "ipa": "/tʃɔː/",
@@ -768,7 +818,8 @@
           "exampleChinese": "对我来说，购物真是件苦差事。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "16": {
       "word": "stroll on",
@@ -781,9 +832,9 @@
         "go for a stroll 去散步"
       ],
       "compare": [
-        "stroll：步子慢、放松，重在享受",
-        "wander：路线或目的不明确",
-        "stride：大步走，强调步幅和行动感"
+        "stroll：悠闲地慢走，通常为了享受过程",
+        "amble：缓慢而轻松地走，语气也较闲适",
+        "wander：随意走动，强调路线或目的不固定"
       ],
       "usage": "通常不及物，用 along、through、around 等接地点。本文 strolling 由 spend days doing 引出，不是独立的现在进行时谓语。",
       "ipa": "/strəʊl/",
@@ -795,14 +846,14 @@
         "chinese": "人们在海滩漫步。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
-      "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "strolled v. stroll 的过去式／过去分词",
-        "strolling n./v. 闲逛；stroll 的 -ing 形式"
+      "otherMeanings": [
+        {
+          "english": "a slow, relaxed walk, especially for pleasure",
+          "chinese": "散步；闲逛（名词）"
+        }
       ],
-      "wordFamilyNote": "The phrase is built around stroll; the branches show common verb forms.",
-      "wordFamilyRoot": "stroll"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "61": {
       "word": "stunning",
@@ -814,9 +865,9 @@
         "a stunning view 令人惊叹的景色"
       ],
       "compare": [
-        "stunning 强调视觉上的惊艳；pleasant 只表示令人愉快。"
+        "stunning 比 beautiful 更有突然令人惊叹的力度；beautiful 只说明美。"
       ],
-      "usage": "修饰 promenades，不取“令人震惊的失败”那一义。",
+      "usage": "stunning 放在 promenades 前作定语，表示景色令人惊艳；可说 stunningly beautiful，但不说 very stunning 来机械加强。",
       "ipa": "/ˈstʌnɪŋ/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -836,9 +887,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "stun v. 使震惊；使昏迷",
-        "stunned adj./v. 震惊的；stun 的过去式／过去分词",
+        "stunning adj. 令人惊叹的",
+        "stunned adj. 震惊的；一时不知所措的",
         "stunningly adv. 令人震惊地；极其"
+      ],
+      "wordFamilyRoot": "stun",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "stunning",
+            "stunned"
+          ],
+          "distinction": "stunning 形容事物令人惊艳；stunned 形容人感到震惊。"
+        }
       ]
     },
     "17": {
@@ -852,9 +913,8 @@
         "a riverside promenade 河滨步道"
       ],
       "compare": [
-        "promenade：供散步的宽阔公共步道，常临水",
-        "pavement：道路边供行人走的人行道",
-        "pier：向水面伸出的码头或栈桥"
+        "promenade 是供散步的宽阔步道，常在海滨；esplanade 更强调沿海、沿河的开阔步道。",
+        "boardwalk 通常是木板铺成的海滨步道，强调建造材料。"
       ],
       "usage": "本文指景色优美的步道，不是音乐会 prom。所列英式名词、动词均重读末音节，不套“名词前重、动词后重”的规则。",
       "ipa": "/ˌprɒməˈnɑːd/",
@@ -876,7 +936,11 @@
           "chinese": "（在海滨、公园等）散步，漫步"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "promenade v. 散步；漫步"
+      ],
+      "wordFamilyRoot": "promenade"
     },
     "18": {
       "word": "gawk at",
@@ -889,9 +953,9 @@
         "stop gawking 别再傻看"
       ],
       "compare": [
-        "gawk：看得呆愣或不礼貌",
-        "gaze：持续凝望，常有欣赏或出神意味",
-        "glance：短暂看一眼"
+        "gawk：长时间呆看，可能显得无礼",
+        "stare：盯着看，不一定带惊讶",
+        "gaze：持续凝望，常带欣赏或出神意味"
       ],
       "usage": "固定 gawk at，不直接 gawk something。英式也常用 gawp。本文带自嘲趣味，并非仅指普通的“看见”。",
       "ipa": "/ɡɔːk/",
@@ -906,11 +970,8 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "gawked v. gawk 的过去式／过去分词",
-        "gawking n./v. 傻看；gawk 的 -ing 形式",
         "gawker n. 呆看的人；傻看者"
       ],
-      "wordFamilyNote": "The phrase is built around gawk; the branches show common verb forms.",
       "wordFamilyRoot": "gawk"
     },
     "62": {
@@ -923,9 +984,9 @@
         "crane your neck 仰起脖子"
       ],
       "compare": [
-        "crank-your-neck-tall 是夸张的临时复合词；tall 只是“高”。"
+        "crank-your-neck-tall 与 towering 都说建筑高耸；前者通过“仰脖子”呈现游客的身体感受。"
       ],
-      "usage": "保留作者幽默语气；摘录没有单列这个表达。",
+      "usage": "crank-your-neck-tall 是作者的夸张复合形容词，整体放在 Art Deco buildings 前作定语；crank your neck 写游客为看高楼而仰头。",
       "ipa": "",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": false,
@@ -933,7 +994,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "63": {
       "word": "Art Deco",
@@ -944,9 +1005,7 @@
         "Art Deco buildings 装饰艺术风格建筑",
         "an Art Deco facade 装饰艺术风格外墙"
       ],
-      "compare": [
-        "Art Deco 是设计流派；art decoration 是一般“艺术装饰”。"
-      ],
+      "compare": [],
       "usage": "专有风格名称，首字母按原文大写。",
       "ipa": "/ˌɑːrt ˈdekəʊ/",
       "partOfSpeech": "noun",
@@ -954,7 +1013,8 @@
       "articleExample": "Locals are not spending leisurely days strolling on stunning promenades or gawking at the crank-your-neck-tall Art Deco buildings or sparkly turquoise waters lapping on fine white-sand beaches.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "19": {
       "word": "turquoise",
@@ -967,9 +1027,8 @@
         "a shade of turquoise 一种蓝绿色调"
       ],
       "compare": [
-        "turquoise：蓝中带绿的具体色调",
-        "blue：范围更广的蓝色",
-        "emerald：常指鲜亮的绿色，或祖母绿宝石"
+        "turquoise 是偏蓝绿的色调；aqua 通常更明亮、更接近水蓝色。",
+        "teal 也在蓝绿之间，但一般更深、更暗。"
       ],
       "usage": "原文修饰 waters，是颜色，不能译成“绿松石做成的水”。名词颜色义通常不可数。",
       "ipa": "/ˈtɜːkwɔɪz/",
@@ -993,7 +1052,8 @@
           "chinese": "绿松石色；青绿色"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "20": {
       "word": "cramped",
@@ -1006,9 +1066,9 @@
         "feel cramped 感到施展不开"
       ],
       "compare": [
-        "cramped：空间不足，活动不自在",
-        "crowded：人或物很多，未必本来狭小",
-        "small：尺寸小，本身不说明舒适度"
+        "cramped：空间窄得令人不自在",
+        "confined：活动范围受限，常带局促感",
+        "crowded：人或物过多造成拥挤，空间本身未必小"
       ],
       "usage": "cramped morning commutes 写早高峰通勤的拥挤局促；不是说所有人出现肌肉抽筋。",
       "ipa": "/kræmpt/",
@@ -1018,7 +1078,20 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "family": [
+        "cramp n./v. 痉挛；使局促",
+        "cramping adj. 造成局促的"
+      ],
+      "wordFamilyRoot": "cramped",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "cramped",
+            "cramping"
+          ],
+          "distinction": "cramped 描写空间或人已经感到局促，如 a cramped room；cramping 描写某种条件正在限制活动，如 cramping restrictions，侧重造成局促的作用。"
+        }
+      ]
     },
     "64": {
       "word": "commute",
@@ -1030,7 +1103,7 @@
         "a long commute 漫长的通勤"
       ],
       "compare": [
-        "commute 强调规律往返；travel 范围更宽。"
+        "commute 是定期的上下班往返；journey to work 可以指某一次去上班的路程。"
       ],
       "usage": "这里 commutes 是可数名词复数；不要按动词“通勤”直接处理。",
       "ipa": "/kəˈmjuːt/",
@@ -1062,9 +1135,16 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "commuted v. commute 的过去式／过去分词",
-        "commuting n./v. 通勤；减刑",
         "commuter n. 通勤者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "commute",
+            "commuter"
+          ],
+          "distinction": "a commute 是定期上下班的往返路程，如 a long commute；a commuter 是每天走这段路的人，如 rail commuters，不能用 commuter 指路程。"
+        }
       ]
     },
     "65": {
@@ -1077,7 +1157,7 @@
         "scurry back to work 匆匆回去工作"
       ],
       "compare": [
-        "scurry 有步子短、动作急的画面；walk 只说步行。"
+        "scurry 指迈着短促小步急走；hurry 只说明匆忙，不一定有碎步画面。"
       ],
       "usage": "原句 scurrying 与前面的 making to-do lists 并列，描绘当地人的忙碌。",
       "ipa": "/ˈskɜːri/",
@@ -1098,10 +1178,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "scurried v. scurry 的过去式／过去分词",
-        "scurrying n./adj./v. 急跑；匆忙的；scurry 的 -ing 形式"
-      ]
+      "family": []
     },
     "21": {
       "word": "pharmacy",
@@ -1138,13 +1215,29 @@
           "chinese": "药剂学；制药学"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "pharmacist n. 药剂师；药师",
+        "pharmaceutical adj. 制药的",
+        "pharmaceuticals n. 药品"
+      ],
+      "wordFamilyRoot": "pharmacy",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "pharmacy",
+            "pharmacist",
+            "pharmaceuticals"
+          ],
+          "distinction": "去 pharmacy（药店）配药，会向 pharmacist（药剂师）咨询；pharmaceuticals 指药品或制药业，不能用来称药店或药剂师。"
+        }
+      ]
     },
     "22": {
       "word": "humdrum",
       "sourceRow": 22,
-      "english": "the dull routine of ordinary life",
-      "chinese": "单调乏味的日常生活",
+      "english": "the dull and repetitive routine of everyday life",
+      "chinese": "单调乏味的日常事务",
       "collocations": [
         "the humdrum of everyday life 日常生活的乏味",
         "a humdrum job 单调的工作",
@@ -1155,9 +1248,9 @@
         "monotonous：同一模式不断重复",
         "mundane：平常琐碎、非特别的事，也不一定令人厌烦"
       ],
-      "usage": "本文 the humdrum of … 按名词读。Cambridge 主列形容词，名词用法补查 Merriam-Webster；不可因词表只列 adj. 就否定原句。",
+      "usage": "the humdrum of sth 把日常琐事整体当作名词；humdrum 更常见的用法是形容词，修饰 routine、life 等。本文用名词指旅行中平淡重复的部分。",
       "ipa": "/ˈhʌmdrʌm/",
-      "partOfSpeech": "n. [U]（本文）；也常用 adj.",
+      "partOfSpeech": "noun [U] in this passage; also adjective",
       "oxfordExcerptProvided": true,
       "articleExample": "The whole point of travel is to get away from the humdrum of everyday life.",
       "dictionaryExample": null,
@@ -1170,7 +1263,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文用 the humdrum 作名词，指日常生活的乏味；摘录只收录 humdrum 的形容词义，不能将名词语境当作摘录里的独立释义。"
+      "family": []
     },
     "66": {
       "word": "contradiction",
@@ -1182,7 +1275,7 @@
         "a contradiction between claims 两种说法之间的矛盾"
       ],
       "compare": [
-        "contradiction in terms 是词语搭配本身不相容；disagreement 是人们意见不同。"
+        "contradiction 指两个说法或概念相冲突；inconsistency 指前后不一致，未必构成直接的逻辑矛盾。"
       ],
       "usage": "It is a contradiction in terms 回指“像当地人一样旅行”。",
       "ipa": "/ˌkɑːntrəˈdɪkʃn/",
@@ -1218,10 +1311,8 @@
         "become a Chilango 成为墨西哥城人",
         "Chilango culture 墨西哥城文化"
       ],
-      "compare": [
-        "Chilango 指墨西哥城居民；Mexican 指墨西哥国民或相关事物。"
-      ],
-      "usage": "原句强调短住民宿不会让游客变成当地人；摘录未单列该地区称谓。",
+      "compare": [],
+      "usage": "Chilango 是墨西哥城居民的称谓，首字母按专名大写；复数 Chilangos。原句用它强调游客短住不会自动成为当地人。",
       "ipa": "/tʃiˈlɑːŋɡəʊ/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": false,
@@ -1229,7 +1320,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "68": {
       "word": "Parisian",
@@ -1240,10 +1331,8 @@
         "Parisians don't nibble 巴黎人并不会天天慢慢吃",
         "a Parisian café 巴黎风格咖啡馆"
       ],
-      "compare": [
-        "Parisian 指巴黎人或巴黎的；French 范围是法国。"
-      ],
-      "usage": "Parisians 在此为复数名词；摘录未单列。",
+      "compare": [],
+      "usage": "Parisian 作名词表示巴黎人，复数 Parisians；也能作形容词表示“巴黎的”。本文是复数名词。",
       "ipa": "/pəˈrɪziən/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": false,
@@ -1251,7 +1340,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "23": {
       "word": "nibble",
@@ -1264,9 +1353,9 @@
         "have a nibble 尝一小口"
       ],
       "compare": [
-        "nibble：每次吃得少，重在小口动作",
-        "bite：咬一次或咬下一块",
-        "munch：持续咀嚼，常带享受感或声音"
+        "nibble：一小口一小口地吃",
+        "peck at：只吃一点，常显得没胃口",
+        "pick at：缓慢地吃一点，常因没兴趣或没食欲"
       ],
       "usage": "nibble on/at something 都可。作者用来描绘慢慢享受糕点；“巴黎人不天天如此”是论证性概括，不是饮食统计。",
       "ipa": "/ˈnɪbəl/",
@@ -1287,7 +1376,7 @@
         },
         {
           "english": "a small bite of something, especially food",
-          "chinese": "小口咬，一点点地咬（食物）",
+          "chinese": "一小口；少量食物",
           "exampleEnglish": "I took a nibble from the biscuit.",
           "exampleChinese": "我从饼干里拿了一口。"
         },
@@ -1298,7 +1387,8 @@
           "exampleChinese": "酒和小吃"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "69": {
       "word": "pastry",
@@ -1309,12 +1399,10 @@
         "buttery pastries 黄油香浓的酥点",
         "a pastry shop 糕点店"
       ],
-      "compare": [
-        "pastry 可指面团，也可指一件糕点；这里用复数指可吃的点心。"
-      ],
+      "compare": [],
       "usage": "pastries 为可数复数，和 buttery 搭配。",
       "ipa": "/ˈpeɪstri/",
-      "partOfSpeech": "plural noun",
+      "partOfSpeech": "countable noun in this passage",
       "oxfordExcerptProvided": true,
       "articleExample": "Parisians don't nibble on buttery pastries every day for breakfast while overlooking the Seine.",
       "dictionaryExample": null,
@@ -1326,8 +1414,16 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "pastries n. pastry 的复数形式",
         "pastry-making n. 糕点制作"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "pastry",
+            "pastry-making"
+          ],
+          "distinction": "pastry 在本文指可以吃的油酥点心；pastry-making 指制作糕点的手艺或过程，如 learn pastry-making，不能用它指桌上的一块点心。"
+        }
       ]
     },
     "70": {
@@ -1340,7 +1436,7 @@
         "a restaurant overlooking the lake 俯瞰湖面的餐馆"
       ],
       "compare": [
-        "overlook 在此是“眺望”；overlook a fact 才是“忽略事实”。"
+        "overlook 指从较高位置俯瞰；look out over 也指向外眺望，但不一定强调居高临下。"
       ],
       "usage": "现在分词 overlooking 作后置修饰语，描述吃点心时所处位置。",
       "ipa": "/ˌəʊvərˈlʊk/",
@@ -1374,23 +1470,23 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "overlooked adj./v. 被忽视的；overlook 的过去式／过去分词",
-        "overlooking n./v. 忽略；俯瞰"
+        "overlooked adj. 被忽略的"
       ]
     },
     "71": {
-      "word": "tuck",
+      "word": "tuck into",
       "sourceRow": 71,
-      "english": "to eat something eagerly and comfortably",
-      "chinese": "津津有味地吃；尽情享用",
+      "english": "to start eating something eagerly",
+      "chinese": "津津有味地吃；大口吃",
       "collocations": [
         "tuck into a tasting menu 尽情享用套餐",
         "tuck into breakfast 开始大口吃早餐"
       ],
       "compare": [
-        "tuck into 是吃东西；tuck something into a pocket 是塞进。"
+        "tuck into：饶有兴致地开始吃，口语化",
+        "dig into：也指大口开吃，尤其是眼前的一顿饭"
       ],
-      "usage": "原文 New Yorkers tuck into... 用动词短语，不等于词典里“把边缘塞进”。",
+      "usage": "tuck into sth 在本文指津津有味地吃某物；英式英语口语中常见。tuck the edge in 则表示把边缘塞进去，宾语和结构不同。",
       "ipa": "/tʌk ɪntuː/",
       "partOfSpeech": "phrasal verb",
       "oxfordExcerptProvided": true,
@@ -1398,11 +1494,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
-      "family": [
-        "tucked v. tuck 的过去式／过去分词",
-        "tucking n./v. 掖好；塞入"
-      ]
+      "family": []
     },
     "72": {
       "word": "save up",
@@ -1456,13 +1548,21 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "saved v./adj. save 的过去式／过去分词；已存下的",
-        "saving n./adj./v. 储蓄；节省的；save 的 -ing 形式",
-        "savings n. 存款；储蓄",
-        "saver n. 储蓄者；节省型产品"
+        "saving n. 节省的金额；省钱",
+        "savings n. 积蓄；存款",
+        "saver n. 节俭的人；节省型产品"
       ],
       "wordFamilyRoot": "save",
-      "wordFamilyNote": "The phrase is built around save; the branches show common noun and verb forms."
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "saving",
+            "savings",
+            "saver"
+          ],
+          "distinction": "a saving of £20 是一次节省下来的金额；savings 通常指逐渐积攒的存款，如 use your savings；a saver 是存钱的人，也可指节能产品。"
+        }
+      ]
     },
     "24": {
       "word": "sojourn",
@@ -1475,9 +1575,8 @@
         "during one's sojourn 在旅居期间"
       ],
       "compare": [
-        "sojourn：重点是异地暂时停留",
-        "journey：从一地到另一地的行程",
-        "tour：游览多个地方的安排"
+        "sojourn 是较正式的异地暂住；stay 是中性的停留。",
+        "stopover 指旅途中短暂停留，通常是去另一个目的地的途中。"
       ],
       "usage": "比 stay 书面，不必暗含多年旅居。所列英式名词、动词通常同为首音节重读。",
       "ipa": "/ˈsɒdʒɜːn/",
@@ -1491,7 +1590,11 @@
           "chinese": "逗留；暂住；旅居（动词）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "sojourn v. 暂住；逗留"
+      ],
+      "wordFamilyRoot": "sojourn"
     },
     "25": {
       "word": "takeout",
@@ -1504,9 +1607,9 @@
         "a takeout meal 一份外带餐"
       ],
       "compare": [
-        "takeout：买好后带到别处吃",
-        "delivery：重点是送到消费者处",
-        "takeaway：takeout 的常用英式对应词"
+        "takeout：买来带走、在别处吃的餐食，常见于美式英语",
+        "takeaway：同义的英式常用说法",
+        "to-go food：美式口语中表示供外带的食物"
       ],
       "usage": "pick up takeout 指自行取餐，未必是骑手送上门。takeout 是一个词；动词 take out 分开写。",
       "ipa": "/ˈteɪkaʊt/",
@@ -1524,7 +1627,8 @@
           "chinese": "外卖餐馆"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "26": {
       "word": "junky",
@@ -1537,18 +1641,21 @@
         "junky stuff 劣质杂物"
       ],
       "compare": [
-        "junky：评价质量或价值低",
-        "trashy：庸俗低劣，常指内容或品味",
-        "light：轻松易看，不必质量差"
+        "junky：质量低劣或内容没价值，口语用法",
+        "trashy：内容庸俗、低俗，批评品味的力度更强"
       ],
-      "usage": "Oxford 核实为形容词。这里不是 junkie（瘾君子；狂热爱好者）的名词义，也不要误写成 janky。",
+      "usage": "junky 是形容词，修饰让人觉得廉价或劣质的东西。junkie 是另一个名词，可指毒品成瘾者，也可泛指对某活动非常着迷的人。",
       "ipa": "/ˈdʒʌŋki/",
       "partOfSpeech": "adj.，口语，尤美式",
       "oxfordExcerptProvided": true,
       "articleExample": "Locals pick up takeout and watch a junky TV drama in their pajamas.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "junk n. 废物；劣质东西"
+      ],
+      "wordFamilyRoot": "junky"
     },
     "27": {
       "word": "pajamas",
@@ -1561,9 +1668,7 @@
         "a pair of pajamas 一套睡衣裤"
       ],
       "compare": [
-        "pajamas：通常指上衣加裤子的睡衣",
-        "nightdress：睡裙",
-        "loungewear：居家休闲服，不一定专供睡觉"
+        "pajamas 指睡觉穿的一套上衣和裤子；nightwear / sleepwear 泛指各种睡衣，包括睡裙。"
       ],
       "usage": "词表的 pajama 常用于名词前，如 pajama party；单独指这套衣服一般用复数 pajamas，谓语用 are。英式拼写 pyjamas。",
       "ipa": "/pəˈdʒɑːməz/",
@@ -1573,7 +1678,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "family": []
     },
     "28": {
       "word": "drain one's bank account",
@@ -1586,9 +1691,9 @@
         "a drain on resources 对资源的消耗"
       ],
       "compare": [
-        "drain：资源像液体流走一样被耗去",
-        "spend：花费，不必耗尽",
-        "deplete：使储备减少，较正式"
+        "drain：像排空液体一样耗尽钱或精力",
+        "deplete：使储备逐渐减少，较正式",
+        "exhaust：把资源完全用尽"
       ],
       "usage": "本文是购物花钱的夸张，不是银行排水。before 后用 draining，不能写 before to drain。",
       "ipa": "/dreɪn/",
@@ -1602,14 +1707,21 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
       "family": [
-        "drained adj./v. 耗尽的；drain 的过去式／过去分词",
-        "draining adj./n./v. 令人疲惫的；排水；drain 的 -ing 形式",
+        "drained adj. 精疲力尽的；耗尽的",
+        "draining adj. 令人疲惫的",
         "drainage n. 排水；排出物"
       ],
-      "wordFamilyNote": "The phrase is built around drain; the branches show common noun and verb forms.",
-      "wordFamilyRoot": "drain"
+      "wordFamilyRoot": "drain",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "drained",
+            "draining"
+          ],
+          "distinction": "drained 形容人已经精疲力尽；draining 形容活动令人疲惫。"
+        }
+      ]
     },
     "73": {
       "word": "wander",
@@ -1621,7 +1733,9 @@
         "wander aimlessly 漫无目的地走"
       ],
       "compare": [
-        "wander 强调路线随意；commute 是固定路线的日常往返。"
+        "wander：没有固定路线地闲逛",
+        "roam：在较大范围内四处走动",
+        "stroll：悠闲慢走，未必没有目的地"
       ],
       "usage": "原句强调游客新鲜地漫游，和本地人日常奔忙形成对照。",
       "ipa": "/ˈwɑːndər/",
@@ -1667,8 +1781,7 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "wandered v. wander 的过去式／过去分词",
-        "wandering n./adj./v. 漫游；漫游的；wander 的 -ing 形式",
+        "wandering adj. 漫游的；没有固定方向的",
         "wanderer n. 漫游者；流浪者"
       ]
     },
@@ -1683,9 +1796,7 @@
         "feel sore 感到疼痛"
       ],
       "compare": [
-        "sore：身体部位疼痛或敏感，常与过度使用有关",
-        "aching：持续隐隐作痛",
-        "tired：疲劳，不一定疼痛"
+        "sore 指身体部位疼痛或碰触敏感；aching 指持续地隐隐作痛。"
       ],
       "usage": "feet are sore 中 sore 为表语；不能把 sore 当动词套成 feet sore。与 soar（高飞）同音，拼写和词义不同。",
       "ipa": "/sɔː/",
@@ -1709,7 +1820,12 @@
           "chinese": "痛处；伤处；疮"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "soreness n. 疼痛；酸痛",
+        "sorely adv. 疼痛地；严重地"
+      ],
+      "wordFamilyRoot": "sore"
     },
     "30": {
       "word": "ignorance",
@@ -1722,9 +1838,8 @@
         "in ignorance of something 在不知情的情况下"
       ],
       "compare": [
-        "ignorance：缺知识或信息",
-        "stupidity：判断或思考愚蠢，是不同维度",
-        "inexperience：缺少实际经历"
+        "ignorance：缺乏某方面的知识",
+        "unawareness：没有意识到某件事，未必缺乏相关知识"
       ],
       "usage": "ignorance of/about something。原文 ignorant 是形容词；ignore 指有意不理会，不能拿它表达“我不知道”。这里无需译成对人格的侮辱。",
       "ipa": "/ˈɪɡnərəns/",
@@ -1737,7 +1852,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "ignorant adj. 无知的；不了解的",
+        "ignorantly adv. 无知地",
+        "ignore v. 忽视；不理会"
+      ],
+      "wordFamilyRoot": "ignorance"
     },
     "31": {
       "word": "remedial",
@@ -1750,9 +1871,8 @@
         "take remedial action 采取补救行动"
       ],
       "compare": [
-        "remedial：弥补已存在的不足",
-        "introductory：向初学者介绍基础",
-        "preventive：事先避免问题"
+        "remedial：补救已经存在的不足",
+        "corrective：纠正已有错误或问题，范围较广"
       ],
       "usage": "remedial cultural lessons 是作者把游客向导课程比作“文化补课”，不是诊断游客有学习障碍。教育义通常置于名词前。",
       "ipa": "/rɪˈmiːdiəl/",
@@ -1765,7 +1885,29 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "remedy n./v. 补救办法；补救",
+        "remediate v. 纠正；补救",
+        "remediation n. 补救；矫正"
+      ],
+      "wordFamilyRoot": "remedial",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "remedy",
+            "remediation"
+          ],
+          "distinction": "remedy 作名词是具体的补救办法；remediation 是补救或修复的过程。"
+        },
+        {
+          "forms": [
+            "remedy",
+            "remediate"
+          ],
+          "distinction": "remedy 作动词较常用；remediate 多用于正式或专业语境的修复、补救。"
+        }
+      ]
     },
     "32": {
       "word": "chock-full",
@@ -1778,9 +1920,9 @@
         "a room chock-full of books 满屋是书"
       ],
       "compare": [
-        "chock-full：强调装得满满的，语气口语化",
-        "crowded：人或物密集",
-        "rich in：某种成分丰富，不必塞满空间"
+        "chock-full：塞得满满的，语气口语化",
+        "packed：装得很满，可形容空间或活动安排",
+        "brimming with：满得几乎溢出，也常比喻充满某种情绪"
       ],
       "usage": "固定 of，不用 with。常作表语或放名词后；原文逗号后 chock-full … 是对 classes 的补充描述。",
       "ipa": "/ˌtʃɒkˈfʊl/",
@@ -1789,7 +1931,8 @@
       "articleExample": "I love taking cooking classes, typically chock-full of naive tourists in dorky aprons, and market tours in different cities.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "33": {
       "word": "naive",
@@ -1802,9 +1945,9 @@
         "naive to believe 轻信……的"
       ],
       "compare": [
-        "naive：经验不足，容易轻信或把事情想简单",
-        "innocent：无辜或纯真，不一定判断幼稚",
-        "ignorant：缺具体知识"
+        "naive：因缺少经验而把事情看得太简单",
+        "gullible：容易相信别人，特别容易受骗",
+        "unsophisticated：缺少世故或复杂经验，不一定轻信"
       ],
       "usage": "也拼 naïve；重音在第二音节。作者自嘲游客的生疏，不应直接等同于低智力。",
       "ipa": "/naɪˈiːv/",
@@ -1828,7 +1971,12 @@
           "chinese": "稚拙派的（简单质朴，色彩明快）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "naively adv. 天真地；轻信地",
+        "naivety n. 天真；缺乏经验"
+      ],
+      "wordFamilyRoot": "naive"
     },
     "34": {
       "word": "dorky",
@@ -1841,9 +1989,9 @@
         "dorky aprons 傻气的围裙"
       ],
       "compare": [
-        "dorky：社交或外表显得不酷、笨拙",
-        "clumsy：动作不协调",
-        "unfashionable：不合时尚，未必显得呆"
+        "dorky：社交或外表上显得呆、土",
+        "nerdy：也可显得呆，但常暗含对某领域特别着迷",
+        "awkward：举止不自然，范围比 dorky 更广"
       ],
       "usage": "本文修饰 aprons，是诙谐的外观评价，不能机械译为“智力低下的围裙”。称呼别人 dork 可能冒犯。",
       "ipa": "/ˈdɔːki/",
@@ -1856,7 +2004,21 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "dork n. 笨拙的人（口语，可能冒犯）",
+        "dorkiness n. 呆气；土气"
+      ],
+      "wordFamilyRoot": "dorky",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "dork",
+            "dorkiness"
+          ],
+          "distinction": "称某人 a dork 是给人贴“呆子”标签，可能冒犯；dorkiness 指行为或气质显出的呆气，可说 the dorkiness of his outfit，不能直接指那个人。"
+        }
+      ]
     },
     "35": {
       "word": "intuit",
@@ -1884,7 +2046,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "intuition n. 直觉",
+        "intuitive adj. 凭直觉的；易懂的",
+        "intuitively adv. 凭直觉地"
+      ],
+      "wordFamilyRoot": "intuit"
     },
     "74": {
       "word": "arise from",
@@ -1896,9 +2064,11 @@
         "problems arise from a cause 问题由某原因引起"
       ],
       "compare": [
-        "arise from 指因某事而发生；rise from 可指从某处升起。"
+        "arise from：由某种原因引起或产生",
+        "result from：直接说明结果来自某原因",
+        "stem from：强调根源或深层原因"
       ],
-      "usage": "原句 experiences arose from...，arose 是 arise 的过去式。",
+      "usage": "arose from 是 arise from 的过去式；arise 不及物，不能说 arise something。",
       "ipa": "/əˈraɪz frəm/",
       "partOfSpeech": "verb + preposition",
       "oxfordExcerptProvided": true,
@@ -1910,13 +2080,7 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "arose v. arise 的过去式",
-        "arisen v. arise 的过去分词",
-        "arising adj./v. 新出现的；arise 的 -ing 形式"
-      ],
-      "wordFamilyRoot": "arise",
-      "wordFamilyNote": "The phrase is built around arise; the branches show its irregular verb forms."
+      "family": []
     },
     "36": {
       "word": "ineptitude",
@@ -1929,9 +2093,8 @@
         "technical ineptitude 技术上的不熟练"
       ],
       "compare": [
-        "ineptitude：做事不熟练或效果差",
-        "ignorance：不知道相关信息",
-        "inexperience：没有足够经历，仍可能很有能力"
+        "ineptitude 指办事缺乏技能；incompetence 更直接指不胜任工作，语气可能更重。",
+        "clumsiness 侧重动作或处事笨拙，未必完全做不好。"
       ],
       "usage": "本文自嘲在异地办事不熟练，重心是实际应对能力，不是道德缺陷。inept at doing something。",
       "ipa": "/ɪˈneptɪtʃuːd/",
@@ -1944,7 +2107,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "inept adj. 不称职的；笨拙的",
+        "ineptly adv. 笨拙地"
+      ],
+      "wordFamilyRoot": "ineptitude"
     },
     "37": {
       "word": "hospitality",
@@ -1958,8 +2126,8 @@
       ],
       "compare": [
         "hospitality：对客人的接待与款待",
-        "kindness：待人的善意，范围更广",
-        "generosity：慷慨给予时间、物品等"
+        "warm welcome：热情迎接客人，主要指初次接待",
+        "reception：接待方式，可好可坏，不必热情"
       ],
       "usage": "不可数：Thank you for your hospitality。与 hospital 拼写相关但不等于“医院服务”；行业义必须按语境判断。",
       "ipa": "/ˌhɒspɪˈtæləti/",
@@ -1979,7 +2147,12 @@
           "exampleChinese": "公司款待我们住进他们的迎宾套间。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "hospitable adj. 好客的",
+        "hospitably adv. 热情款待地"
+      ],
+      "wordFamilyRoot": "hospitality"
     },
     "38": {
       "word": "plea",
@@ -2020,7 +2193,21 @@
           "exampleChinese": "他被指控犯了谋杀罪，但以精神错乱为由逃过惩罚。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "plead v. 恳求；辩护",
+        "pleading adj./n. 恳求的；恳求"
+      ],
+      "wordFamilyRoot": "plea",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "plea",
+            "pleading"
+          ],
+          "distinction": "a plea for help 指一次具体的求助；pleading 可指持续恳求的行为或语气，如 pleading in her voice，不能把一次请求直接叫作 a pleading。"
+        }
+      ]
     },
     "39": {
       "word": "ceramic",
@@ -2032,11 +2219,7 @@
         "a ceramic bowl 陶瓷碗",
         "ceramic stores 陶瓷商店（本文）"
       ],
-      "compare": [
-        "ceramic：较广的陶瓷材料或制品",
-        "porcelain：瓷，通常更细密坚硬",
-        "pottery：陶器及制陶工艺，不等同所有工业陶瓷"
-      ],
+      "compare": [],
       "usage": "ceramic stores 指卖陶瓷的店，不是“陶瓷建造的店”。表材料的 ceramic 可作不可数名词。",
       "ipa": "/səˈræmɪk/",
       "partOfSpeech": "adj.",
@@ -2059,7 +2242,21 @@
           "chinese": "制陶艺术；陶瓷装潢艺术"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "ceramics n. 陶瓷制品；陶艺",
+        "ceramicist n. 陶艺家"
+      ],
+      "wordFamilyRoot": "ceramic",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "ceramics",
+            "ceramicist"
+          ],
+          "distinction": "study ceramics 是学习陶艺，buy ceramics 是购买陶瓷制品；a ceramicist 则是制作陶瓷的艺术家，指人而不指作品或技艺。"
+        }
+      ]
     },
     "75": {
       "word": "invite",
@@ -2071,7 +2268,7 @@
         "an invite to someone's home 去某人家的邀请"
       ],
       "compare": [
-        "invite 作名词较口语；invitation 更正式。"
+        "invite 作名词是口语的“邀请”；invitation 是更正式、也更普遍的名词。"
       ],
       "usage": "got an invite into a couple's home：invite 在这里是名词，不是动词。",
       "ipa": "/ˈɪnvaɪt/",
@@ -2098,12 +2295,22 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文 invite 是口语名词；摘录主要收录动词，仅保留其中明确出现的名词例句。",
       "family": [
-        "invited adj./v. 受邀的；invite 的过去式／过去分词",
-        "inviting adj./v. 吸引人的；邀请",
         "invitation n. 邀请；请柬",
-        "inviter n. 邀请者"
+        "inviting adj. 诱人的；吸引人的",
+        "invitingly adv. 诱人地",
+        "invitee n. 受邀者"
+      ],
+      "wordFamilyRoot": "invite",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "invite",
+            "invitation",
+            "invitee"
+          ],
+          "distinction": "an invite 是口语的“一次邀请”；invitation 是较通用、正式的说法，也可指请柬；invitee 是收到邀请的人，不能用来指邀请本身。"
+        }
       ]
     },
     "76": {
@@ -2115,10 +2322,8 @@
         "learn kintsugi 学习金继",
         "kintsugi pottery 金继陶器"
       ],
-      "compare": [
-        "kintsugi 是修复工艺；pottery 是陶器总称。"
-      ],
-      "usage": "原句紧接着解释该工艺；摘录未单列词条。",
+      "compare": [],
+      "usage": "kintsugi 是日本以金、银等材料修补陶器裂纹的工艺。作为借入英语的文化术语，通常保持原拼写，原文随后用同位语解释。",
       "ipa": "/kɪnˈtsuːɡi/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": false,
@@ -2126,7 +2331,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "40": {
       "word": "pottery",
@@ -2139,9 +2344,8 @@
         "a pottery class 陶艺课"
       ],
       "compare": [
-        "pottery：陶制器物或制作这些器物的技艺",
-        "ceramics：陶瓷及相关艺术、材料的较广称呼",
-        "porcelain：具体的瓷质材料"
+        "pottery：陶制器物，也可指制作陶器的工艺",
+        "ceramics：陶瓷器物或陶瓷艺术的较广称呼"
       ],
       "usage": "本文 repairing broken pottery 中为不可数统称；数单件用 a piece of pottery，不用 a pottery 表“一件陶器”。",
       "ipa": "/ˈpɒtəri/",
@@ -2171,7 +2375,20 @@
           "chinese": "制陶作坊；陶窑；陶器工厂"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "potter n. 陶工；制陶者"
+      ],
+      "wordFamilyRoot": "pottery",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "pottery",
+            "potter"
+          ],
+          "distinction": "pottery 可指陶器，也可指制陶这门手艺，如 learn pottery；a potter 是制作陶器的人，可说 a potter makes pottery，二者不能互换。"
+        }
+      ]
     },
     "41": {
       "word": "whisk",
@@ -2184,9 +2401,8 @@
         "whisk eggs 搅打鸡蛋"
       ],
       "compare": [
-        "whisk：突出快速带走、带往",
-        "escort：陪同护送，强调陪伴或保护",
-        "rush：催促或赶忙进行"
+        "whisk someone away：迅速把某人带走，常出其不意",
+        "rush someone away：匆忙带走某人，突出赶时间"
       ],
       "usage": "I've been whisked 是现在完成时被动，不是“我搅打了”。常带 away/off/to/from 等方向信息。",
       "ipa": "/wɪsk/",
@@ -2206,7 +2422,8 @@
           "exampleChinese": "把蛋白搅打稠。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "42": {
       "word": "artisan",
@@ -2219,9 +2436,9 @@
         "local artisans 当地工匠"
       ],
       "compare": [
-        "artisan：重在熟练的手艺与传统制作",
-        "artist：重在艺术创作",
-        "handmade：说明手工制作，未必体现专业工艺"
+        "artisan：在产品或食品前常指传统手艺制作",
+        "artisanal：近义形容词，更明确强调手工或传统工艺",
+        "handcrafted：强调亲手制作，未必具有专业工匠技艺"
       ],
       "usage": "本文 artisan 修饰 bread。名词、形容词所列常用读音相同；不能把 artisan bread 译为“艺术家的面包”。",
       "ipa": "/ˈɑːtɪzæn/",
@@ -2243,7 +2460,20 @@
           "exampleChinese": "一家手工面包店"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "artisanal adj. 手工制作的；匠人制作的"
+      ],
+      "wordFamilyRoot": "artisan",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "artisan",
+            "artisanal"
+          ],
+          "distinction": "artisan bread 与 artisanal bread 都强调传统手艺制作；artisan 还可作名词指工匠，如 a skilled artisan，而 artisanal 只能作形容词修饰产品或工艺。"
+        }
+      ]
     },
     "43": {
       "word": "macaroon",
@@ -2256,18 +2486,18 @@
         "a macaroon shop 甜饼店／马卡龙店"
       ],
       "compare": [
-        "macaroon：常指较粗糙的椰蓉或杏仁甜饼",
-        "macaron：通常明确指两片杏仁蛋白饼夹馅的法式马卡龙",
-        "biscuit：饼干的泛称"
+        "macaroon：通常指椰蓉或杏仁小甜饼",
+        "macaron：指两片杏仁蛋白饼夹馅的法式马卡龙；名称相近，食物不同"
       ],
-      "usage": "Cambridge 同时收录 macaroon 指 macaron 的用法，所以不能断言原文巴黎店铺写错。主动表达夹心马卡龙时用 macaron 更能避免歧义。",
+      "usage": "macaroon 通常指以椰蓉或杏仁制成的甜点，也可用于指类似 macaron 的杏仁夹心点心。若要明确表达法式夹心马卡龙，常用 macaron。",
       "ipa": "/ˌmækəˈruːn/",
       "partOfSpeech": "n. [C]",
       "oxfordExcerptProvided": true,
       "articleExample": "I've been whisked from an artisan bread bakery to a macaroon shop in Paris by friends with cheery gusto.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "44": {
       "word": "cheery",
@@ -2295,7 +2525,38 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "cheer n./v. 欢呼；使振作",
+        "cheerful adj. 愉快的；乐观的",
+        "cheerfully adv. 愉快地",
+        "cheerily adv. 快活地",
+        "cheeriness n. 愉快；明快"
+      ],
+      "wordFamilyRoot": "cheery",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "cheery",
+            "cheerful"
+          ],
+          "distinction": "cheery 常写外在神态、声音或气氛给人的明快感；cheerful 常写人的情绪或性格。"
+        },
+        {
+          "forms": [
+            "cheer",
+            "cheeriness"
+          ],
+          "distinction": "cheer 是欢呼或振作的心情；cheeriness 是持续显露的愉快。"
+        },
+        {
+          "forms": [
+            "cheerfully",
+            "cheerily"
+          ],
+          "distinction": "cheerfully 侧重快乐、乐观的态度；cheerily 侧重明快的神情或声调。"
+        }
+      ]
     },
     "77": {
       "word": "gusto",
@@ -2307,7 +2568,7 @@
         "cheery gusto 愉快的热情"
       ],
       "compare": [
-        "gusto 是做事的劲头；cheery 是愉快的心情。"
+        "gusto 指做事时的热情与劲头；enthusiasm 指强烈兴趣或积极态度，不一定带出做事的动作感。"
       ],
       "usage": "with cheery gusto 作方式状语，描绘朋友带作者逛店的兴致。",
       "ipa": "/ˈɡʌstəʊ/",
@@ -2320,7 +2581,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "45": {
       "word": "embrace",
@@ -2333,9 +2595,8 @@
         "a warm embrace 温暖的拥抱"
       ],
       "compare": [
-        "embrace：主动欢迎并接受",
-        "accept：接受，不必热情",
-        "tolerate：容忍，可能并不喜欢"
+        "embrace 指主动、热情地接受；accept 可以只是同意或接纳，不一定喜欢。",
+        "welcome 也带欣然接受的意味，但更常用于接待人或迎接新事物。"
       ],
       "usage": "本文 embrace it 的 it 指 hospitality，是欣然接受款待，不是要求拥抱陌生人。名词和动词都重读第二音节。",
       "ipa": "/ɪmˈbreɪs/",
@@ -2373,7 +2634,8 @@
           "exampleChinese": "这些谈话涉及的问题非常广泛。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "46": {
       "word": "gratitude",
@@ -2386,9 +2648,8 @@
         "a token of gratitude 表达谢意的小礼物"
       ],
       "compare": [
-        "gratitude：因受惠而感谢",
-        "appreciation：欣赏价值或表示感谢，范围较广",
-        "indebtedness：强调欠人情、受恩惠"
+        "gratitude：因受到帮助或恩惠而感激",
+        "appreciation：也可表示感谢，还可指欣赏某物的价值"
       ],
       "usage": "to 后接感谢的人，for 后接感谢的事情。不可数；grateful 不拼 greatful。",
       "ipa": "/ˈɡrætɪtʃuːd/",
@@ -2401,7 +2662,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "grateful adj. 感激的",
+        "gratefully adv. 感激地",
+        "ungrateful adj. 不知感恩的"
+      ],
+      "wordFamilyRoot": "gratitude",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "grateful",
+            "ungrateful"
+          ],
+          "distinction": "be grateful for help 表示感谢得到帮助；称受助者 ungrateful 则是在批评其不领情，前缀 un- 在这里把评价方向完全反过来。"
+        }
+      ]
     },
     "47": {
       "word": "de rigueur",
@@ -2414,9 +2690,8 @@
         "the de rigueur anorak 按潮流少不了的防风衣"
       ],
       "compare": [
-        "de rigueur：社会风尚让人觉得必须有",
-        "compulsory：由规则强制要求",
-        "fashionable：正流行，不一定被视为必备"
+        "de rigueur 指社会风尚中被视为必备；customary 指惯常如此，却不一定有必须遵守的压力。",
+        "expected 表示人们会预期你这样做，语气更中性。"
       ],
       "usage": "字面不是“严格的”。常作表语，本文也置于名词前作修饰语；作者讽刺为伪装当地人而照着清单买衣服，不是说法律强制穿。",
       "ipa": "/də rɪˈɡɜː/",
@@ -2429,7 +2704,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "48": {
       "word": "anorak",
@@ -2442,9 +2718,8 @@
         "a hooded anorak 带兜帽的防风衣"
       ],
       "compare": [
-        "anorak：防风雨、通常带帽的短外套",
-        "parka：也常带帽，常指较保暖的外套",
-        "raincoat：重点是防雨，不一定有帽或厚实"
+        "anorak：通常有帽、防风雨的短外套",
+        "parka：也常有帽，通常更厚、更保暖"
       ],
       "usage": "本文是服装，不是人。an anorak 用 an；不能把它限定为所有意义上的“冲锋衣”专业规格。",
       "ipa": "/ˈænəræk/",
@@ -2462,7 +2737,8 @@
           "chinese": "怪僻的搜集者（花大量时间了解或收集别人大多认为无聊的东西）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "78": {
       "word": "Copenhagen",
@@ -2473,10 +2749,8 @@
         "an anorak in Copenhagen 在哥本哈根穿派克外套",
         "visit Copenhagen 游览哥本哈根"
       ],
-      "compare": [
-        "Copenhagen 是城市；Denmark 是国家。"
-      ],
-      "usage": "地点专名首字母大写；摘录未单列。",
+      "compare": [],
+      "usage": "Copenhagen 是丹麦首都，专有地名首字母大写；介词按句法说 in Copenhagen。",
       "ipa": "/ˌkəʊpənˈheɪɡən/",
       "partOfSpeech": "proper noun",
       "oxfordExcerptProvided": false,
@@ -2484,7 +2758,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "49": {
       "word": "stick out",
@@ -2497,9 +2771,8 @@
         "stick out like a sore thumb 显得十分突兀"
       ],
       "compare": [
-        "stick out：因不同而显眼，可能不自在",
-        "stand out：出众或突出，可褒可中性",
-        "fit in：与周围协调、融入"
+        "stick out 指因与众不同而显眼，可能带格格不入的感觉；stand out 可中性或褒义，甚至指表现出众。",
+        "be conspicuous 也指明显可见，语气更正式，不必含社交不自在。"
       ],
       "usage": "本文是不及物 stick out，不是“坚持”。stick it out 才可表示坚持到底，代词 it 放中间。",
       "ipa": "/stɪk ˈaʊt/",
@@ -2514,13 +2787,20 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "stuck v./adj. stick 的过去式／过去分词；卡住的",
-        "sticking n./v. 粘住；stick 的 -ing 形式",
+        "stuck adj. 卡住的；动弹不得的",
         "sticky adj. 黏的；棘手的",
         "stickiness n. 黏性；棘手"
       ],
-      "wordFamilyNote": "The phrase is built around stick; the branches show common verb and adjective forms.",
-      "wordFamilyRoot": "stick"
+      "wordFamilyRoot": "stick",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "stuck",
+            "sticky"
+          ],
+          "distinction": "stuck 描写已经被卡住或黏住的结果，如 a boat stuck in mud；sticky 描写东西本身有黏性，如 sticky mud，也可比喻棘手的局面。"
+        }
+      ]
     },
     "79": {
       "word": "middle-schoolish",
@@ -2532,9 +2812,9 @@
         "a middle-schoolish worry 中学生式的顾虑"
       ],
       "compare": [
-        "middle-schoolish 是作者临时构词；immature 更一般地说不成熟。"
+        "middle-schoolish 与 childish 都带“不成熟”的批评；前者特别让人想到中学阶段的合群焦虑。"
       ],
-      "usage": "修饰整套“别像游客”的建议，带轻微批评意味；摘录未单列。",
+      "usage": "middle-schoolish 是带 -ish 的临时构词，意为“有点像中学生的”；修饰整套“别像游客”的建议，带轻微批评。-ish 加在名词或形容词后常表示“有点像”。",
       "ipa": "/ˌmɪdl ˈskuːlɪʃ/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": false,
@@ -2542,11 +2822,8 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。",
       "family": [
-        "middle school n. 初中；中学阶段",
-        "school n./v. 学校；教育；训练",
-        "schooling n. 教育；学校教育"
+        "schooling n. 学校教育；受教育经历"
       ]
     },
     "80": {
@@ -2559,7 +2836,7 @@
         "fit in with the locals 与当地人融洽相处"
       ],
       "compare": [
-        "fit in 在此是社交融入；fit something in 也可指挤出时间。"
+        "fit in 指被群体接纳、感觉合群；belong 强调自己属于这个群体，感受更深。"
       ],
       "usage": "fitting in 是动名词，作 worry about 的宾语。",
       "ipa": "/fɪt ɪn/",
@@ -2587,13 +2864,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "fit v./adj. 适合；健康的",
-        "fitted / fit v. fit 的过去式／过去分词",
-        "fitting adj./n./v. 合适的；配件；使合适",
-        "fitness n. 健康；适合"
+        "fit adj./v. 适合的；适合",
+        "fitting adj. 恰当的；合适的"
       ],
-      "wordFamilyRoot": "fit",
-      "wordFamilyNote": "The phrase is built around fit; the branches show common verb, adjective, and noun forms."
+      "wordFamilyRoot": "fit"
     },
     "81": {
       "word": "customs",
@@ -2605,7 +2879,7 @@
         "religious customs 宗教习俗"
       ],
       "compare": [
-        "customs 在此是 custom 的复数“习俗”；Customs 也可指海关。"
+        "customs 指群体传承的风俗；conventions 指社会认可的惯例，未必具有地方或文化传统。"
       ],
       "usage": "respect 后直接接 local customs；不要把 customs 译成海关。",
       "ipa": "/ˈkʌstəmz/",
@@ -2644,13 +2918,12 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文 customs 是 custom（习俗）的复数；摘录开头另有 Customs（海关），两者需要区分。",
       "family": [
-        "custom n. 习俗；惯例",
-        "customary adj. 习惯上的；惯常的",
-        "customarily adv. 按惯例；通常",
-        "customs n. 海关；关税"
-      ]
+        "custom n. 风俗；惯例",
+        "customary adj. 惯例的；习惯上的",
+        "customarily adv. 按惯例；通常"
+      ],
+      "wordFamilyRoot": "custom"
     },
     "50": {
       "word": "likelihood",
@@ -2678,7 +2951,21 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "likely adj./adv. 可能的；很可能",
+        "unlikely adj. 不大可能的"
+      ],
+      "wordFamilyRoot": "likelihood",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "likely",
+            "unlikely"
+          ],
+          "distinction": "be likely to happen 表示发生概率较高；be unlikely to happen 表示概率较低，两者都接 to do，不能把 un- 当作语气稍弱的 likely。"
+        }
+      ]
     },
     "82": {
       "word": "happen upon",
@@ -2690,9 +2977,9 @@
         "happen upon an old book 偶然发现旧书"
       ],
       "compare": [
-        "happen upon 强调偶遇；arrange to meet 是事先约见。"
+        "happen upon 与 come across 都指偶然遇见；happen upon 稍显书面，come across 更日常。"
       ],
-      "usage": "情态动词 will 后接原形；摘录中的 happen 词条只列该短语为参见项，未给独立释义。",
+      "usage": "happen upon sb/sth 指偶然遇见，语气比 come across 稍书面；原句中 will 后接动词原形 happen。upon 是介词，后接偶遇的对象。",
       "ipa": "/ˈhæpən əˈpɒn/",
       "partOfSpeech": "phrasal verb",
       "oxfordExcerptProvided": true,
@@ -2700,13 +2987,20 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。",
       "family": [
-        "happened v. happen 的过去式／过去分词",
-        "happening n./adj./v. 事件；时髦的；发生"
+        "happening n. 发生的事；事件",
+        "happenstance n. 巧合；偶然情况"
       ],
       "wordFamilyRoot": "happen",
-      "wordFamilyNote": "The phrase is built around happen; the branches show common verb and noun forms."
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "happening",
+            "happenstance"
+          ],
+          "distinction": "a happening 是发生的一件事；by happenstance 表示事情碰巧发生，强调偶然因素，而不指那件事本身。"
+        }
+      ]
     },
     "51": {
       "word": "muddy",
@@ -2719,9 +3013,8 @@
         "muddy the waters 把事情搅混"
       ],
       "compare": [
-        "muddy：具体沾上泥，也可使事情混乱",
-        "dirty：一般弄脏",
-        "stain：留下色斑或污渍"
+        "muddy：使某物沾上泥，也可比喻把事情搅混",
+        "dirty：使某物变脏，未必沾的是泥"
       ],
       "usage": "原文 mind muddying up 中 muddying 为动词 -ing，宾语由关系词 that 对应 shoes；mind 后用 doing，不用 to do。muddying 保留 y，muddied 变 y 为 i。",
       "ipa": "/ˈmʌdi/",
@@ -2757,7 +3050,12 @@
           "exampleChinese": "她故意不停地提及其他无关的案件，使水面一片泥泞。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "muddy adj. 泥泞的；浑浊的",
+        "muddiness n. 泥泞；浑浊"
+      ],
+      "wordFamilyRoot": "mud"
     },
     "52": {
       "word": "cruise",
@@ -2770,9 +3068,8 @@
         "go on a cruise 乘船游览"
       ],
       "compare": [
-        "cruise：轻松随意地游走，本文把这个动作借到网上",
-        "browse：随意翻看或浏览内容",
-        "scroll：具体滚动屏幕"
+        "cruise：本文借用“随意游走”的意思，指轻松浏览",
+        "browse：随意翻看或浏览内容，不强调游走的画面"
       ],
       "usage": "cruising Twitter and Instagram 是语境引申，不能译成“驾驶推特”。这里 cruise 可直接带被浏览的平台，不需强加 on。",
       "ipa": "/kruːz/",
@@ -2814,7 +3111,21 @@
           "chinese": "（在公共场所）寻觅性伙伴，猎艳"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "cruiser n. 巡航船；巡洋舰",
+        "cruising n. 乘船巡游"
+      ],
+      "wordFamilyRoot": "cruise",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "cruiser",
+            "cruising"
+          ],
+          "distinction": "a cruiser 是用于巡游的船或车辆，可说 board a cruiser；cruising 是巡游活动，可说 go cruising，不能用活动名称指那艘船。"
+        }
+      ]
     },
     "83": {
       "word": "Cloisters",
@@ -2825,10 +3136,8 @@
         "visit the Cloisters 参观修道院分馆",
         "the Cloisters in Upper Manhattan 纽约上城的修道院分馆"
       ],
-      "compare": [
-        "the Cloisters 在本文是博物馆名称；cloister 的普通义是回廊。"
-      ],
-      "usage": "专名有大写 C 与定冠词 the；词典摘录只给普通名词 cloister 的释义。",
+      "compare": [],
+      "usage": "the Cloisters 是博物馆名称，通常带定冠词 the，专名首字母大写；普通名词 cloister 指修道院回廊。",
       "ipa": "/ˈklɔɪstəz/",
       "partOfSpeech": "proper noun",
       "oxfordExcerptProvided": true,
@@ -2849,21 +3158,19 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录只提供相关原词、词性或参见项；这里的完整表达按原文语境解释，未把相关词条直接当作该表达的释义。"
+      "family": []
     },
     "84": {
       "word": "Mt. Holyoke",
       "sourceRow": 84,
-      "english": "Mount Holyoke, a mountain range mentioned near the author's home",
-      "chinese": "霍利奥克山；作者家附近的山脉",
+      "english": "the Mount Holyoke Range, a mountain range near the author’s childhood home",
+      "chinese": "霍利奥克山脉",
       "collocations": [
         "hike through the Mt. Holyoke range 徒步穿越霍利奥克山脉",
         "Mt. Holyoke range 霍利奥克山脉"
       ],
-      "compare": [
-        "Mt. 缩写 Mount；这里是地名，不是大学名称。"
-      ],
-      "usage": "原句说的是山脉；摘录未单列此地名。",
+      "compare": [],
+      "usage": "Mt. 是 Mount 的缩写；Mt. Holyoke range 是山脉名，不是 Mount Holyoke College。地名词组按原文保留大写。",
       "ipa": "/maʊnt ˈhəʊliəʊk/",
       "partOfSpeech": "proper noun",
       "oxfordExcerptProvided": false,
@@ -2871,7 +3178,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词条；语境义据原句整理。"
+      "family": []
     },
     "53": {
       "word": "apathy",
@@ -2884,9 +3191,8 @@
         "overcome apathy 克服消极漠然"
       ],
       "compare": [
-        "apathy：兴趣和行动意愿不足",
-        "indifference：不在乎某事或结果",
-        "ignorance：不知道，不代表不关心"
+        "apathy：缺少关心或行动热情",
+        "indifference：不在乎结果，未必完全没有兴趣"
       ],
       "usage": "本文指“反正景点一直都在”造成的熟视无睹和拖延，不应套为疾病诊断。apathy of knowing … 描写这种心态的内容和来源。",
       "ipa": "/ˈæpəθi/",
@@ -2899,7 +3205,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "apathetic adj. 冷漠的；无动于衷的",
+        "apathetically adv. 冷漠地"
+      ],
+      "wordFamilyRoot": "apathy"
     }
   }
 }

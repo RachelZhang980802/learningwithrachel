@@ -1140,11 +1140,6 @@
       "statusCode": 307
     },
     {
-      "source": "/favicon.svg",
-      "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/favicon.svg",
-      "statusCode": 307
-    },
-    {
       "source": "/file.svg",
       "destination": "https://assets.negentropylearning.com.cn/releases/2026-10-22/file.svg",
       "statusCode": 307

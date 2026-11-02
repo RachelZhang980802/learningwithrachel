@@ -42,6 +42,9 @@
   isolation: isolate;
 }
 
+/* The fixed course navigation must leave the unit heading fully visible. */
+.narrative-course #units { padding-top: max(112px, 4vw); }
+
 .narrative-course .slide::before {
   position: absolute;
   z-index: -1;

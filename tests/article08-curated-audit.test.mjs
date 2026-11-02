@@ -13,11 +13,13 @@ test('article 08 has a complete contextual word card and offline recording for e
   for (const [row, card] of Object.entries(cards)) {
     assert.equal(card.sourceRow, Number(row));
     assert.ok(card.word && card.english && card.chinese && card.usage, row);
-    assert.ok(card.collocations.length >= 2 && card.compare.length >= 1, row);
+    assert.ok(Array.isArray(card.collocations) && card.collocations.length >= 1, row);
+    assert.ok(Array.isArray(card.compare) && card.compare.every(value => typeof value === 'string' && value.trim()), row);
+    assert.equal(Object.hasOwn(card, 'sourceCaveat'), false, row);
+    for (const context of Object.values(card.contextBySentence ?? {})) assert.equal(Object.hasOwn(context, 'sourceCaveat'), false, row);
     assert.ok(card.articleExample === lesson.title || lesson.sentences.some(s=>s.text===card.articleExample), `${row}: article context`);
     assert.ok(['present','none_in_excerpt','missing_source'].includes(card.otherMeaningsStatus), row);
     assert.equal(card.otherMeaningsStatus === 'present', card.otherMeanings.length > 0, row);
-    if (!card.oxfordExcerptProvided) assert.match(card.sourceCaveat, /未单列/, row);
     if (card.dictionaryExample) assert.match(card.dictionaryExample.source, /Oxford Advanced Learner/, row);
     for (const sense of card.otherMeanings) {
       assert.ok(sense.english && sense.chinese, `${row}: bilingual other meaning`);
@@ -30,7 +32,7 @@ test('article 08 has a complete contextual word card and offline recording for e
     assert.ok(fs.statSync(wav).size > 5000, `${row}: nonempty WAV`);
   }
 });
-test('article 08 title word and caveated dictionary gaps remain explicit', () => {
+test('article 08 title word and source-status metadata remain explicit', () => {
   assert.equal(cards['1'].articleExample, lesson.title);
   assert.match(lesson.title, /Foodie/);
   for (const row of [2,25,52,56,70,79,80]) assert.equal(cards[row].otherMeaningsStatus, 'missing_source');

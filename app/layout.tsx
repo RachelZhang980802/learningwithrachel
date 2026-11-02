@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   title: "Learning with Rachel",
   description: "Reading, writing, and culture learning resources with Rachel.",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: "/favicon.svg?v=20261102-cat3",
+    shortcut: "/favicon.svg?v=20261102-cat3",
   },
 };
 

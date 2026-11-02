@@ -11,9 +11,9 @@ const pageTitleLists: Record<number, string> = {
 8|The Remote Castle · passage
 9|Wuthering Heights · place and people
 10|Wuthering Heights · wind and landscape
-11|Windmill and Sunflower · association
-12|The Mill on the Floss · sound and river
-13|Windmill and Sunflower · Chinese poem
+11|Windmill and sunflowers · visual setting
+12|The Mill on the Floss · river and watermill
+13|Sound and silence · Wang Ji poem
 14|The Night Cityscape · association
 15|Night Bazaar · silence
 16|Night Café · quiet
@@ -159,7 +159,7 @@ const pageTitleLists: Record<number, string> = {
 3|Learning Objectives
 4|Pre-Class Exploration
 5|Father and Son · cartoon sequence
-6|Father and Son · narrative retelling
+6|Father and Son · classroom model story
 7|One Sentence, One Story · 1–3
 8|One Sentence, One Story · 4–6
 9|One Sentence, One Story · 7–9

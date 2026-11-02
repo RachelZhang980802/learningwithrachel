@@ -42,7 +42,7 @@ export const article09PdfVocabulary: PendingPdfWord[] = [
   { sourceRow: 23, word: "nibble", forms: ["nibble"], occurrences: [20], pdfPages: [2] },
   { sourceRow: 69, word: "pastry", forms: ["pastries"], occurrences: [20], pdfPages: [2] },
   { sourceRow: 70, word: "overlook", forms: ["overlooking"], occurrences: [20], pdfPages: [2] },
-  { sourceRow: 71, word: "tuck", forms: ["tuck"], occurrences: [21], pdfPages: [2] },
+  { sourceRow: 71, word: "tuck into", forms: ["tuck into"], occurrences: [21], pdfPages: [2] },
   { sourceRow: 72, word: "save up", forms: ["saving up"], occurrences: [23], pdfPages: [2] },
   { sourceRow: 24, word: "sojourn", forms: ["sojourn"], occurrences: [23], pdfPages: [2] },
   { sourceRow: 25, word: "takeout", forms: ["takeout"], occurrences: [24], pdfPages: [2] },

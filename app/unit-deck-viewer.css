@@ -22,6 +22,92 @@
 .narrative-course .ud-source-art { position:absolute; inset:0; width:100%; height:100%; max-width:none; object-fit:fill; pointer-events:none; user-select:none; }
 .narrative-course .ud-source-html { position:absolute; inset:0; }
 .narrative-course .ud-source-html [data-deck-text-id] { cursor:pointer; }
+.narrative-course .ud-citations { box-sizing:border-box; max-width:1040px; width:100%; margin:0 auto; padding:18px 22px; border:1px solid #d8cabc; border-radius:10px; background:#fffcf7; }
+.narrative-course .ud-citations h3 { margin:0 0 12px; color:#6b4f38; font:600 15px/1.3 Arial,sans-serif; }
+.narrative-course .ud-citations ol { display:grid; gap:12px; margin:0; padding:0; list-style:none; }
+.narrative-course .ud-citations li { display:flex; flex-wrap:wrap; align-items:baseline; gap:6px 10px; min-width:0; }
+.narrative-course .ud-citation-status { flex:none; border-radius:4px; padding:3px 7px; color:#315744; background:#e5eee4; font:600 12px/1.4 "PingFang SC","Microsoft Yahei",sans-serif; }
+.narrative-course .ud-citation-status--adapted,
+.narrative-course .ud-citation-status--paraphrase { color:#805324; background:#f7ead2; }
+.narrative-course .ud-citation-status--classroom { color:#4b5f6b; background:#e8eef1; }
+.narrative-course .ud-citation-status--unverified { color:#a02f27; background:#f8e4de; }
+.narrative-course .ud-citations a,
+.narrative-course .ud-citation-label { color:#573a2f; font:14px/1.45 Arial,sans-serif; overflow-wrap:anywhere; }
+.narrative-course .ud-citations a { text-decoration:underline; text-underline-offset:.2em; }
+.narrative-course .ud-citations p { flex-basis:100%; margin:0; color:#6b5b4d; font:13px/1.55 "PingFang SC","Microsoft Yahei",sans-serif; }
+.narrative-course .ud-worksheet-layout {
+  position:absolute;
+  display:grid;
+  color:#555;
+  font-family:Georgia,"Times New Roman",serif;
+}
+.narrative-course .ud-worksheet-row { display:grid; align-items:center; gap:.8cqw; min-height:0; }
+.narrative-course .ud-worksheet-question-group { min-width:0; }
+.narrative-course .ud-worksheet-question,
+.narrative-course .ud-worksheet-answer { position:relative; min-width:0; white-space:normal; }
+.narrative-course .ud-worksheet-identification {
+  left:8cqw; top:12.5cqw; width:84cqw;
+  grid-template-rows:repeat(7,5.25cqw);
+}
+.narrative-course .ud-worksheet-identification .ud-worksheet-row { grid-template-columns:minmax(0,1fr) 19cqw; }
+.narrative-course .ud-worksheet-identification .ud-worksheet-question { font-size:1.68cqw; line-height:1.2; }
+.narrative-course .ud-worksheet-identification .ud-worksheet-answer { color:#df130b; font-size:1.9cqw; font-weight:700; line-height:1.15; }
+.narrative-course .ud-worksheet-title {
+  position:absolute; top:5.2cqw; left:8.8cqw; width:83cqw;
+  color:#221d16; font:700 3.1cqw/1.15 Georgia,"Times New Roman",serif;
+}
+.narrative-course .ud-worksheet-identification--first { grid-template-rows:repeat(8,4.6cqw); }
+.narrative-course .ud-worksheet-identification--first .ud-worksheet-question { font-size:1.56cqw; line-height:1.18; }
+.narrative-course .ud-worksheet-identification--first .ud-worksheet-answer { font-size:1.73cqw; }
+.narrative-course .ud-tense-timeline {
+  position:absolute; inset:0; box-sizing:border-box; padding:3.6cqw 4.6cqw 3cqw;
+  background:#f0e0c8; color:#292520; font-family:Arial,"Helvetica Neue",sans-serif;
+}
+.narrative-course .ud-tense-timeline h2 { margin:0; text-align:center; font:700 3.25cqw/1.15 Georgia,"Times New Roman",serif; }
+.narrative-course .ud-tense-timeline>p { margin:.5cqw 0 1.55cqw; text-align:center; font-size:1.35cqw; }
+.narrative-course .ud-tense-columns { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1.2cqw; }
+.narrative-course .ud-tense-column { min-width:0; padding:.7cqw; border:1px solid rgba(52,39,31,.18); border-radius:.8cqw; }
+.narrative-course .ud-tense-column h3 { margin:0 0 .7cqw; text-align:center; font:700 2.1cqw/1.25 Arial,sans-serif; }
+.narrative-course .ud-tense-past { background:#e3e6ad; }
+.narrative-course .ud-tense-present { background:#a8d5df; }
+.narrative-course .ud-tense-future { background:#e5b5ab; }
+.narrative-course .ud-tense-card { box-sizing:border-box; min-height:8.15cqw; padding:.85cqw .9cqw; margin-bottom:.65cqw; border-radius:.5cqw; background:rgba(255,255,255,.76); }
+.narrative-course .ud-tense-card:last-child { margin-bottom:0; }
+.narrative-course .ud-tense-card b { display:block; margin-bottom:.45cqw; font-size:1.45cqw; line-height:1.1; }
+.narrative-course .ud-tense-card span { display:block; font-size:1.48cqw; line-height:1.24; }
+.narrative-course .ud-tense-timeline>a { display:block; margin-top:1.2cqw; color:#664533; text-align:right; font-size:1.1cqw; text-decoration:underline; }
+.narrative-course .ud-hemingway-panel { position:absolute; box-sizing:border-box; left:31%; top:28%; width:45%; height:60%; padding:1cqw 1.3cqw; background:#decfc1; color:#2e2924; font-family:Arial,sans-serif; }
+.narrative-course .ud-hemingway-panel p { margin:0 0 1.2cqw; font:1.6cqw/1.32 Arial,sans-serif; }
+.narrative-course .ud-hemingway-panel ol { margin:0 0 1cqw; padding-left:2.2cqw; }
+.narrative-course .ud-hemingway-panel li { margin-bottom:.55cqw; font:1.65cqw/1.25 Arial,sans-serif; }
+.narrative-course .ud-hemingway-panel a { color:#644233; font:1.1cqw/1.2 Arial,sans-serif; }
+.narrative-course .ud-self-image-redraw { position:absolute; inset:0; background:linear-gradient(90deg,transparent 41.67%,#070d13 41.67%); color:#f7f2ea; font-family:Georgia,"Times New Roman",serif; }
+.narrative-course .ud-self-image-content { position:absolute; box-sizing:border-box; left:45%; top:5%; width:51.5%; height:90%; display:grid; grid-template-rows:auto auto 1fr 1fr 1fr; gap:1.1cqw; }
+.narrative-course .ud-self-image-kicker { margin:0; color:#b2c1bf; font:700 1.15cqw/1.2 Arial,sans-serif; letter-spacing:.16em; }
+.narrative-course .ud-self-image-content h2 { margin:0 0 .2cqw; color:#f7f2ea; font:400 2.75cqw/1.13 Georgia,"Times New Roman",serif; }
+.narrative-course .ud-self-image-card,.narrative-course .ud-self-image-prompt { box-sizing:border-box; min-height:0; padding:1.1cqw 1.45cqw; border:1px solid #425051; border-left:3px solid #c49a6a; background:#121c21; }
+.narrative-course .ud-self-image-prompt { background:#1a2427; border-left-color:#92b7b0; }
+.narrative-course .ud-self-image-tag { display:block; margin-bottom:.6cqw; color:#c6aa8d; font:700 1.05cqw/1.2 Arial,sans-serif; letter-spacing:.1em; }
+.narrative-course .ud-self-image-prompt .ud-self-image-tag { color:#a4c9c3; }
+.narrative-course .ud-self-image-card blockquote { margin:0; color:#fff8ee; font:400 2.25cqw/1.3 Georgia,"Times New Roman",serif; }
+.narrative-course .ud-self-image-card small { display:block; margin-top:.7cqw; color:#b4c2c0; font:1cqw/1.2 Arial,sans-serif; }
+.narrative-course .ud-self-image-prompt p { margin:0; color:#f4f0e9; font:1.55cqw/1.32 Georgia,"Times New Roman",serif; }
+.narrative-course .ud-self-image-redraw [data-deck-text-id] { cursor:pointer; }
+.narrative-course .ud-self-image-redraw [data-deck-text-id]:hover { text-decoration:underline; text-decoration-color:#c49a6a; text-underline-offset:.16em; }
+.narrative-course .ud-readable-translation { max-width:920px; width:100%; box-sizing:border-box; margin:0 auto 30px; padding:22px clamp(18px,4vw,32px); border:1px solid #d6cabc; border-radius:10px; background:#fffcf7; }
+.narrative-course .ud-readable-translation h3 { margin:0 0 12px; color:#6b4f38; font:600 18px/1.3 "PingFang SC","Microsoft Yahei",sans-serif; }
+.narrative-course .ud-readable-translation p { margin:0; color:#352d27; font:18px/1.85 "PingFang SC","Microsoft Yahei","Noto Sans CJK SC",sans-serif; white-space:pre-line; }
+.narrative-course .ud-mobile-poem { display:none; }
+.narrative-course .ud-mobile-novel { display:none; }
+.narrative-course .ud-mobile-hemingway { display:none; }
+.narrative-course .ud-worksheet-rewrite {
+  left:10.5cqw; top:13.2cqw; width:55cqw;
+  grid-template-rows:repeat(5,7.35cqw);
+}
+.narrative-course .ud-worksheet-rewrite .ud-worksheet-row { display:block; padding:.2cqw 0; }
+.narrative-course .ud-worksheet-rewrite .ud-worksheet-question-group { margin-bottom:.5cqw; }
+.narrative-course .ud-worksheet-rewrite .ud-worksheet-question { font-size:1.45cqw; line-height:1.2; }
+.narrative-course .ud-worksheet-rewrite .ud-worksheet-answer { padding-left:1.8cqw; color:#df130b; font-size:1.7cqw; font-weight:700; line-height:1.18; }
 .narrative-course .ud-source-html [data-deck-text-id]:focus-visible { outline:2px solid #997c36; outline-offset:2px; }
 .narrative-course .ud-source-html .ud-selected { outline:1px dashed #997c36; outline-offset:2px; }
 .narrative-course .ud-recall [data-deck-text-id]:not(.ud-revealed) { outline:1px dashed #997c3677; }
@@ -50,4 +136,66 @@
   .narrative-course .unit-deck-viewer { padding:10px; }
   .narrative-course .ud-navigation { padding:8px; gap:8px; margin-bottom:10px; }
   .narrative-course .ud-navigation a,.narrative-course .ud-navigation button,.narrative-course .ud-navigation select { font-size:12px; padding:7px; }
+}
+@media (max-width:600px) {
+  .narrative-course .ud-mobile-poem { display:block; box-sizing:border-box; width:100%; padding:18px; border:1px solid #d6cabc; border-radius:9px; background:#fffcf7; }
+  .narrative-course .ud-mobile-poem p { margin:0; color:#352d27; font:17px/2 "PingFang SC","Microsoft Yahei","Noto Sans CJK SC",sans-serif; white-space:pre-line; }
+  .narrative-course .ud-mobile-novel { display:block; box-sizing:border-box; width:100%; padding:18px; border:1px solid #d6cabc; border-radius:9px; background:#fffcf7; }
+  .narrative-course .ud-mobile-novel p { margin:0 0 16px; color:#352d27; font:16px/1.65 "PingFang SC","Microsoft Yahei",sans-serif; }
+  .narrative-course .ud-mobile-novel .ud-mobile-novel-original { font-family:Georgia,"Times New Roman",serif; }
+  .narrative-course .ud-mobile-novel small { display:block; margin-bottom:10px; color:#665747; font:13px/1.5 "PingFang SC","Microsoft Yahei",sans-serif; }
+  .narrative-course .ud-mobile-novel a { color:#7b4634; font:13px/1.5 Arial,sans-serif; overflow-wrap:anywhere; }
+  .narrative-course .ud-mobile-hemingway { display:block; box-sizing:border-box; width:100%; padding:18px; border:1px solid #d6cabc; border-radius:9px; background:#fffcf7; }
+  .narrative-course .ud-mobile-hemingway p,.narrative-course .ud-mobile-hemingway li { color:#352d27; font:16px/1.6 Arial,sans-serif; }
+  .narrative-course .ud-mobile-hemingway p { margin:0 0 12px; }
+  .narrative-course .ud-mobile-hemingway ol { margin:0 0 14px; padding-left:24px; }
+  .narrative-course .ud-mobile-hemingway li { margin-bottom:6px; }
+  .narrative-course .ud-mobile-hemingway a { color:#7b4634; font:14px/1.5 Arial,sans-serif; }
+}
+.narrative-course .ud-novel-excerpt,
+.narrative-course .ud-novel-translation {
+  white-space: normal;
+  overflow: hidden;
+  line-height: 1.16;
+}
+
+.narrative-course .ud-novel-excerpt {
+  color: #16120e;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.08cqw;
+  font-weight: 700;
+  text-align: left;
+}
+
+.narrative-course .ud-novel-excerpt mark {
+  color: #c72222;
+  background: transparent;
+}
+
+.narrative-course .ud-novel-translation {
+  color: #413a33;
+  font-family: "Songti SC", "Noto Serif CJK SC", serif;
+  font-size: 1.66cqw;
+  line-height: 1.36;
+}
+
+.narrative-course .ud-novel-source-note {
+  position: absolute;
+  left: 53.622013%;
+  top: 28.9cqw;
+  width: 43.75cqw;
+  color: #665747;
+  font: 1.25cqw/1.35 Arial, sans-serif;
+}
+
+.narrative-course .ud-novel-source-note span,
+.narrative-course .ud-novel-source-note a {
+  display: block;
+  margin-bottom: .35cqw;
+}
+
+.narrative-course .ud-novel-source-note a {
+  color: #79452e;
+  text-decoration: underline;
+  text-underline-offset: .2em;
 }

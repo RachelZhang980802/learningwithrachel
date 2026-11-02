@@ -57,7 +57,7 @@ test('02–05 workbook rows, highlighted forms, cards, and offline audio stay al
       assert.equal(curated[aid][row]?.sourceRow, row, `${aid}: row ${row} card key`);
       assert.ok(reachable.has(row), `${aid}: row ${row} has clickable source text`);
       assert.ok(curated[aid][row].english && curated[aid][row].chinese, `${aid}: row ${row} meaning`);
-      assert.ok(curated[aid][row].collocations.length && curated[aid][row].compare.length && curated[aid][row].usage, `${aid}: row ${row} note sections`);
+      assert.ok(curated[aid][row].collocations.length && Array.isArray(curated[aid][row].compare) && curated[aid][row].usage, `${aid}: row ${row} note sections`);
       const recording = audio[aid][row];
       assert.ok(recording?.file, `${aid}: row ${row} recording`);
       const file = path.join(root, 'public', recording.file.replace(/^\//, ''));

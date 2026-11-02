@@ -28,7 +28,9 @@ test('all 40 sentences retain original source, Chinese explanations and existing
   assert.equal(s.text,raw.functions[i].key);
   assert.ok(s.note.includes(raw.reviewNotes.find(n=>n.key===s.text).note));
   assert.equal(paragraphs[s.paragraph-1].slice(s.paragraphStart,s.paragraphEnd),s.text);
-  assert.deepEqual(s.classification,originalClassification[i]);
+  const {studyLevel, ...originalFields}=s.classification;
+  assert.deepEqual(originalFields,originalClassification[i]);
+  assert.ok(["simple","long"].includes(studyLevel));
  }
 });
 test('exact ranges partition every sentence once with valid nested structures',()=>{

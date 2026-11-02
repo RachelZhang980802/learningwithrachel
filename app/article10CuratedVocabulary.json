@@ -10,9 +10,9 @@
         "read the river like a language 把河流当语言来读"
       ],
       "compare": [
-        "dead language 本指不再通用的语言；本文把河面比作书。"
+        "dead language 通常没有当代母语使用者；extinct language 更强调已无人会使用。本文两者都只是“无法读懂河流”的比喻。"
       ],
-      "usage": "这是比喻：乘客看见水面，却读不出航行信息；摘录未单列该短语。",
+      "usage": "dead language 是名词短语，字面指已无日常母语使用者的语言；本文把河流当作书，乘客不懂其中信息。",
       "ipa": "",
       "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": false,
@@ -20,14 +20,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。",
       "family": [
-        "death n. 死亡；dead 的相关名词",
+        "death n. 死亡",
         "die v. 死亡",
-        "died v. die 的过去式／过去分词",
-        "dying n./adj./v. 死亡；垂死的；die 的 -ing 形式"
+        "dying adj. 垂死的；逐渐消失的"
       ],
-      "wordFamilyNote": "The phrase uses dead to mean ‘no longer in everyday use’; these are common forms from the same word family.",
       "wordFamilyRoot": "dead"
     },
     "43": {
@@ -40,9 +37,10 @@
         "an uneducated point of view 缺乏知识的看法"
       ],
       "compare": [
-        "uneducated 字面是缺乏正规教育；本文的 river language 是隐喻。"
+        "uneducated：一般指缺少正规教育，本文是比喻",
+        "untrained：缺少某种技能训练，在本文的河道解读语境更贴切"
       ],
-      "usage": "不要据此推断乘客真实受教育程度；作者强调的是航行知识差异。",
+      "usage": "uneducated passenger 是 river-as-book 比喻的一部分：乘客不会“读”河面，不能据此断定他缺乏学校教育。uneducated 是形容词，置于名词 passenger 前。",
       "ipa": "/ʌnˈedʒukeɪtɪd/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -57,12 +55,29 @@
       "family": [
         "educate v. 教育；培养",
         "educated adj. 受过教育的",
-        "uneducated adj. 未受教育的；缺乏相关训练的",
         "education n. 教育",
         "educational adj. 教育的",
-        "educator n. 教育工作者"
+        "educator n. 教育工作者",
+        "educationally adv. 在教育方面"
       ],
-      "wordFamilyNote": "The adjective uneducated belongs to the educate family; education and educator are common noun forms."
+      "wordFamilyRoot": "uneducated",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "uneducated",
+            "educated",
+            "educational"
+          ],
+          "distinction": "an uneducated passenger 缺少相关学习或训练；an educated passenger 已受教育；an educational trip 则是有教育作用的旅行，修饰的是活动而非学习者。"
+        },
+        {
+          "forms": [
+            "education",
+            "educator"
+          ],
+          "distinction": "receive an education 指接受教育的经历或过程；work as an educator 指从事教学的人，不能用 educator 指学生所受的教育。"
+        }
+      ]
     },
     "44": {
       "word": "reserve",
@@ -74,9 +89,9 @@
         "speak without reserve 坦率地说"
       ],
       "compare": [
-        "without reserve 是毫无保留；in reserve 是留作备用。"
+        "without reserve 与 unreservedly 都可指毫无保留地表达；openly 强调公开、坦率，未必把一切都说出来。"
       ],
-      "usage": "修饰河水仿佛向作者透露秘密；这里不取储备或自然保护区义。",
+      "usage": "without reserve 是介词短语，在句中作方式状语，表示河水仿佛毫无保留地透露秘密；不是名词 reserve 的“储备”义。",
       "ipa": "/rɪˈzɜːrv/",
       "partOfSpeech": "idiom",
       "oxfordExcerptProvided": true,
@@ -118,10 +133,26 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "reserved adj./v. 预留的；reserve 的过去式／过去分词",
-        "reserving n./v. 预订；保留",
-        "reservation n. 预订；保留意见",
-        "reservoir n. 水库；储备"
+        "reserved adj. 有保留的；矜持的",
+        "reservation n. 保留意见；预订",
+        "unreserved adj. 毫无保留的"
+      ],
+      "wordFamilyRoot": "reserve",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "reserve",
+            "reservation"
+          ],
+          "distinction": "without reserve 中 reserve 指说话时的克制或保留；without reservation 常指毫无异议或条件，reservation 也可指预订。两种搭配有交集，但单数 reserve 不能随意替换成 reservation。"
+        },
+        {
+          "forms": [
+            "reserved",
+            "unreserved"
+          ],
+          "distinction": "a reserved person 说话谨慎、少表露感情；unreserved praise 则是不加保留的赞扬。前者常形容人的性格，后者常修饰表达。"
+        }
       ]
     },
     "45": {
@@ -134,9 +165,9 @@
         "deliver a message 传递信息"
       ],
       "compare": [
-        "deliver 可指递送实物，也可比喻传达信息。"
+        "deliver a message 与 convey a message 都指传达信息；deliver 还保留“把东西送到”的形象，convey 更侧重意义的传递。"
       ],
-      "usage": "主语是拟人化的河水；delivering 与前面的 told 并列。",
+      "usage": "delivering ... 是现在分词短语，补充说明河水如何向作者透露秘密；动作主体仍是拟人化的河水。",
       "ipa": "/dɪˈlɪvər/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -190,11 +221,18 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "delivered adj./v. 交付的；deliver 的过去式／过去分词",
-        "delivering n./v. 递送；发表",
-        "delivery n. 递送；交付；分娩",
-        "deliverer n. 递送者；履行者",
-        "deliverable n./adj. 可交付成果；可交付的"
+        "delivery n. 递送；传达；分娩",
+        "deliverer n. 递送者；使摆脱困境者"
+      ],
+      "wordFamilyRoot": "deliver",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "delivery",
+            "deliverer"
+          ],
+          "distinction": "the delivery of a message 是信息传达这一过程；the deliverer of a message 是把消息送来的人，前者不能用来称信使。"
+        }
       ]
     },
     "46": {
@@ -207,7 +245,7 @@
         "utter a cry 发出喊声"
       ],
       "compare": [
-        "utter 作动词是“说出”；作形容词是“完全的”。"
+        "utter 指把话发出声，较正式；say 是最普通的“说”；voice 强调把想法或意见明确说出来。"
       ],
       "usage": "uttered them 中 them 指河流的秘密；河流不会真的开口，是拟人。",
       "ipa": "/ˈʌtər/",
@@ -229,11 +267,8 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "uttered v. 说出（过去式／过去分词）",
-        "uttering v. 说出（-ing 形式）",
         "utterance n. 说出的话；话语"
-      ],
-      "wordFamilyNote": "These branches follow the verb meaning “to say”; the unrelated adjective utter (“complete”) is excluded."
+      ]
     },
     "1": {
       "word": "void of something",
@@ -289,9 +324,11 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
-      "family": [],
-      "wordFamilyNote": "Void of is a fixed phrase meaning ‘completely lacking’; no common related form fits this sense."
+      "family": [
+        "void n. 空白；空虚",
+        "devoid adj. 完全缺乏的"
+      ],
+      "wordFamilyRoot": "void"
     },
     "47": {
       "word": "so wonderful a book",
@@ -305,7 +342,7 @@
       "compare": [
         "so wonderful a book 与 such a wonderful book 意思接近，词序不同。"
       ],
-      "usage": "so 放在形容词 wonderful 前，a 放在形容词之后；这是句法结构，不是词典单词。",
+      "usage": "so + 形容词 + a/an + 单数可数名词，如 so wonderful a book；形容词前置，冠词放在形容词后。日常也可说 such a wonderful book。",
       "ipa": "",
       "partOfSpeech": "grammar pattern",
       "oxfordExcerptProvided": false,
@@ -313,16 +350,23 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。",
       "family": [
         "wonder n./v. 惊奇；想知道",
+        "wonderful adj. 精彩的；令人惊叹的",
         "wonderfully adv. 精彩地；令人惊叹地",
         "wonderment n. 惊奇；惊叹",
-        "wondrous adj. 奇妙的；令人惊叹的",
-        "wondrously adv. 奇妙地；令人惊叹地"
+        "wondrous adj. 奇妙的；令人惊叹的"
       ],
-      "wordFamilyNote": "The expandable word is wonder; the branches show its common adjective, adverb, and noun forms.",
-      "wordFamilyRoot": "wonder"
+      "wordFamilyRoot": "wonder",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "wonderful",
+            "wondrous"
+          ],
+          "distinction": "wonderful 是常用的“精彩、令人赞叹”；wondrous 更文学化，强调奇妙得近乎不可思议。"
+        }
+      ]
     },
     "48": {
       "word": "absorbing",
@@ -336,7 +380,7 @@
       "compare": [
         "absorbing 强调持续吸引注意；interesting 语气较弱。"
       ],
-      "usage": "修饰 interest，表示河流像书一样让人读得入迷。",
+      "usage": "absorbing 修饰 interest，不是说河水在物理上“吸收”东西；an absorbing story 中的 absorbing 指内容让人入迷。",
       "ipa": "/əbˈzɔːrbɪŋ/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -349,10 +393,19 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "absorb v. 吸收；全神贯注",
-        "absorbed adj./v. 全神贯注的；absorb 的过去式／过去分词",
-        "absorption n. 吸收；专注",
-        "absorbent adj./n. 吸收性的；吸收材料"
+        "absorb v. 吸收；使全神贯注",
+        "absorbed adj. 全神贯注的",
+        "absorption n. 吸收；专注"
+      ],
+      "wordFamilyRoot": "absorbing",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "absorbing",
+            "absorbed"
+          ],
+          "distinction": "absorbing 说事物“引人入胜”；absorbed 说人“全神贯注于某事”。"
+        }
       ]
     },
     "2": {
@@ -381,21 +434,32 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "flag v. 减弱；衰退",
+        "flagging adj. 减弱的；衰退的"
+      ],
+      "wordFamilyRoot": "unflagging",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "unflagging",
+            "flagging"
+          ],
+          "distinction": "unflagging interest 指兴趣始终不减；flagging interest 则表示兴趣正在衰退。这里的 un- 使评价反向，不是程度略有差别。"
+        }
+      ]
     },
     "49": {
       "word": "sparkingly",
       "sourceRow": 49,
-      "english": "with a sparkling, lively quality; the printed form is unusual",
-      "chinese": "闪闪发亮地；生动地",
+      "english": "in a vivid, spark-like way; here, freshly and excitingly renewed",
+      "chinese": "如迸出火花般地；这里指每次重读都重新焕发生气",
       "collocations": [
-        "sparkingly renewed 鲜活地重新唤起",
-        "sparklingly clear 闪耀而清晰"
+        "sparkingly renewed 每次重读都鲜活地重新激发"
       ],
-      "compare": [
-        "文中 sparkingly 与常见的 sparklingly 拼写不同。"
-      ],
-      "usage": "保留文章原拼写 sparkingly；词典摘录未收录此形式，需留意它可能是文本异文或笔误。",
+      "compare": [],
+      "usage": "原文确实拼作 sparkingly，不宜擅改为 sparklingly。它由 sparking + -ly 构成，修饰 renewed；这里说读者的兴趣每次重读都重新被激发，而非书本真的发光。",
       "ipa": "",
       "partOfSpeech": "adverb",
       "oxfordExcerptProvided": false,
@@ -403,7 +467,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "保留文章拼写 sparkingly；摘录未单列，常见拼写 sparklingly 与它不同，可能是原文异文或笔误。"
+      "family": [
+        "sparkle v. 闪烁；发光",
+        "sparkling adj. 闪亮的；生动的"
+      ],
+      "wordFamilyRoot": "spark"
     },
     "50": {
       "word": "renewed with",
@@ -415,30 +483,39 @@
         "renewed interest 再次兴起的兴趣"
       ],
       "compare": [
-        "renewed 指再度增强；repeated 只表示重复。"
+        "renewed 指重新被激发、恢复活力；revived 也指恢复生气，常暗示之前已衰弱。",
+        "refreshed 指重新变得鲜活或精神更好，力度通常较轻。"
       ],
       "usage": "renewed with every re-perusal 修饰书的吸引力；with 表伴随每次重读。",
       "ipa": "/rɪˈnuːd/",
       "partOfSpeech": "participial phrase",
       "oxfordExcerptProvided": true,
       "articleExample": "There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparkingly renewed with every re-perusal.",
-      "dictionaryExample": {
-        "english": "Renewed fighting has been reported on the border.",
-        "chinese": "据报道，在边境地区战火重燃。",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "renewed adj./v. 更新的；renew 的过去式／过去分词",
-        "renewing n./v. 更新；renew 的 -ing 形式",
+        "renewed adj. 焕然一新的；恢复活力的",
         "renewal n. 更新；恢复",
         "renewable adj. 可更新的；可再生的",
         "renewability n. 可更新性；可再生性"
       ],
-      "wordFamilyNote": "The phrase is built around renew; the branches show common noun and adjective forms.",
-      "wordFamilyRoot": "renew"
+      "wordFamilyRoot": "renew",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "renewed",
+            "renewable"
+          ],
+          "distinction": "renewed 表重新恢复活力；renewable 表可以不断补充或再生。"
+        },
+        {
+          "forms": [
+            "renewal",
+            "renewability"
+          ],
+          "distinction": "renewal 是恢复或更新的过程；renewability 是可以再生或更新的性质。"
+        }
+      ]
     },
     "3": {
       "word": "perusal",
@@ -451,9 +528,8 @@
         "a quick perusal 快速翻阅"
       ],
       "compare": [
-        "perusal：较正式的阅读、查阅，不自动保证精读",
-        "study：以理解或研究为目的深入学习",
-        "skim：快速抓大意"
+        "perusal：较正式的阅读或查阅，常暗含仔细看",
+        "reading：最普通的“阅读”，不说明是否仔细"
       ],
       "usage": "原文 re-perusal 加 re- 表再次阅读。不能只凭 perusal 就断言“一定逐字精读”；程度由 careful、quick 等语境说明。",
       "ipa": "/pəˈruːzəl/",
@@ -466,7 +542,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "peruse v. 阅读；查阅"
+      ],
+      "wordFamilyRoot": "perusal"
     },
     "51": {
       "word": "peculiar",
@@ -478,9 +558,9 @@
         "a peculiar smell 奇怪的气味"
       ],
       "compare": [
-        "peculiar 可指奇怪，也可指某地或某人特有。"
+        "peculiar 可指奇特、与众不同，偶有怪异感；unusual 只说明不常见；distinctive 强调具有可辨认的特点。"
       ],
-      "usage": "乘客只觉水面小凹很特别，领航员却看出危险信号。",
+      "usage": "a peculiar sort of faint dimple 中 peculiar 修饰 sort，faint 修饰 dimple；乘客只觉水纹奇特，领航员却读出危险。",
       "ipa": "/pɪˈkjuːliər/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -521,9 +601,9 @@
         "a faint dimple 轻微的凹纹"
       ],
       "compare": [
-        "faint：强度低、不易察觉",
-        "vague：信息轮廓不明确",
-        "dim：光线昏暗"
+        "faint：细微得不易察觉",
+        "subtle：细微而不显眼，未必因强度弱",
+        "barely visible：几乎看不见，直接说明可见度很低"
       ],
       "usage": "本文修饰 dimple，并不是水面要晕倒。the faintest 为最高级；not have the faintest idea 表一点也不知道。",
       "ipa": "/feɪnt/",
@@ -561,7 +641,13 @@
           "exampleChinese": "他跌倒在地，昏死过去。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "faintly adv. 微弱地；隐约地",
+        "faintness n. 微弱；晕厥感",
+        "faint v. 晕厥"
+      ],
+      "wordFamilyRoot": "faint"
     },
     "5": {
       "word": "dimple",
@@ -574,9 +660,8 @@
         "dimpled cheeks 有酒窝的脸颊"
       ],
       "compare": [
-        "dimple：圆浅的小凹处，常让人联想到酒窝",
-        "dent：物体受压或撞击后的凹痕",
-        "ripple：水面的小波纹，不一定有凹陷形状"
+        "dimple：圆而浅的小凹处，本文借指水面小凹纹",
+        "dent：物体受压或撞击后的凹痕"
       ],
       "usage": "这里把水面写成有“酒窝”的脸，延续 face of the water；但它也是领航员识别水下障碍的迹象。不要只记人体义。",
       "ipa": "/ˈdɪmpəl/",
@@ -600,7 +685,12 @@
           "chinese": "现酒窝；现笑靥"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "dimpled adj. 有小凹陷的；有酒窝的",
+        "dimple v. 形成小凹陷；现酒窝"
+      ],
+      "wordFamilyRoot": "dimple"
     },
     "52": {
       "word": "occasion",
@@ -612,7 +702,7 @@
         "on this occasion 在这次"
       ],
       "compare": [
-        "occasion 可指某个时刻，也可指庆典或机会。"
+        "occasion 指某件事发生的时刻；instance 指一个具体例子或案例，较强调“其中一次”。"
       ],
       "usage": "rare occasions 指乘客偶尔没有完全忽略水面凹痕的时候。",
       "ipa": "/əˈkeɪʒn/",
@@ -658,7 +748,7 @@
         "overlook an important fact 忽略重要事实"
       ],
       "compare": [
-        "overlook 也可指俯瞰；本文是否定的“没看见”。"
+        "overlook 指无意漏看；miss 也可指没发现；ignore 常指已经注意到却有意不理。"
       ],
       "usage": "passenger 没注意到水面小凹，错过了领航员能读出的危险信号。",
       "ipa": "/ˌəʊvərˈlʊk/",
@@ -692,8 +782,7 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "overlooked adj./v. 被忽视的；overlook 的过去式／过去分词",
-        "overlooking n./v. 忽略；俯瞰"
+        "overlooked adj. 被忽略的"
       ]
     },
     "6": {
@@ -706,11 +795,7 @@
         "an italicized passage 斜体段落",
         "words in italics 斜体文字"
       ],
-      "compare": [
-        "italicize：改变为斜体",
-        "underline：在下方画线",
-        "capitalize：用大写字母"
-      ],
+      "compare": [],
       "usage": "英式也常拼 italicise。水面不是实际有印刷字，而是比喻细微水纹对专业读者具有强调作用。",
       "ipa": "/ɪˈtælɪsaɪz/",
       "partOfSpeech": "v. [T]",
@@ -722,7 +807,23 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "italic adj./n. 斜体的；斜体字",
+        "italics n. 斜体字",
+        "italicization n. 斜体化"
+      ],
+      "wordFamilyRoot": "italicize",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "italic",
+            "italics",
+            "italicization"
+          ],
+          "distinction": "italic 常作形容词修饰字体，如 italic type；italics 是表示这种字体样式的复数名词，常说 in italics；italicization 指把文字改成斜体的操作。"
+        }
+      ]
     },
     "7": {
       "word": "legend",
@@ -763,7 +864,11 @@
           "chinese": "（地图或书中图表的）图例，说明，解释"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "legendary adj. 传奇的；著名的"
+      ],
+      "wordFamilyRoot": "legend"
     },
     "8": {
       "word": "capital",
@@ -775,14 +880,10 @@
         "a capital letter 大写字母",
         "start with a capital 首字母大写"
       ],
-      "compare": [
-        "capital：大写字母，也叫 uppercase letter",
-        "lowercase：小写形式",
-        "italic：斜体，与大小写是不同维度"
-      ],
+      "compare": [],
       "usage": "本文 capitals 是复数大写字母，不是首都或资金。largest 夸张字体尺寸，shouting 进一步强化警告感。",
       "ipa": "/ˈkæpɪtəl/",
-      "partOfSpeech": "plural noun",
+      "partOfSpeech": "countable noun; plural capitals in the passage",
       "oxfordExcerptProvided": true,
       "articleExample": "The passenger who could not read it was charmed with a peculiar sort of faint dimple on its surface (on the rare occasions when he did not overlook it altogether); but to the pilot that was an italicized passage; indeed, it was more than that, it was a legend of the largest capitals, with a string of shouting exclamation points at the end of it; for it meant that a wreck or a rock was buried there that could tear the life out of the strongest vessel that ever floated.",
       "dictionaryExample": {
@@ -835,7 +936,21 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文 capitals 是大写字母；摘录另有 capital 的首都、资本等义项，切勿混淆。"
+      "family": [
+        "capital adj. 大写的",
+        "capitalize v. 将……大写",
+        "capitalization n. 大写；资本化"
+      ],
+      "wordFamilyRoot": "capital",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "capital",
+            "capitalization"
+          ],
+          "distinction": "本文的 capitals 是一个个大写字母；capitalization 指把字母改成大写的规则或操作，如 capitalization of names，不能用它指某个大写字母。"
+        }
+      ]
     },
     "9": {
       "word": "exclamation point",
@@ -848,9 +963,7 @@
         "end with an exclamation point 以感叹号结尾"
       ],
       "compare": [
-        "exclamation point：标点符号“!”",
-        "exclamation：惊呼或感叹的话",
-        "question mark：问号，标示疑问"
+        "exclamation point 与 exclamation mark 是同一个标点的美式、英式名称；此处没有语义差别。"
       ],
       "usage": "英式常用 exclamation mark；point、mark 都是同一标点的名称。原文 shouting 是拟人化，写危险信号仿佛在大声警告。",
       "ipa": "/ˌekskləˈmeɪʃən ˌpɔɪnt/",
@@ -861,12 +974,9 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "exclaimed v. exclaim 的过去式／过去分词",
-        "exclaiming n./v. 惊叫；呼喊；exclaim 的 -ing 形式",
-        "exclamation n. 感叹；感叹词",
+        "exclamation n. 感叹；呼喊",
         "exclamatory adj. 感叹的；感叹句的"
       ],
-      "wordFamilyNote": "The expandable word is exclaim; exclamation is its common noun form.",
       "wordFamilyRoot": "exclaim"
     },
     "54": {
@@ -879,9 +989,9 @@
         "raise a wreck 打捞沉船"
       ],
       "compare": [
-        "wreck 可指沉船，也可指事故或被毁坏的人事物。"
+        "wreck 指失事后损坏的船或残骸；shipwreck 可指沉船本身，也可指船难事件。"
       ],
-      "usage": "水下隐藏的 wreck 会撕裂经过的船只，不是泛指情绪崩溃。",
+      "usage": "a wreck 在这里是可数名词，指潜在水下的沉船或船骸；与后面的 a rock 并列，二者都可能损坏船只。",
       "ipa": "/rek/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -937,10 +1047,21 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "wrecked adj./v. 失事的；wreck 的过去式／过去分词",
-        "wrecking n./v. 破坏；拆毁",
+        "wrecked adj. 失事的；被毁坏的",
+        "wrecking n. 拆毁；拆船",
         "wrecker n. 拆船者；破坏者",
-        "wreckage n. 残骸；失事现场"
+        "wreckage n. 残骸"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "wreck",
+            "wrecking",
+            "wrecker",
+            "wreckage"
+          ],
+          "distinction": "a wreck 是一艘失事的船或其残体；wrecking 指拆毁行动，a wrecker 是从事拆毁的人或设备；wreckage 是事故后散落的残骸，未必还保有整艘船的形状。"
+        }
       ]
     },
     "55": {
@@ -953,9 +1074,9 @@
         "a fishing vessel 渔船"
       ],
       "compare": [
-        "vessel 在航海语境是船；在医学语境可指血管。"
+        "vessel 是较正式的船舶总称；ship 通常指较大的海船；boat 范围较宽，也常指小船。"
       ],
-      "usage": "the strongest vessel 夸张地说再坚固的船也可能被水下障碍毁坏。",
+      "usage": "vessel 是可数名词，the strongest vessel 用最高级强调“再坚固的船也不例外”；航海语境下指船舶。",
       "ipa": "/ˈvesl/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -979,7 +1100,8 @@
           "exampleChinese": "青铜器时代的饮具"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "56": {
       "word": "float",
@@ -991,9 +1113,11 @@
         "float on the water 漂在水面上"
       ],
       "compare": [
-        "float 强调浮在表面；drift 强调随流移动。"
+        "float：浮在水面上，不一定移动",
+        "stay afloat：保持漂浮，没有下沉",
+        "remain buoyant：保持浮力，语气较技术性"
       ],
-      "usage": "本文多次用于船、木头及光影；不同句子可依对象理解。",
+      "usage": "float 是规则动词，过去式 floated。本文浮着的对象包括汽船与木头；不要把“浮在水面”与“随流漂移”完全混为一谈。",
       "ipa": "/fləʊt/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -1047,27 +1171,32 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "floated v. float 的过去式／过去分词",
-        "floating adj./n./v. 漂浮的；浮体；float 的 -ing 形式",
         "flotation n. 漂浮；浮选",
-        "floatable adj. 可漂浮的",
         "floater n. 漂浮物；流动人员"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "flotation",
+            "floater"
+          ],
+          "distinction": "flotation 指浮在水上的状态或使物体浮起的技术过程；a floater 指正在漂浮的具体物体或人，不能用过程名词指那根漂木。"
+        }
       ]
     },
     "10": {
       "word": "hideous",
       "sourceRow": 10,
-      "english": "extremely ugly, unpleasant or shocking",
-      "chinese": "丑陋可怕的；骇人的",
+      "english": "extremely ugly or horrifying; here, alarming because it signals danger",
+      "chinese": "骇人的；此处指预示危险、让领航员惊惧的",
       "collocations": [
         "a hideous sight 骇人的景象",
         "a hideous mistake 极其糟糕的错误",
         "look hideous 难看极了"
       ],
       "compare": [
-        "hideous：视觉或感受令人强烈反感、震惊",
-        "ugly：主要评价外观或丑恶性质",
-        "dangerous：会造成伤害，不一定看起来难看"
+        "hideous 比 ugly 更强烈，可指骇人或令人厌恶；ugly 主要指外观丑陋。",
+        "grotesque 强调形状怪诞到令人不安；hideous 不一定有畸形感。"
       ],
       "usage": "对领航员而言 hideous 重点在细纹意味着严重危险，不是它在颜色形状上特别丑。the most hideous 后省略重复的 expression。",
       "ipa": "/ˈhɪdiəs/",
@@ -1080,7 +1209,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "hideously adv. 骇人地；丑陋地",
+        "hideousness n. 骇人；丑陋"
+      ],
+      "wordFamilyRoot": "hideous"
     },
     "11": {
       "word": "in truth",
@@ -1116,8 +1250,24 @@
         "truthfulness n. 诚实；真实性",
         "untrue adj. 不真实的；不正确的"
       ],
-      "wordFamilyNote": "The expandable word is truth; the branches show its common adjective and adverb forms.",
-      "wordFamilyRoot": "truth"
+      "wordFamilyRoot": "truth",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "true",
+            "truthful",
+            "untrue"
+          ],
+          "distinction": "true 说内容真实；truthful 说人诚实或陈述如实；untrue 说内容不真实。"
+        },
+        {
+          "forms": [
+            "truly",
+            "truthfully"
+          ],
+          "distinction": "truly 表“真正地”或强调程度；truthfully 表如实、诚实地说。"
+        }
+      ]
     },
     "12": {
       "word": "grim",
@@ -1130,9 +1280,8 @@
         "a grim expression 严肃忧虑的神情"
       ],
       "compare": [
-        "grim：看到危险或坏前景而严峻",
-        "serious：郑重或重大，不必悲观",
-        "gloomy：情绪低落或前景黯淡"
+        "grim：严峻且使人担忧，常暗示坏结果",
+        "gloomy：情绪或前景阴沉，未必有直接危险"
       ],
       "usage": "比较级 grimmer、最高级 grimmest，双写 m。本文 the grimmest … of reading matter 指最严峻的解读材料，不是“最阴沉的读书人”。",
       "ipa": "/ɡrɪm/",
@@ -1170,7 +1319,12 @@
           "exampleChinese": "很遗憾，他们的表现真不怎么样！"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "grimly adv. 严峻地；冷酷地",
+        "grimness n. 严峻；阴沉"
+      ],
+      "wordFamilyRoot": "grim"
     },
     "57": {
       "word": "dead-earnest",
@@ -1182,9 +1336,9 @@
         "a dead-earnest warning 极其认真的警告"
       ],
       "compare": [
-        "dead-earnest 中 dead 加强 earnest；dead 不是字面死亡。"
+        "dead-earnest 与 completely serious 都指十分严肃；dead-earnest 语气更强、更口语化。"
       ],
-      "usage": "与乘客眼中的 pretty pictures 对比，领航员读到的是可能致命的信号。",
+      "usage": "dead-earnest 是加强语气的复合形容词，dead 在这里作程度副词；与乘客眼里的 pretty pictures 对照。",
       "ipa": "/ded/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -1192,7 +1346,21 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "family": [
+        "earnest adj. 认真的；郑重的",
+        "earnestly adv. 认真地；恳切地",
+        "earnestness n. 认真；诚恳"
+      ],
+      "wordFamilyRoot": "dead-earnest",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "dead-earnest",
+            "earnest"
+          ],
+          "distinction": "earnest 表示态度认真、诚恳；dead-earnest 加上强调成分 dead-，表示严肃到绝非开玩笑，力度比普通 earnest 强。"
+        }
+      ]
     },
     "58": {
       "word": "reading matter",
@@ -1204,9 +1372,9 @@
         "matter for close reading 值得细读的内容"
       ],
       "compare": [
-        "reading matter 通常是可读的文字材料；本文以河面作书，是隐喻。"
+        "reading matter 指供阅读的材料；text 更强调具体文字内容。这里二者都被借来比喻河面信息。"
       ],
-      "usage": "在领航员眼中，水面图案是关乎航行安全的“文字”。",
+      "usage": "reading matter 是集合性的不可数名词短语；本文把河面图案当成需要解读的文字材料。",
       "ipa": "/ˈmætər/",
       "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": true,
@@ -1214,16 +1382,22 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "read v. 阅读；read 的原形／过去式／过去分词",
         "reader n. 读者；读本",
         "readable adj. 可读的；易读的",
         "readability n. 可读性",
         "reread v. 重读；再读"
       ],
-      "wordFamilyNote": "The phrase is built around read; the branches show common verb and noun forms.",
-      "wordFamilyRoot": "read"
+      "wordFamilyRoot": "read",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "reader",
+            "readability"
+          ],
+          "distinction": "a reader 是读书的人，也可指读本；the readability of a text 指文字是否容易读懂，是文本的性质，不能用来指读者。"
+        }
+      ]
     },
     "13": {
       "word": "trifling",
@@ -1236,9 +1410,9 @@
         "a trifling matter 小事"
       ],
       "compare": [
-        "trifling：重要性或数量小，常淡化分量",
-        "tiny：尺寸非常小",
-        "trivial：次要而不值得重视"
+        "trifling：微不足道的，强调不重要",
+        "trivial：琐碎、不值得重视",
+        "minor：较小或次要，语气通常更中性"
       ],
       "usage": "原文虽说 trifling feature，这些细节对航行可能重要，不能理解成“不值得学”。every 后用单数 feature。",
       "ipa": "/ˈtraɪflɪŋ/",
@@ -1251,7 +1425,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "trifle n./v. 小事；轻视"
+      ],
+      "wordFamilyRoot": "trifling"
     },
     "59": {
       "word": "border",
@@ -1263,9 +1441,9 @@
         "land bordering a river 毗邻河流的土地"
       ],
       "compare": [
-        "border 作动词是接壤或沿边；作名词是边界。"
+        "border the river 与 edge the river 都可指沿河形成边缘；border 更常用于地区、河流等较长的边界。"
       ],
-      "usage": "bordered the great river 修饰沿大河分布的细小特征。",
+      "usage": "bordered 是 border 的过去式，在这里作及物动词，直接接 the great river，不加 on。",
       "ipa": "/ˈbɔːrdər/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -1291,9 +1469,17 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "bordered adj./v. 有边界的；border 的过去式／过去分词",
-        "bordering adj./v. 接壤的；border 的 -ing 形式",
+        "bordering adj. 接壤的；相邻的",
         "borderless adj. 无国界的；无边框的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "bordering",
+            "borderless"
+          ],
+          "distinction": "bordering countries 彼此接壤，有共同边界；a borderless world 被想象为没有边界。两词都描述边界，但不能把“相邻”当成“无边界”。"
+        }
       ]
     },
     "14": {
@@ -1306,11 +1492,7 @@
         "the English alphabet 英文字母表",
         "in alphabetical order 按字母顺序"
       ],
-      "compare": [
-        "alphabet：整套按序字母",
-        "letter：其中一个字母",
-        "character：文字系统中的单个符号，范围比字母广"
-      ],
+      "compare": [],
       "usage": "一个 a、b 是 a letter，不是 an alphabet。本文用熟悉字母表比喻对河道细节的熟悉。",
       "ipa": "/ˈælfəbet/",
       "partOfSpeech": "n. [C]",
@@ -1322,7 +1504,23 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "alphabetical adj. 按字母顺序的",
+        "alphabetically adv. 按字母顺序地",
+        "alphabetize v. 按字母顺序排列",
+        "alphabetization n. 按字母顺序排列"
+      ],
+      "wordFamilyRoot": "alphabet",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "alphabet",
+            "alphabetization"
+          ],
+          "distinction": "learn the alphabet 是学习整套字母；alphabetization 是把词条按字母顺序排列的过程，如 alphabetization of a list，不是那套字母本身。"
+        }
+      ]
     },
     "15": {
       "word": "acquisition",
@@ -1335,9 +1533,9 @@
         "language acquisition 语言习得"
       ],
       "compare": [
-        "acquisition：获得的过程或成果",
-        "achievement：通过努力完成的成就",
-        "possession：拥有状态或所有物，不强调如何获得"
+        "acquisition：通过学习或得到而获得的东西",
+        "attainment：通过努力达到的成果，常指技能或知识",
+        "gain：获得的益处或增加量，范围较广"
       ],
       "usage": "a valuable acquisition 把知识技能看作一项收获；不能机械译为收购了一家公司。过程义常不可数，具体收获可数。",
       "ipa": "/ˌækwɪˈzɪʃən/",
@@ -1363,7 +1561,12 @@
           "exampleChinese": "他们在几个欧盟国家购买了一些产业。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "acquire v. 获得；习得",
+        "acquired adj. 后天获得的；习得的"
+      ],
+      "wordFamilyRoot": "acquisition"
     },
     "60": {
       "word": "restore",
@@ -1375,9 +1578,9 @@
         "restore a building 修复建筑"
       ],
       "compare": [
-        "restore 可指修复实物，也可指恢复抽象状态。"
+        "restore 指使某物回到原先状态；recover 指失去后重新获得，未必是由别人修复。"
       ],
-      "usage": "something could never be restored 指专业知识改变后再也找不回旧日审美感受。",
+      "usage": "could never be restored 是情态动词 + 被动式，指旧日的审美感受再也找不回来。",
       "ipa": "/rɪˈstɔːr/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -1415,11 +1618,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "restored adj./v. 修复的；restore 的过去式／过去分词",
-        "restoring n./v. 修复；恢复",
         "restoration n. 修复；恢复",
         "restorative adj./n. 有恢复作用的；恢复剂",
         "restorer n. 修复者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "restoration",
+            "restorative",
+            "restorer"
+          ],
+          "distinction": "restoration of a boat 是修复旧船的工作；a restorer 是做修复的人；restorative 多作形容词，形容睡眠等有恢复精力的作用，作名词时才指恢复剂。"
+        }
       ]
     },
     "16": {
@@ -1433,9 +1644,9 @@
         "majestic scenery 壮丽景色"
       ],
       "compare": [
-        "majestic：宏大、庄严，令人敬畏",
-        "beautiful：美的一般评价",
-        "grand：规模或气派宏大"
+        "majestic：规模宏大而庄严，令人敬畏",
+        "grand：气派宏大，不一定带庄严感",
+        "imposing：外观雄伟、给人强烈印象"
       ],
       "usage": "原文对大河的客观称呼仍是 majestic；“美消失”讲的是作者体验的变化，不是河流实际失去体积或壮观形态。",
       "ipa": "/məˈdʒestɪk/",
@@ -1448,7 +1659,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "majesty n. 雄伟；威严",
+        "majestically adv. 雄伟地；庄严地"
+      ],
+      "wordFamilyRoot": "majestic"
     },
     "61": {
       "word": "witness",
@@ -1462,7 +1678,7 @@
       "compare": [
         "witness 强调亲历并看到；watch 可仅指观看过程。"
       ],
-      "usage": "I witnessed 指作者亲眼见过那次日落。",
+      "usage": "witness 是及物动词，I witnessed 直接接所目睹的日落景象；此处是亲历，而非作法律证人。",
       "ipa": "/ˈwɪtnəs/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -1499,10 +1715,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "witnessed adj./v. 见证的；witness 的过去式／过去分词",
-        "witnessing n./v. 见证；目击"
-      ]
+      "family": []
     },
     "62": {
       "word": "steamboating",
@@ -1513,10 +1726,8 @@
         "new to steamboating 初接触汽船航行",
         "a steamboat journey 汽船旅行"
       ],
-      "compare": [
-        "steamboating 是活动；steamboat 是船。"
-      ],
-      "usage": "句中 when steamboating was new to me 指作者刚接触汽船航行；摘录只收录相关名词。",
+      "compare": [],
+      "usage": "when steamboating was new to me：steamboating 是动名词，指作者刚开始从事汽船航行，并非汽船这种发明刚出现。",
       "ipa": "/ˈstiːmbəʊt/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -1524,7 +1735,10 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "family": [
+        "steamboating n. 汽船航运；驾驶汽船的工作"
+      ],
+      "wordFamilyRoot": "steamboat"
     },
     "17": {
       "word": "expanse",
@@ -1537,9 +1751,8 @@
         "an expanse of grassland 一大片草原"
       ],
       "compare": [
-        "expanse：重在开阔延伸的空间",
-        "area：区域的中性称呼",
-        "extent：程度或延伸范围，不一定是眼前的一片景象"
+        "expanse：连续而开阔的一大片空间",
+        "stretch：连续延伸的一段河流或土地，未必开阔"
       ],
       "usage": "a broad expanse of the river 指宽阔河面的一大片。不要误写为 expense（费用）。",
       "ipa": "/ɪkˈspæns/",
@@ -1552,7 +1765,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "expand v. 扩大；展开",
+        "expansion n. 扩张；展开",
+        "expansive adj. 广阔的；辽阔的"
+      ],
+      "wordFamilyRoot": "expanse",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "expanse",
+            "expansion"
+          ],
+          "distinction": "an expanse of river 指眼前开阔的一片水面；the expansion of a river 指河面变宽的过程或结果，不能用来描写一片静止的景色。"
+        }
+      ]
     },
     "63": {
       "word": "hue",
@@ -1566,7 +1794,7 @@
       "compare": [
         "hue 强调颜色的色相；tint 常指加了少量颜色后的浅调。"
       ],
-      "usage": "red hue brightened into gold 描绘夕阳下水面颜色变化。",
+      "usage": "hue 是可数名词；the red hue 指夕阳下水面的红色调，随后 brightened into gold 写颜色变化。",
       "ipa": "/hjuː/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -1584,7 +1812,8 @@
           "exampleChinese": "各种政治信仰的拥护者"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "18": {
       "word": "log",
@@ -1596,11 +1825,7 @@
         "a hollow log 中空木段",
         "a ship's log 航海日志"
       ],
-      "compare": [
-        "log：一段粗木头",
-        "branch：树枝，不一定粗或已截断",
-        "snag：本文为卡在水底、危及船只的枯木"
-      ],
+      "compare": [],
       "usage": "本文 floating log 是漂浮木头，和后面嵌在河床的 snag 不同。log 作动词双写 g：logged、logging。",
       "ipa": "/lɒɡ/",
       "partOfSpeech": "n. [C]",
@@ -1631,7 +1856,20 @@
           "exampleChinese": "这位飞行员有 1 000 小时的飞行记录。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "logging n. 伐木；记载日志的活动"
+      ],
+      "wordFamilyRoot": "log",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "log",
+            "logging"
+          ],
+          "distinction": "a log 是漂在水上的一段原木；logging 是伐木活动，如 logging in the forest，也可指记录日志的行为，不能指那根木头。"
+        }
+      ]
     },
     "19": {
       "word": "conspicuous",
@@ -1659,7 +1897,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "conspicuously adv. 显眼地",
+        "conspicuousness n. 显眼；醒目",
+        "inconspicuous adj. 不显眼的"
+      ],
+      "wordFamilyRoot": "conspicuous",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "conspicuous",
+            "inconspicuous"
+          ],
+          "distinction": "a conspicuous log 与周围水面反差大，很容易被看见；an inconspicuous mark 则不显眼，容易被漏看，两词在可见程度上相反。"
+        }
+      ]
     },
     "64": {
       "word": "slanting",
@@ -1671,9 +1924,9 @@
         "slanting sunlight 斜射的阳光"
       ],
       "compare": [
-        "slanting 描述方向倾斜；vertical 指垂直。"
+        "slanting 与 oblique 都指倾斜的；diagonal 还强调在图形或方向上沿对角线延伸。"
       ],
-      "usage": "句中 mark 在水面斜向延伸，后来领航员将它解读为暗礁信号。",
+      "usage": "slanting 是现在分词作形容词，修饰 mark；线条在水面斜向延伸，后来被领航员解读为暗礁信号。",
       "ipa": "/ˈslæntɪŋ/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -1682,9 +1935,17 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "slant n./v. 倾斜；有倾向地报道",
-        "slanted adj./v. 倾斜的；slant 的过去式／过去分词",
+        "slanted adj. 倾斜的；带倾向性的",
         "slantwise adv. 斜向地；倾斜地"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "slanting",
+            "slanted"
+          ],
+          "distinction": "slanting 与 slanted 都可写物体倾斜，如 a slanting mark、a slanted roof；slanted 还常比喻报道或观点有偏向，如 a slanted account，原文只讲水面标记的方向。"
+        }
       ]
     },
     "65": {
@@ -1697,9 +1958,9 @@
         "tumbling water 翻滚的水"
       ],
       "compare": [
-        "tumble 有翻滚动作；ripple 只是细小波纹。"
+        "tumbling 强调连续翻滚；rolling 也有滚动感，但不一定带突然下落或失控的感觉。"
       ],
-      "usage": "修饰水面环状波纹，视觉上美，专业上可能提示水下变化。",
+      "usage": "tumbling 是现在分词作形容词，修饰 rings；写水纹翻滚，后文才说明它可能提示浅滩变化。",
       "ipa": "/ˈtʌmbl/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -1707,19 +1968,26 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "tumble n./v. 翻滚；跌倒",
-        "tumbled adj./v. 翻倒的；tumble 的过去式／过去分词",
         "tumbler n. 翻筋斗者；玻璃杯",
-        "tumbling n. 翻滚；体操"
+        "tumbling n. 翻滚；翻滚体操"
+      ],
+      "wordFamilyRoot": "tumble",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "tumbler",
+            "tumbling"
+          ],
+          "distinction": "a tumbler 可指翻筋斗的人，也常指平底玻璃杯；tumbling 指连续翻滚的动作，原文形容水面翻腾的圈纹，不能用 tumbler 指这圈水纹。"
+        }
       ]
     },
     "20": {
       "word": "tint",
       "sourceRow": 20,
-      "english": "showing many different shades of colour",
-      "chinese": "呈现多种色调的；色彩斑斓的",
+      "english": "a shade of colour; in many-tinted, having many different shades",
+      "chinese": "色调；many-tinted 在本文指呈现多种色调的",
       "collocations": [
         "tinted glass 有色玻璃",
         "a blue tint 淡蓝色调",
@@ -1730,19 +1998,13 @@
         "hue：颜色类别或色相",
         "shade：同一颜色的深浅变化"
       ],
-      "usage": "many-tinted 是“有多种色调的”复合修饰语；as many-tinted as 是 as + 形容词 + as，不是 as many + 复数名词 + as 的数量比较。",
+      "usage": "原文 many-tinted 是 many + tinted 构成的形容词，意为“有多种色调的”；tint 本身是名词或动词。as many-tinted as an opal 是 as + 形容词 + as 的比较。",
       "ipa": "/tɪnt/",
-      "partOfSpeech": "adjective",
+      "partOfSpeech": "noun / verb; many-tinted is an adjective",
       "oxfordExcerptProvided": true,
       "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
       "dictionaryExample": null,
       "otherMeanings": [
-        {
-          "english": "a shade or small amount of a particular colour; a small amount of colour covering a surface",
-          "chinese": "色调；淡色彩；（一层）淡色，浅色",
-          "exampleEnglish": "leaves with red and gold autumn tints",
-          "exampleChinese": "金秋时节略呈红黄色的树叶"
-        },
         {
           "english": "an artificial colour used to change the colour of your hair; the act of colouring the hair with a tint",
           "chinese": "染发剂；染发",
@@ -1754,10 +2016,27 @@
           "chinese": "染（发）",
           "exampleEnglish": "Have you tinted your hair?",
           "exampleChinese": "你染过头发吗？"
+        },
+        {
+          "english": "to slightly change the colour of something",
+          "chinese": "给……略微着色；染色"
         }
       ],
       "otherMeaningsStatus": "present",
-      "sourceCaveat": "本文 many-tinted 是复合形容词，表示颜色繁多；摘录给出 tint 的相关词义，未单列该复合形式。"
+      "family": [
+        "tinted adj. 略带颜色的；染色的",
+        "tinting n. 染色；着色"
+      ],
+      "wordFamilyRoot": "tint",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "tint",
+            "tinting"
+          ],
+          "distinction": "a tint 是颜色本身的一层浅调，如 a blue tint；tinting 是给某物着色的过程，如 window tinting，不能用它指水面呈现的某一种色调。"
+        }
+      ]
     },
     "21": {
       "word": "opal",
@@ -1769,11 +2048,7 @@
         "an opal gemstone 欧泊宝石",
         "the colours of an opal 欧泊的变彩"
       ],
-      "compare": [
-        "opal：本文借其变幻色彩写水面",
-        "pearl：珍珠，来自贝类，不是同种材料",
-        "jade：玉，不能按中文“宝石”一概互换"
-      ],
+      "compare": [],
       "usage": "an opal 中用 an。本文 as an opal 是明喻，比较的是多彩光泽，不是河中真有欧泊。",
       "ipa": "/ˈəʊpəl/",
       "partOfSpeech": "n. [C/U]",
@@ -1785,7 +2060,21 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "opalescent adj. 呈乳白虹彩的",
+        "opalescence n. 乳光；虹彩"
+      ],
+      "wordFamilyRoot": "opal",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "opal",
+            "opalescence"
+          ],
+          "distinction": "an opal 是具体的蛋白石，原文拿它作比喻；opalescence 是类似蛋白石的乳白虹彩效果，可说 the opalescence of the water，并不指一块宝石。"
+        }
+      ]
     },
     "22": {
       "word": "ruddy flush",
@@ -1798,9 +2087,8 @@
         "a ruddy complexion 红润肤色"
       ],
       "compare": [
-        "ruddy：偏温暖、红润的红色",
-        "red：红色的广称",
-        "rosy：常写粉红、健康，也可比喻乐观"
+        "ruddy：带暖意、红润的红色",
+        "rosy：偏粉红，可写健康气色或柔和光彩"
       ],
       "usage": "ruddy flush 是霞光映在水面的红晕，不说明水面生病。也不在这里使用英式口语粗话替代义。",
       "ipa": "/ˈrʌdi/",
@@ -1810,13 +2098,9 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "ruddier adj. ruddy 的比较级；更红润的",
-        "ruddiest adj. ruddy 的最高级；最红润的",
         "ruddiness n. 红润；赤红"
       ],
-      "wordFamilyNote": "The expandable word is ruddy; ruddiness is its common noun form.",
       "wordFamilyRoot": "ruddy"
     },
     "66": {
@@ -1829,9 +2113,9 @@
         "rays radiating from a point 从一点射出的光线"
       ],
       "compare": [
-        "radiate 可指光或热向外发出，也可比喻情绪流露。"
+        "radiating 指从一点向外延展；spreading 指向外扩散，不一定有明显的中心。"
       ],
-      "usage": "radiating lines 与 graceful circles 共同描写水面纹路。",
+      "usage": "radiating 是现在分词作形容词，修饰 lines；与 graceful circles 一起描绘水面向外发散的细纹。",
       "ipa": "/ˈreɪdieɪt/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
@@ -1839,14 +2123,12 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "radiate v. 发光；散发；辐射",
-        "radiated adj./v. 发出的；radiate 的过去式／过去分词",
         "radiation n. 辐射；放射",
         "radiant adj. 容光焕发的；发光的",
         "radiantly adv. 容光焕发地"
-      ]
+      ],
+      "wordFamilyRoot": "radiate"
     },
     "67": {
       "word": "delicately traced",
@@ -1858,9 +2140,9 @@
         "trace a pattern 描出图案"
       ],
       "compare": [
-        "trace 作动词可描绘轮廓，也可追踪来源。"
+        "traced 指用细线勾勒；outlined 强调描出外轮廓；drawn 是较宽泛的“画出”。"
       ],
-      "usage": "traced 在这里修饰水面线条的形状，不是追查人。",
+      "usage": "traced 是过去分词，delicately 是副词修饰 traced；它们一起写水面细线像被轻轻勾画出来。",
       "ipa": "/treɪs/",
       "partOfSpeech": "participial phrase",
       "oxfordExcerptProvided": true,
@@ -1868,16 +2150,29 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "traced adj./v. 描绘的；trace 的过去式／过去分词",
-        "tracing n./v. 描绘；追踪；trace 的 -ing 形式",
+        "tracing n. 描摹；描摹图",
         "traceable adj. 可追溯的；可描绘的",
         "traceability n. 可追溯性",
         "untraceable adj. 无法追踪的"
       ],
-      "wordFamilyNote": "The phrase is built around trace; the branches show common noun and adjective forms.",
-      "wordFamilyRoot": "trace"
+      "wordFamilyRoot": "trace",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "traceable",
+            "untraceable"
+          ],
+          "distinction": "traceable to its source 表示来源能够追查；untraceable 表示追查不到。原文 traced 是细线勾勒，不应把这两个派生形容词都当成“画出”的意思。"
+        },
+        {
+          "forms": [
+            "tracing",
+            "traceability"
+          ],
+          "distinction": "a tracing 是照原图描出的线图，tracing 也可指描摹的过程；traceability 指材料或信息可追溯来源的性质，不能用来指一张描摹图。"
+        }
+      ]
     },
     "68": {
       "word": "somber",
@@ -1889,7 +2184,7 @@
         "a somber mood 沉郁的心情"
       ],
       "compare": [
-        "somber 是美式拼写；英式常写 sombre。"
+        "somber 的色调偏暗沉；dark 只说明光线或颜色深；gloomy 还常带压抑的气氛。"
       ],
       "usage": "本文只描绘森林投下的暗影，不必加入悲伤心理。",
       "ipa": "/ˈsɑːmbər/",
@@ -1899,7 +2194,6 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
         "somberly adv. 忧郁地；阴沉地",
         "somberness n. 阴沉；忧郁"
@@ -1915,9 +2209,9 @@
         "a trail in the water 水上的一道痕迹"
       ],
       "compare": [
-        "ruffled 指表面不平静；trail 指延伸的痕迹。"
+        "ruffled trail 指表面起皱的长痕；wake 专指船或物体经过水面留下的尾波。"
       ],
-      "usage": "这里是水面被扰动后发亮的长痕，后文解释与水下障碍有关。",
+      "usage": "ruffled 是过去分词作形容词，修饰 trail；指森林阴影里一道被扰动、发亮的水痕。",
       "ipa": "/treɪl/",
       "partOfSpeech": "noun phrase",
       "oxfordExcerptProvided": true,
@@ -1925,12 +2219,9 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "ruffled adj./v. 起皱的；ruffle 的过去式／过去分词",
-        "ruffling n./v. 弄皱；扰乱；ruffle 的 -ing 形式"
+        "ruffled adj. 起皱的；被打乱的"
       ],
-      "wordFamilyNote": "The phrase is built around ruffle; the branches show common verb forms.",
       "wordFamilyRoot": "ruffle"
     },
     "70": {
@@ -1942,10 +2233,8 @@
         "a clean-stemmed tree 树干光洁的树",
         "a bare tree trunk 光秃的树干"
       ],
-      "compare": [
-        "clean-stemmed 是作者临时构词；clean 在此是没有杂枝的视觉效果。"
-      ],
-      "usage": "不要理解为树干被洗过；摘录未单列复合形容词。",
+      "compare": [],
+      "usage": "clean-stemmed 是临时复合形容词，整体修饰 dead tree；clean 写树干少旁枝，并非被清洗过。",
       "ipa": "",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": false,
@@ -1953,7 +2242,22 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+      "family": [
+        "stem n. 茎；树干",
+        "stemmed adj. 有茎或树干的",
+        "stemless adj. 无茎的"
+      ],
+      "wordFamilyRoot": "clean-stemmed",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "clean-stemmed",
+            "stemmed",
+            "stemless"
+          ],
+          "distinction": "clean-stemmed 描写树干清朗、少旁枝；long-stemmed 强调花或植物有较长的茎；stemless 表无茎，或指没有杯脚的酒杯。三者不能只按“有无茎”机械替换。"
+        }
+      ]
     },
     "23": {
       "word": "bough",
@@ -1966,9 +2270,8 @@
         "a single living bough 唯一还活着的大枝"
       ],
       "compare": [
-        "bough：较粗大的枝，文学感强",
-        "branch：树枝的一般称呼，也能指分支机构",
-        "twig：细小末梢枝条"
+        "bough：树木粗大的枝，文学感较强",
+        "branch：树枝的一般说法，大小不限"
       ],
       "usage": "读 /baʊ/，不按 though 或 rough 的 -ough 来读。a single leafy bough 与整体 dead tree 的反差突出树仅余一枝的生命力。",
       "ipa": "/baʊ/",
@@ -1977,7 +2280,8 @@
       "articleExample": "A broad expanse of the river was turned to blood; in the middle distance the red hue brightened into gold, through which a solitary log came floating, black and conspicuous; in one place a long, slanting mark lay sparkling upon the water; in another the surface was broken by boiling, tumbling rings, that were as many-tinted as an opal; where the ruddy flush was faintest, was a smooth spot that was covered with graceful circles and radiating lines, ever so delicately traced; the shore on our left was densely wooded, and the somber shadow that fell from this forest was broken in one place by a long, ruffled trail that shone like silver; and high above the forest wall a clean-stemmed dead tree waved a single leafy bough that glowed like a flame in the unobstructed splendor that was flowing from the sun.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "24": {
       "word": "unobstructed",
@@ -1990,9 +2294,8 @@
         "an unobstructed path 畅通的道路"
       ],
       "compare": [
-        "unobstructed：没有东西挡住",
-        "clear：清晰、晴朗或无障碍，范围广",
-        "unrestricted：没有人为限制"
+        "unobstructed：没有物体挡住视线或通道",
+        "clear：无障碍、畅通，也可表示清晰"
       ],
       "usage": "本文修饰 splendor，指阳光无遮无挡地照过来，不是说光本身“没有规定”。un- 是否定前缀，中心来自 obstruct。",
       "ipa": "/ˌʌnəbˈstrʌktɪd/",
@@ -2002,7 +2305,21 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个完整表达；本文语境义根据原句整理。"
+      "family": [
+        "obstruct v. 阻挡；妨碍",
+        "obstruction n. 障碍物；阻碍",
+        "obstructive adj. 妨碍的；阻挠的"
+      ],
+      "wordFamilyRoot": "unobstructed",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "unobstructed",
+            "obstructive"
+          ],
+          "distinction": "an unobstructed view 指视线没有被挡住；obstructive behaviour 指某人故意阻挠或造成妨碍。后者不是前者简单加一个反义前缀，所修饰对象也不同。"
+        }
+      ]
     },
     "25": {
       "word": "splendor",
@@ -2015,9 +2332,9 @@
         "restore something to its former splendor 恢复昔日辉煌"
       ],
       "compare": [
-        "splendor：壮美、华丽或光彩引人赞叹",
-        "beauty：美的一般概念",
-        "glow：柔和发光的视觉效果"
+        "splendor：壮丽而耀眼的美",
+        "magnificence：宏伟壮观，强调气派",
+        "grandeur：宏大庄严，未必有强烈光彩"
       ],
       "usage": "英式 splendour；本文美式 splendor 保留。这里说太阳流泻的光辉；复数 splendors 可指各种美景。",
       "ipa": "/ˈsplendə/",
@@ -2030,7 +2347,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "splendid adj. 壮丽的；辉煌的",
+        "splendidly adv. 壮丽地；极好地",
+        "splendour n. 壮丽；辉煌（英式拼写）"
+      ],
+      "wordFamilyRoot": "splendor",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "splendor",
+            "splendour"
+          ],
+          "distinction": "splendor 与 splendour 指同一个“壮丽、辉煌”名词；前者是美式拼写，后者是英式拼写，选一种拼写并保持全文一致即可。"
+        }
+      ]
     },
     "71": {
       "word": "dissolving",
@@ -2042,22 +2374,29 @@
         "light dissolving into dusk 光线融入黄昏"
       ],
       "compare": [
-        "dissolve 本义为溶解；在这里写光色渐淡。"
+        "dissolving 在这里是渐渐消散；fading 是光色逐渐变弱；vanishing 更强调最终消失。"
       ],
-      "usage": "修饰暮色中不断变化、慢慢散开的光。",
+      "usage": "dissolving lights 指日落光影逐渐散去；dissolving 在这里描述光色变化，不是物质溶于水。",
       "ipa": "/dɪˈzɑːlv/",
-      "partOfSpeech": "adjective",
+      "partOfSpeech": "present participle / adjective",
       "oxfordExcerptProvided": true,
       "articleExample": "There were graceful curves, reflected images, woody heights, soft distances; and over the whole scene, far and near, the dissolving lights drifted steadily, enriching it, every passing moment, with new marvels of coloring.",
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
         "dissolve v. 溶解；解散",
-        "dissolved adj./v. 已溶解的；dissolve 的过去式／过去分词",
         "dissolution n. 溶解；解散",
         "dissolvable adj. 可溶解的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "dissolving",
+            "dissolvable"
+          ],
+          "distinction": "原文 a dissolving bar 指沙洲正在被水流冲蚀、逐渐消散；dissolvable 表物质能溶解，如 a dissolvable tablet，强调可能性而非正在发生的河道变化。"
+        }
       ]
     },
     "72": {
@@ -2070,7 +2409,9 @@
         "drift downstream 顺流漂下"
       ],
       "compare": [
-        "drift 强调随流或随风移动；float 强调浮在表面。"
+        "drift：随水流或风缓慢移动",
+        "float along：浮着向前移动，强调仍在水面",
+        "be carried along：被水流或风带着走，不必浮在水面"
       ],
       "usage": "这里以拟人的方式写日落的光在整幅景色上漂移。",
       "ipa": "/drɪft/",
@@ -2134,8 +2475,6 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "drifted v. drift 的过去式／过去分词",
-        "drifting n./adj./v. 漂流；漂移的；drift 的 -ing 形式",
         "drifter n. 漂泊者；流浪者"
       ]
     },
@@ -2165,7 +2504,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "bewitched adj. 着迷的；被迷住的",
+        "bewitching adj. 迷人的；令人着迷的",
+        "bewitchment n. 着迷；魅惑"
+      ],
+      "wordFamilyRoot": "bewitch",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "bewitched",
+            "bewitching"
+          ],
+          "distinction": "bewitched 说人被迷住了；bewitching 说人或事物具有迷人的力量。"
+        }
+      ]
     },
     "73": {
       "word": "rapture",
@@ -2177,9 +2531,9 @@
         "in rapture 欣喜若狂"
       ],
       "compare": [
-        "rapture 比 happiness 更强烈，也带沉醉感。"
+        "rapture 指强烈到令人沉醉的喜悦；delight 是愉快，强度通常较低；ecstasy 强度更高，也可指近乎忘我的狂喜。"
       ],
-      "usage": "I drank it in, in a speechless rapture 表示作者全神贯注地享受景象。",
+      "usage": "a speechless rapture 是文学性的名词用法，写作者看日落时激动得说不出话；现代一般说 in rapture 或 in a state of rapture。",
       "ipa": "/ˈræptʃər/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -2206,7 +2560,7 @@
         "cease to notice 停止注意"
       ],
       "compare": [
-        "cease from 较正式、略旧；cease to do 或 cease doing 更常见。"
+        "cease from doing 与 stop doing 都指停止做某事；cease from 更正式、较旧。"
       ],
       "usage": "cease from noting 中 from 后接动名词 noting。",
       "ipa": "/siːs/",
@@ -2216,15 +2570,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "ceased v. cease 的过去式／过去分词",
-        "ceasing n./v. 停止；cease 的 -ing 形式",
         "cessation n. 停止；中止",
         "ceaseless adj. 不停的；不断的",
         "ceaselessly adv. 不停地；不断地"
       ],
-      "wordFamilyNote": "The expandable word is cease; the branches show its common noun and adjective forms.",
       "wordFamilyRoot": "cease"
     },
     "27": {
@@ -2238,13 +2588,12 @@
         "former glory 昔日的辉煌"
       ],
       "compare": [
-        "glory：令人赞叹的美或荣光",
-        "honour：声誉、尊敬与道德荣誉",
-        "beauty：广义的美"
+        "glory 在本文指令人赞叹的壮美；splendour 更直接强调华丽和光辉。",
+        "beauty 是广义的美，不必有 glory 的宏大感。"
       ],
       "usage": "本文 glories 与 charms 并列，是景致之美，不是太阳获得了功勋。荣誉抽象义常不可数，美景可用复数。",
       "ipa": "/ˈɡlɔːri/",
-      "partOfSpeech": "plural noun",
+      "partOfSpeech": "noun; plural glories in the passage",
       "oxfordExcerptProvided": true,
       "articleExample": "But as I have said, a day came when I began to cease from noting the glories and the charms which the moon and the sun and the twilight wrought upon the river's face; another day came when I ceased altogether to note them.",
       "dictionaryExample": {
@@ -2255,7 +2604,7 @@
       "otherMeanings": [
         {
           "english": "great success that brings somebody praise and honour and makes them famous",
-          "chinese": "壮丽；辉煌；灿烂",
+          "chinese": "荣耀；光荣；使人获得赞誉的成就",
           "exampleEnglish": "Olympic glory in the 100 metres",
           "exampleChinese": "奥林匹克 100 米赛跑的桂冠"
         },
@@ -2266,7 +2615,23 @@
           "exampleChinese": "荣耀归于至高无上的上帝”"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "glorious adj. 壮丽的；辉煌的",
+        "gloriously adv. 壮丽地；光荣地",
+        "glorify v. 赞美；颂扬",
+        "glorification n. 颂扬；美化"
+      ],
+      "wordFamilyRoot": "glory",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "glory",
+            "glorification"
+          ],
+          "distinction": "原文 the glories of the river 指河流令人赞叹的壮美景象；glorification 指主动赞美甚至美化某物的做法，如 the glorification of war，不是景色本身。"
+        }
+      ]
     },
     "28": {
       "word": "twilight",
@@ -2279,9 +2644,8 @@
         "the twilight of one's career 职业生涯末期"
       ],
       "compare": [
-        "twilight：天将黑时的微光与时段",
-        "sunset：太阳落到地平线下的过程",
-        "dusk：入夜前天色渐暗的时段"
+        "twilight：日落后仍有微光的时段，也可指日出前",
+        "dusk：日落后渐渐变暗的时段，着重天色变暗"
       ],
       "usage": "本文与 moon、sun 并列成为 wrought 的施事，指暮色带来的光影；不能当作明确的钟点。",
       "ipa": "/ˈtwaɪlaɪt/",
@@ -2294,7 +2658,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "29": {
       "word": "wrought",
@@ -2307,11 +2672,9 @@
         "finely wrought 精心制作的"
       ],
       "compare": [
-        "wrought：本文为文学性的 produced/created",
-        "worked：现代 work 的常规过去式",
-        "wreaked：wreak 的规则过去式，常指造成破坏，不宜当全部 wrought 的唯一来源"
+        "wrought 在这里是旧式“创造、造成”；created 较通用，produced 更强调产生了结果。"
       ],
-      "usage": "which … wrought … 中 wrought 是限定过去时谓语，宾语由 which 对应 glories and charms。Oxford 明确指出它是 work 的旧形式；不把这里解释成现在分词或普通形容词。",
+      "usage": "wrought 是 work 的旧式过去式或过去分词；本文 which … wrought … 中作过去时谓语。现代一般用 worked，wrought iron（熟铁）等固定搭配仍保留 wrought。",
       "ipa": "/rɔːt/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -2321,9 +2684,28 @@
         "chinese": "这场暴风雨在南方造成了巨大的灾害。",
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
-      "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "otherMeanings": [
+        {
+          "english": "wrought iron: iron shaped by working it, often used for gates or furniture",
+          "chinese": "熟铁；锻铁（常作 wrought iron）"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "family": [
+        "worker n. 工作者",
+        "workmanship n. 工艺；手艺",
+        "workable adj. 可行的"
+      ],
+      "wordFamilyRoot": "work",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "worker",
+            "workmanship"
+          ],
+          "distinction": "a worker 是做工的人；the workmanship of a boat 评价船制作得是否精良。后者指成品体现的手艺或质量，不能用来称造船工人。"
+        }
+      ]
     },
     "75": {
       "word": "fashion",
@@ -2335,7 +2717,7 @@
         "in this fashion 这样"
       ],
       "compare": [
-        "fashion 在这里是“方式”；不是服装潮流。"
+        "fashion 在 after this fashion 中指方式；manner 较正式，way 最日常。"
       ],
       "usage": "after this fashion 引出作者后来按领航经验给景色作的解释。",
       "ipa": "/ˈfæʃn/",
@@ -2375,11 +2757,11 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "fashionable adj. 时髦的；流行的",
-        "fashionably adv. 时髦地；流行地",
-        "fashioned adj./v. 制成的；fashion 的过去式／过去分词",
-        "fashionista n. 时尚达人"
-      ]
+        "fashion v. 塑造；制作",
+        "fashionable adj. 时髦的",
+        "fashionably adv. 时髦地"
+      ],
+      "wordFamilyRoot": "fashion"
     },
     "30": {
       "word": "bluff",
@@ -2396,15 +2778,20 @@
         "steep：陡的常用词",
         "sheer：接近垂直"
       ],
-      "usage": "原书第 9 章前文解释 bluff reef 下方为侧面近乎直立的 sand-bar，不能机械译成珊瑚礁或“骗人的礁石”。Cambridge 常用义外，地形义补查 Merriam-Webster。",
+      "usage": "bluff 在河流语境中可指陡峭的河岸或沙洲边缘；bluff reef 的 reef 是航行障碍，不一定是珊瑚礁。bluff 作形容词、动词或名词时另有“虚张声势”义。",
       "ipa": "/blʌf/",
       "partOfSpeech": "adjective",
       "oxfordExcerptProvided": true,
       "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
       "dictionaryExample": null,
-      "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "bluff reef 是文学语境中的陡起暗礁；摘录的 bluff 词条只直接解释河边陡坡，本文复合说法按上下文整理。"
+      "otherMeanings": [
+        {
+          "english": "to deceive someone by pretending to have a plan, ability or knowledge you do not have",
+          "chinese": "虚张声势；诈唬（动词）"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "31": {
       "word": "reef",
@@ -2416,11 +2803,7 @@
         "a submerged reef 水下礁脊",
         "a bluff reef 陡直沙脊（本文）"
       ],
-      "compare": [
-        "reef：贴近水面的连续岩、珊瑚或沙脊",
-        "bar：常指水道内的沙洲",
-        "snag：卡在河床的枯木"
-      ],
+      "compare": [],
       "usage": "不要把现代常见 coral reef 套到密西西比河。原书前文明确把此处 bluff reef 与陡直 sand-bar 联系起来，译为陡直沙脊更准确。",
       "ipa": "/riːf/",
       "partOfSpeech": "n. [C]",
@@ -2443,7 +2826,8 @@
           "exampleChinese": "他们乘着逆风刮起的帆起航。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "76": {
       "word": "stretch out",
@@ -2455,9 +2839,9 @@
         "stretch out into the river 向河中延伸"
       ],
       "compare": [
-        "stretch out 是向外伸展；stretch one's legs 是活动腿脚。"
+        "stretch out 在这里指向外延伸；extend 更中性，也可指时间或范围扩大。"
       ],
-      "usage": "it 指 bluff reef；如果暗礁继续延伸，就会威胁汽船。",
+      "usage": "keeps on stretching out 中 keep on 后接动名词 stretching；it 指前面的 bluff reef，延伸会增加撞船风险。",
       "ipa": "/stretʃ/",
       "partOfSpeech": "phrasal verb",
       "oxfordExcerptProvided": true,
@@ -2465,14 +2849,21 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
       "family": [
-        "stretched adj./v. 延伸的；stretch 的过去式／过去分词",
-        "stretching n./v. 延伸；拉伸；stretch 的 -ing 形式",
+        "stretched adj. 拉长的；延伸的",
+        "stretching n. 拉伸运动",
         "stretchable adj. 可拉伸的；有弹性的"
       ],
-      "wordFamilyNote": "The phrase is built around stretch; the branches show common verb forms.",
-      "wordFamilyRoot": "stretch"
+      "wordFamilyRoot": "stretch",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "stretched",
+            "stretchable"
+          ],
+          "distinction": "stretched 表已经被拉长；stretchable 表可以伸展。"
+        }
+      ]
     },
     "32": {
       "word": "bar",
@@ -2485,11 +2876,11 @@
         "cross a bar 越过沙洲水域"
       ],
       "compare": [
-        "bar：沉积形成、可能挡住航道的沙洲",
-        "reef：岩、沙或珊瑚形成的近水面脊",
-        "bank：岸或浅滩，范围较广"
+        "bar：本文指横亘在航道附近的沙洲",
+        "sandbar：由沙沉积形成的水下或近水面沙脊",
+        "sandbank：水中隆起的沙地，范围可更宽"
       ],
-      "usage": "a dissolving bar 是正在被水流冲蚀、改变的沙洲，不是酒吧关门，也不是盐溶于水那种化学过程。本文义补查 Merriam-Webster。",
+      "usage": "bar 在河流语境中可指沙洲；a dissolving bar 中 dissolving 表示沙洲被水流逐渐冲蚀、形状改变。这个名词义与酒吧无关。",
       "ipa": "/bɑː/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -2497,7 +2888,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "本文 bar 是航道中的沙洲；所给 bar 摘录未列该航海义，因此语境义来自原句。"
+      "family": []
     },
     "77": {
       "word": "channel",
@@ -2509,9 +2900,9 @@
         "the river channel 河道"
       ],
       "compare": [
-        "channel 在这里是水道；也可指电视频道或沟通渠道。"
+        "channel 是可供船通行的水道；waterway 泛指可通行的河流或运河；fairway 在航海语境指安全航道。"
       ],
-      "usage": "changing channel 指可通行的河道不断变化，关乎驾驶安全。",
+      "usage": "channel 在这里是可数名词，a changing channel 指可通行河道的位置不断变化，关乎驾驶安全。",
       "ipa": "/ˈtʃænl/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -2550,10 +2941,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "channeled / channelled v./adj. 引导的；channel 的过去式／过去分词",
-        "channeling / channelling n./v. 引导；输送"
-      ]
+      "family": []
     },
     "33": {
       "word": "slick",
@@ -2566,9 +2954,8 @@
         "a slick presentation 流畅娴熟的展示"
       ],
       "compare": [
-        "slick：平滑发亮，或做得娴熟却可能油滑",
-        "smooth：表面平滑或过程顺畅，较中性",
-        "slippery：容易滑倒，强调摩擦小"
+        "slick：平滑发亮，本文形容水面",
+        "smooth：表面平整、没有明显起伏，感情色彩中性"
       ],
       "usage": "本文仅描述水面形态，不能因此推断有石油污染。oil slick 的 slick 为名词，和此处形容词不同。",
       "ipa": "/slɪk/",
@@ -2576,9 +2963,22 @@
       "oxfordExcerptProvided": true,
       "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
       "dictionaryExample": null,
-      "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。"
+      "otherMeanings": [
+        {
+          "english": "done in a skilful and confident way, sometimes too polished to be sincere",
+          "chinese": "熟练流畅的；油滑的（形容词）"
+        },
+        {
+          "english": "a thin layer of oil floating on water",
+          "chinese": "水面油膜；浮油（名词）"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "family": [
+        "slickly adv. 流畅地；油滑地",
+        "slickness n. 光滑；圆滑"
+      ],
+      "wordFamilyRoot": "slick"
     },
     "34": {
       "word": "yonder",
@@ -2606,7 +3006,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": []
     },
     "35": {
       "word": "shoal up",
@@ -2619,11 +3020,9 @@
         "a shoal of fish 一群鱼"
       ],
       "compare": [
-        "shoal（v.）：水深逐渐减小",
-        "silt up：泥沙淤积堵塞，强调原因",
-        "dry up：水消失或干涸"
+        "shoal up 强调水道逐渐变浅；silt up 强调泥沙淤积造成的变浅或堵塞。"
       ],
-      "usage": "is shoaling up 是现在进行时，不能译成“鱼在聚集”。Cambridge 给出浅滩等名词义，本文动词义补查 Merriam-Webster。",
+      "usage": "shoal up 是不及物动词短语，指河道逐渐变浅；原句 is shoaling up 用现在进行时。shoal 作名词还可指浅滩或鱼群，须按上下文区别。",
       "ipa": "/ʃəʊl/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -2631,13 +3030,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "本文 shoaling up 是水道逐渐淤浅；所给 shoal 摘录只列浅滩名词，未单列此动词短语。",
-      "family": [
-        "shoaled v. shoal 的过去式／过去分词",
-        "shoaling n./v. 逐渐变浅；shoal 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase is built around shoal; the branches show its common verb forms.",
-      "wordFamilyRoot": "shoal"
+      "family": []
     },
     "36": {
       "word": "streak",
@@ -2650,9 +3043,8 @@
         "a streak of grey 灰白的一缕"
       ],
       "compare": [
-        "streak：狭长、与背景对比明显的痕",
-        "stripe：较规则的带状条纹",
-        "trail：运动后留下的一路痕迹"
+        "streak：细长且与背景颜色不同的痕迹",
+        "stripe：较规则、宽度较均匀的带状条纹"
       ],
       "usage": "本文是阴影中的一道银色水纹，后文解释其航行含义。不要用比赛的 winning streak 义理解。",
       "ipa": "/striːk/",
@@ -2694,7 +3086,21 @@
           "chinese": "裸奔"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "streaked adj. 有条纹的",
+        "streaky adj. 有条纹的；斑驳的"
+      ],
+      "wordFamilyRoot": "streak",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "streaked",
+            "streaky"
+          ],
+          "distinction": "streaked 指带有可见条痕；streaky 常指多条不规则条纹或斑驳的外观。"
+        }
+      ]
     },
     "78": {
       "word": "break",
@@ -2705,10 +3111,8 @@
         "the break from a new snag 新暗桩造成的水面破纹",
         "a break in the surface 水面的断纹"
       ],
-      "compare": [
-        "break 通常义很多；引号中的 break 在此由上下文限定为航行线索。"
-      ],
-      "usage": "这是作者对水面标志的专业解读；摘录没有给出这一专门航海义，不要把普通“休息”义套入。",
+      "compare": [],
+      "usage": "引号中的 a “break” 是可数名词，指水面被水下暗桩扰动形成的痕迹；这是领航员的专业观察。",
       "ipa": "/breɪk/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
@@ -2716,14 +3120,28 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "引号中的 break 指暗桩造成的水面异常；摘录没有单列这一航行专门义，语境解释依据上下文。",
       "family": [
-        "broke v. break 的过去式",
-        "broken v./adj. break 的过去分词；破碎的",
-        "breaking n./adj./v. 破裂；突发的；break 的 -ing 形式",
+        "broken adj. 破损的；失灵的",
         "breakage n. 破损；破裂",
-        "breaker n. 破坏者；断路器",
+        "breaker n. 断路器；破浪",
         "breakable adj. 易碎的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "broken",
+            "breakable"
+          ],
+          "distinction": "a broken object 已经破损；a breakable object 只是容易破，未必已损坏。原文的 break 是水面扰动，不等于物品破裂。"
+        },
+        {
+          "forms": [
+            "break",
+            "breakage",
+            "breaker"
+          ],
+          "distinction": "原文 a break 是水面出现的一道扰动；breakage 指破损事件或破损物品，如 breakage in transit；a breaker 可指断路器或拍岸巨浪，不是那道微小水纹。"
+        }
       ]
     },
     "37": {
@@ -2736,20 +3154,25 @@
         "hit a snag 遇到障碍",
         "snag a sleeve on a nail 袖子被钉子钩破"
       ],
-      "compare": [
-        "snag：本文为固定在水底的危险木头",
-        "log：粗木段，原文可自由漂浮",
-        "reef：沙、岩等形成的水下脊"
-      ],
-      "usage": "本文随后用 he、himself、fish for steamboats 将 snag 拟人化，说它像在“钓”船。不能只译成抽象“小麻烦”；航行义补查 Merriam-Webster。",
+      "compare": [],
+      "usage": "snag 在河流语境中是会妨碍船只的水下树干或木头；本文用 he、himself、fish for steamboats 将它拟人化。",
       "ipa": "/snæɡ/",
       "partOfSpeech": "noun",
       "oxfordExcerptProvided": true,
       "articleExample": "Then, if that sunset scene had been repeated, I should have looked upon it without rapture, and should have commented upon it, inwardly, after this fashion: This sun means that we are going to have wind tomorrow; that floating log means that the river is rising, small thanks to it; that slanting mark on the water refers to a bluff reef which is going to kill somebody's steamboat one of these nights, if it keeps on stretching out like that; those tumbling \"boils\" show a dissolving bar and a changing channel there; the lines and circles in the slick water over yonder are a warning that that troublesome place is shoaling up dangerously; that silver streak in the shadow of the forest is the \"break\" from a new snag, and he has located himself in the very best place he could have found to fish for steamboats; that tall dead tree, with a single living branch, is not going to last long, and then how is a body ever going to get through this blind place at night without the friendly old landmark.",
       "dictionaryExample": null,
-      "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "本文 snag 是危及船只的水下沉木；摘录只列一般“尖突物”或“难题”等义项，航海义依据原文。"
+      "otherMeanings": [
+        {
+          "english": "an unexpected problem or difficulty that slows progress",
+          "chinese": "意外的障碍；小麻烦（名词）"
+        },
+        {
+          "english": "a loose thread or small tear caught on something rough",
+          "chinese": "（衣物上的）抽丝；钩破处（名词）"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "38": {
       "word": "romance",
@@ -2762,11 +3185,10 @@
         "a historical romance 历史爱情小说"
       ],
       "compare": [
-        "romance：让想象活跃的情趣或神秘吸引力",
-        "love：对人或事的爱",
-        "beauty：美的性质或体验"
+        "romance 在本文指景色激起的诗意和想象；enchantment 也指使人着迷，但更有“仿佛中了魔法”的感觉。",
+        "charm 指吸引人的特质，强度通常比 romance 的激情和神秘感弱。"
       ],
-      "usage": "本文不是说作者与大河谈恋爱，而是专业习惯使惊叹与诗意退去。这个义通常不可数；两种名词重音均有词典依据。",
+      "usage": "romance 在本文指对大河的诗意想象或浪漫情感，此义通常不可数；romance 也可作可数名词，指爱情故事或恋情。",
       "ipa": "/rəʊˈmæns/，也读 /ˈrəʊmæns/",
       "partOfSpeech": "n. [U]（本文）",
       "oxfordExcerptProvided": true,
@@ -2800,7 +3222,23 @@
           "chinese": "传奇故事"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "romantic adj. 浪漫的；富于想象的",
+        "romantically adv. 浪漫地",
+        "romanticize v. 美化；浪漫化",
+        "romanticism n. 浪漫主义"
+      ],
+      "wordFamilyRoot": "romance",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "romance",
+            "romanticism"
+          ],
+          "distinction": "the romance of the river 指河景带来的神秘感与诗意；Romanticism 大写时常指文学艺术中的浪漫主义运动，小写还可指过度理想化的倾向，不能直接替换原文的 romance。"
+        }
+      ]
     },
     "79": {
       "word": "furnish",
@@ -2812,9 +3250,9 @@
         "furnish somebody with facts 向某人提供事实"
       ],
       "compare": [
-        "furnish 在此是提供信息；也可指给房间配家具。"
+        "furnish 与 provide 都指提供；furnish 书面感更强，常接 information、evidence、materials 等。"
       ],
-      "usage": "usefulness it could furnish = 它所能提供的实用价值。",
+      "usage": "furnish 在这里是及物动词“提供”，it could furnish 的宾语是省略回指的 usefulness；整句是偏旧式的书面表达。",
       "ipa": "/ˈfɜːrnɪʃ/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
@@ -2834,10 +3272,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "furnished adj./v. 配备的；furnish 的过去式／过去分词",
-        "furnishing n./v. 配置；家具",
+        "furnished adj. 配有家具的",
         "furnishings n. 家具；室内陈设",
-        "furnisher n. 家具供应商；提供者"
+        "furniture n. 家具（不可数）"
+      ],
+      "wordFamilyRoot": "furnish",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "furnishings",
+            "furniture"
+          ],
+          "distinction": "furniture 是桌椅等家具总称；furnishings 还可包括窗帘、地毯等室内陈设。"
+        }
       ]
     },
     "39": {
@@ -2851,19 +3298,26 @@
         "a magnetic compass 磁罗盘"
       ],
       "compare": [
-        "compass（v.）：这里相当于 achieve/accomplish，旧式",
-        "navigate：实际导航或穿行",
-        "encompass：包含、环绕"
+        "compass 作动词表示实现，属于旧式文学用法；achieve 和 accomplish 是现代常用的近义词。"
       ],
-      "usage": "toward 是介词，所以后用 compassing；它不是“使用指南针”的普通动词说法。本文动词义补查 Merriam-Webster；现代笔记可释 achieve。",
+      "usage": "toward 是介词，后接动名词 compassing；compass 在这里作动词，意为“实现、达成”，不是“用指南针导航”。现代日常表达可用 achieve。",
       "ipa": "/ˈkʌmpəs/",
       "partOfSpeech": "verb (literary)",
       "oxfordExcerptProvided": true,
       "articleExample": "All the value any feature of it had for me now was the amount of usefulness it could furnish toward compassing the safe piloting of a steamboat.",
       "dictionaryExample": null,
-      "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "本文 compassing 是旧式文学动词“实现”；摘录仅列 compass 名词（指南针等），不能据名词词条冒充核实该动词义。"
+      "otherMeanings": [
+        {
+          "english": "a device with a needle that points north and helps you find direction",
+          "chinese": "指南针；罗盘（名词）"
+        },
+        {
+          "english": "compasses: a two-legged instrument for drawing circles",
+          "chinese": "圆规；两脚规（复数名词）"
+        }
+      ],
+      "otherMeaningsStatus": "present",
+      "family": []
     },
     "80": {
       "word": "ripple",
@@ -2875,9 +3329,9 @@
         "a ripple of fear 一丝扩散的恐惧"
       ],
       "compare": [
-        "ripple 可以指水波，也可比喻情绪扩散。"
+        "ripple 是细小波纹；wave 可大可小；wavelet 特指很小的波浪，较书面。"
       ],
-      "usage": "ripples 在此是医生比喻中的表面起伏，与河面波纹互相呼应。",
+      "usage": "ripples 在这里是复数名词；医生比喻中的水面起伏与前文河面波纹相呼应。",
       "ipa": "/ˈrɪpl/",
       "partOfSpeech": "plural noun",
       "oxfordExcerptProvided": true,
@@ -2920,10 +3374,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "rippled adj./v. 起涟漪的；ripple 的过去式／过去分词",
-        "rippling n./adj./v. 涟漪；起伏的；ripple 的 -ing 形式"
-      ]
+      "family": []
     },
     "81": {
       "word": "sown thick with",
@@ -2935,9 +3386,9 @@
         "sown with flowers 撒满花朵"
       ],
       "compare": [
-        "sown 是 sow 的过去分词；这里比喻“布满”，不是实际播种。"
+        "sown thick with 与 studded with 都指表面密布某物；sown 像播种般散布，studded 像镶嵌般点缀。"
       ],
-      "usage": "sown thick with 修饰可见的魅力，暗示医生看到许多疾病征兆。",
+      "usage": "sown 是 sow 的过去分词，thick 在这里作状语，with 引出密布的东西；整句是“像播种一样遍布”的比喻。",
       "ipa": "/səʊ/",
       "partOfSpeech": "participial phrase",
       "oxfordExcerptProvided": true,
@@ -2945,14 +3396,7 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "摘录只收录相关原词或词性；本卡的完整表达按文章语境解释，未将相关词条误标为独立释义。",
-      "family": [
-        "sowed v. sow 的过去式",
-        "sown v. sow 的过去分词",
-        "sowing n./v. 播种；sow 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase is built around sow; the branches show its irregular verb forms.",
-      "wordFamilyRoot": "sow"
+      "family": []
     },
     "40": {
       "word": "decay",
@@ -2965,9 +3409,8 @@
         "fall into decay 逐渐破败"
       ],
       "compare": [
-        "decay：逐步坏损或分解",
-        "decline：水平、数量或状态下降",
-        "rot：生物性腐烂，具体感强"
+        "decay：逐步坏损、腐败，也可指身体病变",
+        "rot：具体指有机物腐烂，语感更强"
       ],
       "usage": "本文 hidden decay 是医生类比中隐藏的病变，不是评论人物道德腐败。名词、动词同读音同重音；decay 一般不用复数表示过程。",
       "ipa": "/dɪˈkeɪ/",
@@ -3009,7 +3452,21 @@
           "exampleChinese": "日趋低下的道德标准"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "decayed adj. 已腐朽的；衰败的",
+        "decaying adj. 正在腐朽的"
+      ],
+      "wordFamilyRoot": "decay",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "decayed",
+            "decaying"
+          ],
+          "distinction": "decayed 强调已经衰败的结果；decaying 强调正在腐朽的过程。"
+        }
+      ]
     },
     "41": {
       "word": "unwholesome",
@@ -3022,9 +3479,8 @@
         "an unwholesome influence 不良影响"
       ],
       "compare": [
-        "unwholesome：不利于身体、心理或道德健康",
-        "unhealthy：健康不佳或有损健康，较常用",
-        "immoral：违反道德标准，不是本文义"
+        "unwholesome：不利于健康，也可指道德上有害",
+        "unhealthy：最常见的“不健康”，尤其指身体或生活习惯"
       ],
       "usage": "本文 her unwholesome condition 指医生眼中的身体状况，不要误译为女性品行不端。整段是文学类比和反问，未断言所有医生都丧失审美能力。",
       "ipa": "/ʌnˈhəʊlsəm/",
@@ -3040,7 +3496,22 @@
           "exampleChinese": "她对他产生了沉迷和不健康的热情。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "wholesome adj. 有益健康的；健康的",
+        "wholesomely adv. 健康地；有益地",
+        "wholesomeness n. 健康；有益"
+      ],
+      "wordFamilyRoot": "unwholesome",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "unwholesome",
+            "wholesome"
+          ],
+          "distinction": "unwholesome conditions 有损健康或道德；wholesome food 有益健康，也可形容内容健康。un- 使评价反向，两词不能因都谈“健康”就互换。"
+        }
+      ]
     }
   }
 }

@@ -132,46 +132,18 @@ type CuratedWord = {
   otherMeaningsStatus: "present" | "none_in_excerpt" | "missing_source";
   family?: string[];
   wordFamilyRoot?: string;
-  wordFamilyNote?: string;
-  sourceCaveat?: string;
+  wordFamilyDistinctions?: { forms: string[]; distinction: string }[];
   relatedTerm?: { phrase: string; english: string; chinese: string };
   relatedSayings?: { phrase: string; english: string; chinese: string; sourceLabel?: string; sourceUrl?: string }[];
   relatedExpressions?: { phrase: string; english: string; chinese: string; sourceLabel?: string; sourceUrl?: string }[];
-  contextBySentence?: Record<string, Partial<Pick<CuratedWord, "english" | "chinese" | "collocations" | "compare" | "usage" | "dictionaryExample" | "otherMeanings" | "sourceCaveat" | "relatedSayings" | "relatedExpressions">>>;
+  contextBySentence?: Record<string, Partial<Pick<CuratedWord, "english" | "chinese" | "collocations" | "compare" | "usage" | "dictionaryExample" | "otherMeanings" | "relatedSayings" | "relatedExpressions">>>;
 };
-
-function familyWordTokens(value: string) {
-  return value
-    .replace(/[.…]+/g, " ")
-    .replace(/\b(?:sb|sth|somebody|someone|something)\b\.?/gi, " ")
-    .match(/[a-z]+/gi)?.map(token => token.toLocaleLowerCase()) ?? [];
-}
-
-function familyRootContainsWord(root: string, word: string) {
-  const wordTokens = familyWordTokens(word);
-  if (!wordTokens.length) return false;
-  const rootAlternatives = root.split(/\s*\/\s*/).map(familyWordTokens);
-  return rootAlternatives.some(rootTokens => wordTokens.every(token => rootTokens.includes(token)));
-}
-
-function familyRootMatchesWord(root: string, word: string) {
-  const wordKey = familyWordTokens(word).join(" ");
-  return root.split(/\s*\/\s*/).some(variant => familyWordTokens(variant).join(" ") === wordKey);
-}
 
 function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesson; sentence: LessonSentence; initialSourceRow?: number }) {
   const pdfWords = lesson.articleId === "02" ? article02PdfVocabulary : lesson.articleId === "09" ? article09PdfVocabulary : lesson.articleId === "10" ? article10PdfVocabulary : (article03to05PdfVocabulary[lesson.articleId] ?? article06to08PdfVocabulary[lesson.articleId] ?? []);
   const entries = pdfWords.filter(word => word.occurrences.includes(sentence.id));
   const [selected, setSelected] = useState(() => Math.max(0, entries.findIndex(word => word.sourceRow === initialSourceRow)));
   const entry = entries[selected] ?? entries[0];
-  // PDF rows and lesson vocabulary rows come from different lists. Match the lexical root first,
-  // then a complete constituent; use row number only to break ties between valid matches.
-  const lessonWord = entry && lesson.vocabulary
-    .map(word => ({ word, exact: familyRootMatchesWord(entry.word, word.word), component: familyRootContainsWord(entry.word, word.word) }))
-    .filter(candidate => candidate.exact || candidate.component)
-    .sort((left, right) => Number(right.exact) - Number(left.exact)
-      || familyWordTokens(right.word.word).length - familyWordTokens(left.word.word).length
-      || Number(right.word.sourceRow === entry.sourceRow) - Number(left.word.sourceRow === entry.sourceRow))[0]?.word;
   const badge = <SentenceBadge sentence={sentence.id} entry={sentence.classification} compact/>;
   if (!entry) return <div className="word-workspace"><div className="word-context">{badge}{sentence.text}</div><div className="word-empty"><h2>Words</h2><p>{["09", "10"].includes(lesson.articleId) ? "这句没有已标记的词语。" : "这句没有讲义中明确解释的生词。"}</p></div></div>;
   const baseCurated = ({ ...curatedWords, ...article06CuratedWords, ...article07CuratedWords, ...article08CuratedWords, ...article09CuratedWords, ...article10CuratedWords } as Record<string, Record<string, CuratedWord>>)[lesson.articleId]?.[String(entry.sourceRow)];
@@ -202,11 +174,9 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
       {curated.relatedTerm && <section className="word-related-lexemes"><h4>Related policy term · 相关政策术语</h4><div className="word-related-lexeme"><p className="word-related-lexeme-phrase" lang="en">{curated.relatedTerm.phrase}</p><p lang="en">{curated.relatedTerm.english}</p><p lang="zh-CN">{curated.relatedTerm.chinese}</p></div></section>}
       {curated.relatedSayings?.length ? <section className="word-related-lexemes"><h4>Related saying · 谚语</h4>{curated.relatedSayings.map((saying, index) => <div className="word-related-lexeme" key={`${saying.phrase}-${index}`}><p className="word-related-lexeme-phrase" lang="en">{saying.phrase}</p><p lang="en">{saying.english}</p><p lang="zh-CN">{saying.chinese}</p>{saying.sourceUrl && <a href={saying.sourceUrl} target="_blank" rel="noopener noreferrer">{saying.sourceLabel ?? "Dictionary source"} ↗</a>}</div>)}</section> : null}
       {curated.relatedExpressions?.length ? <section className="word-related-lexemes"><h4>Related expressions · 固定表达</h4>{curated.relatedExpressions.map((expression, index) => <div className="word-related-lexeme" key={`${expression.phrase}-${index}`}><p className="word-related-lexeme-phrase" lang="en">{expression.phrase}</p><p lang="en">{expression.english}</p><p lang="zh-CN">{expression.chinese}</p>{expression.sourceUrl && <a href={expression.sourceUrl} target="_blank" rel="noopener noreferrer">{expression.sourceLabel ?? "Dictionary source"} ↗</a>}</div>)}</section> : null}
-      {curated.sourceCaveat ? <p className="study-pending">{curated.sourceCaveat}</p> : !curated.oxfordExcerptProvided && <p className="study-pending">此短语所在行未单独附词典原文；释义按文章语境整理，不能标为牛津词典已核实。</p>}
-      {curated.otherMeaningsStatus === "missing_source" && !curated.relatedTerm && <p className="study-pending">No additional dictionary senses can be verified from the supplied source.</p>}
     </section> : <section className="word-primary"><h2>{entry.word}</h2><section className="word-context-meaning"><h3>Meaning in context</h3><p className="word-definition study-pending">{lesson.articleId === "06" ? "词义和音标正在依据已提供的词典资料核对；图片待补充。" : "词义、音标和图片待你提供。"}</p></section><p className="study-pending">{["09", "10"].includes(lesson.articleId) ? `讲义第 ${entry.pdfPages.join("、")} 页的原文词语；词义待核对。` : `已在讲义第 ${entry.pdfPages.join("、")} 页找到对应讲解。`}</p></section> },
-    { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section><WordFamilyTreeGame root={curated.wordFamilyRoot ?? entry.word} entries={curated.family ?? lessonWord?.family ?? []} note={curated.wordFamilyNote ?? (lessonWord && !familyRootMatchesWord(entry.word, lessonWord.word) ? `This phrase contains “${lessonWord.word}”; the branches follow that constituent.` : undefined)}/></div> : pending("Collocations · 搭配") },
-    { id: "compare", title: "Compare", subtitle: "近义辨析", content: curated ? <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={curated.compare}/></section></div> : pending("Compare · 近义辨析") },
+    { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section><WordFamilyTreeGame root={curated.wordFamilyRoot ?? entry.word} entries={curated.family ?? []} distinctions={curated.wordFamilyDistinctions}/></div> : pending("Collocations · 搭配") },
+    ...(curated?.compare?.length ? [{ id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={curated.compare}/></section></div> }] : []),
     { id: "usage", title: "Usage note", subtitle: "用法提醒", content: curated ? <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{curated.usage}</p></section></div> : pending("Usage note · 用法提醒") },
     { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{pressExample ? <><blockquote><p lang="en">{pressExample.english}</p><a className="word-press-source" href={pressExample.url} target="_blank" rel="noopener noreferrer">{pressExample.source} ↗</a></blockquote><details className="word-translation"><summary>Translation</summary><p lang="zh-CN">{pressExample.chinese}</p></details></> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> },
   ];
@@ -242,7 +212,7 @@ function PopulatedLessonWords({ lesson, sentence, initialSourceRow }: { lesson: 
       <div className="lesson-dictionary-sources">{entry.sources.map(source => <a className="word-dictionary" href={source.url} key={source.url} target="_blank" rel="noopener noreferrer">{source.label} ↗</a>)}</div>
     </section> },
     { id: "collocations", title: "Collocations", subtitle: "搭配", content: <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={entry.collocations}/></section><WordFamilyTreeGame root={entry.word} entries={entry.family}/></div> },
-    { id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={entry.compare}/></section></div> },
+    ...(entry.compare.length ? [{ id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={entry.compare}/></section></div> }] : []),
     { id: "usage", title: "Usage note", subtitle: "用法提醒", content: <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{entry.usage}</p></section></div> },
     { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3><p className="word-press-placeholder">外刊例句待补充。</p></section> },
   ];

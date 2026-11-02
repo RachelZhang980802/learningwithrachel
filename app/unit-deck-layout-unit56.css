@@ -178,6 +178,30 @@
 .narrative-course [data-deck-text-id="u5-p7-b1"] { transform:scale(0.82); transform-origin:top left; }
 .narrative-course [data-deck-text-id="u5-p163-b2"] { top:38cqw !important; transform:scale(.92); transform-origin:top left; }
 .narrative-course [data-deck-text-id^="u5-p167-img"] > span { position:static !important; display:inline !important; font-size:2.1cqw !important; font-family:Georgia, serif !important; transform:none !important; color:#252323 !important; line-height:1.1; }
+
+/* Unit 6, source page 75: restore the source slide's even baselines and
+   underlined cohesion examples while keeping each HTML line selectable. */
+.narrative-course [data-deck-page="75"] :is(
+  [data-deck-text-id="u6-p75-ocr1"],
+  [data-deck-text-id="u6-p75-ocr2"],
+  [data-deck-text-id="u6-p75-ocr3"],
+  [data-deck-text-id="u6-p75-ocr4"],
+  [data-deck-text-id="u6-p75-ocr5"],
+  [data-deck-text-id="u6-p75-ocr6"],
+  [data-deck-text-id="u6-p75-ocr7"],
+  [data-deck-text-id="u6-p75-ocr8"],
+  [data-deck-text-id="u6-p75-ocr9"],
+  [data-deck-text-id="u6-p75-ocr10"]
+) > .ud-image-word {
+  font-size: 2.85cqw !important;
+  top: -.5cqw !important;
+  transform: scaleX(1.32) !important;
+}
+.narrative-course [data-deck-page="75"] .ud-cohesion-emphasis {
+  text-decoration-line: underline;
+  text-decoration-thickness: .07em;
+  text-underline-offset: .04em;
+}
 .narrative-course [data-deck-text-id^="u5-p172-ocr"] > span { position:static !important; display:inline !important; font-size:3.6cqw !important; font-family:Arial, sans-serif !important; transform:none !important; color:#252323 !important; line-height:1.1; }
 .narrative-course [data-deck-text-id^="u5-p178-img"] > span { position:static !important; display:inline !important; font-size:1.8cqw !important; font-family:Georgia, serif !important; transform:none !important; color:#252323 !important; line-height:1.1; }
 .narrative-course [data-deck-text-id^="u5-p179-img"] > span { position:static !important; display:inline !important; font-size:1.8cqw !important; font-family:Georgia, serif !important; transform:none !important; color:#252323 !important; line-height:1.1; }
@@ -230,6 +254,7 @@
 .narrative-course [data-deck-text-id="u6-p11-img28"] > span { color:#fff !important; }
 .narrative-course [data-deck-text-id="u5-p168-ocr4"] span { color:#fff !important; }
 .narrative-course [data-deck-text-id="u5-p168-ocr5"] span { color:#fff !important; }
+.narrative-course [data-deck-text-id="u5-p177-ocr46"] { transform:translateX(.55cqw); }
 .narrative-course [data-deck-text-id="u6-p11-img21"] span { color:#fff !important; }
 .narrative-course [data-deck-text-id="u6-p11-img22"] span { color:#fff !important; }
 .narrative-course [data-deck-text-id="u6-p11-img23"] span { color:#fff !important; }

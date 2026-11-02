@@ -64,6 +64,7 @@ import { ArticleOneParaphrase } from "./ArticleOneParaphrase";
 import { ArticleOneReuse } from "./ArticleOneReuse";
 import { article01Translations } from "./article01Translations";
 import { ArticleOneNotebook, SentenceBadge } from "./ArticleOneNotebook";
+import { notebookPanelsForSentence } from "./notebookPanels";
 import { ArticleOneQuiz } from "./ArticleOneQuiz";
 import { articles02to05QuizData } from "./articles02to05QuizData";
 import { articles06to10QuizData } from "./articles06to10QuizData";
@@ -76,6 +77,7 @@ import { writingTaskCards } from "./writingTaskCards";
 import { ArticleOneCloze } from "./ArticleOneCloze";
 import { ArticleClozeExercise } from "./ArticleClozeExercise";
 import { writingSampleAnswers } from "./writingSampleAnswers";
+import { writingSampleTranslations } from "./writingSampleTranslations";
 
 type View = "library" | "guide" | "index" | "about" | "reading";
 type Section = "home" | "reading" | "writing" | "culture";
@@ -88,6 +90,79 @@ type Article = {
   theme: string;
   image: string;
 };
+
+function TranslatedWritingSentence({ english, chinese }: { english: string; chinese: string }) {
+  const [showChinese, setShowChinese] = useState(false);
+  return (
+    <span className="writing-sentence-translation">
+      <span
+        className="writing-sentence-trigger"
+        role="button"
+        tabIndex={0}
+        title="Click to show or hide the Chinese meaning"
+        aria-expanded={showChinese}
+        onClick={() => setShowChinese((open) => !open)}
+        onKeyDown={(event) => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            setShowChinese((open) => !open);
+          }
+        }}
+      >{english}</span>
+      {showChinese ? <span lang="zh-CN">{chinese}</span> : null}
+    </span>
+  );
+}
+
+function TranslatedWritingParagraph({ english, chinese }: { english: string; chinese: string | readonly string[] }) {
+  const sentences = english.match(/[^.!?]+[.!?]+|[^.!?]+$/g) ?? [english];
+  const translations = typeof chinese === "string" ? [chinese] : chinese;
+  return (
+    <>
+      {sentences.map((sentence, index) => (
+        <Fragment key={`${index}-${sentence}`}>
+          <TranslatedWritingSentence english={sentence.trim()} chinese={translations[index] ?? ""} />
+          {index < sentences.length - 1 ? " " : null}
+        </Fragment>
+      ))}
+    </>
+  );
+}
+
+function WritingPeelPractice({
+  label,
+  isPoint,
+  english,
+  chinese,
+}: {
+  label: string;
+  isPoint: boolean;
+  english: string;
+  chinese: string | readonly string[];
+}) {
+  const [revealed, setRevealed] = useState(false);
+  return (
+    <span className={`writing-peel-step writing-peel-practice${isPoint ? " writing-peel-point" : ""}`}>
+      <span
+        className="writing-peel-practice-trigger"
+        role="button"
+        tabIndex={0}
+        aria-expanded={revealed}
+        aria-label={`${label} · click to reveal or hide the model sentence`}
+        onClick={() => setRevealed((open) => !open)}
+        onKeyDown={(event) => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            setRevealed((open) => !open);
+          }
+        }}
+      >
+        <b>{label}</b>{revealed ? null : <span className="writing-peel-blank" aria-hidden="true" />}
+      </span>
+      {revealed ? <span className="writing-peel-answer"><TranslatedWritingParagraph english={english} chinese={chinese} /></span> : null}
+    </span>
+  );
+}
 
 function canUseEditorialDropCap(articleId: string, paragraph: string) {
   const firstVisibleCharacter = paragraph.search(/\S/);
@@ -942,7 +1017,8 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
     const article = articles[selectedCard];
     const card = writingTaskCards[selectedCard];
     const answer = writingSampleAnswers[selectedCard];
-    const wordCount = [answer.introduction, answer.context.point, answer.context.explanation, answer.context.example, answer.context.link, ...answer.body.flatMap((paragraph) => [paragraph.point, paragraph.explanation, paragraph.example, paragraph.link]), answer.conclusion].join(" ").trim().split(/\s+/).length;
+    const answerTranslation = writingSampleTranslations[selectedCard];
+    const wordCount = [answer.introduction, ...answer.body.flatMap((paragraph) => [paragraph.point, paragraph.explanation, paragraph.example, paragraph.evaluation, paragraph.link]), answer.conclusion].join(" ").trim().split(/\s+/).length;
     return (
       <main className="simple-page writing-task-page">
         <Header view={view} onNavigate={navigateFromPage} onHome={onHome} />
@@ -959,37 +1035,43 @@ function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library
                 </div>
                 <button type="button" className="writing-sample-switch" onClick={() => { setShowSample(false); window.scrollTo(0, 0); }}>← View question</button>
               </div>
-              <p className="writing-sample-intro">{answer.introduction}</p>
+              <p className="writing-sample-intro-guide">INTRODUCTION · PARAPHRASE THE TASK + STATE YOUR VIEW</p>
+              <p className="writing-sample-intro"><TranslatedWritingParagraph english={answer.introduction} chinese={answerTranslation.introduction} /></p>
               <div className="writing-sample-anchors" aria-label="Two argument keywords; each color matches the point sentence in its body paragraph">
                 <p>ARGUMENT KEYWORDS · THE RESPONSE</p>
                 {answer.anchors.map((anchor, index) => <span className={`argument-${index + 1}`} key={anchor}><b>0{index + 1}</b>{anchor}</span>)}
               </div>
-              <section className="writing-sample-paragraph writing-sample-context" aria-labelledby="writing-sample-context-heading">
-                <h3 id="writing-sample-context-heading"><span>BODY 01 · COUNTERARGUMENT</span>{answer.context.heading}</h3>
-                <p>
-                  <span className="writing-peel-step writing-peel-point"><b>Point</b>{answer.context.point}{" "}</span>
-                  <span className="writing-peel-step"><b>Explanation</b>{answer.context.explanation} </span>
-                  <span className="writing-peel-step"><b>Example</b>{answer.context.example} </span>
-                  <span className="writing-peel-step"><b>Link</b>{answer.context.link}</span>
-                </p>
-              </section>
-              <p className="writing-peel-legend"><b>PEEL</b><span>Point · Explanation · Example · Link</span></p>
-              {answer.body.map((paragraph, index) => (
-                <section className={`writing-sample-paragraph argument-${index + 1}`} key={answer.anchors[index]} aria-labelledby={`writing-sample-paragraph-${index}`}>
-                  <h3 id={`writing-sample-paragraph-${index}`}><span>BODY 0{index + 2}</span>{answer.anchors[index]}</h3>
-                  <p>
-                    <span className="writing-peel-step writing-peel-point"><b>Point</b><mark>{paragraph.point}</mark>{" "}</span>
-                    <span className="writing-peel-step"><b>Explanation</b>{paragraph.explanation} </span>
-                    <span className="writing-peel-step"><b>Example</b>{paragraph.example} </span>
-                    <span className="writing-peel-step"><b>Link</b>{paragraph.link}</span>
+              {answer.body.map((paragraph, index) => {
+                const argumentIndex = answer.body.slice(0, index + 1).filter((item) => item.role !== "concession").length - 1;
+                return (
+                <section className={`writing-sample-paragraph${paragraph.role === "concession" ? " writing-sample-concession" : ` argument-${argumentIndex + 1}`}`} key={`${paragraph.role ?? "argument"}-${index}`} aria-labelledby={`writing-sample-paragraph-${index}`}>
+                  <h3 id={`writing-sample-paragraph-${index}`}><span>{paragraph.role === "concession" ? "COUNTERPOINT" : `BODY 0${argumentIndex + 1}`}</span>{paragraph.heading ?? (argumentIndex >= 0 ? answer.anchors[argumentIndex] : "A further consideration")}</h3>
+                  <p className="writing-sample-paragraph-copy">
+                    {(["point", "explanation", "example", "evaluation", "link"] as const).map((step, stepIndex) => {
+                      const labels = { point: "Point", explanation: "Explanation", example: "Example", evaluation: "Evaluation", link: "Link" };
+                      const label = labels[step];
+                      const copy = paragraph[step];
+                      const isPractice = paragraph.practiceElement === step;
+                      return (
+                        <Fragment key={step}>
+                          {stepIndex > 0 ? " " : null}
+                          {isPractice ? (
+                            <WritingPeelPractice label={label} isPoint={step === "point"} english={copy} chinese={answerTranslation.body[index]?.[step] ?? ""} />
+                          ) : (
+                            <span className={`writing-peel-step${step === "point" ? " writing-peel-point" : ""}`}><b>{label}</b><TranslatedWritingParagraph english={copy} chinese={answerTranslation.body[index]?.[step] ?? ""} /></span>
+                          )}
+                        </Fragment>
+                      );
+                    })}
                   </p>
                 </section>
-              ))}
+                );
+              })}
               <section className="writing-sample-conclusion">
                 <h3>CONCLUSION</h3>
-                <p>{answer.conclusion}</p>
+                <p><TranslatedWritingParagraph english={answer.conclusion} chinese={answerTranslation.conclusion} /></p>
               </section>
-              <aside className="writing-sample-reading-link"><b>From this unit’s reading</b><p>{answer.readingConnection}</p></aside>
+              <aside className="writing-sample-reading-link"><b>From this unit’s reading</b><p><TranslatedWritingParagraph english={answer.readingConnection} chinese={answerTranslation.readingConnection} /></p></aside>
               <p className="writing-sample-sources">Written for this study card. <a href={answer.sampleSource.url} target="_blank" rel="noopener noreferrer">Compare a published sample ↗</a> <a href={card.url} target="_blank" rel="noopener noreferrer">Question source ↗</a></p>
               <button type="button" className="writing-sample-switch writing-sample-bottom-switch" onClick={() => { setShowSample(false); window.scrollTo(0, 0); }}>← View question</button>
             </article>
@@ -1219,18 +1301,6 @@ function QuizWorkspace({ article, onExit }: { article: Article; onExit: () => vo
 
 type StudioPanel = "words" | "structure" | "meaning" | "voice" | "context" | "translation" | "paraphrase" | "reuse";
 type StudioPanelItem = { id: StudioPanel; number: string; label: string };
-
-const article01FullPanels: readonly StudioPanel[] = ["words", "structure", "translation", "paraphrase", "reuse"];
-
-function article01PanelsForSentence(sentence: number): readonly StudioPanel[] {
-  const sentenceData = article01ReadingLesson.sentences[sentence - 1];
-  if (sentenceData?.classification.studyLevel === "simple") {
-    return article01VocabularyMatches(sentenceData.text, sentence).length > 0
-      ? ["words", "structure", "translation"]
-      : ["structure", "translation"];
-  }
-  return article01FullPanels;
-}
 
 function primaryStudioPanel(panel: StudioPanel): StudioPanel {
   if (["meaning", "translation", "voice", "context"].includes(panel)) return "translation";
@@ -1505,6 +1575,10 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
     const next = selected + direction;
     if (next < 0 || next >= sentences.length) return;
     setSelected(next);
+    setActivePanel((current) => {
+      const available = notebookPanelsForSentence(articleId, next + 1);
+      return current && available && !available.includes(current) ? null : current;
+    });
     setStructureDepth(1);
     window.requestAnimationFrame(() => {
       sentenceBoardRef.current?.querySelector(".student-detail-paper")?.scrollIntoView({ block: "start" });
@@ -1544,7 +1618,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
   const currentSetupSentence = isSetup ? setupConfig!.sentences[selected] : null;
   const lesson = getLesson(articleId);
   const article01SentenceNumber = selected + 1;
-  const article01AvailablePanels = article01PanelsForSentence(article01SentenceNumber);
+  const article01AvailablePanels = notebookPanelsForSentence("01", article01SentenceNumber) ?? [];
   const article01FrontOnly = false;
   const article01ActivePanel = activePanel === null || article01AvailablePanels.includes(activePanel) ? activePanel : null;
 
@@ -1570,11 +1644,9 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
 
   if (lesson) {
     const sentence = lesson.sentences[selected];
-    const simpleSentencePanels: readonly StudioPanel[] | undefined = sentence.classification.studyLevel === "simple"
-      ? lessonVocabularyMatches(lesson, sentence.id, sentence.text).length > 0 ? ["words", "structure", "translation"] : ["structure", "translation"]
-      : undefined;
-    const notebookPanel = simpleSentencePanels && activePanel && !simpleSentencePanels.includes(activePanel as "words" | "structure" | "translation") ? null : activePanel;
-    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={notebookPanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification} availablePanels={simpleSentencePanels}>
+    const availableSentencePanels = notebookPanelsForSentence(articleId, sentence.id);
+    const notebookPanel = availableSentencePanels && activePanel && !availableSentencePanels.includes(activePanel) ? null : activePanel;
+    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={notebookPanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification} availablePanels={availableSentencePanels}>
       {activePanel === "words" ? <LessonWords key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} initialSourceRow={initialVocabulary?.sentence === sentence.id ? initialVocabulary.sourceRow : undefined}/>
         : activePanel === "structure" ? <LessonStructure key={`${articleId}-${selected}`} sentence={sentence}/>
         : activePanel && <LessonActivities key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} panel={activePanel} onPanel={setActivePanel}/>}

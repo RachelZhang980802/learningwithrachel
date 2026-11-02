@@ -10,7 +10,7 @@
         "the evolution of a species"
       ],
       "compare": [
-        "evolution 是长期演变；revolution 通常指突变或革命。"
+        "evolution 与 gradual development 都指长期逐步变化；evolution 更强调连续过程，在本文专指人类物种的演化。"
       ],
       "usage": "本文谈数百万年的人类演化，不是个人成长。",
       "ipa": "/ˌevəˈluːʃn/",
@@ -30,7 +30,12 @@
           "exampleChinese": "英国在政治上宁愿渐进而不愿革命。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "evolve",
+      "family": [
+        "evolution n. 演化；进化",
+        "evolutionary adj. 进化的；逐步发展的"
+      ]
     },
     "2": {
       "word": "protohuman",
@@ -41,9 +46,7 @@
         "early protohumans",
         "human and protohuman ancestors"
       ],
-      "compare": [
-        "protohuman 指人类早期祖先；human 指现代人类或人的总称。"
-      ],
+      "compare": [],
       "usage": "proto- 表“原始／前期”；本文与 humans 并列。",
       "ipa": "",
       "partOfSpeech": "phrase",
@@ -51,8 +54,7 @@
       "articleExample": "For most of the six million years of human evolution, all humans and protohumans lived like somewhat glorified chimpanzees, at low population densities, scattered over the landscape as families or small bands.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "otherMeaningsStatus": "missing_source"
     },
     "44": {
       "word": "glorified",
@@ -64,7 +66,7 @@
         "a glorified version of something"
       ],
       "compare": [
-        "glorified 带讽刺，指被说得更高等；glorious 是真正辉煌。"
+        "a glorified X 与 a dressed-up X 都暗示只是被包装得更体面；glorified 尤带讽刺，认为本质没有变。"
       ],
       "usage": "somewhat glorified 修饰 chimpanzees，说明早期人类生活模式近似。",
       "ipa": "/ˈɡlɔːrɪfaɪd/",
@@ -79,12 +81,10 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "glory n./v. 荣耀；赞颂",
-        "glorify v. 赞美；美化",
         "glorification n. 赞颂；美化",
-        "glorious adj. 光荣的；壮丽的",
-        "gloriously adv. 壮丽地"
-      ]
+        "glorified adj. 被美化的；名不副实的"
+      ],
+      "wordFamilyRoot": "glorify"
     },
     "3": {
       "word": "chimpanzee",
@@ -95,9 +95,7 @@
         "a chimpanzee family",
         "chimpanzees in the wild"
       ],
-      "compare": [
-        "chimpanzee 是黑猩猩；gorilla 是大猩猩。"
-      ],
+      "compare": [],
       "usage": "本文以黑猩猩作比较对象，并非说早期人类就是黑猩猩。",
       "ipa": "/ˌtʃɪmpænˈziː/",
       "partOfSpeech": "noun",
@@ -116,9 +114,7 @@
         "population density",
         "low densities"
       ],
-      "compare": [
-        "density 是单位面积内的集中程度；population 是人口总量。"
-      ],
+      "compare": [],
       "usage": "本文可数复数 densities 指不同群体或地区的人口密度。",
       "ipa": "/ˈdensəti/",
       "partOfSpeech": "noun",
@@ -141,7 +137,12 @@
           "chinese": "密度（磁盘存储数据的可用空间）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "dense",
+      "family": [
+        "density n. 密度",
+        "densely adv. 密集地"
+      ]
     },
     "45": {
       "word": "scatter",
@@ -153,7 +154,7 @@
         "scatter in different directions"
       ],
       "compare": [
-        "scatter 是分散分布；gather 是聚集。"
+        "scatter 与 disperse 都表示分散；scatter 更有散落各处的画面感，disperse 更可指从一处向外散开。"
       ],
       "usage": "本文过去分词 scattered，表示早期人群分布稀疏。",
       "ipa": "/ˈskætər/",
@@ -181,9 +182,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "scattered adj./v. 分散的；scatter 的过去式／过去分词",
-        "scattering n./v. 散布；少量"
-      ]
+        "scattered adj. 分散的；散落的",
+        "scattering n. 零星分布"
+      ],
+      "wordFamilyRoot": "scatter"
     },
     "46": {
       "word": "landscape",
@@ -195,7 +197,7 @@
         "urban landscape"
       ],
       "compare": [
-        "landscape 在本文指广阔地域；scenery 更着眼于一地的景色。"
+        "landscape 与 scenery 都可指一地的可见面貌；landscape 还包括地形和人造环境，scenery 更常指观赏到的景色。"
       ],
       "usage": "本文指散布着家庭或小群体的广阔地域，不是绘画或横向打印。",
       "ipa": "/ˈlændskeɪp/",
@@ -226,11 +228,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "landscaped adj./v. 绿化设计的；landscape 的过去式／过去分词",
-        "landscaping n./v. 景观设计；绿化",
-        "landscaper n. 景观设计师"
-      ]
+      "family": [],
+      "wordFamilyRoot": "landscape"
     },
     "47": {
       "word": "band",
@@ -242,7 +241,7 @@
         "a band of people"
       ],
       "compare": [
-        "band 在本文是小群体；band 也可指乐队。"
+        "band 在这里近于 small group；band 常指一起行动或生活的小群体，group 更通用。"
       ],
       "usage": "可数名词；与 families 并列描述早期人群组织。",
       "ipa": "/bænd/",
@@ -311,10 +310,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "banded adj./v. 有带状标记的；band 的过去式／过去分词",
-        "banding n./v. 带状物；分组"
-      ]
+      "family": [],
+      "wordFamilyRoot": "band"
     },
     "5": {
       "word": "fraction",
@@ -326,7 +323,7 @@
         "only a fraction of history"
       ],
       "compare": [
-        "fraction 指整体中的一部分；percentage 明确用百分比表示。"
+        "fraction 与 portion 都指整体的一部分；fraction 常用于比例或数量，portion 也可指分到的一份。"
       ],
       "usage": "常接 of + 整体；本文强调六千年只占人类史很小一部分。",
       "ipa": "/ˈfrækʃn/",
@@ -346,7 +343,12 @@
           "exampleChinese": "如何将25%表示成分数？"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "fraction",
+      "family": [
+        "fractional adj. 部分的；很少的",
+        "fractionally adv. 略微地"
+      ]
     },
     "48": {
       "word": "setting",
@@ -358,7 +360,7 @@
         "a rural setting"
       ],
       "compare": [
-        "setting 是生活环境；scenery 主要指可观看的景色。"
+        "setting 与 environment 都可指所处环境；setting 更强调某事发生的具体场所或背景，environment 可含更广泛条件。"
       ],
       "usage": "本文复数 settings 指不同的城市居住环境。",
       "ipa": "/ˈsetɪŋ/",
@@ -397,11 +399,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "set v./n. 设置；套装；放置",
-        "setting n. 环境；设置",
-        "setter n. 设置者；猎犬"
-      ]
+      "family": [],
+      "wordFamilyRoot": "setting"
     },
     "6": {
       "word": "inhabitant",
@@ -413,7 +412,7 @@
         "millions of inhabitants"
       ],
       "compare": [
-        "inhabitant 是住在某地的人；citizen 强调法律上的公民身份。"
+        "inhabitant 与 resident 都指居住在某地的人；inhabitant 常描写人口，resident 更常表居住身份。"
       ],
       "usage": "可数名词；本文用来计算城市人口。",
       "ipa": "/ɪnˈhæbɪtənt/",
@@ -426,7 +425,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "inhabit",
+      "family": [
+        "inhabitant n. 居民",
+        "inhabited adj. 有人居住的",
+        "uninhabited adj. 无人居住的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "inhabited",
+            "uninhabited"
+          ],
+          "distinction": "inhabited 说明某地有人居住，不表示人口稠密；uninhabited 说明无人常住，不表示从未有人到访。"
+        }
+      ]
     },
     "49": {
       "word": "urban",
@@ -438,7 +452,7 @@
         "urban communities"
       ],
       "compare": [
-        "urban 是城市的；rural 是乡村的。"
+        "urban 与 metropolitan 都涉及城市；urban 可泛指城镇环境，metropolitan 更偏大城市及周边区域。"
       ],
       "usage": "常置于名词前；本文贯穿城乡对照。",
       "ipa": "/ˈɜːrbən/",
@@ -460,9 +474,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "urbanize / urbanise v. 使城市化",
-        "urbanization / urbanisation n. 城市化",
-        "urbanity n. 文雅；都市风格"
+        "urbanize v. 使城市化",
+        "urbanization n. 城市化",
+        "urbanized adj. 城市化的"
+      ],
+      "wordFamilyRoot": "urban",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "urban",
+            "urbanized"
+          ],
+          "distinction": "urban 只说明与城市有关；urbanized 说明某地经过城市化，常暗示人口或建设方式发生了变化。"
+        }
       ]
     },
     "7": {
@@ -474,9 +498,7 @@
         "a trade-off between A and B",
         "make a trade-off"
       ],
-      "compare": [
-        "trade-off 指一得一失的权衡；compromise 强调双方让步。"
-      ],
+      "compare": [],
       "usage": "常接 between A and B；全文以两组 trade-off 展开论述。",
       "ipa": "/ˈtreɪd ɔːf/",
       "partOfSpeech": "noun",
@@ -546,11 +568,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "benefited / benefitted v. benefit 的过去式／过去分词",
-        "benefiting / benefitting n./v. 受益；获益",
         "beneficial adj. 有益的",
         "beneficially adv. 有益地",
-        "beneficiary n. 受益者"
+        "beneficiary n. 受益人"
+      ],
+      "wordFamilyRoot": "benefit",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "benefit",
+            "beneficiary"
+          ],
+          "distinction": "benefit 是获得的好处或利益；beneficiary 是取得这项好处的人，常见于政策、保险或遗嘱语境。"
+        }
       ]
     },
     "8": {
@@ -563,7 +593,7 @@
         "in return for help"
       ],
       "compare": [
-        "in return for 表交换关系；because of 只表原因。"
+        "in return for 与 in exchange for 都表示交换；前者常说给予帮助后得到回报，后者更直接说双方交换的条件。"
       ],
       "usage": "for 后接付出的代价或提供的帮助；本文是收益换取代价。",
       "ipa": "",
@@ -577,12 +607,7 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "returned v./adj. return 的过去式／过去分词；归还的",
-        "returning n./v. 返回；return 的 -ing 形式",
-        "returnable adj. 可退还的"
-      ],
-      "wordFamilyNote": "The expandable word is return; the branches show common verb and adjective forms.",
+      "family": [],
       "wordFamilyRoot": "return"
     },
     "51": {
@@ -617,10 +642,21 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "advantage n./v. 优势；使处于有利地位",
-        "advantageous adj. 有利的",
-        "advantageously adv. 有利地",
-        "disadvantaged adj. 处于不利地位的"
+        "disadvantage n. 缺点；劣势",
+        "disadvantaged adj. 处于不利地位的",
+        "disadvantageous adj. 不利的",
+        "advantageous adj. 有利的"
+      ],
+      "wordFamilyRoot": "advantage",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "disadvantaged",
+            "disadvantageous",
+            "advantageous"
+          ],
+          "distinction": "disadvantaged 常形容缺少资源或机会的人群；disadvantageous 形容会造成不利结果的条件；advantageous 则形容带来优势的条件。"
+        }
       ]
     },
     "52": {
@@ -633,7 +669,7 @@
         "consider an issue"
       ],
       "compare": [
-        "consider 是认真思考；suppose 是假设。"
+        "consider 与 examine 都可指认真思考一个问题；consider 偏向权衡，examine 更强调逐项审视证据。"
       ],
       "usage": "本文是引出两个讨论主题的祈使句。",
       "ipa": "/kənˈsɪdər/",
@@ -667,11 +703,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "considered adj./v. 经过考虑的；consider 的过去式／过去分词",
-        "considering prep./conj./v. 考虑到；考虑",
         "consideration n. 考虑；体谅",
-        "considerate adj. 体贴的",
-        "considerably adv. 相当大地"
+        "considered adj. 深思熟虑的",
+        "considerate adj. 体贴他人的"
+      ],
+      "wordFamilyRoot": "consider",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "considered",
+            "considerate"
+          ],
+          "distinction": "considered 强调意见或决定经过周密思考；considerate 强调体贴他人的感受。"
+        }
       ]
     },
     "9": {
@@ -683,9 +727,7 @@
         "urban anonymity",
         "preserve anonymity"
       ],
-      "compare": [
-        "anonymity 是身份不被认出；isolation 是与他人隔绝。"
-      ],
+      "compare": [],
       "usage": "本文把匿名既当作城市代价，也当作个人自由。",
       "ipa": "/ˌænəˈnɪməti/",
       "partOfSpeech": "noun",
@@ -704,7 +746,12 @@
           "exampleChinese": "这家旅馆毫无特色的装饰风格"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "anonymous",
+      "family": [
+        "anonymity n. 匿名状态；不为人知",
+        "anonymously adv. 匿名地"
+      ]
     },
     "53": {
       "word": "issue",
@@ -801,11 +848,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "issued adj./v. 已发布的；issue 的过去式／过去分词",
-        "issuing n./v. 发布；发放",
-        "issuance n. 发布；发行"
-      ],
+      "family": [],
       "relatedExpressions": [
         {
           "phrase": "take issue with somebody (about/on/over something)",
@@ -814,7 +857,8 @@
           "sourceLabel": "Oxford Learner’s Dictionaries · idiom",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/issue_2"
         }
-      ]
+      ],
+      "wordFamilyRoot": "issue"
     },
     "54": {
       "word": "in effect",
@@ -826,7 +870,7 @@
         "in effect a country"
       ],
       "compare": [
-        "in effect 表“实际上”；in force／in effect 谈法律时可指生效。"
+        "in effect 在本文近于 in practice，表实际效果或真实情况；in effect 较书面。"
       ],
       "usage": "本文修饰新加坡的政治地位，不译“影响”。",
       "ipa": "/ɪˈfekt/",
@@ -840,14 +884,8 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "effective adj. 有效的",
-        "effectively adv. 有效地；实际上",
-        "effectiveness n. 效果；效力",
-        "ineffective adj. 无效的"
-      ],
-      "wordFamilyNote": "The expandable word is effect; the branches show its common adjective, adverb, and noun forms.",
-      "wordFamilyRoot": "effect"
+      "family": [],
+      "wordFamilyRoot": "in effect"
     },
     "55": {
       "word": "micro-country",
@@ -855,21 +893,20 @@
       "english": "a very small country",
       "chinese": "微型国家",
       "collocations": [
-        "a micro-country",
-        "micro-scale"
+        "a densely populated micro-country 人口稠密的微型国家",
+        "a micro-country with limited land 面积有限的微型国家"
       ],
       "compare": [
-        "micro- 表极小；miniature 也表示缩小，但常形容模型。"
+        "micro-country 与 microstate 都指面积或人口规模很小的国家；microstate 是较正式的政治地理用语，micro-country 更像通俗描述。"
       ],
       "usage": "micro- 是构词前缀，可表示“百万分之一”或“小”；micro-country 在本文中按组合义指“微型国家”。",
-      "ipa": "/maɪkrəʊ/, /maɪkrə/, /maɪˈkrɑː/",
+      "ipa": "",
       "partOfSpeech": "noun",
-      "oxfordExcerptProvided": true,
+      "oxfordExcerptProvided": false,
       "articleExample": "To understand the issue of freedom, take first the city of Singapore, in effect one of the world's most densely populated micro-countries.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "present",
-      "sourceCaveat": "词典摘录含相关词条，但未直接列出本文的完整用法；语境义据原文整理。"
+      "otherMeaningsStatus": "missing_source"
     },
     "56": {
       "word": "nearly",
@@ -881,7 +918,7 @@
         "nearly half"
       ],
       "compare": [
-        "nearly 是接近但未达到；about 是大约，可能高于或低于。"
+        "nearly 与 almost 都表“接近但未达到”；nearly 常修饰数字，almost 的搭配范围更广。"
       ],
       "usage": "置于数字前，本文为接近六百万。",
       "ipa": "/ˈnɪrli/",
@@ -903,11 +940,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "near adj./adv./prep./v. 近的；接近；靠近",
-        "nearer adj./adv. near 的比较级",
-        "nearest adj./adv. near 的最高级",
+        "nearly adv. 几乎；将近",
         "nearness n. 接近；亲近"
-      ]
+      ],
+      "wordFamilyRoot": "near"
     },
     "57": {
       "word": "be packed into",
@@ -919,7 +955,7 @@
         "packed into 250 square miles"
       ],
       "compare": [
-        "be packed into 强调大量人挤在有限空间；be scattered over 相反。"
+        "be packed into 与 be crammed into 都指大量人或物挤进有限空间；crammed 更突出拥挤不适，packed 可仅强调密集。"
       ],
       "usage": "被动结构；into 后接容纳空间。",
       "ipa": "/pækt/",
@@ -929,15 +965,10 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "词典摘录含相关词条，但未直接列出本文的完整用法；语境义据原文整理。",
       "family": [
-        "packed adj./v. 拥挤的；pack 的过去式／过去分词",
-        "packing n./v. 包装；pack 的 -ing 形式",
-        "package n./v. 包裹；包装",
-        "packaging n. 包装材料；包装设计",
-        "packer n. 包装工；打包者"
+        "packed adj. 拥挤的；塞满的",
+        "package n./v. 包裹；包装"
       ],
-      "wordFamilyNote": "The phrase is built around pack; the branches show common verb and noun forms.",
       "wordFamilyRoot": "pack"
     },
     "58": {
@@ -949,9 +980,7 @@
         "250 square miles",
         "an area of one square mile"
       ],
-      "compare": [
-        "square mile 是面积单位；mile 是长度单位。"
-      ],
+      "compare": [],
       "usage": "数字后 mile 用复数；本文用其比较人口密度。",
       "ipa": "/skwer/",
       "partOfSpeech": "noun phrase",
@@ -964,13 +993,8 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "squared adj./v. 平方的；square 的过去式／过去分词",
-        "squaring n./v. 使成方形；square 的 -ing 形式",
-        "squarely adv. 直接地；正好"
-      ],
-      "wordFamilyNote": "The expandable word is square; the branches show its common verb and adverb forms.",
-      "wordFamilyRoot": "square"
+      "family": [],
+      "wordFamilyRoot": "square mile"
     },
     "59": {
       "word": "strait",
@@ -982,7 +1006,7 @@
         "a narrow strait"
       ],
       "compare": [
-        "strait 是海峡；straight 是直的，拼写近而义不同。"
+        "strait 与 channel 都可指水道；strait 特指两片陆地之间的狭窄海峡，channel 可宽可窄，也可指人工航道。"
       ],
       "usage": "本文是港口航线经过的海峡，不是形容词 straight。",
       "ipa": "/streɪt/",
@@ -1014,7 +1038,7 @@
         "a prime location"
       ],
       "compare": [
-        "prime 在此是上等的；primary 更常表示第一顺位或基础。"
+        "prime 与 premium 都可形容品质上乘；prime 常形容土地、位置或肉类，premium 也指高价商品。"
       ],
       "usage": "置于 real estate 前，强调土地位置和价值。",
       "ipa": "/praɪm/",
@@ -1071,9 +1095,18 @@
       "otherMeaningsStatus": "present",
       "family": [
         "primary adj. 主要的；初级的",
-        "primarily adv. 主要地；首先",
-        "primacy n. 首要；首位",
-        "prime v./adj./n. 使准备好；首要的；鼎盛时期"
+        "primarily adv. 主要地",
+        "primacy n. 首要地位"
+      ],
+      "wordFamilyRoot": "prime",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "prime",
+            "primary"
+          ],
+          "distinction": "prime 在 prime real estate 中形容位置或品质上乘；primary 表示主要的或第一顺位，不等于“高档”。"
+        }
       ]
     },
     "61": {
@@ -1124,7 +1157,7 @@
         "wedge something into a gap"
       ],
       "compare": [
-        "wedge 在此是“挤在两者之间”；wedge 作名词是楔子。"
+        "be wedged between 与 be squeezed between 都表“夹在两者之间”；wedged 更强调位置固定、空间紧。"
       ],
       "usage": "本文是过去分词 wedged，表示新加坡的地理位置。",
       "ipa": "/wedʒ/",
@@ -1156,7 +1189,11 @@
           "exampleChinese": "用楔子卡住门让它开着"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "wedge",
+      "family": [
+        "wedged adj. 紧紧夹住的"
+      ]
     },
     "62": {
       "word": "racial",
@@ -1167,9 +1204,7 @@
         "racial tensions",
         "racial discrimination"
       ],
-      "compare": [
-        "racial 关乎种族；racist 明确含有种族歧视态度。"
-      ],
+      "compare": [],
       "usage": "本文与 economic 并列修饰 tensions。",
       "ipa": "/ˈreɪʃl/",
       "partOfSpeech": "adjective",
@@ -1190,10 +1225,27 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "race n./v. 种族；竞赛",
-        "racially adv. 在种族方面；种族性地",
-        "racism n. 种族主义",
-        "racist adj./n. 种族主义的；种族主义者"
+        "racial adj. 种族的",
+        "racially adv. 在种族方面",
+        "racist adj./n. 种族主义的；种族主义者",
+        "racism n. 种族主义"
+      ],
+      "wordFamilyRoot": "race",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "racial",
+            "racist"
+          ],
+          "distinction": "racial 表示与种族分类有关，本身不必含歧视；racist 则表示种族主义或种族歧视。"
+        },
+        {
+          "forms": [
+            "racist",
+            "racism"
+          ],
+          "distinction": "racist 作名词指持种族主义观念的人；racism 指这种思想、制度或歧视行为，不指某一个人。"
+        }
       ]
     },
     "63": {
@@ -1206,7 +1258,7 @@
         "political tension"
       ],
       "compare": [
-        "tension 是关系紧张；stress 更常指个人压力。"
+        "tension 与 strain 都可指关系紧张；tension 像对立气氛，strain 强调压力造成的负担。"
       ],
       "usage": "本文复数 tensions 指多方面紧张关系。",
       "ipa": "/ˈtenʃn/",
@@ -1250,10 +1302,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "tense adj./v. 紧张的；使紧张",
-        "tensely adv. 紧张地",
-        "tenseness n. 紧张"
-      ]
+        "tension n. 紧张关系；张力",
+        "tensely adv. 紧张地"
+      ],
+      "wordFamilyRoot": "tense"
     },
     "11": {
       "word": "spur",
@@ -1265,7 +1317,7 @@
         "spur economic growth"
       ],
       "compare": [
-        "spur 是促使发展或行动；cause 更宽泛，不强调刺激作用。"
+        "spur 与 stimulate 都表示促使行动或发展；spur 常有突然推动、鞭策的意味，stimulate 可更缓和。"
       ],
       "usage": "及物动词；本文由 tensions 作主语，后接 separation。",
       "ipa": "/spɜːr/",
@@ -1330,7 +1382,7 @@
         "provoke a reaction"
       ],
       "compare": [
-        "provoke 强调引起不良反应；encourage 通常带积极方向。"
+        "provoke 与 trigger 都可指引发反应；provoke 常暗示惹怒或激起敌对，trigger 只说触发。"
       ],
       "usage": "本文指避免激怒邻国，宾语是 neighbors。",
       "ipa": "/prəˈvəʊk/",
@@ -1350,7 +1402,13 @@
           "exampleChinese": "说话要小心，他这个人一惹就火儿。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "provoke",
+      "family": [
+        "provocation n. 挑衅；引发",
+        "provocative adj. 挑衅性的；引人思考的",
+        "provocatively adv. 挑衅地"
+      ]
     },
     "64": {
       "word": "monitor",
@@ -1362,7 +1420,7 @@
         "monitor traffic"
       ],
       "compare": [
-        "monitor 是持续监测；observe 可以是一次观察。"
+        "monitor 与 keep track of 都表持续关注变化；monitor 更常用于正式监测或仪器记录。"
       ],
       "usage": "及物动词；本文主语为政府，宾语为公民。",
       "ipa": "/ˈmɑːnɪtər/",
@@ -1414,10 +1472,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "monitored adj./v. 受监控的；monitor 的过去式／过去分词",
-        "monitoring n./v. 监控；监测",
-        "monitorable adj. 可监测的"
-      ]
+        "monitoring n. 持续监测；监控"
+      ],
+      "wordFamilyRoot": "monitor"
     },
     "65": {
       "word": "citizen",
@@ -1428,9 +1485,7 @@
         "monitor citizens",
         "rights of citizens"
       ],
-      "compare": [
-        "citizen 是国家公民；resident 是住在当地的人，不必有国籍。"
-      ],
+      "compare": [],
       "usage": "本文关注政府与公民的权利交换。",
       "ipa": "/ˈsɪtɪzn/",
       "partOfSpeech": "noun",
@@ -1452,8 +1507,18 @@
       "otherMeaningsStatus": "present",
       "family": [
         "citizenship n. 公民身份；公民权",
-        "citizenry n. 全体公民",
-        "civic adj. 公民的；城市的"
+        "citizenry n. 全体公民"
+      ],
+      "wordFamilyRoot": "citizen",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "citizen",
+            "citizenship",
+            "citizenry"
+          ],
+          "distinction": "citizen 是一个国家的公民；citizenship 是个人的公民身份及相关权利；citizenry 是一国或一地的全体公民。"
+        }
       ]
     },
     "66": {
@@ -1466,7 +1531,7 @@
         "watch closely"
       ],
       "compare": [
-        "closely 在此是仔细／严密地；nearby 表空间上“在附近”。"
+        "closely 与 carefully 都可指仔细地；closely 在 monitor closely 中还强调持续、严密的程度。"
       ],
       "usage": "副词修饰 monitors，说明监控强度。",
       "ipa": "/ˈkləʊsli/",
@@ -1512,11 +1577,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "close adj./adv./v. 近的；紧密地；关闭",
-        "closed adj./v. 关闭的；close 的过去式／过去分词",
-        "closeness n. 接近；亲密",
-        "closing n./adj./v. 关闭；结束的；close 的 -ing 形式"
-      ]
+        "closely adv. 密切地；仔细地",
+        "closeness n. 接近；密切"
+      ],
+      "wordFamilyRoot": "close"
     },
     "67": {
       "word": "inspector",
@@ -1528,7 +1592,7 @@
         "inspectors check for water"
       ],
       "compare": [
-        "inspector 是执行检查的人；monitor 可指监测设备或人员。"
+        "inspector 与 examiner 都指负责检查的人；inspector 常查安全或合规，examiner 常评估知识或证据。"
       ],
       "usage": "本文指入户查看蚊虫孳生风险的检查员。",
       "ipa": "/ɪnˈspektər/",
@@ -1554,10 +1618,18 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "inspect v. 检查；视察",
-        "inspection n. 检查；视察",
-        "inspectable adj. 可检查的",
-        "inspectorate n. 检查机构"
+        "inspector n. 检查员",
+        "inspection n. 检查；视察"
+      ],
+      "wordFamilyRoot": "inspect",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "inspector",
+            "inspection"
+          ],
+          "distinction": "inspector 是执行检查的人；inspection 是检查这一程序或一次具体检查，如 a safety inspection。"
+        }
       ]
     },
     "68": {
@@ -1570,7 +1642,7 @@
         "mosquitoes breed in standing water"
       ],
       "compare": [
-        "standing water 是不流动的积水；running water 是流动水。"
+        "standing water 与 stagnant water 都可指不流动的水；stagnant 常暗示长期不流、开始变质，standing 不一定如此。"
       ],
       "usage": "复合名词整体指积水，不把 standing 译“站立的”。",
       "ipa": "/ˈstændɪŋ wɔːtər/",
@@ -1585,11 +1657,8 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "stood v. stand 的过去式／过去分词",
-        "standing n./adj. 站立；静止的",
-        "standstill n. 停滞；停顿"
+        "standing adj. 不流动的；积存的"
       ],
-      "wordFamilyNote": "The phrase is built around stand; the branches show common verb forms.",
       "wordFamilyRoot": "stand"
     },
     "69": {
@@ -1601,9 +1670,7 @@
         "household pots",
         "flower pots"
       ],
-      "compare": [
-        "pot 是容器；pan 通常是较浅的烹饪锅。"
-      ],
+      "compare": [],
       "usage": "本文指家中可积水的盆罐，需结合蚊虫语境。",
       "ipa": "/pɑːt/",
       "partOfSpeech": "noun",
@@ -1661,12 +1728,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "potted adj./v. 盆栽的；pot 的过去式／过去分词",
-        "potting n./v. 盆栽；装罐",
-        "potter n. 陶工；陶艺家",
-        "pottery n. 陶器；陶艺"
-      ],
+      "family": [],
       "relatedSayings": [
         {
           "phrase": "the pot calling the kettle black",
@@ -1712,7 +1774,8 @@
           "sourceLabel": "Oxford Learner’s Dictionaries · idiom",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/pot_1"
         }
-      ]
+      ],
+      "wordFamilyRoot": "pot"
     },
     "70": {
       "word": "lest",
@@ -1724,7 +1787,7 @@
         "lest something happen"
       ],
       "compare": [
-        "lest 是“以免”；unless 是“除非”，逻辑不同。"
+        "lest 与 for fear that 都引出要避免的后果；lest 更正式，后常用动词原形或 should。"
       ],
       "usage": "后接从句；本文说明检查积水的预防目的。",
       "ipa": "/lest/",
@@ -1756,7 +1819,7 @@
         "furnish somebody with information"
       ],
       "compare": [
-        "furnish 在此是“提供”；常见的 furnish a room 是“布置家具”。"
+        "furnish 在这里近于 provide／supply，意为“提供”；furnish 较正式，后常接所提供的东西，for 接受益者或用途。"
       ],
       "usage": "本文的主语是积水，提供蚊虫繁殖场所。",
       "ipa": "/ˈfɜːrnɪʃ/",
@@ -1776,7 +1839,12 @@
           "exampleChinese": "房间里摆放了古董。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "furnish",
+      "family": [
+        "furnishing n. 提供；家具用品",
+        "furnished adj. 配备了……的"
+      ]
     },
     "71": {
       "word": "breed",
@@ -1788,7 +1856,7 @@
         "mosquitoes breed"
       ],
       "compare": [
-        "breed 指繁殖；raise 指人饲养动物。"
+        "breed 与 reproduce 都可指繁殖；breed 常用于物种或饲养语境，reproduce 更一般。"
       ],
       "usage": "breeding 作定语修饰 sites，指蚊虫繁殖的场所；本句具体指可能积水的家庭容器成为蚊虫的孳生地。",
       "ipa": "/briːd/",
@@ -1841,6 +1909,20 @@
           "sourceLabel": "Oxford Learner’s Dictionaries · saying",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/us/definition/english/breed_1"
         }
+      ],
+      "wordFamilyRoot": "breed",
+      "family": [
+        "breeding n. 繁殖；培育",
+        "breeder n. 饲养／育种者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "breeding",
+            "breeder"
+          ],
+          "distinction": "breeding 指培育过程，如 selective breeding；breeder 指从事培育的人或机构，如 a dog breeder。"
+        }
       ]
     },
     "14": {
@@ -1860,11 +1942,6 @@
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
       "articleExample": "Inspectors check for water standing in each household's pots, lest they furnish breeding sites for disease-transmitting mosquitoes.",
-      "dictionaryExample": {
-        "english": "transmit something sexually transmitted diseases",
-        "chinese": "性传播疾病",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [
         {
           "english": "[transitive, intransitive] transmit (something) (from…) (to…) to send an electronic signal, radio or television broadcast, etc.",
@@ -1879,7 +1956,22 @@
           "exampleChinese": "蒸汽只有在冷凝时才传导热能。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "transmit",
+      "family": [
+        "transmission n. 传输；传播",
+        "transmitter n. 传送者；发射器",
+        "transmissible adj. 可传播的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "transmission",
+            "transmitter"
+          ],
+          "distinction": "transmission 是疾病、信号或信息传播的过程；transmitter 是传送信号的设备，也可指传播者。"
+        }
+      ]
     },
     "15": {
       "word": "sensor",
@@ -1891,7 +1983,7 @@
         "an infrared sensor"
       ],
       "compare": [
-        "sensor 是探测变化的器件；meter 主要测量并记录数量。"
+        "sensor 与 detector 都能探测变化；sensor 往往把物理量转成可供系统处理的信号，detector 只强调发现。"
       ],
       "usage": "可数名词；本文指城市技术监测设备。",
       "ipa": "/ˈsensər/",
@@ -1904,7 +1996,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "sense",
+      "family": [
+        "sensor n. 传感器",
+        "sensory adj. 感官的；感觉的",
+        "sensitivity n. 敏感度"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "sensor",
+            "sensitivity"
+          ],
+          "distinction": "sensor 是探测变化的装置；sensitivity 是它能对多小的变化作出反应的敏感度，不能把性质当作设备。"
+        }
+      ]
     },
     "72": {
       "word": "measure",
@@ -1916,7 +2023,7 @@
         "measure temperature"
       ],
       "compare": [
-        "measure 是测量；monitor 是持续追踪变化。"
+        "measure 与 quantify 都表把数量测出来；measure 可用仪器取数值，quantify 强调用数字表达。"
       ],
       "usage": "本文传感器既量交通，也量温度与阴影。",
       "ipa": "/ˈmeʒər/",
@@ -2029,6 +2136,12 @@
           "sourceLabel": "Oxford Learner’s Dictionaries · idiom",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/measure_2"
         }
+      ],
+      "wordFamilyRoot": "measure",
+      "family": [
+        "measurement n. 测量；测得的量",
+        "measurable adj. 可测量的",
+        "measurably adv. 可测量地"
       ]
     },
     "73": {
@@ -2136,11 +2249,7 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "casting n./v. 投掷；铸造；选角",
-        "caster n. 脚轮；投掷者",
-        "castable adj. 可铸造的"
-      ],
+      "family": [],
       "relatedSayings": [
         {
           "phrase": "the die is cast",
@@ -2149,7 +2258,8 @@
           "sourceLabel": "Oxford Learner’s Dictionaries · saying",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/cast_1"
         }
-      ]
+      ],
+      "wordFamilyRoot": "cast"
     },
     "74": {
       "word": "track",
@@ -2161,7 +2271,7 @@
         "track movements"
       ],
       "compare": [
-        "track 是追踪变化；record 只强调留下记录。"
+        "track 与 trace 都可指追踪；track 强调持续跟进，trace 更常沿线索回溯路径。"
       ],
       "usage": "本文及物动词，宾语为用水和用电量。",
       "ipa": "/træk/",
@@ -2279,10 +2389,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "tracked adj./v. 被跟踪的；track 的过去式／过去分词",
-        "tracking n./v. 跟踪；追踪",
-        "tracker n. 追踪器；追踪者",
+        "tracking n. 追踪；跟踪",
+        "tracker n. 追踪者；追踪器",
         "trackable adj. 可追踪的"
+      ],
+      "wordFamilyRoot": "track",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "tracking",
+            "tracker"
+          ],
+          "distinction": "tracking 指持续跟踪的活动，如 vehicle tracking；tracker 指执行跟踪的人或装置，如 a fitness tracker。"
+        }
       ]
     },
     "75": {
@@ -2295,7 +2414,7 @@
         "electricity consumption"
       ],
       "compare": [
-        "consumption 是使用量；production 是产量。"
+        "consumption 与 usage 都可指资源使用量；consumption 更强调资源被消耗，usage 只说使用情况。"
       ],
       "usage": "常接 of + 消耗的资源；本文以家庭为单位统计。",
       "ipa": "/kənˈsʌmpʃn/",
@@ -2321,11 +2440,20 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "consume v. 消耗；消费",
-        "consumed adj./v. 消耗的；consume 的过去式／过去分词",
+        "consumption n. 消耗；消费",
         "consumer n. 消费者",
-        "consumable adj./n. 可消耗的；消耗品",
-        "consumptive adj. 消耗性的"
+        "consumable adj./n. 可消耗的；消耗品"
+      ],
+      "wordFamilyRoot": "consume",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "consumption",
+            "consumer",
+            "consumable"
+          ],
+          "distinction": "consumption 指资源被使用或消耗的过程或数量；consumer 是使用商品的人；consumable 作名词指会用完、需补充的物品。"
+        }
       ]
     },
     "16": {
@@ -2337,19 +2465,12 @@
         "flush a toilet",
         "a toilet is flushed"
       ],
-      "compare": [
-        "flush 在此是冲马桶；flush 也可指脸红。"
-      ],
+      "compare": [],
       "usage": "本文用被动 is flushed，记录每次冲水时间。",
       "ipa": "/flʌʃ/",
       "partOfSpeech": "verb",
       "oxfordExcerptProvided": true,
       "articleExample": "They also will track the water and electricity consumption of every household and will note the time whenever a household toilet is flushed.",
-      "dictionaryExample": {
-        "english": "when a toilet flushes or you flush it, water passes through it to clean it",
-        "chinese": "冲（抽水马桶）",
-        "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
-      },
       "otherMeanings": [
         {
           "english": "[intransitive, transitive] (of a person or their face) to become red, especially because you are embarrassed, angry or hot; to make somebody's face become red",
@@ -2410,7 +2531,9 @@
           "exampleChinese": "这周我很忙，我付钱。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "flush",
+      "family": []
     },
     "76": {
       "word": "horror",
@@ -2422,7 +2545,7 @@
         "feel horror at something"
       ],
       "compare": [
-        "horror 是强烈震惊或恐惧；concern 程度较轻。"
+        "horror 与 terror 都指强烈恐惧；horror 常伴震惊或厌恶，terror 更强调极度害怕。"
       ],
       "usage": "本文 with horror 描写美国人对监控措施的反应。",
       "ipa": "/ˈhɔːrər/",
@@ -2480,10 +2603,20 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "horrify v. 使惊恐；使厌恶",
-        "horrified adj. 惊恐的；厌恶的",
+        "horror n. 恐惧；震惊",
+        "horrified adj. 感到惊恐的",
         "horrifying adj. 令人惊恐的",
         "horrifically adv. 可怕地"
+      ],
+      "wordFamilyRoot": "horrify",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "horrified",
+            "horrifying"
+          ],
+          "distinction": "horrified 说人感到惊恐；horrifying 说事物让人惊恐。"
+        }
       ]
     },
     "77": {
@@ -2496,7 +2629,7 @@
         "the bargain with government"
       ],
       "compare": [
-        "bargain 在此是双方交换条件的协议；bargain 也可指便宜货。"
+        "bargain 在“交换条件”义上近于 deal／agreement；deal 口语且范围广，bargain 强调双方各有所得和付出。"
       ],
       "usage": "本文的“交易”是以自由换健康与安全。",
       "ipa": "/ˈbɑːrɡən/",
@@ -2524,9 +2657,8 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "bargained v. bargain 的过去式／过去分词",
-        "bargaining n./v. 讨价还价；谈判",
-        "bargainer n. 讨价还价者"
+        "bargaining n. 谈判；讨价还价",
+        "bargainer n. 善于讨价还价的人"
       ],
       "relatedExpressions": [
         {
@@ -2535,6 +2667,17 @@
           "chinese": "（英式英语）此外；而且；（北美英语）此外。",
           "sourceLabel": "Oxford Learner’s Dictionaries · idiom",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/bargain_1"
+        }
+      ],
+      "wordFamilyRoot": "bargain",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "bargain",
+            "bargaining",
+            "bargainer"
+          ],
+          "distinction": "bargain 可指谈成的交易或协议；bargaining 是讨价还价的过程；bargainer 是参与或擅长讨价还价的人。"
         }
       ]
     },
@@ -2548,7 +2691,7 @@
         "first-class service"
       ],
       "compare": [
-        "first-class 是一流的；first 是排序第一。"
+        "first-class 与 top-class 都表一流；first-class 还可指头等舱，top-class 主要评价质量。"
       ],
       "usage": "复合形容词置于名词前，本文修饰生活水平。",
       "ipa": "/ˌfɜːrst ˈklæs/",
@@ -2589,9 +2732,7 @@
         "roof tiles",
         "the color of tiles"
       ],
-      "compare": [
-        "tile 是屋顶或墙地面的单片材料；brick 是砌墙用的砖。"
-      ],
+      "compare": [],
       "usage": "本文指德国房屋屋顶的瓦片，不是地砖。",
       "ipa": "/taɪl/",
       "partOfSpeech": "noun",
@@ -2628,7 +2769,21 @@
           "chinese": "平铺显示，并列显示，瓦片式显示（视窗）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "tile",
+      "family": [
+        "tiling n. 铺瓦／贴砖工程",
+        "tiled adj. 铺了瓦／瓷砖的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "tile",
+            "tiling"
+          ],
+          "distinction": "tile 是一块屋瓦或瓷砖；tiling 指铺瓦／贴砖的工作，也可指铺成的一整片覆盖层。"
+        }
+      ]
     },
     "79": {
       "word": "property",
@@ -2684,7 +2839,7 @@
         "obtain permission"
       ],
       "compare": [
-        "obtain 强调取得；buy 是购买。"
+        "obtain 与 acquire 都表获得；obtain 重取得结果，acquire 可暗示逐渐积累。"
       ],
       "usage": "本文要上课考试后才能获得钓鱼许可证。",
       "ipa": "/əbˈteɪn/",
@@ -2706,10 +2861,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "obtained adj./v. 获得的；obtain 的过去式／过去分词",
-        "obtaining n./v. 获得；取得",
         "obtainable adj. 可获得的"
-      ]
+      ],
+      "wordFamilyRoot": "obtain"
     },
     "18": {
       "word": "bristle",
@@ -2721,7 +2875,7 @@
         "bristle with anger"
       ],
       "compare": [
-        "bristle at 表强烈反感；disagree with 只表不同意。"
+        "bristle at 与 take offence at 都可表对某事表示不快；bristle at 更突出立刻带刺地反应。"
       ],
       "usage": "本文的不及物动词接 at + 让人恼怒的规定。",
       "ipa": "/ˈbrɪsl/",
@@ -2749,7 +2903,11 @@
           "chinese": "（背部或颈部的毛因惊吓或发怒）竖起，耸起"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "bristle",
+      "family": [
+        "bristly adj. 刚毛般竖起的；粗硬的"
+      ]
     },
     "81": {
       "word": "restriction",
@@ -2761,7 +2919,7 @@
         "strict restrictions"
       ],
       "compare": [
-        "restriction 是限制规定；prohibition 是完全禁止。"
+        "restriction 与 limitation 都是限制；restriction 常指明确规定或约束，limitation 也可指能力或条件本身的局限。"
       ],
       "usage": "本文复数，指德国地方政府的多项规则。",
       "ipa": "/rɪˈstrɪkʃn/",
@@ -2791,11 +2949,20 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "restrict v. 限制；约束",
-        "restricted adj./v. 受限制的；restrict 的过去式／过去分词",
-        "restricting n./v. 限制；约束",
+        "restriction n. 限制；规定",
+        "restricted adj. 受限制的",
         "restrictive adj. 限制性的",
         "restrictively adv. 限制性地"
+      ],
+      "wordFamilyRoot": "restrict",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "restricted",
+            "restrictive"
+          ],
+          "distinction": "restricted 说某人或某物已经受限；restrictive 说规则或条件会限制别人。"
+        }
       ]
     },
     "82": {
@@ -2807,9 +2974,7 @@
         "at the opposite extreme",
         "go to extremes"
       ],
-      "compare": [
-        "extreme 是两端之一；intermediate 位于中间。"
-      ],
+      "compare": [],
       "usage": "本文名词结构 at the opposite extreme，引出洛杉矶。",
       "ipa": "/ɪkˈstriːm/",
       "partOfSpeech": "noun",
@@ -2854,10 +3019,8 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "extremely adv. 极端地；非常",
-        "extremity n. 极端；尽头",
-        "extremism n. 极端主义",
-        "extremist n./adj. 极端主义者；极端主义的"
+        "extremely adv. 极其；非常",
+        "extremity n. 极端；尽头"
       ],
       "relatedExpressions": [
         {
@@ -2866,6 +3029,16 @@
           "chinese": "（正式）极度；非常。",
           "sourceLabel": "Oxford Learner’s Dictionaries · idiom",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/extreme_2"
+        }
+      ],
+      "wordFamilyRoot": "extreme",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "extreme",
+            "extremity"
+          ],
+          "distinction": "extreme 作名词可指两端中的极端立场；extremity 常指身体末端、最远端或极端困境，具体搭配不同。"
         }
       ]
     },
@@ -2879,7 +3052,7 @@
         "highly prized possessions"
       ],
       "compare": [
-        "prize 作动词是珍视；price 作动词是定价。"
+        "be prized as 与 be valued as 都指被看重；prized 更强调珍视、视为宝贵，valued 可以只是认为有价值。"
       ],
       "usage": "本文被动 are prized as，as 后接对权利价值的评价。",
       "ipa": "/praɪzd/",
@@ -2889,13 +3062,9 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "sourceCaveat": "词典摘录含相关词条，但未直接列出本文的完整用法；语境义据原文整理。",
       "family": [
-        "prized adj./v. 珍视的；prize 的过去式／过去分词",
-        "prizing n./v. 珍视；prize 的 -ing 形式",
-        "prizewinner n. 获奖者；优胜者"
+        "prized adj. 被珍视的；宝贵的"
       ],
-      "wordFamilyNote": "The phrase is built around prize; the branches show common verb and noun forms.",
       "wordFamilyRoot": "prize"
     },
     "84": {
@@ -2931,7 +3100,8 @@
       "otherMeaningsStatus": "present",
       "family": [
         "sacredness n. 神圣性；不可侵犯性"
-      ]
+      ],
+      "wordFamilyRoot": "sacred"
     },
     "85": {
       "word": "free-for-all",
@@ -2942,9 +3112,7 @@
         "a free-for-all",
         "turn into a free-for-all"
       ],
-      "compare": [
-        "free-for-all 是缺少约束的混乱；freedom 是自由，不必混乱。"
-      ],
+      "compare": [],
       "usage": "本文作名词，概括监管不足带来的后果。",
       "ipa": "/ˈfriː fər ɔːl/",
       "partOfSpeech": "noun",
@@ -2975,7 +3143,7 @@
         "permissible under the rules"
       ],
       "compare": [
-        "permissible 指获准；possible 只指有可能。"
+        "permissible 与 allowed 都指获准；permissible 较正式，常用于规则或法律允许的范围。"
       ],
       "usage": "本文说洛杉矶几乎任何房屋风格都被允许。",
       "ipa": "/pərˈmɪsəbl/",
@@ -2988,7 +3156,22 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "permit",
+      "family": [
+        "permission n. 许可；准许",
+        "permissible adj. 规则允许的",
+        "permissive adj. 宽松的；放任的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "permissible",
+            "permissive"
+          ],
+          "distinction": "permissible 表规则允许某事；permissive 形容人或制度允许很多事、管得宽松。"
+        }
+      ]
     },
     "86": {
       "word": "nonexistent",
@@ -3000,7 +3183,7 @@
         "almost nonexistent"
       ],
       "compare": [
-        "nonexistent 是根本不存在；rare 是存在但少见。"
+        "nonexistent 与 absent 都可指“没有”；nonexistent 强调根本不存在，absent 也可只指某处暂时缺席。"
       ],
       "usage": "本文指当地建筑风格特色几乎没有。",
       "ipa": "/ˌnɑːn ɪɡˈzɪstənt/",
@@ -3015,10 +3198,19 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "exist v. 存在",
-        "existence n. 存在；生活",
-        "existent adj. 存在的",
+        "existence n. 存在",
+        "nonexistent adj. 不存在的",
         "nonexistence n. 不存在"
+      ],
+      "wordFamilyRoot": "exist",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "existence",
+            "nonexistence"
+          ],
+          "distinction": "existence 指某物确实存在或存在的状态；nonexistence 指其不存在，不能把后者理解为暂时没有看到。"
+        }
       ]
     },
     "87": {
@@ -3031,7 +3223,7 @@
         "vanish from sight"
       ],
       "compare": [
-        "vanish 是消失；decline 是减少但未必消失。"
+        "vanish 与 disappear 都表消失；vanish 更易暗示突然或无迹可寻。"
       ],
       "usage": "现在进行时突出树木覆盖正在减少。",
       "ipa": "/ˈvænɪʃ/",
@@ -3058,10 +3250,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "vanished v./adj. 消失的；vanish 的过去式／过去分词",
-        "vanishing n./adj./v. 消失；渐渐消失的；vanish 的 -ing 形式"
-      ]
+      "family": [],
+      "wordFamilyRoot": "vanish"
     },
     "20": {
       "word": "excavate",
@@ -3073,7 +3263,7 @@
         "excavated dirt"
       ],
       "compare": [
-        "excavate 是挖掘；dig 更日常，也不一定为工程目的。"
+        "excavate 与 dig 都表挖掘；excavate 多用于考古或工程，dig 更日常。"
       ],
       "usage": "本文过去分词 excavated 修饰 dirt，指挖出的土。",
       "ipa": "/ˈekskəveɪt/",
@@ -3093,7 +3283,21 @@
           "exampleChinese": "建筑工人挖地时发现了这具尸体。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "excavate",
+      "family": [
+        "excavation n. 挖掘；挖出的坑",
+        "excavator n. 挖掘机；挖掘者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "excavation",
+            "excavator"
+          ],
+          "distinction": "excavation 是挖掘工作或挖出的坑；excavator 是进行挖掘的人或机器。"
+        }
+      ]
     },
     "21": {
       "word": "spray",
@@ -3105,7 +3309,7 @@
         "sprayed chemicals"
       ],
       "compare": [
-        "spray 是以细小液滴喷洒；pour 是直接倾倒。"
+        "spray 与 spritz 都可表喷洒液体；spritz 通常指少量、轻轻喷洒。"
       ],
       "usage": "本文 sprayed 作过去分词修饰 pesticides。",
       "ipa": "/spreɪ/",
@@ -3167,7 +3371,11 @@
           "chinese": "撒尿（以示领地占有）"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "spray",
+      "family": [
+        "sprayer n. 喷雾器；喷洒者"
+      ]
     },
     "22": {
       "word": "pesticide",
@@ -3178,9 +3386,7 @@
         "spray pesticides",
         "reduce pesticide use"
       ],
-      "compare": [
-        "pesticide 是防治害虫的化学品；insecticide 专指杀虫剂。"
-      ],
+      "compare": [],
       "usage": "本文用复数，与洒向邻地的物质并列。",
       "ipa": "/ˈpestɪsaɪd/",
       "partOfSpeech": "noun",
@@ -3204,7 +3410,7 @@
         "end up doing something"
       ],
       "compare": [
-        "end up 是最终到达／落到；aim to 是原本打算。"
+        "end up 与 eventually reach 都强调最终结果；end up 常暗示经过意外过程才落到这个结果。"
       ],
       "usage": "本文后接地点 on neighbors' property，强调意外后果。",
       "ipa": "",
@@ -3218,14 +3424,8 @@
       },
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [
-        "ended v. end 的过去式／过去分词",
-        "ending n./v. 结尾；结束；end 的 -ing 形式",
-        "endless adj. 无尽的",
-        "endlessly adv. 无休止地"
-      ],
-      "wordFamilyNote": "The phrase is built around end; the branches show common adjective and verb forms.",
-      "wordFamilyRoot": "end"
+      "family": [],
+      "wordFamilyRoot": "end up"
     },
     "89": {
       "word": "bay",
@@ -3237,7 +3437,7 @@
         "a sheltered bay"
       ],
       "compare": [
-        "bay 是海湾；strait 是两片陆地间狭窄海峡。"
+        "bay 与 inlet 都指海水向陆地伸入的水域；inlet 通常较窄，bay 往往较宽。"
       ],
       "usage": "本文指洛杉矶近海的海湾水域。",
       "ipa": "/beɪ/",
@@ -3311,7 +3511,7 @@
         "follow a custom"
       ],
       "compare": [
-        "custom 是习俗；law 是正式法律。"
+        "custom 与 tradition 都指延续下来的做法；custom 偏日常习俗，tradition 可强调代际传承和文化意义。"
       ],
       "usage": "本文用复数 customs 解释各地对公共与私人利益的不同习惯。",
       "ipa": "/ˈkʌstəm/",
@@ -3339,11 +3539,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "customary adj. 习惯上的；惯常的",
-        "customarily adv. 按惯例；通常",
-        "customize / customise v. 定制",
-        "customization / customisation n. 定制"
-      ]
+        "customary adj. 惯常的；习俗上的",
+        "customarily adv. 按惯例地"
+      ],
+      "wordFamilyRoot": "custom"
     },
     "23": {
       "word": "intermediate",
@@ -3355,7 +3554,7 @@
         "intermediate in Germany"
       ],
       "compare": [
-        "intermediate 位于两端之间；average 是算术或常态上的平均。"
+        "intermediate 与 middle 都可表位于两端之间；intermediate 强调处在明确阶段或层级之间。"
       ],
       "usage": "本文比较三地人口密度，德国居中。",
       "ipa": "/ˌɪntərˈmiːdiət/",
@@ -3391,7 +3590,7 @@
         "the place whence they arrived"
       ],
       "compare": [
-        "whence 是旧式“从哪里”；where 是“在哪里／到哪里”更一般。"
+        "whence 与 from where 都问或说明来源地点；whence 是旧式书面词，现代多用 from where。"
       ],
       "usage": "本文插入语追溯祖先来源，可译“其祖先来自中国”。",
       "ipa": "/wens/",
@@ -3415,9 +3614,7 @@
         "five millennia",
         "the first millennium"
       ],
-      "compare": [
-        "millennium 是一千年；century 是一百年。"
-      ],
+      "compare": [],
       "usage": "复数 millennia；本文将中国、德国、美国的城市史作时间比较。",
       "ipa": "/mɪˈleniəm/",
       "partOfSpeech": "noun",
@@ -3436,7 +3633,11 @@
           "exampleChinese": "你们是如何欢庆千禧年的？"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "millennium",
+      "family": [
+        "millennial adj. 千年的；千禧一代的"
+      ]
     },
     "26": {
       "word": "communal",
@@ -3448,7 +3649,7 @@
         "communal land"
       ],
       "compare": [
-        "communal 强调共同拥有或活动；individual 强调个人。"
+        "communal 与 shared 都表多人共同使用或拥有；communal 更强调属于一个社区或群体的集体生活。"
       ],
       "usage": "本文与 individual farms 构成对照。",
       "ipa": "/kəˈmjuːnl/",
@@ -3468,7 +3669,12 @@
           "exampleChinese": "不同教派之间的暴力冲突"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "community",
+      "family": [
+        "communal adj. 公共的；社区共有的",
+        "communally adv. 集体地；共同地"
+      ]
     },
     "91": {
       "word": "frontier",
@@ -3480,7 +3686,7 @@
         "the American frontier"
       ],
       "compare": [
-        "frontier 是边疆开拓地带；border 只是边界线或边境。"
+        "frontier 与 borderland 都指边疆地带；frontier 常带开拓、定居向外推进的历史意味，borderland 只强调靠边境。"
       ],
       "usage": "本文与美国分散居住史相连。",
       "ipa": "/frʌnˈtɪr/",
@@ -3508,7 +3714,20 @@
           "exampleChinese": "开拓科学新领域"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "frontier",
+      "family": [
+        "frontiersman n. 边疆开拓者"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "frontier",
+            "frontiersman"
+          ],
+          "distinction": "frontier 是已定居地区边缘的边疆地带；frontiersman 是历史上在这种边地生活或开拓的男性。"
+        }
+      ]
     },
     "92": {
       "word": "settlement",
@@ -3520,7 +3739,7 @@
         "establish a settlement"
       ],
       "compare": [
-        "settlement 是定居点；agreement 才是“协议”义。"
+        "settlement 与 village 都可指有人居住的聚落；settlement 强调定居的结果，village 指小村庄。"
       ],
       "usage": "本文可数复数，指开拓边疆形成的居民聚落。",
       "ipa": "/ˈsetlmənt/",
@@ -3566,10 +3785,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "settle v. 定居；解决",
-        "settled adj./v. 稳定的；settle 的过去式／过去分词",
-        "settling n./v. 定居；解决",
-        "settler n. 定居者"
+        "settlement n. 定居点；定居",
+        "settler n. 定居者",
+        "settled adj. 定居的；稳定的"
+      ],
+      "wordFamilyRoot": "settle",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "settlement",
+            "settler"
+          ],
+          "distinction": "settlement 是定居形成的地方，如 a frontier settlement；settler 是迁去并在当地建立生活的人。"
+        }
       ]
     },
     "93": {
@@ -3582,7 +3810,7 @@
         "self-sufficient in food"
       ],
       "compare": [
-        "self-sufficient 是自给自足；independent 更宽泛。"
+        "self-sufficient 与 self-reliant 都表主要靠自己；前者强调资源自给，后者强调个人能力。"
       ],
       "usage": "本文形容家庭能较少依赖外部社区。",
       "ipa": "/ˌself səˈfɪʃnt/",
@@ -3597,11 +3825,9 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "sufficiency n. 充足；自给",
-        "sufficient adj. 足够的；充分的",
-        "sufficiently adv. 足够地；充分地",
-        "self-sufficiency n. 自给自足"
-      ]
+        "self-sufficiency n. 自给自足；自立"
+      ],
+      "wordFamilyRoot": "self-sufficient"
     },
     "94": {
       "word": "legacy",
@@ -3613,7 +3839,7 @@
         "leave a legacy"
       ],
       "compare": [
-        "legacy 在此是历史遗留的影响；也可指遗赠财产。"
+        "legacy 与 heritage 都可指留给后人的文化影响；legacy 可好可坏，heritage 通常指值得继承的共同文化。"
       ],
       "usage": "本文复数，指生活方式造成的文化传承。",
       "ipa": "/ˈleɡəsi/",
@@ -3672,12 +3898,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "lived v. live 的过去式／过去分词",
-        "living adj./v. 活着的；live 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase is built around live, meaning ‘continue to exist’ or ‘spend one’s life’; only forms that fit this sense are included.",
-      "wordFamilyRoot": "live"
+      "family": [],
+      "wordFamilyRoot": "live on"
     },
     "96": {
       "word": "arrangement",
@@ -3689,7 +3911,7 @@
         "make arrangements"
       ],
       "compare": [
-        "arrangement 在此是生活组织方式；arrangement 也可指事前计划。"
+        "living arrangement 与 housing arrangement 都可指居住安排；前者还包括与谁同住，后者更重住所条件。"
       ],
       "usage": "本文复数 living arrangements 指村落居住关系。",
       "ipa": "/əˈreɪndʒmənt/",
@@ -3729,11 +3951,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "arrange v. 安排；布置",
-        "arranged adj./v. 安排好的；arrange 的过去式／过去分词",
-        "arranging n./v. 安排；布置",
-        "arranger n. 安排者；编曲者"
-      ]
+        "arrangement n. 安排；布置",
+        "arranged adj. 安排好的"
+      ],
+      "wordFamilyRoot": "arrange"
     },
     "97": {
       "word": "practice",
@@ -3745,7 +3966,7 @@
         "practice a custom"
       ],
       "compare": [
-        "practice 作动词是践行习俗；practice 作名词可指练习。"
+        "practice a custom 与 observe a custom 都指遵行习俗；observe 更强调遵守既定传统，practice 更强调实际实行。"
       ],
       "usage": "本文过去分词 practiced 修饰 living arrangements。",
       "ipa": "/ˈpræktɪs/",
@@ -3822,7 +4043,7 @@
         "closely resemble something"
       ],
       "compare": [
-        "resemble 是“像”；remind somebody of 是“使某人想起”。"
+        "resemble 与 look like 都表示相似；resemble 较正式，直接接宾语；look like 后可接名词或代词。"
       ],
       "usage": "及物动词，直接接宾语，不加 like；不用于被动语态或进行时。",
       "ipa": "/rɪˈzembl/",
@@ -3835,7 +4056,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "resemble",
+      "family": [
+        "resemblance n. 相似；相似之处"
+      ]
     },
     "28": {
       "word": "live out one's life",
@@ -3847,7 +4072,7 @@
         "live out one's days"
       ],
       "compare": [
-        "live out one's life 是度过一生；live out 可指住在工作地外，义不同。"
+        "live out one’s life 与 spend one’s life 都表度过一生；live out 常用于在某处度过余生。"
       ],
       "usage": "本文整块指村民一生留在出生地。",
       "ipa": "",
@@ -3858,11 +4083,11 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "lived v. live 的过去式／过去分词",
-        "living adj./v. 活着的；live 的 -ing 形式"
+        "live v. 生活；度过一生",
+        "lifelong adj. 终身的",
+        "lifetime n. 一生；寿命"
       ],
-      "wordFamilyNote": "The phrase is built around live, meaning ‘continue to exist’ or ‘spend one’s life’; only forms that fit this sense are included.",
-      "wordFamilyRoot": "live"
+      "wordFamilyRoot": "life"
     },
     "98": {
       "word": "constantly",
@@ -3874,7 +4099,7 @@
         "constantly changing"
       ],
       "compare": [
-        "constantly 是持续／不断；occasionally 是偶尔。"
+        "constantly 与 continually 都指持续或反复发生；constantly 可突出频繁到近乎一直，continually 可容许中间有间断。"
       ],
       "usage": "本文修饰 surrounded，强调村民长期处于熟人关系中。",
       "ipa": "/ˈkɑːnstəntli/",
@@ -3889,9 +4114,10 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "constant adj./n. 不断的；常量",
+        "constantly adv. 不断地；经常地",
         "constancy n. 持续；恒定"
-      ]
+      ],
+      "wordFamilyRoot": "constant"
     },
     "29": {
       "word": "lifelong",
@@ -3916,7 +4142,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "life",
+      "family": [
+        "lifelong adj. 终身的",
+        "lifetime n. 一生；寿命"
+      ]
     },
     "99": {
       "word": "heartwarmingly",
@@ -3928,7 +4159,7 @@
         "a heartwarming story"
       ],
       "compare": [
-        "heartwarmingly 修饰评价；heartwarming 直接修饰名词。"
+        "heartwarmingly 与 touchingly 都表令人感动；前者强调温暖、欣慰，后者可含伤感。"
       ],
       "usage": "本文位于 wonderful 前，表达初看村落生活时的温暖感受。",
       "ipa": "",
@@ -3938,7 +4169,10 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
-      "sourceCaveat": "你提供的词典摘录未单列这个词形或完整短语；本文语境义据原句整理。"
+      "wordFamilyRoot": "heartwarming",
+      "family": [
+        "heartwarmingly adv. 令人暖心地"
+      ]
     },
     "100": {
       "word": "recent",
@@ -3950,7 +4184,7 @@
         "recent events"
       ],
       "compare": [
-        "recent 是新近的；current 是当前正在发生的。"
+        "recent 与 latest 都涉及时间近；latest 指一系列中最新的一个，recent 只说明发生不久。"
       ],
       "usage": "本文与 lifelong 构成对照，强调城市友谊较新。",
       "ipa": "/ˈriːsnt/",
@@ -3963,7 +4197,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "recent",
+      "family": [
+        "recently adv. 最近；不久前",
+        "recency n. 新近；最近发生"
+      ]
     },
     "101": {
       "word": "isolation",
@@ -3974,9 +4213,7 @@
         "social isolation",
         "feelings of isolation"
       ],
-      "compare": [
-        "isolation 是孤立状态；anonymity 是身份不被认出，可好可坏。"
-      ],
+      "compare": [],
       "usage": "本文把隔离作为城市匿名可能带来的负面结果。",
       "ipa": "/ˌaɪsəˈleɪʃn/",
       "partOfSpeech": "noun",
@@ -3997,10 +4234,19 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "isolate v./n. 隔离；孤立者",
-        "isolated adj./v. 孤立的；isolate 的过去式／过去分词",
-        "isolating adj./n./v. 隔离的；隔离；isolate 的 -ing 形式",
-        "isolator n. 隔离装置；隔离者"
+        "isolation n. 隔离；孤立",
+        "isolated adj. 处于孤立状态的",
+        "isolating adj. 使人感到孤立的"
+      ],
+      "wordFamilyRoot": "isolate",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "isolated",
+            "isolating"
+          ],
+          "distinction": "isolated 描述已经孤立的状态；isolating 描述使人感到孤立的环境或经历。"
+        }
       ]
     },
     "30": {
@@ -4013,7 +4259,7 @@
         "rapid proliferation"
       ],
       "compare": [
-        "proliferation 是迅速增多；increase 是一般增长。"
+        "proliferation 与 rapid growth 都是迅速增多；proliferation 强调数量不断扩散，常用于细胞、武器或问题。"
       ],
       "usage": "常接 of + 增长的事物；本文指城市犯罪扩散。",
       "ipa": "/prəˌlɪfəˈreɪʃn/",
@@ -4026,7 +4272,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "proliferate",
+      "family": [
+        "proliferation n. 激增；扩散",
+        "proliferating adj. 迅速增多的"
+      ]
     },
     "102": {
       "word": "crime",
@@ -4038,7 +4289,7 @@
         "crime rates"
       ],
       "compare": [
-        "crime 不可数时指犯罪活动；a crime 是一桩具体罪行。"
+        "crime 作不可数名词指犯罪活动；criminality 也指犯罪行为或倾向，但更正式、抽象。"
       ],
       "usage": "本文与 proliferation 搭配指城市犯罪增多。",
       "ipa": "/kraɪm/",
@@ -4067,8 +4318,18 @@
       "otherMeaningsStatus": "present",
       "family": [
         "criminal adj./n. 犯罪的；罪犯",
-        "criminality n. 犯罪；犯罪性",
-        "criminally adv. 犯罪地；极其"
+        "criminality n. 犯罪行为；犯罪性"
+      ],
+      "wordFamilyRoot": "crime",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "crime",
+            "criminal",
+            "criminality"
+          ],
+          "distinction": "crime 指违法行为或犯罪活动；criminal 作名词指犯罪者；criminality 指犯罪性或某地犯罪行为的总体程度。"
+        }
       ]
     },
     "31": {
@@ -4081,7 +4342,7 @@
         "urban dwellers"
       ],
       "compare": [
-        "dweller 强调居住者；citizen 强调公民资格。"
+        "dweller 与 resident 都指居住者；dweller 常用于复合词，resident 更通用。"
       ],
       "usage": "通常与地点构成复合表达，如 city dweller。",
       "ipa": "/ˈdwelər/",
@@ -4094,7 +4355,21 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "dwell",
+      "family": [
+        "dweller n. 居住者",
+        "dwelling n. 住处；住宅"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "dweller",
+            "dwelling"
+          ],
+          "distinction": "dweller 是住在某处的人，如 city dweller；dwelling 是供人居住的房屋或住所。"
+        }
+      ]
     },
     "32": {
       "word": "romanticize",
@@ -4106,7 +4381,7 @@
         "romanticize the past"
       ],
       "compare": [
-        "romanticize 是把现实美化；appreciate 是认识其价值，不必回避缺点。"
+        "romanticize 与 idealize 都指把事物描绘得过于美好；romanticize 常添上感伤或诗意色彩，idealize 更直接忽略缺点。"
       ],
       "usage": "本文提醒读者别把传统村居描绘得过于理想。",
       "ipa": "/rəʊˈmæntɪsaɪz/",
@@ -4119,7 +4394,13 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "romantic",
+      "family": [
+        "romanticize v. 浪漫化；美化",
+        "romanticization n. 浪漫化",
+        "romantically adv. 浪漫地"
+      ]
     },
     "33": {
       "word": "suffocating",
@@ -4131,7 +4412,7 @@
         "a suffocating atmosphere"
       ],
       "compare": [
-        "suffocating 原义令人窒息；本文是社会压力让人喘不过气。"
+        "suffocating 与 stifling 都可形容令人喘不过气的环境或压力；suffocating 更有窒息感。"
       ],
       "usage": "副词 socially 将比喻限定为社交环境。",
       "ipa": "/ˈsʌfəkeɪtɪŋ/",
@@ -4144,7 +4425,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "suffocate",
+      "family": [
+        "suffocating adj. 令人窒息的；压抑的",
+        "suffocation n. 窒息"
+      ]
     },
     "103": {
       "word": "potential",
@@ -4156,7 +4442,7 @@
         "limit someone's potential"
       ],
       "compare": [
-        "potential 是潜力；ability 是已有能力。"
+        "potential 与 promise 都可指未来取得成就的潜力；promise 更常评价人或计划展现出的希望。"
       ],
       "usage": "本文不可数名词，强调个人可能达到的发展。",
       "ipa": "/pəˈtenʃl/",
@@ -4188,9 +4474,9 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "potentially adv. 潜在地；可能地",
-        "potentiality n. 潜力；可能性"
-      ]
+        "potentially adv. 潜在地；可能地"
+      ],
+      "wordFamilyRoot": "potential"
     },
     "104": {
       "word": "incessantly",
@@ -4215,7 +4501,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "incessant",
+      "family": [
+        "incessantly adv. 不停地；持续地"
+      ]
     },
     "34": {
       "word": "sidewalk",
@@ -4252,7 +4542,7 @@
         "be importuned by relatives"
       ],
       "compare": [
-        "importune 是反复纠缠要求；ask 仅指提出请求。"
+        "importune 与 badger 都指反复纠缠别人提出要求；前者正式，后者口语。"
       ],
       "usage": "正式及物动词；本文为被动 without being importuned。",
       "ipa": "/ˌɪmpɔːrˈtuːn/",
@@ -4273,7 +4563,7 @@
         "belong to a clan"
       ],
       "compare": [
-        "clan 是同族家族群体；family 可指较小核心家庭。"
+        "clan 与 extended family 都可指有亲属关系的群体；clan 可包括多支家族，并强调共同祖先。"
       ],
       "usage": "本文反映村社亲族关系，不特指苏格兰。",
       "ipa": "/klæn/",
@@ -4305,7 +4595,7 @@
         "bewail a loss"
       ],
       "compare": [
-        "bewail 是悲叹诉苦；complain 可较轻，也可针对服务质量。"
+        "bewail 与 lament 都表为不幸之事悲叹；bewail 更古旧，lament 更常用。"
       ],
       "usage": "及物动词，本文宾语是 troubles。",
       "ipa": "/bɪˈweɪl/",
@@ -4326,7 +4616,7 @@
         "opaque glass"
       ],
       "compare": [
-        "opaque 是不透视；transparent 是透明。"
+        "opaque 与 non-transparent 都表示看不透；opaque 是更自然的形容词，也可比喻信息难懂。本文说袋子不透视。"
       ],
       "usage": "本文修饰 bags，强调他人无法看到袋内物品。",
       "ipa": "/əʊˈpeɪk/",
@@ -4350,7 +4640,11 @@
           "exampleChinese": "他谈话中使用的行话对我是一团迷雾。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "opaque",
+      "family": [
+        "opacity n. 不透明；晦涩"
+      ]
     },
     "38": {
       "word": "conceal",
@@ -4362,7 +4656,7 @@
         "conceal the fact"
       ],
       "compare": [
-        "conceal 是有意藏起；cover 可只是遮住表面。"
+        "conceal 与 hide 都表藏起；conceal 更正式，也常暗示有意不让他人知道。"
       ],
       "usage": "本文直接接 things，from 引出被隐瞒的人。",
       "ipa": "/kənˈsiːl/",
@@ -4375,7 +4669,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "conceal",
+      "family": [
+        "concealment n. 隐藏；隐瞒",
+        "concealed adj. 隐藏的"
+      ]
     },
     "39": {
       "word": "thereby",
@@ -4387,7 +4686,7 @@
         "thereby reducing a risk"
       ],
       "compare": [
-        "thereby 表“通过前述方式从而”；therefore 只明确结果。"
+        "thereby 与 by doing so 都表“通过这样做”；thereby 更精练、正式。"
       ],
       "usage": "副词连接前一动作与其带来的结果，本文指口袋带来私密性。",
       "ipa": "/ˌðerˈbaɪ/",
@@ -4412,7 +4711,7 @@
         "afford a luxury"
       ],
       "compare": [
-        "luxury 可指具体享受；affluence 是富裕状态。"
+        "luxury 与 comfort 都可指让生活更愉快的享受；luxury 常强调并非必需、甚至有些难得，comfort 更重舒适感。"
       ],
       "usage": "本文复数 small luxuries 指不必是昂贵商品的小享受。",
       "ipa": "/ˈlʌkʃəri/",
@@ -4448,7 +4747,8 @@
       "family": [
         "luxurious adj. 奢华的；舒适的",
         "luxuriously adv. 奢华地；舒适地"
-      ]
+      ],
+      "wordFamilyRoot": "luxury"
     },
     "40": {
       "word": "drawback",
@@ -4460,7 +4760,7 @@
         "a major drawback"
       ],
       "compare": [
-        "drawback 是缺点；trade-off 是两项价值之间的取舍。"
+        "drawback 与 disadvantage 都是不利之处；drawback 常指某方案具体的缺点，disadvantage 也可指竞争中的不利地位。"
       ],
       "usage": "可数名词；本文与 benefits 构成对照。",
       "ipa": "/ˈdrɔːbæk/",
@@ -4485,7 +4785,7 @@
         "come down to one issue"
       ],
       "compare": [
-        "come down to 表“归结为”；lead to 表导致某结果。"
+        "come down to 与 boil down to 都表归结为根本因素；boil down to 更口语。"
       ],
       "usage": "本文整块作结论，to 是介词，后接名词。",
       "ipa": "",
@@ -4504,12 +4804,8 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": [
-        "came v. come 的过去式",
-        "coming n./v. 到来；come 的 -ing 形式"
-      ],
-      "wordFamilyNote": "The phrase is built around come; the branches show its common verb forms.",
-      "wordFamilyRoot": "come"
+      "family": [],
+      "wordFamilyRoot": "come down to"
     },
     "41": {
       "word": "compromise",
@@ -4521,7 +4817,7 @@
         "come down to compromises"
       ],
       "compare": [
-        "compromise 指妥协方案；surrender 是单方面完全让步。"
+        "compromise 与 settlement 都可指争议后的解决方案；compromise 强调各方都作出让步。"
       ],
       "usage": "全文结论是多种利益取舍，没有一种城市方案完美。",
       "ipa": "",
@@ -4542,7 +4838,7 @@
         "increasingly important"
       ],
       "compare": [
-        "increasingly 表程度越来越高；more 则需结合形容词构成比较。"
+        "increasingly 与 more and more 都表示程度上升；前者较书面，后者更口语，后面通常接形容词或副词。"
       ],
       "usage": "副词修饰 urban，描述世界城市化趋势。",
       "ipa": "/ɪnˈkriːsɪŋli/",
@@ -4555,7 +4851,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "increase",
+      "family": [
+        "increasing adj. 越来越多的",
+        "increasingly adv. 日益；越来越"
+      ]
     },
     "109": {
       "word": "adopt",
@@ -4567,7 +4868,7 @@
         "adopt a policy"
       ],
       "compare": [
-        "adopt 是采用做法；adapt 是适应／改编，形近义异。"
+        "adopt 与 take up 都可指开始采用做法；adopt 较正式，常接政策、方法，take up 也可指开始一项爱好。"
       ],
       "usage": "本文宾语为 Singapore's solutions，不是收养孩子。",
       "ipa": "/əˈdɑːpt/",
@@ -4613,12 +4914,10 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "adopted adj./v. 收养的；adopt 的过去式／过去分词",
-        "adopting n./v. 采纳；收养",
-        "adoption n. 收养；采纳",
-        "adoptive adj. 收养的；采用的",
-        "adoptable adj. 可收养的；可采用的"
-      ]
+        "adoption n. 采用；收养",
+        "adopted adj. 被采用的；收养的"
+      ],
+      "wordFamilyRoot": "adopt"
     },
     "42": {
       "word": "meter",
@@ -4630,7 +4929,7 @@
         "read a meter"
       ],
       "compare": [
-        "meter 记录水电等用量；sensor 可探测变化而不必计量。"
+        "meter 与 gauge 都是测量仪器；meter 常累计水电用量，gauge 更常显示当前压力或液位。"
       ],
       "usage": "本文假设政府用表计记录冲水次数。",
       "ipa": "/ˈmiːtər/",
@@ -4668,7 +4967,21 @@
           "chinese": "用计量表计量；用仪表测量"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "wordFamilyRoot": "meter",
+      "family": [
+        "metering n. 计量；仪表测量",
+        "metered adj. 按计量收费的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "meter",
+            "metering"
+          ],
+          "distinction": "meter 是记录水电等用量的仪表；metering 是用仪表计量的过程，如 smart metering。"
+        }
+      ]
     },
     "43": {
       "word": "affluence",
@@ -4680,7 +4993,7 @@
         "health and affluence"
       ],
       "compare": [
-        "affluence 是富裕生活状态；luxury 可指具体奢侈享受。"
+        "affluence 与 prosperity 都指富足；affluence 着眼个人或社会的财富与舒适生活，prosperity 更可指持续繁荣。"
       ],
       "usage": "不可数名词；本文与 safety、health 并列为生活条件。",
       "ipa": "/ˈæfluəns/",
@@ -4693,7 +5006,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "affluent",
+      "family": [
+        "affluence n. 富裕；富足"
+      ]
     },
     "110": {
       "word": "surroundings",
@@ -4718,7 +5035,12 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "surround",
+      "family": [
+        "surrounding adj. 周围的；附近的",
+        "surroundings n. 周围环境"
+      ]
     }
   }
 }

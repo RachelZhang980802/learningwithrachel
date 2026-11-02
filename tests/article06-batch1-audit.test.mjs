@@ -44,7 +44,10 @@ test('article 06 all PDF entries have reachable cards and audible offline record
     const card = cards[row];
     assert.equal(card.word, entry.word);
     assert.ok(card.english && card.chinese && card.usage);
-    assert.ok(card.collocations.length >= 2 && card.compare.length >= 1);
+    assert.ok(Array.isArray(card.collocations) && card.collocations.length >= 1);
+    assert.ok(Array.isArray(card.compare));
+    assert.ok(card.compare.every(value => typeof value === 'string' && value.trim()));
+    assert.equal(Object.hasOwn(card, 'sourceCaveat'), false);
     assert.ok(entry.occurrences.some(id => {
       const sentence = lesson.sentences.find(s => s.id === id);
       return matches(lesson, id, sentence.text).some(match => match.sourceRow === entry.sourceRow);
@@ -55,7 +58,8 @@ test('article 06 all PDF entries have reachable cards and audible offline record
     assert.equal(fs.readFileSync(wav).toString('ascii', 0, 4), 'RIFF');
     assert.ok(fs.statSync(wav).size > 5000);
   }
-  for (const row of ['13', '78']) assert.match(cards[row].sourceCaveat, /未列|未收/);
+  assert.match(cards['13'].english, /feared|expected/);
+  assert.match(cards['78'].english, /resist|agree/);
 });
 
 

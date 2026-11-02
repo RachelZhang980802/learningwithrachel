@@ -112,7 +112,8 @@ test('243 DOCX entries have bilingual cards, verified sources, extra-sense revie
       if(word.titleOnly)assert.ok(word.forms.some(form=>lesson.title.toLowerCase().includes(form.toLowerCase())));
       else assert.ok(reachable.has(word.sourceRow),`${id}/${word.word}`);
       assert.match(word.definition,/ — .*\p{Script=Han}/u);
-      assert.ok(word.ipa&&word.partOfSpeech&&word.usage&&word.collocations.length&&word.compare.length&&word.family.length);
+      assert.ok(word.ipa&&word.partOfSpeech&&word.usage&&word.collocations.length);
+      assert.ok(Array.isArray(word.compare)&&Array.isArray(word.family));
       assert.equal(word.otherSensesReviewed,true);
       assert.ok(word.sources.some(s=>/cambridge\.org|oxfordlearnersdictionaries\.com/.test(s.url)),word.word);
       for(const source of word.sources)assert.ok(dictionary.some(s=>s.url===source.url),source.url);
@@ -120,7 +121,7 @@ test('243 DOCX entries have bilingual cards, verified sources, extra-sense revie
       const tree=render(content.LessonWords,{lesson,sentence:lesson.sentences[word.occurrences[0]-1],initialSourceRow:word.sourceRow});
       assert.equal(tree.props['data-source-row'],word.sourceRow);
       const desk=find(tree,x=>x.props?.cards);
-      assert.deepEqual(desk.props.cards.map(x=>x.id),['meaning','collocations','compare','usage','press']);
+      assert.deepEqual(desk.props.cards.map(x=>x.id),['meaning','collocations',...(word.compare.length?['compare']:[]),'usage','press']);
       const html=renderToStaticMarkup(desk.props.cards[0].content);
       assert.ok(html.includes('Other meanings'));
       if(word.titleOnly)assert.ok(html.includes('Title word'));

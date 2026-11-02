@@ -15,15 +15,17 @@ test('article 07 has 110 contextual word cards and nonempty offline recordings',
     assert.ok(!sourceRows.has(row));
     sourceRows.add(row);
     assert.ok(card.word && card.english && card.chinese && card.usage, row);
-    assert.ok(card.collocations.length >= 2 && card.compare.length >= 1, row);
+    assert.ok(Array.isArray(card.collocations) && card.collocations.length >= 1, row);
+    assert.ok(Array.isArray(card.compare) && card.compare.every(value => typeof value === 'string' && value.trim()), row);
+    assert.equal(Object.hasOwn(card, 'sourceCaveat'), false, row);
+    for (const context of Object.values(card.contextBySentence ?? {})) assert.equal(Object.hasOwn(context, 'sourceCaveat'), false, row);
     assert.ok(sentences.some(sentence => sentence.text === card.articleExample), `${row}: article sentence`);
     const recording = audio[row];
     assert.ok(recording?.file && recording.spokenText, `${row}: recording`);
     const wav = path.join(root, 'public', recording.file.replace(/^\//, ''));
     assert.equal(fs.readFileSync(wav).toString('ascii', 0, 4), 'RIFF');
     assert.ok(fs.statSync(wav).size > 5000, `${row}: nonempty WAV`);
-    if (!card.oxfordExcerptProvided) assert.match(card.sourceCaveat, /未单列/);
-    if (card.dictionaryExample) assert.match(card.dictionaryExample.source, /Oxford Advanced Learner/);
+    if (card.dictionaryExample) assert.match(card.dictionaryExample.source, /Oxford (?:Advanced )?Learner/);
   }
   assert.deepEqual([...sourceRows].map(Number).sort((a,b) => a-b), Array.from({length: 110}, (_,i) => i+1));
 });

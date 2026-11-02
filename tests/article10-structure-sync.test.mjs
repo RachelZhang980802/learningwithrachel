@@ -24,8 +24,9 @@ test('26 sentences retain source, notes, audio, translation and all vocabulary d
   assert.equal(lesson.sentences.length,26);assert.deepEqual(lesson.vocabulary,raw['10'].vocabulary);
   for(const [i,s]of lesson.sentences.entries()){
     const original=raw['10'].sentences[i];
-    for(const field of ['id','text','paragraph','audioSrc','translation','classification','paraphrase','reuse','pdfNotes'])assert.deepEqual(s[field],original[field],`${s.id}: ${field}`);
+    for(const field of ['id','text','paragraph','audioSrc','translation','classification','paraphrase','reuse','pdfNotes'])assert.deepEqual(field==='classification'?Object.fromEntries(Object.entries(s[field]).filter(([key])=>key!=='studyLevel')):s[field],original[field],`${s.id}: ${field}`);
     assert.ok(s.note.includes(original.note));
+    assert.ok(["simple","long"].includes(s.classification.studyLevel));
     assert.deepEqual(vocabularyMatches(lesson,s.id,s.text),vocabularyMatches(raw['10'],s.id,s.text));
   }
 });

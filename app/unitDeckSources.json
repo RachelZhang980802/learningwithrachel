@@ -4,7 +4,7 @@
     "title": "Life and Value",
     "source": "Unit 1-Narrative Writing-Life and Value.pptx",
     "sourceKind": "pptx",
-    "width": 720.0,
+    "width": 720,
     "height": 405.01416015625,
     "pageCount": 22,
     "dataUrl": "/narrative-course/decks/unit-1.json",
@@ -32,14 +32,14 @@
       155,
       156
     ],
-    "version": "86dae1df1f93-final8"
+    "version": "09cba35e4e86-sources"
   },
   "2": {
     "unit": 2,
     "title": "Empathy and Justice",
     "source": "Unit 2-Narrative Writing-Empathy and Justice.pptx",
     "sourceKind": "pptx",
-    "width": 720.0,
+    "width": 720,
     "height": 405.01416015625,
     "pageCount": 42,
     "dataUrl": "/narrative-course/decks/unit-2.json",
@@ -87,15 +87,15 @@
       117,
       118
     ],
-    "version": "b72c45e23974-final8"
+    "version": "a5703c85cdba-sources"
   },
   "3": {
     "unit": 3,
     "title": "Growth and Maturity",
     "source": "Unit 3-Narrative Writing-Growth and Maturity.pptx",
     "sourceKind": "pptx",
-    "width": 1440.0,
-    "height": 810.0,
+    "width": 1440,
+    "height": 810,
     "pageCount": 35,
     "dataUrl": "/narrative-course/decks/unit-3.json",
     "sourcePages": [
@@ -135,15 +135,15 @@
       36,
       37
     ],
-    "version": "7becf2469ea8-final8"
+    "version": "8946a9ccc51d-sources"
   },
   "4": {
     "unit": 4,
     "title": "Truth and Interpretation",
     "source": "Unit 4-Narrative Writing-Truth and Interpretation.pdf",
     "sourceKind": "pdf",
-    "width": 720.0,
-    "height": 405.0,
+    "width": 720,
+    "height": 405,
     "pageCount": 63,
     "dataUrl": "/narrative-course/decks/unit-4.json",
     "sourcePages": [
@@ -211,14 +211,14 @@
       105,
       106
     ],
-    "version": "3da3c6bed1d9-final8"
+    "version": "8973bfdf5581-sources"
   },
   "5": {
     "unit": 5,
     "title": "Dream and Faith",
     "source": "Unit 5-Narrative Writing-Dream and Faith.pptx",
     "sourceKind": "pptx",
-    "width": 720.0,
+    "width": 720,
     "height": 405.01416015625,
     "pageCount": 55,
     "dataUrl": "/narrative-course/decks/unit-5.json",
@@ -279,15 +279,15 @@
       185,
       186
     ],
-    "version": "dba7101fda11-final8"
+    "version": "c4232fe60688-sources"
   },
   "6": {
     "unit": 6,
     "title": "Conflict and Harmony",
     "source": "Unit 6-Narrative Writing-Conflict and Harmony.pptx",
     "sourceKind": "pptx",
-    "width": 1440.0,
-    "height": 810.0,
+    "width": 1440,
+    "height": 810,
     "pageCount": 31,
     "dataUrl": "/narrative-course/decks/unit-6.json",
     "sourcePages": [
@@ -323,6 +323,6 @@
       76,
       77
     ],
-    "version": "342b82608408-final8"
+    "version": "f53a9f5dd6f3-sources"
   }
 }
