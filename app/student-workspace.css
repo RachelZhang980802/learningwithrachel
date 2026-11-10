@@ -321,3 +321,15 @@
 .word-context-example-answer{margin-top:8px;padding:10px 12px;border-left:2px solid #b99a57;background:#ede0bb66}
 .word-context-example-answer p{margin:0;color:#3f382e;font:clamp(18px,1.35vw,22px)/1.75 Georgia,"Songti SC",serif;overflow-wrap:anywhere}
 .word-context-example-answer small{display:block;margin-top:7px;color:#8c653d;font:12px/1.5 Arial,sans-serif}
+
+/* Sense-specific grammar and click-to-translate press excerpts. */
+.word-sense-pos{display:inline-block;margin-left:7px;padding:1px 6px;border:1px solid #c6b694;border-radius:3px;color:#80523b;font:12px/1.55 Georgia,serif;vertical-align:baseline;white-space:normal}
+.meaning-example-meta{display:flex;flex-wrap:wrap;align-items:baseline;gap:5px;color:#80523b;font:13px/1.5 Georgia,serif}
+.meaning-example-meta .word-sense-pos{margin-left:0}
+.word-press-english{display:flex;align-items:flex-start;gap:12px;width:100%;min-height:44px;padding:10px 12px;border:1px solid #d5c5a8;border-radius:4px;background:#ede0bb33;color:#3f382e;text-align:left;cursor:pointer;font:17px/1.8 Georgia,"Songti SC",serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.word-press-english>span:first-child{min-width:0;flex:1}
+.word-press-english:hover{background:#ede0bb66}
+.word-press-english:focus-visible{outline:3px solid #846931;outline-offset:3px}
+.word-press-toggle{flex:none;color:#80523b;font:22px/1.5 Georgia,serif}
+.word-press-chinese{margin-top:12px;padding:12px 14px;border-left:2px solid #b99a57;background:#ede0bb55;color:#655a4c;font:16px/1.85 Georgia,"Songti SC",serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.word-press-chinese[hidden]{display:none}

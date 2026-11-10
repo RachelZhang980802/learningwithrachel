@@ -40,7 +40,7 @@ async function main() {
     return;
   }
   if (existing.connected) throw new Error('5173 端口已有服务，但未返回本网站的正常页面；请检查已有服务，避免启动到错误的端口。');
-  if (!existsSync(vitePath)) throw new Error('项目依赖缺失，未找到 Vite。请先恢复项目依赖。');
+  if (!existsSync(vitePath)) throw new Error('项目依赖缺失。请在此项目目录运行 npm ci，再重新启动。');
 
   mkdirSync(stateDir, { recursive: true });
   const logFd = openSync(logPath, 'a');

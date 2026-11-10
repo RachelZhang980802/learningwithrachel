@@ -17,7 +17,20 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/proportion",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· proportion",
       "definitionEn": "A part or share of a whole; here, the small share of college students who begin interested, methodical study.",
-      "otherSensesEn": "1) [uncountable] The relative size or amount of one thing compared with another.\n2) [uncountable; countable usually plural] A balanced relationship between parts in size or importance.\n3) proportions [plural]: the size and shape of something.\n4) Mathematics [uncountable]: an equal relationship between two pairs of numbers."
+      "otherSensesEn": "1) [uncountable] The relative size or amount of one thing compared with another.\n2) [uncountable; countable usually plural] A balanced relationship between parts in size or importance.\n3) proportions [plural]: the size and shape of something.\n4) Mathematics [uncountable]: an equal relationship between two pairs of numbers.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n. plural",
+        "n. (mathematics)"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 4,
@@ -35,7 +48,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/methodical",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· methodical",
       "definitionEn": "Done in a careful and logical way; here, it describes the students’ careful, orderly study.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 5,
@@ -53,7 +69,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/thesis",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· thesis",
       "definitionEn": "A statement or opinion argued logically and supported with evidence; here, the author’s claim about university education.",
-      "otherSensesEn": "1) A long piece of writing based on a student’s own research and completed as part of a university degree."
+      "otherSensesEn": "1) A long piece of writing based on a student’s own research and completed as part of a university degree.",
+      "otherSensePartsOfSpeech": [
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 6,
@@ -71,7 +94,16 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/illustrate",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· illustrate",
       "definitionEn": "To make a point clearer by using an example; here, the author’s experience illustrates his thesis.",
-      "otherSensesEn": "1) To add pictures, photographs or diagrams to a book or similar work.\n2) To show that something is true or that a situation exists."
+      "otherSensesEn": "1) To add pictures, photographs or diagrams to a book or similar work.\n2) To show that something is true or that a situation exists.",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 7,
@@ -83,13 +115,28 @@
       "ipa": "/ɡet əˈraʊnd/",
       "partOfSpeech": "phr. v.",
       "definition": "设法绕过或克服阻碍；本文指找到办法，不让教师、其他学生和僵化的大学制度妨碍自己的学习。",
-      "otherSenses": "1) 四处走动；从一处到另一处\n2) （非正式）到许多不同的地方旅行\n3) （消息等）传播开来\n4) 通过讨好等方式说服某人同意或照自己的意思做",
+      "otherSenses": "1) 四处走动；从一处到另一处\n2) （非正式）到许多不同的地方旅行\n3) （消息等）传播开来\n4) 通过讨好等方式说服某人同意或照自己的意思做\n5) get around to sth/doing：终于抽出时间或找到机会做某事；注意多了介词 to，与绕过障碍的 get around sth 不同。",
       "supplementation": "Pattern & Collocation:\nget around/get round a problem 设法解决或绕过难题\nget around/get round a clause 设法绕过条款\nget around with the help of a stick 拄着手杖四处走动\nnews gets around 消息传开\n\nContrast:\nget around：设法绕过阻碍或限制\ncircumvent：有意绕开障碍、规则或限制，较正式\nget past：越过难关或阻碍，强调最终得以继续\n\nUsage Note:\nget around an obstacle 表“绕过障碍”；英式英语也常说 get round。get around somebody 则可能表示设法说服某人，须看宾语和上下文。",
       "examples": "get around: In order to get around the limitation rule, he sent his illiterate manservant off to the British Museum to find a copy of the Weekly Dispatch article published some 17 years previously. [https://www.theguardian.com/commentisfree/libertycentral/2009/sep/24/multiple-publication-libel-tourists]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/get-around",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· get around",
       "definitionEn": "To find a way to deal successfully with an obstacle; here, to get past the faculty, other students and the college system.",
-      "otherSensesEn": "1) To move from place to place.\n2) (Informal) To travel to many different places.\n3) For news or information to spread.\n4) To persuade somebody to agree or do what you want, often by being nice to them."
+      "otherSensesEn": "1) To move from place to place.\n2) (Informal) To travel to many different places.\n3) For news or information to spread.\n4) To persuade somebody to agree or do what you want, often by being nice to them.\n5) get around to something: finally find time or an opportunity to do it",
+      "otherSensePartsOfSpeech": [
+        "phr. v.",
+        "phr. v.",
+        "phr. v.",
+        "phr. v.",
+        "phr. v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 8,
@@ -107,7 +154,18 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/faculty",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· faculty",
       "definitionEn": "The teachers of a college or university (North American English); here, the teachers the author tries to work around.",
-      "otherSensesEn": "1) [countable] A university department or group of related departments.\n2) [countable, usually plural] Natural physical or mental abilities.\n3) [singular, formal] A particular ability for doing something."
+      "otherSensesEn": "1) [countable] A university department or group of related departments.\n2) [countable, usually plural] Natural physical or mental abilities.\n3) [singular, formal] A particular ability for doing something.",
+      "otherSensePartsOfSpeech": [
+        "n. [C]",
+        "n. plural",
+        "n. [S]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 9,
@@ -117,7 +175,7 @@
       "imageSha256": "",
       "word": "mind-fixing",
       "ipa": "/ˈmaɪnd ˌfɪksɪŋ/",
-      "partOfSpeech": "n. (context-specific compound)",
+      "partOfSpeech": "n. (contextual compound)",
       "definition": "使思想定型、把人的思考限制在既定框架内。它是作者在本文语境中构成的批评性表达。",
       "otherSenses": "",
       "supplementation": "Pattern & Collocation:\nthe system of mind-fixing 使思想定型的制度（本文自造表达；没有可直接套用的现代固定搭配）\nfixed ways of thinking 固定的思维方式（相关表达）\nindependent thinking 独立思考（语义对照）\n\nUsage Note:\nmind-fixing 由 mind + fixing 组成；fix 在这里表示“使固定”，整个复合词指把思想限制在既定框架内。它是作者的批评性造词，改写时可用固定思维方式等更自然的表达。",
@@ -125,7 +183,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/mind_1",
       "dictionaryLabel": "Oxford Learner's Dictionaries — mind（mind-fixing 无独立词条）",
       "definitionEn": "A context-specific compound meaning the process of fixing people's minds within accepted patterns and limiting independent thought.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 10,
@@ -143,7 +204,22 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/degree",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· degree",
       "definitionEn": "A qualification gained after successfully completing a university or college course; both uses in the sentence refer to this academic qualification.",
-      "otherSensesEn": "1) [countable or uncountable] The amount or level of something.\n2) [countable] A unit for measuring temperature.\n3) [countable] A unit for measuring angles.\n4) [countable, British English] A university or college course leading to a degree.\n5) [countable] A level on a scale of seriousness."
+      "otherSensesEn": "1) [countable or uncountable] The amount or level of something.\n2) [countable] A unit for measuring temperature.\n3) [countable] A unit for measuring angles.\n4) [countable, British English] A university or college course leading to a degree.\n5) [countable] A level on a scale of seriousness.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 12,
@@ -155,13 +231,28 @@
       "ipa": "/wɜːθ/（英） /wɜːrθ/（美）",
       "partOfSpeech": "adj. (sense used here)",
       "definition": "有……价值；本文 not worth so much as 表示“价值不如……”，即学位不如学习能力与动力重要。",
-      "otherSenses": "1) 形容词：值某个金额或数量\n2) 形容词：某种行动值得做，可接动名词\n3) 形容词：某人拥有某个金额的财产\n4) 名词（不可数）：值某个金额或够用一段时间的数量",
+      "otherSenses": "1) 形容词：值某个金额或数量\n2) 形容词：某种行动值得做，可接动名词\n3) 形容词：某人拥有某个金额的财产\n4) 名词（不可数）：值某个金额或够用一段时间的数量\n5) 价值；作用；重要性，不限于货币金额。",
       "supplementation": "Pattern & Collocation:\nbe worth + money 值多少钱\nbe worth a visit 值得参观\nbe worth doing sth 值得做某事\nbe worth it 值得付出\nbe worth somebody’s while 对某人有好处；值得某人花时间\n\nContrast:\nworth：通常作表语，后接金额、名词或 -ing，表示有某种价值或值得做\nvaluable：可作定语或表语，强调有用或有价值\nworthwhile：多修饰活动或努力，强调值得投入时间和精力\n\nUsage Note:\nworth 作形容词通常不放在名词前，后接名词、代词、数额或动名词；说 worth doing，不说 worth to do。本文 not worth so much as 在比较价值。for what it’s worth 是非正式口吻，表示“这只是我的看法，不一定有帮助”；worth its weight in gold 表“非常有用”。",
       "examples": "worth: Teddy Roosevelt once observed that life's greatest gift is the opportunity to work hard at work worth doing. [https://www.theguardian.com/world/2012/nov/09/barack-obama-debt-deal-live]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_1",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· worth",
       "definitionEn": "Having a particular value; here, a degree is less valuable than the capacity and drive to learn.",
-      "otherSensesEn": "1) Adjective: having a stated monetary or measurable value.\n2) Adjective: useful or pleasant enough to recommend an action.\n3) Adjective: owning money and possessions of a stated value.\n4) Noun [uncountable]: an amount with a stated value or lasting a stated time."
+      "otherSensesEn": "1) Adjective: having a stated monetary or measurable value.\n2) Adjective: useful or pleasant enough to recommend an action.\n3) Adjective: owning money and possessions of a stated value.\n4) Noun [uncountable]: an amount with a stated value or lasting a stated time.\n5) the usefulness, importance or value of a person or thing",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "adj.",
+        "adj.",
+        "n. [U]",
+        "n. [U]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 13,
@@ -171,7 +262,7 @@
       "imageSha256": "b46fa8cbe67425c49b9e522e72185ab6cddcaf1cad3099aec73cf856a32080ab",
       "word": "so much as",
       "ipa": "/səʊ ˈmʌtʃ æz/",
-      "partOfSpeech": "comparative construction",
+      "partOfSpeech": "comparative phr.",
       "definition": "此处表示：学位的价值不如学习能力和学习动力。",
       "otherSenses": "",
       "supplementation": "Pattern & Collocation:\nA is worth as much as B：A 和 B 同样有价值\nA is not worth so/as much as B：A 的价值不及 B（本文）\ndid not / never so much as + 动词原形：甚至连……都没做\nwithout so much as + -ing / 名词：连……都没有\nnot so much A as B：与其说 A，不如说 B\n\nContrast:\nnot worth so much as：价值不及；本文用法\nnot worth as much as：同义的现代比较表达\nless valuable than：直接说价值较低，句法结构不同\n\nUsage Note:\n原句是 a degree is not [worth so much as the capacity and the drive to learn]。worth 使句子在比较价值，整句可改写成 a degree is not worth as much as the capacity and the drive to learn；这就是判断本文用法的关键。\n“甚至连……”通常跟一个最低限度的动作或东西：He did not so much as smile；He did not say so much as a word。without 是介词，后接 -ing 或名词：without so much as saying goodbye。\n“与其说 A，不如说 B”要求 A、B 是同一事物的两种平行描述。原句中的 worth 与 the capacity and the drive to learn 不构成这样的 A、B 对照。",
@@ -182,7 +273,10 @@
       "otherSensesEn": "",
       "surfaceForms": [
         "so much as"
-      ]
+      ],
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 14,
@@ -200,7 +294,20 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· capacity",
       "definitionEn": "The ability to understand or do something; here, the capacity to learn means the ability to learn.",
-      "otherSensesEn": "1) [uncountable; countable usually singular] The amount that a container or space can hold.\n2) [countable, usually singular] An official position or function in which someone acts.\n3) [singular or uncountable] The amount that a factory or machine can produce.\n4) [countable or uncountable] The size or power of a piece of equipment, especially an engine."
+      "otherSensesEn": "1) [uncountable; countable usually singular] The amount that a container or space can hold.\n2) [countable, usually singular] An official position or function in which someone acts.\n3) [singular or uncountable] The amount that a factory or machine can produce.\n4) [countable or uncountable] The size or power of a piece of equipment, especially an engine.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n.",
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 11,
@@ -212,13 +319,42 @@
       "ipa": "/draɪv/",
       "partOfSpeech": "n. (uncountable here; positive sense)",
       "definition": "冲劲、干劲；本文 the drive to learn 指促使人持续学习的强烈内在动力。",
-      "otherSenses": "1) 名词：驾车行程；兜风\n2) 名词：为某一目标开展的有组织活动\n3) 名词：人的本能欲望或需求（如性欲）\n4) 名词：计算机存储驱动器\n5) 名词：通往住宅的私人车道\n6) 动词：驾驶车辆；驾车送某人\n7) 动词：迫使或驱使某人做某事\n8) 动词：推动某事发展或取得进展\n9) 动词：为机器提供动力；驱动设备",
+      "otherSenses": "1) 名词：驾车行程；兜风\n2) 名词：为某一目标开展的有组织活动\n3) 名词：人的本能欲望或需求（如性欲）\n4) 名词：计算机存储驱动器\n5) 名词：通往住宅的私人车道\n6) 动词：驾驶车辆；驾车送某人\n7) 动词：迫使或驱使某人做某事\n8) 动词：推动某事发展或取得进展\n9) 动词：为机器提供动力；驱动设备\n10) 把钉子等打入；驱赶人或动物朝某方向移动。\n11) （体育）猛击、抽击或有力的一投；用力击球或投球。\n12) （雨、风等）猛落；猛烈吹袭。",
       "supplementation": "Pattern & Collocation:\nthe drive to learn/succeed 学习／成功的动力（本文用法）\nhave tremendous drive 干劲十足\na recruitment drive 招聘活动\ndrive sb to do sth 迫使／驱使某人做某事\nbe driven by sth 受……推动\ndrive growth/investment 推动增长／投资\n\nContrast:\ndrive：促使人不断行动的内在干劲\nmotivation：促使行动的动机或积极性，范围较广\ndetermination：决心与坚持，突出不轻易放弃\n\nUsage Note:\n本文 drive 是不可数名词，the drive to learn 表学习的内在动力。表示驾车行程、招聘活动、电脑驱动器或私人车道时通常可数；动词可用 drive sb to do sth。",
       "examples": "drive: Back then they had vision, drive and the desire to make the world of education a better place. [https://www.theguardian.com/teacher-network/2015/mar/07/secret-teacher-school-managers]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/drive_2",
       "dictionaryLabel": "牛津高阶英汉双解词典（第10版）· drive",
       "definitionEn": "Strong energy and determination to achieve something; here, the drive to learn is a strong inner urge to keep learning.",
-      "otherSensesEn": "1) Noun: a journey in a car or other vehicle.\n2) Noun: an organized effort to achieve a goal.\n3) Noun: a strong instinctive need, such as sex drive.\n4) Noun: a computer device for storing data.\n5) Noun: a private road leading from a street to a house.\n6) Verb: to operate a vehicle or take someone somewhere in it.\n7) Verb: to force or motivate someone to act.\n8) Verb: to influence something and make it progress.\n9) Verb: to provide power for a machine or operate a device."
+      "otherSensesEn": "1) Noun: a journey in a car or other vehicle.\n2) Noun: an organized effort to achieve a goal.\n3) Noun: a strong instinctive need, such as sex drive.\n4) Noun: a computer device for storing data.\n5) Noun: a private road leading from a street to a house.\n6) Verb: to operate a vehicle or take someone somewhere in it.\n7) Verb: to force or motivate someone to act.\n8) Verb: to influence something and make it progress.\n9) Verb: to provide power for a machine or operate a device.\n10) force an object into a surface or move animals or people in a particular direction\n11) a forceful stroke or throw; to hit or throw a ball with force\n12) fall or blow with strong force, especially of rain or wind",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "v.",
+        "v.",
+        "v.",
+        "v.",
+        "v. [T]",
+        "n./v. (sport)",
+        "v. [I]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        null,
+        null,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 15,
@@ -236,7 +372,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/hit-on",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · hit on (user-provided Eudic entry)",
       "definitionEn": "To think of an idea or method suddenly or by chance; here, the author found his study method accidentally.",
-      "otherSensesEn": "1) hit on somebody (North American English, slang): to approach someone in a sexually interested way."
+      "otherSensesEn": "1) hit on somebody (North American English, slang): to approach someone in a sexually interested way.",
+      "otherSensePartsOfSpeech": [
+        "phr. v."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 101,
@@ -257,7 +400,10 @@
         "by accident"
       ],
       "definitionEn": "By chance, without planning or intending it; here, the author did not deliberately devise his method.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 16,
@@ -275,7 +421,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/instinct",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · instinct (user-provided Eudic entry)",
       "definitionEn": "An intuitive feeling rather than a planned decision; here, some instinct helped guide the author's study choices.",
-      "otherSensesEn": "1) An inborn tendency to act in a particular way without learning or training."
+      "otherSensesEn": "1) An inborn tendency to act in a particular way without learning or training.",
+      "otherSensePartsOfSpeech": [
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 17,
@@ -293,7 +446,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/specialize",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · specialize (user-provided Eudic entry)",
       "definitionEn": "To focus one's study on a particular field; here, the author chose subjects that interested him and studied them deeply.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 18,
@@ -311,7 +467,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/prescribe",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · prescribe (user-provided Eudic entry)",
       "definitionEn": "To specify officially what must be done; here, the school required the student to take certain courses.",
-      "otherSensesEn": "1) In medicine, to tell a patient to use a particular medicine or treatment, or to write a prescription for it."
+      "otherSensesEn": "1) In medicine, to tell a patient to use a particular medicine or treatment, or to write a prescription for it.",
+      "otherSensePartsOfSpeech": [
+        "v."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 19,
@@ -323,13 +486,24 @@
       "ipa": "/ˈkɒnsntreɪt ɒn/（英） /ˈkɑːnsntreɪt ɑːn/（美）",
       "partOfSpeech": "phr. v.",
       "definition": "专注于……；本文指作者集中学习最感兴趣的一两门课程。",
-      "otherSenses": "",
+      "otherSenses": "1) concentrate：集中；聚集人、力量或物品。\n2) concentrate：浓缩；提高浓度。\n3) concentrate：浓缩物；浓缩液。",
       "supplementation": "Pattern & Collocation:\nconcentrate on sth 专注于某事\nconcentrate on doing sth 专心做某事\nconcentrate one's efforts/energies on sth 把精力集中在某事上\n\nContrast:\nconcentrate on：把注意力或精力集中在某事上\nfocus on：把关注点放在某事上，含义较广\ndevote attention to：将注意力投入某事，后接名词或 -ing\n\nUsage Note:\non 是介词，后接名词或 -ing：concentrate on reading，不说 concentrate on to read。原文 the one or two 指前面的 courses，that interested me most 修饰这些课程。",
       "examples": "For the first time I did not need a Saturday job. I could concentrate on my studies and write for the Newcastle University student newspaper. [https://www.theguardian.com/education/2022/apr/17/poorer-students-will-bear-the-brunt-of-costly-loans]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/concentrate-on",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · concentrate (user-provided Eudic entry)",
       "definitionEn": "To give focused attention to something; here, the author focused on the one or two courses that interested him most.",
-      "otherSensesEn": ""
+      "otherSensesEn": "1) concentrate: gather or bring people or things together in one place\n2) concentrate: make a liquid or substance stronger by removing water or unwanted material\n3) concentrate: a substance whose water or other less useful parts have been removed",
+      "otherSensePartsOfSpeech": [
+        "v. [I/T]",
+        "v. [T]",
+        "n. [C/U]"
+      ],
+      "otherSenseExampleIndices": [
+        null,
+        null,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 20,
@@ -341,13 +515,20 @@
       "ipa": "/ɪnˈtensɪvli/",
       "partOfSpeech": "adv.",
       "definition": "集中而深入地；本文指作者在喜爱的学科上投入大量精力。",
-      "otherSenses": "",
+      "otherSenses": "1) 以高投入、高产出的集约方式，尤用于农业；不能简单等同于 intensely（强烈地）。",
       "supplementation": "Pattern & Collocation:\nwork/study intensively 高强度地工作／学习\ninvestigate sth intensively 深入调查某事\nintensive training/course 强化训练／密集课程（形容词）\n\nContrast:\nintensively：高强度、密集地投入学习或工作\nintently：十分专注地看或听，重点在注意力\nthoroughly：全面、彻底地做完，重点在完整程度\n\nUsage Note:\nintensively 是副词，修饰 worked；intensive 是形容词，常修饰 training、course 或 investigation。intense 多形容感受、竞争等“强烈”，intensive 强调活动密集、投入大。",
       "examples": "intensively: Both sides have been intensively preparing for what each says will be a \"decisive\" second round.Such a war would bear little resemblance to the previous clashes between Israel and its neighbours. [https://www.economist.com/leaders/2010/12/29/please-not-again]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/intensive_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · intensive (user-provided adjective entry; adverb interpreted in context)",
       "definitionEn": "With concentrated effort; here, the author worked hard and deeply on his favorite subjects.",
-      "otherSensesEn": ""
+      "otherSensesEn": "1) with high inputs and high production in a small area, especially in farming",
+      "otherSensePartsOfSpeech": [
+        "adv."
+      ],
+      "otherSenseExampleIndices": [
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 22,
@@ -357,15 +538,34 @@
       "imageSha256": "",
       "word": "junior",
       "ipa": "/ˈdʒuːniə(r)/（英） /ˈdʒuːniər/（美）",
-      "partOfSpeech": "adj.",
+      "partOfSpeech": "adj. (US education)",
       "definition": "（美式英语）大学三年级的；本文 junior year 指四年制大学的第三学年。",
-      "otherSenses": "1) 形容词：职位或级别较低的\n2) 形容词：青少年组的，尤用于体育\n3) 形容词（英式英语）：面向约 11 或 13 岁以下儿童的学校阶段\n4) Junior／Jr：同名父子中置于儿子姓名后的“小”\n5) 名词（美式英语）：四年制高中或大学的三年级学生\n6) 名词：比某人年轻若干岁的人，见 be somebody's junior",
+      "otherSenses": "1) 形容词：职位或级别较低的\n2) 形容词：青少年组的，尤用于体育\n3) 形容词（英式英语）：面向约 11 或 13 岁以下儿童的学校阶段\n4) Junior／Jr：同名父子中置于儿子姓名后的“小”\n5) 名词（美式英语）：四年制高中或大学的三年级学生\n6) 名词：比某人年轻若干岁的人，见 be somebody's junior\n7) 职位较低者；资历较浅者；青少年成员。",
       "supplementation": "Pattern & Collocation:\njunior year 大学三年级这一学年（本文义）\na college junior 大三学生\nbe junior to somebody 职位／资历低于某人\nbe somebody's junior by four years 比某人小四岁\n\nUsage Note:\n原文 junior year 中 junior 是形容词，修饰 year；a junior 则可指三年级学生。美式四年顺序为 freshman → sophomore → junior → senior。比较职位用 junior to，不用 junior than；比较年龄可说 She's four years his junior。",
       "examples": "junior: To date, only one cabinet minister and a few junior officials have been arrested. [https://www.theguardian.com/world/2014/may/20/malawi-election-2014-not-perfect-but-good-start]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/junior_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · junior (user-provided adjective and noun entries)",
       "definitionEn": "In North American English, describing the third year of a four-year college course; here, the author's junior year.",
-      "otherSensesEn": "1) Adjective: lower in rank or position.\n2) Adjective: for young people below a particular age, especially in sport.\n3) Adjective (British English): for children under about 11 or 13 at school.\n4) Junior/Jr after a man's name: indicating he has the same name as his father.\n5) Noun (North American English): a student in the third year of high school or college.\n6) Noun, in be somebody's junior: a person younger than somebody else by a stated number of years."
+      "otherSensesEn": "1) Adjective: lower in rank or position.\n2) Adjective: for young people below a particular age, especially in sport.\n3) Adjective (British English): for children under about 11 or 13 at school.\n4) Junior/Jr after a man's name: indicating he has the same name as his father.\n5) Noun (North American English): a student in the third year of high school or college.\n6) Noun, in be somebody's junior: a person younger than somebody else by a stated number of years.\n7) a person with a lower rank in a job or organization; also a young member of a group",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "adj.",
+        "adj.",
+        "n. (name suffix)",
+        "n. [C]",
+        "n. [C]",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 23,
@@ -377,13 +577,26 @@
       "ipa": "/sɪntʃ/",
       "partOfSpeech": "n.",
       "definition": "容易的事（非正式）；本文 several cinches in history 很可能指作者认为容易应付的几门历史课程或要求，课程义是结合上下文推断的。",
-      "otherSenses": "1) 名词（尤北美英语）：十拿九稳的事；必定成功的人\n2) 动词：在腰间束紧；给马系上肚带\n3) 动词（北美非正式）：确保某事发生或成功",
+      "otherSenses": "1) 名词（尤北美英语）：十拿九稳的事；必定成功的人\n2) 动词：在腰间束紧；给马系上肚带\n3) 动词（北美非正式）：确保某事发生或成功\n4) 马鞍肚带；固定马鞍、绕过马腹的带子。",
       "supplementation": "Pattern & Collocation:\na cinch 很容易的事；小菜一碟\nbe a cinch to do sth 做某事轻而易举\nbe a cinch to win 胜利几乎是板上钉钉的事（另一义）\n\nContrast:\na cinch：轻而易举的事，非正式\na piece of cake：非常容易的事，非正式，语气轻松\na breeze：做起来毫不费力的事，非正式\n\nUsage Note:\na cinch 作“容易的事”时通常是单数，口语里说 It’s a cinch to do sth。原文 several cinches 是作者的复数用法，借指几门轻松应付的历史课。",
       "examples": "cinch: The apparently daunting task of arguing that the economy is stronger yet still too weak for giveaways turned out to be a cinch. [https://www.economist.com/britain/2014/03/20/general-osborne]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/cinch_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · cinch (user-provided noun and verb entries)",
       "definitionEn": "An easy task (informal); in context, several cinches in history probably means history courses or requirements the author found easy.",
-      "otherSensesEn": "1) Noun (especially North American English): an event certain to happen, or a person certain to succeed.\n2) Verb: to fasten something tightly around the waist or fasten a horse's girth.\n3) Verb (North American English, informal): to make something certain."
+      "otherSensesEn": "1) Noun (especially North American English): an event certain to happen, or a person certain to succeed.\n2) Verb: to fasten something tightly around the waist or fasten a horse's girth.\n3) Verb (North American English, informal): to make something certain.\n4) a strap that passes under a horse to hold a saddle in place",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "v.",
+        "v.",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 24,
@@ -401,7 +614,18 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/neglect_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · neglect (user-provided verb and noun entries)",
       "definitionEn": "To give something too little attention; here, the author had not studied history as seriously as it deserved.",
-      "otherSensesEn": "1) Verb: to fail to care properly for a person, health or property.\n2) neglect to do something (formal): to fail or forget to do something one ought to do.\n3) Noun [uncountable]: lack of necessary care or attention."
+      "otherSensesEn": "1) Verb: to fail to care properly for a person, health or property.\n2) neglect to do something (formal): to fail or forget to do something one ought to do.\n3) Noun [uncountable]: lack of necessary care or attention.",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "v.",
+        "n. [U]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 25,
@@ -413,16 +637,25 @@
       "ipa": "v. /rɪˈbel/；n. /ˈrebl/",
       "partOfSpeech": "v. phr.",
       "definition": "对某种做法强烈反感、抵触；本文指作者反感当时教授历史的方式。",
-      "otherSenses": "",
+      "otherSenses": "1) rebel against：反抗权威；进行叛乱或拒不服从。\n2) rebel（名词）：反叛者；叛乱者；不循规蹈矩的人。",
       "supplementation": "Pattern & Collocation:\nrebel at the way sth is done 对某事的做法感到强烈抵触（本文）\nrebel at the thought/idea of sth 一想到某事就反感\nrebel against authority / one's parents 反抗权威／父母\nrebel forces 叛军\n\nContrast:\nrebel at：对某种想法或做法强烈反感\nobject to：明确表示不赞同，不一定采取行动\nbalk at：因不愿接受而犹豫或拒绝，尤指提议或要求\n\nUsage Note:\nrebel at the thought/way of sth 表对想法或做法强烈反感；rebel against authority 表反抗权威。动词 rebel 重音在后，名词 rebel 重音在前；过去式 rebelled。",
       "examples": "rebel: The failure here was not being knocked out but the way it happened; the fact they did not rebel against their fate.[https://www.theguardian.com/football/2015/apr/21/barcelona-paris-saint-germain-champions-league-match-report]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/rebel_2",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · rebel (user-provided noun and verb entries); Collins English Dictionary supports aversion use",
       "definitionEn": "To feel strong aversion to a practice; here, the author resisted the way history was taught.",
-      "otherSensesEn": "",
+      "otherSensesEn": "1) rebel against somebody or something: fight against authority or refuse to obey it\n2) rebel: a person who fights authority or resists accepted rules",
       "surfaceForms": [
         "rebelled at"
-      ]
+      ],
+      "otherSensePartsOfSpeech": [
+        "v. [I]",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        null,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 26,
@@ -440,7 +673,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/positive_1",
       "dictionaryLabel": "Oxford Learner's Dictionaries — positive（positive knowledge 无独立词条）",
       "definitionEn": "Knowledge presented as certain, established fact; here, historical information taught as isolated facts that are not open to question.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 27,
@@ -458,7 +694,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/unrelated",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · unrelated (user-provided adjective entry)",
       "definitionEn": "Not connected with something; here, the history lessons presented facts as disconnected from politics, art and life.",
-      "otherSensesEn": "1) Of people or animals: not belonging to the same family."
+      "otherSensesEn": "1) Of people or animals: not belonging to the same family.",
+      "otherSensePartsOfSpeech": [
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 28,
@@ -476,7 +719,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/bless_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · bless / be blessed with (user-provided entry)",
       "definitionEn": "To be fortunate enough to have something good; here, the author's “bad memory” is described ironically as a blessing.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 29,
@@ -494,7 +740,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/commit",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · commit (user-provided verb entry)",
       "definitionEn": "To learn something so well that it can be recalled exactly; here, the author could not memorize facts he neither understood nor needed for his thinking.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 30,
@@ -512,7 +761,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/intellectual_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · intellectual (user-provided adjective and noun entries; adverb interpreted in context)",
       "definitionEn": "In a way connected with thinking and understanding; here, facts the author did not feel he needed for serious thought.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 31,
@@ -524,13 +776,34 @@
       "ipa": "/beə(r)/（英） /ber/（美）",
       "partOfSpeech": "adj.",
       "definition": "只有基本事实、缺少解释的；本文 bare record 指只罗列人名、日期和事件，却不说明相互联系的记录。",
-      "otherSenses": "1) 指身体：裸露的，未被衣物遮盖的\n2) 指树木或土地：光秃的、没有植被的\n3) 指物体或表面：无遮盖、无保护的\n4) 指房间或柜子：空的，缺少通常的物品\n5) 用于名词前：仅够的；最低限度的\n6) bare（动词）：揭开；暴露\n7) bare（英式俚语副词）：非常",
-      "supplementation": "Pattern & Collocation:\nbare facts / the bare record 最基本的事实／仅有事实的记录（本文）\nthe bare minimum / bare essentials 最低限度／最基本的必需品\nbare feet / bare hands 赤脚／徒手\nlay sth bare 揭露某事（动词习语）\n\nContrast:\nbare：只剩基本部分，没有额外装饰或解释\nskeletal：只有骨架或简略内容，常说 a skeletal outline\nstripped-down：删去不必要部分后的简化版本，较口语\n\nUsage Note:\n本文 bare 在名词 record 前，表示记录只剩基本事实。不要与同音的 bear（熊；承担）混淆；barely 是“几乎不／勉强”，不等于 bare。bare bones 指梗概；bare your soul 是动词短语，意为倾诉内心。",
+      "otherSenses": "1) 指身体：裸露的，未被衣物遮盖的\n2) 指树木或土地：光秃的、没有植被的\n3) 指物体或表面：无遮盖、无保护的\n4) 指房间或柜子：空的，缺少通常的物品\n5) 用于名词前：仅够的；最低限度的\n6) bare（动词）：揭开；暴露\n7) bare（英式俚语副词）：非常\n8) bare（英式俚语限定词）：许多的；大量的，如 bare people；与 bare room“空房间”不同。",
+      "supplementation": "Pattern & Collocation:\nbare facts / the bare record 最基本的事实／仅有事实的记录（本文）\nthe bare minimum / bare essentials 最低限度／最基本的必需品\nbare feet / bare hands 赤脚／徒手\nlay sth bare 揭露某事（动词习语）\n\nContrast:\nbare：只剩基本部分，没有额外装饰或解释\nskeletal：只有骨架或简略内容，常说 a skeletal outline\nstripped-down：删去不必要部分后的简化版本，较口语\n\nUsage Note:\n本文 bare 在名词 record 前，表示记录只剩基本事实。不要与同音的 bear（熊；承担）混淆；barely 是“几乎不／勉强”，不等于 bare。bare bones 指梗概；bare your soul 是动词短语，意为倾诉内心。\n\nWord-formation note:\nbarely 常表示“几乎不；仅仅”，不是把 bare“裸露的”简单加上 -ly 后得到“赤裸地”的透明方式副词。",
       "examples": "bare: This bare record of Birks' distinguished career, however, gives no idea of the man. [https://www.theguardian.com/news/2004/jul/16/guardianobituaries.obituaries]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/bare_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · bare (user-provided adjective, verb and adverb entries)",
       "definitionEn": "Basic and without explanatory detail; here, a bare record lists names, dates and events without showing their connections.",
-      "otherSensesEn": "1) Of the body: uncovered by clothes.\n2) Of trees or land: without leaves or vegetation.\n3) Of an object or surface: without a covering or protection.\n4) Of a room or cupboard: empty or lacking its usual contents.\n5) Before a noun: only just enough; the minimum necessary.\n6) bare (verb): to uncover or reveal something.\n7) bare (British slang adverb): very."
+      "otherSensesEn": "1) Of the body: uncovered by clothes.\n2) Of trees or land: without leaves or vegetation.\n3) Of an object or surface: without a covering or protection.\n4) Of a room or cupboard: empty or lacking its usual contents.\n5) Before a noun: only just enough; the minimum necessary.\n6) bare (verb): to uncover or reveal something.\n7) bare (British slang adverb): very.\n8) bare: a large number or amount of something",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "v.",
+        "adv. (slang)",
+        "det. (UK slang)"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 102,
@@ -551,7 +824,16 @@
         "irrelative"
       ],
       "definitionEn": "Rare and old-fashioned: not related to one another or lacking a meaningful connection; here, a series of isolated historical events.",
-      "otherSensesEn": "1) Rare/old-fashioned: not important to or connected with the matter being considered; modern English usually uses irrelevant\n2) Rare/old-fashioned: having no relation to another person or thing; modern English usually uses unrelated"
+      "otherSensesEn": "1) Rare/old-fashioned: not important to or connected with the matter being considered; modern English usually uses irrelevant\n2) Rare/old-fashioned: having no relation to another person or thing; modern English usually uses unrelated",
+      "otherSensePartsOfSpeech": [
+        "adj. (rare)",
+        "adj. (rare)"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 32,
@@ -572,7 +854,10 @@
       "otherSensesEn": "",
       "surfaceForms": [
         "light to throw upon"
-      ]
+      ],
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 33,
@@ -590,7 +875,20 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/propose",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · propose (user-provided Oxford excerpt)",
       "definitionEn": "To intend or plan to do something; here, to plan to specialize in history during the junior and senior years.",
-      "otherSensesEn": "1) To suggest a plan, idea or action for others to consider.\n2) To nominate someone or put a motion before a formal meeting.\n3) To ask someone to marry you.\n4) propose a toast: to invite people to raise their glasses to someone."
+      "otherSensesEn": "1) To suggest a plan, idea or action for others to consider.\n2) To nominate someone or put a motion before a formal meeting.\n3) To ask someone to marry you.\n4) propose a toast: to invite people to raise their glasses to someone.",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "v.",
+        "v.",
+        "v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 34,
@@ -608,7 +906,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/attentively",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · attentively (user-provided Oxford excerpt)",
       "definitionEn": "Carefully and with a great deal of interest; here, listening to the professor's first introduction with full concentration.",
-      "otherSensesEn": "1) To act helpfully and considerately so that people have what they need."
+      "otherSensesEn": "1) To act helpfully and considerately so that people have what they need.",
+      "otherSensePartsOfSpeech": [
+        "adv."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 36,
@@ -620,13 +925,26 @@
       "ipa": "/ˌkɒnstɪˈtjuːʃənəl/",
       "partOfSpeech": "adj.",
       "definition": "与国家宪法及其发展有关的。本文 American constitutional history 指美国宪政史。",
-      "otherSenses": "1) 符合宪法，或受到宪法限制。\n2) 与人的体质或整体健康状况有关。\n3) constitutional（旧式名词）：保健散步。",
+      "otherSenses": "1) 符合宪法，或受到宪法限制。\n2) 与人的体质或整体健康状况有关。\n3) constitutional（旧式名词）：保健散步。\n4) 天生的；性情或体质所固有的，不仅用于政治宪法。",
       "supplementation": "Pattern & Collocation:\nconstitutional law 宪法\nconstitutional history 宪政史\nconstitutional rights 宪法权利\nconstitutional government 宪政政府\n\nUsage Note:\nconstitutional 有“涉及宪法”与“合宪”两义：constitutional history 是宪法或宪政制度的发展史，不是“合宪的历史”。\na constitutional right 指宪法赋予或保障的权利；constitutionally protected 中用副词修饰 protected。",
       "examples": "constitutional: His lasting achievement was to persuade Margaret Thatcher to establish the Anglo Irish agreement in 1985 which gave Dublin some say over Northern Ireland affairs and was meant to bolster northern nationalist confidence in constitutional politics. [https://www.theguardian.com/world/2011/may/19/garret-fitzgerald-tributes-statesman-achievement]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/constitutional_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · constitutional (user-provided Oxford excerpt)",
       "definitionEn": "Connected with a country's constitution and its development; here, American constitutional history.",
-      "otherSensesEn": "1) Allowed or limited by a constitution.\n2) Of a person's general health or physical makeup.\n3) constitutional (noun, old-fashioned): a short walk taken for health."
+      "otherSensesEn": "1) Allowed or limited by a constitution.\n2) Of a person's general health or physical makeup.\n3) constitutional (noun, old-fashioned): a short walk taken for health.\n4) existing as part of a person’s nature or physical make-up",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "adj.",
+        "n. [C]",
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 103,
@@ -647,7 +965,26 @@
         "references"
       ],
       "definitionEn": "A source or item of material consulted or recommended for further study; here, the additional works listed by the professor.",
-      "otherSensesEn": "1) A mention of a person or thing in speech or writing.\n2) The act of consulting material to find information.\n3) A number, word or symbol used to locate information.\n4) The act of consulting someone for advice.\n5) A job recommendation, or the person who provides one.\n6) A citation showing where information in a book comes from.\n7) reference (verb, formal): to cite a source or provide a text with references."
+      "otherSensesEn": "1) A mention of a person or thing in speech or writing.\n2) The act of consulting material to find information.\n3) A number, word or symbol used to locate information.\n4) The act of consulting someone for advice.\n5) A job recommendation, or the person who provides one.\n6) A citation showing where information in a book comes from.\n7) reference (verb, formal): to cite a source or provide a text with references.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 38,
@@ -665,7 +1002,18 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/memorandum",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · memorandum (user-provided Oxford excerpt)",
       "definitionEn": "A written note or record kept for future reference; here, the professor's list of additional references or reading.",
-      "otherSensesEn": "1) A formal note sent within an organization.\n2) In law, a preliminary written record of an agreement.\n3) A written proposal or report on a particular subject."
+      "otherSensesEn": "1) A formal note sent within an organization.\n2) In law, a preliminary written record of an agreement.\n3) A written proposal or report on a particular subject.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n. (law)",
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 59,
@@ -683,7 +1031,16 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/differ",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · differ (user-provided Oxford excerpt)",
       "definitionEn": "To have different opinions or accounts concerning a particular issue; here, for two books to give different views on several points.",
-      "otherSensesEn": "1) differ from/in: to be different from someone or something, or different in a particular respect.\n2) differ with someone: to disagree with that person."
+      "otherSensesEn": "1) differ from/in: to be different from someone or something, or different in a particular respect.\n2) differ with someone: to disagree with that person.",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 60,
@@ -695,13 +1052,28 @@
       "ipa": "/ɔːˈθɒrəti/",
       "partOfSpeech": "n.",
       "definition": "在某一领域被公认为可靠的权威资料或著作。本文 the other authorities 指作者继续查阅的其他权威来源。",
-      "otherSenses": "1) 发号施令或行使管辖的权力。\n2) 做某事的正式职权或许可。\n3) the authorities：有决策权的当局或主管机构。\n4) 因知识或职位受到尊重而具有的威信。",
+      "otherSenses": "1) 发号施令或行使管辖的权力。\n2) 做某事的正式职权或许可。\n3) the authorities：有决策权的当局或主管机构。\n4) 因知识或职位受到尊重而具有的威信。\n5) 权威人士；专家。本文的 authorities 多指权威资料或著作，其他语境也可以指人。",
       "supplementation": "Pattern & Collocation:\na leading authority on history 历史领域的权威\nconsult an authority 查阅权威资料\nlocal authorities 地方当局\nhave the authority to do sth 有权做某事\n\nContrast:\nauthority：某领域公认的权威人物或权威来源\nexpert：具备专门知识的人，不一定已获广泛认可\nauthoritative source：被认为可信且有分量的资料来源\n\nUsage Note:\nTurning to the other authorities 中 authorities 是复数，指其他可依凭的权威书籍或作者，不是政府部门。authority on + 领域 表示“某领域的权威”。",
       "examples": "authority: As president, Putin moved quickly to consolidate his authority over the economy and politics. [https://www.theguardian.com/world/2014/jun/09/-sp-profiles-post-soviet-states]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/authority",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · authority (user-provided Oxford excerpt)",
       "definitionEn": "A person or source whose knowledge or judgement is accepted as reliable; here, other authoritative writers or works consulted by the author.",
-      "otherSensesEn": "1) The power to give orders or exercise control.\n2) The official right or permission to act.\n3) the authorities: officials or bodies with decision-making power.\n4) Influence that comes from respected knowledge or position."
+      "otherSensesEn": "1) The power to give orders or exercise control.\n2) The official right or permission to act.\n3) the authorities: officials or bodies with decision-making power.\n4) Influence that comes from respected knowledge or position.\n5) a person with expert knowledge who is accepted as a reliable source",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n. plural",
+        "n.",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 61,
@@ -713,13 +1085,20 @@
       "ipa": "/ˌdɪsəˈɡriː ɒn/",
       "partOfSpeech": "v. phr.",
       "definition": "对某个问题持不同意见或有不同说法。本文指不同权威资料对同一批事实以及其他事实并不一致。",
-      "otherSenses": "",
+      "otherSenses": "1) disagree with somebody：（食物、气候等）使某人身体不适；不是“意见不同”的意思。",
       "supplementation": "Pattern & Collocation:\ndisagree on the facts 对事实的说法不同\ndisagree on a policy 对政策有分歧\ndisagree with sb about sth 与某人就某事意见不同\nagree to disagree 同意保留分歧\n\nContrast:\ndisagree on：对某议题持不同意见\ndiffer on：在某议题上的说法或观点不同，语气较中性\nbe at odds over：因某议题而意见相左，常暗示较明显的冲突\n\nUsage Note:\n本文 they 指前面的 authorities；disagreed on the same facts 是“对同一批事实的解释或记载不一致”，不表示事实本身发生改变。",
       "examples": "disagree on: Disagreement between us is nothing new – we disagree on a lot of things and that’s OK. [https://www.theguardian.com/lifeandstyle/2016/feb/20/a-letter-to-my-mother-who-wont-accept-we-dont-want-children]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/disagree",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · disagree (user-provided Oxford excerpt)",
       "definitionEn": "To hold different opinions or give different accounts concerning an issue; here, for authorities to conflict over the same facts and additional facts.",
-      "otherSensesEn": ""
+      "otherSensesEn": "1) disagree with somebody: of food or a climate, make a person feel ill or uncomfortable",
+      "otherSensePartsOfSpeech": [
+        "v. phr."
+      ],
+      "otherSenseExampleIndices": [
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 39,
@@ -729,15 +1108,26 @@
       "imageSha256": "",
       "word": "appeal to sb for help",
       "ipa": "/əˈpiːld tuː/",
-      "partOfSpeech": "verb phrase (appeal v.)",
+      "partOfSpeech": "v. phr. (appeal v.)",
       "definition": "向某人恳求帮助；原句中的 appealed to 是省略式，表示“有人向这位图书管理员求助”。",
-      "otherSenses": "",
+      "otherSenses": "1) appeal to somebody：对某人有吸引力；引起兴趣。\n2) appeal：（法律等）上诉；申诉；要求复议。\n3) appeal（名词）：呼吁、请求；上诉；吸引力。",
       "supplementation": "Pattern & Collocation:\nappeal to sb for help 向某人求助\nappeal to sb to do sth 呼吁某人做某事\nappeal to sb's interests 吸引某人的兴趣\nappeal against a decision 对决定提出上诉\nappeal to reason/common sense 诉诸理性／常识\n\nContrast:\nappeal to sb for help：向某人恳切求助\nask sb for help：普通、中性的求助表达\nrequest assistance from sb：正式地请求某人协助\n\nUsage Note:\nThe librarian, appealed to, ... 中 appealed to 是补充性的过去分词短语，意为“被求助”。被动结构保留介词 to；主动句可说 appeal to the librarian for help。",
       "examples": "appeal to sb for help: The widow of friendly fire victim Matty Hull today appealed to the US president for help in finding out the truth about her husband's death. [https://www.theguardian.com/uk/2007/mar/15/military.world]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/appeal_2",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · appeal (user-provided Oxford excerpt)",
       "definitionEn": "To make an earnest request to someone for help; in the original sentence, appealed to means that the librarian was asked for assistance.",
-      "otherSensesEn": ""
+      "otherSensesEn": "1) appeal to somebody: attract or interest a person\n2) appeal: ask a higher court or other authority to review and change a decision\n3) appeal: a request for help, a legal request for review, or an attractive quality",
+      "otherSensePartsOfSpeech": [
+        "v. [I]",
+        "v. [I/T] (law)",
+        "n. [C/U]"
+      ],
+      "otherSenseExampleIndices": [
+        null,
+        null,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 40,
@@ -747,15 +1137,26 @@
       "imageSha256": "",
       "word": "call on",
       "ipa": "/kɔːl ɒn/；/kɔːl əˈpɒn/",
-      "partOfSpeech": "phrasal verb",
+      "partOfSpeech": "phr. v.",
       "definition": "短暂拜访某人；原句表示作者随后去拜访 Jones 教授。",
-      "otherSenses": "1) 正式请求或要求某人做某事。\n2) 正式请某人发言。",
+      "otherSenses": "1) 正式请求或要求某人做某事。\n2) 正式请某人发言。\n3) call on/upon sth：运用、调动某种品质、技能或资源。",
       "supplementation": "Pattern & Collocation:\ncall on/upon sb 拜访某人\ncall on sb to do sth 正式要求某人做某事\ncall on a customer 拜访客户\n\nContrast:\ncall on sb：拜访某人，此义较正式\nvisit sb：普通地拜访某人，停留时间可长可短\npay a visit to sb：较正式地说去拜访某人\n\nUsage Note:\ncall on sb 在本文是“拜访某人”；call on sb to do sth 则表示“要求某人做某事”。介词 on 后接拜访对象，是否接 to do 会改变短语的意思。",
       "examples": "call on: However, I remember an embarrassing moment in New York, in 1989, when I called on Chinua Achebe at an NYU-run apartment block in which he was staying. [https://www.theguardian.com/books/2008/jul/22/keywords.novelists.lethem.thirlwell.farah.meek]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/call_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · call on / call (visit sense checked in the Oxford call verb entry) (user-provided Oxford excerpt)",
       "definitionEn": "To make a short visit to someone; in the source sentence, the writer then went to visit Professor Jones.",
-      "otherSensesEn": "1) call on/upon someone to do something: to formally ask or demand that they act.\n2) call on/upon someone: to formally invite them to speak."
+      "otherSensesEn": "1) call on/upon someone to do something: to formally ask or demand that they act.\n2) call on/upon someone: to formally invite them to speak.\n3) call on/upon something: use a quality, skill or resource when it is needed",
+      "otherSensePartsOfSpeech": [
+        "phr. v.",
+        "phr. v.",
+        "phr. v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 41,
@@ -773,7 +1174,16 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/industry",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · industry (user-provided Oxford excerpt)",
       "definitionEn": "Steady hard work and diligence; the professor is praising the effort the writer put into researching the subject.",
-      "otherSensesEn": "1) The production of goods, especially in factories.\n2) A particular field of business and the people in it."
+      "otherSensesEn": "1) The production of goods, especially in factories.\n2) A particular field of business and the people in it.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 62,
@@ -791,7 +1201,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/curious",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · curious (user-provided Oxford excerpt)",
       "definitionEn": "Eager to learn and understand; the writer researched history out of curiosity, not to seem obedient.",
-      "otherSensesEn": "1) Strange or unusual."
+      "otherSensesEn": "1) Strange or unusual.",
+      "otherSensePartsOfSpeech": [
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 43,
@@ -809,7 +1226,20 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/mystery",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · mystery (user-provided Oxford excerpt)",
       "definitionEn": "A question or situation that is difficult to explain and has not yet been answered; here, conflicting historical sources deepen the uncertainty.",
-      "otherSensesEn": "1) A person or thing that seems strange because little is known about them.\n2) The quality of being difficult to explain, especially in an intriguing way.\n3) A story, film or play whose crime or puzzle is explained at the end.\n4) A religious belief that cannot be scientifically explained or proved."
+      "otherSensesEn": "1) A person or thing that seems strange because little is known about them.\n2) The quality of being difficult to explain, especially in an intriguing way.\n3) A story, film or play whose crime or puzzle is explained at the end.\n4) A religious belief that cannot be scientifically explained or proved.",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n.",
+        "n.",
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 104,
@@ -819,7 +1249,7 @@
       "imageSha256": "",
       "word": "clear up",
       "ipa": "/ˌklɪər ˈʌp/",
-      "partOfSpeech": "phrasal verb",
+      "partOfSpeech": "phr. v.",
       "definition": "把问题解释清楚或解决；原句指书籍澄清了那个历史问题。",
       "otherSenses": "1) 指天气：放晴。\n2) 指疾病或感染：消失、痊愈。\n3) 收拾、整理某个地方。\n4) clear-up（英式名词）：打扫、清理。",
       "supplementation": "Pattern & Collocation:\nclear up a mystery/problem 解开谜团／解决问题（本文）\nclear up confusion/a misunderstanding 消除困惑／误会\nthe weather clears up 天气放晴\na rash clears up 皮疹消退\nclear up a mess 收拾乱摊子\n\nContrast:\nclear up：把问题或误会解释清楚\nresolve：把问题或争议最终解决\nsolve：找出问题、谜题的答案\n\nUsage Note:\nclear up 是可分短语动词：clear the problem up / clear it up。本文 clearing up the historical question 表示“把历史问题解释清楚”。",
@@ -830,7 +1260,20 @@
         "clearing up"
       ],
       "definitionEn": "To solve or explain a problem or mystery so that it becomes understood; in the source sentence, a book clarified the historical question.",
-      "otherSensesEn": "1) Of weather: to become fine or bright.\n2) Of an illness or infection: to disappear.\n3) To tidy a place by putting things away.\n4) clear-up (noun, British English): an act of tidying and removing rubbish."
+      "otherSensesEn": "1) Of weather: to become fine or bright.\n2) Of an illness or infection: to disappear.\n3) To tidy a place by putting things away.\n4) clear-up (noun, British English): an act of tidying and removing rubbish.",
+      "otherSensePartsOfSpeech": [
+        "phr. v.",
+        "phr. v.",
+        "phr. v.",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 45,
@@ -840,7 +1283,7 @@
       "imageSha256": "9462a543425fc4fa52e92572b6ea4b11e0dd6b99c8965ab345e4da61606063d6",
       "word": "fascinate",
       "ipa": "/ˈfæsɪneɪtɪd/",
-      "partOfSpeech": "v. (fascinated: adj. in the text)",
+      "partOfSpeech": "v.",
       "definition": "深深吸引、使着迷；本文 I was fascinated 表示作者被历史研究深深吸引。",
       "otherSenses": "",
       "supplementation": "Pattern & Collocation:\nbe fascinated by/with sth 对……着迷\nbe fascinated to learn/hear ... 得知／听到……而极感兴趣\nfascination with sth 对……的着迷\n\nContrast:\nfascinate：深深吸引，使人很感兴趣\ncaptivate：迷住、牢牢吸引人的注意，感情色彩更强\nintrigue：引起好奇与兴趣，常带未解之谜的意味\n\nUsage Note:\nfascinate sb 是及物动词；人感到着迷可说 be fascinated by/with sth，令人着迷的事物可用 fascinating 修饰。本文 I was fascinated 说的是作者的感受。",
@@ -851,7 +1294,11 @@
         "fascinated"
       ],
       "definitionEn": "To attract and interest someone very strongly; in “I was fascinated,” the author became absorbed in his historical research.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "contextPartOfSpeech": "adj. (fascinated，过去分词作表语)",
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 46,
@@ -863,13 +1310,24 @@
       "ipa": "/ɪˈsenʃəl/",
       "partOfSpeech": "adj.",
       "definition": "本质性的；根本的。essential differences 指观点和事实方面并非细枝末节的重大差异。",
-      "otherSenses": "1) essentials（复数名词）：必需品。\n2) essentials（复数名词）：某学科的要点或基础知识。",
+      "otherSenses": "1) essentials（复数名词）：必需品。\n2) essentials（复数名词）：某学科的要点或基础知识。\n3) 必不可少的；必要的。注意：原文 essential differences 侧重“根本性的差异”，这里是其常见的“必要”义。",
       "supplementation": "Pattern & Collocation:\nan essential difference 根本差异\nthe essential nature of sth 某事物的本质\nbe essential to/for sth 对……必不可少\nthe bare essentials 最基本的必需品\n\nContrast:\nessential：本文指触及本质的、根本性的\nfundamental：涉及基础或根本层面\nsubstantive：有实际内容或重大影响，不是表面上的\n\nUsage Note:\nessential differences 应按“根本／实质性差异”理解，不能译成“必要的差异”。\nessential to/for 后接名词或 doing；It is essential to do sth 中 to 引出不定式。\nessentially 常意为“本质上／基本上”，不是“一定要”。",
       "examples": "essential: \"Intolerance of corruption is essential to the survival of our representative democracy and way of life,\" he said. [https://www.theguardian.com/australia-news/2015/feb/09/coal-approvals-must-be-overhauled-to-stop-corruption-says-former-nsw-watchdog]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/essential_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · essential (user-provided Oxford excerpt)",
       "definitionEn": "Fundamental and central rather than minor; essential differences are major differences in viewpoints and facts.",
-      "otherSensesEn": "1) essentials (plural noun): things that are necessary.\n2) essentials (plural noun): the main facts or basic knowledge of a subject."
+      "otherSensesEn": "1) essentials (plural noun): things that are necessary.\n2) essentials (plural noun): the main facts or basic knowledge of a subject.\n3) absolutely needed; too important to do without",
+      "otherSensePartsOfSpeech": [
+        "n. plural",
+        "n. plural",
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 47,
@@ -887,7 +1345,20 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_1",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · suspect (user-provided Oxford excerpt)",
       "definitionEn": "To think that something is probably true without having definite proof; the writer's research led him to doubt the constitution-makers' real intentions.",
-      "otherSensesEn": "1) To believe someone may have done something wrong or illegal.\n2) To distrust something's honesty or reliability.\n3) suspect (noun): a person thought to have committed a crime.\n4) suspect (adjective): possibly false, dangerous or unreliable."
+      "otherSensesEn": "1) To believe someone may have done something wrong or illegal.\n2) To distrust something's honesty or reliability.\n3) suspect (noun): a person thought to have committed a crime.\n4) suspect (adjective): possibly false, dangerous or unreliable.",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "v.",
+        "n.",
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 48,
@@ -899,13 +1370,22 @@
       "ipa": "/ˈseɪkrɪd/",
       "partOfSpeech": "adj.",
       "definition": "被视为至高、不可质疑而受到崇敬的；这里的 sacred Constitution 带有对传统神圣化态度的暗示。",
-      "otherSenses": "1) 与神或宗教有关；神圣的。",
+      "otherSenses": "1) 与神或宗教有关；神圣的。\n2) 特别珍贵的；不容侵犯或随意改变的，可用于个人隐私、回忆等非宗教事物。",
       "supplementation": "Pattern & Collocation:\na sacred text/site 宗教经典／圣地\na sacred duty 神圣职责\nbe sacred to sb 对某人而言神圣不可侵犯\n\nContrast:\nsacred：因宗教、文化或情感而受到高度尊崇\nsacrosanct：被视为不可质疑或侵犯，尤用于非宗教语境\nrevered：备受崇敬，强调人们持有的态度\n\nUsage Note:\n本文 sacred 带修辞意味：宪法受到近乎神圣的尊崇。不要机械译为“宗教性的宪法”。\nsacred 是两音节 /ˈseɪkrɪd/，结尾不是 /kt/。",
       "examples": "sacred: It is a sacred moment, and you feel blessed merely to have witnessed it. [https://www.theguardian.com/uk-news/2015/feb/08/poor-glasgow-safe-seat-cranhill-labour-snp-election-voters]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/sacred",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · sacred (user-provided Oxford excerpt)",
       "definitionEn": "Regarded with such deep reverence that it should not be questioned or challenged; sacred Constitution hints at a tradition of treating the document as untouchable.",
-      "otherSensesEn": "1) Connected with God, a god or religion; holy."
+      "otherSensesEn": "1) Connected with God, a god or religion; holy.\n2) treated as especially precious or deserving protection, often for personal reasons",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 50,
@@ -923,7 +1403,18 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/democratic",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · democratic (user-provided Oxford excerpt)",
       "definitionEn": "Based on government by elected representatives and on the political rights of the people.",
-      "otherSensesEn": "1) Giving members equal rights to participate in an organization's decisions.\n2) Based on social equality rather than wealth or class.\n3) Democratic (capitalized): relating to the US Democratic Party."
+      "otherSensesEn": "1) Giving members equal rights to participate in an organization's decisions.\n2) Based on social equality rather than wealth or class.\n3) Democratic (capitalized): relating to the US Democratic Party.",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "adj.",
+        "adj."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 51,
@@ -933,7 +1424,7 @@
       "imageSha256": "",
       "word": "Napoleon",
       "ipa": "/nəˈpəʊliən/",
-      "partOfSpeech": "proper noun",
+      "partOfSpeech": "n. (proper)",
       "definition": "拿破仑·波拿巴；原句说作者童年时会在想象游戏中把自己当作拿破仑。",
       "otherSenses": "",
       "supplementation": "Pattern & Collocation:\nNapoleon Bonaparte 拿破仑·波拿巴\nthe Napoleonic Wars 拿破仑战争\nNapoleonic France 拿破仑时期的法国\npretend/play that one is Napoleon 假扮拿破仑\n\nUsage Note:\nNapoleon 是人名，首字母大写。原文说儿童游戏中“I was Napoleon”，相当于“我扮演拿破仑”；形容词 Napoleonic 指拿破仑本人或其时代。",
@@ -941,7 +1432,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/the-napoleonic-wars",
       "dictionaryLabel": "Oxford Advanced Learner’s Dictionary: the Napoleonic Wars（Oxford Learner’s 无 Napoleon 独立人物词条，链接包含人物说明的文化条目）",
       "definitionEn": "Napoleon Bonaparte, the French military leader and emperor; as a child, the writer imagined himself playing Napoleon.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 52,
@@ -959,7 +1453,10 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/trapper",
       "dictionaryLabel": "Oxford Advanced Learner’s Dictionary: trapper（该词通常只有这一核心义）",
       "definitionEn": "A person who catches animals using traps; here, one of the roles the writer imagined playing as a child.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 53,
@@ -977,7 +1474,20 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/making",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · making (user-provided Oxford excerpt)",
       "definitionEn": "The process of creating or forming something; the making of the American Constitution means the process by which the Constitution was produced.",
-      "otherSensesEn": "1) be the making of someone: to help them become better or more successful.\n2) have the makings of something: to have the qualities needed to become it.\n3) in the making: in the process of being created or formed.\n4) of your own making: caused by your own actions."
+      "otherSensesEn": "1) be the making of someone: to help them become better or more successful.\n2) have the makings of something: to have the qualities needed to become it.\n3) in the making: in the process of being created or formed.\n4) of your own making: caused by your own actions.",
+      "otherSensePartsOfSpeech": [
+        "n. phr.",
+        "n. phr.",
+        "n. phr.",
+        "n. phr."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 64,
@@ -995,7 +1505,14 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/era",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · era (user-provided Oxford excerpt)",
       "definitionEn": "A historical period marked by distinctive events or characteristics; here, eras means different historical periods.",
-      "otherSensesEn": "1) In geology, a major division of time below an eon."
+      "otherSensesEn": "1) In geology, a major division of time below an eon.",
+      "otherSensePartsOfSpeech": [
+        "n. (geology)"
+      ],
+      "otherSenseExampleIndices": [
+        0
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 105,
@@ -1005,7 +1522,7 @@
       "imageSha256": "",
       "word": "disagreeing",
       "ipa": "/ˌdɪsəˈɡriːɪŋ/",
-      "partOfSpeech": "present participle used attributively (from disagree v.)",
+      "partOfSpeech": "adj. (disagreeing，-ing 形式作定语)",
       "definition": "彼此说法不一致的；disagreeing authorities 指对历史事实或解释持不同意见的权威资料或学者。",
       "otherSenses": "",
       "supplementation": "Pattern & Collocation:\ndisagree with sb 不同意某人\ndisagree about/on/over sth 对某事意见不一\nstrongly/fundamentally disagree 强烈／根本不同意\ndisagreeing accounts 相互矛盾的说法\nagree to disagree 同意保留分歧\n\nContrast:\ndisagreeing：彼此观点或说法不一致的\nconflicting：相互矛盾的，冲突通常更明显\ndivergent：逐渐分开的、不同的，较正式\n\nUsage Note:\n本文 disagreeing authorities 指“观点相互冲突的权威作者”。谈论意见时通常说 disagree with somebody、disagree about/on something。",
@@ -1016,7 +1533,10 @@
         "disagreeing"
       ],
       "definitionEn": "Holding different opinions or giving conflicting accounts; disagreeing authorities are experts or sources that do not agree about historical facts or their interpretation.",
-      "otherSensesEn": ""
+      "otherSensesEn": "",
+      "otherSensePartsOfSpeech": [],
+      "otherSenseExampleIndices": [],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 54,
@@ -1026,15 +1546,26 @@
       "imageSha256": "a88a33596a4cf9be12cb53f9b1b3b13f1d7c2b6322be3aba8ef79f2bd3730d10",
       "word": "clinching",
       "ipa": "/ˈklɪntʃɪŋ/",
-      "partOfSpeech": "present participle used adjectivally (from clinch v.)",
+      "partOfSpeech": "adj. (clinching，-ing 形式作定语)",
       "definition": "起决定作用的；能最终证实结论的。clinching evidence 指足以定论的确凿证据。",
-      "otherSenses": "",
+      "otherSenses": "1) clinch：最终敲定；解决；赢得。\n2) clinch：紧紧抱住；（拳击中）抱住对手。\n3) clinch（名词）：（拳击）扭抱；紧紧拥抱。",
       "supplementation": "Pattern & Collocation:\nclinching evidence 决定性证据\nclinch a deal 敲定交易\nclinch a victory/title 锁定胜利／冠军\n\nContrast:\nclinching：足以使问题或争论最终定论\nconclusive：证据足以支持最终结论，较正式\ndecisive：在结果上起决定作用，不限于证据\n\nUsage Note:\nclinching 在本文修饰 evidence，表示足以定论。词典中的 clinch 读 /klɪntʃ/，加 -ing 后读 /ˈklɪntʃɪŋ/。\nclinch 常见于新闻和非正式表达，不能把它笼统标成正式词；较正式论证可用 conclusive evidence。\n不要与 cinch“轻而易举的事／束紧”混淆。",
       "examples": "cliching: It is odd that this was regarded as a clinching argument, as there are more than enough jets in Afghanistan. [https://www.economist.com/britain/2010/11/11/the-seat-of-their-pants]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/clinch_1",
       "dictionaryLabel": "Oxford Advanced Learner’s Dictionary: clinch (verb)（clinching 作为派生形式列在父词条）",
       "definitionEn": "Decisive and sufficient to settle a question; clinching evidence is proof strong enough to establish a conclusion finally.",
-      "otherSensesEn": ""
+      "otherSensesEn": "1) clinch: finally settle an argument, confirm an agreement or secure a victory\n2) clinch: hold somebody tightly, especially in boxing or an embrace\n3) clinch: a tight hold in boxing or a close embrace",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "v. [I/T]",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        null,
+        null,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 55,
@@ -1046,13 +1577,28 @@
       "ipa": "/ˈvænəti/",
       "partOfSpeech": "n.",
       "definition": "虚荣心；对自己的外表、能力或成就过度自负。",
-      "otherSenses": "1) 文学用法：与重大问题相比的渺小、无足轻重。\n2) vanities（复数）：表现虚荣的行为或态度。\n3) 北美英语：带抽屉和镜子的梳妆台。",
+      "otherSenses": "1) 文学用法：与重大问题相比的渺小、无足轻重。\n2) vanities（复数）：表现虚荣的行为或态度。\n3) 北美英语：带抽屉和镜子的梳妆台。\n4) （文学）虚妄；徒劳；人的追求缺乏长久意义。\n5) （尤北美英语）带洗脸盆的浴室柜；盥洗台。",
       "supplementation": "Pattern & Collocation:\npersonal vanity 个人虚荣\nappeal to sb's vanity 满足某人的虚荣\nvanity about sth 对……的虚荣\n\nContrast:\nvanity：过分在意自己的外表、才能或成就\nconceit：过高评价自己的能力或重要性\nself-importance：自以为重要，突出自我中心\n\nUsage Note:\n本文 vanity 是不可数抽象名词，指虚荣心。then 限定的是作者当时的主要动机，不等于说他从不虚荣。\nvanities 是表现虚荣的行为；vanity 在北美英语还可指梳妆台。",
       "examples": "vanity: He was no stranger to vanity, and would make good use of his appearance. https://www.economist.com/baobab/2013/12/05/the-long-walk-is-over[]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/vanity",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · vanity (user-provided Oxford excerpt)",
       "definitionEn": "Excessive pride in one’s appearance, abilities or achievements; here, the desire to impress others was not the author’s chief motive.",
-      "otherSensesEn": "1) In literary use, the unimportance of something compared with matters such as death.\n2) vanities (plural): acts or attitudes showing excessive pride.\n3) In North American English, a dressing table with drawers and a mirror."
+      "otherSensesEn": "1) In literary use, the unimportance of something compared with matters such as death.\n2) vanities (plural): acts or attitudes showing excessive pride.\n3) In North American English, a dressing table with drawers and a mirror.\n4) futility or the failure of human efforts to achieve lasting value\n5) a bathroom cabinet or unit with a washbasin built into its top",
+      "otherSensePartsOfSpeech": [
+        "n.",
+        "n. plural",
+        "n. [C]",
+        "n. [U] (literary)",
+        "n. [C]"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1,
+        2,
+        null,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 56,
@@ -1062,7 +1608,7 @@
       "imageSha256": "",
       "word": "ruling",
       "ipa": "/ˌruːlɪŋ ˈpæʃən/",
-      "partOfSpeech": "adj. here; ruling can also be a noun",
+      "partOfSpeech": "adj.",
       "definition": "占支配地位的；主导的。ruling passion 指最强烈、最能支配一个人的欲望或激情。",
       "otherSenses": "1) ruling（形容词）：执政或统治的。\n2) ruling（名词）：正式裁决，尤其是法官作出的裁定。",
       "supplementation": "Pattern & Collocation:\na ruling passion 主导性的热情\na passion for history 对历史的热爱\nbe driven by curiosity 受好奇心驱动\n\nContrast:\nruling：起主导或支配作用\ndominant：在多个力量或因素中占优势\nprevailing：在某时或某地最普遍、最有影响力\n\nUsage Note:\n本文 ruling 在名词 passion 前作定语，指“支配性的、主导的”；不是 was ruling 的进行时结构。\n不要与名词 ruling（正式裁决）混淆。",
@@ -1070,7 +1616,16 @@
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/rule_2",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · ruling (context sense from rule; ruling noun and adjective entries also checked) (user-provided Oxford excerpt)",
       "definitionEn": "Having the strongest influence or control; a ruling passion is the most powerful desire or emotion governing a person.",
-      "otherSensesEn": "1) ruling (adjective): governing or having control over a group or country.\n2) ruling (noun): an official decision, especially by a judge."
+      "otherSensesEn": "1) ruling (adjective): governing or having control over a group or country.\n2) ruling (noun): an official decision, especially by a judge.",
+      "otherSensePartsOfSpeech": [
+        "adj.",
+        "n."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 57,
@@ -1080,15 +1635,24 @@
       "imageSha256": "7a1ef2830987c7a568784a66aec63a66c3d0142189799e5971e002ab35e0d590",
       "word": "quickening",
       "ipa": "/ˈkwɪkənɪŋ/",
-      "partOfSpeech": "present participle used adjectivally (from quicken v.)",
+      "partOfSpeech": "adj. (quickening，-ing 形式作定语)",
       "definition": "正在增强、变得活跃的；a quickening sense 指逐渐强烈起来的意识。",
-      "otherSenses": "1) 指速度或节奏：加快。",
+      "otherSenses": "1) 指速度或节奏：加快。\n2) quickening（医学名词）：孕妇首次感觉到胎动；不是本文“逐渐增强的意识”的形容词用法。",
       "supplementation": "Pattern & Collocation:\na quickening sense of purpose 逐渐增强的目标感\nquicken interest 激发兴趣\nquicken the pace 加快节奏\none’s pulse quickens 脉搏加快\n\nContrast:\nquickening：正逐渐增强或活跃\ngrowing：正逐渐增长，含义较广\nintensifying：强度正不断增加\n\nUsage Note:\nquickening 是 quicken 的现在分词，在 a quickening sense 中作定语，表示意识逐渐增强。quicken the pace 表加快步伐；a pulse quickens 表脉搏加快。",
       "examples": "quickening: The aims of some state experiments now under way include the revitalization of intermediary institutions between individuals and government, and a quickening sense of urban community. [https://www.nytimes.com/1998/05/24/books/kennedy-family-values.html]",
       "dictionarySource": "https://www.oxfordlearnersdictionaries.com/definition/english/quicken",
       "dictionaryLabel": "Oxford Advanced Learner's English-Chinese Dictionary (10th Edition) · quicken (quickening interpreted from the quicken verb entry) (user-provided Oxford excerpt)",
       "definitionEn": "Becoming stronger or more active; a quickening sense is an awareness that is gradually intensifying.",
-      "otherSensesEn": "1) Of speed or pace: becoming quicker or making something quicker."
+      "otherSensesEn": "1) Of speed or pace: becoming quicker or making something quicker.\n2) quickening: the first awareness of a fetus moving during pregnancy",
+      "otherSensePartsOfSpeech": [
+        "v.",
+        "n. [U] (medicine)"
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        null
+      ],
+      "otherSensesReviewed": true
     },
     {
       "sourceRow": 106,
@@ -1098,7 +1662,7 @@
       "imageSha256": "",
       "word": "cry out",
       "ipa": "/ˌkraɪ ˈaʊt/",
-      "partOfSpeech": "phrasal verb",
+      "partOfSpeech": "phr. v.",
       "definition": "迫切需要；本文每一章历史“都迫切需要重写”，是拟人化表达。",
       "otherSenses": "1) 因疼痛、害怕或惊讶而大叫。\n2) 大声喊出某句话或某人的名字。",
       "supplementation": "Pattern & Collocation:\nbe crying out to be done 某事显然迫切需要完成（本文）\ncry out for sth 迫切需要某物\ncry out in pain/fear 因疼痛／恐惧而大叫\ncry out a name 大声喊出名字\n\nContrast:\ncry out to be done：迫切需要做某事，带拟人色彩\nbe in urgent need of：迫切需要，语气直接\nsorely need：非常需要，较书面\n\nUsage Note:\ncry out for sth 表“迫切需要某物”；cry out to be done 表“迫切需要被做”，常用于进行时。本文把历史篇章拟人化，说它们迫切需要重写。",
@@ -1109,7 +1673,16 @@
         "crying out"
       ],
       "definitionEn": "To be in urgent need of something; here, every chapter of history urgently needs to be rewritten.",
-      "otherSensesEn": "1) To make a sudden loud sound because of pain, fear or surprise.\n2) To shout particular words or someone's name loudly."
+      "otherSensesEn": "1) To make a sudden loud sound because of pain, fear or surprise.\n2) To shout particular words or someone's name loudly.",
+      "otherSensePartsOfSpeech": [
+        "phr. v.",
+        "phr. v."
+      ],
+      "otherSenseExampleIndices": [
+        0,
+        1
+      ],
+      "otherSensesReviewed": true
     }
   ]
 }

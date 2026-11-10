@@ -95,8 +95,13 @@ test('02–10 word cards attach examples to their sense and hide unsupported com
       assert.equal(find(context, node => node.props?.className === 'word-context-example'), example, `${articleId}/${row.sourceRow}: example belongs inside context meaning`);
       assert.equal(find(primary, node => node.props?.className === 'word-picture-pending'), undefined, `${articleId}/${row.sourceRow}: no invented image block`);
       if (!record.image) assert.equal(find(primary, node => node.props?.className === 'word-picture'), undefined, `${articleId}/${row.sourceRow}: missing picture leaves no placeholder`);
-      assert.equal(Boolean(other), Boolean(record.otherMeanings.length), `${articleId}/${row.sourceRow}: other meanings section`);
-      if (other) assert.ok(find(other, node => node.type?.name === 'MeaningExamples'), `${articleId}/${row.sourceRow}: additional-sense examples stay in their section`);
+      const reviewedSingleSense = record.otherMeaningsStatus === 'reviewed_single_sense';
+      assert.equal(Boolean(other), Boolean(record.otherMeanings.length) || reviewedSingleSense, `${articleId}/${row.sourceRow}: other meanings section`);
+      if (record.otherMeanings.length) assert.ok(find(other, node => node.type?.name === 'MeaningExamples'), `${articleId}/${row.sourceRow}: additional-sense examples stay in their section`);
+      else if (reviewedSingleSense) {
+        assert.ok(find(other, node => node.props?.className === 'word-single-sense'), `${articleId}/${row.sourceRow}: reviewed single sense is explained`);
+        assert.equal(find(other, node => node.type?.name === 'MeaningExamples'), undefined, `${articleId}/${row.sourceRow}: no invented alternate sense`);
+      }
       if (example) {
         assert.equal(example.type, 'details', `${articleId}/${row.sourceRow}: context example is an optional disclosure`);
         const english = find(example, node => node.type === 'p' && node.props?.lang === 'en');

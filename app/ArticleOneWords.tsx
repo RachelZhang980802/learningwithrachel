@@ -1,6 +1,6 @@
 "use client";
 
-import { Fragment, useState, type ReactNode } from "react";
+import { useState, type ReactNode } from "react";
 import { VocabularyText } from "./ArticleVocabulary";
 import vocabulary from "./article01Vocabulary.json";
 import { article01PressTranslations } from "./article01PressTranslations";
@@ -11,6 +11,7 @@ import { SoMuchAsUses } from "./SoMuchAsUses";
 import { CollocationLines } from "./CollocationLines";
 import { WordFamilyTreeGame } from "./WordFamilyTreeGame";
 import { article01WordFamilies } from "./article01WordFamilies";
+import { PressExample } from "./PressExample";
 
 const pressHighlightOverrides: Record<number, string[]> = {
   9: ["minds fixed"],
@@ -31,17 +32,6 @@ function parsePressExample(text: string) {
   return { sentence, url };
 }
 
-function HighlightedPressText({ text, terms }: { text: string; terms: string[] }) {
-  const cleanTerms = [...new Set(terms.map(term => term.trim()).filter(Boolean))].sort((a, b) => b.length - a.length);
-  if (!cleanTerms.length) return <>{text}</>;
-  const escaped = cleanTerms.map(term => term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
-  const pattern = new RegExp(`(${escaped.join("|")})`, "gi");
-  const exact = new Set(cleanTerms.map(term => term.toLowerCase()));
-  return <>{text.split(pattern).map((part, index) => exact.has(part.toLowerCase())
-    ? <mark className="word-press-highlight" key={index}>{part}</mark>
-    : <Fragment key={index}>{part}</Fragment>)}</>;
-}
-
 export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdornment }: { sentence: number; text: string; initialSourceRow?: number; contextAdornment?: ReactNode }) {
   const entries = vocabulary.records.filter((entry) => entry.sentence === sentence);
   const [selected, setSelected] = useState(() => Math.max(0, entries.findIndex(item => item.sourceRow === initialSourceRow)));
@@ -59,6 +49,8 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   const otherMeaningItems: MeaningExampleItem[] = otherEnglishLines.map((english, index) => ({
     english,
     chinese: otherChineseLines[index] || "释义见词典条目。",
+    partOfSpeech: "otherSensePartsOfSpeech" in entry && Array.isArray(entry.otherSensePartsOfSpeech) ? entry.otherSensePartsOfSpeech[index] : undefined,
+    catalogIndex: "otherSenseExampleIndices" in entry && Array.isArray(entry.otherSenseExampleIndices) ? entry.otherSenseExampleIndices[index] : undefined,
   }));
   const sections = entry.supplementation.split(/\n\s*\n/).filter(Boolean);
   const labels: Record<string, string> = {
@@ -75,9 +67,9 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   if (entry.word || entry.definition || entry.image) cards.push({ id: "meaning", title: "Word & meaning", subtitle: "词义与发音", content: <section className="word-primary">
         <h2>{entry.word || "Supplementation"}</h2>
         {(entry.partOfSpeech || entry.ipa || entry.word) && <div className="word-pronunciation"><span>{entry.partOfSpeech}</span><span>{entry.ipa}</span>{entry.word && <WordPronunciation key={entry.sourceRow} word={entry.word} sourceRow={entry.sourceRow}/>}</div>}
-        {entry.definition && <section className="word-context-meaning"><h3>Meaning in context</h3>{definitionEn && <p className="word-definition word-definition-en" lang="en">{definitionEn}</p>}<p className="word-definition word-definition-zh" lang="zh-CN">{entry.definition}</p></section>}
+        {entry.definition && <section className="word-context-meaning"><h3>Meaning in context <span className="word-sense-pos">{"contextPartOfSpeech" in entry && typeof entry.contextPartOfSpeech === "string" ? entry.contextPartOfSpeech : entry.partOfSpeech}</span></h3>{definitionEn && <p className="word-definition word-definition-en" lang="en">{definitionEn}</p>}<p className="word-definition word-definition-zh" lang="zh-CN">{entry.definition}</p></section>}
         {entry.image && <a className="word-picture" href={entry.image} target="_blank" rel="noopener noreferrer" aria-label={`查看 ${entry.word} 原图`}><img src={entry.image} alt={`${entry.word} · 表格原图`} loading="lazy"/><span>↗ 查看原图</span></a>}
-        {entry.word === "so much as" ? <SoMuchAsUses/> : otherMeaningItems.length > 0 && <section className="word-other"><h3>Other meanings</h3><MeaningExamples word={entry.word} items={otherMeaningItems}/></section>}
+        {entry.word === "so much as" ? <SoMuchAsUses/> : <section className="word-other"><h3>Other meanings</h3>{otherMeaningItems.length > 0 ? <MeaningExamples word={entry.word} items={otherMeaningItems}/> : <p className="word-single-sense">本词或表达没有需要另列的其他常用义项。</p>}</section>}
         {referenceLinks?.map((link) => <a className="word-dictionary" key={link.url} href={link.url} target="_blank" rel="noopener noreferrer">{link.label} ↗</a>)}
       </section> });
   const wordFamily = parsed.find(item => item.title === "Word Family / Formation");
@@ -95,7 +87,7 @@ export function ArticleOneWords({ sentence, text, initialSourceRow, contextAdorn
   const hasPressExample = Boolean(entry.examples?.trim() && entry.examples.trim() !== "—");
   const pressExample = parsePressExample(entry.examples ?? "");
   const pressHighlightTerms = pressHighlightOverrides[entry.sourceRow] ?? [entry.word];
-  cards.push({ id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{hasPressExample ? <><blockquote><p><HighlightedPressText text={pressExample.sentence} terms={pressHighlightTerms}/></p>{pressExample.url && <a className="word-press-source" href={pressExample.url} target="_blank" rel="noopener noreferrer">{pressExample.url}</a>}</blockquote><details className="word-translation"><summary>Translation</summary><p lang="zh-CN">{article01PressTranslations[entry.sourceRow] || "译文待补充。"}</p></details></> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> });
+  cards.push({ id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{hasPressExample ? <PressExample example={{ english: pressExample.sentence, chinese: article01PressTranslations[entry.sourceRow] || "译文待补充。", url: pressExample.url, source: pressExample.url ? new URL(pressExample.url).hostname.replace(/^www\./, "") : "Source" }} terms={pressHighlightTerms}/> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> });
   return <div className="word-workspace" data-source-row={entry.sourceRow}>
     <nav className="word-picker" aria-label="本句词条">
       <span>{entries.length} {entries.length === 1 ? "ENTRY" : "ENTRIES"}</span>

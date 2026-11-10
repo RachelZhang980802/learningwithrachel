@@ -7,8 +7,12 @@ const exampleCatalog = oxfordExamples as Record<string, Array<{ english: string;
 export type MeaningExampleItem = {
   english: string;
   chinese: string;
+  partOfSpeech?: string;
+  headword?: string;
   exampleEnglish?: string;
   exampleChinese?: string;
+  exampleLabel?: string;
+  catalogIndex?: number | null;
 };
 
 /** Turn a dictionary line such as "sense — 释义" into aligned bilingual text. */
@@ -23,12 +27,14 @@ export function MeaningExamples({ word, items, useCatalog = true }: { word: stri
   return <div className="meaning-examples" aria-label={`${word} 的词义与例句`}>
     {items.map((item, index) => {
       const open = openIndex === index;
-      const example = (useCatalog ? exampleCatalog[word]?.[index] : null) ?? (item.exampleEnglish ? { english: item.exampleEnglish, chinese: item.exampleChinese ?? "" } : null);
+      const catalogIndex = item.catalogIndex === undefined ? index : item.catalogIndex;
+      const example = (useCatalog && catalogIndex !== null ? exampleCatalog[word]?.[catalogIndex] : null) ?? (item.exampleEnglish ? { english: item.exampleEnglish, chinese: item.exampleChinese ?? "" } : null);
       if (!example) {
         return <div className="meaning-example meaning-example-empty" key={`${item.english}-${index}`}>
           <div className="meaning-example-trigger meaning-example-trigger-static">
             <span className="meaning-example-number">{index + 1}</span>
             <span className="meaning-example-copy">
+              {(item.headword || item.partOfSpeech) && <span className="meaning-example-meta">{item.headword && <strong>{item.headword}</strong>}{item.partOfSpeech && <span className="word-sense-pos">{item.partOfSpeech}</span>}</span>}
               <span className="meaning-example-en" lang="en">{item.english}</span>
               <span className="meaning-example-zh" lang="zh-CN">{item.chinese}</span>
             </span>
@@ -39,13 +45,14 @@ export function MeaningExamples({ word, items, useCatalog = true }: { word: stri
         <button type="button" className="meaning-example-trigger" aria-expanded={open} onClick={() => setOpenIndex(open ? null : index)}>
           <span className="meaning-example-number">{index + 1}</span>
           <span className="meaning-example-copy">
+            {(item.headword || item.partOfSpeech) && <span className="meaning-example-meta">{item.headword && <strong>{item.headword}</strong>}{item.partOfSpeech && <span className="word-sense-pos">{item.partOfSpeech}</span>}</span>}
             <span className="meaning-example-en" lang="en">{item.english}</span>
             <span className="meaning-example-zh" lang="zh-CN">{item.chinese}</span>
           </span>
           <span className="meaning-example-caret" aria-hidden="true">{open ? "−" : "+"}</span>
         </button>
         {open && <div className="meaning-example-answer" role="region">
-          <p className="meaning-example-label">Oxford example · 牛津例句</p>
+          <p className="meaning-example-label">{item.exampleLabel ?? "Oxford example · 牛津例句"}</p>
           <p className="meaning-example-en" lang="en">{example.english}</p>
           {example.chinese && <p className="meaning-example-zh" lang="zh-CN">{example.chinese}</p>}
           {example.source && <a className="meaning-example-source" href={example.source} target="_blank" rel="noopener noreferrer">Oxford Advanced Learner’s English-Chinese Dictionary (10th Edition) ↗</a>}

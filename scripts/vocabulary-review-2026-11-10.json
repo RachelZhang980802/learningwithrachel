@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-10",
+  "scope": "01–05：原文义、其他常用义、逐义词性和词族；保留专名及单义表达，不凭空补造义项。",
+  "total": 318,
+  "articles": {
+    "01": {
+      "headwords": 60,
+      "before": 121,
+      "after": 150
+    },
+    "02": {
+      "headwords": 50,
+      "before": 54,
+      "after": 90
+    },
+    "03": {
+      "headwords": 76,
+      "before": 111,
+      "after": 193
+    },
+    "04": {
+      "headwords": 61,
+      "before": 83,
+      "after": 124
+    },
+    "05": {
+      "headwords": 71,
+      "before": 132,
+      "after": 184
+    }
+  },
+  "press": {
+    "article": "03",
+    "attachmentExamples": 75,
+    "totalRows": 76,
+    "correctedPreliminaryUrl": "https://www.abc.net.au/news/2015-04-18/port-scores-first-win-beating-north-by-eight/6403550",
+    "addedHeadword": "established"
+  },
+  "sources": [
+    {
+      "label": "Cambridge: in relation to",
+      "url": "https://dictionary.cambridge.org/dictionary/english/in-relation-to"
+    },
+    {
+      "label": "Cambridge: ought to",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/ought-to"
+    },
+    {
+      "label": "Cambridge: flashpoint",
+      "url": "https://dictionary.cambridge.org/dictionary/english/flashpoint"
+    },
+    {
+      "label": "Cambridge: lag",
+      "url": "https://dictionary.cambridge.org/dictionary/english/lag"
+    },
+    {
+      "label": "Cambridge: bare",
+      "url": "https://dictionary.cambridge.org/dictionary/english/bare"
+    },
+    {
+      "label": "Oxford: conserve (noun)",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/conserve_2"
+    },
+    {
+      "label": "Collins: plummet",
+      "url": "https://www.collinsdictionary.com/us/dictionary/english/plummet"
+    },
+    {
+      "label": "日本国立国会图书馆：養子",
+      "url": "https://id.ndl.go.jp/auth/ndlsh/00574365"
+    },
+    {
+      "label": "Densho: yoshi glossary",
+      "url": "https://ddr.densho.org/media/ddr-densho-1000/ddr-densho-1000-108-transcript-fe3ffbaf92.htm"
+    },
+    {
+      "label": "IUPAC: quickening",
+      "url": "https://goldbook.iupac.org/terms/view/11161"
+    }
+  ]
+}

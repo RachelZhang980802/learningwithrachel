@@ -18,7 +18,10 @@
     "build:vercel": "NITRO_PRESET=vercel vinext build",
     "dev:vercel": "NITRO_PRESET=vercel vite",
     "preview:vercel": "node scripts/preview-vercel.mjs",
-    "build:aliyun": "NITRO_PRESET=node-server vinext build"
+    "build:aliyun": "NITRO_PRESET=node-server vinext build",
+    "dev:local": "NITRO_PRESET=vercel vite --host 127.0.0.1 --port 5173 --strictPort",
+    "build:local": "NITRO_PRESET=node-server vinext build",
+    "preview:local": "node scripts/preview-standalone.mjs"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",

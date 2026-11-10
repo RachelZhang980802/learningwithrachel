@@ -1,3 +1,15 @@
+# Learning with Rachel
+
+当前工作目录为下载中的 `网页设计1110/learningwithrachel`。后续网页内容、样式和素材都在这个项目中修改；Mac2 使用从 GitHub 拉取的同一版本继续工作。
+
+本地使用 Node.js 24（版本提示见 `.nvmrc`），依赖由 `package-lock.json` 固定。换电脑后运行 `npm ci`，让 npm 为新机器的 CPU 安装原生依赖。
+
+`npm run dev:local` 启动支持源码热更新的本地网页，地址为 <http://127.0.0.1:5173/#text>。`npm run build:local` 生成独立 Node 构建，随后用 `npm run preview:local` 查看编译预览；这两个命令可在 macOS 上执行，不依赖 Linux 的 flock/timeout。
+
+完整的 GitHub 推送、Mac2 首次安装、版本核对及素材说明，见 [本地打开说明](本地打开说明.md)。下面保留原有云端工具说明。
+
+---
+
 # vinext-starter
 
 A clean full-stack starter running on

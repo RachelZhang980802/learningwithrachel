@@ -9,12 +9,14 @@ import "./article-lessons.css";
 import { grammarRole } from "./GrammarLegend";
 import { StructureDiagram } from "./ClauseMemo";
 import { ClauseEntry } from "./ClauseEntry";
-import { MeaningExamples, splitMeaningLine } from "./MeaningExamples";
+import { MeaningExamples, splitMeaningLine, type MeaningExampleItem } from "./MeaningExamples";
 import { CollocationLines } from "./CollocationLines";
 import { WordFamilyTreeGame } from "./WordFamilyTreeGame";
 import { toMediaUrl } from "./mediaUrl";
 import { article02PdfVocabulary } from "./article02PdfVocabulary";
 import { article02PressExamples } from "./article02PressExamples";
+import { article03PressExamples } from "./article03PressExamples";
+import { PressExample } from "./PressExample";
 import { article03to05PdfVocabulary } from "./article03to05PdfVocabulary";
 import { article06to08PdfVocabulary } from "./article06to08PdfVocabulary";
 import { article09PdfVocabulary } from "./article09PdfVocabulary";
@@ -124,12 +126,13 @@ type CuratedWord = {
   usage: string;
   ipa: string;
   partOfSpeech: string;
+  contextPartOfSpeech?: string;
   image?: string;
   oxfordExcerptProvided: boolean;
   articleExample: string;
   dictionaryExample?: { english: string; chinese: string; source: string } | null;
-  otherMeanings: { english: string; chinese: string; exampleEnglish?: string; exampleChinese?: string }[];
-  otherMeaningsStatus: "present" | "none_in_excerpt" | "missing_source";
+  otherMeanings: MeaningExampleItem[];
+  otherMeaningsStatus: "present" | "none_in_excerpt" | "missing_source" | "reviewed_single_sense";
   family?: string[];
   wordFamilyRoot?: string;
   wordFamilyDistinctions?: { forms: string[]; distinction: string }[];
@@ -148,7 +151,8 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
   if (!entry) return <div className="word-workspace"><div className="word-context">{badge}{sentence.text}</div><div className="word-empty"><h2>Words</h2><p>{["09", "10"].includes(lesson.articleId) ? "这句没有已标记的词语。" : "这句没有讲义中明确解释的生词。"}</p></div></div>;
   const baseCurated = ({ ...curatedWords, ...article06CuratedWords, ...article07CuratedWords, ...article08CuratedWords, ...article09CuratedWords, ...article10CuratedWords } as Record<string, Record<string, CuratedWord>>)[lesson.articleId]?.[String(entry.sourceRow)];
   const contextual = baseCurated?.contextBySentence?.[String(sentence.id)];
-  const pressExample = lesson.articleId === "02" ? article02PressExamples[entry.sourceRow] : undefined;
+  const pressExample = lesson.articleId === "02" ? article02PressExamples[entry.sourceRow]
+    : lesson.articleId === "03" ? article03PressExamples[entry.sourceRow] : undefined;
   const curated = baseCurated && contextual ? { ...baseCurated, ...contextual } : baseCurated;
   const recording = ({ ...localAudio, ...article06LocalAudio, ...article07LocalAudio, ...article08LocalAudio, ...article09LocalAudio, ...article10LocalAudio } as Record<string, Record<string, { file: string }>>)[lesson.articleId]?.[String(entry.sourceRow)];
   const pending = (heading: string) => <div className="word-related"><section><h3>{heading}</h3><p className="study-pending">{["06", "07"].includes(lesson.articleId) ? "已收到你提供的词典资料，正在逐词核对整理。" : "等待你提供词典资料后整理。"}</p></section></div>;
@@ -157,11 +161,11 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
       <h2>{entry.word}</h2>{lesson.vocabulary.find(word => word.sourceRow === entry.sourceRow)?.titleOnly && <small>Title word · 标题词汇</small>}
       <div className="word-pronunciation">{curated.partOfSpeech && <span>{curated.partOfSpeech}</span>}{curated.ipa && <span>{curated.ipa}</span>}<LessonWordAudio word={entry.word} localFile={recording?.file}/></div>
       <section className="word-context-meaning">
-        <h3>Meaning in context</h3>
+        <h3>Meaning in context <span className="word-sense-pos">{curated.contextPartOfSpeech ?? curated.partOfSpeech}</span></h3>
         <p className="word-definition word-definition-en" lang="en">{curated.english}</p>
         <p className="word-definition word-definition-zh" lang="zh-CN">{curated.chinese}</p>
         {curated.dictionaryExample && <details className="word-context-example">
-          <summary>Oxford example · 牛津例句</summary>
+          <summary>{curated.dictionaryExample.source.startsWith("Oxford") ? "Oxford example · 牛津例句" : "Example · 例句"}</summary>
           <div className="word-context-example-answer">
             <p lang="en">{curated.dictionaryExample.english}</p>
             <p lang="zh-CN">{curated.dictionaryExample.chinese}</p>
@@ -171,6 +175,7 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
       </section>
       {curated.image && <a className="word-picture" href={curated.image} target="_blank" rel="noopener noreferrer" aria-label={`查看 ${entry.word} 原图`}><img src={curated.image} alt={`${entry.word} · 词汇配图`} loading="lazy"/><span>↗ 查看原图</span></a>}
       {curated.otherMeanings.length > 0 && <section className="word-other"><h3>Other meanings</h3><MeaningExamples word={entry.word} items={curated.otherMeanings} useCatalog={false}/></section>}
+      {curated.otherMeaningsStatus === "reviewed_single_sense" && <section className="word-other"><h3>Other meanings</h3><p className="word-single-sense">本词或表达没有需要另列的其他常用义项。</p></section>}
       {curated.relatedTerm && <section className="word-related-lexemes"><h4>Related policy term · 相关政策术语</h4><div className="word-related-lexeme"><p className="word-related-lexeme-phrase" lang="en">{curated.relatedTerm.phrase}</p><p lang="en">{curated.relatedTerm.english}</p><p lang="zh-CN">{curated.relatedTerm.chinese}</p></div></section>}
       {curated.relatedSayings?.length ? <section className="word-related-lexemes"><h4>Related saying · 谚语</h4>{curated.relatedSayings.map((saying, index) => <div className="word-related-lexeme" key={`${saying.phrase}-${index}`}><p className="word-related-lexeme-phrase" lang="en">{saying.phrase}</p><p lang="en">{saying.english}</p><p lang="zh-CN">{saying.chinese}</p>{saying.sourceUrl && <a href={saying.sourceUrl} target="_blank" rel="noopener noreferrer">{saying.sourceLabel ?? "Dictionary source"} ↗</a>}</div>)}</section> : null}
       {curated.relatedExpressions?.length ? <section className="word-related-lexemes"><h4>Related expressions · 固定表达</h4>{curated.relatedExpressions.map((expression, index) => <div className="word-related-lexeme" key={`${expression.phrase}-${index}`}><p className="word-related-lexeme-phrase" lang="en">{expression.phrase}</p><p lang="en">{expression.english}</p><p lang="zh-CN">{expression.chinese}</p>{expression.sourceUrl && <a href={expression.sourceUrl} target="_blank" rel="noopener noreferrer">{expression.sourceLabel ?? "Dictionary source"} ↗</a>}</div>)}</section> : null}
@@ -178,7 +183,7 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
     { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section><WordFamilyTreeGame root={curated.wordFamilyRoot ?? entry.word} entries={curated.family ?? []} distinctions={curated.wordFamilyDistinctions}/></div> : pending("Collocations · 搭配") },
     ...(curated?.compare?.length ? [{ id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={curated.compare}/></section></div> }] : []),
     { id: "usage", title: "Usage note", subtitle: "用法提醒", content: curated ? <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{curated.usage}</p></section></div> : pending("Usage note · 用法提醒") },
-    { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{pressExample ? <><blockquote><p lang="en">{pressExample.english}</p><a className="word-press-source" href={pressExample.url} target="_blank" rel="noopener noreferrer">{pressExample.source} ↗</a></blockquote><details className="word-translation"><summary>Translation</summary><p lang="zh-CN">{pressExample.chinese}</p></details></> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> },
+    { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{pressExample ? <PressExample example={pressExample} terms={[entry.word, ...entry.forms]}/> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> },
   ];
   return <div className="word-workspace" data-source-row={entry.sourceRow}>
     <nav className="word-picker" aria-label="本句词条"><span>{entries.length} {entries.length === 1 ? "ENTRY" : "ENTRIES"}</span>{entries.map((word, index) => <button type="button" key={word.sourceRow} aria-pressed={index === selected} onClick={() => setSelected(index)}>{word.word}</button>)}</nav>
