@@ -422,6 +422,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
         <a href="#intro" data-nav-link="intro">Course Introduction</a>
         <a href="#objectives" data-nav-link="objectives">Objectives</a>
         <a href="#instructor" data-nav-link="instructor">Instructor</a>
+        <a href="/narrative-course/books/landing.html" data-nav-link="writing-storybook">The Book</a>
         <a href="#units" data-nav-link="units">Units</a>
         <a href="#assessment" data-nav-link="assessment">Assessment</a>
         <a href="#reading" data-nav-link="reading">Reading</a>
@@ -726,7 +727,7 @@ export const narrativeWritingMarkup = addDefinitionsAndExamples(String.raw`
         </div>
       </section>
 
-      <section class="slide storybook-slide" id="writing-storybook" aria-label="Write Your Own Story Book"><a class="storybook-back" href="#assessment">← Writing 10%</a><div id="storybook-slot"></div></section>
+      <section class="slide storybook-slide" id="writing-storybook" aria-label="Write Your Own Story Book"><a class="storybook-back" href="/narrative-course/books/landing.html">← The Book</a><div id="storybook-slot"></div></section>
 
       <section class="slide presentation-slide" data-nav="assessment" aria-labelledby="presentation-title">
         <div class="slide-header"><div><h2>Narrative Writing</h2><p>PRESENTATION</p></div></div>

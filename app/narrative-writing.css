@@ -163,12 +163,14 @@
 .narrative-course[data-narrative-view="intro"] [data-nav-link="intro"],
 .narrative-course[data-narrative-view="objectives"] [data-nav-link="objectives"],
 .narrative-course[data-narrative-view="instructor"] [data-nav-link="instructor"],
+.narrative-course[data-narrative-view="writing-storybook"] [data-nav-link="writing-storybook"],
 .narrative-course[data-narrative-view="units"] [data-nav-link="units"],
 .narrative-course[data-narrative-view="assessment"] [data-nav-link="assessment"],
 .narrative-course[data-narrative-view="reading"] [data-nav-link="reading"] { color: var(--ink); background: rgba(255, 255, 255, 0.9); font-weight: 800; }
 .narrative-course[data-narrative-view="intro"] [data-nav-link="intro"]::after,
 .narrative-course[data-narrative-view="objectives"] [data-nav-link="objectives"]::after,
 .narrative-course[data-narrative-view="instructor"] [data-nav-link="instructor"]::after,
+.narrative-course[data-narrative-view="writing-storybook"] [data-nav-link="writing-storybook"]::after,
 .narrative-course[data-narrative-view="units"] [data-nav-link="units"]::after,
 .narrative-course[data-narrative-view="assessment"] [data-nav-link="assessment"]::after,
 .narrative-course[data-narrative-view="reading"] [data-nav-link="reading"]::after { position: absolute; right: 50%; bottom: 5px; width: 28px; height: 3px; border-radius: 4px; background: var(--ink); content: ""; transform: translateX(50%); }
@@ -797,7 +799,7 @@
 
 /* Center the shared glass navigation and keep the site identity at its left edge. */
 .narrative-course .site-nav{top:14px;right:auto;left:50%;width:min(1380px,calc(100% - 80px));max-width:none;transform:translateX(-50%)}
-.narrative-course .nav-pill{display:grid;width:100%;min-height:64px;grid-template-columns:max-content repeat(7,minmax(0,1fr));align-items:center;gap:clamp(2px,.45vw,8px);padding:7px 18px;border:1px solid rgba(255,255,255,.82);border-radius:22px;background:linear-gradient(122deg,rgba(255,255,255,.74),rgba(244,241,232,.5) 48%,rgba(225,229,218,.43)),rgba(247,245,239,.52);box-shadow:inset 0 1px 0 rgba(255,255,255,.96),0 12px 32px rgba(58,51,40,.12);-webkit-backdrop-filter:blur(22px) saturate(145%);backdrop-filter:blur(22px) saturate(145%)}
+.narrative-course .nav-pill{display:grid;width:100%;min-height:64px;grid-template-columns:max-content repeat(8,minmax(0,1fr));align-items:center;gap:clamp(2px,.45vw,8px);padding:7px 18px;border:1px solid rgba(255,255,255,.82);border-radius:22px;background:linear-gradient(122deg,rgba(255,255,255,.74),rgba(244,241,232,.5) 48%,rgba(225,229,218,.43)),rgba(247,245,239,.52);box-shadow:inset 0 1px 0 rgba(255,255,255,.96),0 12px 32px rgba(58,51,40,.12);-webkit-backdrop-filter:blur(22px) saturate(145%);backdrop-filter:blur(22px) saturate(145%)}
 .narrative-course #narrative-home-slot{display:flex;grid-column:1;align-items:center;min-width:0}
 .narrative-course #narrative-home-action-slot{display:flex;grid-column:2;align-items:center;justify-content:center;min-width:0}
 .narrative-course .nav-pill>a{display:flex;justify-content:center;width:100%;min-width:0;padding-inline:4px;text-align:center}
@@ -991,6 +993,7 @@
 .narrative-course[data-narrative-view="intro"] .nav-pill>[data-nav-link="intro"]::after,
 .narrative-course[data-narrative-view="objectives"] .nav-pill>[data-nav-link="objectives"]::after,
 .narrative-course[data-narrative-view="instructor"] .nav-pill>[data-nav-link="instructor"]::after,
+.narrative-course[data-narrative-view="writing-storybook"] .nav-pill>[data-nav-link="writing-storybook"]::after,
 .narrative-course[data-narrative-view="units"] .nav-pill>[data-nav-link="units"]::after,
 .narrative-course[data-narrative-view="assessment"] .nav-pill>[data-nav-link="assessment"]::after,
 .narrative-course[data-narrative-view="reading"] .nav-pill>[data-nav-link="reading"]::after{opacity:1}
@@ -1092,4 +1095,22 @@
   font: 700 9px/1.3 Futura, "Avenir Next", Arial, sans-serif;
   letter-spacing: .12em;
   text-transform: uppercase;
+}
+
+.narrative-course[data-narrative-view] .nav-pill > a:not(.narrative-site-brand):is(:hover, :focus-visible),
+.narrative-course .nav-pill .narrative-home-button:is(:hover, :focus-visible) {
+  background: #741e1b;
+  color: #fff;
+  transform: none;
+}
+.narrative-course[data-narrative-view] .nav-pill > a:not(.narrative-site-brand):is(:hover, :focus-visible)::after,
+.narrative-course .nav-pill .narrative-home-button:is(:hover, :focus-visible)::after {
+  background: #fff;
+}
+
+/* Match the other frosted site bars without changing course typography. */
+.narrative-course .nav-pill .narrative-site-brand,
+.narrative-course[data-narrative-view] .nav-pill > a,
+.narrative-course .nav-pill .narrative-home-button {
+  font-family: Futura, "Avenir Next", "Century Gothic", "Trebuchet MS", sans-serif;
 }

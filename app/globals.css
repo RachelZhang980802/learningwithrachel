@@ -5904,3 +5904,74 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .writing-sentence-trigger:hover, .writing-sentence-trigger[aria-expanded="true"] { background: rgba(230, 201, 142, .28); }
 .writing-sentence-translation > span[lang="zh-CN"] { display: inline; margin-left: .45em; padding: 1px 4px; border-radius: 2px; background: rgba(255,250,240,.78); color: #705b4d; font: 400 14px/1.6 Arial,"PingFang SC","Microsoft Yahei",sans-serif; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
 .writing-peel-answer .writing-sentence-translation > span[lang="zh-CN"] { color: var(--argument-ink); }
+
+/* Shared navigation hover treatment: deep red with legible white labels. */
+.learning-primary-nav :is(button, a):is(:hover, :focus-visible),
+.site-header nav button:is(:hover, :focus-visible),
+.inquire-page .site-header nav button:is(:hover, :focus-visible) {
+  background: #741e1b;
+  color: #fff;
+}
+.learning-primary-nav :is(button, a):is(:hover, :focus-visible)::after,
+.site-header nav button:is(:hover, :focus-visible)::after {
+  background: #fff;
+}
+.reading-nav :is(button, a):not(.reading-nav-tab):is(:hover, :focus-visible),
+.reading-nav .reading-nav-tab:not(.is-active):is(:hover, :focus-visible) {
+  border-radius: 8px;
+  background: #741e1b;
+  color: #fff;
+}
+.reading-nav .reading-nav-tab.is-active:is(:hover, :focus-visible) {
+  color: #fff;
+}
+.reading-nav .reading-nav-tab.is-active:is(:hover, :focus-visible)::before {
+  background: #741e1b;
+}
+
+/* Center the home title and four learning paths together on roomy desktop screens. */
+@media (min-width: 1200px) and (min-height: 800px) {
+  .learning-home-hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100svh;
+  }
+  .learning-home-hero > .learning-brand-title { padding-top: 0; }
+  .learning-home-hero > .learning-course-grid { padding-bottom: 0; }
+}
+
+/* Keep the frosted site navigation at the same height as the home bar. */
+.library-page > .site-header,
+.simple-page > .site-header,
+.inquire-page .site-header {
+  height: 64px;
+  min-height: 64px;
+}
+
+/* Futura is reserved for the shared navigation, including its wordmark. */
+.learning-primary-nav .learning-primary-brand,
+.learning-primary-nav :is(button, a),
+.site-header .wordmark,
+.site-header .brand-name,
+.site-header nav button {
+  font-family: Futura, "Avenir Next", "Century Gothic", "Trebuchet MS", sans-serif;
+}
+
+@media (max-width: 650px) {
+  .inquire-page .site-header { gap: 8px; }
+  .inquire-page .site-header .ink-mark { width: 34px; height: 34px; }
+  .inquire-page .site-header .brand-name { font-size: 11px; }
+  .inquire-page .site-header nav {
+    flex: 1 1 auto;
+    min-width: 0;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 8px;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: none;
+  }
+  .inquire-page .site-header nav::-webkit-scrollbar { display: none; }
+  .inquire-page .site-header nav button { flex: 0 0 auto; }
+}

@@ -696,3 +696,5 @@ body.quiz-page {
 .quiz-app[data-scene='four']{grid-template-rows:auto auto auto minmax(0,1fr) 0px}
 @media(max-width:760px){.quiz-app,.quiz-app[data-scene='two'],.quiz-app[data-scene='four']{grid-template-rows:auto auto auto minmax(0,1fr) clamp(6.5rem,20svh,10rem) 0px}.quiz-app.is-long-question:not([data-scene='two']):not([data-scene='four']){grid-template-rows:auto auto auto minmax(0,1fr) clamp(3.25rem,6svh,7rem) 0px}}
 @media(max-width:520px){.quiz-app,.quiz-app[data-scene='two'],.quiz-app[data-scene='four']{grid-template-rows:auto auto auto minmax(0,1fr) clamp(6rem,18svh,9rem) 0px}}
+/* Shared navigation hover color. */
+.quiz-nav :is(a,button):is(:hover,:focus-visible){background:#741e1b;color:#fff}

@@ -27,12 +27,12 @@ const compact = (text: string) => normalize(text).replace(/[^\p{L}\p{N}]/gu, "")
 const contextTranslations = glossaryById as Record<string, { sourceEnglish: string; translation: string }>;
 const translations = new Map(Object.entries(glossary).map(([en, zh]) => [compact(en), zh as string]));
 const citationStatusLabels: Record<SourceCitation["status"], string> = {
-  verbatim: "已核实原文",
-  excerpted: "原文节录",
-  adapted: "改写，非逐字原文",
-  paraphrase: "概述，非原文",
-  classroom: "课堂材料，非摘录",
-  unverified: "出处待核实",
+  verbatim: "Verified quotation",
+  excerpted: "Excerpt",
+  adapted: "Adapted",
+  paraphrase: "Paraphrase",
+  classroom: "Classroom text",
+  unverified: "Source unverified",
 };
 function translationFor(text: string) {
   const direct = translations.get(compact(text));
@@ -40,6 +40,127 @@ function translationFor(text: string) {
   const lines = text.split(/\n+/).map(line => line.trim()).filter(Boolean);
   const translated = lines.map(line => translations.get(compact(line)));
   return translated.length && translated.every(Boolean) ? translated.join("\n") : null;
+}
+
+const pairedTranslations: Record<string, string> = {
+  "u3-p6-b1": "u3-p6-b2", "u3-p10-b1": "u3-p10-b2", "u3-p12-b1": "u3-p12-b2",
+  "u3-p15-b1": "u3-p15-b2", "u3-p16-b1": "u3-p16-b2", "u3-p18-b1": "u3-p18-b2",
+  "u3-p20-b1": "u3-p20-b2", "u3-p31-b2": "u3-p31-b1", "u3-p32-b2": "u3-p32-b3",
+  "u3-p33-b1": "u3-p33-b2", "u3-p37-b1": "u3-p37-b2", "u4-p21-b0": "u4-p21-b1",
+};
+
+// A small set of slide labels and newly edited passages were absent from the
+// original glossary. Keep their Chinese behind the same English click target.
+const extraTranslations: Record<string, string> = {
+  "u1-p43-b3": "4. 记叙文通过一连串事件、人物和主题来讲述故事。它表达经历、想法和视角，并力求吸引和启发读者。",
+  "u1-p45-b12": "问题 4：你读过哪些体裁？你喜欢它们的什么特点？",
+  "u1-p151-b0": "视觉：感官意象",
+  "u1-p151-b1": "视觉最容易运用，事实上也最常用，即使作者是在直接说明而非具体描写。毕竟，在认识周围世界时，人们最常依赖的就是视觉。",
+  "u1-p153-b1": "气味也能让读者更真切地感到故事发生的地点。身处花田，你大概会闻到花香；来到农场，也许会闻到粪肥的味道。气味帮助读者把握环境，让画面更容易浮现。",
+  "u1-p154-b1": "触觉和质地常涉及舒适与不适，以及我们是感到安抚还是受到刺激。其他维度还包括重量、干湿、软硬与弹性、光滑与粗糙、持续时间、运动、碰撞，以及意图和强度等情感因素。",
+  "u2-p12-b1": "人物可能从作品开头到结尾基本保持稳定，观点与性情没有改变，例如莎士比亚《暴风雨》中的普洛斯彼罗、狄更斯《大卫·科波菲尔》中的米考伯；也可能发生根本变化，或经由渐进的成长，例如简·奥斯汀《爱玛》的同名人物，或源于一次危机，例如莎士比亚的李尔王和狄更斯《远大前程》中的匹普。（2014：91）",
+  "u2-p13-b1": "1. 主角（主要人物）与反派（阻碍主角的人物或力量）；2. 圆形人物与扁平人物。",
+  "u2-p14-b6": "外貌／生活环境／性格",
+  "u2-p19-b1": "a. 增加读者的了解",
+  "u2-p19-b4": "人物的性格；d. 戏剧化地呈现人物关系；e. 营造悬念。",
+  "u2-p20-b2": "a. 人物多大？〔年龄〕b. 住在哪里？〔地点〕c. 在什么场合说话？〔情境〕d. 对谁说话？〔听者〕e. 怎样说话？〔方式〕f. 感受如何？〔情绪〕g. 想要什么？〔目标〕",
+  "u2-p20-b4": "手势／沉默／环境／语法",
+  "u2-p39-b0": "这段文字带领读者调动五种感官。曼让我们看见狭窄的房间、高高的天花板、成排的火腿和香肠、罐装食品，以及半透明的玻璃瓶；闻到巧克力、熏鱼和泥土气息浓郁的松露；听见一声‘您好’，那不自然的声音在寂静中消散；还唤起味觉——人物口中生津；以及触觉——抓取食物，把一把东西塞进外套口袋。文字之所以鲜活，是因为曼让我们像身临其境一样，通过感官来感知场景。",
+  "u4-p17-b1": "定义：叙述视角关注是谁在讲述故事，以及读者跟随谁的经历。叙述者能接触到哪些事件和想法，决定了读者能知道和推断什么。",
+  "u4-p17-b2": "叙述视角指故事被讲述的方式：作者通过这一方式，向读者呈现构成小说叙事的人物、对话、行动、环境和事件。",
+  "u4-p18-b6": "a. 主要人物（简·爱）；b. 见证者（马洛）；c. 次要参与者（尼克·卡拉韦）；d. 自传式的‘我’（作者作为叙述者）。",
+  "u4-p18-b7": "a. 用‘你’称呼一个人物；b. 用‘你’邀请读者进入场景；c. 叙述者也可能用‘你’对自己说话。",
+  "u4-p18-b8": "a. 客观视角：只呈现外部行动；b. 全知视角：进入多个人物的内心；c. 有限视角：聚焦一个人物。",
+  "u4-p47-b0": "《傲慢与偏见》· 简·奥斯汀",
+  "u4-p47-cover": "简·奥斯汀《傲慢与偏见》",
+  "u4-p102-b2": "海明威常使用具体名词、直接的动词和简练的对话。在《杀手》和《白象似的群山》中，日常谈话让读者从人物的行动，以及他们避而不谈的话题中，推断恐惧和冲突。",
+  "u4-p106-b0": "英语时态时间轴",
+  "u5-p3-b2": "3）欣赏并运用一些常见的修辞表达实例。",
+  "u5-p12-b2": "无论持何种立场，大多数现代散文小说批评家都会作出一个重要区分：一方面是叙述者报告或描写的虚构场景、人物、事件和对话；另一方面是叙述者对世界、人生或人类处境所作的判断。后一类判断中居于中心、起统摄作用的概括，通常被称为作品的主题或主旨。（第129页）",
+  "u5-p16-b0": "主题的类型：显性主题与隐性主题。什么是主题？",
+  "u5-p17-b0": "主题的类型：显性主题与隐性主题。",
+  "u5-p18-b0": "《哈利·波特与密室》中的营救场景。",
+  "u6-p13-b1": "定义：情节是故事事件的组织方式。作者可以不拘泥于严格的时间顺序，以制造张力并塑造人物。事件之间应有所联系，让读者明白每个时刻为何重要。",
+  "u6-p13-b2": "特点：冲突为故事提供方向。冲突可能发生在人物内心，也可能发生在人物与他人、社会、自然或其他障碍之间。",
+  "u6-p14-b5": "故事的转折点：",
+  "u6-p14-b6": "紧张程度与冲突达到最高点，",
+  "u6-p14-b7": "随后必须出现关键行动。",
+  "u6-p14-b8": "一连串事件逐渐加深冲突，",
+  "u6-p14-b9": "并推动故事走向高潮。",
+  "u6-p14-b10": "开端介绍人物和环境，",
+  "u6-p14-b11": "引出主要冲突，使读者能够理解",
+  "u6-p14-b12": "接下来发生的事。",
+  "u6-p14-b13": "高潮过后，紧张感开始下降，冲突逐渐走向解决。",
+  "u6-p14-b14": "故事走向结尾。主要冲突",
+  "u6-p14-b15": "可能得到解决，也可能",
+  "u6-p14-b16": "留给读者思考。",
+  "u6-p16-b1": "冲突为故事指明方向，也显示主人公想要什么。随着障碍增加，读者看见其中的利害关系，以及结局为何重要。",
+  "u6-p16-b6": "主要冲突给主人公设置必须面对的问题。目标与障碍塑造情节，事件不断加剧张力。在高潮处，一个关键选择或行动改变了冲突局面。后续场景展示其结果，以及冲突如何结束。",
+  "u6-p16-b7": "与主人公对立的人物未必是恶人。冲突也可能来自内心的疑虑、社会压力、自然力量或其他障碍。这些差异会影响人物作出的选择。",
+  "u6-p16-b8": "悬念始于一个问题：人物能否克服障碍？冲突延迟答案、提高利害程度，促使我们继续阅读。",
+  "u6-p18-b8": "意图／动机",
+  "u6-p19-b0": "1. 点明主要冲突；2. 明确人物想要什么；3. 为目标设置有意义的障碍；4. 展示利害关系；5. 让张力逐步上升；6. 思考冲突要求人物作出什么选择；7. 必要时修改。",
+  "u6-p67-b1": "每位作者都希望清楚地向读者表达观点，写出容易阅读、各点之间逻辑连贯的文章。这种连贯性与表达的清晰度，依靠语法和词汇所形成的衔接来实现。衔接就像‘胶水’，把各个想法连在一起，形成一个完整的整体。",
+  "u6-p68-b19": "它包括连接词，",
+};
+
+function inlineChineseFor(text: string) {
+  const at = text.search(/[\u3400-\u9fff]/u);
+  return at >= 0 && /[A-Za-z]{3}/.test(text.slice(0, at)) ? text.slice(at).trim() : null;
+}
+
+const escapeMarkup = (value: string) => value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const hasHan = (value: string) => /[\u3400-\u9fff]/u.test(value);
+
+// The source slides contain Chinese as independent HTML blocks, mixed runs,
+// and (on two film stills) pixels in the background art. Keep translations in
+// the source data and reveal them through the existing click interaction.
+function englishFirstMarkup(page: SourcePage) {
+  const ids = page.texts.filter(item => hasHan(item.text) && !/[A-Za-z]{3}/.test(item.text)).map(item => item.id);
+  let html = readableHemingwayPage(page) ?? readableTensesPage(page) ?? readableWorksheet(page) ?? reflowMarkup(reflowRecoveredGroups(page.html));
+  for (const id of ids) {
+    const escaped = id.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    html = html.replace(new RegExp(`<div[^>]*data-deck-text-id="${escaped}"[^>]*>[\\s\\S]*?<\\/div>`, "g"), "");
+  }
+  html = html.replace(/<span class="ud-mixed-chinese">[\s\S]*?<\/span>/g, "");
+  html = html.replace(/\[[^\]]*[\u3400-\u9fff][^\]]*\]/gu, "");
+  html = html.replace(/<span[^>]*>[\u3400-\u9fff\s：，。！？、；“”‘’（）—-]*<\/span>/gu, "");
+  html = html.replace(/课堂写作示例 · 非小说原文/g, "Classroom writing example · not a novel quotation");
+  html = html.replace(/出处见下方/g, "sources below").replace(/原文出处｜WIRED《Very Short Stories》（2006）/g, "Source · WIRED, Very Short Stories (2006)");
+  html = html.replace(/(<div class="ud-novel-source-note"><span>)([^<]*)(<\/span>)/, (_, open: string, chinese: string, close: string) =>
+    `${open.replace('<span>', `<span data-deck-text-id="u3-p6-source-note" data-deck-value="Chapter I · About the house" data-deck-translation="${escapeMarkup(chinese)}" tabindex="0" role="button">`)}Chapter I · About the house${close}`);
+
+  if (page.texts.some(item => item.id === "u3-p13-b1")) {
+    const original = page.texts.find(item => item.id === "u3-p13-b1")?.text ?? "";
+    const poem = "Into Ruoye Stream · Wang Ji\nMy boat drifts on; water and sky stretch quietly away.\nClouds darken distant peaks; sunlight turns with the current.\nThe cicadas' cries make the woods seem stiller; birdsong deepens the mountain hush.\nHere longing for home stirs in me; year after year, I tire of wandering.";
+    html += `<div class="ud-english-poem" data-deck-text-id="u3-p13-english" data-deck-value="${escapeMarkup(poem)}" data-deck-translation="${escapeMarkup(original)}" tabindex="0" role="button"><strong>Into Ruoye Stream</strong><span>Wang Ji</span><p>My boat drifts on; water and sky stretch quietly away.<br>Clouds darken distant peaks; sunlight turns with the current.<br>The cicadas' cries make the woods seem stiller;<br>birdsong deepens the mountain hush.<br>Here longing for home stirs in me;<br>year after year, I tire of wandering.</p></div>`;
+  }
+
+  const flowIds: Record<string, string> = {
+    "u3-p6": "b1", "u3-p12": "b1", "u3-p15": "b1", "u3-p16": "b1",
+    "u3-p18": "b1", "u3-p20": "b1", "u4-p21": "b0",
+  };
+  const prefix = page.texts[0]?.id.match(/^(u\d+-p\d+)-/)?.[1] ?? "";
+  const flowId = flowIds[prefix] ? `${prefix}-${flowIds[prefix]}` : "";
+  const flowText = page.texts.find(item => item.id === flowId)?.text;
+  if (flowText) {
+    html = html.replace(new RegExp(`<div[^>]*data-deck-text-id="${flowId}"[^>]*>[\\s\\S]*?<\\/div>`), "");
+    html += `<div class="ud-english-flow ud-english-flow--${prefix}" data-deck-text-id="${flowId}" data-deck-value="${escapeMarkup(flowText)}" tabindex="0" role="button">${escapeMarkup(flowText.replace(/\s*\n\s*/g, " "))}</div>`;
+  }
+
+  if (prefix === "u5-p30" || prefix === "u5-p32") {
+    html += prefix === "u5-p30"
+      ? ([
+          ["a", "If you like", "你愿意的话"],
+          ["b", "We can keep seeing each other", "我们可以保持这种关系"],
+          ["c", "But I don't want you to expect more", "但我不想让你期待更多"],
+          ["d", "What do you like about him?", "你喜欢他什么？"],
+          ["e", "He always praises me", "他老夸我"],
+          ["f", "He makes me feel good about myself", "让我觉得我自己很棒"],
+        ] as const).map(([letter, english, chinese]) => `<div class="ud-film-subtitle ud-film-mask--30-${letter}" data-deck-text-id="u5-p30-english-${letter}" data-deck-value="${escapeMarkup(english)}" data-deck-translation="${escapeMarkup(chinese)}" tabindex="0" role="button">${escapeMarkup(english)}</div>`).join("") + `<div class="ud-film-mask ud-film-mask--30-watermark"></div><div class="ud-film-mask ud-film-mask--30-top-left"></div>`
+      : `<div class="ud-film-mask ud-film-mask--32-a"></div><div class="ud-film-mask ud-film-mask--32-b"></div><div class="ud-film-mask ud-film-mask--32-c"></div><div class="ud-film-mask ud-film-mask--32-d"></div><div class="ud-film-caption ud-film-caption--32-a" data-deck-text-id="u5-p32-english-a" data-deck-value="I think growing up to be like you wouldn't be so bad." data-deck-translation="我觉得长大像你一样也没什么不好。" tabindex="0" role="button">I think growing up to be like you wouldn't be so bad.</div><div class="ud-film-caption ud-film-caption--32-b" data-deck-text-id="u5-p32-english-b" data-deck-value="Your eyes are bright and beautiful. I like the way you look at me. However you look at me is fine; even your tears are sweet." data-deck-translation="你的眼睛很美很亮，我喜欢你看着我。你怎么看我都没事，你的眼泪也很好吃。" tabindex="0" role="button">Your eyes are bright and beautiful.<br>I like the way you look at me.<br>However you look at me is fine;<br>even your tears are sweet.</div>`;
+  }
+  return html;
 }
 
 // Keep recovered prose inside its original printed panel. Flowing complete
@@ -208,10 +329,28 @@ function readableTensesPage(page: SourcePage) {
 // Keep source nodes stable while selection/recall changes, so keyboard focus and
 // the recovered text's fitted width survive React updates.
 const SourceHtml = memo(function SourceHtml({ page }: { page: SourcePage }) {
-  return <div className="ud-source-html" dangerouslySetInnerHTML={{ __html: readableHemingwayPage(page) ?? readableTensesPage(page) ?? readableWorksheet(page) ?? reflowMarkup(reflowRecoveredGroups(page.html)) }} />;
+  return <div className="ud-source-html" dangerouslySetInnerHTML={{ __html: englishFirstMarkup(page) }} />;
 });
 
-export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate: (hash: string) => void }) {
+function citationLabel(citation: SourceCitation) {
+  const label = citation.label;
+  if (!hasHan(label)) return label;
+  if (label.includes("王籍")) return 'Wang Ji, "Into Ruoye Stream"';
+  if (label.includes("Janet Burroway")) return label.replace(/Janet Burroway 等，《([^》]+)》第10版，第3章“([^”]+)”，第73页，Writing Prompt (\d+)/, "Janet Burroway et al., $1, 10th ed., ch. 3 ($2), p. 73, Writing Prompt $3");
+  if (label.includes("《思辨写作 1》")) return label.replace("《思辨写作 1》", "Critical Thinking in English: Writing 1");
+  if (label.includes("《厌女》")) return label.replace("《厌女》", "Misogyny");
+  if (label.includes("时间从句")) return "Time-clause grammar reference";
+  if (label.includes("时间表达")) return "Course time-expression reference";
+  if (label.includes("人物塑造")) return "Course material on characterization";
+  if (label.includes("课堂写作示例")) return "Classroom writing example";
+  return "Course writing reference";
+}
+
+export function UnitDeckViewer(props: { unit: number; onNavigate: (hash: string) => void }) {
+  return <UnitDeckViewerContent key={props.unit} {...props} />;
+}
+
+function UnitDeckViewerContent({ unit, onNavigate }: { unit: number; onNavigate: (hash: string) => void }) {
   const meta = manifests[String(unit)];
   const [deck, setDeck] = useState<SourceDeck | null>(deckCache.get(unit) ?? null);
   const [index, setIndex] = useState(0);
@@ -227,7 +366,7 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
   const citationSection = useRef<HTMLElement>(null);
   const [meaningPlacement, setMeaningPlacement] = useState<{ textId: string; left: number; top: number; width: number; maxHeight: number } | null>(null);
   const page = deck?.pages[index];
-  const meaning = useMemo(() => selected ? selected.translation ?? contextTranslations[selected.id]?.translation ?? translationFor(selected.text) : null, [selected]);
+  const meaning = useMemo(() => selected ? selected.translation ?? contextTranslations[selected.id]?.translation ?? page?.texts.find(item => item.id === pairedTranslations[selected.id])?.text ?? extraTranslations[selected.id] ?? inlineChineseFor(selected.text) ?? translationFor(selected.text) : null, [selected, page]);
 
   useEffect(() => {
     const pageNode = stage.current;
@@ -284,11 +423,10 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
         ranked.push({ left: candidate.left, top, width: candidate.width, height, collisions: overlaps.length, overlap: overlaps.reduce((sum, area) => sum + area, 0), rank });
       }
 
-      const best = ranked.sort((a, b) => a.collisions - b.collisions || a.overlap - b.overlap || a.rank - b.rank)[0];
-      if (!best) {
-        setMeaningPlacement(null);
-        return;
-      }
+      const best = ranked.sort((a, b) => a.collisions - b.collisions || a.overlap - b.overlap || a.rank - b.rank)[0]
+        // A long English excerpt can fill the page, leaving no collision-free
+        // anchor. Keep its translation readable in a bounded corner card.
+        ?? { left: pageRect.width - maxWidth - margin, top: pageRect.height - maxHeight - margin, width: maxWidth };
       setMeaningPlacement(current => current &&
         current.textId === selected.id &&
         Math.abs(current.left - best.left) < 1 &&
@@ -311,9 +449,7 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
 
   useEffect(() => {
     const controller = new AbortController();
-    setIndex(0); setSelected(null); setReference(false); setRevealed([]); setError(false);
     const cached = deckCache.get(unit);
-    setDeck(cached ?? null);
     if (!cached) fetch(versionedAsset(meta.dataUrl, meta.version), { signal: controller.signal }).then(response => {
       if (!response.ok) throw new Error("Lesson unavailable");
       return response.json() as Promise<SourceDeck>;
@@ -409,7 +545,7 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
         {page?.citations?.length ? <button type="button" onClick={() => citationSection.current?.scrollIntoView({ behavior: "smooth", block: "start" })}>Sources · {page.citations.length}</button> : null}
       </div>}
     </nav>
-    {reference ? <div className="ud-reference">{unit === 2 ? <CharacterReference /> : <SettingReference />}</div> : error ? <div className="ud-load-state" role="alert">This lesson could not be loaded. <button type="button" onClick={() => setAttempt(value => value + 1)}>Try again</button></div> : !page ? <div className="ud-load-state" role="status">Loading Unit {unit}…</div> : <div className="ud-workspace">
+    {reference ? <div className="ud-reference">{unit === 2 ? <CharacterReference /> : <SettingReference />}</div> : error ? <div className="ud-load-state" role="alert">This lesson could not be loaded. <button type="button" onClick={() => { setError(false); setAttempt(value => value + 1); }}>Try again</button></div> : !page ? <div className="ud-load-state" role="status">Loading Unit {unit}…</div> : <div className="ud-workspace">
       <div className="ud-page-scroll">
         <div className="ud-page-size" style={{ width: `${zoom * 100}%` }}>
           <div className={`ud-source-page${recall ? " ud-recall" : ""}`} ref={stage} data-deck-page={page.page} style={{ aspectRatio: `${page.width ?? deck?.width ?? meta.width} / ${page.height ?? deck?.height ?? meta.height}` }} onClick={activateText} onKeyDown={onStageKey} aria-label={`Original page ${page.page}`}>
@@ -435,31 +571,14 @@ export function UnitDeckViewer({ unit, onNavigate }: { unit: number; onNavigate:
         </div>
       </div>
       {page.citations?.length ? <section className="ud-citations" ref={citationSection} aria-label="Excerpt sources">
-        <h3>Page {page.page} · 摘录出处</h3>
+        <h3>Page {page.page} · Excerpt sources</h3>
         <ol>{page.citations.map((citation, position) => <li key={`${citation.textId}-${position}`}>
           <span className={`ud-citation-status ud-citation-status--${citation.status}`}>{citationStatusLabels[citation.status]}</span>
-          {citation.url ? <a href={citation.url} target="_blank" rel="noopener noreferrer">{citation.label} ↗</a> : <span className="ud-citation-label">{citation.label}</span>}
-          {citation.note ? <p>{citation.note}</p> : null}
+          {citation.url ? <a href={citation.url} target="_blank" rel="noopener noreferrer">{citationLabel(citation)} ↗</a> : <span className="ud-citation-label">{citationLabel(citation)}</span>}
+          {hasHan(citation.label) ? <details><summary>Original source label</summary><p lang="zh-CN">{citation.label}</p></details> : null}
+          {citation.note ? <details><summary>Source note</summary><p>{citation.note}</p></details> : null}
         </li>)}</ol>
       </section> : null}
-      {unit === 3 && (page.page === 33 || page.page === 37) && <section className="ud-readable-translation" aria-label="Readable Chinese translation">
-        <h3>中文译文</h3>
-        <p lang="zh-CN">{page.texts.find(item => item.id === `u3-p${page.page}-b2`)?.text}</p>
-      </section>}
-      {unit === 3 && page.page === 13 && <section className="ud-mobile-poem" aria-label="Readable poem text" lang="zh-CN">
-        <p>{page.texts.find(item => item.id === "u3-p13-b1")?.text}</p>
-      </section>}
-      {unit === 3 && page.page === 6 && <section className="ud-mobile-novel" aria-label="Readable original novel excerpt">
-        <p className="ud-mobile-novel-original">{page.texts.find(item => item.id === "u3-p6-b1")?.text}</p>
-        <p lang="zh-CN">{page.texts.find(item => item.id === "u3-p6-b2")?.text}</p>
-        <small lang="zh-CN">原著第一章。“巫师”指被指控行巫术的马修·莫尔；宅邸建于他死后的旧居地块。</small>
-        <a href="https://www.gutenberg.org/cache/epub/77/pg77-images.html" target="_blank" rel="noopener noreferrer">Nathaniel Hawthorne, <i>The House of the Seven Gables</i>, Chapter I ↗</a>
-      </section>}
-      {unit === 3 && (page.page === 8 || page.page === 12) && <section className="ud-mobile-novel" aria-label="Readable literary excerpt">
-        <p className="ud-mobile-novel-original">{page.texts.find(item => item.id === `u3-p${page.page}-b${page.page === 8 ? 2 : 1}`)?.text}</p>
-        <p lang="zh-CN">{page.page === 8 ? translationFor(page.texts.find(item => item.id === "u3-p8-b2")?.text ?? "") : page.texts.find(item => item.id === "u3-p12-b2")?.text}</p>
-        <a href={page.page === 8 ? "https://www.gutenberg.org/files/503/503-h/503-h.htm" : "https://www.gutenberg.org/files/6688/6688-h/6688-h.htm"} target="_blank" rel="noopener noreferrer">{page.page === 8 ? <>Andrew Lang (ed.), <i>The Blue Fairy Book</i>, after Madame de Villeneuve ↗</> : <>George Eliot, <i>The Mill on the Floss</i>, Book I, Chapter I ↗</>}</a>
-      </section>}
       {unit === 4 && page.page === 101 && <section className="ud-mobile-hemingway" aria-label="Readable Hemingway writing advice">
         <p>At The Kansas City Star, Hemingway learned newsroom rules that shaped his spare prose.</p>
         <ol>{hemingwayStarRules.map(([english]) => <li key={english}>{english}</li>)}</ol>

@@ -93,3 +93,61 @@
 /* Let the inline Chinese font determine line height; a fixed inherited 16px
    strut otherwise adds large gaps when the slide is scaled on narrow screens. */
 .narrative-course .ud-cjk-flow { font-size:0; line-height:0; }
+
+/* English-first lesson slides. The Chinese source blocks are removed from the
+   DOM; these flowing passages use the space they occupied. */
+.narrative-course .ud-english-flow {
+  position:absolute; z-index:2; box-sizing:border-box; margin:0; padding:0;
+  color:#171717; font-family:Georgia,"Times New Roman",serif;
+  font-size:2.05cqw; line-height:1.28; white-space:normal;
+  cursor:pointer; pointer-events:auto;
+}
+.narrative-course .ud-english-flow:hover,
+.narrative-course .ud-english-poem:hover,
+.narrative-course .ud-film-caption:hover { outline:1px dashed #997c36; outline-offset:.3cqw; }
+.narrative-course .ud-english-flow--u3-p6 { left:5%; top:9.2cqw; width:88%; font-size:2.08cqw; }
+.narrative-course .ud-english-flow--u3-p12 { left:5%; top:9.2cqw; width:88%; font-size:2.35cqw; }
+.narrative-course .ud-english-flow--u3-p15,
+.narrative-course .ud-english-flow--u3-p16 { left:5%; top:8.5cqw; width:88%; font-size:2.25cqw; }
+.narrative-course .ud-english-flow--u3-p18 { left:5%; top:10cqw; width:88%; font-size:2.08cqw; }
+.narrative-course .ud-english-flow--u3-p20 { left:5%; top:8.7cqw; width:88%; font-size:2.02cqw; }
+.narrative-course .ud-english-flow--u4-p21 { left:8%; top:34cqw; width:84%; font-size:1.9cqw; line-height:1.26; }
+
+.narrative-course .ud-english-poem {
+  position:absolute; z-index:2; left:31%; top:10cqw; width:64%;
+  color:#252724; font:1.67cqw/1.48 Georgia,"Times New Roman",serif;
+  text-align:left; cursor:pointer; pointer-events:auto;
+}
+.narrative-course .ud-english-poem strong { display:block; font-size:2.15cqw; color:#466e9f; }
+.narrative-course .ud-english-poem span { display:block; font-size:1.22cqw; margin:.3cqw 0 1cqw; }
+.narrative-course .ud-english-poem p { margin:0; }
+
+/* Two film stills have Chinese baked into their artwork. Opaque masks remove
+   those pixels, while the English captions remain real, clickable HTML. */
+.narrative-course .ud-film-mask { position:absolute; z-index:3; pointer-events:none; background:#11151a; }
+.narrative-course .ud-film-subtitle { position:absolute; z-index:4; box-sizing:border-box; display:flex; align-items:center; justify-content:center; padding:.12cqw .4cqw; color:#fff; background:#11151a; font:1.05cqw/1.12 Arial,sans-serif; text-align:center; cursor:pointer; pointer-events:auto; }
+.narrative-course .ud-film-subtitle:hover { outline:1px solid #e6cc80; }
+.narrative-course .ud-film-caption { position:absolute; z-index:4; box-sizing:border-box; padding:.55cqw .8cqw; color:#fff; background:rgba(17,21,26,.93); font:1.32cqw/1.22 Arial,sans-serif; cursor:pointer; pointer-events:auto; }
+.narrative-course .ud-film-mask--30-a { left:17%; top:29%; width:13%; height:5%; }
+.narrative-course .ud-film-mask--30-b { left:15%; top:63%; width:15%; height:5%; }
+.narrative-course .ud-film-mask--30-c { left:12%; top:93%; width:18%; height:7%; }
+.narrative-course .ud-film-mask--30-d { left:49%; top:0; width:16%; height:4%; }
+.narrative-course .ud-film-mask--30-e { left:50%; top:46%; width:14.8%; height:5%; }
+.narrative-course .ud-film-mask--30-f { left:40%; top:93%; width:24.8%; height:7%; }
+.narrative-course .ud-film-mask--30-watermark { right:0; bottom:0; width:5%; height:6%; }
+.narrative-course .ud-film-mask--30-top-left { left:0; top:0; width:8%; height:2%; background:#0d2631; }
+.narrative-course .ud-film-caption--30-a { left:0; top:0; width:29%; }
+.narrative-course .ud-film-caption--30-b { left:69%; bottom:0; width:31%; }
+.narrative-course .ud-film-mask--32-a { left:0; top:0; width:76.3%; height:19%; background:#292225; }
+.narrative-course .ud-film-mask--32-b { left:28%; top:61%; width:46.7%; height:39%; background:#fcfaf6; }
+.narrative-course .ud-film-mask--32-c { left:70%; top:24%; width:5%; height:25%; background:#746457; }
+.narrative-course .ud-film-mask--32-c::after { content:"THEME"; display:block; margin:1cqw auto; color:#f8f2e7; font:600 1cqw/1 Arial,sans-serif; letter-spacing:.2em; writing-mode:vertical-rl; }
+.narrative-course .ud-film-mask--32-d { left:97%; top:95%; width:3%; height:5%; background:#736b59; }
+.narrative-course .ud-film-caption--32-a { left:5%; top:3%; width:67%; font-size:2.15cqw; text-align:center; background:none; }
+.narrative-course .ud-film-caption--32-b { left:30%; top:63%; width:43%; color:#741c25; background:none; font:2.65cqw/1.12 Georgia,"Times New Roman",serif; }
+
+.narrative-course .ud-recall .ud-english-flow:not(.ud-revealed),
+.narrative-course .ud-recall .ud-film-subtitle:not(.ud-revealed),
+.narrative-course .ud-recall .ud-film-caption:not(.ud-revealed) { color:transparent!important; }
+.narrative-course .ud-recall .ud-english-poem:not(.ud-revealed) strong,
+.narrative-course .ud-recall .ud-english-poem:not(.ud-revealed) p { color:transparent!important; }

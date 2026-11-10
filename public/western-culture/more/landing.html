@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fdfbf7">
+  <meta name="description" content="Explore the reading library: mythology, world history, and books about civilizations.">
+  <title>More Books · Western Culture</title>
+  <link rel="icon" href="/favicon.svg?v=20261102-cat3" type="image/svg+xml">
+  <link rel="preload" as="image" href="assets/library/reading-hero-wide.png">
+  <link rel="preload" as="image" href="assets/library/reading-original.png">
+  <link rel="stylesheet" href="/western-culture/shared-footer.css">
+  <link rel="stylesheet" href="landing.css">
+  <script src="landing.js" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#books">Skip to books</a>
+  <header class="site-header">
+    <a class="site-brand" href="../index.html" aria-label="NegentropyLearning · Western Culture home">
+      <span class="site-brand__mark" aria-hidden="true">N</span>
+      <span>NegentropyLearning</span>
+    </a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="../index.html">Western Culture</a>
+      <a class="is-current" href="landing.html" aria-current="page">More</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-scene" aria-hidden="true">
+        <img class="hero-scene__wide" src="assets/library/reading-hero-wide.png" alt="" fetchpriority="high">
+        <img class="hero-scene__original" src="assets/library/reading-original.png" alt="" fetchpriority="high">
+      </div>
+      <div class="hero-shade" aria-hidden="true"></div>
+      <div class="hero-copy">
+        <p class="hero-kicker">MORE · WESTERN CULTURE</p>
+        <h1 id="hero-title">The Reading Room</h1>
+        <p class="hero-summary">A quiet place for mythology, history, and the books that keep us curious.</p>
+        <a class="hero-button" href="#books">Explore the books <span aria-hidden="true">↓</span></a>
+      </div>
+      <span class="hero-scroll" aria-hidden="true">SCROLL TO EXPLORE <span>↓</span></span>
+    </section>
+
+    <section class="library" id="books" aria-labelledby="library-title">
+      <div class="library-heading">
+        <p class="library-script" aria-hidden="true">Explore</p>
+        <p class="library-eyebrow">THE COLLECTION</p>
+        <h2 id="library-title">The Bookshelf</h2>
+        <p class="library-intro">A gallery of books to return to. Read <cite>Mythology</cite> as an illustrated HTML book, and explore two world history books in their original page layouts. Click a sentence to see its Chinese translation.</p>
+        <div class="library-filters" role="group" aria-label="Filter books by subject">
+          <button class="filter is-active" type="button" data-filter="all" aria-pressed="true">All books</button>
+          <button class="filter" type="button" data-filter="mythology" aria-pressed="false">Mythology</button>
+          <button class="filter" type="button" data-filter="history" aria-pressed="false">World history</button>
+          <button class="filter" type="button" data-filter="civilizations" aria-pressed="false">Civilizations</button>
+        </div>
+        <p class="visually-hidden" id="filter-status" role="status" aria-live="polite">Showing all 8 books.</p>
+      </div>
+
+      <div class="gallery-field">
+        <span class="gallery-dot gallery-dot--one" aria-hidden="true"></span>
+        <span class="gallery-dot gallery-dot--two" aria-hidden="true"></span>
+        <span class="gallery-dot gallery-dot--three" aria-hidden="true"></span>
+        <div class="book-grid" id="book-grid">
+          <a class="book-card book-card--featured" data-category="mythology" href="index.html#/" aria-label="Read Mythology by Edith Hamilton">
+            <span class="book-card__image"><img src="assets/illustrations/p001-01.jpg" alt="Cover of Mythology: Timeless Tales of Gods and Heroes by Edith Hamilton" loading="lazy"></span>
+            <span class="book-card__caption"><strong>Mythology</strong><small>Edith Hamilton · Read the book <span aria-hidden="true">↗</span></small></span>
+          </a>
+          <a class="book-card" data-category="history" href="history-reader.html?book=holt#/" aria-label="Read World History by Holt Social Studies">
+            <span class="book-card__image"><img src="assets/library/world-history-holt.png" alt="Cover of World History by Holt Social Studies" loading="lazy"></span>
+            <span class="book-card__caption"><strong>World History</strong><small>Holt Social Studies · Read the book ↗</small></span>
+          </a>
+          <a class="book-card" data-category="history" href="history-reader.html?book=mcdougal#/" aria-label="Read World History: Ancient Through Early Modern Times">
+            <span class="book-card__image"><img src="assets/library/world-history-mcdougal.png" alt="Cover of World History: Ancient Through Early Modern Times by McDougal Littell" loading="lazy"></span>
+            <span class="book-card__caption"><strong>World History</strong><small>McDougal Littell · Read the book ↗</small></span>
+          </a>
+          <button class="book-card" type="button" data-category="history" data-preview aria-label="Preview the cover of World History: People and Nations">
+            <span class="book-card__image"><img src="assets/library/world-history-people-nations.png" alt="Cover of World History: People and Nations" loading="lazy"></span>
+            <span class="book-card__caption"><strong>People &amp; Nations</strong><small>World History · Cover preview</small></span>
+          </button>
+          <button class="book-card" type="button" data-category="civilizations" data-preview aria-label="Preview the cover of The Golden Thread">
+            <span class="book-card__image"><img src="assets/library/golden-thread.png" alt="Cover of The Golden Thread" loading="lazy"></span>
+            <span class="book-card__caption"><strong>The Golden Thread</strong><small>Cover preview</small></span>
+          </button>
+          <button class="book-card" type="button" data-category="civilizations" data-preview aria-label="Preview the cover of The Clash of Civilizations">
+            <span class="book-card__image"><img src="assets/library/clash-civilizations.png" alt="Cover of The Clash of Civilizations" loading="lazy"></span>
+            <span class="book-card__caption"><strong>The Clash of Civilizations</strong><small>Cover preview</small></span>
+          </button>
+          <button class="book-card" type="button" data-category="civilizations" data-preview aria-label="Preview the cover of The Fall of Civilizations">
+            <span class="book-card__image"><img src="assets/library/fall-civilizations.png" alt="Cover of The Fall of Civilizations" loading="lazy"></span>
+            <span class="book-card__caption"><strong>The Fall of Civilizations</strong><small>Cover preview</small></span>
+          </button>
+          <button class="book-card" type="button" data-category="civilizations" data-preview aria-label="Preview the cover of The Decline and Fall of the Roman Empire">
+            <span class="book-card__image"><img src="assets/library/decline-fall-roman-empire.png" alt="Cover of The History of the Decline and Fall of the Roman Empire" loading="lazy"></span>
+            <span class="book-card__caption"><strong>The Decline and Fall of the Roman Empire</strong><small>Cover preview</small></span>
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <nav class="site-footer" aria-label="More page footer navigation">
+    <span>NegentropyLearning · Western Culture</span>
+    <span class="site-footer__links">
+      <a href="#books">Browse books</a>
+      <a href="index.html#/">Read Mythology</a>
+      <a href="../index.html">Western Culture</a>
+      <a href="#top">Back to top ↑</a>
+    </span>
+  </nav>
+  <footer id="site-footer" class="library-footer" aria-label="China West Normal University">
+    <div class="library-footer-identity">
+      <span><strong>CHINA WEST NORMAL</strong><em>UNIVERSITY</em></span>
+      <img src="/western-culture/allusions-assets/university-seal.png" width="78" height="78" alt="China West Normal University seal">
+    </div>
+    <div class="library-footer-registrations">
+      <small>© 2026 China West Normal University</small>
+      <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">蜀ICP备2026060108号</a>
+      <a href="https://beian.mps.gov.cn/#/query/webSearch?code=51010502015976" target="_blank" rel="noopener noreferrer">川公网安备51010502015976号</a>
+    </div>
+  </footer>
+
+  <dialog class="book-preview" id="book-preview" aria-labelledby="preview-title">
+    <div class="book-preview__frame">
+      <button class="book-preview__close" type="button" aria-label="Close cover preview">×</button>
+      <img class="book-preview__cover" src="" alt="">
+      <div class="book-preview__copy">
+        <p class="library-eyebrow">FROM THE BOOKSHELF</p>
+        <h2 id="preview-title"></h2>
+        <p id="preview-subtitle"></p>
+        <p class="book-preview__note">This cover is on display. The book’s HTML edition is not available here yet.</p>
+      </div>
+    </div>
+  </dialog>
+</body>
+</html>

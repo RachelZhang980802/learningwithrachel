@@ -11,6 +11,18 @@
     const nav = document.querySelector('nav.glass-nav');
     if (nav) {
       nav.classList.add('shared-glass-nav');
+      const existingMore = nav.querySelector('a[href^="/western-culture/more/"]');
+      if (existingMore) {
+        existingMore.href = '/western-culture/more/landing.html';
+        existingMore.setAttribute('aria-label', 'More: browse the book collection');
+      } else {
+        const more = document.createElement('a');
+        more.className = 'nav-item';
+        more.href = '/western-culture/more/landing.html';
+        more.textContent = 'More';
+        more.setAttribute('aria-label', 'More: browse the book collection');
+        nav.append(more);
+      }
       if (!nav.closest('.review-site-header') && !nav.querySelector('.shared-nav-brand')) {
         const brand = document.createElement('a');
         brand.className = 'shared-nav-brand';

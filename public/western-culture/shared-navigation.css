@@ -41,3 +41,80 @@
 
 
 .review-site-header.shared-review-header .glass-nav.shared-glass-nav{height:auto}
+
+/* Match the site's deep-red navigation hover across Western Culture. */
+.glass-nav.shared-glass-nav .nav-item:is(:hover, :focus-visible) {
+  background: #741e1b;
+  color: #fff;
+}
+.glass-nav.shared-glass-nav .nav-item:is(:hover, :focus-visible)::after {
+  background: #fff;
+}
+
+/* Keep the Question List header the same height as the home navigation. */
+.review-site-header.shared-review-header {
+  width: min(1380px, calc(100% - 64px));
+  height: 64px;
+  min-height: 64px;
+  flex-wrap: nowrap;
+  gap: clamp(8px, 2vw, 20px);
+  padding: 0 clamp(18px, 2.2vw, 30px);
+}
+.review-site-header.shared-review-header .review-brand { min-width: 0; white-space: nowrap; }
+.review-site-header.shared-review-header .glass-nav.shared-glass-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 2px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+}
+.review-site-header.shared-review-header .glass-nav.shared-glass-nav::-webkit-scrollbar { display: none; }
+.review-site-header.shared-review-header .glass-nav.shared-glass-nav .nav-item { flex: 0 0 auto; white-space: nowrap; }
+
+/* Futura is limited to the shared navigation labels and brand. */
+.glass-nav.shared-glass-nav .shared-nav-brand,
+.glass-nav.shared-glass-nav .nav-item,
+.review-site-header.shared-review-header .review-brand,
+.review-site-header.shared-review-header .review-brand span {
+  font-family: Futura, "Avenir Next", "Century Gothic", "Trebuchet MS", sans-serif;
+}
+
+@media (max-width: 850px) {
+  .review-site-header.shared-review-header {
+    width: calc(100% - 24px);
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    padding: 0 12px;
+  }
+  .review-site-header.shared-review-header .review-brand { flex: 0 0 auto; }
+  .review-site-header.shared-review-header .glass-nav.shared-glass-nav {
+    width: auto;
+    height: 100%;
+    display: flex;
+    grid-template-columns: none;
+    justify-content: flex-start;
+    overflow-x: auto;
+  }
+  .review-site-header.shared-review-header .glass-nav.shared-glass-nav .nav-item {
+    padding: 10px 8px;
+    text-align: center;
+  }
+}
+
+/* Keep the compact chapter tabs readable without horizontal page overflow. */
+@media (max-width: 560px) {
+  .review-chapters a > div {
+    white-space: normal;
+    font-size: clamp(11px, 3vw, 14px);
+    line-height: 1.15;
+  }
+  .review-chapters small {
+    font-size: clamp(8px, 2vw, 10px);
+    line-height: 1.15;
+  }
+}

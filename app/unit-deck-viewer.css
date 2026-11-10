@@ -11,6 +11,10 @@
 .narrative-course .ud-navigation a:hover,
 .narrative-course .ud-navigation button:hover,
 .narrative-course .ud-navigation button[aria-pressed="true"] { background:#eadbca; }
+.narrative-course .ud-navigation :is(a, button):is(:hover, :focus-visible):not(:disabled) {
+  background: #741e1b;
+  color: #fff;
+}
 .narrative-course .ud-navigation button:disabled { opacity:.35; cursor:default; }
 .narrative-course .ud-navigation :focus-visible,
 .narrative-course .ud-inline-translation button:focus-visible { outline:2px solid #a24931; outline-offset:2px; }

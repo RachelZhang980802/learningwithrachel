@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#151d1b">
+  <meta name="description" content="Read Writing Critically 1 in its original page layout.">
+  <title>Writing Critically 1 · The Book</title>
+  <link rel="icon" href="/favicon.svg?v=20261102-cat3" type="image/svg+xml">
+  <link rel="stylesheet" href="/western-culture/shared-footer.css">
+  <link rel="stylesheet" href="writing-1.css">
+  <script type="module" src="writing-1.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#book-page">Skip to book page</a>
+  <header class="reader-header">
+    <button class="icon-button contents-button" id="contents-toggle" type="button" aria-label="Open contents" aria-controls="book-contents" aria-expanded="false">☰</button>
+    <a class="reader-brand" href="landing.html#books"><span class="reader-brand__mark" aria-hidden="true">N</span><span>NegentropyLearning</span></a>
+    <span class="reader-header__divider" aria-hidden="true"></span>
+    <span class="reader-header__title">Writing Critically 1</span>
+    <a class="reader-back" href="landing.html#books">← The Bookshelf</a>
+  </header>
+
+  <button class="contents-edge" id="contents-edge" type="button" aria-label="Open book contents" aria-controls="book-contents" aria-expanded="false"><span>CONTENTS</span></button>
+  <div class="contents-scrim" id="contents-scrim" hidden></div>
+  <aside class="contents-panel" id="book-contents" aria-label="Book contents" inert>
+    <div class="contents-panel__header"><span>CONTENTS</span><button class="icon-button" id="contents-close" type="button" aria-label="Close contents">×</button></div>
+    <p class="contents-panel__book">大学思辨英语教程<br><em>写作 1 · 记叙文写作</em></p>
+    <nav aria-label="Chapters">
+      <a href="#/page/1" data-page="1"><span>01</span> Cover</a>
+      <a href="#/page/15" data-page="15"><span>15</span> Map of the Book</a>
+      <a href="#/page/20" data-page="20"><span>Unit 1</span> Life and Value</a>
+      <a href="#/page/47" data-page="47"><span>Unit 2</span> Empathy and Justice</a>
+      <a href="#/page/73" data-page="73"><span>Unit 3</span> Growth and Maturity</a>
+      <a href="#/page/99" data-page="99"><span>Unit 4</span> Truth and Interpretation</a>
+      <a href="#/page/125" data-page="125"><span>Unit 5</span> Dream and Faith</a>
+      <a href="#/page/155" data-page="155"><span>Unit 6</span> Conflict and Harmony</a>
+      <a href="#/page/183" data-page="183"><span>Unit 7</span> Ethnicity and Identity</a>
+      <a href="#/page/215" data-page="215"><span>Unit 8</span> Love and Eternity</a>
+    </nav>
+    <p class="contents-panel__hint">Select a unit, enter a page number, or use the arrow keys to turn pages.</p>
+  </aside>
+
+  <main class="reader-main" id="main">
+    <div class="reader-toolbar" role="group" aria-label="Reading controls">
+      <div class="reader-toolbar__heading"><span class="eyebrow">THE BOOK · ORIGINAL PAGES</span><h1>大学思辨英语教程 · 写作 1</h1><span class="click-hint">点击书页上的文字查看中文翻译</span></div>
+      <div class="reader-toolbar__actions">
+        <button type="button" class="toolbar-button" id="previous-page" aria-label="Previous page">← Previous</button>
+        <form id="page-form" class="page-form"><label for="page-number">Page</label><input id="page-number" type="number" min="1" max="249" value="1" inputmode="numeric" aria-label="Page number"><span>/ 249</span><button type="submit" aria-label="Go to page">Go</button></form>
+        <button type="button" class="toolbar-button" id="next-page" aria-label="Next page">Next →</button>
+        <button type="button" class="toolbar-button toolbar-button--ocr" id="ocr-toggle" aria-controls="ocr-panel" aria-expanded="false">OCR text</button>
+        <button type="button" class="toolbar-button toolbar-button--quiet" id="zoom-out" aria-label="Zoom out">−</button>
+        <output id="zoom-level" class="zoom-level" aria-live="polite">Fit</output>
+        <button type="button" class="toolbar-button toolbar-button--quiet" id="zoom-in" aria-label="Zoom in">+</button>
+      </div>
+    </div>
+    <div class="reader-stage" id="reader-stage">
+      <div class="book-spread" id="book-spread" aria-label="Original book pages">
+        <figure class="book-page book-page--left is-blank" id="left-page"><img id="left-image" width="1080" height="1600" alt="" hidden><div class="page-click-layer" id="left-click-layer"></div><div class="page-answer-layer" id="left-answer-layer"></div></figure>
+        <figure class="book-page book-page--right" id="book-page"><img id="page-image" src="writing-1-pages/page-001.jpg" width="1080" height="1600" alt="Original book page 1 of 249"><div class="page-click-layer" id="right-click-layer"></div><div class="page-answer-layer" id="right-answer-layer"></div></figure>
+      </div>
+    </div>
+    <div class="reader-bottom">
+      <button type="button" id="bottom-previous">← Previous page</button>
+      <span id="page-status" role="status" aria-live="polite">Page 1 of 249</span>
+      <button type="button" id="bottom-next">Next page →</button>
+    </div>
+    <p class="reader-note">Click text for translation or a marked exercise blank for its red reference answer. Answers are checked against the supplied unit answer sheets; open-ended work may have no fixed answer. OCR may contain errors; check the page image for accuracy.<br>孙有中主编；杨鲁新、王素娥分册主编，《大学思辨英语教程：写作 1》，外语教学与研究出版社，2015 · ISBN 9787513557825</p>
+  </main>
+
+  <aside class="page-translation" id="page-translation" aria-label="Text and translation" hidden>
+    <div class="page-translation__header"><span>PAGE TEXT · 点击原书文字</span><button type="button" id="translation-close" aria-label="Close translation">×</button></div>
+    <p class="page-translation__source" id="translation-source"></p>
+    <p class="page-translation__result" id="translation-result" role="status" aria-live="polite"></p>
+    <button class="page-translation__retry" id="translation-retry" type="button" hidden>Retry translation</button>
+  </aside>
+
+  <div class="ocr-backdrop" id="ocr-backdrop" hidden></div>
+  <aside class="ocr-panel" id="ocr-panel" aria-label="OCR text" hidden>
+    <div class="ocr-panel__header"><div><span>SEARCHABLE TEXT</span><h2>OCR text</h2></div><button type="button" id="ocr-close" aria-label="Close OCR text">×</button></div>
+    <p class="ocr-panel__note">Machine-read text may contain errors. Check the original page before quoting.</p>
+    <form id="ocr-search-form" class="ocr-search"><label for="ocr-search-input">Search all 249 pages</label><div><input id="ocr-search-input" type="search" placeholder="Find a word or phrase" autocomplete="off"><button type="submit">Search</button></div></form>
+    <div class="ocr-panel__tools"><p id="ocr-message" class="ocr-message" role="status" aria-live="polite">Loading OCR text…</p><button type="button" id="ocr-copy">Copy page text</button></div>
+    <div id="ocr-results" class="ocr-results" hidden></div>
+    <div id="ocr-page-text" class="ocr-page-text"></div>
+  </aside>
+
+  <footer id="site-footer" class="library-footer" aria-label="China West Normal University">
+    <div class="library-footer-identity"><span><strong>CHINA WEST NORMAL</strong><em>UNIVERSITY</em></span><img src="/western-culture/allusions-assets/university-seal.png" width="78" height="78" alt="China West Normal University seal" loading="lazy"></div>
+    <div class="library-footer-registrations"><small>© 2026 China West Normal University</small><a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">蜀ICP备2026060108号</a><a href="https://beian.mps.gov.cn/#/query/webSearch?code=51010502015976" target="_blank" rel="noopener noreferrer">川公网安备51010502015976号</a></div>
+  </footer>
+</body>
+</html>
