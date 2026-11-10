@@ -42,10 +42,13 @@ const readJson = async path => JSON.parse(await readFile(path, 'utf8'));
 const origin = 'https://narrative-package.invalid';
 function add(raw, from = '/', owner = 'dependency') {
   raw = raw.trim().replaceAll('&amp;', '&');
-  if (!raw || raw.startsWith('#') || /^(?:data:|blob:|javascript:|mailto:|https?:|\/\/)/i.test(raw)) return;
+  if (!raw || raw.startsWith('#') || raw.startsWith('%23') || /^(?:data:|blob:|javascript:|mailto:|https?:|\/\/)/i.test(raw)) return;
   const url = new URL(raw, origin + from);
   const path = decodeURIComponent(url.pathname);
   if (path.includes('\0') || path.includes('\\')) throw new Error(`Unsafe resource path: ${raw}`);
+  // The home route is served by the app, while the shared university seal is
+  // already hosted on the existing Cloudflare media domain via vercel.json.
+  if (path === '/' || path === '/western-culture/allusions-assets/university-seal.png') return;
   if (!resources.has(path)) resources.set(path, { path, url: url.pathname + url.search, owner });
 }
 function references(text, from, owner) {
@@ -77,6 +80,21 @@ try {
     add(page.art, '/', `Storybook page ${page.page} HTML artwork`);
     add(`/narrative-course/storybook/original/page-${String(page.page).padStart(3, '0')}.webp`, '/', `Storybook page ${page.page} original`);
     counts.storybookPages++;
+  }
+  for (const path of [
+    '/narrative-course/books/landing.html',
+    '/narrative-course/books/landing.css',
+    '/narrative-course/books/landing.js',
+    '/narrative-course/books/search-writing-restored.png',
+    '/narrative-course/books/writing-1.html',
+    '/narrative-course/books/writing-1.css',
+    '/narrative-course/books/writing-1.js',
+    '/narrative-course/books/writing-1-answers.js',
+    '/narrative-course/books/writing-1-supplemental-answers.js',
+    '/narrative-course/books/writing-1-ocr.json',
+  ]) add(path, '/', 'Narrative Writing book reader');
+  for (let bookPage = 1; bookPage <= 249; bookPage++) {
+    add(`/narrative-course/books/writing-1-pages/page-${String(bookPage).padStart(3, '0')}.jpg`, '/', `Writing 1 original page ${bookPage}`);
   }
   for (const [name, first, last, counter] of [['character', 20, 38, 'characterChapters'], ['setting', 1, 19, 'settingChapters']]) {
     const catalog = await readJson(resolve(root, `app/${name}ReferenceCatalog.json`));
