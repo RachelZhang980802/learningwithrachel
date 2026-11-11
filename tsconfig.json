@@ -30,5 +30,5 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts"
   ],
-  "exclude": ["node_modules", "worker", "db"]
+  "exclude": ["node_modules", "worker", "db", "close-reading-web-source-and-assets", "examples"]
 }
