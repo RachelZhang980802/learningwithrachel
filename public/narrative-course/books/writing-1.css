@@ -17,7 +17,7 @@
 .book-spread .book-page.is-blank{background:linear-gradient(90deg,#f6f4ee,#fffefa 87%,#eeeae1)}
 .book-spread .book-page img{display:block;width:100%;height:auto}
 .book-spread .book-page img[hidden]{display:none}
-.book-spread .book-page--right img{min-height:100%}
+.book-page-sheet{position:relative;margin-bottom:var(--answer-extra,0px)}
 .toolbar-button--ocr{border-color:#90ae91;color:#d0e5ce}
 .toolbar-button--ocr[aria-expanded="true"]{background:#446d50;color:#fff}
 .ocr-backdrop{position:fixed;inset:0;z-index:51;background:#030906ad}
@@ -53,14 +53,39 @@
 .page-click-layer{position:absolute;inset:0;z-index:1;pointer-events:none}
 .page-click-zone{position:absolute;display:block;min-height:0;padding:0;border:0;border-radius:2px;background:transparent;pointer-events:auto;cursor:pointer}
 .page-click-zone:hover,.page-click-zone:focus-visible{background:#f1c97442;outline:1px solid #b47933;outline-offset:1px}
-.click-hint{display:block;margin-top:5px;color:#b8d6b8;font:11px var(--sans)}
+#translation-error{margin:5px 0 0;color:#f1b7b3;font:11px/1.4 var(--sans)}
 
-/* Answers sit over the matching printed blanks; only the selected one is revealed. */
 .book-spread .book-page{container-type:inline-size}
 .page-answer-layer{position:absolute;inset:0;z-index:2;pointer-events:none}
-.page-answer-zone{position:absolute;display:block;min-height:14px;padding:0;border:0;border-radius:2px;background:transparent;pointer-events:auto;cursor:pointer;text-align:left}
-.page-answer-zone:hover,.page-answer-zone:focus-visible{outline:2px dashed #a33535;outline-offset:1px;background:#fff5e16b}
-.page-answer-zone__text{display:none;position:absolute;top:0;left:0;z-index:3;width:100%;padding:0 2px;color:#b4202a;background:#fffdf0e8;font:700 clamp(11px,1.6cqw,20px)/1.2 Georgia,'Songti SC',serif;white-space:normal;overflow-wrap:anywhere;box-shadow:0 1px 0 #b4202a}
-.page-answer-zone[aria-pressed="true"] .page-answer-zone__text{display:block}
-.page-answer-zone--long .page-answer-zone__text{width:max(100%,45cqw);max-height:30cqw;overflow:auto;padding:8px 10px;border:1px solid #ba4449;border-radius:4px;background:#fffdf4f5;box-shadow:0 5px 20px #29212044;font:600 clamp(12px,1.55cqw,19px)/1.45 Georgia,'Songti SC',serif}
-.page-answer-zone--lower.page-answer-zone--long .page-answer-zone__text{top:auto;bottom:100%}
+.page-answer-flag{
+  position:absolute;display:grid;place-items:center;width:min(4.4cqw,26px);height:min(2.5cqw,22px);
+  transform:translate(-50%,-50%);padding:0;border:0;border-radius:3px;background:transparent;
+  color:#b12e38;pointer-events:auto;cursor:pointer;
+}
+.page-answer-flag::before{
+  content:"";width:clamp(7px,1.62cqw,14px);height:clamp(8px,1.9cqw,16px);background:currentColor;
+  clip-path:polygon(0 0,100% 0,82% 28%,100% 54%,16% 54%,16% 100%,0 100%);
+}
+.page-answer-flag:hover{background:#fff2e8}
+.page-answer-flag[aria-expanded="true"]{color:#861924;background:transparent}
+.page-answer-flag[data-lift-flag][aria-expanded="true"]::before{transform:translateY(-55%) scale(.72)}
+.page-answer-flag:focus-visible{outline:2px solid #9e2432;outline-offset:1px}
+.page-answer-writing{color:#a5202b;text-align:left}
+.page-answer-line{
+  position:absolute;display:block;transform:translateY(-100%);pointer-events:none;
+  font:600 clamp(8px,1.57cqw,17px)/1.15 var(--serif);white-space:nowrap;
+}
+.book-page-sheet[data-answer-cut] .book-page-original{clip-path:inset(0 0 calc(100% - var(--answer-cut)) 0)}
+.book-page-sheet .page-answer-image-tail{
+  position:absolute;top:var(--answer-extra);left:0;clip-path:inset(var(--answer-cut) 0 0);pointer-events:none;
+}
+.book-page-sheet [data-answer-shifted]{translate:0 var(--answer-extra,0px)}
+.page-answer-continuation{
+  position:absolute;top:var(--answer-cut);left:0;width:100%;margin:0;
+  padding:5px var(--answer-right) 7px var(--answer-left);background:#f6f8fb;
+  font:600 clamp(11px,1.75cqw,18px)/1.6 var(--serif);pointer-events:auto;
+}
+.page-answer-continuation span{
+  display:block;background:repeating-linear-gradient(transparent 0 calc(1lh - 1px),#b7b2ac calc(1lh - 1px) 1lh);
+  white-space:pre-wrap;overflow-wrap:anywhere;
+}

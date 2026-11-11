@@ -3,12 +3,86 @@ import assert from 'node:assert/strict';
 import { readFileSync, existsSync, statSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { answersByPage } from '../public/narrative-course/books/writing-1-answers.js';
+import { answerPlacements } from '../public/narrative-course/books/writing-1-answer-placements.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const base = path.join(root, 'public/narrative-course/books');
 const expected = {'good-writing': null, 'college-writing': 817, 'descriptosaurus': 526};
 
 const unitCounts = {'good-writing': 2752, 'college-writing': 22157, 'descriptosaurus': 13248};
+
+test('writing-1 answer flags stay within Units 1–6 and leave translation targets clear', () => {
+  const unitsStart = [20, 47, 73, 99, 125, 155, 183];
+  const translations = JSON.parse(readFileSync(path.join(base, 'writing-1-translations.json'), 'utf8'));
+  const ids = new Set();
+  const markedUnits = new Set();
+  const overlap = (a, b) => a[0] < b[2] && b[0] < a[2] && a[1] < b[3] && b[1] < a[3];
+
+  for (const [page, entries] of answersByPage) {
+    const flags = [];
+    const questions = new Set();
+    for (const item of entries) {
+      const unit = Number(/^u([1-6])-/.exec(item.id)?.[1]);
+      assert.ok(page >= unitsStart[unit - 1] && page < unitsStart[unit], item.id);
+      assert.equal(item.page, page);
+      assert.ok(!ids.has(item.id) && !questions.has(item.label), item.id);
+      assert.ok(item.answer.trim() && !/^Answers may vary\.?$/i.test(item.answer), item.id);
+      ids.add(item.id);
+      questions.add(item.label);
+      markedUnits.add(unit);
+
+      const placement = answerPlacements[item.id];
+      assert.ok(placement, `${item.id} has no answer placement`);
+      const { rows, cut, sections } = placement;
+      assert.ok(cut > item.flag[1] && cut < 100, item.id);
+      rows.forEach(([left, baseline, width], index) => {
+        assert.ok(left > 0 && width > 0 && left + width < 100 && baseline < cut, item.id);
+        assert.ok(index === 0 || baseline > rows[index - 1][1], item.id);
+      });
+      if (sections) {
+        assert.equal(sections.length, rows.length, item.id);
+        assert.deepEqual([...sections].sort(), item.answer.split(/\n{2,}/).map((_, index) => index), item.id);
+      }
+
+      const [x, y] = item.flag;
+      const flag = [x - 2.2, y - 0.85, x + 2.2, y + 0.85];
+      assert.ok(flag.every(n => n >= 0 && n <= 100), item.id);
+      assert.ok(!flags.some(previous => overlap(flag, previous)), `${item.id} overlaps another answer flag`);
+      flags.push(flag);
+      for (const unit of translations[page - 1].units) {
+        for (const [left, top, width, height] of unit.boxes) {
+          const text = [left * 100, top * 100, (left + width) * 100, (top + height) * 100];
+          assert.ok(!overlap(flag, text), `${item.id} covers the translation for ${unit.en}`);
+          if (item.blank) {
+            const [x, y, width] = item.blank;
+            assert.ok(!overlap([x, y - 0.72, x + width, y + 0.72], text), `${item.id} writes over printed text`);
+          }
+          for (const [x, y, width] of rows) {
+            assert.ok(!overlap([x, y - 1.21, x + width, y - 0.045], text), `${item.id} writes over printed text`);
+          }
+          const heightInPercent = height * 100;
+          assert.ok(cut <= text[1] + heightInPercent * 0.2 || cut >= text[3] - heightInPercent * 0.2,
+            `${item.id} splits the translation target for ${unit.en}`);
+        }
+      }
+    }
+  }
+  assert.deepEqual([...markedUnits], [1, 2, 3, 4, 5, 6]);
+  assert.deepEqual(new Set(Object.keys(answerPlacements)), ids);
+  assert.ok(!answersByPage.has(24), 'The Example 3 discussion has no separate key answer');
+  const answer = (page, id) => answersByPage.get(page)?.find(item => item.id === id)?.answer;
+  assert.deepEqual([1, 2, 3, 4].map(n => answer(29, `u1-a3-t1-${n}`)), ['F', 'T', 'F', 'F']);
+  assert.equal(answer(66, 'u2-a4-t1-3'), 'winter');
+  assert.equal(answer(66, 'u2-a4-t1-3b'), 'spring');
+  assert.equal(answer(121, 'u4-a8-1'), 'remembered');
+  assert.equal(answer(121, 'u4-a8-7'), 'was');
+  assert.equal(answer(181, 'u6-a12'), '1 → 6 → 2 → 4 → 3 → 5');
+  assert.deepEqual(answerPlacements['u1-a3-t2-2'].rows.map(row => row[1]), [86.25, 88.44, 90.62]);
+  assert.equal(answer(63, 'u2-a3-t2-3'), 'He did not reveal his real identity.');
+  assert.ok(answer(148, 'u5-a6-t3-3'));
+  assert.ok(!answer(62, 'u2-a3-t2-3') && !answer(147, 'u5-a6-t3-3'));
+});
 
 for (const [id, pageCount] of Object.entries(expected)) {
   test(id + ': all originals and sentence click targets are complete', () => {

@@ -1,5 +1,6 @@
 import { createBookTranslation } from './book-translation.js?v=20261111-bookmark';
-import { answersByPage } from './writing-1-answers.js';
+import { answersByPage } from './writing-1-answers.js?v=20261111-inline-answers';
+import { answerPlacements } from './writing-1-answer-placements.js?v=20261111-inline-answers';
 
 const PAGE_COUNT = 249;
 const pageImage = document.querySelector('#page-image');
@@ -32,7 +33,9 @@ const rightClickLayer = document.querySelector('#right-click-layer');
 const leftAnswerLayer = document.querySelector('#left-answer-layer');
 const rightAnswerLayer = document.querySelector('#right-answer-layer');
 const bookmark = createBookTranslation(spread);
+const answerMeasure = document.createElement('canvas').getContext('2d');
 let translationPages = null;
+let selectedAnswer = null;
 
 function pagePath(page) {
   return `writing-1-pages/page-${String(page).padStart(3, '0')}.jpg`;
@@ -69,6 +72,7 @@ function closeContents() {
 
 function openContents() {
   bookmark.close();
+  closeAnswer();
   contents.classList.add('is-open');
   contents.inert = false;
   scrim.hidden = false;
@@ -77,6 +81,7 @@ function openContents() {
 
 function renderPage() {
   bookmark.close();
+  closeAnswer();
   currentPage = pageFromHash();
   const start = spreadStart(currentPage);
   const leftNumber = wideScreen.matches && start > 1 ? start : null;
@@ -118,6 +123,7 @@ function renderPage() {
 }
 
 function renderZoom() {
+  closeAnswer();
   const zoom = zoomLevels[zoomIndex];
   spread.style.width = zoom ? `${Math.round((wideScreen.matches ? 1520 : 1080) * zoom)}px` : '';
   document.querySelector('#zoom-level').textContent = zoom ? `${Math.round(zoom * 100)}%` : 'Fit';
@@ -148,7 +154,10 @@ function renderClickLayer(layer, pageNumber) {
       button.setAttribute('aria-haspopup', 'dialog');
       button.setAttribute('aria-expanded', 'false');
       if (index) button.tabIndex = -1;
-      button.addEventListener('click', event => bookmark.toggle(unit, button, event));
+      button.addEventListener('click', event => {
+        closeAnswer();
+        bookmark.toggle(unit, button, event);
+      });
       layer.append(button);
     });
   }
@@ -159,31 +168,153 @@ function renderClickZones() {
   renderClickLayer(rightClickLayer, visiblePages.at(-1));
 }
 
+function clearAnswerExtension(sheet) {
+  if (!sheet.hasAttribute('data-answer-cut')) return;
+  sheet.removeAttribute('data-answer-cut');
+  sheet.style.removeProperty('--answer-cut');
+  sheet.style.removeProperty('--answer-extra');
+  sheet.querySelector('.page-answer-image-tail').remove();
+  sheet.querySelectorAll('[data-answer-shifted]').forEach(el => el.removeAttribute('data-answer-shifted'));
+}
+
+function closeAnswer(restoreFocus = false) {
+  if (!selectedAnswer) return;
+  const { flag, sheet, writing } = selectedAnswer;
+  selectedAnswer = null;
+  clearAnswerExtension(sheet);
+  writing.remove();
+  flag.setAttribute('aria-expanded', 'false');
+  flag.removeAttribute('aria-controls');
+  if (restoreFocus && flag.isConnected) flag.focus({ preventScroll: true });
+}
+
+function extendAnswer(sheet, writing, cut, remaining, margin) {
+  const continuation = document.createElement('p');
+  continuation.className = 'page-answer-continuation';
+  continuation.setAttribute('aria-hidden', 'true');
+  continuation.style.setProperty('--answer-left', `${margin[0]}%`);
+  continuation.style.setProperty('--answer-right', `${100 - margin[1]}%`);
+  const ruledText = document.createElement('span');
+  ruledText.textContent = remaining;
+  continuation.append(ruledText);
+  writing.append(continuation);
+
+  // Open a ruled space between parts of the same scan. Keep the text and
+  // flag hit targets below that space aligned with the moved image.
+  const original = sheet.querySelector('.book-page-original');
+  const tail = original.cloneNode();
+  tail.removeAttribute('id');
+  tail.className = 'page-answer-image-tail';
+  tail.alt = '';
+  tail.setAttribute('aria-hidden', 'true');
+  original.after(tail);
+  sheet.dataset.answerCut = '';
+  sheet.style.setProperty('--answer-cut', `${cut}%`);
+  sheet.style.setProperty('--answer-extra', `${continuation.offsetHeight}px`);
+  for (const target of sheet.querySelectorAll('.page-click-zone, .page-answer-flag')) {
+    const center = Number.parseFloat(target.style.top) + (Number.parseFloat(target.style.height) || 0) / 2;
+    if (center > cut) target.dataset.answerShifted = '';
+  }
+}
+
+function fillAnswerLine(sheet, writing, [left, baseline, width], remaining, fitSingleLine) {
+  const line = document.createElement('span');
+  line.className = 'page-answer-line';
+  line.setAttribute('aria-hidden', 'true');
+  line.style.left = `${left}%`;
+  line.style.top = `${baseline}%`;
+  writing.append(line);
+
+  const font = getComputedStyle(line);
+  const size = Number.parseFloat(font.fontSize);
+  const available = sheet.clientWidth * width / 100 - 1;
+  answerMeasure.font = `${font.fontWeight} ${size}px ${font.fontFamily}`;
+  const paragraph = remaining.split('\n', 1)[0].trimEnd();
+  let text = paragraph;
+  const needed = answerMeasure.measureText(text).width;
+  if (needed > available) {
+    const fitted = size * available / needed;
+    if (fitSingleLine && fitted >= 6.4) {
+      line.style.fontSize = `${fitted}px`;
+    } else {
+      const breakAt = [...paragraph.matchAll(/\s+/g)].reverse().find(match =>
+        answerMeasure.measureText(paragraph.slice(0, match.index)).width <= available);
+      text = breakAt ? paragraph.slice(0, breakAt.index) : '';
+    }
+  }
+  if (!text) {
+    line.remove();
+    return remaining;
+  }
+  line.textContent = text;
+  return remaining.slice(text.length).trimStart();
+}
+
+function writeAnswer({ item, sheet, writing }) {
+  clearAnswerExtension(sheet);
+  writing.replaceChildren();
+  const { rows, cut, margin = [15, 89], sections } = answerPlacements[item.id];
+  let remaining = item.answer.trim();
+
+  if (sections) {
+    const paragraphs = remaining.split(/\n{2,}/);
+    remaining = sections.map((paragraph, i) => {
+      // Use the label already printed next to each line.
+      const section = paragraphs[paragraph];
+      const split = section.indexOf(':') + 1;
+      const rest = fillAnswerLine(sheet, writing, rows[i], section.slice(split).trim(), true);
+      return rest ? `${section.slice(0, split)} ${rest}` : '';
+    }).filter(Boolean).join('\n\n');
+  } else {
+    for (const row of rows) {
+      if (!remaining) break;
+      remaining = fillAnswerLine(sheet, writing, row, remaining, rows.length === 1);
+    }
+  }
+
+  if (remaining) extendAnswer(sheet, writing, cut, remaining, margin);
+}
+
+function showAnswer(item, flag, layer, fromKeyboard) {
+  if (selectedAnswer?.flag === flag) {
+    closeAnswer(fromKeyboard);
+    return;
+  }
+  closeAnswer();
+  bookmark.close();
+  const writing = document.createElement('div');
+  writing.className = 'page-answer-writing';
+  writing.id = `answer-${item.id}`;
+  writing.setAttribute('role', 'group');
+  writing.setAttribute('aria-label', item.answer);
+  writing.tabIndex = -1;
+  layer.append(writing);
+  selectedAnswer = { item, flag, sheet: layer.parentElement, writing };
+  writeAnswer(selectedAnswer);
+  flag.setAttribute('aria-expanded', 'true');
+  flag.setAttribute('aria-controls', writing.id);
+  if (fromKeyboard) writing.focus({ preventScroll: true });
+  const firstLine = writing.firstElementChild;
+  const rect = firstLine.getBoundingClientRect();
+  if (rect.bottom < 0 || rect.top > innerHeight) firstLine.scrollIntoView({ block: 'nearest' });
+}
+
 function renderAnswerLayer(layer, pageNumber) {
   layer.replaceChildren();
   for (const item of answersByPage.get(pageNumber) ?? []) {
-    const [x, y, width, height] = item.box;
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.className = `page-answer-zone${item.long ? ' page-answer-zone--long' : ''}${y > 70 ? ' page-answer-zone--lower' : ''}`;
-    button.style.left = `${x}%`;
-    button.style.top = `${y}%`;
-    button.style.width = `${width}%`;
-    button.style.height = `${height}%`;
-    button.setAttribute('aria-label', `Show reference answer: ${item.label}`);
-    button.setAttribute('aria-pressed', 'false');
-    button.title = `${item.label} · 点击横线查看红色参考答案`;
-    const text = document.createElement('span');
-    text.className = 'page-answer-zone__text';
-    text.textContent = item.answer;
-    button.append(text);
-    button.addEventListener('click', () => {
-      const opening = button.getAttribute('aria-pressed') !== 'true';
-      layer.querySelectorAll('.page-answer-zone[aria-pressed="true"]').forEach(other => other.setAttribute('aria-pressed', 'false'));
-      button.setAttribute('aria-pressed', String(opening));
-      bookmark.close();
-    });
-    layer.append(button);
+    const [x, y] = item.flag;
+    const flag = document.createElement('button');
+    flag.type = 'button';
+    flag.className = 'page-answer-flag';
+    flag.dataset.answerId = item.id;
+    flag.style.left = `${x}%`;
+    flag.style.top = `${y}%`;
+    if (answerPlacements[item.id].liftFlag) flag.dataset.liftFlag = '';
+    flag.setAttribute('aria-label', `查看参考答案：${item.label}`);
+    flag.setAttribute('aria-expanded', 'false');
+    flag.title = `参考答案 · ${item.label}`;
+    flag.addEventListener('click', event => showAnswer(item, flag, layer, event.detail === 0));
+    layer.append(flag);
   }
 }
 
@@ -193,12 +324,13 @@ function renderAnswerZones() {
 }
 
 async function loadTranslations() {
-  const response = await fetch('writing-1-translations.json?v=20261111-bookmark');
+  const response = await fetch('writing-1-translations.json?v=20261111-answer-flags');
   if (!response.ok) throw new Error('Writing 1 translations could not be loaded.');
   const pages = await response.json();
   if (pages.length !== PAGE_COUNT) throw new Error('Writing 1 translations are incomplete.');
   translationPages = pages;
   renderClickZones();
+  if (selectedAnswer) writeAnswer(selectedAnswer);
 }
 
 async function loadOcr() {
@@ -242,6 +374,7 @@ function renderOcrPage() {
 async function openOcr() {
   closeContents();
   bookmark.close();
+  closeAnswer();
   ocrPanel.hidden = false;
   ocrBackdrop.hidden = false;
   document.querySelector('#ocr-toggle').setAttribute('aria-expanded', 'true');
@@ -304,9 +437,16 @@ document.querySelector('#ocr-copy').addEventListener('click', async () => {
   try { await navigator.clipboard.writeText(textForVisiblePages()); ocrMessage.textContent = 'Page text copied'; }
   catch { ocrMessage.textContent = 'Copy failed. Select the text below to copy it.'; }
 });
+document.addEventListener('click', event => {
+  if (selectedAnswer && !event.target.closest('.page-answer-flag, .page-answer-writing')) closeAnswer();
+});
+window.addEventListener('resize', () => {
+  if (selectedAnswer) writeAnswer(selectedAnswer);
+});
 window.addEventListener('keydown', event => {
-  if (event.key === 'Escape') { bookmark.close(); closeContents(); closeOcr(); return; }
+  if (event.key === 'Escape') { closeAnswer(true); bookmark.close(); closeContents(); closeOcr(); return; }
   if (!ocrPanel.hidden) return;
+  if (selectedAnswer?.writing === document.activeElement) return;
   if (['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) return;
   if (event.key === 'ArrowLeft') turnPage(-1);
   if (event.key === 'ArrowRight') turnPage(1);
@@ -318,7 +458,7 @@ leftImage.addEventListener('error', () => { pageStatus.textContent = `Page ${vis
 renderPage();
 renderZoom();
 loadTranslations().catch(() => {
-  document.querySelector('.click-hint').textContent = '中文释义未能加载，请刷新此页。';
+  document.querySelector('#translation-error').hidden = false;
 });
 loadOcr().catch(() => {
   document.querySelector('#ocr-message').textContent = 'OCR text could not be loaded.';

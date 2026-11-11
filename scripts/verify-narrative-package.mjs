@@ -91,6 +91,7 @@ try {
     '/narrative-course/books/writing-1.js',
     '/narrative-course/books/writing-1-answers.js',
     '/narrative-course/books/writing-1-supplemental-answers.js',
+    '/narrative-course/books/writing-1-answer-placements.js',
     '/narrative-course/books/writing-1-ocr.json',
     '/narrative-course/books/writing-1-translations.json',
     '/narrative-course/books/book-translation.js',
