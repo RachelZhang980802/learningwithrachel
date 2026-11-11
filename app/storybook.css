@@ -14,12 +14,13 @@
 .narrative-course .storybook-sheet { position: relative; container-type: inline-size; width: 100%; max-width: 100%; margin: 0; overflow: hidden; background: #fff; }
 .narrative-course .storybook-spread--wide .storybook-leaf:first-child .storybook-sheet { border-right: 1px solid #d3c5b4; }
 .narrative-course .storybook-art { display: block; width: 100%; height: 100%; object-fit: fill; }
+.narrative-course .storybook-translation-layer { position: absolute; inset: 0; pointer-events: none; }
+.narrative-course .storybook-translation-zone { position: absolute; display: block; min-height: 0; margin: 0; padding: 0; border: 0; border-radius: 2px; background: transparent; pointer-events: auto; cursor: pointer; }
+.narrative-course .storybook-translation-zone:hover { background-color: #e6bf4540; }
+.narrative-course .storybook-translation-zone:focus-visible { outline: 2px solid #996b29; outline-offset: 0; }
 .narrative-course .storybook-html { position: absolute; inset: 0; pointer-events: none; }
 .narrative-course .storybook-line { position: absolute; display: block; margin: 0; padding: 0; font-family: "Chalkboard SE", "Comic Sans MS", "Trebuchet MS",sans-serif; font-weight: 500; line-height: 1.02; letter-spacing: -.012em; white-space: nowrap; overflow: visible; text-align: left; text-shadow: 0 0 1px rgba(255,255,255,.2); }
 .narrative-course .storybook-html--cover .storybook-line { opacity: 0; }
-.narrative-course .storybook-line--trigger { border: 0; border-radius: 0; min-height: 0; background: transparent; cursor: pointer; pointer-events: auto; text-decoration: underline dotted currentColor; text-decoration-thickness: .06em; text-underline-offset: .14em; }
-.narrative-course .storybook-line--trigger:hover { text-decoration-style: solid; }
-.narrative-course .storybook-line--trigger:focus-visible { outline: 2px solid #874f36; outline-offset: 2px; }
 .narrative-course .storybook-credit { margin: 18px auto 0; color: #67584b; font: 13px/1.5 var(--body,sans-serif); text-align: center; }
 .narrative-course .assignment-detail a, .narrative-course .writing-heading a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
 .narrative-course .assignment-detail a:hover, .narrative-course .writing-heading a:hover { color: #9c2b21; }
@@ -42,7 +43,6 @@
 .narrative-course .storybook-example-text { display: block; box-sizing: border-box; width: 100%; min-width: 0; min-height: 0; margin: 0; padding: 0 2px; border: 0; border-radius: 0; background: transparent; color: inherit; font: inherit; letter-spacing: normal; line-height: inherit; text-align: inherit; white-space: pre-wrap; overflow-wrap: anywhere; cursor: pointer; box-shadow: none; }
 .narrative-course .storybook-example-text strong { display: block; margin: 0 0 .4em; color: #704b3a; font-size: 1em; }
 .narrative-course .storybook-example-text span { display: block; }
-.narrative-course .storybook-example-text[lang="zh-CN"] { font-family: "PingFang SC","Microsoft YaHei",sans-serif; line-height: 1.6; color: #775044; }
 .narrative-course .storybook-example-text:hover { color: #795136; }
 .narrative-course .storybook-example-text:focus-visible { outline: 2px solid #8b6d59; outline-offset: -2px; }
 .narrative-course .storybook-example-drawer { box-sizing: border-box; width: 100%; margin: 0; padding: 20px 24px; border: 1px solid #c9b69b; background: #fffaf0; }

@@ -1,13 +1,21 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type MouseEvent as ReactMouseEvent } from "react";
 import pages from "./storybookPages.json";
+import translationPages from "./storybookTranslationUnits.json";
 import { creativeSamples } from "./storybookCreative";
 import { storybookWritingBoxes, type WritingBox as Box } from "./storybookLayout";
 import { storybookTranslations, storybookPromptTranslations, storybookComicTranslations } from "./storybookTranslations";
 import "./storybook.css";
 
 type BookPage = (typeof pages)[number];
+type TranslationEntry = { id: string; en: string; zh: string };
+type BookTranslation = {
+  close: () => void;
+  destroy: () => void;
+  toggle: (entry: TranslationEntry, button: HTMLButtonElement, event: MouseEvent) => void;
+};
+const bookmarkModuleUrl = "/narrative-course/books/book-translation.js?v=20261111-bookmark";
 type Prompt = { trigger: string; title: string; body: string; box: Box };
 type Example = { title: string; body: string; zh: string; titleZh: string; box?: Box; short?: boolean };
 
@@ -109,16 +117,6 @@ const comicBubbles: Record<number, Array<{ text: string; box: Box }>> = {
   ],
 };
 
-function sourceTriggerIndex(page: BookPage): number {
-  if (page.cover) return -1;
-  const trigger = creativeSamples[page.page].trigger;
-  if (trigger) {
-    const match = page.lines.findIndex(line => line.text.toLowerCase().includes(trigger.toLowerCase()));
-    if (match >= 0) return match;
-  }
-  return page.lines.findIndex(line => /[a-z]{3}/i.test(line.text) && line.y < 78);
-}
-
 function examplesForPage(page: BookPage): Example[] {
   const sample = creativeSamples[page.page];
   const translation = storybookTranslations[page.page];
@@ -146,35 +144,32 @@ type StoryBookLeafProps = {
   page: BookPage;
   showOriginal: boolean;
   openExamples: string[];
-  chineseExamples: string[];
-  onToggleExample: (page: number, item: number) => void;
-  onTogglePageExamples: (page: BookPage) => void;
-  onToggleLanguage: (page: number, item: number) => void;
+  bookmarkReady: boolean;
+  onTranslate: (entry: TranslationEntry, event: ReactMouseEvent<HTMLButtonElement>) => void;
 };
 
-function StoryBookLeaf({ page, showOriginal, openExamples, chineseExamples,
-  onToggleExample, onTogglePageExamples, onToggleLanguage }: StoryBookLeafProps) {
+function StoryBookLeaf({ page, showOriginal, openExamples, bookmarkReady, onTranslate }: StoryBookLeafProps) {
   const sample = creativeSamples[page.page];
-  const prompts = pagePrompts[page.page];
   const isComic = Boolean(comicBubbles[page.page]);
   const examples = examplesForPage(page);
-  const selectedTrigger = sourceTriggerIndex(page);
   const externalExample = !examples[0].box;
   const isOpen = (item: number) => openExamples.includes(exampleKey(page.page, item));
   const renderExample = (example: Example, item: number) => {
     if (!isOpen(item)) return null;
-    const chinese = chineseExamples.includes(exampleKey(page.page, item));
+    const id = "storybook-example-" + page.page + "-" + item;
+    const entry = { id, en: !example.short && example.title ? example.title + "\n\n" + example.body : example.body,
+      zh: !example.short && example.titleZh ? example.titleZh + "\n\n" + example.zh : example.zh };
     const box = example.box;
     return <div key={exampleKey(page.page, item)} id={`storybook-example-${page.page}-${item}`}
       className={`storybook-example ${box ? "storybook-example--inset" : "storybook-example--drawer"} ${example.short ? "storybook-example--short" : ""} ${isComic ? "storybook-example--comic" : ""}`}
       data-writing-box={box ? JSON.stringify(box) : undefined}
       style={box ? { left: `${box.x}%`, top: `${box.y}%`, width: `${box.w}%`, height: `${box.h}%` } : undefined}
       tabIndex={0} aria-label={`${sample.title}: writing area ${item + 1}`}>
-      <button type="button" className="storybook-example-text" lang={chinese ? "zh-CN" : "en"}
-        aria-label={chinese ? "返回英文范例" : "点击英文查看中文释义"} aria-pressed={chinese}
-        onClick={() => onToggleLanguage(page.page, item)}>
-        {!example.short && <strong>{chinese ? example.titleZh : example.title}</strong>}
-        <span>{chinese ? example.zh : example.body}</span>
+      <button type="button" className="storybook-example-text" lang="en" disabled={!bookmarkReady}
+        data-book-translation-key={id} aria-label={entry.en} aria-haspopup="dialog" aria-expanded={false}
+        onClick={event => onTranslate(entry, event)}>
+        {!example.short && <strong>{example.title}</strong>}
+        <span>{example.body}</span>
       </button>
     </div>;
   };
@@ -182,18 +177,19 @@ function StoryBookLeaf({ page, showOriginal, openExamples, chineseExamples,
   return <div className="storybook-leaf">
     <article className="storybook-sheet" aria-label={`Book page ${page.page}`} style={{ aspectRatio: `${page.width} / ${page.height}` }}>
       <img className="storybook-art" src={showOriginal ? `/narrative-course/storybook/original/page-${String(page.page).padStart(3, "0")}.webp` : page.art} alt={showOriginal ? `Original printed page ${page.page}` : ""} aria-hidden={!showOriginal} />
+      {bookmarkReady && <div className="storybook-translation-layer">
+        {translationPages[page.page - 1].units.map(unit => unit.boxes.map(([x, y, width, height], index) => (
+          <button type="button" className="storybook-translation-zone" key={unit.id + ":" + index}
+            data-book-translation-key={unit.id} lang="en" aria-label={unit.en} aria-haspopup="dialog" aria-expanded={false}
+            tabIndex={index === 0 ? 0 : -1}
+            style={{ left: x * 100 + "%", top: y * 100 + "%", width: width * 100 + "%", height: height * 100 + "%" }}
+            onClick={event => onTranslate(unit, event)} />
+        )))}
+      </div>}
       {!showOriginal && <div className={`storybook-html ${page.cover ? "storybook-html--cover" : ""}`} lang="en">
         {page.lines.map((line, lineIndex) => {
           const style = { left: `${line.x}%`, top: `${line.y}%`, width: `${Math.min(99 - line.x, Math.max(line.w + 1, line.w * 1.1))}%`, fontSize: `${Math.min(5.5, Math.max(0.85, Math.min(1.5 * Math.sqrt(line.h), line.w / Math.max(1, line.text.length * 0.48))))}cqw`, color: line.color };
-          const promptIndex = prompts
-            ? prompts.findIndex(prompt => line.text.toLowerCase().includes(prompt.trigger.toLowerCase()))
-            : lineIndex === selectedTrigger ? 0 : -1;
-          return promptIndex >= 0 ? <button className="storybook-line storybook-line--trigger" type="button"
-            aria-expanded={isOpen(promptIndex)} aria-controls={`storybook-example-${page.page}-${promptIndex}`}
-            aria-label={`Read the writing example for ${prompts?.[promptIndex]?.title ?? sample.title}`}
-            key={`${page.page}-${lineIndex}`} style={style}
-            onClick={() => isComic ? onTogglePageExamples(page) : onToggleExample(page.page, promptIndex)}>{line.text}</button>
-            : <span className="storybook-line" key={`${page.page}-${lineIndex}`} style={style}>{line.text}</span>;
+          return <span className="storybook-line" key={page.page + "-" + lineIndex} style={style}>{line.text}</span>;
         })}
         {!externalExample && examples.map(renderExample)}
       </div>}
@@ -210,8 +206,32 @@ export function StoryBook() {
   const [isWide, setIsWide] = useState(false);
   const [showOriginal, setShowOriginal] = useState(false);
   const [openExamples, setOpenExamples] = useState<string[]>([]);
-  const [chineseExamples, setChineseExamples] = useState<string[]>([]);
+  const [bookmarkStatus, setBookmarkStatus] = useState<"loading" | "ready" | "failed">("loading");
+  const bookmark = useRef<BookTranslation | null>(null);
   const stage = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const reader = stage.current;
+    if (!reader) return;
+    let cancelled = false;
+    let instance: BookTranslation | null = null;
+    // The shared module is served as a static file. An absolute URL keeps
+    // Vite from adding its source-module ?import query in development.
+    const moduleUrl = new URL(bookmarkModuleUrl, window.location.origin).href;
+    import(/* webpackIgnore: true */ /* @vite-ignore */ moduleUrl)
+      .then((module: { createBookTranslation: (scope: HTMLElement) => BookTranslation }) => {
+        if (cancelled) return;
+        instance = module.createBookTranslation(reader);
+        bookmark.current = instance;
+        setBookmarkStatus("ready");
+      })
+      .catch(() => { if (!cancelled) setBookmarkStatus("failed"); });
+    return () => {
+      cancelled = true;
+      instance?.destroy();
+      if (bookmark.current === instance) bookmark.current = null;
+    };
+  }, []);
 
   useEffect(() => {
     const media = window.matchMedia("(min-width: 1050px)");
@@ -240,24 +260,18 @@ export function StoryBook() {
     if (next < 0 || next >= pages.length) return;
     setIndex(next);
     setOpenExamples([]);
-    setChineseExamples([]);
+    bookmark.current?.close();
     stage.current?.scrollIntoView({ block: "start", behavior: "auto" });
   };
   const turn = (direction: number) => {
     if (!isWide) return move(index + direction);
     move(direction < 0 ? (spreadStart <= 1 ? 0 : spreadStart - 2) : (spreadStart === 0 ? 1 : spreadStart + 2));
   };
-  const toggleExample = (page: number, item: number) => {
-    const key = exampleKey(page, item);
-    setOpenExamples(current => current.includes(key) ? current.filter(value => value !== key) : [...current, key]);
-  };
-  const toggleLanguage = (page: number, item: number) => {
-    const key = exampleKey(page, item);
-    setChineseExamples(current => current.includes(key) ? current.filter(value => value !== key) : [...current, key]);
+  const translate = (entry: TranslationEntry, event: ReactMouseEvent<HTMLButtonElement>) => {
+    bookmark.current?.toggle(entry, event.currentTarget, event.nativeEvent);
   };
   const toggleKeys = (keys: string[]) => setOpenExamples(current =>
     keys.some(key => current.includes(key)) ? current.filter(key => !keys.includes(key)) : [...current, ...keys]);
-  const togglePageExamples = (page: BookPage) => toggleKeys(examplesForPage(page).map((_, item) => exampleKey(page.page, item)));
 
   useEffect(() => {
     const next = isWide ? (spreadStart === 0 ? 1 : spreadStart + 2) : index + 1;
@@ -266,8 +280,7 @@ export function StoryBook() {
     }
   }, [index, isWide, spreadStart]);
 
-  const leafProps = { showOriginal, openExamples, chineseExamples,
-    onToggleExample: toggleExample, onTogglePageExamples: togglePageExamples, onToggleLanguage: toggleLanguage };
+  const leafProps = { showOriginal, openExamples, bookmarkReady: bookmarkStatus === "ready", onTranslate: translate };
   return <div className="storybook" ref={stage}>
     <nav className="storybook-nav" aria-label="Book pages">
       <button type="button" onClick={() => turn(-1)} disabled={!hasPrevious}>← Previous</button>
@@ -282,11 +295,12 @@ export function StoryBook() {
     </nav>
     <div className="storybook-mode">
       <button type="button" className="storybook-examples-toggle" aria-expanded={hasOpenVisibleExamples}
-        onClick={() => { setShowOriginal(false); toggleKeys(visibleKeys); }}>
+        onClick={() => { bookmark.current?.close(); setShowOriginal(false); toggleKeys(visibleKeys); }}>
         {hasOpenVisibleExamples ? "Hide writing examples" : "Show writing examples"}
       </button>
-      <button type="button" aria-pressed={showOriginal} onClick={() => setShowOriginal(value => !value)}>{showOriginal ? "Read HTML page" : "Compare original page"}</button>
+      <button type="button" aria-pressed={showOriginal} onClick={() => { bookmark.current?.close(); setShowOriginal(value => !value); }}>{showOriginal ? "Read HTML page" : "Compare original page"}</button>
     </div>
+    {bookmarkStatus === "failed" && <p className="storybook-credit" role="status">中文释义未能加载，请刷新此页。</p>}
     <div className={`storybook-spread ${isWide ? "storybook-spread--wide" : ""}`} aria-label={isWide ? `Book pages ${displayedStart} to ${displayedEnd}` : `Book page ${displayedStart}`}>
       {isWide && (leftPage ? <StoryBookLeaf key={leftPage.page} page={leftPage} {...leafProps} /> : <div className="storybook-leaf storybook-leaf--blank" aria-hidden="true" />)}
       {rightPage ? <StoryBookLeaf key={rightPage.page} page={rightPage} {...leafProps} /> : <div className="storybook-leaf storybook-leaf--blank" aria-hidden="true" />}

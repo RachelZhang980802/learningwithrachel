@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <title>The Book</title>
+  <link rel="icon" href="/favicon.svg?v=20261102-cat3" type="image/svg+xml">
+  <link rel="stylesheet" href="reader.css?v=20261111-bookmark">
+  <link id="book-translation-style" rel="stylesheet" href="book-translation.css?v=20261111-bookmark">
+  <script type="module" src="reader.js?v=20261111-bookmark"></script>
+</head>
+<body data-controls="visible">
+  <nav class="reading-controls" id="reading-controls" aria-label="Reading controls">
+    <a class="control" href="landing.html#books" aria-label="Back to the bookshelf" title="Bookshelf"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h7v16H3zm11 0h7v16h-7zM6 8h1m10 0h1"/></svg></a>
+    <button class="control" id="contents-toggle" type="button" aria-label="Book contents" title="Contents" aria-controls="book-contents" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg></button>
+    <span class="control-divider" aria-hidden="true"></span>
+    <button class="control" id="previous" type="button" aria-label="Previous two pages" title="Previous (←)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7"/></svg></button>
+    <form id="page-form"><label class="visually-hidden" for="page-number">Page number</label><input id="page-number" type="number" min="1" value="1" inputmode="numeric"><span aria-hidden="true">/</span><output id="page-total">—</output></form>
+    <button class="control" id="next" type="button" aria-label="Next two pages" title="Next (→)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 5 7 7-7 7"/></svg></button>
+    <span class="control-divider" aria-hidden="true"></span>
+    <button class="control" id="page-mode" type="button" aria-label="Switch to one-page view" aria-pressed="true" title="One / two pages"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 4h20v16H2zM12 4v16"/></svg></button>
+    <button class="control" id="zoom-out" type="button" aria-label="Zoom out" title="Zoom out"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14"/></svg></button>
+    <button class="control" id="zoom-in" type="button" aria-label="Zoom in" title="Zoom in"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M12 5v14"/></svg></button>
+    <button class="control fullscreen-control" id="fullscreen" type="button" aria-label="Enter full screen" title="Full screen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5"/></svg></button>
+  </nav>
+
+  <main id="reader" aria-label="Book pages" aria-busy="true">
+    <p id="loading" role="status">Opening the book…</p>
+    <div class="pdf-spread" id="pdf-spread" hidden></div>
+    <div class="epub-window" id="epub-window" hidden><div class="epub-viewport" id="epub-viewport"><article class="epub-content" id="epub-content" aria-label="Original book text"></article></div></div>
+  </main>
+  <span class="visually-hidden" id="page-status" role="status" aria-live="polite"></span>
+
+  <div class="contents-backdrop" id="contents-backdrop" hidden></div>
+  <aside class="book-contents" id="book-contents" role="dialog" aria-modal="true" aria-labelledby="contents-title" hidden>
+    <header><h1 id="contents-title">Contents</h1><button type="button" class="control" id="contents-close" aria-label="Close contents">×</button></header>
+    <p id="contents-book"></p>
+    <nav id="chapters" aria-label="Chapters"></nav>
+  </aside>
+
+</body>
+</html>

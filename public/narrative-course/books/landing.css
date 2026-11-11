@@ -58,3 +58,9 @@
 /* Viewport lengths avoid the browser resolving percentages against the wide hero. */
 .hero-art .hero-search{left:min(15.7vw,calc(15.7svh - 11.932px))!important;top:min(42.1vw,calc(42.1svh - 31.996px))!important;width:min(69vw,calc(69svh - 52.44px))!important;height:min(5.3vw,calc(5.3svh - 4.028px))!important;padding:0 16px!important}
 @media(max-width:700px){.hero-art>img{mask-image:none}.hero-art .hero-search{left:15.7vw!important;top:42.1vw!important;width:69vw!important;height:5.3vw!important;padding:0 2vw!important}}
+
+@media(min-width:701px){
+  .book-grid:has(>.book-card:nth-child(5)){grid-template-columns:repeat(6,minmax(0,1fr));max-width:760px;column-gap:clamp(16px,2.4vw,32px);row-gap:clamp(38px,5vw,72px)}
+  .book-grid:has(>.book-card:nth-child(5))>.book-card:nth-child(-n+2){grid-column:span 3;width:100%;max-width:295px;justify-self:center}
+  .book-grid:has(>.book-card:nth-child(5))>.book-card:nth-child(n+3){grid-column:span 2}
+}

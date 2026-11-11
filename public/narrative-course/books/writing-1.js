@@ -1,4 +1,4 @@
-import { getCachedChineseTranslation, requestChineseTranslation } from '/western-culture/more/translation-helper.js';
+import { createBookTranslation } from './book-translation.js?v=20261111-bookmark';
 import { answersByPage } from './writing-1-answers.js';
 
 const PAGE_COUNT = 249;
@@ -31,12 +31,8 @@ const leftClickLayer = document.querySelector('#left-click-layer');
 const rightClickLayer = document.querySelector('#right-click-layer');
 const leftAnswerLayer = document.querySelector('#left-answer-layer');
 const rightAnswerLayer = document.querySelector('#right-answer-layer');
-const translationPopup = document.querySelector('#page-translation');
-const translationSource = document.querySelector('#translation-source');
-const translationResult = document.querySelector('#translation-result');
-const translationRetry = document.querySelector('#translation-retry');
-let translationRequestId = 0;
-let selectedText = '';
+const bookmark = createBookTranslation(spread);
+let translationPages = null;
 
 function pagePath(page) {
   return `writing-1-pages/page-${String(page).padStart(3, '0')}.jpg`;
@@ -72,7 +68,7 @@ function closeContents() {
 }
 
 function openContents() {
-  closeTranslation();
+  bookmark.close();
   contents.classList.add('is-open');
   contents.inert = false;
   scrim.hidden = false;
@@ -80,7 +76,7 @@ function openContents() {
 }
 
 function renderPage() {
-  closeTranslation();
+  bookmark.close();
   currentPage = pageFromHash();
   const start = spreadStart(currentPage);
   const leftNumber = wideScreen.matches && start > 1 ? start : null;
@@ -135,59 +131,27 @@ function closeOcr() {
   document.querySelector('#ocr-toggle').setAttribute('aria-expanded', 'false');
 }
 
-function closeTranslation() {
-  translationRequestId += 1;
-  translationPopup.hidden = true;
-  translationRetry.hidden = true;
-}
-
-function lineGap(previous, next) {
-  return previous.box[1] - next.box[1] - next.box[3];
-}
-
-function sentenceForLine(lines, index) {
-  let first = index;
-  let last = index;
-  const endsSentence = text => /[.!?。！？][”’"']?\s*$/u.test(text);
-  const joinedLength = (start, end) => lines.slice(start, end + 1).reduce((total, line) => total + line.text.length + 1, 0);
-  while (first > 0 && index - first < 3) {
-    const previous = lines[first - 1];
-    const current = lines[first];
-    if (!previous?.box || !current?.box || lineGap(previous, current) > 0.032 || endsSentence(previous.text) || joinedLength(first - 1, last) > 300) break;
-    if (previous.text.length < 24 && !/[,;，；]$/u.test(previous.text)) break;
-    first -= 1;
-  }
-  while (last < lines.length - 1 && last - index < 3) {
-    const current = lines[last];
-    const next = lines[last + 1];
-    if (!current?.box || !next?.box || lineGap(current, next) > 0.032 || endsSentence(current.text) || joinedLength(first, last + 1) > 300) break;
-    if (current.text.length < 24 && !/[,;，；]$/u.test(current.text)) break;
-    last += 1;
-  }
-  return lines.slice(first, last + 1).map(line => line.text.trim()).join(' ').replace(/-\s+(?=[a-z])/giu, '');
-}
-
 function renderClickLayer(layer, pageNumber) {
   layer.replaceChildren();
-  if (!ocrData || !pageNumber) return;
-  const lines = ocrData[pageNumber - 1]?.lines ?? [];
-  lines.forEach((line, index) => {
-    const box = line.box;
-    if (!box || box.length !== 4 || !box.every(Number.isFinite) || !line.text?.trim()) return;
-    const [x, y, width, height] = box;
-    if (x < 0 || y < 0 || width <= 0 || height <= 0) return;
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.className = 'page-click-zone';
-    button.style.left = `${Math.max(0, x * 100 - 0.15)}%`;
-    button.style.top = `${Math.max(0, (1 - y - height) * 100 - 0.1)}%`;
-    button.style.width = `${Math.min(100 - x * 100, width * 100 + 0.3)}%`;
-    button.style.height = `${height * 100 + 0.2}%`;
-    button.setAttribute('aria-label', `Translate: ${line.text}`);
-    button.title = 'Click to see text and translation';
-    button.addEventListener('click', event => showTranslation(sentenceForLine(lines, index), event));
-    layer.append(button);
-  });
+  if (!translationPages || !pageNumber) return;
+  for (const unit of translationPages[pageNumber - 1]?.units ?? []) {
+    unit.boxes.forEach(([x, y, width, height], index) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'page-click-zone';
+      button.dataset.bookTranslationKey = unit.id;
+      button.style.left = (x * 100) + '%';
+      button.style.top = (y * 100) + '%';
+      button.style.width = (width * 100) + '%';
+      button.style.height = (height * 100) + '%';
+      button.setAttribute('aria-label', unit.en);
+      button.setAttribute('aria-haspopup', 'dialog');
+      button.setAttribute('aria-expanded', 'false');
+      if (index) button.tabIndex = -1;
+      button.addEventListener('click', event => bookmark.toggle(unit, button, event));
+      layer.append(button);
+    });
+  }
 }
 
 function renderClickZones() {
@@ -217,7 +181,7 @@ function renderAnswerLayer(layer, pageNumber) {
       const opening = button.getAttribute('aria-pressed') !== 'true';
       layer.querySelectorAll('.page-answer-zone[aria-pressed="true"]').forEach(other => other.setAttribute('aria-pressed', 'false'));
       button.setAttribute('aria-pressed', String(opening));
-      closeTranslation();
+      bookmark.close();
     });
     layer.append(button);
   }
@@ -228,41 +192,13 @@ function renderAnswerZones() {
   renderAnswerLayer(rightAnswerLayer, visiblePages.at(-1));
 }
 
-async function translateSelectedText() {
-  const requestId = ++translationRequestId;
-  const text = selectedText;
-  translationRetry.hidden = true;
-  if (!/[A-Za-z]/u.test(text) && /[\u3400-\u9fff]/u.test(text)) {
-    translationResult.textContent = '这段文字已是中文。';
-    return;
-  }
-  const cached = getCachedChineseTranslation(text);
-  if (cached) {
-    translationResult.textContent = cached;
-    return;
-  }
-  translationResult.textContent = '正在翻译…';
-  try {
-    const translated = await requestChineseTranslation(text);
-    if (requestId === translationRequestId) translationResult.textContent = translated;
-  } catch {
-    if (requestId === translationRequestId) {
-      translationResult.textContent = '翻译暂时不可用。英文 OCR 文字仍可查看；请稍后重试。';
-      translationRetry.hidden = false;
-    }
-  }
-}
-
-function showTranslation(text, event) {
-  selectedText = text;
-  translationSource.textContent = text;
-  translationPopup.hidden = false;
-  const width = Math.min(440, window.innerWidth - 24);
-  const left = Math.min(window.innerWidth - width - 12, Math.max(12, event.clientX + 16));
-  const top = Math.min(window.innerHeight - 220, Math.max(12, event.clientY + 16));
-  translationPopup.style.left = `${left}px`;
-  translationPopup.style.top = `${Math.max(12, top)}px`;
-  translateSelectedText();
+async function loadTranslations() {
+  const response = await fetch('writing-1-translations.json?v=20261111-bookmark');
+  if (!response.ok) throw new Error('Writing 1 translations could not be loaded.');
+  const pages = await response.json();
+  if (pages.length !== PAGE_COUNT) throw new Error('Writing 1 translations are incomplete.');
+  translationPages = pages;
+  renderClickZones();
 }
 
 async function loadOcr() {
@@ -305,7 +241,7 @@ function renderOcrPage() {
 
 async function openOcr() {
   closeContents();
-  closeTranslation();
+  bookmark.close();
   ocrPanel.hidden = false;
   ocrBackdrop.hidden = false;
   document.querySelector('#ocr-toggle').setAttribute('aria-expanded', 'true');
@@ -368,11 +304,8 @@ document.querySelector('#ocr-copy').addEventListener('click', async () => {
   try { await navigator.clipboard.writeText(textForVisiblePages()); ocrMessage.textContent = 'Page text copied'; }
   catch { ocrMessage.textContent = 'Copy failed. Select the text below to copy it.'; }
 });
-document.querySelector('#translation-close').addEventListener('click', closeTranslation);
-translationRetry.addEventListener('click', translateSelectedText);
 window.addEventListener('keydown', event => {
-  if (event.key === 'Escape') { closeTranslation(); closeContents(); closeOcr(); return; }
-  if (!translationPopup.hidden) return;
+  if (event.key === 'Escape') { bookmark.close(); closeContents(); closeOcr(); return; }
   if (!ocrPanel.hidden) return;
   if (['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) return;
   if (event.key === 'ArrowLeft') turnPage(-1);
@@ -384,6 +317,9 @@ pageImage.addEventListener('error', () => { pageStatus.textContent = `Page ${cur
 leftImage.addEventListener('error', () => { pageStatus.textContent = `Page ${visiblePages[0]} could not be loaded. Try refreshing.`; });
 renderPage();
 renderZoom();
-loadOcr().then(renderClickZones).catch(() => {
-  document.querySelector('.reader-note').firstChild.textContent = 'OCR text could not be loaded. Refresh the page to restore click-to-translate.';
+loadTranslations().catch(() => {
+  document.querySelector('.click-hint').textContent = '中文释义未能加载，请刷新此页。';
+});
+loadOcr().catch(() => {
+  document.querySelector('#ocr-message').textContent = 'OCR text could not be loaded.';
 });

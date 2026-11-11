@@ -36,7 +36,7 @@ const expectedCounts = [22, 42, 35, 63, 55, 31];
 const sourcePublic = resolve(root, 'public');
 const resources = new Map();
 const failures = [];
-const counts = { units: 0, deckPages: 0, storybookPages: 0, characterChapters: 0, settingChapters: 0, fonts: 0, resources: 0 };
+const counts = { units: 0, deckPages: 0, storybookPages: 0, writingLibraryBooks: 0, writingLibraryPdfPages: 0, characterChapters: 0, settingChapters: 0, fonts: 0, resources: 0 };
 const fail = (path, message) => failures.push({ path, message });
 const readJson = async path => JSON.parse(await readFile(path, 'utf8'));
 const origin = 'https://narrative-package.invalid';
@@ -92,9 +92,50 @@ try {
     '/narrative-course/books/writing-1-answers.js',
     '/narrative-course/books/writing-1-supplemental-answers.js',
     '/narrative-course/books/writing-1-ocr.json',
+    '/narrative-course/books/writing-1-translations.json',
+    '/narrative-course/books/book-translation.js',
+    '/narrative-course/books/book-translation.css',
   ]) add(path, '/', 'Narrative Writing book reader');
   for (let bookPage = 1; bookPage <= 249; bookPage++) {
     add(`/narrative-course/books/writing-1-pages/page-${String(bookPage).padStart(3, '0')}.jpg`, '/', `Writing 1 original page ${bookPage}`);
+  }
+  const legacyEditions = [
+    ['Write Your Own Story Book', resolve(root, 'app/storybookTranslationUnits.json'), 98],
+    ['Writing Critically 1', resolve(sourcePublic, 'narrative-course/books/writing-1-translations.json'), 249],
+  ];
+  for (const [title, file, pageCount] of legacyEditions) {
+    const pages = await readJson(file);
+    if (pages.length !== pageCount || pages.some((page, i) => page.page !== i + 1 || !Array.isArray(page.units) ||
+        page.units.some(unit => !unit.en?.trim() || !unit.zh?.trim() || !unit.boxes?.length))) {
+      throw new Error('Incomplete translation bookmarks: ' + title);
+    }
+    counts.writingLibraryBooks++;
+  }
+  counts.writingLibraryPdfPages += 249;
+  const shelf = '/narrative-course/books/landing.html';
+  const shelfHtml = await readFile(resolve(sourcePublic, '.' + shelf), 'utf8');
+  const localBookIds = [...shelfHtml.matchAll(/href="reader\.html\?book=([a-z-]+)"/g)].map(match => match[1]);
+  if (localBookIds.length) {
+    for (const path of ['reader.html', 'reader.css', 'reader.js']) add(path, shelf, 'Writing bookshelf reader');
+    for (const id of localBookIds) {
+      const prefix = '/narrative-course/books/library/' + id + '/';
+      const dataPath = prefix + 'book.json';
+      let book;
+      try { book = await readJson(resolve(sourcePublic, '.' + dataPath)); }
+      catch { throw new Error('Finish local sentence translation before packaging the writing bookshelf: ' + id); }
+      const sentences = Object.values(book.sentences || {});
+      if (book.id !== id || !sentences.length || sentences.some(unit => !unit.en?.trim() || !unit.zh?.trim())) {
+        throw new Error('Incomplete writing library edition: ' + id);
+      }
+      add(dataPath, shelf, id);
+      add(prefix + book.cover, shelf, id + ' cover');
+      for (const page of book.pages || []) {
+        add(prefix + page.image, shelf, id + ' page ' + page.number);
+        counts.writingLibraryPdfPages++;
+      }
+      for (const image of Object.values(book.images || {})) add(prefix + image.src, shelf, id + ' original image');
+      counts.writingLibraryBooks++;
+    }
   }
   for (const [name, first, last, counter] of [['character', 20, 38, 'characterChapters'], ['setting', 1, 19, 'settingChapters']]) {
     const catalog = await readJson(resolve(root, `app/${name}ReferenceCatalog.json`));
@@ -135,7 +176,7 @@ if (!options.httpOnly) {
   }
 }
 const mimeTypes = {
-  '.json': ['application/json'], '.css': ['text/css'], '.html': ['text/html'], '.svg': ['image/svg+xml'],
+  '.js': ['application/javascript', 'text/javascript'], '.json': ['application/json'], '.css': ['text/css'], '.html': ['text/html'], '.svg': ['image/svg+xml'],
   '.png': ['image/png'], '.webp': ['image/webp'], '.jpg': ['image/jpeg'], '.jpeg': ['image/jpeg'], '.gif': ['image/gif'],
   '.woff2': ['font/woff2', 'application/font-woff2'], '.woff': ['font/woff', 'application/font-woff', 'application/x-font-woff'],
   '.ttf': ['font/ttf', 'application/x-font-ttf', 'application/font-sfnt'], '.otf': ['font/otf', 'application/x-font-opentype', 'application/font-sfnt'],

@@ -51,19 +51,9 @@
 
 /* OCR hit areas follow the printed text while the original page image stays visible. */
 .page-click-layer{position:absolute;inset:0;z-index:1;pointer-events:none}
-.page-click-zone{position:absolute;display:block;min-height:8px;padding:0;border:0;border-radius:2px;background:transparent;pointer-events:auto;cursor:pointer}
+.page-click-zone{position:absolute;display:block;min-height:0;padding:0;border:0;border-radius:2px;background:transparent;pointer-events:auto;cursor:pointer}
 .page-click-zone:hover,.page-click-zone:focus-visible{background:#f1c97442;outline:1px solid #b47933;outline-offset:1px}
 .click-hint{display:block;margin-top:5px;color:#b8d6b8;font:11px var(--sans)}
-.page-translation[hidden]{display:none}
-.page-translation{position:fixed;z-index:44;width:min(440px,calc(100vw - 24px));max-height:min(360px,calc(100vh - 24px));overflow:auto;padding:16px 18px 18px;border:1px solid #d2c5a5;border-radius:8px;background:#fffdf6;color:#263027;box-shadow:0 12px 42px #0009;text-align:left}
-.page-translation__header{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:13px;color:#6b825f;font:700 10px var(--sans);letter-spacing:.12em}
-.page-translation__header button{width:28px;height:28px;padding:0;border:1px solid #d9dbcd;border-radius:4px;background:transparent;color:#344235;font:21px/1 var(--sans)}
-.page-translation__header button:hover{background:var(--red);color:#fff}
-.page-translation__source{margin:0 0 11px;font:15px/1.45 var(--serif);overflow-wrap:anywhere}
-.page-translation__result{margin:0;padding-top:10px;border-top:1px solid #e3e4da;color:#435843;font:14px/1.6 var(--sans);overflow-wrap:anywhere}
-.page-translation__retry{margin-top:10px;padding:6px 10px;border:1px solid #849e7c;border-radius:4px;background:#eaf1e6;color:#2d5432;font:12px var(--sans)}
-.page-translation__retry:hover{background:var(--red);color:#fff}
-@media(max-width:600px){.page-translation{inset:auto 8px 8px!important;width:calc(100vw - 16px);max-height:min(42vh,340px)}}
 
 /* Answers sit over the matching printed blanks; only the selected one is revealed. */
 .book-spread .book-page{container-type:inline-size}

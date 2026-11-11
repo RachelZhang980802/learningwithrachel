@@ -8,8 +8,9 @@
   <title>Writing Critically 1 · The Book</title>
   <link rel="icon" href="/favicon.svg?v=20261102-cat3" type="image/svg+xml">
   <link rel="stylesheet" href="/western-culture/shared-footer.css">
-  <link rel="stylesheet" href="writing-1.css">
-  <script type="module" src="writing-1.js"></script>
+  <link rel="stylesheet" href="writing-1.css?v=20261111-bookmark">
+  <link id="book-translation-style" rel="stylesheet" href="book-translation.css?v=20261111-bookmark">
+  <script type="module" src="writing-1.js?v=20261111-bookmark"></script>
 </head>
 <body>
   <a class="skip-link" href="#book-page">Skip to book page</a>
@@ -43,7 +44,7 @@
 
   <main class="reader-main" id="main">
     <div class="reader-toolbar" role="group" aria-label="Reading controls">
-      <div class="reader-toolbar__heading"><span class="eyebrow">THE BOOK · ORIGINAL PAGES</span><h1>大学思辨英语教程 · 写作 1</h1><span class="click-hint">点击书页上的文字查看中文翻译</span></div>
+      <div class="reader-toolbar__heading"><span class="eyebrow">THE BOOK · ORIGINAL PAGES</span><h1>大学思辨英语教程 · 写作 1</h1><span class="click-hint">点击书页上的英文，即时查看中文释义</span></div>
       <div class="reader-toolbar__actions">
         <button type="button" class="toolbar-button" id="previous-page" aria-label="Previous page">← Previous</button>
         <form id="page-form" class="page-form"><label for="page-number">Page</label><input id="page-number" type="number" min="1" max="249" value="1" inputmode="numeric" aria-label="Page number"><span>/ 249</span><button type="submit" aria-label="Go to page">Go</button></form>
@@ -68,12 +69,6 @@
     <p class="reader-note">Click text for translation or a marked exercise blank for its red reference answer. Answers are checked against the supplied unit answer sheets; open-ended work may have no fixed answer. OCR may contain errors; check the page image for accuracy.<br>孙有中主编；杨鲁新、王素娥分册主编，《大学思辨英语教程：写作 1》，外语教学与研究出版社，2015 · ISBN 9787513557825</p>
   </main>
 
-  <aside class="page-translation" id="page-translation" aria-label="Text and translation" hidden>
-    <div class="page-translation__header"><span>PAGE TEXT · 点击原书文字</span><button type="button" id="translation-close" aria-label="Close translation">×</button></div>
-    <p class="page-translation__source" id="translation-source"></p>
-    <p class="page-translation__result" id="translation-result" role="status" aria-live="polite"></p>
-    <button class="page-translation__retry" id="translation-retry" type="button" hidden>Retry translation</button>
-  </aside>
 
   <div class="ocr-backdrop" id="ocr-backdrop" hidden></div>
   <aside class="ocr-panel" id="ocr-panel" aria-label="OCR text" hidden>
