@@ -393,11 +393,12 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "absorb v. 吸收；使全神贯注",
+        "absorbing adj. 引人入胜的",
         "absorbed adj. 全神贯注的",
-        "absorption n. 吸收；专注"
+        "absorption n. 吸收；专注",
+        "absorbent adj. 能吸收水分或液体的"
       ],
-      "wordFamilyRoot": "absorbing",
+      "wordFamilyRoot": "absorb",
       "wordFamilyDistinctions": [
         {
           "forms": [
@@ -405,6 +406,14 @@
             "absorbed"
           ],
           "distinction": "absorbing 说事物“引人入胜”；absorbed 说人“全神贯注于某事”。"
+        },
+        {
+          "forms": [
+            "absorbing",
+            "absorbed",
+            "absorbent"
+          ],
+          "distinction": "absorbing 形容事物引人入胜，absorbed 形容人全神贯注，absorbent 形容材料能吸水或其他液体。"
         }
       ]
     },
@@ -469,7 +478,8 @@
       "otherMeaningsStatus": "missing_source",
       "family": [
         "sparkle v. 闪烁；发光",
-        "sparkling adj. 闪亮的；生动的"
+        "sparkling adj. 闪亮的；生动的",
+        "sparkingly adv. 闪耀般地；（本文比喻）鲜亮生动地"
       ],
       "wordFamilyRoot": "spark"
     },
@@ -810,7 +820,7 @@
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
         "italic adj./n. 斜体的；斜体字",
-        "italics n. 斜体字",
+        "italics n. 斜体字（复数名词，常用 in italics）",
         "italicization n. 斜体化"
       ],
       "wordFamilyRoot": "italicize",
@@ -1427,7 +1437,7 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "trifle n./v. 小事；轻视"
+        "trifle n./v. 小事；轻率对待（动词常用 trifle with）"
       ],
       "wordFamilyRoot": "trifling"
     },
@@ -2099,9 +2109,10 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "ruddiness n. 红润；赤红"
+        "flushed adj. 脸发红的；红晕的",
+        "flushing n. （面部）发红；潮红"
       ],
-      "wordFamilyRoot": "ruddy"
+      "wordFamilyRoot": "flush"
     },
     "66": {
       "word": "radiating",
@@ -2196,7 +2207,18 @@
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
         "somberly adv. 忧郁地；阴沉地",
-        "somberness n. 阴沉；忧郁"
+        "somberness n. 阴沉；忧郁",
+        "sombre adj. 阴沉的；暗淡的（英式拼写）"
+      ],
+      "wordFamilyRoot": "somber",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "somber",
+            "sombre"
+          ],
+          "distinction": "somber 是美式拼写，sombre 是英式拼写。两者都可形容暗沉的光线、沉闷的颜色或严肃的气氛。"
+        }
       ]
     },
     "69": {
@@ -2694,7 +2716,8 @@
       "family": [
         "worker n. 工作者",
         "workmanship n. 工艺；手艺",
-        "workable adj. 可行的"
+        "workable adj. 可行的",
+        "wrought v. 造成；产生（work 的旧式过去式及过去分词）"
       ],
       "wordFamilyRoot": "work",
       "wordFamilyDistinctions": [
@@ -2704,6 +2727,13 @@
             "workmanship"
           ],
           "distinction": "a worker 是做工的人；the workmanship of a boat 评价船制作得是否精良。后者指成品体现的手艺或质量，不能用来称造船工人。"
+        },
+        {
+          "forms": [
+            "work",
+            "wrought"
+          ],
+          "distinction": "wrought 可作 work 的旧式过去式或过去分词。文中用 wrought 表示日月和暮色给河面营造出光彩。"
         }
       ]
     },
@@ -3030,7 +3060,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": []
+      "family": [
+        "shoal n. 浅滩；沙洲",
+        "shoaling n. 水道变浅；淤浅"
+      ],
+      "wordFamilyRoot": "shoal"
     },
     "36": {
       "word": "streak",
@@ -3396,7 +3430,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": []
+      "family": [
+        "sown v. 播种；散布（sow 的过去分词）",
+        "sowing n. 播种；种植"
+      ],
+      "wordFamilyRoot": "sow"
     },
     "40": {
       "word": "decay",

@@ -41,6 +41,7 @@ import { railroadWorkersArticle } from "./inquire-railroad-workers-article";
 import { chinaClimateLeaderArticle } from "./inquire-china-climate-article";
 import { ChinaClimateVocabularyArticleBody } from "./ChinaClimateVocabularyNotes";
 import { ArticleSyntaxReading } from "./ArticleSyntaxReading";
+import { AnalysisReadingWords, AnalysisTitleWords, readingWordHref } from "./ArticleReadingWords";
 import { H1BVisaArticleBody } from "./H1BVisaArticleBody";
 import { malaysiaHistoryTranscript, singaporeExpulsionTranscript, singaporeHistoryTranscript } from "./inquire-urban-history-transcripts";
 import { chinaTransitPolicyTranscript, shanghaiTransitVlogTranscript, threeCupChickenTranscript } from "./inquire-video-transcripts";
@@ -1121,10 +1122,6 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   const [panel, setPanel] = useState<"education" | "syntax" | "irony" | "why" | null>(null);
   const [syntaxLevel, setSyntaxLevel] = useState(1);
   const [notesOpen, setNotesOpen] = useState(false);
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    if (params.get("panel") === "mindmap") setNotesOpen(true);
-  }, []);
   const [analysisMode, setAnalysisMode] = useState(false);
   const [quizOpen, setQuizOpen] = useState(false);
   const [clozeOpen, setClozeOpen] = useState(false);
@@ -1132,15 +1129,38 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   const authorProfileAvailable = hasAuthorProfile(article.number);
   const clozeReturnScroll = useRef(0);
   const [vocabularyTarget, setVocabularyTarget] = useState<VocabularyTarget | undefined>();
+  const readingWordJump = useRef<string | null>(null);
+  useEffect(() => {
+    const hash = window.location.hash.slice(1);
+    if (hash.startsWith("text-word-")) {
+      readingWordJump.current = hash;
+    } else if (new URLSearchParams(window.location.search).get("panel") === "mindmap") {
+      setNotesOpen(true);
+    }
+  }, []);
+  useEffect(() => {
+    if (analysisMode || notesOpen || quizOpen || readingWordJump.current === null) return;
+    const word = document.getElementById(readingWordJump.current);
+    readingWordJump.current = null;
+    if (!word) return;
+    word.focus({ preventScroll: true });
+    word.scrollIntoView({ block: "center", inline: "nearest", behavior: "instant" });
+  }, [analysisMode, notesOpen, quizOpen]);
+  const jumpToReadingWord = (id: string) => {
+    readingWordJump.current = id;
+    window.history.replaceState(window.history.state, "", readingWordHref(article.number, id));
+    setVocabularyTarget(undefined);
+    setAnalysisMode(false);
+  };
   const navigation = (active: "text" | "analysis" | "quizzes" | "notes") => <nav className="reading-nav" aria-label="Article navigation">
     <button onClick={onBack}>← Library</button>
-    <a className={`reading-nav-tab${active === "text" ? " is-active" : ""}`} href="#text" aria-current={active === "text" ? "location" : undefined} onClick={() => { setAnalysisMode(false); setQuizOpen(false); setNotesOpen(false); }}>Text</a>
-    <button className={`reading-nav-tab${active === "analysis" ? " is-active" : ""}`} onClick={() => { setQuizOpen(false); setAnalysisMode(true); setNotesOpen(false); }}>Analysis</button>
+    <a className={`reading-nav-tab${active === "text" ? " is-active" : ""}`} href="#text" aria-current={active === "text" ? "location" : undefined} onClick={() => { setAnalysisMode(false); setQuizOpen(false); setNotesOpen(false); setVocabularyTarget(undefined); }}>Text</a>
+    <button className={`reading-nav-tab${active === "analysis" ? " is-active" : ""}`} onClick={() => { if (!analysisMode) setVocabularyTarget(undefined); setQuizOpen(false); setAnalysisMode(true); setNotesOpen(false); }}>Analysis</button>
     <button className={`reading-nav-tab${active === "quizzes" ? " is-active" : ""}`} onClick={() => { setAnalysisMode(false); setQuizOpen(true); setNotesOpen(false); }}>Quizzes</button>
     <button className={`reading-nav-tab${active === "notes" ? " is-active" : ""}`} aria-pressed={active === "notes"} onClick={() => { setAnalysisMode(false); setQuizOpen(false); setNotesOpen(true); }}>Mindmap</button>
     <span className="reading-nav-count">{article.number} / 10</span>
-    {onPrevious && <button className="reading-nav-previous" onClick={onPrevious} aria-label="Previous article">← Previous</button>}
-    {onNext && <button onClick={onNext} aria-label="Next article">Next →</button>}
+    {onPrevious && <button className="reading-nav-previous" onClick={() => { setVocabularyTarget(undefined); onPrevious(); }} aria-label="Previous article">← Previous</button>}
+    {onNext && <button onClick={() => { setVocabularyTarget(undefined); onNext(); }} aria-label="Next article">Next →</button>}
   </nav>;
   if (clozeOpen && index <= 9) {
     const onClozeBack = () => { setClozeOpen(false); window.requestAnimationFrame(() => window.scrollTo(0, clozeReturnScroll.current)); };
@@ -1151,7 +1171,7 @@ function ReadingPage({ article, index, showMuckRakeIntro, onOpenMuckRakeIntro, o
   }
 
   if (analysisMode && index <= 9) {
-    return <div className="article-learning-shell">{navigation("analysis")}<SentenceStudio key={article.number} articleId={article.number} initialVocabulary={vocabularyTarget} onExit={() => { setAnalysisMode(false); setVocabularyTarget(undefined); }} /></div>;
+    return <div className="article-learning-shell">{navigation("analysis")}<SentenceStudio key={article.number} articleId={article.number} initialVocabulary={vocabularyTarget} onJumpToText={jumpToReadingWord} onExit={() => { setAnalysisMode(false); setVocabularyTarget(undefined); }} /></div>;
   }
 
   if (quizOpen) {
@@ -1538,7 +1558,9 @@ function PendingStudyContent({ panel }: { panel: StudioPanel }) {
   return <section className="study-note"><h2>{titles[panel]}</h2><p className="study-pending">本句讲解待补充。</p></section>;
 }
 
-function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () => void; articleId: string; initialVocabulary?: VocabularyTarget }) {
+function SentenceStudio({ onExit, articleId, initialVocabulary, onJumpToText }: {
+  onExit: () => void; articleId: string; initialVocabulary?: VocabularyTarget; onJumpToText: (id: string) => void;
+}) {
   const isRobots = articleId === "02";
   const isRoommates = articleId === "03";
   const isAppearances = articleId === "04";
@@ -1617,6 +1639,12 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
   const currentCourageSentence = isCourage ? courageConfig!.sentences[selected] : null;
   const currentSetupSentence = isSetup ? setupConfig!.sentences[selected] : null;
   const lesson = getLesson(articleId);
+  const readingLesson = isStudent ? article01ReadingLesson : lesson;
+  const readingSentence = readingLesson?.sentences[selected];
+  const originalContent = readingLesson && readingSentence ? {
+    originalSentence: <AnalysisReadingWords lesson={readingLesson} sentence={readingSentence} onJump={onJumpToText}/>,
+    titleVocabulary: <AnalysisTitleWords lesson={readingLesson} sentence={readingSentence} onJump={onJumpToText}/>,
+  } : {};
   const article01SentenceNumber = selected + 1;
   const article01AvailablePanels = notebookPanelsForSentence("01", article01SentenceNumber) ?? [];
   const article01FrontOnly = false;
@@ -1629,7 +1657,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
     }
   }, [activePanel, article01AvailablePanels, isStudent]);
 
-  if (isStudent) return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={article01ActivePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} sentenceClassification={article01ReadingLesson.sentences[article01SentenceNumber - 1]?.classification} showClassificationBadge suppressClassificationLabel availablePanels={article01AvailablePanels} frontOnly={article01FrontOnly}>
+  if (isStudent) return <ArticleOneNotebook {...originalContent} sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={article01ActivePanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} sentenceClassification={article01ReadingLesson.sentences[article01SentenceNumber - 1]?.classification} showClassificationBadge suppressClassificationLabel availablePanels={article01AvailablePanels} frontOnly={article01FrontOnly}>
     {article01ActivePanel === "words" ? <ArticleOneWords key={selected} initialSourceRow={initialVocabulary?.sentence === selected + 1 ? initialVocabulary.sourceRow : undefined} sentence={selected + 1} text={sentences[selected]} contextAdornment={<SentenceBadge sentence={selected + 1} compact entry={article01ReadingLesson.sentences[selected]?.classification} hideClassificationLabel/>}/>
       : article01ActivePanel === "structure" ? <SentenceStructure key={`01-${selected}`} sentence={sentences[selected]} articleId="01" notebook/>
       : article01ActivePanel && <div className="student-existing-content">
@@ -1646,7 +1674,7 @@ function SentenceStudio({ onExit, articleId, initialVocabulary }: { onExit: () =
     const sentence = lesson.sentences[selected];
     const availableSentencePanels = notebookPanelsForSentence(articleId, sentence.id);
     const notebookPanel = availableSentencePanels && activePanel && !availableSentencePanels.includes(activePanel) ? null : activePanel;
-    return <ArticleOneNotebook sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={notebookPanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification} availablePanels={availableSentencePanels}>
+    return <ArticleOneNotebook {...originalContent} sentences={sentences} selected={selected} paragraph={activeParagraph} ranges={paragraphRanges} panel={notebookPanel} onPanel={setActivePanel} onSelect={chooseSentence} onStep={stepAnalysisSentence} onExit={onExit} articleId={articleId} title={lesson.title} audioSrc={sentence.audioSrc} catSrc={lesson.catSrc} sentenceClassification={activePanel === "structure" ? sentence.structureClassification ?? sentence.classification : sentence.classification} availablePanels={availableSentencePanels}>
       {activePanel === "words" ? <LessonWords key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} initialSourceRow={initialVocabulary?.sentence === sentence.id ? initialVocabulary.sourceRow : undefined}/>
         : activePanel === "structure" ? <LessonStructure key={`${articleId}-${selected}`} sentence={sentence}/>
         : activePanel && <LessonActivities key={`${articleId}-${selected}`} lesson={lesson} sentence={sentence} panel={activePanel} onPanel={setActivePanel}/>}

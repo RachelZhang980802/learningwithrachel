@@ -482,10 +482,9 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
       "family": [
-        "direct v. 指示；指导",
-        "direction n. 方向；指示",
-        "direct adj. 直接的",
-        "directly adv. 直接地"
+        "direct v./adj. 指示；指导；直接的",
+        "direction n. 方向；指引",
+        "directly adv. 直接地；立刻"
       ],
       "wordFamilyRoot": "directive",
       "wordFamilyDistinctions": [
@@ -661,10 +660,10 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "family": [
-        "paradox n. 悖论；矛盾的人或事",
+        "paradoxical adj. 看似自相矛盾的；反常的",
         "paradoxically adv. 看似矛盾地；出人意料地"
       ],
-      "wordFamilyRoot": "paradoxical"
+      "wordFamilyRoot": "paradox"
     },
     "12": {
       "word": "laundry",
@@ -853,7 +852,10 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "family": []
+      "family": [
+        "stroller n. 散步的人；（美式）婴儿推车"
+      ],
+      "wordFamilyRoot": "stroll"
     },
     "61": {
       "word": "stunning",
@@ -2150,9 +2152,19 @@
       "otherMeaningsStatus": "present",
       "family": [
         "hospitable adj. 好客的",
-        "hospitably adv. 热情款待地"
+        "hospitably adv. 热情款待地",
+        "inhospitable adj. 不好客的；（环境）不宜居的"
       ],
-      "wordFamilyRoot": "hospitality"
+      "wordFamilyRoot": "hospitality",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "hospitable",
+            "inhospitable"
+          ],
+          "distinction": "hospitable 说待客热情或环境适宜。inhospitable 说待客冷淡，形容地方时常指环境恶劣。"
+        }
+      ]
     },
     "38": {
       "word": "plea",

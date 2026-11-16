@@ -185,7 +185,7 @@ export const article01WordFamilies: Record<number, WordFamily> = {
   "17": {
     "entries": [
       "special adj. 特别的",
-      "specialized adj. 专业化的",
+      "specialized / specialised adj. 专业化的",
       "specialist n. 专家；专科医生",
       "specialty / speciality n. 专长；专业领域",
       "specialization / specialisation n. 专业化；专门研究",
@@ -360,7 +360,7 @@ export const article01WordFamilies: Record<number, WordFamily> = {
     "entries": [
       "intellectual adj. 智力的；知识性的",
       "intellectually adv. 在智力上",
-      "intellectualize v. 理智化分析"
+      "intellectualize / intellectualise v. 对事物作理性分析；借分析回避情绪"
     ]
   },
   "31": {
@@ -381,7 +381,8 @@ export const article01WordFamilies: Record<number, WordFamily> = {
     "entries": [
       "proposal n. 建议；提案",
       "proposer n. 提议者",
-      "proposed adj. 拟议的"
+      "proposed adj. 拟议的",
+      "proposition n. 命题；提议"
     ],
     "distinctions": [
       {
@@ -390,6 +391,14 @@ export const article01WordFamilies: Record<number, WordFamily> = {
           "proposer"
         ],
         "distinction": "proposal 是提出的建议；proposer 是提出建议的人。"
+      },
+      {
+        "forms": [
+          "proposal",
+          "proposer",
+          "proposition"
+        ],
+        "distinction": "proposal 多指提出的具体计划，proposer 指提出的人，proposition 可指有待论证的命题或商业提议。"
       }
     ]
   },
@@ -464,6 +473,13 @@ export const article01WordFamilies: Record<number, WordFamily> = {
           "memo"
         ],
         "distinction": "memorandum 是完整、较正式的说法；memo 是其缩写，在工作邮件和日常办公中更常见。"
+      },
+      {
+        "forms": [
+          "memorandum",
+          "memo"
+        ],
+        "distinction": "两个词都可指备忘录。memorandum 多用于正式文件，memo 是常用简称，也常指简短的内部通知。"
       }
     ]
   },

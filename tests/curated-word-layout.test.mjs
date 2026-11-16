@@ -85,7 +85,7 @@ test('02–10 word cards attach examples to their sense and hide unsupported com
       assert.ok(desk, `${articleId}/${row.sourceRow}: word desk`);
       const baseRecord = curated[articleId][row.sourceRow];
       const record = { ...baseRecord, ...baseRecord.contextBySentence?.[sentenceId] };
-      assert.deepEqual(desk.props.cards.map(card => card.id), ['meaning', 'collocations', ...(record.compare.length ? ['compare'] : []), 'usage', 'press']);
+      assert.deepEqual(desk.props.cards.map(card => card.id), ['meaning', 'collocations', ...(record.compare.length ? ['compare'] : []), 'usage', ...(articleId === '05' && row.word === 'yoshi' ? [] : ['press'])]);
       const primary = desk.props.cards[0].content;
       const context = find(primary, node => node.props?.className === 'word-context-meaning');
       const example = find(primary, node => node.props?.className === 'word-context-example');

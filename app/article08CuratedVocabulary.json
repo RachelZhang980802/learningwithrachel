@@ -85,7 +85,8 @@
       "wordFamilyRoot": "exotic",
       "family": [
         "exotically adv. 带异国情调地",
-        "exoticism n. 异域风情；异国情调"
+        "exoticism n. 异域风情；异国情调",
+        "exoticize / exoticise v. 将人或事物描绘成带异国情调的"
       ]
     },
     "5": {
@@ -241,7 +242,16 @@
         "spectacularly adv. 壮观地；惊人地",
         "spectator n. 观众；旁观者"
       ],
-      "wordFamilyRoot": "spectacle"
+      "wordFamilyRoot": "spectacle",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "spectacle",
+            "spectator"
+          ],
+          "distinction": "spectacle 是供人观看的景象或场面，spectator 是观看比赛或表演的人。"
+        }
+      ]
     },
     "46": {
       "word": "seemingly",
@@ -791,8 +801,8 @@
       "wordFamilyRoot": "appropriate",
       "family": [
         "appropriation n. 挪用；拨款",
-        "appropriative adj. 挪用性的",
-        "appropriated adj. 已被挪用的"
+        "appropriative adj. 带有挪用性质的",
+        "appropriated adj. 已被挪用的；已被拨作特定用途的"
       ],
       "wordFamilyDistinctions": [
         {
@@ -841,9 +851,19 @@
       "otherMeaningsStatus": "present",
       "family": [
         "appropriation n. 挪用；拨款",
-        "appropriative adj. 挪用性的"
+        "appropriative adj. 带有挪用性质的",
+        "appropriated adj. 已被挪用的；已被拨作特定用途的"
       ],
-      "wordFamilyRoot": "appropriate"
+      "wordFamilyRoot": "appropriate",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "appropriative",
+            "appropriated"
+          ],
+          "distinction": "appropriative 描述行为或手法带有挪用性质，appropriated 描述某项东西已被挪用或被拨作其他用途。"
+        }
+      ]
     },
     "16": {
       "word": "tricky",
@@ -1313,8 +1333,18 @@
       "otherMeaningsStatus": "missing_source",
       "wordFamilyRoot": "appropriate",
       "family": [
-        "appropriation n. 挪用；占用",
-        "appropriative adj. 挪用性的"
+        "appropriation n. 挪用；拨款",
+        "appropriative adj. 带有挪用性质的",
+        "appropriated adj. 已被挪用的；已被拨作特定用途的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "appropriative",
+            "appropriated"
+          ],
+          "distinction": "appropriative 描述行为或手法带有挪用性质，appropriated 描述某项东西已被挪用或被拨作其他用途。"
+        }
       ]
     },
     "21": {
@@ -1743,8 +1773,8 @@
       "otherMeanings": [],
       "otherMeaningsStatus": "missing_source",
       "family": [
-        "homogenization n. 同质化；均质化",
-        "homogeneous adj. 同质的；均匀的",
+        "homogenization / homogenisation n. 同质化；均质化",
+        "homogeneous adj. 同质的；均匀一致的",
         "homogeneity n. 同质性"
       ],
       "wordFamilyRoot": "homogenize",
@@ -1971,7 +2001,8 @@
       "family": [
         "perception n. 看法；感知",
         "perceptive adj. 观察敏锐的",
-        "perceptible adj. 可察觉的"
+        "perceptible adj. 可察觉的",
+        "imperceptible adj. 难以察觉的"
       ],
       "wordFamilyDistinctions": [
         {
@@ -1980,6 +2011,13 @@
             "perceptible"
           ],
           "distinction": "perceptive 指人洞察敏锐；perceptible 指事物能够被察觉。"
+        },
+        {
+          "forms": [
+            "perceptible",
+            "imperceptible"
+          ],
+          "distinction": "perceptible 表示事物能够被察觉，imperceptible 表示变化细微到难以察觉。"
         }
       ]
     },
@@ -2136,11 +2174,12 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "colonization n. 殖民化",
-        "colonist n. 殖民者",
-        "colonial adj. 殖民的",
-        "decolonize v. 非殖民化",
-        "decolonization n. 去殖民化"
+        "colonization / colonisation n. 殖民化；（生物）定殖",
+        "colonist n. 殖民地定居者",
+        "colonial adj. 殖民的；殖民地的",
+        "recolonize / recolonise v. 再次殖民；重新定殖",
+        "decolonize / decolonise v. 结束对某地的殖民统治；去殖民化",
+        "decolonization / decolonisation n. 去殖民化"
       ],
       "wordFamilyRoot": "colonize",
       "wordFamilyDistinctions": [
@@ -2151,6 +2190,14 @@
             "decolonization"
           ],
           "distinction": "colonization 指建立殖民控制的过程；colonist 是参与定居殖民的人；decolonization 指废除殖民统治及其影响的过程。"
+        },
+        {
+          "forms": [
+            "colonize",
+            "recolonize",
+            "decolonize"
+          ],
+          "distinction": "colonize 指开始殖民统治，recolonize 表示再次殖民，decolonize 指结束殖民统治或消除殖民影响。"
         }
       ]
     },
@@ -3064,7 +3111,7 @@
       "wordFamilyRoot": "gentrify",
       "family": [
         "gentrification n. 中产阶层化；绅士化",
-        "gentrified adj. 已中产阶层化的"
+        "gentrified adj. 已中产阶层化的（也可作过去分词）"
       ]
     },
     "84": {
@@ -3257,9 +3304,22 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "critically adv. 关键地；极其"
+        "critically adv. 关键地；极其",
+        "critic n. 评论家；批评者",
+        "criticism n. 批评；评论",
+        "critique n./v. 评论；深入评析"
       ],
-      "wordFamilyRoot": "critical"
+      "wordFamilyRoot": "critical",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "critic",
+            "criticism",
+            "critique"
+          ],
+          "distinction": "critic 指人，criticism 指批评或评论活动。critique 指较系统的评析，可用作名词或动词。"
+        }
+      ]
     },
     "76": {
       "word": "reflect",

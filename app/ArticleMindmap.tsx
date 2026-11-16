@@ -27,8 +27,8 @@ export function ArticleMindmap({ articleId, title }: { articleId: string; title:
 
   return <iframe
     ref={frameRef}
-    key={`${articleId}-source-branches-20261101`}
-    src={`/mindmaps/index.html?article=${encodeURIComponent(articleId)}&rev=source-branches-20261101`}
+    key={`${articleId}-article02-evaluation-v2`}
+    src={`/mindmaps/index.html?article=${encodeURIComponent(articleId)}&rev=article02-evaluation-v2`}
     title={`Mindmap — ${title}`}
     allow="fullscreen"
     style={{ display: "block", width: "100%", height: worksheetHeight ?? "calc(100dvh - 64px)", minHeight: worksheetHeight === null ? 560 : 0, border: 0, background: "#eef1f3" }}

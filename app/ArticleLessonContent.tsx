@@ -5,6 +5,7 @@ import { SentenceBadge, type NotebookPanel } from "./ArticleOneNotebook";
 import { WordFileDesk, type WordFileCard } from "./WordFileDesk";
 import type { VocabularyTarget } from "./ArticleVocabulary";
 import { getLesson, paragraphSegments, vocabularyMatches, type Lesson, type LessonSentence, type PdfNote } from "./articleLessons";
+import { readingWordId, titleWordMatches } from "./ArticleReadingWords";
 import "./article-lessons.css";
 import { grammarRole } from "./GrammarLegend";
 import { StructureDiagram } from "./ClauseMemo";
@@ -16,6 +17,7 @@ import { toMediaUrl } from "./mediaUrl";
 import { article02PdfVocabulary } from "./article02PdfVocabulary";
 import { article02PressExamples } from "./article02PressExamples";
 import { article03PressExamples } from "./article03PressExamples";
+import { article04to05PressExamples } from "./article04to05PressExamples";
 import { PressExample } from "./PressExample";
 import { article03to05PdfVocabulary } from "./article03to05PdfVocabulary";
 import { article06to08PdfVocabulary } from "./article06to08PdfVocabulary";
@@ -67,13 +69,14 @@ export function LessonVocabularyTitle({ articleId, text, onSelect }: {
 }) {
   const lesson = getLesson(articleId);
   if (!lesson) return <>{text}</>;
-  const matches = vocabularyMatches({ ...lesson, vocabulary: lesson.vocabulary.map(word => ({ ...word, occurrences: [0] })) }, 0, text);
+  const matches = titleWordMatches(lesson, text);
   let cursor = 0;
   const parts = matches.map(match => {
     const preceding = text.slice(cursor, match.start);
     cursor = match.end;
     const word = lesson.vocabulary.find(word => word.sourceRow === match.sourceRow)!;
     return <Fragment key={match.start}>{preceding}<button type="button" className="vocabulary-highlight" data-source-row={word.sourceRow}
+      id={readingWordId(articleId, 0, match)}
       aria-label={`查看标题词 ${word.word} 的词汇卡`} onClick={() => onSelect({ sentence: word.occurrences[0], sourceRow: word.sourceRow })}>{text.slice(match.start, match.end)}</button></Fragment>;
   });
   return <>{parts}{text.slice(cursor)}</>;
@@ -152,7 +155,8 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
   const baseCurated = ({ ...curatedWords, ...article06CuratedWords, ...article07CuratedWords, ...article08CuratedWords, ...article09CuratedWords, ...article10CuratedWords } as Record<string, Record<string, CuratedWord>>)[lesson.articleId]?.[String(entry.sourceRow)];
   const contextual = baseCurated?.contextBySentence?.[String(sentence.id)];
   const pressExample = lesson.articleId === "02" ? article02PressExamples[entry.sourceRow]
-    : lesson.articleId === "03" ? article03PressExamples[entry.sourceRow] : undefined;
+    : lesson.articleId === "03" ? article03PressExamples[entry.sourceRow] : article04to05PressExamples[lesson.articleId]?.[entry.sourceRow];
+  const showPress = Boolean(pressExample) || !(lesson.articleId === "05" && entry.word === "yoshi");
   const curated = baseCurated && contextual ? { ...baseCurated, ...contextual } : baseCurated;
   const recording = ({ ...localAudio, ...article06LocalAudio, ...article07LocalAudio, ...article08LocalAudio, ...article09LocalAudio, ...article10LocalAudio } as Record<string, Record<string, { file: string }>>)[lesson.articleId]?.[String(entry.sourceRow)];
   const pending = (heading: string) => <div className="word-related"><section><h3>{heading}</h3><p className="study-pending">{["06", "07"].includes(lesson.articleId) ? "已收到你提供的词典资料，正在逐词核对整理。" : "等待你提供词典资料后整理。"}</p></section></div>;
@@ -183,8 +187,8 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
     { id: "collocations", title: "Collocations", subtitle: "搭配", content: curated ? <div className="word-related"><section><h3>Collocations · 搭配</h3><CollocationLines values={curated.collocations}/></section><WordFamilyTreeGame root={curated.wordFamilyRoot ?? entry.word} entries={curated.family ?? []} distinctions={curated.wordFamilyDistinctions}/></div> : pending("Collocations · 搭配") },
     ...(curated?.compare?.length ? [{ id: "compare", title: "Compare", subtitle: "近义辨析", content: <div className="word-related"><section><h3>Compare · 近义辨析</h3><Lines values={curated.compare}/></section></div> }] : []),
     { id: "usage", title: "Usage note", subtitle: "用法提醒", content: curated ? <div className="word-related"><section><h3>Usage note · 用法提醒</h3><p>{curated.usage}</p></section></div> : pending("Usage note · 用法提醒") },
-    { id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{pressExample ? <PressExample example={pressExample} terms={[entry.word, ...entry.forms]}/> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> },
   ];
+  if (showPress) cards.push({ id: "press", title: "In the press", subtitle: "外刊用法", content: <section className="word-press"><h3>In the press · 外刊用法</h3>{pressExample ? <PressExample example={pressExample} terms={[entry.word, ...entry.forms]}/> : <p className="word-press-placeholder">外刊例句待补充。</p>}</section> });
   return <div className="word-workspace" data-source-row={entry.sourceRow}>
     <nav className="word-picker" aria-label="本句词条"><span>{entries.length} {entries.length === 1 ? "ENTRY" : "ENTRIES"}</span>{entries.map((word, index) => <button type="button" key={word.sourceRow} aria-pressed={index === selected} onClick={() => setSelected(index)}>{word.word}</button>)}</nav>
     <div className="word-context">{badge}<LessonVocabularyText lesson={lesson} sentence={sentence.id} text={lesson.vocabulary.find(word => word.sourceRow === entry.sourceRow)?.titleOnly ? lesson.title : sentence.text} selectedRow={entry.sourceRow} onSelect={({ sourceRow }) => setSelected(entries.findIndex(word => word.sourceRow === sourceRow))}/></div>

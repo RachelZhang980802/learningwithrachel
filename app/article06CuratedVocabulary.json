@@ -304,7 +304,23 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "wordFamilyRoot": "consist",
+      "family": [
+        "consistency n. 一致性；浓稠度",
+        "consistent adj. 一致的；一贯的",
+        "inconsistent adj. 不一致的；前后矛盾的",
+        "consistently adv. 一贯地；始终如一地"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "consistent",
+            "inconsistent"
+          ],
+          "distinction": "consistent 表示做法或说法保持一致，inconsistent 表示前后变化或互相矛盾。consist of 则用于交代由哪些部分组成。"
+        }
+      ]
     },
     "3": {
       "word": "polemic",
@@ -331,7 +347,20 @@
           "exampleChinese": "她的演说之所以令人难忘，不是因其内容而是因其辩论方法。"
         }
       ],
-      "otherMeaningsStatus": "present"
+      "otherMeaningsStatus": "present",
+      "family": [
+        "polemical adj. 激烈抨击或辩护的；论战性的（正式）",
+        "polemicist n. 撰写论战文章的人"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "polemic",
+            "polemicist"
+          ],
+          "distinction": "polemic 可指激烈抨击或辩护的文章或言论，polemicist 指发表这类文章或言论的人。"
+        }
+      ]
     },
     "4": {
       "word": "divinity",
@@ -1179,8 +1208,9 @@
         }
       ],
       "otherMeaningsStatus": "present",
-      "wordFamilyRoot": "apprehension",
+      "wordFamilyRoot": "apprehend",
       "family": [
+        "apprehension n. 担忧；理解（正式）；逮捕",
         "apprehensive adj. 对将来感到担忧的",
         "apprehensively adv. 忧虑地"
       ]
@@ -1675,10 +1705,20 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "acquaintance n. 相识的人；了解",
-        "acquainted adj. 熟悉的；认识的"
+        "acquaintance n. 相识；熟人",
+        "acquainted adj. 相识的；熟悉的",
+        "unacquainted adj. 不熟悉的"
       ],
-      "wordFamilyRoot": "acquaint"
+      "wordFamilyRoot": "acquaint",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "acquainted",
+            "unacquainted"
+          ],
+          "distinction": "acquainted 表示已认识某人或了解某事，unacquainted 表示尚不认识或不熟悉。"
+        }
+      ]
     },
     "19": {
       "word": "sit up",
@@ -2038,7 +2078,8 @@
       ],
       "otherMeaningsStatus": "present",
       "family": [
-        "occasional adj. 因特定场合而写的；偶尔的"
+        "occasional adj. 偶尔的；为特定场合准备的",
+        "occasionally adv. 偶尔；有时"
       ],
       "wordFamilyRoot": "occasion"
     },
@@ -3318,7 +3359,10 @@
       "articleExample": "We sometimes disputed, and very fond we were of argument, and very desirous of confuting one another, which disputatious turn, by the way, is apt to become a very bad habit, making people often extremely disagreeable in company by the contradiction that is necessary to bring it into practice; and thence, besides souring and spoiling the conversation, is productive of disgusts and, perhaps enmities where you may have occasion for friendship.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "confutation n. 有理有据的反驳（正式）"
+      ]
     },
     "34": {
       "word": "disputatious",
@@ -3755,7 +3799,10 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [],
+      "family": [
+        "occasional adj. 偶尔的；为特定场合准备的",
+        "occasionally adv. 偶尔；有时"
+      ],
       "wordFamilyRoot": "occasion"
     },
     "114": {
@@ -4125,7 +4172,10 @@
       "articleExample": "Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.",
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [],
+      "family": [
+        "occasional adj. 偶尔的；为特定场合准备的",
+        "occasionally adv. 偶尔；有时"
+      ],
       "wordFamilyRoot": "occasion"
     },
     "122": {
@@ -4295,7 +4345,11 @@
       "articleExample": "Without entering into the discussion, he took occasion to talk to me about the manner of my writing; observed that, though I had the advantage of my antagonist in correct spelling and pointing (which I owed to the printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "missing_source"
+      "otherMeaningsStatus": "missing_source",
+      "family": [
+        "perspicuous adj. 表达清晰、易懂的（正式）",
+        "perspicuously adv. 清晰易懂地（正式）"
+      ]
     },
     "47": {
       "word": "remark",
@@ -5124,8 +5178,11 @@
       "dictionaryExample": null,
       "otherMeanings": [],
       "otherMeaningsStatus": "none_in_excerpt",
-      "family": [],
-      "wordFamilyRoot": "reduce A into B"
+      "family": [
+        "reduction n. 减少；缩减；化简",
+        "reduced adj. 减少的；缩减的"
+      ],
+      "wordFamilyRoot": "reduce"
     },
     "56": {
       "word": "amend",
@@ -5514,7 +5571,7 @@
       "otherMeaningsStatus": "present",
       "wordFamilyRoot": "worship",
       "family": [
-        "worshipper n. 崇拜者；礼拜者"
+        "worshipper / worshiper n. 崇拜者；礼拜者"
       ],
       "wordFamilyDistinctions": [
         {

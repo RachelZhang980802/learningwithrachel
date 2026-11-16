@@ -2,7 +2,7 @@
 const theme=(pattern,colours)=>({pattern,palette:colours.map(c=>c[0]),fills:colours.map(c=>c[1])});
 export const designs={
  '01':theme('research-tree',[['#285EB0','#E4EEFF'],['#A85710','#FFF0D8'],['#157875','#DEF5EF'],['#8551A9','#F0E5FF'],['#B04753','#FFE6E8'],['#517821','#EDF5D8']]),
- '02':theme('argument-tree',[['#7049A9','#EEE4FF'],['#147883','#DFF4F6'],['#A6512E','#FFE9DB'],['#3E6BAC','#E4EEFF'],['#A1427F','#FBE3F0'],['#627320','#EFF3D7']]),
+ '02':theme('argument-tree',[['#534064','#F1EDF4'],['#275141','#EDF3EB'],['#4E655C','#E8EFEB'],['#405887','#E8EDF4'],['#743F2F','#F6EEE8'],['#234638','#E5EEE5']]),
  '03':theme('life-stages',[['#AE4A36','#FFE5DC'],['#96610F','#FFF0D2'],['#346DA6','#E2F0FF'],['#8D4A96','#F6E5FA'],['#317960','#DFF4E9'],['#A43B70','#FDE1EF']]),
  '04':theme('appearance-reality',[['#A43C78','#FBE2F0'],['#A55229','#FFE9D9'],['#436CA1','#E6F0FF'],['#765EA4','#EEE8FF'],['#896716','#FFF3CD'],['#16776A','#DCF4EA']]),
  '05':theme('proposal-perspectives',[['#966015','#FFF0D5'],['#A9456A','#FFE2ED'],['#287872','#DDF5EE'],['#4D6BA4','#E5EFFF'],['#8952A5','#F2E6FC'],['#AD4A34','#FFE7DE']]),

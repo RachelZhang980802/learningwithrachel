@@ -598,7 +598,7 @@
   {
     "id": "02",
     "title": "Should the Robots Be Taxed?",
-    "subtitle": "A proposed remedy → historical and social context → tax and speed objections → responsibility during transition",
+    "subtitle": "Phenomenon / A Prevailing Idea → P · Point → E₁ · Explanation → E₂ · Example → E₃ · Evaluation → Conclusion",
     "genre": "Argumentative essay",
     "layout": "argument",
     "question": "Does automation call for a robot tax, or a different response to the pain of transition?",
@@ -977,342 +977,947 @@
       "coreZh": "质疑机器人税，关怀转型中的人"
     },
     "balanced": {
-      "route": "Proposed remedy → historical and social context → tax and speed objections → humane adjustment"
+      "route": "Phenomenon / A Prevailing Idea → P · Point → E₁ · Explanation → E₂ · Example → E₃ · Evaluation → Conclusion"
     },
     "figure": {
-      "subtitle": "Debate & Mainstream Proposals → Stance · Historical & Social Perspectives → Direct Responses to the Worries → Conclusion · A Painful Transition",
+      "subtitle": "Phenomenon / A Prevailing Idea → P · Point → E₁ · Explanation → E₂ · Example → E₃ · Evaluation → Conclusion",
+      "sentenceStarts": [
+        [
+          0
+        ],
+        [
+          0,
+          67,
+          155,
+          334
+        ],
+        [
+          0,
+          102,
+          285,
+          422,
+          449,
+          532,
+          628,
+          712,
+          811,
+          859,
+          904
+        ],
+        [
+          0,
+          103,
+          225
+        ],
+        [
+          0,
+          83,
+          210
+        ],
+        [
+          0,
+          40,
+          61,
+          116
+        ],
+        [
+          0,
+          184
+        ],
+        [
+          0,
+          55,
+          178,
+          287,
+          362,
+          538,
+          564,
+          589,
+          707
+        ],
+        [
+          0,
+          135,
+          283,
+          342,
+          414,
+          493,
+          545,
+          568
+        ],
+        [
+          0,
+          63,
+          191
+        ]
+      ],
       "sections": [
         {
-          "title": "Debate & Mainstream Proposals",
+          "title": "Phenomenon",
           "paragraphs": [
             1,
             2
+          ],
+          "references": [
+            [
+              1
+            ],
+            [
+              2
+            ]
           ],
           "colour": 1,
           "sourceIds": [
             "02-0-n6",
             "02-0-n7",
-            "02-0-n8"
+            "02-0-n8",
+            "02-0-n9"
           ],
           "cards": [
             {
-              "title": "Popular ideas",
+              "title": "The idea gains ground",
               "paragraphs": [
                 1,
                 2
+              ],
+              "references": [
+                [
+                  1
+                ],
+                [
+                  2,
+                  1
+                ]
               ],
               "colour": 1,
               "sourceIds": [
                 "02-0-n9",
                 "02-0-n10",
-                "02-0-n11"
+                "02-0-n11",
+                "02-0-n13"
               ],
-              "zh": "机器人替代人的担忧，引出征税与基本收入的建议。",
+              "zh": "比尔·盖茨提出应该对机器人征税。提议引起了广泛关注；全民基本收入和机器人税也得到越来越多的支持。",
               "bullets": [
                 {
-                  "text": "Robot taxation + [[basic income]]"
+                  "text": "“Robots should be taxed.”"
                 },
                 {
-                  "text": "Concerns: unemployment; lower tax receipts"
+                  "text": "Bill Gates’s video goes [[viral]]"
+                },
+                {
+                  "text": "Universal income and robot taxes gain support"
                 }
               ],
               "wide": false,
-              "id": "02-part-1-branch-1"
+              "id": "02-public-proposal"
             },
             {
-              "title": "Opening examples",
+              "title": "How would workers be protected?",
               "paragraphs": [
-                1,
                 2
               ],
-              "colour": 4,
+              "references": [
+                [
+                  2,
+                  2,
+                  4
+                ]
+              ],
+              "colour": 1,
               "sourceIds": [
                 "02-0-n12",
-                "02-0-n13",
-                "02-0-n14"
+                "02-0-n14",
+                "02-0-n17"
               ],
-              "zh": "开头用盖茨的视频和欧洲议会草案，说明这些建议受到广泛关注。",
+              "zh": "欧洲议会收到一份报告草案：若机器人大规模替代工人，就建议要求所有者纳税或缴纳社会保障费用。基本收入或有保障的福利计划，也是为了保护失业的人。",
               "bullets": [
                 {
-                  "text": "Bill Gates’s viral video"
+                  "text": "European Parliament draft report",
+                  "references": [
+                    [
+                      2,
+                      2,
+                      3
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "If robots replace workers in large numbers, owners should pay taxes or contribute to [[social security]]."
+                    }
+                  ]
                 },
                 {
-                  "text": "European Parliament draft report"
+                  "text": "Protection against unemployment",
+                  "references": [
+                    [
+                      2,
+                      4
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "A basic income or guaranteed welfare program"
+                    }
+                  ]
                 }
               ],
               "wide": false,
-              "id": "02-part-1-branch-2"
+              "id": "02-social-protection"
             }
           ],
           "layout": "branches",
           "columns": 2,
-          "id": "02-part-1"
+          "id": "02-phenomenon",
+          "label": "公共主张"
         },
         {
-          "title": "Stance · Historical & Social Perspectives",
+          "title": "Point",
           "paragraphs": [
-            3,
-            4,
-            5,
-            6
+            3
+          ],
+          "references": [
+            [
+              3,
+              1
+            ]
           ],
           "colour": 2,
           "sourceIds": [
-            "02-0-n18",
-            "02-0-n19",
-            "02-0-n23"
+            "02-0-n23",
+            "02-0-n24"
           ],
           "cards": [
             {
-              "title": "Automation as a constant",
+              "title": "Robots as tools",
               "paragraphs": [
-                3,
-                4
+                3
+              ],
+              "references": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "colour": 2,
+              "sourceIds": [
+                "02-0-n23",
+                "02-0-n24"
+              ],
+              "zh": "作者把机器人视为工具。工具能让工作更轻松，也能把事情做得快得多、好得多或便宜得多。",
+              "bullets": [
+                {
+                  "text": "“I see robots as tools.”"
+                },
+                {
+              "text": "Make work easier or get things done much faster, much better or [[much cheaper]]."
+                }
+              ],
+              "wide": false,
+              "id": "02-robots-as-tools"
+            }
+          ],
+          "layout": "branches",
+          "columns": 1,
+          "id": "02-point",
+          "label": "作者立场"
+        },
+        {
+          "title": "Explanation",
+          "paragraphs": [
+            3
+          ],
+          "references": [
+            [
+              3,
+              2,
+              3
+            ]
+          ],
+          "colour": 2,
+          "sourceIds": [
+            "02-0-n26",
+            "02-0-n27",
+            "02-0-n28",
+            "02-0-n29",
+            "02-0-n30"
+          ],
+          "cards": [
+            {
+              "title": "What happens when tools change?",
+              "paragraphs": [
+                3
+              ],
+              "references": [
+                [
+                  3,
+                  2,
+                  3
+                ]
               ],
               "colour": 2,
               "sourceIds": [
                 "02-0-n24",
                 "02-0-n26",
                 "02-0-n28",
-                "02-0-n31"
+                "02-0-n29",
+                "02-0-n30"
               ],
-              "zh": "作者把机器人视为工具，借纺织业说明工作形式会改变，但转型有时间差，有人会被落下。",
+              "zh": "从石器到电力，新工具一次次改变生活和工作。有些人失去原来的工作；下一代则靠学习新技能适应变化。",
               "bullets": [
                 {
-                  "text": "Robots as [[tools]]"
+                  "text": "Tools from stone to electricity brought [[transformations]] in our lives."
                 },
                 {
-                  "text": "Craft production",
+                  "text": "Disruption → Adaptation",
+                  "references": [
+                    [
+                      3,
+                      3
+                    ]
+                  ],
                   "children": [
                     {
-                      "text": "Own pace; own tools; cottage work"
+                      "text": "Some people lost their jobs."
+                    },
+                    {
+                      "text": "The next generation learned new skills."
+                    }
+                  ]
+                }
+              ],
+              "wide": false,
+              "id": "02-tools-in-history"
+            }
+          ],
+          "layout": "branches",
+          "columns": 1,
+          "id": "02-explanation",
+          "label": "历史规律"
+        },
+        {
+          "title": "Example",
+          "paragraphs": [
+            3,
+            4
+          ],
+          "references": [
+            [
+              3,
+              4,
+              11
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "colour": 2,
+          "sourceIds": [
+            "02-0-n31",
+            "02-0-n32",
+            "02-0-n33",
+            "02-0-n37",
+            "02-0-n66"
+          ],
+          "cards": [
+            {
+              "title": "From craft production to textile factories",
+              "paragraphs": [
+                3
+              ],
+              "references": [
+                [
+                  3,
+                  4,
+                  11
+                ]
+              ],
+              "colour": 2,
+              "sourceIds": [
+                "02-0-n31",
+                "02-0-n32",
+                "02-0-n33",
+                "02-0-n34",
+                "02-0-n35",
+                "02-0-n36",
+                "02-0-n37",
+                "02-0-n39",
+                "02-0-n40",
+                "02-0-n41",
+                "02-0-n42",
+                "02-0-n43",
+                "02-0-n44"
+              ],
+              "zh": "变化一是工作组织。手工织工用自己的工具，在家中按自己的节奏作业。纺织工厂将工人集中在一栋楼里，使用他们并不拥有的机器。工厂规定工时，机器决定工作节奏，劳动分工更细，妇女与儿童也进入同一生产过程。",
+              "bullets": [
+                {
+                  "text": "Craft production",
+                  "references": [
+                    [
+                      3,
+                      6
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Weavers worked at home with their own tools and at their own pace."
                     }
                   ]
                 },
                 {
                   "text": "Textile factories",
+                  "references": [
+                    [
+                      3,
+                      7,
+                      11
+                    ]
+                  ],
                   "children": [
                     {
-                      "text": "Fixed hours; machinery; divided tasks"
+                      "text": "Workers shared a building and used machinery they did not own."
+                    },
+                    {
+                      "text": "Factories set the hours; machines set the pace."
+                    },
+                    {
+                      "text": "Greater [[division of labor]] narrowed each job."
+                    },
+                    {
+                      "text": "Women and children became part of the same production process."
                     }
                   ]
-                },
-                {
-                  "text": "New generations → new [[skills]]"
                 }
               ],
               "wide": false,
-              "id": "02-part-2-branch-1"
+              "id": "02-textile-work",
+              "comparison": true
             },
             {
-              "title": "Family & demography",
+              "title": "Who found work after the shift?",
               "paragraphs": [
-                5,
-                6
+                4
               ],
-              "colour": 3,
+              "references": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "colour": 2,
               "sourceIds": [
-                "02-0-n45",
-                "02-0-n47",
-                "02-0-n48"
+                "02-0-n31",
+                "02-0-n32",
+                "02-0-n37",
+                "02-0-n66"
               ],
-              "zh": "原图的社会变化分支包括家庭、生育率和人口老龄化。文章也提出：资源限制可能促使未来一代学会节约。",
+              "zh": "失去工作的是手工织工。后来在工厂和其他企业找到工作的，是他们的孩子和家人。这是作者用来推想下一代处境的历史例子。",
               "bullets": [
                 {
-                  "text": "Falling [[birth rates]]; smaller families"
+                  "text": "Weavers lost their jobs."
                 },
                 {
-                  "text": "Lower marriage rates; childless couples"
-                },
-                {
-                  "text": "Ageing society; possible resource conservation"
+                  "text": "Their children and families found work in factories and other firms."
                 }
               ],
               "wide": false,
-              "id": "02-part-2-branch-2"
+              "id": "02-textile-employment"
             }
           ],
           "layout": "branches",
-          "columns": 2,
-          "id": "02-part-2"
+          "columns": 1,
+          "id": "02-example",
+          "label": "历史例证"
         },
         {
-          "title": "Direct Responses to the Worries",
+          "title": "Evaluation",
           "paragraphs": [
+            4,
+            5,
+            6,
             7,
             8,
             9
           ],
-          "colour": 5,
+          "references": [
+            [
+              4,
+              2,
+              3
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ],
+            [
+              9
+            ]
+          ],
+          "colour": 2,
           "sourceIds": [
+            "02-0-n45",
             "02-0-n58",
-            "02-0-n61",
+            "02-0-n59",
+            "02-0-n60",
+            "02-0-n63",
+            "02-0-n67",
+            "02-0-n73",
             "02-0-n78"
           ],
           "cards": [
             {
-              "title": "Employment · gains and limits",
+              "title": "Jobs across generations",
+              "paragraphs": [
+                4
+              ],
+              "references": [
+                [
+                  4,
+                  2,
+                  3
+                ]
+              ],
+              "colour": 2,
+              "sourceIds": [
+                "02-0-n24",
+                "02-0-n25",
+                "02-0-n63",
+                "02-0-n64",
+                "02-0-n66"
+              ],
+              "zh": "作者把过去的规律用于今天：工厂正关闭并被机器人取代，工人的孩子也许会从事知识型工作。但新工作出现需要时间，仍有人会掉队。",
+              "bullets": [
+                {
+                  "text": "Prediction",
+                  "references": [
+                    [
+                      4,
+                      2
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Factories are closing and being replaced by robots"
+                    },
+                    {
+                      "text": "Factory workers’ children might become [[knowledge workers]]"
+                    }
+                  ],
+                  "cue": "might"
+                },
+                {
+                  "text": "Concession",
+                  "references": [
+                    [
+                      4,
+                      3
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "There will be a [[lag]]; some people will be left behind."
+                    }
+                  ],
+                  "cue": "But",
+                  "id": "02-employment-concession"
+                }
+              ],
+              "wide": true,
+              "id": "02-employment-impact"
+            },
+            {
+              "id": "02-demographic-changes",
+              "title": "Family and population changes",
+              "colour": 2,
+              "paragraphs": [
+                5,
+                6
+              ],
+              "references": [
+                [
+                  5
+                ],
+                [
+                  6
+                ]
+              ],
+              "sourceIds": [
+                "02-0-n45",
+                "02-0-n47",
+                "02-0-n49",
+                "02-0-n50",
+                "02-0-n51",
+                "02-0-n52",
+                "02-0-n53",
+                "02-0-n54",
+                "02-0-n57"
+              ],
+              "transition": {
+                "cue": "side effect",
+                "label": "从工作说到家庭和人口"
+              },
+              "zh": "作者从就业转向自动化伴随的社会变化：出生率和结婚率下降，不生育的夫妻增多，人口也在老龄化。他补充说，老龄化未必如人们所想的那么糟。未来资源紧缺也可能促使人们节约资源，这是文中提到的一种推测。",
+              "bullets": [
+                {
+              "text": "Birth rates fell sharply; marriage rates fell and more couples had no children.",
+                  "references": [
+                    [
+                      5,
+                      3
+                    ]
+                  ]
+                },
+                {
+                  "text": "An ageing population may be less worrying than it seems.",
+                  "references": [
+                    [
+                      6,
+                      1,
+                      3
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "02-benefits-and-limits",
+              "title": "Benefits and who shares them",
+              "colour": 2,
               "paragraphs": [
                 7
               ],
-              "colour": 4,
-              "sourceIds": [
-                "02-0-n63",
-                "02-0-n64",
-                "02-0-n67",
-                "02-0-n69"
+              "references": [
+                [
+                  7
+                ]
               ],
-              "zh": "空余人力可以投入教育、研究和医疗等领域；但作者承认收益偏向发达国家，转型也使部分人落后。",
+              "sourceIds": [
+                "02-0-n67",
+                "02-0-n68",
+                "02-0-n69",
+                "02-0-n70",
+                "02-0-n71",
+                "02-0-n72"
+              ],
+              "zh": "盖茨也看到自动化的好处：腾出的人力用于教育和研究，改善了知识、医疗和财富水平。作者接着指出，收益分配并不均匀，人均收入增长更多惠及发达国家。",
               "bullets": [
                 {
-                  "text": "Spare capacity → education, research, health"
+                  "text": "Benefits",
+                  "references": [
+                    [
+                      7,
+                      1
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Freed-up human capacity → education and research → knowledge, health care and wealth."
+                    }
+                  ]
                 },
                 {
-                  "text": "Benefits remain [[uneven]]"
-                },
-                {
-                  "text": "Concession: some workers left behind"
+                  "text": "Uneven gains",
+                  "references": [
+                    [
+                      7,
+                      2
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Per capita income grew more in developed nations."
+                    }
+                  ]
                 }
-              ],
-              "wide": false,
-              "id": "02-part-3-branch-1"
+              ]
             },
             {
-              "title": "Taxes · a changing base",
+              "title": "Taxes",
               "paragraphs": [
                 8
+              ],
+              "references": [
+                [
+                  8
+                ]
               ],
               "colour": 5,
               "sourceIds": [
                 "02-0-n78",
-                "02-0-n80",
+                "02-0-n79",
+                "02-0-n81",
                 "02-0-n83",
                 "02-0-n84",
                 "02-0-n85",
+                "02-0-n87",
                 "02-0-n88"
               ],
-              "zh": "工资税可能减少，但作者认为公司利润会增加税收，制造机器人及投资技术也带来不同岗位；收益可能出现在其他地区。",
+              "zh": "盖茨担心，机器人没有工资，政府税收就会减少。作者回应：企业利润增加，可以缴纳更多税；制造机器人和投资技术也会在不同地方带来不同的工作、工资和税收。",
               "bullets": [
                 {
-                  "text": "Concern: unpaid robots → lower wage taxes"
+                  "text": "Counterclaim",
+                  "references": [
+                    [
+                      8,
+                      2
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Robots receive no wages → lower government tax revenue."
+                    }
+                  ]
                 },
                 {
-                  "text": "Counterpoint: higher corporate [[profits]]"
-                },
-                {
-                  "text": "Robot production → jobs, salaries, taxes"
-                },
-                {
-                  "text": "Qualification: gains may shift elsewhere"
+                  "text": "Rebuttal",
+                  "references": [
+                    [
+                      8,
+                      3,
+                      5
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Higher corporate [[profits]] → higher corporate taxes."
+                    },
+                    {
+                      "text": "Robot production and investment → different jobs, wages and taxes, possibly elsewhere."
+                    }
+                  ]
                 }
               ],
-              "wide": false,
-              "id": "02-part-3-branch-2"
+              "wide": true,
+              "id": "02-tax-response"
             },
             {
-              "title": "Speed · historical parallels",
+              "title": "Speed of Change",
               "paragraphs": [
                 9
               ],
-              "colour": 6,
+              "references": [
+                [
+                  9
+                ]
+              ],
+              "colour": 5,
               "sourceIds": [
+                "02-0-n61",
+                "02-0-n62",
+                "02-0-n63",
+                "02-0-n64",
                 "02-0-n73",
+                "02-0-n74",
                 "02-0-n75",
                 "02-0-n76",
                 "02-0-n77"
               ],
-              "zh": "过去的交通革命既毁掉岗位又创造岗位，新岗位不一定由原失业者获得。作者认为今天的信息传播速度使变化更醒目。",
+              "zh": "有人担心变化太快，新岗位和新技能跟不上。作者承认原先失业的人没有在新行业找到工作，掌握新技能的人要过一段时间才填补岗位。他以交通变革回应：过去的变化也很剧烈，既毁掉也创造岗位。今天的信息传播使这些因果更为显眼。",
               "bullets": [
                 {
-                  "text": "Horses → railways, cars, trucks"
+                  "text": "Counterclaim",
+                  "references": [
+                    [
+                      9,
+                      1
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Change is too fast to provide jobs or develop new skills"
+                    }
+                  ]
                 },
                 {
-                  "text": "Passenger ships → airlines"
+                  "text": "Concession",
+                  "references": [
+                    [
+                      9,
+                      5,
+                      7
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Displaced workers did not find jobs in the new industry"
+                    },
+                    {
+                      "text": "People with new skills found those jobs, but “it took some time.”"
+                    }
+                  ],
+                  "related": {
+                    "target": "02-employment-concession",
+                    "label": "同样的就业滞后 · 回看 ¶ 4[3]"
+                  }
                 },
                 {
-                  "text": "Job destroyers AND job [[creators]]"
-                },
-                {
-                  "text": "Fast [[information]] amplifies visible change"
+                  "text": "Rebuttal",
+                  "references": [
+                    [
+                      9,
+                      2,
+                      4
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "children": [
+                    {
+                      "text": "Earlier changes were also “pretty dramatic”"
+                    },
+                    {
+                      "text": "Horses → railroads, cars and trucks; passenger ships → airlines"
+                    },
+                    {
+                      "text": "These changes were job destroyers AND job [[creators]]"
+                    },
+                    {
+                      "text": "Faster information flow makes these causes and effects more visible"
+                    }
+                  ]
                 }
               ],
-              "wide": false,
-              "id": "02-part-3-branch-3"
+              "wide": true,
+              "id": "02-speed-response"
             }
           ],
           "layout": "branches",
-          "columns": 3,
-          "id": "02-part-3"
+          "columns": 1,
+          "id": "02-evaluation",
+          "label": "评估与回应",
+          "transition": {
+            "cue": "Now that",
+            "label": "用过去的例子推想今天"
+          },
+          "groups": [
+            {
+              "title": "Impacts of Automation",
+              "label": "自动化带来的影响",
+              "colour": 2,
+              "cards": [
+                "02-employment-impact",
+                "02-demographic-changes",
+                "02-benefits-and-limits"
+              ]
+            },
+            {
+              "title": "Responses to Concerns",
+              "label": "作者怎样回应质疑",
+              "colour": 5,
+              "cards": [
+                "02-tax-response",
+                "02-speed-response"
+              ]
+            }
+          ]
         },
         {
-          "title": "Conclusion · A Painful Transition",
+          "title": "Conclusion",
           "paragraphs": [
             10
           ],
-          "colour": 1,
+          "references": [
+            [
+              10
+            ]
+          ],
+          "colour": 6,
           "sourceIds": [
             "02-0-n89",
             "02-0-n90",
-            "02-0-n93"
+            "02-0-n91",
+            "02-0-n93",
+            "02-0-n94",
+            "02-0-n96",
+            "02-0-n97",
+            "02-0-n98"
           ],
           "cards": [
             {
-              "title": "Value recap",
+              "title": "Automation and equilibrium",
               "paragraphs": [
                 10
               ],
-              "colour": 1,
+              "references": [
+                [
+                  10,
+                  1,
+                  2
+                ]
+              ],
+              "colour": 6,
               "sourceIds": [
+                "02-0-n89",
                 "02-0-n90",
                 "02-0-n91",
-                "02-0-n92"
+                "02-0-n92",
+                "02-0-n94"
               ],
-              "zh": "自动化贯穿历史；系统受到扰动后，需要时间重新达到平衡。",
+              "zh": "自动化一直在发生。系统受到扰动后，恢复到平衡需要一段时间，这个过程是痛苦的。",
               "bullets": [
                 {
-                  "text": "Automation throughout history"
+                  "text": "“We have always been automating.”"
                 },
                 {
-                  "text": "Disruption → time to regain equilibrium"
+                  "text": "System disruption → time to regain equilibrium → a painful phase"
                 }
               ],
               "wide": false,
-              "id": "02-part-4-branch-1"
+              "id": "02-painful-transition"
             },
             {
-              "title": "Call to action",
+              "title": "What the transition needs",
               "paragraphs": [
                 10
               ],
-              "colour": 3,
+              "references": [
+                [
+                  10,
+                  3
+                ]
+              ],
+              "colour": 6,
               "sourceIds": [
                 "02-0-n93",
                 "02-0-n94",
+                "02-0-n95",
                 "02-0-n96",
                 "02-0-n97",
                 "02-0-n98"
               ],
-              "zh": "面对当下的痛苦转型，应以同理心、同情和社会责任应对。",
+              "zh": "我们正在经历这个痛苦的阶段，需要以同理心、关怀和社会责任应对。",
               "bullets": [
                 {
-                  "text": "[[Empathy]] + compassion"
+                  "text": "Empathy and compassion"
                 },
                 {
                   "text": "Social [[responsibility]]"
                 }
               ],
               "wide": false,
-              "id": "02-part-4-branch-2"
+              "id": "02-humane-response"
             }
           ],
           "layout": "branches",
           "columns": 2,
-          "id": "02-part-4"
+          "id": "02-conclusion",
+          "label": "结论与应对"
         }
       ],
-      "version": "source-branches-20261101"
+      "version": "article02-argument-20261113",
+      "presentation": "argument"
     },
-    "figureAudit": "2026-11-01 revision: preserves main parts and named subbranches from the supplied original mindmap; sourceIds identify actual source nodes. Content checked against the article, with ten gaps. Corrects source-map slips: Saxon is a millionaire, Akira takes Chie’s ease away, Steffens’s constitutional history remains unwritten. No unsupported outcome added."
+    "figureAudit": "Checked against Article 02 and its 48 sentence units. The textile example ends at 4[1]; the prediction and evaluation start at 4[2]. Sentence references distinguish the two objections, their replies and the limits of the historical analogy."
   },
   {
     "id": "03",

@@ -1,9 +1,10 @@
 "use client";
 
 import { Fragment, useRef, useState, type ReactNode, type CSSProperties } from "react";
-import { LessonVocabularyParagraph, LessonVocabularyText } from "./ArticleLessonContent";
-import { getLesson, vocabularyMatches, type Lesson } from "./articleLessons";
-import { VocabularyText, VocabularyParagraph, vocabularyMatches as article01VocabularyMatches, type VocabularyTarget } from "./ArticleVocabulary";
+import { LessonVocabularyParagraph } from "./ArticleLessonContent";
+import { getLesson, type Lesson } from "./articleLessons";
+import { VocabularyParagraph, type VocabularyTarget } from "./ArticleVocabulary";
+import { ReadingWordRuns, readingWordId, readingWordMatches } from "./ArticleReadingWords";
 import { article01Annotations, article01SyntaxKey, article01ReadingLesson } from "./article01Structure";
 import sourceAnnotations from "./article09Syntax.json";
 import { article02Annotations, article02SyntaxKey } from "./article02Structure";
@@ -28,24 +29,32 @@ type Annotation = {
   parenthesis?: { start: number; end: number };
 };
 const annotations = sourceAnnotations as Record<string, Annotation>;
-function ReadingVocabularyText({ opening = false, ...props }: Parameters<typeof LessonVocabularyText>[0] & { opening?: boolean }) {
-  const Text = props.lesson.articleId === "01" ? VocabularyText : LessonVocabularyText;
-  if (!opening) return <Text {...props}/>;
-  const matches = props.lesson.articleId === "01"
-    ? article01VocabularyMatches(props.text, props.sentence)
-    : vocabularyMatches(props.lesson, props.sentence, props.text);
-  const first = matches.find(match => match.start === 0);
-  if (!first) return <Text {...props}/>;
+function ReadingWord({ lesson, sentence, match, children, onSelect, opening = false }: {
+  lesson: Lesson; sentence: number; match: ReturnType<typeof readingWordMatches>[number];
+  children: ReactNode; onSelect: (target: VocabularyTarget) => void; opening?: boolean;
+}) {
+  const select = () => onSelect({ sentence, sourceRow: match.sourceRow });
+  const props = {
+    id: readingWordId(lesson.articleId, sentence, match),
+    "data-source-row": match.sourceRow,
+    "data-sentence": sentence,
+    "aria-label": lesson.articleId === "01" ? `查看词汇 ${match.word.trim()}` : `查看 ${match.word} 的词汇卡`,
+    onClick: select,
+  };
   // A native button is an atomic inline box, so the paragraph's ::first-letter
   // cannot reach its text. Keep the opening word inline and keyboard operable.
-  const select = () => props.onSelect({ sentence: props.sentence, sourceRow: first.sourceRow });
-  const word = props.text.slice(0, first.end);
-  return <><span className="vocabulary-highlight syntax-opening-word" role="button" tabIndex={0}
-    data-source-row={first.sourceRow} data-sentence={props.sentence}
-    aria-label={props.lesson.articleId === "01" ? `查看词汇 ${first.word.trim()}` : `查看 ${first.word} 的词汇卡`}
-    onClick={select} onKeyDown={event => {
+  if (opening && match.start === 0) return <span {...props} className="vocabulary-highlight syntax-opening-word" role="button" tabIndex={0}
+    onKeyDown={event => {
       if (event.key === "Enter" || event.key === " ") { event.preventDefault(); select(); }
-    }}>{props.renderWord ? props.renderWord(word) : word}</span><Text {...props} text={props.text.slice(first.end)}/></>;
+    }}>{children}</span>;
+  return <button {...props} type="button" className="vocabulary-highlight">{children}</button>;
+}
+
+function ReadingVocabularyText({ opening, lesson, sentence, text, onSelect }: {
+  opening: boolean; lesson: Lesson; sentence: number; text: string; onSelect: (target: VocabularyTarget) => void;
+}) {
+  return <ReadingWordRuns text={text} matches={readingWordMatches(lesson, sentence, text)}
+    renderWord={(match, form) => <ReadingWord lesson={lesson} sentence={sentence} match={match} onSelect={onSelect} opening={opening}>{form}</ReadingWord>}/>;
 }
 
 function AnnotatedSentence({ lesson, sentence, annotation, onSelect, labels, colors, opening = false }: {
@@ -54,7 +63,7 @@ function AnnotatedSentence({ lesson, sentence, annotation, onSelect, labels, col
   lesson: Lesson; sentence: number; annotation: Annotation; onSelect: (target: VocabularyTarget) => void;
 }) {
   const { text, predicates, clauses, parenthesis } = annotation;
-  const vocabulary = lesson.articleId === "01" ? article01VocabularyMatches(text, sentence) : vocabularyMatches(lesson, sentence, text);
+  const vocabulary = readingWordMatches(lesson, sentence, text);
   const cuts = new Set([0, text.length]);
   for (const span of [...predicates, ...clauses, ...vocabulary]) { cuts.add(span.start); cuts.add(span.end); }
   for (const clause of clauses) cuts.add(clause.anchorEnd);
@@ -68,11 +77,11 @@ function AnnotatedSentence({ lesson, sentence, annotation, onSelect, labels, col
     const clause = clauses.find(clause => clause.start === start);
     const wordCuts = [...new Set([start, end, ...predicates.flatMap(span => [span.start, span.end]).filter(position => position > start && position < end)])].sort((a, b) => a - b);
     let content: ReactNode = word
-      ? <ReadingVocabularyText opening={opening && start === 0} lesson={lesson} sentence={sentence} text={text.slice(start, end)} onSelect={onSelect} renderWord={() => <>{wordCuts.slice(0, -1).map((from, wordIndex) => {
+      ? <ReadingWord opening={opening} lesson={lesson} sentence={sentence} match={word} onSelect={onSelect}>{wordCuts.slice(0, -1).map((from, wordIndex) => {
           const to = wordCuts[wordIndex + 1];
           const verb = predicates.find(span => span.start <= from && to <= span.end);
           return verb ? <span key={from} className={`syntax-predicate syntax-${verb.role} syntax-vocabulary-overlap`} title={verb.role === "main" ? "Main clause predicate" : "Subordinate clause predicate"}>{text.slice(from, to)}</span> : <Fragment key={from}>{text.slice(from, to)}</Fragment>;
-        })}</>}/>
+        })}</ReadingWord>
       : text.slice(start, end);
     if (predicate && !word) content = <span className={`syntax-predicate syntax-${predicate.role}`} title={predicate.role === "main" ? "Main clause predicate" : "Subordinate clause predicate"}>{content}</span>;
     if (clause) content = <span data-anchor-start={clause.start} data-anchor-end={clause.anchorEnd} data-anchor-text={text.slice(clause.start, clause.anchorEnd)} className={`syntax-clause syntax-${clause.kind}`} style={colors ? { "--syntax-clause": colors[clause.kind] } as CSSProperties : undefined} title={`${labels[clause.kind]}: ${clause.text}`}>{content}<span className="syntax-label" data-editable-skip="true">{labels[clause.kind]}</span></span>;

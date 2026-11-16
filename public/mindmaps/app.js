@@ -1,4 +1,4 @@
-import { renderWorksheet } from "./worksheets.js?v=source-branches-20261101";
+import { renderWorksheet } from "./worksheets.js?v=article02-evaluation-v2";
 import { applyMapCorrections } from "./corrections.js?v=atlas-10-3";
 let worksheetData=null,worksheetCount=0;
 const $=id=>document.getElementById(id);
@@ -164,7 +164,7 @@ let sizeTimer;new ResizeObserver(()=>{clearTimeout(sizeTimer);sizeTimer=setTimeo
 try {
   const [response, atlasResponse] = await Promise.all([
     fetch(`data/${articleId}.json?rev=text-clean-04-20261021`, { cache: 'no-store' }),
-    fetch('data/worksheets.json?rev=source-branches-20261101', { cache: 'no-store' }),
+    fetch('data/worksheets.json?rev=article02-evaluation-v2', { cache: 'no-store' }),
   ]);
   if (!response.ok || !atlasResponse.ok) throw Error('Mindmap data unavailable');
   book = await response.json(); applyMapCorrections(book);

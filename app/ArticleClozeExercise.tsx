@@ -9,19 +9,19 @@ export function ArticleClozeExercise({ articleId, onBack }: { articleId: string;
   const exercise = articleClozeExercises[articleId];
   const wordBank = [...exercise.gaps.map(gap => gap.root)].sort((a, b) => a.localeCompare(b));
 
-  return <main className="article-cloze-page">
+  return <main className="article-cloze-page" lang="en">
     <div className="article-cloze-shell">
       <button type="button" className="article-cloze-back" onClick={onBack}>← Back to the text</button>
       <header className="article-cloze-header">
         <p>TEXT {articleId} · VOCABULARY IN CONTEXT</p>
         <h1>{exercise.title}</h1>
         <div className="article-cloze-intro">
-          <p>Twenty gaps follow the ideas in “{exercise.sourceTitle}” through four connected stages. Click each line to reveal the word or word-family form that completes the sentence.</p>
+          <p>The 20 gaps test key words and phrases from “{exercise.sourceTitle}”. Use each entry in the bank once and change its form to fit the meaning and grammar of the sentence. Click a gap to check your answer.</p>
         </div>
       </header>
 
       <section className="article-cloze-bank" aria-labelledby="article-cloze-bank-title">
-        <h2 id="article-cloze-bank-title">Word-family bank</h2>
+        <h2 id="article-cloze-bank-title">Core vocabulary bank</h2>
         <div>{wordBank.map(root => <span key={root}>{root}</span>)}</div>
       </section>
 

@@ -241,6 +241,8 @@
 .vocabulary-highlight{display:inline;padding:0 2px;margin:0;border:0;border-radius:3px;background:#ead17d99;color:inherit;font:inherit;letter-spacing:inherit;line-height:inherit;text-align:inherit;cursor:pointer;box-decoration-break:clone;-webkit-box-decoration-break:clone}
 .vocabulary-highlight:hover,.vocabulary-highlight[aria-pressed=true]{background:#e7c45e;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
 .vocabulary-highlight:focus-visible{outline:2px solid #ad492d;outline-offset:3px}
+.reading-page .vocabulary-highlight[id^="text-word-"]{scroll-margin-top:104px}
+.reading-page .vocabulary-highlight[id^="text-word-"]:is(:focus,:target){background:#edcf72;outline:2px solid #99432c;outline-offset:3px}
 .student-workspace-v2 .cat-draw-memory{top:181px;height:26px;min-height:0;width:300px;max-width:calc(50% - 100px);padding:3px 9px;flex-direction:row;justify-content:space-between;gap:8px;border-radius:3px 3px 18px 5px / 3px 3px 5px 3px;white-space:nowrap}
 .student-workspace-v2 .cat-draw-memory span{font-size:10px;line-height:18px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .student-workspace-v2 .cat-draw-memory b{font-size:12px}

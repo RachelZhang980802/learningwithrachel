@@ -1,29 +1,61 @@
-import { designs } from './atlas-designs.js?v=source-branches-20261101';
+import { designs } from './atlas-designs.js?v=article02-evaluation-v2';
 
 const make=(tag,cls,text)=>{const el=document.createElement(tag);if(cls)el.className=cls;if(text!==undefined)el.textContent=text;return el;};
 const button=(cls,text)=>{const el=make('button',cls,text);el.type='button';return el;};
 const NS='http://www.w3.org/2000/svg';
 const svgEl=(tag,attrs={})=>{const el=document.createElementNS(NS,tag);for(const [k,v]of Object.entries(attrs))el.setAttribute(k,String(v));return el;};
 const paragraphLabel=ids=>{const sorted=[...new Set(ids)].sort((a,b)=>a-b),r=[];for(let i=0;i<sorted.length;i++){const start=sorted[i];let end=start;while(sorted[i+1]===end+1)end=sorted[++i];r.push(start===end?start:`${start}–${end}`);}return `¶ ${r.join(', ')}`;};
+const referenceLabel = ([paragraph, start, end = start]) => {
+ if (start === undefined) return String(paragraph);
+ const range = start === end ? start : `${start}–${end}`;
+ return `${paragraph}[${range}]`;
+};
+const evidenceLabel = ({ paragraphs, references }) => references?.some(([, start]) => start !== undefined)
+ ? `¶ ${references.map(referenceLabel).join(', ')}`
+ : paragraphLabel(paragraphs);
 let cleanup=()=>{};
 
 export function renderWorksheet(host,data,source={}){
  cleanup();host.replaceChildren();
  const design=designs[data.id],figure=data.figure,gaps=[],panels=[],parts=[];
- const paper=make('article',`reading-atlas figure-atlas atlas-${design.pattern}`);
+ const argument=figure.presentation==='argument';
+ const paper=make('article',`reading-atlas figure-atlas atlas-${design.pattern}${argument?' argument-atlas':''}`);
  paper.lang='en';paper.dataset.article=data.id;paper.dataset.pattern=design.pattern;
  design.palette.forEach((c,i)=>paper.style.setProperty(`--colour-${i+1}`,c));
  design.fills.forEach((c,i)=>paper.style.setProperty(`--fill-${i+1}`,c));
  const header=make('header','figure-header');
  header.append(make('span','figure-issue',`READING MAP / ${data.id}`),make('h2',null,data.title));
- const route=make('div','figure-route');route.setAttribute('aria-label','Main writing branches');
- figure.sections.forEach((s,i)=>{const chip=make('span','figure-route-step');colour(chip,s.colour);chip.append(make('b',null,String(i+1).padStart(2,'0')),make('span',null,s.title));route.append(chip);});
+ const route=make(argument?'nav':'div','figure-route');route.setAttribute('aria-label','Main writing branches');
+ if(argument)header.append(make('p','argument-deck','Phenomenon → PEEE → Conclusion'));
+ figure.sections.forEach((s,i)=>{
+  const chip=argument?jumpLink('figure-route-step',s.title,s.id):make('span','figure-route-step',s.title);
+  colour(chip,s.colour);
+  chip.prepend(make('b',null,String(i+1).padStart(2,'0')));route.append(chip);
+ });
  header.append(route);
  const toolbar=make('div','figure-toolbar'),progress=make('span','figure-progress'),reset=button('figure-action','重置');
  toolbar.append(make('span','figure-hint','10 个空格 · 点击空格显隐答案 · 点击分支标题查看中文'),progress,reset);
  header.append(toolbar);paper.append(header);
  const graph=make('div','figure-graph atlas-graph');graph.setAttribute('aria-label','Reading framework with clickable answer gaps');paper.append(graph);
  const status=make('span','screen-reader-only');status.setAttribute('role','status');
+ function anchor(el,id){el.id=`map-${id}`;el.tabIndex=-1;}
+ function jumpLink(cls,label,id){
+  const link=make('a',cls,label);
+  const targetId=`map-${id}`;link.href=`#${targetId}`;
+  link.onclick=event=>{
+   const target=document.getElementById(targetId);
+   if(!target)return;
+   event.preventDefault();
+   target.focus({preventScroll:true});
+   target.scrollIntoView({block:'start'});
+  };
+  return link;
+ }
+ function zhLabel(cls,label){const el=make('span',cls,label);el.lang='zh-CN';return el;}
+ function transition({cue,label}){
+  const el=make('p','argument-transition');
+  el.append(make('i','argument-cue',cue),zhLabel('argument-label',label));return el;
+ }
  function colour(el,n){el.style.setProperty('--node-colour',`var(--colour-${n})`);el.style.setProperty('--node-fill',`var(--fill-${n})`);el.dataset.colour=n;}
  function update(){progress.textContent=`${gaps.filter(g=>g.open).length} / ${gaps.length}`;reset.disabled=!gaps.some(g=>g.open)&&!panels.some(p=>!p.content.hidden);}
  function setGap(g,open){g.open=open;g.el.classList.toggle('is-revealed',open);g.el.setAttribute('aria-pressed',String(open));g.answer.setAttribute('aria-hidden',String(!open));g.el.setAttribute('aria-label',open?`收起第 ${g.number} 空答案：${g.value}`:`显示第 ${g.number} 空答案`);}
@@ -40,15 +72,44 @@ export function renderWorksheet(host,data,source={}){
  }
  function bullets(items){
   const ul=make('ul','figure-bullets');
-  for(const item of items){const li=make('li',item.children?'figure-bullet-group':null),text=make('span','figure-bullet-text');fillText(text,item.text);li.append(text);if(item.children)li.append(bullets(item.children));ul.append(li);}
+  for (const item of items) {
+   const li=make('li',item.children?'figure-bullet-group':null),text=make('span','figure-bullet-text');
+   if(item.id)anchor(li,item.id);
+   fillText(text,item.text);
+   li.append(text);
+   if(item.cue)li.append(make('i','argument-cue',item.cue));
+   if (item.references) {
+    const paragraphs = item.references.map(([paragraph]) => paragraph);
+    li.append(make('span','figure-bullet-evidence',evidenceLabel({ paragraphs, references: item.references })));
+   }
+   if (item.children) li.append(bullets(item.children));
+   if(item.related){
+    const link=jumpLink('argument-related',item.related.label,item.related.target);
+    link.lang='zh-CN';li.append(link);
+   }
+   ul.append(li);
+  }
   return ul;
  }
  function attachTranslation(trigger,container,item){
   const content=make('div','figure-translation');content.id=`${item.id}-zh`;content.hidden=true;
   const zh=make('p','figure-zh',item.zh);zh.lang='zh-CN';content.append(zh);
-  const excerpt=make('details','atlas-original'),summary=make('summary',null,`查看对应原文 · ${paragraphLabel(item.paragraphs)}`),body=make('div');
+  const excerpt=make('details','atlas-original'),summary=make('summary',null,`查看对应原文 · ${evidenceLabel(item)}`),body=make('div');
   excerpt.append(summary,body);content.append(excerpt);container.append(content);
-  excerpt.addEventListener('toggle',()=>{if(!excerpt.open||body.childElementCount)return;for(const p of item.paragraphs){if(!source.paragraphs?.[p-1])continue;const quote=make('blockquote');quote.append(make('small',null,`¶ ${p}`),make('p',null,source.paragraphs[p-1]));body.append(quote);}});
+  excerpt.addEventListener('toggle', () => {
+   if (!excerpt.open || body.childElementCount) return;
+   const references = item.references ?? item.paragraphs.map(paragraph => [paragraph]);
+   for (const reference of references) {
+    const [paragraph, start, end = start] = reference;
+    const original = source.paragraphs?.[paragraph - 1];
+    if (!original) continue;
+    const starts = figure.sentenceStarts?.[paragraph - 1];
+    const text = start === undefined || !starts ? original : original.slice(starts[start - 1], starts[end]).trim();
+    const quote = make('blockquote');
+    quote.append(make('small',null,`¶ ${referenceLabel(reference)}`), make('p',null,text));
+    body.append(quote);
+   }
+  });
   trigger.setAttribute('aria-expanded','false');trigger.setAttribute('aria-controls',content.id);
   trigger.onclick=()=>{
    const open=content.hidden;
@@ -58,18 +119,26 @@ export function renderWorksheet(host,data,source={}){
   };
   panels.push({content,trigger,container,excerpt});
  }
- function card(item,i,section){
+ function card(item,i,section,grouped=false){
   const el=make('section',`figure-node source-card${item.wide?' is-wide':''}`);el.dataset.stage=item.id;el.dataset.sourceIds=item.sourceIds.join(' ');colour(el,item.colour);
-  const head=make('div','figure-node-heading'),title=button('figure-node-title');
-  title.append(make('span','branch-order',`${section+1}.${i+1}`),make('span',null,item.title));
+  if(argument)anchor(el,item.id);
+  if(item.comparison)el.classList.add('argument-comparison');
+  const head=make(argument?(grouped?'h5':'h4'):'div','figure-node-heading'),title=button('figure-node-title');
+  if(!argument)title.append(make('span','branch-order',`${section+1}.${i+1}`));
+  title.append(make('span',null,item.title));
   head.append(title);el.append(head);
-  const content=make('div','figure-node-content');content.append(make('span','branch-evidence',paragraphLabel(item.paragraphs)),bullets(item.bullets));el.append(content);
+  const content=make('div','figure-node-content');content.append(make('span','branch-evidence',evidenceLabel(item)),bullets(item.bullets));el.append(content);
   attachTranslation(title,el,item);return el;
  }
  figure.sections.forEach((section,i)=>{
   const part=make('section',`source-part layout-${section.layout}`);part.dataset.part=section.id;part.dataset.sourceIds=section.sourceIds.join(' ');colour(part,section.colour);
-  const svg=svgEl('svg',{class:'part-connections','aria-hidden':'true'});part.append(svg);
-  const heading=make('header','source-part-heading');heading.append(make('span','part-number',`PART ${String(i+1).padStart(2,'0')}`),make('h3',null,section.title),make('span','part-evidence',paragraphLabel(section.paragraphs)));
+  const svg=argument?null:svgEl('svg',{class:'part-connections','aria-hidden':'true'});
+  if(svg)part.append(svg);
+  if(argument)anchor(part,section.id);
+  const heading=make('header','source-part-heading');
+  heading.append(make('span','part-number',argument?String(i+1).padStart(2,'0'):`PART ${String(i+1).padStart(2,'0')}`),make('h3',null,section.title));
+  if(section.label)heading.append(zhLabel('argument-stage-label',section.label));
+  heading.append(make('span','part-evidence',evidenceLabel(section)));
   part.append(heading);
   const branchHost=make('div',`source-branches columns-${section.columns}`);part.append(branchHost);
   if(section.layout==='comparison'){
@@ -79,13 +148,29 @@ export function renderWorksheet(host,data,source={}){
    const thead=make('thead'),tr=make('tr');section.headers.forEach((text,i)=>{const th=make('th',null,text);th.scope='col';colour(th,section.pairColours[i]);tr.append(th);});thead.append(tr);table.append(thead);
    const tbody=make('tbody');section.pairs.forEach(pair=>{const row=make('tr');['left','right'].forEach((key,i)=>{const td=make('td');colour(td,section.pairColours[i]);const ul=make('ul','figure-bullets'),li=make('li');fillText(li,pair[key]);ul.append(li);td.append(ul);row.append(td);});tbody.append(row);});table.append(tbody);branchHost.append(table);
    attachTranslation(toggle,branchHost,section);
+  }else if(section.groups){
+   branchHost.classList.add('argument-groups');
+   for(const group of section.groups){
+    const lane=make('section','argument-group');colour(lane,group.colour);
+    const groupHeading=make('header','argument-group-heading');
+    groupHeading.append(make('h4',null,group.title),zhLabel('argument-label',group.label));lane.append(groupHeading);
+    for(const [j,item] of section.cards.entries()){
+     if(!group.cards.includes(item.id))continue;
+     if(item.transition)lane.append(transition(item.transition));
+     lane.append(card(item,j,i,true));
+    }
+    branchHost.append(lane);
+   }
   }else section.cards.forEach((item,j)=>branchHost.append(card(item,j,i)));
-  graph.append(part);parts.push({part,heading,branchHost,svg,section});
+  if(section.transition)graph.append(transition(section.transition));
+  graph.append(part);
+  if(svg)parts.push({part,heading,branchHost,svg,section});
  });
  reset.onclick=()=>{gaps.forEach(g=>setGap(g,false));panels.forEach(p=>{p.content.hidden=true;p.trigger.setAttribute('aria-expanded','false');p.container.classList.remove('is-selected');p.excerpt.open=false;});update();};
  const footer=make('footer','figure-footer'),sourceButton=button('figure-source','原始导图 ↗');
  sourceButton.onclick=()=>document.dispatchEvent(new CustomEvent('atlas-source-map'));
- footer.append(make('span',null,'主分支 → 子分支 → 要点 / 例证'),sourceButton);paper.append(footer,status);host.append(paper);update();
+ footer.append(make('span',null,argument?'Phenomenon → PEEE → Conclusion':'主分支 → 子分支 → 要点 / 例证'),sourceButton);paper.append(footer,status);host.append(paper);update();
+ if(!parts.length){cleanup=()=>{};return gaps.length;}
  let frame;
  function draw(){cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{
   for(const {part,heading,branchHost,svg,section}of parts){

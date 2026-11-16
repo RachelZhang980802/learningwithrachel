@@ -48,3 +48,69 @@ test('distinctive structures from the original maps are preserved',()=>{
  for(const card of section('07')[1].cards.slice(0,3))assert.deepEqual(card.bullets.map(b=>b.text),['Why?','How?','Result']);
  assert.equal(section('10')[1].pairs.length,8,'Seven landscape pairs plus the response to them');
 });
+
+test('02: Phenomenon → PEEE → Conclusion follows the source and keeps the objections distinct', async () => {
+ const { sections, sentenceStarts } = articles.find(article => article.id === '02').figure;
+ const source = JSON.parse(await readFile(new URL('02.json', base), 'utf8'));
+ const lessons = JSON.parse(await readFile(new URL('../app/article02to05Lessons.json', import.meta.url), 'utf8'));
+ const annotations = JSON.parse(await readFile(new URL('../app/article02Syntax.json', import.meta.url), 'utf8'));
+ assert.deepEqual(sections.map(section => section.id), [
+  '02-phenomenon', '02-point', '02-explanation', '02-example', '02-evaluation', '02-conclusion',
+ ]);
+ for (const [index, paragraph] of source.paragraphs.entries()) {
+  const sentences = lessons['02'].sentences.filter(sentence => sentence.paragraph === index + 1);
+  const starts = sentenceStarts[index];
+  assert.equal(starts.length, sentences.length);
+  for (const [i, sentence] of sentences.entries()) {
+   assert.equal(paragraph.slice(starts[i], starts[i + 1]).trim(), annotations[sentence.id].text);
+  }
+ }
+ function validateReferences(item, parent) {
+  const cited = item.references;
+  if (!cited) return;
+  if (item.paragraphs) assert.deepEqual([...new Set(cited.map(([p]) => p))], item.paragraphs);
+  for (const [p, firstSentence, end = firstSentence ?? sentenceStarts[p - 1].length] of cited) {
+   const start = firstSentence ?? 1;
+   assert.ok(end <= sentenceStarts[p - 1].length && start > 0 && start <= end);
+   if (parent) assert.ok(parent.some(([para, first, last = first ?? sentenceStarts[para - 1].length]) =>
+    p === para && start >= (first ?? 1) && end <= last), `Reference outside parent: ${item.id ?? item.text}`);
+  }
+ }
+ for (const section of sections) {
+  validateReferences(section);
+  const validateBullets = (bullets, references) => {
+   for (const bullet of bullets) {
+    validateReferences(bullet, references);
+    if (bullet.children) validateBullets(bullet.children, bullet.references ?? references);
+   }
+  };
+  for (const card of section.cards) {
+   validateReferences(card, section.references);
+   validateBullets(card.bullets, card.references);
+  }
+ }
+ const [, point, explanation, example, evaluation] = sections;
+ assert.deepEqual(point.references, [[3, 1]]);
+ assert.deepEqual(explanation.references, [[3, 2, 3]]);
+ assert.deepEqual(example.references, [[3, 4, 11], [4, 1]]);
+ assert.deepEqual(example.cards.map(card => card.references), [[[3, 4, 11]], [[4, 1]]]);
+ assert.equal(evaluation.transition.cue, 'Now that');
+ assert.deepEqual(evaluation.references, [[4, 2, 3], [5], [6], [7], [8], [9]]);
+ const [employment, demographics, benefits, tax, speed] = evaluation.cards;
+ assert.deepEqual(evaluation.groups.map(group => group.cards), [
+  [employment.id, demographics.id, benefits.id], [tax.id, speed.id],
+ ]);
+ const [prediction, concession] = employment.bullets;
+ assert.deepEqual([prediction.text, prediction.references], ['Prediction', [[4, 2]]]);
+ assert.match(prediction.children[1].text, /might become/);
+ assert.deepEqual([concession.text, concession.references], ['Concession', [[4, 3]]]);
+ assert.equal(demographics.transition.cue, 'side effect');
+ assert.deepEqual(benefits.bullets[1].references, [[7, 2]]);
+ assert.deepEqual(tax.bullets.map(({text, references}) => [text, references]), [
+  ['Counterclaim', [[8, 2]]], ['Rebuttal', [[8, 3, 5]]],
+ ]);
+ assert.deepEqual(speed.bullets.map(({text, references}) => [text, references]), [
+  ['Counterclaim', [[9, 1]]], ['Concession', [[9, 5, 7]]], ['Rebuttal', [[9, 2, 4], [9, 8]]],
+ ]);
+ assert.equal(speed.bullets[1].related.target, concession.id);
+});

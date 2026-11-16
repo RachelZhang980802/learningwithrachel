@@ -510,7 +510,19 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "trade sth. off against sth. v. phr. 权衡两者，舍弃一方部分利益以换取另一方的好处"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "trade-off",
+            "trade sth. off against sth."
+          ],
+          "distinction": "trade-off 是名词，常用 a trade-off between A and B。动词结构 trade A off against B 表示在 A 和 B 之间作取舍。"
+        }
+      ]
     },
     "50": {
       "word": "benefit",
@@ -750,7 +762,18 @@
       "wordFamilyRoot": "anonymous",
       "family": [
         "anonymity n. 匿名状态；不为人知",
-        "anonymously adv. 匿名地"
+        "anonymously adv. 匿名地",
+        "anonymize / anonymise v. 去除可识别个人身份的信息",
+        "anonymization / anonymisation n. 匿名化处理"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "anonymity",
+            "anonymization"
+          ],
+          "distinction": "anonymity 是身份不为人知的状态，anonymization 是去除身份识别信息的处理过程。"
+        }
       ]
     },
     "53": {
@@ -1370,6 +1393,9 @@
           "sourceLabel": "Oxford Learner’s Dictionaries · idiom",
           "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/spur_1"
         }
+      ],
+      "family": [
+        "spurred v. 刺激；促使（过去式／过去分词）"
       ]
     },
     "12": {
@@ -3161,7 +3187,8 @@
       "family": [
         "permission n. 许可；准许",
         "permissible adj. 规则允许的",
-        "permissive adj. 宽松的；放任的"
+        "permissive adj. 宽松的；放任的",
+        "permitted adj. 获准的；规则允许的"
       ],
       "wordFamilyDistinctions": [
         {
@@ -3170,6 +3197,14 @@
             "permissive"
           ],
           "distinction": "permissible 表规则允许某事；permissive 形容人或制度允许很多事、管得宽松。"
+        },
+        {
+          "forms": [
+            "permissible",
+            "permitted",
+            "permissive"
+          ],
+          "distinction": "permissible 强调合乎规则，permitted 强调已获许可，permissive 描述规定或态度宽松。"
         }
       ]
     },
@@ -3636,7 +3671,17 @@
       "otherMeaningsStatus": "present",
       "wordFamilyRoot": "millennium",
       "family": [
-        "millennial adj. 千年的；千禧一代的"
+        "millennial adj. 千年的；千禧一代的",
+        "millennia / millenniums n. 千年时期（millennium 的复数）"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "millennium",
+            "millennia"
+          ],
+          "distinction": "millennium 指一个千年时期。millennia 是常用的复数形式，millenniums 也是复数。"
+        }
       ]
     },
     "26": {
@@ -4429,7 +4474,17 @@
       "wordFamilyRoot": "suffocate",
       "family": [
         "suffocating adj. 令人窒息的；压抑的",
-        "suffocation n. 窒息"
+        "suffocation n. 窒息",
+        "suffocated adj. 感到窒息的；感到被压得透不过气的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "suffocating",
+            "suffocated"
+          ],
+          "distinction": "suffocating 描述让人透不过气的事物或处境，suffocated 描述人受到压迫或窒息时的状态。"
+        }
       ]
     },
     "103": {
@@ -4826,7 +4881,20 @@
       "articleExample": "It all comes down to compromises.",
       "dictionaryExample": null,
       "otherMeanings": [],
-      "otherMeaningsStatus": "none_in_excerpt"
+      "otherMeaningsStatus": "none_in_excerpt",
+      "family": [
+        "compromising adj. 有损声誉的；使人难堪的",
+        "uncompromising adj. 不妥协的；毫不让步的"
+      ],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "compromising",
+            "uncompromising"
+          ],
+          "distinction": "compromising 作形容词时常指照片或资料可能损害声誉。uncompromising 形容立场强硬。compromising on privacy 中的 compromising 是动词形式，表示在隐私上让步。"
+        }
+      ]
     },
     "108": {
       "word": "increasingly",

@@ -73,6 +73,24 @@ test('Article 03 has a bilingual linked example for every marked word, with usab
   assert.match(press[68].english, /settle in/);
 });
 
+test('Articles 04 and 05 retain all supplied press examples under the corresponding vocabulary entries', () => {
+  const { article04to05PressExamples } = load('app/article04to05PressExamples.ts');
+  for (const article of ['04', '05']) {
+    const examples = article04to05PressExamples[article];
+    const suppliedRows = Object.keys(cards[article]).filter(row => article !== '05' || cards[article][row].word !== 'yoshi');
+    assert.deepEqual(Object.keys(examples), suppliedRows);
+    for (const [row, example] of Object.entries(examples)) {
+      const word = cards[article][row].word;
+      assert.ok(example.english && /[\u3400-\u9fff]/.test(example.chinese) && example.source, word);
+      assert.equal(new URL(example.url).protocol, 'https:', word);
+      assert.doesNotMatch(example.url, /__cf_chl|%0A|[\r\n]/i, word);
+      assert.ok(example.highlights.length && example.highlights.every(term => example.english.toLowerCase().includes(term.toLowerCase())), word);
+    }
+  }
+  assert.match(article04to05PressExamples['04'][1].english, /rush hour/);
+  assert.match(article04to05PressExamples['05'][1].english, /form of protest/);
+});
+
 test('prepositional phrase senses are not confused with the related noun relation', () => {
   const senses = cards['03'][2].otherMeanings;
   const phrase = senses.filter(sense => sense.partOfSpeech === 'prep. phr.');

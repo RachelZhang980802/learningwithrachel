@@ -53,12 +53,13 @@ function SentencePlayer({ sentence, hidden, audioSrc }: { sentence: number; hidd
 }
 
 /** Shared notebook frame; article-specific content and original audio remain separate. */
-export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, panel, onPanel, onSelect, onStep, onExit, children, articleId = "01", title = "I Become a Student", audioSrc, catSrc = "https://assets.negentropylearning.com.cn/sentence-studio/draw-cat.png", sentenceClassification, showClassificationBadge = true, suppressClassificationLabel = false, availablePanels, frontOnly = false }: {
+export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, panel, onPanel, onSelect, onStep, onExit, children, articleId = "01", title = "I Become a Student", audioSrc, catSrc = "https://assets.negentropylearning.com.cn/sentence-studio/draw-cat.png", sentenceClassification, showClassificationBadge = true, suppressClassificationLabel = false, availablePanels, frontOnly = false, originalSentence, titleVocabulary }: {
   sentences: string[]; selected: number; paragraph: number; ranges: { start: number; end: number }[];
   panel: NotebookPanel | null; onPanel: (panel: NotebookPanel | null) => void;
   onSelect: (index: number) => void; onStep: (direction: -1 | 1) => void; onExit: () => void; children: ReactNode;
   articleId?: string; title?: string; audioSrc?: string; catSrc?: string; sentenceClassification?: SentenceClassification; showClassificationBadge?: boolean; suppressClassificationLabel?: boolean;
   availablePanels?: readonly NotebookPanel[]; frontOnly?: boolean;
+  originalSentence?: ReactNode; titleVocabulary?: ReactNode;
 }) {
   const [drawn, setDrawn] = useState<number | null>(null);
   const [history, setHistory] = useState<number[]>([]);
@@ -143,6 +144,7 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
   const visiblePanel = !frontOnly && panelAllowed ? panel : null;
   const isBack = visiblePanel !== null;
   const isArticle01 = articleId === "01";
+  const original = originalSentence ?? sentences[selected];
   return <main className="student-workspace-v2 article-one-notebook" data-article-id={articleId}>
     <header className="notebook-top">
       <button className="notebook-exit" type="button" onClick={onExit}><Icon name="arrow-left"/>Full Text</button>
@@ -161,7 +163,8 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
           {!isBack ? <>
             <div className="notebook-sentence-group">
             {showClassificationBadge && <SentenceBadge sentence={selected + 1} entry={sentenceClassification} hideClassificationLabel={suppressClassificationLabel}/>} 
-            <blockquote className={`notebook-original${sentences[selected].length > 440 ? " is-long" : ""}`} lang="en">{sentences[selected]}</blockquote>
+            <blockquote className={`notebook-original${sentences[selected].length > 440 ? " is-long" : ""}`} lang="en">{original}</blockquote>
+            {titleVocabulary}
             </div>
             <SentencePlayer key={`${articleId}-${selected}`} sentence={selected + 1} hidden={isBack} audioSrc={audioSrc}/>
             <div className="notebook-draw-row">
@@ -174,7 +177,7 @@ export function ArticleOneNotebook({ sentences, selected, paragraph, ranges, pan
             </div>
           </> : <>
             <header className="notebook-back-header"><button type="button" onClick={() => onPanel(null)}><Icon name="arrow-left"/>Back</button><span>{tabs.find(tab => tab.id === category(visiblePanel))?.label}</span></header>
-            {visiblePanel !== "words" && <div className="notebook-context">{showClassificationBadge && <SentenceBadge sentence={selected + 1} entry={sentenceClassification} compact hideClassificationLabel={suppressClassificationLabel}/>}<p lang="en">{sentences[selected]}</p></div>}
+            {visiblePanel !== "words" && <div className="notebook-context">{showClassificationBadge && <SentenceBadge sentence={selected + 1} entry={sentenceClassification} compact hideClassificationLabel={suppressClassificationLabel}/>}<p lang="en">{original}</p>{titleVocabulary}</div>}
             <div className="notebook-content">{children}</div>
           </>}
         </div>

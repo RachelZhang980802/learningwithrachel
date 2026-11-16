@@ -434,9 +434,19 @@
       },
       "family": [
         "recommendation n. 建议；推荐",
-        "recommended adj. 受推荐的"
+        "recommended adj. 受推荐的",
+        "recommender n. 推荐人；推荐系统"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "recommendation",
+            "recommender"
+          ],
+          "distinction": "recommendation 是提出的建议或推荐意见，recommender 是提出推荐的人，也可指自动推荐的系统。"
+        }
+      ]
     },
     "10": {
       "english": "the European Union's executive body, which proposes laws and carries out policies",
@@ -501,10 +511,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "family": [
-        "establish v. 建立；确立",
+        "establishment n. 建立；机构",
         "established adj. 已确立的；公认的"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyRoot": "establish"
     },
     "12": {
       "english": "promise or ensure that something will be provided",
@@ -1083,10 +1094,21 @@
         "source": "Oxford Learner’s Dictionaries online: division of labour"
       },
       "family": [
-        "divide v. 分开；划分"
+        "division n. 划分；分工；部门",
+        "divided adj. 分开的；意见分歧的",
+        "divisible adj. 可分割的；可整除的"
       ],
-      "wordFamilyRoot": "division",
-      "otherSensesReviewed": true
+      "wordFamilyRoot": "divide",
+      "otherSensesReviewed": true,
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "divided",
+            "divisible"
+          ],
+          "distinction": "divided 描述已经分开或意见不一的状态，divisible 描述能否分割或整除。"
+        }
+      ]
     },
     "25": {
       "english": "the range of what an activity covers",
@@ -1271,10 +1293,20 @@
       "family": [
         "effective adj. 有效的",
         "effectively adv. 有效地",
-        "effectiveness n. 有效性"
+        "effectiveness n. 有效性",
+        "ineffective adj. 无效的；未达到预期效果的"
       ],
       "wordFamilyRoot": "effect",
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "effective",
+            "ineffective"
+          ],
+          "distinction": "effective 表示方法达到预期效果，ineffective 表示方法没能达到预期效果。side effect 指伴随出现的次生作用。"
+        }
+      ]
     },
     "29": {
       "english": "the use of machines or software to perform work automatically",
@@ -1306,7 +1338,8 @@
         "automate v. 使自动化",
         "automated adj. 自动化的",
         "automatic adj. 自动的",
-        "automatically adv. 自动地"
+        "automatically adv. 自动地",
+        "automatable adj. 可实现自动化的"
       ],
       "wordFamilyDistinctions": [
         {
@@ -1315,6 +1348,13 @@
             "automatic"
           ],
           "distinction": "automated 强调经过自动化设计或改造；automatic 强调无需人手操作即可自行运作。"
+        },
+        {
+          "forms": [
+            "automated",
+            "automatable"
+          ],
+          "distinction": "automated 表示某流程已采用自动化，automatable 表示该流程具备改为自动化的条件。"
         }
       ],
       "otherSensesReviewed": true
@@ -2385,6 +2425,13 @@
             "lately"
           ],
           "distinction": "late 表“迟；晚”；lately 是“最近”，不能用 lately 表示迟到。"
+        },
+        {
+          "forms": [
+            "late",
+            "lately"
+          ],
+          "distinction": "late 表示晚于预期，come late to an understanding 指较晚才领悟。lately 表示近来，可与现在完成时连用。"
         }
       ],
       "otherSensesReviewed": true
@@ -2448,7 +2495,7 @@
       "family": [
         "relate v. 联系；叙述",
         "relationship n. 人际关系；事物联系",
-        "relative n./adj. 亲戚；相对的；关系的",
+        "relative n./adj. 亲属；相对的；关系的（语法）",
         "related adj. 有联系的；有亲属关系的",
         "unrelated adj. 无关联的；无亲属关系的",
         "relational adj. 关系的；关联的",
@@ -2539,7 +2586,7 @@
       "family": [
         "remaining adj. 剩余的",
         "remainder n. 剩余部分；余数",
-        "remains n. plural 残余；遗迹；遗骸"
+        "remains n. 残余物；遗迹；遗骸（复数名词）"
       ],
       "wordFamilyRoot": "remain",
       "wordFamilyDistinctions": [
@@ -4206,7 +4253,15 @@
       "family": [
         "statically adv. 静态地；在静止状态下"
       ],
-      "wordFamilyDistinctions": [],
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "static",
+            "statically"
+          ],
+          "distinction": "本文 static 是名词，指收音机的静电噪声。statically 来自 static 的形容词用法，表示以静态方式。"
+        }
+      ],
       "otherSensesReviewed": true
     },
     "36": {
@@ -5389,10 +5444,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "family": [
-        "establish v. 建立；确立",
+        "established adj. 已确立的；事业有成的",
         "establishment n. 建立；机构"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyRoot": "establish"
     },
     "61": {
       "english": "plan or mean to do something",
@@ -5728,7 +5784,7 @@
       },
       "wordFamilyRoot": "strike",
       "family": [
-        "stricken adj. 受疾病或悲痛折磨的",
+        "stricken adj. 深受疾病、灾害或悲痛折磨的（也作过去分词）",
         "striking adj. 显著的；引人注目的",
         "striker n. 罢工者；足球前锋"
       ],
@@ -6682,7 +6738,8 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "family": [
-        "burial n. 埋葬；葬礼"
+        "burial n. 埋葬；葬礼",
+        "buried adj. 被埋的；藏得很深的"
       ],
       "wordFamilyRoot": "bury",
       "otherSensesReviewed": true
@@ -6980,10 +7037,21 @@
         }
       },
       "family": [
-        "reserve v. 预留；预订",
-        "reservation n. 预订；保留"
+        "reserved adj. 矜持的；预留的",
+        "reservation n. 预订；保留意见",
+        "unreserved adj. 坦率的；毫无保留的"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyRoot": "reserve",
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "reserved",
+            "unreserved"
+          ],
+          "distinction": "说人的举止时，reserved 指不轻易表露感情，unreserved 指坦率。说座位时，reserved 指已预留，unreserved 指未指定座位。"
+        }
+      ]
     },
     "14": {
       "english": "giving all one's attention to something",
@@ -7455,7 +7523,8 @@
         "fairness n. 公平；公正",
         "fairly adv. 公平地；相当地",
         "unfair adj. 不公平的",
-        "unfairly adv. 不公正地"
+        "unfairly adv. 不公正地",
+        "fair-haired adj. 浅色头发的；金发的"
       ],
       "wordFamilyDistinctions": [
         {
@@ -7471,6 +7540,13 @@
             "unfairly"
           ],
           "distinction": "fairly 可表示公平地，也可表示相当；unfairly 只对应不公正、不合理等意思。fairly tall 中的 fairly 不能机械地用 unfairly 替换。"
+        },
+        {
+          "forms": [
+            "fair",
+            "fair-haired"
+          ],
+          "distinction": "fair 可表示发色或肤色浅，也可表示公平。fair-haired 专指头发颜色浅，契合文中对外貌的描写。"
         }
       ],
       "otherSensesReviewed": true
@@ -7624,11 +7700,21 @@
       "articleExample": "He is not smoking a pipe, and although we foreigners think that a real Englishman ought to have a moustache, he is clean-shaven.",
       "dictionaryExample": null,
       "family": [
-        "shave v. 刮胡子；剃",
-        "shaving n. 刮脸；剃毛"
+        "clean-shaven adj. 胡子刮得干净的",
+        "shaving n. 剃须；剃刮",
+        "shaver n. 剃须刀；剃须的人"
       ],
       "wordFamilyRoot": "shave",
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "shaving",
+            "shaver"
+          ],
+          "distinction": "shaving 说的是剃刮的动作，shaver 通常指用来剃须的器具。"
+        }
+      ]
     },
     "27": {
       "english": "a little, but not much",
@@ -8214,9 +8300,10 @@
       "articleExample": "His briefcase is old too and bulging, so that the zip-fastener does not close properly.",
       "dictionaryExample": null,
       "family": [
-        "bulge n./v. 鼓起；凸出"
+        "bulging adj. 鼓起的；凸出的"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyRoot": "bulge"
     },
     "41": {
       "english": "the fastening device with interlocking teeth on a bag",
@@ -9058,7 +9145,7 @@
       "articleExample": "His father and mother are both Finns: Perhaps that is why he takes no interest in cricket.",
       "dictionaryExample": null,
       "family": [
-        "Finnish adj./n. 芬兰的；芬兰语",
+        "Finnish adj./n. 芬兰的、芬兰人的；芬兰语",
         "Finland n. 芬兰"
       ],
       "wordFamilyDistinctions": [
@@ -10973,7 +11060,7 @@
       },
       "family": [
         "deference n. 尊重；顺从",
-        "defer v. 听从；遵从",
+        "defer to sb. or sth. v. phr. 尊重对方的权威或判断而听从",
         "deferentially adv. 恭敬地"
       ],
       "otherSensesReviewed": true
@@ -11555,10 +11642,11 @@
         "source": "Oxford Advanced Learner’s English-Chinese Dictionary (10th ed.; user-provided excerpt)"
       },
       "family": [
-        "hurry n./v. 匆忙；赶快",
-        "hurried adj. 匆忙的"
+        "hurried adj. 匆忙的；仓促的",
+        "hurriedly adv. 匆忙地；仓促地"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyRoot": "hurry"
     },
     "49": {
       "english": "in a way that makes others feel affection",
@@ -11782,8 +11870,8 @@
       "articleExample": "Please don't judge my candidacy by the unseemliness of this proposal.",
       "dictionaryExample": null,
       "family": [
-        "unseemly adj. 不得体的；失礼的",
-        "seemly adj. 得体的；适宜的"
+        "unseemliness n. 不得体；失礼",
+        "seemly adj. 得体的；适宜的（正式）"
       ],
       "wordFamilyDistinctions": [
         {
@@ -11794,7 +11882,8 @@
           "distinction": "unseemly 表示行为不合礼节，本文说直接提亲可能显得唐突；seemly 表示符合礼仪，语体较正式且如今较少用。它们评价的是行为是否得体，不是婚事是否合法。"
         }
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyRoot": "unseemly"
     },
     "55": {
       "english": "be reducible to one essential point",
@@ -12047,7 +12136,8 @@
         "security n. 安全；保障",
         "securely adv. 安全地；牢固地",
         "insecure adj. 不安全的；缺乏信心的",
-        "insecurity n. 不安全；不安"
+        "insecurity n. 不安全；不安",
+        "secured adj. 被固定的；有担保的"
       ],
       "wordFamilyDistinctions": [
         {
@@ -12056,6 +12146,13 @@
             "insecurity"
           ],
           "distinction": "security 可指受到保护的安全状态或具体保障；insecurity 可指缺乏保障，也可指内心不安。前者常用于提供保障，后者常用于描述经济风险或焦虑感。"
+        },
+        {
+          "forms": [
+            "secured",
+            "insecure"
+          ],
+          "distinction": "secured 表示已经固定牢靠，或贷款已有担保。insecure 表示缺乏安全保障，也可形容人缺乏信心。"
         }
       ],
       "otherSensesReviewed": true
@@ -12321,9 +12418,19 @@
       },
       "family": [
         "humbly adv. 谦逊地；恭敬地",
-        "humility n. 谦逊；谦卑"
+        "humility n. 谦逊；谦卑",
+        "humbled adj. 深感谦卑的；意识到自身局限的"
       ],
-      "otherSensesReviewed": true
+      "otherSensesReviewed": true,
+      "wordFamilyDistinctions": [
+        {
+          "forms": [
+            "humble",
+            "humbled"
+          ],
+          "distinction": "humble 描述谦逊的态度，my humble apologies 是自谦的道歉说法。humbled 描述人在某次经历之后感到谦卑。"
+        }
+      ]
     },
     "65": {
       "english": "relax comfortably and without hurry",
@@ -12491,7 +12598,7 @@
       },
       "family": [
         "inherit v. 继承",
-        "inheritance n. 遗产；继承",
+        "inheritance n. 遗产；继承所得；遗传",
         "heiress n. 女性继承人"
       ],
       "wordFamilyDistinctions": [
