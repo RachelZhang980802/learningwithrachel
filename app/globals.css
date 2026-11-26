@@ -5035,6 +5035,8 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-o
 .january-exercises-question{margin-top:38px}
 .january-exercises-question h3{margin:0 0 22px;font:700 1em/1.65 Georgia,"Songti SC",serif}
 .january-exercises-question p{margin:0 0 14px}
+.more-external-article .inquire-publication-body>p,.more-external-article .supplementary-translation>p{white-space:pre-line}
+.january-exercises [data-choice-question] u{text-decoration-thickness:.08em;text-underline-offset:.14em}
 .january-exercise-options{margin:22px 0 0;padding-left:1.6em;list-style-type:upper-alpha}
 .january-exercise-options li{padding-left:.1em;margin:4px 0}
 .january-option-meaning{display:none;margin-left:.35em;color:#8d4735;font-size:.84em}
