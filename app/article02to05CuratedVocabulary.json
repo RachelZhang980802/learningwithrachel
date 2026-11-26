@@ -3226,6 +3226,12 @@
     "16": {
       "english": "a country on the Baltic Sea",
       "chinese": "立陶宛",
+      "contextImage": {
+        "src": "/media/roommates-grandfather-journey.png",
+        "alt": "《Roommates》中的祖父从立陶宛来到美国，后来前往安娜堡和休斯敦。地图放大标出了立陶宛在波罗的海三国中的位置。",
+        "width": 1220,
+        "height": 750
+      },
       "collocations": [
         "from Lithuania 来自立陶宛",
         "Lithuanian culture 立陶宛文化"

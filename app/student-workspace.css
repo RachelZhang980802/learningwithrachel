@@ -51,6 +51,8 @@
 .word-picture{display:block;color:#8b7654;text-decoration:none;text-align:center;margin:20px 0}
 .word-picture img{display:block;width:100%;max-height:300px;object-fit:contain;margin:auto}
 .word-picture>span{font:11px Arial,sans-serif;display:block;margin-top:8px}
+.word-context-picture{margin:12px 0}
+.word-context-picture img{height:auto}
 .word-related{border-left:1px solid var(--study-rule);padding-left:30px;min-width:0}
 .word-related section+section{margin-top:22px}
 .word-related h3,.word-press h3{font:16px/1.5 "Absolutely Vintage","Special Elite",Georgia,serif;color:var(--study-rust);margin:0 0 12px;padding-bottom:8px;border-bottom:1px dotted #c6b694}

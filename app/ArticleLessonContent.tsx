@@ -131,6 +131,7 @@ type CuratedWord = {
   partOfSpeech: string;
   contextPartOfSpeech?: string;
   image?: string;
+  contextImage?: { src: string; alt: string; width: number; height: number };
   oxfordExcerptProvided: boolean;
   articleExample: string;
   dictionaryExample?: { english: string; chinese: string; source: string } | null;
@@ -167,6 +168,10 @@ function PendingPdfWords({ lesson, sentence, initialSourceRow }: { lesson: Lesso
       <section className="word-context-meaning">
         <h3>Meaning in context <span className="word-sense-pos">{curated.contextPartOfSpeech ?? curated.partOfSpeech}</span></h3>
         <p className="word-definition word-definition-en" lang="en">{curated.english}</p>
+        {curated.contextImage && <a className="word-picture word-context-picture" href={curated.contextImage.src} target="_blank" rel="noopener noreferrer">
+          <img src={curated.contextImage.src} alt={curated.contextImage.alt} width={curated.contextImage.width} height={curated.contextImage.height} loading="lazy"/>
+          <span>↗ 查看原图</span>
+        </a>}
         <p className="word-definition word-definition-zh" lang="zh-CN">{curated.chinese}</p>
         {curated.dictionaryExample && <details className="word-context-example">
           <summary>{curated.dictionaryExample.source.startsWith("Oxford") ? "Oxford example · 牛津例句" : "Example · 例句"}</summary>
