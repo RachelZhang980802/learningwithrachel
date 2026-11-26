@@ -4,7 +4,8 @@ import { article01ReadingLesson } from "./article01Structure";
 import { CSSProperties, Fragment, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { taylorCommencementArticle } from "./taylor-commencement";
 import { TaylorVocabularyArticleBody } from "./TaylorVocabularyNotes";
-import { BrooksVocabularyArticleBody } from "./BrooksVocabularyNotes";
+import { BrooksVocabularyArticleBody, VocabularyArticleBody, type VocabularyNoteTerm } from "./BrooksVocabularyNotes";
+import { AnswerBlank } from "./CommencementExercises";
 import { CrawfordVocabularyArticleBody } from "./CrawfordVocabularyNotes";
 import { HarvardVocabularyArticleBody } from "./HarvardVocabularyNotes";
 import { ColumbiaVocabularyArticleBody } from "./ColumbiaVocabularyNotes";
@@ -46,6 +47,10 @@ import { H1BVisaArticleBody } from "./H1BVisaArticleBody";
 import { malaysiaHistoryTranscript, singaporeExpulsionTranscript, singaporeHistoryTranscript } from "./inquire-urban-history-transcripts";
 import { chinaTransitPolicyTranscript, shanghaiTransitVlogTranscript, threeCupChickenTranscript } from "./inquire-video-transcripts";
 import type { InquireFeatureArticle } from "./inquire-feature-articles";
+import { januaryMoreArticles, type JanuaryMoreArticle } from "./january-more-articles";
+import { februaryMarchMoreArticles } from "./february-march-more-articles";
+import { aprilSeptemberMoreArticles } from "./april-september-more-articles";
+import { octoberNovemberMoreArticles } from "./october-november-more-articles";
 import { articleStudioConfigs } from "./article04StudioConfig";
 import { article05StudioConfig } from "./article05StudioConfig";
 import { articleStudioConfigs0610 } from "./article06to10StudioConfig";
@@ -664,6 +669,16 @@ export default function Home() {
 
 type InquiryResource = { title: string; source: string; url?: string; referenceOnly?: boolean };
 type InquiryPrompt = { en: string; zh: string; resources: InquiryResource[]; details?: string[] };
+type MoreReadingKey = string;
+type MoreReadingTopic = {
+  key: MoreReadingKey;
+  date: string;
+  en: string;
+  zh: string;
+  articleEn: string;
+  articleZh: string;
+  url?: string;
+};
 
 const inquirySets: InquiryPrompt[][] = [
   [
@@ -776,6 +791,16 @@ const inquirySets: InquiryPrompt[][] = [
   ],
 ];
 
+const allMoreArticles: readonly JanuaryMoreArticle[] = [...januaryMoreArticles, ...februaryMarchMoreArticles, ...aprilSeptemberMoreArticles, ...octoberNovemberMoreArticles];
+const moreReadingTopics: MoreReadingTopic[] = allMoreArticles.map((article) => ({
+  key: article.key,
+  date: article.date,
+  en: article.topicEn,
+  zh: article.topicZh,
+  articleEn: article.title,
+  articleZh: article.titleZh,
+}));
+
 const commencementArticle = {
   title: "A Commencement Address Too Honest to Deliver in Person",
   byline: "By David Brooks, The Atlantic, Published May 13, 2020",
@@ -822,8 +847,44 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
   const [selected, setSelected] = useState(0);
   const [selectedQuestion, setSelectedQuestion] = useState<number | null>(0);
   const [selectedResource, setSelectedResource] = useState<number | null>(null);
+  const [selectedMorePeriod, setSelectedMorePeriod] = useState(false);
+  const [selectedMorePeriodKey, setSelectedMorePeriodKey] = useState<string | null>(null);
+  const [selectedMoreArticle, setSelectedMoreArticle] = useState<InquireFeatureArticle | null>(null);
+  const [selectedJanuaryArticle, setSelectedJanuaryArticle] = useState<JanuaryMoreArticle | null>(null);
+  const [selectedMoreArticleUrl, setSelectedMoreArticleUrl] = useState<string | null>(null);
+  const [jumpToPublication, setJumpToPublication] = useState(false);
+  const januaryArticleFor = (key: MoreReadingKey) => allMoreArticles.find((article) => article.key === key);
+  const periodKeyForArticle = (article: JanuaryMoreArticle) => article.date.slice(0, 7).replace(".", "");
+  const periodKeyForTopic = (topic: MoreReadingTopic) => topic.date.slice(0, 7).replace(".", "");
+  const periodLabel = (periodKey: string | null) => periodKey ? `${periodKey.slice(0, 4)}年${periodKey.slice(4)}月` : "";
+  const periodTopics = selectedMorePeriodKey ? moreReadingTopics.filter((topic) => periodKeyForTopic(topic) === selectedMorePeriodKey) : [];
+  const availableMorePeriods = Array.from(new Set(moreReadingTopics.map(periodKeyForTopic))).sort();
+  const featureArticleFor = (article: JanuaryMoreArticle): InquireFeatureArticle => ({
+    title: article.title,
+    byline: article.byline,
+    dek: "",
+    eyebrow: `EXTERNAL READING · ${article.date}`,
+    paragraphs: article.paragraphs,
+  });
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
+    const moreKey = params.get("more");
+    const moreTopic = moreReadingTopics.find((topic) => topic.key === moreKey);
+    const requestedPeriod = moreKey && /^2026(?:0[1-9]|1[0-2])$/.test(moreKey) ? moreKey : moreTopic ? periodKeyForTopic(moreTopic) : null;
+    if (params.get("open") === "inquire" && requestedPeriod) {
+      setSelectedMorePeriod(true);
+      setSelectedMorePeriodKey(requestedPeriod);
+      if (moreTopic) {
+        const moreArticle = januaryArticleFor(moreTopic.key);
+        if (moreArticle) {
+          setSelectedJanuaryArticle(moreArticle);
+          setSelectedMoreArticle(featureArticleFor(moreArticle));
+          setSelectedMoreArticleUrl(moreTopic.url ?? null);
+        }
+      }
+      setJumpToPublication(true);
+      return;
+    }
     if (params.get("open") === "inquire" && params.get("task") === "travel") {
       setSelected(8);
       setSelectedQuestion(1);
@@ -833,9 +894,9 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
   const questions = inquirySets[selected] ?? [];
   const activeQuestion = selectedQuestion === null ? null : questions[selectedQuestion];
   const selectedResourceData = selectedResource === null ? undefined : activeQuestion?.resources[selectedResource];
-  const isTaylorArticle = selected === 0 && selectedQuestion === 0 && selectedResource === 0;
-  const isCommencementArticle = selected === 0 && selectedQuestion === 0 && selectedResource === 1;
-  const selectedFeatureArticle: InquireFeatureArticle | undefined = selected === 0 && selectedQuestion === 1 && selectedResource === 0
+  const isTaylorArticle = !selectedMoreArticle && selected === 0 && selectedQuestion === 0 && selectedResource === 0;
+  const isCommencementArticle = !selectedMoreArticle && selected === 0 && selectedQuestion === 0 && selectedResource === 1;
+  const mappedFeatureArticle: InquireFeatureArticle | undefined = selected === 0 && selectedQuestion === 1 && selectedResource === 0
     ? individualismArticle
     : selected === 0 && selectedQuestion === 2 && selectedResource === 0
       ? harvardArticle
@@ -904,8 +965,65 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
                                 : selected === 7 && selectedQuestion === 0 && selectedResource === 1
                                   ? foxEyeArticle
                                 : undefined;
+  const selectedFeatureArticle = selectedMorePeriod ? selectedMoreArticle : (selectedMoreArticle ?? mappedFeatureArticle);
+  const clearMoreReading = () => {
+    setSelectedMorePeriod(false);
+    setSelectedMorePeriodKey(null);
+    setSelectedMoreArticle(null);
+    setSelectedJanuaryArticle(null);
+    setSelectedMoreArticleUrl(null);
+    const url = new URL(window.location.href);
+    if (url.searchParams.has("more")) {
+      url.searchParams.delete("more");
+      window.history.replaceState({}, "", url.toString());
+    }
+  };
+  const openMorePeriod = (periodKey = "202601") => {
+    setSelectedMorePeriod(true);
+    setSelectedMorePeriodKey(periodKey);
+    setSelectedResource(null);
+    setSelectedMoreArticle(null);
+    setSelectedJanuaryArticle(null);
+    setSelectedMoreArticleUrl(null);
+    const url = new URL(window.location.href);
+    url.searchParams.set("open", "inquire");
+    url.searchParams.set("more", periodKey);
+    window.history.replaceState({}, "", url.toString());
+    setJumpToPublication(true);
+  };
+  const backToMorePeriod = () => {
+    setSelectedMoreArticle(null);
+    setSelectedJanuaryArticle(null);
+    setSelectedMoreArticleUrl(null);
+    const url = new URL(window.location.href);
+    url.searchParams.set("open", "inquire");
+    url.searchParams.set("more", selectedMorePeriodKey ?? "202601");
+    window.history.replaceState({}, "", url.toString());
+  };
+  const openMoreReading = (topic: MoreReadingTopic) => {
+    const moreArticle = januaryArticleFor(topic.key);
+    if (!moreArticle) return;
+    setSelectedMorePeriod(true);
+    setSelectedMorePeriodKey(periodKeyForTopic(topic));
+    setSelectedJanuaryArticle(moreArticle);
+    setSelectedMoreArticle(featureArticleFor(moreArticle));
+    setSelectedMoreArticleUrl(topic.url ?? null);
+    const url = new URL(window.location.href);
+    url.searchParams.set("open", "inquire");
+    url.searchParams.set("more", topic.key);
+    window.history.replaceState({}, "", url.toString());
+    setJumpToPublication(true);
+  };
+  useEffect(() => {
+    if (!jumpToPublication) return;
+    const frame = window.requestAnimationFrame(() => {
+      document.getElementById("inquire-reading")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      setJumpToPublication(false);
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [jumpToPublication]);
   const isCommencementStyle = isTaylorArticle || isCommencementArticle || Boolean(selectedFeatureArticle);
-  const opensPublication = Boolean(selectedResourceData && !selectedResourceData.referenceOnly && (isTaylorArticle || selectedFeatureArticle || isTaskTopic || !["YouTube", "TED Talk", "TV series", "Film"].includes(selectedResourceData.source)));
+  const opensPublication = Boolean(selectedMorePeriod || (selectedResourceData && !selectedResourceData.referenceOnly && (isTaylorArticle || selectedFeatureArticle || isTaskTopic || !["YouTube", "TED Talk", "TV series", "Film"].includes(selectedResourceData.source))));
   const resourceImages: Record<string, string> = {
     "0-0-0": "https://assets.negentropylearning.com.cn/media/inquire-taylor.png", "0-0-1": "https://assets.negentropylearning.com.cn/media/inquire-clock.png", "0-1-0": "https://assets.negentropylearning.com.cn/media/inquire-individualism.png", "0-2-0": "https://assets.negentropylearning.com.cn/media/inquire-harvard.png", "0-2-1": "https://assets.negentropylearning.com.cn/media/inquire-columbia.png",
     "1-0-0": "https://assets.negentropylearning.com.cn/media/inquire-deepseek.png", "1-1-0": "https://assets.negentropylearning.com.cn/media/inquire-gulliver.png", "1-1-1": "https://assets.negentropylearning.com.cn/media/inquire-cybertruck.png", "1-2-0": "https://assets.negentropylearning.com.cn/media/inquire-ai.png", "1-2-1": "https://assets.negentropylearning.com.cn/media/inquire-dictionary.png",
@@ -930,12 +1048,20 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
   };
 
   return (
-    <main className="inquire-page">
+    <main className={`inquire-page${selectedMorePeriod ? " is-more-page" : ""}`}>
       <Header view="guide" onNavigate={onNavigate} onHome={onHome} />
-      <section className="inquire-picker" aria-labelledby="inquire-picker-title">
+      {!selectedMorePeriod && <section className="inquire-picker" aria-labelledby="inquire-picker-title">
         <div className="inquire-picker-label">
           <p className="eyebrow" id="inquire-picker-title">SUPPLEMENTARY READING</p>
           <span>{activeQuestion ? `Resources for the selected ${isTaskTopic ? "task" : "question"}.` : `Choose a ${isTaskTopic ? "task" : "discussion question"} to reveal resources.`}</span>
+          <div className="inquire-more-inline">
+            <p className="eyebrow">MORE</p>
+            <div className="inquire-more-period-links" aria-label="More monthly external reading archives">
+              {availableMorePeriods.map((periodKey) => <button type="button" className="inquire-more-period-link" key={periodKey} onClick={() => openMorePeriod(periodKey)}>
+                <strong>{periodKey}</strong>
+              </button>)}
+            </div>
+          </div>
         </div>
         <div className={`inquire-materials${selected === 7 && selectedQuestion === 1 ? " is-eight-task-two" : ""}${selected === 9 && selectedQuestion === 2 ? " is-climate-2x2" : ""}`} aria-live="polite" aria-label="Supplementary reading resources">
           {activeQuestion?.resources.map((resource, index) => {
@@ -943,22 +1069,34 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
             const isBookCover = (selected === 5 && (selectedQuestion === 0 || selectedQuestion === 1)) || (selected === 6 && selectedQuestion === 2) || (selected === 7 && selectedQuestion === 1 && index === 0) || (selected === 9 && selectedQuestion === 0) || (selected === 9 && selectedQuestion === 1 && index === 0) || (selected === 9 && selectedQuestion === 2 && (index === 0 || index === 2));
             const isWideBookCover = (selected === 9 && selectedQuestion === 0 && index === 1) || (selected === 9 && selectedQuestion === 1 && (index === 1 || index === 2)) || (selected === 9 && selectedQuestion === 2 && (index === 1 || index === 3));
             const thumbnail = image ? <img className={`inquire-resource-image${isBookCover ? " is-book-cover" : ""}${isWideBookCover ? " is-wide-book-cover" : ""}`} src={image} alt={isBookCover ? `Cover of ${resource.title}` : ""} /> : <span className="inquire-resource-image is-placeholder" aria-hidden="true" />;
-            return <button type="button" className={`inquire-external-card${selectedResource === index ? " is-selected" : ""}`} aria-pressed={selectedResource === index} onClick={() => setSelectedResource(index)} key={resource.title}>{thumbnail}<span>EXTERNAL {String(index + 1).padStart(2, "0")}</span><strong>{resource.title}</strong><em>{resource.source}</em></button>;
+            return <button type="button" className={`inquire-external-card${selectedResource === index ? " is-selected" : ""}`} aria-pressed={selectedResource === index} onClick={() => { clearMoreReading(); setSelectedResource(index); }} key={resource.title}>{thumbnail}<span>EXTERNAL {String(index + 1).padStart(2, "0")}</span><strong>{resource.title}</strong><em>{resource.source}</em></button>;
           })}
           {activeQuestion && !activeQuestion.resources.length && <p className="inquire-empty-materials">No supplementary reading has been assigned to this {isTaskTopic ? "task" : "question"} yet.</p>}
           {!activeQuestion && <p className="inquire-empty-materials">Select a {isTaskTopic ? "task" : "question"} on the right to reveal its supplementary readings.</p>}
         </div>
-      </section>
+      </section>}
 
-      <section className="inquire-workspace" aria-label="Inquire Lab workspace">
-        <aside className="inquire-path" aria-label="Archive articles">
+      <section className={`inquire-workspace${selectedMorePeriod ? " is-more-publication" : ""}`} aria-label={selectedMorePeriod ? "More external reading" : "Inquire Lab workspace"}>
+        {selectedMorePeriod && <aside className="inquire-more-periods" aria-label={`${periodLabel(selectedMorePeriodKey)}外刊导航`}>
+          <button type="button" className="inquire-more-nav-back" onClick={clearMoreReading}>← BACK TO SUPPLEMENTARY READING</button>
+          <p className="eyebrow">{selectedMorePeriodKey}</p>
+          <ol>
+            {periodTopics.map((topic) => <li key={topic.key} className={selectedJanuaryArticle?.key === topic.key ? "is-current" : undefined}>
+              <button type="button" onClick={() => openMoreReading(topic)}>
+                <strong>{topic.date}</strong>
+                <span>{topic.en}</span>
+              </button>
+            </li>)}
+          </ol>
+        </aside>}
+        {!selectedMorePeriod && <aside className="inquire-path" aria-label="Archive articles">
           <p className="eyebrow">THE READING PATH</p>
           <ol>
-            {articles.map((article, index) => <li key={article.number} className={selected === index ? "is-current" : ""}><button onClick={() => { setSelected(index); setSelectedQuestion(null); setSelectedResource(null); }}><span>{article.number}</span><strong>{article.theme}</strong><em>{article.title}</em></button></li>)}
+            {articles.map((article, index) => <li key={article.number} className={selected === index ? "is-current" : ""}><button onClick={() => { clearMoreReading(); setSelected(index); setSelectedQuestion(null); setSelectedResource(null); }}><span>{article.number}</span><strong>{article.theme}</strong><em>{article.title}</em></button></li>)}
           </ol>
-        </aside>
+        </aside>}
 
-        <aside className={`inquire-prompts${opensPublication ? " is-reading-publication" : ""}${isCommencementStyle ? " is-commencement-article" : ""}`} aria-labelledby="prompt-title">
+        <aside id="inquire-reading" className={`inquire-prompts${opensPublication ? " is-reading-publication" : ""}${isCommencementStyle ? " is-commencement-article" : ""}`} aria-labelledby="prompt-title">
           {opensPublication ? (
             <article className={`inquire-publication${isCommencementStyle ? " is-commencement-style" : ""}`}>
               {isTaylorArticle ? <>
@@ -972,11 +1110,23 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
                 <p className="inquire-publication-byline">{commencementArticle.byline}</p>
                 <p className="inquire-publication-dek">{commencementArticle.dek}</p>
                 <BrooksVocabularyArticleBody paragraphs={commencementArticle.paragraphs} />
+              </> : selectedMorePeriod && !selectedFeatureArticle ? <>
+                <p className="eyebrow">MORE EXTERNAL READINGS</p>
+                <h1>{selectedMorePeriodKey}</h1>
+                <div className="inquire-more-topics" aria-label={`${periodLabel(selectedMorePeriodKey)}外刊文章`}>
+                  {periodTopics.map((topic) => <button type="button" className="inquire-more-topic" key={topic.key} onClick={() => openMoreReading(topic)}>
+                    <small>{topic.en}</small>
+                    <time dateTime={topic.date}>{topic.date}</time>
+                    <strong>{topic.articleEn}</strong>
+                    <em lang="zh-CN">{topic.articleZh}</em>
+                  </button>)}
+                </div>
               </> : selectedFeatureArticle ? <>
+                {selectedMorePeriod && <button type="button" className="inquire-more-back" onClick={backToMorePeriod}>← {selectedMorePeriodKey}</button>}
                 <p className="eyebrow">{selectedFeatureArticle.eyebrow}</p>
-                <h1><a href={selectedResourceData?.url} target="_blank" rel="noreferrer">{selectedFeatureArticle.title}</a></h1>
+                <h1><a href={selectedMoreArticleUrl ?? selectedResourceData?.url} target="_blank" rel="noreferrer">{selectedFeatureArticle.title}</a></h1>
                 <p className="inquire-publication-byline">{selectedFeatureArticle.byline}</p>
-                {selectedFeatureArticle === h1bVisaArticle ? <H1BVisaArticleBody article={selectedFeatureArticle} /> : selectedFeatureArticle === chinaClimateLeaderArticle ? <ChinaClimateVocabularyArticleBody /> : selectedFeatureArticle === foxEyeArticle ? <FoxEyeVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === caseAgainstTravelArticle ? <CaseAgainstTravelVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === hanKangArticle ? <HanKangVocabularyArticleBody paragraphs={[selectedFeatureArticle.dek, ...selectedFeatureArticle.paragraphs]} /> : selectedFeatureArticle === orientalismArticle ? <OrientalismVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === livingCityArticle ? <LivingCityArticleBody article={selectedFeatureArticle} /> : selectedFeatureArticle === loveJointArticle ? <LoveJointVocabularyArticleBody /> : selectedFeatureArticle === healthyUnhealthyLoveArticle ? <HealthyLoveVocabularyArticleBody /> : selectedFeatureArticle === gaslightArticle ? <GaslightVocabularyArticleBody /> : selectedFeatureArticle === catLadiesArticle ? <CatLadiesVocabularyArticleBody /> : selectedFeatureArticle === stereotypesArticle ? <StereotypesVocabularyArticleBody /> : selectedFeatureArticle === diversityArticle ? <DiversityVocabularyArticleBody /> : selectedFeatureArticle === womenLeadersArticle ? <WomenLeadersVocabularyArticleBody /> : selectedFeatureArticle === raiseABullyArticle ? <RaiseABullyVocabularyArticleBody /> : selectedFeatureArticle === parentifiedChildArticle ? <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}<ParentifiedChildVocabularyArticleBody /></> : selectedFeatureArticle === dictionaryArticle ? <DictionaryVocabularyArticleBody /> : selectedFeatureArticle === aiMathArticle ? <AiMathVocabularyArticleBody /> : selectedFeatureArticle === carHandlesArticle ? <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}<CarHandlesVocabularyArticleBody /></> : selectedFeatureArticle === deepSeekArticle ? <DeepSeekVocabularyArticleBody /> : selectedFeatureArticle === columbiaArticle ? <ColumbiaVocabularyArticleBody /> : selectedFeatureArticle === harvardArticle ? <HarvardVocabularyArticleBody dek={selectedFeatureArticle.dek} /> : <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}{selectedFeatureArticle === individualismArticle ? <CrawfordVocabularyArticleBody /> : selectedFeatureArticle === slateArticle ? <SlateVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === readingIsAViceArticle ? <ViceVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === liZiqiArticle ? <LiZiqiVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === tokyoArticle ? <TokyoVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} sectionHeadings={selectedFeatureArticle.sectionHeadings} /> : <div className="inquire-publication-body">{selectedFeatureArticle.paragraphs.map((paragraph, paragraphIndex) => selectedFeatureArticle.sectionHeadings?.includes(paragraph)
+                {selectedJanuaryArticle ? <JanuaryExternalArticleBody article={selectedJanuaryArticle} /> : selectedFeatureArticle === h1bVisaArticle ? <H1BVisaArticleBody article={selectedFeatureArticle} /> : selectedFeatureArticle === chinaClimateLeaderArticle ? <ChinaClimateVocabularyArticleBody /> : selectedFeatureArticle === foxEyeArticle ? <FoxEyeVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === caseAgainstTravelArticle ? <CaseAgainstTravelVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === hanKangArticle ? <HanKangVocabularyArticleBody paragraphs={[selectedFeatureArticle.dek, ...selectedFeatureArticle.paragraphs]} /> : selectedFeatureArticle === orientalismArticle ? <OrientalismVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === livingCityArticle ? <LivingCityArticleBody article={selectedFeatureArticle} /> : selectedFeatureArticle === loveJointArticle ? <LoveJointVocabularyArticleBody /> : selectedFeatureArticle === healthyUnhealthyLoveArticle ? <HealthyLoveVocabularyArticleBody /> : selectedFeatureArticle === gaslightArticle ? <GaslightVocabularyArticleBody /> : selectedFeatureArticle === catLadiesArticle ? <CatLadiesVocabularyArticleBody /> : selectedFeatureArticle === stereotypesArticle ? <StereotypesVocabularyArticleBody /> : selectedFeatureArticle === diversityArticle ? <DiversityVocabularyArticleBody /> : selectedFeatureArticle === womenLeadersArticle ? <WomenLeadersVocabularyArticleBody /> : selectedFeatureArticle === raiseABullyArticle ? <RaiseABullyVocabularyArticleBody /> : selectedFeatureArticle === parentifiedChildArticle ? <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}<ParentifiedChildVocabularyArticleBody /></> : selectedFeatureArticle === dictionaryArticle ? <DictionaryVocabularyArticleBody /> : selectedFeatureArticle === aiMathArticle ? <AiMathVocabularyArticleBody /> : selectedFeatureArticle === carHandlesArticle ? <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}<CarHandlesVocabularyArticleBody /></> : selectedFeatureArticle === deepSeekArticle ? <DeepSeekVocabularyArticleBody /> : selectedFeatureArticle === columbiaArticle ? <ColumbiaVocabularyArticleBody /> : selectedFeatureArticle === harvardArticle ? <HarvardVocabularyArticleBody dek={selectedFeatureArticle.dek} /> : <>{selectedFeatureArticle.dek && <p className="inquire-publication-dek">{selectedFeatureArticle.dek}</p>}{selectedFeatureArticle === individualismArticle ? <CrawfordVocabularyArticleBody /> : selectedFeatureArticle === slateArticle ? <SlateVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === readingIsAViceArticle ? <ViceVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === liZiqiArticle ? <LiZiqiVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} /> : selectedFeatureArticle === tokyoArticle ? <TokyoVocabularyArticleBody paragraphs={selectedFeatureArticle.paragraphs} sectionHeadings={selectedFeatureArticle.sectionHeadings} /> : <div className="inquire-publication-body">{selectedFeatureArticle.paragraphs.map((paragraph, paragraphIndex) => selectedFeatureArticle.sectionHeadings?.includes(paragraph)
                   ? <Fragment key={paragraphIndex}><h2 className="inquire-publication-section-title">{paragraph}</h2>{selectedFeatureArticle.paragraphTranslations?.[paragraphIndex] && <details className="supplementary-translation"><summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary><p lang="zh-CN">{selectedFeatureArticle.paragraphTranslations[paragraphIndex]}</p></details>}</Fragment>
                   : <Fragment key={paragraphIndex}><p className={selectedFeatureArticle.quoteParagraphIndexes?.includes(paragraphIndex) ? "inquire-publication-quote" : undefined}>{paragraph}</p>{selectedFeatureArticle.paragraphTranslations?.[paragraphIndex] && <details className="supplementary-translation"><summary aria-label="展开或收起本段中文翻译" title="点击 ☞ 查看本段中文翻译"><span aria-hidden="true">☞</span></summary><p lang="zh-CN">{selectedFeatureArticle.paragraphTranslations[paragraphIndex]}</p></details>}</Fragment>)}</div>}</>}
               </> : <>
@@ -987,17 +1137,184 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
             </article>
           ) : <>
             <p className="eyebrow" id="prompt-title">{isTaskTopic ? "TASKS" : "GUIDING QUESTIONS"}</p>
-            {questions.map((question, index) => <button className={`inquire-question${selectedQuestion === index ? " is-selected" : ""}`} key={question.en} onClick={() => { setSelectedQuestion(index); setSelectedResource(null); }}><span>{isTaskTopic ? `0${index + 1}` : String(index + 1).padStart(2, "0")}</span><div><h2>{question.en}</h2><p className="inquire-question-translation">{question.zh}</p>{question.details && <ul className="inquire-task-details">{question.details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}</div></button>)}
-            <div className="inquire-upload-note">
-              <p className="eyebrow">HOW IT WORKS</p>
-              <p>{isTaskTopic ? "Choose a task to see its supporting readings and presentation prompts." : "Choose an archive article, then a discussion question. Its linked external readings will appear above."}</p>
-            </div>
+            {questions.map((question, index) => <button className={`inquire-question${selectedQuestion === index ? " is-selected" : ""}`} key={question.en} onClick={() => { clearMoreReading(); setSelectedQuestion(index); setSelectedResource(null); }}><span>{isTaskTopic ? `0${index + 1}` : String(index + 1).padStart(2, "0")}</span><div><h2>{question.en}</h2><p className="inquire-question-translation">{question.zh}</p>{question.details && <ul className="inquire-task-details">{question.details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}</div></button>)}
           </>}
         </aside>
       </section>
 
     </main>
   );
+}
+
+const januaryVocabularyZhByArticle: Record<string, Record<string, string>> = {
+  jan0104: { cryptic: "神秘的；晦涩难懂的", logline: "（影视）剧情梗概；宣传语", expository: "说明性的；阐释性的", elaborate: "详细说明；详述", epic: "史诗般的；宏大的", poignant: "令人心酸的；沉痛的", spawn: "引发；催生", franchise: "特许经营系列；系列品牌", inhabit: "居住于；存在于", reboot: "重启；重新启动", staunchly: "坚定地；坚决地", permeate: "渗透；遍及", morbid: "病态的；对死亡感兴趣的", evade: "逃避；躲避" },
+  jan0106: { cap: "达到上限；限制", aggressive: "激进的；雄心勃勃的", acquire: "收购；获得", "general-purpose": "通用的；多用途的", execute: "执行；实施", scoop: "抢先获得；搜罗", accelerate: "加速；促进", token: "（计算机）词元；令牌", integrate: "整合；融入", automation: "自动化", enterprise: "企业；公司" },
+  jan0107: { resolve: "解决；决定", tactically: "在战术上；策略性地", extract: "提取；使脱离", embassy: "大使馆", herald: "预示；宣布", amid: "在……之中；在……期间", legality: "合法性", rationale: "理由；理论依据", clandestine: "秘密的；暗中的", "narco-terrorist": "毒品恐怖分子", intelligence: "情报；情报信息", anonymity: "匿名；不具名", trafficking: "贩运；非法交易", congressional: "国会的" },
+  jan0108: { emulate: "仿效；努力赶上", exemplary: "模范的；可作榜样的", pinnacle: "顶峰；顶点", sew: "缝制；缝合", conformist: "墨守成规的人；循规蹈矩的", benevolent: "仁慈的；行善的", retreat: "退回；撤退", praiseworthy: "值得称赞的" },
+  jan0109: { optimal: "最佳的；最优的", civilian: "平民；文职人员", personnel: "人员；职员", unseasonably: "反常地；不合时令地", pathway: "途径；路径", whereabouts: "下落；行踪", patio: "露台；庭院", operator: "操作人员；特工", cabinet: "内阁", aide: "助手；副官", whisk: "迅速带走；快速移动", swath: "长条区域；大片", fortify: "加固；加强防御", shroud: "遮蔽；笼罩" },
+  jan0112: { scrutiny: "仔细审查；细查", memo: "备忘录", fatal: "致命的", imminent: "迫在眉睫的；即将发生的", deportation: "驱逐出境", undocumented: "无合法证件的", subsidiary: "附属的；子公司的", encompass: "包含；涵盖", detain: "拘留；扣押", harassment: "骚扰；侵扰", leniency: "宽大；仁慈", "non-partisan": "无党派的", hindsight: "事后之见" },
+  jan0113: { misconception: "误解；错误看法", cortex: "大脑皮层", deficit: "缺陷；不足", hyperactivity: "活动过度；多动", disciplined: "自律的；训练有素的", lid: "盖子；限制", dopamine: "多巴胺", executive: "执行的；行政的", underlying: "潜在的；根本的", norepinephrine: "去甲肾上腺素" },
+  jan0114: { oust: "驱逐；罢黜", setback: "挫折；阻碍", crude: "原油；粗制的", creditor: "债权人", sanction: "制裁；批准", forge: "建立；伪造", recalibrate: "重新调整；重新校准", ironclad: "牢不可破的；坚固的", template: "模板；范例", breakaway: "脱离的；分离的", top: "超过；高于", upgrade: "提升；升级", lender: "贷款方；出借人" },
+  jan0115: { trove: "宝库；大量珍贵物品", licensed: "获官方许可的", animated: "动画的；活跃的", franchise: "特许经营系列", hit: "热门作品；成功之作", scramble: "争抢；仓促完成", underway: "正在进行的", mural: "壁画", agility: "敏捷性；灵活性", avatar: "化身；虚拟形象", supercharge: "使更强大；增强", consolidate: "合并；巩固", premium: "高端的；优质的", portfolio: "作品集；产品组合" },
+  jan0116: { cripple: "严重损害；削弱", buffer: "缓冲；缓冲物", plunder: "掠夺；抢劫", consultancy: "咨询公司", rivalry: "竞争；对抗", address: "处理；应对", revive: "恢复；重新振兴", hostile: "敌对的；怀有敌意的", incursion: "入侵；侵犯", heighten: "加剧；提高", wobble: "摇摆；动摇", havoc: "严重破坏；混乱", aggression: "侵略；敌对行为" },
+  jan0119: { assertion: "断言；主张", "dog-eat-dog": "竞争残酷的；损人利己的", governing: "统治的；治理的", bluster: "虚张声势；咄咄逼人", monologue: "独白；长篇讲话", vicious: "恶毒的；残酷的", converge: "汇聚；趋于一致", portray: "描绘；刻画", dominate: "支配；控制", bully: "恐吓；欺凌", toothless: "无权威的；不起作用的" },
+  jan0120: { enlist: "争取（帮助、支持）", bin: "储物箱；垃圾箱", stack: "整齐堆放；一摞", fib: "说小谎" },
+  jan0121: { obsess: "使痴迷；使念念不忘", harshness: "严酷；严厉", malaise: "不适；萎靡不振；隐忧", perilous: "危险的；充满风险的", combatant: "参战者；战斗人员", morgue: "太平间；停尸房", eliminate: "消除；淘汰", migrate: "迁徙；转移", agitprop: "宣传鼓动；政治宣传", cast: "把……描绘成", shorthand: "速记；简略说法", resonate: "引起共鸣", edgy: "前卫刺激的；尖锐的" },
+  jan0122: { unfold: "逐渐发生；展开", crackdown: "严厉打击；镇压", spark: "引发；触发", ammunition: "弹药；军火", custody: "拘留；监护权", intervene: "介入；干预", degrade: "使恶化；降低", compound: "加重；使恶化", bazaar: "集市；市场", project: "投射；规划；项目", conduct: "开展；实施；举止", precedent: "先例", momentum: "势头；动力" },
+  jan0123: { fade: "逐渐消失；褪色", aphorism: "格言；警句", partially: "部分地；不完全地", exempt: "免除；豁免", asymmetrically: "不对称地；不均衡地", accommodate: "迁就；容纳", rigour: "严谨；严格", compliance: "顺从；遵守", greengrocer: "果蔬商；果蔬店店主", rupture: "破裂；决裂", persist: "继续存在；坚持", ritual: "仪式；例行公事", coercion: "胁迫；强制", illusion: "幻觉；错觉" },
+  jan0126: { novella: "中篇小说", exploitation: "利用；开发；开采", grime: "污垢；积垢", "ripple effect": "连锁反应", relish: "享受；乐于", expendable: "可牺牲的；可消耗的", heady: "令人陶醉的；令人激动的", enchant: "使陶醉；使着迷", surreal: "超现实的；梦幻般的", trestle: "支架；栈桥", redemption: "救赎；拯救", intricately: "错综复杂地", "up-close": "近距离地；在近处" },
+  jan0127: { surplus: "盈余；过剩", tropical: "热带的", lure: "吸引；诱惑", importer: "进口商", signal: "表明；标志", tariff: "关税", dairy: "乳制品；奶牛场", vow: "发誓；郑重宣布", dogma: "教条；信条", trumpet: "大力宣传；吹捧", safeguard: "保护；防护措施", unrivaled: "无与伦比的", alter: "改变；修改", gargantuan: "巨大无比的" },
+  jan0128: { verifiable: "可验证的", signature: "标志性的；签名的", spontaneously: "自发地；自然地", "fed up": "厌烦；受够了", gullibility: "轻信；易受骗", materialize: "实现；发生", breakout: "一炮走红的；突破性的", malicious: "恶意的；恶毒的", egregious: "极坏的；令人震惊的", credential: "凭据；身份认证信息" },
+  jan0129: { fawn: "讨好；奉承", spontaneously: "自发地；不由自主地", epidemic: "（问题的）泛滥；流行", combust: "燃烧；点燃", reclaim: "收回；重新获得", dedication: "献词；奉献；投入", detached: "冷漠的；超然的", "stand-offish": "冷淡的；疏远的", blazing: "极其强烈的；怒不可遏的", resentment: "怨恨；不满", volatile: "易变的；不稳定的", ruminate: "反复思考；沉思", patronise: "以高人一等的态度对待", articulate: "清晰表达；阐明" },
+  jan0130: { purge: "清洗；清除异己", spur: "激励；刺激", succession: "继任；继承", probe: "探查；深入调查", watcher: "观察者；观察家", ally: "盟友；支持者", stunning: "令人震惊的；极不寻常的", implication: "可能的影响；含义", turmoil: "混乱；动荡", sworn: "宣誓的；不共戴天的", sibling: "兄弟姐妹", oust: "罢免；驱逐", downfall: "垮台；衰败", stark: "严酷的；赤裸裸的" },
+};
+
+const januaryOptionMeanings: Record<string, readonly string[]> = {
+  jan0104: ["密谋；阴谋", "一小块土地", "小说情节", "菜地；地块"],
+  jan0106: ["刮去鳞片", "给牙齿洁治", "攀登；爬上", "扩大（生产规模）"],
+  jan0107: ["病情危重的", "至关重要的", "批判性的；分析性的", "批评；指责"],
+  jan0108: ["退回到", "（价格）回落", "撤退", "退潮"],
+  jan0109: ["抚养权", "监护权；抚养权", "共同监护权", "警方羁押"],
+  jan0112: ["代理者；促进者", "清洁剂", "特工；探员", "经纪人"],
+  jan0113: ["缺陷；不足", "贸易逆差", "落后分数", "亏损"],
+  jan0114: ["曝光；公众关注", "海外风险敞口", "暴露于阳光", "接触；了解"],
+  jan0115: ["直线式的", "线性关系", "线性叙事", "线性电视渠道"],
+  jan0116: ["缓冲器", "老家伙", "缓冲区；缓冲存储", "缓冲储备"],
+  jan0119: ["与……衔接", "（骨骼）连接", "清晰发音；表达", "清晰阐述"],
+  jan0120: ["一段楼梯", "逃离", "长途航班途中", "航班"],
+  jan0121: ["消灭；清除", "消除（需要）", "淘汰", "排除（嫌疑）"],
+  jan0122: ["带领参观", "指挥；演奏", "开展（行动）", "举止；行事"],
+  jan0123: ["容纳（博物馆）", "容纳乘客", "迁就媒体", "迁就；适应（意见）"],
+  jan0126: ["提交（账目）", "演奏；呈现", "使……无法通行", "渲染（图像）"],
+  jan0127: ["抛弃", "抛弃（未婚夫）", "逃课", "挖沟；开沟"],
+  jan0128: ["房地产经纪人", "清洁剂", "特工", "人工智能体"],
+  jan0129: ["奉献；投入", "题词；献词", "全心投入", "献礼；落成典礼"],
+  jan0130: ["宣誓效忠的盟友", "死敌", "世代死敌", "不共戴天的竞争对手"],
+};
+
+const januaryTranslationPromptOverrides: Record<string, string> = {
+  jan0104: "这不禁让人回想起那句看似荒诞却异常精准的宣传语：“地球上最痛苦的人，必须将世界从‘幸福’中拯救出来。”",
+  jan0106: "Manus AI 最初在中国创立，后迁至新加坡。今年早些时候，该公司推出首款通用智能体，可执行市场调研、代码编写、数据分析等复杂任务。",
+  jan0107: "去年8月，一支由中央情报局官员组成的秘密小组潜入委内瑞拉，任务是搜集该国总统尼古拉斯·马杜罗的情报。特朗普政府此前已将他定性为“毒品恐怖分子”。",
+  jan0108: "当王尔德写下这些文字的时候，文学文化正处在浪漫个人主义的顶峰。在那种文化中，成为他人是错误的：这样做是对真实自我的背叛。人们深信，我们每个人都拥有一个独特且独立的身份，它被紧密地编织在我们存在的经纬当中。",
+  jan0109: "特朗普最早在12月25日就批准美军展开行动，但将具体时间交由五角大楼和特种作战规划人员决定，以确保部队状态最佳、地面条件合适。",
+  jan0112: "国土安全部在2023年发布的一份政策备忘录中指出，联邦执法人员“仅在必要情况下”方可使用致命武力，且须“合理认定相关对象对自身或他人构成迫在眉睫的死亡或严重人身伤害威胁”。",
+  jan0113: "众所周知，多巴胺与大脑的奖赏回路有关。患有注意力缺陷多动障碍（ADHD）的大脑会不断寻求最佳刺激，从而在参与特定活动时引发多巴胺的激增和奖赏感。",
+  jan0114: "美国突然将委内瑞拉总统尼古拉斯·马杜罗赶下台，这一举动重挫了中国在拉丁美洲的战略，也让中国扩大对该地区投资的计划变得更加复杂。",
+  jan0115: "争夺华纳兄弟控制权的战役，不仅关乎流媒体霸权与影院未来的争夺，更是场知识产权之战。派拉蒙与奈飞均认为，华纳庞大的片库及其众多系列IP能为其未来发展提供持久动力。",
+  jan0116: "美国总统唐纳德·特朗普表示，美国将“接管”委内瑞拉，由美国企业重建该国石油产业。该产业长期受到制裁、腐败和投资不足的拖累。",
+  jan0119: "洛克的思想是现代民主诞生的重要基石，他认为人具备理性与道德判断的能力；而霍布斯则认为，人类天性中充满残酷与冲突的冲动，需要依靠强大的君主加以约束，才能避免社会陷入混乱。一位领导人秉持洛克式还是霍布斯式的观点，实际上决定了他想要建立何种政府。",
+  jan0120: "当我开始着手帮助儿子变得更有条理时，我意识到通过让他参与寻找适合他的解决方案，来配合他那患有多动症的大脑是很重要的。",
+  jan0121: "尽管其真实性存疑，但他的描述将美国刻画得极为冷酷：在这里，一场车祸、一场疾病或是一次失业，任何一场不幸都可能让人彻底崩溃。",
+  jan0122: "分析人士指出，长期以来，政府治理不善与腐败问题积重难返，而去年9月，联合国因伊朗执意推进核武器计划对其重启制裁，进一步加速了伊朗经济的崩盘。",
+  jan0123: "还有另一个事实：如果大国为了不受阻碍地追求权力和利益而放弃规则和价值观的伪装，那么交易主义带来的收益将越来越难以复制。",
+  jan0126: "但在不断回旋于“联结”这一主题时，它暗示，救赎或许存在于互惠之中——正是我们最根本的相互依存，为我们提供了抗争的理由，也赋予了我们抗争的力量。",
+  jan0127: "在全球关税普遍上调、特朗普总统誓言终结数十年全球化进程的背景下，中国领导层正高调宣传一座热带岛屿，借此证明中国正朝相反方向前行。",
+  jan0128: "但如果将智能体定义为能够通过多步骤工具调用来完成实际工作的LLM系统，那么智能体已经出现，并且被证明极其有用。",
+  jan0129: "几年前，在接受那场改变人生的认知行为疗法前，我正是这般心境：为迁就身边所有人的情绪而身心俱疲，也彻底与真实的自我渐行渐远。",
+  jan0130: "一篇措辞尖锐的社论指责这两人“践踏了”一套“责任制”，而这套责任制正是确保X在统领世界上规模最大的常备军方面拥有权威的制度。",
+};
+
+const januaryVocabularyEnglishByArticle: Record<string, Record<string, string>> = {
+  jan0107: {
+    resolve: "To find a solution to a problem or make a firm decision.",
+    tactically: "In a way that relates to a particular strategy or plan.",
+    extract: "To remove or obtain something from a source.",
+    embassy: "The official offices and residence of an ambassador.",
+    herald: "To announce or signal that something is coming.",
+    amid: "In the middle of or surrounded by something.",
+    legality: "The quality or condition of being lawful.",
+    rationale: "The underlying reason or explanation for an action or idea.",
+    clandestine: "Kept secret; done secretly, especially because it is unauthorized.",
+    "narco-terrorist": "A person who uses drug trafficking to support terrorist activity.",
+    intelligence: "Information gathered about an enemy, place, or situation.",
+    anonymity: "The condition of being unknown or not identified by name.",
+    trafficking: "The illegal trade or movement of people or goods.",
+    congressional: "Relating to a national legislature or Congress."
+  },
+  jan0108: {
+    emulate: "To imitate or copy someone or something, usually as a model.",
+    exemplary: "Serving as an excellent example of a quality or behavior.",
+    pinnacle: "The highest point or most successful stage of something.",
+    sew: "To join or repair pieces of fabric with a needle and thread.",
+    conformist: "A person who follows established customs or opinions.",
+    benevolent: "Kind, generous, and concerned with other people's welfare.",
+    retreat: "To move back or withdraw from a place or situation.",
+    praiseworthy: "Deserving approval, admiration, or praise."
+  }
+};
+
+const januaryVocabularyIpaByArticle: Record<string, Record<string, string>> = {
+  jan0106: { cap: "/kæp/", aggressive: "/əˈɡresɪv/", acquire: "/əˈkwaɪər/", "general-purpose": "/ˌdʒenərəl ˈpɜːrpəs/", execute: "/ˈeksɪkjuːt/", scoop: "/skuːp/", accelerate: "/əkˈseləreɪt/", token: "/ˈtoʊkən/", integrate: "/ˈɪntəɡreɪt/", automation: "/ˌɔːtəˈmeɪʃən/", enterprise: "/ˈentərpraɪz/" },
+  jan0107: { resolve: "/rɪˈzɑːlv/", tactically: "/ˈtæktɪkli/", extract: "/ɪkˈstrækt/", embassy: "/ˈembəsi/", herald: "/ˈherəld/", amid: "/əˈmɪd/", legality: "/lɪˈɡæləti/", rationale: "/ˌræʃəˈnæl/", clandestine: "/klænˈdestɪn/", "narco-terrorist": "/ˌnɑːrkoʊ ˈterərɪst/", intelligence: "/ɪnˈtelɪdʒəns/", anonymity: "/ˌænəˈnɪməti/", trafficking: "/ˈtræfɪkɪŋ/", congressional: "/kənˈɡreʃənəl/" },
+  jan0108: { emulate: "/ˈemjuleɪt/", exemplary: "/ɪɡˈzempləri/", pinnacle: "/ˈpɪnəkəl/", sew: "/soʊ/", conformist: "/kənˈfɔːrmɪst/", benevolent: "/bəˈnevələnt/", retreat: "/rɪˈtriːt/", praiseworthy: "/ˈpreɪzwɜːrði/" }
+};
+
+function cleanJanuaryTranslationAnswer(value: string) {
+  return value
+    .replace(/-\s*\n\s*/g, "")
+    .replace(/\s*\n\s*/g, " ")
+    .replace(/\bifrst\b/g, "first")
+    .replace(/\boiffcers\b/g, "officers")
+    .replace(/\boiffcials\b/g, "officials")
+    .replace(/\bNetlfix\b/g, "Netflix")
+    .replace(/\bifnd\b/g, "find")
+    .replace(/\brelfections\b/g, "reflections")
+    .replace(/\bifght\b/g, "fight")
+    .replace(/\bdeifne\b/g, "define")
+    .replace(/\s{2,}/g, " ")
+    .replace(/([.!?])(?=[A-Z])/g, "$1 ")
+    .replace(/,([A-Za-z])/g, ", $1")
+    .trim();
+}
+
+function vocabularySurfacePattern(form: string) {
+  const escaped = form.replace(/[.*+?^${}()|[\[\]\\]/g, "\\$&");
+  if (!/^[A-Za-z][A-Za-z' -]*$/.test(form) || form.includes(" ")) return escaped;
+  const variants = new Set([escaped]);
+  if (form.endsWith("y")) variants.add(`${form.slice(0, -1)}(?:ies|ied)`);
+  variants.add(`${form}(?:s|es|ed|ing|ly)`);
+  if (form.endsWith("e")) variants.add(`${form.slice(0, -1)}(?:ed|ing)`);
+  if (/[bcdfghjklmnpqrstvwxyz]$/i.test(form)) variants.add(`${form}${form.slice(-1)}(?:ed|ing)`);
+  return `(?:${Array.from(variants).join("|")})`;
+}
+
+function JanuaryExternalArticleBody({ article }: { article: JanuaryMoreArticle }) {
+  const terms: VocabularyNoteTerm[] = article.vocabulary.map((term, index) => ({
+    key: `${article.key.replace(/[^A-Za-z0-9_$]/g, "_")}_${index}`,
+    pattern: vocabularySurfacePattern(term.form),
+    label: term.form,
+    pos: term.pos,
+    ipa: term.ipa || januaryVocabularyIpaByArticle[article.key]?.[term.form] || "",
+    definition: januaryVocabularyEnglishByArticle[article.key]?.[term.form] || (/^[A-Za-z]/.test(term.definition.trim()) ? term.definition : `A term used in this article to mean “${term.form}”.`),
+    zh: januaryVocabularyZhByArticle[article.key]?.[term.form] || term.zh || term.meaning,
+  }));
+  const translationAnswer = cleanJanuaryTranslationAnswer(article.answerTranslation.replace(/^[\s\S]*?3\.\s*/, "").trim() || article.answerText);
+  const translationPrompt = januaryTranslationPromptOverrides[article.key] || article.exerciseTranslationPrompt;
+  return <>
+    <VocabularyArticleBody paragraphs={article.paragraphs} terms={terms} idPrefix={`${article.key}-note`} paragraphTranslations={article.paragraphTranslations} />
+    <section className="january-exercises" aria-labelledby={`${article.key}-exercises-title`}>
+      <hr />
+      <h2 id={`${article.key}-exercises-title`}>Exercises</h2>
+      <section className="january-exercises-question">
+        <h3>1. Vocabulary in Context</h3>
+        {article.exerciseVocabularyPrompts.map((prompt, index) => <p key={`${article.key}-vocab-${index}`}><AnswerBlank answer={article.answerVocabularyList[index] || terms[index]?.label || "见参考答案"} label={`第 1 题第 ${index + 1} 空答案`} />: {prompt}</p>)}
+      </section>
+      <section className="january-exercises-question" data-choice-question>
+        <h3>2. Word Meaning in Context</h3>
+        <p>{article.exerciseChoicePrompt || "根据本期 PDF 习题完成词义辨析。"} <AnswerBlank answer={article.answerChoice || "见 PDF 参考答案"} label="第 2 题答案" variant="choice" /></p>
+        {article.exerciseOptions.length > 0 && <ol className="january-exercise-options" type="A">{article.exerciseOptions.map((option, optionIndex) => {
+          const optionMeaning = option.zh || januaryOptionMeanings[article.key]?.[optionIndex];
+          return <li key={option.label}>{option.text}{optionMeaning && <span className="january-option-meaning" lang="zh-CN">（{optionMeaning}）</span>}</li>;
+        })}</ol>}
+      </section>
+      <section className="january-exercises-question">
+        <h3>3. Translate into English</h3>
+        <p lang="zh-CN">{translationPrompt || "请根据本期文章内容完成翻译题。"}</p>
+        <AnswerBlank variant="translation" label="第 3 题参考译文" answer={translationAnswer} />
+      </section>
+    </section>
+  </>;
 }
 
 function SimplePage({ view, onNavigate, onHome }: { view: Exclude<View, "library" | "reading">; onNavigate: (view: View) => void; onHome: () => void }) {

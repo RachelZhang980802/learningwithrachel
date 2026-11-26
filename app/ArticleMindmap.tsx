@@ -4,6 +4,8 @@ import { useEffect, useRef, useState } from "react";
 
 /** Isolated mindmap surface. Article vocabulary, audio and analysis stay in their own modules. */
 export function ArticleMindmap({ articleId, title }: { articleId: string; title: string }) {
+  const isRobotMap = articleId === "02";
+  const revision = isRobotMap ? "article02-source-map" : "article02-evaluation-v2";
   const frameRef = useRef<HTMLIFrameElement>(null);
   const [worksheetHeight, setWorksheetHeight] = useState<number | null>(null);
   useEffect(() => {
@@ -27,10 +29,11 @@ export function ArticleMindmap({ articleId, title }: { articleId: string; title:
 
   return <iframe
     ref={frameRef}
-    key={`${articleId}-article02-evaluation-v2`}
-    src={`/mindmaps/index.html?article=${encodeURIComponent(articleId)}&rev=article02-evaluation-v2`}
+    key={`${articleId}-${revision}`}
+    className={isRobotMap ? "robot-map-frame" : undefined}
+    src={`/mindmaps/index.html?article=${encodeURIComponent(articleId)}&rev=${revision}`}
     title={`Mindmap — ${title}`}
     allow="fullscreen"
-    style={{ display: "block", width: "100%", height: worksheetHeight ?? "calc(100dvh - 64px)", minHeight: worksheetHeight === null ? 560 : 0, border: 0, background: "#eef1f3" }}
+    style={{ display: "block", width: "100%", height: isRobotMap ? 0 : worksheetHeight ?? "calc(100dvh - 64px)", minHeight: isRobotMap || worksheetHeight !== null ? 0 : 560, border: 0, background: "#eef1f3" }}
   />;
 }

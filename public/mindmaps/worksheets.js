@@ -19,6 +19,7 @@ export function renderWorksheet(host,data,source={}){
  cleanup();host.replaceChildren();
  const design=designs[data.id],figure=data.figure,gaps=[],panels=[],parts=[];
  const argument=figure.presentation==='argument';
+ const englishOnly=data.id==='02';
  const paper=make('article',`reading-atlas figure-atlas atlas-${design.pattern}${argument?' argument-atlas':''}`);
  paper.lang='en';paper.dataset.article=data.id;paper.dataset.pattern=design.pattern;
  design.palette.forEach((c,i)=>paper.style.setProperty(`--colour-${i+1}`,c));
@@ -33,8 +34,8 @@ export function renderWorksheet(host,data,source={}){
   chip.prepend(make('b',null,String(i+1).padStart(2,'0')));route.append(chip);
  });
  header.append(route);
- const toolbar=make('div','figure-toolbar'),progress=make('span','figure-progress'),reset=button('figure-action','重置');
- toolbar.append(make('span','figure-hint','10 个空格 · 点击空格显隐答案 · 点击分支标题查看中文'),progress,reset);
+ const toolbar=make('div','figure-toolbar'),progress=make('span','figure-progress'),reset=button('figure-action',englishOnly?'Reset':'重置');
+ toolbar.append(make('span','figure-hint',englishOnly?'10 blanks · click a blank to reveal the answer · use parent headings to hide or show the next layer':'10 个空格 · 点击空格显隐答案 · 点击分支标题查看中文'),progress,reset);
  header.append(toolbar);paper.append(header);
  const graph=make('div','figure-graph atlas-graph');graph.setAttribute('aria-label','Reading framework with clickable answer gaps');paper.append(graph);
  const status=make('span','screen-reader-only');status.setAttribute('role','status');
@@ -54,11 +55,11 @@ export function renderWorksheet(host,data,source={}){
  function zhLabel(cls,label){const el=make('span',cls,label);el.lang='zh-CN';return el;}
  function transition({cue,label}){
   const el=make('p','argument-transition');
-  el.append(make('i','argument-cue',cue),zhLabel('argument-label',label));return el;
+  el.append(make('i','argument-cue',cue),make('span','argument-label',label));return el;
  }
  function colour(el,n){el.style.setProperty('--node-colour',`var(--colour-${n})`);el.style.setProperty('--node-fill',`var(--fill-${n})`);el.dataset.colour=n;}
  function update(){progress.textContent=`${gaps.filter(g=>g.open).length} / ${gaps.length}`;reset.disabled=!gaps.some(g=>g.open)&&!panels.some(p=>!p.content.hidden);}
- function setGap(g,open){g.open=open;g.el.classList.toggle('is-revealed',open);g.el.setAttribute('aria-pressed',String(open));g.answer.setAttribute('aria-hidden',String(!open));g.el.setAttribute('aria-label',open?`收起第 ${g.number} 空答案：${g.value}`:`显示第 ${g.number} 空答案`);}
+ function setGap(g,open){g.open=open;g.el.classList.toggle('is-revealed',open);g.el.setAttribute('aria-pressed',String(open));g.answer.setAttribute('aria-hidden',String(!open));g.el.setAttribute('aria-label',open?`Hide answer ${g.number}: ${g.value}`:`Reveal answer ${g.number}`);}
  function fillText(host,text){
   const re=/\[\[([^\]]+)\]\]/g;let start=0,m;
   while((m=re.exec(text))){
@@ -82,16 +83,31 @@ export function renderWorksheet(host,data,source={}){
     const paragraphs = item.references.map(([paragraph]) => paragraph);
     li.append(make('span','figure-bullet-evidence',evidenceLabel({ paragraphs, references: item.references })));
    }
-   if (item.children) li.append(bullets(item.children));
+   if (item.children) {
+    const childList=bullets(item.children),toggle=button('figure-bullet-toggle','−');
+    toggle.setAttribute('aria-expanded','true');
+    toggle.setAttribute('aria-label','Hide child points');
+    const childId=`bullet-children-${gaps.length}-${Math.random().toString(36).slice(2)}`;
+    toggle.setAttribute('aria-controls',childId);childList.id=childId;
+    toggle.onclick=()=>{
+     const hidden=childList.hidden;
+     childList.hidden=!hidden;
+     toggle.textContent=hidden?'＋':'−';
+     toggle.setAttribute('aria-expanded',String(hidden));
+     toggle.setAttribute('aria-label',hidden?'Show child points':'Hide child points');
+    };
+    li.append(toggle,childList);
+   }
    if(item.related){
     const link=jumpLink('argument-related',item.related.label,item.related.target);
-    link.lang='zh-CN';li.append(link);
+    li.append(link);
    }
    ul.append(li);
   }
   return ul;
  }
  function attachTranslation(trigger,container,item){
+  if(englishOnly) return;
   const content=make('div','figure-translation');content.id=`${item.id}-zh`;content.hidden=true;
   const zh=make('p','figure-zh',item.zh);zh.lang='zh-CN';content.append(zh);
   const excerpt=make('details','atlas-original'),summary=make('summary',null,`查看对应原文 · ${evidenceLabel(item)}`),body=make('div');
@@ -127,8 +143,12 @@ export function renderWorksheet(host,data,source={}){
   if(!argument)title.append(make('span','branch-order',`${section+1}.${i+1}`));
   title.append(make('span',null,item.title));
   head.append(title);el.append(head);
-  const content=make('div','figure-node-content');content.append(make('span','branch-evidence',evidenceLabel(item)),bullets(item.bullets));el.append(content);
-  attachTranslation(title,el,item);return el;
+  const content=make('div','figure-node-content');content.id=`${item.id}-content`;content.append(make('span','branch-evidence',evidenceLabel(item)),bullets(item.bullets));el.append(content);
+  if(englishOnly && argument){
+   title.setAttribute('aria-expanded','true');title.setAttribute('aria-controls',content.id);
+   title.onclick=()=>{const hidden=content.hidden;content.hidden=!hidden;title.setAttribute('aria-expanded',String(hidden));};
+  }else attachTranslation(title,el,item);
+  return el;
  }
  figure.sections.forEach((section,i)=>{
   const part=make('section',`source-part layout-${section.layout}`);part.dataset.part=section.id;part.dataset.sourceIds=section.sourceIds.join(' ');colour(part,section.colour);
@@ -137,10 +157,16 @@ export function renderWorksheet(host,data,source={}){
   if(argument)anchor(part,section.id);
   const heading=make('header','source-part-heading');
   heading.append(make('span','part-number',argument?String(i+1).padStart(2,'0'):`PART ${String(i+1).padStart(2,'0')}`),make('h3',null,section.title));
-  if(section.label)heading.append(zhLabel('argument-stage-label',section.label));
+  if(section.label)heading.append(make('span','argument-stage-label',section.label));
   heading.append(make('span','part-evidence',evidenceLabel(section)));
-  part.append(heading);
-  const branchHost=make('div',`source-branches columns-${section.columns}`);part.append(branchHost);
+  const branchHost=make('div',`source-branches columns-${section.columns}`);branchHost.id=`${section.id}-branches`;
+  if(argument){
+   const toggle=button('figure-section-toggle','−');
+   toggle.setAttribute('aria-expanded','true');toggle.setAttribute('aria-controls',branchHost.id);toggle.setAttribute('aria-label','Hide this layer');
+   toggle.onclick=()=>{const hidden=branchHost.hidden;branchHost.hidden=!hidden;toggle.textContent=hidden?'＋':'−';toggle.setAttribute('aria-expanded',String(hidden));toggle.setAttribute('aria-label',hidden?'Show this layer':'Hide this layer');};
+   heading.append(toggle);
+  }
+  part.append(heading,branchHost);
   if(section.layout==='comparison'){
    branchHost.classList.add('source-comparison');
    const table=make('table','comparison-table');
@@ -153,12 +179,20 @@ export function renderWorksheet(host,data,source={}){
    for(const group of section.groups){
     const lane=make('section','argument-group');colour(lane,group.colour);
     const groupHeading=make('header','argument-group-heading');
-    groupHeading.append(make('h4',null,group.title),zhLabel('argument-label',group.label));lane.append(groupHeading);
+    groupHeading.append(make('h4',null,group.title),make('span','argument-label',group.label));
+    const groupBody=make('div','argument-group-body'),groupToggle=button('figure-group-toggle','−');
+    groupToggle.setAttribute('aria-expanded','true');groupToggle.setAttribute('aria-label','Hide this layer');
+    groupHeading.append(groupToggle);lane.append(groupHeading);
     for(const [j,item] of section.cards.entries()){
      if(!group.cards.includes(item.id))continue;
      if(item.transition)lane.append(transition(item.transition));
-     lane.append(card(item,j,i,true));
+     if(item.transition)groupBody.append(lane.lastElementChild);
+     groupBody.append(card(item,j,i,true));
     }
+    groupBody.id=`${section.id}-${group.title.toLowerCase().replace(/[^a-z0-9]+/g,'-')}`;
+    groupToggle.setAttribute('aria-controls',groupBody.id);
+    groupToggle.onclick=()=>{const hidden=groupBody.hidden;groupBody.hidden=!hidden;groupToggle.textContent=hidden?'＋':'−';groupToggle.setAttribute('aria-expanded',String(hidden));groupToggle.setAttribute('aria-label',hidden?'Show this layer':'Hide this layer');};
+    lane.append(groupBody);
     branchHost.append(lane);
    }
   }else section.cards.forEach((item,j)=>branchHost.append(card(item,j,i)));
@@ -167,7 +201,7 @@ export function renderWorksheet(host,data,source={}){
   if(svg)parts.push({part,heading,branchHost,svg,section});
  });
  reset.onclick=()=>{gaps.forEach(g=>setGap(g,false));panels.forEach(p=>{p.content.hidden=true;p.trigger.setAttribute('aria-expanded','false');p.container.classList.remove('is-selected');p.excerpt.open=false;});update();};
- const footer=make('footer','figure-footer'),sourceButton=button('figure-source','原始导图 ↗');
+ const footer=make('footer','figure-footer'),sourceButton=button('figure-source',englishOnly?'Source map ↗':'原始导图 ↗');
  sourceButton.onclick=()=>document.dispatchEvent(new CustomEvent('atlas-source-map'));
  footer.append(make('span',null,argument?'Phenomenon → PEEE → Conclusion':'主分支 → 子分支 → 要点 / 例证'),sourceButton);paper.append(footer,status);host.append(paper);update();
  if(!parts.length){cleanup=()=>{};return gaps.length;}

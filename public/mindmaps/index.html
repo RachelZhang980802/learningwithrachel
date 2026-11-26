@@ -3,4 +3,15 @@
 <nav class="source-nav" aria-label="Choose a map view" id="sources"><button type="button" id="worksheet-toggle" hidden>Reading atlas</button></nav>
 <div class="toolbar" role="toolbar" aria-label="导图工具"><button id="outline-toggle" aria-expanded="false" aria-controls="outline">☰ 分部</button><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" type="search" placeholder="搜索当前导图" aria-label="查找导图文字" autocomplete="off"><span id="search-count"></span><button id="search-next" aria-label="下一个匹配项" hidden>↓</button></label><div class="view-controls"><button id="zoom-out" aria-label="缩小">−</button><output id="zoom-level">100%</output><button id="zoom-in" aria-label="放大">＋</button><button id="fit">适应画布</button><button id="reset">1:1</button><button id="fullscreen" aria-label="全屏导图">⛶</button></div></div>
 <main class="workspace"><aside class="outline" id="outline"><div class="outline-heading"><span>CONTENTS</span><button id="expand-all">全部展开</button></div><div id="sections"></div><div class="outline-footer"><span id="node-count"></span></div></aside><section id="viewport" tabindex="0" aria-label="可缩放、拖动的思维导图画布"><div id="scene"></div><div id="worksheet" hidden></div><div class="minimap-wrap"><span>OVERVIEW</span><button id="minimap" aria-label="点击缩略图定位画布"></button></div><div id="empty" hidden></div><div class="canvas-help" id="canvas-help">拖动画布 · 双击放大 · ⌘ / Ctrl + 滚轮缩放</div><div class="canvas-label" id="canvas-label">INTERACTIVE MINDMAP</div></section><aside id="review" class="review" hidden><div class="review-heading"><div><span class="eyebrow">MAP NODE</span><h2>Node details</h2></div><button id="review-close" aria-label="Close node details">×</button></div><div id="selection" hidden></div></aside></main>
-<footer class="statusbar"><span>Learning with Rachel</span></footer><span id="status" class="screen-reader-only" role="status" aria-live="polite"></span><script src="app.js?v=article02-evaluation-v2" type="module"></script><script src="/western-culture/shared-footer.js" defer></script></body></html>
+<footer class="statusbar"><span>Learning with Rachel</span></footer><span id="status" class="screen-reader-only" role="status" aria-live="polite"></span>
+<script type="module">
+const article = new URLSearchParams(location.search).get("article")?.padStart(2, "0");
+if (article === "02") {
+  await import("./article02-map.js?v=source-map-2");
+} else {
+  await import("./app.js?v=article02-evaluation-v2");
+  const footer = document.createElement("script");
+  footer.src = "/western-culture/shared-footer.js";
+  document.body.append(footer);
+}
+</script></body></html>

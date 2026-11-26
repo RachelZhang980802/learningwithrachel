@@ -116,7 +116,7 @@ export function VocabularyArticleBody({ paragraphs, terms, idPrefix, leadParagra
     <span className="taylor-vocabulary-note-tape" aria-hidden="true" />
     <span className="taylor-vocabulary-note-heading"><strong>{openNote.term.label}</strong><span className="taylor-vocabulary-note-pos">{openNote.term.pos}</span>{openNote.term.ipa && <span>{openNote.term.ipa}</span>}</span>
     <button type="button" className="taylor-vocabulary-note-close" aria-label={`Close definition for ${openNote.term.label}`} onClick={() => setOpenNote(null)}>×</button>
-    <span className="taylor-vocabulary-note-definition">{openNote.term.definition}</span>
+    {openNote.term.definition && <span className="taylor-vocabulary-note-definition">{openNote.term.definition}</span>}
     <span className="taylor-vocabulary-note-translation">{openNote.term.zh}</span>
   </span>}</div>;
 }

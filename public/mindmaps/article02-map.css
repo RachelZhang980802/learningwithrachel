@@ -1,0 +1,219 @@
+body.single-map {
+  overflow: hidden;
+  margin: 0;
+  height: 100dvh;
+  color: #26342e;
+  background: #f9f8f2;
+}
+
+.lesson-shell {
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
+  height: 100%;
+  background: #f9f8f2;
+}
+
+.lesson-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px 16px;
+  padding: 6px 12px;
+}
+
+.single-map.embedded-lesson .lesson-toolbar {
+  padding-top: 28px;
+}
+
+.single-map .lesson-shell:fullscreen .lesson-toolbar {
+  padding-top: 6px;
+}
+
+.lesson-tools {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.lesson-toolbar button {
+  min-height: 32px;
+  padding: 3px 9px;
+  border: 1px solid #d4d9ce;
+  border-radius: 4px;
+  background: #fffdf8;
+  color: #26342e;
+  font: 600 13px/1.2 Arial, sans-serif;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.lesson-toolbar button:hover {
+  border-color: #668676;
+  background: #edf3ec;
+}
+
+.lesson-toolbar button:disabled {
+  opacity: .5;
+  cursor: default;
+}
+
+.lesson-toolbar button:focus-visible,
+.lesson-viewport:focus-visible {
+  outline: 2px solid #28616c;
+  outline-offset: -2px;
+}
+
+#gap-count, #map-zoom {
+  padding: 0 4px;
+  min-width: 45px;
+  text-align: center;
+  font: 600 12px/1 Arial, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+.lesson-help {
+  overflow: hidden;
+  margin: 0;
+  padding: 0 12px 6px;
+  color: #42574e;
+  font: 13px/20px Arial, sans-serif;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lesson-viewport {
+  min-height: 0;
+  overflow: auto;
+  overscroll-behavior: contain;
+  border-block-start: 1px solid #d4d9ce;
+  background: #e1e4df;
+}
+
+.lesson-sheet {
+  display: grid;
+  place-items: center;
+  width: max-content;
+  height: max-content;
+  min-width: 100%;
+  min-height: 100%;
+  padding: 8px;
+}
+
+.lesson-map {
+  display: block;
+  max-width: none;
+  background: #ededed;
+}
+
+.lesson-viewport.is-panning,
+.lesson-viewport.is-panning * {
+  cursor: grabbing;
+  user-select: none;
+}
+
+.source-node,
+.semantic-text {
+  pointer-events: none;
+}
+
+.semantic-text {
+  fill: transparent;
+  font: 12px Arial, sans-serif;
+}
+
+.lesson-map [role="button"] {
+  outline: none;
+  cursor: pointer;
+}
+
+.lesson-map .detail-hidden,
+.lesson-map [data-answer-glyph]:not(.is-revealed) {
+  display: none;
+}
+
+.node-marker {
+  fill: transparent;
+  stroke: none;
+  pointer-events: none;
+}
+
+.lesson-map [role="button"] > .node-marker,
+.lesson-map [role="button"] > .gap-box,
+.lesson-map .node-marker[role="button"] {
+  pointer-events: all;
+}
+
+.lesson-map [role="button"]:is(:hover, :focus-visible) > :is(.node-marker, .gap-box),
+.lesson-map .node-marker[role="button"]:is(:hover, :focus-visible, [aria-pressed="true"]),
+.source-label[data-compare][aria-pressed="true"] > .node-marker {
+  stroke: #28616c;
+  stroke-width: 1.5px;
+  vector-effect: non-scaling-stroke;
+}
+
+.lesson-map .node-marker[aria-pressed="true"] {
+  fill: #31b2cb23;
+}
+
+.source-label[aria-expanded="false"] > .node-marker {
+  stroke: #26342e;
+  stroke-dasharray: 4 3;
+  stroke-width: 1.5px;
+}
+
+.gap-box {
+  fill: #fffaf1;
+  stroke: #315c50;
+  stroke-width: 1.2px;
+}
+
+.gap-number {
+  fill: #315c50;
+  font: 700 9.5px Arial, sans-serif;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.gap-control[aria-pressed="true"] > .gap-box {
+  fill: transparent;
+  stroke: transparent;
+}
+
+.gap-control[aria-pressed="true"] > .gap-number {
+  display: none;
+}
+
+.comparison-active [data-comparison="before"] > .node-marker {
+  fill: #37986d38;
+  stroke: #26765b;
+}
+
+.comparison-active [data-comparison="after"] > .node-marker {
+  fill: #e9823538;
+  stroke: #a54d19;
+}
+
+.link-endpoint > .node-marker {
+  fill: #31b2cb23;
+  stroke: #28616c;
+  stroke-width: 1.5px;
+  vector-effect: non-scaling-stroke;
+}
+
+.relation-hit {
+  fill: transparent;
+  stroke: transparent;
+  stroke-width: 13px;
+  pointer-events: stroke;
+}
+
+.relation-hit:is(:hover, :focus-visible) {
+  stroke: #28616c55;
+}
+
+.link-active {
+  fill: #28616c;
+  stroke: #28616c;
+  stroke-width: 1px;
+}

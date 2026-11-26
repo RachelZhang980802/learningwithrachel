@@ -168,6 +168,7 @@ body.worksheet-mode #viewport{display:flow-root;overflow:visible;min-height:0;to
  font:700 clamp(21px,2.3vw,29px)/1.15 Georgia,serif;
  text-wrap:initial;
  hyphens:none;
+ padding-right:26px;
 }
 .argument-atlas .part-number{
  display:grid;
@@ -182,6 +183,48 @@ body.worksheet-mode #viewport{display:flow-root;overflow:visible;min-height:0;to
  font-size:11px;
 }
 .argument-stage-label{color:#345b4b;font:13px/1.5 Arial,"PingFang SC",sans-serif}
+.argument-atlas .figure-section-toggle,
+.argument-atlas .figure-group-toggle,
+.argument-atlas .figure-bullet-toggle{
+ border:1px solid currentColor;
+ border-radius:999px;
+ background:transparent;
+ color:inherit;
+ font:700 14px/1 Arial,sans-serif;
+ cursor:pointer;
+}
+.argument-atlas .figure-section-toggle{
+ position:absolute;
+ top:8px;
+ right:0;
+ width:24px;
+ height:24px;
+ padding:0;
+ color:#315b4c;
+}
+.argument-atlas .figure-group-toggle{
+ position:absolute;
+ top:10px;
+ right:14px;
+ width:22px;
+ height:22px;
+ padding:0;
+ color:currentColor;
+}
+.argument-atlas .figure-bullet-toggle{
+ display:inline-grid;
+ place-items:center;
+ width:19px;
+ height:19px;
+ margin-inline-start:7px;
+ padding:0;
+ vertical-align:middle;
+ color:var(--node-colour);
+ font-size:13px;
+}
+.argument-atlas .figure-section-toggle:hover,
+.argument-atlas .figure-group-toggle:hover,
+.argument-atlas .figure-bullet-toggle:hover{background:color-mix(in srgb,currentColor 12%,transparent)}
 .argument-atlas .source-part-heading .part-evidence{
  color:var(--map-quiet);
  font-size:11px;
@@ -286,9 +329,10 @@ body.worksheet-mode #viewport{display:flow-root;overflow:visible;min-height:0;to
 }
 .argument-group{min-width:0;background:var(--node-fill)}
 .argument-group-heading{
+ position:relative;
  color:var(--node-colour);
  border-top:3px solid currentColor;
- padding:11px 14px;
+ padding:11px 46px 11px 14px;
 }
 .argument-group-heading h4{margin:0;font:700 clamp(19px,1.75vw,23px)/1.16 Georgia,serif}
 .argument-atlas .argument-group>.source-card{

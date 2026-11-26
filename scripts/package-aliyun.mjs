@@ -22,6 +22,8 @@ await cp(publicRoot,resolve(bundle,'public'),{recursive:true,filter:async p=>{
   // Mindmap pages are self-contained static apps. Keep their modules, data,
   // fonts and artwork version-matched with the HTML instead of redirecting to R2.
   if(rel.startsWith('mindmaps/'))return true;
+  // The new More page background ships with its CSS, outside the legacy R2 snapshot.
+  if(rel==='inquire-assets/more-floral-background.png')return true;
   if(routes.some(test=>test('/'+encodeURI(rel)))){omitted++;return false;}
   return true;
 }});

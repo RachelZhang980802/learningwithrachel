@@ -598,7 +598,7 @@
   {
     "id": "02",
     "title": "Should the Robots Be Taxed?",
-    "subtitle": "Phenomenon / A Prevailing Idea → P · Point → E₁ · Explanation → E₂ · Example → E₃ · Evaluation → Conclusion",
+    "subtitle": "Phenomenon → PEEE → Conclusion",
     "genre": "Argumentative essay",
     "layout": "argument",
     "question": "Does automation call for a robot tax, or a different response to the pain of transition?",
@@ -980,7 +980,7 @@
       "route": "Phenomenon / A Prevailing Idea → P · Point → E₁ · Explanation → E₂ · Example → E₃ · Evaluation → Conclusion"
     },
     "figure": {
-      "subtitle": "Phenomenon / A Prevailing Idea → P · Point → E₁ · Explanation → E₂ · Example → E₃ · Evaluation → Conclusion",
+      "subtitle": "Phenomenon → PEEE → Conclusion",
       "sentenceStarts": [
         [
           0
@@ -1168,7 +1168,7 @@
           "layout": "branches",
           "columns": 2,
           "id": "02-phenomenon",
-          "label": "公共主张"
+          "label": "A prevailing idea"
         },
         {
           "title": "Point",
@@ -1219,7 +1219,7 @@
           "layout": "branches",
           "columns": 1,
           "id": "02-point",
-          "label": "作者立场"
+          "label": "The author's point"
         },
         {
           "title": "Explanation",
@@ -1292,7 +1292,7 @@
           "layout": "branches",
           "columns": 1,
           "id": "02-explanation",
-          "label": "历史规律"
+          "label": "Historical explanation"
         },
         {
           "title": "Example",
@@ -1381,7 +1381,7 @@
                       "text": "Factories set the hours; machines set the pace."
                     },
                     {
-                      "text": "Greater [[division of labor]] narrowed each job."
+                      "text": "Greater [[division of labour]] narrowed each job."
                     },
                     {
                       "text": "Women and children became part of the same production process."
@@ -1427,7 +1427,7 @@
           "layout": "branches",
           "columns": 1,
           "id": "02-example",
-          "label": "历史例证"
+          "label": "Historical example"
         },
         {
           "title": "Evaluation",
@@ -1562,7 +1562,7 @@
               ],
               "transition": {
                 "cue": "side effect",
-                "label": "从工作说到家庭和人口"
+                "label": "The argument widens to families and population"
               },
               "zh": "作者从就业转向自动化伴随的社会变化：出生率和结婚率下降，不生育的夫妻增多，人口也在老龄化。他补充说，老龄化未必如人们所想的那么糟。未来资源紧缺也可能促使人们节约资源，这是文中提到的一种推测。",
               "bullets": [
@@ -1755,7 +1755,7 @@
                   ],
                   "related": {
                     "target": "02-employment-concession",
-                    "label": "同样的就业滞后 · 回看 ¶ 4[3]"
+                  "label": "Same employment lag · revisit ¶ 4[3]"
                   }
                 },
                 {
@@ -1794,15 +1794,15 @@
           "layout": "branches",
           "columns": 1,
           "id": "02-evaluation",
-          "label": "评估与回应",
+          "label": "Evaluation and responses",
           "transition": {
             "cue": "Now that",
-            "label": "用过去的例子推想今天"
+            "label": "Use the past to reason about today"
           },
           "groups": [
             {
               "title": "Impacts of Automation",
-              "label": "自动化带来的影响",
+              "label": "Employment and social impacts",
               "colour": 2,
               "cards": [
                 "02-employment-impact",
@@ -1812,7 +1812,7 @@
             },
             {
               "title": "Responses to Concerns",
-              "label": "作者怎样回应质疑",
+              "label": "Tax and speed concerns",
               "colour": 5,
               "cards": [
                 "02-tax-response",
@@ -1911,7 +1911,7 @@
           "layout": "branches",
           "columns": 2,
           "id": "02-conclusion",
-          "label": "结论与应对"
+          "label": "Conclusion and response"
         }
       ],
       "version": "article02-argument-20261113",
