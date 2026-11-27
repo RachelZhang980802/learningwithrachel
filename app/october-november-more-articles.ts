@@ -1919,6 +1919,1556 @@ export const octoberNovemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "nov1102",
+    "date": "2026.11.02",
+    "period": "2026年11月",
+    "folder": "1102 一部现象级的美国纪录片《你能看到一切》",
+    "titleZh": "一部现象级的美国纪录片《你能看到一切》",
+    "title": "‘A cultural moment’: smash hit doc You Can See Everything continues to dazzle America",
+    "topicEn": "Film",
+    "topicZh": "电影",
+    "byline": "By Jesse Hassenger, The Guardian, Published Oct 26, 2026",
+    "paragraphs": [
+      "Nathan Fielder’s three-hour Elizabeth Holmes film has become a pop culture phenomenon but at a sold-out Times Square screening, no one was quite sure what to think",
+      "When I see a film a second time during its theatrical run, it’s typically to take someone else who hasn’t yet seen it, at least in part hoping to witness their reaction to a piece of art that excited or moved me in some way. Seeing Lance Oppenheim and Nathan Fielder’s You Can See Everything a second time in New York City on a Saturday night was that impulse writ larger. This is a movie garnering a surprisingly sizable audience, and outsized audience reactions to go along with it; rewatching it in a full 300-seat auditorium offered the opportunity to re-experience that sense of discovery. Perhaps more to the point, almost everyone I knew had seen it already; all I could do was observe strangers.",
+      "This documentary, peering into (and helping to create) a hall of mirrors around the famed med-tech scammer Elizabeth Holmes, has become the box office story of the fall, actually rising 25% on its second weekend to gross another $19.5m – a rare feat even given its expanded screen count. With over $45m in North America, it’s already one of A24’s biggest movies ever; it could wind up in the company’s top three, and way up on the list of the highest-grossing nonfiction features. It’s also outgrossed co-director Oppenheim’s fellow A24 surprise hit Primetime, which has the benefit of genuine movie star Robert Pattinson.",
+      "Despite an obviously youthful demographic – perhaps owing to the high tolerance for hustle and/or bustle required to trek out to Times Square, I couldn’t find anyone over 30 – there were several viewers who hadn’t been to the movies in months. Hardly anyone claimed to be a documentary aficionado, either; no one cited a recent documentary they had seen in theaters, saying they were more likely to catch that sort of thing on streaming, if at all. So what drew them to a big-screen experience featuring both an entertainer (Nathan Fielder) and a subject (Elizabeth Holmes) more closely associated with television? Most of the twentysomethings I spoke with had some combination of familiarity with Fielder’s more overtly comic work – one woman said this seemed “on brand” for him – and awareness of the notoriety of Holmes, the latter usually stemming from the non-documentary TV series The Dropout, which also figures into the film. The 23-year-old sitting next to me said that she got the impression from social media – specifically, clips on Instagram and TikTok – that this was “a cultural moment”, as she put it. Multiple viewers echoed that sentiment about seeing a handful of clips via social media, and hearing buzz indicating that the movie simply was “unlike anything else out [at the movies]” and had to be seen firsthand to be believed – or at least to be experienced with the proper amount of spoiler-free, audience-vibing surprise.",
+      "During the movie itself, that mystery guest felt like she was winning fans in real time; she even got a round of spontaneous applause by describing Holmes’s partner, Billy Evans, as “batshit crazy”. But while early screenings had been described as meeting with rapturous audience engagement driven by the film’s surprises, this one felt more unpredictable in its alternating waves of laughter and murmuring discomfort. Both times I’ve watched it with a full audience, Fielder’s reaction – “that must be hard” – drew one of the movie’s biggest laughs, seemingly for how flatly obligatory it sounds. The movie often cuts to Fielder lurking within proximity of the Holmes family during tense moments; though the mechanics of these de facto reaction shots are similar, sometimes they drew big laughs and sometimes what felt more like hushed suspense. It was as if viewers were deciding moment to moment whether they were watching dark comedy or something more menacing. Though the disparaging of Evans got an enthusiastically cathartic reaction, applause when the movie threw to its end credits was scattered and uncertain.",
+      "It’s not unprecedented for a movie to garner audibly mixed reactions. But something Oppenheim and Fielder seem to have cracked is allowing an audience to feel satisfied and impressed by those reactions, which would often serve as a death knell to a prospective blockbuster. The most common reaction, however, was a kind of admiring confusion. They weren’t exactly sure what to think, a feeling that’s not traditionally music to a film executive’s ears. At very least, though, it offers some clear respite from the applause-mongering of the IP-driven, fan-focused era."
+    ],
+    "paragraphTranslations": [
+      "内森·菲尔德这部关于伊丽莎白·霍姆斯的三小时电影成了流行文化现象。然而在时代广场一场座无虚席的放映中，观众似乎都拿不准该怎么评价它。",
+      "我在电影公映期间去看第二遍，通常是为了带一位还没看过的人同行，多少也想见证对方如何回应一件曾让我兴奋或感动的作品。一个周六晚上，我在纽约重看兰斯·奥本海姆与内森·菲尔德的《你能看到一切》，正是把这种冲动放大了。这部电影吸引了多得出人意料的观众，也引出了格外强烈的反应。在坐满三百人的影厅重看，让我有机会再体验一次发现新事物的感觉。也许更直接的原因是，我认识的人几乎都已经看过了，我只能观察陌生人。",
+      "这部纪录片窥探知名医疗科技骗子伊丽莎白·霍姆斯周围如同镜厅般的世界，也参与制造了这一层层映像。它成了今秋的一大票房话题，第二个周末票房竟上涨了 25%，再收 1950 万美元。即使放映银幕增多，这也很少见。它在北美已收入超过 4500 万美元，是 A24 历来最卖座的影片之一，有望进入公司票房前三，也可能在最卖座的非虚构长片中名列前茅。它还超过了同由 A24 出品、由联合导演奥本海姆执导的另一部票房黑马《Primetime》，而后者还有真正的电影明星罗伯特·帕丁森助阵。",
+      "观众明显偏年轻，也许是因为专程去时代广场得忍受熙攘喧闹，我连一个三十岁以上的人都没找到，但有好几个人已经几个月没进过电影院。也几乎没人自称纪录片爱好者，没人能举出最近在影院看过的纪录片。他们说即便会看，也更可能用流媒体。既然演艺人物菲尔德和影片主角霍姆斯都更容易让人联想到电视，是什么把他们拉到了大银幕前？和我聊过的二十多岁观众，大都熟悉菲尔德更明显偏喜剧的作品，也多少知道霍姆斯的坏名声。一位女士说这很符合菲尔德的一贯风格。霍姆斯的名声则通常来自同样被这部电影引用的剧情剧集《辍学生》。坐在我身旁的 23 岁观众说，她在 Instagram 和 TikTok 上看到一些片段，觉得这是一个“文化时刻”。好几位观众也说，他们在社交媒体上刷过几段，听到的议论都说这片子“和影院里其他片子完全不同”，得亲眼看了才相信，至少也得在没被剧透的情况下，和同场观众一起感受那份惊讶。",
+      "放映过程中，那位神秘嘉宾似乎当场就赢得了拥趸。她称霍姆斯的伴侣比利·埃文斯“简直疯透了”，还引来一阵自发的掌声。有人说早期场次的观众因接连不断的意外而反应热烈，但这场的反应更难预料，笑声和不安的低语一阵接一阵。两次满场放映中，菲尔德那句“那一定很难受吧”都是笑声最大的几个地方之一，似乎因为它听来像是平淡而例行的客套。紧张时刻，影片常切到在霍姆斯一家附近悄悄逗留的菲尔德。这些实际起到反应镜头作用的画面拍法相似，有时引来大笑，有时却让人屏息。仿佛观众时时刻刻都在重新判断，自己看的究竟是黑色喜剧，还是更让人不安的东西。尽管奚落埃文斯时大家热烈响应、痛快宣泄，片尾字幕出现时，掌声却零落而犹豫。",
+      "电影引起好坏参半、能听得见的反应并不罕见。但奥本海姆和菲尔德似乎参透了一点：怎样让观众对这些反应感到满足，甚至印象深刻。换作一部有望大卖的电影，这样的反应往往会给它敲响丧钟。然而最常见的反应，是一种带着赞叹的困惑。他们拿不准该怎么想，这种感觉传统上可不会让电影公司高管听了舒服。但至少，它提供了某种喘息之机，避开这个由 IP 驱动、以粉丝为中心的时代对掌声的百般讨好。"
+    ],
+    "vocabulary": [
+      {
+        "form": "witness",
+        "ipa": "/ˈwɪtnəs/",
+        "pos": "v.",
+        "meaning": "亲眼见证",
+        "definition": "to see something happen (typically a crime or an accident)",
+        "zh": "亲眼见证"
+      },
+      {
+        "form": "impulse",
+        "ipa": "/ˈɪmpʌls/",
+        "pos": "n.",
+        "meaning": "冲动",
+        "definition": "a sudden strong wish or need to do something, without stopping to think about the results",
+        "zh": "冲动"
+      },
+      {
+        "form": "garnering",
+        "ipa": "/ˈɡɑːnə(r)/",
+        "pos": "v.",
+        "meaning": "吸引并获得",
+        "definition": "to obtain or collect something such as information, support, etc.",
+        "zh": "吸引并获得"
+      },
+      {
+        "form": "sizable",
+        "ipa": "/ˈsaɪzəbl/",
+        "pos": "adj.",
+        "meaning": "相当大的",
+        "definition": "fairly large",
+        "zh": "相当大的"
+      },
+      {
+        "form": "outsized",
+        "ipa": "/ˈaʊtsaɪz/",
+        "pos": "adj.",
+        "meaning": "超出寻常的",
+        "definition": "larger than the usual size",
+        "zh": "超出寻常的"
+      },
+      {
+        "form": "auditorium",
+        "ipa": "/ˌɔːdɪˈtɔːriəm/",
+        "pos": "n.",
+        "meaning": "观众席；（影院的）放映大厅",
+        "definition": "the part of a theatre, concert hall, etc. in which the audience sits",
+        "zh": "观众席；（影院的）放映大厅"
+      },
+      {
+        "form": "gross",
+        "ipa": "/ɡrəʊs/",
+        "pos": "v.",
+        "meaning": "获得（税前）总收入",
+        "definition": "to earn a particular amount of money before tax has been taken off it",
+        "zh": "获得（税前）总收入"
+      },
+      {
+        "form": "feat",
+        "ipa": "/fiːt/",
+        "pos": "n.",
+        "meaning": "壮举；功绩",
+        "definition": "an action or a piece of work that needs skill, strength or courage",
+        "zh": "壮举；功绩"
+      },
+      {
+        "form": "demographic",
+        "ipa": "/ˌdeməˈɡræfɪk/",
+        "pos": "n.",
+        "meaning": "（特定的）人群",
+        "definition": "a section of the population who are of a similar age, the same sex, etc.",
+        "zh": "（特定的）人群"
+      },
+      {
+        "form": "trek",
+        "ipa": "/trek/",
+        "pos": "v.",
+        "meaning": "辛苦地长途跋涉",
+        "definition": "to make a long or difficult journey, especially on foot",
+        "zh": "辛苦地长途跋涉"
+      },
+      {
+        "form": "aficionado",
+        "ipa": "/əˌfɪʃəˈnɑːdəʊ/",
+        "pos": "n.",
+        "meaning": "狂热爱好者；行家",
+        "definition": "a person who likes a particular sport, activity or subject very much and knows a lot about it",
+        "zh": "狂热爱好者；行家"
+      },
+      {
+        "form": "overtly",
+        "ipa": "/əʊˈvɜːtli/",
+        "pos": "adv.",
+        "meaning": "公开地；明显地",
+        "definition": "in a way that is open and not secret",
+        "zh": "公开地；明显地"
+      },
+      {
+        "form": "notoriety",
+        "ipa": "/ˌnəʊtəˈraɪəti/",
+        "pos": "n.",
+        "meaning": "恶名；广为人知的负面名声",
+        "definition": "the state of being famous for being bad in some way",
+        "zh": "恶名；广为人知的负面名声"
+      },
+      {
+        "form": "rapturous",
+        "ipa": "/ˈræptʃərəs/",
+        "pos": "adj.",
+        "meaning": "狂热而欢欣的",
+        "definition": "expressing extreme pleasure or enthusiasm for somebody/something",
+        "zh": "狂热而欢欣的"
+      },
+      {
+        "form": "obligatory",
+        "ipa": "/əˈblɪɡətri/",
+        "pos": "adj.",
+        "meaning": "例行公事般的",
+        "definition": "that you do because you always do it, or other people in the same situation always do it",
+        "zh": "例行公事般的"
+      },
+      {
+        "form": "lurking",
+        "ipa": "/lɜːk/",
+        "pos": "v.",
+        "meaning": "潜伏；鬼鬼祟祟地逗留",
+        "definition": "to wait somewhere secretly, especially because you are going to do something bad or illegal",
+        "zh": "潜伏；鬼鬼祟祟地逗留"
+      },
+      {
+        "form": "menacing",
+        "ipa": "/ˈmenəsɪŋ/",
+        "pos": "adj.",
+        "meaning": "带有威胁感的",
+        "definition": "seeming likely to cause you harm or danger",
+        "zh": "带有威胁感的"
+      },
+      {
+        "form": "disparaging",
+        "ipa": "/dɪˈspærɪdʒ/",
+        "pos": "v.",
+        "meaning": "贬损",
+        "definition": "to suggest that somebody / something is not important or valuable",
+        "zh": "贬损"
+      },
+      {
+        "form": "cathartic",
+        "ipa": "/kəˈθɑːtɪk/",
+        "pos": "adj.",
+        "meaning": "带来情绪宣泄的",
+        "definition": "involving the release of strong feelings as a way of providing relief from anger, mental pain, etc.",
+        "zh": "带来情绪宣泄的"
+      },
+      {
+        "form": "unprecedented",
+        "ipa": "/ʌnˈpresɪdentɪd/",
+        "pos": "adj.",
+        "meaning": "前所未有的",
+        "definition": "that has never happened, been done or been known before",
+        "zh": "前所未有的"
+      },
+      {
+        "form": "audibly",
+        "ipa": "/ˈɔːdəbli/",
+        "pos": "adv.",
+        "meaning": "听得见地；明显地",
+        "definition": "in a way that is possible to hear clearly",
+        "zh": "听得见地；明显地"
+      },
+      {
+        "form": "prospective",
+        "ipa": "/prəˈspektɪv/",
+        "pos": "adj.",
+        "meaning": "有望成为的；潜在的",
+        "definition": "expected to do something or to become something",
+        "zh": "有望成为的；潜在的"
+      },
+      {
+        "form": "blockbuster",
+        "ipa": "/ˈblɒkbʌstə(r)/",
+        "pos": "n.",
+        "meaning": "票房大片",
+        "definition": "something very successful, especially a very successful book or film",
+        "zh": "票房大片"
+      },
+      {
+        "form": "respite",
+        "ipa": "/ˈrespaɪt/",
+        "pos": "n.",
+        "meaning": "喘息；暂时的缓解",
+        "definition": "a short break or escape from something difficult or unpleasant",
+        "zh": "喘息；暂时的缓解"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a person who likes a particular sport, activity or subject very much and knows a lot about it",
+      "the state of being famous for being bad in some way"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “But something Oppenheim and Fielder seem to have cracked is allowing an audience to feel satisfied and impressed by those reactions, which would often serve as a death knell to a prospective blockbuster.”",
+    "exerciseChoiceMarked": [
+      "cracked"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "After years of trial and error, the team finally cracked the problem that had puzzled researchers for decades.",
+        "marked": [
+          "cracked"
+        ],
+        "zh": "经过多年的反复尝试，团队终于解开了那个困扰研究人员几十年的难题。"
+      },
+      {
+        "label": "B",
+        "text": "The old plaster on the ceiling had cracked in several places after the building settled.",
+        "marked": [
+          "cracked"
+        ],
+        "zh": "楼房沉降后，天花板上的旧灰泥有好几处开裂了。"
+      },
+      {
+        "label": "C",
+        "text": "Her voice cracked slightly as she read the letter aloud to the crowded room.",
+        "marked": [
+          "cracked"
+        ],
+        "zh": "她在满屋人面前朗读那封信时，声音微微变了调。"
+      },
+      {
+        "label": "D",
+        "text": "He cracked a joke about the weather, and everyone laughed politely.",
+        "marked": [
+          "cracked"
+        ],
+        "zh": "他拿天气开了个玩笑，大家都礼貌地笑了。"
+      }
+    ],
+    "exerciseTranslationPrompt": "然而最常见的反应，是一种带着赞叹的困惑。他们拿不准该怎么想，这种感觉传统上可不会让电影公司高管听了舒服。但至少，它提供了某种喘息之机，避开这个由 IP 驱动、以粉丝为中心的时代对掌声的百般讨好。",
+    "answerVocabularyList": [
+      "aficionado",
+      "notoriety"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "The most common reaction, however, was a kind of admiring confusion. They weren’t exactly sure what to think, a feeling that’s not traditionally music to a film executive’s ears. At very least, though, it offers some clear respite from the applause-mongering of the IP-driven, fan-focused era."
+  },
+  {
+    "key": "nov1103",
+    "date": "2026.11.03",
+    "period": "2026年11月",
+    "folder": "1103 批作业心得.mp3",
+    "titleZh": "批作业心得",
+    "title": "How Should College Students Navigate A.I.? By the Oldest, Truest Stars.",
+    "topicEn": "Education",
+    "topicZh": "教育",
+    "byline": "By Frank Bruni, The New York Times, Published August 24, 2026",
+    "paragraphs": [
+      "At the start of the fall semester five years ago, all anybody here at Duke could talk about was Covid. How often should students and faculty be tested? How long should an infected person stay away? Masking in classrooms was mandatory, informal social gatherings of more than 50 people were prohibited, and there was a potent, deeply sad sense that this disruption to education would be more than consequential. It would be definitional, forever marking the pupils and professors who slogged through it.",
+      "Today, as a new academic year commences, I don’t hear anyone on campus mention Covid anymore. There’s no conversational space for it amid all the ruminations, lamentations and expectations about A.I. Many of us professors recast courses and rejigger assignments to ward off students’ use of it; many of those students plot their majors in a prophylactic fashion, trying to guess which jobs will survive A.I.’s insinuation into every crevasse of contemporary life. Its advance—its omnipresence—feels epochal.",
+      "And five years from now? When a new group of anxious young men and women surveys the horizon? I bet that they’ll tremble at a different specter and that A.I. doesn’t signal the final triumph of computers and the trivialization of humanity.",
+      "Instead, it’s another sign of the rapidly accelerating pace of change in a society whose future seems less predictable than ever. That furious metabolism and crazy uncertainty are what college students should factor into their decisions and navigate by. The safest plan is to focus not on what seems practical in the present but on what’s durably useful—what transcends any technology and outlasts any fad.",
+      "You’re probably a step ahead of me and ready for what comes next: a pitch for literature, for history, for anthropology, for philosophy, for the warhorses of the humanities. We clear our throats and do our vocal warm-ups whenever we sense a prime opportunity for our music to be heard, and the angst over A.I. has certainly created one. Now that the stampede of college students into computer science over the past two decades has become a retreat, many university presidents and chancellors are newly determined to explain and promote fields of inquiry that had fallen out of fashion. “Paradise Lost,” anyone? The French Revolution? Socrates?",
+      "What will you do with an English major? Anything. Everything. You’ll better understand the seeds of creativity and how they’re made to flower. You’ll swim in a borderless sea of thoughts beautifully expressed, ideas precisely articulated, words put into the service of emotions. The wetter you get, the more expert you’ll be at shaping stories, at persuading, and I can’t imagine any profession or any world in which better communicators aren’t better off.",
+      "Besides, literature isn’t just fancy language and tall tales. It’s a library of verities given unignorable and unforgettable form. It’s Pilates for emotional intelligence. Think about how often, in discussions of political figures, Shakespeare’s tragedies, comedies, noblemen and fools serve as reference points and Rosetta stones. Or how frequently, over recent decades, George Orwell’s “1984” and Aldous Huxley’s “Brave New World” come up. So many of the warnings we should heed—and so much of the wisdom we need—are in those pages and those plays. How does anyone major in anything other than English?",
+      "Then again, history’s no slouch. Without fluency in yesterday, there’s no conjugating today. When you study the past, you’re not memorizing dates, cataloging wars, valorizing martyrs. You’re learning about cause and effect, greed and goodness, the sorts of contests and the interplay of dynamics that set the course of events. You can’t name a line of work—or describe a kind of life—that isn’t nourished by that knowledge.",
+      "The current whirl of events and inventions prevents any reliable scripting of the next decade, maybe even the next year.",
+      "How, then, to prepare? Explore whatever subject gets your brain whirring fastest, your creative juices flowing most freely. Engage your intellect in a manner that teases out insights and generates ideas. Exercise the muscle of thought. Answer artificial intelligence with the real deal. It’ll come in handy whether the bots are tomorrow’s emperors or Edsels."
+    ],
+    "paragraphTranslations": [
+      "五年前秋季学期伊始，杜克大学里人人谈的都是新冠。学生和教职员工要多久检测一次？感染者要隔离多久？课堂必须戴口罩，禁止五十人以上的非正式聚会。大家不无悲伤地强烈感到，这场教育中断的影响远不止重大，它会成为一段定义性的经历，在艰难熬过这段时间的师生身上留下永久的印记。",
+      "如今新学年开始，校园里已听不到谁还在谈新冠。大家对人工智能有那么多思虑、感叹和期待，话题里再也腾不出地方。我们许多教授重新设计课程，调整作业，防止学生使用人工智能。很多学生则未雨绸缪地选择专业，试图猜测，当人工智能悄悄渗入当代生活的每一道缝隙时，哪些工作还能留下来。它的推进乃至无处不在，让人觉得是一个划时代的变化。",
+      "五年以后呢？等另一群焦虑的年轻人眺望前途时呢？我敢说，届时让他们发抖的将是另一个幽灵。人工智能并不意味着计算机最终获胜、人类从此无足轻重。",
+      "相反，它再一次表明，社会变化正在迅速加速，而未来比以往任何时候都难预测。这种飞速更迭、充满不确定性的环境，才是大学生做选择时应当考量、应当去适应的。最稳妥的办法，不是紧盯当下看起来实用的东西，而是去学习那些具备长久价值的内容——那些不受任何技术限制、不会随潮流过时的东西。",
+      "你大概已经猜到我接下来要说什么了：给文学、历史、人类学、哲学这些人文学科的老将做一番推介。我们一觉得终于有人愿意听，就清清嗓子做发声热身，而围绕人工智能的焦虑确实给了我们这次机会。过去二十年，大学生曾成群涌入计算机科学，如今却开始退潮，许多大学校长重新下了决心，要阐释和推广那些曾经不再时兴的研究领域。有人想读《失乐园》吗？法国大革命呢？苏格拉底呢？",
+      "读英语专业能做什么？什么都可以。你会更好地理解创造力如何萌芽，又如何开花。你会游进没有边际的海洋，里面有优美表达的思想、精确阐明的观点，还有为情感服务的文字。你浸得越深，就越擅长塑造故事、说服别人。我想不出有哪个行业、哪个世界会让善于沟通的人吃亏。",
+      "再说，文学远不只是华丽的辞藻和夸张的故事。它是一座真理的图书馆，把真理写得令人无法忽略、难以忘怀。它是锻炼情商的普拉提。想想人们讨论政治人物时，有多少次借用莎士比亚的悲剧、喜剧、贵族和小丑作为参照和解读的钥匙。再想想几十年来，奥威尔的《一九八四》和赫胥黎的《美丽新世界》被提起了多少次。我们应该听取的许多警告，以及我们所需的许多智慧，就在这些书页和戏剧里。怎么还会有人选英语以外的专业呢？",
+      "话又说回来，历史也毫不逊色。不熟练掌握昨天的语言，就不会给今天的动词变位。研究过去，不是背日期、编战争名录、颂扬殉道者，而是在学习因果、贪婪和善意，以及不同的较量与力量如何相互作用、决定事件的走向。你找不出一种行业或生活不受益于这种知识。",
+      "眼下事件和发明纷至沓来，没人能为下一个十年写出可靠的剧本，也许连下一年也不行。",
+      "那么该怎么准备？去钻研最能让脑子飞转、让创意自由涌流的学科。让头脑充分运转，挖掘洞见，生出主意。锻炼思考的肌肉，用货真价实的人类智慧回应人工智能。无论这些机器人成为明日的帝王，还是重蹈福特埃德塞尔汽车的覆辙，这种能力都会派上用场。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Navigate",
+        "ipa": "/ˈnævɪɡeɪt/",
+        "pos": "v.",
+        "meaning": "应对，处理，理清（复杂的事情或情况）",
+        "definition": "to understand or deal with sth. complicated",
+        "zh": "应对，处理，理清（复杂的事情或情况）"
+      },
+      {
+        "form": "potent",
+        "ipa": "/ˈpəʊtnt/",
+        "pos": "adj.",
+        "meaning": "强效的，有强烈影响力的，效力强大的",
+        "definition": "having a strong effect on your body or mind",
+        "zh": "强效的，有强烈影响力的，效力强大的"
+      },
+      {
+        "form": "consequential",
+        "ipa": "/ˌkɒnsɪˈkwenʃl/",
+        "pos": "adj.",
+        "meaning": "重要的，影响重大的，后果显著的",
+        "definition": "important; that will have important results",
+        "zh": "重要的，影响重大的，后果显著的"
+      },
+      {
+        "form": "definitional",
+        "ipa": "/ˌdefɪˈnɪʃənl/",
+        "pos": "adj.",
+        "meaning": "定义的，释义性的",
+        "definition": "relating to definition; serving to define what sth. is",
+        "zh": "定义的，释义性的"
+      },
+      {
+        "form": "slogged",
+        "ipa": "/slɒɡ/",
+        "pos": "v.",
+        "meaning": "埋头苦干，艰苦地持续工作，费力地做",
+        "definition": "to work hard and steadily at sth., especially sth. that takes a long time and is boring or difficult",
+        "zh": "埋头苦干，艰苦地持续工作，费力地做"
+      },
+      {
+        "form": "commences",
+        "ipa": "/kəˈmens/",
+        "pos": "v.",
+        "meaning": "开始，启动",
+        "definition": "(formal) to begin to happen; to begin sth.",
+        "zh": "开始，启动"
+      },
+      {
+        "form": "ruminations",
+        "ipa": "/ˌruːmɪˈneɪʃn/",
+        "pos": "n.",
+        "meaning": "沉思，深思，反复思索",
+        "definition": "(formal) the act of thinking deeply about sth.; deep thoughts about sth.",
+        "zh": "沉思，深思，反复思索"
+      },
+      {
+        "form": "lamentations",
+        "ipa": "/ˌlæmənˈteɪʃn/",
+        "pos": "n.",
+        "meaning": "哀叹，悲叹，悲痛的表达",
+        "definition": "(formal) an expression of feeling very sad or disappointed",
+        "zh": "哀叹，悲叹，悲痛的表达"
+      },
+      {
+        "form": "recast",
+        "ipa": "/ˌriːˈkɑːst/",
+        "pos": "v.",
+        "meaning": "重新组织，重新构思，改写",
+        "definition": "to change sth. by organizing or presenting it in a different way",
+        "zh": "重新组织，重新构思，改写"
+      },
+      {
+        "form": "rejigger",
+        "ipa": "/ˌriːˈdʒɪɡə(r)/",
+        "pos": "v.",
+        "meaning": "重新调整，重新安排，重新组织",
+        "definition": "(informal) to make changes to sth.; to arrange sth. in a different way",
+        "zh": "重新调整，重新安排，重新组织"
+      },
+      {
+        "form": "ward off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "抵挡，避开，防止，防御",
+        "definition": "to protect or defend yourself against danger, illness, attack, etc.",
+        "zh": "抵挡，避开，防止，防御"
+      },
+      {
+        "form": "prophylactic",
+        "ipa": "/ˌprɒfəˈlæktɪk/",
+        "pos": "adj.",
+        "meaning": "预防性的，防病的",
+        "definition": "(medical) done or used in order to prevent a disease",
+        "zh": "预防性的，防病的"
+      },
+      {
+        "form": "insinuation",
+        "ipa": "/ɪnˌsɪnjuˈeɪʃn/",
+        "pos": "n.",
+        "meaning": "逐渐进入，慢慢渗入，渐渐介入",
+        "definition": "the slow, gradual entry of sth. into a place or situation",
+        "zh": "逐渐进入，慢慢渗入，渐渐介入"
+      },
+      {
+        "form": "crevasse",
+        "ipa": "/krəˈvæs/",
+        "pos": "n.",
+        "meaning": "冰隙，冰裂缝，冰川裂缝",
+        "definition": "a deep opening, especially in ice, for example in a glacier",
+        "zh": "冰隙，冰裂缝，冰川裂缝"
+      },
+      {
+        "form": "omnipresence",
+        "ipa": "/ˌɒmnɪˈprezns/",
+        "pos": "n.",
+        "meaning": "无处不在，普遍存在",
+        "definition": "(formal) the fact of being present everywhere",
+        "zh": "无处不在，普遍存在"
+      },
+      {
+        "form": "epochal",
+        "ipa": "/ˈepəkl/",
+        "pos": "adj.",
+        "meaning": "划时代的，具有重大历史意义的，开创新纪元的",
+        "definition": "very important, because it marks the start of a new period of time",
+        "zh": "划时代的，具有重大历史意义的，开创新纪元的"
+      },
+      {
+        "form": "tremble",
+        "ipa": "/ˈtrembl/",
+        "pos": "v.",
+        "meaning": "惴惴不安，恐惧，焦虑",
+        "definition": "to be very worried or frightened",
+        "zh": "惴惴不安，恐惧，焦虑"
+      },
+      {
+        "form": "specter",
+        "ipa": "/ˈspektə(r)/",
+        "pos": "n.",
+        "meaning": "令人恐惧的前景；幽灵，鬼魂",
+        "definition": "sth. unpleasant that people are afraid might happen in the future",
+        "zh": "令人恐惧的前景；幽灵，鬼魂"
+      },
+      {
+        "form": "trivialization",
+        "ipa": "/ˌtrɪviəlaɪˈzeɪʃn/",
+        "pos": "n.",
+        "meaning": "淡化，轻描淡写",
+        "definition": "(usually disapproving) the act of making sth. seem less important, serious, difficult, etc. than it really is",
+        "zh": "淡化，轻描淡写"
+      },
+      {
+        "form": "furious",
+        "ipa": "/ˈfjʊəriəs/",
+        "pos": "adj.",
+        "meaning": "狂暴的，猛烈的，高速的",
+        "definition": "with great energy, speed or anger",
+        "zh": "狂暴的，猛烈的，高速的"
+      },
+      {
+        "form": "metabolism",
+        "ipa": "/məˈtæbəlɪzəm/",
+        "pos": "n.",
+        "meaning": "新陈代谢",
+        "definition": "(biology) the chemical processes in living things that change food, etc. into energy and materials for growth",
+        "zh": "新陈代谢"
+      },
+      {
+        "form": "factor into",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "将……考虑进其中",
+        "definition": "to include a particular fact or situation when you are thinking about or planning sth.",
+        "zh": "将……考虑进其中"
+      },
+      {
+        "form": "transcends",
+        "ipa": "/trænˈsend/",
+        "pos": "v.",
+        "meaning": "超越，超出",
+        "definition": "(formal) to be or go beyond the usual limits of sth.",
+        "zh": "超越，超出"
+      },
+      {
+        "form": "outlasts",
+        "ipa": "/ˌaʊtˈlɑːst/",
+        "pos": "v.",
+        "meaning": "比……更持久，比……撑得更久",
+        "definition": "to continue to exist or take part in an activity for a longer time than sb./sth.",
+        "zh": "比……更持久，比……撑得更久"
+      },
+      {
+        "form": "fad",
+        "ipa": "/fæd/",
+        "pos": "n.",
+        "meaning": "一时的热潮，短暂流行的风尚",
+        "definition": "sth. that people are interested in for only a short period of time",
+        "zh": "一时的热潮，短暂流行的风尚"
+      },
+      {
+        "form": "pitch",
+        "ipa": "/pɪtʃ/",
+        "pos": "n.",
+        "meaning": "推介说辞，宣讲，呼吁",
+        "definition": "talk or arguments used by a person trying to sell sth. or persuade people to do sth.",
+        "zh": "推介说辞，宣讲，呼吁"
+      },
+      {
+        "form": "warhorses",
+        "ipa": "/ˈwɔːhɔːs/",
+        "pos": "n.",
+        "meaning": "战马；老将",
+        "definition": "(in the past) a large horse used in battle",
+        "zh": "战马；老将"
+      },
+      {
+        "form": "angst",
+        "ipa": "/æŋst/",
+        "pos": "n.",
+        "meaning": "（对人生、处境的）忧惧，焦虑，苦闷",
+        "definition": "(from German) a feeling of great worry about a situation, or about your life",
+        "zh": "（对人生、处境的）忧惧，焦虑，苦闷"
+      },
+      {
+        "form": "stampede",
+        "ipa": "/stæmˈpiːd/",
+        "pos": "n.",
+        "meaning": "争相行动，一窝蜂的热潮",
+        "definition": "a situation in which a lot of people are trying to do or achieve the same thing at the same time",
+        "zh": "争相行动，一窝蜂的热潮"
+      },
+      {
+        "form": "articulated",
+        "ipa": "/ɑːˈtɪkjuleɪt/",
+        "pos": "v.",
+        "meaning": "清楚表达，明确阐述",
+        "definition": "(formal) to express or explain your thoughts or feelings clearly in words",
+        "zh": "清楚表达，明确阐述"
+      },
+      {
+        "form": "tall tales",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "荒诞不经的故事，夸张离奇的故事",
+        "definition": "a story that is difficult to believe because what it describes seems exaggerated and not likely to be true",
+        "zh": "荒诞不经的故事，夸张离奇的故事"
+      },
+      {
+        "form": "verities",
+        "ipa": "/ˈverəti/",
+        "pos": "n.",
+        "meaning": "真理，真谛，公认的真理",
+        "definition": "(formal) a belief or principle about life that is accepted as true",
+        "zh": "真理，真谛，公认的真理"
+      },
+      {
+        "form": "heed",
+        "ipa": "/hiːd/",
+        "pos": "v.",
+        "meaning": "留心，注意，重视",
+        "definition": "(formal) to pay careful attention to sb.’s advice or warning",
+        "zh": "留心，注意，重视"
+      },
+      {
+        "form": "history’s no slouch",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "擅长某事，在某方面很厉害、毫不逊色",
+        "definition": "(informal) to be very good at sth. or quick to do sth.",
+        "zh": "擅长某事，在某方面很厉害、毫不逊色"
+      },
+      {
+        "form": "valorizing",
+        "ipa": "/ˈvæləraɪz/",
+        "pos": "v.",
+        "meaning": "推崇",
+        "definition": "(formal) to think or state that sth. has value or is valuable",
+        "zh": "推崇"
+      },
+      {
+        "form": "interplay",
+        "ipa": "/ˈɪntəpleɪ/",
+        "pos": "n.",
+        "meaning": "相互作用，相互影响",
+        "definition": "(formal) the way in which two or more things or people affect each other",
+        "zh": "相互作用，相互影响"
+      },
+      {
+        "form": "scripting",
+        "ipa": "/skrɪpt/",
+        "pos": "v.",
+        "meaning": "撰写（电影、戏剧等的）剧本；精心策划，事先安排，设计",
+        "definition": "to write the script for a film, play, etc.",
+        "zh": "撰写（电影、戏剧等的）剧本；精心策划，事先安排，设计"
+      },
+      {
+        "form": "teases out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "逐步弄清，抽丝剥茧地探究，深入挖掘",
+        "definition": "to spend time trying to find out information or the meaning of sth., especially when this is complicated or difficult",
+        "zh": "逐步弄清，抽丝剥茧地探究，深入挖掘"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to work hard and steadily at sth., especially sth. that takes a long time and is boring or difficult",
+      "to begin to happen; to begin sth."
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “How Should College Students Navigate A.I.? By the Oldest, Truest Stars.”?",
+    "exerciseChoiceMarked": [
+      "Navigate"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "We next had to navigate a complex network of committees.",
+        "marked": [
+          "navigate"
+        ],
+        "zh": "接下来我们得在错综复杂的委员会体系中设法周旋。"
+      },
+      {
+        "label": "B",
+        "text": "There’s nothing worse than navigating through heavy traffic.",
+        "marked": [
+          "navigating"
+        ],
+        "zh": "没有什么比在车流密集的路上穿行更糟糕。"
+      },
+      {
+        "label": "C",
+        "text": "Customers will be able to navigate easily throughout the site.",
+        "marked": [
+          "navigate"
+        ],
+        "zh": "顾客将能轻松浏览网站各处。"
+      },
+      {
+        "label": "D",
+        "text": "Only the best-trained captains could safely navigate these routes.",
+        "marked": [
+          "navigate"
+        ],
+        "zh": "只有训练最有素的船长才能安全地沿这些航线行驶。"
+      }
+    ],
+    "exerciseTranslationPrompt": "这种飞速更迭、充满不确定性的环境，才是大学生做选择时应当考量、应当去适应的。最稳妥的办法，不是紧盯当下看起来实用的东西，而是去学习那些具备长久价值的内容——那些不受任何技术限制、不会随潮流过时的东西。",
+    "answerVocabularyList": [
+      "slog",
+      "commence"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "That furious metabolism and crazy uncertainty are what college students should factor into their decisions and navigate by. The safest plan is to focus not on what seems practical in the present but on what’s durably useful—what transcends any technology and outlasts any fad."
+  },
+  {
+    "key": "nov1104",
+    "date": "2026.11.04",
+    "period": "2026年11月",
+    "folder": "1104 两名朝鲜战俘，搅动四国外交",
+    "titleZh": "两名朝鲜战俘，搅动四国外交",
+    "title": "What comes next for North Korea soldiers transferred from Ukraine to South Korea?",
+    "topicEn": "International Affairs",
+    "topicZh": "国际事务",
+    "byline": "By Kyu-Seok Shim and Hyun Young Yi, Reuters, Updated September 29, 2026",
+    "paragraphs": [
+      "Two North Korean soldiers captured while fighting for Russia against Ukraine are now in South Korea, raising questions over how they will be investigated, protected and resettled, and the legal basis for their transfer.",
+      "Here is what could happen next:",
+      "WHAT PROCESS WILL THE SOLDIERS UNDERGO?",
+      "The soldiers are expected to undergo questioning and security screening before the South Korean authorities decide whether to grant them protection and begin the resettlement process.",
+      "Seoul’s Unification Ministry said on Monday their cases would be reviewed under relevant laws and past practices, suggesting that the North Korean Defectors Protection and Settlement Support Act would apply.",
+      "Under the law, the National Intelligence Service (NIS) investigates applicants in temporary protective custody, verifying their identities, reasons for leaving North Korea and security-related matters.",
+      "The investigation and temporary protection may last up to 90 days, with a possible extension in unavoidable circumstances.",
+      "The soldiers’ military backgrounds and firsthand knowledge of North Korea’s deployment to Russia could result in more extensive debriefing.",
+      "Those granted protection usually receive resettlement training before entering South Korean society.",
+      "DID UKRAINE HAVE THE RIGHT TO TRANSFER THEM?",
+      "The Third Geneva Convention requires prisoners of war to be released and repatriated without delay after active hostilities end. That does not necessarily prohibit earlier release or transfer to a third country.",
+      "South Korea and Ukraine have not disclosed the legal basis for their transfer, including whether it formally ends the soldiers’ POW status.",
+      "HOW HAS SOUTH KOREA RESPONDED TO THE UKRAINE WAR?",
+      "South Korea, which is a major arms producer, has faced pressure from some Western countries and Kyiv to provide Ukraine with lethal weapons but has so far focused on non-lethal aid including demining equipment.",
+      "President Lee Jae Myung announced a $100 million support package for Ukraine at a NATO summit in July, while his government reiterated that lethal weapons were excluded.",
+      "Seoul also pledged continued humanitarian assistance and support for reconstruction.",
+      "WHY DID SOUTH KOREA WANT SECRECY?",
+      "South Korea demanded an apology from Ukraine after Zelenskiy disclosed the transfer at the UN General Assembly last week, saying Kyiv had breached an agreement to keep it confidential.",
+      "Seoul said confidentiality was necessary to protect the soldiers and relatives in North Korea.",
+      "Kyiv has said no secrecy agreement existed."
+    ],
+    "paragraphTranslations": [
+      "两名朝鲜士兵在为俄罗斯对乌作战期间被俘，现已被送往韩国。围绕二人的调查、保护和安置方案，以及此次移交的法律依据，外界仍存在诸多疑问。",
+      "接下来可能出现以下情况。",
+      "两名士兵将经过哪些程序？",
+      "韩国当局预计会先对两名士兵进行问询与安全审查，再决定是否给予保护并启动安置程序。",
+      "韩国统一部周一表示，将依据相关法律和以往做法审查二人的个案。这意味着《朝鲜脱离居民保护与定居支援法》可能适用。",
+      "依照该法，韩国国家情报院会调查处于临时保护性拘留中的申请人，核实其身份、离开朝鲜的原因和涉及安全的事项。",
+      "调查与临时保护最长可持续九十天，如遇不可避免的情况还可以延长。",
+      "由于二人有军旅背景，对朝鲜向俄罗斯派兵有第一手了解，情况问询可能更深入。",
+      "获得保护的人一般会在进入韩国社会前接受定居适应培训。",
+      "乌克兰有权移交这两名士兵吗？",
+      "《日内瓦第三公约》规定，实际敌对行动结束后，战俘必须立即获释并被遣返。这并不必然禁止提前释放，或移交给第三国。",
+      "韩国和乌克兰尚未公开移交的法律依据，也没有说明此举是否正式结束了二人的战俘身份。",
+      "韩国如何应对乌克兰战争？",
+      "韩国是重要的武器生产国。西方一些国家以及基辅一直敦促它向乌克兰提供致命武器，但迄今韩国主要提供排雷设备等非致命援助。",
+      "韩国总统李在明七月在北约峰会上宣布向乌克兰提供一亿美元援助；他的政府同时重申，其中不包括致命武器。",
+      "韩国政府还承诺继续提供人道援助并支持重建。",
+      "韩国为什么要求保密？",
+      "泽连斯基上周在联合国大会上披露了这次移交。韩国随后要求乌克兰道歉，称基辅违反了双方的保密约定。",
+      "韩国称，保密是为了保护两名士兵以及他们在朝鲜的亲属。",
+      "基辅则表示，从未达成过保密协议。"
+    ],
+    "vocabulary": [
+      {
+        "form": "transferred",
+        "ipa": "/trænsˈfɜː(r)/",
+        "pos": "v.",
+        "meaning": "转移，移送",
+        "definition": "to move from one place to another; to move sth./sb. from one place to another",
+        "zh": "转移，移送"
+      },
+      {
+        "form": "captured",
+        "ipa": "/ˈkæptʃə(r)/",
+        "pos": "v.",
+        "meaning": "捕获，俘虏，抓获",
+        "definition": "to catch a person or an animal and keep them as a prisoner or shut them in a space that they cannot escape from",
+        "zh": "捕获，俘虏，抓获"
+      },
+      {
+        "form": "resettled",
+        "ipa": "/ˌriːˈsetl/",
+        "pos": "v.",
+        "meaning": "（使）重新定居，安置",
+        "definition": "to help people go and live in a new country or area; to go and live in a new country or area",
+        "zh": "（使）重新定居，安置"
+      },
+      {
+        "form": "undergo",
+        "ipa": "/ˌʌndəˈɡəʊ/",
+        "pos": "v.",
+        "meaning": "经历，经受",
+        "definition": "to experience sth., especially a change or sth. unpleasant",
+        "zh": "经历，经受"
+      },
+      {
+        "form": "screening",
+        "ipa": "/skriːn/",
+        "pos": "v.",
+        "meaning": "筛查，审查，甄别",
+        "definition": "to test or examine sb. or sth. to discover if there is anything wrong with him, her, or it",
+        "zh": "筛查，审查，甄别"
+      },
+      {
+        "form": "grant",
+        "ipa": "/ɡrɑːnt/",
+        "pos": "v.",
+        "meaning": "准予，授予，给予",
+        "definition": "to agree to give sb. what they ask for, especially formal or legal permission to do sth.",
+        "zh": "准予，授予，给予"
+      },
+      {
+        "form": "Defectors",
+        "ipa": "/dɪˈfektə(r)/",
+        "pos": "n.",
+        "meaning": "叛逃者，变节者，叛离者",
+        "definition": "a person who leaves a political party, country, etc. to join another that is considered to be an enemy",
+        "zh": "叛逃者，变节者，叛离者"
+      },
+      {
+        "form": "custody",
+        "ipa": "/ˈkʌstədi/",
+        "pos": "n.",
+        "meaning": "拘留；监管",
+        "definition": "the state of being kept or held by the authorities",
+        "zh": "拘留；监管"
+      },
+      {
+        "form": "verifying",
+        "ipa": "/ˈverɪfaɪ/",
+        "pos": "v.",
+        "meaning": "核实，查证，验证",
+        "definition": "(formal) to check that sth. is true or accurate",
+        "zh": "核实，查证，验证"
+      },
+      {
+        "form": "extension",
+        "ipa": "/ɪkˈstenʃn/",
+        "pos": "n.",
+        "meaning": "延期，延长期限",
+        "definition": "an extra period of time allowed for sth.",
+        "zh": "延期，延长期限"
+      },
+      {
+        "form": "debriefing",
+        "ipa": "/ˌdiːˈbriːfɪŋ/",
+        "pos": "n.",
+        "meaning": "情况问询，任务汇报，质询摸底",
+        "definition": "the activity of asking sb. questions officially, in order to get information about the task that they have just completed",
+        "zh": "情况问询，任务汇报，质询摸底"
+      },
+      {
+        "form": "repatriated",
+        "ipa": "/ˌriːˈpætrieɪt/",
+        "pos": "v.",
+        "meaning": "遣返，送回本国",
+        "definition": "(formal) to send or bring sb. back to their own country",
+        "zh": "遣返，送回本国"
+      },
+      {
+        "form": "hostilities",
+        "ipa": "/hɒˈstɪlətiz/",
+        "pos": "n.",
+        "meaning": "敌对行动，战事，交火",
+        "definition": "(formal) acts of fighting in a war",
+        "zh": "敌对行动，战事，交火"
+      },
+      {
+        "form": "disclosed",
+        "ipa": "/dɪsˈkləʊz/",
+        "pos": "v.",
+        "meaning": "披露，公开，透露",
+        "definition": "(formal) to give sb. information about sth., especially sth. that was previously secret",
+        "zh": "披露，公开，透露"
+      },
+      {
+        "form": "lethal",
+        "ipa": "/ˈliːθl/",
+        "pos": "adj.",
+        "meaning": "致命的，可致死的",
+        "definition": "causing or able to cause death",
+        "zh": "致命的，可致死的"
+      },
+      {
+        "form": "reiterated",
+        "ipa": "/riˈɪtəreɪt/",
+        "pos": "v.",
+        "meaning": "重申，再次强调",
+        "definition": "(formal) to repeat sth. that you have already said, especially to emphasize it",
+        "zh": "重申，再次强调"
+      },
+      {
+        "form": "breached",
+        "ipa": "/briːtʃ/",
+        "pos": "v.",
+        "meaning": "违反，违背（协议、承诺、规定）",
+        "definition": "(formal) to not keep to an agreement or not keep a promise",
+        "zh": "违反，违背（协议、承诺、规定）"
+      },
+      {
+        "form": "confidential",
+        "ipa": "/ˌkɒnfɪˈdenʃl/",
+        "pos": "adj.",
+        "meaning": "保密的，机密的",
+        "definition": "meant to be kept secret and not told to or shared with other people",
+        "zh": "保密的，机密的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to agree to give sb. what they ask for, especially formal or legal permission to do sth.",
+      "causing or able to cause death"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “The Third Geneva Convention requires prisoners of war to be released and repatriated without delay after active hostilities end. That does not necessarily prohibit earlier release or transfer to a third country.”?",
+    "exerciseChoiceMarked": [
+      "transfer"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "You can transfer data to a memory stick in a few seconds.",
+        "marked": [
+          "transfer"
+        ],
+        "zh": "几秒钟内就能把数据传到 U 盘里。"
+      },
+      {
+        "label": "B",
+        "text": "Joe had already transferred his affections from Lisa to Cleo.",
+        "marked": [
+          "transferred"
+        ],
+        "zh": "乔已经移情别恋，从喜欢莉萨变成了喜欢克利奥。"
+      },
+      {
+        "label": "C",
+        "text": "The suspect will be transferred to the local court tomorrow.",
+        "marked": [
+          "transferred"
+        ],
+        "zh": "嫌疑人明天将被移送至当地法院。"
+      },
+      {
+        "label": "D",
+        "text": "Passengers are transferred from the airport to the hotel by taxi.",
+        "marked": [
+          "transferred"
+        ],
+        "zh": "乘客乘出租车从机场前往酒店。"
+      }
+    ],
+    "exerciseTranslationPrompt": "两名朝鲜士兵在为俄罗斯对乌作战期间被俘，现已被送往韩国。围绕二人的调查、保护和安置方案，以及此次移交的法律依据，外界仍存在诸多疑问。",
+    "answerVocabularyList": [
+      "grant",
+      "lethal"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "Two North Korean soldiers captured while fighting for Russia against Ukraine are now in South Korea, raising questions over how they will be investigated, protected and resettled, and the legal basis for their transfer."
+  },
+  {
+    "key": "nov1105",
+    "date": "2026.11.05",
+    "period": "2026年11月",
+    "folder": "1105 高盛研报：中国经济到底出了什么问题？",
+    "titleZh": "高盛研报：中国经济到底出了什么问题？",
+    "title": "China Matters: Path of Least Resistance",
+    "topicEn": "Economy",
+    "topicZh": "经济",
+    "byline": "By Hui Shan, Goldman Sachs, Published September 20, 2026",
+    "paragraphs": [
+      "The production-consumption gap is widening. Industrial production growth accelerated to 5.2% yoy in August, while retail sales growth slipped to 0.4% yoy. Measurement issues suggest the supply-demand gap may be even wider than official data indicate. With policymakers focused on high-flying subsectors such as robots and semiconductors, there appears little urgency for broad-based easing, absent a sharp deterioration in the labor market, and the divergence could widen further.",
+      "From “property drags on the economy” to “the economy weighs on property.” China is nearing the typical 30% real house price decline and six-year timeline observed in historical international data of large-scale housing busts. But weak labor markets and still-falling rents are likely to prolong the downturn in many parts of China. Outside top-tier cities and premium segments, the path of least resistance is further price weakness.",
+      "Structural shift is a bigger headwind to employment than to GDP. Credit growth has slowed materially as the economy pivots away from credit-intensive property and infrastructure toward AI and high-tech manufacturing. That mix can sustain exports and headline output, but it is less labor-intensive. As China presses ahead with technological innovation and manufacturing competitiveness, the drag on employment, household income, and consumption is likely to persist.",
+      "The growth target dilemma. We expect sequential growth to pick up in coming months, supported by faster government bond issuance and increasing infrastructure investment. But that would still leave Q3 and Q4 real GDP growth at 4.4% yoy and full-year growth at 4.5%, the lower bound of the government’s 4.5-5.0% target. Annual growth targets help coordinate resources and support the long-term objective of “doubling income by 2035,” but they also push the government to lean on investment whenever growth slows, delaying rebalancing. The path of least resistance may be gradual RMB appreciation and more export-rebate cuts to manage large trade surpluses and rising trade tensions, alongside a gradual downgrade of the annual growth target—for example, from “4.5-5.0%” in 2026 to “around 4.5%” in 2027."
+    ],
+    "paragraphTranslations": [
+      "生产与消费之间的缺口正在扩大。八月工业生产同比增速加快至 5.2%，零售额同比增速却降到 0.4%。统计口径问题表明，供需缺口可能比官方数据所显示的更大。政策制定者把注意力放在机器人、半导体等快速增长的细分行业上。除非劳动力市场急剧恶化，出台全面宽松政策似乎并不紧迫，分化还可能进一步扩大。",
+      "从“房地产拖累经济”到“经济压低房地产”。从国际历史数据来看，大规模房地产泡沫破裂后，实际房价通常下跌约 30%，调整期持续约六年。中国正接近这一典型跌幅和调整时长。不过，就业市场疲弱、租金持续下跌，可能让中国许多地区的下行延续更久。除一线城市和高端市场以外，房价继续走弱是阻力最小的路径。",
+      "经济结构变化给就业带来的阻力比给 GDP 带来的更大。随着经济从信贷密集的房地产和基建转向人工智能与高科技制造，信贷增速明显放缓。这种结构能支撑出口与总体产出，却没有那么依赖劳动力。随着中国继续推进科技创新与制造业竞争力提升，就业、家庭收入和消费受到的拖累很可能持续。",
+      "增长目标带来两难。我们预计，随着政府债券加速发行、基建投资增加，未来几个月的环比增速将回升。即便如此，第三、第四季度实际 GDP 同比增速仍将是 4.4%，全年增速为 4.5%，处于政府 4.5%–5.0% 目标的下限。年度增长目标有助于统筹资源，支持“到 2035 年收入翻番”的长期目标；但每当增速放缓时，它也推动政府依赖投资，延缓经济再平衡。阻力最小的路径或许是让人民币逐步升值、进一步下调出口退税，以应对大额贸易顺差和日益紧张的贸易关系，同时逐步下调年度增长目标，例如从 2026 年的 4.5%–5.0% 降至 2027 年的“4.5% 左右”。"
+    ],
+    "vocabulary": [
+      {
+        "form": "resistance",
+        "ipa": "/rɪˈzɪstəns/",
+        "pos": "n.",
+        "meaning": "阻力，抵制",
+        "definition": "opposition to an action or change; in the text, difficulty in moving in a particular direction",
+        "zh": "阻力，抵制"
+      },
+      {
+        "form": "widening",
+        "ipa": "/ˈwaɪdn/",
+        "pos": "v.",
+        "meaning": "扩大，拉大",
+        "definition": "to become larger in degree or range",
+        "zh": "扩大，拉大"
+      },
+      {
+        "form": "accelerated",
+        "ipa": "/əkˈseləreɪt/",
+        "pos": "v.",
+        "meaning": "加速，加快，提速",
+        "definition": "If a process accelerates or if sth. accelerates it, it happens faster than usual or sooner than you expect.",
+        "zh": "加速，加快，提速"
+      },
+      {
+        "form": "semiconductors",
+        "ipa": "/ˌsemikənˈdʌktə(r)/",
+        "pos": "n.",
+        "meaning": "半导体，半导体材料，半导体器件",
+        "definition": "a substance, such as silicon, that allows some electric currents to pass through it, and is used in electronic equipment",
+        "zh": "半导体，半导体材料，半导体器件"
+      },
+      {
+        "form": "easing",
+        "ipa": "/ˈiːzɪŋ/",
+        "pos": "n.",
+        "meaning": "政策宽松，放松，放宽",
+        "definition": "the process of making economic policy less restrictive in order to support growth",
+        "zh": "政策宽松，放松，放宽"
+      },
+      {
+        "form": "deterioration",
+        "ipa": "/dɪˌtɪəriəˈreɪʃən/",
+        "pos": "n.",
+        "meaning": "恶化，变坏，退化",
+        "definition": "the fact or process of becoming worse",
+        "zh": "恶化，变坏，退化"
+      },
+      {
+        "form": "divergence",
+        "ipa": "/daɪˈvɜːdʒəns/",
+        "pos": "n.",
+        "meaning": "分化，背离，差异",
+        "definition": "the process or fact of separating or becoming different",
+        "zh": "分化，背离，差异"
+      },
+      {
+        "form": "drags on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "拖累，累赘，阻碍",
+        "definition": "to make sth. develop or perform worse; to be a burden on sth.",
+        "zh": "拖累，累赘，阻碍"
+      },
+      {
+        "form": "busts",
+        "ipa": "/bʌst/",
+        "pos": "n.",
+        "meaning": "萧条，崩盘，衰败",
+        "definition": "(informal) a period of bad economic conditions",
+        "zh": "萧条，崩盘，衰败"
+      },
+      {
+        "form": "prolong",
+        "ipa": "/prəˈlɒŋ/, /prəˈlɔːŋ/",
+        "pos": "v.",
+        "meaning": "延长，拖延，使持续",
+        "definition": "to make sth. last longer",
+        "zh": "延长，拖延，使持续"
+      },
+      {
+        "form": "downturn",
+        "ipa": "/ˈdaʊntɜːn/, /ˈdaʊntɜːrn/",
+        "pos": "n.",
+        "meaning": "衰退，下行，低迷",
+        "definition": "a time when the economy becomes weaker",
+        "zh": "衰退，下行，低迷"
+      },
+      {
+        "form": "segments",
+        "ipa": "/ˈseɡmənt/",
+        "pos": "n.",
+        "meaning": "部分，板块，细分市场",
+        "definition": "a part of sth. that is separate from the other parts or can be considered separately",
+        "zh": "部分，板块，细分市场"
+      },
+      {
+        "form": "headwind",
+        "ipa": "/ˈhedwɪnd/",
+        "pos": "n.",
+        "meaning": "不利因素，阻力",
+        "definition": "a circumstance or factor that makes it difficult to make progress",
+        "zh": "不利因素，阻力"
+      },
+      {
+        "form": "Credit",
+        "ipa": "/ˈkredɪt/",
+        "pos": "n.",
+        "meaning": "信贷，贷款，借款",
+        "definition": "an arrangement with a bank for a loan, or bank lending in general",
+        "zh": "信贷，贷款，借款"
+      },
+      {
+        "form": "pivots",
+        "ipa": "/ˈpɪvət/",
+        "pos": "v.",
+        "meaning": "调整重心，改变方向",
+        "definition": "to change the way in which sth. is done",
+        "zh": "调整重心，改变方向"
+      },
+      {
+        "form": "dilemma",
+        "ipa": "/dɪˈlemə/, /daɪˈlemə/",
+        "pos": "n.",
+        "meaning": "两难处境，进退两难，难以抉择的困境",
+        "definition": "a situation that makes problems, often one in which you have to make a very difficult choice between things of equal importance",
+        "zh": "两难处境，进退两难，难以抉择的困境"
+      },
+      {
+        "form": "pick up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "好转，回升，改善",
+        "definition": "to improve",
+        "zh": "好转，回升，改善"
+      },
+      {
+        "form": "appreciation",
+        "ipa": "/əˌpriːʃiˈeɪʃən/",
+        "pos": "n.",
+        "meaning": "升值，增值，价值上涨",
+        "definition": "an increase in the value of one currency compared to other currencies",
+        "zh": "升值，增值，价值上涨"
+      },
+      {
+        "form": "export-rebate",
+        "ipa": "/ˈriːbeɪt/",
+        "pos": "n.",
+        "meaning": "退税，退款，返还款",
+        "definition": "an amount of money that is paid back to you because you have paid too much",
+        "zh": "退税，退款，返还款"
+      },
+      {
+        "form": "surpluses",
+        "ipa": "/ˈsɜːpləs/, /ˈsɜːrplʌs/",
+        "pos": "n.",
+        "meaning": "顺差，盈余",
+        "definition": "the amount by which the amount of money received is greater than the amount of money spent",
+        "zh": "顺差，盈余"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to become larger in degree or range",
+      "the process or fact of separating or becoming different"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The path of least resistance may be gradual RMB appreciation and more export-rebate cuts to manage large trade surpluses and rising trade tensions, alongside a gradual downgrade of the annual growth target—for example, from “4.5-5.0%” in 2026 to “around 4.5%” in 2027.”?",
+    "exerciseChoiceMarked": [
+      "appreciation"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "It helps children to develop an appreciation of poetry and literature.",
+        "marked": [
+          "appreciation"
+        ],
+        "zh": "它有助于培养孩子对诗歌和文学的欣赏能力。"
+      },
+      {
+        "label": "B",
+        "text": "Management does not have a realistic appreciation of the situation.",
+        "marked": [
+          "appreciation"
+        ],
+        "zh": "管理层没有对形势形成切合实际的认识。"
+      },
+      {
+        "label": "C",
+        "text": "The steady appreciation of the property has increased her wealth.",
+        "marked": [
+          "appreciation"
+        ],
+        "zh": "房产持续升值增加了她的财富。"
+      },
+      {
+        "label": "D",
+        "text": "She sent him a gift to express her appreciation for his help.",
+        "marked": [
+          "appreciation"
+        ],
+        "zh": "她送给他一份礼物，感谢他的帮助。"
+      }
+    ],
+    "exerciseTranslationPrompt": "从国际历史数据来看，大规模房地产泡沫破裂后，实际房价通常下跌约 30%，调整期持续约 6 年。中国目前正接近这一典型跌幅和调整时长。",
+    "answerVocabularyList": [
+      "widen",
+      "divergence"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "China is nearing the typical 30% real house price decline and six-year timeline observed in historical international data of large-scale housing busts."
+  },
+  {
+    "key": "nov1106",
+    "date": "2026.11.06",
+    "period": "2026年11月",
+    "folder": "1106 关于中期选举，你值得关注的要点 1.pdf",
+    "titleZh": "关于中期选举，你值得关注的要点 1",
+    "title": "America Punishes Trump’s Party: 8 Takeaways From a Democratic Landslide",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Shane Goldmacher and Patricia Mazzei, The New York Times, Updated November 4, 2026",
+    "paragraphs": [
+      "Democrats won shocking victories all over the map and flipped the Senate and House with ease, leaving the president weakened. “There was a mood in the air, I guess,” he said.",
+      "Democrats marched to a landslide victory in the midterm elections on Tuesday as voters across the country raged at President Trump’s party, dealing Republicans stunning defeats from the Deep South to the prairie lands.",
+      "For the first time in decades, Democrats won statewide in Texas, taking not just a Senate seat but also the governor’s mansion. They won a Senate seat in Kansas, which had not happened in nearly 100 years. They flipped a Senate seat in South Carolina, a state that had barely been on the battleground map. And they seized House seats in such deep-red territory that Democrats are on a glide path to their biggest congressional majority in years.",
+      "Economic anxieties at home and a war abroad proved to be a politically toxic combination for Mr. Trump and his party.",
+      "Democrats were on track to win the national House popular vote by the largest margin in a half-century.",
+      "The results amounted to an unambiguous mandate from the public for a check on a president who has pushed the limits of his power, and they imperiled whatever was left of a legislative agenda for Mr. Trump. Now he and his administration will face investigations that are expected to consume much of the next Congress.",
+      "Here are eight takeaways from a brutal night for Republicans:",
+      "Democrats stormed to power in the Senate.",
+      "A pediatrician in South Carolina. A minister in Kansas. A seminarian in Texas. A Paralympic gold medalist in Iowa. A logger in Maine.",
+      "Democrats had flipped half a dozen Senate seats by the time the clock struck midnight, taking control of the chamber in a sweep that seemed unthinkable just a year ago.",
+      "Entering Tuesday, Democrats did not hold a single Senate seat in a state that Mr. Trump had won all three times he ran for president. By Wednesday, they had senators-elect in six of them —including five that the president won by double digits in 2024. Democrats will enter 2027 with at least 54 seats.",
+      "The rout meant that for the rest of Mr. Trump’s second term, none of his nominees—whether for the Supreme Court or top administration posts—will be confirmed without Democratic consent. And because senators serve for six years, the Democratic victories promise to remake the chamber’s complexion into the next presidency.",
+      "The Democrats who flipped seats included Dr. Annie Andrews in South Carolina, the Rev. Adam Hamilton in Kansas, James Talarico in Texas, Josh Turek in Iowa and Troy Jackson in Maine.",
+      "In North Carolina, Roy Cooper, a former governor, became the first Democrat to win a Senate race in the state since 2008. In Ohio, former Senator Sherrod Brown completed a comeback two years after being voted out.",
+      "The breadth of the Democratic victories suggested that the dire political climate for Republicans did more to power the opposition party’s successes than anything else.",
+      "Democrats are amassing a big House majority.",
+      "Democrats flipped House seats in rural North Carolina and central Kentucky, in the suburbs of St. Louis and Omaha, and all along the Texas border. They seized three seats in Iowa and four in Pennsylvania. They rebuffed redrawn lines in Florida.",
+      "It was a romp.",
+      "Democrats made inroads deep into Republican territory, prevailing in a Kentucky district, for instance, that Mr. Trump carried by 15 percentage points in 2024. But they also ousted some of the sturdiest Republican survivors, like Representative Brian Fitzpatrick of Pennsylvania, who had been the lone House Republican to win election three times in a district that Mr. Trump lost three times.",
+      "Now Democrats are on track for a sizable House majority, with Representative Hakeem Jeffries of New York poised to become the first Black speaker in American history.",
+      "Mr. Jeffries rushed to the rooftop of the Democratic Party headquarters in Washington on Tuesday night to film a video declaring that Republicans were “shook.”",
+      "The final size of the Democratic majority was still to be decided. But as of early Wednesday, Republicans had yet to win any of the most competitive races."
+    ],
+    "paragraphTranslations": [
+      "民主党在全国各地取得出人意料的胜利，轻松翻转参议院和众议院的控制权，削弱了总统的地位。“我想，大家当时就是有那样一种情绪吧。”他说。",
+      "周二的中期选举中，民主党大获全胜。全国选民对特朗普总统所在的政党愤怒不已，从南方腹地到大平原，共和党接连遭遇惨败。",
+      "民主党几十年来首次在得克萨斯州赢得全州选举，不仅拿下一个参议院席位，还赢得了州长职位。他们拿下堪萨斯州一个参议院席位，这在近一百年来从未发生。他们还翻转了南卡罗来纳州的一个参议院席位，选前这个州几乎算不上战场州。民主党甚至在共和党的铁票区拿下众议院席位，顺势迈向多年来在国会的最大多数。",
+      "国内经济焦虑和海外战争对特朗普及其政党而言，无疑是政治上的致命组合。",
+      "民主党有望以半个世纪以来最大的优势赢得全国众议院普选。",
+      "选举结果明确显示，公众要求制衡一位不断试探权力边界的总统。特朗普剩下的立法议程也岌岌可危。他和他的政府现在将面临多项调查，预计这会占据下一届国会的大量时间。",
+      "共和党度过了惨烈的一夜。以下是选举的八个要点。",
+      "民主党强势夺得参议院控制权。",
+      "南卡罗来纳州的一位儿科医生，堪萨斯州的一位牧师，得克萨斯州的一位神学院学生，艾奥瓦州的一位残奥会金牌得主，以及缅因州的一位伐木工人。",
+      "午夜钟声敲响时，民主党已翻转六个参议院席位，以一年前还难以想象的压倒性胜利夺得参议院控制权。",
+      "周二投票前，凡是特朗普三次参选总统都赢下的州，民主党在其中没有任何一个参议院席位。到周三，民主党已在其中六个州选出候任参议员，这六个州中有五个是特朗普在 2024 年以两位数优势赢得的。民主党将在 2027 年掌握至少 54 个席位。",
+      "这场溃败意味着，在特朗普第二个任期的剩余时间里，无论是最高法院还是政府高层职位，他提名的人都必须得到民主党同意才能获确认。参议员任期六年，因此，民主党的胜利很可能重塑参议院格局，影响持续到下一届总统任期。",
+      "夺下原属共和党的席位的民主党人包括南卡罗来纳州的安妮·安德鲁斯医生、堪萨斯州的亚当·汉密尔顿牧师、得克萨斯州的詹姆斯·塔拉里科、艾奥瓦州的乔希·图雷克和缅因州的特洛伊·杰克逊。",
+      "在北卡罗来纳州，前州长罗伊·库珀成为自 2008 年以来首位在该州赢得参议院选举的民主党人。在俄亥俄州，前参议员谢罗德·布朗落选两年后成功重返参议院。",
+      "民主党胜利的范围之广表明，最能解释在野党为何获胜的，是共和党所处的严峻政治环境。",
+      "民主党正在众议院取得明显多数。",
+      "民主党在北卡罗来纳州乡村、肯塔基州中部、圣路易斯和奥马哈郊区以及得克萨斯州边境沿线翻转了众议院席位。他们在艾奥瓦州夺下三个席位，在宾夕法尼亚州夺下四个席位。在佛罗里达州，共和党重划选区也没能挡住他们。",
+      "这是一场轻松的大胜。",
+      "民主党深入共和党腹地，例如在肯塔基州一个特朗普于 2024 年领先十五个百分点的选区获胜。他们还让一些最能扛住选情压力的共和党人落选，例如宾夕法尼亚州众议员布赖恩·菲茨帕特里克。他是唯一一位在特朗普三次输掉的选区里三次赢得众议院选举的共和党人。",
+      "民主党如今有望在众议院取得可观的多数。来自纽约的众议员哈基姆·杰弗里斯有望成为美国历史上首位黑人众议院议长。",
+      "周二晚，杰弗里斯赶到民主党华盛顿总部的屋顶录制视频，称共和党人都“被吓懵了”。",
+      "民主党最终能掌握多大多数还有待确定。但截至周三清晨，共和党在竞争最激烈的选举中尚未赢下任何一场。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Takeaways",
+        "ipa": "/ˈteɪkəweɪ/",
+        "pos": "n.",
+        "meaning": "关键结论，主要收获，重要启示",
+        "definition": "an important fact, idea or lesson that sb. learns or remembers from an experience, discussion or event",
+        "zh": "关键结论，主要收获，重要启示"
+      },
+      {
+        "form": "Landslide",
+        "ipa": "/ˈlændslaɪd/",
+        "pos": "n.",
+        "meaning": "压倒性胜利，一边倒的选举结果",
+        "definition": "an election victory in which a candidate or party wins by a very large margin",
+        "zh": "压倒性胜利，一边倒的选举结果"
+      },
+      {
+        "form": "flipped",
+        "ipa": "/flɪp/",
+        "pos": "v.",
+        "meaning": "翻转，使易主，改变政治归属",
+        "definition": "to change a political seat or area from the control of one party to another",
+        "zh": "翻转，使易主，改变政治归属"
+      },
+      {
+        "form": "marched",
+        "ipa": "/mɑːtʃ/",
+        "pos": "v.",
+        "meaning": "大步前进，坚定地向……迈进",
+        "definition": "to move steadily and confidently towards a place or a particular result",
+        "zh": "大步前进，坚定地向……迈进"
+      },
+      {
+        "form": "raged",
+        "ipa": "/reɪdʒ/",
+        "pos": "v.",
+        "meaning": "愤怒，怒斥，强烈表达不满",
+        "definition": "to feel or express intense anger about sb. or sth.",
+        "zh": "愤怒，怒斥，强烈表达不满"
+      },
+      {
+        "form": "stunning",
+        "ipa": "/ˈstʌnɪŋ/",
+        "pos": "adj.",
+        "meaning": "令人震惊的，出人意料的，惊人的",
+        "definition": "extremely surprising or impressive, especially in a way that attracts great attention",
+        "zh": "令人震惊的，出人意料的，惊人的"
+      },
+      {
+        "form": "prairie",
+        "ipa": "/ˈpreəri/",
+        "pos": "n.",
+        "meaning": "大草原，北美草原",
+        "definition": "a broad area of mostly flat grassland in North America, with very few trees",
+        "zh": "大草原，北美草原"
+      },
+      {
+        "form": "mansion",
+        "ipa": "/ˈmænʃən/",
+        "pos": "n.",
+        "meaning": "宅邸，官邸，豪宅",
+        "definition": "a very large and impressive house, often belonging to a wealthy or important person",
+        "zh": "宅邸，官邸，豪宅"
+      },
+      {
+        "form": "glide path",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "顺利实现目标的路径，稳步迈向某一结果的趋势",
+        "definition": "a planned or expected course of progress towards a particular result or goal",
+        "zh": "顺利实现目标的路径，稳步迈向某一结果的趋势"
+      },
+      {
+        "form": "congressional",
+        "ipa": "/kənˈɡreʃənəl/",
+        "pos": "adj.",
+        "meaning": "国会的，与国会有关的",
+        "definition": "connected with a congress, especially the Congress of the United States",
+        "zh": "国会的，与国会有关的"
+      },
+      {
+        "form": "toxic",
+        "ipa": "/ˈtɒksɪk/",
+        "pos": "adj.",
+        "meaning": "有害的，具有破坏性的，带来严重负面影响的",
+        "definition": "causing serious harm or having a very damaging effect on a person, relationship or situation",
+        "zh": "有害的，具有破坏性的，带来严重负面影响的"
+      },
+      {
+        "form": "were on track",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "有望实现目标，进展顺利，按预期推进",
+        "definition": "to be doing the right thing in order to achieve a particular result",
+        "zh": "有望实现目标，进展顺利，按预期推进"
+      },
+      {
+        "form": "margin",
+        "ipa": "/ˈmɑːdʒɪn/",
+        "pos": "n.",
+        "meaning": "差额，领先幅度，胜出优势",
+        "definition": "the difference in the number of votes or points between the winner and the loser in a competition or election",
+        "zh": "差额，领先幅度，胜出优势"
+      },
+      {
+        "form": "amounted to",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "相当于，意味着",
+        "definition": "to have the same effect or meaning as sth. else, especially when considering the overall result of a situation",
+        "zh": "相当于，意味着"
+      },
+      {
+        "form": "mandate",
+        "ipa": "/ˈmændeɪt/",
+        "pos": "n.",
+        "meaning": "授权，民意委托，施政授权",
+        "definition": "the authority given to a government or political leader by voters to carry out particular policies",
+        "zh": "授权，民意委托，施政授权"
+      },
+      {
+        "form": "imperiled",
+        "ipa": "/ɪmˈperəl/",
+        "pos": "v.",
+        "meaning": "危及，使陷入危险，损害",
+        "definition": "to put sb. or sth. in a situation where they may be seriously harmed, damaged or lost",
+        "zh": "危及，使陷入危险，损害"
+      },
+      {
+        "form": "brutal",
+        "ipa": "/ˈbruːtəl/",
+        "pos": "adj.",
+        "meaning": "残酷的，严酷的，令人难以承受的",
+        "definition": "extremely harsh, unpleasant or severe, especially in a way that causes suffering or defeat",
+        "zh": "残酷的，严酷的，令人难以承受的"
+      },
+      {
+        "form": "pediatrician",
+        "ipa": "/ˌpiːdiəˈtrɪʃən/",
+        "pos": "n.",
+        "meaning": "儿科医生",
+        "definition": "a doctor who specializes in treating children and their illnesses",
+        "zh": "儿科医生"
+      },
+      {
+        "form": "seminarian",
+        "ipa": "/ˌsemɪˈneəriən/",
+        "pos": "n.",
+        "meaning": "神学院学生，修生",
+        "definition": "a student who is studying at a seminary in preparation for becoming a priest or religious minister",
+        "zh": "神学院学生，修生"
+      },
+      {
+        "form": "logger",
+        "ipa": "/ˈlɒɡə/",
+        "pos": "n.",
+        "meaning": "伐木工人，木材采伐工",
+        "definition": "a person whose job involves cutting down trees for timber",
+        "zh": "伐木工人，木材采伐工"
+      },
+      {
+        "form": "chamber",
+        "ipa": "/ˈtʃeɪmbə/",
+        "pos": "n.",
+        "meaning": "议院，议会的一院",
+        "definition": "one of the separate parts of a parliament or legislature in which laws are discussed and voted on",
+        "zh": "议院，议会的一院"
+      },
+      {
+        "form": "sweep",
+        "ipa": "/swiːp/",
+        "pos": "n.",
+        "meaning": "全面胜利，横扫，大获全胜",
+        "definition": "a situation in which a person or group wins all or nearly all of a series of competitions or contests",
+        "zh": "全面胜利，横扫，大获全胜"
+      },
+      {
+        "form": "digits",
+        "ipa": "/ˈdɪdʒɪt/",
+        "pos": "n.",
+        "meaning": "数字，数位",
+        "definition": "any of the ten numbers from 0 to 9 used to represent larger numbers",
+        "zh": "数字，数位"
+      },
+      {
+        "form": "rout",
+        "ipa": "/raʊt/",
+        "pos": "n.",
+        "meaning": "惨败，溃败，压倒性的失败",
+        "definition": "a complete and decisive defeat of an opponent, especially in a competition or battle",
+        "zh": "惨败，溃败，压倒性的失败"
+      },
+      {
+        "form": "nominees",
+        "ipa": "/ˌnɒmɪˈniː/",
+        "pos": "n.",
+        "meaning": "被提名者，候选人，获提名人选",
+        "definition": "a person who has been formally suggested or chosen for a job, position, honour or election",
+        "zh": "被提名者，候选人，获提名人选"
+      },
+      {
+        "form": "consent",
+        "ipa": "/kənˈsent/",
+        "pos": "n.",
+        "meaning": "同意，许可，批准",
+        "definition": "permission or agreement given for sth. to happen or for sb. to do sth.",
+        "zh": "同意，许可，批准"
+      },
+      {
+        "form": "complexion",
+        "ipa": "/kəmˈplekʃən/",
+        "pos": "n.",
+        "meaning": "局面，性质，整体形势",
+        "definition": "the general character or nature of a situation, especially when it changes",
+        "zh": "局面，性质，整体形势"
+      },
+      {
+        "form": "dire",
+        "ipa": "/ˈdaɪə/",
+        "pos": "adj.",
+        "meaning": "严峻的，极其严重的，危急的",
+        "definition": "extremely serious or unpleasant, especially in a way that causes great difficulty or danger",
+        "zh": "严峻的，极其严重的，危急的"
+      },
+      {
+        "form": "amassing",
+        "ipa": "/əˈmæs/",
+        "pos": "v.",
+        "meaning": "积累，聚集，大量获得",
+        "definition": "to gradually collect or obtain a large quantity of sth., especially money, information or resources",
+        "zh": "积累，聚集，大量获得"
+      },
+      {
+        "form": "rebuffed",
+        "ipa": "/rɪˈbʌf/",
+        "pos": "v.",
+        "meaning": "拒绝，抵制，挫败",
+        "definition": "to reject an offer, suggestion or attempt firmly, often in a way that shows disapproval",
+        "zh": "拒绝，抵制，挫败"
+      },
+      {
+        "form": "redrawn",
+        "ipa": "/ˌriːˈdrɔː/",
+        "pos": "v.",
+        "meaning": "重新划定，重新绘制，调整边界",
+        "definition": "to draw sth. again, especially to change the boundaries or arrangement of an area",
+        "zh": "重新划定，重新绘制，调整边界"
+      },
+      {
+        "form": "romp",
+        "ipa": "/rɒmp/",
+        "pos": "n.",
+        "meaning": "轻松获胜，压倒性胜利",
+        "definition": "an easy and comfortable victory in a competition or election",
+        "zh": "轻松获胜，压倒性胜利"
+      },
+      {
+        "form": "made inroads deep into",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "取得突破，逐步扩大影响，进入原本难以进入的领域",
+        "definition": "to begin to achieve success or gain influence in an area previously controlled or dominated by sb. else",
+        "zh": "取得突破，逐步扩大影响，进入原本难以进入的领域"
+      },
+      {
+        "form": "prevailing",
+        "ipa": "/prɪˈveɪl/",
+        "pos": "v.",
+        "meaning": "获胜，占上风，取得最终胜利",
+        "definition": "to defeat an opponent or succeed after a difficult struggle or competition",
+        "zh": "获胜，占上风，取得最终胜利"
+      },
+      {
+        "form": "ousted",
+        "ipa": "/aʊst/",
+        "pos": "v.",
+        "meaning": "罢免，赶下台，取代",
+        "definition": "to force sb. out of a position of power or responsibility, especially in politics",
+        "zh": "罢免，赶下台，取代"
+      },
+      {
+        "form": "sturdiest",
+        "ipa": "/ˈstɜːdi/",
+        "pos": "adj.",
+        "meaning": "坚定的，坚韧的，不易被击败的",
+        "definition": "strong and determined enough to continue or survive despite difficulties or opposition",
+        "zh": "坚定的，坚韧的，不易被击败的"
+      },
+      {
+        "form": "poised",
+        "ipa": "/pɔɪzd/",
+        "pos": "adj.",
+        "meaning": "准备就绪的，即将……的，有望……的",
+        "definition": "ready or in a position to do sth. or for sth. to happen very soon",
+        "zh": "准备就绪的，即将……的，有望……的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "an election victory in which a candidate or party wins by a very large margin",
+      "to put sb. or sth. in a situation where they may be seriously harmed, damaged or lost"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Democrats won shocking victories all over the map and flipped the Senate and House with ease, leaving the president weakened. ”?",
+    "exerciseChoiceMarked": [
+      "flipped"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She flipped the pancake over to cook the other side.",
+        "marked": [
+          "flipped"
+        ],
+        "zh": "她把煎饼翻过来，煎另一面。"
+      },
+      {
+        "label": "B",
+        "text": "He flipped a coin to decide who would go first.",
+        "marked": [
+          "flipped"
+        ],
+        "zh": "他抛硬币决定谁先来。"
+      },
+      {
+        "label": "C",
+        "text": "She flipped for him the moment they met.",
+        "marked": [
+          "flipped"
+        ],
+        "zh": "她一见到他就迷上了他。"
+      },
+      {
+        "label": "D",
+        "text": "Democrats flipped several Republican-held seats in the midterm elections.",
+        "marked": [
+          "flipped"
+        ],
+        "zh": "民主党在中期选举中夺下了几个原属共和党的席位。"
+      }
+    ],
+    "exerciseTranslationPrompt": "国内经济焦虑和海外战争对特朗普及其政党而言，无疑是政治上的致命组合。民主党有望以半个世纪以来最大的优势赢得众议院普选。",
+    "answerVocabularyList": [
+      "landslide",
+      "imperil"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "Economic anxieties at home and a war abroad proved to be a politically toxic combination for Mr. Trump and his party. Democrats were on track to win the national House popular vote by the largest margin in a half-century."
+  },
+  {
     "key": "nov1109",
     "date": "2026.11.09",
     "period": "2026年11月",
@@ -3079,5 +4629,1257 @@ export const octoberNovemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "hailed"
     ]
-  }
+  },
+  {
+    "key": "nov1116",
+    "date": "2026.11.16",
+    "period": "2026年11月",
+    "folder": "1116  AI 正在悄悄进入美国中小学课堂",
+    "titleZh": "AI 正在悄悄进入美国中小学课堂",
+    "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+    "topicEn": "Education & Technology",
+    "topicZh": "教育与科技",
+    "byline": "By Dana Goldstein and Natasha Singer, The New York Times, Published November 3, 2026",
+    "paragraphs": [
+      "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
+      "Dana Goldstein covers education for The Times. She has a special interest in the curriculum and political battles over education, and have lately focused on how artificial intelligence is changing intellectual life.",
+      "Natasha Singer has covered tech in schools for The Times for more than decade. She is currently focused on the groundswell of parent concern about school laptops and A.I. chatbots.",
+      "Google announced Tuesday that early next year it would turn off artificial intelligence tools in its popular software for K-12 students, unless school administrators explicitly choose to make such tools available.",
+      "Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I.",
+      "But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Google search.",
+      "A.I. features are now a standard part of Google’s commercially available search engine. “Search and A.I. are deeply integrated,” said Chris Phillips, vice president for education at Google. If a school has banned A.I., he added, students “will not have access to search, and they’ll see a message from their school that indicates it’s not available.”",
+      "Google is by far the dominant technology player in K-12 classrooms. Google’s suite of education apps—including Gmail, Docs and an assignment platform called Classroom—is ubiquitous. Google Chromebooks, low-cost laptops, are the most widely issued student devices in U.S. schools. And Google is synonymous with internet search, a crucial tool for students across the globe.",
+      "The company’s new strategy underscores Google’s powerful role in American education. If school leaders want continued student access to search within the company’s ecosystem, they will be forced to embrace Google’s A.I.",
+      "Lina Khan, a former chair of the Federal Trade Commission, said in a statement that Google was using its “search monopoly to coerce schools” into adopting its A.I. She added that multiple courts had found the tech giant liable for violating antitrust laws.",
+      "“This latest move shows it remains unchastened,” Ms. Khan said of Google’s new A.I. changes for schools. “As the public increasingly pushes back against the use of AI in schools,” she added, “Google is making clear it will punish those who don’t fall in line.”",
+      "In recent months, Google has been promoting its Gemini chatbot as a valuable educational tool, saying it can aid teachers in planning lessons and serve as a personalized tutor for students. A new student feature within Gemini, Guided Learning, is supposed to make it harder for students to use A.I. to cheat. “We’re evolving our approach,” said Mr. Phillips. He promised tools that would “support the productive struggle” of learning and tamp down on students turning to A.I. for easy answers.",
+      "In August, Google turned on A.I. features as the default option inside its Classroom app for K-12 schools that had allowed students separate access to the company’s Gemini chatbot. The move upset some school leaders, who felt schools should be able to decide how and when students used Google’s A.I.",
+      "Google’s August change will now be reversed.",
+      "Parent activists have been pushing back against the use of A.I. in schools, and against screen time more generally. While A.I. chatbots can be useful tools for research and coding, they can also easily be used to cheat on school assignments and can provide false information. Research shows chatbots can also hinder critical thinking and ensnare adolescents in emotional dependency.",
+      "Last week, New York State passed a chatbot safety law that would prohibit companies from providing a variety of A.I. features for minors. And in September, the nation’s two largest school districts, in New York City and Los Angeles—both Google clients—broadly restricted student access to generative artificial intelligence on school devices.",
+      "In response to Google’s Tuesday announcement, Mayor Zohran Mamdani of New York City wrote on social media, “No corporation should have the power to dictate how we teach our children. Our public schools exist to serve students, not to grow the profit margin of Big Tech.”",
+      "Officials in the Los Angeles Unified School District have said that they were hoping students would be able to conduct Google searches with A.I. overviews turned off. The overviews are A.I.-generated summaries that appear at the top of searches.",
+      "They can dissuade students from seeking out multiple sources of information.",
+      "On Monday, Google executives said that for districts that do allow A.I., there will be two options for search inside school-issued accounts, beginning in early 2027. One option will be search with A.I. overviews and A.I. chats turned on, similar to the current consumer experience. The other will be search using Guided Learning, the student feature within Google’s Gemini chatbot.",
+      "Guided Learning is intended to guide students through a topic step-by-step without providing them with answers that could short-circuit learning. It is supposed to offer an experience modeled on one-to-one tutoring.",
+      "The consumer version of Guided Learning is already available within Gemini, and can enable cheating. In a reporter’s test, it produced a detailed essay in response to an Advanced Placement history prompt.",
+      "There are greater restrictions in the school version that is currently being piloted, according to Brit Mennuti, product lead for Google Classroom. She said teachers would be able to review students’ chatbot transcripts, among other capabilities.",
+      "Richard Culatta, the chief executive of ISTE+ASCD, a nonprofit group promoting “meaningful” school technology use, applauded Google’s plan to turn off its A.I. services for students by default in K-12 schools.",
+      "Tech companies, he added, should also enable schools to turn off AI features within search engines. “Our position is that schools should be able to have search that does not have A.I.-generated results in it for students,” Mr. Culatta said. (Mr. Culatta’s group has received funding from Google and other tech companies.)",
+      "Kelly Clancy is a New York City public school parent and leader in groups calling for an A.I. moratorium in schools.",
+      "She said her seventh-grade son used Google search daily to complete assignments, such as a recent earth science project that required him to learn about lab safety.",
+      "“We have to go back to the drawing board on how we are teaching kids to research,” she said, suggesting that students could use alternatives such as physical libraries or competing search engines that allow more control over A.I.",
+      "Morgan Polikoff, an education professor at the University of Southern California, said Google’s decision could further energize the anti-tech movement percolating among parents and educators.",
+      "“This is a particularly clear example of the tech industry going out of its way to force A.I. on us all—even if we have said we don’t want it,” he said."
+    ],
+    "paragraphTranslations": [
+      "谷歌将让学校更容易限制学生使用其人工智能工具。不过，完全屏蔽人工智能的学校，学生也将无法使用谷歌搜索引擎。",
+      "达娜·戈尔茨坦为《纽约时报》报道教育。她尤其关注课程设置及围绕教育的政治争论，近期重点关注人工智能如何改变人们的智识生活。",
+      "娜塔莎·辛格为《纽约时报》报道校园技术已逾十年。她目前关注家长对学校配发的笔记本电脑和人工智能聊天机器人的担忧如何迅速升温。",
+      "谷歌周二宣布，从明年年初起，将关闭其广受欢迎的中小学软件中的人工智能工具，除非校方管理者明确选择开启。",
+      "这家科技巨头的高管表示，他们希望回应教育工作者和家长的诉求，让他们能够更好地掌控孩子与人工智能互动的方式。",
+      "不过有一个条件：选择全面限制人工智能的学校，也将无法使用谷歌搜索。",
+      "人工智能功能现已成为谷歌面向市场提供的搜索引擎的标准配置。谷歌负责教育业务的副总裁克里斯·菲利普斯说：“搜索与人工智能已经深度整合。”他补充说，如果某所学校禁用了人工智能，学生“将无法进行搜索，并会看到学校发出的提示，告知这项服务不可用”。",
+      "在中小学课堂上，谷歌远远领先于其他技术供应商。包括 Gmail、Docs 和作业平台 Classroom 在内的谷歌教育应用套件随处可见。价格较低的谷歌 Chromebook 是美国学校配发最多的学生设备。谷歌也几乎就是互联网搜索的代名词，而搜索是全球学生的一项重要工具。",
+      "这项新策略凸显了谷歌在美国教育界的影响力。学校管理者若想让学生继续在谷歌生态内使用搜索，就不得不接受谷歌的人工智能。",
+      "美国联邦贸易委员会前主席莉娜·汗发表声明，称谷歌正在利用其“对搜索的垄断来胁迫学校”采用自己的人工智能。她补充说，多家法院已认定这家科技巨头违反反垄断法。",
+      "谈到谷歌面向学校的人工智能调整时，汗说：“这一最新举动说明它依然没有吸取教训。随着公众越来越反对在学校使用人工智能，谷歌也明确表示，要惩罚那些不听从它安排的人。”",
+      "近几个月来，谷歌一直把 Gemini 聊天机器人推广为有价值的教育工具，称它可以协助教师备课，也可以给学生做个性化辅导。Gemini 新增的学生功能 Guided Learning（引导式学习），旨在增加学生用人工智能作弊的难度。菲利普斯说：“我们在调整做法。”他承诺，这些工具会支持学习中有成效的探索与努力，减少学生动辄向人工智能索取现成答案的情况。",
+      "今年八月，谷歌在 Classroom 应用中默认开启人工智能功能，适用于已允许中小学生另行访问 Gemini 聊天机器人的学校。一些校方负责人对这一做法不满，认为学生何时、如何使用谷歌的人工智能，应由学校决定。",
+      "谷歌现在将撤回八月实施的这项改动。",
+      "家长倡议者一直反对在学校使用人工智能，也反对让孩子过多面对屏幕。人工智能聊天机器人可以帮助查资料和编程，也很容易被用来在作业中作弊，还可能给出错误信息。研究显示，聊天机器人还可能妨碍批判性思维，使青少年陷入情感依赖。",
+      "上周，纽约州通过一项聊天机器人安全法，将禁止企业向未成年人提供多种人工智能功能。九月，美国最大的两个学区纽约市和洛杉矶都对学生通过学校设备访问生成式人工智能实施了广泛限制。两大学区都是谷歌的客户。",
+      "针对谷歌周二的公告，纽约市市长佐赫兰·马姆达尼在社交媒体上写道：“任何企业都不应有权决定我们如何教育孩子。公立学校的存在是为了服务学生，不是为了提高科技巨头的利润率。”",
+      "洛杉矶联合学区的官员表示，希望学生在关闭人工智能概览的情况下仍能使用谷歌搜索。所谓概览，是出现在搜索结果顶部、由人工智能生成的摘要。",
+      "这种摘要可能让学生不再主动查找多个信息来源。",
+      "谷歌高管周一说，从 2027 年年初起，允许使用人工智能的学区在学校发放的账号内将有两种搜索选项。一种类似当前个人用户的体验，开启人工智能概览和聊天功能。另一种则通过 Gemini 聊天机器人中的学生功能 Guided Learning 来搜索。",
+      "Guided Learning 旨在循序渐进地带学生探索一个主题，不提供可能跳过学习过程的现成答案，让体验类似于一对一辅导。",
+      "面向个人用户的 Guided Learning 现已在 Gemini 中提供，也可能被用于作弊。记者测试时，给它一道美国大学先修课程的历史题，它生成了一篇详细的文章。",
+      "谷歌 Classroom 的产品负责人布里特·门努蒂说，目前试点的学校版本将设置更多限制。她表示，教师能够查看学生与聊天机器人的对话记录，这只是功能之一。",
+      "推广在学校“有意义地”使用技术的非营利组织 ISTE+ASCD 的负责人理查德·库拉塔，对谷歌在中小学默认关闭面向学生的人工智能服务的计划表示赞许。",
+      "他补充说，科技企业也应允许学校关掉搜索引擎里的人工智能功能。“我们的立场是，学校应该能够让学生使用不含人工智能生成结果的搜索。”库拉塔说。（他所在的组织曾获得谷歌和其他科技企业的资助。）",
+      "凯莉·克兰西是纽约市公立学校的学生家长，也是呼吁学校暂停使用人工智能的团体负责人之一。",
+      "她说，读七年级的儿子每天用谷歌搜索完成作业。例如最近一项地球科学项目，要求他查阅实验室安全知识。",
+      "“我们得从头想想，该怎么教孩子查资料。”她说。她建议学生考虑实体图书馆，或使用能更灵活地控制人工智能功能的其他搜索引擎。",
+      "南加州大学教育学教授摩根·波利科夫说，谷歌的决定可能让正在家长和教育工作者中逐渐发酵的反科技运动进一步壮大。",
+      "他说：“这是一个特别明显的例子。科技行业竭力把人工智能强加给我们所有人，即便我们已经说过不想要。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "groundswell",
+        "ipa": "/ˈɡraʊndswel/",
+        "pos": "n.",
+        "meaning": "民众情绪、舆论的迅速高涨",
+        "definition": "(formal) the sudden increase of a particular feeling among a group of people",
+        "zh": "民众情绪、舆论的迅速高涨"
+      },
+      {
+        "form": "explicitly",
+        "ipa": "/ɪkˈsplɪsɪtli/",
+        "pos": "adv.",
+        "meaning": "清楚明确地，直截了当地",
+        "definition": "clearly or directly, so that the meaning is easy to understand",
+        "zh": "清楚明确地，直截了当地"
+      },
+      {
+        "form": "responsive",
+        "ipa": "/rɪˈspɒnsɪv/",
+        "pos": "adj.",
+        "meaning": "反应灵敏的，积极回应的",
+        "definition": "reacting quickly and in a positive way",
+        "zh": "反应灵敏的，积极回应的"
+      },
+      {
+        "form": "catch",
+        "ipa": "/kætʃ/",
+        "pos": "n.",
+        "meaning": "暗藏的隐患，圈套，猫腻",
+        "definition": "(informal) a hidden difficulty or disadvantage",
+        "zh": "暗藏的隐患，圈套，猫腻"
+      },
+      {
+        "form": "integrated",
+        "ipa": "/ˈɪntɪɡreɪtɪd/",
+        "pos": "adj.",
+        "meaning": "综合的，整合的，一体化的",
+        "definition": "in which many different parts are closely connected and work successfully together",
+        "zh": "综合的，整合的，一体化的"
+      },
+      {
+        "form": "suite",
+        "ipa": "/swiːt/",
+        "pos": "n.",
+        "meaning": "套件，一套配套程序",
+        "definition": "(computing) a set of related computer programs",
+        "zh": "套件，一套配套程序"
+      },
+      {
+        "form": "ubiquitous",
+        "ipa": "/juːˈbɪkwɪtəs/",
+        "pos": "adj.",
+        "meaning": "无处不在的，随处可见的",
+        "definition": "(formal or humorous) seeming to be everywhere or in several places at the same time; very common",
+        "zh": "无处不在的，随处可见的"
+      },
+      {
+        "form": "synonymous",
+        "ipa": "/sɪˈnɒnɪməs/",
+        "pos": "adj.",
+        "meaning": "（与……）密切相关的，被认为等同于……的",
+        "definition": "(synonymous with sth.) so closely related with sth. that the two things appear to be the same",
+        "zh": "（与……）密切相关的，被认为等同于……的"
+      },
+      {
+        "form": "underscores",
+        "ipa": "/ˌʌndəˈskɔː(r)/",
+        "pos": "v.",
+        "meaning": "强调，凸显",
+        "definition": "to emphasize or show that sth. is important or true",
+        "zh": "强调，凸显"
+      },
+      {
+        "form": "embrace",
+        "ipa": "/ɪmˈbreɪs/",
+        "pos": "v.",
+        "meaning": "欣然接受，乐意采纳",
+        "definition": "(formal) to accept an idea, a proposal, a set of beliefs, etc., especially when it is done with enthusiasm",
+        "zh": "欣然接受，乐意采纳"
+      },
+      {
+        "form": "coerce",
+        "ipa": "/kəʊˈɜːs/",
+        "pos": "v.",
+        "meaning": "胁迫，强迫",
+        "definition": "(formal) to force sb. to do sth. by using threats",
+        "zh": "胁迫，强迫"
+      },
+      {
+        "form": "liable",
+        "ipa": "/ˈlaɪəbl/",
+        "pos": "adj.",
+        "meaning": "依法负有责任的",
+        "definition": "legally responsible for an act or omission",
+        "zh": "依法负有责任的"
+      },
+      {
+        "form": "antitrust",
+        "ipa": "/ˌæntiˈtrʌst/",
+        "pos": "adj.",
+        "meaning": "反垄断的，反托拉斯的",
+        "definition": "(of laws) preventing companies or groups of companies from controlling prices unfairly",
+        "zh": "反垄断的，反托拉斯的"
+      },
+      {
+        "form": "unchastened",
+        "ipa": "/ˈtʃeɪsn/",
+        "pos": "v.",
+        "meaning": "使懊悔，使愧疚",
+        "definition": "(formal) to make sb. feel sorry for sth. they have done",
+        "zh": "使懊悔，使愧疚"
+      },
+      {
+        "form": "pushes back",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "抵制，反驳，拒绝接受",
+        "definition": "If you push back against sth., such as a change or criticism, you refuse to accept it or try to prevent it.",
+        "zh": "抵制，反驳，拒绝接受"
+      },
+      {
+        "form": "fall in line",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "服从规定，顺从，按要求行事",
+        "definition": "If a person in an organization falls in line, he, she, or it starts to follow the rules and behave according to expected standards of behaviour.",
+        "zh": "服从规定，顺从，按要求行事"
+      },
+      {
+        "form": "tamp down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "抑制，压低，遏制",
+        "definition": "to reduce the amount, level, size, or importance of sth.",
+        "zh": "抑制，压低，遏制"
+      },
+      {
+        "form": "reversed",
+        "ipa": "/rɪˈvɜːs/",
+        "pos": "v.",
+        "meaning": "撤销，推翻",
+        "definition": "to change a previous decision, law, etc. to the opposite one",
+        "zh": "撤销，推翻"
+      },
+      {
+        "form": "hinder",
+        "ipa": "/ˈhɪndə(r)/",
+        "pos": "v.",
+        "meaning": "阻碍，妨碍",
+        "definition": "to make it difficult for sb. to do sth. or for sth. to happen",
+        "zh": "阻碍，妨碍"
+      },
+      {
+        "form": "ensnare",
+        "ipa": "/ɪnˈsneə(r)/",
+        "pos": "v.",
+        "meaning": "使落入圈套，诱骗，使陷入困境",
+        "definition": "(formal) to make sb./sth. unable to escape from a difficult situation or from a person who wants to control them",
+        "zh": "使落入圈套，诱骗，使陷入困境"
+      },
+      {
+        "form": "minors",
+        "ipa": "/ˈmaɪnə(r)/",
+        "pos": "n.",
+        "meaning": "未成年人",
+        "definition": "(law) a person who is under the age at which you legally become an adult and are responsible for your actions",
+        "zh": "未成年人"
+      },
+      {
+        "form": "dictate",
+        "ipa": "/dɪkˈteɪt/",
+        "pos": "v.",
+        "meaning": "强行规定，发号施令",
+        "definition": "to tell sb. what to do, especially in an annoying way",
+        "zh": "强行规定，发号施令"
+      },
+      {
+        "form": "dissuade",
+        "ipa": "/dɪˈsweɪd/",
+        "pos": "v.",
+        "meaning": "劝阻，劝……不要做某事",
+        "definition": "to persuade sb. not to do sth.",
+        "zh": "劝阻，劝……不要做某事"
+      },
+      {
+        "form": "short-circuit",
+        "ipa": "/ˌʃɔːt ˈsɜːkɪt/",
+        "pos": "v.",
+        "meaning": "绕过常规流程，走捷径，省去繁琐步骤以更快达成目标",
+        "definition": "to succeed in doing sth. more quickly than usual, without going through all the usual processes",
+        "zh": "绕过常规流程，走捷径，省去繁琐步骤以更快达成目标"
+      },
+      {
+        "form": "Advanced Placement",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "大学先修课程",
+        "definition": "an advanced course for high school students in the US by which students can gain college credits before they actually go to college",
+        "zh": "大学先修课程"
+      },
+      {
+        "form": "piloted",
+        "ipa": "/ˈpaɪlət/",
+        "pos": "v.",
+        "meaning": "试点试行",
+        "definition": "to test a new product, idea, etc. with a few people or in a small area before it is introduced everywhere",
+        "zh": "试点试行"
+      },
+      {
+        "form": "transcripts",
+        "ipa": "/ˈtrænskrɪpt/",
+        "pos": "n.",
+        "meaning": "文字稿，笔录",
+        "definition": "a written or printed copy of words that have been spoken",
+        "zh": "文字稿，笔录"
+      },
+      {
+        "form": "moratorium",
+        "ipa": "/ˌmɒrəˈtɔːriəm/",
+        "pos": "n.",
+        "meaning": "暂停令，暂缓实施",
+        "definition": "a temporary stopping of an activity, especially by official agreement",
+        "zh": "暂停令，暂缓实施"
+      },
+      {
+        "form": "go back to the drawing board",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "从头再来，重新构思",
+        "definition": "to start again or try another idea because sth. which you have done has not been successful",
+        "zh": "从头再来，重新构思"
+      },
+      {
+        "form": "percolating",
+        "ipa": "/ˈpɜːkəleɪt/",
+        "pos": "v.",
+        "meaning": "慢慢传开，逐渐渗透",
+        "definition": "to gradually become known or spread through a group or society",
+        "zh": "慢慢传开，逐渐渗透"
+      },
+      {
+        "form": "going out of its way",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "特意做某事，不辞辛劳地做某事",
+        "definition": "to try very hard to do sth., especially for someone else",
+        "zh": "特意做某事，不辞辛劳地做某事"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the sudden increase of a particular feeling among a group of people",
+      "to make sb./sth. unable to escape from a difficult situation or from a person who wants to control them"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Google search.”?",
+    "exerciseChoiceMarked": [
+      "catch"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "With his stable job, he was considered quite a catch.",
+        "marked": [
+          "catch"
+        ],
+        "zh": "他工作稳定，被认为是很理想的对象。"
+      },
+      {
+        "label": "B",
+        "text": "All that money for two hours’ work—what’s the catch?",
+        "marked": [
+          "catch"
+        ],
+        "zh": "工作两小时就给那么多钱，有什么陷阱？"
+      },
+      {
+        "label": "C",
+        "text": "I remember playing catch in our front yard when we were kids.",
+        "marked": [
+          "catch"
+        ],
+        "zh": "我记得小时候常在前院玩抛接球游戏。"
+      },
+      {
+        "label": "D",
+        "text": "Fran slipped the catch on the door, then turned to say goodbye.",
+        "marked": [
+          "catch"
+        ],
+        "zh": "弗兰扣上门闩，然后转身道别。"
+      }
+    ],
+    "exerciseTranslationPrompt": "这家科技巨头的高管表示，他们希望回应教育工作者和家长的诉求，让他们能够更好地掌控孩子与人工智能互动的方式。",
+    "answerVocabularyList": [
+      "groundswell",
+      "ensnare"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I."
+  },
+  {
+    "key": "nov1117",
+    "date": "2026.11.17",
+    "period": "2026年11月",
+    "folder": "1117 黄仁勋如何背叛了中年皮夹男的群体？",
+    "titleZh": "黄仁勋如何背叛了中年皮夹男的群体？",
+    "title": "Jensen Huang Betrayed Us (the Leather Jacket Community)",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Anand Giridharadas, The New York Times, Published Nov 11, 2026",
+    "paragraphs": [
+      "Giridharadas uses a mock defense of the leather jacket to ask what becomes of a badge of rebellion when a technology billionaire makes it his uniform, and to expose the insecurities of the men who claim it as their own.",
+      "It has been a hard week, even for the thick-skinned. The news that Jensen Huang, a co-founder of Nvidia, admitted to an affair with a woman whom U.S. intelligence regards as a Chinese spy, has shaken not only Silicon Valley and geopolitics. It also has been an earthquake for the leather-jacket-wearing community.",
+      "We ask ourselves: Was Mr. Huang an easy mark because of his love of high-fashion, motorcycle-adjacent jackets that say both “I don’t care what people think!” and “Do you like how I look?” Did our — I mean, his — armor make him a target? Is an expensive leather jacket on a middle-aged man the new symbol of a honeypot victim?",
+      "Without any authorization whatsoever, because that would go against our rebellious grain, I’m speaking out on behalf of the leather-jacket community. We are washed-up musicians and we are dads just trying to feel something again and we are people who want others to assume that we own a Ducati Panigale. And we are here to defend the leather jacket’s name and honor. We declare: One man’s fleshly failures should not impugn our second skins. They say not to throw out the baby with the bathwater. Well, similarly, don’t throw out the baby lambskin with the horny human body beneath.",
+      "For many of us, this crisis began long before my fellow graying middle-aged man fell for the oldest trick in the spy book. It began when Mr. Huang had the chutzpah to appropriate our big thing as his big thing. A tech tycoon in his soon-to-be-signature Tom Ford leather jacket was just what we were hoping the rest of the world didn’t see when it looked at us.",
+      "Even then, were we aware that we had a problem? Sure. We may have undiagnosed issues with vulnerability (as reflected in our need for a supplemental dermis), but we’re not stupid. Did we acquire multiple jackets that our spouses smeared as “identical to the last one”? Yes. But a lot of our spouses don’t know the difference between a 1.5-ounce leather and a three-ounce leather, which is like not knowing the difference between Texas and cheese. This was our thing, OK?",
+      "Then Mr. Huang, with his own penchant for black leather jackets, had to go and become a household name, the pillar of artificial intelligence, and the man, we were told, without whom the future itself might vanish and the world regress to however it got things done in 2022. It was annoying to watch a billionaire cosplaying as a rebel, perhaps in order to mask his extraordinary power. Here he was boasting in interviews of not even knowing where his jackets came from, saying his wife and daughter bought them for him, when we in the community could tell you what we ate for dinner any of those fateful days when a new jacket came into our lives. Leather jackets are for people with chips on their shoulders, not microchips in their palms. People did begin to ask me, a longtime aficionado, if I was emulating Mr. Huang. How dare they! Is it not enough for Mr. Huang to facilitate taking away all the jobs? He wants all the animal skins, too! We in the community began to long for the days when a group of people in leather jackets was called a posse. Now it is known as an A.I. panel.",
+      "At the same time, I identified with some of his comments about the leather lifestyle. These jackets are indeed a great uniform for people who don’t want to think about what to wear every day. They curb the problem of choice even if they signal that you are a problem. And when you belong to a minority group in America, having a signature look is a great way not to be confused with Vivek Ramaswamy. Then the espionage scandal erupted, and our community of middle-aged leathermen was forced into a reckoning. Are we not as tough as we look? Does the world see us in our skins and think: That guy is one flirty, age-gapped compliment about his panel performance away from potentially divulging secrets?",
+      "The Chinese did not, as far as we know, pursue Mark Zuckerberg, with his T-shirts that look as if they were acquired at the estate sale of someone for whom Ozempic worked a little too well. They did not go after Sam Altman’s hoodies. If there was a target on Mr. Huang’s back, it was made from a buttery, buttery leather. Those of us in the midlife leather-clad community must face what T.S. Eliot called an “overwhelming question”: Do we accessory pivot? Cede the leather jacket to a delusional man trying desperately to look young? Or do we insist that we were that man long before him?"
+    ],
+    "paragraphTranslations": [
+      "吉里达拉达斯假作替皮夹克辩护，追问当一位科技亿万富翁把反叛的标志变成日常制服时，这个标志会变成什么，并揭开那些自认有资格穿它的男人心中的不安。",
+      "这一周不好过，连皮厚的人都扛不住。英伟达联合创始人黄仁勋承认与一名被美国情报机构视为中国间谍的女子有婚外关系。这条消息不仅震动了硅谷和地缘政治，也让皮夹克一族经历了一场地震。",
+      "我们不禁问自己：黄先生是不是因为钟爱那种沾点机车风的高级时装夹克，才成了容易下手的目标？这些夹克同时在说：“我才不在乎别人怎么想！”以及“你觉得我穿得好看吗？”是不是我们的——我是说他的——盔甲让他成了目标？中年男人身上昂贵的皮夹克，如今成了落入美人计的标志吗？",
+      "我没得到任何授权，因为真要授权反倒不合我们叛逆的天性，但我还是要代表皮夹克一族发言。我们有过气音乐人，也有只想重新找回一点感觉的父亲，还有想让旁人以为我们骑杜卡迪 Panigale 的人。我们要捍卫皮夹克的名声和荣誉。我们声明：不能因为一个人的肉欲过失，就抹黑我们的第二层皮肤。俗话说，别把孩子和洗澡水一起倒掉。照这个道理，也别因为里头的人抑制不住欲望，就把外面那件小羊皮夹克也一并扔掉。",
+      "对我们许多人来说，早在这位和我一样头发花白的中年男人中了间谍故事里最老套的计之前，危机就已经开始了。那是黄先生竟敢把我们最在乎的东西据为己有的时候。一位科技大亨穿着即将成为他标志的汤姆·福特皮夹克，这恰恰是我们最不愿外界从我们身上看到的形象。",
+      "那时我们知道自己有问题吗？当然。我们可能有些尚未确诊的脆弱感，要不怎么还需要一层额外的真皮呢，但我们又不傻。我们是不是买了好几件夹克，结果被伴侣嫌弃“和上件一模一样”？是的。可我们许多伴侣分不清一盎司半和三盎司皮料，这就像分不清得克萨斯州和奶酪一样。这原本是我们的事，好吗？",
+      "接着，偏爱黑色皮夹克的黄先生偏偏成了家喻户晓的人物，成了人工智能的顶梁柱。据说没有他，未来都可能消失，世界还得退回 2022 年的做事方式。看一个亿万富翁扮演叛逆者，可能还想借此掩盖自己惊人的权势，实在让人恼火。他在采访中夸耀自己连夹克从哪来的都不知道，说是妻子和女儿买的。我们圈里的人却连买到新夹克那天晚饭吃了什么都能说出来。皮夹克是给肩上扛着一股不服气的人穿的，不是给手里攥着微芯片的人穿的。居然开始有人问我这个多年爱好者，是不是在模仿黄先生。他们怎么敢！黄先生帮着抢走所有工作还不够吗？现在连动物皮也全要抢走！我们开始怀念从前，一群穿皮夹克的人聚在一起会被叫作一帮伙计。如今，这叫人工智能论坛的嘉宾阵容。",
+      "同时，我也认同他谈到皮衣生活方式时的一些话。对不想每天费脑筋搭配的人来说，皮夹克的确是很好的制服。它能解决怎么选的问题，哪怕它也在暗示你这个人有问题。在美国，如果你属于少数族裔，有个标志性造型，是让别人别把你和维韦克·拉马斯瓦米搞混的好办法。后来间谍丑闻爆发，我们这群穿皮衣的中年男人不得不重新审视自己。难道我们其实没看上去那么硬气？别人看着我们穿皮衣，会不会想：只要一个年龄差很大的姑娘带着几分暧昧夸他论坛上表现好，这人就可能把秘密说出来？",
+      "据我们所知，中方没有去接近马克·扎克伯格。他穿的 T 恤仿佛是在一场遗产拍卖会上买的，原主人用了奥司美格鲁肽，减肥效果好得有点过头。他们也没盯上萨姆·奥尔特曼的连帽衫。黄先生背上如果真有个靶子，那一定是用无比柔软的皮革做的。我们这帮裹着皮衣的中年人，得面对 T. S. 艾略特所谓的一个“压倒一切的问题”：要不要换一套行头？要不要把皮夹克拱手让给一个拼命扮年轻、还自我感觉良好的男人？还是坚持说，早在他之前，我们就已经是那种男人了？"
+    ],
+    "vocabulary": [
+      {
+        "form": "thick-skinned",
+        "ipa": "/ˌθɪk ˈskɪnd/",
+        "pos": "adj.",
+        "meaning": "脸皮厚的；不易被批评刺痛的",
+        "definition": "(of a person) not easily upset by criticism or unkind comments",
+        "zh": "脸皮厚的；不易被批评刺痛的"
+      },
+      {
+        "form": "authorization",
+        "ipa": "/ˌɔːθəraɪˈzeɪʃn/",
+        "pos": "n.",
+        "meaning": "授权；许可",
+        "definition": "official permission or power to do something; the act of giving permission",
+        "zh": "授权；许可"
+      },
+      {
+        "form": "rebellious",
+        "ipa": "/rɪˈbeljəs/",
+        "pos": "adj.",
+        "meaning": "叛逆的；不守规矩的",
+        "definition": "unwilling to obey rules or follow generally accepted standards of behaviour, dress, etc.",
+        "zh": "叛逆的；不守规矩的"
+      },
+      {
+        "form": "washed-up",
+        "ipa": "/ˌwɒʃt ˈʌp/",
+        "pos": "adj.",
+        "meaning": "过气的；不再成功的",
+        "definition": "no longer successful and unlikely to succeed again in the future",
+        "zh": "过气的；不再成功的"
+      },
+      {
+        "form": "impugn",
+        "ipa": "/ɪmˈpjuːn/",
+        "pos": "v.",
+        "meaning": "质疑；对……表示怀疑",
+        "definition": "to express doubts about whether something is right, honest, etc.",
+        "zh": "质疑；对……表示怀疑"
+      },
+      {
+        "form": "appropriate",
+        "ipa": "/əˈprəʊprieɪt/",
+        "pos": "v.",
+        "meaning": "据为己有；挪用",
+        "definition": "to take something, somebody’s ideas, etc. for your own use, especially illegally or without permission",
+        "zh": "据为己有；挪用"
+      },
+      {
+        "form": "tycoon",
+        "ipa": "/taɪˈkuːn/",
+        "pos": "n.",
+        "meaning": "（商界）大亨",
+        "definition": "a person who is successful in business or industry and has become rich and powerful",
+        "zh": "（商界）大亨"
+      },
+      {
+        "form": "vulnerability",
+        "ipa": "/ˌvʌlnərəˈbɪləti/",
+        "pos": "n.",
+        "meaning": "脆弱；易受伤害",
+        "definition": "the fact of being weak and easily hurt physically or emotionally",
+        "zh": "脆弱；易受伤害"
+      },
+      {
+        "form": "smeared",
+        "ipa": "/smɪə(r)/",
+        "pos": "v.",
+        "meaning": "诽谤；抹黑",
+        "definition": "to damage somebody’s reputation by saying unpleasant things about them that are not true",
+        "zh": "诽谤；抹黑"
+      },
+      {
+        "form": "pillar",
+        "ipa": "/ˈpɪlə(r)/",
+        "pos": "n.",
+        "meaning": "中坚；支柱人物",
+        "definition": "a strong supporter of something; an important member of something",
+        "zh": "中坚；支柱人物"
+      },
+      {
+        "form": "mask",
+        "ipa": "/mɑːsk/",
+        "pos": "v.",
+        "meaning": "掩饰；遮掩",
+        "definition": "to hide a feeling, smell, fact, etc. so that it cannot be easily seen or noticed",
+        "zh": "掩饰；遮掩"
+      },
+      {
+        "form": "boasting",
+        "ipa": "/bəʊst/",
+        "pos": "v.",
+        "meaning": "吹嘘；自夸",
+        "definition": "to talk in a way that shows you are too proud of something that you have or can do",
+        "zh": "吹嘘；自夸"
+      },
+      {
+        "form": "fateful",
+        "ipa": "/ˈfeɪtfl/",
+        "pos": "adj.",
+        "meaning": "具有重大（常为不良）影响的；决定命运的",
+        "definition": "having an important, often very bad, effect on future events",
+        "zh": "具有重大（常为不良）影响的；决定命运的"
+      },
+      {
+        "form": "aficionado",
+        "ipa": "/əˌfɪʃəˈnɑːdəʊ/",
+        "pos": "n.",
+        "meaning": "爱好者；行家",
+        "definition": "a person who likes a particular sport, activity or subject very much and knows a lot about it",
+        "zh": "爱好者；行家"
+      },
+      {
+        "form": "emulating",
+        "ipa": "/ˈemjuleɪt/",
+        "pos": "v.",
+        "meaning": "效仿；努力赶上",
+        "definition": "to try to do something as well as somebody else because you admire them",
+        "zh": "效仿；努力赶上"
+      },
+      {
+        "form": "facilitate",
+        "ipa": "/fəˈsɪlɪteɪt/",
+        "pos": "v.",
+        "meaning": "促进；使便利",
+        "definition": "to make an action or a process possible or easier",
+        "zh": "促进；使便利"
+      },
+      {
+        "form": "posse",
+        "ipa": "/ˈpɒsi/",
+        "pos": "n.",
+        "meaning": "一伙人；一帮人",
+        "definition": "a group of people who are similar in some way, or who spend time together",
+        "zh": "一伙人；一帮人"
+      },
+      {
+        "form": "curb",
+        "ipa": "/kɜːb/",
+        "pos": "v.",
+        "meaning": "控制；抑制",
+        "definition": "to control or limit something, especially something bad",
+        "zh": "控制；抑制"
+      },
+      {
+        "form": "espionage",
+        "ipa": "/ˈespiənɑːʒ/",
+        "pos": "n.",
+        "meaning": "间谍活动",
+        "definition": "the activity of secretly getting important political or military information about another country or of finding out another company’s secrets by using spies",
+        "zh": "间谍活动"
+      },
+      {
+        "form": "reckoning",
+        "ipa": "/ˈrekənɪŋ/",
+        "pos": "n.",
+        "meaning": "清算（的时刻）；受审判的时刻",
+        "definition": "a time when somebody’s actions will be judged to be right or wrong and they may be punished",
+        "zh": "清算（的时刻）；受审判的时刻"
+      },
+      {
+        "form": "divulging",
+        "ipa": "/daɪˈvʌldʒ/",
+        "pos": "v.",
+        "meaning": "泄露；透露",
+        "definition": "to give somebody information that is supposed to be secret",
+        "zh": "泄露；透露"
+      },
+      {
+        "form": "overwhelming",
+        "ipa": "/ˌəʊvəˈwelmɪŋ/",
+        "pos": "adj.",
+        "meaning": "压倒性的；难以抗拒的",
+        "definition": "very great or very strong; so powerful that you cannot resist it or decide how to react",
+        "zh": "压倒性的；难以抗拒的"
+      },
+      {
+        "form": "cede",
+        "ipa": "/siːd/",
+        "pos": "v.",
+        "meaning": "让出；割让",
+        "definition": "to give somebody control of something or give them power, a right, etc., especially unwillingly",
+        "zh": "让出；割让"
+      },
+      {
+        "form": "delusional",
+        "ipa": "/dɪˈluːʒənl/",
+        "pos": "adj.",
+        "meaning": "妄想的；不切实际的",
+        "definition": "having ideas or beliefs that are not based in reality",
+        "zh": "妄想的；不切实际的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the activity of secretly getting important political or military information about another country or of finding out another company’s secrets by using spies",
+      "to try to do something as well as somebody else because you admire them"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “Then Mr. Huang, with his own penchant for black leather jackets, had to go and become a household name, the pillar of artificial intelligence, and the man, we were told, without whom the future itself might vanish and the world regress to however it got things done in 2022.”",
+    "exerciseChoiceMarked": [
+      "pillar"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The roof is supported by eight massive stone pillars.",
+        "marked": [
+          "pillars"
+        ],
+        "zh": "屋顶由八根巨大的石柱支撑。"
+      },
+      {
+        "label": "B",
+        "text": "A pillar of smoke rose from the burning building.",
+        "marked": [
+          "pillar"
+        ],
+        "zh": "一股烟柱从正在燃烧的建筑里升起。"
+      },
+      {
+        "label": "C",
+        "text": "He was the local magistrate and a pillar of the community.",
+        "marked": [
+          "pillar"
+        ],
+        "zh": "他是当地的治安法官，也是社区的中坚人物。"
+      },
+      {
+        "label": "D",
+        "text": "Education and investment are the twin pillars on which a successful economy is built.",
+        "marked": [
+          "pillars"
+        ],
+        "zh": "教育和投资是成功经济的两大支柱。"
+      }
+    ],
+    "exerciseTranslationPrompt": "我们这帮裹着皮衣的中年人，得面对 T. S. 艾略特所谓的一个“压倒一切的问题”：要不要换一套行头？要不要把皮夹克拱手让给一个拼命扮年轻、还自我感觉良好的男人？还是坚持说，早在他之前，我们就已经是那种男人了？",
+    "answerVocabularyList": [
+      "espionage",
+      "emulate"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "Those of us in the midlife leather-clad community must face what T.S. Eliot called an “overwhelming question”: Do we accessory pivot? Cede the leather jacket to a delusional man trying desperately to look young? Or do we insist that we were that man long before him?"
+  },
+  {
+    "key": "nov1118",
+    "date": "2026.11.18",
+    "period": "2026年11月",
+    "folder": "1118 特朗普是如何输掉中期选举的？2",
+    "titleZh": "特朗普是如何输掉中期选举的？2 2",
+    "title": "How Trump Lost the Midterms",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Josh Dawsey, Alex Leary, and Lindsay Wise, The Wall Street Journal, Published November 4, 2026",
+    "paragraphs": [
+      "The Iran war, gas prices and Trump’s miscalculations led to one of the most decisive repudiations of an American president",
+      "In mid-February, one of President Trump’s economic advisers arrived at the Oval Office with charts showing how the administration’s policies might be making America great again.",
+      "Household income was up, particularly among low-income Americans. Retirement accounts were soaring. And the nation’s economic growth was even better than projected.",
+      "“This is great stuff,” said Trump. He had completed his first year back in office, and his power seemed limitless. The president had complete control of Congress, U.S. business leaders were following his lead and the Democratic Party was in disarray.",
+      "Within days, Trump made a decision that would change everything.",
+      "After campaigning on ending foreign wars, Trump wagered on one of his own, triggering an open-ended conflict that has seen the deaths of more than 20 U.S. servicemembers, cost U.S. taxpayers more than $47 billion, and pushed up the cost of everything from freight to fertilizer.",
+      "On Tuesday, Republicans suffered losses that amounted to one of the most decisive repudiations of a president in modern history. It was likely a direct result of Trump’s decision to go to war in Iran, sending gas prices up 40%, leaving many of his most loyal supporters disillusioned and effectively drawing a curtain on the Trump age.",
+      "Conservative commentator Matt Walsh described the war as “the greatest political blunder in the last two decades,” and a betrayal of Trump’s America First movement. “We’re going to have to find a new leader because Trump abandoned it,” he said in an interview.",
+      "In the spring, when advisers told Trump that the Iran war could hurt Republicans in the midterm elections, Trump told them there was plenty of time to figure it out, according to people familiar with the remarks.",
+      "While Trump publicly defended the war, privately he asked people around him whether he should change course, including junior staffers who gathered for a photo. A White House official said Trump wasn’t indecisive but always solicited feedback.",
+      "The war wasn’t the only issue contributing to Tuesday’s crushing defeat for Republicans. Trump also lost his advantage on immigration. An aggressive enforcement operation brought illegal border crossings to the lowest level in decades, but it led to conflicts in U.S. cities that resulted in the shooting deaths of two Americans in Minnesota last winter. On Tuesday, counties that were 80% or more Hispanic favored Democrats by 40 percentage points.",
+      "Trump vacillated on immigration throughout the year, sometimes telling aides he wanted a bigger crackdown. After first lady Melania Trump complained about people she knew getting deported, the president would tell aides that the architect of his aggressive immigration campaign, Stephen Miller, had gone too far. Republicans in Texas and Florida privately complained to the White House.",
+      "At times, Trump told aides he didn’t care about the midterms at all, said a senior administration official who talked to him. The president was tired of worrying about domestic political issues that he didn’t think mattered as much as foreign policy and his legacy, the official said.",
+      "When Trump’s aides told him in the spring and summer that polls showed voters concerned about his handling of affordability, he said the polling was fake, the senior administration official said. He said in one meeting that he didn’t commission any polls in 2016 but still won, the official said.",
+      "Trump also pushed out of Senate races Republican candidates who would have faced better odds, including in Georgia, South Carolina, North Carolina and Texas. He instead anointed candidates he believed would be loyal to him. Democrats won in all four of these states. Trump advisers played down his role in the loss, saying he attended 30 rallies and that other candidates he didn’t pick would have lost too.",
+      "“It really didn’t have to be this way,” said Rep. Ralph Norman, the Republican who lost the South Carolina Republican nomination to Sen. Darline Graham after Trump swooped in. “Pride goeth before the fall. It’s going to be a wake-up call for the Republican Party.”",
+      "By August, polls showed Republicans had lost their edge with voters on the economy. Trump aides grew deeply concerned in August when internal polling showed voters overwhelmingly blamed Trump for inflation over Democrats. They also saw his poll numbers fall when gas prices rose.",
+      "Advisers including Newt Gingrich and Sean Hannity gently urged Trump to give more attention to affordability. Gingrich said Wednesday the party had lost the affordability fight.",
+      "Still, the president continued to surround himself with upbeat views. At a summer fundraiser in Texas, his personal aide Natalie Harp told donors about a poll that showed he was the most popular Republican president ever, an attendee said.",
+      "In September, gasoline prices in the U.S. shot up 16 cents in a single week. Not long after, diesel prices hit a record high. When Democratic House campaign strategists met to decide where, district by district, to invest resources in the final weeks, they zeroed in on what they had viewed as safe Republican seats. That included open seats in Florida and Texas that Trump had won by more than 10 percentage points in 2024, according to people familiar with the meeting.",
+      "Meanwhile, national Republican strategists were unnerved by internal polling that showed GOP seats under threat in deep-red states and congressional districts. On one Republican call, a pollster said, “People will mark the last week of September as the week the bottom fell out.”",
+      "In the final weeks of the campaign, Trump played down high gasoline prices and often veered off script, drawing attention to his remarks about the physiques of male candidates he was supporting. He told advisers that talking about Ohio Sen. Jon Husted’s backside was making him more “interesting” to voters. Husted was defeated on Tuesday. Trump advisers said the president did more in 30 rallies to promote some of the candidates than the candidates did to promote themselves.",
+      "Allegations of corruption involving the administration and the Trump family became a top concern for voters. Yet Trump continued to focus on pet projects, including a new White House ballroom and a proposed 250-foot triumphal arch. On flights, he huddled with aides about what should be done about the Kennedy Center. He interrupted Oval Office meetings to show off his latest plans, at one point leading a guest outside to see how he attached gold letters reading “The Rose Garden.”",
+      "Aides said it was a waste of time to tell him to stop talking about the ballroom because he held several long meetings a week on the topic and enjoyed giving tours.",
+      "On Monday, the day before the midterm election, Trump gave a nearly hourlong speech at the Lincoln Memorial reflecting pool that aides had billed as a final argument to voters. Trump mostly talked about his renovations of the capital, including cleaning up graffiti, resodding the mall and replacing rusty pipes. One of the project’s biggest foes, he said, had been algae.",
+      "“We have a lot of great things planned for Washington,” he said, but declined to elaborate. There wasn’t enough time, he said, to discuss his plans for the nation.",
+      "After the reflecting pool event, Trump was ebullient, a person who spoke to him said. The election was going to go well, he said, because there was great spirit among Republicans. If not, he said, he didn’t deserve the blame. He had done all he could do.",
+      "“The biggest issue is that I wasn’t on the ballot,” he told The Wall Street Journal.",
+      "Yet, Trump had said repeatedly that voters should imagine that he was on the ballot."
+    ],
+    "paragraphTranslations": [
+      "伊朗战争、油价上涨，加上特朗普接连误判，让美国选民以现代史上罕见的力度对一位总统投下了反对票",
+      "2 月中旬，特朗普总统的一名经济顾问带着几张图表来到椭圆形办公室，想向他展示，政府的政策或许正在让美国再次伟大。",
+      "美国家庭收入增加，低收入群体尤其如此。退休账户资产大涨。全国经济增长甚至超出了预期。",
+      "“这些成绩太棒了。”特朗普说。此时，他重返白宫刚满一年，似乎已经无所不能。国会完全掌握在他手中，美国商界领袖纷纷追随他的脚步，民主党则乱作一团。",
+      "几天后，特朗普做出了一个决定，改变了一切。",
+      "竞选时，他曾承诺结束海外战争，执政后却押注于自己发动的一场战争，结果让美国陷入了一场看不到尽头的冲突。迄今已有 20 多名美军官兵丧生，美国纳税人为此付出超过 470 亿美元，从货运到化肥，各类成本也随之上涨。",
+      "周二，共和党遭遇惨败，美国选民以现代史上罕见的力度否定了一位总统。这很可能直接源于特朗普决定对伊朗开战：汽油价格因此上涨 40%，许多最忠诚的支持者大失所望，特朗普时代也就此走向落幕。",
+      "保守派评论员马特·沃尔什称，这场战争是“过去二十年里最大的政治失误”，也背叛了特朗普发起的“美国优先”运动。“我们得另找一位领头人了，因为特朗普已经抛弃了这场运动。”他在采访中说。",
+      "据知情人士透露，春天时，顾问曾提醒特朗普，伊朗战争可能拖累共和党的中期选情。特朗普却说，还有大把时间想办法。",
+      "特朗普公开为战争辩护，私下却不断询问身边的人，自己是否该改变方向，甚至问起聚在一起合影的基层工作人员。一名白宫官员表示，特朗普并非优柔寡断，而是一向乐于征求意见。",
+      "战争并非共和党周二惨败的唯一原因。特朗普在移民问题上的优势也消失了。严厉的执法行动让非法越境人数降至数十年来最低，却在美国多座城市引发冲突，去年冬天更导致两名美国人在明尼苏达州遭枪击身亡。周二，在西班牙裔人口占比达到或超过 80% 的县，民主党的得票率领先共和党 40 个百分点。",
+      "这一年，特朗普在移民问题上摇摆不定，有时告诉助手，他想进一步加大打击力度。但当第一夫人梅拉尼娅·特朗普抱怨自己认识的人遭到遣返时，他又会对助手说，策划这场强硬移民执法行动的斯蒂芬·米勒做得太过火了。得克萨斯州和佛罗里达州的共和党人也曾私下向白宫表达不满。",
+      "一名与特朗普交谈过的政府高级官员说，有时，特朗普会告诉助手，他根本不在乎中期选举。这名官员表示，总统已经厌倦了为国内政治问题操心，在他看来，这些事远不如外交政策和自己的历史功绩重要。",
+      "这名高级官员还说，春夏两季，助手告诉特朗普，民调显示选民不满他应对生活成本问题的表现，他却说民调是假的。据这名官员透露，特朗普曾在一次会议上说，2016 年自己没有委托任何机构做民调，照样赢了。",
+      "在佐治亚州、南卡罗来纳州、北卡罗来纳州和得克萨斯州等地，特朗普还挤走了原本更有胜算的共和党参议员参选人，转而钦点他认为会效忠自己的人。最终，民主党赢下了这四个州的参议员选举。特朗普的顾问淡化了他对败选的影响，称他参加了 30 场集会，就算换成那些没有得到他支持的候选人，结果也一样会输。",
+      "“事情本来完全不必走到这一步。”共和党众议员拉尔夫·诺曼说。特朗普介入后，他在南卡罗来纳州共和党提名角逐中输给了参议员达琳·格雷厄姆。“骄兵必败。这会给共和党敲响警钟。”",
+      "到了 8 月，民调显示，在选民眼中，共和党处理经济问题的优势已经不复存在。当月，一份内部民调让特朗普的助手忧心忡忡：绝大多数选民认为，通胀的责任更多在特朗普，而非民主党。他们还发现，油价一涨，他的民调支持率就往下掉。",
+      "纽特·金里奇、肖恩·汉尼蒂等顾问曾委婉劝说特朗普，多关注民众的生活负担。金里奇周三表示，共和党已经输掉了围绕生活成本的这场较量。",
+      "然而，总统身边仍然充斥着乐观的声音。一名与会者说，在得克萨斯州夏季的一场筹款活动上，他的私人助理娜塔莉·哈普向捐款人介绍了一项民调，声称特朗普是有史以来最受欢迎的共和党总统。",
+      "9 月，美国汽油价格一周内猛涨 16 美分。不久后，柴油价格也创下历史新高。据了解会议情况的人士透露，民主党众议院竞选团队开会，逐个选区商议最后几周该把资源投向哪里，最终盯上了原本被他们视为共和党稳拿的席位。其中包括佛罗里达州和得克萨斯州一些没有现任议员竞逐连任的席位；2024 年，特朗普曾在这些选区领先对手超过 10 个百分点。",
+      "与此同时，共和党全国竞选团队也因内部民调坐立不安：即便在共和党根基深厚的州和国会选区，一些席位也已岌岌可危。在共和党的一次电话会议上，一名民调专家说：“人们会记住，9 月最后一周，就是局面彻底崩盘的那一周。”",
+      "竞选最后几周，特朗普对高油价轻描淡写，讲话时也常常脱稿，反倒因评论自己支持的男性候选人的身材而引人关注。他告诉顾问，谈论俄亥俄州参议员乔恩·赫斯特德的臀部，会让选民觉得他更“有趣”。赫斯特德在周二败选。特朗普的顾问表示，总统在 30 场集会上为某些候选人拉票，比这些候选人为自己拉票还卖力。",
+      "涉及政府和特朗普家族的腐败指控，成了选民最关切的问题之一。特朗普却依然把心思放在自己偏爱的工程上，包括新建白宫宴会厅，以及一座拟建的 250 英尺高的凯旋门。乘机出行时，他会凑在助手身边，商量肯尼迪中心该如何改造。他还会打断椭圆形办公室的会议，炫耀自己的最新方案，有一次甚至带着客人走到外面，展示自己如何把“玫瑰园”几个金色大字装上去。",
+      "助手说，劝他别再谈宴会厅，纯属浪费时间，因为他每周都会为此开好几场长会，还乐于带人参观。",
+      "周一，也就是中期选举前一天，特朗普在林肯纪念堂倒影池畔发表了近一小时的演讲。助手事先称，这是他在投票前最后一次向选民阐明支持自己的理由。但特朗普大部分时间都在谈自己如何改造首都，包括清理涂鸦、为国家广场重铺草皮、更换生锈的管道。他说，这项工程最难对付的敌人之一，是藻类。",
+      "“我们为华盛顿安排了许多了不起的项目。”他说，却不愿展开。他表示，时间不够，没法再谈自己对整个国家的规划。",
+      "一名与特朗普交谈过的人说，倒影池活动结束后，他兴高采烈。他说，共和党士气高涨，选举一定会顺利。就算结果不如意，也不该怪他。他已经尽了全力。",
+      "“最大的问题是，选票上没有我的名字。”他对《华尔街日报》说。",
+      "然而，特朗普此前曾反复告诉选民，投票时就当他的名字也在选票上。"
+    ],
+    "vocabulary": [
+      {
+        "form": "miscalculations",
+        "ipa": "/ˌmɪskælkjuˈleɪʃn/",
+        "pos": "n.",
+        "meaning": "误判，判断失误，估计错误",
+        "definition": "a wrong judgement about a situation",
+        "zh": "误判，判断失误，估计错误"
+      },
+      {
+        "form": "repudiations",
+        "ipa": "/rɪˌpjuːdiˈeɪʃn/",
+        "pos": "n.",
+        "meaning": "否定，拒斥，摒弃",
+        "definition": "the act of refusing to accept sth.",
+        "zh": "否定，拒斥，摒弃"
+      },
+      {
+        "form": "disarray",
+        "ipa": "/ˌdɪsəˈreɪ/",
+        "pos": "n.",
+        "meaning": "混乱，紊乱，失序",
+        "definition": "a lack of order or organization in a situation or a place",
+        "zh": "混乱，紊乱，失序"
+      },
+      {
+        "form": "wagered on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "押注于，把赌注押在 …… 上，指望 …… 成功",
+        "definition": "to bet money on sth.",
+        "zh": "押注于，把赌注押在 …… 上，指望 …… 成功"
+      },
+      {
+        "form": "freight",
+        "ipa": "/freɪt/",
+        "pos": "n.",
+        "meaning": "货运，货物运输，运输服务",
+        "definition": "the transport of goods by ship, aircraft, train or lorry",
+        "zh": "货运，货物运输，运输服务"
+      },
+      {
+        "form": "fertilizer",
+        "ipa": "/ˈfɜːtəlaɪzə(r)/",
+        "pos": "n.",
+        "meaning": "肥料，肥，肥料制剂",
+        "definition": "a substance added to soil to make plants grow more successfully",
+        "zh": "肥料，肥，肥料制剂"
+      },
+      {
+        "form": "disillusioned",
+        "ipa": "/ˌdɪsɪˈluːʒnd/",
+        "pos": "adj.",
+        "meaning": "幻想破灭的，大失所望的，不再抱有幻想的",
+        "definition": "disappointed after losing faith in sb. or sth. previously admired",
+        "zh": "幻想破灭的，大失所望的，不再抱有幻想的"
+      },
+      {
+        "form": "drawing a curtain on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "使 …… 落幕，结束 ……，为 …… 画上句号",
+        "definition": "to finish or mark the end of sth.",
+        "zh": "使 …… 落幕，结束 ……，为 …… 画上句号"
+      },
+      {
+        "form": "blunder",
+        "ipa": "/ˈblʌndə(r)/",
+        "pos": "n.",
+        "meaning": "大错，严重失误，愚蠢的错误",
+        "definition": "a stupid or careless mistake",
+        "zh": "大错，严重失误，愚蠢的错误"
+      },
+      {
+        "form": "indecisive",
+        "ipa": "/ˌɪndɪˈsaɪsɪv/",
+        "pos": "adj.",
+        "meaning": "优柔寡断的，犹豫不决的，缺乏决断的",
+        "definition": "not able to make decisions quickly and effectively",
+        "zh": "优柔寡断的，犹豫不决的，缺乏决断的"
+      },
+      {
+        "form": "solicited",
+        "ipa": "/səˈlɪsɪt/",
+        "pos": "v.",
+        "meaning": "征求，请求，寻求",
+        "definition": "to formally request support, money, information or opinions",
+        "zh": "征求，请求，寻求"
+      },
+      {
+        "form": "vacillated",
+        "ipa": "/ˈvæsəleɪt/",
+        "pos": "v.",
+        "meaning": "摇摆不定，犹豫不决，反复无常",
+        "definition": "to repeatedly change your opinion or intended course of action",
+        "zh": "摇摆不定，犹豫不决，反复无常"
+      },
+      {
+        "form": "crackdown",
+        "ipa": "/ˈkrækdaʊn/",
+        "pos": "n.",
+        "meaning": "严厉打击，严厉整治，强力取缔",
+        "definition": "severe action to restrict illegal activities or suppress opposition to authority",
+        "zh": "严厉打击，严厉整治，强力取缔"
+      },
+      {
+        "form": "deported",
+        "ipa": "/dɪˈpɔːt/, /dɪˈpɔːrt/",
+        "pos": "v.",
+        "meaning": "驱逐出境，遣返，强制送离",
+        "definition": "to force sb. to leave a country for legal reasons",
+        "zh": "驱逐出境，遣返，强制送离"
+      },
+      {
+        "form": "commission",
+        "ipa": "/kəˈmɪʃn/",
+        "pos": "v.",
+        "meaning": "委托，委托制作，委托开展",
+        "definition": "to officially arrange for sb. to produce sth. or perform a task",
+        "zh": "委托，委托制作，委托开展"
+      },
+      {
+        "form": "odds",
+        "ipa": "/ɒdz/, /ɑːdz/",
+        "pos": "n.",
+        "meaning": "可能性，成功的机会，胜算",
+        "definition": "the degree to which sth. is likely to happen",
+        "zh": "可能性，成功的机会，胜算"
+      },
+      {
+        "form": "anointed",
+        "ipa": "/əˈnɔɪnt/",
+        "pos": "v.",
+        "meaning": "钦点，选定，指定",
+        "definition": "to select sb. as a successor or preferred candidate",
+        "zh": "钦点，选定，指定"
+      },
+      {
+        "form": "played down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "淡化，轻描淡写，贬低 …… 的重要性",
+        "definition": "to try to make sth. seem less important than it really is",
+        "zh": "淡化，轻描淡写，贬低 …… 的重要性"
+      },
+      {
+        "form": "swooped in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "突然介入，迅速插手，突然出手",
+        "definition": "to arrive or intervene suddenly and quickly",
+        "zh": "突然介入，迅速插手，突然出手"
+      },
+      {
+        "form": "edge",
+        "ipa": "/edʒ/",
+        "pos": "n.",
+        "meaning": "优势，领先之处，有利条件",
+        "definition": "a slight advantage over sb./sth.",
+        "zh": "优势，领先之处，有利条件"
+      },
+      {
+        "form": "inflation",
+        "ipa": "/ɪnˈfleɪʃn/",
+        "pos": "n.",
+        "meaning": "通货膨胀，通胀，物价普遍上涨",
+        "definition": "a general rise in prices that reduces the value of money",
+        "zh": "通货膨胀，通胀，物价普遍上涨"
+      },
+      {
+        "form": "upbeat",
+        "ipa": "/ˈʌpbiːt/",
+        "pos": "adj.",
+        "meaning": "乐观的，积极的，充满信心的",
+        "definition": "(informal) positive and enthusiastic; making you feel that the future will be good",
+        "zh": "乐观的，积极的，充满信心的"
+      },
+      {
+        "form": "zeroed in on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "集中注意力，锁定目标，把重点放在 …… 上",
+        "definition": "to fix all your attention on the person or thing mentioned",
+        "zh": "集中注意力，锁定目标，把重点放在 …… 上"
+      },
+      {
+        "form": "unnerved",
+        "ipa": "/ˌʌnˈnɜːvd/, /ˌʌnˈnɜːrvd/",
+        "pos": "adj.",
+        "meaning": "心神不宁的，紧张不安的，失去信心的",
+        "definition": "made to feel nervous or frightened, or to lose confidence",
+        "zh": "心神不宁的，紧张不安的，失去信心的"
+      },
+      {
+        "form": "veered",
+        "ipa": "/vɪə(r)/",
+        "pos": "v.",
+        "meaning": "转变，偏离，改变方向",
+        "definition": "to change the direction or course of a conversation, behaviour or thought",
+        "zh": "转变，偏离，改变方向"
+      },
+      {
+        "form": "off script",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "脱离讲稿，偏离既定说辞，不按预定内容",
+        "definition": "without following a prepared speech, text or plan",
+        "zh": "脱离讲稿，偏离既定说辞，不按预定内容"
+      },
+      {
+        "form": "physiques",
+        "ipa": "/fɪˈziːk/",
+        "pos": "n.",
+        "meaning": "体格，身材，体型",
+        "definition": "the size and shape of a person's body",
+        "zh": "体格，身材，体型"
+      },
+      {
+        "form": "huddled",
+        "ipa": "/ˈhʌdl/",
+        "pos": "v.",
+        "meaning": "聚在一起私下商议，凑在一起交谈，小范围密谈",
+        "definition": "to have a private conversation in a small group",
+        "zh": "聚在一起私下商议，凑在一起交谈，小范围密谈"
+      },
+      {
+        "form": "graffiti",
+        "ipa": "/ɡrəˈfiːti/",
+        "pos": "n.",
+        "meaning": "涂鸦，墙上乱涂乱画的文字，公共场所的涂写",
+        "definition": "drawings or writing on a wall, etc. in a public place",
+        "zh": "涂鸦，墙上乱涂乱画的文字，公共场所的涂写"
+      },
+      {
+        "form": "resodding",
+        "ipa": "/ˌriːˈsɒd/, /ˌriːˈsɑːd/",
+        "pos": "v.",
+        "meaning": "重铺草皮，重新铺草，更新草坪",
+        "definition": "to cover a piece of land with a new layer of grass",
+        "zh": "重铺草皮，重新铺草，更新草坪"
+      },
+      {
+        "form": "elaborate",
+        "ipa": "/ɪˈlæbəreɪt/",
+        "pos": "v.",
+        "meaning": "详述，详细解释，进一步说明",
+        "definition": "to explain or describe sth. in a more detailed way",
+        "zh": "详述，详细解释，进一步说明"
+      },
+      {
+        "form": "ebullient",
+        "ipa": "/ɪˈbʌliənt/, /ɪˈbʊliənt/",
+        "pos": "adj.",
+        "meaning": "兴高采烈的，热情洋溢的，神采飞扬的",
+        "definition": "full of confidence, energy and good humour",
+        "zh": "兴高采烈的，热情洋溢的，神采飞扬的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the act of refusing to accept sth.",
+      "to finish or mark the end of sth."
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “And the nation's economic growth was even better than projected”?",
+    "exerciseChoiceMarked": [
+      "projected"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The machine projected colourful images onto the wall.",
+        "marked": [
+          "projected"
+        ],
+        "zh": "机器把彩色图像投射到墙上。"
+      },
+      {
+        "label": "B",
+        "text": "She projected her voice so that everyone could hear her.",
+        "marked": [
+          "projected"
+        ],
+        "zh": "她提高音量，好让每个人都听得见。"
+      },
+      {
+        "label": "C",
+        "text": "The company projected a rise in sales for the following year.",
+        "marked": [
+          "projected"
+        ],
+        "zh": "公司预计下一年销售额会增长。"
+      },
+      {
+        "label": "D",
+        "text": "He projected an image of confidence during the interview.",
+        "marked": [
+          "projected"
+        ],
+        "zh": "她在面试中表现得很自信。"
+      }
+    ],
+    "exerciseTranslationPrompt": "这很可能直接源于特朗普决定对伊朗开战：汽油价格因此上涨 40%，许多最忠诚的支持者大失所望，特朗普时代也就此走向落幕。",
+    "answerVocabularyList": [
+      "repudiation",
+      "draw a curtain on"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "It was likely a direct result of Trump's decision to go to war in Iran, sending gas prices up 40%, leaving many of his most loyal supporters disillusioned and effectively drawing a curtain on the Trump age."
+  },
+  {
+    "key": "nov1119",
+    "date": "2026.11.19",
+    "period": "2026年11月",
+    "folder": "1119 《心经》：色即是空，究竟空了什么？1",
+    "titleZh": "《心经》：色即是空，究竟空了什么？1",
+    "title": "Buddhist Wisdom Books: The Diamond Sutra and The Heart Sutra",
+    "topicEn": "Religion & Philosophy",
+    "topicZh": "宗教与哲学",
+    "byline": "By Edward Conze, Buddhist Wisdom Books, Published in 1958",
+    "paragraphs": [
+      "By contrast, two thousand years ago both the Mediterranean and India went through a particularly creative period, which saw the Hebrews writing about Chochma, the Gnostics about Sophia, and the Buddhists about Prajñāpāramitā, or ‘perfection of wisdom’. In spite of many differences caused by the social and cultural background, the wisdom tradition at that time achieved a fair degree of universality, and its Indian form was distinguished more by its uncompromising sublimity and otherworldliness, than by the peculiarity of its tenets.",
+      "The Prajñāpāramitā literature consists of thirty-eight different books, composed in India between 100 B.C. and A.D. 600. The judgement of thirty generations of Buddhists in China, Japan, Tibet and Mongolia has singled out two of these as the holiest of the holy—the Diamond Sutra and the Heart Sutra, both perhaps of about the fourth century of our era. ... The second sets out to formulate the very ‘heart’, ‘core’ or ‘essence’ of perfect wisdom.",
+      "The authors of these works were well aware that language is ill-suited to expressing the insights of a wisdom which aims at no less than the total extinction of self. For, to quote Plotinus, ‘how shall a man behold this ineffable Beauty which remains within, and proceeds not without where the profane may view it?’ Nevertheless, the Sages of old have thought it worth while to attempt the impossible, and some good will perhaps come from making their work available to the distracted world of today.",
+      "Translation by E. Conze",
+      "Avalokita, the Holy Lord and Bodhisattva, was moving in the deep course of the Wisdom which has gone beyond.",
+      "He looked down from on high, He beheld but five heaps, and He saw that in their own-being they were empty.",
+      "Here, O Sariputra,",
+      "form is emptiness and the very emptiness is form;",
+      "emptiness does not differ from form, form does not differ from emptiness, whatever is emptiness, that is form,",
+      "the same is true of feelings, perceptions, impulses, and consciousness."
+    ],
+    "paragraphTranslations": [
+      "相比之下，两千年前，地中海地区与印度都经历了一个格外富有创造力的时期：希伯来人撰述 Chochma，诺斯替派撰述 Sophia，佛教徒则撰述般若波罗蜜多，即“智慧的圆满”。尽管社会与文化背景造成了诸多差异，当时的智慧传统仍达到了相当程度的普遍性；而其印度形态之所以与众不同，与其说在于教义的独特，不如说在于其毫不妥协的崇高性与超凡脱俗的精神。",
+      "般若波罗蜜多文献共包含三十八部不同的著作，撰成于公元前 100 年至公元 600 年之间的印度。中国、日本、西藏和蒙古三十代佛教徒的评判，从中拣出两部，奉为“圣中之圣”——《金刚经》与《心经》，两者或许都成书于公元四世纪前后。…… 后者旨在阐明圆满智慧的“心”“核”或“精华”。",
+      "这些著作的作者深知，语言并不适合表达这样一种智慧的洞见，因为这种智慧的目标不亚于彻底消除自我。正如普罗提诺所言：“人如何才能目睹这难以言喻的美？它只留在内里，不走出到凡俗之人可以看见的地方。”尽管如此，古代的圣贤仍认为，尝试这不可能之事是值得的；而把他们的著作呈现给当今心神纷扰的世界，或许也会带来一些益处。",
+      "爱德华·孔兹英译",
+      "观自在，这位神圣的尊主与菩萨，正行进在已度彼岸的智慧的深邃之道上。",
+      "他从高处向下观照，只看见五蕴［五堆］，并看到它们在自性中都是空的。",
+      "在此，舍利弗啊，",
+      "色即是空，空性本身即是色；",
+      "空不异色，色不异空；凡是空，那就是色；",
+      "受、想、行、识，也同样如此。"
+    ],
+    "vocabulary": [
+      {
+        "form": "universality",
+        "ipa": "/ˌjuːnɪvɜːˈsæləti/",
+        "pos": "n.",
+        "meaning": "普遍性",
+        "definition": "the fact of being done by or involving all the people in the world or in a particular group",
+        "zh": "普遍性"
+      },
+      {
+        "form": "uncompromising",
+        "ipa": "/ʌnˈkɒmprəmaɪzɪŋ/",
+        "pos": "adj.",
+        "meaning": "不妥协的；坚定不移的",
+        "definition": "unwilling to change your opinions or behaviour",
+        "zh": "不妥协的；坚定不移的"
+      },
+      {
+        "form": "sublimity",
+        "ipa": "/səˈblɪməti/",
+        "pos": "n.",
+        "meaning": "崇高；庄严",
+        "definition": "a very good or fine quality that people admire",
+        "zh": "崇高；庄严"
+      },
+      {
+        "form": "peculiarity",
+        "ipa": "/pɪˌkjuːliˈærəti/",
+        "pos": "n.",
+        "meaning": "特性；特质",
+        "definition": "a feature that only belongs to one particular person, thing, place, etc.",
+        "zh": "特性；特质"
+      },
+      {
+        "form": "tenets",
+        "ipa": "/ˈtenɪt/",
+        "pos": "n.",
+        "meaning": "信条；原则",
+        "definition": "one of the principles or beliefs that a theory or larger set of beliefs is based on",
+        "zh": "信条；原则"
+      },
+      {
+        "form": "judgement",
+        "ipa": "/ˈdʒʌdʒmənt/",
+        "pos": "n.",
+        "meaning": "判断；看法",
+        "definition": "an opinion that you form about something after thinking about it carefully; the act of making this opinion known to others",
+        "zh": "判断；看法"
+      },
+      {
+        "form": "holiest",
+        "ipa": "/ˈhəʊli/",
+        "pos": "adj.",
+        "meaning": "神圣的",
+        "definition": "connected with God or a particular religion",
+        "zh": "神圣的"
+      },
+      {
+        "form": "formulate",
+        "ipa": "/ˈfɔːmjuleɪt/",
+        "pos": "v.",
+        "meaning": "阐明；清楚地表达",
+        "definition": "to express your ideas in carefully chosen words",
+        "zh": "阐明；清楚地表达"
+      },
+      {
+        "form": "essence",
+        "ipa": "/ˈesns/",
+        "pos": "n.",
+        "meaning": "本质；精髓",
+        "definition": "the most important quality or feature of something, that makes it what it is",
+        "zh": "本质；精髓"
+      },
+      {
+        "form": "insights",
+        "ipa": "/ˈɪnsaɪt/",
+        "pos": "n.",
+        "meaning": "洞见；深刻见解",
+        "definition": "an understanding of what something is like",
+        "zh": "洞见；深刻见解"
+      },
+      {
+        "form": "extinction",
+        "ipa": "/ɪkˈstɪŋkʃn/",
+        "pos": "n.",
+        "meaning": "灭绝；消亡",
+        "definition": "a situation in which a plant, an animal, a way of life, etc. stops existing",
+        "zh": "灭绝；消亡"
+      },
+      {
+        "form": "beheld",
+        "ipa": "/bɪˈhəʊld/",
+        "pos": "v.",
+        "meaning": "看见；注视",
+        "definition": "to look at or see somebody/something",
+        "zh": "看见；注视"
+      },
+      {
+        "form": "ineffable",
+        "ipa": "/ɪnˈefəbl/",
+        "pos": "adj.",
+        "meaning": "难以言喻的",
+        "definition": "too great or beautiful to describe in words",
+        "zh": "难以言喻的"
+      },
+      {
+        "form": "Sages",
+        "ipa": "/seɪdʒ/",
+        "pos": "n.",
+        "meaning": "圣人；智者",
+        "definition": "a very wise person",
+        "zh": "圣人；智者"
+      },
+      {
+        "form": "distracted",
+        "ipa": "/dɪˈstræktɪd/",
+        "pos": "adj.",
+        "meaning": "心烦意乱的；注意力不集中的",
+        "definition": "unable to pay attention to somebody / something because you are worried or thinking about something else",
+        "zh": "心烦意乱的；注意力不集中的"
+      },
+      {
+        "form": "perceptions",
+        "ipa": "/pəˈsepʃn/",
+        "pos": "n.",
+        "meaning": "感知；知觉",
+        "definition": "the way you notice things, especially with the senses",
+        "zh": "感知；知觉"
+      },
+      {
+        "form": "consciousness",
+        "ipa": "/ˈkɒnʃəsnəs/",
+        "pos": "n.",
+        "meaning": "意识",
+        "definition": "the state of being able to use your senses and mental powers to understand what is happening",
+        "zh": "意识"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "one of the principles or beliefs that a theory or larger set of beliefs is based on",
+      "too great or beautiful to describe in words"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence \"The Prajñāpāramitā literature consists of thirty-eight different books, composed in India between 100 B.C. and A.D. 600. \"?",
+    "exerciseChoiceMarked": [
+      "composed"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Mozart composed his last opera shortly before he died.",
+        "marked": [
+          "composed"
+        ],
+        "zh": "莫扎特在去世前不久创作了最后一部歌剧。"
+      },
+      {
+        "label": "B",
+        "text": "Ten people compose the committee.",
+        "marked": [
+          "compose"
+        ],
+        "zh": "委员会由十个人组成。"
+      },
+      {
+        "label": "C",
+        "text": "She composed a letter of protest.",
+        "marked": [
+          "composed"
+        ],
+        "zh": "她写了一封抗议信。"
+      },
+      {
+        "label": "D",
+        "text": "Emma frowned, making an effort to compose herself.",
+        "marked": [
+          "compose"
+        ],
+        "zh": "埃玛皱起眉头，努力使自己镇定下来。"
+      }
+    ],
+    "exerciseTranslationPrompt": "这些著作的作者深知，语言并不适合表达这样一种智慧的洞见，因为这种智慧的目标不亚于彻底消除自我。",
+    "answerVocabularyList": [
+      "tenet",
+      "ineffable"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "The authors of these works were well aware that language is ill-suited to expressing the insights of a wisdom which aims at no less than the total extinction of self."
+  },
 ];
