@@ -190,6 +190,284 @@ export const januaryMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "jan0105",
+    "date": "2026.01.05",
+    "period": "2026年1月",
+    "folder": "0105 阅读是一种陋习？",
+    "titleZh": "阅读是一种恶习？",
+    "title": "Reading Is a Vice",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Adam Kirsch, The Atlantic, Published Jan. 2, 2026",
+    "paragraphs": [
+      "Being a reader means cultivating a relationship with the world that, by most standards, can seem pointless and counterproductive.",
+      "If you read a book in 2025—just one book—you belong to an endangered species. Like honeybees and red wolves, the population of American readers has been declining for decades. The most recent survey found that fewer than half of Americans had read a single book in the previous 12 months; only 38 percent had read a novel or short story. This decline is only getting steeper. Educators and policy makers have been agonizing about this trend line for decades, but they haven't managed to change it. Now some are trying a new tactic: If people won't read books because they enjoy it, perhaps they can be persuaded to do it to save democracy. The International Publishers Association has spent the past year promoting the slogan \"Democracy depends on reading,\" arguing that \"ambitious, critical, reflective reading remains one of the few spaces where citizens can rehearse complexity, recover attention and cultivate the inner freedoms that public freedoms require.\"",
+      "The problem with these kinds of arguments isn't that they are wrong; it's that they don't actually persuade anyone to read more, because they misunderstand why people become readers in the first place. Telling someone to love literature because reading is good for society is like telling someone to believe in God because religion is good for society. It's a utilitarian argument for what should be a personal passion. It would be better to describe reading not as a public duty but as a private pleasure, sometimes even a vice. This would be a more effective way to attract young people, and it also happens to be true. When literature was considered transgressive, moralists couldn't get people to stop buying and reading dangerous books. Now that books are considered virtuous and edifying, moralists can't persuade anyone to pick one up.",
+      "Being a reader means cultivating a relationship with the world that, by most standards, can seem pointless and counterproductive. Reading is not profitable; it doesn't teach you any transferable skills or offer any networking opportunities. On the contrary, it is an antisocial activity in the most concrete sense: To do it you have to be alone, or else pretend you're alone by tuning out other people. Reading teaches you to be more interested in what's going on inside your head than in the real world. As a rule, if you're looking for evidence that reading makes you a better world citizen, the last place you'll find it is the work of great writers. They know too much about literature to idealize it the way educators do. In fact, some of the greatest novels are about how reading ruins lives—starting with the book often considered the first modern novel, Don Quixote. Cervantes's comic hero is addicted to \"reading books of chivalry,\" until \"his fancy grew full of what he used to read about in his books, enchantments, quarrels, battles, challenges, wounds, wooings, loves, agonies, and all sorts of impossible nonsense.\" Convinced that he is a character in a novel—which, of course, he is—he embarks on a series of knightly adventures that go laughably and pathetically wrong.",
+      "Centuries later, the heroine of Gustave Flaubert's novel Madame Bovary makes the same mistake, with more tragic consequences. Emma Bovary is addicted to reading—Flaubert writes that, as a teenager, she \"made her hands dirty with books from old lending libraries.\" When she gets married and finds that she doesn't love her husband the way novels had led her to expect, she turns to adultery \"to find out what one meant exactly in life by the words felicity, passion, rapture, that had seemed to her so beautiful in books.\" But what is beautiful in books turns out to be ugly in life, and Emma's attempt to live like the heroine of a romance ends in ruin and suicide. After Madame Bovary was published, in 1856, its frank depiction of sexual immorality got Flaubert prosecuted in Paris for obscenity. He was acquitted, and the attempt to censor the novel only made it more popular, just as would happen in the 20th century with Ulysses and Lady Chatterley's Lover. Today, all of these books are considered classics, which means that most of us encounter them only in the classroom, as objects of dutiful study.",
+      "If we want to keep reading from going extinct, then the best thing we could do is tell young people what so many great writers readily admit: Literature doesn't make you a better citizen or a more successful person. A passion for reading can even make life more difficult. And you don't cultivate a passion for the sake of democracy. You do it for the thrill of staying up late to read under the covers by flashlight, unable to stop and hoping no one finds out."
+    ],
+    "paragraphTranslations": [
+      "成为读者意味着培养一种与世界的关系，而这种关系在大多数人看来可能毫无意义，甚至适得其反。",
+      "如果在 2025 年你还能读完一本书 —— 哪怕仅仅是一本 —— 那你便属于一个濒危物种。正如蜜蜂与红狼一般，美国读者的数量几十年来一直在持续萎缩。最近的一项调查显示，在过去的一年中，阅读过一本书的美国人不足半数；而读过长篇或短篇小说的比例仅为 38%。这种下滑的趋势正变得愈发陡峭。虽然教育工作者和政策制定者几十年来一直对这一趋势线感到苦恼，但他们并未能扭转乾坤。如今，一些人开始尝试一种新的策略：如果人们不愿因为享受阅读而读书，或许可以劝说他们为了拯救民主而读书。国际出版商协会（The International Publishers Association）在过去一年里一直在推广“民主仰赖于阅读”这一口号，并辩称“充满野心、具有批判性和反思性的阅读，依然是公民能够演练复杂性、恢复专注力以及培养公共自由所需的内在自由的少数空间之一。”",
+      "这类论点的问题不在于它们是错误的，而在于它们实际上无法说服任何人去增加阅读量，因为它们误解了人们最初成为读者的原因。告诉某人应该热爱文学是因为阅读对社会有益，这就像告诉某人应该信仰上帝是因为宗教对社会有益一样。这是一种针对本应是个人激情的事物所提出的功利主义论点。与其将阅读描述为一种公共义务，不如将其描述为一种私人乐趣，甚至有时是一种恶习。这不仅会是一种吸引年轻人的更有效方式，而且它恰恰也是事实。当文学曾被视为离经叛道之物时，道德家们无法阻止人们购买和阅读那些危险的书籍。而如今，当书籍被视为具有美德和启迪人心的作用时，道德家们却无法说服任何人拿起一本书。",
+      "成为一名读者，意味着培养一种与世界的关系，而这种关系按照大多数标准来看，可能显得毫无意义且适得其反。阅读是无利可图的；它不会教你任何可迁移技能，也不提供任何社交建立人脉的机会。恰恰相反，在最具体的意义上，它是一种反社会的活动：为了阅读，你必须独处，或者通过屏蔽他人来假装独处。阅读教会你对发生在你头脑内部的事情比对现实世界更感兴趣。通常来说，如果你想寻找阅读能让你成为更好的世界公民的证据，你最不可能在伟大作家的作品中找到它。这些作家对文学知之甚深，因而不会像教育工作者那样将其理想化。事实上，一些最伟大的小说正是关于阅读如何毁掉生活的 —— 这就不得不提常被视为第一部现代小说的《堂吉诃德》（Don Quixote）。塞万提斯笔下的这位喜剧英雄沉溺于“阅读骑士书籍”，直到“他的幻想中充满了他在书里读到的那些东西：魔法、争吵、战斗、挑战、创伤、求爱、爱情、痛苦以及各种各样不可能的无稽之谈。”他确信自己是一部小说中的人物 —— 当然，他确实是 —— 并由此踏上了一系列骑士般的冒险旅程，结果却荒唐可笑、惨不忍睹。",
+      "几个世纪后，古斯塔夫·福楼拜小说中的女主人公包法利夫人犯了同样的错误，且后果更为悲剧性。爱玛·包法利沉溺于阅读 —— 福楼拜写道，她在少女时期就“在借阅室弄脏了双手”。当她结婚后，发现自己并不像小说引导她期待的那样爱她的丈夫时，她转向了通奸，试图“去弄清楚生活中究竟通过 ‘ 幸福 ’、‘ 激情 ’、‘ 狂喜 ’ 这些词意味着什么，这些词在书中曾显得如此美丽。”然而，书中的美丽在生活中却变得丑陋不堪，爱玛试图像言情小说女主角那样生活的尝试，最终以毁灭和自杀告终。《包法利夫人》于 1856 年出版后，其对性不道德的直白描写导致福楼拜在巴黎因淫秽罪名被起诉。他最终被宣判无罪，而审查这部小说的企图只会让它更受欢迎，就像 20 世纪发生在《尤利西斯》和《查泰莱夫人的情人》身上的情况一样。如今，所有这些书都被视为经典，这意味着我们大多数人只会在课堂上遇到它们，将它们作为尽职研究的对象。",
+      "如果我们想阻止阅读走向灭绝，那么我们能做的最好的事情就是告诉年轻人那些伟大作家们坦承的事实：文学并不会让你成为一个更好的公民或一个更成功的人。对阅读的激情甚至会让生活变得更加困难。而且，你并不是为了民主的缘故去培养一种激情。你这样做是为了那种打着手电筒在被窝里熬夜阅读的快感，那种欲罢不能并希望没人发现的隐秘快乐。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Vice",
+        "ipa": "/vaɪs/",
+        "pos": "n.",
+        "meaning": "不良行为；恶习",
+        "definition": "bad or immoral behavior or habits; wickedness",
+        "zh": "不良行为；恶习"
+      },
+      {
+        "form": "endangered",
+        "ipa": "/ɪnˈdeɪndʒəd/",
+        "pos": "adj.",
+        "meaning": "（动植物群落等）濒临灭绝的，濒危的",
+        "definition": "(used especially about groups of animals, plants, etc.) at risk of no longer existing",
+        "zh": "（动植物群落等）濒临灭绝的，濒危的"
+      },
+      {
+        "form": "steeper",
+        "ipa": "/stiːp/",
+        "pos": "adj.",
+        "meaning": "（数量的上升或下降）突然的；急剧的；大起大落的",
+        "definition": "(of a rise or fall in an amount) sudden and very big",
+        "zh": "（数量的上升或下降）突然的；急剧的；大起大落的"
+      },
+      {
+        "form": "agonizing",
+        "ipa": "/ˈæɡənaɪz/",
+        "pos": "v.",
+        "meaning": "苦苦思索；焦虑不已",
+        "definition": "to spend a long time thinking and worrying about a difficult situation or problem",
+        "zh": "苦苦思索；焦虑不已"
+      },
+      {
+        "form": "tactic",
+        "ipa": "/ˈtæktɪk/",
+        "pos": "n.",
+        "meaning": "策略；手段；招数",
+        "definition": "the particular method you use to achieve something",
+        "zh": "策略；手段；招数"
+      },
+      {
+        "form": "cultivate",
+        "ipa": "/ˈkʌltɪveɪt/",
+        "pos": "v.",
+        "meaning": "陶冶；培养；修习",
+        "definition": "to improve or develop (something) by careful attention, training, or study",
+        "zh": "陶冶；培养；修习"
+      },
+      {
+        "form": "utilitarian",
+        "ipa": "/ˌjuːtɪlɪˈteəriən/",
+        "pos": "adj.",
+        "meaning": "功利主义的",
+        "definition": "of or relating to utilitarianism",
+        "zh": "功利主义的"
+      },
+      {
+        "form": "transgressive",
+        "ipa": "/trænzˈɡres/",
+        "pos": "v.",
+        "meaning": "越轨；违背（道德）；违犯（法律）",
+        "definition": "to go beyond the limit of what is morally or legally acceptable",
+        "zh": "越轨；违背（道德）；违犯（法律）"
+      },
+      {
+        "form": "virtuous",
+        "ipa": "/ˈvɜːtʃuəs/",
+        "pos": "adj.",
+        "meaning": "品行端正的；品德高的；有道德的",
+        "definition": "behaving in a very good and moral way; showing high moral standards",
+        "zh": "品行端正的；品德高的；有道德的"
+      },
+      {
+        "form": "edifying",
+        "ipa": "/ˈedɪfaɪɪŋ/",
+        "pos": "adj.",
+        "meaning": "启迪的；有启发意义的；起教化作用的",
+        "definition": "likely to improve your mind or your character",
+        "zh": "启迪的；有启发意义的；起教化作用的"
+      },
+      {
+        "form": "counterproductive",
+        "ipa": "/ˌkaʊntəprəˈdʌktɪv/",
+        "pos": "adj.",
+        "meaning": "产生相反效果；事与愿违；适得其反",
+        "definition": "having the opposite effect to the one that was intended",
+        "zh": "产生相反效果；事与愿违；适得其反"
+      },
+      {
+        "form": "transferable",
+        "ipa": "/trænsˈfɜːrəbl/",
+        "pos": "adj.",
+        "meaning": "可转移的；可调动的；可转让的；可转录的；可中转的",
+        "definition": "that can be moved from one place, person or use to another",
+        "zh": "可转移的；可调动的；可转让的；可转录的；可中转的"
+      },
+      {
+        "form": "antisocial",
+        "ipa": "/ˌæntiˈsəʊʃl/",
+        "pos": "adj.",
+        "meaning": "不爱交际的；厌恶社交的；不合群的",
+        "definition": "often avoiding spending time with other people",
+        "zh": "不爱交际的；厌恶社交的；不合群的"
+      },
+      {
+        "form": "tuning out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "不理会",
+        "definition": "to ignore or not listen to (someone or something)",
+        "zh": "不理会"
+      },
+      {
+        "form": "chivalry",
+        "ipa": "/ˈʃɪvəlri/",
+        "pos": "n.",
+        "meaning": "骑士制度，骑士精神（如忠诚、侠义等）",
+        "definition": "the system of values (such as loyalty and honor) that knights in the Middle Ages were expected to follow",
+        "zh": "骑士制度，骑士精神（如忠诚、侠义等）"
+      },
+      {
+        "form": "wooings",
+        "ipa": "/wuː/",
+        "pos": "v.",
+        "meaning": "追求（异性）；求爱",
+        "definition": "to try to persuade a woman to love him and marry him",
+        "zh": "追求（异性）；求爱"
+      },
+      {
+        "form": "embarks on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "从事，着手，开始（新的或艰难的事情）",
+        "definition": "to start to do something new or difficult",
+        "zh": "从事，着手，开始（新的或艰难的事情）"
+      },
+      {
+        "form": "pathetically",
+        "ipa": "/pəˈθetɪkli/",
+        "pos": "adv.",
+        "meaning": "令人怜悯地，可怜地",
+        "definition": "in a way that causes feelings of sadness and sympathy, especially because a person or animal is suffering",
+        "zh": "令人怜悯地，可怜地"
+      },
+      {
+        "form": "adultery",
+        "ipa": "/əˈdʌltəri/",
+        "pos": "n.",
+        "meaning": "通奸",
+        "definition": "sex between a married person and somebody who is not their husband or wife",
+        "zh": "通奸"
+      },
+      {
+        "form": "felicity",
+        "ipa": "/fəˈlɪsəti/",
+        "pos": "n.",
+        "meaning": "幸福；十分快乐",
+        "definition": "great happiness",
+        "zh": "幸福；十分快乐"
+      },
+      {
+        "form": "rapture",
+        "ipa": "/ˈræptʃə(r)/",
+        "pos": "n.",
+        "meaning": "狂喜；欢天喜地；兴高采烈",
+        "definition": "a feeling of extreme pleasure and happiness",
+        "zh": "狂喜；欢天喜地；兴高采烈"
+      },
+      {
+        "form": "obscenity",
+        "ipa": "/əbˈsenəti/",
+        "pos": "n.",
+        "meaning": "淫秽的语言；下流的行为",
+        "definition": "obscene language or behaviour",
+        "zh": "淫秽的语言；下流的行为"
+      },
+      {
+        "form": "acquitted",
+        "ipa": "/əˈkwɪt/",
+        "pos": "v.",
+        "meaning": "宣判无罪",
+        "definition": "to decide and state officially in court that somebody is not guilty of a crime",
+        "zh": "宣判无罪"
+      },
+      {
+        "form": "censor",
+        "ipa": "/ˈsensə(r)/",
+        "pos": "v.",
+        "meaning": "删剪（书籍、电影等中被认为犯忌、违反道德或政治上危险的内容）",
+        "definition": "to remove the parts of a book, film, etc. that are considered to be offensive or a political threat",
+        "zh": "删剪（书籍、电影等中被认为犯忌、违反道德或政治上危险的内容）"
+      },
+      {
+        "form": "extinct",
+        "ipa": "/ɪkˈstɪŋkt/",
+        "pos": "adj.",
+        "meaning": "不再存在的；已灭绝的；绝种的",
+        "definition": "no longer existing",
+        "zh": "不再存在的；已灭绝的；绝种的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to spend a long time thinking and worrying about a difficult situation or problem",
+      "likely to improve your mind or your character"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence \"It would be better to describe reading not as a public duty but as a private pleasure, sometimes even a vice.\"",
+    "exerciseChoiceMarked": [
+      "vice"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The mechanic secured the metal pipe firmly in the vice before cutting it.",
+        "marked": [
+          "vice"
+        ],
+        "zh": "机械师先用台虎钳牢牢夹住金属管，再动手切割。"
+      },
+      {
+        "label": "B",
+        "text": "For him, staying up all night to read novels was not a virtue but a delightful vice.",
+        "marked": [
+          "vice"
+        ],
+        "zh": "对他来说，熬通宵读小说谈不上美德，却是一种令人愉快的恶习。"
+      },
+      {
+        "label": "C",
+        "text": "The Vice Chancellor presided over the university senate meeting.",
+        "marked": [
+          "Vice"
+        ],
+        "zh": "大学校长主持了校务评议会的会议。"
+      },
+      {
+        "label": "D",
+        "text": "The police have smashed a vice ring in Chicago.",
+        "marked": [
+          "vice"
+        ],
+        "zh": "警方在芝加哥捣毁了一个卖淫团伙。"
+      }
+    ],
+    "exerciseTranslationPrompt": "告诉某人应该热爱文学是因为阅读对社会有益，这就像告诉某人应该信仰上帝是因为宗教对社会有益一样。这是一种针对本应是个人激情的事物所提出的功利主义论点。",
+    "answerVocabularyList": [
+      "agonize",
+      "edifying"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Telling someone to love literature because reading is good for society is like telling someone to believe in God because religion is good for society. It's a utilitarian argument for what should be a personal passion."
+  },
+  {
     "key": "jan0106",
     "date": "2026.01.06",
     "period": "2026年01月",

@@ -923,6 +923,198 @@ export const februaryMarchMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "feb0206",
+    "date": "2026.02.06",
+    "period": "2026年2月",
+    "folder": "0206 如何逃离“讨好”陷阱：解构讨好型人格本质 2",
+    "titleZh": "如何逃离“讨好”陷阱：解构讨好型人格本质 2",
+    "title": "Why ‘Fawning’ Is The Quiet Epidemic We’re Finally Taking Seriously—& How To Reclaim Your Voice",
+    "topicEn": "Psychology",
+    "topicZh": "心理",
+    "byline": "By Meena Alexander, Service95, Published July 28, 2025",
+    "paragraphs": [
+      "If you’re ready to start, here are four expert-backed ways to reclaim your inner voice…",
+      "4 Ways To Stop Being A People Pleaser",
+      "1. Identify Your Archetype",
+      "In her book Are You Mad At Me? Meg identifies six loose archetypes that people-pleasers fall into—not, she says, as a means of labelling yourself, but as a tool for recognising how you might be fawning and what situations bring out the people-pleaser in you. Briefly, they are:",
+      "The Peacekeeper, who is focused on ensuring their relationships are harmonious and friction-free and believes other people’s happiness is their responsibility.",
+      "The Perfectionist relies heavily on external validation to feel comfortable and uses success and achievement to receive it. They struggle to let anyone see them ‘off their game‘ and are always striving to prove themselves.",
+      "The Caretaker finds their value in being helpful and tends to abandon themselves completely in favour of always being available and in service to others. They struggle to say no or set boundaries.",
+      "The Performer finds safety in alleviating tension and lifting others’ moods through humour or positivity. This can result in them feeling like no-one really knows them, because they’re always ‘onstage’.",
+      "The Chameleon morphs themselves to please whoever they’re with and feels they don’t really know who they are or what they want because they’re always shape-shifting.",
+      "The Lone Wolf tries to please people by never ‘burdening’ them with their problems or feelings, keeping it all inside. This can look like self-isolating or avoiding social settings altogether.",
+      "2. Practise ‘Leaning Back’",
+      "Once you know when you tend to snap into people-pleasing behaviours, you can try this simple strategy for breaking the habit. “Healing starts with awareness,” says Meg. “Because fawning is an unconscious pattern, we need to bring it into the conscious mind, and all that means is implementing an intentional pause that tells our nervous system: ‘This is a perceived threat, not a real one’. Say you feel someone is being cold with you and your impulse is to ask, ‘What have I done? Are you mad at me?’ Lean back, put down the phone and don’t respond for two minutes.",
+      "3. Tell Yourself The Truth",
+      "Tamu Thomas, author of Women Who Work Too Much, developed her own checklist to help her set a boundary when she was about to jump into saying ‘yes’. “In those moments where you’re about to agree to something you really don’t want to, your body tells you—it’s almost like a sinking elevator feeling in your stomach,” she says. “When I feel that, I ask myself a few questions in my head: if I wasn’t worried about looking bad, what would my answer be? If I wasn’t worried about feeling bad, what would my answer be? And is saying yes to this thing going to bring me closer to the things I care about, or further away? These questions force you to get really honest with yourself and therefore act from a place of authenticity.”",
+      "4. Turn Up Your Inner Voice",
+      "Meg recognises how people-pleasing can make us feel adrift from our own identities, especially if we’ve spent years moulding ourselves to suit other people. She recommends journaling as a way to turn up your inner voice and give yourself space to speak without an audience. Try writing down your answers to the following questions, and thinking about what small steps you can take to bring them into reality.",
+      "Who am I when I’m not being perceived?",
+      "What is my personality when I’m not trying to impress or please anyone else?",
+      "What would I want for my life if I couldn’t tell anyone about it, and if it wasn’t being judged by others?"
+    ],
+    "paragraphTranslations": [
+      "如果你已经准备好开始行动，这里有四种经过专家验证的方法，可以帮助你重新掌控自己的内心声音……",
+      "停止做“讨好者”的4种方法",
+      "1. 识别你的原型",
+      "在她的书《你真的生气了吗？》中，梅格指出了那些喜欢讨好他人的人通常会陷入的六种行为模式。她指出，这些模式并非用于自我标签，而是作为一种工具，帮助人们认识到自己可能属于哪种讨好型人格，以及哪些情境会激发这种性格特征。简而言之，这些模式包括：",
+      "和平维护者，他们致力于确保人际关系和谐无摩擦，并认为他人的幸福是他们的责任。",
+      "完美主义者非常依赖外界的认可来感到满足，他们通过成功和成就来获得这种认可。他们难以接受别人看到他们“表现不佳”的事实，总是努力证明自己的价值。",
+      "这些管理者看重的是能够为他人提供帮助，因此他们往往完全奉献自己，时刻准备为他人服务。他们难以拒绝他人或设定界限。",
+      "表演者通过幽默或积极的态度来缓解紧张情绪，提升他人的心情，从而找到安全感。这让他们觉得似乎没有人真正了解他们，因为他们总是“在舞台上”。",
+      "变色龙会根据周围人的喜好改变自己的外形，他们觉得自己并不真正了解自己是谁或自己想要什么，因为他们总是不断改变自己的形态。",
+      "孤独之狼试图通过不向他人倾诉自己的问题或情感来取悦他人，将所有情绪都隐藏在内心。这看起来像是自我隔离或完全避免社交场合。",
+      "2. 练习“靠背动作”",
+      "一旦你意识到自己倾向于采取那种讨好他人的行为，就可以尝试这个简单的策略来改掉这个习惯。“改变始于自我认知，”梅格说。“因为讨好行为是一种无意识的模式，我们需要将这种无意识的行为转化为有意识的行动。这意味着要采取一种有意识的暂停策略，告诉我们的神经系统：‘这是一个感知到的威胁，而不是真正的威胁。’如果你觉得有人对你冷淡，你的第一反应可能是问：‘我做了什么？你生我的气吗？’那么请靠在椅背上，放下手机，不要回应他们两分钟。”",
+      "3. 告诉自己真相",
+      "《女性工作过度》一书的作者塔姆·托马斯，在准备答应一些自己并不真正想要的事情时，开发了自己的清单来设定界限。她说：“在那些你即将同意一些自己并不想要的事情的时候，你的身体会给你提示——那种感觉就像电梯里开始下沉一样。当我感受到这种感觉时，我会问自己几个问题：如果我不担心显得不好，我的回答会是什么？如果我不担心自己会感觉不好，我的回答会是什么？答应这件事会让我离我真正关心的事情更近一些，还是更远一些？这些问题会迫使你对自己保持诚实，从而以真实的态度行事。”",
+      "4. 提高你的内在声音",
+      "梅格意识到，追求讨好他人可能会让我们失去自己的身份认同，尤其是当我们花费多年时间去迎合他人而牺牲了自己的个性时。她建议通过写日记来倾听内心的声音，给自己空间，无需面对任何观众。试着写下你对以下问题的答案，并思考可以采取哪些小步骤来实现这些答案。",
+      "当我不被人注意到时，我究竟是谁呢？",
+      "当我不再试图取悦或打动他人时，我的个性是怎样的呢？",
+      "如果我可以不对任何人讲述这件事，也不受他人的评判，那么我愿意为这样的生活付出什么呢？"
+    ],
+    "vocabulary": [
+      {
+        "form": "Archetype",
+        "ipa": "/ˈɑːkitaɪp/",
+        "pos": "n.",
+        "meaning": "典型，典范，原型",
+        "definition": "(formal) the most typical or perfect example of a particular kind of person or thing",
+        "zh": "典型，典范，原型"
+      },
+      {
+        "form": "loose",
+        "ipa": "/luːs/",
+        "pos": "adj.",
+        "meaning": "不精确的，不严谨的，粗略的",
+        "definition": "not exact; not very careful",
+        "zh": "不精确的，不严谨的，粗略的"
+      },
+      {
+        "form": "validation",
+        "ipa": "/ˌvælɪˈdeɪʃn/",
+        "pos": "n.",
+        "meaning": "验证，证实，确认",
+        "definition": "(formal) the act of proving that sth. is true or correct",
+        "zh": "验证，证实，确认"
+      },
+      {
+        "form": "off their game",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "（体育或比赛中）表现不佳，发挥失常；表现不如平常，状态不佳，效率/效果不如平时",
+        "definition": "playing a sport or game poorly",
+        "zh": "（体育或比赛中）表现不佳，发挥失常；表现不如平常，状态不佳，效率/效果不如平时"
+      },
+      {
+        "form": "Chameleon",
+        "ipa": "/kəˈmiːliən/",
+        "pos": "n.",
+        "meaning": "变色龙；见风使舵的人，趋炎附势者",
+        "definition": "a small lizard (= a type of reptile) that can change colour according to what is around or near it",
+        "zh": "变色龙；见风使舵的人，趋炎附势者"
+      },
+      {
+        "form": "morphs",
+        "ipa": "/mɔːf/",
+        "pos": "v.",
+        "meaning": "（使）变形，（使）转变，（使）变成",
+        "definition": "to change, or make sb./sth. change, into sth. different",
+        "zh": "（使）变形，（使）转变，（使）变成"
+      },
+      {
+        "form": "Lone Wolf",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "独来独往的人",
+        "definition": "a person who prefers to be alone",
+        "zh": "独来独往的人"
+      },
+      {
+        "form": "implementing",
+        "ipa": "/ˈɪmplɪment/",
+        "pos": "v.",
+        "meaning": "实施，执行",
+        "definition": "(formal) to make sth. that has been officially decided start to happen or be used",
+        "zh": "实施，执行"
+      },
+      {
+        "form": "adrift",
+        "ipa": "/əˈdrɪft/",
+        "pos": "adj.",
+        "meaning": "（人）茫然无措的，漂泊无依的，失去人生方向的",
+        "definition": "(of a person) feeling alone and without a direction or an aim in life",
+        "zh": "（人）茫然无措的，漂泊无依的，失去人生方向的"
+      },
+      {
+        "form": "moulding",
+        "ipa": "/məʊld/",
+        "pos": "v.",
+        "meaning": "塑造，影响",
+        "definition": "to strongly influence the way sb.’s character, opinions, etc. develop",
+        "zh": "塑造，影响"
+      },
+      {
+        "form": "journaling",
+        "ipa": "/ˈdʒɜːrnəlɪŋ/",
+        "pos": "n.",
+        "meaning": "写日记，日志记录",
+        "definition": "the act of writing what you have done each day, sometimes including your private thoughts, feelings, and goals",
+        "zh": "写日记，日志记录"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the most typical or perfect example of a particular kind of person or thing",
+      "the act of proving that sth. is true or correct"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “In her book Are You Mad At Me? Meg identifies six loose archetypes that people-pleasers fall into—not, she says, as a means of labelling yourself, but as a tool for recognising how you might be fawning and what situations bring out the people-pleaser in you.”?",
+    "exerciseChoiceMarked": [
+      "loose"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The players collided with one another as they chased the loose ball.",
+        "marked": [
+          "loose"
+        ],
+        "zh": "球员争抢无人控制的球时撞在了一起。"
+      },
+      {
+        "label": "B",
+        "text": "During the night, somebody had cut the boat loose from its moorings.",
+        "marked": [
+          "loose"
+        ],
+        "zh": "夜里，有人割断了系船的缆绳，让船脱离了泊位。"
+      },
+      {
+        "label": "C",
+        "text": "In that old movie, the character is portrayed as someone with loose morals.",
+        "marked": [
+          "loose"
+        ],
+        "zh": "那部老电影把这个角色刻画成一个品行放荡的人。"
+      },
+      {
+        "label": "D",
+        "text": "This book is an antidote for much of the loose thinking in the world of today.",
+        "marked": [
+          "loose"
+        ],
+        "zh": "这本书可以纠正当今世界上许多不严谨的想法。"
+      }
+    ],
+    "exerciseTranslationPrompt": "变色龙：习惯性地改变自己的状态去迎合身边的人，因始终在「变换模样」，而渐渐迷失自我，不知自己真实的模样，也不清楚自己的真正需求。",
+    "answerVocabularyList": [
+      "archetype",
+      "validation"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "The Chameleon morphs themselves to please whoever they’re with and feels they don’t really know who they are or what they want because they’re always shape-shifting."
+  },
+  {
     "key": "feb0209",
     "date": "2026.02.09",
     "period": "2026年02月",
@@ -2037,6 +2229,4437 @@ export const februaryMarchMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "catch"
     ]
+  },
+  {
+    "key": "feb0214",
+    "date": "2026.02.14",
+    "period": "2026年2月",
+    "folder": "0214 提前大选，高市早苗如何大获全胜？",
+    "titleZh": "提前大选，高市早苗如何大获全胜？",
+    "title": "Japan’s Leader Wins in a Landslide, Clearing Way for Hard-Line Agenda",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Javier C. Hernández, River Akira Davis, Kiuko Notoya and Hisako Ueno, The New York Times, Published Feb. 8, 2026",
+    "paragraphs": [
+      "Prime Minister Sanae Takaichi won a sweeping mandate from voters for her economic agenda and tough stances on immigration and China.",
+      "Prime Minister Sanae Takaichi of Japan made a big gamble on Sunday, holding a snap election only 110 days after she became the first woman to serve as the country’s prime minister. It paid off, with voters offering a resounding mandate for her economic policies and tough stance on immigration and China. Ms. Takaichi’s Liberal Democratic Party won in a landslide, securing a rare supermajority in the 465-member House of Representatives, the lower house of Japan’s bicameral Parliament, according to NHK, the public broadcaster. The party won 316 seats, up from 198, NHK said—the first time since World War II that a Japanese political party has won more than two-thirds of the seats.",
+      "The result clears the way for Ms. Takaichi to enact a conservative agenda on defense and social issues and to strengthen her position on the global stage, with President Trump having given her candidacy a ringing endorsement.",
+      "The outcome is a remarkable reversal of fortune for Ms. Takaichi’s party, which governed Japan for much of the past seven decades but has suffered a series of bruising defeats in recent years, leaving it in the unusual position of being a minority in both houses of Parliament.",
+      "Ms. Takaichi told NHK after her victory on Sunday that she had called the snap election because she felt “it would be wrong to simply drag things along without seeking a public mandate.” Regarding the legitimacy of her government, Ms. Takaichi noted she had “felt a sense of unease for a while.”",
+      "With her party now on a stronger footing, Ms. Takaichi will face few constraints as she pushes aggressive government spending programs and expansive national security laws. Japanese stocks surged on Monday as voters gave a green light to her expansionary fiscal policy. The benchmark Nikkei 225 jumped 5 percent in early trading.",
+      "“The L.D.P. will not stand in her way, and there will be virtually no opposition ability to slow down her agenda,” said Tobias Harris, the founder of the advisory firm Japan Foresight. “The biggest constraints she likely faces are external: financial markets, Washington and Beijing.”",
+      "Ms. Takaichi is working to persuade Mr. Trump to maintain American military and economic commitments in Asia; the two are set to meet in Washington in March. Mr. Trump backed her in a post on Truth Social on Friday, and on Sunday, he congratulated her, writing that her “bold and wise decision to call for an Election paid off big time.”",
+      "Ms. Takaichi responded to Mr. Trump’s endorsement, writing on X on Sunday that “the potential of our Alliance is LIMITLESS.” Ms. Takaichi is dealing with the fallout of China’s efforts to punish Japan over a comment she made in support of TW, a self-governed democracy that Beijing claims is part of its territory. She said in November that Japan could intervene militarily if China were to attack TW.",
+      "China unleashed a wave of reprisals, restricting Japanese seafood imports, discouraging tourism to Japan and moving to limit the export of critical minerals to Japan.",
+      "Ms. Takaichi’s supporters hope that her victory will help send a message that Tokyo will not back down in the face of Chinese threats.",
+      "“Japan should maintain a firm stance without making any compromises,” said Aoi Nakamura, a 22-year-old college student in Tokyo who cast a vote for the Liberal Democrats on Sunday.",
+      "Ms. Takaichi, 64, soared to victory in part because of her popularity among young people, who see her as a charismatic, dynamic leader.",
+      "“She’s clearly distinguished herself from the past image of the L.D.P.,” said Akira Tamagawa, a 20-year-old college student voting in Tokyo. “She states things very clearly.”",
+      "Voters braved icy roads and wintry winds to cast their ballots. Heavy snowfall forced many polling stations to open late or close early. Even so, Japanese news outlets estimated that turnout was about 56 percent, compared with about 54 percent during the last House of Representatives election in 2024.",
+      "Mitsuru Go, 80, a retired fishmonger in Tokyo and a lifelong supporter of the Liberal Democratic Party, said he hoped Ms. Takaichi would be able to govern more effectively with a stronger majority.",
+      "“Rather than doing things little by little or on a small scale, it will be good to do things as a bigger collective and do what she wants to do and get things done,” he said.",
+      "Ms. Takaichi’s win comes as right-wing groups in Japan are gaining strength. Sanseito, a Japanese political party that shares some similarities to Mr. Trump’s MAGA movement, won 15 seats, up from two, according to NHK. The party has an outsize voice in national politics, and it has put pressure on Ms. Takaichi to move swiftly to raise stagnant wages and crack down on immigration.",
+      "Ms. Takaichi might push other changes long sought by conservatives, including enacting an anti-espionage law and amending a pacifist clause in the Constitution to unfetter Japan’s military.",
+      "The economy was front and center in the campaign. Ms. Takaichi has put forward aggressive government spending programs that aim to spur growth, but have also stoked jitters about Japan’s staggering debt levels.",
+      "A proponent of fiscal stimulus to break a longstanding deflationary cycle, Ms. Takaichi pushed through a record supplementary budget last year. She has accelerated plans to increase military spending and to advance large state-led investments in artificial intelligence and semiconductor manufacturing.",
+      "Japanese families are seeking relief amid the rising costs of some staples like energy and fresh food.",
+      "Now the public will look to Ms. Takaichi to deliver on her promises. With her decisive win, she might be tempted to hurry her agenda through Japan’s legislature, known as the Diet, commentators said. But some warned that she should be careful not to overreach.",
+      "Shigenobu Tamura, an independent political analyst and former L.D.P. official, said Ms. Takaichi “must always remain humble” in running the Diet.",
+      "“If she forgets that,” he said, “things won’t go well.”"
+    ],
+    "paragraphTranslations": [
+      "首相高市早苗在她的经济政策以及在处理移民和中国问题上的强硬立场方面，赢得了选民的广泛支持。",
+      "日本的首相高市早苗在周日做出了一个重大决定：在她成为首位担任首相的女性的仅110天后，她决定举行提前选举。这一决定取得了成功，选民们对她的经济政策以及在处理移民和中国问题上的强硬立场给予了大力支持。根据日本公共广播公司NHK的报道，高市早苗所在的自民党以压倒性的优势获胜，在由465名成员组成的日本两院议会中获得了超半数席位。NHK报道称，自民党赢得了316个席位，而此前198个席位就已经是历史最高了。这是自第二次世界大战以来，日本政党首次赢得超过三分之二的席位。",
+      "这一结果为高市在国防和社会问题上推行保守政策铺平了道路，同时也增强了她在全球舞台上的地位。特朗普总统已经明确支持她的候选人资格。",
+      "这对高市的政党来说是一个显著的逆转局势的结果。该政党在过去七十年间一直统治着日本，但近年来遭遇了一系列惨败，现在处于一个不寻常的境地——成为议会两院中的少数派。",
+      "在周日获胜后，高市向NHK表示，她之所以决定举行提前选举，是因为她认为“如果不寻求公众的授权，那么继续维持现状显然是错误的”。关于她的政府的合法性问题，高市指出，她“曾经一度感到不安”。",
+      "随着她的政党现在有了更强的支持基础，高市在推动积极的政府支出计划以及广泛的国家安全法律方面将不会受到太多限制。周一，由于选民支持她的扩张性财政政策，日本股市大幅上涨。基准指数日经225指数在早盘交易中上涨了5%。",
+      "“自民党不会阻碍她的计划，几乎不会有任何力量能够阻止她的行动，”咨询公司Japan Foresight的创始人托比亚斯·哈里斯说。“她可能面临的最大障碍是外部因素：金融市场、华盛顿以及北京。”",
+      "高市正在努力说服特朗普先生坚持美国在亚洲的军事和经济承诺；两人将于3月在华盛顿会面。周五，特朗普在Truth Social上发表了支持她的言论，并在周日向她表示祝贺，写道她的“大胆而明智的决定——呼吁举行选举”取得了巨大成功。”",
+      "高市对特朗普的支持表示回应，在X平台上写道：“我们联盟的潜力是无限的。”高市正在应对中国因她支持TW而采取的惩罚日本的行动所带来的后果。TW是一个自治的民主国家，北京声称该国家属于其领土范围。她在11月份表示，如果中国攻击TW，日本可能会采取军事干预措施。",
+      "中国发起了一波报复行动，限制日本的海鲜进口，抑制对日本的旅游需求，并试图限制关键矿物的出口到日本。",
+      "高市的支持者们希望，她的胜利能够传达出一个信息：面对中国的威胁，东京不会退缩。",
+      "“日本应该保持坚定的立场，不得有任何妥协，”东京的22岁大学生青木中村在周日投票支持自民党时说道。",
+      "64岁的高市之所以能够获胜，部分原因是由于她在年轻人中的受欢迎程度，年轻人认为她是一个富有魅力、充满活力的领导者。",
+      "“她显然与过去自民党的形象大相径庭，”在东京投票的20岁大学生Akira Tamagawa说道。“她表达观点时非常清晰。”",
+      "选民们不顾冰冷的道路和寒冷的寒风，毅然投下了自己的选票。严重的降雪导致许多投票站不得不推迟开放或提前关闭。尽管如此，日本媒体估计，本次选举的投票率约为56%，而2024年上议院选举时的投票率约为54%。",
+      "80岁的三津路·戈是东京的一位退休鱼贩，也是自民党的终身支持者。他表示，希望高市能够凭借更强大的多数支持，更有效地进行治理。",
+      "“与其一小步一小步地推进，或者从小规模开始，不如作为一个更大的团队来行动，去做她想做的事情，把事情完成。”他说。",
+      "高市的胜利发生在日本右翼势力日益壮大的背景下。根据NHK的报道，与特朗普的MAGA运动有相似之处的日本政党参政党赢得了15个席位，而此前只有2个席位。该政党在国家政治中拥有巨大的影响力，因此他们对高市施加了压力，要求她迅速采取措施来提高停滞不前的工资水平，并打击移民问题。",
+      "高市可能会推动其他一些长期被保守派所期待的变革，包括制定反间谍法，以及修改宪法中的和平主义条款，以放宽对日本军事力量的限制。",
+      "在竞选活动中，经济问题始终处于核心议题之中。高市提出了一些旨在促进经济增长的积极财政政策，但这些政策同时也引发了人们对日本巨额债务问题的担忧。",
+      "作为推动财政刺激以打破长期通货紧缩周期的支持者，高市在去年通过了创纪录的追加预算。她加快了增加军事支出的计划，并推进了政府在人工智能和半导体制造领域的重大投资。",
+      "面对能源和新鲜食品等生活必需品成本的上升，日本家庭正在寻求缓解措施。",
+      "现在，公众将期待高市能够兑现她的承诺。评论员们表示，凭借她那决定性的胜利，她可能会急于将她的计划推进到日本的立法机构——即国会中。但有人警告说，她应该小心不要做得太过火。",
+      "独立政治分析师、前自民党官员的田村重信表示，高市在管理日本国会时“必须始终保持谦逊的态度”。",
+      "“如果她忘记了这一点，”他说，“事情就不会顺利了。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "Landslide",
+        "ipa": "/ˈlændslaɪd/",
+        "pos": "n.",
+        "meaning": "压倒性胜利，全面胜利，决定性胜利",
+        "definition": "a victory in an election in which one person or party gets a lot more votes than all the others",
+        "zh": "压倒性胜利，全面胜利，决定性胜利"
+      },
+      {
+        "form": "Hard-Line",
+        "ipa": "/ˌhɑːd ˈlaɪn/",
+        "pos": "adj.",
+        "meaning": "强硬的，强势的，不妥协的，立场坚定的",
+        "definition": "having extreme political beliefs, and refusing to change them",
+        "zh": "强硬的，强势的，不妥协的，立场坚定的"
+      },
+      {
+        "form": "Agenda",
+        "ipa": "/əˈdʒendə/",
+        "pos": "n.",
+        "meaning": "议程，计划，日程安排，行动纲领",
+        "definition": "a list of problems or subjects that a government, organization, etc. is planning to deal with",
+        "zh": "议程，计划，日程安排，行动纲领"
+      },
+      {
+        "form": "sweeping",
+        "ipa": "/ˈswiːpɪŋ/",
+        "pos": "adj.",
+        "meaning": "影响广泛的，全面的，大规模的，彻底的",
+        "definition": "affecting many things, or making an important difference to sth.",
+        "zh": "影响广泛的，全面的，大规模的，彻底的"
+      },
+      {
+        "form": "mandate",
+        "ipa": "/ˈmændeɪt/",
+        "pos": "n.",
+        "meaning": "授权，委托，授权书，授权权力",
+        "definition": "If a government or official has a mandate to make important decisions, they have the authority to make the decisions because they have been elected by the people to do so.",
+        "zh": "授权，委托，授权书，授权权力"
+      },
+      {
+        "form": "stances",
+        "ipa": "/stɑːns/",
+        "pos": "n.",
+        "meaning": "立场，态度，观点，立论",
+        "definition": "an opinion that is stated publicly",
+        "zh": "立场，态度，观点，立论"
+      },
+      {
+        "form": "snap",
+        "ipa": "/snæp/",
+        "pos": "adj.",
+        "meaning": "仓促的，突然的，草率的，匆忙的",
+        "definition": "made or done quickly and without careful thought or preparation",
+        "zh": "仓促的，突然的，草率的，匆忙的"
+      },
+      {
+        "form": "paid off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "取得成功，得到回报，奏效，见成效",
+        "definition": "If sth. you do pays off, it is successful or has a good result.",
+        "zh": "取得成功，得到回报，奏效，见成效"
+      },
+      {
+        "form": "resounding",
+        "ipa": "/rɪˈzaʊndɪŋ/",
+        "pos": "adj.",
+        "meaning": "巨大的，彻底的，响亮的，显著的",
+        "definition": "very great",
+        "zh": "巨大的，彻底的，响亮的，显著的"
+      },
+      {
+        "form": "supermajority",
+        "ipa": "/ˌsuːpəməˈdʒɒrəti/",
+        "pos": "n.",
+        "meaning": "绝对多数，绝大多数",
+        "definition": "a number of votes that is much greater than half of the total, especially in a parliament",
+        "zh": "绝对多数，绝大多数"
+      },
+      {
+        "form": "bicameral",
+        "ipa": "/baɪˈkæmərəl/",
+        "pos": "adj.",
+        "meaning": "两院制的",
+        "definition": "(of a parliament) having two main parts, such as the Senate and the House of Representatives in the US, and the House of Commons and the House of Lords in the UK",
+        "zh": "两院制的"
+      },
+      {
+        "form": "broadcaster",
+        "ipa": "/ˈbrɔːdkɑːstə/",
+        "pos": "n.",
+        "meaning": "广播公司，电视台，播出机构，媒体机构",
+        "definition": "a company which sends out television or radio programmes",
+        "zh": "广播公司，电视台，播出机构，媒体机构"
+      },
+      {
+        "form": "clears the way",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "扫清道路，铺平道路，创造条件，打开通道",
+        "definition": "to make it possible for a process to happen",
+        "zh": "扫清道路，铺平道路，创造条件，打开通道"
+      },
+      {
+        "form": "enact",
+        "ipa": "/ɪˈnækt/",
+        "pos": "v.",
+        "meaning": "制定，颁布，通过",
+        "definition": "(law) to make a proposal into a law",
+        "zh": "制定，颁布，通过"
+      },
+      {
+        "form": "conservative",
+        "ipa": "/kənˈsɜːvətɪv/",
+        "pos": "adj.",
+        "meaning": "保守的，传统的，谨慎的，守旧的",
+        "definition": "not liking changes or new ideas",
+        "zh": "保守的，传统的，谨慎的，守旧的"
+      },
+      {
+        "form": "candidacy",
+        "ipa": "/ˈkændɪdəsi/",
+        "pos": "n.",
+        "meaning": "候选人资格，候选状态，参选身份，竞选资格",
+        "definition": "the position of being one of the people who are competing in an election",
+        "zh": "候选人资格，候选状态，参选身份，竞选资格"
+      },
+      {
+        "form": "ringing endorsement",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "明确的支持，强烈的认可",
+        "definition": "a statement that is made with a lot of force in support of sth.",
+        "zh": "明确的支持，强烈的认可"
+      },
+      {
+        "form": "reversal",
+        "ipa": "/rɪˈvɜːsəl/",
+        "pos": "n.",
+        "meaning": "逆转，转变，反转，翻盘",
+        "definition": "a change to an opposite arrangement, process, or way of doing sth.",
+        "zh": "逆转，转变，反转，翻盘"
+      },
+      {
+        "form": "bruising",
+        "ipa": "/ˈbruːzɪŋ/",
+        "pos": "adj.",
+        "meaning": "艰难的，激烈的，令人痛苦的，消耗性的",
+        "definition": "difficult and unpleasant, making you feel tired or weak",
+        "zh": "艰难的，激烈的，令人痛苦的，消耗性的"
+      },
+      {
+        "form": "Parliament",
+        "ipa": "/ˈpɑːləmənt/",
+        "pos": "n.",
+        "meaning": "议会，国会，立法机构，议政机构",
+        "definition": "the group of people who are elected to make a country’s laws and discuss important national affairs",
+        "zh": "议会，国会，立法机构，议政机构"
+      },
+      {
+        "form": "legitimacy",
+        "ipa": "/lɪˈdʒɪtɪməsi/",
+        "pos": "n.",
+        "meaning": "合法性，正当性，合理性，正统性",
+        "definition": "the quality of being allowed and acceptable according to the law",
+        "zh": "合法性，正当性，合理性，正统性"
+      },
+      {
+        "form": "unease",
+        "ipa": "/ʌnˈiːz/",
+        "pos": "n.",
+        "meaning": "不安，忧虑，担心，惶恐",
+        "definition": "a feeling of worry or slight fear about sth.",
+        "zh": "不安，忧虑，担心，惶恐"
+      },
+      {
+        "form": "footing",
+        "ipa": "/ˈfʊtɪŋ/",
+        "pos": "n.",
+        "meaning": "基础，立足点，根基，地位",
+        "definition": "the condition or arrangement on which sth. is based",
+        "zh": "基础，立足点，根基，地位"
+      },
+      {
+        "form": "constraints",
+        "ipa": "/kənˈstreɪnt/",
+        "pos": "n.",
+        "meaning": "限制，约束，制约，束缚",
+        "definition": "sth. that limits your freedom to do what you want",
+        "zh": "限制，约束，制约，束缚"
+      },
+      {
+        "form": "aggressive",
+        "ipa": "/əˈɡresɪv/",
+        "pos": "adj.",
+        "meaning": "积极进取的，大胆的，强势的，激进的",
+        "definition": "very determined to succeed or get what you want",
+        "zh": "积极进取的，大胆的，强势的，激进的"
+      },
+      {
+        "form": "expansive",
+        "ipa": "/ɪkˈspænsɪv/",
+        "pos": "adj.",
+        "meaning": "扩张性的，广泛的，开拓性的，宏大的",
+        "definition": "relating to a business or economy becoming bigger or more successful",
+        "zh": "扩张性的，广泛的，开拓性的，宏大的"
+      },
+      {
+        "form": "surged",
+        "ipa": "/sɜːdʒ/",
+        "pos": "v.",
+        "meaning": "急剧上升，激增，猛涨，飙升",
+        "definition": "to suddenly increase",
+        "zh": "急剧上升，激增，猛涨，飙升"
+      },
+      {
+        "form": "expansionary",
+        "ipa": "/ɪkˈspænʃənəri/",
+        "pos": "adj.",
+        "meaning": "扩张性的，刺激性的，增长导向的",
+        "definition": "(formal) encouraging a business or economy to become bigger and more successful",
+        "zh": "扩张性的，刺激性的，增长导向的"
+      },
+      {
+        "form": "virtually",
+        "ipa": "/ˈvɜːtʃuəli/",
+        "pos": "adv.",
+        "meaning": "几乎，实际上，差不多，基本上",
+        "definition": "almost",
+        "zh": "几乎，实际上，差不多，基本上"
+      },
+      {
+        "form": "slow down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "减缓，放慢，减速，放缓",
+        "definition": "to become slower or to make sth. slower",
+        "zh": "减缓，放慢，减速，放缓"
+      },
+      {
+        "form": "advisory",
+        "ipa": "/ədˈvaɪzəri/",
+        "pos": "adj.",
+        "meaning": "顾问的，咨询的，建议性的，指导性的",
+        "definition": "having the purpose of giving advice",
+        "zh": "顾问的，咨询的，建议性的，指导性的"
+      },
+      {
+        "form": "external",
+        "ipa": "/ɪkˈstɜːnəl/",
+        "pos": "adj.",
+        "meaning": "外部的，外来的，对外的，外界的",
+        "definition": "coming from or relating to the outside of sth.",
+        "zh": "外部的，外来的，对外的，外界的"
+      },
+      {
+        "form": "backed",
+        "ipa": "/bæk/",
+        "pos": "v.",
+        "meaning": "支持，赞助，拥护，力挺",
+        "definition": "to support a person, organization, or plan, especially by using your influence",
+        "zh": "支持，赞助，拥护，力挺"
+      },
+      {
+        "form": "post",
+        "ipa": "/pəʊst/",
+        "pos": "n.",
+        "meaning": "帖子，发布内容，信息，贴文",
+        "definition": "a message or document sent to a website so that other people can see it",
+        "zh": "帖子，发布内容，信息，贴文"
+      },
+      {
+        "form": "congratulated",
+        "ipa": "/kənˈɡrætʃəleɪt/",
+        "pos": "v.",
+        "meaning": "祝贺，向……道贺，表示祝贺",
+        "definition": "to tell sb. that you are happy because they have achieved sth.",
+        "zh": "祝贺，向……道贺，表示祝贺"
+      },
+      {
+        "form": "bold",
+        "ipa": "/bəʊld/",
+        "pos": "adj.",
+        "meaning": "大胆的，勇敢的，果断的，无畏的",
+        "definition": "not afraid of taking risks and making difficult decisions",
+        "zh": "大胆的，勇敢的，果断的，无畏的"
+      },
+      {
+        "form": "big time",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "非常成功，彻底地，极其，严重地",
+        "definition": "(informal) on a large scale; to a great extent",
+        "zh": "非常成功，彻底地，极其，严重地"
+      },
+      {
+        "form": "Alliance",
+        "ipa": "/əˈlaɪəns/",
+        "pos": "n.",
+        "meaning": "联盟，同盟，联合，结盟",
+        "definition": "an arrangement in which two or more countries, groups, etc. agree to work together to try to change or achieve sth.",
+        "zh": "联盟，同盟，联合，结盟"
+      },
+      {
+        "form": "fallout",
+        "ipa": "/ˈfɔːlaʊt/",
+        "pos": "n.",
+        "meaning": "后果，余波，影响，连锁反应",
+        "definition": "the results of a particular event, especially when they are unexpected",
+        "zh": "后果，余波，影响，连锁反应"
+      },
+      {
+        "form": "intervene",
+        "ipa": "/ˌɪntəˈviːn/",
+        "pos": "v.",
+        "meaning": "干预，介入，插手，出面",
+        "definition": "to become involved in an argument, fight, or other difficult situation in order to change what happens",
+        "zh": "干预，介入，插手，出面"
+      },
+      {
+        "form": "unleashed",
+        "ipa": "/ʌnˈliːʃ/",
+        "pos": "v.",
+        "meaning": "发动，释放，引发，放出",
+        "definition": "to suddenly let a strong force, feeling, etc. have its full effect",
+        "zh": "发动，释放，引发，放出"
+      },
+      {
+        "form": "reprisals",
+        "ipa": "/rɪˈpraɪzəl/",
+        "pos": "n.",
+        "meaning": "报复行动，反击，报复措施",
+        "definition": "sth. violent or harmful which you do to punish sb. for sth. bad they have done to you",
+        "zh": "报复行动，反击，报复措施"
+      },
+      {
+        "form": "back down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "退让，让步",
+        "definition": "to admit that you are wrong or that you have lost an argument",
+        "zh": "退让，让步"
+      },
+      {
+        "form": "compromises",
+        "ipa": "/ˈkɒmprəmaɪz/",
+        "pos": "n.",
+        "meaning": "妥协，让步，折中方案",
+        "definition": "an agreement that is achieved after everyone involved accepts less than what they wanted at first, or the act of making this agreement",
+        "zh": "妥协，让步，折中方案"
+      },
+      {
+        "form": "popularity",
+        "ipa": "/ˌpɒpjəˈlærəti/",
+        "pos": "n.",
+        "meaning": "受欢迎程度，声望，人气，支持率",
+        "definition": "when sth. or sb. is liked or supported by a lot of people",
+        "zh": "受欢迎程度，声望，人气，支持率"
+      },
+      {
+        "form": "charismatic",
+        "ipa": "/ˌkærɪzˈmætɪk/",
+        "pos": "adj.",
+        "meaning": "有魅力的，有感召力的，富有吸引力的",
+        "definition": "having charisma",
+        "zh": "有魅力的，有感召力的，富有吸引力的"
+      },
+      {
+        "form": "dynamic",
+        "ipa": "/daɪˈnæmɪk/",
+        "pos": "adj.",
+        "meaning": "充满活力的，有冲劲的，富有动力的",
+        "definition": "full of energy and new ideas, and determined to succeed",
+        "zh": "充满活力的，有冲劲的，富有动力的"
+      },
+      {
+        "form": "braved",
+        "ipa": "/breɪv/",
+        "pos": "v.",
+        "meaning": "勇敢面对，冒（风险），顶着（困难）",
+        "definition": "to have to deal with sb./sth. difficult or unpleasant in order to achieve sth.",
+        "zh": "勇敢面对，冒（风险），顶着（困难）"
+      },
+      {
+        "form": "wintry",
+        "ipa": "/ˈwɪntri/",
+        "pos": "adj.",
+        "meaning": "冬天的，寒冷的，阴冷的，严寒的",
+        "definition": "cold or typical of winter",
+        "zh": "冬天的，寒冷的，阴冷的，严寒的"
+      },
+      {
+        "form": "cast",
+        "ipa": "/kɑːst/",
+        "pos": "v.",
+        "meaning": "投（票），投出，投放",
+        "definition": "to vote in an election",
+        "zh": "投（票），投出，投放"
+      },
+      {
+        "form": "ballots",
+        "ipa": "/ˈbælət/",
+        "pos": "n.",
+        "meaning": "选票，投票，无记名投票",
+        "definition": "a piece of paper on which you make a secret vote",
+        "zh": "选票，投票，无记名投票"
+      },
+      {
+        "form": "outlets",
+        "ipa": "/ˈaʊtlet/",
+        "pos": "n.",
+        "meaning": "媒体，新闻机构，传播渠道",
+        "definition": "an organization, company, etc. through which products are sold or information is passed on",
+        "zh": "媒体，新闻机构，传播渠道"
+      },
+      {
+        "form": "turnout",
+        "ipa": "/ˈtɜːnaʊt/",
+        "pos": "n.",
+        "meaning": "投票率，出席人数，参与度",
+        "definition": "the number of people who vote in an election",
+        "zh": "投票率，出席人数，参与度"
+      },
+      {
+        "form": "fishmonger",
+        "ipa": "/ˈfɪʃmʌŋɡə(r)/",
+        "pos": "n.",
+        "meaning": "鱼贩，鱼商，卖鱼的人",
+        "definition": "a person whose job is to sell fish in a shop",
+        "zh": "鱼贩，鱼商，卖鱼的人"
+      },
+      {
+        "form": "collective",
+        "ipa": "/kəˈlektɪv/",
+        "pos": "n.",
+        "meaning": "集体，团体，合作组织",
+        "definition": "a group of people who work together to run sth. such as a business or farm, and who share the profits equally",
+        "zh": "集体，团体，合作组织"
+      },
+      {
+        "form": "outsize",
+        "ipa": "/ˈaʊtsaɪz/",
+        "pos": "adj.",
+        "meaning": "超大的，过大的，异常巨大的",
+        "definition": "larger than normal",
+        "zh": "超大的，过大的，异常巨大的"
+      },
+      {
+        "form": "stagnant",
+        "ipa": "/ˈstæɡnənt/",
+        "pos": "adj.",
+        "meaning": "停滞的，不景气的，低迷的",
+        "definition": "not developing, growing or changing",
+        "zh": "停滞的，不景气的，低迷的"
+      },
+      {
+        "form": "crack down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "严厉打击，镇压，强力整治",
+        "definition": "to become more strict in dealing with a problem and punishing the people involved",
+        "zh": "严厉打击，镇压，强力整治"
+      },
+      {
+        "form": "anti-espionage",
+        "ipa": "/ˈespiənɑːʒ/",
+        "pos": "n.",
+        "meaning": "间谍活动，情报活动，刺探情报",
+        "definition": "the activity of secretly finding out secret information and giving it to a country’s enemies or a company’s competitors",
+        "zh": "间谍活动，情报活动，刺探情报"
+      },
+      {
+        "form": "amending",
+        "ipa": "/əˈmend/",
+        "pos": "v.",
+        "meaning": "修改，修订，更正",
+        "definition": "(formal) to correct or make small changes to something that is written or spoken",
+        "zh": "修改，修订，更正"
+      },
+      {
+        "form": "pacifist",
+        "ipa": "/ˈpæsɪfɪst/",
+        "pos": "adj.",
+        "meaning": "和平主义的，反战的，非暴力的",
+        "definition": "believing that all wars and forms of violence are wrong",
+        "zh": "和平主义的，反战的，非暴力的"
+      },
+      {
+        "form": "clause",
+        "ipa": "/klɔːz/",
+        "pos": "n.",
+        "meaning": "条款，条文，规定",
+        "definition": "a part of a written law or legal document covering a particular subject of the whole law or document",
+        "zh": "条款，条文，规定"
+      },
+      {
+        "form": "unfetter",
+        "ipa": "/ʌnˈfetə(r)/",
+        "pos": "v.",
+        "meaning": "解放，解除束缚，松绑",
+        "definition": "to remove restraints from sb. or sth.",
+        "zh": "解放，解除束缚，松绑"
+      },
+      {
+        "form": "front and center",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "最重要的位置，最突出的位置，核心位置",
+        "definition": "in a very important position, where it will receive attention",
+        "zh": "最重要的位置，最突出的位置，核心位置"
+      },
+      {
+        "form": "spur",
+        "ipa": "/spɜː(r)/",
+        "pos": "v.",
+        "meaning": "刺激，激励，推动",
+        "definition": "to encourage sb. or make them want to do sth.",
+        "zh": "刺激，激励，推动"
+      },
+      {
+        "form": "stoked",
+        "ipa": "/stəʊk/",
+        "pos": "v.",
+        "meaning": "激起，煽动，助长",
+        "definition": "to cause sth. to increase",
+        "zh": "激起，煽动，助长"
+      },
+      {
+        "form": "jitters",
+        "ipa": "/ˈdʒɪtəz/",
+        "pos": "n.",
+        "meaning": "紧张不安，焦虑，心慌",
+        "definition": "(formal) a nervous worried feeling, especially before an important event",
+        "zh": "紧张不安，焦虑，心慌"
+      },
+      {
+        "form": "staggering",
+        "ipa": "/ˈstæɡərɪŋ/",
+        "pos": "adj.",
+        "meaning": "惊人的，巨大的，令人震惊的",
+        "definition": "extremely great or surprising",
+        "zh": "惊人的，巨大的，令人震惊的"
+      },
+      {
+        "form": "proponent",
+        "ipa": "/prəˈpəʊnənt/",
+        "pos": "n.",
+        "meaning": "支持者，拥护者",
+        "definition": "sb. who supports sth. or persuades people to do sth.",
+        "zh": "支持者，拥护者"
+      },
+      {
+        "form": "stimulus",
+        "ipa": "/ˈstɪmjələs/",
+        "pos": "n.",
+        "meaning": "刺激措施，激励，推动因素",
+        "definition": "sth. that helps a process to develop more quickly or more strongly",
+        "zh": "刺激措施，激励，推动因素"
+      },
+      {
+        "form": "deflationary",
+        "ipa": "/diːˈfleɪʃənəri/",
+        "pos": "adj.",
+        "meaning": "通货紧缩的，抑制性的，收缩性的",
+        "definition": "causing or relating to a reduction of economic activity",
+        "zh": "通货紧缩的，抑制性的，收缩性的"
+      },
+      {
+        "form": "supplementary",
+        "ipa": "/ˌsʌplɪˈmentəri/",
+        "pos": "adj.",
+        "meaning": "补充的，追加的，辅助的",
+        "definition": "provided in addition to what already exists",
+        "zh": "补充的，追加的，辅助的"
+      },
+      {
+        "form": "accelerated",
+        "ipa": "/əkˈseləreɪt/",
+        "pos": "v.",
+        "meaning": "加速，促进，加快",
+        "definition": "If a process accelerates or if sth. accelerates it, it happens faster than usual or sooner than you expect",
+        "zh": "加速，促进，加快"
+      },
+      {
+        "form": "staples",
+        "ipa": "/ˈsteɪpəl/",
+        "pos": "n.",
+        "meaning": "主食，基础食品，生活必需品",
+        "definition": "a basic type of food that is used a lot",
+        "zh": "主食，基础食品，生活必需品"
+      },
+      {
+        "form": "tempted",
+        "ipa": "/tempt/",
+        "pos": "v.",
+        "meaning": "诱惑，引诱，吸引",
+        "definition": "to try to persuade sb. to do sth. by making it seem attractive",
+        "zh": "诱惑，引诱，吸引"
+      },
+      {
+        "form": "hurry",
+        "ipa": "/ˈhʌri/",
+        "pos": "v.",
+        "meaning": "仓促做，赶紧做，催促",
+        "definition": "to do sth. or go somewhere more quickly than usual, especially because there is not much time",
+        "zh": "仓促做，赶紧做，催促"
+      },
+      {
+        "form": "legislature",
+        "ipa": "/ˈledʒɪsleɪtʃə/",
+        "pos": "n.",
+        "meaning": "立法机关，立法机构，议会",
+        "definition": "an institution that has the power to make or change laws",
+        "zh": "立法机关，立法机构，议会"
+      },
+      {
+        "form": "overreach",
+        "ipa": "/ˌəʊvəˈriːtʃ/",
+        "pos": "v.",
+        "meaning": "做得过火，过度扩张，越权行事",
+        "definition": "to try to do more than you have the power, ability, or money to do",
+        "zh": "做得过火，过度扩张，越权行事"
+      },
+      {
+        "form": "humble",
+        "ipa": "/ˈhʌmbəl/",
+        "pos": "adj.",
+        "meaning": "谦逊的，谦虚的，低调的",
+        "definition": "not considering yourself or your ideas to be as important as other people’s",
+        "zh": "谦逊的，谦虚的，低调的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a victory in an election in which one person or party gets a lot more votes than all the others",
+      "difficult and unpleasant, making you feel tired or weak"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Prime Minister Sanae Takaichi of Japan made a big gamble on Sunday, holding a snap election only 110 days after she became the first woman to serve as the country’s prime minister.”?",
+    "exerciseChoiceMarked": [
+      "snap"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "He made a snap decision to call an early board meeting.",
+        "marked": [
+          "snap"
+        ],
+        "zh": "他迅速决定提前召开董事会会议。"
+      },
+      {
+        "label": "B",
+        "text": "The loud snap of the branch startled everyone in the forest.",
+        "marked": [
+          "snap"
+        ],
+        "zh": "树枝的响亮断裂声惊动了森林中的所有人。"
+      },
+      {
+        "label": "C",
+        "text": "She heard a sharp snap as the plastic lid broke in her hands.",
+        "marked": [
+          "snap"
+        ],
+        "zh": "她听到一声尖锐的断裂声，原来是塑料盖子在她手中碎裂了。"
+      },
+      {
+        "label": "D",
+        "text": "The camera captured a snap of the crowd just before the speech began.",
+        "marked": [
+          "snap"
+        ],
+        "zh": "在演讲开始之前，相机捕捉到了人群的瞬间画面。"
+      }
+    ],
+    "exerciseTranslationPrompt": "这一选举结果为高市早苗扫清了障碍，使其得以在国防和社会议题上推行保守派议程，并在特朗普总统对其参选给予有力支持的背景下巩固了她在国际舞台上的地位。",
+    "answerVocabularyList": [
+      "landslide",
+      "bruising"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "The result clears the way for Ms. Takaichi to enact a conservative agenda on defense and social issues and to strengthen her position on the global stage, with President Trump having given her candidacy a ringing endorsement."
+  },
+  {
+    "key": "feb0224",
+    "date": "2026.02.24",
+    "period": "2026年2月",
+    "folder": "0224 但汉松 – 马对于帝国兴衰有多么重要",
+    "titleZh": "马对于帝国兴衰有多么重要",
+    "title": "How the Horse Conquered the World",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Tunku Varadarajan, WSJ, Published July 26, 2024",
+    "paragraphs": [
+      "The horse shaped the fate of empires, allowing mounted warriors to subdue enemy foot soldiers and overtake large swaths of territory.",
+      "Mention of the Silk Road transports many of us to a time of legend. We picture intrepid traders bringing to the humdrum markets of medieval Venice and Vienna never-before-seen wares from such places as the Xanadu of Kublai Khan. David Chaffetz sees the matter rather more hardheadedly, though not without a tinge of romance. “What we now call the Silk Road,” he writes, “should more accurately be called the Horse Road.” In “Raiders, Rulers, and Traders,” he offers a wise and jaunty chronicle of the role played by horses in the rise of empires. It was not silk but the horse, he tells us, that drew buyers and sellers to the fabled trading route that linked Europe—by arduous caravan expeditions and flights of the imagination—to the luscious and coveted Orient.",
+      "Mr. Chaffetz isn’t suggesting that we get rid of Silk Road as our label of choice for the route first made renowned by Marco Polo in the 13th century—the phrase is, as he says, “wonderfully evocative.” But he does point out that, from around the seventh century, the Chinese Tang emperors subordinated their storied silk to the mighty horse. Desperately short of precious metal, they used silk as currency to pay for the thousands of steeds they bought from the warlike horse-breeding steppe people to China’s west. “No animal has had as profound an impact on human history as the horse,” writes Mr. Chaffetz, though the tale begins in prehistory, when man domesticated the horse, learning how to ride and milk it and later mastering the art of fighting on horseback. This transformed warfare and redirected the course of conquest, enabling horse-borne warriors to take on and subdue the massed foot-soldiers of settled empires.",
+      "There was a time when horse country—today’s Mongolia, Kazakhstan, Uzbekistan, Turkmenistan, Ukraine and Hungary— was the center of the world. “This gave horse-breeding peoples an outsized role in history,” the horse being, for centuries, a “strategic asset” that was on a par with petroleum in the 20th century. In later centuries, tea replaced silk as the currency with which the Chinese paid for their cavalry ’s insatiable horse-hunger. At the height of their empire, the Mongols controlled 10 million horses. Farmers’ crops were often seized in harsh winters to feed their herds. “Whenever horses competed with humans for food, the horses came first.” Yet a decision on farmlands may have been Genghis’s biggest imperial blunder. When he overran northern China in the second decade of the 13th century, he wanted to turn every inch of farmland there into pasture for his horses. His advisers— descended from peoples who’d once ruled over the area— persuaded him to leave the farms alone, arguing that the taxes he’d reap would enable the purchase of more than enough feed for his cavalry. This reprieve, writes Mr. Chaffetz, “probably sealed the fate of the Mongols in China.” Obliterating farmland would have killed off the conquered people, or driven them into mass exile.",
+      "Mr. Chaffetz can be guilty, sometimes, of giving every human event—battles, alliances, trade deals—an equine interpretation. But the attraction of his book lies, also, in the same reductive audacity. Everything is about horses. Mr. Chaffetz’s cultural radar, however, is always spot on. In his chapters on horsepower in India, he attributes the repeated failure of the British to procure the finest horses in Central Asia to their parsimoniousness. He also chides the British for their habitual disdain for Indian horse breeds, which were optimal for the local terrain, even as he concedes that some mounts may have been too small for British cavalrymen, who were taller and beefier than Indian riders.",
+      "Also gripping is Mr. Chaffetz’s account of Qianlong (1711-99), emperor of the Qing dynasty. His military campaign against the Mongol horse-people was comparable to Napoleon’s march on Moscow, with one difference. The Chinese army, comprising 150,000 mounts, took with it provisions enough for operating on the steppe for up to two years. The French, by contrast, starved, man and horse alike. The Oirat campaign ended in what Mr. Chaffetz describes as “the first large-scale and historically attested example of genocide.” The Qing spread smallpox among this ill-starred tribe, cutting down “in systematic massacres” those who didn’t die of the disease. In all, a million Oirats are thought to have perished. But Qianlong got what he sought—their lands and their horses—in what was perhaps the cruelest episode in man’s enduring association with the animal that shaped human history."
+    ],
+    "paragraphTranslations": [
+      "马匹决定了帝国的命运，让骑马的战士能够征服敌军的步兵，并占领广阔的领土。",
+      "提到丝绸之路，许多人的脑海中都会浮现出一段传奇般的时光。我们想象着那些勇敢的商人，将来自忽必烈汗的宫殿等遥远地方、前所未见的商品带到了中世纪的威尼斯和维也纳那些平淡无奇的市场上。大卫·查菲茨则持更为冷静的看法，尽管其中也带着一丝浪漫色彩。“我们现在所称之为丝绸之路的路线，”他写道，“更确切地说是‘马道’。”在《劫掠者、统治者与商人》一书中，他以睿智而生动的方式讲述了马匹在帝国崛起过程中所扮演的重要角色。他告诉我们，真正将买家和卖家吸引到这条连接欧洲与富饶而令人向往的东方地区的传奇贸易路线上的，并非丝绸，而是马匹。",
+      "查费茨先生并没有建议我们放弃“丝绸之路”这一名称，这一名称最初是由马可·波罗在13世纪所使用的。正如他所说，这一名称“极具感染力”。不过，他确实指出，从大约7世纪开始，中国唐朝的皇帝们将传统的丝绸货币制度替换为马匹作为支付手段。由于贵金属的短缺，他们使用丝绸作为货币，从西部地区的马匹繁殖地区购买成千上万的马匹，将这些马匹引入中国。查费茨先生写道：“没有任何动物对人类历史的影响能像马那样深远。”实际上，这一历史可以追溯到史前时代，当时人类驯化了马匹，学会了骑马和挤奶，后来还掌握了骑马作战的技巧。这一变革彻底改变了战争方式，并改变了征服的进程，使得骑马的战士能够战胜那些驻扎在定居点的步兵。",
+      "曾经有一段时间，那些以马匹为生的国家——今天的蒙古、哈萨克斯坦、乌兹别克斯坦、土库曼斯坦、乌克兰和匈牙利——是世界的中心。“这使得那些以马匹为生的民族在历史上扮演了至关重要的角色，”马匹几个世纪以来一直被视为“战略资产”，其重要性可与20世纪石油工业相提并论。在后来的几个世纪里，茶叶取代了丝绸，成为中国人用来满足骑兵对马匹需求的货币。在帝国的鼎盛时期，蒙古人拥有着1000万匹马。在严冬时节，农民们常常不得不割舍自己的庄稼来喂养他们的马群。“每当马匹与人类争夺食物时，马匹总是优先被满足。”然而，对土地的决定可能是成吉思汗最大的帝国失误。在13世纪第二个十年期间，当他征服了华北地区时，他希望将那里的每一寸土地都变成马匹的牧场。他的顾问们——这些人曾统治过该地区——说服他不要干涉这些农场，认为他能够从中获得的税收足以购买足够的饲料来养活他的骑兵部队。查费茨先生写道，这种“暂时性的缓解措施”，实际上“可能决定了蒙古人在中国的命运”。摧毁农田会导致被征服的民众灭绝，或者将他们逼至大规模流亡的境地。",
+      "查费茨先生有时可能会过于简化对各种人类活动的解释——无论是战争、联盟还是贸易协议——而将其简单化为与马相关的概念。但他的这本书的吸引力也在于这种简化的手法。书中所有内容都围绕马展开。然而，查费茨先生的文化洞察力总是非常精准。在关于印度马匹的章节中，他将英国人在中亚地区难以获得优质马匹的原因归结为英国人的吝啬态度。他还批评英国人对印度马种的不重视，尽管这些马种非常适合当地的地形，但他也承认，有些马匹可能对于身高较高、体格更壮的英国骑兵来说过于矮小。",
+      "同样引人入胜的是，查菲茨先生对清朝皇帝乾隆皇帝的描述。乾隆对蒙古马人的军事行动与拿破仑对莫斯科的进攻类似，但有一个不同之处：中国军队拥有15万匹战马，他们携带的物资足以在草原上作战两年之久。而法国军队则因饥饿而走向灭亡，无论是人类还是马匹都未能幸免。查菲茨描述说，奥伊拉特人的战役以“历史上第一个大规模、有证据可查的种族灭绝事件”而告终。清朝将天花病毒传播给这个不幸的部落，通过“有组织的屠杀”消灭了那些没有因疾病而死亡的成员。据估计，大约有100万奥伊拉特人因此丧生。但乾隆得到了他想要的——他们的土地和马匹——这或许是人类与那些塑造人类历史的动物之间最残酷的冲突之一。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Conquered",
+        "ipa": "/ˈkɒŋkə(r)/",
+        "pos": "v.",
+        "meaning": "占领；攻取；征服；击败",
+        "definition": "to take control or possession of foreign land, or a group of people, by force",
+        "zh": "占领；攻取；征服；击败"
+      },
+      {
+        "form": "mounted",
+        "ipa": "/ˈmaʊntɪd/",
+        "pos": "adj.",
+        "meaning": "骑马的",
+        "definition": "having a horse or horses for riding",
+        "zh": "骑马的"
+      },
+      {
+        "form": "subdue",
+        "ipa": "/səbˈdjuː/",
+        "pos": "v.",
+        "meaning": "制伏；征服；控制",
+        "definition": "to bring somebody / something under control, especially by using force",
+        "zh": "制伏；征服；控制"
+      },
+      {
+        "form": "swaths",
+        "ipa": "/sweɪð/",
+        "pos": "n.",
+        "meaning": "长条区域，大块区域；（尤指）长条田地，大块田地",
+        "definition": "a long strip or large area especially of land",
+        "zh": "长条区域，大块区域；（尤指）长条田地，大块田地"
+      },
+      {
+        "form": "intrepid",
+        "ipa": "/ɪnˈtrepɪd/",
+        "pos": "adj.",
+        "meaning": "勇敢的；无畏的",
+        "definition": "very brave; not afraid of danger or difficulties",
+        "zh": "勇敢的；无畏的"
+      },
+      {
+        "form": "humdrum",
+        "ipa": "/ˈhʌmdrʌm/",
+        "pos": "adj.",
+        "meaning": "乏味的；单调的",
+        "definition": "boring and always the same",
+        "zh": "乏味的；单调的"
+      },
+      {
+        "form": "Xanadu",
+        "ipa": "/ˈzænədjuː/",
+        "pos": "n.",
+        "meaning": "华厦，行宫；诗情画意的地方；世外桃源",
+        "definition": "a very impressive and beautiful place, or a place that is perfect",
+        "zh": "华厦，行宫；诗情画意的地方；世外桃源"
+      },
+      {
+        "form": "hardheadedly",
+        "ipa": "/ˌhɑːd ˈhedɪd/",
+        "pos": "adj.",
+        "meaning": "坚定而不感情用事的；精明冷静的",
+        "definition": "determined and not allowing your emotions to affect your decisions",
+        "zh": "坚定而不感情用事的；精明冷静的"
+      },
+      {
+        "form": "tinge",
+        "ipa": "/tɪndʒ/",
+        "pos": "n.",
+        "meaning": "微量，少许，一丝，几分（颜色、感情或性质）",
+        "definition": "a small amount of a colour, feeling or quality",
+        "zh": "微量，少许，一丝，几分（颜色、感情或性质）"
+      },
+      {
+        "form": "jaunty",
+        "ipa": "/ˈdʒɔːnti/",
+        "pos": "adj.",
+        "meaning": "轻松活泼的；喜洋洋的",
+        "definition": "showing that you are happy and confident",
+        "zh": "轻松活泼的；喜洋洋的"
+      },
+      {
+        "form": "fabled",
+        "ipa": "/ˈfeɪbld/",
+        "pos": "adj.",
+        "meaning": "传说中的",
+        "definition": "famous and often talked about, but rarely seen",
+        "zh": "传说中的"
+      },
+      {
+        "form": "arduous",
+        "ipa": "/ˈɑːdʒuəs/",
+        "pos": "adj.",
+        "meaning": "艰苦的；艰难的",
+        "definition": "involving a lot of effort and energy, especially over a period of time",
+        "zh": "艰苦的；艰难的"
+      },
+      {
+        "form": "caravan",
+        "ipa": "/ˈkærəvæn/",
+        "pos": "n.",
+        "meaning": "（尤指穿越沙漠的）旅行队，车队",
+        "definition": "a group of people with vehicles or animals who are travelling together, especially across the desert",
+        "zh": "（尤指穿越沙漠的）旅行队，车队"
+      },
+      {
+        "form": "luscious",
+        "ipa": "/ˈlʌʃəs/",
+        "pos": "adj.",
+        "meaning": "香甜的，甘美的；汁液丰富的",
+        "definition": "having a pleasant sweet taste or containing a lot of juice",
+        "zh": "香甜的，甘美的；汁液丰富的"
+      },
+      {
+        "form": "coveted",
+        "ipa": "/ˈkʌvət/",
+        "pos": "v.",
+        "meaning": "觊觎，垂涎（尤指他人之物）；贪求，渴望",
+        "definition": "to want to have something very much, especially something that belongs to someone else",
+        "zh": "觊觎，垂涎（尤指他人之物）；贪求，渴望"
+      },
+      {
+        "form": "evocative",
+        "ipa": "/ɪˈvɒkətɪv/",
+        "pos": "adj.",
+        "meaning": "引起记忆的；唤起感情的",
+        "definition": "making you think of or remember a strong image or feeling, in a pleasant way",
+        "zh": "引起记忆的；唤起感情的"
+      },
+      {
+        "form": "subordinated",
+        "ipa": "/səˈbɔːdɪneɪt/",
+        "pos": "v.",
+        "meaning": "把…置于次要地位；使从属于",
+        "definition": "to treat somebody / something as less important than somebody / something else",
+        "zh": "把…置于次要地位；使从属于"
+      },
+      {
+        "form": "storied",
+        "ipa": "/ˈstɔːrid/",
+        "pos": "adj.",
+        "meaning": "广为流传的；有名的；众所周知的",
+        "definition": "mentioned in stories; famous; well known",
+        "zh": "广为流传的；有名的；众所周知的"
+      },
+      {
+        "form": "steeds",
+        "ipa": "/stiːd/",
+        "pos": "n.",
+        "meaning": "坐骑；马",
+        "definition": "a horse that a person rides",
+        "zh": "坐骑；马"
+      },
+      {
+        "form": "steppe",
+        "ipa": "/step/",
+        "pos": "n.",
+        "meaning": "草原；（尤指东南欧及西伯利亚树少的）干草原",
+        "definition": "a large area of land with grass but few trees, especially in south-east Europe and Siberia",
+        "zh": "草原；（尤指东南欧及西伯利亚树少的）干草原"
+      },
+      {
+        "form": "domesticated",
+        "ipa": "/dəˈmestɪkeɪtɪd/",
+        "pos": "adj.",
+        "meaning": "（动物）驯化的；（植物）人工培养的",
+        "definition": "(of animals or plants) brought under human control in order to provide food, power, or company",
+        "zh": "（动物）驯化的；（植物）人工培养的"
+      },
+      {
+        "form": "outsized",
+        "ipa": "/ˈaʊtsaɪzd/",
+        "pos": "adj.",
+        "meaning": "超大型的；极大的",
+        "definition": "Outsized things are much larger than usual or much larger than you would expect.",
+        "zh": "超大型的；极大的"
+      },
+      {
+        "form": "on a par with",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "与…一样；不相上下",
+        "definition": "at the same level or standard as (someone or something else)",
+        "zh": "与…一样；不相上下"
+      },
+      {
+        "form": "cavalry",
+        "ipa": "/ˈkævlri/",
+        "pos": "n.",
+        "meaning": "（旧时的）骑兵；装甲兵",
+        "definition": "(in the past) the part of the army that fought on horses; the part of the modern army that uses armoured vehicles",
+        "zh": "（旧时的）骑兵；装甲兵"
+      },
+      {
+        "form": "insatiable",
+        "ipa": "/ɪnˈseɪʃəbl/",
+        "pos": "adj.",
+        "meaning": "不知足的；无法满足的",
+        "definition": "always wanting more of something; not able to be satisfied",
+        "zh": "不知足的；无法满足的"
+      },
+      {
+        "form": "blunder",
+        "ipa": "/ˈblʌndə(r)/",
+        "pos": "n.",
+        "meaning": "愚蠢（或粗心）的错误",
+        "definition": "a stupid or careless mistake",
+        "zh": "愚蠢（或粗心）的错误"
+      },
+      {
+        "form": "overran",
+        "ipa": "/ˌəʊvəˈrʌn/",
+        "pos": "v.",
+        "meaning": "（有害的人或事物）肆虐，横行，泛滥",
+        "definition": "If unwanted people or things overrun, they fill a place quickly and in large numbers.",
+        "zh": "（有害的人或事物）肆虐，横行，泛滥"
+      },
+      {
+        "form": "pasture",
+        "ipa": "/ˈpɑːstʃə(r)/",
+        "pos": "n.",
+        "meaning": "牧场；牧草地",
+        "definition": "land covered with grass that is suitable for feeding animals on",
+        "zh": "牧场；牧草地"
+      },
+      {
+        "form": "reprieve",
+        "ipa": "/rɪˈpriːv/",
+        "pos": "n.",
+        "meaning": "延缓；缓解",
+        "definition": "a delay before something bad happens",
+        "zh": "延缓；缓解"
+      },
+      {
+        "form": "Obliterating",
+        "ipa": "/əˈblɪtəreɪt/",
+        "pos": "v.",
+        "meaning": "毁掉；覆盖；清除",
+        "definition": "to remove all signs of something, either by destroying or covering it completely",
+        "zh": "毁掉；覆盖；清除"
+      },
+      {
+        "form": "equine",
+        "ipa": "/ˈekwaɪn/",
+        "pos": "adj.",
+        "meaning": "马的；马科的；似马的",
+        "definition": "connected with horses; like a horse",
+        "zh": "马的；马科的；似马的"
+      },
+      {
+        "form": "reductive",
+        "ipa": "/rɪˈdʌktɪv/",
+        "pos": "adj.",
+        "meaning": "简化论的；简化法的；以简释繁的；还原论的",
+        "definition": "that tries to explain something complicated by considering it as a combination of simple parts",
+        "zh": "简化论的；简化法的；以简释繁的；还原论的"
+      },
+      {
+        "form": "audacity",
+        "ipa": "/ɔːˈdæsəti/",
+        "pos": "n.",
+        "meaning": "大胆；勇气",
+        "definition": "courage or confidence of a kind that other people find shocking or rude",
+        "zh": "大胆；勇气"
+      },
+      {
+        "form": "procure",
+        "ipa": "/prəˈkjʊə(r)/",
+        "pos": "v.",
+        "meaning": "（设法）获得，取得，得到",
+        "definition": "to obtain something, especially with difficulty",
+        "zh": "（设法）获得，取得，得到"
+      },
+      {
+        "form": "parsimoniousness",
+        "ipa": "/ˌpɑːsɪˈməʊniəs/",
+        "pos": "adj.",
+        "meaning": "悭吝的；吝啬的；小气的",
+        "definition": "extremely unwilling to spend money",
+        "zh": "悭吝的；吝啬的；小气的"
+      },
+      {
+        "form": "chides",
+        "ipa": "/tʃaɪd/",
+        "pos": "v.",
+        "meaning": "批评；指责；责备",
+        "definition": "to criticize or blame somebody because they have done something wrong",
+        "zh": "批评；指责；责备"
+      },
+      {
+        "form": "disdain",
+        "ipa": "/dɪsˈdeɪn/",
+        "pos": "n.",
+        "meaning": "鄙视；蔑视；鄙弃",
+        "definition": "the feeling that somebody / something is not good enough to deserve your respect or attention",
+        "zh": "鄙视；蔑视；鄙弃"
+      },
+      {
+        "form": "optimal",
+        "ipa": "/ˈɒptɪməl/",
+        "pos": "adj.",
+        "meaning": "最佳的；最适宜的",
+        "definition": "the best possible; producing the best possible results",
+        "zh": "最佳的；最适宜的"
+      },
+      {
+        "form": "beefier",
+        "ipa": "/ˈbiːfi/",
+        "pos": "adj.",
+        "meaning": "大块头的；粗壮的；壮实的",
+        "definition": "large, strong, and often fat",
+        "zh": "大块头的；粗壮的；壮实的"
+      },
+      {
+        "form": "provisions",
+        "ipa": "/prəˈvɪʒn/",
+        "pos": "n.",
+        "meaning": "粮食；给养，物资",
+        "definition": "[plural] supplies of food and other necessary things",
+        "zh": "粮食；给养，物资"
+      },
+      {
+        "form": "ill-starred",
+        "ipa": "/ˌɪl ˈstɑːd/",
+        "pos": "adj.",
+        "meaning": "注定要倒霉（或失败）的；时运不济的",
+        "definition": "not lucky and likely to bring unhappiness or to end in failure",
+        "zh": "注定要倒霉（或失败）的；时运不济的"
+      },
+      {
+        "form": "perished",
+        "ipa": "/ˈperɪʃ/",
+        "pos": "v.",
+        "meaning": "（尤指因事故或遇害）丧生，死亡；消亡；毁灭",
+        "definition": "to die, especially in an accident or by being killed, or to be destroyed",
+        "zh": "（尤指因事故或遇害）丧生，死亡；消亡；毁灭"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "(of animals or plants) brought under human control in order to provide food, power, or company",
+      "the feeling that somebody / something is not good enough to deserve your respect or attention"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “Mention of the Silk Road transports many of us to a time of legend.”",
+    "exerciseChoiceMarked": [
+      "transports"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Blood transports oxygen around the body.",
+        "marked": [
+          "transports"
+        ],
+        "zh": "血液将氧气输送到全身各处。"
+      },
+      {
+        "label": "B",
+        "text": "The book transports you to another world.",
+        "marked": [
+          "transports"
+        ],
+        "zh": "这本书能带您进入另一个世界。"
+      },
+      {
+        "label": "C",
+        "text": "British convicts were transported to Australia for life.",
+        "marked": [
+          "transported"
+        ],
+        "zh": "英国的罪犯被终身流放到澳大利亚。"
+      },
+      {
+        "label": "D",
+        "text": "Cattle could be transported by rail to any part of the country.",
+        "marked": [
+          "transported"
+        ],
+        "zh": "牛可以通过铁路被运送到国家的任何地方。"
+      }
+    ],
+    "exerciseTranslationPrompt": "“这赋予了育马民族在历史上远超其人口规模的影响力”，几个世纪以来，马匹一直是一种“战略资产”，其地位堪比 20 世纪的石油。",
+    "answerVocabularyList": [
+      "domesticated",
+      "disdain"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "“This gave horse-breeding peoples an outsized role in history,” the horse being, for centuries, a “strategic asset” that was on a par with petroleum in the 20th century."
+  },
+  {
+    "key": "feb0225",
+    "date": "2026.02.25",
+    "period": "2026年2月",
+    "folder": "0225《经济学人》：吐槽春晚上的机器人",
+    "titleZh": "《经济学人》：吐槽春晚上的机器人",
+    "title": "China’s humanoids are dazzling the world. Who will buy them?",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "The Economist, Published February 18, 2026",
+    "paragraphs": [
+      "The market for robot dancers, alas, is limited",
+      "The Spring Festival Gala is a showcase both of China’s cultural riches and its technological might. The four-hour state television programme, staged in Beijing on the eve of each Lunar New Year, often features goose-stepping phalanxes of singing soldiers. On February 16th the centrepiece was a troupe of sword-brandishing humanoid robots performing an elaborate martial-arts routine. It was one of four humanoid-embellished acts that wowed viewers around the world.",
+      "China’s humanoid robotics industry is bustling. More than 14,500 automatons were delivered last year globally, up from around 3,000 in 2024, according to company reports and estimates from Omdia, a research firm. Nearly all came from China (see chart). Agibot and Unitree, the country’s two leading humanoid-makers, accounted for around three-quarters of the total; Elon Musk’s Tesla shipped just 150 of its Optimus bots. What is more, China is also home to the world’s deepest supply chain for humanoids.",
+      "This worries some in the West who believe that humanoids will eventually become one of the largest industries in the world. Morgan Stanley, an investment bank, reckons that 1bn could be wandering about by 2050, with annual spending in excess of $7.5trn. For now, however, the path from back-flipping bots to a viable business is unclear. Most humanoids being purchased are, like those at the gala, purely for show. Few do any real work. China’s state will probably remain the biggest source of demand for some time. Without local governments buying the machines, it would be difficult to keep the more than 100 Chinese humanoid-makers alive—along with the thousands of suppliers that increasingly rely on them. It is not the first time China has lavished money on a new technology before there is much of a market for it. But doing so in the case of humanoids could prove a costly waste.",
+      "Behind China’s dancing robots is a rapidly expanding supply chain. Consider the Wujin district in the city of Changzhou. Its businessmen brag that around 90% of the parts needed to assemble a humanoid can be sourced there. Several known suppliers for Tesla’s Optimus hail from the district. RealMan, one of China’s largest makers of robot arms, quadrupled its production capacity in February when it opened a new factory in the area. At the sprawling facility a manager notes how the supply of land has tightened in the past year owing to new robotics plants opening up.",
+      "Wujin is just one node in a vast supply cluster for humanoid robots that stretches from Shanghai on the coast inwards to the lower parts of Jiangsu province (including Changzhou) and the upper parts of Zheijang province (including its capital Hangzhou). The region, known as the Yangtze River Delta, is home to Agibot, Unitree and many other humanoid-makers. Of the top 30 listed Chinese suppliers of parts used in robots, three-quarters by market capitalisation are based in the area (see map). The cluster is also home to artificial-intelligence labs such as DeepSeek, which is located in Hangzhou. Based in that city, too, is Alibaba, a tech giant which this month released RynnBrain, an advanced AI model for powering robots.",
+      "The region’s success reflects its role as an electric-vehicle (EV) hub, accounting for two-fifths of China’s production. High-torque motors, inverters, batteries, lidar sensors and other components are used in both EVs and humanoids, though their size often differs. In the past few years many suppliers to the EV industry, which is awash in overcapacity, have shifted at least in part to serving robot-makers. The region’s suppliers have also been investing in technologies once dominated by foreign firms. Fine Motion Technology, a maker of gearboxes, raised its share of the Chinese market for the rotating-vector reducers used in robots from a tenth in 2021 to a quarter in 2024, squeezing overseas rivals such as Japan’s Nippon Gear.",
+      "Show your metal",
+      "Visit the Yangtze River Delta and you will not have to look particularly hard to find a robot. One stands at a kiosk in downtown Hangzhou, serving coffee and other beverages. Botshare, a humanoid-rental service launched in Shanghai in December, supplies automatons to retailers who station them at their entrances to wave at guests as they enter. An Agibot costs more than 100,000 yuan ($14,500) but can be rented for as little as 2,200 yuan.",
+      "The trouble is that, to become more than novel entertainment, robots need to be regularly deployed in settings where they do the same jobs as humans, allowing them to gather data on which they can be trained. That is why finding situations where humanoids can perform real work is so important for the industry, notes Alicia Veneziani of Sharpa, a Singaporean maker of robot hands that manufactures in Shanghai. A tiny fraction of the humanoids sold today end up in factories, where they often carry boxes—and are about 30-40% as efficient as a human at doing so.",
+      "China’s state is eager to help. Local governments have been setting up centres that allow companies to put their robots to work on various tasks and collect data. Some is then pooled and shared. Shanghai has set up one such centre that can accommodate 100 humanoids. The state’s role is so pivotal that venture investors are picking robotics companies based not just on their technological capabilities but also on the local-government resources available to them, says one investor in Hangzhou.",
+      "The state has also given subsidies to the industry. Robotics has become a priority for local officials across the country, who hope to get a share of the industry within their tax jurisdiction. But the government’s most important role by far is as a buyer. It was the biggest purchaser of humanoids last year, according to industry insiders, and will probably remain so this year and next. Most are being used as frivolous showpieces. Agibots have lately become a staple of government parties in Shanghai. China’s strategy carries risks. Accompanying the robotics buzz is a sense among executives and investors that the industry is getting ahead of itself. Wang Zhongyuan of the Beijing Academy of Artificial Intelligence, a state-backed research lab, said in a speech last year that if mass production is not underpinned by real-world demand, public enthusiasm will be short-lived. If robots become widespread before they become useful, he explained, the humanoid bubble will burst."
+    ],
+    "paragraphTranslations": [
+      "遗憾的是，机器人舞者的市场非常有限",
+      "春节晚会展示了中国的文化魅力与科技实力。这个时长四小时的电视节目在每届农历新年前夕于北京播出，通常会有手持武器的士兵队伍进行表演。2月16日，节目中的核心环节是由一群挥舞着刀剑的人形机器人表演的复杂武术动作。这是四个以人形机器人为装饰的表演项目中的一项，这些表演让全球观众惊叹不已。",
+      "中国的仿人机器人产业非常活跃。根据公司的报告以及研究公司Omdia的估计，去年全球共交付了14,500台机器人，而2024年时这一数字仅为约3,000台。几乎所有机器人都来自中国（见图表）。国内两家领先的仿人机器人制造商——Agibot和Unitree，占据了总数量的四分之三左右；而埃隆·马斯克的特斯拉公司则只交付了150台Optimus机器人。此外，中国还是全球最完善的仿人机器人供应链基地。",
+      "这令西方的某些人感到担忧，他们认为类人机器人最终将成为世界上最大的产业之一。投资银行摩根士坦估计，到2050年，有10亿人可能会使用这类机器人，其年度支出将超过7.5万亿美元。不过，目前从概念到实际应用的道路尚不清楚。大多数被购买的类人机器人，就像那些在展览会上展示的机器人一样，只是用于展示目的，实际上并没有什么实际用途。中国的政府可能会继续成为这类产品的最大需求来源。如果没有地方政府购买这些机器，那么超过100家中国的类人机器人制造商以及成千上万依赖他们的供应商将难以维持下去。这并不是中国第一次在尚未形成成熟市场的情况下投入大量资金发展新技术。但在类人机器人领域，这种投入可能会证明是一种昂贵的浪费。",
+      "中国跳舞机器人的背后，是一个不断扩展的供应链体系。以常州武进区为例，这里的商人们自豪地表示，组装人形机器人所需的零部件中，约有90%可以在该地区采购到。特斯拉“擎天柱”机器人的多个主要供应商都来自该区。中国最大的机器人手臂制造商RealMan，在二月份在该地区新建工厂后，其生产能力增加了两倍。在该大型生产设施中，一位经理指出，由于新的机器人工厂的建成，过去一年里可用于生产土地的数量已经变得非常紧张。",
+      "吴镇只是一个庞大的仿人机器人供应网络的节点之一。这个网络从上海的沿海地区一直延伸到江苏省的下游地区（包括常州），以及浙江省的上游地区（包括其首都杭州）。这个被称为长江三角洲的地区，是Agibot、Unitree等许多仿人机器人制造商的所在地。在排名前30的中国机器人零部件供应商中，有四分之三的企业的市值都集中在这个地区（见地图）。这个网络还拥有诸如DeepSeek这样的人工智能实验室，该实验室位于杭州。同样位于杭州的还有科技巨头阿里巴巴，该公司本月发布了RynnBrain，这是一种用于驱动机器人的高级人工智能模型。",
+      "该地区的成功与其作为电动汽车中心的地位有关，该地区占中国电动汽车产量的五分之二。高扭矩电机、逆变器、电池、激光雷达传感器等组件既用于电动汽车，也用于机器人，尽管它们的尺寸通常有所不同。过去几年中，许多为电动汽车行业提供产品的供应商，由于该行业存在过剩产能的问题，至少部分转向为机器人制造商提供服务。该地区的供应商还投资于那些曾经由外国公司主导的技术领域。齿轮箱制造商Fine Motion Technology在中国市场的份额从2021年的十分之一上升到了2024年的四分之一，从而挤占了日本Nippon Gear等海外竞争对手的市场份额。",
+      "展示你的金属制品",
+      "如果去长江三角洲地区，就不必费力寻找机器人了。在杭州市中心的一个亭子旁，就有一个这样的机器人，它提供咖啡和其他饮料。Botshare是一种仿人机器人租赁服务，于12月份在上海推出，为零售商提供机器人，这些机器人会被安置在零售商的入口处，在顾客进入时向他们挥手致意。一个Agibot的价格超过10万元，但租赁价格却低至2200元。",
+      "问题在于，要让机器人不仅仅成为娱乐工具，它们还需要被定期部署到那些需要执行与人类相同工作的场景中，从而收集可用于训练的数据。因此，对于机器人行业来说，找到适合人类机器人执行实际工作的场景非常重要。新加坡的机器人手制造商Sharpa的Alicia Veneziani指出，目前售出的机器人中，只有极少数被用于工厂作业，而在工厂中，这些机器人通常只能搬运简单的物品——而且它们的效率大约只有人类的30-40%。",
+      "中国的政府非常愿意提供帮助。地方政府已经建立了一些中心，让企业能够使用这些机器人来完成各种任务，并收集相关数据。这些数据随后会被汇总并共享。上海已经建立了一个这样的中心，可以容纳100台类人机器人。一位在杭州的投资者表示，政府的作用至关重要，投资者选择机器人公司时，不仅会考虑其技术能力，还会考虑地方政府提供的资源。",
+      "该州还向这一行业提供了补贴。机器人技术已成为全国地方官员的优先领域，他们希望在自己的税收管辖范围内也能分得一杯羹。但迄今为止，政府最重要的角色还是作为买家。据行业人士透露，去年该政府是仿人机器人的最大购买者，今年及明年可能仍会如此。大多数机器人只是被用作华而不实的装饰品。最近，Agibots已成为上海政府活动的常见道具。中国的这一策略存在风险。在机器人技术发展的同时，一些高管和投资者认为，该行业正在走得太快。北京人工智能研究院的王忠元在去年的演讲中表示，如果大规模生产没有现实需求作为支撑，那么公众的热情很快就会消退。他解释说，如果机器人在变得实用之前就广泛普及，那么“仿人机器人”这一市场泡沫就会破裂。"
+    ],
+    "vocabulary": [
+      {
+        "form": "droid",
+        "ipa": "/drɔɪd/",
+        "pos": "n.",
+        "meaning": "（科幻小说中的）机器人，智能机械人",
+        "definition": "(in science fiction) a robot",
+        "zh": "（科幻小说中的）机器人，智能机械人"
+      },
+      {
+        "form": "humanoids",
+        "ipa": "/ˈhjuːmənɔɪd/",
+        "pos": "n.",
+        "meaning": "（尤指科幻中）类人生物，人形机器人",
+        "definition": "(especially in science fiction) a machine or creature that looks and behaves like a human",
+        "zh": "（尤指科幻中）类人生物，人形机器人"
+      },
+      {
+        "form": "dazzling",
+        "ipa": "/ˈdæzl/",
+        "pos": "v.",
+        "meaning": "使倾倒，使赞叹不已",
+        "definition": "to impress sb. a lot with your beauty, skill, etc.",
+        "zh": "使倾倒，使赞叹不已"
+      },
+      {
+        "form": "Gala",
+        "ipa": "/ˈɡɑːlə/",
+        "pos": "n.",
+        "meaning": "盛会，庆典，庆祝演出",
+        "definition": "a special public celebration or entertainment",
+        "zh": "盛会，庆典，庆祝演出"
+      },
+      {
+        "form": "showcase",
+        "ipa": "/ˈʃəʊkeɪs/",
+        "pos": "n.",
+        "meaning": "展示（本领、优点等）的场合",
+        "definition": "an event that presents sb.’s abilities or the good qualities of sth. in an attractive way",
+        "zh": "展示（本领、优点等）的场合"
+      },
+      {
+        "form": "might",
+        "ipa": "/maɪt/",
+        "pos": "n.",
+        "meaning": "力量，威力，能力",
+        "definition": "(formal or literary) great strength, energy or power",
+        "zh": "力量，威力，能力"
+      },
+      {
+        "form": "staged",
+        "ipa": "/steɪdʒ/",
+        "pos": "v.",
+        "meaning": "上演（戏剧），举办（活动）",
+        "definition": "to organize and present a play or an event for people to see",
+        "zh": "上演（戏剧），举办（活动）"
+      },
+      {
+        "form": "features",
+        "ipa": "/ˈfiːtʃə(r)/",
+        "pos": "v.",
+        "meaning": "由……主演，以……为特色",
+        "definition": "to include a particular person or thing as a special feature",
+        "zh": "由……主演，以……为特色"
+      },
+      {
+        "form": "goose-stepping",
+        "ipa": "/ˈɡuːs step/",
+        "pos": "v.",
+        "meaning": "正步走，踢正步",
+        "definition": "(often disapproving) to march (= walk) with the legs raised high and straight, as soldiers do in some countries",
+        "zh": "正步走，踢正步"
+      },
+      {
+        "form": "phalanxes",
+        "ipa": "/ˈfælæŋks/",
+        "pos": "n.",
+        "meaning": "紧密排列的一群人或物，密集方阵",
+        "definition": "a group of people or things standing very close together",
+        "zh": "紧密排列的一群人或物，密集方阵"
+      },
+      {
+        "form": "centrepiece",
+        "ipa": "/ˈsentəpiːs/",
+        "pos": "n.",
+        "meaning": "核心部分，最重要的事物",
+        "definition": "the most important item",
+        "zh": "核心部分，最重要的事物"
+      },
+      {
+        "form": "troupe",
+        "ipa": "/truːp/",
+        "pos": "n.",
+        "meaning": "（演员、歌手等的）班子，剧团，演出团",
+        "definition": "a group of actors, singers, etc. who work together",
+        "zh": "（演员、歌手等的）班子，剧团，演出团"
+      },
+      {
+        "form": "sword-brandishing",
+        "ipa": "/ˈbrændɪʃ/",
+        "pos": "v.",
+        "meaning": "挥舞（尤指武器）",
+        "definition": "to hold or wave sth., especially a weapon, in an aggressive or excited way",
+        "zh": "挥舞（尤指武器）"
+      },
+      {
+        "form": "elaborate",
+        "ipa": "/ɪˈlæbərət/",
+        "pos": "adj.",
+        "meaning": "复杂精细的，精心制作的，详尽的",
+        "definition": "very complicated and detailed; carefully prepared and organized",
+        "zh": "复杂精细的，精心制作的，详尽的"
+      },
+      {
+        "form": "humanoid-embellished",
+        "ipa": "/ɪmˈbelɪʃ/",
+        "pos": "v.",
+        "meaning": "装饰，美化，给……添加装饰",
+        "definition": "to make sth. more beautiful by adding decoration to it",
+        "zh": "装饰，美化，给……添加装饰"
+      },
+      {
+        "form": "wowed",
+        "ipa": "/waʊ/",
+        "pos": "v.",
+        "meaning": "使……惊叹，把……惊艳到，折服",
+        "definition": "(informal) to impress sb. very much, especially with a performance",
+        "zh": "使……惊叹，把……惊艳到，折服"
+      },
+      {
+        "form": "bustling",
+        "ipa": "/ˈbʌslɪŋ/",
+        "pos": "adj.",
+        "meaning": "熙熙攘攘的，热闹繁忙的",
+        "definition": "full of people moving about in a busy way",
+        "zh": "熙熙攘攘的，热闹繁忙的"
+      },
+      {
+        "form": "automatons",
+        "ipa": "/ɔːˈtɒmətən/",
+        "pos": "n.",
+        "meaning": "机器人",
+        "definition": "An automaton is a small, mechanical figure that can move",
+        "zh": "机器人"
+      },
+      {
+        "form": "wandering",
+        "ipa": "/ˈwɒndə(r)/",
+        "pos": "v.",
+        "meaning": "漫步，闲逛",
+        "definition": "to walk slowly around or to a place, often without any particular sense of purpose or direction",
+        "zh": "漫步，闲逛"
+      },
+      {
+        "form": "viable",
+        "ipa": "/ˈvaɪəbl/",
+        "pos": "adj.",
+        "meaning": "可行的，能成功的，可实施的",
+        "definition": "that can be done; that will be successful",
+        "zh": "可行的，能成功的，可实施的"
+      },
+      {
+        "form": "lavished money on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "慷慨地给予，大量地倾注，挥霍",
+        "definition": "to give a lot of sth., often too much, to sb./sth.",
+        "zh": "慷慨地给予，大量地倾注，挥霍"
+      },
+      {
+        "form": "brag",
+        "ipa": "/bræɡ/",
+        "pos": "v.",
+        "meaning": "吹嘘，夸耀，自夸",
+        "definition": "(disapproving) to talk too proudly about sth. you own or sth. you have done",
+        "zh": "吹嘘，夸耀，自夸"
+      },
+      {
+        "form": "hail from",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "来自，出生于",
+        "definition": "(formal) to come from or have been born in a particular place",
+        "zh": "来自，出生于"
+      },
+      {
+        "form": "quadrupled",
+        "ipa": "/ˈkwɒdrʊpl/",
+        "pos": "v.",
+        "meaning": "（使）变为四倍，翻两番",
+        "definition": "to become four times bigger; to make sth. four times bigger",
+        "zh": "（使）变为四倍，翻两番"
+      },
+      {
+        "form": "sprawling",
+        "ipa": "/ˈsprɔːlɪŋ/",
+        "pos": "adj.",
+        "meaning": "杂乱延伸的，无序扩展的，蔓延的",
+        "definition": "spreading in an untidy way",
+        "zh": "杂乱延伸的，无序扩展的，蔓延的"
+      },
+      {
+        "form": "node",
+        "ipa": "/nəʊd/",
+        "pos": "n.",
+        "meaning": "节点，枢纽",
+        "definition": "(technical) an important place where many parts of a network or system come together",
+        "zh": "节点，枢纽"
+      },
+      {
+        "form": "cluster",
+        "ipa": "/ˈklʌstə(r)/",
+        "pos": "n.",
+        "meaning": "（同类物的）群，簇，串，团；（人或物的）聚集群",
+        "definition": "a group of things of the same type that grow or appear close together",
+        "zh": "（同类物的）群，簇，串，团；（人或物的）聚集群"
+      },
+      {
+        "form": "Delta",
+        "ipa": "/ˈdeltə/",
+        "pos": "n.",
+        "meaning": "三角洲",
+        "definition": "an area of land, like a triangle in shape, where a river has split into several smaller rivers before entering the sea",
+        "zh": "三角洲"
+      },
+      {
+        "form": "High-torque",
+        "ipa": "/tɔːk/",
+        "pos": "n.",
+        "meaning": "扭矩",
+        "definition": "(specialist) a twisting force that causes machines, etc. to rotate (= turn around)",
+        "zh": "扭矩"
+      },
+      {
+        "form": "awash",
+        "ipa": "/əˈwɒʃ/",
+        "pos": "adj.",
+        "meaning": "充斥着……的，充满……的，大量拥有的",
+        "definition": "having sth. in large quantities",
+        "zh": "充斥着……的，充满……的，大量拥有的"
+      },
+      {
+        "form": "gearboxes",
+        "ipa": "/ˈɡɪəbɒks/",
+        "pos": "n.",
+        "meaning": "齿轮箱",
+        "definition": "the part containing the gears of a vehicle",
+        "zh": "齿轮箱"
+      },
+      {
+        "form": "kiosk",
+        "ipa": "/ˈkiːɒsk/",
+        "pos": "n.",
+        "meaning": "小亭，售货亭，报刊亭",
+        "definition": "a small shop, open at the front, where newspapers, drinks, etc. are sold. In some countries kiosks also sell food and things used in the home.",
+        "zh": "小亭，售货亭，报刊亭"
+      },
+      {
+        "form": "station",
+        "ipa": "/ˈsteɪʃn/",
+        "pos": "v.",
+        "meaning": "派往，安置在",
+        "definition": "(formal) to go somewhere and stand or sit there, especially to wait for sth.; to send sb. somewhere to do this",
+        "zh": "派往，安置在"
+      },
+      {
+        "form": "novel",
+        "ipa": "/ˈnɒvl/",
+        "pos": "adj.",
+        "meaning": "新奇的，新颖的，独创的",
+        "definition": "(often approving) different from anything known before; new, interesting and often seeming slightly strange",
+        "zh": "新奇的，新颖的，独创的"
+      },
+      {
+        "form": "pooled",
+        "ipa": "/puːl/",
+        "pos": "v.",
+        "meaning": "集中使用，共用，集资，汇集（资源、信息、资金等）",
+        "definition": "to collect money, information, etc. from different people so that it can be used by all of them",
+        "zh": "集中使用，共用，集资，汇集（资源、信息、资金等）"
+      },
+      {
+        "form": "pivotal",
+        "ipa": "/ˈpɪvətl/",
+        "pos": "adj.",
+        "meaning": "关键性的，核心的，中枢的",
+        "definition": "of great importance because other things depend on it",
+        "zh": "关键性的，核心的，中枢的"
+      },
+      {
+        "form": "jurisdiction",
+        "ipa": "/ˌdʒʊərɪsˈdɪkʃn/",
+        "pos": "n.",
+        "meaning": "司法管辖区，管辖区域，管辖权限",
+        "definition": "an area or a country in which a particular system of laws has authority",
+        "zh": "司法管辖区，管辖区域，管辖权限"
+      },
+      {
+        "form": "frivolous",
+        "ipa": "/ˈfrɪvələs/",
+        "pos": "adj.",
+        "meaning": "无聊的，无实际价值的",
+        "definition": "having no useful or serious purpose",
+        "zh": "无聊的，无实际价值的"
+      },
+      {
+        "form": "showpieces",
+        "ipa": "/ˈʃəʊpiːs/",
+        "pos": "n.",
+        "meaning": "典范，样板，展示品，代表作",
+        "definition": "an excellent example of sth. that people are meant to see and admire",
+        "zh": "典范，样板，展示品，代表作"
+      },
+      {
+        "form": "staple",
+        "ipa": "/ˈsteɪpl/",
+        "pos": "n.",
+        "meaning": "主要部分，基本内容",
+        "definition": "a large or important part of sth.",
+        "zh": "主要部分，基本内容"
+      },
+      {
+        "form": "buzz",
+        "ipa": "/bʌz/",
+        "pos": "n.",
+        "meaning": "兴奋感，激动，热闹的氛围",
+        "definition": "(informal) a strong feeling of pleasure, excitement or achievement",
+        "zh": "兴奋感，激动，热闹的氛围"
+      },
+      {
+        "form": "underpinned",
+        "ipa": "/ˌʌndəˈpɪn/",
+        "pos": "v.",
+        "meaning": "支撑，构成……的基础，巩固，作为……的依据",
+        "definition": "(formal) to support or form the basis of an argument, a claim, etc.",
+        "zh": "支撑，构成……的基础，巩固，作为……的依据"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to impress sb. a lot with your beauty, skill, etc.",
+      "very complicated and detailed; carefully prepared and organized"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The four-hour state television programme, staged in Beijing on the eve of each Lunar New Year, often features goose-stepping phalanxes of singing soldiers.”?",
+    "exerciseChoiceMarked": [
+      "features"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Olive oil and garlic feature prominently in his recipes.",
+        "marked": [
+          "feature"
+        ],
+        "zh": "在他的食谱中，橄榄油和大蒜占有重要地位。"
+      },
+      {
+        "label": "B",
+        "text": "Jon featured in one of the show’s most thrilling episodes.",
+        "marked": [
+          "featured"
+        ],
+        "zh": "乔恩出演了该节目中最紧张刺激的剧集之一。"
+      },
+      {
+        "label": "C",
+        "text": "In today’s programme we have a special feature on education.",
+        "marked": [
+          "feature"
+        ],
+        "zh": "今天的节目设有一档教育专题。"
+      },
+      {
+        "label": "D",
+        "text": "The latest model features alloy wheels and an electronic alarm.",
+        "marked": [
+          "features"
+        ],
+        "zh": "最新款车型配备了合金轮毂和电子报警系统。"
+      }
+    ],
+    "exerciseTranslationPrompt": "但就目前而言，从会空翻的炫技机器人，到真正能盈利的商业模式，道路仍不清晰。如今被采购的大多数人形机器人，和春晚上的一样，基本只用于展示，很少能承担实际工作。",
+    "answerVocabularyList": [
+      "dazzle",
+      "elaborate"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "For now, however, the path from back-flipping bots to a viable business is unclear. Most humanoids being purchased are, like those at the gala, purely for show. Few do any real work."
+  },
+  {
+    "key": "feb0226",
+    "date": "2026.02.26",
+    "period": "2026年2月",
+    "folder": "0226讲解-种族歧视合法化？德克萨斯限制中国人购买房地产",
+    "titleZh": "讲解-种族歧视合法化？德克萨斯限制中国人购买房地产",
+    "title": "Texas now restricts Chinese nationals from buying property. Is it alien land laws all over again?",
+    "topicEn": "Society",
+    "topicZh": "社会",
+    "byline": "By Tyler Hicks, The Guardian, Published September 15, 2025",
+    "paragraphs": [
+      "Senate Bill 17 prohibits many people and businesses from China, Iran, Russia and North Korea from buying most types of real estate",
+      "Shutong Hao came to the US because she needed a new heart. When she was five years old, her family travelled from China to Los Angeles for a life-saving transplant. They later built a life in the suburbs north of Dallas, but Hao was often made to feel as if she didn’t belong.",
+      "“I had multiple teachers who overlooked me, I think deliberately,” said Hao, now 29.",
+      "Those feelings of isolation worsened a couple of years ago, when she heard that Texas legislators were trying to pass a law that would ban Chinese nationals from buying property in the state. To Hao, it was a glaring sign that many people don’t want her to live in the place she’s called home nearly her entire life. Now, after an initial bill failed to pass in 2023, it has come to pass: Senate Bill 17 prohibits many people and businesses from China, Iran, Russia and North Korea from buying most types of real estate in Texas, is now law.",
+      "Republicans have cast the law as a defense of national security. “There are people that are agents of those countries and they are buying up some of our strategic assets,” said the bill’s author, the Republican senator Lois Kolkhorst, despite evidence to the contrary.",
+      "Foreign nationals from those four countries must now have lawful status and reside in the US to qualify for limited exemptions, such as purchasing a primary residence. This means that many people who have lived, worked and contributed to the US for decades without becoming permanent residents or citizens—but have valid work or student visas, for example—might be able to purchase one primary residence if they are legally present in the US and plan to stay indefinitely, but would be barred from buying any additional property, such as commercial buildings, farmland and rental homes.",
+      "“It was devastating,” Hao said. She is unaffected by the bill directly, as she is a naturalized citizen, but she added: “Hearing about that bill was kind of the first time, in my adulthood at least, that I saw targeted legislation or targeted policy against my family, the backstory of which is very history-heavy.”",
+      "Some of that history is quite recent. In 2023, the Florida governor, Ron DeSantis, then a White House hopeful, signed a law that bars Chinese nationals who aren’t US citizens or lawful permanent residents from purchasing property anywhere in the state.",
+      "“He tried to use‘tough on China’as a selling point,”said Clay Zhu, an attorney and managing partner at the Chinese American Legal Defense Alliance (Calda). “Now Texas is following suit.” Zhu also points out that China was one of the key villains singled out by Project 2025, and notes that the CIA, the FBI and other state and federal agencies already have vast reserves of funding available for investigating legitimate national security threats.",
+      "Attempts to restrict Asian property ownership in the US reach back to the late 19th and early 20th centuries, when racist policies such as the alien land laws barred Asian immigrants from owning land or leasing it long term. The laws were eventually declared unconstitutional.",
+      "In the second Trump presidency, anti-Asian hate is on the rise once again; one study suggests incidents of Anti-Asian hate crimes are almost three times higher than pre-pandemic averages.",
+      "“In the pandemic, racism escalated into action and vandalizing Asian-owned storefronts and restaurants,” Hao said. “And now that’s escalating into policy.”",
+      "Hao said she lives with a “low hum of fear” in the back of her head that has been growing louder, particularly as recent ICE raids have targeted Asian Americans."
+    ],
+    "paragraphTranslations": [
+      "参议院第17号法案禁止来自中国、伊朗、俄罗斯和朝鲜的许多人和企业购买大多数类型的房地产。",
+      "舒彤浩来到美国是因为她需要一颗新的心脏。她五岁时，家人从中国出发，前往洛杉矶接受救命的心脏移植手术。后来，他们在达拉斯北部的郊区建立了新生活，但舒彤浩经常感觉自己并不属于这里。",
+      "“我有好几个老师故意忽视我，”现年29岁的郝说。",
+      "几年前，当她听到得克萨斯州的立法者试图通过一项法律，禁止中国公民在该州购买房产时，这种孤立感变得更加严重了。对郝女士来说，这明显表明许多人并不希望她继续居住在这个她几乎一生都视为家园的地方。现在，在2023年最初的法案未能通过之后，这项法案终于成为了法律：参议院第17号法案规定，来自中国、伊朗、俄罗斯和朝鲜的许多人和企业不得在得克萨斯州购买大多数类型的房产。",
+      "共和党人将这项法律视为国家安全的保护措施。该法案的提出者、共和党参议员洛伊斯·科尔霍斯特表示：“有一些人其实是那些国家的代理人，他们正在收购我们的一些战略资产。”但事实却与此相反。",
+      "来自这四个国家的外国公民现在必须拥有合法居留身份，并居住在美国，才能享受有限的免税待遇，例如购买首套住房。这意味着，许多已经在美国生活、工作并做出贡献数十年的人，即使他们没有成为永久居民或公民，但只要持有有效的工作或学生签证，就可以购买首套住房。不过，如果他们只是合法居住在美国，并且打算无限期留在那里，那么他们就不得购买其他财产，如商业建筑、农田或出租房屋。",
+      "“那真是令人痛心，”郝说。作为归化公民，她并没有受到这项法案的直接影响，但她补充说：“至少在我成年后的这段时间里，我第一次听到有关针对我们家族的立法或政策，而背后的历史背景实在太过沉重了。”",
+      "其中一些历史事件其实非常近期。在2023年，时任白宫候选人的佛罗里达州州长罗恩·德桑蒂斯签署了一项法律，该法律禁止非美国公民或合法永久居民的中国公民在该州任何地方购买房产。",
+      "“他试图将‘对中国的强硬态度’作为自己的卖点，”中国裔法律辩护联盟（Calda）的律师兼管理合伙人朱克莱说。“现在，德州也纷纷效仿。”朱克莱还指出，中国是2025计划重点批判的对象之一，并提到中央情报局、联邦调查局以及其他州和联邦机构已经拥有大量资金用于调查合法的国家安全威胁。",
+      "在19世纪末至20世纪初，美国曾试图限制亚洲人的土地所有权。当时的种族主义政策，如《外国土地法》，禁止亚洲移民拥有或长期租赁土地。这些法律最终被宣布为违宪。",
+      "在特朗普第二个任期期间，反亚裔仇恨行为再次上升；一项研究表明，反亚裔仇恨犯罪的事件数量几乎是疫情前平均水平的三倍。",
+      "“在疫情期间，种族主义行为升级为实际的破坏行为，他们故意破坏亚洲人经营的商店和餐馆，”郝说。“而现在，这种情况已经升级为政策问题了。”",
+      "郝说，她生活在一种“恐惧的阴云”之中，这种恐惧感越来越强烈，尤其是在最近美国移民与海关管理局的搜查行动针对亚裔美国人时。"
+    ],
+    "vocabulary": [
+      {
+        "form": "nationals",
+        "ipa": "/ˈnæʃnəl/",
+        "pos": "n.",
+        "meaning": "国民，本国公民",
+        "definition": "(specialist) sb. who is a citizen of a particular country but is living in another country",
+        "zh": "国民，本国公民"
+      },
+      {
+        "form": "alien",
+        "ipa": "/ˈeɪliən/",
+        "pos": "n.",
+        "meaning": "外国人，侨民",
+        "definition": "(law or specialist) a person who is not a citizen of the country in which they live or work",
+        "zh": "外国人，侨民"
+      },
+      {
+        "form": "transplant",
+        "ipa": "/ˈtrænsplɑːnt/",
+        "pos": "n.",
+        "meaning": "移植（手术）",
+        "definition": "a medical operation in which a damaged organ, etc. is replaced with one from another person",
+        "zh": "移植（手术）"
+      },
+      {
+        "form": "overlooked",
+        "ipa": "/ˌəʊvəˈlʊk/",
+        "pos": "v.",
+        "meaning": "忽略，未注意到，视而不见",
+        "definition": "to fail to see or notice sth.",
+        "zh": "忽略，未注意到，视而不见"
+      },
+      {
+        "form": "deliberately",
+        "ipa": "/dɪˈlɪbərətli/",
+        "pos": "adv.",
+        "meaning": "故意地，蓄意地，刻意地",
+        "definition": "done in a way that was planned, not by chance",
+        "zh": "故意地，蓄意地，刻意地"
+      },
+      {
+        "form": "glaring",
+        "ipa": "/ˈɡleərɪŋ/",
+        "pos": "adj.",
+        "meaning": "显眼的，突出的，明显的",
+        "definition": "(of something bad) very easily seen",
+        "zh": "显眼的，突出的，明显的"
+      },
+      {
+        "form": "initial",
+        "ipa": "/ɪˈnɪʃl/",
+        "pos": "adj.",
+        "meaning": "最初的，开始的",
+        "definition": "happening at the beginning; first",
+        "zh": "最初的，开始的"
+      },
+      {
+        "form": "cast",
+        "ipa": "/kɑːst/",
+        "pos": "v.",
+        "meaning": "把……描绘成，使扮演，将……定性为",
+        "definition": "to describe or present sb./oneself in a particular way",
+        "zh": "把……描绘成，使扮演，将……定性为"
+      },
+      {
+        "form": "reside",
+        "ipa": "/rɪˈzaɪd/",
+        "pos": "v.",
+        "meaning": "居住，定居",
+        "definition": "(formal) to live in a particular place",
+        "zh": "居住，定居"
+      },
+      {
+        "form": "exemptions",
+        "ipa": "/ɪɡˈzempʃn/",
+        "pos": "n.",
+        "meaning": "豁免，免除",
+        "definition": "official permission not to do sth. or pay sth. that you would normally have to do or pay",
+        "zh": "豁免，免除"
+      },
+      {
+        "form": "indefinitely",
+        "ipa": "/ɪnˈdefɪnətli/",
+        "pos": "adv.",
+        "meaning": "无限期地，不确定地",
+        "definition": "for a period of time with no fixed limit",
+        "zh": "无限期地，不确定地"
+      },
+      {
+        "form": "unaffected",
+        "ipa": "/ˌʌnəˈfektɪd/",
+        "pos": "adj.",
+        "meaning": "不受影响的，未被改变的",
+        "definition": "not changed or influenced by sth.; not affected by sth.",
+        "zh": "不受影响的，未被改变的"
+      },
+      {
+        "form": "naturalized",
+        "ipa": "/ˈnætʃrəlaɪz/",
+        "pos": "v.",
+        "meaning": "使加入国籍，使入籍",
+        "definition": "to make sb. who was not born in a particular country a citizen of that country",
+        "zh": "使加入国籍，使入籍"
+      },
+      {
+        "form": "backstory",
+        "ipa": "/ˈbækstɔːri/",
+        "pos": "n.",
+        "meaning": "（电影、小说等角色的）背景故事、身世经历",
+        "definition": "the things that are supposed to have happened to the characters in a film, novel, etc., before the film, etc. starts",
+        "zh": "（电影、小说等角色的）背景故事、身世经历"
+      },
+      {
+        "form": "hopeful",
+        "ipa": "/ˈhəʊpfl/",
+        "pos": "n.",
+        "meaning": "有希望成功的人，希望获得成功的人",
+        "definition": "a person who wants to succeed at sth.",
+        "zh": "有希望成功的人，希望获得成功的人"
+      },
+      {
+        "form": "following suit",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "跟着做，效仿",
+        "definition": "to act or behave in the way that sb. else has just done",
+        "zh": "跟着做，效仿"
+      },
+      {
+        "form": "villains",
+        "ipa": "/ˈvɪlən/",
+        "pos": "n.",
+        "meaning": "反派角色，反面人物，坏蛋",
+        "definition": "the main bad character in a story, play, etc.",
+        "zh": "反派角色，反面人物，坏蛋"
+      },
+      {
+        "form": "singled out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "挑出，单独选出（以给予特别关注或批评）",
+        "definition": "to choose sb./sth. from a group for special attention",
+        "zh": "挑出，单独选出（以给予特别关注或批评）"
+      },
+      {
+        "form": "leasing",
+        "ipa": "/liːs/",
+        "pos": "v.",
+        "meaning": "租用，出租，租赁",
+        "definition": "to use or let sb. use sth., especially property or equipment, in exchange for rent or a regular payment",
+        "zh": "租用，出租，租赁"
+      },
+      {
+        "form": "vandalizing",
+        "ipa": "/ˈvændəlaɪz/",
+        "pos": "v.",
+        "meaning": "肆意破坏，故意毁坏",
+        "definition": "to damage sth., especially public property, deliberately and for no good reason",
+        "zh": "肆意破坏，故意毁坏"
+      },
+      {
+        "form": "storefronts",
+        "ipa": "/ˈstɔːfrʌnt/",
+        "pos": "n.",
+        "meaning": "（店铺）临街的房间，铺面，临街营业间",
+        "definition": "a room at the front of a shop",
+        "zh": "（店铺）临街的房间，铺面，临街营业间"
+      },
+      {
+        "form": "hum",
+        "ipa": "/hʌm/",
+        "pos": "n.",
+        "meaning": "嗡嗡声，嘈杂声，低沉持续的声响",
+        "definition": "a low continuous sound",
+        "zh": "嗡嗡声，嘈杂声，低沉持续的声响"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "(of something bad) very easily seen",
+      "to act or behave in the way that sb. else has just done"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “Republicans have cast the law as a defense of national security.”?",
+    "exerciseChoiceMarked": [
+      "cast"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The setting sun cast an orange glow over the mountains.",
+        "marked": [
+          "cast"
+        ],
+        "zh": "夕阳为山脉投下了橙色的光芒。"
+      },
+      {
+        "label": "B",
+        "text": "Critics cast the new law as an attack on personal freedom.",
+        "marked": [
+          "cast"
+        ],
+        "zh": "批评者认为这项新法律是对个人自由的侵犯。"
+      },
+      {
+        "label": "C",
+        "text": "This latest evidence casts serious doubt on his version of events.",
+        "marked": [
+          "casts"
+        ],
+        "zh": "这最新的证据对他的事件描述提出了严重的质疑。"
+      },
+      {
+        "label": "D",
+        "text": "How many of the registered voters will actually cast their ballots?",
+        "marked": [
+          "cast"
+        ],
+        "zh": "实际投票的登记选民数量是多少？"
+      }
+    ],
+    "exerciseTranslationPrompt": "如今，在 2023 年初版法案未能通过后，这项法案终于生效：州参议院第 17 号法案正式成为法律，禁止来自中、伊、俄、朝四国的多数个人和企业购买德州绝大多数房产。",
+    "answerVocabularyList": [
+      "glaring",
+      "follow suit"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Now, after an initial bill failed to pass in 2023, it has come to pass: Senate Bill 17 prohibits many people and businesses from China, Iran, Russia and North Korea from buying most types of real estate in Texas, is now law."
+  },
+  {
+    "key": "feb0227",
+    "date": "2026.02.27",
+    "period": "2026年2月",
+    "folder": "0227 太空组网进入了“大航海”时代",
+    "titleZh": "太空组网进入了“大航海”时代",
+    "title": "Orbital space race heats up in Arctic north",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "By Nature & BBC, Published Dec. 3, 2025 & Feb. 23, 2026",
+    "paragraphs": [
+      "Satellite megaconstellations will threaten space-based astronomy",
+      "Until 2019, the largest constellation of artificial satellites was the Iridium system, comprising 75 spacecraft in low Earth orbit (LEO) at altitudes between approximately 630 km and 780 km. Radio emission in the 1,621–1,628-MHz band from Iridium satellites was one of the first sources of electromagnetic pollution from space to be addressed by the calibration pipelines of ground-based observatories. Over the past few years, the number of satellites has increased to approximately 15,000. Owing to the reduction in the cost per kilogram of launching payloads to LEO, the number of artificial satellites has grown exponentially since 2020. Over this era, the proposals of telecommunication satellites to the US Federal Communications Commission (FCC) and the International Telecommunication Union (ITU) have increased by two orders of magnitude. Launches are expected to be even more accessible in the future because the advent of next-generation superheavy launchers (Space Launch System, New Glenn, Starship and Long March 9) will likely reduce launch costs and increase the capability to deploy more satellites to even higher orbits. If all FCC filings result in launches, Earth would be orbited by half a million artificial satellites by the end of the 2030s.",
+      "It’s 04:00 on a snow-covered hill in Swedish Lapland, 120 miles (200km) north of the Arctic Circle.",
+      "A countdown echoes from a Tannoy: “Three, two, one.” A rocket blasts off from a launcher, shooting into the sky and illuminating the darkened valley below.",
+      "Moments later, a second rocket motor kicks in with a deafening roar.",
+      "We are visiting the Esrange Space Centre near the city of Kiruna, run by the Swedish Space Corporation (SSC Space), where more than 600 rockets have launched since the 1960s, mostly sub-orbital rockets used for scientific research, or to test-run space flights.",
+      "Built by scientists from the German Aerospace Centre Mapheus, the rocket I saw blast off, flew for 14 minutes, leaving the atmosphere and reaching an altitude of almost 260km.",
+      "This rocket was on a quest for several minutes of valuable micro-gravity or weightlessness, carrying experiments that will help researchers study biological cells, materials and other processes.",
+      "However, Esrange has also emerged as a player in a Europe-wide race to deliver orbital rocket launches.",
+      "“Within a couple of years, we will have the first satellite launch from here,” says SSC business development director Mattias Abrahamsson.",
+      "Two clients are preparing rockets to carry satellites into orbit from northern Sweden: South Korea’s Perigee; and American company, Firefly, which achieved a lunar landing last year. “We are now building out more infrastructure that is specific to Firefly’s Alpha rocket,” explains Katarina Lahti from SSC’s orbital launch and rocket test division. That includes different fuelling, security and safety systems, she adds.",
+      "The signing of a technology safeguard agreement between the US and Sweden, allowing American companies to send advanced space technology to the Scandinavian country, is another major milestone, Lahti says.",
+      "Meanwhile, Esrange is hosting ground tests for Themis, Europe’s first reusable rocket, as well as engine testing for German start-up Isar Aerospace.",
+      "Fuelled by a growing demand for internet connections, communications and mapping, the volume of satellites above Earth has skyrocketed, and is projected to reach half a million by the end of the 2030s, according to a recent report in Nature. “There’s around 10,000 satellites orbiting right now. The plan is to go to about 40-50,000 satellites in just some years,” explains Abrahamsson, as he stands overlooking several large antennae. That’s drawing commercial companies into a segment once dominated by government agencies.",
+      "It’s also spurred several spaceport projects across Europe – from the Azores in Portugal, to Norway’s far north.",
+      "“Spaceports will be like seaports, and you will need multiple for the amount of traffic, but also for resilience,” says Hermann Ludwig Moeller, director of the European Space Policy Institute. “There are two or three [spaceports] that you could imagine will succeed,” he tells the BBC, adding he expects to see a successful European continental orbital launch “this year”.",
+      "The European Space Agency’s (ESA) facilities at Kourou in French Guiana, can handle about a dozen orbital launches a year, and ESA also relies on the US, which has several key launch sites, from NASA’s Cape Canaveral to SpaceX’s Starbase.",
+      "Kourou’s position close to the equator on the South American continent has some launch advantages, but European-built rockets must be shipped thousands of kilometres then reassembled, adding to logistical challenges.",
+      "Ariane 6 – Europe’s most powerful rocket yet – launched from there earlier this month, carrying satellites destined for Amazon’s Leo constellation, a rival to Elon Musk’s StarLink.",
+      "“There’s a lot going on in space for internet connectivity,” says Moeller, speaking to the BBC from French Guiana, where he’d just witnessed Ariane 6 lift off. “It is part of what I call the ‘internet age’ of space.”",
+      "“It will be a competition between Amazon Leo and Starlink. You will also see Chinese developments, and maybe European developments eventually,” he adds.",
+      "Of the 319 successful orbital launches in 2025, there were just seven from Europe (Kourou), compared to 189 from the US and 90 from China."
+    ],
+    "paragraphTranslations": [
+      "卫星宏宇宙观测会威胁到基于太空的天文研究",
+      "直到2019年，最大的人造卫星系统还是铱星系统，该系统由75颗卫星组成，这些卫星位于地球低轨道，高度大约在630公里到780公里之间。铱星卫星在1612–1618兆赫频段发出的无线电波，是地面观测站用来处理来自太空的电磁污染信号的最初来源之一。在过去的几年里，人造卫星的数量增加到了大约15,000颗。由于将卫星发射到地球低轨道的成本降低，自2020年以来，人造卫星的数量呈指数级增长。在这一时期，向美国联邦通信委员会和国际电信联盟提交的通信卫星提案数量增加了两个数量级。未来的发射任务将变得更加易于实施，因为下一代重型发射装置（如太空发射系统、新格伦、星舰以及长征9号）的问世很可能会降低发射成本，并增强将更多卫星发射到更高轨道的能力。如果所有向联邦通信委员会提交的申请都获得批准，那么到2030年代末，地球周围将会有50万颗人造卫星在运行。",
+      "现在是凌晨4点，地点位于瑞典拉普兰一个被雪覆盖的小山上，距离北极圈以北120英里（200公里）。",
+      "倒计时声从扩音器中响起：“三、二、一。”一枚火箭从发射装置中发射出去，飞向天空，照亮了下方昏暗的山谷。",
+      "片刻之后，第二枚火箭发动机开始工作，发出震耳欲聋的轰鸣声。",
+      "我们即将参观位于基律纳市附近的埃斯兰吉太空中心，该中心由瑞典航天公司（SSC Space）运营。自20世纪60年代以来，这里已经发射了600多枚火箭，这些火箭大多是用于科学研究的亚轨道火箭，或者用于测试太空飞行技术。",
+      "这枚火箭由德国航空航天中心的Mapheus科学家团队研发。我看到它发射后，飞行了14分钟，随后脱离大气层，达到了近260公里的高度。",
+      "这枚火箭进行了几分钟的微重力或失重实验，携带的实验将帮助研究人员研究生物细胞、材料以及其他相关过程。",
+      "不过，埃斯兰奇也在整个欧洲范围内为提升轨道火箭发射能力而进行的竞赛中崭露头角。",
+      "“在几年内，我们将在这里进行首次卫星发射，”SSC业务发展主管马蒂亚斯·亚伯拉罕森说。",
+      "有两个客户正在准备火箭，用于将卫星从瑞典北部发射到轨道：一个是韩国的Perigee公司，另一个是去年成功实现月球着陆的美国公司Firefly。“我们现在正在为Firefly的Alpha火箭建设更多相关的基础设施，”SSC的轨道发射和火箭测试部门负责人卡特琳娜·拉赫蒂解释道。她补充说，这些设施包括不同的燃料供应系统、安全系统等等。",
+      "拉赫蒂表示，美国与瑞典签署了一项技术保护协议，该协议允许美国公司将先进的太空技术引入斯堪纳维亚国家，这也是一个重要的里程碑。",
+      "与此同时，埃斯兰奇正在为“Themis”进行地面测试工作，“Themis”是欧洲首款可重复使用的火箭；同时，该地点还负责为德国初创公司Isar Aerospace的发动机进行测试工作。",
+      "由于对互联网连接、通信和地图服务的需求不断增加，地球上方卫星的数量急剧增加。根据《自然》杂志最近的一份报告，到2030年代末，卫星数量预计将达到50万颗。“目前大约有10,000颗卫星在轨道运行。计划是在短短几年内将卫星数量增加到40,000到50,000颗。”Abrahamsson这样解释道，他站在几台大型卫星天线旁。这一现象正将商业公司吸引到这一曾经由政府机构主导的领域。",
+      "这也推动了欧洲各地的多个太空港项目的发展——从葡萄牙的亚速尔群岛，到挪威的极北地区。",
+      "“太空港就像海港一样，鉴于交通流量的巨大需求，需要多个太空港来应对这一挑战，同时还需要具备足够的韧性，”欧洲空间政策研究所的主任赫尔曼·卢特迪·莫勒说。“可以想象，有两三个太空港能够取得成功，”他向BBC表示，并补充说他预计今年就能看到欧洲大陆的轨道发射取得成功。",
+      "欧洲航天局在法属圭亚那的库鲁基地拥有的设施，每年能够完成大约十几次轨道发射任务。此外，欧洲航天局还依赖美国的发射能力，美国拥有多个重要的发射基地，包括NASA的卡纳维拉尔角发射场，以及SpaceX的星舰发射台。",
+      "库鲁位于南美大陆的赤道附近，这一地理位置确实为发射带来了一些优势。但是，由欧洲制造的火箭需要被运输数千公里之后才能重新组装，这增加了后勤方面的挑战。",
+      "本月早些时候，Ariane 6火箭从那里发射升空，搭载了用于亚马逊星座的卫星。这些卫星是埃隆·马斯克的StarLink卫星系统的竞争对手。",
+      "“在太空领域，用于互联网连接的设施正在迅速发展，”莫勒在法国圭亚那向BBC表示。他刚刚目睹了阿丽亚娜6号火箭的发射。“这是我所说的‘互联网时代的太空发展’的一部分。”",
+      "“这将是一场亚马逊的Leo项目和Starlink项目的竞争。你还将看到中国的项目，也许最终也会看到欧洲的项目，”他补充说。",
+      "在2025年共发生的319次成功轨道发射中，欧洲仅进行了7次发射（位于科鲁），而美国则进行了189次，中国则进行了90次。"
+    ],
+    "vocabulary": [
+      {
+        "form": "constellation",
+        "ipa": "/ˌkɒnstəˈleɪʃn/",
+        "pos": "n.",
+        "meaning": "星座",
+        "definition": "a group of stars that forms a shape in the sky and has a name",
+        "zh": "星座"
+      },
+      {
+        "form": "altitudes",
+        "ipa": "/ˈæltɪtjuːd/",
+        "pos": "n.",
+        "meaning": "海拔，海拔高度",
+        "definition": "height above sea level",
+        "zh": "海拔，海拔高度"
+      },
+      {
+        "form": "electromagnetic",
+        "ipa": "/ɪˌlektrəʊmæɡˈnetɪk/",
+        "pos": "adj.",
+        "meaning": "电磁的",
+        "definition": "having both electrical and magnetic characteristics (or properties)",
+        "zh": "电磁的"
+      },
+      {
+        "form": "payloads",
+        "ipa": "/ˈpeɪləʊd/",
+        "pos": "n.",
+        "meaning": "（运输工具的）净载重量，有用载重量；（导弹的）有效载荷，有效负荷",
+        "definition": "the amount of goods or people that a vehicle, such as a truck or aircraft, can carry",
+        "zh": "（运输工具的）净载重量，有用载重量；（导弹的）有效载荷，有效负荷"
+      },
+      {
+        "form": "exponentially",
+        "ipa": "/ˌekspəˈnenʃəli/",
+        "pos": "adv.",
+        "meaning": "急剧地，成倍增长",
+        "definition": "in a way that becomes quicker and quicker as something that increases becomes larger",
+        "zh": "急剧地，成倍增长"
+      },
+      {
+        "form": "magnitude",
+        "ipa": "/ˈmæɡnɪtjuːd/",
+        "pos": "n.",
+        "meaning": "数量级",
+        "definition": "In mathematics, if one amount is an order of magnitude larger than another, it is ten times larger than the other. If it is two orders of magnitude larger, it is a hundred times larger.",
+        "zh": "数量级"
+      },
+      {
+        "form": "advent",
+        "ipa": "/ˈædvent/",
+        "pos": "n.",
+        "meaning": "（重要事件、人物、发明等的）出现，到来",
+        "definition": "the arrival of a notable person, thing, or event",
+        "zh": "（重要事件、人物、发明等的）出现，到来"
+      },
+      {
+        "form": "filings",
+        "ipa": "/ˈfaɪlɪŋ/",
+        "pos": "n.",
+        "meaning": "存档档案",
+        "definition": "a document, report etc that is officially recorded",
+        "zh": "存档档案"
+      },
+      {
+        "form": "illuminating",
+        "ipa": "/ɪˈluːmɪneɪt/",
+        "pos": "v.",
+        "meaning": "照明；照亮；照射",
+        "definition": "to shine light on something",
+        "zh": "照明；照亮；照射"
+      },
+      {
+        "form": "sub-orbital",
+        "ipa": "/ˌsʌbˈɔːbɪtəl/",
+        "pos": "adj.",
+        "meaning": "亚轨道的",
+        "definition": "of, relating to, or denoting a trajectory that does not complete a full orbit of the earth or other celestial body",
+        "zh": "亚轨道的"
+      },
+      {
+        "form": "micro-gravity",
+        "ipa": "/ˌmaɪkrəʊˈgrævətɪ/",
+        "pos": "n.",
+        "meaning": "微重力",
+        "definition": "very weak gravity, as in an orbiting spacecraft",
+        "zh": "微重力"
+      },
+      {
+        "form": "safeguard",
+        "ipa": "/ˈseɪfɡɑːd/",
+        "pos": "n.",
+        "meaning": "安全设施；保护措施",
+        "definition": "something that is designed to protect people from harm, risk or danger",
+        "zh": "安全设施；保护措施"
+      },
+      {
+        "form": "Scandinavian",
+        "ipa": "/ˌskændɪˈneɪviən/",
+        "pos": "adj.",
+        "meaning": "来自或与斯堪的那维亚有关",
+        "definition": "from or connected with Scandinavia",
+        "zh": "来自或与斯堪的那维亚有关"
+      },
+      {
+        "form": "resilience",
+        "ipa": "/rɪˈzɪliəns/",
+        "pos": "n.",
+        "meaning": "恢复力，复原力；适应力",
+        "definition": "the ability to become strong, happy, or successful again after a difficult situation or event",
+        "zh": "恢复力，复原力；适应力"
+      },
+      {
+        "form": "Cape",
+        "ipa": "/keɪp/",
+        "pos": "n.",
+        "meaning": "地角；岬角",
+        "definition": "a piece of high land that sticks out into the sea",
+        "zh": "地角；岬角"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the amount of goods or people that a vehicle, such as a truck or aircraft, can carry",
+      "something that is designed to protect people from harm, risk or danger"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “A rocket blasts off from a launcher, shooting into the sky and illuminating the darkened valley below.”?",
+    "exerciseChoiceMarked": [
+      "illuminating"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "This text illuminates the philosopher’s early thinking.",
+        "marked": [
+          "illuminates"
+        ],
+        "zh": "这段文字揭示了这位哲学家早期的思考过程。"
+      },
+      {
+        "label": "B",
+        "text": "The old manuscript was beautifully illuminated.",
+        "marked": [
+          "illuminated"
+        ],
+        "zh": "这份古老的手稿绘有精美的装饰图案。"
+      },
+      {
+        "label": "C",
+        "text": "Her smile illuminated her entire being.",
+        "marked": [
+          "illuminated"
+        ],
+        "zh": "她的微笑照亮了她的整个生命。"
+      },
+      {
+        "label": "D",
+        "text": "The earth is illuminated by the sun.",
+        "marked": [
+          "illuminated"
+        ],
+        "zh": "大地被阳光照亮。"
+      }
+    ],
+    "exerciseTranslationPrompt": "据《自然》（Nature）近期发布的报告，在互联网连接、通信服务和地图测绘需求持续扩大的驱动下，地球轨道上的卫星数量正急剧攀升，到 2030 年代末，总数预计将达到 50 万颗。",
+    "answerVocabularyList": [
+      "payload",
+      "safeguard"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "Fuelled by a growing demand for internet connections, communications and mapping, the volume of satellites above Earth has skyrocketed, and is projected to reach half a million by the end of the 2030s, according to a recent report in Nature."
+  },
+  {
+    "key": "feb0228",
+    "date": "2026.02.28",
+    "period": "2026年2月",
+    "folder": "0228 最高法院怎么推翻Trump’s的关税政策？",
+    "titleZh": "最高法院怎么推翻Trump’s的关税政策？",
+    "title": "Justices Strike Down Trump’s Tariffs",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Ann E. Marimow, The New York Times, Published February 20, 2026",
+    "paragraphs": [
+      "President Trump was the first to invoke the International Emergency Economic Powers Act of 1977 to set tariffs on imported goods from more than 100 countries.",
+      "The Supreme Court ruled on Friday that President Trump exceeded his authority when he imposed sweeping tariffs on imports from nearly every U.S. trading partner, a major setback for his administration’s second-term agenda.",
+      "The court’s 6-3 decision has significant implications for the U.S. economy, consumers and the president’s trade policy. The Trump administration had said that a loss at the Supreme Court could force the government to unwind trade deals with other countries and potentially pay hefty refunds to importers. Mr. Trump is the first president to claim that a 1970s emergency statute, which does not mention the word “tariffs,” allowed him to unilaterally impose the duties without congressional approval.",
+      "Writing for the majority, Chief Justice John G. Roberts Jr. said that statute does not authorize the president to impose tariffs. “The president asserts the extraordinary power to unilaterally impose tariffs of unlimited amount, duration, and scope. In light of the breadth, history, and constitutional context of that asserted authority, he must identify clear congressional authorization to exercise it,” the chief justice wrote.",
+      "Justices Clarence Thomas, Samuel A. Alito Jr. and Brett M. Kavanaugh dissented.",
+      "The decision on Friday left uncertain the extent to which those who paid tariffs might be able to obtain refunds, with Justice Kavanaugh warning that any refund process could be a substantial “mess.”",
+      "The United States “may be required to refund billions of dollars to importers who paid” the tariffs, he wrote, “even though some importers may have already passed on costs to consumers or others.”",
+      "The court’s ruling, backed by justices from across the ideological spectrum, was a rare and significant example of the Supreme Court pushing back on Mr. Trump’s agenda. Since he returned to the White House, the court’s conservative majority had overwhelmingly issued emergency orders allowing the president to carry out his policies on a temporary basis. But the decision on Friday will have a more lasting impact.",
+      "Two of Mr. Trump’s appointees—Justices Neil M. Gorsuch and Amy Coney Barrett—voted with Chief Justice Roberts and the three liberal justices.",
+      "Responding to the ruling at a lengthy defiant news conference, Mr. Trump said he was deeply disappointed, calling it a “terrible decision.” He praised by name the justices who dissented and railed against those who voted against him: “I’m ashamed of certain members of the court, absolutely ashamed for not having the courage to do what’s right for our country.”",
+      "Mr. Trump said he would be signing orders seeking to restore tariffs under a variety of other authorities.",
+      "Early last year, Mr. Trump invoked the International Emergency Economic Powers Act of 1977 to set tariffs on imported goods from more than 100 countries. He said his goal was to reduce the trade deficit and spur more manufacturing in the United States. Since then, he has used the tariffs to raise revenue to offset the costs of some of his policies and to pressure other countries in trade negotiations.",
+      "A dozen states and a group of small businesses, including an educational toy manufacturer and a wine importer, sued over the tariffs, saying the president had unlawfully infringed on Congress’s power under the Constitution to impose taxes. The businesses, which rely on imported goods, argued in court filings that the tariffs had disrupted their operations and led to higher prices for consumers and cutbacks in staffing.",
+      "Pratik Shah, the lead lawyer for the toy company, said in a statement that the justices had “upheld the foundational separation-of-powers principle that our small-business client has been fighting for: no president has boundless power to tax Americans.”",
+      "The response from major U.S. trading partners was muted, with world leaders from Ottawa to New Delhi recognizing that the decision did not mean the end of the president’s tariffs. On Capitol Hill, a small group of Republicans joined Democrats in praising the court’s ruling.",
+      "The U.S. Treasury has collected about $240 billion in tariff revenue since April 2, 2025, labeled “Liberation Day,” by Mr. Trump. The research firm Capital Economics estimated that if the Treasury is forced to issue refunds, the cost would run to about $120 billion or 0.5 percent of gross domestic product.",
+      "But even while battling in court, the president began to explore alternatives to the 1977 law. Mr. Trump’s top trade negotiator Jamieson Greer said last month that the administration would move quickly to replace any emergency tariffs invalidated by the court with other levies. The president has already used other statutes to set tariffs, including national security-related ones on some specific goods and industries. Still, other laws that more clearly afford the president the power to impose duties are more limited and less flexible than the emergency law.",
+      "Mr. Trump initially set tariffs on goods imported into the United States from China, Canada and Mexico, saying the levies were a punishment for those nations’ failing to stop the flow of fentanyl. In April, he expanded the duties to imports on goods from nearly all trading partners, saying they were needed to address trade deficits with the rest of the world.",
+      "Under the 1970s-era law, the president has the authority to take certain steps in response to a national emergency to “deal with any unusual and extraordinary threat” to “the national security, foreign policy or economy of the United States.” That includes the power to “regulate” the “importation” of foreign property. Past presidents have relied on that language to place sanctions or embargoes on other countries, but not to impose taxes. But the administration has argued that phrase also gives Mr. Trump the power to levy tariffs.",
+      "The affected businesses countered that the word “regulate” did not encompass the imposition of tariffs. The statute does not include the words “tariffs,” “taxes” or “duties.”",
+      "During oral arguments in November, several conservative justices sharply questioned the Trump administration’s lawyer about whether Congress had intentionally delegated to the president broad taxing powers, which the Constitution generally reserves for lawmakers.",
+      "In its 21-page opinion, the majority said it was telling that for half a century, no other president had invoked the statute to impose “any tariffs—let alone tariffs of this magnitude and scope.”",
+      "The two words “regulate” and “importation,” the court said, do not give the president the power to “impose tariffs on imports from any country, of any product, at any rate, for any amount of time.”",
+      "Chief Justice Roberts said the president’s use of the statute had run afoul of the “major questions doctrine,” which requires Congress to use plain and direct language to authorize sweeping economic actions by the executive branch. The court relied on the same doctrine to strike down President Joseph R. Biden Jr.’s student loan forgiveness program.",
+      "The three liberal justices—Elena Kagan, Sonia Sotomayor and Ketanji Brown Jackson— agreed with the overall ruling but insisted the same result could have been reached without applying the doctrine, which they have been critical of in the past.",
+      "Justice Gorsuch wrote a lengthy and forceful separate opinion agreeing that Mr. Trump had overstepped his authority and defending Congress as the proper branch to impose taxes. “Yes, legislating can be hard and take time. And, yes, it can be tempting to bypass Congress when some pressing problem arises,” he wrote. “But the deliberative nature of the legislative process was the whole point of its design.”",
+      "In dissent, Justice Kavanaugh said the president should be able to impose tariffs under his power to conduct foreign affairs and noted that they had helped the administration negotiate trade deals worth trillions of dollars.",
+      "Even so, Justice Kavanaugh laid out other ways the president could set duties through different federal statutes.",
+      "“So the court’s decision is not likely to greatly restrict presidential tariff authority going forward,” he wrote. “But the court’s decision is likely to generate other serious practical consequences in the near term.”",
+      "The case reached the Supreme Court after three lower courts concluded the tariffs were unlawful.",
+      "In August, the U.S. Court of Appeals for the Federal Circuit ruled 7 to 4 that the emergency statute did not authorize the sweeping tariffs while declining to decide whether the statute might allow Mr. Trump to impose more limited duties.",
+      "“Whenever Congress intends to delegate to the president the authority to impose tariffs, it does so explicitly,” the appeals court’s majority said."
+    ],
+    "paragraphTranslations": [
+      "特朗普总统是第一个援引1977年《国际紧急经济权力法》，对来自100多个国家的进口商品征收关税的人。",
+      "最高法院在周五的裁决中指出，特朗普总统对几乎所有美国贸易伙伴的进口商品征收了全面的关税，这一行为超出了他的权限，这对该总统执政期间的第二任期计划来说是一个重大挫折。",
+      "法院以6比3的结果做出了这一裁决，这对美国经济、消费者以及总统的贸易政策都具有重要意义。特朗普政府曾表示，如果最高法院作出不利判决，政府可能不得不解除与其他国家的贸易协议，并可能需要向进口商支付巨额赔偿。特朗普是首位声称1970年代的一项紧急法规——该法规并未提及“关税”一词——允许他在未经国会批准的情况下单方面实施关税的首任总统。",
+      "支持多数意见的大法官约翰·G·罗伯茨指出，该法规并未授权总统实施关税。“总统声称拥有单方面实施无限制数量、期限和范围的关税的特权。鉴于这种特权的广泛性、历史背景以及宪法依据，总统必须获得国会的明确授权才能行使这一权力。”大法官如此写道。",
+      "大法官克拉伦斯·托马斯、塞缪尔·A·阿利托和布雷特·M·卡瓦诺持反对意见。",
+      "周五的裁决使得那些支付了关税的人是否能够获得退款变得不确定。法官卡瓦诺警告说，任何退款流程都可能会非常混乱。",
+      "他写道，美国“可能需要向那些支付了关税的进口商退还数十亿美元的资金”，尽管一些进口商可能已经将成本转嫁给了消费者或其他方面。",
+      "法院的裁决得到了来自不同意识形态背景的法官们的支持，这是最高法院对特朗普政策进行抵制的一个罕见且重要的例子。自特朗普重返白宫以来，法院中的保守派多数派一直大量发布紧急命令，允许总统在临时基础上实施其政策。但周五的裁决将产生更持久的影响。",
+      "特朗普任命的两位法官——尼尔·M·戈苏奇和艾米·科尼·巴雷特——与首席大法官罗伯茨以及三位自由派法官一致投票。",
+      "在长达数小时的记者会上，特朗普对这一裁决表示强烈不满，称这是“一个糟糕的决定”。他特别表扬了那些反对自己判决的法官们：“我为法庭上的某些成员感到羞愧，因为他们没有勇气为我们的国家做出正确的决定。”",
+      "特朗普先生表示，他将根据其他相关法规，签署旨在恢复关税的指令。",
+      "去年年初，特朗普先生援引1977年《国际紧急经济权力法》，对来自100多个国家的进口商品征收关税。他声称自己的目标是减少贸易逆差，并促进美国国内的制造业发展。从那时起，他利用这些关税来筹集资金，以抵消某些政策的成本，并在贸易谈判中向其他国家施加压力。",
+      "十几个州以及包括一家教育玩具制造商和一家葡萄酒进口商在内的几家小型企业，因关税问题提起诉讼。这些企业依赖进口商品进行运营，他们在法庭文件中指出，总统的行政行为违反了宪法赋予国会的征税权。这些企业表示，关税导致他们的业务受到干扰，消费者需要支付更高的价格，同时还导致了员工人数的减少。",
+      "玩具公司的首席律师普拉蒂克·沙阿在一份声明中表示，法官们“维护了我们这一小型企业客户一直为之争取的权力分立原则：没有任何总统拥有无限制的征税权，以向美国人征税”。",
+      "美国主要贸易伙伴的反应较为冷淡。从渥太华到新德里的世界各国领导人都认识到，这一决定并不意味着总统的关税政策将就此结束。在国会山，一小部分共和党人与民主党人一起，对法院的这一裁决表示赞赏。",
+      "自2025年4月2日以来，特朗普先生将“解放日”关税政策作为手段，已征收了约2400亿美元关税收入。研究公司Capital Economics估计，如果财政部被迫退还这些税款，其成本将约为1200亿美元，相当于国内生产总值的0.5%。",
+      "但即使在法庭上争辩的过程中，总统也开始探索1977年法律之外的替代方案。特朗普的首席贸易谈判代表杰米森·格里尔上个月表示，政府将迅速用其他措施来替代那些被法院宣布无效的紧急关税。总统已经使用其他法规来设定关税，包括对某些特定商品和行业的国家安全相关关税的征收。不过，其他那些赋予总统更明确权力来征收关税的法律，其灵活性和适用范围都比紧急法令要有限得多。",
+      "特朗普先生最初对从中国、加拿大和墨西哥进口到美国的商品征收关税，称这些关税是对这些国家未能阻止芬太尼流入的惩罚。4月份，他将这些关税扩展到几乎所有贸易伙伴的进口商品，声称这些关税是解决与世界其他地区之间的贸易逆差的必要措施。",
+      "根据20世纪70年代的法律，总统有权在应对国家紧急状况时采取某些措施，以“应对任何不寻常且特殊的威胁”，从而“维护美国的国家安全、外交政策或经济”。这包括有权“监管”外国资产的“进口”。过去的总统们曾利用这一条款对其他国家实施制裁或禁运，但并未行使征税的权力。不过，政府认为，这一条款也赋予了特朗普先生征收关税的权力。",
+      "受影响的公司反驳称，“监管”一词并不包括征收关税的含义。该法规中并未出现“关税”、“税收”或“义务”等词汇。",
+      "在11月的口头辩论中，几位保守派法官严厉质疑了特朗普政府的律师关于国会是否故意将广泛的征税权授予总统的问题，而根据宪法，这些权力通常应由立法机关来行使。",
+      "在21页的裁决中，多数意见指出，值得注意的是，半个世纪以来，没有其他总统曾援引该法规来征收“任何关税——更不用说如此规模和大范围的关税了”。",
+      "法院表示，“监管”和“进口”这两个词并不能赋予总统“对任何国家、任何产品、任何时间以及任何期限内的进口商品征收关税”的权力。",
+      "首席大法官罗伯茨指出，总统在运用这项法律时违反了“重大问题原则”，该原则要求国会使用明确、直接的语言来授权行政部门采取广泛的经济措施。法院在驳回约瑟夫·R·拜登总统关于学生贷款减免计划时，也依据了同样的原理。",
+      "三位自由派法官——埃琳娜·卡甘、索尼娅·索托马约尔和凯坦吉·布朗·杰克逊——虽然同意整体判决结果，但坚持认为即使不采用这一理论，也能得出相同的结果。他们过去一直批评这一理论。",
+      "法官戈苏奇撰写了一份长篇且有力的独立意见，同意特朗普先生已经越权行事，并认为国会才是征收税收的适当机构。“是的，立法过程可能很艰难且需要时间。而且，当出现一些紧迫的问题时，绕过国会确实很诱人，”他写道。“但立法过程的审议性质正是其设计的核心所在。”",
+      "持不同意见的大法官卡瓦诺表示，根据总统在外交事务方面的权力，总统应该能够实施关税政策。他还指出，这些关税政策帮助政府谈判了价值数万亿美元的贸易协议。",
+      "尽管如此，卡瓦诺法官还提出了其他几种方式，即总统可以通过不同的联邦法律来设定相关职责。",
+      "他写道：“因此，法院的裁决不太可能大幅限制总统在关税方面的权力。但法院的裁决可能会在短期内带来其他严重的实际后果。”",
+      "在三个下级法院认定这些关税违法之后，此案被提交至最高法院审理。",
+      "8月份，美国联邦巡回上诉法院以7比4的投票结果裁定，紧急法规并未授权实施如此广泛的关税措施，但并未决定该法规是否允许特朗普先生实施更为有限的关税措施。",
+      "上诉法庭的多数成员表示：“每当国会打算将征收关税的权力授予总统时，都会明确如此规定。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "Strike Down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "裁定（法律、裁决）无效，违宪，废除",
+        "definition": "to decide that a law is illegal and should not apply",
+        "zh": "裁定（法律、裁决）无效，违宪，废除"
+      },
+      {
+        "form": "Tariffs",
+        "ipa": "/ˈtærɪf/",
+        "pos": "n.",
+        "meaning": "（政府对进出口货物征收的）关税",
+        "definition": "a tax on goods coming into a country or going out of a country",
+        "zh": "（政府对进出口货物征收的）关税"
+      },
+      {
+        "form": "sweeping",
+        "ipa": "/ˈswiːpɪŋ/",
+        "pos": "adj.",
+        "meaning": "范围广的，影响大的",
+        "definition": "affecting many things, or making an important difference to sth.",
+        "zh": "范围广的，影响大的"
+      },
+      {
+        "form": "unwind",
+        "ipa": "/ʌnˈwaɪnd/",
+        "pos": "v.",
+        "meaning": "解开，放松",
+        "definition": "to undo sth. that has been wrapped around sth. else, or to become undone after being wrapped around sth.",
+        "zh": "解开，放松"
+      },
+      {
+        "form": "hefty",
+        "ipa": "/ˈhefti/",
+        "pos": "adj.",
+        "meaning": "（数额）可观的",
+        "definition": "(of an amount of money) large; larger than usual or expected",
+        "zh": "（数额）可观的"
+      },
+      {
+        "form": "statute",
+        "ipa": "/ˈstætʃuːt/",
+        "pos": "n.",
+        "meaning": "法令，法规，成文法",
+        "definition": "a law passed by a parliament, council, etc. and formally written down",
+        "zh": "法令，法规，成文法"
+      },
+      {
+        "form": "unilaterally",
+        "ipa": "/ˌjuːnɪˈlætrəl/",
+        "pos": "adj.",
+        "meaning": "单方面的，单边的",
+        "definition": "(of an action or decision) done by or affecting only one person, group or country involved in a situation without the agreement of the others",
+        "zh": "单方面的，单边的"
+      },
+      {
+        "form": "dissented",
+        "ipa": "/dɪˈsent/",
+        "pos": "v.",
+        "meaning": "持异议，不同意",
+        "definition": "to say that you disagree with an official decision or accepted opinion",
+        "zh": "持异议，不同意"
+      },
+      {
+        "form": "ideological",
+        "ipa": "/ˌaɪdiəˈlɒdʒɪkəl/",
+        "pos": "adj.",
+        "meaning": "意识形态的，思想体系的",
+        "definition": "based on strong beliefs or ideas, especially political or economic ideas",
+        "zh": "意识形态的，思想体系的"
+      },
+      {
+        "form": "spectrum",
+        "ipa": "/ˈspektrəm/",
+        "pos": "n.",
+        "meaning": "谱系",
+        "definition": "a complete range of opinions, people, situations, etc. going from one extreme to its opposite",
+        "zh": "谱系"
+      },
+      {
+        "form": "appointees",
+        "ipa": "/əˌpɔɪnˈtiː/",
+        "pos": "n.",
+        "meaning": "被任命者，被委派者",
+        "definition": "someone appointed to a position or job",
+        "zh": "被任命者，被委派者"
+      },
+      {
+        "form": "defiant",
+        "ipa": "/dɪˈfaɪənt/",
+        "pos": "adj.",
+        "meaning": "挑衅的，违抗的，不服的",
+        "definition": "clearly refusing to do what someone tells you to do",
+        "zh": "挑衅的，违抗的，不服的"
+      },
+      {
+        "form": "trade deficit",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "贸易逆差",
+        "definition": "the amount by which the value of what a country buys from abroad is more than the value of what it sells",
+        "zh": "贸易逆差"
+      },
+      {
+        "form": "spur",
+        "ipa": "/spɜː(r)/",
+        "pos": "v.",
+        "meaning": "刺激，促进",
+        "definition": "to make an improvement or change happen faster",
+        "zh": "刺激，促进"
+      },
+      {
+        "form": "revenue",
+        "ipa": "/ˈrevənjuː/",
+        "pos": "n.",
+        "meaning": "财政收入，税收收入",
+        "definition": "money that the government receives from tax",
+        "zh": "财政收入，税收收入"
+      },
+      {
+        "form": "infringed",
+        "ipa": "/ɪnˈfrɪndʒ/",
+        "pos": "v.",
+        "meaning": "侵犯，违背",
+        "definition": "to do sth. that is against a law or sb.’s legal rights",
+        "zh": "侵犯，违背"
+      },
+      {
+        "form": "separation-of-powers",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "三权分立（原则）",
+        "definition": "the principle of the US Constitution that the political power of the government is divided between the President, Congress and the Supreme Court",
+        "zh": "三权分立（原则）"
+      },
+      {
+        "form": "levies",
+        "ipa": "/ˈlevi/",
+        "pos": "n.",
+        "meaning": "税款，征收额",
+        "definition": "an additional sum of money, usually paid as a tax",
+        "zh": "税款，征收额"
+      },
+      {
+        "form": "delegated",
+        "ipa": "/ˈdelɪɡeɪt/",
+        "pos": "v.",
+        "meaning": "授权，把……委托给",
+        "definition": "to give part of your power or work to someone in a lower position than you",
+        "zh": "授权，把……委托给"
+      },
+      {
+        "form": "doctrine",
+        "ipa": "/ˈdɒktrɪn/",
+        "pos": "n.",
+        "meaning": "原则，信条，主义",
+        "definition": "a set of beliefs that form an important part of a religion or system of ideas",
+        "zh": "原则，信条，主义"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a tax on goods coming into a country or going out of a country",
+      "(of an action or decision) done by or affecting only one person, group or country involved in a situation without the agreement of the others"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The Supreme Court ruled on Friday that President Trump exceeded his authority when he imposed sweeping tariffs on imports from nearly every U.S. trading partner, a major setback for his administration’s second-term agenda.”?",
+    "exerciseChoiceMarked": [
+      "sweeping"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The book’s first chapter provides a sweeping look at European history from the Roman Empire to the Renaissance.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "这本书的第一章对从罗马帝国到文艺复兴时期的欧洲历史进行了全面的概述。"
+      },
+      {
+        "label": "B",
+        "text": "We followed the limousine as it gracefully disappeared around the sweeping curve of the driveway.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "我们目送着那辆豪华轿车，它优雅地驶过那条蜿蜒曲折的车道。"
+      },
+      {
+        "label": "C",
+        "text": "With a sweeping gesture, the conductor brought the orchestra to a dramatic and sudden silence.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "指挥用一个大手势，让整个乐团陷入了一阵戏剧性的、突如其来的寂静之中。"
+      },
+      {
+        "label": "D",
+        "text": "The newly elected government has promised sweeping changes to education policies.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "新当选的政府承诺对教育政策进行全面的改革。"
+      }
+    ],
+    "exerciseTranslationPrompt": "美国主要贸易伙伴反应较为克制。从渥太华到新德里，各国领导人均认识到，此次裁决并不意味着总统的关税政策就此终结。",
+    "answerVocabularyList": [
+      "tariff",
+      "unilateral"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "The response from major U.S. trading partners was muted, with world leaders from Ottawa to New Delhi recognizing that the decision did not mean the end of the president’s tariffs."
+  },
+  {
+    "key": "mar0302",
+    "date": "2026.03.02",
+    "period": "2026年3月",
+    "folder": "0302 Anthropic公司CEO为什么硬刚美国DOD？",
+    "titleZh": "Anthropic公司CEO为什么硬刚美国DOD？",
+    "title": "The Real Reason Anthropic Wants Guardrails",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "By Thomas Wright, The Atlantic, Published Feb 27, 2026",
+    "paragraphs": [
+      "AI is too powerful and too new to be set free from human oversight.",
+      "On Tuesday, in a closed-door meeting, Secretary of Defense Pete Hegseth issued a blunt ultimatum to Anthropic CEO Dario Amodei: Strip the ethical guardrails from your AI models by Friday or face the full weight of the state. The terms of the threat were stark. If Anthropic does not allow the Pentagon “all lawful uses” of its Claude models, Hegseth will invoke the Defense Production Act to compel cooperation, he warned—or, even more devastatingly, designate Anthropic as a supply-chain risk. The latter would effectively blacklist Anthropic from doing business with any entity that touches the Department of Defense. “I believe deeply in the existential importance of using AI to defend the United States and other democracies.” However, Amodei continued, “in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values.” He concluded that the Pentagon’s “threats do not change our position: we cannot in good conscience accede to their request.”",
+      "This is not just an ethical dispute. It is a battle over whether to manage the national-security risks that will inevitably be associated with ever more powerful AI. Anthropic has insisted that its Claude AI model not be used for domestic surveillance or to build autonomous weapons without a human involved. The company’s statement makes clear that its only principled objection is to mass surveillance. It is not opposed to autonomous weapons per se and has already carved out exemptions for missile defense and cyberoperations. The company’s hesitation regarding autonomy is technical: Large language models are simply not yet reliable enough to operate without a human in the loop. Pushing them too far, too quickly, invites a mistake that could prove disastrous. Anthropic is asking for an exclusion on autonomous weapons not out of an ideological refusal to fight, but to allow for the research and development necessary to make such systems safe.",
+      "The truly unbridgeable divide is the one over domestic surveillance. DOD has the authority to conduct domestic surveillance in support of a civilian agency. Under an administration that invoked the Insurrection Act, or that sought to map domestic dissent, the Pentagon’s demand for “all lawful uses” of Anthropic’s models could become a skeleton key. The Pentagon’s logic relies on a traditional procurement analogy: Lockheed Martin does not tell the Air Force how to fly the F-35s it makes, so why should Anthropic tell the military how to use Claude? A democratically elected government should be free to make those choices. This sounds reasonable on its face but does not account for the uniqueness of AI. Unlike nuclear energy and the internet, both of which were born in government labs, AI was conceived and honed entirely within the private sector. It is a general-purpose technology with the potential to upend the global balance of power.",
+      "After all, if Anthropic removed all of the conditions on autonomous weapons and the models behaved in unexpected and dangerous ways, the company would certainly be held responsible. Nobody has been more outspoken about both the hazards and the potential than Amodei, who has published a series of essays over the past 18 months on the future of AI. His starting point is that an extremely powerful AI—what some people call artificial general intelligence—is near at hand. The leaders of AI companies acknowledge that they do not know what they are building. But they don’t want to stop. Some, like Amodei, worry that China will get there first, which would pose a greater threat. Others believe the benefits outweigh the risks. But most want more time so that society and government can properly adjust and regulate AI where needed. Some have suggested slowing China down with export controls to buy more time, but the administration has rejected that logic.",
+      "The message Hegseth is sending to Silicon Valley is that if a company partners with the Pentagon and makes a wrong turn, the administration will effectively nationalize it or designate it as a supply-chain risk and burn it down. Hegseth’s ultimatum rests on a simple premise: that the government, not private companies, should decide how it uses powerful technologies. In most cases, that principle is sound. But here it obscures two deeper problems. It minimizes the risks to domestic liberties, and it assumes a level of understanding that does not yet exist. The engineers building these systems acknowledge that they do not fully understand them, and that the models behave in ways that can be difficult to predict or control. Demanding unconditional access before those systems are ready is not an assertion of authority. It is a wager that the unknowns will not matter."
+    ],
+    "paragraphTranslations": [
+      "人工智能过于强大且尚处于初级阶段，无法脱离人类的监管而自由运行。",
+      "在周二的一次闭门会议上，国防部长皮特·赫格塞斯向Anthropic公司的首席执行官达里奥·阿莫德伊发出了一个直截了当的最后通牒：必须在周五之前消除其人工智能模型中的伦理约束机制，否则将面临国家的全力制裁。这一威胁措辞非常严厉。如果Anthropic不允许五角大楼“合法使用”其Claude模型，赫格塞斯将援引《国防生产法》来强制其配合——或者，更致命的是，将Anthropic列为供应链风险企业。后者将直接导致Anthropic无法与任何涉及国防部门的实体开展业务合作。“我坚信利用人工智能来保卫美国和其他民主国家具有至关重要的意义。”然而，阿莫德伊继续说道：“在极少数情况下，我们认为人工智能可能会破坏而非促进民主价值观。”他总结说，五角大楼的“威胁并不能改变我们的立场：我们无论如何都无法心安理得地接受他们的要求。”",
+      "这不仅仅是一个伦理问题。这实际上是一场关于是否要管理那些必然会与越来越强大的人工智能技术相关联的国家安全风险的争论。Anthropic公司坚持认为，其Claude人工智能模型不应被用于国内监控或制造无需人类参与的自主武器。该公司的声明明确指出，他们唯一的原则性反对意见仅针对大规模监控行为。他们并不反对自主武器本身，并且已经为导弹防御和网络行动制定了例外情况。该公司对自主技术的犹豫源于技术方面的原因：大型语言模型目前还不足以可靠地运行，无法在没有人类干预的情况下正常运行。如果过于急躁地推进这一技术，可能会导致灾难性的错误。Anthropic公司要求将自主武器排除在外，并非出于意识形态上的反对，而是为了允许进行必要的研究和发展，以确保这些系统的安全性。",
+      "真正无法跨越的鸿沟，就是关于国内监控的问题。国防部有权进行国内监控，以支持民政机构的工作。在那些援引《叛乱法》或试图镇压国内异议的政府领导下，五角大楼对“所有合法用途”的要求，实际上可能只是表面上的要求而已。五角大楼的逻辑依赖于传统的采购类比：洛克希德·马丁公司不会告诉空军如何操作他们制造的F-35战斗机，那么为什么人工智能公司应该告诉军方如何使用“克劳德”模型呢？一个由民主选举产生的政府应该有权做出这些选择。这听起来似乎合理，但并没有考虑到人工智能的独特性。与核能和互联网不同，人工智能是在政府实验室之外，由私营部门完全研发出来的。它是一种具有颠覆全球权力平衡潜力的通用技术。",
+      "毕竟，如果Anthropic完全消除了所有与自主武器相关的限制条件，而模型的表现又变得异常危险，那么该公司肯定需要承担责任。在公开讨论这些风险与潜在危害方面，没有人比Amodei更直言不讳了。在过去18个月里，他发表了一系列关于人工智能未来的文章。他的出发点是：一种极其强大的人工智能——有些人称之为“人工通用智能”——已经近在咫尺。人工智能领域的领导者们承认，他们并不清楚自己正在构建的是什么。但他们并不想停止探索。像Amodei这样的人担心，中国可能会先取得突破，从而带来更大的威胁。另一些人则认为，潜在的好处大于风险。不过大多数人希望有更多的时间，以便社会和政府能够在必要时对人工智能进行适当的调整与监管。有人建议通过出口控制来限制中国的发展，以争取更多时间，但政府已经拒绝了这一逻辑。",
+      "赫格塞斯向硅谷传达的信息是：如果某公司与五角大楼合作后做出错误决策，政府将实际上将其国有化，或者将其列为供应链风险并予以清算。赫格塞斯的这一要求基于一个简单的前提：应该由政府而非私营公司来决定如何使用这些强大的技术。在大多数情况下，这一原则是合理的。但在这个问题中，这一原则却忽略了两个更深层次的问题。它低估了对国内自由的限制，并且它所依赖的理解程度目前还无法实现。那些设计这些系统的工程师都明白，他们并不完全理解这些系统的工作原理，而且这些系统的行为方式也难以预测或控制。在系统尚未准备好之前就要求无条件使用这些系统，并不是对权力的滥用。这更像是一种赌注，赌注在于那些未知因素其实并不重要。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Guardrails",
+        "ipa": "/ˈɡɑːdreɪl/",
+        "pos": "n.",
+        "meaning": "护栏；扶栏",
+        "definition": "A guardrail is a railing that is placed along the edge of something such as a staircase, path, or boat, so that people can",
+        "zh": "护栏；扶栏"
+      },
+      {
+        "form": "blunt",
+        "ipa": "/blʌnt/",
+        "pos": "adj.",
+        "meaning": "直率的；生硬的；直截了当的",
+        "definition": "saying what you think without trying to be polite or considering other people’s feelings",
+        "zh": "直率的；生硬的；直截了当的"
+      },
+      {
+        "form": "ultimatum",
+        "ipa": "/ˌʌltɪˈmeɪtəm/",
+        "pos": "n.",
+        "meaning": "最后通牒",
+        "definition": "a final warning to a person or country that if they do not do what you ask, you will use force or take action against them",
+        "zh": "最后通牒"
+      },
+      {
+        "form": "Strip",
+        "ipa": "/strɪp/",
+        "pos": "v.",
+        "meaning": "除去，剥去（一层）；（尤指）剥光",
+        "definition": "to remove a layer from something, especially so that it is completely exposed",
+        "zh": "除去，剥去（一层）；（尤指）剥光"
+      },
+      {
+        "form": "stark",
+        "ipa": "/stɑːk/",
+        "pos": "adj.",
+        "meaning": "严酷的；赤裸裸的；真实而无法回避的",
+        "definition": "unpleasant; real, and impossible to avoid",
+        "zh": "严酷的；赤裸裸的；真实而无法回避的"
+      },
+      {
+        "form": "invoke",
+        "ipa": "/ɪnˈvəʊk/",
+        "pos": "v.",
+        "meaning": "援引，借助（法律）",
+        "definition": "to use a law in order to achieve something, or to mention something in order to explain something or to support your opinion or action",
+        "zh": "援引，借助（法律）"
+      },
+      {
+        "form": "devastatingly",
+        "ipa": "/ˈdevəsteɪtɪŋli/",
+        "pos": "adv.",
+        "meaning": "毁灭性地",
+        "definition": "in a way that causes a lot of damage or destruction",
+        "zh": "毁灭性地"
+      },
+      {
+        "form": "designate",
+        "ipa": "/ˈdezɪɡneɪt/",
+        "pos": "v.",
+        "meaning": "指定，划定（特征、用途）",
+        "definition": "to say officially that a place or thing has a particular character or purpose",
+        "zh": "指定，划定（特征、用途）"
+      },
+      {
+        "form": "blacklist",
+        "ipa": "/ˈblæklɪst/",
+        "pos": "v.",
+        "meaning": "将…列入黑名单",
+        "definition": "to put the name of a person, a company, a product or a country on a blacklist",
+        "zh": "将…列入黑名单"
+      },
+      {
+        "form": "accede",
+        "ipa": "/əkˈsiːd/",
+        "pos": "v.",
+        "meaning": "同意，应允",
+        "definition": "to agree to do what people have asked you to do",
+        "zh": "同意，应允"
+      },
+      {
+        "form": "surveillance",
+        "ipa": "/sɜːˈveɪləns/",
+        "pos": "n.",
+        "meaning": "（对犯罪嫌疑人或可能发生犯罪的地方的）监视",
+        "definition": "the act of carefully watching a person suspected of a crime or a place where a crime may be committed",
+        "zh": "（对犯罪嫌疑人或可能发生犯罪的地方的）监视"
+      },
+      {
+        "form": "exemptions",
+        "ipa": "/ɪɡˈzempʃn/",
+        "pos": "n.",
+        "meaning": "免除；豁免",
+        "definition": "official permission not to do something or pay something that you would normally have to do or pay",
+        "zh": "免除；豁免"
+      },
+      {
+        "form": "exclusion",
+        "ipa": "/ɪkˈskluːʒn/",
+        "pos": "n.",
+        "meaning": "（合约中）不包括的事物",
+        "definition": "something that is excluded from a contract",
+        "zh": "（合约中）不包括的事物"
+      },
+      {
+        "form": "unbridgeable",
+        "ipa": "/ʌnˈbrɪdʒəbl/",
+        "pos": "adj.",
+        "meaning": "（分歧、意见等）无法弥合的；无法沟通的",
+        "definition": "an unbridgeable gap or difference between two people or groups or their opinions is one that cannot be closed or made less wide",
+        "zh": "（分歧、意见等）无法弥合的；无法沟通的"
+      },
+      {
+        "form": "dissent",
+        "ipa": "/dɪˈsent/",
+        "pos": "n.",
+        "meaning": "（与官方的）不同意见，异议",
+        "definition": "the fact of having or expressing opinions that are different from those that are officially accepted",
+        "zh": "（与官方的）不同意见，异议"
+      },
+      {
+        "form": "skeleton key",
+        "ipa": "/ˈskelɪtn kiː/",
+        "pos": "n.",
+        "meaning": "万能钥匙",
+        "definition": "a key that will open several different locks",
+        "zh": "万能钥匙"
+      },
+      {
+        "form": "analogy",
+        "ipa": "/əˈnælədʒi/",
+        "pos": "n.",
+        "meaning": "类比；比拟；相似之处",
+        "definition": "a comparison of one thing with another thing that has similar features; a feature that is similar",
+        "zh": "类比；比拟；相似之处"
+      },
+      {
+        "form": "on its face",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "初看；初听；表面",
+        "definition": "the way something appears when it is first seen or thought about",
+        "zh": "初看；初听；表面"
+      },
+      {
+        "form": "honed",
+        "ipa": "/həʊn/",
+        "pos": "v.",
+        "meaning": "磨炼，磨砺；训练",
+        "definition": "to make something perfect or completely suitable for its purpose",
+        "zh": "磨炼，磨砺；训练"
+      },
+      {
+        "form": "upend",
+        "ipa": "/ʌpˈend/",
+        "pos": "v.",
+        "meaning": "翻倒；倒放；使颠倒",
+        "definition": "to turn somebody / something the wrong way up or onto one end",
+        "zh": "翻倒；倒放；使颠倒"
+      },
+      {
+        "form": "outspoken",
+        "ipa": "/aʊtˈspəʊkən/",
+        "pos": "adj.",
+        "meaning": "直率的，直言不讳的（不怕得罪人）",
+        "definition": "saying exactly what you think, even if this shocks or offends people",
+        "zh": "直率的，直言不讳的（不怕得罪人）"
+      },
+      {
+        "form": "outweigh",
+        "ipa": "/ˌaʊtˈweɪ/",
+        "pos": "v.",
+        "meaning": "重于；大于；超过",
+        "definition": "to be greater or more important than something",
+        "zh": "重于；大于；超过"
+      },
+      {
+        "form": "nationalize",
+        "ipa": "/ˈnæʃnəlaɪz/",
+        "pos": "v.",
+        "meaning": "将…国有化",
+        "definition": "to put an industry or a company under the control of the government, which becomes its owner",
+        "zh": "将…国有化"
+      },
+      {
+        "form": "obscures",
+        "ipa": "/əbˈskjʊə(r)/",
+        "pos": "v.",
+        "meaning": "使模糊；使隐晦；使费解",
+        "definition": "to make it difficult to see, hear or understand something",
+        "zh": "使模糊；使隐晦；使费解"
+      },
+      {
+        "form": "assertion",
+        "ipa": "/əˈsɜːʃn/",
+        "pos": "n.",
+        "meaning": "断言；明确肯定",
+        "definition": "a statement that you strongly believe is true",
+        "zh": "断言；明确肯定"
+      },
+      {
+        "form": "wager",
+        "ipa": "/ˈweɪdʒə(r)/",
+        "pos": "n.",
+        "meaning": "打赌",
+        "definition": "an arrangement to risk money on the result of a particular event",
+        "zh": "打赌"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to use a law in order to achieve something, or to mention something in order to explain something or to support your opinion or action",
+      "to make something perfect or completely suitable for its purpose"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “The terms of the threat were stark.”",
+    "exerciseChoiceMarked": [
+      "stark"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The hills stood out in stark silhouette against the sky.",
+        "marked": [
+          "stark"
+        ],
+        "zh": "山丘在天空中显得格外醒目。"
+      },
+      {
+        "label": "B",
+        "text": "The company faces a stark choice between a takeover or slowly going bankrupt.",
+        "marked": [
+          "stark"
+        ],
+        "zh": "公司面临着一个艰难的选择：要么被收购，要么逐渐走向破产。"
+      },
+      {
+        "label": "C",
+        "text": "The room was stark and institutional, with no ornaments or photos.",
+        "marked": [
+          "stark"
+        ],
+        "zh": "房间显得非常简洁、缺乏装饰，没有任何装饰品或照片。"
+      },
+      {
+        "label": "D",
+        "text": "He was driving the car in stark contrast to his usual cautious style.",
+        "marked": [
+          "stark"
+        ],
+        "zh": "他驾驶汽车的举止与平时那种谨慎的风格截然不同。"
+      }
+    ],
+    "exerciseTranslationPrompt": "在系统尚未成熟之际要求无条件接入，并非理性行使权威，而是在赌那些未知因素不会造成严重后果。",
+    "answerVocabularyList": [
+      "invoke",
+      "hone"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Demanding unconditional access before those systems are ready is not an assertion of authority. It is a wager that the unknowns will not matter."
+  },
+  {
+    "key": "mar0303",
+    "date": "2026.03.03",
+    "period": "2026年3月",
+    "folder": "0303 Gartner预言：26年AI重塑职场的9个新趋势1",
+    "titleZh": "Gartner预言：26年AI重塑职场的9个新趋势1",
+    "title": "9 Trends Shaping Work in 2026 and Beyond",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "By Peter Aykens, Kaelyn Lowmaster, Emily Rose McRae and Jonah Shepp, Harvard Business Review, Published February 2, 2026",
+    "paragraphs": [
+      "CEO expectations for AI-driven growth remain high in 2026—at the same time their workforces are grappling with the more sober reality of current AI performance. Gartner research finds that only one in 50 AI investments deliver transformational value, and only one in five delivers any measurable return on investment.",
+      "In 2026, executive teams will have to navigate this difficult tension: delivering on today’s growth targets while nurturing a workforce capable of driving future value amid AI transformation.",
+      "To help leaders prepare for the unexpected— or underappreciated—risks that organizations may encounter in 2026, Gartner offers the following nine predictions.",
+      "1. AI layoffs outpace AI productivity gains.",
+      "In 2025, we witnessed large, high-profile layoffs attributed— directly or indirectly—to AI. But in reality, people aren’t actually losing their jobs to better-performing AI, at least not yet. Gartner analysis finds that less than 1% of layoffs in the first half of 2025 were the result of AI increasing employees’ productivity. Instead, many of these CEOs are making workforce decisions in anticipation of AI returns that may never come. They’re embracing anticipated efficiency gains, assuming that a shrinking human workforce indicates, or even helps foster, innovation and productivity.",
+      "In 2026, these organizations must navigate the painful choices that come with reducing headcount, which will be even more difficult without proven AI-driven productivity gains. If the pace of AI productivity lags behind the work organizations need to get done now, they will have to rehire talent they prematurely laid off, often at greater cost, to meet their targets.",
+      "As organizations navigate this messy middle between the onset of the AI era and the technology reaching a level of maturity where it can deliver on its promise, HR will be responsible for ensuring that the workforce’s size, structure, and skills are able to support the organization’s current core priorities without sacrificing its ability to achieve an AI-infused business model.",
+      "2. Culture dissonance holds organizations back from performance goals.",
+      "In 2025, a few organizations grabbed headlines by publicly embracing a more hard-edged culture characterized by longer hours, more aggressive performance management, and reduced employee flexibility.",
+      "But while it’s true that CEOs are seeking a culture that “performs,” in an AI-driven world, these large shifts are the exception, not the rule. Instead, most organizations are more subtly but consistently expecting more from employees without offering more in return. And employees are noticing.",
+      "This top-down performance pressure is leading to profound cultural dissonance in which many organizations’ stated culture no longer reflects the realities of employers’ everyday experience.",
+      "This cultural dissonance has real consequences, even in an employer-friendly labor market, including lower performance, declining engagement, and degraded employer brand, all of which can make it harder to deliver on the CEO’s performance goals.",
+      "In 2026, the most successful organizations will be forthright, both internally and externally, about the reality of their culture and what they expect from employees (e.g. hours, output, and location). Culture can, and should, evolve to meet the realities of the current work environment, but employees must know what they’re signing up for.",
+      "3. AI takes a toll on employees’ mental fitness.",
+      "Organizations are dedicating enormous effort into determining how work will change because of AI, but they’re devoting far less energy into understanding how people themselves will change. Gen AI adoption in organizations has reached near ubiquity. At the same time, the evidence is mounting of emotional and cognitive damage that can result from prolonged gen AI use, from cognitive atrophy to AI psychosis.",
+      "In 2026, AI’s impact on employees’ mental fitness—their emotional, psychological, and cognitive well-being will become an urgent problem in the workplace. This is something organizations are currently largely ignoring: A recent Gartner survey found that 91% of CIOs and IT leaders said their organizations dedicate little to no time scanning for behavioral byproducts of AI use. This gap will lead to well-being, performance, and productivity costs.",
+      "Companies will also be vulnerable to legal actions that are not currently included in most risk assessments—for example, a lawsuit from a grieving family after AI encourages an employee towards destructive behavior, or an employee contesting their dismissal for inappropriate behavior after they followed guidance from an organization-provided tool. In cases like these, organizations will be asked to face questions of who is responsible for the actions employees take after using employer-provided AI tools.",
+      "As AI becomes even more deeply embedded in daily workflows, the most successful organizations will work to mitigate the psychological and cognitive risks of sustained AI use before these costs undermine both employee well-being and organizational performance.",
+      "4. AI workslop becomes a top productivity drain.",
+      "In pursuit of ever greater levels of employee productivity, organizations are encouraging—and, in some cases, mandating —the use of AI tools. Unfortunately, in doing so, these same organizations have inadvertently incentivized the proliferation of “workslop,” or quickly-produced but low-quality work generated by or with AI that is riddled with errors and adds minimal or negative value.",
+      "Workslop is causing significant pain: In one study, employees reported spending an average of nearly two hours dealing with each case of workslop they encounter. This is a key reason why many organizations continue to struggle to realize any financial value from their AI investments.",
+      "Throughout 2026, ever-growing pressure to use AI will combine with rising expectations for individual employee efficiency, leading to even more workslop. Employers who have invested heavily in AI but have not prioritized investing in AI change management will find that their employees are using AI more when told to and producing more output, but that output is low quality or inaccurate.",
+      "In contrast, organizations that focus their AI investments toward substantively addressing employees’ biggest pain points will see lower rates of adoption than those that mandate employee AI use, but higher-quality work and higher financial returns from their AI investments."
+    ],
+    "paragraphTranslations": [
+      "在2026年，CEO们对于由人工智能推动的增长的期望仍然很高——与此同时，他们的员工们则正在面对当前人工智能技术性能的实际情况，这些现实情况相当严峻。Gartner的研究表明，只有五分之一的人工智能投资能够带来真正的变革性价值，而只有五分之一的投资能够带来可衡量的投资回报。",
+      "在2026年，各执行团队必须应对这一复杂的矛盾：在实现当前的增长目标的同时，培养一支能够在人工智能转型过程中创造未来价值的员工队伍。",
+      "为了帮助领导者们为2026年组织可能遇到的、难以预料或容易被忽视的风险做好准备，Gartner提出了以下九个预测。",
+      "1. 人工智能相关岗位的裁员速度，快于人工智能相关工作的生产效率提升速度。",
+      "在2025年，我们目睹了多起涉及大量员工的裁员事件，这些裁员事件或多或少都与人工智能有关。但实际上，人们并不会因为人工智能的发展而失去工作，至少目前是这样。Gartner的分析表明，在2025年上半年发生的裁员中，只有不到1%是由于人工智能提高了员工的工作效率所导致的。相反，许多CEO在做出劳动力管理决策时，都是预期着人工智能的回归，而这一回归可能永远都不会到来。他们期待着效率的提升，认为减少人力需求反而有助于促进创新和效率的提高。",
+      "在2026年，这些组织必须面对减少员工数量的痛苦抉择。如果没有得到经过验证的、由人工智能推动的生产力提升，情况将会更加困难。如果人工智能带来的生产力提升速度无法跟上组织当前需要完成的工作量，那么这些组织就不得不重新雇用那些被提前解雇的员工，而这一过程往往成本更高，以达成他们的目标。",
+      "随着组织在人工智能时代的到来以及该技术达到能够发挥作用的成熟阶段之间，经历着这种复杂的变化过程，人力资源部门将负责确保员工的数量、结构以及技能配置能够支持组织的当前核心目标，同时不牺牲实现人工智能驱动商业模式的能力。",
+      "2. 文化上的冲突会阻碍组织实现绩效目标。",
+      "2025年，一些组织因公开推行一种更为严格的工作文化而成为焦点，这种文化以更长的工作时间、更严格的管理方式以及降低员工的灵活性为特点。",
+      "虽然确实，首席执行官们追求的是一种能够“高效运作”的文化环境，但在由人工智能主导的世界中，这些重大的变革只是例外，而非常态。相反，大多数组织更微妙但同样坚持要求员工付出更多，而却没有给予相应的回报。而员工们也注意到了这一点。",
+      "这种自上而下的绩效压力导致了严重的文化冲突，许多组织的官方文化已无法反映雇主们日常的实际体验。",
+      "这种文化上的不协调会带来真正的后果，即使在那些对雇主较为友好的劳动力市场中也是如此。这包括绩效下降、员工参与度降低，以及雇主品牌受损等问题，所有这些因素都会使得实现首席执行官的业绩目标变得更加困难。",
+      "在2026年，最成功的组织将能够清晰、明确地向内部和外部传达其文化的特点，以及他们对员工的期望（例如工作时长、工作成果和工作地点）。文化可以也应该随着当前工作环境的实际情况而发展，但员工必须清楚自己签约加入的是什么样的组织。",
+      "3. 人工智能对员工的心理健康造成了影响。",
+      "各组织都在投入巨大精力来研究人工智能将如何改变工作方式，但他们却很少花精力去了解人类自身将如何发生变化。人工智能在组织中的应用已经几乎无处不在。与此同时，越来越多的证据表明，长期使用人工智能可能会带来情感和认知上的损害，包括认知萎缩以及人工智能相关的精神健康问题。",
+      "在2026年，人工智能对员工心理健康的冲击——包括他们的情绪、心理和认知状态——将成为工作场所中的一个紧迫问题。这是目前许多组织都忽视的一个问题：最近一项Gartner的调查显示，91%的IT主管和IT领导表示，他们的组织几乎不花时间去关注人工智能使用所带来的行为影响。这种忽视会导致员工的健康、绩效和生产力方面的损失。",
+      "企业还可能面临一些目前大多数风险评估中并未包含的法律诉讼——例如，当人工智能促使员工采取破坏性行为时，遭遇悲痛的家庭的诉讼；或者，当员工因违反组织提供的工具指南而遭到解雇时，他们可能会对此提出质疑。在这些案例中，企业将被问到，在使用雇主提供的AI工具后，员工的行为责任应由谁承担。",
+      "随着人工智能在日常工作流程中的应用越来越深入，最成功的组织会在持续使用人工智能所带来的心理和认知风险影响员工健康和组织绩效之前，采取相应措施加以缓解。",
+      "4. AI工作成为生产力提升的最大阻碍。",
+      "为了提升员工的生产力，许多组织鼓励——在某些情况下甚至强制——使用人工智能工具。不幸的是，在这样做的过程中，这些组织无意中助长了“速成作品”的泛滥，即那些由人工智能快速生成但质量低下的作品。这类作品往往存在大量错误，并且几乎无法或只能带来负面的价值。",
+      "工作相关的疼痛非常严重：在一项研究中，员工们报告说，他们平均需要花费近两个小时来处理每一个与工作相关的问题。这正是许多组织难以从人工智能投资中获得实际收益的关键原因。",
+      "在2026年全年，对使用人工智能的压力将持续增加，同时员工对工作效率的期望也会更高，从而导致工作量的进一步增加。那些在人工智能领域投入了大量资金，但并未重视相关管理工作的企业会发现，当员工被要求使用人工智能时，他们确实会更多地使用人工智能技术，但产生的成果质量较低或准确性不足。",
+      "相比之下，那些将人工智能投资重点放在解决员工最关心的问题上的组织，其采用人工智能的比例会低于那些强制要求员工使用人工智能的组织。不过，后者的人工智能投资所带来的工作质量更高，经济效益也更好。"
+    ],
+    "vocabulary": [
+      {
+        "form": "grappling",
+        "ipa": "/ˈɡræpl/",
+        "pos": "v.",
+        "meaning": "努力设法解决，尽力应对（难题）",
+        "definition": "to try hard to find a solution to a problem",
+        "zh": "努力设法解决，尽力应对（难题）"
+      },
+      {
+        "form": "sober",
+        "ipa": "/ˈsəʊbə(r)/",
+        "pos": "adj.",
+        "meaning": "（人或行为）严肃的，冷静理智的，审慎的",
+        "definition": "(of people and their behaviour) serious and sensible",
+        "zh": "（人或行为）严肃的，冷静理智的，审慎的"
+      },
+      {
+        "form": "deliver",
+        "ipa": "/dɪˈlɪvə(r)/",
+        "pos": "v.",
+        "meaning": "履行，兑现，实现",
+        "definition": "to do what you promised to do or what you are expected to do; to produce or provide what people expect you to",
+        "zh": "履行，兑现，实现"
+      },
+      {
+        "form": "navigate",
+        "ipa": "/ˈnævɪɡeɪt/",
+        "pos": "v.",
+        "meaning": "正确应对，妥善处理，驾驭（困难或复杂局面）",
+        "definition": "to find the right way to deal with a difficult or complicated situation",
+        "zh": "正确应对，妥善处理，驾驭（困难或复杂局面）"
+      },
+      {
+        "form": "nurturing",
+        "ipa": "/ˈnɜːtʃə(r)/",
+        "pos": "v.",
+        "meaning": "培养，培育，促进……发展",
+        "definition": "(formal) to help sb./sth. to develop and be successful",
+        "zh": "培养，培育，促进……发展"
+      },
+      {
+        "form": "underappreciated",
+        "ipa": "/ˌʌndərəˈpriːʃieɪtɪd/",
+        "pos": "adj.",
+        "meaning": "未被充分重视的，未得到足够赏识的",
+        "definition": "not valued or appreciated highly enough",
+        "zh": "未被充分重视的，未得到足够赏识的"
+      },
+      {
+        "form": "layoffs",
+        "ipa": "/ˈleɪɒf/",
+        "pos": "n.",
+        "meaning": "解雇",
+        "definition": "When there are layoffs in a company, people become unemployed because there is no more work for them in the company.",
+        "zh": "解雇"
+      },
+      {
+        "form": "outpace",
+        "ipa": "/ˌaʊtˈpeɪs/",
+        "pos": "v.",
+        "meaning": "超过，比……更快，增长速度高于",
+        "definition": "to go, rise, improve, etc. faster than sb./sth.",
+        "zh": "超过，比……更快，增长速度高于"
+      },
+      {
+        "form": "headcount",
+        "ipa": "/ˈhedkaʊnt/",
+        "pos": "n.",
+        "meaning": "清点人数",
+        "definition": "an act of counting the number of people who are at an event, employed by an organization, etc.; the number of people that have been counted in this way",
+        "zh": "清点人数"
+      },
+      {
+        "form": "lags behind",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "落后，跟不上，进展缓慢",
+        "definition": "to move or develop slowly or more slowly than other people, organizations, etc.",
+        "zh": "落后，跟不上，进展缓慢"
+      },
+      {
+        "form": "prematurely",
+        "ipa": "/ˌpreməˈtʃʊəli/",
+        "pos": "adv.",
+        "meaning": "过早地，提前地",
+        "definition": "before the normal or expected time",
+        "zh": "过早地，提前地"
+      },
+      {
+        "form": "onset",
+        "ipa": "/ˈɒnset/",
+        "pos": "n.",
+        "meaning": "（尤指不快之事的）开始，开端，发作",
+        "definition": "the beginning of sth., especially sth. unpleasant",
+        "zh": "（尤指不快之事的）开始，开端，发作"
+      },
+      {
+        "form": "sacrificing",
+        "ipa": "/ˈsækrɪfaɪs/",
+        "pos": "v.",
+        "meaning": "牺牲，舍弃，献出",
+        "definition": "to give up sth. that is important or valuable to you in order to get or do sth. that seems more important for yourself or for another person",
+        "zh": "牺牲，舍弃，献出"
+      },
+      {
+        "form": "AI-infused",
+        "ipa": "/ɪnˈfjuːz/",
+        "pos": "v.",
+        "meaning": "注入，使充满，灌输",
+        "definition": "(formal) to make sb./sth. have a particular quality",
+        "zh": "注入，使充满，灌输"
+      },
+      {
+        "form": "dissonance",
+        "ipa": "/ˈdɪsənəns/",
+        "pos": "n.",
+        "meaning": "不一致，不协调，不和谐",
+        "definition": "(formal) lack of agreement",
+        "zh": "不一致，不协调，不和谐"
+      },
+      {
+        "form": "holds organizations back",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "阻碍，阻止，妨碍……的发展",
+        "definition": "to prevent the progress or development of sb./sth.",
+        "zh": "阻碍，阻止，妨碍……的发展"
+      },
+      {
+        "form": "grabbed headlines",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "（在报纸、电视等媒体上）引起广泛关注，成为头条新闻",
+        "definition": "to get a lot of attention in newspapers, on TV, etc.",
+        "zh": "（在报纸、电视等媒体上）引起广泛关注，成为头条新闻"
+      },
+      {
+        "form": "hard-edged",
+        "ipa": "/ˌhɑːd ˈedʒd/",
+        "pos": "adj.",
+        "meaning": "棱角分明的，冷峻写实的，不加粉饰的",
+        "definition": "powerful, true to life and not affected by emotion",
+        "zh": "棱角分明的，冷峻写实的，不加粉饰的"
+      },
+      {
+        "form": "top-down",
+        "ipa": "/ˌtɒp ˈdaʊn/",
+        "pos": "adj.",
+        "meaning": "自上而下的，由高层主导的",
+        "definition": "starting from or involving the people who have higher positions in an organization",
+        "zh": "自上而下的，由高层主导的"
+      },
+      {
+        "form": "forthright",
+        "ipa": "/ˈfɔːθraɪt/",
+        "pos": "adj.",
+        "meaning": "直率的，坦诚的，直截了当的",
+        "definition": "direct and honest in manner and speech",
+        "zh": "直率的，坦诚的，直截了当的"
+      },
+      {
+        "form": "signing up for",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "报名，注册，签约加入",
+        "definition": "to sign a form or contract which says that you agree to do a job or become a soldier; to persuade sb. to sign a form or contract like this",
+        "zh": "报名，注册，签约加入"
+      },
+      {
+        "form": "takes a toll on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "对……产生坏影响，损害，使…… 付出代价",
+        "definition": "to have a bad effect on sth.; to harm sth.",
+        "zh": "对……产生坏影响，损害，使…… 付出代价"
+      },
+      {
+        "form": "ubiquity",
+        "ipa": "/juːˈbɪkwəti/",
+        "pos": "n.",
+        "meaning": "普遍存在，无处不在，随处可见",
+        "definition": "(formal or humorous) the fact that sth. seems to be everywhere or in several places at the same time; the fact that sth. is very common",
+        "zh": "普遍存在，无处不在，随处可见"
+      },
+      {
+        "form": "mounting",
+        "ipa": "/ˈmaʊntɪŋ/",
+        "pos": "adj.",
+        "meaning": "越来越多的，不断增加的，日益加剧的",
+        "definition": "increasing, often in a manner that causes or expresses worry",
+        "zh": "越来越多的，不断增加的，日益加剧的"
+      },
+      {
+        "form": "prolonged",
+        "ipa": "/prəˈlɒŋd/",
+        "pos": "adj.",
+        "meaning": "长期的，持久的，延长的",
+        "definition": "continuing for a long time",
+        "zh": "长期的，持久的，延长的"
+      },
+      {
+        "form": "atrophy",
+        "ipa": "/ˈætrəfi/",
+        "pos": "n.",
+        "meaning": "萎缩",
+        "definition": "(medical) the condition of losing fat, muscle, strength, etc. in a part of the body because it does not have enough blood",
+        "zh": "萎缩"
+      },
+      {
+        "form": "psychosis",
+        "ipa": "/saɪˈkəʊsɪs/",
+        "pos": "n.",
+        "meaning": "精神错乱，精神失常",
+        "definition": "a serious mental health condition in which sb. sees or hears things that are not there, or believes things that are not true",
+        "zh": "精神错乱，精神失常"
+      },
+      {
+        "form": "grieving",
+        "ipa": "/ɡriːv/",
+        "pos": "v.",
+        "meaning": "感到悲痛，使悲伤，哀悼",
+        "definition": "(formal) to make you feel very sad",
+        "zh": "感到悲痛，使悲伤，哀悼"
+      },
+      {
+        "form": "contesting",
+        "ipa": "/kənˈtest/",
+        "pos": "v.",
+        "meaning": "对……提出异议，争辩，质疑",
+        "definition": "to formally oppose a decision or statement because you think it is wrong",
+        "zh": "对……提出异议，争辩，质疑"
+      },
+      {
+        "form": "dismissal",
+        "ipa": "/dɪsˈmɪsl/",
+        "pos": "n.",
+        "meaning": "解雇，开除，免职",
+        "definition": "the act of sending sb. away or allowing them to leave",
+        "zh": "解雇，开除，免职"
+      },
+      {
+        "form": "embedded",
+        "ipa": "/ɪmˈbed/",
+        "pos": "v.",
+        "meaning": "把……牢牢嵌入，使扎根于",
+        "definition": "to fix sth. in a substance or solid object",
+        "zh": "把……牢牢嵌入，使扎根于"
+      },
+      {
+        "form": "drain",
+        "ipa": "/dreɪn/",
+        "pos": "n.",
+        "meaning": "消耗，负担，耗费",
+        "definition": "a thing that uses a lot of the time, money, etc. that could be used for sth. else",
+        "zh": "消耗，负担，耗费"
+      },
+      {
+        "form": "inadvertently",
+        "ipa": "/ˌɪnədˈvɜːtntli/",
+        "pos": "adv.",
+        "meaning": "无意地，不小心地，非故意地",
+        "definition": "by accident; without intending to",
+        "zh": "无意地，不小心地，非故意地"
+      },
+      {
+        "form": "incentivized",
+        "ipa": "/ɪnˈsentɪvaɪz/",
+        "pos": "v.",
+        "meaning": "激励，鼓励，以奖励方式促使",
+        "definition": "to encourage sb. to behave in a particular way by offering them a reward",
+        "zh": "激励，鼓励，以奖励方式促使"
+      },
+      {
+        "form": "proliferation",
+        "ipa": "/prəˌlɪfəˈreɪʃn/",
+        "pos": "n.",
+        "meaning": "激增，大量涌现，扩散",
+        "definition": "the sudden increase in the number or amount of sth.; a large number of a particular thing",
+        "zh": "激增，大量涌现，扩散"
+      },
+      {
+        "form": "riddled",
+        "ipa": "/ˈrɪdl/",
+        "pos": "v.",
+        "meaning": "使……布满……（子弹、孔洞等）",
+        "definition": "to make a lot of holes in sb./sth.",
+        "zh": "使……布满……（子弹、孔洞等）"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the fact that sth. seems to be everywhere or in several places at the same time; the fact that sth. is very common",
+      "by accident; without intending to"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Gartner research finds that only one in 50 AI investments deliver transformational value, and only one in five delivers any measurable return on investment.”?",
+    "exerciseChoiceMarked": [
+      "deliver",
+      "delivers"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She will deliver a major speech on foreign policy tomorrow.",
+        "marked": [
+          "deliver"
+        ],
+        "zh": "她明天将发表一篇关于外交政策的重要讲话。"
+      },
+      {
+        "label": "B",
+        "text": "Online training sessions are delivered directly to your desktop.",
+        "marked": [
+          "delivered"
+        ],
+        "zh": "在线培训课程会直接发送到您的电脑上。"
+      },
+      {
+        "label": "C",
+        "text": "The number of women delivering their babies in hospital increased.",
+        "marked": [
+          "delivering"
+        ],
+        "zh": "在医院分娩的女性人数有所增加。"
+      },
+      {
+        "label": "D",
+        "text": "Successive administrations have failed to deliver adequate funding for education.",
+        "marked": [
+          "deliver"
+        ],
+        "zh": "历届政府都未能为教育提供充足的资金支持。"
+      }
+    ],
+    "exerciseTranslationPrompt": "2025 年，一些组织因公开拥抱更为严苛的企业文化而占据头条，这种企业文化强调更长工时、更激进的绩效管理、更少员工灵活度。",
+    "answerVocabularyList": [
+      "ubiquity",
+      "inadvertently"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "In 2025, a few organizations grabbed headlines by publicly embracing a more hard-edged culture characterized by longer hours, more aggressive performance management, and reduced employee flexibility."
+  },
+  {
+    "key": "mar0304",
+    "date": "2026.03.04",
+    "period": "2026年3月",
+    "folder": "0304 《纽约时报》：以色列和美国是如何搞突袭的？.mp3",
+    "titleZh": "《纽约时报》：以色列和美国是如何搞突袭的？",
+    "title": "How the Assault on Iran Unfolded",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By David M. Halbfinger and Ronen Bergman, The New York Times, Published March 1, 2026",
+    "paragraphs": [
+      "Despite warnings after an earlier wave of killings, top Iranian officials gathered in person, and Israel seized the chance to kill Iran’s supreme leader.",
+      "The Iranian government supposedly drew painful lessons from the 12-day war with Israel and the United States in June.",
+      "After Israel located some of Iran’s top leaders and commanders deep underground during that war, Iranian security officials discovered that Israel had tracked them because their bodyguards were carrying cellphones.",
+      "Such failures had infuriated Iran’s supreme leader, Ayatollah Ali Khamenei, according to Iranian and Israeli officials.",
+      "And yet, the fatal mistakes made by Iran this weekend were even worse than their missteps last June, making the latest assault on the nation’s leadership especially deadly.",
+      "Some of Iran’s highest military and intelligence officials gathered in broad daylight, above ground, at their last known address — the country’s National Security Council offices — for a high-level meeting on Saturday morning, just as much of the world was expecting the United States or Israel, or both, to attack, Israeli defense officials said.",
+      "Even the supreme leader, Ayatollah Khamenei — presumed to have been moving from one secret, underground hideaway to another — was also above ground, at his anything-but-secret, official residential compound, the Israeli officials said.",
+      "A satellite image shows black smoke rising and heavy damage at the compound of Ayatollah Khamenei.",
+      "Exactly how U.S. and Israeli intelligence officials knew where all those leaders would be at 9:40 a.m. local time on Saturday is unclear. But the two countries exploited that knowledge and other sensitive intelligence collected from Iran to wage a three-wave attack that decimated the Iranian high command and quickly battered Iran’s air defenses, the defense officials said.",
+      "Next came a furious search-and-destroy mission against Iran’s ballistic missile systems, including munitions, launchers, crews, storehouses and production sites.",
+      "Crucially, in killing Ayatollah Khamenei, Israel also crossed a new Rubicon, killing the head of state of a sovereign country — something it had shied away from doing early in the war last June, according to two of the Israeli defense officials.",
+      "By midday on Sunday, Israeli military officials said that air supremacy in the skies over Iran had been achieved and that its jets were flying freely over Tehran.",
+      "“Iran right now is totally exposed to airstrikes,”said Amir Eshel, a former commander of the Israeli Air Force. “It’s only for U.S. forces and the Israeli Air Force to decide where, when and how. They almost cannot challenge. There’s almost total freedom of maneuver.”",
+      "Israeli officials were so emboldened by the freedom of action that some were privately expressing concerns — particularly after a deadly Iranian strike on a residential area west of Jerusalem on Sunday — that the United States wanted to bring the air offensive to a close too quickly. The Israeli Air Force still had many targets to eliminate, Israeli officials said.",
+      "“Ballistic missiles will take time,” said Zohar Palti, who headed the political-military bureau of Israel’s defense ministry after a long career in intelligence. “That’s not something that you finish today or tomorrow. Let’s try to finish, not to cut it short.” “We need to get the time to clear out the ballistic missiles,” he added.",
+      "‘Black Sparrows’ and the element of surprise Saturday’s attack depended on many factors. Chief among them was the element of surprise.",
+      "In the 12-day war last June, after a decision was made not to attempt to kill Ayatollah Khamenei during the initial strike, he disappeared and the opportunity did not arise again.",
+      "For that reason, the planners of Saturday’s strike calculated that any attempt to kill a senior Iranian official would have to be made in the first round, or they expected that precautionary measures would soon be taken, Israeli defense officials said.",
+      "People carrying luggage in Tehran after explosions began on Saturday In the war last June, Israel tried to kill additional Iranian officials on the last day of the fighting, according to Mr. Palti and an Israeli defense official, but was forced to call off that attack under pressure from Mr. Trump to stick to a cease-fire.",
+      "Ahead of Saturday’s strike, the military planned for months, looking for an opportunity in which military intelligence would learn in advance of a situation when top Iranian officials would be in the same place, according a separate Israeli defense official with knowledge of the plan.",
+      "Attacking in the morning hours, rather than at night — when Israel has launched prior campaigns against Iran — added to the tactical surprise this time, the official said.",
+      "A second wave of the attack immediately followed the Saturday morning strike on Iran’s leadership, with Israel targeting Iran’s surface-to-air missile batteries, especially those defending Tehran, Israeli defense officials said.",
+      "Although Israel had hit those systems in previous rounds of fighting and had boasted that they had destroyed them, the Iranians turned out to have restored some antiaircraft capacity since last June, at least in part by producing some weapons themselves, according to a senior official updated with air force operations.",
+      "A key Israeli armament used Saturday morning, which also aided in the element of surprise, was a ballistic missile capable of being launched by F-15 fighter jets from far away.",
+      "It was originally developed as a practice-target missile for an Israeli antiballistic missile system, known as Arrow. But the new version, known as the Black Sparrow, allows for strikes on distant targets deep within Iranian territory, without requiring the jet to come within range of Iran’s surface-to-air missile batteries. Israel first used such a missile in response to an Iranian attack in 2024, striking a radar system, defense officials said. Later, such missiles were used to paralyze Iranian surface-to-air batteries during Israeli attacks in November 2024, and then again last June, they said.",
+      "But they haven’t always achieved the desired result. On Sept. 9, Israel used such missiles to try to wipe out a group of Hamas leaders as they met in Qatar to discuss a cease-fire proposal by the Trump administration.",
+      "But the attack failed to kill senior Hamas officials and killed a member of Qatar’s internal security forces, ultimately forcing an apology from Israel, under pressure from Mr. Trump.",
+      "Smoke rising after several blasts in Doha, Qatar, last year. A ‘strategic ambush’ and real-time hunting During the third wave of Israel’s air offensive this weekend, the military deployed what it called its largest air armada in history, including some 200 planes.",
+      "Not since the Arab-Israeli war of 1967, when Israel sent all but 12 of its planes to strike the Egyptian air force, had it dispatched so many aircraft on an attack mission.",
+      "Unlike previous operations, in which aircraft were sent in small waves, the Israeli Air Force mounted what it called a “strategic ambush.” In effect, Israel was “bringing the entire air force” to western and central Iran, an Israeli security official said.",
+      "The pilots’ mission: Destroy as many Iranian missiles as possible, as fast as possible.",
+      "The Americans, who joined in that hunt about half an hour after the Israelis first struck Iran’s leadership, focused on targets in eastern Iran, an area far from Israel but relatively close to American bases and forces. Israel took the country’s western half.",
+      "U.S. forces also attacked the Iranian fleet, Mr. Trump said. “I have just been informed that we have destroyed and sunk 9 Iranian Naval Ships, some of them relatively large and important,” he wrote on Sunday. “We are going after the rest — They will soon be floating at the bottom of the sea, also!”",
+      "With Iran’s air defenses so badly damaged, Israel was free on Sunday to attack targets and symbols of the government in Tehran. The Israel military said it had attacked “dozens of the regime‘s military command centers, including headquarters belonging to the Islamic Revolutionary Guard Corps (IRGC), intelligence headquarters, IRGC Air Force command centers, and internal security headquarters.”",
+      "Israel and U.S. fighters are also hunting for Iran’s long-range ballistic missile launchers, two Israeli defense officials said, wary of the type of strike like the ones that killed Israeli civilians in Beit Shemesh on Sunday.",
+      "Eyal Hulata, a former Israeli national security adviser, said the level of U.S.-Israeli cooperation in this weekend’s assault broke new ground.",
+      "“That’s a lot of effort by the intelligence communities in both countries to gather information, identify targets, understand where they are at a given time, and to do this on the fly, throughout the first day and so far on the second,” he said. It’s “a level we haven’t seen before,” he added."
+    ],
+    "paragraphTranslations": [
+      "在之前的一波杀戮事件之后仍有警告，但伊朗高层官员还是亲自聚集在一起，而以色列则抓住了这个机会，杀死了伊朗的最高领袖。",
+      "伊朗政府显然从6月份与以色列和美国之间的12天战争中吸取了惨痛的教训。",
+      "在那场战争期间，以色列人在伊朗一些最高领导人和指挥官的藏身处发现了他们。伊朗安全官员发现，以色列之所以能够追踪到他们，是因为他们的保镖携带了手机。",
+      "据伊朗和以色列官员称，这样的失败激怒了伊朗的最高领袖——阿亚图拉·阿里·哈梅内伊。",
+      "然而，伊朗本周末所犯下的致命错误比去年六月时更为严重，这次对国家领导层的攻击尤其具有致命性。",
+      "一些伊朗最高级别的军事和情报官员在周六上午，于该国国家安全委员会办公室所在地——一个白天可以正常进入的地点——召开了一次高级别会议。据以色列国防官员称，当时全世界都预计美国或以色列，或者两者都会发动攻击。",
+      "以色列官员表示，就连最高领袖阿亚图拉·哈梅内伊——人们认为他一直在从一个秘密的地下藏身处转移到另一个藏身处——也待在地面上的、属于他的官方住宅区里，那里根本不像是秘密的藏身处。",
+      "卫星图像显示，阿亚图拉·哈梅内伊的官邸有大量黑烟升起，建筑物也受到了严重损坏。",
+      "目前尚不清楚美国和以色列的情报官员究竟是如何得知那些领导人将在当地时间周六上午9点40分出现在特定地点的。不过，国防官员表示，这两个国家利用了这一信息以及从伊朗那里获得的其他敏感情报，发动了一次三波攻击，成功摧毁了伊朗的高层指挥体系，并迅速削弱了伊朗的防空系统。",
+      "接下来是一次针对伊朗弹道导弹系统的猛烈搜寻和摧毁行动，涉及导弹的弹药、发射装置、操作人员、储存设施以及生产场所。",
+      "关键的是，通过杀害阿亚图拉·哈梅内伊，以色列也跨过了新的红线，消灭了一个主权国家的国家元首——据两名以色列国防官员称，这在去年六月战争初期时，以色列是避免采取这种行为的。",
+      "截至周日中午，以色列军事官员表示，已经实现了对伊朗领空的控制，伊朗的喷气式飞机可以在德黑兰上空自由飞行。",
+      "“伊朗目前完全暴露在空袭的威胁之下，”前以色列空军指挥官阿米尔·埃谢尔说。“只有美国军队和以色列空军才能决定攻击的地点、时间以及方式。他们几乎没有任何反抗的机会。他们的行动几乎完全自由。”",
+      "以色列官员因行动自由而变得更加胆大妄为，以至于有人私下表达了担忧——尤其是在周日伊朗对耶路撒冷以西的住宅区发动致命袭击之后——美国可能过快地停止了这次空中打击行动。以色列官员表示，以色列空军仍有许多目标需要清除。",
+      "“弹道导弹的研制需要时间，”在情报部门工作多年后，担任以色列国防部政治军事事务负责人的佐哈尔·帕尔蒂说道。“这不是今天或明天就能完成的事情。我们应该努力完成它，而不是急于求成。”他补充说：“我们需要足够的时间来彻底消除那些弹道导弹。”",
+      "“黑麻雀”战术以及制造突袭的效果，周六的攻击成功与否取决于许多因素。其中最关键的因素就是制造突袭的效果。",
+      "在去年六月的12天战争中，最初决定不试图在打击行动中杀死阿亚图拉·哈梅内伊之后，他便消失了，此后便再也没有机会了。",
+      "出于这个原因，周六罢工的策划者认为，任何试图杀害伊朗高级官员的举动都必须在第一轮就实现，或者他们预计很快会采取预防措施。以色列国防官员如此表示。",
+      "在6月战争期间，以色列试图在战斗的最后一天消灭更多的伊朗官员，但受到特朗普的压力，不得不在迫于压力下放弃这次袭击，以遵守停火协议。据帕尔蒂先生和一位以色列国防官员称，周六在德黑兰，人们背着行李出行。",
+      "根据一位了解该计划的以色列国防官员的说法，在周六的罢工行动之前，军方已经进行了数月的准备工作，试图寻找一个时机，让军事情报部门能够提前掌握伊朗高层官员所在的地点。",
+      "这位官员表示，与以往以色列在夜间发动攻击相比，这次选择在清晨发动攻击，进一步增加了战术上的突然性。",
+      "在周六对伊朗领导层的打击之后，紧接着又发生了第二波攻击。以色列军方表示，他们的目标是伊朗的地对空导弹系统，尤其是那些用于防御德黑兰的导弹系统。",
+      "尽管以色列在之前的几次战斗中摧毁了这些系统，并声称自己已经摧毁了它们，但根据一位了解空军作战情况的高级官员的说法，自去年六月以来，伊朗人至少部分恢复了他们的防空能力，他们自己生产了一些武器来辅助这一行动。",
+      "在周六上午使用的以色列关键武器，同样起到了增强突袭效果的作用，这是一种可以由F-15战斗机从远处发射的弹道导弹。",
+      "这种导弹最初是为以色列的反导系统——即“Arrow”系统而开发的，用于执行实战任务。但新版本“Black Sparrow”导弹能够攻击伊朗境内较远的目标，而无需让敌机靠近伊朗的地对空导弹发射装置。据国防官员称，以色列在2024年针对伊朗的攻击行动中首次使用了这种导弹，成功击中了伊朗的雷达系统。后来，在2024年11月的以色列攻击行动中，以及去年6月，这种导弹又被用于破坏伊朗的地对空导弹系统。",
+      "但他们的努力并不总是能取得预期的效果。9月9日，以色列使用这些导弹试图消灭一群在卡塔尔会面的哈马斯领导人，这些领导人是来讨论特朗普政府提出的停火建议的。",
+      "但这次袭击未能击毙哈马斯的高级官员，只导致一名卡塔尔国内安全部队成员受伤。最终，在特朗普先生的压力下，以色列不得不为此道歉。",
+      "去年卡塔尔多哈发生多次爆炸后，浓烟不断升起。这是一次“战略伏击”和实时打击行动。在本周末以色列的第三次空袭中，军方部署了他们历史上规模最大的空中部队，包括约200架飞机。",
+      "自1967年阿以战争以来，以色列就没有如此频繁地派遣如此多的飞机执行攻击任务——当时以色列几乎用完了所有飞机，只留下12架飞机来打击埃及空军。",
+      "与以往通过小批飞机进行轰炸的行动不同，以色列空军这次采取了所谓的“战略伏击”战术。一位以色列安全官员表示，实际上，以色列是动用“整个空军部队”来攻击伊朗西部和中部地区。",
+      "飞行员的任务：尽可能快速、尽可能多地摧毁伊朗的导弹。",
+      "那些美国人，在以色列首次打击伊朗领导层后大约半小时后便加入了这次行动。他们主要瞄准的是伊朗东部的目标，这些地区距离以色列较远，但相对靠近美国的基地和军队。以色列则占领了伊朗的西部地区。",
+      "特朗普先生还表示，美国军队还攻击了伊朗的舰队。“我刚刚得知，我们摧毁并击沉了9艘伊朗海军舰艇，其中一些是相当大型且重要的舰艇，”他在周日写道。“我们接下来将继续打击其余的舰艇——它们很快也会沉没在海底！”",
+      "由于伊朗的防空系统遭到严重破坏，以色列在周日得以自由地攻击德黑兰的政府目标及象征性建筑。以色列军方表示，他们袭击了“数十个伊朗政府的军事指挥中心，包括伊斯兰革命卫队的总部、情报机构总部、伊斯兰革命卫队空军指挥中心以及国内安全部门的总部”。",
+      "以色列和美国的军事人员也在搜寻伊朗的远程弹道导弹发射装置，两名以色列国防官员如此表示，他们警惕像周日袭击以色列平民事件那样的袭击再次发生。",
+      "前以色列国家安全顾问埃亚尔·胡拉塔表示，美国与以色列在本周末的联合行动中的合作水平达到了新的高度。",
+      "“这两个国家的情报机构都付出了巨大努力，收集信息、确定目标、了解目标在某一时间点的位置，并且这一切都需要在第一时间、在当天就完成，而到目前为止，在第二天也依然如此，”他说。他补充说：“这是我们以前从未见过的高水平合作。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "Assault",
+        "ipa": "/əˈsɔːlt/",
+        "pos": "n.",
+        "meaning": "攻击，袭击，进攻",
+        "definition": "a military attack to take control of a place controlled by the enemy",
+        "zh": "攻击，袭击，进攻"
+      },
+      {
+        "form": "Unfolded",
+        "ipa": "/ʌnˈfəʊld/",
+        "pos": "v.",
+        "meaning": "逐渐展开，逐步发展，渐次呈现",
+        "definition": "If a series of events unfolds, they happen.",
+        "zh": "逐渐展开，逐步发展，渐次呈现"
+      },
+      {
+        "form": "in person",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "亲自，本人，当面",
+        "definition": "If you do sth. in person, you go somewhere and do it yourself, instead of doing it by letter, asking sb. else to do it, etc.",
+        "zh": "亲自，本人，当面"
+      },
+      {
+        "form": "commanders",
+        "ipa": "/kəˈmɑːndə/",
+        "pos": "n.",
+        "meaning": "指挥官，司令员，最高长官",
+        "definition": "an officer of any rank who is in charge of a group of soldiers or a particular military activity",
+        "zh": "指挥官，司令员，最高长官"
+      },
+      {
+        "form": "tracked",
+        "ipa": "/træk/",
+        "pos": "v.",
+        "meaning": "追踪，跟踪，监视",
+        "definition": "to follow the movements of sb./sth., especially by using special electronic equipment",
+        "zh": "追踪，跟踪，监视"
+      },
+      {
+        "form": "bodyguards",
+        "ipa": "/ˈbɒdiɡɑːd/",
+        "pos": "n.",
+        "meaning": "保镖，护卫，贴身警卫",
+        "definition": "a person or group of people whose job is to protect an important person",
+        "zh": "保镖，护卫，贴身警卫"
+      },
+      {
+        "form": "infuriated",
+        "ipa": "/ɪnˈfjʊərieɪt/",
+        "pos": "v.",
+        "meaning": "激怒，使暴怒，使大为恼火",
+        "definition": "to make sb. extremely angry",
+        "zh": "激怒，使暴怒，使大为恼火"
+      },
+      {
+        "form": "supreme",
+        "ipa": "/suːˈpriːm/",
+        "pos": "adj.",
+        "meaning": "最高的，至高无上的，权力最大的",
+        "definition": "having the highest position of power, importance, or authority",
+        "zh": "最高的，至高无上的，权力最大的"
+      },
+      {
+        "form": "missteps",
+        "ipa": "/ˌmɪsˈstep/",
+        "pos": "n.",
+        "meaning": "失误，错误举动，不当决策",
+        "definition": "a mistake, especially one that is caused by not understanding a situation correctly",
+        "zh": "失误，错误举动，不当决策"
+      },
+      {
+        "form": "deadly",
+        "ipa": "/ˈdedli/",
+        "pos": "adj.",
+        "meaning": "致命的，危险的，足以致死的",
+        "definition": "likely to cause death, or likely to kill",
+        "zh": "致命的，危险的，足以致死的"
+      },
+      {
+        "form": "in broad daylight",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "在光天化日之下，在大白天，公然地",
+        "definition": "If sth., especially a crime, happens in broad daylight, it happens in the daytime and in public",
+        "zh": "在光天化日之下，在大白天，公然地"
+      },
+      {
+        "form": "presumed",
+        "ipa": "/prɪˈzjuːm/",
+        "pos": "v.",
+        "meaning": "推测，假定，认定",
+        "definition": "to think that sth. is true, although you are not certain",
+        "zh": "推测，假定，认定"
+      },
+      {
+        "form": "hideaway",
+        "ipa": "/ˈhɪdəweɪ/",
+        "pos": "n.",
+        "meaning": "隐居处，藏身之所，秘密住处",
+        "definition": "a place where you go when you want to be alone or when you want to hide from people",
+        "zh": "隐居处，藏身之所，秘密住处"
+      },
+      {
+        "form": "residential compound",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "住宅区，官邸，封闭式居住区",
+        "definition": "an area with a fence or wall around it that contains a group of buildings used as a living space, especially for an important person or official",
+        "zh": "住宅区，官邸，封闭式居住区"
+      },
+      {
+        "form": "exploited",
+        "ipa": "/ɪkˈsplɔɪt/",
+        "pos": "v.",
+        "meaning": "充分利用，开发",
+        "definition": "to use sth. fully and effectively",
+        "zh": "充分利用，开发"
+      },
+      {
+        "form": "sensitive",
+        "ipa": "/ˈsensətɪv/",
+        "pos": "adj.",
+        "meaning": "敏感的，机密的，需谨慎处理的",
+        "definition": "a situation or subject that is sensitive needs to be dealt with very carefully, because it is secret or because it may offend people",
+        "zh": "敏感的，机密的，需谨慎处理的"
+      },
+      {
+        "form": "wage",
+        "ipa": "/weɪdʒ/",
+        "pos": "v.",
+        "meaning": "发动，进行，展开",
+        "definition": "to be involved in a war against sb., or a fight against sth.",
+        "zh": "发动，进行，展开"
+      },
+      {
+        "form": "decimated",
+        "ipa": "/ˈdesɪmeɪt/",
+        "pos": "v.",
+        "meaning": "大量毁灭，严重破坏，使大幅削减",
+        "definition": "to destroy a large part of sth.",
+        "zh": "大量毁灭，严重破坏，使大幅削减"
+      },
+      {
+        "form": "battered",
+        "ipa": "/ˈbætə/",
+        "pos": "v.",
+        "meaning": "连续猛击，重创，反复打击",
+        "definition": "to hit sb. or sth. many times, in a way that hurts or damages them",
+        "zh": "连续猛击，重创，反复打击"
+      },
+      {
+        "form": "furious",
+        "ipa": "/ˈfjʊəriəs/",
+        "pos": "adj.",
+        "meaning": "猛烈的，激烈的，狂暴的；非常愤怒的，暴怒的",
+        "definition": "done with a lot of energy, speed, or anger",
+        "zh": "猛烈的，激烈的，狂暴的；非常愤怒的，暴怒的"
+      },
+      {
+        "form": "ballistic",
+        "ipa": "/bəˈlɪstɪk/",
+        "pos": "adj.",
+        "meaning": "弹道的，导弹的，抛射体的",
+        "definition": "relating to the science of ballistics; (of a missile) that is powered and guided through the air but falls freely once it reaches its highest point",
+        "zh": "弹道的，导弹的，抛射体的"
+      },
+      {
+        "form": "munitions",
+        "ipa": "/mjuːˈnɪʃənz/",
+        "pos": "n.",
+        "meaning": "军火，弹药，武器装备",
+        "definition": "military supplies such as bombs and guns",
+        "zh": "军火，弹药，武器装备"
+      },
+      {
+        "form": "crossed a new Rubicon",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "跨越卢比孔河，做出不可逆转的重大决定",
+        "definition": "to do sth. that will have extremely important effects in the future and that you cannot change",
+        "zh": "跨越卢比孔河，做出不可逆转的重大决定"
+      },
+      {
+        "form": "shied away from",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "回避，退缩，畏避",
+        "definition": "to avoid doing or dealing with sth. because you are not confident enough or you are worried or nervous about it",
+        "zh": "回避，退缩，畏避"
+      },
+      {
+        "form": "air supremacy",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "制空权，空中优势",
+        "definition": "the condition of having complete control of the air during military operations, so that the enemy cannot effectively use its aircraft",
+        "zh": "制空权，空中优势"
+      },
+      {
+        "form": "airstrikes",
+        "ipa": "/ˈeəstraɪk/",
+        "pos": "n.",
+        "meaning": "空袭，空中打击，空中攻击",
+        "definition": "an attack in which military aircraft drop bombs",
+        "zh": "空袭，空中打击，空中攻击"
+      },
+      {
+        "form": "freedom of maneuver",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "行动空间，机动自由，回旋余地",
+        "definition": "the possibility of changing your plans or decisions in order to achieve what you want",
+        "zh": "行动空间，机动自由，回旋余地"
+      },
+      {
+        "form": "emboldened",
+        "ipa": "/ɪmˈbəʊldən/",
+        "pos": "v.",
+        "meaning": "使大胆，使更有勇气，使增强信心",
+        "definition": "(formal) to give sb. more courage or confidence to do sth.",
+        "zh": "使大胆，使更有勇气，使增强信心"
+      },
+      {
+        "form": "offensive",
+        "ipa": "/əˈfensɪv/",
+        "pos": "n.",
+        "meaning": "攻势，进攻行动，军事进攻",
+        "definition": "a planned military attack involving large forces over a long period",
+        "zh": "攻势，进攻行动，军事进攻"
+      },
+      {
+        "form": "eliminate",
+        "ipa": "/ɪˈlɪmɪneɪt/",
+        "pos": "v.",
+        "meaning": "消灭，清除，铲除",
+        "definition": "to completely get rid of sth. that is unnecessary or unwanted",
+        "zh": "消灭，清除，铲除"
+      },
+      {
+        "form": "bureau",
+        "ipa": "/ˈbjʊərəʊ/",
+        "pos": "n.",
+        "meaning": "局，处，政府机构",
+        "definition": "a government department or part of a government department",
+        "zh": "局，处，政府机构"
+      },
+      {
+        "form": "calculated",
+        "ipa": "/ˈkælkjʊleɪt/",
+        "pos": "v.",
+        "meaning": "估计，判断，推断",
+        "definition": "to guess sth. using as many facts as you can find",
+        "zh": "估计，判断，推断"
+      },
+      {
+        "form": "round",
+        "ipa": "/raʊnd/",
+        "pos": "n.",
+        "meaning": "轮次，一轮，回合",
+        "definition": "one of a series of events that are part of a longer process",
+        "zh": "轮次，一轮，回合"
+      },
+      {
+        "form": "precautionary",
+        "ipa": "/prɪˈkɔːʃənəri/",
+        "pos": "adj.",
+        "meaning": "预防性的，防范的，防患于未然的",
+        "definition": "done in order to prevent sth. dangerous or unpleasant from happening",
+        "zh": "预防性的，防范的，防患于未然的"
+      },
+      {
+        "form": "call off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "取消，撤销；中止，叫停",
+        "definition": "to decide that a planned event will not take place",
+        "zh": "取消，撤销；中止，叫停"
+      },
+      {
+        "form": "cease-fire",
+        "ipa": "/ˈsiːsfaɪə/",
+        "pos": "n.",
+        "meaning": "停火，休战，停战协议",
+        "definition": "an agreement to stop fighting for a period of time, especially so that a more permanent peace agreement can be made",
+        "zh": "停火，休战，停战协议"
+      },
+      {
+        "form": "in advance",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "提前，预先，事先",
+        "definition": "before a particular time, or before doing a particular thing",
+        "zh": "提前，预先，事先"
+      },
+      {
+        "form": "launched",
+        "ipa": "/lɔːntʃ/",
+        "pos": "v.",
+        "meaning": "发动，发起，展开",
+        "definition": "to start sth., usually sth. large or important",
+        "zh": "发动，发起，展开"
+      },
+      {
+        "form": "campaigns",
+        "ipa": "/kæmˈpeɪn/",
+        "pos": "n.",
+        "meaning": "军事行动，战役，作战行动",
+        "definition": "a series of battles, attacks, etc., intended to achieve a particular result in a war",
+        "zh": "军事行动，战役，作战行动"
+      },
+      {
+        "form": "tactical",
+        "ipa": "/ˈtæktɪkəl/",
+        "pos": "adj.",
+        "meaning": "战术性的，战术上的，策略性的",
+        "definition": "relating to what you do to achieve what you want, especially as part of a game or large plan",
+        "zh": "战术性的，战术上的，策略性的"
+      },
+      {
+        "form": "boasted",
+        "ipa": "/bəʊst/",
+        "pos": "v.",
+        "meaning": "吹嘘，夸耀，自夸",
+        "definition": "to talk too proudly about your abilities, achievements, or possessions",
+        "zh": "吹嘘，夸耀，自夸"
+      },
+      {
+        "form": "restored",
+        "ipa": "/rɪˈstɔː/",
+        "pos": "v.",
+        "meaning": "恢复，重建，使复原",
+        "definition": "to make sth. return to its former state or condition",
+        "zh": "恢复，重建，使复原"
+      },
+      {
+        "form": "antiaircraft",
+        "ipa": "/ˌæntiˈeəkrɑːft/",
+        "pos": "adj.",
+        "meaning": "防空的，反航空器的，防空作战的",
+        "definition": "anti-aircraft weapons are used against enemy aircraft",
+        "zh": "防空的，反航空器的，防空作战的"
+      },
+      {
+        "form": "paralyze",
+        "ipa": "/ˈpærəlaɪz/",
+        "pos": "v.",
+        "meaning": "使瘫痪，使无法运作，使丧失行动力",
+        "definition": "to make sth. unable to operate normally",
+        "zh": "使瘫痪，使无法运作，使丧失行动力"
+      },
+      {
+        "form": "wipe out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "彻底摧毁，消灭，完全清除",
+        "definition": "to destroy, remove, or get rid of sth. completely",
+        "zh": "彻底摧毁，消灭，完全清除"
+      },
+      {
+        "form": "proposal",
+        "ipa": "/prəˈpəʊzəl/",
+        "pos": "n.",
+        "meaning": "提议，方案，建议",
+        "definition": "a plan or suggestion which is made formally to an official person or group",
+        "zh": "提议，方案，建议"
+      },
+      {
+        "form": "armada",
+        "ipa": "/ɑːˈmɑːdə/",
+        "pos": "n.",
+        "meaning": "大型舰队，大批军机，大规模编队",
+        "definition": "a large group of things, especially ships or boats",
+        "zh": "大型舰队，大批军机，大规模编队"
+      },
+      {
+        "form": "dispatched",
+        "ipa": "/dɪˈspætʃ/",
+        "pos": "v.",
+        "meaning": "派遣，调遣，发送",
+        "definition": "to send sb. or sth. somewhere for a particular purpose",
+        "zh": "派遣，调遣，发送"
+      },
+      {
+        "form": "mounted",
+        "ipa": "/maʊnt/",
+        "pos": "v.",
+        "meaning": "发动，组织，实施",
+        "definition": "to plan, organize, and begin an event or a course of action",
+        "zh": "发动，组织，实施"
+      },
+      {
+        "form": "ambush",
+        "ipa": "/ˈæmbʊʃ/",
+        "pos": "n.",
+        "meaning": "伏击，埋伏，突袭",
+        "definition": "a sudden attack on sb. by people who have been hiding and waiting for them, or the place where this happens",
+        "zh": "伏击，埋伏，突袭"
+      },
+      {
+        "form": "fleet",
+        "ipa": "/fliːt/",
+        "pos": "n.",
+        "meaning": "舰队，机群，船队",
+        "definition": "a group of ships, or all the ships in a navy",
+        "zh": "舰队，机群，船队"
+      },
+      {
+        "form": "regime’s",
+        "ipa": "/reɪˈʒiːm/",
+        "pos": "n.",
+        "meaning": "政权，威权政府",
+        "definition": "a government, especially one that was not elected fairly or that you disapprove of for some other reason",
+        "zh": "政权，威权政府"
+      },
+      {
+        "form": "Islamic",
+        "ipa": "/ɪzˈlæmɪk/",
+        "pos": "adj.",
+        "meaning": "伊斯兰的，伊斯兰教的，穆斯林的",
+        "definition": "relating to Islam or Muslims",
+        "zh": "伊斯兰的，伊斯兰教的，穆斯林的"
+      },
+      {
+        "form": "wary",
+        "ipa": "/ˈweəri/",
+        "pos": "adj.",
+        "meaning": "警惕的，谨慎的，小心提防的",
+        "definition": "sb. who is wary is careful because they think sth. might be dangerous or harmful",
+        "zh": "警惕的，谨慎的，小心提防的"
+      },
+      {
+        "form": "civilians",
+        "ipa": "/sɪˈvɪliən/",
+        "pos": "n.",
+        "meaning": "平民，百姓，非军人",
+        "definition": "anyone who is not a member of the military forces or the police",
+        "zh": "平民，百姓，非军人"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to make sb. extremely angry",
+      "to do sth. that will have extremely important effects in the future and that you cannot change"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “But the two countries exploited that knowledge and other sensitive intelligence collected from Iran to wage a three-wave attack that decimated the Iranian high command and quickly battered Iran’s air defenses.”?",
+    "exerciseChoiceMarked": [
+      "exploited"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The company was accused of exploiting its workers by paying them extremely low wages.",
+        "marked": [
+          "exploiting"
+        ],
+        "zh": "该公司被指控通过支付极低的工资来剥削工人。"
+      },
+      {
+        "label": "B",
+        "text": "The workers are ruthlessly exploited by their employers.",
+        "marked": [
+          "exploited"
+        ],
+        "zh": "工人们被雇主无情地剥削着。"
+      },
+      {
+        "label": "C",
+        "text": "Hackers tried to exploit a weakness in the software to gain access to users’ data.",
+        "marked": [
+          "exploit"
+        ],
+        "zh": "黑客试图利用软件中的漏洞来获取用户的数据。"
+      },
+      {
+        "label": "D",
+        "text": "The violence was blamed on thugs exploiting the situation.",
+        "marked": [
+          "exploiting"
+        ],
+        "zh": "暴力事件被归咎于一些利用这种局势的暴徒。"
+      }
+    ],
+    "exerciseTranslationPrompt": "当时，以色列在地下深处锁定多名伊朗高层与指挥官。事后，伊朗安全部门查明，以色列之所以能追踪到他们，是因为随行警卫携带手机。",
+    "answerVocabularyList": [
+      "infuriate",
+      "cross a Rubicon"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "After Israel located some of Iran’s top leaders and commanders deep underground during that war, Iranian security officials discovered that Israel had tracked them because their bodyguards were carrying cellphones."
+  },
+  {
+    "key": "mar0305",
+    "date": "2026.03.05",
+    "period": "2026年3月",
+    "folder": "0305 哈梅内伊之死意味着伊朗当局的终结吗？",
+    "titleZh": "哈梅内伊之死意味着伊朗当局的终结吗？",
+    "title": "The Death of Khamenei and the End of an Era",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Karim Sadjadpour, The Atlantic, Published February 28, 2026",
+    "paragraphs": [
+      "His life’s work was to preserve a revolution that is heading for the ash heap.",
+      "“The essence of oligarchical rule,” George Orwell wrote in 1984, “is the persistence of a certain world-view and a certain way of life, imposed by the dead upon the living.” For nearly four decades, Ayatollah Ali Khamenei presided over exactly that. He did not build the Islamic Republic of Iran. He inherited it from its founder, Ayatollah Ruhollah Khomeini, who in 1979 led a revolution that deposed a U.S.-aligned monarchy and replaced it with an Islamist theocracy whose three ideological pillars were “Death to America,” “Death to Israel,” and the mandatory covering of women—the hijab, he said, was “the flag of the revolution.”",
+      "Khomeini died in 1989, and his successor’s life’s work was to keep that revolution alive long after the society it governed had moved on. In this, Khamenei was remarkably, ruthlessly successful. But the worldview he imposed was never truly his own. He was the spokesman for a ghost. Khamenei’s death by the hand of a nation he worked very hard to kill is a hinge moment in the history of the 47-year-old revolution. He was the last of the regime’s first-generation founders.",
+      "Khamenei’s rise was engineered not by destiny but by maneuver. Khamenei’s lack of clerical legitimacy, and his general insecurity, led him to cultivate the Islamic Revolutionary Guard Corps as his praetorian force; he handpicked commanders and rotated them to prevent rivals from accumulating power. The IRGC eclipsed the clergy as Iran’s most powerful institution—politically expedient for Khamenei and financially expedient for the Guards, which became the dominant economic force in the theocracy it defended.",
+      "Khamenei wielded Iran’s elected institutions as facades, allowing just enough political theater to project legitimacy. Khamenei’s anti-Americanism was cloaked in ideology but also driven by self-preservation. The powerful cleric Ahmad Jannati once articulated the regime’s deepest anxiety: “If pro-American tendencies come to power in Iran, we have to say goodbye to everything.” Khamenei shared this conviction absolutely. “Reconciliation between Iran and America is possible,” he once said, in a revealing formulation, “but it is not possible between the Islamic Republic and America.” The American philosopher Eric Hoffer captured this logic in his 1951 book on mass movements, The True Believer. “Hatred is the most accessible and comprehensive of all unifying agents,” he wrote; mass movements “can rise and spread without belief in a god, but never without belief in a devil.” America was Khamenei’s devil.",
+      "Khamenei understood that his power was best preserved in a bubble. Not complete isolation—he wanted to sell Iran’s oil— but calibrated insularity, walled off from the global forces of capitalism and civil society that would expose and erode the regime.",
+      "But insularity has its costs, and they were borne entirely by the Iranian people. The regime micromanaged the personal lives of more than 90 million people, dictating whom they were allowed to love, what they drank, what women wore on their heads. It preached austerity while the Guards operated as a tax-exempt conglomerate. It built a digital wall around the country, blocking global platforms while regime officials posted propaganda on X. It charged protesters with “waging war against God” and maintained the world’s highest execution rate per capita. When even that was not enough to quell dissent— last month, as protests again swept the country—Khamenei ordered what may prove to be one of the deadliest episodes of state violence in modern history.",
+      "Khamenei confronted the paradox that every revolutionary caretaker must face: The revolution he preserved was designed for a world that no longer exists. In the end, he was felled by Donald Trump and Benjamin Netanyahu, an American president and an Israeli prime minister whom he loathed. He lived by “Death to America” and “Death to Israel.” He died by death from America and Israel."
+    ],
+    "paragraphTranslations": [
+      "他毕生致力于拯救这场即将走向毁灭的革命。",
+      "“寡头统治的本质，”乔治·奥威尔在《1984》中写道，“就是某种世界观和生活方式的持续存在，这种世界观和生活方式是由逝者强加给生者身上的。”近四十年来，阿亚图拉·阿里·哈梅内伊一直执掌着这种统治。他并没有建立伊朗伊斯兰共和国。他是从其创始人阿亚图拉·鲁霍拉·霍梅尼那里继承了这个政权。1979年，霍梅尼领导了一场革命，推翻了与美国结盟的君主制，并建立了以“消灭美国”、“消灭以色列”以及强制女性佩戴头巾为三大意识形态支柱的伊斯兰独裁政权。他说，头巾就是“革命的标志”。",
+      "霍梅尼于1989年去世，他的继任者将这场革命延续了下去，即使他所统治的社会已经发展到了新的阶段。在这方面，哈梅内伊取得了惊人的、毫不留情的成功。但他所强加的世界观从来都不是他自己的真实现状。他只是那个“幽灵”的代言人而已。哈梅内尼被一个他极力试图消灭的国家所杀害，这一事件是这场持续了47年的革命历史上的一个重要转折点。他是该政权第一代创始人的最后一位成员。",
+      "哈梅内伊的崛起并非出于命运，而是经过精心策划的。哈梅内伊缺乏神职人员的合法性，且内心极度不安，因此他选择将伊斯兰革命卫队作为自己的核心力量；他亲自挑选指挥官并定期更换他们，以防止竞争对手积累权力。伊斯兰革命卫队逐渐取代了神职人员，成为伊朗最强大的机构——这对哈梅内伊来说在政治上非常有利，而对卫队来说则在经济上极为有利，因为卫队成为了他们所维护的神权统治下的主要经济力量。",
+      "哈梅内伊将伊朗的民选机构当作幌子，只为制造足够的政治表演来提升政权的合法性。哈梅内伊的反美情绪虽然以意识形态的形式隐藏，但其背后的驱动力还是出于自我保护。这位权势强大的神职人员艾哈迈德·詹纳蒂曾表达出该政权最深的焦虑：“如果亲美倾向在伊朗掌权，我们就必须放弃一切。”哈梅内伊对此深信不疑。他曾说：“伊朗与美国之间的和解是可能的，但伊斯兰共和国与美国之间的和解是不可能的。”美国哲学家埃里克·霍弗在他的1951年出版的关于群众运动的著作《真正的信徒》中捕捉到了这种逻辑。“仇恨是所有能够统一人们的力量中最容易获得且最具有影响力的一种，”他写道；“群众运动可以在没有信仰上帝的情况下兴起并传播，但永远不可能在没有信仰魔鬼的情况下出现。”美国就是哈梅内伊心中的魔鬼。",
+      "哈梅内伊明白，他的权力最好保持在一个相对独立的体系之中。不是完全孤立——他希望继续出售伊朗的石油——而是以一种适度的孤立状态存在，与资本主义和公民社会的全球力量隔离开来，因为这些力量可能会揭露并侵蚀这个政权。",
+      "但孤立无援的处境带来了巨大的代价，而这些代价完全由伊朗人民承担。政权对超过9000万人的个人生活进行严格管控，决定他们可以爱谁、可以喝什么、女性可以如何装饰自己。政权宣扬节俭，而军方则作为一个免税集团运作。政权在国家内部筑起数字隔离墙，阻断了与世界的联系，而政权官员则在X平台上发布宣传内容。政权将抗议者指控为“向神明发动战争”，并保持着全球最高的平均处决率。当这些措施仍不足以平息不满情绪时——上个月，当抗议活动再次在全国蔓延——哈梅内伊下令实施了一些可能是现代历史上最致命的暴力行为之一。",
+      "哈梅内伊面对了一个矛盾：每个革命性的改革者都必会面对这一矛盾——他所维护的革命，其实是为了一个已经不复存在的世界而设计的。最终，他被唐纳德·特朗普和本雅明·内塔尼亚胡所击败。唐纳德·特朗普是一位美国总统，本雅明·内塔尼亚胡则是一位以色列总理，哈梅内伊非常厌恶他们。他追求的是“美国灭亡”和“以色列灭亡”的目标。而他的死亡，其实也是对美国和以色列的毁灭。"
+    ],
+    "vocabulary": [
+      {
+        "form": "preserve",
+        "ipa": "/prɪˈzɜːv/",
+        "pos": "v.",
+        "meaning": "保护，维护，保留",
+        "definition": "to keep a particular quality, feature, etc.; to make sure that sth. is kept",
+        "zh": "保护，维护，保留"
+      },
+      {
+        "form": "ash heap",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "灰堆，灰烬堆",
+        "definition": "a pile or mound of ashes and other waste",
+        "zh": "灰堆，灰烬堆"
+      },
+      {
+        "form": "oligarchical",
+        "ipa": "/ˌɒlɪˈɡɑːkɪkl/",
+        "pos": "adj.",
+        "meaning": "寡头政治的，由少数人统治的",
+        "definition": "relating to an oligarchy (= a small group of people having control of a country or organization)",
+        "zh": "寡头政治的，由少数人统治的"
+      },
+      {
+        "form": "persistence",
+        "ipa": "/pəˈsɪstəns/",
+        "pos": "n.",
+        "meaning": "坚持，锲而不舍，执意",
+        "definition": "the fact of continuing to try to do sth. despite difficulties, especially when other people are against you and think that you are being annoying or unreasonable",
+        "zh": "坚持，锲而不舍，执意"
+      },
+      {
+        "form": "imposed",
+        "ipa": "/ɪmˈpəʊz/",
+        "pos": "v.",
+        "meaning": "强加于，强制实行",
+        "definition": "to force sb./sth. to have to deal with sth. that is difficult or unpleasant",
+        "zh": "强加于，强制实行"
+      },
+      {
+        "form": "presided",
+        "ipa": "/prɪˈzaɪd/",
+        "pos": "v.",
+        "meaning": "主持，主管，负责",
+        "definition": "(formal) to lead or be in charge of a meeting, ceremony, etc.",
+        "zh": "主持，主管，负责"
+      },
+      {
+        "form": "deposed",
+        "ipa": "/dɪˈpəʊz/",
+        "pos": "v.",
+        "meaning": "罢免，废黜，把……赶下台",
+        "definition": "to remove sb., especially a political leader, from power",
+        "zh": "罢免，废黜，把……赶下台"
+      },
+      {
+        "form": "theocracy",
+        "ipa": "/θiˈɒkrəsi/",
+        "pos": "n.",
+        "meaning": "神权政治，神权国家",
+        "definition": "a country that is governed by religious leaders mandatory /ˈmændətəri/，/mænˈdeɪtəri/ adj.",
+        "zh": "神权政治，神权国家"
+      },
+      {
+        "form": "hijab",
+        "ipa": "/hɪˈdʒɑːb/",
+        "pos": "n.",
+        "meaning": "头巾",
+        "definition": "a piece of clothing that covers the head, worn in public by some Muslim women",
+        "zh": "头巾"
+      },
+      {
+        "form": "ruthlessly",
+        "ipa": "/ˈruːθləsli/",
+        "pos": "adv.",
+        "meaning": "无情地，残忍地，毫不留情地",
+        "definition": "(often disapproving) in a hard and cruel way; in a determined way, without caring if you hurt other people",
+        "zh": "无情地，残忍地，毫不留情地"
+      },
+      {
+        "form": "hinge",
+        "ipa": "/hɪndʒ/",
+        "pos": "n.",
+        "meaning": "关键，转折点，枢纽",
+        "definition": "sth. on which events, opinions, etc, turn",
+        "zh": "关键，转折点，枢纽"
+      },
+      {
+        "form": "engineered",
+        "ipa": "/ˌendʒɪˈnɪə(r)/",
+        "pos": "v.",
+        "meaning": "精心策划，密谋，暗中安排",
+        "definition": "(often disapproving) to arrange for sth. to happen or take place, especially when this is done secretly in order to give yourself an advantage",
+        "zh": "精心策划，密谋，暗中安排"
+      },
+      {
+        "form": "maneuver",
+        "ipa": "/məˈnuːvə(r)/",
+        "pos": "n.",
+        "meaning": "策略，手段，花招",
+        "definition": "a clever plan, action or movement that is used to give sb. an advantage",
+        "zh": "策略，手段，花招"
+      },
+      {
+        "form": "clerical",
+        "ipa": "/ˈklerɪkl/",
+        "pos": "adj.",
+        "meaning": "神职人员的，教士的",
+        "definition": "connected with the clergy (= priests)",
+        "zh": "神职人员的，教士的"
+      },
+      {
+        "form": "Corps",
+        "ipa": "/kɔː(r)/",
+        "pos": "n.",
+        "meaning": "兵团，军，特种部队，队伍",
+        "definition": "a large unit of an army, consisting of two or more divisions",
+        "zh": "兵团，军，特种部队，队伍"
+      },
+      {
+        "form": "praetorian",
+        "ipa": "/priːˈtɔːrɪən/",
+        "pos": "adj.",
+        "meaning": "（古罗马）行政长官的，执政官的",
+        "definition": "of or relating to a praetor",
+        "zh": "（古罗马）行政长官的，执政官的"
+      },
+      {
+        "form": "handpicked",
+        "ipa": "/ˈhændˌpɪk/",
+        "pos": "v.",
+        "meaning": "精心挑选，亲自选拔，精选",
+        "definition": "If sb. is handpicked, they are very carefully chosen by sb. in authority for a particular purpose or a particular job.",
+        "zh": "精心挑选，亲自选拔，精选"
+      },
+      {
+        "form": "rotated",
+        "ipa": "/rəʊˈteɪt/",
+        "pos": "v.",
+        "meaning": "轮换，轮值，轮岗",
+        "definition": "if a job rotates, or if people rotate a job, they regularly change the job or regularly change who does the job",
+        "zh": "轮换，轮值，轮岗"
+      },
+      {
+        "form": "eclipsed",
+        "ipa": "/ɪˈklɪps/",
+        "pos": "v.",
+        "meaning": "使黯然失色，使相形见绌",
+        "definition": "to make sb./sth. seem neither exciting nor important by comparison",
+        "zh": "使黯然失色，使相形见绌"
+      },
+      {
+        "form": "expedient",
+        "ipa": "/ɪkˈspiːdiənt/",
+        "pos": "adj.",
+        "meaning": "权宜之计的，合算的，有利的",
+        "definition": "(of an action) useful or necessary for a particular purpose, but not always fair or right",
+        "zh": "权宜之计的，合算的，有利的"
+      },
+      {
+        "form": "facades",
+        "ipa": "/fəˈsɑːd/",
+        "pos": "n.",
+        "meaning": "表面，假象，外观",
+        "definition": "the way that sb./sth. appears to be, which is different from the way sb./sth. really is",
+        "zh": "表面，假象，外观"
+      },
+      {
+        "form": "cloaked",
+        "ipa": "/kləʊk/",
+        "pos": "v.",
+        "meaning": "遮盖，掩盖，隐藏",
+        "definition": "(literary) to cover or hide sth.",
+        "zh": "遮盖，掩盖，隐藏"
+      },
+      {
+        "form": "articulated",
+        "ipa": "/ɑːˈtɪkjuleɪt/",
+        "pos": "v.",
+        "meaning": "清晰表达，明确说明，有力阐述",
+        "definition": "(formal) to express or explain your thoughts or feelings clearly in words",
+        "zh": "清晰表达，明确说明，有力阐述"
+      },
+      {
+        "form": "Reconciliation",
+        "ipa": "/ˌrekənsɪliˈeɪʃn/",
+        "pos": "n.",
+        "meaning": "和解，调和，重新修好",
+        "definition": "an end to a disagreement or conflict with sb. and the start of a good relationship again",
+        "zh": "和解，调和，重新修好"
+      },
+      {
+        "form": "formulation",
+        "ipa": "/ˌfɔːmjuˈleɪʃn/",
+        "pos": "n.",
+        "meaning": "构思，系统阐述，表述方式",
+        "definition": "the act of expressing your ideas in carefully chosen words",
+        "zh": "构思，系统阐述，表述方式"
+      },
+      {
+        "form": "calibrated",
+        "ipa": "/ˈkælɪbreɪt/",
+        "pos": "v.",
+        "meaning": "校准，标定，校正；仔细调整，使恰到好处",
+        "definition": "(specialist)",
+        "zh": "校准，标定，校正；仔细调整，使恰到好处"
+      },
+      {
+        "form": "insularity",
+        "ipa": "/ˌɪnsjuˈlærəti/",
+        "pos": "n.",
+        "meaning": "狭隘，偏狭，闭关自守",
+        "definition": "(disapproving) the fact that sb. is only interested in their own country, ideas, etc. and not those from outside",
+        "zh": "狭隘，偏狭，闭关自守"
+      },
+      {
+        "form": "micromanaged",
+        "ipa": "/ˈmaɪkrəʊmænɪdʒ/",
+        "pos": "v.",
+        "meaning": "管得太细，微观管理",
+        "definition": "(disapproving) to control every detail of an activity or project, especially your employees’ work",
+        "zh": "管得太细，微观管理"
+      },
+      {
+        "form": "dictating",
+        "ipa": "/dɪkˈteɪt/",
+        "pos": "v.",
+        "meaning": "命令，指使，强行规定",
+        "definition": "to tell sb. what to do, especially in an annoying way",
+        "zh": "命令，指使，强行规定"
+      },
+      {
+        "form": "conglomerate",
+        "ipa": "/kənˈɡlɒmərət/",
+        "pos": "n.",
+        "meaning": "企业集团，联合大公司",
+        "definition": "(business) a large company formed by joining together different firms",
+        "zh": "企业集团，联合大公司"
+      },
+      {
+        "form": "waging",
+        "ipa": "/weɪdʒ/",
+        "pos": "v.",
+        "meaning": "发动，开展，进行",
+        "definition": "to begin and continue a war, a battle, etc.",
+        "zh": "发动，开展，进行"
+      },
+      {
+        "form": "quell",
+        "ipa": "/kwel/",
+        "pos": "v.",
+        "meaning": "平息，镇压，制止",
+        "definition": "(formal) to stop sth. such as violent behaviour or protests",
+        "zh": "平息，镇压，制止"
+      },
+      {
+        "form": "loathed",
+        "ipa": "/ləʊð/",
+        "pos": "v.",
+        "meaning": "极不喜欢，厌恶，憎恨",
+        "definition": "to dislike sb./sth. very much",
+        "zh": "极不喜欢，厌恶，憎恨"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to arrange for sth. to happen or take place, especially when this is done secretly in order to give yourself an advantage",
+      "a clever plan, action or movement that is used to give sb. an advantage"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “Khamenei’s lack of clerical legitimacy, and his general insecurity, led him to cultivate the Islamic Revolutionary Guard Corps as his praetorian force; he handpicked commanders and rotated them to prevent rivals from accumulating power.”?",
+    "exerciseChoiceMarked": [
+      "rotated"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "They will swap posts in a year’s time to rotate the leadership.",
+        "marked": [
+          "rotate"
+        ],
+        "zh": "他们将在一年后互换岗位，轮流担任领导。"
+      },
+      {
+        "label": "B",
+        "text": "Stay well away from the helicopter when its blades start to rotate.",
+        "marked": [
+          "rotate"
+        ],
+        "zh": "当直升机的旋翼开始旋转时，请远离它。"
+      },
+      {
+        "label": "C",
+        "text": "Experienced farmers know when to rotate crops for better growth.",
+        "marked": [
+          "rotate"
+        ],
+        "zh": "有经验的农民知道何时轮种作物，才能让作物长得更好。"
+      },
+      {
+        "label": "D",
+        "text": "With this tool, you can rotate images clockwise or counterclockwise as you like.",
+        "marked": [
+          "rotate"
+        ],
+        "zh": "使用这个工具，你可以按照需要顺时针或逆时针方向旋转图片。"
+      }
+    ],
+    "exerciseTranslationPrompt": "哈梅内伊（Khamenei）明白，维持权力的最佳方式是在一个封闭的气泡中运作。不是彻底孤立——他仍需出售伊朗的石油——而是经过精心校准的封闭状态，把国家与全球资本主义和公民社会的力量隔绝开来，以免这些力量侵蚀政权。",
+    "answerVocabularyList": [
+      "engineer",
+      "maneuver"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "Khamenei understood that his power was best preserved in a bubble. Not complete isolation—he wanted to sell Iran’s oil— but calibrated insularity, walled off from the global forces of capitalism and civil society that would expose and erode the regime."
+  },
+  {
+    "key": "mar0306",
+    "date": "2026.03.06",
+    "period": "2026年3月",
+    "folder": "0306 战火下，那些滞留迪拜的人们",
+    "titleZh": "战火下，那些滞留迪拜的人们",
+    "title": "For Travelers Stuck in Dubai, ‘Chaos and Confusion’ and a Nervous Wait",
+    "topicEn": "Society",
+    "topicZh": "社会",
+    "byline": "By Ceylan Yeğinsu, Omnia Al Desoukie and Christine Chung, The New York Times, Published March 2, 2026",
+    "paragraphs": [
+      "The Emirates’ reputation as a safe destination in a volatile area was put to a brutal test in recent days as Iran, retaliating against U.S.-Israeli attacks, targeted the region with missiles and drones.",
+      "The quiet luxury of Dubai’s high-priced hotels and resorts was punctured this weekend as Iran aimed hundreds of missiles and drones at targets across the United Arab Emirates in retaliation for the Israeli-U.S. attack.",
+      "Videos posted online showed fires at five-star hotels like the Jumeirah Burj Al Arab and the Fairmont Dubai, and passengers scrambling to evacuate Dubai International Airport — one of the world’s busiest — after an explosion on a concourse injured four people.",
+      "In Abu Dhabi, one person died and seven were injured by debris from a drone that targeted Zayed International Airport.",
+      "The hostilities have come as a shock to tourists, who visit the United Arab Emirates not only for the Michelin-star dining, hospitality, shopping and beaches, but also for the Emirates’ reputation as a safe destination in a volatile region. Dubai, ranked among the top 10 destinations in the world, welcomed 19.59 million tourists last year, a 5 percent increase over its previous record year in 2024, according to data published by the Dubai Department of Economy and Tourism. Airports in the region have become major hubs for passengers traveling to India, Africa and Asia. In 2025, more than 33 million passengers passed through Abu Dhabi’s five airports, a record. The airstrikes forced the closure of airports in Dubai, Abu Dhabi and Doha, Qatar. Now, as the fighting continues, hundreds of thousands of tourists and business travelers are struggling to book flights home. At least 11,000 flights to and from the Middle East have been canceled since Saturday, and one million travelers have been affected by the disruption so far, according to Cirium, an aviation data firm.",
+      "A limited number of flights were scheduled to depart Dubai and Abu Dhabi airports on Monday.",
+      "Emirates, the region’s largest carrier, said on social media that it would prioritize stranded customers with canceled bookings. The announcement was met by hundreds of responses from panicked passengers wondering how they could get on a flight. ‘No Certainty Right Now’",
+      "An empty arrivals area at Dubai International Airport on Monday. Dubai International is the world’s busiest airport for international travel, with more than 95 million passengers last year. Abu Dhabi’s airport and Hamad International Airport in Qatar are also among the largest international hubs, said Henry Harteveldt, an aviation industry analyst for Atmosphere Research. He said the conflict would ripple out to airports worldwide and could chill international travel plans.",
+      "“There is no certainty right now about when the fighting will end and when it will be deemed safe for commercial flights to resume,” Mr. Harteveldt said. “Clearly, there’s going to be a lot of concern, legitimate concern, in consumers’ minds about whether they should travel through those airports, at least in the immediate aftermath of the fighting.”",
+      "Vishwas Gowda, a 23-year-old engineer who lives in Bengaluru, India, had planned for a nine-hour layover in Dubai. On Saturday morning, he was on an Emirates flight from Dubai to San Francisco when news of the airspace closures hit, and the plane turned around. Back in Dubai, it was “complete chaos and confusion,” he said, with long lines throughout the airport and “no clear next steps.”",
+      "The airline still hasn’t contacted him about when he can fly to San Francisco or back home to India, he said.",
+      "“I can’t believe there is no way for us to get out,” said Chresida Elston, a British tourist who is on vacation with her husband and two children at the Mandarin Oriental in Dubai. “It’s so surreal to be going to the beach and pretending we’re having a normal holiday to the children when there are explosions in the sky and you have no idea where the next missile will land,” she said in a phone interview.",
+      "On Saturday, emergency alerts sent to cellphones warned of potential missile threats. Tourists shared videos of themselves and others in hotel basements; on Sunday, they were advised to stay indoors.",
+      "Covered Costs",
+      "An intercepted projectile falling into the sea near Dubai’s Palm Jumeirah archipelago on Sunday.",
+      "The United Arab Emirates announced on Sunday that it would cover accommodation costs for stranded visitors. The General Civil Aviation Authority said it was picking up the tab for meals and accommodation for more than 20,000 passengers who were unable to leave over the weekend.",
+      "The Ministry of Defense of the United Arab Emirates said on Monday that 174 ballistic missiles had been launched toward the country since the start of the attack on Saturday. Additionally, 689 Iranian drones were detected, with 645 intercepted and 44 falling within the country’s territory. Several cruise missiles had been intercepted, and the resulting debris caused damage. The attacks resulted in three deaths and 68 minor injuries.",
+      "Members of the travel industry downplayed the situation, saying that the incidents of falling debris were isolated.",
+      "“Dubai has long been recognized for its infrastructure resilience, governance and crisis response capabilities,” said Ali Asgar Hussain, the managing director of Turning Point Tourism, a Dubai-based travel company.",
+      "“Things remain calm, and people are getting on with their daily lives as best they can,” said Ahmed Soliman, the managing director of Travel Connections Arabia, a consulting firm.",
+      "On Monday, the atmosphere across Dubai was calm. While some tourists ventured out, many decided to stay in their hotels. Some people are relying on private security firms to help them leave Dubai by land to Riyadh, Saudi Arabia, and Muscat, Oman, where private and commercial planes are operating.",
+      "“Our approach is straightforward: GPS-tracked ground transport running 24/7 from Dubai to open land borders,” said Rafal Hyps, chief executive of the global risk management firm Sicuro Group. He said the company had assisted about 1,000 people, “including employees of major multinational companies, family offices and individual travelers.”",
+      "He declined to specify the cost of getting out overland, but said it was “comparable to the price of an international air ticket.” On Monday, some tourists and residents ventured out after the weekend attacks. Above, sunbathers on a Dubai beach near the marina.",
+      "While a limited number of flights departed from the United Arab Emirates on Monday, there was no information on whether flights would operate on Tuesday. The government urged passengers not to travel to the airport unless their flight was confirmed.",
+      "“Normally, I would not mind being stuck in Dubai. It’s beautiful here, and there is so much to do,” said Lara Riva, an Italian tourist in Dubai whose flight home was canceled on Sunday. “But this is a very different situation.”",
+      "Rebecca Clothey, 57, a professor at Drexel University in Philadelphia who was stranded in Abu Dhabi over the weekend, was looking into options to drive to the nearest operating international airport, more than five hours away in Oman, when Etihad Airways rebooked her on a flight to Bengaluru, where she had been scheduled to arrive two days earlier.",
+      "In an interview from her taxi after landing, she said that she wasn’t sure how she was selected for that flight but that only every other seat was occupied.",
+      "In Abu Dhabi, she said, she had been put up at the Grand Millennium Al Wahda, a five-star hotel, where the Emirati government covered all her expenses. Looking back on the experience, she added, “I was treated really well. But you’re thinking, ‘Am I going to be here a week? Is this situation going to get worse? I mean, how am I going to get out?'”"
+    ],
+    "paragraphTranslations": [
+      "最近，由于伊朗为了报复美国和以色列的攻击，使用导弹和无人机袭击该地区，阿联酋作为动荡地区的安全目的地这一声誉受到了严峻的考验。",
+      "本周末，迪拜那些价格高昂的酒店和度假村陷入了混乱。作为对以色列和美国的攻击的报复，伊朗向阿拉伯联合酋长国境内的多个目标发射了数百枚导弹和无人机。",
+      "在网上的视频中，可以看到五星级酒店如朱梅拉阿拉伯塔酒店和费尔蒙特迪拜酒店发生火灾的情景。在迪拜国际机场，一名乘客在航站楼发生爆炸后紧急疏散。迪拜国际机场是全球最繁忙的机场之一。爆炸导致四人受伤。",
+      "在阿布扎比，一架无人机袭击了扎耶德国际机场，导致1人死亡，7人受伤。",
+      "这些敌对行动对游客来说是一个巨大的惊喜。人们前往阿拉伯联合酋长国，不仅是为了品尝米其林星级餐厅的美食、享受优质的住宿和购物体验，也是因为该地区虽然局势动荡，但这里仍然是一个安全的目的地。根据迪拜经济和旅游部门发布的数据，去年迪拜作为全球十大热门旅游目的地之一，接待了1599万游客，比2024年创下的纪录增加了5%。该地区的机场已成为前往印度、非洲和亚洲的旅客的重要枢纽。2025年，超过3300万旅客通过阿布扎比的三个机场出行，这一数字创下了历史新高。这些袭击事件导致迪拜、阿布扎比和卡塔尔多哈的机场关闭。现在，随着战斗的持续，成千上万的游客和商务旅客正在努力预订返回家园的航班。根据航空数据公司Cirium的报告，自周六以来，中东地区的航班取消数量已达11,000次，目前已有100万名旅客受到此次航班取消的影响。",
+      "周一，有少量航班计划从迪拜和阿布扎比机场起飞。",
+      "该地区最大的航空公司——阿联酋航空在社交媒体上表示，将优先处理那些预订已被取消的乘客。这一公告引发了数百名焦急的乘客的回应，他们都在询问如何能够继续乘坐航班。“目前尚不确定”",
+      "周一，迪拜国际机场的候机区空无一人。迪拜国际机场是全球国际航班的枢纽，去年接待了超过9500万名乘客。 Atmosphere Research的航空行业分析师亨利·哈特维尔德表示，阿布扎比机场和卡塔尔的哈马德国际机场也是全球最大的国际航空枢纽之一。他提到，这一冲突可能会影响到全球各地的机场，并可能影响到国际航班的安排。",
+      "“目前还无法确定战斗何时结束，以及何时才能确保商业航班的安全恢复，”哈特维尔德特先生说。“显然，在消费者心中，他们会对是否应该前往那些机场感到非常担忧，至少在战斗结束后的短期内是如此。”",
+      "维什瓦斯·高达是一名23岁的工程师，居住在印度班加罗尔。他原本计划在迪拜停留九个小时。周六早上，他乘坐从迪拜飞往旧金山的阿联酋航班。然而，当得知机场空域被关闭的消息后，飞机不得不改变航线返回迪拜。他在迪拜时表示，机场一片混乱，排长队的情况非常普遍，而且“没有任何明确的下一步计划”。",
+      "他说，航空公司尚未联系他，告知他何时可以飞往旧金山或返回印度。",
+      "“我简直不敢相信我们根本没有任何逃生途径，”英国游客克雷西达·埃尔斯顿说道。她与丈夫以及两个孩子一起在迪拜的曼达林东方酒店度假。她在电话采访中说道：“当空中有爆炸声，根本无法知道下一颗导弹会落在哪里时，去海滩、假装自己正在度过一个正常的假期，这种感觉真是超现实。”",
+      "周六，手机收到了紧急警报，提示可能存在导弹威胁。游客们分享了自己和他人在酒店地下室中的照片；周日，他们被建议待在室内。",
+      "覆盖成本",
+      "周日，在迪拜棕榈岛附近的海域，一枚弹丸被截获，它正坠入海中。",
+      "阿拉伯联合酋长国在周日宣布，将承担滞留旅客的住宿费用。 阿联酋民航总局表示，将为超过2万名在周末期间无法离港的旅客支付餐饮和住宿费用。",
+      "阿拉伯联合酋长国国防部在周一表示，自周六发起攻击以来，已有174枚弹道导弹被发射到该国境内。此外，还发现了689架伊朗无人机，其中645架被拦截，44架落在了该国境内。还有几枚巡航导弹被拦截，其残骸造成了破坏。此次袭击导致3人死亡，68人受轻伤。",
+      "旅游业界人士淡化了这一情况，表示坠物事件只是个别案例。",
+      "“迪拜长期以来以其基础设施的可靠性、治理能力以及应对危机的能力而受到认可，”位于迪拜的旅游公司Turning Point Tourism的总经理阿里·阿斯加尔·侯赛因说道。",
+      "“局势依然平静，人们仍在尽可能地继续他们的日常生活，”咨询公司Travel Connections Arabia的董事总经理艾哈迈德·索利曼说道。",
+      "周一，迪拜的气氛相当平静。一些游客外出活动，而许多人则选择留在酒店里。有些人依靠私人安保公司，通过私人飞机或商业航班从迪拜前往沙特阿拉伯的利雅得和阿曼的马斯卡特。",
+      "“我们的方法非常简单：使用GPS追踪的地面运输服务，全天候从迪拜运送货物到各个开放边境地区，”全球风险管理公司Sicuro Group的首席执行官Rafal Hyps说。他提到，该公司已经为大约1000人提供了运输服务，“包括大型跨国公司的员工、家族企业主以及个人旅客。”",
+      "他拒绝透露通过陆路出行的费用，但表示该费用“相当于一张国际机票的价格”。周一，一些游客和当地居民在周末的袭击事件后开始踏上旅程。上图是迪拜海滩上，人们在海浪边晒太阳。",
+      "周一，只有少数航班从阿拉伯联合酋长国起飞，目前还没有关于周二是否有航班的信息。政府敦促乘客在确认航班后才能前往机场。",
+      "“通常情况下，我不会介意被困在迪拜的。这里很美，而且有很多事情可以做，”拉拉·里瓦说。她是一名在迪拜的意大利游客，她的返程航班在周日被取消了。“但这次的情况完全不同。”",
+      "57岁的丽贝卡·克洛西是费城德雷塞尔大学的教授。上周末，她被困在阿布扎比。当时她正在寻找前往最近的国际机场的航班，但最近的机场位于奥曼，距离超过五小时路程。后来，阿提哈德航空公司为她重新安排了一趟飞往班加罗尔的航班，而她原本计划两天前就抵达班加罗尔。",
+      "在飞机降落后的采访中，她表示不确定自己是如何被选中参加那次航班的，只是发现只有两个座位是空着的。",
+      "在阿布扎比，她说，她住在五星级酒店“Grand Millennium Al Wahda”里，阿联酋政府为她支付了所有的费用。回顾这段经历时，她补充说：“我受到了非常好的对待。但是你会想，‘我在这里能待一周吗？这种情况还会继续恶化吗？我该如何离开这里呢？’”"
+    ],
+    "vocabulary": [
+      {
+        "form": "volatile",
+        "ipa": "/ˈvɒlətaɪl/",
+        "pos": "adj.",
+        "meaning": "动荡的，不稳定的，变化无常的",
+        "definition": "a volatile situation is likely to change suddenly and without warning",
+        "zh": "动荡的，不稳定的，变化无常的"
+      },
+      {
+        "form": "brutal",
+        "ipa": "/ˈbruːtl/",
+        "pos": "adj.",
+        "meaning": "残酷的，野蛮的，无情的",
+        "definition": "very cruel and violent",
+        "zh": "残酷的，野蛮的，无情的"
+      },
+      {
+        "form": "retaliating",
+        "ipa": "/rɪˈtælieɪt/",
+        "pos": "v.",
+        "meaning": "报复，反击，还击",
+        "definition": "to do sth. bad to sb. because they have done sth. bad to you",
+        "zh": "报复，反击，还击"
+      },
+      {
+        "form": "resorts",
+        "ipa": "/rɪˈzɔːt/",
+        "pos": "n.",
+        "meaning": "度假胜地，旅游胜地",
+        "definition": "a place where a lot of people go for holidays",
+        "zh": "度假胜地，旅游胜地"
+      },
+      {
+        "form": "punctured",
+        "ipa": "/ˈpʌŋktʃə/",
+        "pos": "v.",
+        "meaning": "刺破，打破（氛围、自信等），挫伤",
+        "definition": "to suddenly destroy sb’s hopes or beliefs, making them feel unhappy, embarrassed, or confused",
+        "zh": "刺破，打破（氛围、自信等），挫伤"
+      },
+      {
+        "form": "scrambling",
+        "ipa": "/ˈskræmbəl/",
+        "pos": "v.",
+        "meaning": "仓促行动，慌乱移动，争抢",
+        "definition": "to try to do sth. difficult very quickly",
+        "zh": "仓促行动，慌乱移动，争抢"
+      },
+      {
+        "form": "evacuate",
+        "ipa": "/ɪˈvækjueɪt/",
+        "pos": "v.",
+        "meaning": "疏散，撤离，转移",
+        "definition": "to send people away from a dangerous place to a safe place",
+        "zh": "疏散，撤离，转移"
+      },
+      {
+        "form": "concourse",
+        "ipa": "/ˈkɒŋkɔːs/",
+        "pos": "n.",
+        "meaning": "（机场、车站的）大厅，中央通道；一群人，一堆人",
+        "definition": "a large hall or open area in a building such as an airport or train station",
+        "zh": "（机场、车站的）大厅，中央通道；一群人，一堆人"
+      },
+      {
+        "form": "hostilities",
+        "ipa": "/hɒˈstɪlətiz/",
+        "pos": "n.",
+        "meaning": "敌对行动，战争行动，军事冲突",
+        "definition": "(formal) fighting in a war",
+        "zh": "敌对行动，战争行动，军事冲突"
+      },
+      {
+        "form": "hospitality",
+        "ipa": "/ˌhɒspɪˈtælɪti/",
+        "pos": "n.",
+        "meaning": "热情款待，好客，（酒店餐饮业的）接待服务",
+        "definition": "friendly behaviour towards visitors",
+        "zh": "热情款待，好客，（酒店餐饮业的）接待服务"
+      },
+      {
+        "form": "airstrikes",
+        "ipa": "/ˈeəstraɪk/",
+        "pos": "n.",
+        "meaning": "空袭，空中打击",
+        "definition": "an attack made by aircraft",
+        "zh": "空袭，空中打击"
+      },
+      {
+        "form": "disruption",
+        "ipa": "/dɪsˈrʌpʃən/",
+        "pos": "n.",
+        "meaning": "中断，扰乱，破坏",
+        "definition": "a situation in which sth. is prevented from continuing in its usual way",
+        "zh": "中断，扰乱，破坏"
+      },
+      {
+        "form": "aviation",
+        "ipa": "/ˌeɪviˈeɪʃən/",
+        "pos": "n.",
+        "meaning": "航空，航空业",
+        "definition": "the science or practice of flying in aircraft",
+        "zh": "航空，航空业"
+      },
+      {
+        "form": "depart",
+        "ipa": "/dɪˈpɑːt/",
+        "pos": "v.",
+        "meaning": "出发，离开，起飞",
+        "definition": "to leave, especially when you are starting a journey",
+        "zh": "出发，离开，起飞"
+      },
+      {
+        "form": "carrier",
+        "ipa": "/ˈkæriə/",
+        "pos": "n.",
+        "meaning": "航空公司，承运人",
+        "definition": "a company that carries goods or passengers from one place to another",
+        "zh": "航空公司，承运人"
+      },
+      {
+        "form": "prioritize",
+        "ipa": "/praɪˈɒrɪtaɪz/",
+        "pos": "v.",
+        "meaning": "优先处理，优先考虑",
+        "definition": "to deal with the most important things first",
+        "zh": "优先处理，优先考虑"
+      },
+      {
+        "form": "stranded",
+        "ipa": "/strænd/",
+        "pos": "v.",
+        "meaning": "使滞留，使被困",
+        "definition": "to leave sb. in a place from which they have no way of leaving",
+        "zh": "使滞留，使被困"
+      },
+      {
+        "form": "ripple out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "扩散，蔓延，产生连锁反应",
+        "definition": "to spread outward from a central point, affecting more and more people or things",
+        "zh": "扩散，蔓延，产生连锁反应"
+      },
+      {
+        "form": "chill",
+        "ipa": "/tʃɪl/",
+        "pos": "v.",
+        "meaning": "使……降温，抑制，打击",
+        "definition": "to become cold but not freeze, or to make sth. cold without freezing it",
+        "zh": "使……降温，抑制，打击"
+      },
+      {
+        "form": "legitimate",
+        "ipa": "/ləˈdʒɪtəmət/",
+        "pos": "adj.",
+        "meaning": "合理的，正当的，合法的",
+        "definition": "fair or reasonable",
+        "zh": "合理的，正当的，合法的"
+      },
+      {
+        "form": "aftermath",
+        "ipa": "/ˈɑːftəmæθ/",
+        "pos": "n.",
+        "meaning": "余波，后果，事后阶段",
+        "definition": "the period of time after sth. such as a war, storm, or accident when people are still dealing with the results",
+        "zh": "余波，后果，事后阶段"
+      },
+      {
+        "form": "layover",
+        "ipa": "/ˈleɪəʊvə/",
+        "pos": "n.",
+        "meaning": "（旅途中的）中途停留，经停",
+        "definition": "a short stay somewhere between parts of a journey, especially a long plane journey",
+        "zh": "（旅途中的）中途停留，经停"
+      },
+      {
+        "form": "turned around",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "掉头，折返，转向",
+        "definition": "to change direction and go back the way you came",
+        "zh": "掉头，折返，转向"
+      },
+      {
+        "form": "surreal",
+        "ipa": "/səˈriːəl/",
+        "pos": "adj.",
+        "meaning": "超现实的，如梦似幻的，怪诞的",
+        "definition": "a situation or experience that is surreal is very strange and difficult to understand, like sth. from a dream",
+        "zh": "超现实的，如梦似幻的，怪诞的"
+      },
+      {
+        "form": "alerts",
+        "ipa": "/əˈlɜːt/",
+        "pos": "n.",
+        "meaning": "警报，警戒",
+        "definition": "a warning to be ready for possible danger",
+        "zh": "警报，警戒"
+      },
+      {
+        "form": "cover",
+        "ipa": "/ˈkʌvə/",
+        "pos": "v.",
+        "meaning": "承担（费用），支付",
+        "definition": "If a sum of money covers the cost of sth., it is enough to pay for it.",
+        "zh": "承担（费用），支付"
+      },
+      {
+        "form": "tab",
+        "ipa": "/tæb/",
+        "pos": "n.",
+        "meaning": "账单，费用",
+        "definition": "an amount of money that you owe, or a record of an amount of money that you owe",
+        "zh": "账单，费用"
+      },
+      {
+        "form": "accommodation",
+        "ipa": "/əˌkɒməˈdeɪʃən/",
+        "pos": "n.",
+        "meaning": "住宿，住处，膳宿",
+        "definition": "a place to live or stay, especially temporarily",
+        "zh": "住宿，住处，膳宿"
+      },
+      {
+        "form": "ballistic",
+        "ipa": "/bəˈlɪstɪk/",
+        "pos": "adj.",
+        "meaning": "弹道的",
+        "definition": "relating to the movement of objects that are thrown or fired through the air",
+        "zh": "弹道的"
+      },
+      {
+        "form": "launched",
+        "ipa": "/lɔːntʃ/",
+        "pos": "v.",
+        "meaning": "发射（导弹等），发动（攻击）",
+        "definition": "to send a weapon or spacecraft into the sky or into space",
+        "zh": "发射（导弹等），发动（攻击）"
+      },
+      {
+        "form": "intercepted",
+        "ipa": "/ˌɪntəˈsept/",
+        "pos": "v.",
+        "meaning": "拦截，截击，截获",
+        "definition": "to stop sth. or sb. that is going from one place to another before they get there",
+        "zh": "拦截，截击，截获"
+      },
+      {
+        "form": "cruise missiles",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "巡航导弹",
+        "definition": "a large weapon with a warhead that flies close to the ground and is guided by its own computer to an exact place",
+        "zh": "巡航导弹"
+      },
+      {
+        "form": "debris",
+        "ipa": "/ˈdebriː/",
+        "pos": "n.",
+        "meaning": "残骸，碎片，废墟",
+        "definition": "the pieces of sth. that are left after it has been destroyed in an accident, explosion, etc.",
+        "zh": "残骸，碎片，废墟"
+      },
+      {
+        "form": "downplayed",
+        "ipa": "/ˌdaʊnˈpleɪ/",
+        "pos": "v.",
+        "meaning": "淡化，低估，轻描淡写",
+        "definition": "to make sth. seem less important or less serious than it really is",
+        "zh": "淡化，低估，轻描淡写"
+      },
+      {
+        "form": "isolated",
+        "ipa": "/ˈaɪsəleɪtɪd/",
+        "pos": "adj.",
+        "meaning": "孤立的，个别的，偶发的",
+        "definition": "an isolated action, event, example, etc. happens only once, and is not likely to happen again",
+        "zh": "孤立的，个别的，偶发的"
+      },
+      {
+        "form": "infrastructure",
+        "ipa": "/ˈɪnfrəstrʌktʃə/",
+        "pos": "n.",
+        "meaning": "基础设施，基础建设",
+        "definition": "the basic systems and structures that a country or organisation needs in order to work properly, e.g. roads, railways, banks, etc.",
+        "zh": "基础设施，基础建设"
+      },
+      {
+        "form": "resilience",
+        "ipa": "/rɪˈzɪliəns/",
+        "pos": "n.",
+        "meaning": "适应力，恢复力，韧性",
+        "definition": "the ability to become strong, happy, or successful again after a difficult situation or event",
+        "zh": "适应力，恢复力，韧性"
+      },
+      {
+        "form": "ventured",
+        "ipa": "/ˈventʃə/",
+        "pos": "v.",
+        "meaning": "冒险前往，大胆尝试",
+        "definition": "to go somewhere even though you know that it might be dangerous or unpleasant",
+        "zh": "冒险前往，大胆尝试"
+      },
+      {
+        "form": "specify",
+        "ipa": "/ˈspesɪfaɪ/",
+        "pos": "v.",
+        "meaning": "明确说明，具体指出，详细说明",
+        "definition": "to state sth. in an exact and detailed way",
+        "zh": "明确说明，具体指出，详细说明"
+      },
+      {
+        "form": "put up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "为某人提供住宿，安置某人；短暂停留，暂住",
+        "definition": "to let sb. stay in your house and give them meals",
+        "zh": "为某人提供住宿，安置某人；短暂停留，暂住"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to send people away from a dangerous place to a safe place",
+      "a large hall or open area in a building such as an airport or train station"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The quiet luxury of Dubai’s high-priced hotels and resorts was punctured this weekend as Iran aimed hundreds of missiles and drones at targets across the United Arab Emirates in retaliation for the Israeli-U.S. attack.”?",
+    "exerciseChoiceMarked": [
+      "punctured"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The nurse carefully punctured the patient’s vein to draw blood.",
+        "marked": [
+          "punctured"
+        ],
+        "zh": "护士小心地刺穿病人的静脉来抽取血液。"
+      },
+      {
+        "label": "B",
+        "text": "The comedian’s sharp joke punctured the politician’s carefully crafted image.",
+        "marked": [
+          "punctured"
+        ],
+        "zh": "喜剧演员一句尖锐的笑话，戳破了那名政客精心塑造的形象。"
+      },
+      {
+        "label": "C",
+        "text": "A nail on the road punctured the bicycle tire.",
+        "marked": [
+          "punctured"
+        ],
+        "zh": "路上的钉子刺破了自行车的轮胎。"
+      },
+      {
+        "label": "D",
+        "text": "The scientist used a needle to puncture the membrane during the experiment.",
+        "marked": [
+          "puncture"
+        ],
+        "zh": "科学家在实验过程中使用针来刺穿膜。"
+      }
+    ],
+    "exerciseTranslationPrompt": "阿联酋在动荡地区被视为安全目的地的声誉，近日遭遇严峻考验——伊朗为报复美国与以色列的袭击，向该地区发射导弹和无人机。",
+    "answerVocabularyList": [
+      "evacuate",
+      "concourse"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "The Emirates’ reputation as a safe destination in a volatile area was put to a brutal test in recent days as Iran, retaliating against U.S.-Israeli attacks, targeted the region with missiles and drones."
   },
   {
     "key": "mar0309",
@@ -3442,6 +8065,358 @@ export const februaryMarchMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "mar0317",
+    "date": "2026.03.17",
+    "period": "2026年3月",
+    "folder": "0317 我在巴黎吃了顿贵的，然后开始怀疑人生",
+    "titleZh": "我在巴黎吃了顿贵的，然后开始怀疑人生",
+    "title": "A taste of the divine",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Julian Baggini, Aeon, Published October 17, 2012",
+    "paragraphs": [
+      "We have taken our places. This evening’s performance, sold out months in advance, is about to begin. The programme, handwritten in a traditional script on a rolled parchment, tied with string, tells us to expect a prologue, two chapters and an epilogue, without interval. I’m nervous with anticipation but I’m somewhat embarrassed to admit that it’s not because I am waiting for the curtain to rise on a Wagner opera or a Shakespeare play. I’m actually waiting for my dinner.",
+      "This is no ordinary meal, however. It’s the 19-course tasting menu at one of the world’s best restaurants, Frantzén/Lindeberg in Stockholm. Ranked number 20 in Restaurant magazine’s influential annual survey, it earned two Michelin stars in its first two years and is almost certain to get a third. Food doesn’t get much, if any, better than this.",
+      "Yet there seems something wrong about the effort and expense that fine dining like this involves. And when the average bill is the stiffest in the Nordic region, around €350 (or £280) per head, that unease can turn to moral outrage. What on earth could justify spending so much money on what is ultimately just fuel for humans, especially in a world where almost one billion people still go hungry every day?",
+      "Answering these questions was the main reason I was at the table at all. I was writing a book on food and philosophy and felt I needed to experience some of the extremes of food luxury. Of course, I also love eating, so it was a wonderful excuse. But I really don’t think I could have justified the reservation without some rationale other than pure pleasure. After all, this was going to be the most expensive three hours of my life.",
+      "Earlier, I had interviewed the head chef Björn Frantzén and he had played down expectations. He told me that he likes eating the sausages sold at football matches. Also that ‘I know there’s so many things wrong with it, but I think McDonald’s is nice’. And that ‘At the end of the day, let’s not forget, it’s a restaurant, you go to a restaurant because normally you’re hungry and it’s just food.’ As it turned out, he could not have been more wrong. This is not just food, and hunger is not the reason to eat it.",
+      "Take, for instance, the bone-marrow with caviar and smoked parsley. Delicious but, for all that, you might say it’s just an ephemeral experience. The obvious rejoinder is that of course it’s ephemeral: all experiences are; life itself is. The difference is that unlike, say, opera, when you are eating food you can never forget that fact. Certain aesthetic experiences of high art create a sense of transcendence, a feeling that you are somehow transported beyond the merely mortal realm to taste something of the divine. Indeed, that is precisely why some people believe art is so important.",
+      "I would argue the other way. The problem with art is that it can fool us into forgetting that we are mortal, flesh-and-blood creatures. The culinary arts, on the other hand, remind us that we are creatures of bone and guts. Fine food is about the aesthetic of the immanent, not the transcendent. A mouthful of Frantzén’s diver scallops, truffle purée and bouillons transports you to heaven while never letting you forget it is a perishable place on Earth. Through experiences like these you come to know the potential intensity of being alive, what it means, as Thoreau recommended, to suck out all the marrow of life."
+    ],
+    "paragraphTranslations": [
+      "我们已经就位了。今晚的演出已经提前数月售罄，现在即将开始。演出节目单是用传统的书写方式写在卷轴上，并用绳子系住的，上面写着会有序幕、两章以及一段尾声，没有中间休息。我虽然紧张而期待，但有些不好意思承认，其实不是因为我在期待一场瓦格纳的歌剧或莎士比亚的戏剧的演出。我其实是在等待吃晚饭。",
+      "不过，这绝对不是普通的餐点。这是来自斯德哥尔摩最知名餐厅之一——Frantzén/Lindeberg餐厅的19道菜菜单。该餐厅在《餐厅》杂志的年度调查中排名第20位，在最初的两年里获得了两个米其林星级，而且几乎可以肯定还能获得第三个星级。这样的美食，实在很难有比这更出色的了。",
+      "然而，这种高消费的餐饮活动似乎有些不妥。当人均消费在北欧地区达到350欧元（或280英镑）这一较高水平时，这种不安感就会转化为道德上的愤怒。究竟有什么理由要花费如此多的钱来购买那些最终只是供人类使用的燃料呢？尤其是在一个每天仍有近十亿人处于饥饿状态的世界里。",
+      "回答这些问题是我参加这次活动的主要原因。我正在写一本关于食物与哲学的书籍，我觉得有必要体验一下最奢华的食物体验。当然，我也非常喜欢美食，所以这当然是一个很好的理由。但实际上，我觉得如果没有其他理由，只是单纯为了享受美食，那就不算是一种合理的理由了。毕竟，这将是我一生中最昂贵的三小时时光。",
+      "之前，我采访了主厨比约恩·弗兰岑。他淡化了这种食物的吸引力。他告诉我，他喜欢在足球比赛现场吃的香肠。他还说：“我知道这种食物有很多问题，但我觉得麦当劳还是不错的。”不过，他最后补充说：“归根结底，我们不要忘记，这终究是一家餐厅。人们去餐厅吃饭，通常是因为肚子饿了，而食物本身就是用来充饥的。”结果，他完全错了。这不仅仅是食物的问题，肚子饿并不是人们吃食物的原因。",
+      "以骨髓配鱼子酱和烟熏欧芹为例吧。虽然味道美味，但可以说这只是一次短暂的美妙体验而已。显而易见的反驳是，这种体验当然也是短暂的——所有的体验都是如此；生命本身也是如此。不同的是，与歌剧等艺术形式不同，在品尝美食时，你永远无法忘记这一事实。某些高级艺术的美学体验能够创造出一种超越尘世、仿佛能进入神圣领域的感觉。事实上，这正是为什么有些人认为艺术如此重要的原因所在。",
+      "我则认为情况恰恰相反。艺术的问题在于，它可能会让我们忘记自己都是凡人，都是具有血肉之躯的生物。而烹饪艺术则提醒我们，我们终究是有着骨骼和内脏的生物。精美的美食所追求的是对现实世界的美学呈现，而非超脱于现实之外的事物。一口Frantzén餐厅的扇贝、松露浓汤和炖菜，会带您进入天堂般的体验，同时不会让您忘记这里终究是地球上一个易逝的世界。通过这样的体验，人们会意识到活着的生命的真正意义——正如梭罗所建议的那样，要尽情享受生命的每一刻。"
+    ],
+    "vocabulary": [
+      {
+        "form": "parchment",
+        "ipa": "/ˈpɑːtʃmənt/",
+        "pos": "n.",
+        "meaning": "羊皮纸",
+        "definition": "material made from the skin of a sheep or goat, used in the past for writing on",
+        "zh": "羊皮纸"
+      },
+      {
+        "form": "prologue",
+        "ipa": "/ˈprəʊlɒɡ/",
+        "pos": "n.",
+        "meaning": "序言，序幕，开场白",
+        "definition": "a speech, etc. at the beginning of a play, book or film that introduces it",
+        "zh": "序言，序幕，开场白"
+      },
+      {
+        "form": "epilogue",
+        "ipa": "/ˈepɪlɒɡ/",
+        "pos": "n.",
+        "meaning": "尾声，后记，结语，收场白",
+        "definition": "a speech, etc. at the end of a play, book, or film that comments on or acts as a conclusion to what has happened",
+        "zh": "尾声，后记，结语，收场白"
+      },
+      {
+        "form": "interval",
+        "ipa": "/ˈɪntəvl/",
+        "pos": "n.",
+        "meaning": "（演出、电影、音乐会的）中场休息，间歇",
+        "definition": "a short period of time separating parts of a play, film or concert",
+        "zh": "（演出、电影、音乐会的）中场休息，间歇"
+      },
+      {
+        "form": "stiffest",
+        "ipa": "/stɪf/",
+        "pos": "adj.",
+        "meaning": "昂贵的，过高的",
+        "definition": "(informal) costing a lot or too much",
+        "zh": "昂贵的，过高的"
+      },
+      {
+        "form": "outrage",
+        "ipa": "/ˈaʊtreɪdʒ/",
+        "pos": "n.",
+        "meaning": "愤慨，震怒，义愤",
+        "definition": "a strong feeling of shock and anger",
+        "zh": "愤慨，震怒，义愤"
+      },
+      {
+        "form": "justify",
+        "ipa": "/ˈdʒʌstɪfaɪ/",
+        "pos": "v.",
+        "meaning": "证明……是正当的，为……辩护，是……的合理理由",
+        "definition": "to show that sb./sth. is right or reasonable",
+        "zh": "证明……是正当的，为……辩护，是……的合理理由"
+      },
+      {
+        "form": "rationale",
+        "ipa": "/ˌræʃəˈnɑːl/",
+        "pos": "n.",
+        "meaning": "根本原因，逻辑依据",
+        "definition": "(formal) the principles or reasons which explain a particular decision, course of action, belief, etc.",
+        "zh": "根本原因，逻辑依据"
+      },
+      {
+        "form": "played down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "贬低，淡化，轻描淡写",
+        "definition": "to try to make sth. seem less important than it really is",
+        "zh": "贬低，淡化，轻描淡写"
+      },
+      {
+        "form": "sausages",
+        "ipa": "/ˈsɒsɪdʒ/",
+        "pos": "n.",
+        "meaning": "香肠，腊肠",
+        "definition": "a mixture of meat, fat, bread, etc. cut into small pieces, put into a long tube of skin, cooked and eaten whole or served cold in thin slices",
+        "zh": "香肠，腊肠"
+      },
+      {
+        "form": "bone-marrow",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "骨髓",
+        "definition": "a soft substance that fills the hollow parts of bones",
+        "zh": "骨髓"
+      },
+      {
+        "form": "caviar",
+        "ipa": "/ˈkæviɑː(r)/",
+        "pos": "n.",
+        "meaning": "鱼子酱",
+        "definition": "the eggs of some types of fish, especially the sturgeon, that are preserved using salt and eaten as a very special and expensive type of food",
+        "zh": "鱼子酱"
+      },
+      {
+        "form": "parsley",
+        "ipa": "/ˈpɑːsli/",
+        "pos": "n.",
+        "meaning": "欧芹",
+        "definition": "a plant with curly green leaves that are used in cooking as a herb and to decorate food",
+        "zh": "欧芹"
+      },
+      {
+        "form": "ephemeral",
+        "ipa": "/ɪˈfemərəl/",
+        "pos": "adj.",
+        "meaning": "短暂的，转瞬即逝的",
+        "definition": "(formal) lasting or used for only a short period of time",
+        "zh": "短暂的，转瞬即逝的"
+      },
+      {
+        "form": "rejoinder",
+        "ipa": "/rɪˈdʒɔɪndə(r)/",
+        "pos": "n.",
+        "meaning": "反驳，回应，机敏的回答",
+        "definition": "(formal) a reply, especially a quick, critical or funny one",
+        "zh": "反驳，回应，机敏的回答"
+      },
+      {
+        "form": "mortal",
+        "ipa": "/ˈmɔːtl/",
+        "pos": "adj.",
+        "meaning": "终有一死的，凡人的，不能永生的",
+        "definition": "that cannot live forever and must die",
+        "zh": "终有一死的，凡人的，不能永生的"
+      },
+      {
+        "form": "culinary",
+        "ipa": "/ˈkʌlɪnəri/",
+        "pos": "adj.",
+        "meaning": "烹饪的，食物的",
+        "definition": "(formal) connected with cooking or food",
+        "zh": "烹饪的，食物的"
+      },
+      {
+        "form": "immanent",
+        "ipa": "/ˈɪmənənt/",
+        "pos": "adj.",
+        "meaning": "内在的，固有的",
+        "definition": "(formal) present as a natural part of sth.",
+        "zh": "内在的，固有的"
+      },
+      {
+        "form": "scallops",
+        "ipa": "/ˈskɒləp/",
+        "pos": "n.",
+        "meaning": "扇贝",
+        "definition": "a shellfish that can be eaten, with two flat round shells that fit together",
+        "zh": "扇贝"
+      },
+      {
+        "form": "truffle",
+        "ipa": "/ˈtrʌfl/",
+        "pos": "n.",
+        "meaning": "松露",
+        "definition": "an expensive type of fungus that grows underground, used in cooking",
+        "zh": "松露"
+      },
+      {
+        "form": "perishable",
+        "ipa": "/ˈperɪʃəbl/",
+        "pos": "adj.",
+        "meaning": "易腐烂的，易变质的",
+        "definition": "(especially of food) likely to decay or go bad quickly",
+        "zh": "易腐烂的，易变质的"
+      },
+      {
+        "form": "nagging",
+        "ipa": "/næɡ/",
+        "pos": "v.",
+        "meaning": "不断困扰，使心烦意乱",
+        "definition": "to worry you or cause you pain continuously",
+        "zh": "不断困扰，使心烦意乱"
+      },
+      {
+        "form": "rhubarb",
+        "ipa": "/ˈruːbɑːb/",
+        "pos": "n.",
+        "meaning": "大黄，食用大黄",
+        "definition": "the thick red stems of a garden plant, also called rhubarb, that are cooked and eaten as a fruit",
+        "zh": "大黄，食用大黄"
+      },
+      {
+        "form": "juniper",
+        "ipa": "/ˈdʒuːnɪpə(r)/",
+        "pos": "n.",
+        "meaning": "杜松",
+        "definition": "a bush or small tree with purple berries that are used in medicine and to add taste to gin",
+        "zh": "杜松"
+      },
+      {
+        "form": "turbot",
+        "ipa": "/ˈtɜːbət/",
+        "pos": "n.",
+        "meaning": "大菱鲆，多宝鱼",
+        "definition": "a large, flat European sea fish that is used for food",
+        "zh": "大菱鲆，多宝鱼"
+      },
+      {
+        "form": "asparagus",
+        "ipa": "/əˈspærəɡəs/",
+        "pos": "n.",
+        "meaning": "芦笋",
+        "definition": "a plant whose young green or white stems are cooked and eaten as a vegetable",
+        "zh": "芦笋"
+      },
+      {
+        "form": "orchestra",
+        "ipa": "/ˈɔːkɪstrə/",
+        "pos": "n.",
+        "meaning": "管弦乐队",
+        "definition": "a large group of people who play various musical instruments together, led by a conductor",
+        "zh": "管弦乐队"
+      },
+      {
+        "form": "chorus",
+        "ipa": "/ˈkɔːrəs/",
+        "pos": "n.",
+        "meaning": "合唱团，合唱队",
+        "definition": "a large group of singers",
+        "zh": "合唱团，合唱队"
+      },
+      {
+        "form": "conspicuous",
+        "ipa": "/kənˈspɪkjuəs/",
+        "pos": "adj.",
+        "meaning": "显眼的，显著的，惹人注目的",
+        "definition": "easy to see or notice; likely to attract attention",
+        "zh": "显眼的，显著的，惹人注目的"
+      },
+      {
+        "form": "servile",
+        "ipa": "/ˈsɜːvaɪl/",
+        "pos": "adj.",
+        "meaning": "卑躬屈膝的，奴性的，过分顺从的",
+        "definition": "(disapproving) wanting too much to please sb. and obey them",
+        "zh": "卑躬屈膝的，奴性的，过分顺从的"
+      },
+      {
+        "form": "connoisseur",
+        "ipa": "/ˌkɒnəˈsɜː(r)/",
+        "pos": "n.",
+        "meaning": "鉴赏家，行家，内行",
+        "definition": "an expert on matters involving the judgement of beauty, quality or skill in art, food or music",
+        "zh": "鉴赏家，行家，内行"
+      },
+      {
+        "form": "conning",
+        "ipa": "/kɒn/",
+        "pos": "v.",
+        "meaning": "欺骗，诈骗，哄骗",
+        "definition": "(informal) to trick sb., especially in order to get money from them or persuade them to do sth. for you",
+        "zh": "欺骗，诈骗，哄骗"
+      },
+      {
+        "form": "poseur",
+        "ipa": "/pəʊˈzɜː(r)/",
+        "pos": "n.",
+        "meaning": "装腔作势的人，故作姿态的人",
+        "definition": "(disapproving) a person who behaves or dresses in a way that is intended to impress other people and is not sincere",
+        "zh": "装腔作势的人，故作姿态的人"
+      },
+      {
+        "form": "glean",
+        "ipa": "/ɡliːn/",
+        "pos": "v.",
+        "meaning": "收集，搜集（信息、知识）",
+        "definition": "to obtain information, knowledge, etc., sometimes with difficulty and often from various different places",
+        "zh": "收集，搜集（信息、知识）"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "lasting or used for only a short period of time",
+      "present as a natural part of sth."
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “And when the average bill is the stiffest in the Nordic region, around €350 (or £280) per head, that unease can turn to moral outrage.”?",
+    "exerciseChoiceMarked": [
+      "stiffest"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Her fingers were stiff with cold inside her leather gloves.",
+        "marked": [
+          "stiff"
+        ],
+        "zh": "她戴着皮手套，手指仍冻得僵硬。"
+      },
+      {
+        "label": "B",
+        "text": "The restaurant charged us a stiff price for a simple lunch.",
+        "marked": [
+          "stiff"
+        ],
+        "zh": "这家餐厅为简单的午餐收取了极高的价格。"
+      },
+      {
+        "label": "C",
+        "text": "The speech he made to welcome them was stiff and formal.",
+        "marked": [
+          "stiff"
+        ],
+        "zh": "他为了欢迎他们而发表的演讲显得非常生硬和正式。"
+      },
+      {
+        "label": "D",
+        "text": "She offered stiff resistance to a thief attempting to snatch her bag.",
+        "marked": [
+          "stiff"
+        ],
+        "zh": "她坚决抵抗了那个试图抢走她包的窃贼。"
+      }
+    ],
+    "exerciseTranslationPrompt": "在这个仍有近十亿人每天忍饥挨饿的世界里，究竟有什么理由能为如此挥霍辩解？毕竟，食物终究只是人类维持生命的燃料。",
+    "answerVocabularyList": [
+      "ephemeral",
+      "immanent"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "What on earth could justify spending so much money on what is ultimately just fuel for humans, especially in a world where almost one billion people still go hungry every day?"
+  },
+  {
     "key": "mar0318",
     "date": "2026.03.18",
     "period": "2026年03月",
@@ -4618,6 +9593,360 @@ export const februaryMarchMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "pitched"
     ]
+  },
+  {
+    "key": "mar0325",
+    "date": "2026.03.25",
+    "period": "2026年3月",
+    "folder": "0325伊朗无人机为什么厉害？12",
+    "titleZh": "伊朗无人机为什么厉害？ 1",
+    "title": "Iran’s Drone Advantage",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "By Michael C. Horowitz and Lauren A. Kahn, Foreign Affairs, Published March 11, 2026",
+    "paragraphs": [
+      "The Pentagon Copied Tehran’s Technology but Is Still Struggling to Keep Up",
+      "When the United States launched airstrikes on Iran on February 28, 2026, it marked the combat debut of the U.S. military’s newest drone, the Low-Cost Unmanned Combat Attack System. U.S. Central Command confirmed that the new LUCAS drones were used in the strikes and has said more of them “remain ready for employment” in Iran. The great irony, however, is that the LUCAS drone is based on Iran’s own low-cost one-way attack drone, the Shahed-136. In May 2025, U.S. President Donald Trump publicly praised the Iranian drones as cheap to produce, as well as “very good … and fast and deadly.” And when the Pentagon released the LUCAS in December, astute observers were quick to notice its similarities to the Shahed-136.",
+      "The idea that the United States, the world’s preeminent military power, would copy Iranian technology would have seemed fantastical just a few years ago. And yet, the Shahed-136, after being sold to Russia for use against Ukraine, was captured and studied by the U.S. military, improved on and produced by a small company in Arizona, and is now being used against Iranian targets. For its part, Tehran has unleashed a wave of Shahed-136 drones across the Middle East as part of its response to Washington’s Operation Epic Fury. The drones have struck buildings in Bahrain, Kuwait, and the United Arab Emirates, and even the U.S. embassy in Saudi Arabia. Although the size of Tehran’s remaining stockpile of drones is unclear, their sweeping deployment has become a critical element of the Iranian strategy for retaliation and proves that the character of war has changed.",
+      "Indeed, the United States’s adversaries have much to teach it in this new era. Although Washington still leads in the development and deployment of sophisticated capabilities, such as fighter jets, tanks, and cruise missiles, Iran, Russia, and Ukraine are ahead in the development and deployment of low-cost, increasingly autonomous drones for surveillance, as well as for short-range and long-range strikes. Washington now recognizes the need for these systems, but it has yet to take the steps necessary to manufacture them at scale. Moscow has a daily target of producing up to 1,000 Geran-2 drones this year. Washington could start churning out similar numbers of LUCAS drones in a matter of months, but only if it makes the necessary policy changes and investments. If the United States is to remain dominant in this new military reality, it will need to learn from its history and adapt. Otherwise—and this is especially the case in a conflict in the Indo-Pacific—sophisticated and expensive U.S. systems will be overwhelmed by cheaper munitions, with catastrophic consequences.",
+      "ATTACK OF THE DRONES",
+      "Washington’s interest in Iran’s Shahed-136 is unusual and, in some respects, unprecedented. Although U.S. scientists have long striven to acquire adversaries’ military technology— racing to recover the wrecks of Soviet aircraft, for instance, or purchasing Chinese technology from third parties—the purpose was not to copy it. Rather, Washington generally acquired an adversary’s technology to learn how to defeat them. Over the last 80 years, there have been only a handful of examples of the U.S. military constructing and fielding its own version of a foreign capability. A rare instance occurred in the early 1970s when the U.S. Army Mobility Equipment Research and Development Command used photographs and sketches of a Soviet folding float bridge—a temporary system designed to enable the rapid movement of troops, vehicles, and supplies across rivers—to develop a comparable capability. In the following half century, there were no comparable examples of Washington appropriating an adversary’s military capabilities. The United States was comfortable in its supremacy in methods and means of warfare, and did not feel the need to copy what others were doing.",
+      "That age of confidence has been ended by the comparative inferiority of U.S. long-range one-way attack weapons. The evidence of this has become impossible to ignore. The Pentagon’s Switchblade 600 drone, for example, was fast-tracked to Ukraine in 2022. It has a range of less than 60 miles and can cost as much as $120,000 per unit. Even putting cost aside, the Pentagon viewed one-way attack weapons as short-range weapons, complementing artillery. When Iran debuted the Shahed-136 in 2022, by contrast, it came with an estimated range of 940-1,240 miles, a payload of 110-330 pounds, and a cost per unit of around $35,000. Russia acquired the technology from Iran almost immediately for its war against Ukraine. Since then, Moscow has sent Shahed swarms to attack Ukrainian cities and civilian infrastructure with surprising frequency. By March 2024, Moscow was launching 130 drones a week; six months later, it was launching more than 1,100 Shahed-type drones per week.",
+      "In the age of precise mass—characterized by the widespread deployment of scalable, low-cost, precision weapons and sensors by state and nonstate actors, at both short and long ranges—the United States no longer has a monopoly on inventing useful military technology. Rather, warfare for small, technologically restricted actors is now achievable and repeatable as never before, as useful military capabilities can be easily and inexpensively produced. For decades, the United States developed innovative military technologies, including precision-strike capabilities, that cost billions of dollars and took many years to produce. There is still a role for these weapons. But now the U.S. military must also develop inexpensive weapons and produce them at scale—fast. The fact that a U.S. knockoff of an Iranian weapon is the exemplar of the Trump administration’s “drone dominance program,” promoted by the Pentagon on social media, shows how much the world has changed."
+    ],
+    "paragraphTranslations": [
+      "五角大楼虽然复制了德黑兰的技术，但仍难以跟上其发展步伐",
+      "2026年2月28日，美国对伊朗发动空袭时，美国军队最新型无人机——低成本无人作战攻击系统首次投入实战。美国中央司令部证实，这些新的LUCAS无人机被用于此次空袭，并表示还有更多此类无人机“随时可以投入使用”。然而，具有讽刺意味的是，LUCAS无人机实际上是基于伊朗自己制造的低成本单向攻击无人机——Shahed-136设计的。2025年5月，美国总统唐纳德·特朗普公开称赞伊朗的无人机生产成本低廉，且“性能极佳，速度快且致命”。当五角大楼在12月发布LUCAS无人机时，敏锐的观察者们迅速注意到它与Shahed-136之间的相似之处。",
+      "几年前，美国作为世界最强大的军事力量，竟然会模仿伊朗的技术，这种想法似乎简直不可思议。然而，Shahed-136这种无人机，在被出售给俄罗斯用于对抗乌克兰之后，被美国军队捕获并进行了研究。后来，这种无人机由亚利桑那州的一家小型公司改进并生产出来，现在正被用于攻击伊朗的目标。作为回应，德黑兰在中东地区部署了大量Shahed-136无人机，这是其对华盛顿“史诗般愤怒”行动的一部分。这些无人机已经袭击了巴林、科威特和阿拉伯联合酋长国的建筑物，甚至还有沙特阿拉伯的美国大使馆。虽然德黑兰剩余的无人机数量不详，但它们的广泛部署已成为伊朗报复策略中的关键要素，这证明了战争的本质已经发生了变化。",
+      "的确，在这个新时代中，美国的对手有很多东西可以教给美国。虽然华盛顿在开发和使用先进武器方面仍然处于领先地位，比如战斗机、坦克和巡航导弹，但伊朗、俄罗斯和乌克兰在开发和使用低成本、具有高度自动化的监控无人机方面则处于优势地位，这些无人机既可用于短程攻击，也可用于远程攻击。华盛顿现在意识到需要这些系统，但尚未采取必要的措施来大规模生产它们。莫斯科今年的目标是每年生产多达1000架Geran-2无人机。华盛顿可能在几个月内开始生产类似数量的LUCAS无人机，但这需要做出必要的政策调整和投资。如果美国要在这个新的军事现实中保持优势地位，就必须从历史中吸取经验并进行适应。否则——尤其是在印度-太平洋地区的冲突中——复杂的、昂贵的美国系统将被更便宜的武器所击败，带来灾难性的后果。",
+      "龙之袭击",
+      "华盛顿对伊朗的Shahed-136武器的兴趣非常罕见，甚至可以说是一种前所未有的行为。尽管美国科学家长期以来一直努力获取敌方的军事技术——例如，试图修复苏联飞机的残骸，或从第三方手中购买中国的技术——但他们的目的并非为了复制这些技术。相反，美国通常是为了学习如何击败对手而获取敌方的技术。在过去80年里，美国军队自行开发类似外国技术的案例仅有少数几次。在20世纪70年代初，美国陆军机动性装备研究与发展指挥部曾利用一张苏联折叠浮桥的照片和示意图来开发类似的技术。在接下来的半个世纪里，华盛顿几乎没有采用过敌方军事技术的案例。美国在战争的方式和手段方面拥有优势，并不觉得有必要模仿其他国家的方法。",
+      "这种“自信”的时代已经结束了，因为美国的远程单向攻击武器在性能上远远落后于其他国家。这一事实已经无法忽视。例如，五角大楼在2022年将“Switchblade 600”无人机部署到了乌克兰。这种无人机的射程不足60英里，每架的成本高达12万美元。即便不考虑成本问题，五角大楼仍然将这种武器视为短程武器，作为火力的补充。相比之下，当伊朗在2022年推出“Shahed-136”无人机时，其预计射程为940至1240英里，载弹量达110至330磅，每架成本约为3.5万美元。俄罗斯几乎立即从伊朗获得了这项技术，用于对抗乌克兰。从那时起，莫斯科频繁使用“Shahed-136”无人机袭击乌克兰的城市和民用基础设施。到2024年3月，莫斯科每周发射130架这种无人机；六个月后，每周发射的“Shahed-136”无人机数量超过了1100架。",
+      "在精确制导武器的时代——这一时代的特点是，无论是国家还是非国家行为体都在广泛部署可扩展、低成本且精度高的武器和传感器，无论是在短距离还是长距离的作战中——美国不再垄断着创新实用军事技术的权利。相反，对于技术资源有限的小规模军事力量来说，现在可以以前所未有的方式实现和重复性的战争，因为各种实用军事能力可以轻松且低成本地生产。几十年来，美国一直致力于开发创新性的军事技术，包括那些需要花费数十亿美元、且需要多年时间才能制造出来的精确打击能力。这些武器仍然具有作用。但现在，美国军队还必须开发低成本且能够快速大规模生产的武器。事实上，美国仿制的伊朗武器就是特朗普政府“无人机主导计划”的典范，而五角大楼在社交媒体上推广这一计划，这充分说明了世界的巨大变化。"
+    ],
+    "vocabulary": [
+      {
+        "form": "airstrikes",
+        "ipa": "/ˈeəstraɪk/",
+        "pos": "n.",
+        "meaning": "空袭，空中打击，空中攻击",
+        "definition": "an attack made by aircraft",
+        "zh": "空袭，空中打击，空中攻击"
+      },
+      {
+        "form": "combat",
+        "ipa": "/ˈkɒmbæt/",
+        "pos": "n.",
+        "meaning": "战斗，作战，交战",
+        "definition": "fighting, especially during a war",
+        "zh": "战斗，作战，交战"
+      },
+      {
+        "form": "debut",
+        "ipa": "/ˈdeɪbjuː/, /ˈdebjuː/",
+        "pos": "n.",
+        "meaning": "首次亮相，初登场，出道",
+        "definition": "the first public appearance of a performer, sports player, etc. or of sth. new and important",
+        "zh": "首次亮相，初登场，出道"
+      },
+      {
+        "form": "irony",
+        "ipa": "/ˈaɪrəni/",
+        "pos": "n.",
+        "meaning": "讽刺，出乎意料，反讽",
+        "definition": "a situation that is unusual or amusing because sth. strange happens, or the opposite of what is expected happens or is true",
+        "zh": "讽刺，出乎意料，反讽"
+      },
+      {
+        "form": "deadly",
+        "ipa": "/ˈdedli/",
+        "pos": "adj.",
+        "meaning": "致命的，危险的，毁灭性的",
+        "definition": "likely to cause death",
+        "zh": "致命的，危险的，毁灭性的"
+      },
+      {
+        "form": "astute",
+        "ipa": "/əˈstjuːt/",
+        "pos": "adj.",
+        "meaning": "精明的，敏锐的，有洞察力的",
+        "definition": "able to understand situations or behaviour very well and very quickly, especially so that you can get an advantage for yourself",
+        "zh": "精明的，敏锐的，有洞察力的"
+      },
+      {
+        "form": "preeminent",
+        "ipa": "/ˌpriːˈemɪnənt/",
+        "pos": "adj.",
+        "meaning": "卓越的，杰出的，首屈一指的",
+        "definition": "much more important, more powerful, or better than others",
+        "zh": "卓越的，杰出的，首屈一指的"
+      },
+      {
+        "form": "fantastical",
+        "ipa": "/fænˈtæstɪkəl/",
+        "pos": "adj.",
+        "meaning": "奇幻的，不真实的，不可思议的",
+        "definition": "strange, unreal, and magical",
+        "zh": "奇幻的，不真实的，不可思议的"
+      },
+      {
+        "form": "unleashed",
+        "ipa": "/ʌnˈliːʃ/",
+        "pos": "v.",
+        "meaning": "释放，发动，使爆发",
+        "definition": "to suddenly let a strong force, feeling, etc. have its full effect",
+        "zh": "释放，发动，使爆发"
+      },
+      {
+        "form": "stockpile",
+        "ipa": "/ˈstɒkpaɪl/",
+        "pos": "n.",
+        "meaning": "储备，库存，积累",
+        "definition": "a large supply of sth. that you keep in case you need it in the future",
+        "zh": "储备，库存，积累"
+      },
+      {
+        "form": "retaliation",
+        "ipa": "/rɪˌtæliˈeɪʃən/",
+        "pos": "n.",
+        "meaning": "报复，反击，还击",
+        "definition": "action against sb. who has done sth. bad to you",
+        "zh": "报复，反击，还击"
+      },
+      {
+        "form": "adversaries",
+        "ipa": "/ˈædvəsəri/",
+        "pos": "n.",
+        "meaning": "对手，敌人，竞争者",
+        "definition": "(formal) a country or person you are fighting or competing against",
+        "zh": "对手，敌人，竞争者"
+      },
+      {
+        "form": "autonomous",
+        "ipa": "/ɔːˈtɒnəməs/",
+        "pos": "adj.",
+        "meaning": "自主的，自动的，独立的",
+        "definition": "an autonomous place or organization is free to govern or control itself",
+        "zh": "自主的，自动的，独立的"
+      },
+      {
+        "form": "surveillance",
+        "ipa": "/səˈveɪləns/",
+        "pos": "n.",
+        "meaning": "监视，监控，侦察",
+        "definition": "when the police, army, etc. watch a person or place carefully because they may be connected with criminal activities",
+        "zh": "监视，监控，侦察"
+      },
+      {
+        "form": "at scale",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "大规模地，大批量地，规模化地",
+        "definition": "at a large size or level, especially when producing or deploying sth. in large quantities",
+        "zh": "大规模地，大批量地，规模化地"
+      },
+      {
+        "form": "churning out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "大量生产，快速产出，批量制造",
+        "definition": "to produce large quantities of sth. quickly, especially without caring about quality",
+        "zh": "大量生产，快速产出，批量制造"
+      },
+      {
+        "form": "munitions",
+        "ipa": "/mjuːˈnɪʃən/",
+        "pos": "n.",
+        "meaning": "军火，弹药，武器",
+        "definition": "military supplies such as bombs, guns, and bullets",
+        "zh": "军火，弹药，武器"
+      },
+      {
+        "form": "catastrophic",
+        "ipa": "/ˌkætəˈstrɒfɪk/",
+        "pos": "adj.",
+        "meaning": "灾难性的，毁灭性的，极其严重的",
+        "definition": "causing a lot of destruction, suffering, or death",
+        "zh": "灾难性的，毁灭性的，极其严重的"
+      },
+      {
+        "form": "unprecedented",
+        "ipa": "/ʌnˈpresɪdentɪd/",
+        "pos": "adj.",
+        "meaning": "史无前例的，前所未有的，空前的",
+        "definition": "never having happened before, or never having happened so much",
+        "zh": "史无前例的，前所未有的，空前的"
+      },
+      {
+        "form": "striven",
+        "ipa": "/straɪv/",
+        "pos": "v.",
+        "meaning": "努力，奋力，力争",
+        "definition": "(formal) to make a great effort to achieve sth.",
+        "zh": "努力，奋力，力争"
+      },
+      {
+        "form": "wrecks",
+        "ipa": "/rek/",
+        "pos": "n.",
+        "meaning": "残骸，废墟，残骸",
+        "definition": "a car, plane, or train that has been damaged very badly, especially in a crash",
+        "zh": "残骸，废墟，残骸"
+      },
+      {
+        "form": "a handful of",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "少数，屈指可数，寥寥几个",
+        "definition": "a very small number of people or things",
+        "zh": "少数，屈指可数，寥寥几个"
+      },
+      {
+        "form": "sketches",
+        "ipa": "/sketʃ/",
+        "pos": "n.",
+        "meaning": "草图，速写，简图；小品；简报",
+        "definition": "a simple, quickly made drawing that does not have much detail",
+        "zh": "草图，速写，简图；小品；简报"
+      },
+      {
+        "form": "appropriating",
+        "ipa": "/əˈprəʊprieɪt/",
+        "pos": "v.",
+        "meaning": "挪用，占用，擅自使用",
+        "definition": "(formal) to take sth. for yourself when you do not have the right to do this",
+        "zh": "挪用，占用，擅自使用"
+      },
+      {
+        "form": "supremacy",
+        "ipa": "/suːˈpreməsi/",
+        "pos": "n.",
+        "meaning": "霸权，至高无上，优势",
+        "definition": "the position in which you are more powerful or advanced than anyone else",
+        "zh": "霸权，至高无上，优势"
+      },
+      {
+        "form": "warfare",
+        "ipa": "/ˈwɔːfeə/",
+        "pos": "n.",
+        "meaning": "战争，战斗，作战方式",
+        "definition": "the activity of fighting in a war — used especially when talking about particular methods of fighting",
+        "zh": "战争，战斗，作战方式"
+      },
+      {
+        "form": "inferiority",
+        "ipa": "/ɪnˌfɪəriˈɒrəti/",
+        "pos": "n.",
+        "meaning": "低劣，劣势，不足",
+        "definition": "the state of not being as good as sb. or sth. else",
+        "zh": "低劣，劣势，不足"
+      },
+      {
+        "form": "complementing",
+        "ipa": "/ˈkɒmplɪment/",
+        "pos": "v.",
+        "meaning": "补充，配合，与……相辅相成",
+        "definition": "to make a good combination with sb. or sth. else",
+        "zh": "补充，配合，与……相辅相成"
+      },
+      {
+        "form": "payload",
+        "ipa": "/ˈpeɪləʊd/",
+        "pos": "n.",
+        "meaning": "有效载荷，弹头，携带量",
+        "definition": "the amount of explosive that a missile can carry",
+        "zh": "有效载荷，弹头，携带量"
+      },
+      {
+        "form": "swarms",
+        "ipa": "/swɔːm/",
+        "pos": "n.",
+        "meaning": "大群，蜂群，一大批",
+        "definition": "a large group of insects, especially bees, moving together",
+        "zh": "大群，蜂群，一大批"
+      },
+      {
+        "form": "deployment",
+        "ipa": "/dɪˈplɔɪmənt/",
+        "pos": "n.",
+        "meaning": "部署，调遣，展开",
+        "definition": "the use of soldiers, equipment, etc. for a particular purpose",
+        "zh": "部署，调遣，展开"
+      },
+      {
+        "form": "sensors",
+        "ipa": "/ˈsensə/",
+        "pos": "n.",
+        "meaning": "传感器，探测器，感应装置",
+        "definition": "a piece of equipment used for discovering the presence of light, heat, movement, etc.",
+        "zh": "传感器，探测器，感应装置"
+      },
+      {
+        "form": "monopoly",
+        "ipa": "/məˈnɒpəli/",
+        "pos": "n.",
+        "meaning": "垄断，独占，专利",
+        "definition": "If a company or government has a monopoly of a business or political activity, it has complete control of it so that other organizations cannot compete with it",
+        "zh": "垄断，独占，专利"
+      },
+      {
+        "form": "knockoff",
+        "ipa": "/ˈnɒkɒf/",
+        "pos": "n.",
+        "meaning": "仿制品，山寨品，复制品",
+        "definition": "(informal) a cheap copy of something expensive",
+        "zh": "仿制品，山寨品，复制品"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "able to understand situations or behaviour very well and very quickly, especially so that you can get an advantage for yourself",
+      "military supplies such as bombs, guns, and bullets"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “A rare instance occurred in the early 1970s when the U.S. Army Mobility Equipment Research and Development Command used photographs and sketches of a Soviet folding float bridge…”?",
+    "exerciseChoiceMarked": [
+      "sketches"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Cntor drew a rough sketch of his apartment on a napkin.",
+        "marked": [
+          "sketch"
+        ],
+        "zh": "康特在餐巾纸上画出了自己公寓的粗略草图。"
+      },
+      {
+        "label": "B",
+        "text": "Her TV programme is made up of a series of comic sketches.",
+        "marked": [
+          "sketches"
+        ],
+        "zh": "她的电视节目由一系列幽默短剧组成。"
+      },
+      {
+        "label": "C",
+        "text": "There is a brief sketch of the main weaknesses of the British economy.",
+        "marked": [
+          "sketch"
+        ],
+        "zh": "这里简要概述了英国经济的主要弱点。"
+      },
+      {
+        "label": "D",
+        "text": "He gave me a thumbnail sketch of topics treated in depth elsewhere.",
+        "marked": [
+          "sketch"
+        ],
+        "zh": "他为我简要介绍了那些在其他地方会有详细讨论的主题。"
+      }
+    ],
+    "exerciseTranslationPrompt": "几年前，如果说美国——这个全球最强军事力量——会去模仿伊朗技术，听起来几乎像天方夜谭。",
+    "answerVocabularyList": [
+      "astute",
+      "munition"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "The idea that the United States, the world’s preeminent military power, would copy Iranian technology would have seemed fantastical just a few years ago."
   },
   {
     "key": "mar0326",

@@ -253,6 +253,876 @@ export const octoberNovemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "oct1009",
+    "date": "2026.10.09",
+    "period": "2026年10月",
+    "folder": "1009 这场访美的虚实之间",
+    "titleZh": "这场访美的虚实之间",
+    "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-X summit in Washington",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Mark Saunokonoko, The Guardian, Updated September 26, 2026",
+    "paragraphs": [
+      "X’s visit heavy on symbolism but no sign closed-door meeting yielded breakthroughs on thorny issues such as AI, trade, TW and Iran",
+      "Donald Trump welcomed X to the White House on Thursday, with talks on AI, trade and a growing US-China strategic rivalry expected to feature on an elaborate state visit that critics say went big on style but lacked substance.",
+      "Here are the key takeaways from X’s first visit to Washington in more than a decade.",
+      "1.Diplomacy or ‘diplotainment’?",
+      "Senate Democrats criticised Trump’s summit with X, saying it prioritised pageantry over substance on the major issues. There was no sign a brief closed-door meeting yielded breakthroughs on the thorny issues of AI, trade, TW and the war with Iran. Both countries agreed to extend until 10 January an agreement pausing their trade war, but experts said there were few other obvious tangible outcomes.",
+      "X once again invoked the “Thucydides Trap”, an academic theory that competition between a rising power and an established one often results in war. X said the risk “can be overcome” and urged cooperation.",
+      "After their meeting, Trump gave X a tour of the new helipad he had recently constructed on the White House’s South Lawn. “He loves good granite,” Trump told reporters, adding the two men had a “great meeting” without elaborating.",
+      "Danny Russel, a former US diplomat serving in the Obama administration, expressed concern that the two leaders spent more time on social and ceremonial events than the actual meeting, which was about 90 minutes.",
+      "“Pageantry and protocol don’t add up to progress. Pandas are cute, but what America needs are rare earths,” said Russel. “What we’re seeing isn’t diplomacy so much as ‘diplotainment,’ which won’t do much to solve the serious problems in the US-China relationship.”",
+      "2.AI unchecked",
+      "AI analysts were forced to read between the lines to gauge the outcome of AI discussions between the pair.",
+      "Trump had written in a Truth Social post on Thursday morning that he and X would discuss “super intelligence” (Trump’s newly coined term for AI) but suggested he had little interest in new regulations, despite concerns from industry leaders that AI could eventually pose a threat to humans.",
+      "“Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is,” Trump wrote. “That is China’s position also.”",
+      "During his comments on Thursday, X said both countries must “ensure that the development of AI is always under human control”.",
+      "Analysts say intense competition between the two powers in AI is likely to limit the scope for anything beyond symbolic agreements.",
+      "3.TW andstalled$14bn arms deal",
+      "During the afternoon discussion, X urged Trump to oppose “TW independence,” according to a readout from the official Chinese news agency Xinhua. The White House did not immediately provide its own summary.",
+      "X was expected to press Trump to halt arms sales to TW. After his visit to China in May, Trump said he was holding in abeyance an arms package to TW worth about $14bn and called it a “very good negotiating chip”—rattling some US allies in Asia.",
+      "In a statement signed by at least 19 of 47 members of the Senate Democrats caucus, seen by Reuters, Democrats on Thursday called on Trump to immediately deliver the security assistance package Congress has approved—$1.3bn in funds and the $14bn arms sale.",
+      "China claims democratically governed TW as its own territory and has not ruled out using force to gain control over the island.",
+      "4.Unusual airport greeting",
+      "Trump greeted X on arrival with a red carpet on the tarmac at Joint Base Andrews, the first time a US president has welcomed a foreign leader there since Barack Obama met Pope Francis in 2015. Normally, presidents wait for state visit guests to arrive at the White House before offering a formal welcome.",
+      "For months, Trump has derided Democrats as “communists”, but the president’s welcome for X included Chinese flags adorning the roof above the Oval Office alongside US flags.",
+      "Despite the fanfare, Trump and X’s remarks during the trip were not carried live by any US television networks, which refused to provide footage in protest of the White House’s ban of CNN, MS Now and Politico."
+    ],
+    "paragraphTranslations": [
+      "X的访问充满了象征性意义，但并没有显示出闭门会议能够在人工智能、贸易、台湾问题以及伊朗等棘手问题上取得任何突破。",
+      "唐纳德·特朗普在周四欢迎X来到白宫。预计在这次盛大的国事访问中，将会有关于人工智能、贸易以及日益加剧的中美战略竞争的讨论。不过，批评者指出，这次访问虽然形式华丽，但内容却空洞无物。",
+      "以下是X在十多年来首次访问华盛顿时的主要收获。",
+      "1. 外交手段还是“表面文章”？",
+      "参议院中的民主党人批评特朗普与X公司的峰会，认为该峰会更注重表面的排场，而非讨论核心问题。没有迹象表明这次简短的闭门会议在人工智能、贸易、跨太平洋伙伴关系协定以及伊朗战争等棘手问题上取得了任何突破。两国同意将暂停贸易战的协议延长至1月10日，但专家表示，除了这一举措之外，几乎没有其他明显的具体成果。",
+      "X再次提到了“修昔底德陷阱”这一学术理论，该理论指出，当一个新兴大国与一个已确立地位的大国发生冲突时，往往会导致战争。X表示这种风险“是可以克服的”，并呼吁进行合作。",
+      "会面结束后，特朗普带X参观了他在白宫南草坪上新建的直升机停机坪。“他非常喜欢用花岗岩来装饰场地，”特朗普对记者说，并补充说两人之间的会面“非常顺利”，但没有进一步详细说明。",
+      "丹尼·拉塞尔是一位曾在奥巴马政府任职的前美国外交官，他对两位领导人将更多时间花在社交和仪式性活动上，而不是实际会议上表示担忧。这次会议的持续时间大约为90分钟。",
+      "“礼仪和形式上的讲究并不能带来真正的进步。熊猫虽然可爱，但美国所需要的的是真正有价值的‘稀土’般的东西。”拉塞尔说。“我们所看到的与其说是外交，不如说是‘装饰性活动’；这种活动根本无法解决中美关系中的严重问题。”",
+      "2. AI未得到充分控制",
+      "AI分析师不得不仔细阅读双方之间的讨论内容，以了解其真正意图。",
+      "特朗普在周四早间在“Truth Social”平台上发文称，他将与X公司讨论“超级智能”（特朗普自己创造的一个术语，用于指代人工智能）。不过，他表示自己对新法规并不感兴趣，尽管行业领袖们担心人工智能最终可能会对人类构成威胁。",
+      "“超级智能将是重要的讨论话题，但我希望保持现状不变，”特朗普写道。“这也是中国的立场。”",
+      "在周四的评论中，X表示，两国必须“确保人工智能的发展始终处于人类的控制之下”。",
+      "分析师们表示，这两大势力在人工智能领域的激烈竞争，可能会限制除象征性协议之外的其他合作空间。",
+      "3.土耳其与对方达成的140亿美元武器交易",
+      "根据中国官方新闻机构新华社的报道，在下午的讨论中，X敦促特朗普反对“TW独立”。白宫并未立即发表自己的评论。",
+      "人们预计X会施压特朗普，要求他停止对台湾的武器销售。在5月份访问中国后，特朗普表示，他暂时搁置了向台湾出售价值约140亿美元武器的计划，并称这一举措是“非常有效的谈判筹码”——以此来影响亚洲的美国盟友。",
+      "根据路透社报道，由参议院民主党党团中至少19名成员签署的一份声明中指出，民主党人于周四呼吁特朗普立即交付国会批准的安全援助计划——包括13亿美元的资金和140亿美元的武器销售。",
+      "中国声称由民主方式管理的台湾是其领土，并且不排除使用武力来夺取该岛的控制权。",
+      "4. 不寻常的机场问候方式",
+      "特朗普在安德鲁斯联合基地的停机坪上用红毯迎接了习近平。这是自2015年巴拉克·奥巴马会见教皇弗朗西斯以来，美国总统首次在如此场合迎接外国领导人。通常情况下，总统会在国事访问的客人抵达白宫后才会举行正式的欢迎仪式。",
+      "几个月来，特朗普一直将民主党人称为“共产主义者”，但总统在欢迎X活动时，在椭圆形办公室的屋顶上挂起了中国国旗，与美国国旗并列。",
+      "尽管有那么多宣传报道，但特朗普和X在访问期间的讲话并未在任何美国电视频道中播出。这是美国白宫禁止CNN、MS Now和Politico播出这些节目的抗议行为所导致的。"
+    ],
+    "vocabulary": [
+      {
+        "form": "takeaways",
+        "ipa": "/ˈteɪkəweɪ/",
+        "pos": "n.",
+        "meaning": "（会议、谈话、事件中）值得记住的要点，核心结论，主要收获",
+        "definition": "an important fact, point or idea to be remembered from a talk, meeting or event",
+        "zh": "（会议、谈话、事件中）值得记住的要点，核心结论，主要收获"
+      },
+      {
+        "form": "thorny",
+        "ipa": "/ˈθɔːni/",
+        "pos": "adj.",
+        "meaning": "棘手的，麻烦的，引起争议的",
+        "definition": "causing difficulty or disagreement",
+        "zh": "棘手的，麻烦的，引起争议的"
+      },
+      {
+        "form": "feature",
+        "ipa": "/ˈfiːtʃə(r)/",
+        "pos": "v.",
+        "meaning": "在某事物中占据重要地位，作为重要部分",
+        "definition": "to have an important part in sth.",
+        "zh": "在某事物中占据重要地位，作为重要部分"
+      },
+      {
+        "form": "elaborate",
+        "ipa": "/ɪˈlæbərət/",
+        "pos": "adj.",
+        "meaning": "精心制作的，详尽复杂的，周密筹备的",
+        "definition": "very complicated and detailed; carefully prepared and organized",
+        "zh": "精心制作的，详尽复杂的，周密筹备的"
+      },
+      {
+        "form": "went big on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "大肆渲染，在……投入大量精力",
+        "definition": "to put a lot of emphasis or resources into sth.",
+        "zh": "大肆渲染，在……投入大量精力"
+      },
+      {
+        "form": "pageantry",
+        "ipa": "/ˈpædʒəntri/",
+        "pos": "n.",
+        "meaning": "盛大隆重的仪式，华丽排场，庆典盛景",
+        "definition": "impressive and exciting events and ceremonies involving a lot of people wearing special clothes",
+        "zh": "盛大隆重的仪式，华丽排场，庆典盛景"
+      },
+      {
+        "form": "yielded",
+        "ipa": "/jiːld/",
+        "pos": "v.",
+        "meaning": "产生，带来（收益、成果、作物等）",
+        "definition": "to produce or provide sth., for example a profit, result or crop",
+        "zh": "产生，带来（收益、成果、作物等）"
+      },
+      {
+        "form": "tangible",
+        "ipa": "/ˈtændʒəbl/",
+        "pos": "adj.",
+        "meaning": "切实的，确凿的，看得见摸得着的",
+        "definition": "that can be clearly seen to exist",
+        "zh": "切实的，确凿的，看得见摸得着的"
+      },
+      {
+        "form": "helipad",
+        "ipa": "/ˈhelipæd/",
+        "pos": "n.",
+        "meaning": "直升机停机坪",
+        "definition": "a small area where helicopters can take off and land",
+        "zh": "直升机停机坪"
+      },
+      {
+        "form": "granite",
+        "ipa": "/ˈɡrænɪt/",
+        "pos": "n.",
+        "meaning": "花岗岩",
+        "definition": "a type of hard grey stone, often used in building",
+        "zh": "花岗岩"
+      },
+      {
+        "form": "elaborating",
+        "ipa": "/ɪˈlæbəreɪt/",
+        "pos": "v.",
+        "meaning": "详尽阐述，细说",
+        "definition": "to explain or describe sth. in a more detailed way",
+        "zh": "详尽阐述，细说"
+      },
+      {
+        "form": "gauge",
+        "ipa": "/ɡeɪdʒ/",
+        "pos": "v.",
+        "meaning": "判断，估量，评估",
+        "definition": "to make a judgement about sth., especially people’s feelings or attitudes",
+        "zh": "判断，估量，评估"
+      },
+      {
+        "form": "stalled",
+        "ipa": "/stɔːl/",
+        "pos": "v.",
+        "meaning": "搁置，暂缓，停滞不前",
+        "definition": "to stop sth. from happening until a later date; to stop making progress",
+        "zh": "搁置，暂缓，停滞不前"
+      },
+      {
+        "form": "readout",
+        "ipa": "/ˈriːdaʊt/",
+        "pos": "n.",
+        "meaning": "（政府发布的）会谈简报，官方纪要，情况通报",
+        "definition": "a short official summary released by a government after a meeting or phone call",
+        "zh": "（政府发布的）会谈简报，官方纪要，情况通报"
+      },
+      {
+        "form": "in abeyance",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "搁置，暂缓，暂时中止",
+        "definition": "(formal) not being used, or being stopped for a period of time",
+        "zh": "搁置，暂缓，暂时中止"
+      },
+      {
+        "form": "rattling",
+        "ipa": "/ˈrætl/",
+        "pos": "v.",
+        "meaning": "使紧张，使慌乱，使心烦不安",
+        "definition": "to make sb. nervous or frightened",
+        "zh": "使紧张，使慌乱，使心烦不安"
+      },
+      {
+        "form": "caucus",
+        "ipa": "/ˈkɔːkəs/",
+        "pos": "n.",
+        "meaning": "（政党或大型组织内部的）核心小组，派系团体",
+        "definition": "a group of people with similar interests, often within a larger organization or political party",
+        "zh": "（政党或大型组织内部的）核心小组，派系团体"
+      },
+      {
+        "form": "ruled out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "排除，不予考虑",
+        "definition": "to state that sth. is not possible or that sb./sth. is not suitable",
+        "zh": "排除，不予考虑"
+      },
+      {
+        "form": "tarmac",
+        "ipa": "/ˈtɑːmæk/",
+        "pos": "n.",
+        "meaning": "柏油铺装场地，（尤指机场）停机坪，机场铺装地面",
+        "definition": "an area of ground covered with a hard surface, especially the areas of an airport where aircraft park, land, and take off",
+        "zh": "柏油铺装场地，（尤指机场）停机坪，机场铺装地面"
+      },
+      {
+        "form": "adorning",
+        "ipa": "/əˈdɔːn/",
+        "pos": "v.",
+        "meaning": "装饰，装点",
+        "definition": "(formal) to make sth./sb. look more attractive by decorating it or them with sth.",
+        "zh": "装饰，装点"
+      },
+      {
+        "form": "fanfare",
+        "ipa": "/ˈfænfeə(r)/",
+        "pos": "n.",
+        "meaning": "大肆宣传，隆重造势，高调宣扬",
+        "definition": "a large amount of activity and discussion in the media to celebrate sb./sth.",
+        "zh": "大肆宣传，隆重造势，高调宣扬"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "causing difficulty or disagreement",
+      "to stop sth. from happening until a later date; to stop making progress"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “There was no sign a brief closed-door meeting yielded breakthroughs on the thorny issues of AI, trade, TW and the war with Iran.” ?",
+    "exerciseChoiceMarked": [
+      "yielded"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The universe is slowly yielding up its secrets.",
+        "marked": [
+          "yielding"
+        ],
+        "zh": "宇宙正在逐渐揭示其奥秘。"
+      },
+      {
+        "label": "B",
+        "text": "I yielded to temptation and had a chocolate bar.",
+        "marked": [
+          "yielded"
+        ],
+        "zh": "我没抵住诱惑，吃了一块巧克力。"
+      },
+      {
+        "label": "C",
+        "text": "Higher-rate deposit accounts yield good returns.",
+        "marked": [
+          "yield"
+        ],
+        "zh": "高利率的存款账户能够带来良好的回报。"
+      },
+      {
+        "label": "D",
+        "text": "Despite our attempts to break it, the lock would not yield.",
+        "marked": [
+          "yield"
+        ],
+        "zh": "尽管我们试图打破它，锁还是纹丝不动。"
+      }
+    ],
+    "exerciseTranslationPrompt": "唐纳德·特朗普周四在白宫迎接 X。外界原本预计，在这场精心安排的国事访问中，人工智能、贸易以及日益加剧的美中战略竞争将成为讨论重点，但批评人士认为，这次访问重形式、轻实质。",
+    "answerVocabularyList": [
+      "thorny",
+      "stall"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "Donald Trump welcomed X to the White House on Thursday, with talks on AI, trade and a growing US-China strategic rivalry expected to feature on an elaborate state visit that critics say went big on style but lacked substance."
+  },
+  {
+    "key": "oct1010",
+    "date": "2026.10.10",
+    "period": "2026年10月",
+    "folder": "1010 为什么说南瓜是美国的文化符号？",
+    "titleZh": "为什么说南瓜是美国的文化符号？",
+    "title": "Pumpkin: A favorite sign of fall, with a bit of shady history",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Bill Chappell, NPR, Published October 8, 2025",
+    "paragraphs": [
+      "Pumpkins are the bookends of autumn. Headlines about the arrival of pumpkin spice lattes signal summer’s end. And soon after the last bites of pumpkin pie at the Thanksgiving table, we turn to plans for winter holidays. In between, jack-o’ -lanterns are the stars of Halloween.",
+      "The seasonal gourds also evoke a romanticized ideal of simpler times, according to Cindy Ott, author of Pumpkin: The Curious History of an American Icon. “Pumpkins are more popular than ever,” Ott, an associate professor of history at the University of Delaware, tells NPR. “People are buying these things, even pumpkin spice lattes, because of these attachments, these very old-fashioned ideas about reverence of the small family farm.” As her comment suggests, it wasn’t always like this. Like a gourd growing on a ramblingvine, “pumpkin” took quite a circuitous path before it achieved PSL ubiquity.",
+      "Where did the word “pumpkin” come from?",
+      "The word “pumpkin” has long referred more to an idea than to a specific plant. “Pumpkin itself isn’t exactly a botanical group,” says Logan Kistler, curator of archaeobotany and archaeogenomics at the Smithsonian National Museum of Natural History in Washington, D.C. “It’s more describing the shape of any kind of squash that people have bred to look like what we think of as pumpkins.”",
+      "The word “pumpkin” itself began with the Greek word pepon and evolved into the French pompon, according to Fiona McPherson, an executive editor with the Oxford English Dictionary. Pumpkin, she says, is a variant of “pompion,” an English word dating to the 1500s.",
+      "While the word’s roots are often linked to Europe, the plant’s roots are firmly in the Americas, with thousands of years of history. “The first example that we have of ‘pumpkin’ is from 1647,” McPherson says, “apparently with reference to the poor diet of early settlers” in the New World. When European settlers reached the present-day Americas, they encountered Indigenous people growing pumpkins—a useful source of food that’s easy to grow and can be stored in cold weather.",
+      "“Pumpkin was often used as a general term, similar to how the word “corn” once referred to any grain rather than to a specific foodstuff, says Ott.",
+      "“Pumpkins are part of this genusCucurbita,” according to Kistler, who says the plants were farmed throughout North, Central and South America. “In precolonial times, Indigenous people in the Americas domesticated different types of these sort of pumpkin precursors at least six different times. So, there’s what we recognize as pumpkins originating all throughout the Americas, going back as far as about 10,000 years in Mexico.”",
+      "Who are you calling a pumpkin?",
+      "Shortly after the word was first used in English, “pumpkin” became a way to throw shade. “The most interesting part of calling people pumpkins is it’s been so consistent,” Ott says, citing paintings and stories dating back centuries. “For women, it’s often associated with their body.” Pumpkin imagery was used to suggest that a woman is driven by her natural urges, “instead of being cerebral and mannerly,” Ott adds. “And for the man, it’s always been associated with his head—like an empty-headed person. [It’s] used for politicians for hundreds of years.”",
+      "A gourd becomes a symbol for a romanticized past By the late 19th century, Ott says, the rehabilitation of the word “pumpkin” in language was underway. For one thing, it became a term of endearment to call kids pumpkins, she says. And around the same time, the pumpkin became a symbol of old-fashioned ways of living—a touchstone in poems and genre paintings as urbanization took hold in the United States.",
+      "“So Americans move out of the country, into the city, but they like to imagine themselves farmers at heart, many of them,” Ott says. “And a pumpkin has been a way to maintain those connections. So that’s when the pumpkin became the pumpkin. It’s a cultural history, and not a botanical one.”",
+      "Today, that history includes a twist. Descendants of the same pumpkins that once sustained Indigenous civilizations and early settlers are now supporting modern small-scale farmers, Ott says. Tapping intonostalgia for our agrarian past, farmers are putting pumpkins front and center as they turn their farms into what Ott calls “agrarian wonderlands” to draw visitors."
+    ],
+    "paragraphTranslations": [
+      "南瓜是秋天的象征。关于“南瓜香料拿铁”出现的报道往往意味着夏季的结束。在感恩节餐桌上享用最后一口南瓜派之后，我们很快就会开始为冬季的节日做准备。在这期间，南瓜灯是万圣节的亮点。",
+      "根据《南瓜：一个美国标志性产品的奇妙历史》一书的作者辛迪·奥特的说法，这种季节性出现的南瓜也象征着一种简单年代的浪漫理想。“南瓜比以往任何时候都更受欢迎，”特拉华大学的历史学副教授奥特在NPR节目中说道。“人们购买这些产品，甚至购买带有南瓜风味的拿铁咖啡，都是因为那些古老的观念——对小型家庭农场的崇敬之情。”不过，正如她的评论所表明的那样，情况并不总是如此。就像生长在蜿蜒藤蔓上的南瓜一样，“南瓜”在获得广泛普及之前，经历了相当曲折的发展过程。",
+      "“南瓜”这个词是从哪里来的？",
+      "“南瓜”这个词长期以来更多地指的是一种概念，而非具体的植物种类。华盛顿特区的史密森尼国家自然历史博物馆的考古植物学和考古基因组学策展人洛根·基斯特勒说：“南瓜本身并不属于一个具体的植物分类。它更是指那些人们培育出来、外形类似于我们所认知的南瓜的各类南瓜作物。”",
+      "根据《牛津英语词典》的执行编辑菲奥娜·麦克弗森的说法，“pumpkin”这个词本身源自希腊语“pepon”，并进一步演变成为法语中的“pompon”。她指出，“pumpkin”实际上是“pompion”这一英语词汇的变体，而“pompion”这一词汇可以追溯到16世纪。",
+      "虽然这个词的起源通常与欧洲有关，但这种植物的根源却深深植于美洲，其历史已有数千年之久。“我们最早关于‘南瓜’的记载可以追溯到1647年，”麦克弗森说，“显然，当时人们将其与早期移民在美洲的贫瘠饮食联系起来。当欧洲移民抵达今天的美洲时，他们发现当地原住民正在种植南瓜——一种既实用又易于种植、且能在寒冷天气中保存的粮食作物。”",
+      "奥特说，“Pumpkin”通常是一个通用术语，类似于“corn”这个词曾经用来指代任何谷物，而不是特指某种食物。",
+      "根据Kistler的说法，南瓜属于葫芦属。他提到，这种植物在北美、中美洲和南美洲都有被栽培。“在殖民之前，美洲的土著居民至少在六个不同的时期驯化了不同种类的南瓜。因此，我们熟知的南瓜起源于美洲各地，其历史可以追溯到大约1万年前，在墨西哥就有这种植物的栽培。”",
+      "你是在叫谁“南瓜”啊？",
+      "自从这个词语首次被英语使用以来，“pumpkin”便成了一种贬义的用语。奥特说：“将人们称为‘pumpkin’最有趣的地方在于，这一说法一直被反复使用。”他引用了几个世纪前的绘画和故事作为例证。“对于女性来说，这一形象往往与她们的身体联系在一起。”奥特补充说，使用“pumpkin”这一形象是为了暗示女性受到本能欲望的驱使，而不是“理智而举止得体”的女性。而“对于男性来说，这一形象则一直与他们的头脑联系在一起——就像那些头脑空空的人。这一形象已经被用来描述政治家，已经使用了几百年了。”",
+      "在19世纪末，Ott指出，葫芦已成为浪漫化过去的象征。她表示，当时“南瓜”这个词在语言中的使用频率越来越高。例如，人们用“南瓜”来称呼孩子。与此同时，南瓜也成为了传统生活方式的象征——在城市化进程在美国兴起时，南瓜成为诗歌和风俗画中的典型意象。",
+      "“所以，美国人会离开乡村，移居到城市里，但他们仍然喜欢想象自己内心是农民。很多人都是这样想的。”奥特说。“而南瓜则是一种保持这种想象的方式。因此，南瓜才成为了象征这种想象的符号。这是一种文化历史，而非植物学上的现象。”",
+      "如今，这段历史发生了一些变化。奥特说，那些曾经支撑着原住民文明和早期定居者的同一种南瓜，现在则成为现代小规模农民的种植作物。通过这种对农业时代的怀旧之情，农民们将南瓜作为农场的主要作物，将农场打造成为奥特所说的“农业仙境”，以吸引游客。"
+    ],
+    "vocabulary": [
+      {
+        "form": "shady",
+        "ipa": "/ˈʃeɪdi/",
+        "pos": "adj.",
+        "meaning": "可疑的，不正当的，见不得人的",
+        "definition": "(informal) seeming to be dishonest or illegal",
+        "zh": "可疑的，不正当的，见不得人的"
+      },
+      {
+        "form": "bookends",
+        "ipa": "/ˈbʊkend/",
+        "pos": "n.",
+        "meaning": "书挡，书立",
+        "definition": "one of a pair of objects used to keep a row of books standing up",
+        "zh": "书挡，书立"
+      },
+      {
+        "form": "spice",
+        "ipa": "/spaɪs/",
+        "pos": "n.",
+        "meaning": "香料",
+        "definition": "one of the various types of powder or seed that come from plants and are used in cooking. Spices have a strong taste and",
+        "zh": "香料"
+      },
+      {
+        "form": "reverence",
+        "ipa": "/ˈrevərəns/",
+        "pos": "n.",
+        "meaning": "崇敬，尊崇，敬畏",
+        "definition": "(formal) a feeling of admiring and respecting sb./sth. very much",
+        "zh": "崇敬，尊崇，敬畏"
+      },
+      {
+        "form": "rambling",
+        "ipa": "/ˈræmblɪŋ/",
+        "pos": "adj.",
+        "meaning": "（植物）蔓生的，随意蔓延攀长的",
+        "definition": "(of a plant) growing or climbing in all directions, for example up a wall",
+        "zh": "（植物）蔓生的，随意蔓延攀长的"
+      },
+      {
+        "form": "vine",
+        "ipa": "/vaɪn/",
+        "pos": "n.",
+        "meaning": "藤，藤蔓，藤本植物",
+        "definition": "a plant with long thin stems that attach themselves to other",
+        "zh": "藤，藤蔓，藤本植物"
+      },
+      {
+        "form": "ubiquity",
+        "ipa": "/juːˈbɪkwəti/",
+        "pos": "n.",
+        "meaning": "无处不在，普遍存在",
+        "definition": "(formal or humorous) the fact that sth. seems to be everywhere or in several places at the same time; the fact that sth. is very common",
+        "zh": "无处不在，普遍存在"
+      },
+      {
+        "form": "botanical",
+        "ipa": "/bəˈtænɪkl/",
+        "pos": "adj.",
+        "meaning": "植物学的",
+        "definition": "relating to the science of botany",
+        "zh": "植物学的"
+      },
+      {
+        "form": "curator",
+        "ipa": "/kjʊəˈreɪtə(r)/",
+        "pos": "n.",
+        "meaning": "策展人，内容策划者，内容精选者",
+        "definition": "a person who uses their knowledge to select and present information or items such as pictures, video, music, etc. for people to use and enjoy, especially on the internet",
+        "zh": "策展人，内容策划者，内容精选者"
+      },
+      {
+        "form": "squash",
+        "ipa": "/skwɒʃ/",
+        "pos": "n.",
+        "meaning": "南瓜属瓜类",
+        "definition": "a type of vegetable that grows on the ground. Winter squash have hard skin and are orange inside. Summer squash have soft",
+        "zh": "南瓜属瓜类"
+      },
+      {
+        "form": "genus",
+        "ipa": "/ˈdʒiːnəs/",
+        "pos": "n.",
+        "meaning": "属",
+        "definition": "(biology) a group into which animals, plants, etc. that have similar characteristics are divided, smaller than a family and larger than a species",
+        "zh": "属"
+      },
+      {
+        "form": "precursors",
+        "ipa": "/priˈkɜːsə(r)/",
+        "pos": "n.",
+        "meaning": "前身，先驱",
+        "definition": "(formal) a person or thing that comes before sb./sth. similar and that leads to or influences its development",
+        "zh": "前身，先驱"
+      },
+      {
+        "form": "throw shade",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "公开表达鄙视，当众嘲讽，公开挖苦某人",
+        "definition": "(slang) to make a public show of contempt",
+        "zh": "公开表达鄙视，当众嘲讽，公开挖苦某人"
+      },
+      {
+        "form": "mannerly",
+        "ipa": "/ˈmænəli/",
+        "pos": "adj.",
+        "meaning": "有礼貌的，举止得体的，彬彬有礼的",
+        "definition": "well-mannered; polite; courteous",
+        "zh": "有礼貌的，举止得体的，彬彬有礼的"
+      },
+      {
+        "form": "rehabilitation",
+        "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+        "pos": "n.",
+        "meaning": "康复，恢复，改造；恢复名誉，重新获得认可",
+        "definition": "the process of helping sb. to return to a normal, healthy life after they have been in prison or very ill",
+        "zh": "康复，恢复，改造；恢复名誉，重新获得认可"
+      },
+      {
+        "form": "term of endearment",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "爱称，昵称",
+        "definition": "a word or phrase used to describe or address a person, animal or object with affectionate and love from the speaker",
+        "zh": "爱称，昵称"
+      },
+      {
+        "form": "touchstone",
+        "ipa": "/ˈtʌtʃstəʊn/",
+        "pos": "n.",
+        "meaning": "试金石，检验标准，评判基准",
+        "definition": "(formal) sth. that provides a standard against which other things are compared and/or judged",
+        "zh": "试金石，检验标准，评判基准"
+      },
+      {
+        "form": "Tapping into",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "发掘，把握，利用",
+        "definition": "If sb. taps into sth. such as a feeling or a situation, they identify it and benefit from it.",
+        "zh": "发掘，把握，利用"
+      },
+      {
+        "form": "nostalgia",
+        "ipa": "/nɒˈstældʒə/",
+        "pos": "n.",
+        "meaning": "怀旧，乡愁，怀旧之情",
+        "definition": "a sad feeling mixed with pleasure when you think of happy times in the past",
+        "zh": "怀旧，乡愁，怀旧之情"
+      },
+      {
+        "form": "agrarian",
+        "ipa": "/əˈɡreəriən/",
+        "pos": "adj.",
+        "meaning": "农业的，耕地的，土地的",
+        "definition": "(specialist) relating to farming and the use of land for farming",
+        "zh": "农业的，耕地的，土地的"
+      },
+      {
+        "form": "front and center",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "最重要的位置，最受关注的位置，处于核心位置",
+        "definition": "in or into the most important position",
+        "zh": "最重要的位置，最受关注的位置，处于核心位置"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "seeming to be dishonest or illegal",
+      "a person or thing that comes before sb./sth. similar and that leads to or influences its development"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “As her comment suggests, it wasn’t always like this. Like a gourd growing on a rambling vine, “pumpkin” took quite a circuitous path before it achieved PSL ubiquity.”?",
+    "exerciseChoiceMarked": [
+      "rambling"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "They live in a rambling old house in the country.",
+        "marked": [
+          "rambling"
+        ],
+        "zh": "他们住在乡下一栋向四周延伸、格局曲折的老房子里。"
+      },
+      {
+        "label": "B",
+        "text": "We followed the rambling brook down the valley.",
+        "marked": [
+          "rambling"
+        ],
+        "zh": "我们沿着那条蜿蜒的小溪，在山谷中前行。"
+      },
+      {
+        "label": "C",
+        "text": "His actions were accompanied by a rambling monologue.",
+        "marked": [
+          "rambling"
+        ],
+        "zh": "他的行为伴随着一段冗长的独白。"
+      },
+      {
+        "label": "D",
+        "text": "The rambling plant twisted itself around the wooden trellis.",
+        "marked": [
+          "rambling"
+        ],
+        "zh": "那株蔓生植物绕着木格架向上长。"
+      }
+    ],
+    "exerciseTranslationPrompt": "农场主们借助人们对农业过去的怀旧情绪，把南瓜放在最显眼的位置，把农场打造成奥特（Ott）所说的“田园奇境”，以此吸引游客。",
+    "answerVocabularyList": [
+      "shady",
+      "precursor"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "Tapping into nostalgia for our agrarian past, farmers are putting pumpkins front and center as they turn their farms into what Ott calls “agrarian wonderlands” to draw visitors."
+  },
+  {
+    "key": "oct1012",
+    "date": "2026.10.12",
+    "period": "2026年10月",
+    "folder": "1012    2026 诺奖得主安妮·卡森：古典的碎片，为何如此迷人",
+    "titleZh": "2026 诺奖得主安妮·卡森：古典的碎片，为何如此迷人",
+    "title": "Anne Carson’s Seductive Strangeness",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Walt Hunter, The Atlantic, Published Oct 8, 2026",
+    "paragraphs": [
+      "By preserving the strangeness of ancient fragments and transforming them into intimate modern experiences, Anne Carson makes the classical past newly compelling.",
+      "Anne Carson, who won the 2026 Nobel Prize in Literature today, doesn’t write masterpieces or door-stoppers, and she has no interest in emulating the great works of the past—including those of past laureates. Despite her training as a classicist and her celebrated skill as a translator, she would likely have little to say about the authenticity of film adaptations of The Odyssey. Carson is a poet by trade, but she’s really an archaeologist of sorts, sifting through the pottery shards of culture and letting the light of our own time illuminate their beauty. Carson prefers to use fragments as seeds for her own poetry, and the high-cultural touchpoints for her lyrics and critical essays— Sappho, Samuel Beckett, Franz Kafka, Michelangelo Antonioni, Simone Weil—sometimes give her work an air of forbidding experimentation that quickly turns, upon reading, into pleasure and delight. You may not know or care who Heloïse and Abelard are, but I can promise that you will enjoy reading them argue in a hotel room in the middle of her 2005 “spoken-word opera,” Decreation.",
+      "Across roughly two dozen translations and original books, a twee-punk “don’t give a damn” attitude pervades Carson’s reinterpretation of ancient texts: Her poetry shuns obeisance to tradition and literality and embraces creative fantasy instead. For that reason, the barrier to entry for her poetry is surprisingly low—surprisingly, I mean, for a poet whose books often contain a page or two of footnotes. Carson wrote a Ph.D. dissertation on the ancient poet Sappho at the University of Toronto, in the city where she was born in 1950. When I was a classics major in college, her 1998 re-creation of a bit of obscure Greek mythology, Autobiography of Red, was a cult object. Some of her poetry isn’t even poetry at all, but a mix of essays, screenplays, even the odd oratorio. Nox, her 2010 elegy for her brother—the title is Latin for “night”— arrives in a box and unfolds like an accordion. Carson’s predilection for the classics doesn’t domesticate them; it riffs on how astonishingly strange it can be to put words down on a page (or papyrus) in a meaningful order, and to try to have them capture the human condition.",
+      "Sappho, Carson’s early subject, offers an important clue as to why her work matters to us now, and perhaps also as to why she won the Nobel. Sappho’s poetry has survived only in bits and pieces, and her form of writing, as much as her obsession with love and longing, has inspired Carson’s own iconoclastic, restless tacking among genres. Yet Carson is averse to the common assumption that we have to look for what’s directly relatable in the past in order to fall in love with it. In an interview with The Paris Review, she confessed that she finds very little “direct relevance of ancient things to modern things”; instead, she gets “little glimpses of similarity, embedded in unbelievable otherness.”",
+      "That strikes me as pretty close to a definition of poetry itself, the art form that may be better than any other at embedding everyday objects (a wheelbarrow, a coffee spoon) within the tantalizing atmosphere of the new. Carson’s poetry connects us to the past for the same reason that it stands out as some of the most accomplished poetry of her generation: Rather than lulling us with history’s familiarity, she seduces us with its strangeness.",
+      "In the days leading up to the Nobel Prize announcement, I happened to have been rereading Autobiography of Red for the first time in 24 years. This “novel in verse” takes its prompt from a 6th-century-B.C.E. fragment about a little monster, Geryon, who falls in love with Herakles—before the god kills him. In Carson’s rendering, the two meet as teenagers at a bus station and reunite years later in Buenos Aires. They travel by plane to a volcano in Peru, where Geryon, now an aspiring photographer, takes pictures of the bubbling lava (no one dies). From so fragile, bizarre, and slender a source—we never forget this is a meet-cute between a red, winged monster and a divine hero— Carson conjures a romance in which love feels unbelievably alien and yet utterly recognizable: “Up on the overpass / the night was wide open / and blowing headlights like a sea. He stood against the wind and let it peel him / clean.”",
+      "Carson’s playfulness, humor, and curiosity—and, above all, her tenderness—make her poetry a powerful antidote to the chilled and coarsened social world of the present, not to mention the worry that history and the classics will lose their audiences. What I find most moving about her work is her ability to turn abstract thought into concrete feeling, and to make this feeling our own. Who has not wondered, as the young Geryon does, what “distance” looks like? Carson writes, “It extends from a spaceless within to the edge of what can be loved.” When I gaze down a path or a road, when I feel the separation from someone I love, or when I think of the gulf between the present and the past, I somehow know exactly what she means."
+    ],
+    "paragraphTranslations": [
+      "通过保留那些古老而陌生的碎片，并将其转化为现代的、亲密的体验，安妮·卡森让古典的过去重新变得引人注目。",
+      "安妮·卡森今天荣获2026年诺贝尔文学奖。她并不创作那些堪称杰作的经典作品，也不热衷于模仿过去的伟大作品——包括那些获得过诺贝尔奖的作家的作品。尽管她拥有古典文学研究的背景，并且作为翻译家有着出色的技能，但她对于《奥德赛》的电影改编版本的真实性与准确性可能并不感兴趣。卡森实际上是一名诗人，但她更像是一名考古学家，她通过研究文化中的陶器碎片，让属于我们这个时代的光芒照亮这些碎片所蕴含的美丽。卡森更喜欢将碎片作为自己诗歌的素材，而她的歌词和评论文章中所涉及的高文化话题——萨福、塞缪尔·贝克特、弗朗茨·卡夫卡、米开朗基罗·安托尼奥尼、西蒙娜·韦尔——有时会让她的作品显得有些实验性，但一旦阅读起来，就会转化为愉悦与享受。你可能不知道，也不关心赫洛伊斯和阿贝尔拉德是谁。但我可以保证，你一定会喜欢阅读他们之间发生的对话，这些对话发生在她2005年创作的“口语歌剧”《解构》中的一个酒店房间里。",
+      "在大约二十多篇翻译作品和原创书籍中，卡森对古代文献的重新诠释体现了一种“毫不在意”的态度：她的诗歌摒弃了对传统的遵循和文字的忠实再现，而拥抱了创造性的幻想。因此，她的诗歌作品入门门槛其实相当低——令人惊讶的是，对于一个其著作中常常包含一两页脚注的诗人来说，这种门槛确实很低。卡森在1950年出生的城市——多伦多大学，以古代诗人萨福为主题完成了她的博士论文。当我还在大学攻读古典文学专业时，她1998年创作的《红人的自传》这一作品曾一度成为流行文化中的热门作品。她的部分诗歌甚至根本算不上真正的诗歌，而更像是散文、剧本，甚至是某种形式的清唱剧。2010年，她为哥哥创作的挽歌《夜》以盒装形式呈现，打开后便呈现出一种手风琴般的韵律。卡森对古典文学的热爱并不会使其变得呆板无味；相反，他通过作品强调了一个令人惊讶的事实：将文字以有意义的顺序书写在纸张（或纸草纸上）是多么奇妙的事情，以及试图让这些文字捕捉到人类的状态。",
+      "萨福，卡森早期研究的对象，为我们理解她的作品为何至今仍具有意义提供了重要线索，或许也揭示了她为何能赢得诺贝尔奖的原因。萨福的诗歌仅以零散的形式留存下来，而她的写作风格，以及她对爱与渴望的执着，都启发了卡森在跨文体创作上的创新与探索。然而，卡森并不认同那种认为我们必须从过去寻找与当下直接关联事物的观点。在《巴黎评论》的采访中，她承认自己很少发现“古代事物与现代事物之间的直接关联”；相反，她更看重那些“隐藏在难以置信的异质性中的相似之处”。",
+      "这似乎非常准确地定义了诗歌的本质——一种能够将日常物品（如手推车、咖啡勺）融入充满新奇感的创作氛围中的艺术形式。卡森的诗歌之所以能够脱颖而出，成为她这一代最杰出的作品之一，也是因为她的作品以它的独特性和陌生感来吸引我们，而不是用历史的熟悉感来让我们着迷。",
+      "在诺贝尔奖宣布前的那些日子里，我碰巧重新阅读了《红人的自传》一书，这是我24年来的第一次重读。这部“韵文小说”的灵感来源于公元前6世纪的一个故事片段，故事讲述的是小怪物格瑞翁爱上了赫拉克勒斯——但在赫拉克勒斯将其杀死之前。在卡森的改编中，两人以青少年的身份在公交车站相遇，多年后他们在布宜诺斯艾利斯重逢。他们乘飞机前往秘鲁的一座火山，在那里，现在已成为有抱负的摄影师的格瑞翁拍摄着冒泡的熔岩（没有人会因此丧命）。从如此脆弱、奇异且纤细的素材中——我们永远无法忘记这是一个红发、有翼的怪物与神圣英雄之间的邂逅——卡森创作出了一段爱情故事，其中爱情既令人难以置信地陌生，又显得如此真实可感：“在天桥上/夜色无边无际/车灯如海般闪烁。”他站在风中，任由风把身上的污垢吹走。",
+      "卡森的活泼、幽默感和好奇心——最重要的是，她的温柔——使得她的诗歌能够成为对抗当前冷漠而粗俗的社会世界的强大力量。更不用说，人们还担心历史和经典作品会失去读者。我最为感动的是，她能够将抽象的思想转化为具体的情感，并让这些情感成为我们自己的情感。没有人不曾像年轻的格利昂那样，思考过“距离”到底是什么样子。卡森写道：“距离从没有空间的内心世界延伸到可以被爱的边缘。”当我低头看着一条小路或道路时，当我感受到与所爱之人的分离时，或者当我思考到现在与过去之间的差距时，我总能准确地理解她的意思。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Seductive",
+        "ipa": "/sɪˈdʌktɪv/",
+        "pos": "adj.",
+        "meaning": "迷人的；具有吸引力的",
+        "definition": "attractive and interesting in a way that makes you want to have or experience something",
+        "zh": "迷人的；具有吸引力的"
+      },
+      {
+        "form": "emulating",
+        "ipa": "/ˈemjuleɪt/",
+        "pos": "v.",
+        "meaning": "效仿；模仿",
+        "definition": "to try to be like (someone or something you admire)",
+        "zh": "效仿；模仿"
+      },
+      {
+        "form": "authenticity",
+        "ipa": "/ˌɔːθenˈtɪsəti/",
+        "pos": "n.",
+        "meaning": "真实性；确实性",
+        "definition": "the quality of being true or what somebody claims it is",
+        "zh": "真实性；确实性"
+      },
+      {
+        "form": "by trade",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "职业；行当；(尤指需要专门训练的) 手艺",
+        "definition": "a job that requires special training and skills and that is done by using your hands",
+        "zh": "职业；行当；(尤指需要专门训练的) 手艺"
+      },
+      {
+        "form": "archaeologist",
+        "ipa": "/ˌɑːkiˈɒlədʒɪst/",
+        "pos": "n.",
+        "meaning": "考古学家",
+        "definition": "a person who studies archaeology",
+        "zh": "考古学家"
+      },
+      {
+        "form": "sifting",
+        "ipa": "/sɪft/",
+        "pos": "v.",
+        "meaning": "筛查；详查；仔细查找",
+        "definition": "to go through (something) very carefully in order to find something useful or valuable",
+        "zh": "筛查；详查；仔细查找"
+      },
+      {
+        "form": "fragments",
+        "ipa": "/ˈfræɡmənt/",
+        "pos": "n.",
+        "meaning": "片断，片段；不完整的部分",
+        "definition": "an isolated or incomplete part of something",
+        "zh": "片断，片段；不完整的部分"
+      },
+      {
+        "form": "forbidding",
+        "ipa": "/fəˈbɪdɪŋ/",
+        "pos": "adj.",
+        "meaning": "冷峻的；令人生畏的",
+        "definition": "seeming unfriendly and frightening",
+        "zh": "冷峻的；令人生畏的"
+      },
+      {
+        "form": "pervades",
+        "ipa": "/pəˈveɪd/",
+        "pos": "v.",
+        "meaning": "渗透；弥漫；遍及",
+        "definition": "to spread through and be easy to notice in every part of something",
+        "zh": "渗透；弥漫；遍及"
+      },
+      {
+        "form": "shuns",
+        "ipa": "/ʃʌn/",
+        "pos": "v.",
+        "meaning": "避开；回避",
+        "definition": "to avoid somebody or something deliberately",
+        "zh": "避开；回避"
+      },
+      {
+        "form": "obeisance",
+        "ipa": "/əʊˈbeɪsns/",
+        "pos": "n.",
+        "meaning": "顺从；敬意",
+        "definition": "respect for somebody / something; the quality of being willing to obey somebody",
+        "zh": "顺从；敬意"
+      },
+      {
+        "form": "barrier",
+        "ipa": "/ˈbæriə(r)/",
+        "pos": "n.",
+        "meaning": "障碍；阻力；关卡",
+        "definition": "a problem, rule or situation that prevents somebody from doing something, or that makes something impossible",
+        "zh": "障碍；阻力；关卡"
+      },
+      {
+        "form": "obscure",
+        "ipa": "/əbˈskjʊə(r)/",
+        "pos": "adj.",
+        "meaning": "无名的；鲜为人知的",
+        "definition": "not well known",
+        "zh": "无名的；鲜为人知的"
+      },
+      {
+        "form": "oratorio",
+        "ipa": "/ˌɒrəˈtɔːriəʊ/",
+        "pos": "n.",
+        "meaning": "清唱剧，神剧（通常以《圣经》故事为主题）",
+        "definition": "a long piece of music for singers and an orchestra, usually based on a story from the Bible",
+        "zh": "清唱剧，神剧（通常以《圣经》故事为主题）"
+      },
+      {
+        "form": "elegy",
+        "ipa": "/ˈelədʒi/",
+        "pos": "n.",
+        "meaning": "挽诗；挽歌；哀歌",
+        "definition": "a poem or song that expresses sad feelings, especially for somebody who has died",
+        "zh": "挽诗；挽歌；哀歌"
+      },
+      {
+        "form": "predilection",
+        "ipa": "/ˌpredɪˈlekʃn/",
+        "pos": "n.",
+        "meaning": "偏好，偏爱",
+        "definition": "a preference or special liking for something; a bias in favour of something",
+        "zh": "偏好，偏爱"
+      },
+      {
+        "form": "astonishingly",
+        "ipa": "/əˈstɒnɪʃɪŋli/",
+        "pos": "adv.",
+        "meaning": "令人惊讶地",
+        "definition": "in a way that is very surprising",
+        "zh": "令人惊讶地"
+      },
+      {
+        "form": "capture",
+        "ipa": "/ˈkæptʃə(r)/",
+        "pos": "v.",
+        "meaning": "（用图画、文章、电影等准确地）表达，刻画，描述",
+        "definition": "to succeed in accurately expressing a feeling, an atmosphere, etc. in a picture, piece of writing, film, etc.",
+        "zh": "（用图画、文章、电影等准确地）表达，刻画，描述"
+      },
+      {
+        "form": "bits and pieces",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "零七碎八；零星物品",
+        "definition": "small objects or items of various kinds",
+        "zh": "零七碎八；零星物品"
+      },
+      {
+        "form": "iconoclastic",
+        "ipa": "/aɪˌkɒnəˈklæstɪk/",
+        "pos": "adj.",
+        "meaning": "批评传统信仰（或习俗思想）的",
+        "definition": "criticizing popular beliefs or established customs and ideas",
+        "zh": "批评传统信仰（或习俗思想）的"
+      },
+      {
+        "form": "averse",
+        "ipa": "/əˈvɜːs/",
+        "pos": "adj.",
+        "meaning": "厌恶的；反对的",
+        "definition": "having a strong dislike of or opposition to something",
+        "zh": "厌恶的；反对的"
+      },
+      {
+        "form": "relevance",
+        "ipa": "/ˈreləvəns/",
+        "pos": "n.",
+        "meaning": "相关性，相关度，关联性",
+        "definition": "the quality of directly relating to something that is being discussed or considered",
+        "zh": "相关性，相关度，关联性"
+      },
+      {
+        "form": "embedded",
+        "ipa": "/ɪmˈbed/",
+        "pos": "v.",
+        "meaning": "把…牢牢地嵌入（或插入、埋入）",
+        "definition": "to fix something in a substance or solid object",
+        "zh": "把…牢牢地嵌入（或插入、埋入）"
+      },
+      {
+        "form": "lulling",
+        "ipa": "/lʌl/",
+        "pos": "v.",
+        "meaning": "使放松；使镇静",
+        "definition": "to make somebody relaxed and calm",
+        "zh": "使放松；使镇静"
+      },
+      {
+        "form": "seduces",
+        "ipa": "/sɪˈdjuːs/",
+        "pos": "v.",
+        "meaning": "吸引",
+        "definition": "to attract powerfully",
+        "zh": "吸引"
+      },
+      {
+        "form": "bizarre",
+        "ipa": "/bɪˈzɑː(r)/",
+        "pos": "adj.",
+        "meaning": "怪诞的，古怪的，奇形怪状的",
+        "definition": "very strange or unusual, especially so as to cause interest or amusement",
+        "zh": "怪诞的，古怪的，奇形怪状的"
+      },
+      {
+        "form": "slender",
+        "ipa": "/ˈslendə(r)/",
+        "pos": "adj.",
+        "meaning": "微弱的；微薄的",
+        "definition": "small in amount",
+        "zh": "微弱的；微薄的"
+      },
+      {
+        "form": "conjures",
+        "ipa": "/ˈkʌndʒə(r)/",
+        "pos": "v.",
+        "meaning": "变出；凭空造出",
+        "definition": "to create something or make something appear in a surprising or unexpected way",
+        "zh": "变出；凭空造出"
+      },
+      {
+        "form": "antidote",
+        "ipa": "/ˈæntidəʊt/",
+        "pos": "n.",
+        "meaning": "矫正方法，对抗手段",
+        "definition": "something that counteracts or neutralizes an unpleasant feeling or situation",
+        "zh": "矫正方法，对抗手段"
+      },
+      {
+        "form": "coarsened",
+        "ipa": "/ˈkɔːsn/",
+        "pos": "v.",
+        "meaning": "使变粗俗；变得粗鲁无礼",
+        "definition": "to become or make somebody become less polite and often offensive in the way they behave",
+        "zh": "使变粗俗；变得粗鲁无礼"
+      },
+      {
+        "form": "gulf",
+        "ipa": "/ɡʌlf/",
+        "pos": "n.",
+        "meaning": "差异；鸿沟",
+        "definition": "a difference between two people, groups, or things",
+        "zh": "差异；鸿沟"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to spread through and be easy to notice in every part of something",
+      "having a strong dislike of or opposition to something"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “Sappho, Carson’s early subject, offers an important clue as to why her work matters to us now, and perhaps also as to why she won the Nobel.”",
+    "exerciseChoiceMarked": [
+      "subject"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Mathematics was always my favorite subject at school.",
+        "marked": [
+          "subject"
+        ],
+        "zh": "数学一直是我在学校最喜欢的科目。"
+      },
+      {
+        "label": "B",
+        "text": "The artist chose nature as the main subject of her paintings.",
+        "marked": [
+          "subject"
+        ],
+        "zh": "这位艺术家将自然作为她绘画的主要主题。"
+      },
+      {
+        "label": "C",
+        "text": "The king’s subjects were required to pay heavy taxes.",
+        "marked": [
+          "subjects"
+        ],
+        "zh": "国王的臣民们被迫缴纳重税。"
+      },
+      {
+        "label": "D",
+        "text": "The prisoners were subjected to harsh conditions.",
+        "marked": [
+          "subjected"
+        ],
+        "zh": "这些囚犯被置于极其恶劣的环境中。"
+      }
+    ],
+    "exerciseTranslationPrompt": "卡森的诗之所以能把我们与过去连接起来，与它之所以能在同代人的诗作中脱颖而出、位居成就最高者之列，原因是一样的：她不是用历史的熟悉感哄我们安睡，而是用它的陌生感引我们着迷。",
+    "answerVocabularyList": [
+      "pervade",
+      "averse"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Carson’s poetry connects us to the past for the same reason that it stands out as some of the most accomplished poetry of her generation: Rather than lulling us with history’s familiarity, she seduces us with its strangeness."
+  },
+  {
     "key": "oct1013",
     "date": "2026.10.13",
     "period": "2026年10月",
@@ -1081,6 +1951,538 @@ export const octoberNovemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "oct1019",
+    "date": "2026.10.19",
+    "period": "2026年10月",
+    "folder": "1019 为什么法国中学生要造反？",
+    "titleZh": "为什么法国中学生要造反？",
+    "title": "France’s Historic High School Protests",
+    "topicEn": "Education",
+    "topicZh": "教育",
+    "byline": "By Sylvie Lecherbonnier & Eléa Pommiers, Le Monde, Published Oct 5, 2026",
+    "paragraphs": [
+      "France’s high school protests turn deteriorating learning conditions and unequal prospects into a broad challenge that the government cannot resolve by simply withdrawing a reform. Having begun as a spontaneous protest in the Paris suburbs, the movement has reached a scale unseen in decades. It expresses a multifaceted anxiety, rooted both in teaching conditions that have measurably deteriorated and in an uncertain future. Unusually, the protests are taking place not in the spring but in the fall, and they are not a reaction to any new reform. In this respect, the 2026 movement resembles that of 1990, which also began in the inner suburbs of Paris a few weeks after the start of the school year. Now, as then, the anger is rooted in teenagers’ daily lives, and its sudden eruption caught everyone off guard. Behind slogans that seem scattershot and are often playful, provocative, or even insolent lies a shared concern for equal opportunity in a country where social background weighs heavily on academic success, along with a set of well-documented problems.",
+      "At every blockade, students rattle off their grievances in no particular order: staff shortages, absent teachers who are never replaced, “classes of 35,” overloaded schedules, the Parcoursup university-admissions platform that “decides [their] future,” and run-down buildings. Today’s high schoolers were born around the 2010 birth-rate peak. Their secondary education has been shaped by the thousands of teaching posts cut in middle and high schools during Emmanuel Macron’s two terms. Public secondary schools now have fewer teachers than in 2008, despite serving 250,000 more students. Class sizes have risen steadily in general and technological high schools: in the public sector, more than 70% of classes have over 30 students, and 20% have more than 35.",
+      "These students are also paying the price for the worst teacher-recruitment crisis in the history of France’s public school system. As vacancies have risen and the pool of substitute teachers has shrunk over the past 20 years, the number of long-term absences (over 15 days) left uncovered doubled between 2018 and 2024. The problems are especially acute in the Créteil and Versailles school districts, where the movement began. Complaints about schedules in the academic track also echo findings published as early as 2023 by the national education inspectorate in its assessment of the high school reform introduced in 2018. By requiring students to choose combinations from 12 specialty subjects, the reform made scheduling considerably more complex. “[Schedules] appear very dense and, above all, not always well balanced, which makes life outside school much harder, especially for those who depend on school buses,” the inspectors noted.",
+      "The poor state of school buildings is another familiar problem. French high schools are 61 years old on average; vocational schools, 71. Barely 15% of school buildings have been built or renovated since 2015, and more than a third of schools have reached or exceeded capacity. Most school buildings, which are run by local authorities, are poorly equipped to cope with extreme heat, and for several years now, today’s students have sat through classes and exams in heat waves. As for Parcoursup, it is associated with mounting pressure on grades and has become a lightningrod for every concern about academic guidance, a process that “generates a great deal of dissatisfaction and anxiety,” notes sociologist Olivier Galland. In a 2024 study he conducted for the Institut Montaigne, 77% of young people surveyed said Parcoursup stressed them out, and 21% wanted it abolished. “There is a deep unease among secondary school students,” he says more broadly. “This movement may well be linked to the failures of mass education and to increasingly fierce competition among students. Some of these young people feel left behind; they are afraid of being steered into dead-end tracks.”",
+      "Politically, this anger and diffuse discontent pose a serious problem for the government. It cannot defuse the movement by withdrawing a bill, as happened with the First Employment Contract (CPE) in 2006 or the baccalaureate reform proposed by then-Education Minister François Fillon in 2005. In 1990, the protests ended when Education Minister Lionel Jospin announced a 4.5-billion-franc “emergency plan.” “This time, the government has little budgetary room to maneuver,” notes historian Claude Lelièvre, drawing the comparison. He believes this context may partly explain the government’s stance: “By portraying high school students as manipulated troublemakers, it spares itself, in the public’s eyes, the need to respond to them.” “It’s a mistake to think young people are stupid. High school protests are social movements that aren’t taken seriously,” says Robi Morder, a specialist in high school and student movements."
+    ],
+    "paragraphTranslations": [
+      "法国的高中抗议活动将学习条件的恶化以及前景的不平等问题转化为一个巨大的挑战，政府无法仅通过取消某项改革措施来解决问题。这场运动最初是巴黎郊区的一场自发抗议活动，如今已发展成为一种几十年来都未曾见过的规模。这种抗议活动表达了多种复杂的焦虑情绪，这些焦虑源于学习条件的显著恶化，以及未来发展的不确定性。不同寻常的是，这些抗议活动并非在春季发生，而是在秋季，而且它们并非是对任何新改革的反应。在这方面，2026年的抗议活动与1990年的抗议活动类似，后者同样是在学年开始几周后，在巴黎的郊区开始的。如今，就像当年一样，这种愤怒情绪源于青少年的日常生活，其突然爆发让所有人措手不及。这些看似夸张、充满幽默感或甚至有些无礼的口号背后，其实都反映着一个共同的关切：在这样一个社会背景对学术成就影响深远的国家里，人们都渴望实现机会平等。不过，与此同时，这个国家也存在着一系列众所周知的问题。",
+      "在每次的抗议活动中，学生们都会毫无顺序地提出他们的不满：教师短缺、长期空缺却无人替换的教室、过于拥挤的课表、大学招生平台“决定”了他们的未来，还有破旧不堪的校舍。如今的高中毕业生出生在2010年人口高峰时期。在埃马纽尔·马克龙的两届执政期间，中学和高中被削减了数千个教学岗位，这影响了他们的中等教育。如今，公立中学的师生比例比2008年还要低，尽管学生数量增加了25万。在技术和综合中学中，班级规模持续扩大：在公立学校中，超过70%的班级学生人数超过30人，而20%的班级学生人数超过35人。",
+      "这些学生也在为法国公立学校系统历史上最严重的教师招聘危机付出代价。在过去20年里，由于空缺职位不断增加，代课教师的数量不断减少，因此，从2018年到2024年间，长期缺课（超过15天）的情况次数翻了一番。这一问题在克雷泰伊和凡尔赛学区尤为严重，这些地区正是问题的发源地。关于课程安排问题的投诉也反映了国家教育监察局在2023年对2018年引入的高中改革评估中的发现。通过要求学生从12个专业科目中选择组合，这项改革使得课程安排变得更加复杂。“课程安排显得非常紧张，而且往往不平衡，这给那些依赖校车上学的学生带来了更大的困难，”监察员指出。",
+      "学校建筑的状况糟糕，这也是一个常见的问题。法国高中的平均建造年限为61年；职业学校的年限则达到71年。自2015年以来，只有大约15%的学校建筑得到了重建或翻新，而超过三分之一的学校已经或正在面临过度拥挤的问题。大多数由地方政府管理的学校建筑都缺乏足够的设施来应对极端高温天气，因此，学生们多年来一直不得不在酷热中上课和参加考试。至于Parcoursup，它加剧了学业压力，成为所有与学术指导相关问题的焦点——社会学家奥利维耶·加兰德指出，这一过程“引发了大量不满和焦虑”。在2024年对蒙田研究所进行的一项研究中，77%的受访年轻人表示Parcoursup让他们感到压力巨大，21%的人希望废除这一制度。“中等教育的学生们普遍感到非常不安，”他进一步说道。“这种趋势很可能与大众教育的失败以及学生之间日益激烈的竞争有关。一些年轻人感到自己被忽视了；他们害怕被引导进入死胡同。”",
+      "从政治角度来看，这种愤怒和普遍的不满给政府带来了严重的问题。政府无法像在2006年通过《第一就业合同》或2005年时任教育部长弗朗索瓦·菲永提出的“毕业考试改革”那样，通过撤回相关法案来平息这场运动。1990年，当教育部长莱昂内尔·约斯潘宣布了一项价值45亿法郎的“紧急计划”时，抗议活动才得以平息。“这一次，政府几乎没有预算上的回旋余地，”历史学家克洛德·莱利耶弗指出。他认为，这一背景可以部分解释政府的立场：“通过将高中生描绘成被操纵的麻烦制造者，政府避免了在公众眼中需要应对这些问题的责任。”罗比·莫德说：“认为年轻人愚蠢是一种错误。高中学生的抗议活动其实是一种社会运动，不应该被忽视。”罗比·莫德是高中学生运动领域的专家。"
+    ],
+    "vocabulary": [
+      {
+        "form": "multifaceted",
+        "ipa": "/ˌmʌltiˈfæsɪtɪd/",
+        "pos": "adj.",
+        "meaning": "多方面的，多层面的",
+        "definition": "having many different aspects to be considered",
+        "zh": "多方面的，多层面的"
+      },
+      {
+        "form": "deteriorated",
+        "ipa": "/dɪˈtɪəriəreɪt/",
+        "pos": "v.",
+        "meaning": "恶化",
+        "definition": "to become worse",
+        "zh": "恶化"
+      },
+      {
+        "form": "eruption",
+        "ipa": "/ɪˈrʌpʃn/",
+        "pos": "n.",
+        "meaning": "爆发",
+        "definition": "an occasion when something starts happening, suddenly and violently",
+        "zh": "爆发"
+      },
+      {
+        "form": "off guard",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "不提防；丧失警惕",
+        "definition": "in an unprepared state; not ready",
+        "zh": "不提防；丧失警惕"
+      },
+      {
+        "form": "scattershot",
+        "ipa": "/ˈskætəʃɒt/",
+        "pos": "adj.",
+        "meaning": "随意的；漫无边际的",
+        "definition": "denoting something that is broad but random and haphazard in its range",
+        "zh": "随意的；漫无边际的"
+      },
+      {
+        "form": "provocative",
+        "ipa": "/prəˈvɒkətɪv/",
+        "pos": "adj.",
+        "meaning": "挑衅的，挑动争议的",
+        "definition": "intended to make people angry or upset; intended to make people argue about something",
+        "zh": "挑衅的，挑动争议的"
+      },
+      {
+        "form": "insolent",
+        "ipa": "/ˈɪnsələnt/",
+        "pos": "adj.",
+        "meaning": "无礼的，傲慢的",
+        "definition": "extremely rude and showing a lack of respect",
+        "zh": "无礼的，傲慢的"
+      },
+      {
+        "form": "well-documented",
+        "ipa": "/ˌwel ˈdɒkjumentɪd/",
+        "pos": "adj.",
+        "meaning": "证据充分的；有大量文件证明的",
+        "definition": "having a lot of written evidence to prove, support or explain it",
+        "zh": "证据充分的；有大量文件证明的"
+      },
+      {
+        "form": "blockade",
+        "ipa": "/blɒˈkeɪd/",
+        "pos": "n.",
+        "meaning": "障碍物；屏障",
+        "definition": "a barrier that stops people or vehicles from entering or leaving a place",
+        "zh": "障碍物；屏障"
+      },
+      {
+        "form": "grievances",
+        "ipa": "/ˈɡriːvəns/",
+        "pos": "n.",
+        "meaning": "不满，委屈，抱怨",
+        "definition": "something that you think is unfair and that you complain or protest about; a feeling that you have been badly treated",
+        "zh": "不满，委屈，抱怨"
+      },
+      {
+        "form": "run-down",
+        "ipa": "/ˌrʌn ˈdaʊn/",
+        "pos": "adj.",
+        "meaning": "破败的，年久失修的",
+        "definition": "(of a building or place) in very bad condition; that has not been taken care of",
+        "zh": "破败的，年久失修的"
+      },
+      {
+        "form": "vacancies",
+        "ipa": "/ˈveɪkənsi/",
+        "pos": "n.",
+        "meaning": "（职位）空缺",
+        "definition": "a job that is available for somebody to do",
+        "zh": "（职位）空缺"
+      },
+      {
+        "form": "shrunk",
+        "ipa": "/ʃrɪŋk/",
+        "pos": "v.",
+        "meaning": "缩小，减少",
+        "definition": "to become or to make something smaller in size or amount",
+        "zh": "缩小，减少"
+      },
+      {
+        "form": "acute",
+        "ipa": "/əˈkjuːt/",
+        "pos": "adj.",
+        "meaning": "严重的，尖锐的",
+        "definition": "very serious or severe",
+        "zh": "严重的，尖锐的"
+      },
+      {
+        "form": "echo",
+        "ipa": "/ˈekəʊ/",
+        "pos": "v.",
+        "meaning": "与……相呼应，附和",
+        "definition": "to repeat an idea or opinion because you agree with it",
+        "zh": "与……相呼应，附和"
+      },
+      {
+        "form": "inspectorate",
+        "ipa": "/ɪnˈspektərət/",
+        "pos": "n.",
+        "meaning": "视察团；检查团",
+        "definition": "an official group of inspectors who work together on the same subject or at the same kind of institution",
+        "zh": "视察团；检查团"
+      },
+      {
+        "form": "vocational schools",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "职业学校，技术学校",
+        "definition": "a school that teaches skills that are necessary for particular jobs",
+        "zh": "职业学校，技术学校"
+      },
+      {
+        "form": "renovated",
+        "ipa": "/ˈrenəveɪt/",
+        "pos": "v.",
+        "meaning": "翻新，修缮",
+        "definition": "to repair and paint an old building, a piece of furniture, etc. so that it is in good condition again",
+        "zh": "翻新，修缮"
+      },
+      {
+        "form": "mounting",
+        "ipa": "/ˈmaʊntɪŋ/",
+        "pos": "adj.",
+        "meaning": "不断增加的，日益加剧的",
+        "definition": "increasing, often in a manner that causes or expresses worry",
+        "zh": "不断增加的，日益加剧的"
+      },
+      {
+        "form": "lightning rod",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "引火烧身的人（或事）",
+        "definition": "a person or thing that attracts criticism, especially if the criticism is then not directed at somebody / something else",
+        "zh": "引火烧身的人（或事）"
+      },
+      {
+        "form": "abolished",
+        "ipa": "/əˈbɒlɪʃ/",
+        "pos": "v.",
+        "meaning": "废除，取消",
+        "definition": "to officially end a law, a system or an institution",
+        "zh": "废除，取消"
+      },
+      {
+        "form": "unease",
+        "ipa": "/ʌnˈiːz/",
+        "pos": "n.",
+        "meaning": "不安，忧虑",
+        "definition": "the feeling of being worried or unhappy about something",
+        "zh": "不安，忧虑"
+      },
+      {
+        "form": "fierce",
+        "ipa": "/fɪəs/",
+        "pos": "adj.",
+        "meaning": "激烈的，猛烈的",
+        "definition": "(especially of actions or emotions) showing strong feelings or a lot of activity, often in a way that is violent",
+        "zh": "激烈的，猛烈的"
+      },
+      {
+        "form": "steered",
+        "ipa": "/stɪə(r)/",
+        "pos": "v.",
+        "meaning": "引导，把……引向",
+        "definition": "to take control of a situation and influence the way in which it develops",
+        "zh": "引导，把……引向"
+      },
+      {
+        "form": "discontent",
+        "ipa": "/ˌdɪskənˈtent/",
+        "pos": "n.",
+        "meaning": "不满，不满情绪",
+        "definition": "a feeling of being unhappy because you are not satisfied with a particular situation; something that makes you have this feeling",
+        "zh": "不满，不满情绪"
+      },
+      {
+        "form": "defuse",
+        "ipa": "/diːˈfjuːz/",
+        "pos": "v.",
+        "meaning": "缓和，化解",
+        "definition": "to stop a possibly dangerous or difficult situation from developing, especially by making people less angry or nervous",
+        "zh": "缓和，化解"
+      },
+      {
+        "form": "baccalaureate",
+        "ipa": "/ˌbækəˈlɔːriət/",
+        "pos": "n.",
+        "meaning": "（法国等国家以及一些国际学校的）中学毕业会考",
+        "definition": "the last secondary school exam in France and some other countries, and in some international schools",
+        "zh": "（法国等国家以及一些国际学校的）中学毕业会考"
+      },
+      {
+        "form": "spares",
+        "ipa": "/speə(r)/",
+        "pos": "v.",
+        "meaning": "使免受（不愉快的经历）",
+        "definition": "to save somebody / yourself from having to go through an unpleasant experience",
+        "zh": "使免受（不愉快的经历）"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "intended to make people angry or upset; intended to make people argue about something",
+      "to stop a possibly dangerous or difficult situation from developing, especially by making people less angry or nervous"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “Some of these young people feel left behind; they are afraid of being steered into dead-end tracks.”",
+    "exerciseChoiceMarked": [
+      "steered"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The captain steered the ship through the narrow passage.",
+        "marked": [
+          "steered"
+        ],
+        "zh": "船长驾驶着船只穿过狭窄的通道。"
+      },
+      {
+        "label": "B",
+        "text": "The teacher steered the discussion away from controversial topics.",
+        "marked": [
+          "steered"
+        ],
+        "zh": "老师引导讨论远离有争议的话题。"
+      },
+      {
+        "label": "C",
+        "text": "Many students were steered towards careers that offered few opportunities for advancement.",
+        "marked": [
+          "steered"
+        ],
+        "zh": "许多学生被引导去从事那些晋升机会很少的职业。"
+      },
+      {
+        "label": "D",
+        "text": "Drivers should steer clear of roads that are covered with ice.",
+        "marked": [
+          "steer clear"
+        ],
+        "zh": "驾驶员应避开那些被冰雪覆盖的道路。"
+      }
+    ],
+    "exerciseTranslationPrompt": "那些看似东一榔头西一棒子、常常带着戏谑、挑衅甚至无礼意味的口号背后，是对机会平等的共同关切——在这个国家，社会出身对学业成就有着举足轻重的影响——以及一系列已有充分记录的问题。",
+    "answerVocabularyList": [
+      "provocative",
+      "defuse"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "Behind slogans that seem scattershot and are often playful, provocative, or even insolent lies a shared concern for equal opportunity in a country where social background weighs heavily on academic success, along with a set of well-documented problems."
+  },
+  {
+    "key": "oct1020",
+    "date": "2026.10.20",
+    "period": "2026年10月",
+    "folder": "1020《陌生人》：这本离婚回忆录，为何成为全美爆款？2",
+    "titleZh": "《陌生人》：这本离婚回忆录，为何成为全美爆款？2",
+    "title": "Her buzzy divorce memoir is a must-read—and soon a must-watch starring Gwyneth Paltrow",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Marc Weingarten, Los Angeles Times, Published March 31, 2026",
+    "paragraphs": [
+      "Burden wrote this long after the fact, when the binary nature of her marriage became self-evident. But while she was in it, it was more like the proverbial frog in the pot of water: content as the heat is ever so slowly raised, then helpless when it becomes too late to jump out. As her husband’s career advanced, he spent more time in Manhattan while Burden tended to the family in their house in Martha’s Vineyard. Burden’s marriage began to settle into the traditional gender roles of homemaker and breadwinner, despite the fact that it was Burden who had financed their lifestyle.",
+      "“I saw him as the caretaker and it was sort of this romantic thing,” says Burden. “And the more this went on, the more I convinced myself that I couldn’t understand the finances, which is absurd, as I’m a corporate lawyer. Everything became about his work and his career advancement, and that happens so often with men, where the men’s career becomes the most important thing in a family. And it becomes a lot easier to lose track of your own talents and passions.”",
+      "After the breakup of their marriage, Burden’s husband flipped from provider to usurper. He gave up custody of their three children and threatened to cut all financial assistance. He also came after all of their joint property, which Burden had purchased with her family trusts. While all of this was playing out, Burden was isolated, unable to access her support system during lockdown. “No one could get to me, I was on an island and I didn’t know anyone,” she says. “But the flip side of that was being able to sort of hide out, and not show my face. I would just go on these long walks, weeping.”",
+      "The legal maneuvering continued for months, right up until an hour before they were set to enter a courtroom, at which point James relented.",
+      "“The responsibility I take in all of this is accepting distance,” says Burden. “He did exist at a remove from me and the kids, and I didn’t push him, or ever really discuss our relationship. But he kept saying he was happy. If you don’t tell someone ‘I’m miserable, and I hate this and that about you,’ if you’re not communicating, it’s hard to know what’s going on. As far as red flags are concerned, it may sound ridiculous, but I didn’t see any.”",
+      "Burden has been surprised by the overwhelming resonance of her book, and the universality of the emotional and psychological pain she endured in her marriage. Her memoir, which was based in part on Burden’s popular New York Times Modern Love essay “Was I Married to a Stranger?”, has become a rallying point for those who might not otherwise have been able to articulate just how traumatic a sudden and unexpected swerve into divorce can be.",
+      "“It’s almost like it has a life of its own now, beating its own path,” says Burden. “I hear from so many readers every day, all seeing some part of themselves in my book. The outward facing part of it—speaking publicly, being interviewed—has been a growth experience, to say the least. It takes a lot out of me; I have to get in bed after some of these things. But I feel connected to humanity in a way I never have before, and that is a beautiful thing.”"
+    ],
+    "paragraphTranslations": [
+      "伯登是在事情发生后才写下这些文字的，那时她婚姻中的二元性已经变得显而易见。但即便她参与其中，情况也就像那句谚语所描述的“青蛙在锅里”：随着温度逐渐升高，青蛙原本还能保持安静，但当无法及时逃出时，它便只能束手无策了。随着她丈夫的职业生涯不断取得进展，他越来越多地在曼哈顿工作，而伯登则继续在马萨诸塞州的家中照顾家庭。尽管是伯登为他们的生活方式提供了资金支持，但她的婚姻还是逐渐陷入了传统的性别角色分工中——女主内，男主外。",
+      "“我当初认为他只是个管家而已，觉得这有点浪漫……但随着时间的推移，我越来越确信自己根本无法理解他的财务问题，这简直荒谬，毕竟我是一名企业法律专家。所有事情都变成了关于他的工作和职业发展，而这种情况在男性身上很常见——男性的职业发展往往成为家庭中最重要的事情。而这样一来，人们就会更容易忘记自己的才能和爱好。”",
+      "在婚姻破裂之后，伯登的丈夫从传统的养父角色转变为专横的霸凌者。他放弃了抚养他们三个孩子的责任，并威胁要切断所有的经济支持。他还夺走了伯登用家庭信托基金购买的夫妻共同财产。当这一切发生时，伯登被孤立无援，在封锁期间无法获得任何帮助。“没有人能联系到我，我就像被孤立在岛上一样，根本不认识任何人，”她说。“但另一方面，我也有机会暂时躲起来，不露面。我会独自一人长时间地哭泣。”",
+      "这种法律手段持续了数月之久，直到他们即将进入法庭的前一小时，詹姆斯才最终放弃了这种手段。",
+      "“我对这一切的责任就是接受这种距离感，”伯登说。“他确实和我以及孩子们保持距离，我没有逼迫他，也从未真正讨论过我们的关系。但他一直说自己很幸福。如果你不告诉别人‘我很痛苦，我讨厌你的这些缺点’，如果你不表达你的感受，就很难知道到底发生了什么。就警示信号而言，这听起来可能很荒谬，但我并没有发现任何这样的迹象。”",
+      "伯登对她著作的巨大影响力感到惊讶，同时也意识到她在婚姻中承受的情感和心理痛苦具有普遍性。她的回忆录部分基于伯登在《纽约时报》上发表的广受欢迎的文章《我是不是嫁给了个陌生人？》，这篇文章成为了那些无法用语言表达离婚带来的巨大创伤的人的情感寄托。",
+      "“现在，它几乎像有生命一样，自行发展着，”伯登说。“每天我都会听到许多读者的反馈，他们都能在我的书中找到自己的影子。无论是公开演讲还是接受采访，这些经历都让我收获颇丰。不过，这些活动确实让我花费了很多精力；做完这些之后，我必须好好休息一下。不过，我感觉到自己与人类的联系比以往任何时候都要紧密，这是一件很美好的事情。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "binary",
+        "ipa": "/ˈbaɪnəri/",
+        "pos": "adj.",
+        "meaning": "二元的",
+        "definition": "based on only two numbers",
+        "zh": "二元的"
+      },
+      {
+        "form": "proverbial",
+        "ipa": "/prəˈvɜːbiəl/",
+        "pos": "adj.",
+        "meaning": "谚语中所说的，众所周知的，常说的",
+        "definition": "used to show that you are referring to a particular proverb or well-known phrase",
+        "zh": "谚语中所说的，众所周知的，常说的"
+      },
+      {
+        "form": "jump out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "跳出，跃出",
+        "definition": "to move quickly and suddenly out of a place",
+        "zh": "跳出，跃出"
+      },
+      {
+        "form": "homemaker",
+        "ipa": "/ˈhəʊmmeɪkə(r)/",
+        "pos": "n.",
+        "meaning": "家庭主妇或主夫，操持家务者，家庭照料者",
+        "definition": "a person who manages a home and takes care of the house and family as their main job",
+        "zh": "家庭主妇或主夫，操持家务者，家庭照料者"
+      },
+      {
+        "form": "breadwinner",
+        "ipa": "/ˈbredwɪnə(r)/",
+        "pos": "n.",
+        "meaning": "养家糊口者，家庭经济支柱，主要挣钱者",
+        "definition": "a person who supports their family with the money they earn",
+        "zh": "养家糊口者，家庭经济支柱，主要挣钱者"
+      },
+      {
+        "form": "absurd",
+        "ipa": "/əbˈsɜːd/",
+        "pos": "adj.",
+        "meaning": "滑稽的，荒谬的",
+        "definition": "extremely silly; not logical and sensible",
+        "zh": "滑稽的，荒谬的"
+      },
+      {
+        "form": "usurper",
+        "ipa": "/juːˈzɜːpə(r)/",
+        "pos": "n.",
+        "meaning": "篡夺者，僭夺者，侵占他人位置者",
+        "definition": "(formal) a person who takes sb.’s position and/or power without having the right to do this",
+        "zh": "篡夺者，僭夺者，侵占他人位置者"
+      },
+      {
+        "form": "custody",
+        "ipa": "/ˈkʌstədi/",
+        "pos": "n.",
+        "meaning": "监护权，抚养权",
+        "definition": "the legal right or duty to take care of or keep sb./sth.",
+        "zh": "监护权，抚养权"
+      },
+      {
+        "form": "flip side",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "另一面，相反的一面",
+        "definition": "different and less welcome aspects of an idea, argument or action",
+        "zh": "另一面，相反的一面"
+      },
+      {
+        "form": "hide out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "躲藏，藏身，隐匿行踪",
+        "definition": "to go somewhere where you hope you will not be seen or found",
+        "zh": "躲藏，藏身，隐匿行踪"
+      },
+      {
+        "form": "maneuvering",
+        "ipa": "/məˈnuːvərɪŋ/",
+        "pos": "n.",
+        "meaning": "周旋，策略性操作，谋划",
+        "definition": "ways of achieving your aims that are clever, show skill and are often dishonest",
+        "zh": "周旋，策略性操作，谋划"
+      },
+      {
+        "form": "relented",
+        "ipa": "/rɪˈlent/",
+        "pos": "v.",
+        "meaning": "让步，松口，改变强硬态度",
+        "definition": "to finally agree to sth. after refusing",
+        "zh": "让步，松口，改变强硬态度"
+      },
+      {
+        "form": "remove",
+        "ipa": "/rɪˈmuːv/",
+        "pos": "n.",
+        "meaning": "距离，间隔，疏离程度",
+        "definition": "(formal) a distance or amount by which two things are separated",
+        "zh": "距离，间隔，疏离程度"
+      },
+      {
+        "form": "overwhelming",
+        "ipa": "/ˌəʊvəˈwelmɪŋ/",
+        "pos": "adj.",
+        "meaning": "巨大的，强烈的",
+        "definition": "very great or very strong",
+        "zh": "巨大的，强烈的"
+      },
+      {
+        "form": "resonance",
+        "ipa": "/ˈrezənəns/",
+        "pos": "n.",
+        "meaning": "共鸣，情感共振，强烈反响",
+        "definition": "(formal) the power to bring images, feelings, etc. into the mind of the person reading or listening",
+        "zh": "共鸣，情感共振，强烈反响"
+      },
+      {
+        "form": "rallying point",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "凝聚人心的事物，号召点",
+        "definition": "an idea, event, person, etc. that makes people come together to support sth. they strongly believe in",
+        "zh": "凝聚人心的事物，号召点"
+      },
+      {
+        "form": "articulate",
+        "ipa": "/ɑːˈtɪkjuleɪt/",
+        "pos": "v.",
+        "meaning": "清楚地表达，明确阐述，准确说出",
+        "definition": "(formal) to express or explain your thoughts or feelings clearly in words",
+        "zh": "清楚地表达，明确阐述，准确说出"
+      },
+      {
+        "form": "traumatic",
+        "ipa": "/trɔːˈmætɪk/",
+        "pos": "adj.",
+        "meaning": "令人痛苦的，造成心理创伤的，令人极度不安的",
+        "definition": "extremely unpleasant and causing you to feel upset and/or anxious",
+        "zh": "令人痛苦的，造成心理创伤的，令人极度不安的"
+      },
+      {
+        "form": "swerve",
+        "ipa": "/swɜːv/",
+        "pos": "n.",
+        "meaning": "突然转向，急转，方向突变",
+        "definition": "a sudden change of direction, especially in order to avoid hitting sb./sth.",
+        "zh": "突然转向，急转，方向突变"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a person who takes sb.’s position and/or power without having the right to do this",
+      "to finally agree to sth. after refusing"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “Her memoir, which was based in part on Burden’s popular New York Times Modern Love essay “Was I Married to a Stranger?”, has become a rallying point for those who might not otherwise have been able to articulate just how traumatic a sudden and unexpected swerve into divorce can be.”?",
+    "exerciseChoiceMarked": [
+      "articulate"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She struggled to articulate her feelings about the breakup.",
+        "marked": [
+          "articulate"
+        ],
+        "zh": "她努力表达自己对分手的情绪。"
+      },
+      {
+        "label": "B",
+        "text": "The child learned to articulate each sound clearly.",
+        "marked": [
+          "articulate"
+        ],
+        "zh": "这个孩子学会了清晰地发出每一个发音。"
+      },
+      {
+        "label": "C",
+        "text": "These courses are designed to articulate with university degrees.",
+        "marked": [
+          "articulate"
+        ],
+        "zh": "这些课程旨在与大学学位相互衔接。"
+      },
+      {
+        "label": "D",
+        "text": "The bones of the wrist articulate with one another.",
+        "marked": [
+          "articulate"
+        ],
+        "zh": "手腕的骨头相互连接在一起。"
+      }
+    ],
+    "exerciseTranslationPrompt": "可身处婚姻当中时，她就像寓言里温水煮青蛙：水温缓缓升高，自己怡然不觉，等到察觉危险，已经无力跳出锅外。",
+    "answerVocabularyList": [
+      "usurper",
+      "relent"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "But while she was in it, it was more like the proverbial frog in the pot of water: content as the heat is ever so slowly raised, then helpless when it becomes too late to jump out."
+  },
+  {
     "key": "oct1021",
     "date": "2026.10.21",
     "period": "2026年10月",
@@ -1375,6 +2777,1554 @@ export const octoberNovemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "course"
     ]
+  },
+  {
+    "key": "oct1022",
+    "date": "2026.10.22",
+    "period": "2026年10月",
+    "folder": "1022中国电动车进来后，这个国家后悔了",
+    "titleZh": "中国电动车进来后，这个国家后悔了",
+    "title": "After Welcoming China’s Electric Vehicles, This Country Is Paying the Price",
+    "topicEn": "Economy",
+    "topicZh": "经济",
+    "byline": "By Sui-Lee Wee and Kittiphum Sringammuang, The New York Times, Published October 16, 2026",
+    "paragraphs": [
+      "Thailand introduced subsidies and tax cuts to encourage electric vehicle adoption. Now it is trying to recalibrate, alarmed by the threat to its industrial landscape.",
+      "In Thailand’s carmaking hub of Rayong, China’s largest electric vehicle maker, BYD, built its first factory outside China, a complex the size of 180 football fields. Twenty miles south, a plant once run by General Motors is now owned by China’s Great Wall Motor. A 10-minute drive away, Ford took over a vehicle assembly plant from the Japanese automaker Suzuki. All of this happened in the past five years—evidence of an industry in upheaval.",
+      "For decades, Japanese automakers dominated Thailand. They arrived in the 1960s, built supply chains and transformed the country into the “Detroit of the East.”",
+      "Then the Chinese automakers arrived.",
+      "Today, they control about 85 percent of Thailand’s electric vehicle market, up from almost zero four years ago. Japanese automakers, slow to embrace the technology, have struggled. In 2024 and 2025, Subaru and Suzuki shut down their Thai plants, while Nissan and Honda have scaled back production.",
+      "Several Thai auto-parts suppliers that depended on Japanese manufacturers went bankrupt, threatening a supply chain that employs about 700,000 workers.",
+      "“It was much faster than anything we had expected,” said Supavud Saicheua, chairman of the National Economic and Social Development Council, the central economic planning agency in Thailand.",
+      "“We didn’t think of the full picture,” he added. “The impact on Thailand has been much more adverse than we had thought.”",
+      "To some, Thailand is a cautionary tale about the unintended consequences of opening the door to China’s electric vehicle manufacturers. The lesson could resonate elsewhere. President Trump has seemed open to welcoming China’s E.V. brands to manufacture in the United States despite tariffs that effectively block their entry into the market. The European Union is struggling to rein in Chinese vehicles, despite imposing tariffs. Thailand is trying to contain the damage. Last month, Prime Minister Anutin Charnvirakul traveled to Tokyo to reassure Japanese automakers. A month earlier, he had ordered a review of policies that Japanese firms say put them at a disadvantage.",
+      "Few in Thailand think gas-guzzling cars are the future. Electric vehicles made up a third of new car sales in the first seven months of 2026. It is easy to see the consumer appeal of the Chinese cars. Many offer technology like large display screens and autonomous driving at low prices. (Mr. Anutin owns BYD’s electric S.U.V., the Sealion 7.)",
+      "But policymakers are concerned about the influx. In the first seven months of this year, about two-thirds of electric vehicles sold in Thailand were imported, primarily from China.",
+      "The government is trying to curb the flood. Last month, it unveiled a three-tier tax system that imposes the highest rates on automakers importing vehicles with no plans for local production and the lowest on those that source a large share of their parts locally.",
+      "But Ruth Banomyong, a professor of supply chain management at Thammasat University in Thailand, said there was little evidence that Thailand was benefiting. Chinese automakers, he said, operate within a “closed ecosystem” that makes it difficult for Thai companies to enter their supply chains because the core technology remains in China.",
+      "He and his colleagues have estimated that 300,000 jobs could disappear within five years if electric vehicles dominate Thailand’s auto market.",
+      "“The trickle-down effect is very minimal,” said Mr. Ruth, a former adviser to Thailand’s previous commerce minister. Tossophol Kunsri, president of the Automobile Labor Congress of Thailand, one of the country’s biggest autoworkers’ union, said Chinese electric vehicle makers often hired Thai workers for short-term contracts in brief production runs, then laid them off without severance pay.",
+      "He said the Chinese companies rejected unions. By contrast, he said, he maintained respectful relationships with Japanese automakers, which were willing to negotiate annual salary increases and bonuses.",
+      "Mr. Tossophol said that he had complained to the government about the Chinese companies’ labor practices and that the labor minister had agreed to investigate.",
+      "“We’re standing at a crossroads,” he said. “Are we still going to be an actual automotive manufacturing base, or are we just going to be a market for cheap Chinese E.V.s?”"
+    ],
+    "paragraphTranslations": [
+      "泰国推出了补贴和减税措施，以鼓励人们使用电动汽车。现在，由于担心对工业领域造成的威胁，泰国正试图重新调整相关政策。",
+      "在泰国汽车制造中心拉yon，中国最大的电动汽车制造商比亚迪在这里建立了其在中国以外的第一个工厂。这个工厂的规模相当于180个足球场那么大。在南方20英里处，曾经由通用汽车公司运营的一个工厂，现在由中国的长城汽车公司拥有。在距离这里10分钟车程的地方，福特从日本汽车制造商铃木手中接手了一个汽车组装工厂。所有这些事件都发生在过去五年里——这证明了该行业正在经历一场变革。",
+      "几十年来，日本的汽车制造商一直主导着泰国汽车产业。他们在20世纪60年代进入泰国市场，建立了完善的供应链体系，并将泰国变成了“东方的底特律”。",
+      "然后，中国的汽车制造商们也加入了进来。",
+      "如今，它们占据了泰国电动汽车市场的约85%份额，而四年前这一比例几乎为零。由于对这项技术的接受速度较慢，日本汽车制造商在市场中遇到了困难。2024年和2025年，斯巴鲁和铃木分别关闭了在泰国的工厂，而尼桑和本田则减少了生产规模。",
+      "一些依赖日本制造商的泰国汽车零部件供应商破产了，这威胁到了一个雇用约70万名员工的供应链。",
+      "“这比我们预期的要快得多，”泰国国家经济和社会发展委员会的主席，即该国的中央经济规划机构负责人，Supavud Saicheua说道。",
+      "“我们没有考虑到整个情况，”他补充说。“对泰国的负面影响比我们想象的要严重得多。”",
+      "对一些人来说，泰国的情况是一个警示故事，揭示了将中国的电动汽车制造商引入市场所带来的意外后果。这一教训在其他地方也可能产生共鸣。尽管存在有效阻止这些企业进入市场的关税，特朗普总统似乎愿意接纳中国的电动汽车品牌在美国进行生产。尽管欧盟实施了关税措施，但欧盟仍在努力限制中国汽车的进入。泰国则试图控制这种负面影响。上个月，泰国总理阿努廷·查尔纳维拉克鲁尔前往东京，向日本汽车制造商保证支持。一个月前，他下令审查那些被日本企业认为使其处于不利地位的政策。",
+      "在泰国，很少有人认为高油耗的汽车是未来的发展方向。2026年前七个月，电动汽车占新车销售量的三分之一。不难看出，中国品牌汽车具有强大的市场吸引力。许多中国品牌汽车都配备了诸如大尺寸显示屏和自动驾驶等功能，且价格相对较低。（阿努廷先生拥有比亚迪的电动SUV——Sealion 7。）",
+      "但政策制定者对此现象表示担忧。今年前七个月，泰国售出的电动汽车中，约有三分之二都是进口车辆，主要来自中国。",
+      "政府正在努力控制这一危机。上个月，政府推出了三级税收制度：对那些没有本地生产计划、却进口车辆的汽车制造商征收最高的税率；而对那些大量依赖本地零部件供应的汽车制造商则征收最低的税率。",
+      "但泰国塔曼萨特大学供应链管理教授露丝·巴诺永表示，几乎没有证据表明泰国因此受益。他说，中国的汽车制造商所处的“封闭生态系统”使得泰国公司难以进入他们的供应链，因为核心技术仍然在中国。",
+      "他和他的同事估计，如果电动车辆在泰国汽车市场中占据主导地位，那么在未来五年内可能会有30万个就业岗位消失。",
+      "“这种‘涓滴效应’非常微弱，”前泰国前商务部长顾问鲁斯先生说。泰国汽车工人工会主席托索福尔·昆斯里表示，中国的电动汽车制造商通常会在短期生产周期中雇佣泰国工人，之后却不给予任何补偿金就解雇他们。",
+      "他说，中国公司拒绝加入工会。相比之下，他表示自己与日本汽车制造商保持着友好的关系，这些制造商愿意就年度工资增长和奖金问题进行谈判。",
+      "托索福尔先生表示，他曾向政府投诉过这些中国公司的劳动方式，并且劳动部长同意对此展开调查。",
+      "“我们正站在一个十字路口上，”他说。“我们还会继续作为真正的汽车制造基地，还是只会成为一个销售廉价中国电动汽车的市场呢？”"
+    ],
+    "vocabulary": [
+      {
+        "form": "Vehicles",
+        "ipa": "/ˈviːəkl/, /ˈviːhɪkl/",
+        "pos": "n.",
+        "meaning": "车辆，交通工具，运输工具",
+        "definition": "a thing that is used for transporting people or goods from one place to another, such as a car or lorry",
+        "zh": "车辆，交通工具，运输工具"
+      },
+      {
+        "form": "subsidies",
+        "ipa": "/ˈsʌbsədi/",
+        "pos": "n.",
+        "meaning": "补贴，津贴，财政补助",
+        "definition": "money paid by a government or organization to reduce the cost of goods or services",
+        "zh": "补贴，津贴，财政补助"
+      },
+      {
+        "form": "adoption",
+        "ipa": "/əˈdɒpʃn/",
+        "pos": "n.",
+        "meaning": "采用，采纳，接受",
+        "definition": "the decision to start using sth. such as an idea, a plan or a name",
+        "zh": "采用，采纳，接受"
+      },
+      {
+        "form": "recalibrate",
+        "ipa": "/ˌriːˈkælɪbreɪt/",
+        "pos": "v.",
+        "meaning": "重新调整，重新校准，重新评估",
+        "definition": "to change the way you do or think about sth.",
+        "zh": "重新调整，重新校准，重新评估"
+      },
+      {
+        "form": "alarmed",
+        "ipa": "/əˈlɑːmd/",
+        "pos": "adj.",
+        "meaning": "担心的，惊恐的",
+        "definition": "anxious or afraid that sth. dangerous or unpleasant might happen",
+        "zh": "担心的，惊恐的"
+      },
+      {
+        "form": "landscape",
+        "ipa": "/ˈlændskeɪp/",
+        "pos": "n.",
+        "meaning": "整体态势，格局，面貌",
+        "definition": "the characteristic features of an area of activity",
+        "zh": "整体态势，格局，面貌"
+      },
+      {
+        "form": "hub",
+        "ipa": "/hʌb/",
+        "pos": "n.",
+        "meaning": "中心，枢纽，核心地带",
+        "definition": "the central and most important part of a particular place or activity",
+        "zh": "中心，枢纽，核心地带"
+      },
+      {
+        "form": "upheaval",
+        "ipa": "/ʌpˈhiːvl/",
+        "pos": "n.",
+        "meaning": "剧变，动荡，重大变革",
+        "definition": "a big change that causes a lot of worry and problems",
+        "zh": "剧变，动荡，重大变革"
+      },
+      {
+        "form": "dominated",
+        "ipa": "/ˈdɒmɪneɪt/",
+        "pos": "v.",
+        "meaning": "占据主导地位，支配，控制",
+        "definition": "to control or have a lot of influence over sb./sth.",
+        "zh": "占据主导地位，支配，控制"
+      },
+      {
+        "form": "embrace",
+        "ipa": "/ɪmˈbreɪs/",
+        "pos": "v.",
+        "meaning": "欣然接受，积极采纳",
+        "definition": "to accept an idea, proposal or belief, especially with enthusiasm",
+        "zh": "欣然接受，积极采纳"
+      },
+      {
+        "form": "scaled back",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "缩减，削减，减少规模",
+        "definition": "to reduce the number, size or extent of sth.",
+        "zh": "缩减，削减，减少规模"
+      },
+      {
+        "form": "bankrupt",
+        "ipa": "/ˈbæŋkrʌpt/",
+        "pos": "adj.",
+        "meaning": "破产的，无力偿债的，资不抵债的",
+        "definition": "without enough money to pay what you owe",
+        "zh": "破产的，无力偿债的，资不抵债的"
+      },
+      {
+        "form": "adverse",
+        "ipa": "/ˈædvɜːs/, /ədˈvɜːs/",
+        "pos": "adj.",
+        "meaning": "不利的，负面的，有害的",
+        "definition": "negative and unpleasant; not likely to produce a good result",
+        "zh": "不利的，负面的，有害的"
+      },
+      {
+        "form": "cautionary",
+        "ipa": "/ˈkɔːʃənəri/",
+        "pos": "adj.",
+        "meaning": "告诫的，警示的",
+        "definition": "giving advice or a warning",
+        "zh": "告诫的，警示的"
+      },
+      {
+        "form": "resonate",
+        "ipa": "/ˈrezəneɪt/",
+        "pos": "v.",
+        "meaning": "引起共鸣，产生反响，引发认同",
+        "definition": "to remind sb. of sth.; to be similar to what sb. thinks or believes",
+        "zh": "引起共鸣，产生反响，引发认同"
+      },
+      {
+        "form": "tariffs",
+        "ipa": "/ˈtærɪf/",
+        "pos": "n.",
+        "meaning": "关税，进口税，税率",
+        "definition": "a tax that is paid on goods coming into or going out of a country",
+        "zh": "关税，进口税，税率"
+      },
+      {
+        "form": "rein in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "遏制，约束，控制",
+        "definition": "to start to control sb./sth. more strictly",
+        "zh": "遏制，约束，控制"
+      },
+      {
+        "form": "imposing",
+        "ipa": "/ɪmˈpəʊz/",
+        "pos": "v.",
+        "meaning": "征收（税款），强加，实施",
+        "definition": "to introduce a new law, rule, tax, etc.; to order that a rule, punishment, etc. be used",
+        "zh": "征收（税款），强加，实施"
+      },
+      {
+        "form": "contain",
+        "ipa": "/kənˈteɪn/",
+        "pos": "v.",
+        "meaning": "遏制，控制，阻止",
+        "definition": "to stop sth. from spreading or escaping",
+        "zh": "遏制，控制，阻止"
+      },
+      {
+        "form": "reassure",
+        "ipa": "/ˌriːəˈʃʊə(r)/, /ˌriːəˈʃɔː(r)/",
+        "pos": "v.",
+        "meaning": "安抚，消除疑虑，使安心",
+        "definition": "to say or do sth. that makes sb. less frightened or worried",
+        "zh": "安抚，消除疑虑，使安心"
+      },
+      {
+        "form": "gas-guzzling",
+        "ipa": "/ˈɡæs ɡʌzlɪŋ/",
+        "pos": "adj.",
+        "meaning": "耗油的，油耗大的，费油的",
+        "definition": "(informal) (of a car or other vehicle) needing a lot of petrol",
+        "zh": "耗油的，油耗大的，费油的"
+      },
+      {
+        "form": "influx",
+        "ipa": "/ˈɪnflʌks/",
+        "pos": "n.",
+        "meaning": "大量涌入，大批到来，流入",
+        "definition": "the fact of a lot of people, money or things arriving somewhere",
+        "zh": "大量涌入，大批到来，流入"
+      },
+      {
+        "form": "curb",
+        "ipa": "/kɜːb/",
+        "pos": "v.",
+        "meaning": "遏制，抑制，限制",
+        "definition": "to control or limit sth., especially sth. bad",
+        "zh": "遏制，抑制，限制"
+      },
+      {
+        "form": "unveiled",
+        "ipa": "/ˌʌnˈveɪl/",
+        "pos": "v.",
+        "meaning": "公布，推出，首次公开",
+        "definition": "to show or introduce a new plan, product, etc. to the public for the first time",
+        "zh": "公布，推出，首次公开"
+      },
+      {
+        "form": "three-tier",
+        "ipa": "/tɪə(r)/",
+        "pos": "n.",
+        "meaning": "层级，等级，级别",
+        "definition": "one of several levels in an organization or a system",
+        "zh": "层级，等级，级别"
+      },
+      {
+        "form": "source",
+        "ipa": "/sɔːs/",
+        "pos": "v.",
+        "meaning": "采购，获取，从特定渠道取得",
+        "definition": "to get sth. from a particular place",
+        "zh": "采购，获取，从特定渠道取得"
+      },
+      {
+        "form": "trickle-down effect",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "经济利益的向下传导效应，涓滴效应",
+        "definition": "a situation in which benefits or effects spread from one part or level of an economic system to others",
+        "zh": "经济利益的向下传导效应，涓滴效应"
+      },
+      {
+        "form": "minimal",
+        "ipa": "/ˈmɪnɪml/",
+        "pos": "adj.",
+        "meaning": "极小的，极少的，最低限度的",
+        "definition": "very small in size or amount; as small as possible",
+        "zh": "极小的，极少的，最低限度的"
+      },
+      {
+        "form": "laid them off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "解雇，裁员，停止雇用",
+        "definition": "to stop employing sb. because there is not enough work for them to do",
+        "zh": "解雇，裁员，停止雇用"
+      },
+      {
+        "form": "severance pay",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "遣散费，离职补偿金，解雇补偿金",
+        "definition": "money paid by an employer to an employee whose employment has been ended",
+        "zh": "遣散费，离职补偿金，解雇补偿金"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "money paid by a government or organization to reduce the cost of goods or services",
+      "a big change that causes a lot of worry and problems"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The European Union is struggling to rein in Chinese vehicles, despite imposing tariffs.”?",
+    "exerciseChoiceMarked": [
+      "imposing"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "This system imposes additional financial burdens on many people.",
+        "marked": [
+          "imposes"
+        ],
+        "zh": "这个系统给许多人带来了额外的经济负担。"
+      },
+      {
+        "label": "B",
+        "text": "She didn’t want to impose her values on her family.",
+        "marked": [
+          "impose"
+        ],
+        "zh": "她不想将自己的价值观强加给家人。"
+      },
+      {
+        "label": "C",
+        "text": "A new tax was imposed on fuel.",
+        "marked": [
+          "imposed"
+        ],
+        "zh": "对燃料征收了新的税项。"
+      },
+      {
+        "label": "D",
+        "text": "Everyone imposes on Dave’s good nature",
+        "marked": [
+          "imposes"
+        ],
+        "zh": "大家都试图利用戴夫的善良本性。"
+      }
+    ],
+    "exerciseTranslationPrompt": "一些依赖日本汽车制造商的泰国汽车零部件供应商相继破产，威胁到一条雇用了约 700,000 名工人的供应链。",
+    "answerVocabularyList": [
+      "subsidy",
+      "upheaval"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "Several Thai auto-parts suppliers that depended on Japanese manufacturers went bankrupt, threatening a supply chain that employs about 700,000 workers."
+  },
+  {
+    "key": "oct1023",
+    "date": "2026.10.23",
+    "period": "2026年10月",
+    "folder": "1023 蛋挞经济：一款洋点心如何在中国火成这样？12",
+    "titleZh": "蛋挞经济：一款洋点心如何在中国火成这样？ 1",
+    "title": "Everyone Wants a Bite of China’s Egg Tart Economy",
+    "topicEn": "Economy",
+    "topicZh": "经济",
+    "byline": "By Tiffany Ap, Bloomberg, Published October 16, 2026",
+    "paragraphs": [
+      "KFC turned a pastry with Portuguese roots into a Chinese fast-food phenomenon. Now McDonald’s and Portuguese bakers are piling in.",
+      "Gregoire Michaud didn’t fully grasp what he’d created until a pregnant woman fainted outside Bakehouse, his HK bakery. It was 2018, and the former Four Seasons Hotel pastry chef had a line of hundreds outside the shop, which had just opened a few months earlier. Michaud can still picture the flashing lights of the ambulance and police vehicles that arrived on the narrow Wan Chai street. “I remember being in the kitchen in the back and I looked like this.” He pauses to pull his eyebrows up in shock. “I told my colleague, ‘What have we done? What is this?'” The cause of the commotion was Michaud’s dainty sourdough –crust egg tart, his spin on the Macanese treat, which had grown so popular that long lines formed outside his bakery every day. Neighbors fed up with blocked sidewalks frequently called the police. The shop next door blared an automated recording on repeat at the crowds: “Please leave.”",
+      "Today, Bakehouse is planning a ninth store in HK and sells roughly 30,000 tarts a day. Lines still form regularly outside, though they tend to be short and move quickly. As for the pregnant woman, she turned out OK. “She’s a regular,” says Michaud. “She keeps coming back today with her kid.” Bakehouse is just one player in China’s lucrative egg tart market, a booming business with a surprisingly tangled history. Almost 40 years ago, Portugal’s pastel de nata, a custard tart, was adapted for Macau’s Portuguese community. The localized version eventually became a mass-market hit across China, thanks in large part to KFC, which today generates over 3 billion yuan ($448 million) in annual revenue from the sweet treat. Everyone from McDonald’s Corp. to artisanal bakers is now fighting for a piece of the action, making the egg tart a case study in how globalization and localization feed off each other.",
+      "A Happy Accident",
+      "The Portuguese-style tart wasn’t the first egg tart to take root in southern China. The Cantonese egg tart, or daan tat, emerged in 1920s Guangzhou, adapted from English custard tarts, and quickly became a fixture in HK. In a culinary tradition dominated by steamed, subtle desserts like sweet soups and rice cakes, it offered a comforting egg profile that felt indulgent without alienating the Chinese palate.",
+      "Cantonese egg tarts are a smooth, bright-yellow custard set in a buttery shortcrust shell. So when British pharmacist-turned-baker Andrew Stow improvised a version of pastel de nata at his Macau bakery, Lord Stow’s, in 1989, at first “people didn’t like it,” says his then-wife, Margaret Wong. The blistered, caramelized top looked unfamiliar. “Because [of] the dark spots on the top, they thought it was burnt.”",
+      "Despite the initial hesitation, the couple kept selling the flakier, more deeply caramelized riff onthe Portuguese tart, and it turned into a hit. After the pair divorced, Wong licensed her version of the recipe to a KFC franchisee in 1999. The humble pastry became so emblematic of Macau that the city last year officially added egg-tart-making to its Intangible Cultural Heritage list."
+    ],
+    "paragraphTranslations": [
+      "肯德基将一种具有葡萄牙渊源的糕点变成了中国的快餐品牌。现在，麦当劳和葡萄牙烘焙师们也纷纷加入这一行列。",
+      "格雷瓜尔·米肖直到一位孕妇在HK地区的Bakehouse面包店外昏倒时，才完全意识到自己创造了什么。那是2018年，这位前四季酒店的法式糕点师在几个月前刚刚开业的面包店外排起了数百人的长队。米肖仍然能记得救护车和警车的灯光在狭窄的湾仔街上闪烁的情景。“我记得当时我在厨房的后面，看起来就像这样。”他停下来，惊讶地挑起眉毛。“我告诉同事：‘我们到底做了什么？这是怎么回事？’”引发这场骚动的原因是米肖发明的这款精致的酸面包点心——这款点心非常受欢迎，每天都有人排着长队等待购买。对交通堵塞感到不满的邻居们经常报警。隔壁的商店播放着重复的自动播报音效，内容为：“请离开。”",
+      "如今，Bakehouse正在香港开设第九家门店，每天销售约30,000个蛋挞。尽管排队等候的队伍通常都很短且流动较快，但排队现象仍然普遍存在。对于那位怀孕的顾客来说，她成为了Bakehouse的常客。“她经常光顾，今天还带着她的孩子一起来了。”Michaud说道。Bakehouse只是中国这个利润丰厚的蛋挞市场中的一家参与者而已。这一市场发展迅速，但其历史却相当复杂。近40年前，葡萄牙的“pastel de nata”蛋挞被改编为适合澳门葡萄牙社区的版本。这一本地化版本最终在中国成为畅销产品，这主要得益于KFC的贡献——KFC从这一甜点中获得了超过30亿元人民币的年收入。从麦当劳公司到手工烘焙师，现在都有人争夺这一市场的份额，这使得蛋挞成为全球化与本地化如何相互影响的典型案例。",
+      "一次幸运的意外",
+      "这种具有葡萄牙风格的蛋塔并不是第一个在中国南方流行的蛋塔品种。粤式蛋塔，又称“daan tat”，诞生于20世纪20年代的广州，其原型是英国式的蛋奶冻蛋塔，很快成为香港的流行食品。在以蒸制、清淡的甜点如甜汤和米果为主的饮食传统中，这种蛋塔以其浓郁的蛋香而受到欢迎，既满足了人们的味蕾需求，又不会让中国人感到不适。",
+      "粤式蛋挞是一种口感顺滑、颜色鲜艳的奶油冻，包裹在黄油制成的酥脆外壳中。1989年，从英国药剂师转型为面包师的安德鲁·斯托在他的澳门面包店——斯托勋爵面包店，尝试制作一种类似“pastel de nata”的面包。当时他的妻子玛格丽特·王说，起初人们并不喜欢这种新口味的食物。因为面包表面有气泡和焦糖化的痕迹，看起来很陌生，人们以为面包烤焦了。",
+      "尽管最初有所犹豫，这对夫妇还是继续销售这种以更浓郁的焦糖味为特色的葡萄牙式甜点，最终这款甜点成为了畅销产品。在两人离婚后，Wong于1999年将她的配方授权给一家肯德基分店。这款简单而美味的甜点成为了澳门的象征，以至于去年澳门正式将其“蛋塔制作工艺”列入其非物质文化遗产名录中。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Tart",
+        "ipa": "/tɑːt/",
+        "pos": "n.",
+        "meaning": "挞，甜馅饼，敞口酥皮点心",
+        "definition": "a pie without a top on it, containing sth. sweet",
+        "zh": "挞，甜馅饼，敞口酥皮点心"
+      },
+      {
+        "form": "pastry",
+        "ipa": "/ˈpeɪstri/",
+        "pos": "n.",
+        "meaning": "糕点，油酥面团，酥皮点心",
+        "definition": "a small cake made using pastry",
+        "zh": "糕点，油酥面团，酥皮点心"
+      },
+      {
+        "form": "piling in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "蜂拥而入，纷纷加入，争相涌入",
+        "definition": "(informal) (of a group of people) to move together, especially in an uncontrolled way",
+        "zh": "蜂拥而入，纷纷加入，争相涌入"
+      },
+      {
+        "form": "grasp",
+        "ipa": "/ɡrɑːsp/",
+        "pos": "v.",
+        "meaning": "理解，领会，明白",
+        "definition": "to understand sth. completely",
+        "zh": "理解，领会，明白"
+      },
+      {
+        "form": "fainted",
+        "ipa": "/feɪnt/",
+        "pos": "v.",
+        "meaning": "昏厥，晕倒，失去知觉",
+        "definition": "to become unconscious when not enough blood is going to your brain",
+        "zh": "昏厥，晕倒，失去知觉"
+      },
+      {
+        "form": "commotion",
+        "ipa": "/kəˈməʊʃn/",
+        "pos": "n.",
+        "meaning": "骚动，混乱，喧闹",
+        "definition": "sudden noisy and confused activity or excitement",
+        "zh": "骚动，混乱，喧闹"
+      },
+      {
+        "form": "dainty",
+        "ipa": "/ˈdeɪnti/",
+        "pos": "adj.",
+        "meaning": "小巧精致的，娇小玲珑的，精美的",
+        "definition": "small and pretty in a way that people find attractive",
+        "zh": "小巧精致的，娇小玲珑的，精美的"
+      },
+      {
+        "form": "sourdough-crust",
+        "ipa": "/ˈsaʊədəʊ/",
+        "pos": "n.",
+        "meaning": "酸面团，天然发酵面团，酸种面团",
+        "definition": "a mixture of flour and water that is left to ferment and then used to make bread",
+        "zh": "酸面团，天然发酵面团，酸种面团"
+      },
+      {
+        "form": "spin",
+        "ipa": "/spɪn/",
+        "pos": "n.",
+        "meaning": "（特意做的）诠释与宣传",
+        "definition": "(informal) a way of presenting information or a situation in a particular way, especially one that makes you or your ideas seem good",
+        "zh": "（特意做的）诠释与宣传"
+      },
+      {
+        "form": "fed up with",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "厌烦，对……感到受够了，不堪忍受",
+        "definition": "(informal) bored or unhappy, especially with a situation that has continued for too long",
+        "zh": "厌烦，对……感到受够了，不堪忍受"
+      },
+      {
+        "form": "blared",
+        "ipa": "/bleə(r)/",
+        "pos": "v.",
+        "meaning": "发出刺耳的响声，大声播放，高声鸣响",
+        "definition": "to make a loud unpleasant noise",
+        "zh": "发出刺耳的响声，大声播放，高声鸣响"
+      },
+      {
+        "form": "lucrative",
+        "ipa": "/ˈluːkrətɪv/",
+        "pos": "adj.",
+        "meaning": "利润丰厚的，赚钱的，收益可观的",
+        "definition": "producing a large amount of money; making a large profit",
+        "zh": "利润丰厚的，赚钱的，收益可观的"
+      },
+      {
+        "form": "tangled",
+        "ipa": "/ˈtæŋɡld/",
+        "pos": "adj.",
+        "meaning": "错综复杂的，纠缠不清的，难以理清的",
+        "definition": "complicated, and not easy to understand",
+        "zh": "错综复杂的，纠缠不清的，难以理清的"
+      },
+      {
+        "form": "custard",
+        "ipa": "/ˈkʌstəd/",
+        "pos": "n.",
+        "meaning": "蛋奶馅，卡仕达酱，蛋奶糊",
+        "definition": "a mixture of eggs, milk and sugar baked until it is thick and fairly solid",
+        "zh": "蛋奶馅，卡仕达酱，蛋奶糊"
+      },
+      {
+        "form": "artisanal",
+        "ipa": "/ˈɑːtɪzənəl/",
+        "pos": "adj.",
+        "meaning": "传统手工制作的，手工工艺的，匠人制作的",
+        "definition": "made in a traditional way by sb. who is skilled with their hands",
+        "zh": "传统手工制作的，手工工艺的，匠人制作的"
+      },
+      {
+        "form": "a piece of the action",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "分一杯羹",
+        "definition": "(informal) a share or role in an interesting or exciting activity, especially one that makes money",
+        "zh": "分一杯羹"
+      },
+      {
+        "form": "feed off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "依靠……发展，相互促进",
+        "definition": "to increase because of sth., or to use sth. to succeed or get advantages",
+        "zh": "依靠……发展，相互促进"
+      },
+      {
+        "form": "culinary",
+        "ipa": "/ˈkʌlɪnəri/",
+        "pos": "adj.",
+        "meaning": "烹饪的，厨房的，饮食文化的",
+        "definition": "(formal) connected with cooking or kitchens",
+        "zh": "烹饪的，厨房的，饮食文化的"
+      },
+      {
+        "form": "subtle",
+        "ipa": "/ˈsʌtl/",
+        "pos": "adj.",
+        "meaning": "（味道）清淡的，细腻的，不浓烈的",
+        "definition": "not very obvious or easy to notice",
+        "zh": "（味道）清淡的，细腻的，不浓烈的"
+      },
+      {
+        "form": "profile",
+        "ipa": "/ˈprəʊfaɪl/",
+        "pos": "n.",
+        "meaning": "（食物的）风味特征，味道特点",
+        "definition": "the set of taste and aroma characteristics of a food or drink",
+        "zh": "（食物的）风味特征，味道特点"
+      },
+      {
+        "form": "indulgent",
+        "ipa": "/ɪnˈdʌldʒənt/",
+        "pos": "adj.",
+        "meaning": "奢侈享受的，纵情享乐的",
+        "definition": "allowing yourself to enjoy sth. pleasant, especially food or other pleasures that are not essential",
+        "zh": "奢侈享受的，纵情享乐的"
+      },
+      {
+        "form": "alienating",
+        "ipa": "/ˈeɪliəneɪt/",
+        "pos": "v.",
+        "meaning": "使疏远，使反感，使失去好感",
+        "definition": "to make sb. less friendly towards you",
+        "zh": "使疏远，使反感，使失去好感"
+      },
+      {
+        "form": "palate",
+        "ipa": "/ˈpælət/",
+        "pos": "n.",
+        "meaning": "味觉，味蕾，品尝能力",
+        "definition": "the ability to recognize and/or enjoy good food and drink",
+        "zh": "味觉，味蕾，品尝能力"
+      },
+      {
+        "form": "shortcrust",
+        "ipa": "/ˈʃɔːtkrʌst/",
+        "pos": "adj.",
+        "meaning": "松脆酥皮的，易碎的，曲奇式酥皮的",
+        "definition": "(of pastry) that crumbles easily, used for making pies, etc.",
+        "zh": "松脆酥皮的，易碎的，曲奇式酥皮的"
+      },
+      {
+        "form": "blistered",
+        "ipa": "/ˈblɪstəd/",
+        "pos": "adj.",
+        "meaning": "表面起泡的，鼓起泡状斑点的",
+        "definition": "having hollow rounded swellings on the surface",
+        "zh": "表面起泡的，鼓起泡状斑点的"
+      },
+      {
+        "form": "flakier",
+        "ipa": "/ˈfleɪki/",
+        "pos": "adj.",
+        "meaning": "酥脆的，易碎成薄片的",
+        "definition": "tending to break into small, thin pieces",
+        "zh": "酥脆的，易碎成薄片的"
+      },
+      {
+        "form": "caramelized",
+        "ipa": "/ˈkærəməlaɪzd/",
+        "pos": "adj.",
+        "meaning": "焦糖化的，呈焦糖色的，带有焦糖风味的",
+        "definition": "containing or tasting of sugar that has been burnt slightly so it turns brown",
+        "zh": "焦糖化的，呈焦糖色的，带有焦糖风味的"
+      },
+      {
+        "form": "riff",
+        "ipa": "/rɪf/",
+        "pos": "n.",
+        "meaning": "改编版本，翻新演绎",
+        "definition": "sth. that is slightly different to the usual form",
+        "zh": "改编版本，翻新演绎"
+      },
+      {
+        "form": "franchisee",
+        "ipa": "/ˌfræntʃaɪˈziː/",
+        "pos": "n.",
+        "meaning": "特许经营商，加盟商，特许经营权获得者",
+        "definition": "a person or company that has been given a franchise",
+        "zh": "特许经营商，加盟商，特许经营权获得者"
+      },
+      {
+        "form": "emblematic",
+        "ipa": "/ˌembləˈmætɪk/",
+        "pos": "adj.",
+        "meaning": "象征性的，具有代表性的，典型的",
+        "definition": "(formal) that represents or is a symbol of sth.",
+        "zh": "象征性的，具有代表性的，典型的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to understand sth. completely",
+      "allowing yourself to enjoy sth. pleasant, especially food or other pleasures that are not essential"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “In a culinary tradition dominated by steamed, subtle desserts like sweet soups and rice cakes, it offered a comforting egg profile that felt indulgent without alienating the Chinese palate.”?",
+    "exerciseChoiceMarked": [
+      "subtle"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She has a subtle understanding of people’s feelings.",
+        "marked": [
+          "subtle"
+        ],
+        "zh": "她对人们的情感有着敏锐的感知能力。"
+      },
+      {
+        "label": "B",
+        "text": "There is a subtle difference between these two plans.",
+        "marked": [
+          "subtle"
+        ],
+        "zh": "这两个计划之间存在细微的差别。"
+      },
+      {
+        "label": "C",
+        "text": "The rice cake has a subtle sweetness that is not cloying.",
+        "marked": [
+          "subtle"
+        ],
+        "zh": "米糕有一丝淡淡的甜味，并不腻人。"
+      },
+      {
+        "label": "D",
+        "text": "He made a subtle suggestion instead of giving an order.",
+        "marked": [
+          "subtle"
+        ],
+        "zh": "他提出了一个委婉的建议，而不是下达命令。"
+      }
+    ],
+    "exerciseTranslationPrompt": "尽管最初有所犹豫，这对夫妻还是坚持出售这种酥皮层次更加丰富、表面焦糖化程度更深的改良葡挞，最终大获成功。",
+    "answerVocabularyList": [
+      "grasp",
+      "indulgent"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "Despite the initial hesitation, the couple kept selling the flakier, more deeply caramelized riff on the Portuguese tart, and it turned into a hit."
+  },
+  {
+    "key": "oct1026",
+    "date": "2026.10.26",
+    "period": "2026年10月",
+    "folder": "1026陶哲轩呼吁：别让 AI 毁了数学",
+    "titleZh": "陶哲轩呼吁：别让 AI 毁了数学",
+    "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "By Terence Tao, Nature, Published Oct. 22, 2026",
+    "paragraphs": [
+      "As AI makes mathematical proofs abundant, mathematicians must redesign incentives and tools to deepen human understanding and preserve responsible control over real-world applications.",
+      "Advanced artificial-intelligence models are transforming mathematics at an astonishing speed. In the past few months, AI-aided proofs — logical arguments that demonstrate why a mathematical result is correct — have been released for hundreds of long-standing maths problems. Mathematicians might need several months to fully understand the underlying arguments and implications of these automatically derived solutions. As a mathematician who uses AI tools for my own research, I can see that the field has fundamentally transformed. We now urgently need to establish a ‘Maths 2.0’ era, in which ‘proof scarcity‘ is no longer a defining feature of the field.",
+      "The challenges associated with this new way of doing maths are already evident. Many AI-generated results are not described clearly enough to meet quality standards for publication. Some researchers using AI tools simply move on to the next problem once they have a minimally presentable proof, leaving results that can be difficult for other mathematicians to assess. And it still remains unclear how extensively AI models are drawing on the previous work of mathematicians without providing proper attribution. The centuries-old practice of openly sharing maths problems is under serious threat because mathematicians are increasingly fearful that disclosing their research directions will lead to their work being ‘scooped‘ by a rival who is equipped with a frontier AI model. Graduate students and junior mathematicians used to develop their skills and gain early recognition from their peers by solving such problems. On 6 October, technology firm OpenAI dumped hundreds of solutions to such problems online in one go. It disrupted countless research programmes overnight.",
+      "Perhaps the most counter-intuitive consequence is that human understanding of mathematics is falling behind, because AI systems generate results faster than mathematicians can digest and absorb them. Confined to pure mathematics, this ‘proof indigestion’ might be a minor concern. But AI-generated mathematical models deployed in the real world without a matching understanding of their mechanisms could have serious consequences. For example, complex AI-generated models are already used to some extent to determine who qualifies for a bank loan and to measure financial risk in markets. If the complexity of these models outpaces the capacity for humans to understand when they might malfunction, the risks of unforeseen mistakes will grow, affecting the general public. These negative impacts are not inevitable. Used creatively, and with the right incentives, AI tools could enhance human understanding. It is still possible to change course, through a radical reassessment of the conventional incentive structure of mathematics and by introducing more-responsible practices around AI use.",
+      "Mathematicians must build a ‘Maths 2.0’ world in which AI tools are used mainly to support human expertise and understanding. First, incentives for mathematicians will need to evolve. The conventional ‘Maths 1.0’ system, which placed a premium on being the first person to solve an open problem, is increasingly difficult to sustain in an era of abundant AI-generated proofs. Mathematicians will need to value contributions to the field more holistically — for instance, processes and insights in addition to outcomes. Large, international collaborations might need to be set up to tackle interconnected problems on a scale beyond the reach of any individual mathematician or AI system.",
+      "Second, AI tools could enable fresh ways of doing mathematics, not simply faster ways of solving problems. For instance, rather than deploying AI systems to prove one particularly difficult theorem, researchers might ask them to generate and analyse a structured data set of millions of mathematical problems of varying difficulty, search them for unexpected patterns and use those patterns to suggest new questions worth pursuing. A complex mathematical result that once had only one long and difficult proof could now have dozens of AI-assisted alternatives. Comparing various routes with the same conclusion could reveal which mathematical ideas are fundamental to the result, and which are merely features of a particular proof.",
+      "Third, developers must build open-source AI models suited for mathematical research. It is clear that our profession cannot rely on external AI companies. The race to mine mathematics in an unsustainable fashion — that is, prioritizing the extraction of solutions over the slower work of understanding and developing them — is driven by a desire to showcase the capabilities of the newest AI models. And that does not necessarily align with what’s best for the long-term health of the field.",
+      "Mathematicians have an important part to play in addressing the risks of powerful, misaligned AI tools that could exploit weaknesses in mathematical models, such as those used by the financial industry, and cause serious disruption. Existing regulatory frameworks for sensitive infrastructure, such as food supply, energy grids and health-care systems, will need to be updated to address such risks. I hope that we have the collective wisdom to ensure that AI deployment never outpaces the ability of human experts to understand and monitor these systems. And that we will always retain the ability to override AI models."
+    ],
+    "paragraphTranslations": [
+      "随着人工智能使得数学证明变得丰富多样，数学家们必须重新设计激励机制和工具，以加深人类对数学的理解，并确保在实际应用中对人工智能的合理使用。",
+      "先进的人工智能模型正在以惊人的速度改变数学领域。在过去的几个月里，由人工智能辅助的证明——即能够解释为何某个数学结论正确的逻辑论证——已经应用于数百个长期存在的数学问题。数学家可能需要几个月的时间来完全理解这些自动生成的解决方案背后的逻辑和含义。作为一名使用人工智能工具进行研究的数学家，我能够看到这个领域已经发生了根本性的变革。我们现在迫切需要建立一个“数学2.0”时代，在这个时代里，“证明的稀缺性”将不再成为该领域的显著特征。",
+      "这种新的数学研究方法所带来的挑战已经显现出来。许多由人工智能生成的结果描述不够清晰，无法达到发表所需的质量标准。一些使用人工智能工具的研究人员在获得勉强可接受的证明后便直接放弃研究，导致这些结果难以被其他数学家评估。此外，目前仍不清楚人工智能模型在多大程度上借鉴了数学家们之前的研究成果，同时也没有给予适当的引用。由于数学家们越来越担心公开自己的研究方向会导致他们的研究成果被拥有先进人工智能模型的研究者抢走，因此公开分享数学问题的古老传统正面临严重的威胁。过去，研究生和年轻数学家们通过解决这类问题来锻炼自己的技能，并从中获得同行的认可。10月6日，技术公司OpenAI一次性在线上发布了数百种解决此类问题的方案。这一举措瞬间扰乱了无数研究项目。",
+      "或许最出乎意料的后果是，人类对数学的理解正在落后，因为人工智能系统生成结果的速度快于数学家消化和吸收这些结果的速度。如果仅限于纯数学领域，这种“理解能力不足”的问题或许还算次要。但如果在现实世界中使用人工智能生成的数学模型，而人们对其运作机制却缺乏了解，那么后果可能会非常严重。例如，目前已经有一些复杂的人工智能模型被用于判断谁有资格获得银行贷款，以及评估市场中的金融风险。如果这些模型的复杂性超出了人类理解其潜在故障的能力，那么未预见的错误风险就会增加，从而影响到普通民众。这些负面影响并非不可避免。只要运用得当，并给予适当的激励，人工智能工具就能提升人类的理解能力。通过彻底重新评估数学领域的传统激励机制，并引入更负责任的AI使用方式，我们仍然可以改变现状。",
+      "数学家们必须构建一个“数学2.0”的世界，在这个世界里，人工智能工具主要用于辅助人类的知识积累和理解。首先，对数学家的激励机制需要加以改进。传统的“数学1.0”体系强调成为第一个解决某个开放问题的科学家，但在人工智能生成的证明如此丰富的时代，这种体系越来越难以维持。数学家们需要更全面地评价对学科的贡献——例如，除了成果之外，还需要考虑相关的方法和见解。为了解决那些需要多个数学家或人工智能系统共同努力才能解决的复杂问题，可能需要建立大型的国际合作项目。",
+      "其次，人工智能工具能够带来数学研究的新方法，而不仅仅是解决问题的更高效方式。例如，研究人员可以运用人工智能系统来生成并分析包含数百万个具有不同难度级别的数学问题的结构化数据集，从中寻找意想不到的模式，并利用这些模式提出值得研究的新问题。原本只有一种冗长且复杂的证明方法的解数学问题，现在可能有数十种由人工智能辅助得出的解决方案。通过比较各种达到相同结论的方法，可以识别出哪些数学概念是该结果的基础，而哪些只是特定证明方法中的附属特性。",
+      "第三，开发者必须构建适用于数学研究的开源AI模型。显然，我们的行业无法依赖外部的人工智能公司。这种以不可持续的方式挖掘数学模型的竞争——即优先考虑模型的快速应用，而忽视对其原理的深入理解和开发——背后的动机是希望展示最新AI模型的能力。但这并不一定符合该领域长期发展的需求。",
+      "数学家在应对那些可能利用数学模型中的漏洞、从而带来严重破坏的先进且可能出问题的AI工具所带来的风险方面，发挥着重要作用。针对食品供应、能源网络和医疗系统等敏感基础设施的现有监管框架也需要进行更新，以应对这些风险。我希望我们能够凝聚集体智慧，确保AI的部署不会超出人类专家理解和监控这些系统的能力。同时，我们也必须始终保留对AI模型进行干预的能力。"
+    ],
+    "vocabulary": [
+      {
+        "form": "astonishing",
+        "ipa": "/əˈstɒnɪʃɪŋ/",
+        "pos": "adj.",
+        "meaning": "令人惊讶的",
+        "definition": "very surprising; difficult to believe",
+        "zh": "令人惊讶的"
+      },
+      {
+        "form": "underlying",
+        "ipa": "/ˌʌndəˈlaɪɪŋ/",
+        "pos": "adj.",
+        "meaning": "潜在的，根本的",
+        "definition": "important in a situation but not always easily noticed or stated clearly",
+        "zh": "潜在的，根本的"
+      },
+      {
+        "form": "implications",
+        "ipa": "/ˌɪmplɪˈkeɪʃn/",
+        "pos": "n.",
+        "meaning": "可能的影响，后果",
+        "definition": "a possible effect or result of an action or a decision",
+        "zh": "可能的影响，后果"
+      },
+      {
+        "form": "scarcity",
+        "ipa": "/ˈskeəsəti/",
+        "pos": "n.",
+        "meaning": "缺乏，不足",
+        "definition": "If there is a scarcity of sth., there is not enough of it and it is difficult to obtain it.",
+        "zh": "缺乏，不足"
+      },
+      {
+        "form": "evident",
+        "ipa": "/ˈevɪdənt/",
+        "pos": "adj.",
+        "meaning": "明显的",
+        "definition": "clear; easily seen",
+        "zh": "明显的"
+      },
+      {
+        "form": "presentable",
+        "ipa": "/prɪˈzentəbl/",
+        "pos": "adj.",
+        "meaning": "过得去的，可接受的",
+        "definition": "acceptable",
+        "zh": "过得去的，可接受的"
+      },
+      {
+        "form": "assess",
+        "ipa": "/əˈses/",
+        "pos": "v.",
+        "meaning": "评估",
+        "definition": "to make a judgement about the nature or quality of sb./sth.",
+        "zh": "评估"
+      },
+      {
+        "form": "attribution",
+        "ipa": "/ˌætrɪˈbjuːʃn/",
+        "pos": "n.",
+        "meaning": "归属认定，（作者等的）认定",
+        "definition": "the act of saying or believing that sb. is responsible for doing sth., especially for saying, writing or painting sth.",
+        "zh": "归属认定，（作者等的）认定"
+      },
+      {
+        "form": "scooped",
+        "ipa": "/skuːp/",
+        "pos": "v.",
+        "meaning": "抢先报道",
+        "definition": "to publish a story before all the other newspapers, television companies, etc.",
+        "zh": "抢先报道"
+      },
+      {
+        "form": "disrupted",
+        "ipa": "/dɪsˈrʌpt/",
+        "pos": "v.",
+        "meaning": "扰乱，使中断",
+        "definition": "to make it difficult for sth. to continue in the normal way",
+        "zh": "扰乱，使中断"
+      },
+      {
+        "form": "counter-intuitive",
+        "ipa": "/ˌkaʊntər ɪnˈtjuːɪtɪv/",
+        "pos": "adj.",
+        "meaning": "违反直觉的",
+        "definition": "the opposite of what you would expect or what seems to be obvious",
+        "zh": "违反直觉的"
+      },
+      {
+        "form": "digest",
+        "ipa": "/daɪˈdʒest/",
+        "pos": "v.",
+        "meaning": "消化（理解），领会",
+        "definition": "to think about sth. so that you fully understand it",
+        "zh": "消化（理解），领会"
+      },
+      {
+        "form": "outpaces",
+        "ipa": "/ˌaʊtˈpeɪs/",
+        "pos": "v.",
+        "meaning": "超过，比……发展更快",
+        "definition": "to go, rise, improve, etc. faster than sb./sth.",
+        "zh": "超过，比……发展更快"
+      },
+      {
+        "form": "malfunction",
+        "ipa": "/ˌmælˈfʌŋkʃn/",
+        "pos": "v.",
+        "meaning": "（机器等）发生故障",
+        "definition": "(of a machine, etc.) to fail to work correctly",
+        "zh": "（机器等）发生故障"
+      },
+      {
+        "form": "unforeseen",
+        "ipa": "/ˌʌnfɔːˈsiːn/",
+        "pos": "adj.",
+        "meaning": "意外的，无法预料的",
+        "definition": "that you did not expect to happen",
+        "zh": "意外的，无法预料的"
+      },
+      {
+        "form": "inevitable",
+        "ipa": "/ɪnˈevɪtəbl/",
+        "pos": "adj.",
+        "meaning": "不可避免的",
+        "definition": "that you cannot avoid or prevent",
+        "zh": "不可避免的"
+      },
+      {
+        "form": "incentives",
+        "ipa": "/ɪnˈsentɪv/",
+        "pos": "n.",
+        "meaning": "激励，动力",
+        "definition": "sth. that encourages you to do sth.",
+        "zh": "激励，动力"
+      },
+      {
+        "form": "radical",
+        "ipa": "/ˈrædɪkl/",
+        "pos": "adj.",
+        "meaning": "彻底的，根本的",
+        "definition": "relating to the most basic and important parts of sth.; complete and detailed",
+        "zh": "彻底的，根本的"
+      },
+      {
+        "form": "conventional",
+        "ipa": "/kənˈvenʃənl/",
+        "pos": "adj.",
+        "meaning": "传统的，常规的",
+        "definition": "following what is traditional or the way sth. has been done for a long time",
+        "zh": "传统的，常规的"
+      },
+      {
+        "form": "expertise",
+        "ipa": "/ˌekspɜːˈtiːz/",
+        "pos": "n.",
+        "meaning": "专业知识，专长",
+        "definition": "expert knowledge or skill in a particular subject, activity or job",
+        "zh": "专业知识，专长"
+      },
+      {
+        "form": "abundant",
+        "ipa": "/əˈbʌndənt/",
+        "pos": "adj.",
+        "meaning": "大量的，充足的",
+        "definition": "existing in large quantities; more than enough",
+        "zh": "大量的，充足的"
+      },
+      {
+        "form": "unsustainable",
+        "ipa": "/ˌʌnsəˈsteɪnəbl/",
+        "pos": "adj.",
+        "meaning": "不可持续的",
+        "definition": "that cannot be continued at the same level, rate, etc.",
+        "zh": "不可持续的"
+      },
+      {
+        "form": "extraction",
+        "ipa": "/ɪkˈstrækʃn/",
+        "pos": "n.",
+        "meaning": "提取，开采",
+        "definition": "the act or process of removing or obtaining sth. from sth. else",
+        "zh": "提取，开采"
+      },
+      {
+        "form": "showcase",
+        "ipa": "/ˈʃəʊkeɪs/",
+        "pos": "v.",
+        "meaning": "展示（才能或优点）",
+        "definition": "to present sb.’s abilities or the good qualities of sth. in an attractive way",
+        "zh": "展示（才能或优点）"
+      },
+      {
+        "form": "override",
+        "ipa": "/ˌəʊvəˈraɪd/",
+        "pos": "v.",
+        "meaning": "手动接管，人为干预（自动运行的装置）",
+        "definition": "to interrupt the action of a device that usually works by itself in order to control it yourself",
+        "zh": "手动接管，人为干预（自动运行的装置）"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the opposite of what you would expect or what seems to be obvious",
+      "the act of saying or believing that sb. is responsible for doing sth., especially for saying, writing or painting sth."
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “As a mathematician who uses AI tools for my own research, I can see that the field has fundamentally transformed. ”",
+    "exerciseChoiceMarked": [
+      "field"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She has spent most of her career in a field that few people outside academia even know exists.",
+        "marked": [
+          "field"
+        ],
+        "zh": "她的大部分职业生涯都致力于一个在学术界之外几乎无人知晓的领域。"
+      },
+      {
+        "label": "B",
+        "text": "The children ran across the field towards the farmhouse.",
+        "marked": [
+          "field"
+        ],
+        "zh": "孩子们跑过田野，向农舍方向跑去。"
+      },
+      {
+        "label": "C",
+        "text": "The new policy is intended to level the playing field for small businesses competing with large corporations.",
+        "marked": [
+          "field"
+        ],
+        "zh": "新政策旨在为与大型公司竞争的小型企业创造公平的竞争环境。"
+      },
+      {
+        "label": "D",
+        "text": "The technicians checked the magnetic field surrounding the device before it was installed in the hospital.",
+        "marked": [
+          "field"
+        ],
+        "zh": "在设备安装在医院之前，技术人员对设备周围的磁场进行了检测。"
+      }
+    ],
+    "exerciseTranslationPrompt": "也许最违反直觉的后果是，人类对数学的理解反而落在了后面，因为人工智能系统生成结果的速度，超过了数学家消化、吸收它们的速度。",
+    "answerVocabularyList": [
+      "counter-intuitive",
+      "attribution"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "Perhaps the most counter-intuitive consequence is that human understanding of mathematics is falling behind, because AI systems generate results faster than mathematicians can digest and absorb them."
+  },
+  {
+    "key": "oct1027",
+    "date": "2026.10.27",
+    "period": "2026年10月",
+    "folder": "1027  “王爷国”为何打不过“拖鞋军”？",
+    "titleZh": "“王爷国”为何打不过“拖鞋军”？",
+    "title": "Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By David S. Cloud, The Wall Street Journal, Published October 18, 2026",
+    "paragraphs": [
+      "The kingdom has advanced weaponry, but the Yemeni militant group has proved to be a resilient foe",
+      "Deadly missile and drone attacks by Houthi rebels on Saudi Arabia’s capital and oil infrastructure have exposed the limitations of the kingdom’s armed forces and triggered a risky new phase of the war in Yemen for Riyadh.",
+      "Saudi Arabia has one of the largest defense budgets in the world, and its armed forces are equipped with advanced fighters and air-defense systems from the U.S. and other suppliers. But the Houthis have proved an especially resilient foe whose plentiful ground forces and indigenous missile and drone production can effectively counter Saudi military strengths.",
+      "The Saudis rely on fractious militias loyal to the Riyadh-backed Yemeni government to wage the ground fight, while Saudi fighters and attack helicopters provide air support. The Saudi air-defense effort is hamstrung by a shortage of interceptors critical for shooting down incoming Houthi missiles, along with a reluctance of key Saudi allies, including the U.S., to provide direct military assistance.",
+      "Iran has helped the Houthis mount sophisticated attacks on Saudi territory and on its Yemeni allies, including by providing assistance targeting drone and missile attacks, as well as training, intelligence and tactical guidance.",
+      "The U.S. has so far confined its assistance to its Saudi ally to intelligence and other support. President Trump on Friday urged Saudi Arabia to accept military help from Israel against the Houthis. Riyadh, which has an extensive behind-the-scenes security relationship with Israel but no formal diplomatic ties, hasn’t publicly responded to his suggestion.",
+      "Instead, Riyadh has turned to Turkey, Pakistan and several European countries for help fending off Houthi attacks with air-defense units and other military assistance deployed to the kingdom.",
+      "The kingdom is also looking to recruit foreign fighters to help its Yemeni allies.",
+      "Just as the U.S. has struggled to defeat a seemingly overmatched Iran, the Houthis have built a fleet of mobile missile launchers and deeply buried missile-production facilities that it has used to withstand airstrikes from its much larger neighbor.",
+      "The Iran-backed Houthis are likely to be able to absorb attacks from the Saudi-led coalition fighting them, while continuing to deliver blows deep in Saudi territory against softly defended targets.",
+      "Saudi authorities said Sunday that a hostile projectile struck the southern city of Najran, injuring six. The incident also damaged three homes and three vehicles. That attack came a week after a Houthi strike on the Saudi capital’s international airport killed at least 13 people and injured hundreds. It was the single deadliest attack on the U.S. or its Gulf allies in the conflicts related to the Iran war."
+    ],
+    "paragraphTranslations": [
+      "该王国拥有先进的武器，但也门激进组织证明自己是一个顽强的对手",
+      "胡塞叛军对沙特阿拉伯首都及石油基础设施发动的致命导弹和无人机袭击，暴露了沙特武装力量的局限性，并为利雅得在也门战争中带来了新的风险。",
+      "沙特阿拉伯拥有全球最大的国防预算之一，其武装部队配备了来自美国及其他国家的先进战斗机与防空系统。但胡伊塔派是一个特别顽强的对手，他们拥有数量众多的地面部队，并且拥有自主研发的导弹和无人机，能够有效对抗沙特军队的实力。",
+      "沙特方面依靠那些效忠于利雅得支持的也门政府的武装部队来开展地面作战，而沙特战斗机及攻击直升机则提供空中支援。沙特在防空方面的努力受到阻碍，因为缺乏用于击落胡塞派导弹的拦截机，此外，包括美国在内的沙特主要盟友也不愿提供直接的军事援助。",
+      "伊朗协助胡伊塔派在沙特领土及其也门盟友地区发动了复杂的袭击，包括提供无人机和导弹袭击的相关支持，以及培训、情报和战术指导等方面的协助。",
+      "到目前为止，美国对沙特这一盟友的援助仅限于情报支持和其他形式的协助。周五，特朗普总统敦促沙特阿拉伯接受以色列提供的军事援助，以对抗胡伊特派势力。利雅得与以色列之间存在广泛的幕后安全合作关系，但并未建立正式的外交关系，因此利雅德方面并未公开回应这一建议。",
+      "相反，利雅得转向土耳其、巴基斯坦以及几个欧洲国家寻求帮助，希望从他们那里获得防空部队和其他军事支援，以抵御胡塞派的攻击。",
+      "该王国也在寻求招募外国战士，以协助其也门盟友。",
+      "就在美国努力击败看似不可战胜的伊朗之际，胡伊斯坦派却建立了一支移动式导弹发射装置部队，并埋设了多个导弹生产设施，这些设施帮助他们抵御了来自更强大的邻国的空袭。",
+      "伊朗支持的胡塞派势力很可能能够承受来自沙特领导的联合军的攻击，同时继续对沙特境内防御薄弱的目标发动打击。",
+      "沙特当局在周日表示，一枚敌方导弹击中了南部的纳杰兰市，导致6人受伤。此次事件还导致3栋房屋和3辆车辆受损。这次袭击发生在胡塞武装对沙特首都国际机场发动袭击之后一周，那次袭击至少造成13人死亡，数百人受伤。这是与伊朗战争相关的冲突中，对美国或其海湾盟友造成的最致命的袭击。"
+    ],
+    "vocabulary": [
+      {
+        "form": "weaponry",
+        "ipa": "/ˈwepənri/",
+        "pos": "n.",
+        "meaning": "（统称）武器，军备",
+        "definition": "all the weapons of a particular type or belonging to a particular country or group",
+        "zh": "（统称）武器，军备"
+      },
+      {
+        "form": "resilient",
+        "ipa": "/rɪˈzɪliənt/",
+        "pos": "adj.",
+        "meaning": "有复原力的，适应力强的，能快速恢复的",
+        "definition": "able to recover quickly after sth. unpleasant such as shock, injury, etc.",
+        "zh": "有复原力的，适应力强的，能快速恢复的"
+      },
+      {
+        "form": "foe",
+        "ipa": "/fəʊ/",
+        "pos": "n.",
+        "meaning": "敌人，对手",
+        "definition": "(old-fashioned or formal) an enemy",
+        "zh": "敌人，对手"
+      },
+      {
+        "form": "triggered",
+        "ipa": "/ˈtrɪɡə(r)/",
+        "pos": "v.",
+        "meaning": "触发，引发，使突然发生",
+        "definition": "to make sth. happen suddenly",
+        "zh": "触发，引发，使突然发生"
+      },
+      {
+        "form": "plentiful",
+        "ipa": "/ˈplentɪfl/",
+        "pos": "adj.",
+        "meaning": "大量的，充足的，丰富的",
+        "definition": "available or existing in large amounts or numbers",
+        "zh": "大量的，充足的，丰富的"
+      },
+      {
+        "form": "indigenous",
+        "ipa": "/ɪnˈdɪdʒənəs/",
+        "pos": "adj.",
+        "meaning": "本土的，本地的",
+        "definition": "not foreign or from outside an area",
+        "zh": "本土的，本地的"
+      },
+      {
+        "form": "counter",
+        "ipa": "/ˈkaʊntə(r)/",
+        "pos": "v.",
+        "meaning": "反击，反驳，对抗",
+        "definition": "to react to sth. with an opposing opinion or action, or to defend yourself against sth.",
+        "zh": "反击，反驳，对抗"
+      },
+      {
+        "form": "fractious",
+        "ipa": "/ˈfrækʃəs/",
+        "pos": "adj.",
+        "meaning": "易闹事的，难以管束的，不安分的",
+        "definition": "(formal) making trouble and complaining",
+        "zh": "易闹事的，难以管束的，不安分的"
+      },
+      {
+        "form": "wage",
+        "ipa": "/weɪdʒ/",
+        "pos": "v.",
+        "meaning": "发动，开展（战争、斗争、运动等）",
+        "definition": "to begin and continue a war, a battle, etc.",
+        "zh": "发动，开展（战争、斗争、运动等）"
+      },
+      {
+        "form": "hamstrung",
+        "ipa": "/ˈhæmstrɪŋ/",
+        "pos": "v.",
+        "meaning": "妨碍，束缚，使……无法有效行动",
+        "definition": "to prevent sb./sth. from working or taking action in the way that is needed",
+        "zh": "妨碍，束缚，使……无法有效行动"
+      },
+      {
+        "form": "interceptors",
+        "ipa": "/ˌɪntəˈseptə(r)/",
+        "pos": "n.",
+        "meaning": "拦截机，拦截导弹",
+        "definition": "An interceptor is an aircraft or ground-based missile system designed to intercept and attack enemy planes.",
+        "zh": "拦截机，拦截导弹"
+      },
+      {
+        "form": "reluctance",
+        "ipa": "/rɪˈlʌktəns/",
+        "pos": "n.",
+        "meaning": "不情愿，勉强，迟疑",
+        "definition": "the feeling of being unwilling to do sth. and hesitating before you do it, because you do not want to do it or because you are not sure that it is the right thing to do",
+        "zh": "不情愿，勉强，迟疑"
+      },
+      {
+        "form": "mount",
+        "ipa": "/maʊnt/",
+        "pos": "v.",
+        "meaning": "组织，发起（活动、攻击、抗议等）",
+        "definition": "to organize and begin sth.",
+        "zh": "组织，发起（活动、攻击、抗议等）"
+      },
+      {
+        "form": "tactical",
+        "ipa": "/ˈtæktɪkl/",
+        "pos": "adj.",
+        "meaning": "战术的，策略性的",
+        "definition": "relating to military tactics",
+        "zh": "战术的，策略性的"
+      },
+      {
+        "form": "confined",
+        "ipa": "/kənˈfaɪn/",
+        "pos": "v.",
+        "meaning": "把……限定在（范围、主题、区域之内），限制",
+        "definition": "to keep sb./sth. inside the limits of a particular activity, subject, area, etc.",
+        "zh": "把……限定在（范围、主题、区域之内），限制"
+      },
+      {
+        "form": "fending off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "抵挡，避开，抵御",
+        "definition": "to defend or protect yourself from sth./sb. that is attacking you",
+        "zh": "抵挡，避开，抵御"
+      },
+      {
+        "form": "overmatched",
+        "ipa": "/ˌəʊvəˈmætʃt/",
+        "pos": "adj.",
+        "meaning": "能力不足的，难以胜任的，实力比不上的",
+        "definition": "smaller in number or less strong, good, etc. than sb. or sth.",
+        "zh": "能力不足的，难以胜任的，实力比不上的"
+      },
+      {
+        "form": "absorb",
+        "ipa": "/əbˈzɔːb/",
+        "pos": "v.",
+        "meaning": "承担，承受",
+        "definition": "to deal with changes, effects, costs, etc.",
+        "zh": "承担，承受"
+      },
+      {
+        "form": "projectile",
+        "ipa": "/prəˈdʒektaɪl/",
+        "pos": "n.",
+        "meaning": "投射物，抛射体",
+        "definition": "(formal or specialist) an object, such as a bullet, that is fired from a gun or other weapon",
+        "zh": "投射物，抛射体"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "able to recover quickly after sth. unpleasant such as shock, injury, etc.",
+      "to prevent sb./sth. from working or taking action in the way that is needed"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “Iran has helped the Houthis mount sophisticated attacks on Saudi territory and on its Yemeni allies, including by providing assistance targeting drone and missile attacks, as well as training, intelligence and tactical guidance.”?",
+    "exerciseChoiceMarked": [
+      "mount"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Guerrillas have mounted an attack on the capital.",
+        "marked": [
+          "mounted"
+        ],
+        "zh": "游击队员已经向首都发起了攻击。"
+      },
+      {
+        "label": "B",
+        "text": "He mounted the platform and addressed the crowd.",
+        "marked": [
+          "mounted"
+        ],
+        "zh": "他登上讲台，向人群发表了讲话。"
+      },
+      {
+        "label": "C",
+        "text": "Pressure is mounting on the government to change the law.",
+        "marked": [
+          "mounting"
+        ],
+        "zh": "要求修改法律的压力越来越大。"
+      },
+      {
+        "label": "D",
+        "text": "Entries to the photography competition should be mounted on white paper.",
+        "marked": [
+          "mounted"
+        ],
+        "zh": "摄影比赛的参赛作品应裱贴在白纸上。"
+      }
+    ],
+    "exerciseTranslationPrompt": "受伊朗支持的胡塞武装很可能能够承受沙特领导的联军对其发动的攻击，同时继续对沙特境内防御薄弱的目标实施深入打击。",
+    "answerVocabularyList": [
+      "resilient",
+      "hamstring"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "The Iran-backed Houthis are likely to be able to absorb attacks from the Saudi-led coalition fighting them, while continuing to deliver blows deep in Saudi territory against softly defended targets."
+  },
+  {
+    "key": "oct1028",
+    "date": "2026.10.28",
+    "period": "2026年10月",
+    "folder": "1028 蛋挞经济：一款洋点心如何在中国火成这样？22",
+    "titleZh": "蛋挞经济：一款洋点心如何在中国火成这样？ 2",
+    "title": "Everyone Wants a Bite of China’s Egg Tart Economy",
+    "topicEn": "Economy",
+    "topicZh": "经济",
+    "byline": "By Tiffany Ap, Bloomberg, Published October 16, 2026",
+    "paragraphs": [
+      "KFC’s involvement proved a major turning point. The American chain occupied a singular place in China’s early exposure to Western food. It opened its first mainland restaurant in Beijing in 1987, becoming one of the first Western consumer brands many Chinese people encountered. A meal could cost a week’s wages for an average worker, making KFC a destination for special occasions. Through the 1990s, its restaurants hosted birthday parties and even wedding ceremonies.",
+      "In his memoir, Sam Su, the former longtime chief executive officer of Yum China, which operates KFC in the country, recalls realizing that children were key to persuading families to choose the chain over cheaper local restaurants. Under the one-child policy, each child had two parents and four grandparents to dote on them, so the chain introduced play areas, kids’ meals with toys and Chicky, a rooster mascot, and hired staff to sing and dance with children. “We would hold dance-along events in front of the restaurant after children finished school,” Su writes. “Every afternoon and dinner at the front of KFC was always a big happy party,” he added.",
+      "With that platform, the egg tart went from a regional southern staple to a national indulgence, becoming so closely associated with KFC that a running joke on Chinese social media casts the chain as an egg tart business held back by its fried chicken.",
+      "It was “the first Westernized dessert that was available on a wide basis to so many Chinese people,” says Gary He, a James Beard Award-winning author and expert on fast-food adaptations. The tart was a small, sweet treat—given for good grades, on a special outing or simply because a child asked for KFC—folded into the rituals of a rapidly modernizing China. “You can’t re-create that now,” he adds. “The country doesn’t get to open up again.”",
+      "As KFC’s young customers grew up, the chain evolved with them, marketing itself first to teenagers through youth sports and later to young couples as a date spot. “If you asked urban Chinese born in the ’80s and ’90s about their fondest KFC memories, many would say their first date was at KFC,” says Jaime Xiao, a Zhongshan native who recalls regularly visiting the chain with his college girlfriend. “We kept running into other couples from our own university there.”",
+      "That all helped make the egg tart a cultural touchstone rather than just another food craze. The cronut drew three-hour queues in 2013, then mostly disappeared; Dubai chocolate detonated across social feeds in 2023 and has already cooled. KFC, by contrast, still sells hundreds of millions of egg tarts each year in China and continually refreshes the menu with flavor variations like durian, salted egg yolk and boba.",
+      "More recently, KFC has turned the egg tart into a weapon in China’s cutthroat coffee wars, vying for the office crowd. Its KCoffee outlets, a standalone cafe concept spun out in 2022 that’s already grown to more than 1,800 stores, are going head to head with Luckin Coffee Inc., with “egg tart dirty coffees” infused with custard flavor in edible pastry cups. Coffee-and-tart deals also give KFC a draw during off-peak hours, serving as a quick breakfast alongside congee or soy milk or as part of the white-collar afternoon tea routine in Chinese cities.",
+      "Full Circle",
+      "Now everyone wants in. In March, McDonald’s began piloting egg tarts across several mainland Chinese cities, surprising customers with a product so closely identified with an archrival. Artisanal bakeries like Bakehouse have multiplied, and the boom has even drawn Portuguese purveyors back into the market their pastry helped create. In June renowned Lisbon bakery Manteigaria opened its first HK store and plans to open five more in the city—an ambitious addition to its roughly 20 shops across Europe. Another pastel de nata rival, Santa Nata, opened its first Asian location there in July.",
+      "Fabio Pombo, general manager of Manteigaria HK, acknowledges the irony: The Portuguese bakery is entering a market where decades of localization have changed what customers expect an egg tart to taste like. While Manteigaria benefits from the mass appeal KFC has created, “it can be bad for us as well because people expect us to be the KFC thing,” he says. “You will see our comments on Google sometimes: ‘I was expecting more egg flavor.'”",
+      "Traditional Portuguese pastéis de nata have a gooier, cream-forward filling and are typically dusted with cinnamon, in contrast to the eggier profile many Chinese customers now expect. Some bakeries in Portugal have introduced novelty flavors like Biscoff, tiramisu and crème brûlée, but Manteigaria is a purist. “That’s like showing an Italian pineapple on pizza,” Pombo says, scrunching his face in horror. The HK shop has made just one concession to local tastes: It uses half the sugar of the tarts it sells in Portugal.",
+      "So far, the adjustment appears to be working. “We’ve been having huge success since Day 1,” Pombo says. The current constraint is production, not demand: The shop hand-presses and fills no more than 5,000 tarts a day, and multiple landlords have already approached him about expanding.",
+      "“Many times I go outside and ask customers,‘Are they as good as KFC ones?'” Pombo says. “And people laugh.”"
+    ],
+    "paragraphTranslations": [
+      "肯德基的介入标志着一个重要的转折点。这家美国连锁餐厅在中国早期对西式食物的接触过程中占据了特殊地位。1987年，它在北京开设了第一家大陆分店，成为许多中国人最早接触到的西方食品品牌之一。对于普通工人来说，一顿饭的价格相当于一周的工资，这使得肯德基成为特殊场合的优选去处。在1990年代期间，肯德基的餐厅还举办生日派对甚至婚礼仪式。",
+      "在他的回忆录中，曾担任百胜中国长期首席执行官的苏敬轼回忆说，他发现儿童是促使家庭选择这家连锁餐厅而非更便宜的本地餐馆的关键因素。在独生子女政策下，每个孩子都有两个父母和四个祖父母需要照顾，因此这家连锁餐厅引入了儿童游乐区、配有玩具的儿童餐点，并聘请员工与孩子们一起唱歌跳舞。“孩子们放学后，我们会在餐厅前举办舞蹈活动，”Su写道。“每天下午，在KFC餐厅的入口处，总是一场热闹的欢乐派对，”他补充说。",
+      "借助这个平台，蛋挞从一种地方性的美食变成了全国性的特色食品。它与肯德基的关系如此密切，以至于在中国社交媒体上流传着一个笑话：认为肯德基就是一家因为炸鸡而未能充分发展的蛋挞企业。",
+      "“这是第一种在广大中国人群中广泛流行的西式甜点，”詹姆斯·比尔奖得主、快餐文化研究专家加里·赫说。这种甜点原本是一种小巧精致的甜点——适合在特殊场合作为礼物赠送，或者因为孩子点的要求而制作出来——如今已融入了快速现代化的中国人的生活习惯中。“现在已无法再重现这种氛围了，”他补充道。“这个国家已经无法再次开放了。”",
+      "随着KFC的年轻顾客不断成长，这家餐厅也随着他们的发展而不断创新。最初，KFC的目标客户是青少年，后来则转向年轻情侣，将其发展为情侣约会的好去处。“如果你问那些在80年代和90年代出生的中国城市居民他们最难忘的KFC经历，很多人都会说他们的第一次约会就是在KFC。”中山本地人Jaime Xiao说道，他经常和他的大学女友一起去这家餐厅。“我们经常在那里遇到来自我们大学的其他情侣。”",
+      "所有这些因素共同作用，使得“蛋挞”不仅仅是一种短暂的饮食潮流，而成为了一种文化象征。2013年时，Cronut的销量创下了三小时的排队纪录，但随后便逐渐淡出人们的视线；而2023年，迪拜巧克力则在社会媒体上引起了巨大关注，不过其受欢迎程度已经有所减退。相比之下，肯德基在中国每年仍销售数亿个蛋挞，并且不断通过榴莲、咸蛋黄和波霸等创新口味来更新菜单。",
+      "最近，肯德基将“蛋挞”这一产品转化为一种武器，在竞争激烈的中国咖啡市场争夺办公人群市场。其“KCoffee”品牌咖啡店是2022年推出的独立咖啡品牌，目前已发展至1800多家门店。该品牌与瑞幸咖啡展开竞争，推出“蛋挞脏咖啡”产品，这种咖啡以蛋挞为基底，加入奶油味，装在可食用的咖啡杯中。这种咖啡与蛋挞的组合产品，在非高峰时段也能吸引顾客，可以作为快速早餐食品，也可以作为中式下午茶的一部分。",
+      "再度回到葡式源头",
+      "现在，每个人都想要尝试这种产品。3月份，麦当劳开始在中国大陆的多个城市试水“蛋挞”产品，这一与竞争对手紧密相关的产品让顾客感到惊喜。像Bakehouse这样的手工面包店越来越多，这一趋势甚至吸引了葡萄牙的糕点制造商重新进入这个市场——这些糕点正是由Bakehouse所创造的。6月，著名的里斯本面包店Manteigaria在香港开设了第一家分店，并计划在该市再开设五家分店。这是该品牌在欧洲各地约20家分店中的一项重要扩展计划。另一个“蛋挞”的竞争对手Santa Nata也在7月份在香港开设了第一家亚洲分店。",
+      "Manteigaria HK的总经理Fabio Pombo承认了这种讽刺的情节：这家葡萄牙面包店进入了一个市场，在这个市场中，数十年的本土化进程已经改变了顾客对蛋挞口味的期望。虽然Manteigaria可以从KFC所创造的市场影响力中受益，但他也指出：“这对我们来说可能是不利的，因为人们期望我们也能像KFC那样提供高质量的蛋挞。”他补充说：“你会在谷歌上的评论中看到这样的评价：‘我原本期望蛋挞的口味能更浓郁一些。’”",
+      "传统的葡萄牙Pastéis de Nata口感更浓稠，馅料以奶油为主，通常还会撒上肉桂粉。这与许多中国顾客所期望的更清淡的口味有所不同。在葡萄牙，一些面包店已经推出了一些创新口味，如Biscoff、提拉米苏和焦糖布丁。但Manteigaria则坚持传统的口味。“这就像在披萨上放意大利式的菠萝一样可笑，”Pombo一脸惊恐地说。这家香港的店铺只是对当地口味做出了一点调整：它使用的糖分比在葡萄牙销售的塔斯干要少一半。",
+      "到目前为止，这种调整似乎已经取得了成效。Pombo说：“从一开始，我们就取得了巨大的成功。”目前的制约因素在于产量，而不是需求：这家店每天最多只能生产5000个果馅饼，而且已经有几位房东联系他，希望他能够扩大生产规模。",
+      "“很多时候，我会走到外面，问顾客：‘这些食物和KFC的怎么样吗？’”波莫说。“而人们总是会笑。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "singular",
+        "ipa": "/ˈsɪŋɡjələ(r)/",
+        "pos": "adj.",
+        "meaning": "独特的，与众不同的，非同寻常的",
+        "definition": "(formal) of an unusual quality or standard; noticeable",
+        "zh": "独特的，与众不同的，非同寻常的"
+      },
+      {
+        "form": "encountered",
+        "ipa": "/ɪnˈkaʊntə(r)/",
+        "pos": "v.",
+        "meaning": "遇到，邂逅，偶然相遇",
+        "definition": "(formal) to meet sb., or discover or experience sth., especially sb./sth. new, unusual or unexpected",
+        "zh": "遇到，邂逅，偶然相遇"
+      },
+      {
+        "form": "occasions",
+        "ipa": "/əˈkeɪʒn/",
+        "pos": "n.",
+        "meaning": "特殊场合，重要时刻，庆祝活动",
+        "definition": "a special event, ceremony or celebration",
+        "zh": "特殊场合，重要时刻，庆祝活动"
+      },
+      {
+        "form": "dote on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "宠爱，溺爱，对某人疼爱有加",
+        "definition": "to feel and show great love for sb., ignoring their faults",
+        "zh": "宠爱，溺爱，对某人疼爱有加"
+      },
+      {
+        "form": "mascot",
+        "ipa": "/ˈmæskət/",
+        "pos": "n.",
+        "meaning": "吉祥物，象征物，代表形象",
+        "definition": "a person, animal or thing that people believe will bring them good luck, or that represents an organization or event",
+        "zh": "吉祥物，象征物，代表形象"
+      },
+      {
+        "form": "staple",
+        "ipa": "/ˈsteɪpl/",
+        "pos": "n.",
+        "meaning": "主要食品，常见事物，重要组成部分",
+        "definition": "a large or important part of sth.",
+        "zh": "主要食品，常见事物，重要组成部分"
+      },
+      {
+        "form": "indulgence",
+        "ipa": "/ɪnˈdʌldʒəns/",
+        "pos": "n.",
+        "meaning": "奢侈享受",
+        "definition": "sth. that you allow yourself to have even though it is not essential",
+        "zh": "奢侈享受"
+      },
+      {
+        "form": "running",
+        "ipa": "/ˈrʌnɪŋ/",
+        "pos": "adj.",
+        "meaning": "持续的，反复出现的，长期存在的",
+        "definition": "lasting a long time; continuous",
+        "zh": "持续的，反复出现的，长期存在的"
+      },
+      {
+        "form": "casts",
+        "ipa": "/kɑːst/",
+        "pos": "v.",
+        "meaning": "将……描述为，把……塑造成，将……描绘成",
+        "definition": "to describe or present sb./yourself in a particular way",
+        "zh": "将……描述为，把……塑造成，将……描绘成"
+      },
+      {
+        "form": "folded into",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "将……融入，使……成为……的一部分",
+        "definition": "to make sth. small part of sth. larger by joining them together",
+        "zh": "将……融入，使……成为……的一部分"
+      },
+      {
+        "form": "rituals",
+        "ipa": "/ˈrɪtʃuəl/",
+        "pos": "n.",
+        "meaning": "惯例，习惯性活动，日常仪式",
+        "definition": "sth. that is done regularly and always in the same way",
+        "zh": "惯例，习惯性活动，日常仪式"
+      },
+      {
+        "form": "running into",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "偶然遇见，碰巧碰到，不期而遇",
+        "definition": "(informal) to meet sb. by chance",
+        "zh": "偶然遇见，碰巧碰到，不期而遇"
+      },
+      {
+        "form": "touchstone",
+        "ipa": "/ˈtʌtʃstəʊn/",
+        "pos": "n.",
+        "meaning": "试金石，重要参照物，具有代表性的事物",
+        "definition": "(formal) sth. that provides a standard against which other things are compared and/or judged",
+        "zh": "试金石，重要参照物，具有代表性的事物"
+      },
+      {
+        "form": "cronut",
+        "ipa": "/ˈkrəʊnʌt/",
+        "pos": "n.",
+        "meaning": "可颂甜甜圈",
+        "definition": "a trademarked pastry, a croissant- doughnut hybrid shaped like a doughnut",
+        "zh": "可颂甜甜圈"
+      },
+      {
+        "form": "detonated",
+        "ipa": "/ˈdetəneɪt/",
+        "pos": "v.",
+        "meaning": "爆炸，引爆",
+        "definition": "to explode, or to make a bomb or other device explode",
+        "zh": "爆炸，引爆"
+      },
+      {
+        "form": "cutthroat",
+        "ipa": "/ˈkʌtθrəʊt/",
+        "pos": "adj.",
+        "meaning": "竞争激烈的，残酷无情的，不择手段的",
+        "definition": "competing in a strong and unfair way, without considering any harm caused to others",
+        "zh": "竞争激烈的，残酷无情的，不择手段的"
+      },
+      {
+        "form": "vying",
+        "ipa": "/vaɪ/",
+        "pos": "v.",
+        "meaning": "争夺，竞争，力争取得",
+        "definition": "(formal) to compete strongly with sb. in order to obtain or achieve sth.",
+        "zh": "争夺，竞争，力争取得"
+      },
+      {
+        "form": "outlets",
+        "ipa": "/ˈaʊtlet/",
+        "pos": "n.",
+        "meaning": "（连锁企业的）门店，分店，销售网点",
+        "definition": "a shop or an organization that sells goods made by a particular company or of a particular type",
+        "zh": "（连锁企业的）门店，分店，销售网点"
+      },
+      {
+        "form": "spun out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "分拆出来，独立发展，衍生出新业务",
+        "definition": "to separate part of a company so that it becomes an independent business",
+        "zh": "分拆出来，独立发展，衍生出新业务"
+      },
+      {
+        "form": "going head to head",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "正面交锋，直接竞争，展开对抗",
+        "definition": "if two people or companies go head to head, they compete directly with each other.",
+        "zh": "正面交锋，直接竞争，展开对抗"
+      },
+      {
+        "form": "infused",
+        "ipa": "/ɪnˈfjuːz/",
+        "pos": "v.",
+        "meaning": "注入（风味），使充满（香气），融入",
+        "definition": "to give food a particular flavour or smell",
+        "zh": "注入（风味），使充满（香气），融入"
+      },
+      {
+        "form": "edible",
+        "ipa": "/ˈedəbl/",
+        "pos": "adj.",
+        "meaning": "可以食用的，适合食用的，无毒的",
+        "definition": "fit or suitable to be eaten; not poisonous",
+        "zh": "可以食用的，适合食用的，无毒的"
+      },
+      {
+        "form": "congee",
+        "ipa": "/ˈkɒndʒiː/",
+        "pos": "n.",
+        "meaning": "（中式）粥，米粥，稠米汤",
+        "definition": "a dish of porridge or thick soup made from rice",
+        "zh": "（中式）粥，米粥，稠米汤"
+      },
+      {
+        "form": "piloting",
+        "ipa": "/ˈpaɪlət/",
+        "pos": "v.",
+        "meaning": "试点推行，试运行，试销",
+        "definition": "to test a new product, idea, etc. with a few people or in a small area before it is introduced everywhere",
+        "zh": "试点推行，试运行，试销"
+      },
+      {
+        "form": "archrival",
+        "ipa": "/ˌɑːtʃ ˈraɪvl/",
+        "pos": "n.",
+        "meaning": "主要竞争对手，头号劲敌，宿敌",
+        "definition": "a person’s main opponent",
+        "zh": "主要竞争对手，头号劲敌，宿敌"
+      },
+      {
+        "form": "Artisanal",
+        "ipa": "/ˈɑːtɪzənəl/",
+        "pos": "adj.",
+        "meaning": "手工制作的，采用传统工艺的，工匠制作的",
+        "definition": "made in a traditional way by sb. who is skilled with their hands",
+        "zh": "手工制作的，采用传统工艺的，工匠制作的"
+      },
+      {
+        "form": "boom",
+        "ipa": "/buːm/",
+        "pos": "n.",
+        "meaning": "热潮，繁荣期，迅速发展时期",
+        "definition": "a period when sth. such as a sport or a type of music suddenly becomes very popular and successful",
+        "zh": "热潮，繁荣期，迅速发展时期"
+      },
+      {
+        "form": "purveyors",
+        "ipa": "/pəˈveɪə(r)/",
+        "pos": "n.",
+        "meaning": "供应商，销售商，提供者",
+        "definition": "(formal) a person or company that supplies sth.",
+        "zh": "供应商，销售商，提供者"
+      },
+      {
+        "form": "irony",
+        "ipa": "/ˈaɪrəni/",
+        "pos": "n.",
+        "meaning": "讽刺意味，出人意料的反差，具有讽刺性的情况",
+        "definition": "the funny or strange aspect of a situation that is very different from what you expect",
+        "zh": "讽刺意味，出人意料的反差，具有讽刺性的情况"
+      },
+      {
+        "form": "gooier",
+        "ipa": "/ˈɡuːi/",
+        "pos": "adj.",
+        "meaning": "黏稠的，绵密的",
+        "definition": "(informal) soft and sticky",
+        "zh": "黏稠的，绵密的"
+      },
+      {
+        "form": "scrunching",
+        "ipa": "/skrʌntʃ/",
+        "pos": "v.",
+        "meaning": "皱起（脸），使紧缩，挤成一团",
+        "definition": "to make sth. become smaller or squeezed together",
+        "zh": "皱起（脸），使紧缩，挤成一团"
+      },
+      {
+        "form": "concession",
+        "ipa": "/kənˈseʃn/",
+        "pos": "n.",
+        "meaning": "让步，妥协，迁就",
+        "definition": "sth. that you allow or do, or allow sb. to have, in order to end an argument or to make a situation less difficult",
+        "zh": "让步，妥协，迁就"
+      },
+      {
+        "form": "landlords",
+        "ipa": "/ˈlændlɔːd/",
+        "pos": "n.",
+        "meaning": "房东，业主，出租物业的所有者",
+        "definition": "a person or organization that owns a building or an area of land and is paid by other people for the use of it",
+        "zh": "房东，业主，出租物业的所有者"
+      },
+      {
+        "form": "approached",
+        "ipa": "/əˈprəʊtʃ/",
+        "pos": "v.",
+        "meaning": "主动联系，接洽，商谈",
+        "definition": "to speak to sb. about sth., especially to ask them for sth. or to offer to do sth.",
+        "zh": "主动联系，接洽，商谈"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to feel and show great love for sb., ignoring their faults",
+      "to compete strongly with sb. in order to obtain or achieve sth."
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The shop hand-presses and fills no more than 5,000 tarts a day, and multiple landlords have already approached him about expanding.”?",
+    "exerciseChoiceMarked": [
+      "approached"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The hikers approached the village at sunset.",
+        "marked": [
+          "approached"
+        ],
+        "zh": "徒步旅行者在日落时分接近了那个村庄。"
+      },
+      {
+        "label": "B",
+        "text": "Several investors approached the owner about a possible deal.",
+        "marked": [
+          "approached"
+        ],
+        "zh": "几位投资者找到了店主，想谈谈有没有合作的可能。"
+      },
+      {
+        "label": "C",
+        "text": "The temperature approached 40 degrees yesterday.",
+        "marked": [
+          "approached"
+        ],
+        "zh": "昨天温度接近40度。"
+      },
+      {
+        "label": "D",
+        "text": "The team approached the problem from a different angle.",
+        "marked": [
+          "approached"
+        ],
+        "zh": "团队从不同的角度来解决问题。"
+      }
+    ],
+    "exerciseTranslationPrompt": "借助这个平台，蛋挞从南方地区的特色变成了风靡全国的美食，蛋挞与肯德基的联系如此紧密，以至于中国社交媒体上一直流传着一个玩笑，说肯德基是一家被炸鸡拖累的蛋挞店。",
+    "answerVocabularyList": [
+      "dote on",
+      "vie"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "With that platform, the egg tart went from a regional southern staple to a national indulgence, becoming so closely associated with KFC that a running joke on Chinese social media casts the chain as an egg tart business held back by its fried chicken."
   },
   {
     "key": "oct1029",

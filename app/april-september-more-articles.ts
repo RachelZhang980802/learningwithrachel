@@ -509,6 +509,520 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "apr0403",
+    "date": "2026.04.03",
+    "period": "2026年4月",
+    "folder": "0403当全世界知道你丢了 12 吨巧克力",
+    "titleZh": "当全世界知道你丢了 12 吨巧克力",
+    "title": "How a Massive KitKat Heist Turned Into Crisis PR Gold",
+    "topicEn": "Economy",
+    "topicZh": "经济",
+    "byline": "By Natasha Khan and Kelly Cloonan, The Wall Street Journal, Published March 31, 2026",
+    "paragraphs": [
+      "The Nestlé response to the stolen chocolate shows how there’s no bad news if you can turn it into a meme",
+      "Just how much are 12 metric tons of stolen KitKat bars worth? A lot of promotional gold, it turns out.",
+      "It was the brazen chocolate heist heard around the social-media world: Over the weekend, Nestlé confirmed that thieves had swiped 413,793 units of KitKats somewhere along their way from a factory in central Italy to Poland. Both the chocolate bars and the truck carrying them remain missing, though no one was hurt in the theft, it said.",
+      "What the Swiss company lost in chocolate, though, it gained back in a public-relations coup—as did multiple other companies quick to hop on the meme bandwagon.",
+      "“We’ve always encouraged people to have a break with KitKat —but it seems thieves have taken the message too literally and made a break with more than 12 metric tons of our chocolate,” the company said in a statement. A spokesman confirmed the heist wasn’t an early April 1 joke.",
+      "“Yes, it really happened,” he said.",
+      "Taking their cue from Nestlé, other companies soon joined in with some social-media spoofing.",
+      "“We would like to share our thoughts and condolences with Kit Kat following their sad news,” an account for Domino’s Pizza in the U.K. posted Monday morning. Then, it added, “On a completely unrelated note, we’re pleased to announce we’ll now be selling a new Kit Kat pizza.”",
+      "Charlotte FC, the Major League Soccer club in North Carolina, jumped on the same riff a couple of hours later: “On an unrelated note, we are happy to share we will be offering roughly 413,000 KitKats at this Saturday’s match against Philadelphia at Bank of America stadium.”",
+      "The discount airline Ryanair, meanwhile, simply posted a cartoon photo of one of its planes with a face. In the jet’s mouth are five bitten-off KitKat bars.",
+      "Not long ago, most companies would have said little, leaving it to law-enforcement authorities to disclose such a potentially embarrassing revelation. Now, any bad news is good news—as long as a corporate brand can turn it into a viral meme.",
+      "“It’s a master class in public relations,”said Andrew Bloch, who runs London-based PR consultancy Andrew Bloch & Associates. By leaning in to the misfortune of a lot of stolen chocolate, the company “embraced the opportunity and turned it into a positive.”",
+      "The incident is reminiscent of the time, in 2018, when KFC was running out of chicken in the U.K. because of problems with a supplier, Bloch said. Hundreds of the chain’s outlets briefly closed, and it took out a full-page ad in British newspapers to apologize—kind of. The ad featured an empty bucket of chicken emblazoned with its initials rearranged to “FCK.”",
+      "“Not particularly good for a chicken restaurant to run out of chicken, and it could have been a potential disaster, but they just embraced it,” he said of what’s now become a case study in crisis PR.",
+      "Nowadays, other companies want to profit from the potential buzz from a rival’s misstep, too. After a video of McDonald’s CEO Chris Kempczinski’s polite bite into a burger went viral this month, top executives from Burger King and Wendy’s pounced with similar videos in a lighthearted dig at their competitor. McDonald’s said its new burger, the Big Arch, got a sales boost from all the attention, too.",
+      "Trying to juice a rival’s bad news for buzz isn’t advisable if it’s something as serious as an oil spill or a plane crash.",
+      "But weighing in on an international chocolate-bar caper is pretty low-risk, said Davia Temin, the founder of reputation and crisis management consultancy Temin and Company.",
+      "“It’s chocolate, it’s Easter,” Temin said. “I don’t think you can go too wrong.”",
+      "To do it right, brands need to be among the first to pounce on a potentially viral mishap, said Allen Adamson, co-founder of marketing consultancy Metaforce.",
+      "“If you’re the fifth or sixth to jump on the bandwagon here, you’re toast,” Adamson said. “Spontaneity requires a really clear sense of what the rules are.”",
+      "Brands need to be consistent when deciding whether to join a trend, Adamson said. The Domino’s and Ryanair posts were successful because they aligned with the playful brand images they’ve crafted over time, he said.",
+      "“You have to know what your swim lane is and when you should jump on,” Adamson said.",
+      "Nestlé said it had publicized the incident with humor to raise awareness around the more serious issue of thievery. In this case, it added, the risks are low since the theft won’t affect supply and the chocolate bars can be traced by unique product codes.",
+      "“Whilst we appreciate the criminals’exceptional taste, the fact remains that cargo theft is an escalating issue for businesses of all sizes,” the company said."
+    ],
+    "paragraphTranslations": [
+      "雀巢对被盗巧克力事件的反应表明，只要能将其转化为一个有趣的梗，就不会有坏消息。",
+      "那么，12公吨的被盗KitKat巧克力棒到底值多少钱呢？原来，这些巧克力棒价值不菲，几乎是宝贵的促销资源啊。",
+      "这起发生在社交媒体上的“大胆的巧克力盗窃案”引起了广泛关注：上周末，雀巢公司证实，窃贼从意大利中部的工厂到波兰的途中，盗走了413,793块KitKat巧克力。无论是那些巧克力块，还是载有这些巧克力的卡车，目前都仍然下落不明。不过，据称在盗窃事件中没有人受伤。",
+      "不过，这家瑞士公司在巧克力方面的损失，却通过公关手段得到了弥补——其他许多公司也迅速加入了这一炒作的行列。",
+      "该公司在一份声明中表示：“我们一直鼓励人们与KitKat公司断绝业务关系——但看起来，那些小偷却把这一消息当真了，导致超过12吨我们的巧克力被偷走。”一位发言人证实，这次盗窃并非4月1日当天发生的玩笑行为。",
+      "“是的，事情确实发生了，”他说。",
+      "受雀巢的启发，其他公司也很快加入了这一行为，采用了一些社交媒体上的恶搞手段。",
+      "“在Kit Kat公司遭遇不幸的消息之后，我们想分享我们的哀思和慰问，”英国的多米诺披萨公司于周一上午发布的一份声明中这样写道。随后，该声明还补充说：“顺便提一下，我们很高兴地宣布，现在我们将销售新的Kit Kat披萨了。”",
+      "北卡罗来纳州的职业足球联赛俱乐部夏洛特FC也在几小时后宣布了类似的信息：“顺便说一下，我们很高兴地宣布，在周六对阵费城队的比赛中，我们将提供大约413,000个KitKats糖果作为奖品。”",
+      "与此同时，折扣航空公司瑞安航空则发布了一张卡通图片，图中有一架飞机，飞机嘴里叼着五块被咬下来的KitKat巧克力。",
+      "不久前，大多数公司都会选择保持沉默，让执法部门来揭露这种可能带来尴尬的真相。而现在，任何负面消息都变成了好消息——只要企业能够将其转化为一个热门的“病毒式模因”。",
+      "“这是公关工作的典范，”在伦敦从事公关业务的Andrew Bloch & Associates公司的负责人Andrew Bloch说。通过抓住大量被盗巧克力的这一机会，该公司“成功地将这一事件转化为一种积极的影响”。",
+      "这一事件让人想起2018年时，肯德基在英国因供应商的问题而缺货的情况。当时，该连锁餐厅的数百家门店暂时停止了营业，并且还在英国报纸上刊登了整版广告来道歉——不过这种道歉方式有点夸张。广告上印着一只空桶，桶上印有肯德基的缩写，但排列方式有些奇怪，看起来就像“FCK”。",
+      "“对于一家以鸡肉为特色的餐厅来说，出现这种情况显然不是好事，可能会带来潜在的灾难。不过他们还是接受了这一现实，”他说，这现在已经成为一个关于危机公关的案例研究。",
+      "如今，其他公司也试图从竞争对手的失误中获利。本月，麦当劳首席执行官克里斯·肯普齐辛斯基礼貌地咬下汉堡的视频在社交媒体上疯传后，汉堡王和温迪快餐公司的高层也纷纷制作了类似的视频，以轻松的方式嘲讽他们的竞争对手。麦当劳表示，他们新推出的“大拱形”汉堡销量也因此有所上升。",
+      "如果涉及的是像石油泄漏或飞机失事这样的严重事件，试图利用竞争对手的负面新闻来制造话题是没有意义的。",
+      "但参与国际性关于巧克力棒的幽默事件，风险其实很低，声誉与危机管理咨询公司Temin and Company的创始人Davia Temin如是说。",
+      "“这是巧克力，是复活节的时候了，”泰明说。“我觉得不会出错。”",
+      "营销咨询公司Metaforce的联合创始人艾伦·亚当森表示，要正确地处理这种情况，品牌需要成为第一个抓住这一潜在危机机会的企业。",
+      "“如果你只是第五或第六个跟风的人，那你就完了，”亚当森说。“要有主动性，就必须清楚地了解规则是什么。”",
+      "亚当森表示，品牌在决定是否追随某种趋势时，需要保持一致性。多米诺和瑞安航空的推广策略之所以成功，是因为它们与品牌长期以来所打造的轻松活泼的品牌形象相契合。",
+      "“你必须清楚自己的泳道位置，以及何时应该开始游泳，”亚当森说道。",
+      "雀巢表示，他们以幽默的方式公开了这一事件，目的是引起人们对更严重的盗窃问题的关注。他们补充说，在这种情况下，风险较低，因为盗窃行为不会影响到供应，而且巧克力棒可以通过独特的产品编码进行追踪。",
+      "该公司表示：“虽然我们理解犯罪分子有独特的审美需求，但事实仍然是，货物盗窃问题正成为各个规模企业的日益严重的问题。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "Heist",
+        "ipa": "/haɪst/",
+        "pos": "n.",
+        "meaning": "抢劫，盗窃，劫案",
+        "definition": "(informal) an act of stealing sth. very valuable from a shop, bank, etc.",
+        "zh": "抢劫，盗窃，劫案"
+      },
+      {
+        "form": "metric tons",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "公吨（1,000 千克）",
+        "definition": "a unit of weight equal to 1,000 kilograms",
+        "zh": "公吨（1,000 千克）"
+      },
+      {
+        "form": "promotional",
+        "ipa": "/prəˈməʊʃənl/",
+        "pos": "adj.",
+        "meaning": "促销的，宣传的，推广的",
+        "definition": "relating to the advertising of a product or event",
+        "zh": "促销的，宣传的，推广的"
+      },
+      {
+        "form": "brazen",
+        "ipa": "/ˈbreɪzn/",
+        "pos": "adj.",
+        "meaning": "厚颜无耻的，放肆的，明目张胆的",
+        "definition": "used to describe a person, or the actions of a person, who is not embarrassed about behaving in a wrong or immoral way",
+        "zh": "厚颜无耻的，放肆的，明目张胆的"
+      },
+      {
+        "form": "swiped",
+        "ipa": "/swaɪp/",
+        "pos": "v.",
+        "meaning": "偷窃，顺手牵羊，盗取",
+        "definition": "(informal) to steal sth.",
+        "zh": "偷窃，顺手牵羊，盗取"
+      },
+      {
+        "form": "bars",
+        "ipa": "/bɑː/",
+        "pos": "n.",
+        "meaning": "条，块，棒",
+        "definition": "a piece of sth. solid, in a block shape",
+        "zh": "条，块，棒"
+      },
+      {
+        "form": "truck",
+        "ipa": "/trʌk/",
+        "pos": "n.",
+        "meaning": "卡车，货车，运货车",
+        "definition": "a large road vehicle used to carry goods",
+        "zh": "卡车，货车，运货车"
+      },
+      {
+        "form": "Swiss",
+        "ipa": "/swɪs/",
+        "pos": "adj.",
+        "meaning": "瑞士的，瑞士人的，来自瑞士的",
+        "definition": "relating to Switzerland or its people",
+        "zh": "瑞士的，瑞士人的，来自瑞士的"
+      },
+      {
+        "form": "public-relations",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "公关的，公共关系的，形象宣传的",
+        "definition": "relating to the work of maintaining a good relationship between an organization and the public",
+        "zh": "公关的，公共关系的，形象宣传的"
+      },
+      {
+        "form": "coup",
+        "ipa": "/kuː/",
+        "pos": "n.",
+        "meaning": "意外成就，成功之举，妙举",
+        "definition": "an achievement that is particularly impressive because it was very difficult",
+        "zh": "意外成就，成功之举，妙举"
+      },
+      {
+        "form": "hop",
+        "ipa": "/hɒp/",
+        "pos": "v.",
+        "meaning": "迅速移动，跳上，跃入",
+        "definition": "to move somewhere quickly or suddenly",
+        "zh": "迅速移动，跳上，跃入"
+      },
+      {
+        "form": "meme",
+        "ipa": "/miːm/",
+        "pos": "n.",
+        "meaning": "网络迷因，表情包，（网络上广泛传播的）梗",
+        "definition": "an image, video, etc. that is spread widely on the internet, often with slight changes made to it",
+        "zh": "网络迷因，表情包，（网络上广泛传播的）梗"
+      },
+      {
+        "form": "bandwagon",
+        "ipa": "/ˈbændwæɡən/",
+        "pos": "n.",
+        "meaning": "潮流，时髦事物，风潮",
+        "definition": "an activity that a lot of people are doing",
+        "zh": "潮流，时髦事物，风潮"
+      },
+      {
+        "form": "literally",
+        "ipa": "/ˈlɪtərəli/",
+        "pos": "adv.",
+        "meaning": "字面上地，照字面意思地，确实地",
+        "definition": "according to the most basic or original meaning of a word or expression",
+        "zh": "字面上地，照字面意思地，确实地"
+      },
+      {
+        "form": "spoofing",
+        "ipa": "/spuːfɪŋ/",
+        "pos": "n.",
+        "meaning": "模仿，戏谑，调侃",
+        "definition": "the activity of copying a film, TV programme, etc. in a humorous way by exaggerating its main features",
+        "zh": "模仿，戏谑，调侃"
+      },
+      {
+        "form": "condolences",
+        "ipa": "/kənˈdəʊləns/",
+        "pos": "n.",
+        "meaning": "慰问，哀悼，吊唁",
+        "definition": "sympathy for sb. who has experienced sth. sad, especially the death of sb. they loved",
+        "zh": "慰问，哀悼，吊唁"
+      },
+      {
+        "form": "riff",
+        "ipa": "/rɪf/",
+        "pos": "n.",
+        "meaning": "（即兴发挥的）话题，段子，梗",
+        "definition": "a piece of speech in which sb. talks about a subject in an entertaining way that does not seem planned",
+        "zh": "（即兴发挥的）话题，段子，梗"
+      },
+      {
+        "form": "stadium",
+        "ipa": "/ˈsteɪdiəm/",
+        "pos": "n.",
+        "meaning": "体育场，运动场，竞技场",
+        "definition": "a large sports ground surrounded by rows of seats and usually other buildings",
+        "zh": "体育场，运动场，竞技场"
+      },
+      {
+        "form": "disclose",
+        "ipa": "/dɪsˈkləʊz/",
+        "pos": "v.",
+        "meaning": "披露，揭露，公开",
+        "definition": "to give information to sb., especially information that was secret",
+        "zh": "披露，揭露，公开"
+      },
+      {
+        "form": "revelation",
+        "ipa": "/ˌrevəˈleɪʃn/",
+        "pos": "n.",
+        "meaning": "披露，揭露，爆料",
+        "definition": "a surprising fact about sb. or sth. that was previously secret and is now made known",
+        "zh": "披露，揭露，爆料"
+      },
+      {
+        "form": "corporate",
+        "ipa": "/ˈkɔːpərət/",
+        "pos": "adj.",
+        "meaning": "企业的，公司的，法人的",
+        "definition": "belonging to or relating to a corporation",
+        "zh": "企业的，公司的，法人的"
+      },
+      {
+        "form": "viral",
+        "ipa": "/ˈvaɪərəl/",
+        "pos": "adj.",
+        "meaning": "通过网络传播的",
+        "definition": "passed on to other people on the Internet or using mobile phones",
+        "zh": "通过网络传播的"
+      },
+      {
+        "form": "leaning in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "积极面对，勇于迎接（挑战）",
+        "definition": "to accept the challenge of doing sth. and try hard to do it successfully",
+        "zh": "积极面对，勇于迎接（挑战）"
+      },
+      {
+        "form": "misfortune",
+        "ipa": "/mɪsˈfɔːtʃən/",
+        "pos": "n.",
+        "meaning": "不幸，倒霉事，厄运",
+        "definition": "very bad luck, or sth. that happens to you as a result of bad luck",
+        "zh": "不幸，倒霉事，厄运"
+      },
+      {
+        "form": "incident",
+        "ipa": "/ˈɪnsɪdənt/",
+        "pos": "n.",
+        "meaning": "事件，事故，（尤指不寻常或不愉快的）情况",
+        "definition": "an event, especially one that is unusual, important, or violent",
+        "zh": "事件，事故，（尤指不寻常或不愉快的）情况"
+      },
+      {
+        "form": "reminiscent of",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "令人联想到……的，使人回忆起……的，与……相似的",
+        "definition": "reminding you of sth. or sb. else",
+        "zh": "令人联想到……的，使人回忆起……的，与……相似的"
+      },
+      {
+        "form": "running out of",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "耗尽，用完，没有……了",
+        "definition": "to use all of sth. and have no more left",
+        "zh": "耗尽，用完，没有……了"
+      },
+      {
+        "form": "supplier",
+        "ipa": "/səˈplaɪə/",
+        "pos": "n.",
+        "meaning": "供应商，供货商，提供者",
+        "definition": "a company or person that provides goods or services to a business or other organization",
+        "zh": "供应商，供货商，提供者"
+      },
+      {
+        "form": "outlets",
+        "ipa": "/ˈaʊtlet/",
+        "pos": "n.",
+        "meaning": "（零售）门店，分店，销售网点",
+        "definition": "a shop, organization, or person through which products are sold",
+        "zh": "（零售）门店，分店，销售网点"
+      },
+      {
+        "form": "bucket",
+        "ipa": "/ˈbʌkɪt/",
+        "pos": "n.",
+        "meaning": "桶，水桶",
+        "definition": "a round container with a handle, used for carrying liquids, or the contents of such a container",
+        "zh": "桶，水桶"
+      },
+      {
+        "form": "emblazoned",
+        "ipa": "/ɪmˈbleɪzənd/",
+        "pos": "adj.",
+        "meaning": "醒目地标示的，大写的，印有…… 图案的",
+        "definition": "If sth. is emblazoned with a name, design, etc., it has that design on it where it can easily be seen.",
+        "zh": "醒目地标示的，大写的，印有…… 图案的"
+      },
+      {
+        "form": "buzz",
+        "ipa": "/bʌz/",
+        "pos": "n.",
+        "meaning": "热议，轰动效应，话题度",
+        "definition": "a lot of activity, noise, and excitement",
+        "zh": "热议，轰动效应，话题度"
+      },
+      {
+        "form": "misstep",
+        "ipa": "/ˌmɪsˈstep/",
+        "pos": "n.",
+        "meaning": "失误，差错，失策",
+        "definition": "a mistake, especially one that is caused by not understanding a situation correctly",
+        "zh": "失误，差错，失策"
+      },
+      {
+        "form": "pounced",
+        "ipa": "/paʊns/",
+        "pos": "v.",
+        "meaning": "迅速抓住，趁机利用，扑上去",
+        "definition": "to suddenly move forward and attack sb. or sth., after waiting to attack them",
+        "zh": "迅速抓住，趁机利用，扑上去"
+      },
+      {
+        "form": "lighthearted",
+        "ipa": "/ˌlaɪtˈhɑːtɪd/",
+        "pos": "adj.",
+        "meaning": "轻松愉快的，无忧无虑的，诙谐的",
+        "definition": "cheerful and not treating sth. as serious",
+        "zh": "轻松愉快的，无忧无虑的，诙谐的"
+      },
+      {
+        "form": "dig",
+        "ipa": "/dɪɡ/",
+        "pos": "n.",
+        "meaning": "嘲讽，讽刺，挖苦",
+        "definition": "a joke or remark that you make to annoy or criticize sb.",
+        "zh": "嘲讽，讽刺，挖苦"
+      },
+      {
+        "form": "boost",
+        "ipa": "/buːst/",
+        "pos": "n.",
+        "meaning": "提振，促进，推动",
+        "definition": "sth. that helps increase sth. or make it more successful",
+        "zh": "提振，促进，推动"
+      },
+      {
+        "form": "spill",
+        "ipa": "/spɪl/",
+        "pos": "n.",
+        "meaning": "溢出，泄漏，（尤指石油等的）泄漏事故",
+        "definition": "when you spill sth., or an amount of sth. that is spilled",
+        "zh": "溢出，泄漏，（尤指石油等的）泄漏事故"
+      },
+      {
+        "form": "weigning in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "就……发表意见，介入，参与讨论",
+        "definition": "to join in a discussion, an argument, an activity, etc. by saying sth. important, persuading sb., or doing sth. to help",
+        "zh": "就……发表意见，介入，参与讨论"
+      },
+      {
+        "form": "caper",
+        "ipa": "/ˈkeɪpə/",
+        "pos": "n.",
+        "meaning": "非法的、冒险的（活动）",
+        "definition": "a planned activity, especially an illegal or dangerous one",
+        "zh": "非法的、冒险的（活动）"
+      },
+      {
+        "form": "mishap",
+        "ipa": "/ˈmɪshæp/",
+        "pos": "n.",
+        "meaning": "小事故，意外，不幸",
+        "definition": "a small accident or mistake that does not have very serious results",
+        "zh": "小事故，意外，不幸"
+      },
+      {
+        "form": "Spontaneity",
+        "ipa": "/ˌspɒntəˈneɪəti/",
+        "pos": "n.",
+        "meaning": "自发性，即兴发挥，随性而为",
+        "definition": "the quality of being natural and not planned in advance",
+        "zh": "自发性，即兴发挥，随性而为"
+      },
+      {
+        "form": "consistent",
+        "ipa": "/kənˈsɪstənt/",
+        "pos": "adj.",
+        "meaning": "一贯的，前后一致的，始终如一的",
+        "definition": "always behaving in the same way or having the same attitudes, standards, etc. – usually used to show approval",
+        "zh": "一贯的，前后一致的，始终如一的"
+      },
+      {
+        "form": "aligned with",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "与……保持一致，符合，与……协调",
+        "definition": "to be in agreement or have a close connection with sth.",
+        "zh": "与……保持一致，符合，与……协调"
+      },
+      {
+        "form": "crafted",
+        "ipa": "/krɑːft/",
+        "pos": "v.",
+        "meaning": "精心打造，精心制作，细心塑造",
+        "definition": "to make sth. using a special skill, especially with your hands",
+        "zh": "精心打造，精心制作，细心塑造"
+      },
+      {
+        "form": "publicized",
+        "ipa": "/ˈpʌblɪsaɪz/",
+        "pos": "v.",
+        "meaning": "宣传，公开，使广为人知",
+        "definition": "to give information about sth. to the public, so that they know about it",
+        "zh": "宣传，公开，使广为人知"
+      },
+      {
+        "form": "thievery",
+        "ipa": "/ˈθiːvəri/",
+        "pos": "n.",
+        "meaning": "偷窃，盗窃行为，盗窃罪",
+        "definition": "(formal) the act or practice of stealing",
+        "zh": "偷窃，盗窃行为，盗窃罪"
+      },
+      {
+        "form": "exceptional",
+        "ipa": "/ɪkˈsepʃənl/",
+        "pos": "adj.",
+        "meaning": "非凡的，卓越的，出众的",
+        "definition": "unusually good",
+        "zh": "非凡的，卓越的，出众的"
+      },
+      {
+        "form": "cargo",
+        "ipa": "/ˈkɑːɡəʊ/",
+        "pos": "n.",
+        "meaning": "货物，运载物，船货",
+        "definition": "goods carried by a ship, aircraft, or vehicle",
+        "zh": "货物，运载物，船货"
+      },
+      {
+        "form": "escalating",
+        "ipa": "/ˈeskəleɪt/",
+        "pos": "v.",
+        "meaning": "升级，扩大，（使）逐步恶化",
+        "definition": "If fighting, violence, or a bad situation escalates, or if sb. escalates it, it becomes much worse.",
+        "zh": "升级，扩大，（使）逐步恶化"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "an act of stealing sth. very valuable from a shop, bank, etc.",
+      "the activity of copying a film, TV programme, etc. in a humorous way by exaggerating its main features"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Over the weekend, Nestlé confirmed that thieves had swiped 413,793 units of KitKats somewhere along their way from a factory in central Italy to Poland.”?",
+    "exerciseChoiceMarked": [
+      "swiped"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "He swiped at the ball and missed.",
+        "marked": [
+          "swiped"
+        ],
+        "zh": "他试图击球，但没打中。"
+      },
+      {
+        "label": "B",
+        "text": "The cash register only opens once the card has been swiped.",
+        "marked": [
+          "swiped"
+        ],
+        "zh": "刷卡后，收银机的抽屉才会打开。"
+      },
+      {
+        "label": "C",
+        "text": "The photos were probably swiped by an employee.",
+        "marked": [
+          "swiped"
+        ],
+        "zh": "那些照片很可能是被一名员工偷走的。"
+      },
+      {
+        "label": "D",
+        "text": "Switch on the phone and swipe your finger across the screen to unlock it.",
+        "marked": [
+          "swipe"
+        ],
+        "zh": "打开手机，用手指在屏幕上滑动以解锁屏幕。"
+      }
+    ],
+    "exerciseTranslationPrompt": "虽然这家瑞士公司损失了巧克力，却在公关上打了一场胜仗——多家公司也迅速跟进，借此热点玩梗，同样收获了关注。",
+    "answerVocabularyList": [
+      "heist",
+      "spoofing"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "What the Swiss company lost in chocolate, though, it gained back in a public-relations coup—as did multiple other companies quick to hop on the meme bandwagon."
+  },
+  {
     "key": "apr0407",
     "date": "2026.04.07",
     "period": "2026年04月",
@@ -1673,6 +2187,918 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "swings"
     ]
+  },
+  {
+    "key": "apr0414",
+    "date": "2026.04.14",
+    "period": "2026年4月",
+    "folder": "0414“糟糕”的好品味：全球审美趋同，如何逃离",
+    "titleZh": "“糟糕”的好品味：全球审美趋同，如何逃离精致的平庸？",
+    "title": "Is Good Taste a Trap?",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Joshua Rothman, The New Yorker, Published February 6, 2026",
+    "paragraphs": [
+      "In Belle Burden’s memoir, “Strangers,” she describes the end of her marriage. It happened suddenly: until learning of her husband’s infidelity, through a voice mail from a stranger, she had no idea anything was wrong. Burden and her husband shared an apartment in Tribeca and a house on Martha’s Vineyard. They enjoyed romantic Friday-night dinners at a favorite restaurant. Their children thrived at élite private schools. Everything in their lives was curated and refined—ideal to a degree that suggested perfection. “I loved his clothes, the way he dressed for work,” Burden writes—”a navy or charcoal-gray suit, a crisp shirt, a tie with some color… the attire of a responsible and trustworthy man.” United in their distaste for “the modern version” of the Hamptons, with its “competing, dressing up, and traffic,” they felt at home at their club on the Vineyard, where members “gathered for cocktail parties in linen blazers and colorful dresses.” Even the smallest details were fine-tuned: Burden writes that, although her husband was busy at his hedge fund, he “started sourcing Halloween candy in September, looking for hard-to-find brands of sour candy to fill our bowl.”",
+      "Most of us aren’t as glamorous as Burden, who is a descendant of the Vanderbilts and a granddaughter of the fashion icon Babe Paley. (She remembers how, when she and her husband moved in together, she brought along her youthful belongings—”a mahogany bed, my grandfather’s desk, my father’s Sally Mann photographs.”) Still, we get it when she recounts falling for him: “As I saw him confidently descend the wide, steep stairs at the back of the apartment, tucking in his striped oxford shirt as he held the heavy door for me, I thought, I am going to marry him.” Even if we’ve only read F. Scott Fitzgerald, instead of living in the rarefied world he describes, his particular vision—poised, elegant, just a little debauched—can make us swoon. Or maybe we prefer some other vision: the James Dean good-girl aesthetic in Taylor Swift’s “Style,” or the Beth and Rip thing from “Yellowstone.” Although style can be superficial, in the best case it reflects something more fundamental—knowledge, judgment, intention, discernment. Taste, in short. “Taste governs every free—as opposed to rote—human response,” Susan Sontag wrote in “Notes on ‘Camp,’ ” from 1964. “There is taste in people, visual taste, taste in emotion—and there is taste in acts, taste in morality,” even “taste in ideas.” In her essay, Sontag explored the notion of camp, the appreciation of which requires having “good taste in bad taste.” Today, meanwhile, artificial-intelligence researchers talk about “research taste”: they hope to create algorithms that have intuitions, as the best humans do, about which problems are interesting and which will hit dead ends. We use our taste to perceive, to decide, to think. All this makes it sound like having taste is something we do— like a tool that we can wield. Often, though, the reverse is the case. “Either you think—or else others have to think for you and take power from you, pervert and discipline your natural tastes, civilize and sterilize you,” Nicole Diver muses, in Fitzgerald’s “Tender Is the Night.” The world is always telling you what to like; as a result, taste is suspect. When are you expressing your true self, and when are you allowing others to reshape you? Visit one beautifully appointed Brooklyn apartment, and you’ll admire the owners’ taste. Visit ten identical apartments, and you’ll wonder if having perfect taste actually means having none at all.",
+      "The worry that taste is deceptive or distracting haunts seemingly every narrative in which it figures. In “Strangers,” Burden wonders how she failed to notice her husband’s unhappiness, and asks how he might have failed to notice it for himself. “I thought I was happy but I’m not,” he tells her. “I thought I wanted our life, but I don’t.” It’s a brutal way to leave a marriage. And yet later a friend tells Burden that the divorce has liberated her real personality, revealing someone who is “lighter, easier, more relaxed…You seem to be letting go of a bigger set of cultural standards, of some sort of externally imposed idea of who you should be.” Living tastefully requires making many small, good decisions, and doing this successfully can give you the sensation of heading in the right direction. But the risk of crafting a picture-perfect life is that you’ll lose sight of the big picture.",
+      "Anna and Tom, the protagonists of Vincenzo Latronico’s novel “Perfection,” are “creative professionals” living as expats in Berlin. “Their exact titles varied depending on the job,” Latronico writes. “Web developer, graphic designer, online brand strategist”—the bottom line is that they create “differences.” When a new boutique hotel opens, it needs to communicate its uniqueness within the crowded landscape of taste. Anna and Tom accomplish this through minute shifts to the color palette, or the nuanced application of fonts. “Their style was simple, intimate, in keeping with an aesthetic that was starting to be seen all over the world,” Latronico explains—a “casual coolness” familiar from “every gourmet burger joint and concert poster.”",
+      "The couple’s good taste flows from their screens into the physical world, and then back into their screens. On social media, they see an endless grid of airy apartments filled with “stunning plants in bay windows, on plywood shelves, against herringbone parquet.” Soon, their apartment is a greenhouse, too—”Plants appeared out of nowhere, a fully developed skill,” Latronico writes—and this enriches the photographs that they post, when they list their apartment online, so that tourists can rent it. Similarly, after years of making the same sandwiches and spaghetti sauce, they become serious cooks, along with everyone else. Dinners at friends’ houses suddenly involve “elaborate salads sprinkled with seeds and fruit,” and each course is “accompanied by a chorus of compliments and technical remarks.” Latronico notes that “their interest hadn’t been planted by sly marketers, but appeared as if by osmosis, as they observed the little differences all around them.” As members of a tasteful generation, “they were all learning together.”",
+      "Collecting vinyl, clubbing at Berghain, contemplating polyamory—this is cool. But Anna and Tom don’t feel free. They’re trapped in the taste matrix that they’ve helped construct. It was their own good taste, after all, that originally compelled them to flee their provincial home town for Berlin; when newer incoming cool-hunters push up the cost of living in the city, it’s taste that nudges them toward Lisbon “( the new Berlin”), where they hope to repeat the cycle. The problem is that data moves faster than they do. When dinner-party pictures can instantaneously travel “to the other end of the planet, bouncing along in low Earth orbit or speeding across ocean ridges,” meaningful distinctions can’t last. In Lisbon, “it was all different, which was what they had wanted; and yet it was also somehow all the same.”",
+      "There’s something science-fictional about “Perfection,”and yet it’s an accurate account of how modern taste makes itself felt. Taste is a global force, driving migrations, shifting investments, and dividing us into groups and tribes. Because it’s been so heavily technologized, it now feels unitary, omnipresent—like a wave that sweeps us up but never breaks. Philosophers describe the “problem of expensive tastes”; today’s luxuries become tomorrow’s necessities. For Anna and Tom, that dynamic leads to exile. Driven out of the place they’re from, they’re priced out of most places they might want to go, and can’t be content in the ones they can afford. By the closing act of the novel, although their taste is everywhere, they’re citizens of nowhere. Marguerite, the heroine of Helen DeWitt’s novella “The English Understand Wool,” is also trapped by taste. She’s spent her whole life in an atmosphere of unimaginable luxury and refinement. Her family lives in Marrakech, but she gets piano lessons from a teacher flown in from Paris. When Marguerite’s mother needs a new suit, she flies to Scotland to buy tweed from “a weaver of real gifts.”Everything in Marguerite’s life is meant to avoid being mauvais ton—in bad taste. During Ramadan, she and her parents go on vacation for the sake of their servants, who are paid anyway. “It would be mauvais ton to be waited upon by persons who were fasting,” Marguerite explains. “It would be mauvais ton to make the exigencies of religion an excuse to curtail their salaries.”",
+      "Something happens in Marguerite’s life—it would be mauvais ton to reveal it—and she is forced not just to leave her world of mannered privilege behind but to revise her understanding of who she is. She winds up in New York, where she sells a memoir in a lucrative book deal. But her editor, Bethany, isn’t happy with the draft.“Hi Marguerite,”Bethany writes.“This seems like a lot of backstory, making the reader wait for the main event.” The memoir should be a lurid tell-all, Bethany thinks; she suggests talking to a ghostwriter, who might “knock the text into shape.” Alternatively, she wonders, “Would it help if the two of us met and talked and I just recorded you on my cell to get it all down so there’s something to work with?”",
+      "In the end, it’s Marguerite’s good taste that prevents her from succumbing to the pressure to write a tawdry account of her life. This is one quite plausible theory of why taste is valuable: it’s certainly nice to make the most of the little things, but the performance of taste is actually a rehearsal for more important performances to come. If you cultivate taste today, then, later, when the spotlight finds you, you’ll have standards. Maybe you’ll draw on your experiences of discernment, propriety, and virtue as you rise to the occasion. (Of course, the inverse of this theory —that bad taste suggests you’ll perform poorly—is less appealing.)",
+      "It’s commonplace for our tastes to be better than we are. When we’re young, we can become very tasteful very quickly; we might know what to read but not how to act, or we might be easily fooled by cool. (When we’re older, meanwhile, we may be able to afford tasteful things that we don’t know how to appreciate.) In Jane Austen’s novels, intelligent young women with good taste often fall for apparently similar young men, only to discover that their suitors’ taste is only skin deep; they realize, to their further mortification, that they, too, are more tasteful than they are wise. But Austen’s heroines rally after this disappointment. Having previously concluded that pretty much everything is mauvais ton—”The more I see of the world, the more am I dissatisfied with it,” Elizabeth Bennet says, in “Pride and Prejudice”—they commit to further developing their own faculties, becoming equal to the taste they’ve cultivated. This is another argument in favor of taste: it is one of our main mechanisms for self-improvement.",
+      "And yet it’s not quite right to see taste mainly as a means to an end. In DeWitt’s novella, Marguerite takes taste seriously in itself. She would never be so gauche as to chase self-improvement. “The English understand wool,” DeWitt writes. “The French understand wine, cheese, bread… The Germans understand precision, machines. . . . The Swiss understand discretion.” This understanding is focussed not on the self but on the thing. That’s the paradox of taste. Your taste can say a lot about you, and yet it’s not actually about you. Having good taste might orient you toward what’s good. It’s when you think you’re good, however, that you fall into its trap."
+    ],
+    "paragraphTranslations": [
+      "在贝尔·伯登的回忆录《陌生人》中，她描述了自己婚姻的终结。这一切发生得如此突然：在通过一封来自陌生人的语音邮件得知丈夫出轨之前，她完全不知道有什么问题。伯登和她的丈夫住在翠贝卡区的一套公寓里，还有一座房子位于玛莎葡萄园岛。他们喜欢在最喜欢的餐厅一起享用浪漫的周五晚宴。他们的孩子们在精英私立学校接受教育。他们生活中的一切都井井有条、精致完美——简直达到了完美的程度。“我喜欢他的穿着方式，尤其是他工作时的服装，”伯登写道——“海军蓝或炭灰色的西装，整洁的衬衫，带有一定颜色的领带……这些都是一个负责任且值得信赖的男人的形象。”由于都厌恶汉普顿地区那种“竞争激烈、穿着夸张且交通拥堵”的现代化风貌，他们更喜欢在葡萄园区的俱乐部里生活。那里的会员们“会穿着亚麻外套和色彩鲜艳的连衣裙来参加鸡尾酒会”。就连最微小的细节也都被精心安排：伯登写道，虽然她的丈夫在对冲基金工作非常忙碌，但他“从九月就开始采购万圣节糖果，寻找那些难以买到的酸味糖果，以便让我们能够享受美味的万圣节。”",
+      "我们大多数人都不像伯登那样光彩夺目——她可是范德比尔特家族的后代，也是时尚偶像贝布·佩利的外孙女啊。（她记得，当她和丈夫开始同居时，她带着自己年轻时的物品：“一张桃花心木做的床，祖父的桌子，父亲收藏的莎莉·曼的照片。”）不过，当她讲述自己爱上他的故事时，我们还是能够理解她的感受：“当我看到他自信地走下公寓后面那又宽又陡的楼梯，穿着条纹牛津衬衫，为我打开那扇沉重的门时，我就想，我要嫁给他。”即使我们只读过F·斯科特·菲茨杰拉德的作品，而不是生活在他所描述的那个高贵的世界中，但他的独特气质——优雅而略带放纵——还是能让我们陶醉。或者，我们可能更偏爱另一种审美观：比如泰勒·斯威夫特的歌曲《Style》中那种类似詹姆斯·迪恩的“淑女风”风格，或者《Yellowstone》中的Beth和Rip那种风格。虽然审美可以是表面的，但在最好的情况下，它反映了某种更根本的东西——知识、判断力、意图、洞察力。简而言之，就是“品味”。苏珊·桑塔格在1964年撰写的《关于“Camp”的笔记》中写道：“品味支配着每一种自由的人类反应，而不是机械性的反应。”“人们身上都有品味，视觉上的品味，情感上的品味——还有行为上的品味，道德上的品味，甚至‘观念上的品味’。”在她的文章中，桑塔格探讨了“Camp”这一概念，而理解这一概念需要拥有“对糟糕品味的鉴赏力”。如今，人工智能研究人员则谈论“研究品味”：他们希望创造出能够像最优秀的人类一样，直觉地判断哪些问题有趣，哪些问题会走向失败。我们依靠自己的品味来感知、决策、思考。这一切让人觉得，拥有品味是一种我们可以随意支配的能力——就像一种工具。然而，实际情况往往恰恰相反。“要么你自己去思考，要么就让别人替你思考，从你手中夺走权力，扭曲并约束你的自然品味，让你变得平庸而毫无个性，”妮可·迪弗在菲茨杰拉德的《温柔的夜晚》中这样写道。世界总是告诉你要喜欢什么；因此，拥有品味似乎是一种可疑的行为。你什么时候是在表达真实的自我，什么时候又是在允许别人重新塑造你呢？如果你参观一套装修精美的布鲁克林公寓，你会欣赏到房主的品味。但如果你参观十套完全相同的公寓，你就会思考：拥有完美的品味是否意味着根本没有任何品味呢？",
+      "人们总是担心，所谓的“品味”可能会误导或分散人们的注意力。在《陌生人》这部作品中，伯登疑惑自己为何没有注意到丈夫的不快乐，并询问丈夫自己是否也未能察觉到这一点。“我以为自己很幸福，但实际上并非如此，”他告诉她。“我以为自己渴望这样的生活，但实际上并非如此。”这是一种残酷的婚姻方式。然而，后来一位朋友告诉伯登，离婚让她真正展现了自己的个性，展现出一个“更轻松、更自然、更放松的人……你似乎正在摆脱那些刻在文化中的标准，那些外界强加给你的关于你应该是什么样人的观念。”要优雅地生活，就需要做出许多微小的、正确的决定，而成功做到这一点，就能让你感受到自己正朝着正确的方向前进。但是，追求完美无瑕的生活，可能会让你忽略整体目标。",
+      "安娜和汤姆是文森佐·拉特罗尼科小说《完美》中的主角，他们都是“创意型专业人士”，以外籍人士的身份生活在柏林。“他们的具体职业名称会根据所从事的工作有所不同，”拉特罗尼科写道。“网页设计师、平面设计师、在线品牌策略师”——归根结底，他们的工作就是创造“差异”。当一家新的精品酒店开业时，它需要在这片充满相似风格的环境中展现出自己的独特性。安娜和汤姆通过细微的色彩搭配或字体的巧妙运用来实现这一目标。“他们的风格简洁而富有个性，这种风格正逐渐在全球范围内流行起来，”拉特罗尼科解释道——这种“随性而酷”的风格，在“每一个高级汉堡店和音乐会海报”中都能看到。",
+      "这对夫妇的审美品味从他们的屏幕中流淌到现实世界，然后又回到他们的屏幕上。在社交媒体上，他们看到的是一排排空荡的公寓，这些公寓里“摆放着精美的植物，它们被安置在窗台、胶合板架子上，或者沿着鹅毛状图案的木地板摆放。”很快，他们的公寓也变成了一个“温室”——“这些植物仿佛凭空出现，显然是他们精心培育出来的成果，”拉特罗尼科写道。这种审美品味为他们在社交媒体上发布的照片增添了色彩，当他们在网上宣传自己的公寓时，游客就可以租住在这里。同样，在多年制作同样的三明治和意大利面酱之后，他们和其他人一样，成为了真正的厨师。在朋友家的晚餐中，突然出现了“富含种子的水果沙拉”，每一道菜都伴随着“一连串的赞美和专业的评价”。拉特罗尼科指出，“他们的兴趣并非由狡猾的营销人员所培养出来的，而是因为他们观察了周围的各种细微差异而自然而然产生的。”作为具有高雅审美品味的一代成员，他们“都在共同学习”。",
+      "收藏黑胶唱片、在贝尔海纳的夜店消遣、思考多角恋关系——这些都很酷。但安娜和汤姆并不感到自由。他们被困在由自己塑造的“品味矩阵”中。毕竟，最初促使他们离开家乡小镇前往柏林的，正是他们自己追求的美感；而当那些追求新潮的年轻人提高在城市的生活成本时，他们便转向了“新柏林”——希望能在那里重复这种体验。问题在于，信息的传播速度比他们快得多。当晚宴会的照片能够瞬间“传送到地球的另一端，在低地球轨道上飞行，或者穿越海洋的岛屿”，那些具有意义的差异也就无法持久了。在里斯本，“一切都与他们期望的完全不同；然而，又似乎一切都是一样的。”",
+      "《完美》这部作品带有浓厚的科幻色彩，然而它却精准地描绘了现代审美观念如何影响着人们的行为。审美观念是一种全球性的力量，它驱动着人们的迁移、投资方向的转变，并将人们划分为不同的群体和部落。由于现代社会高度技术化，审美观念仿佛无处不在——就像一阵席卷一切却永不停息的波浪。哲学家们将这种现象称为“昂贵审美观念的问题”；今天的奢侈品，明天就会成为必需品。对于安娜和汤姆来说，这种动态趋势导致了他们的流亡。他们被逐出原本可以居住的地方，无法进入他们愿意去的地方，也无法满足于那些他们能够负担得起的生活条件。到小说的结尾时，尽管他们的审美观念无处不在，但他们实际上已经成为了“无处为家”的公民。海伦·德威特的小说《英国人理解羊毛》中的女主角玛格丽特也陷入了审美观念的束缚之中。她一生都生活在难以想象的奢华与精致之中。她的家庭住在马拉喀什，但她会请一位从巴黎来的老师给她上钢琴课。当玛格丽特的母亲需要购买新西装时，她会飞往苏格兰，从“一位制作真正好衣服的织布工那里”购买粗斜纹布。玛格丽特生活中的一切都旨在避免一切低俗、不雅的行为。在斋月期间，她和父母会为了他们的仆人们去度假，因为这些仆人们无论如何都会得到报酬。“让那些正在斋戒的人来伺候客人，那是不合适的，”玛格丽特解释说。“以宗教的缘由为由来削减他们的工资，同样是不合适的。”",
+      "玛格丽特的生活发生了一些变化——透露这些细节似乎不太合适……她被迫不仅要放弃自己那充满仪式感的特权生活，还要重新定义自己是谁。她最终来到了纽约，在那里她以一份利润丰厚的书籍出版合同出售了自己的回忆录。但她的编辑贝瑟尼对这份草稿并不满意。贝瑟尼写道：“嗨，玛格丽特，这份回忆录里包含了太多背景故事了，让读者不得不等待主情节的展开。”贝瑟尼认为，这本回忆录应该更像是一次揭露真相的“揭露性作品”；她建议找一位代笔人来修改文本，或许能“让文字更加完善”。或者，她想：“如果我们俩见面谈谈，用手机录下来，把所有内容记录下来，那会不会更好呢？”",
+      "最终，是玛格丽特的高雅品味让她没有屈服于那种要求她撰写低俗生平事迹的压力。这其实是一种合理的观点，解释了为什么品味如此重要：当然，充分利用那些小细节是件好事，但品味的培养实际上为更重要的表演做着准备。如果你今天就培养自己的品味，那么将来，当聚光灯照在你身上时，你就会有相应的标准可以遵循。也许，在面对挑战时，你会借鉴自己在辨别能力、得体性和美德方面的经验来应对。（当然，这个理论的反面——即低雅的品味意味着表现会很差——则不太吸引人。）",
+      "我们的品味往往比我们的智慧更为出色。年轻时，我们能够迅速培养出高雅的审美能力；我们或许知道该读什么书，但不知道该如何行事，或者很容易被表面的优雅所迷惑。（而随着年龄的增长，我们可能会有能力去享受那些我们并不真正懂得欣赏的优雅事物。）在简·奥斯汀的小说中，那些有教养、有品位的年轻女性常常会被那些看似相似的年轻男子所吸引，结果却发现他们的品味只是表面的东西而已；她们会意识到，自己虽然拥有高雅的品味，但可能并不明智。不过，奥斯汀笔下的女主角们在经历这种失望之后仍然能够重新振作起来。在之前，她们认为几乎一切事物都是低劣的——“我越了解这个世界，就越对它感到不满，”伊丽莎白·贝内特在《傲慢与偏见》中这样说道——她们决定进一步培养自己的审美能力，从而能够真正欣赏那些高雅的事物。这是支持“品味”理论的另一个论据：它是我们自我提升的主要机制之一。",
+      "然而，将品味仅仅视为一种达到目的的手段，这种看法并不准确。在德威特的小说中，玛格丽特将品味本身视为一种重要的价值。她绝不会如此肤浅地追求自我提升。“英国人懂得羊毛，”德威特写道。“法国人则懂得葡萄酒、奶酪、面包……德国人则懂得精确性和机械技术……瑞士人则懂得谨慎与得体。”这种理解方式并非针对个人本身，而是针对事物本身。这就是品味的悖论所在：你的品味可以揭示许多关于你的信息，但实际上它并不涉及你个人。拥有良好的品味可能会引导你走向美好的事物。然而，当你自认为很优秀时，你就会陷入这个陷阱。"
+    ],
+    "vocabulary": [
+      {
+        "form": "infidelity",
+        "ipa": "/ˌɪnfɪˈdeləti/",
+        "pos": "n.",
+        "meaning": "（夫妻或伴侣间的）不忠行为，不贞",
+        "definition": "the act of not being faithful to your wife, husband or partner, by having sex with sb. else",
+        "zh": "（夫妻或伴侣间的）不忠行为，不贞"
+      },
+      {
+        "form": "Vineyard",
+        "ipa": "/ˈvɪnjəd/",
+        "pos": "n.",
+        "meaning": "（为酿酒而种植的）葡萄园",
+        "definition": "a piece of land where grapes are grown in order to produce wine",
+        "zh": "（为酿酒而种植的）葡萄园"
+      },
+      {
+        "form": "curated",
+        "ipa": "/kjʊəˈreɪt/",
+        "pos": "v.",
+        "meaning": "精心筛选，策划，整理",
+        "definition": "to collect, select and present information or items such as pictures, video, music, etc. for people to use or enjoy, using your professional or expert knowledge",
+        "zh": "精心筛选，策划，整理"
+      },
+      {
+        "form": "refined",
+        "ipa": "/rɪˈfaɪn/",
+        "pos": "v.",
+        "meaning": "改进，完善",
+        "definition": "to improve sth. by making small changes to it",
+        "zh": "改进，完善"
+      },
+      {
+        "form": "charcoal-gray",
+        "ipa": "/ˈtʃɑːkəʊl/",
+        "pos": "n.",
+        "meaning": "深灰色",
+        "definition": "a very dark grey colour",
+        "zh": "深灰色"
+      },
+      {
+        "form": "crisp",
+        "ipa": "/krɪsp/",
+        "pos": "adj.",
+        "meaning": "挺括整洁的，崭新平整的",
+        "definition": "(of paper or cloth) fresh and clean; new and slightly stiff without any folds in it",
+        "zh": "挺括整洁的，崭新平整的"
+      },
+      {
+        "form": "attire",
+        "ipa": "/əˈtaɪə(r)/",
+        "pos": "n.",
+        "meaning": "服装，衣着",
+        "definition": "(formal) clothes, especially fine or formal ones",
+        "zh": "服装，衣着"
+      },
+      {
+        "form": "distaste",
+        "ipa": "/dɪsˈteɪst/",
+        "pos": "n.",
+        "meaning": "厌恶，反感，不喜欢",
+        "definition": "a feeling that sb./sth. is unpleasant or offensive",
+        "zh": "厌恶，反感，不喜欢"
+      },
+      {
+        "form": "linen",
+        "ipa": "/ˈlɪnɪn/",
+        "pos": "n.",
+        "meaning": "亚麻布，亚麻织品",
+        "definition": "a type of cloth made from flax, used to make high-quality clothes, sheets, etc.",
+        "zh": "亚麻布，亚麻织品"
+      },
+      {
+        "form": "blazers",
+        "ipa": "/ˈbleɪzə(r)/",
+        "pos": "n.",
+        "meaning": "休闲西装外套，（学院/俱乐部款）单色外套",
+        "definition": "a jacket, not worn with matching trousers, often showing the colours or badge of a club, school, team, etc.",
+        "zh": "休闲西装外套，（学院/俱乐部款）单色外套"
+      },
+      {
+        "form": "fine-tuned",
+        "ipa": "/ˌfaɪn ˈtjuːn/",
+        "pos": "v.",
+        "meaning": "微调，精细调校，精心完善",
+        "definition": "to make very small changes to sth. so that it is as good as it can possibly be",
+        "zh": "微调，精细调校，精心完善"
+      },
+      {
+        "form": "glamorous",
+        "ipa": "/ˈɡlæmərəs/",
+        "pos": "adj.",
+        "meaning": "富有魅力的，迷人的，光鲜亮丽的",
+        "definition": "especially attractive and exciting, and different from ordinary things or people",
+        "zh": "富有魅力的，迷人的，光鲜亮丽的"
+      },
+      {
+        "form": "descendant",
+        "ipa": "/dɪˈsendənt/",
+        "pos": "n.",
+        "meaning": "后代，后裔，子孙",
+        "definition": "a person’s descendants are their children, their children’s children, and all the people who live after them who are related to them",
+        "zh": "后代，后裔，子孙"
+      },
+      {
+        "form": "mahogany",
+        "ipa": "/məˈhɒɡəni/",
+        "pos": "n.",
+        "meaning": "红木",
+        "definition": "the hard red-brown wood of a tropical tree, used for making furniture",
+        "zh": "红木"
+      },
+      {
+        "form": "recounts",
+        "ipa": "/rɪˈkaʊnt/",
+        "pos": "v.",
+        "meaning": "详细讲述，叙述，逐一描述",
+        "definition": "(formal) to tell sb. about sth., especially sth. that you have experienced",
+        "zh": "详细讲述，叙述，逐一描述"
+      },
+      {
+        "form": "tucking in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "把……塞进",
+        "definition": "If you tuck in a piece of material, you keep it in position by placing one edge or end of it behind or under sth. else. For example, if you tuck in your shirt, you place the bottom part of it inside your trousers or skirt.",
+        "zh": "把……塞进"
+      },
+      {
+        "form": "striped",
+        "ipa": "/straɪpt/",
+        "pos": "adj.",
+        "meaning": "有条纹的，带条纹的",
+        "definition": "marked with a pattern of stripes",
+        "zh": "有条纹的，带条纹的"
+      },
+      {
+        "form": "rarefied",
+        "ipa": "/ˈreərɪfaɪd/",
+        "pos": "adj.",
+        "meaning": "脱离现实生活的，曲高和寡的，高深莫测的",
+        "definition": "(often disapproving) understood or experienced by only a very small group of people who share a particular area of knowledge or activity",
+        "zh": "脱离现实生活的，曲高和寡的，高深莫测的"
+      },
+      {
+        "form": "poised",
+        "ipa": "/pɔɪzd/",
+        "pos": "adj.",
+        "meaning": "沉着自信的，镇定自若的，举止优雅得体的",
+        "definition": "having a calm and confident manner and in control of your feelings and behaviour",
+        "zh": "沉着自信的，镇定自若的，举止优雅得体的"
+      },
+      {
+        "form": "debauched",
+        "ipa": "/dɪˈbɔːtʃt/",
+        "pos": "adj.",
+        "meaning": "放荡的，荒淫的，道德败坏的",
+        "definition": "a debauched person is not moral in their sexual behaviour, drinks a lot of alcohol, takes drugs, etc.",
+        "zh": "放荡的，荒淫的，道德败坏的"
+      },
+      {
+        "form": "swoon",
+        "ipa": "/swuːn/",
+        "pos": "v.",
+        "meaning": "（因迷恋某人）痴迷，神魂颠倒，为之倾倒",
+        "definition": "to feel very excited, emotional, etc. about sb. that you think is sexually attractive",
+        "zh": "（因迷恋某人）痴迷，神魂颠倒，为之倾倒"
+      },
+      {
+        "form": "discernment",
+        "ipa": "/dɪˈsɜːnmənt/",
+        "pos": "n.",
+        "meaning": "洞察力，鉴赏力，判断力",
+        "definition": "(formal, approving) the ability to show good judgement about the quality of sb./sth.",
+        "zh": "洞察力，鉴赏力，判断力"
+      },
+      {
+        "form": "dead ends",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "死胡同，绝境，毫无进展的局面",
+        "definition": "a point at which you can make no further progress in what you are doing",
+        "zh": "死胡同，绝境，毫无进展的局面"
+      },
+      {
+        "form": "pervert",
+        "ipa": "/pəˈvɜːt/",
+        "pos": "v.",
+        "meaning": "使堕落，腐蚀，扭曲（思想、价值观）",
+        "definition": "to affect sb. in a way that makes them act or think in an unacceptable or immoral way",
+        "zh": "使堕落，腐蚀，扭曲（思想、价值观）"
+      },
+      {
+        "form": "discipline",
+        "ipa": "/ˈdɪsəplɪn/",
+        "pos": "v.",
+        "meaning": "训导，管教，训练（使其守规矩）",
+        "definition": "to train sb., especially a child, to obey particular rules and control the way they behave",
+        "zh": "训导，管教，训练（使其守规矩）"
+      },
+      {
+        "form": "civilize",
+        "ipa": "/ˈsɪvəlaɪz/",
+        "pos": "v.",
+        "meaning": "使文明，教化，使开化",
+        "definition": "to educate and improve a person or a society; to make sb.’s behaviour or manners better",
+        "zh": "使文明，教化，使开化"
+      },
+      {
+        "form": "sterilize",
+        "ipa": "/ˈsterəlaɪz/",
+        "pos": "v.",
+        "meaning": "杀菌，消毒，灭菌",
+        "definition": "to kill the bacteria in or on sth.",
+        "zh": "杀菌，消毒，灭菌"
+      },
+      {
+        "form": "appointed",
+        "ipa": "/əˈpɔɪntɪd/",
+        "pos": "adj.",
+        "meaning": "（房屋、房间）配备……的，装修……的，陈设……的",
+        "definition": "if buildings or rooms are appointed in a particular way, they have furniture and equipment of the stated standard",
+        "zh": "（房屋、房间）配备……的，装修……的，陈设……的"
+      },
+      {
+        "form": "haunts",
+        "ipa": "/hɔːnt/",
+        "pos": "v.",
+        "meaning": "（不愉快的事）萦绕心头，挥之不去，时常困扰",
+        "definition": "if sth. unpleasant haunts you, it keeps coming to your mind so that you cannot forget it",
+        "zh": "（不愉快的事）萦绕心头，挥之不去，时常困扰"
+      },
+      {
+        "form": "protagonists",
+        "ipa": "/prəˈtæɡənɪst/",
+        "pos": "n.",
+        "meaning": "主角，主人公，主要人物",
+        "definition": "(formal) the main character in a play, film or book",
+        "zh": "主角，主人公，主要人物"
+      },
+      {
+        "form": "expats",
+        "ipa": "/ˈekspæt/",
+        "pos": "n.",
+        "meaning": "外籍定居者",
+        "definition": "(informal, sometimes disapproving) a person living in a country that is not their own (a short form of expatriate)",
+        "zh": "外籍定居者"
+      },
+      {
+        "form": "boutique",
+        "ipa": "/buːˈtiːk/",
+        "pos": "adj.",
+        "meaning": "小型精品的，高端小众的，精致专属的",
+        "definition": "(of a business) small and offering products or services of a high quality to a small number of customers",
+        "zh": "小型精品的，高端小众的，精致专属的"
+      },
+      {
+        "form": "minute",
+        "ipa": "/maɪˈnjuːt/",
+        "pos": "adj.",
+        "meaning": "极其详细的，细致入微的，精密的",
+        "definition": "very detailed, careful and complete",
+        "zh": "极其详细的，细致入微的，精密的"
+      },
+      {
+        "form": "palette",
+        "ipa": "/ˈpælət/",
+        "pos": "n.",
+        "meaning": "调色板，（画家常用的）一套色彩，色调",
+        "definition": "(specialist) the colours used by a particular artist",
+        "zh": "调色板，（画家常用的）一套色彩，色调"
+      },
+      {
+        "form": "nuanced",
+        "ipa": "/ˈnjuːɑːnst/",
+        "pos": "adj.",
+        "meaning": "微妙的，有细微差别的，细腻的，层次丰富的",
+        "definition": "with very slight differences in meaning or expression",
+        "zh": "微妙的，有细微差别的，细腻的，层次丰富的"
+      },
+      {
+        "form": "gourmet",
+        "ipa": "/ˈɡʊəmeɪ/",
+        "pos": "adj.",
+        "meaning": "（食物、饮品等）高品质的，美味佳肴的",
+        "definition": "(of food, drink, etc.) of high quality and often expensive; connected with food or drink of this type",
+        "zh": "（食物、饮品等）高品质的，美味佳肴的"
+      },
+      {
+        "form": "airy",
+        "ipa": "/ˈeəri/",
+        "pos": "adj.",
+        "meaning": "通风良好的，宽敞明亮的，轻盈的",
+        "definition": "with plenty of fresh air because there is a lot of space",
+        "zh": "通风良好的，宽敞明亮的，轻盈的"
+      },
+      {
+        "form": "bay windows",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "飘窗",
+        "definition": "a large window, usually with glass on three sides, that sticks out from the outside wall of a house",
+        "zh": "飘窗"
+      },
+      {
+        "form": "plywood",
+        "ipa": "/ˈplaɪwʊd/",
+        "pos": "n.",
+        "meaning": "胶合板，夹板，多层板",
+        "definition": "board made by sticking thin layers of wood on top of each other",
+        "zh": "胶合板，夹板，多层板"
+      },
+      {
+        "form": "herringbone",
+        "ipa": "/ˈherɪŋbəʊn/",
+        "pos": "n.",
+        "meaning": "人字纹",
+        "definition": "a pattern used, for example, in cloth consisting of lines of V-shapes that are parallel to each other",
+        "zh": "人字纹"
+      },
+      {
+        "form": "parquet",
+        "ipa": "/ˈpɑːkeɪ/",
+        "pos": "n.",
+        "meaning": "镶木地板，拼花地板",
+        "definition": "a type of floor that consists of flat pieces of wood fixed together in a pattern",
+        "zh": "镶木地板，拼花地板"
+      },
+      {
+        "form": "sprinkled",
+        "ipa": "/ˈsprɪŋkl/",
+        "pos": "v.",
+        "meaning": "撒，洒",
+        "definition": "to shake small pieces of sth. or drops of a liquid on sth.",
+        "zh": "撒，洒"
+      },
+      {
+        "form": "sly",
+        "ipa": "/slaɪ/",
+        "pos": "adj.",
+        "meaning": "狡猾的，诡诈的，偷偷摸摸的，耍小聪明的",
+        "definition": "(disapproving) acting or done in a secret or dishonest way, often intending to trick people",
+        "zh": "狡猾的，诡诈的，偷偷摸摸的，耍小聪明的"
+      },
+      {
+        "form": "osmosis",
+        "ipa": "/ɒzˈməʊsɪs/",
+        "pos": "n.",
+        "meaning": "潜移默化",
+        "definition": "the process of gradually learning or being influenced by sth., as a result of being in close contact with it",
+        "zh": "潜移默化"
+      },
+      {
+        "form": "vinyl",
+        "ipa": "/ˈvaɪnl/",
+        "pos": "n.",
+        "meaning": "乙烯基塑料，人造革，黑胶唱片",
+        "definition": "a strong plastic that can bend easily, used for covering walls, floors and furniture, and for making book covers and, especially in the past, records",
+        "zh": "乙烯基塑料，人造革，黑胶唱片"
+      },
+      {
+        "form": "polyamory",
+        "ipa": "/ˌpɒliˈæməri/",
+        "pos": "n.",
+        "meaning": "多元亲密关系",
+        "definition": "the practice of engaging in multiple sexual relationships with the agreement of all the people involved",
+        "zh": "多元亲密关系"
+      },
+      {
+        "form": "provincial",
+        "ipa": "/prəˈvɪnʃl/",
+        "pos": "adj.",
+        "meaning": "地方性的，偏远的，守旧的，土气的",
+        "definition": "(sometimes disapproving) connected with the parts of a country that do not include the capital city, especially when these are regarded as lacking culture or modern ideas",
+        "zh": "地方性的，偏远的，守旧的，土气的"
+      },
+      {
+        "form": "nudges",
+        "ipa": "/nʌdʒ/",
+        "pos": "v.",
+        "meaning": "轻推，逐渐推动，巧妙引导",
+        "definition": "to push sb./sth. gently or gradually in a particular direction",
+        "zh": "轻推，逐渐推动，巧妙引导"
+      },
+      {
+        "form": "omnipresent",
+        "ipa": "/ˌɒmnɪˈpreznt/",
+        "pos": "adj.",
+        "meaning": "无所不在的，遍及各处的",
+        "definition": "(formal) present everywhere",
+        "zh": "无所不在的，遍及各处的"
+      },
+      {
+        "form": "novella",
+        "ipa": "/nəˈvelə/",
+        "pos": "n.",
+        "meaning": "中篇小说",
+        "definition": "a short novel",
+        "zh": "中篇小说"
+      },
+      {
+        "form": "fasting",
+        "ipa": "/fɑːst/",
+        "pos": "v.",
+        "meaning": "（因宗教或医疗）节制饮食",
+        "definition": "to eat little or no food for a period of time, especially for religious or medical reasons",
+        "zh": "（因宗教或医疗）节制饮食"
+      },
+      {
+        "form": "curtail",
+        "ipa": "/kɜːˈteɪl/",
+        "pos": "v.",
+        "meaning": "削减，缩减，限制",
+        "definition": "(formal) to limit sth. or make it last for a shorter time",
+        "zh": "削减，缩减，限制"
+      },
+      {
+        "form": "lucrative",
+        "ipa": "/ˈluːkrətɪv/",
+        "pos": "adj.",
+        "meaning": "获利丰厚的，赚钱的",
+        "definition": "producing a large amount of money; making a large profit",
+        "zh": "获利丰厚的，赚钱的"
+      },
+      {
+        "form": "lurid",
+        "ipa": "/ˈlʊərɪd/",
+        "pos": "adj.",
+        "meaning": "（故事、文章等）耸人听闻的，骇人听闻的",
+        "definition": "(especially of a story or piece of writing) presented in a way that is intended to shock",
+        "zh": "（故事、文章等）耸人听闻的，骇人听闻的"
+      },
+      {
+        "form": "succumbing",
+        "ipa": "/səˈkʌm/",
+        "pos": "v.",
+        "meaning": "屈服，屈从，抵挡不住",
+        "definition": "(formal) to not be able to fight an attack, a temptation, etc.",
+        "zh": "屈服，屈从，抵挡不住"
+      },
+      {
+        "form": "tawdry",
+        "ipa": "/ˈtɔːdri/",
+        "pos": "adj.",
+        "meaning": "低俗的，庸俗的，道德败坏的，令人反感的",
+        "definition": "(disapproving) involving low moral standards; extremely unpleasant or offensive",
+        "zh": "低俗的，庸俗的，道德败坏的，令人反感的"
+      },
+      {
+        "form": "rise to the occasion",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "迎难而上，在关键时刻展现出能力，应付自如",
+        "definition": "to show that you can deal with a difficult situation successfully",
+        "zh": "迎难而上，在关键时刻展现出能力，应付自如"
+      },
+      {
+        "form": "skin deep",
+        "ipa": "/ˌskɪn ˈdiːp/",
+        "pos": "adj.",
+        "meaning": "表面的，肤浅的，外表的，不深刻的",
+        "definition": "(of a feeling or an attitude) not as important or strongly felt as it appears to be",
+        "zh": "表面的，肤浅的，外表的，不深刻的"
+      },
+      {
+        "form": "mortification",
+        "ipa": "/ˌmɔːtɪfɪˈkeɪʃn/",
+        "pos": "n.",
+        "meaning": "极度羞愧，难堪，窘迫，屈辱感",
+        "definition": "a feeling of deep shame or embarrassment",
+        "zh": "极度羞愧，难堪，窘迫，屈辱感"
+      },
+      {
+        "form": "rally",
+        "ipa": "/ˈræli/",
+        "pos": "v.",
+        "meaning": "（病后、衰弱后）恢复健康，振作，好转，回升",
+        "definition": "to become healthier, stronger, etc. after a period of illness, weakness, etc.",
+        "zh": "（病后、衰弱后）恢复健康，振作，好转，回升"
+      },
+      {
+        "form": "faculties",
+        "ipa": "/ˈfæklti/",
+        "pos": "n.",
+        "meaning": "身体、心智机能，官能；（做某事的）特殊能力，才能",
+        "definition": "any of the physical or mental abilities that a person is born with",
+        "zh": "身体、心智机能，官能；（做某事的）特殊能力，才能"
+      },
+      {
+        "form": "gauche",
+        "ipa": "/ɡəʊʃ/",
+        "pos": "adj.",
+        "meaning": "不善社交的，举止笨拙的，不得体的",
+        "definition": "shy or uncomfortable when dealing with people and often saying or doing the wrong thing",
+        "zh": "不善社交的，举止笨拙的，不得体的"
+      },
+      {
+        "form": "discretion",
+        "ipa": "/dɪˈskreʃn/",
+        "pos": "n.",
+        "meaning": "谨慎，审慎，守口如瓶，言行得体",
+        "definition": "care in what you say or do, in order to keep sth. secret or to avoid causing difficulty for sb. or making them feel embarrassed; the quality of being discreet",
+        "zh": "谨慎，审慎，守口如瓶，言行得体"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "having a calm and confident manner and in control of your feelings and behaviour",
+      "(of food, drink, etc.) of high quality and often expensive; connected with food or drink of this type"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence“”I loved his clothes, the way he dressed for work,” Burden writes—”a navy or charcoal-gray suit, a crisp shirt, a tie with some color… the attire of a responsible and trustworthy man.””?",
+    "exerciseChoiceMarked": [
+      "crisp"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "He wore a panama hat and a crisp white suit.",
+        "marked": [
+          "crisp"
+        ],
+        "zh": "他戴着一顶巴拿马帽，穿着一套整洁的白色西装。"
+      },
+      {
+        "label": "B",
+        "text": "The air was crisp and clear and the sky was blue.",
+        "marked": [
+          "crisp"
+        ],
+        "zh": "空气清新而天空湛蓝。"
+      },
+      {
+        "label": "C",
+        "text": "The recording sounds very crisp, considering its age.",
+        "marked": [
+          "crisp"
+        ],
+        "zh": "考虑到它的年代，这个录音听起来非常清晰。"
+      },
+      {
+        "label": "D",
+        "text": "When fried, the bacon rind becomes crisp and brown.",
+        "marked": [
+          "crisp"
+        ],
+        "zh": "炸制时，培根的外皮会变得酥脆且呈棕色。"
+      }
+    ],
+    "exerciseTranslationPrompt": "如今培养品味，他日当聚光灯落在身上时，你便会拥有底线与准则。或许你会凭借自己的鉴赏力、分寸感与德行，从容应对考验。",
+    "answerVocabularyList": [
+      "poised",
+      "gourmet"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "If you cultivate taste today, then, later, when the spotlight finds you, you’ll have standards. Maybe you’ll draw on your experiences of discernment, propriety, and virtue as you rise to the occasion."
+  },
+  {
+    "key": "apr0415",
+    "date": "2026.04.15",
+    "period": "2026年4月",
+    "folder": "0415《华尔街日报》社论：谈判无果后特朗普为什么封锁海峡",
+    "titleZh": "《华尔街日报》社论：谈判无果后特朗普为什么封锁海峡",
+    "title": "Trump Blockades the Blockaders in Iran",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By The Editorial Board, The Wall Street Journal, Published April 12, 2026",
+    "paragraphs": [
+      "The regime made its nuclear intentions clear in 21-hour negotiations.",
+      "We’re a long way from Tuesday night’s declaration of victory over Iran, and the good news is President Trump seems to know it. On Saturday the U.S. team left foundering negotiations in Pakistan, and on Sunday Mr. Trump announced a naval blockade of the Strait of Hormuz for ships using Iranian ports. Iran has denied passage to most oil and gas tankers, and now the regime will get the same treatment. Iran’s failure to come to terms was predictable. Tehran took Mr. Trump’s eagerness for a cease-fire as a sign of desperation and confirmation that its energy strategy is a winner. The regime won’t even open the Strait amid the cease-fire, so there was little reason to think its leaders would abandon their decadeslong nuclear objectives and ideological core.",
+      "As Vice President JD Vance explained after marathon talks failed, “We need to see an affirmative commitment that they will not seek a nuclear weapon and they will not seek the tools that would enable them to quickly achieve a nuclear weapon.” The latter half is the key. No matter what Iran’s regime says, the only reason it needs domestic uranium enrichment capability is to pursue a bomb.",
+      "Mr. Trump summed up the talks on Sunday. “There is only one thing that matters,” he wrote on Truth Social. “IRAN IS UNWILLING TO GIVE UP ITS NUCLEAR AMBITIONS!”",
+      "The regime says the U.S. is asking too much, but Mr. Trump is right to stick to his terms on dismantling Iran’s nuclear program. During negotiations for Barack Obama’s 2015 nuclear deal, Iranian Foreign Minister Javad Zarif walked out and U.S. Secretary of State John Kerry ran after him. This dynamic was one reason the deal allowed enrichment, sunset its restrictions, and let Iran keep the infrastructure to reach weapons-grade when the regime wanted.",
+      "By walking away, Mr. Trump tells the regime not to expect a repeat. By having the more dovish Mr. Vance execute the walkout, the President also signals that Iran won’t be able to exploit divisions in his Administration. The regime complained about previous U.S. envoys and asked for Mr. Vance, but its real problem is Mr. Trump, the U.S. President who called Iran’s bluff.",
+      "We raised the blockade option in Saturday’s paper, and it makes sense as long as Mr. Trump is willing to accept the energy-market pain. “Iran will not be allowed to profit off this Illegal Act of EXTORTION,” the President wrote Sunday. Why should Iran alone be exempt from the costs of its illegal actions in Hormuz, raking in revenue while it starves the rest of the world? Even as the U.S. sought to pressure the regime, it was undercutting itself by encouraging Iranian oil exports. Iran now has an incentive to restore traffic in the Strait. As does China, whose tankers had been given priority. Rather than smuggle new air defenses to Iran, as U.S. intelligence suspects it is doing, let Beijing pressure the regime to resume oil shipments.",
+      "Mr. Trump says the Navy will even seize tankers that have paid a toll to make it out of the Gulf, another blow to China if the U.S. can execute it. With the help of allies, the President added, the Navy will also de-mine the Strait—important preparation for the ultimate goal of reopening Hormuz to all. Iran’s regime will have to take that threat more seriously.",
+      "The regime will also have to consider anew the possibility of U.S. air strikes to destroy its oil-export infrastructure at Kharg Island. This was unlikely while U.S. policy was to keep Iran’s oil flowing. Now it seems possible, especially if Mr. Trump finds the blockade too slow-moving a policy tool. Over weeks and months a blockade would strangle the regime’s revenue, but the President may want results at the negotiating table sooner. Any reduction in energy flows, even from the trickle Iran was allowing, will be felt by markets and U.S. allies, especially in Asia. Oil prices will spike if the blockade is enforced at any length. The President presumably knows this. He’s telling Iran’s leaders they nonetheless won’t win by playing the clock.",
+      "“Iran promised to open the Strait of Hormuz, and they knowingly failed to do so,” Mr. Trump wrote Sunday. He was played to get the cease-fire, and if oil won’t flow there’s no reason to ease pressure on the regime. Oil exports are a better target than Mr. Trump’s misguided threats last week to destroy Iranian “civilization” or all of its power plants.",
+      "As the President said in his first term, the U.S. shouldn’t start a war it doesn’t intend to win. His challenge now is to prove to Iran’s regime he meant what he said."
+    ],
+    "paragraphTranslations": [
+      "该政权在21小时的谈判中明确表示了他们的核计划意图。",
+      "我们距离实现周二晚上的胜利宣言还有很长的路要走。好消息是，特朗普总统似乎也意识到了这一点。周六，美国团队在巴基斯坦的谈判中失败了，而周日，特朗普宣布对霍尔木兹海峡实施海上封锁，禁止使用伊朗港口的船只通行。伊朗已经拒绝让大多数石油和天然气运输船通过，现在该政权也将面临同样的对待方式。伊朗未能达成协议是预料之中的事。德黑兰将特朗普对停火的渴望视为绝望的迹象，并认为这证明了其能源战略是成功的。即便在停火期间，该政权也不会开放霍尔木兹海峡，因此几乎没有理由认为其领导人会放弃他们几十年来一直追求的核目标以及意识形态核心。",
+      "正如副总统JD·万斯在马拉松式谈判失败后所解释的那样：“我们需要看到一种明确的承诺，即伊朗不会寻求核武器，也不会寻求能够帮助他们快速获得核武器的工具。”后半句是关键。无论伊朗政权怎么说，他们拥有国内铀浓缩能力的原因仅仅是为了制造炸弹。",
+      "特朗普先生在周日总结了这些谈话的内容。他在“真相社交”平台上写道：“只有一件事才是最重要的——伊朗并不愿意放弃其核计划！”",
+      "该政权声称美国的要求过高，但特朗普先生坚持履行其关于拆除伊朗核计划的承诺是正确的。在2015年巴拉克·奥巴马签署的核协议谈判期间，伊朗外长贾瓦德·扎里夫突然退出谈判，而美国国务卿约翰·克里则追了上去。这种局面正是该协议允许伊朗继续保留用于制造武器的核设施的原因。",
+      "通过选择退出，特朗普先生向伊朗政权表明，不要期望会出现类似的情况。通过让较为温和的万斯先生执行这一决定，总统还表明，伊朗将无法利用美国政府的内部分歧来谋取利益。伊朗政权之前曾抱怨过美国前特使，并请求更换万斯先生，但他们的真正问题在于特朗普先生——这位美国总统已经证明了伊朗的威胁是虚假的。",
+      "我们在周六的报纸上提出了解除封锁的选项，只要特朗普先生愿意接受能源市场的损失，这个方案就是合理的。总统在周日写道：“伊朗不会被允许从这种非法行为中获利。”为什么只有伊朗可以免于承担其在霍尔木兹地区的非法行为的后果，同时还能从全球其他地区的贫困中获利呢？即使美国试图对伊朗政权施加压力，但美国却通过鼓励伊朗的石油出口来削弱自己的实力。现在，伊朗有动机恢复海峡的航运秩序。中国也是如此，中国的油轮一直享有优先运输权。与其像美国情报机构所怀疑的那样向伊朗走私新的防空系统，不如让北京方面施加压力，促使伊朗恢复石油运输。",
+      "特朗普先生表示，美国海军甚至会扣押那些试图逃出海湾的油轮，如果美国能够做到这一点，这对中国来说将是一个新的打击。总统还补充说，在盟友的帮助下，美国海军还将清理霍尔木兹海峡——这是实现最终目标、重新开放霍尔木兹海峡的关键步骤。伊朗政权必须更加重视这一威胁。",
+      "该政权还必须重新考虑美国发动空袭以摧毁伊朗在哈里吉岛的石油出口基础设施的可能性。在美方的政策旨在确保伊朗的石油供应不受影响的情况下，这种可能性原本并不大。但现在，这种可能性似乎变得现实了，尤其是如果特朗普认为封锁政策过于缓慢的话。在数周或数月的时间里，封锁措施将严重打击该政权的收入，但总统可能希望能在谈判桌上更快地看到成果。任何减少能源供应的措施，即使是伊朗目前所允许的少量供应，都会对市场和美国的盟友产生影响，尤其是在亚洲地区。如果封锁措施得以实施，石油价格将会急剧上涨。总统显然已经意识到这一点。他正在告诉伊朗领导人，他们不会通过拖延战术来赢得任何好处。",
+      "“伊朗承诺开放霍尔木兹海峡，但他们故意没有实现这一承诺，”特朗普在周日写道。他被误导去接受停火协议，而如果石油无法在该地区流动，那么就没有理由减轻对伊朗政权的压力。石油出口是一个更好的目标，而不是特朗普上周那些试图摧毁伊朗“文明”或所有石油设施的误导性威胁。",
+      "正如总统在第一次任期中所说的，美国不应发动一场自己并不打算获胜的战争。他现在的挑战是向伊朗政权证明，他的话是认真的。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Blockades",
+        "ipa": "/blɒˈkeɪd/",
+        "pos": "v.",
+        "meaning": "封锁，阻断，封禁；n. 封禁的行为",
+        "definition": "to surround a place and prevent goods from entering or leaving, either during a war or as a protest",
+        "zh": "封锁，阻断，封禁；n. 封禁的行为"
+      },
+      {
+        "form": "foundering",
+        "ipa": "/ˈfaʊndə(r)/",
+        "pos": "v.",
+        "meaning": "失败，受挫，陷入困境",
+        "definition": "(formal) to fail after a period of time because sth. has gone wrong",
+        "zh": "失败，受挫，陷入困境"
+      },
+      {
+        "form": "naval",
+        "ipa": "/ˈneɪvəl/",
+        "pos": "adj.",
+        "meaning": "海军的，海上的",
+        "definition": "relating to the navy or used by the navy",
+        "zh": "海军的，海上的"
+      },
+      {
+        "form": "Strait",
+        "ipa": "/streɪt/",
+        "pos": "n.",
+        "meaning": "海峡，水道",
+        "definition": "a narrow passage of water between two areas of land, usually connecting two seas",
+        "zh": "海峡，水道"
+      },
+      {
+        "form": "ports",
+        "ipa": "/pɔːt/",
+        "pos": "n.",
+        "meaning": "港口，口岸",
+        "definition": "a place where ships can be loaded and unloaded",
+        "zh": "港口，口岸"
+      },
+      {
+        "form": "come to terms",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "和解",
+        "definition": "to reach an agreement with sb.; to find a way of living or working together",
+        "zh": "和解"
+      },
+      {
+        "form": "eagerness",
+        "ipa": "/ˈiːɡənəs/",
+        "pos": "n.",
+        "meaning": "急切，热切，渴望",
+        "definition": "a strong wish to do or have sth.",
+        "zh": "急切，热切，渴望"
+      },
+      {
+        "form": "confirmation",
+        "ipa": "/ˌkɒnfəˈmeɪʃən/",
+        "pos": "n.",
+        "meaning": "确认，证实，证明",
+        "definition": "a statement, document, etc. that says that sth. is definitely true",
+        "zh": "确认，证实，证明"
+      },
+      {
+        "form": "marathon",
+        "ipa": "/ˈmærəθən/",
+        "pos": "adj.",
+        "meaning": "马拉松式的，旷日持久的，需要大量耐心的",
+        "definition": "a marathon event continues for a long time and needs a lot of energy, patience, or determination",
+        "zh": "马拉松式的，旷日持久的，需要大量耐心的"
+      },
+      {
+        "form": "affirmative",
+        "ipa": "/əˈfɜːmətɪv/",
+        "pos": "adj.",
+        "meaning": "明确表示同意的，肯定的，正面的",
+        "definition": "an affirmative answer or action means ‘yes’ or shows agreement",
+        "zh": "明确表示同意的，肯定的，正面的"
+      },
+      {
+        "form": "uranium",
+        "ipa": "/jʊˈreɪniəm/",
+        "pos": "n.",
+        "meaning": "铀",
+        "definition": "a heavy white metal that is radioactive and is used to produce nuclear power and nuclear weapons. It is a chemical element: symbol U",
+        "zh": "铀"
+      },
+      {
+        "form": "stick to his terms",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "坚持于，执着于某物",
+        "definition": "to do or keep doing what you said you would do or what you believe in, even when it is difficult",
+        "zh": "坚持于，执着于某物"
+      },
+      {
+        "form": "dismantling",
+        "ipa": "/dɪsˈmæntl/",
+        "pos": "v.",
+        "meaning": "拆除，拆解，废除",
+        "definition": "to take a machine or piece of equipment apart so that it is in separate pieces",
+        "zh": "拆除，拆解，废除"
+      },
+      {
+        "form": "enrichment",
+        "ipa": "/ɪnˈrɪtʃmənt/",
+        "pos": "n.",
+        "meaning": "浓缩，增浓",
+        "definition": "the process of improving the quality of sth., especially by adding things to it",
+        "zh": "浓缩，增浓"
+      },
+      {
+        "form": "sunset",
+        "ipa": "/ˈsʌnset/",
+        "pos": "v.",
+        "meaning": "（法律）失效，终止",
+        "definition": "(of a law or the effect of a law) to end or to end sth. after a fixed period of time",
+        "zh": "（法律）失效，终止"
+      },
+      {
+        "form": "dovish",
+        "ipa": "/ˈdʌvɪʃ/",
+        "pos": "adj.",
+        "meaning": "温和的，鸽派的",
+        "definition": "preferring peace and discussion to war",
+        "zh": "温和的，鸽派的"
+      },
+      {
+        "form": "exploit",
+        "ipa": "/ɪkˈsplɔɪt/",
+        "pos": "v.",
+        "meaning": "利用，借机获利",
+        "definition": "to try to get as much as you can out of a situation, sometimes unfairly",
+        "zh": "利用，借机获利"
+      },
+      {
+        "form": "called Iran’s bluff",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "戳穿某人的虚张声势",
+        "definition": "to tell sb. to do what they have threatened because you do not believe that they will really do it",
+        "zh": "戳穿某人的虚张声势"
+      },
+      {
+        "form": "extortion",
+        "ipa": "/ɪkˈstɔːʃən/",
+        "pos": "n.",
+        "meaning": "敲诈，勒索",
+        "definition": "the act of illegally forcing sb. to give you sth., especially money, by threatening them",
+        "zh": "敲诈，勒索"
+      },
+      {
+        "form": "exempt",
+        "ipa": "/ɪɡˈzempt/",
+        "pos": "adj.",
+        "meaning": "被豁免的，免除的",
+        "definition": "not affected by sth., or not having to do it or pay it",
+        "zh": "被豁免的，免除的"
+      },
+      {
+        "form": "raking in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "轻易赚大钱，大发其财，狂赚",
+        "definition": "(informal) to earn a lot of money, especially when it is done easily",
+        "zh": "轻易赚大钱，大发其财，狂赚"
+      },
+      {
+        "form": "undercutting",
+        "ipa": "/ˌʌndəˈkʌt/",
+        "pos": "v.",
+        "meaning": "削弱，抵消，使……更无效",
+        "definition": "to make sth. weaker or less effective",
+        "zh": "削弱，抵消，使……更无效"
+      },
+      {
+        "form": "incentive",
+        "ipa": "/ɪnˈsentɪv/",
+        "pos": "n.",
+        "meaning": "动机，诱因",
+        "definition": "sth. that encourages you to do sth.",
+        "zh": "动机，诱因"
+      },
+      {
+        "form": "restore",
+        "ipa": "/rɪˈstɔː/",
+        "pos": "v.",
+        "meaning": "恢复，使复原",
+        "definition": "to bring back a situation or feeling that existed before",
+        "zh": "恢复，使复原"
+      },
+      {
+        "form": "smuggle",
+        "ipa": "/ˈsmʌɡl/",
+        "pos": "v.",
+        "meaning": "走私，偷运",
+        "definition": "to take, send or bring goods or people secretly and illegally into or out of a country, etc.",
+        "zh": "走私，偷运"
+      },
+      {
+        "form": "toll",
+        "ipa": "/təʊl/",
+        "pos": "n.",
+        "meaning": "通行费，过路费",
+        "definition": "money that you pay to use a particular road or bridge",
+        "zh": "通行费，过路费"
+      },
+      {
+        "form": "strangle",
+        "ipa": "/ˈstræŋɡl/",
+        "pos": "v.",
+        "meaning": "扼杀，压制",
+        "definition": "to prevent sth. from growing or developing",
+        "zh": "扼杀，压制"
+      },
+      {
+        "form": "trickle",
+        "ipa": "/ˈtrɪkl/",
+        "pos": "n.",
+        "meaning": "少量，微量",
+        "definition": "a small amount or number of sth., coming or going slowly",
+        "zh": "少量，微量"
+      },
+      {
+        "form": "spike",
+        "ipa": "/spaɪk/",
+        "pos": "v.",
+        "meaning": "激增，飙升",
+        "definition": "to rise quickly and reach a high value",
+        "zh": "激增，飙升"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to surround a place and prevent goods from entering or leaving, either during a war or as a protest",
+      "the act of illegally forcing sb. to give you sth., especially money, by threatening them"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Even as the U.S. sought to pressure the regime, it was undercutting itself by encouraging Iranian oil exports.”?",
+    "exerciseChoiceMarked": [
+      "undercutting"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The new supermarket chain managed to undercut its local competitors by offering deep discounts on dairy products.",
+        "marked": [
+          "undercut"
+        ],
+        "zh": "这家新的超市连锁店通过提供大幅折扣的乳制品，成功地在本地竞争对手中占据了优势。"
+      },
+      {
+        "label": "B",
+        "text": "High levels of inflation began to undercut the public’s confidence in the government’s economic recovery plan.",
+        "marked": [
+          "undercut"
+        ],
+        "zh": "高企的通胀水平开始削弱公众对政府经济复苏计划的信心。"
+      },
+      {
+        "label": "C",
+        "text": "During the excavation, the workers were careful not to undercut the foundation of the neighboring building.",
+        "marked": [
+          "undercut"
+        ],
+        "zh": "在挖掘过程中，工人们非常小心，避免破坏邻近建筑物的地基。"
+      },
+      {
+        "label": "D",
+        "text": "The barber used a trimmer to undercut the hair at the back of his neck, leaving the top much longer.",
+        "marked": [
+          "undercut"
+        ],
+        "zh": "理发师使用修剪器将脖子后面的头发剪短，而头部的头发则保持较长。"
+      }
+    ],
+    "exerciseTranslationPrompt": "在数周乃至数月的时间里，封锁将逐步扼住该政权的收入来源，但总统可能希望更早在谈判桌上看到结果。",
+    "answerVocabularyList": [
+      "blockade",
+      "extortion"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Over weeks and months a blockade would strangle the regime’s revenue, but the President may want results at the negotiating table sooner."
   },
   {
     "key": "apr0416",
@@ -2931,6 +4357,384 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "apr0424",
+    "date": "2026.04.24",
+    "period": "2026年4月",
+    "folder": "0424不止大脑：如何让身体帮助我们更好地思考？",
+    "titleZh": "不止大脑：如何让身体帮助我们更好地思考？ 1",
+    "title": "How to Think Outside Your Brain",
+    "topicEn": "Psychology",
+    "topicZh": "心理",
+    "byline": "By Annie Murphy Paul, The New York Times, Published June 11, 2021",
+    "paragraphs": [
+      "Years ago, when I was in college, I visited the dorm room of a fellow student I was dating. On the wall above his desk he had posted a handwritten sign.“Just do it,”it read, in blocky letters. Nike’s slogan was intended to capture an attitude toward athletic endeavors, but this undergrad was applying it to mental exertions. I pictured him sitting at his desk, working hour after hour on his German verb conjugations or econ problem sets. At some point he would become restless, lose focus—then look up at his sign, set his jaw and turn back to his studies, determined to crush them like a 100-meter dash.",
+      "My classmate back then was doing exactly what our culture commands when we are faced with challenging cognitive tasks: Buckle down, apply more effort, work the brain ever harder. This, we’re told, is how we get good at thinking. The message comes at us from multiple directions. Psychology promotes a tireless kind of grit as the quality essential to optimal performance; the growth mind-set advises us to imagine the brain as a muscle and to believe that exercising it vigorously will make it stronger. Popular science accounts of the brain extol its power and plasticity, calling it astonishing, extraordinary, unfathomably complex. This impressive organ, we’re led to understand, can more than meet any demands we might make of it.",
+      "In the 25 years since I graduated from college, such demands have relentlesslyratcheted up. The quantity and complexity of the mental work expected of successful students and professionals have mounted; we’ve responded by pushing ever harder on that lump of gray matter in our heads.",
+      "The result has not been a gratifyingbulking up of our neural “muscle.” On the contrary, all the mental effort we’ve mustered over the past year has left many of us feeling depleted and distracted, unequal to the tasks that never stop arriving in our inboxes. When the work we’re putting in doesn’t produce the advertised rewards, we’re inclined to find fault with ourselves. Maybe we’re insufficiently gritty; maybe, we think, we’re just not smart enough. But this interpretation is incorrect. What we’re coming up against are universal limits, constraints on the biological brain that are shared by every human on the planet. Despite the hype, our mental endowment is not boundlessly powerful or endlessly plastic. The brain has firm limits—on its ability to remember, its capacity to pay attention, its facility with abstract and nonintuitive concepts—and the culture we have created for ourselves now regularly exceeds these limits.",
+      "Fortunately, there is an alternative. It entails inducing the brain to play a different role: less workhorse, more orchestra conductor. Instead of doing so much in our heads, we can seek out ways to shift mental work onto the world around us and to supplement our limited neural resources with extraneural ones. These platforms for offloading, these resources for supplementation, are readily available and close at hand. They fall into four categories, the first and most obvious being our tools. Technology is designed to fulfill just this function— who remembers telephone numbers anymore, now that our smartphones can supply them?—and we’re accustomed to using our devices to both unburden the mind and augment its capacity.",
+      "But there are other resources, perhaps even more powerful, that we often overlook. For example, our bodies.",
+      "The burgeoning field of embodied cognition has demonstrated that the body—its sensations, gestures and movements—plays an integral role in the thought processes that we usually locate above the neck. The body is especially adept at alerting us to patterns of events and experience, patterns that are too complex to be held in the conscious mind. When a scenario we encountered before crops up again, the body gives us a nudge: communicating with a shiver or a sigh, a quickening of the breath or a tensing of the muscles. Those who are attuned to such cues can use them to make more-informed decisions. A study led by a team of economists and neuroscientists in Britain, for instance, reported that financial traders who were better at detecting their heartbeats—a standard test of what is known as interoception, or the ability to perceive internal signals— made more profitable investments and lasted longer in that notoriouslyvolatile profession.",
+      "The body is also uniquely capable of grounding abstract concepts in the concrete terms that the brain understands best. Abstract concepts are the order of the day in physics class; conventional modes of instruction, like lectures and textbooks, often fail to convey them effectively. Some studies in the field of physics education found that students’ understanding of the subject is less accurate after an introductory college physics course. What makes a difference is offering students a bodily experience of the topic they’re learning about. They might encounter torque, for example, by holding an axle on which two bicycle wheels have been mounted. When the wheels are spun and the axle is tilted from horizontal to vertical, the student handling it feels the resistive force that causes objects to rotate. Such exposures produce a deeper level of comprehension, psychological research has found, leading to higher test scores, especially on more challenging theoretical questions."
+    ],
+    "paragraphTranslations": [
+      "许多年前，当我还在大学时，我拜访了与我交往的一位同学的宿舍。在他的书桌上方的墙上，他贴了一句话，是用手写体写的。“放手去做吧”，用粗体字写着。耐克的口号原本是用来表达对待体育活动的态度，但这位大学生却将其应用于精神层面的努力。我想象着他坐在书桌前，一小时又一小时地研究德语动词变形或经济问题。在某个时刻，他会变得焦躁不安，失去专注力——然后抬头看向那句话，咬紧牙关，继续投入学习，决心要像参加100米短跑一样，全力以赴。",
+      "当时的同学在做需要高度思维的挑战性任务时，确实遵循了我们文化所倡导的做法：全力以赴、更加努力地工作，不断锻炼自己的大脑。我们被告知，这就是如何变得善于思考的方法。这种观念从多个方向传递给我们。心理学推崇一种不懈努力的精神，认为这是取得最佳表现的关键；成长型思维则教导我们将大脑视为一种“肌肉”，并相信通过积极锻炼，大脑会变得更强大。科普文章对大脑的力量和可塑性进行了赞美，称其令人惊叹、非凡且复杂得难以理解。我们被引导去理解，这个令人印象深刻的器官能够满足我们可能提出的所有要求。",
+      "自从我大学毕业以来的25年里，这种要求一直在不断加剧。成功的学生和专业人士需要完成的脑力劳动量及其复杂性都增加了；作为回应，我们不断努力，以完成那些位于我们头脑中的“灰色物质”任务。",
+      "结果并没有像我们预期的那样，让我们的大脑能力得到提升。相反，过去一年里我们所付出的所有精神努力，让许多人感到疲惫和注意力不集中，根本无法应对那些不断出现在我们邮箱中的任务。当我们付出的努力并没有带来预期的效果时，我们往往会自责不已。也许我们认为自己不够努力；或者，我们只是觉得自己不够聪明。但这样的解释是不正确的。我们面对的是一些普遍的局限性，这些局限性是生物大脑所面临的限制，而每个人类成员都面临着这些限制。尽管有各种宣传，我们的大脑的能力并不是无限强大的，也不是可以无限改变的。大脑在记忆能力、注意力集中能力以及处理抽象和非直观概念的能力方面都有明确的限制，而我们创造出来的文化，实际上已经超出了这些限制。",
+      "幸运的是，还有另一种选择。这种选择是让大脑扮演不同的角色——不再那么“勤奋地工作”，而是更像“乐团指挥”。我们不必在脑海中做太多事情，而是可以寻找方法，将脑力劳动转移到周围的世界中，并用外部资源来补充我们有限的神经资源。这些能够减轻负担、能够补充资源的手段，其实都是现成且易于获取的。它们可以分为四类，第一类也是最显而易见的，就是我们所使用的工具。技术正是为了满足这一功能而设计的——既然智能手机可以为我们提供电话号码，我们还有谁还会记得电话号码呢？——而且我们早已习惯于使用这些设备，既减轻大脑的负担，又增强其能力。",
+      "但还有其他资源，或许甚至更强大，只是我们常常忽略了它们。例如，我们的身体。",
+      "随着“具身认知”这一领域的不断发展，人们已经认识到：身体——包括其感觉、手势和动作——在我们通常认为属于“意识层面”的思维过程中，起着不可或缺的作用。身体特别擅长提醒我们各种事件和经历的模式，这些模式过于复杂，无法被意识所把握。当之前遇到的情况再次出现时，身体会给我们一个提示：通过身体的颤抖、叹息、呼吸的急促或肌肉的紧张来传达这些信息。那些能够感知到这些信号的人，就可以利用这些信号来做出更明智的决策。例如，一项由英国经济学家和神经科学家团队进行的研究表明，那些更擅长感知自己心跳的金融交易者，能够做出更盈利的投资，并且在这个风险极高的职业中能够持续更长时间。",
+      "人体还特别能够将抽象概念转化为大脑最容易理解的具体形式。在物理课上学的是抽象概念；传统的教学方式，如讲座和教科书，往往无法有效地传达这些概念。一些关于物理教育的研究发现，学生在完成大学物理入门课程后，对物理概念的理解会有所降低。关键在于让学生通过身体体验来学习这些概念。例如，通过握住一个轴上装有两个自行车轮来让学生体验扭矩。当车轮旋转且轴从水平位置倾斜到垂直位置时，学生会感受到导致物体旋转的阻力。心理学研究发现，这种体验能够提升理解深度，从而提高考试成绩，尤其是在解决更具挑战性的理论问题时。"
+    ],
+    "vocabulary": [
+      {
+        "form": "blocky",
+        "ipa": "/ˈblɒki/",
+        "pos": "adj.",
+        "meaning": "方形的，笔画方正的",
+        "definition": "square or rectangular in shape",
+        "zh": "方形的，笔画方正的"
+      },
+      {
+        "form": "capture",
+        "ipa": "/ˈkæptʃə(r)/",
+        "pos": "v.",
+        "meaning": "精准刻画，贴切传达",
+        "definition": "to succeed in accurately expressing a feeling, an atmosphere, etc. in a picture, piece of writing, film, etc.",
+        "zh": "精准刻画，贴切传达"
+      },
+      {
+        "form": "endeavors",
+        "ipa": "/ɪnˈdevə(r)/",
+        "pos": "n.",
+        "meaning": "努力，尝试",
+        "definition": "(formal) an attempt to do sth., especially sth. new or difficult",
+        "zh": "努力，尝试"
+      },
+      {
+        "form": "undergrad",
+        "ipa": "/ˈʌndəɡræd/",
+        "pos": "n.",
+        "meaning": "本科生",
+        "definition": "(informal) a university or college student who is studying for their first degree",
+        "zh": "本科生"
+      },
+      {
+        "form": "exertions",
+        "ipa": "/ɪɡˈzɜːʃn/",
+        "pos": "n.",
+        "meaning": "努力，辛劳，付出",
+        "definition": "physical or mental effort; the act of making an effort",
+        "zh": "努力，辛劳，付出"
+      },
+      {
+        "form": "conjugations",
+        "ipa": "/ˌkɒndʒuˈɡeɪʃn/",
+        "pos": "n.",
+        "meaning": "动词变位",
+        "definition": "(grammar) the complete set of the inflections of a given verb",
+        "zh": "动词变位"
+      },
+      {
+        "form": "dash",
+        "ipa": "/dæʃ/",
+        "pos": "n.",
+        "meaning": "冲刺赛跑，短跑",
+        "definition": "a race in which the people taking part run very fast over a short distance",
+        "zh": "冲刺赛跑，短跑"
+      },
+      {
+        "form": "Buckle down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "认真着手做，埋头苦干，踏实用功",
+        "definition": "(informal) to start to do sth. seriously",
+        "zh": "认真着手做，埋头苦干，踏实用功"
+      },
+      {
+        "form": "grit",
+        "ipa": "/ɡrɪt/",
+        "pos": "n.",
+        "meaning": "坚毅，勇气，韧劲",
+        "definition": "the courage and strength of mind that makes it possible for sb. to continue doing sth. difficult or unpleasant",
+        "zh": "坚毅，勇气，韧劲"
+      },
+      {
+        "form": "vigorously",
+        "ipa": "/ˈvɪɡərəsli/",
+        "pos": "adv.",
+        "meaning": "精力充沛地，坚决有力地",
+        "definition": "in a way that is very active, determined or full of energy",
+        "zh": "精力充沛地，坚决有力地"
+      },
+      {
+        "form": "extol",
+        "ipa": "/ɪkˈstəʊl/",
+        "pos": "v.",
+        "meaning": "高度赞扬，颂扬，称颂",
+        "definition": "(formal) to praise sb./sth. very much",
+        "zh": "高度赞扬，颂扬，称颂"
+      },
+      {
+        "form": "plasticity",
+        "ipa": "/plæˈstɪsəti/",
+        "pos": "n.",
+        "meaning": "可塑性",
+        "definition": "(specialist) the quality of being easily made into different shapes",
+        "zh": "可塑性"
+      },
+      {
+        "form": "unfathomably",
+        "ipa": "/ʌnˈfæðəməbl/",
+        "pos": "adj.",
+        "meaning": "难以理解的，深奥莫测的，无法看透的",
+        "definition": "(formal) too strange or difficult to be understood",
+        "zh": "难以理解的，深奥莫测的，无法看透的"
+      },
+      {
+        "form": "relentlessly",
+        "ipa": "/rɪˈlentləsli/",
+        "pos": "adv.",
+        "meaning": "不间断地，持续强烈地，毫不松懈地",
+        "definition": "in a way that continues strongly, without stopping, giving up or getting less strong",
+        "zh": "不间断地，持续强烈地，毫不松懈地"
+      },
+      {
+        "form": "ratcheted up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "逐级加剧，不断抬高",
+        "definition": "to increase, or make sth. increase, repeatedly and by small amounts",
+        "zh": "逐级加剧，不断抬高"
+      },
+      {
+        "form": "mounted",
+        "ipa": "/maʊnt/",
+        "pos": "v.",
+        "meaning": "逐步加剧，持续上升，不断增强",
+        "definition": "to increase gradually",
+        "zh": "逐步加剧，持续上升，不断增强"
+      },
+      {
+        "form": "gratifying",
+        "ipa": "/ˈɡrætɪfaɪɪŋ/",
+        "pos": "adj.",
+        "meaning": "令人愉悦的，令人满足的，可喜的",
+        "definition": "(formal) giving pleasure and making you feel satisfied",
+        "zh": "令人愉悦的，令人满足的，可喜的"
+      },
+      {
+        "form": "bulking up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "扩大，扩充，使变庞大、增厚、增重",
+        "definition": "to make sth. bigger, thicker or heavier",
+        "zh": "扩大，扩充，使变庞大、增厚、增重"
+      },
+      {
+        "form": "mustered",
+        "ipa": "/ˈmʌstə(r)/",
+        "pos": "v.",
+        "meaning": "寻求，聚集（支持、勇气等）",
+        "definition": "to find as much support, courage, etc. as you can",
+        "zh": "寻求，聚集（支持、勇气等）"
+      },
+      {
+        "form": "depleted",
+        "ipa": "/dɪˈpliːt/",
+        "pos": "v.",
+        "meaning": "大量消耗，使枯竭，耗尽",
+        "definition": "(formal) to reduce sth. by a large amount so that there is not enough left; to be reduced by a large amount",
+        "zh": "大量消耗，使枯竭，耗尽"
+      },
+      {
+        "form": "hype",
+        "ipa": "/haɪp/",
+        "pos": "n.",
+        "meaning": "大肆宣传，炒作",
+        "definition": "(informal, disapproving) advertisements and discussion in the media telling the public about a product and about how good or important it is",
+        "zh": "大肆宣传，炒作"
+      },
+      {
+        "form": "endowment",
+        "ipa": "/ɪnˈdaʊmənt/",
+        "pos": "n.",
+        "meaning": "与生俱来的特质、才能",
+        "definition": "(formal) a quality or an ability that you are born with",
+        "zh": "与生俱来的特质、才能"
+      },
+      {
+        "form": "facility",
+        "ipa": "/fəˈsɪləti/",
+        "pos": "n.",
+        "meaning": "天赋，天资，天生的才能",
+        "definition": "a natural ability to learn or do sth. easily",
+        "zh": "天赋，天资，天生的才能"
+      },
+      {
+        "form": "entails",
+        "ipa": "/ɪnˈteɪl/",
+        "pos": "v.",
+        "meaning": "必然牵涉，需要，势必带来",
+        "definition": "to involve sth. that cannot be avoided",
+        "zh": "必然牵涉，需要，势必带来"
+      },
+      {
+        "form": "close at hand",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "近在咫尺，就在附近，随手可及",
+        "definition": "near; in a place where sb./sth. can be reached easily",
+        "zh": "近在咫尺，就在附近，随手可及"
+      },
+      {
+        "form": "augment",
+        "ipa": "/ɔːɡˈment/",
+        "pos": "v.",
+        "meaning": "增加，扩充，提高（数量、规模、价值等）",
+        "definition": "(formal) to increase the amount, value, size, etc. of sth.",
+        "zh": "增加，扩充，提高（数量、规模、价值等）"
+      },
+      {
+        "form": "burgeoning",
+        "ipa": "/ˈbɜːdʒənɪŋ/",
+        "pos": "adj.",
+        "meaning": "迅速发展的，蓬勃兴起的，激增的",
+        "definition": "(formal) beginning to grow or develop rapidly",
+        "zh": "迅速发展的，蓬勃兴起的，激增的"
+      },
+      {
+        "form": "adept",
+        "ipa": "/əˈdept/",
+        "pos": "adj.",
+        "meaning": "擅长的，熟练的，精通的",
+        "definition": "good at doing sth. that is quite difficult",
+        "zh": "擅长的，熟练的，精通的"
+      },
+      {
+        "form": "crops up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "（意外、突然）出现，冒出，突然发生",
+        "definition": "to appear or happen, especially when it is not expected",
+        "zh": "（意外、突然）出现，冒出，突然发生"
+      },
+      {
+        "form": "nudge",
+        "ipa": "/nʌdʒ/",
+        "pos": "n.",
+        "meaning": "（用肘部）轻推、轻碰",
+        "definition": "a slight push, usually with the elbow",
+        "zh": "（用肘部）轻推、轻碰"
+      },
+      {
+        "form": "attuned",
+        "ipa": "/əˈtjuːnd/",
+        "pos": "adj.",
+        "meaning": "适应的，熟知的，敏锐感知的，善于体察的",
+        "definition": "familiar with sb./sth. so that you can understand or recognize them or it and act in an appropriate way",
+        "zh": "适应的，熟知的，敏锐感知的，善于体察的"
+      },
+      {
+        "form": "interoception",
+        "ipa": "/ˌɪntərəˈsepʃn/",
+        "pos": "n.",
+        "meaning": "内感受",
+        "definition": "the feeling of knowing what is happening in your body, for example if you are hungry, thirsty, warm, cold, etc.",
+        "zh": "内感受"
+      },
+      {
+        "form": "notoriously",
+        "ipa": "/nəʊˈtɔːriəsli/",
+        "pos": "adv.",
+        "meaning": "臭名昭著地，众所周知地",
+        "definition": "in a way that is well known for being bad",
+        "zh": "臭名昭著地，众所周知地"
+      },
+      {
+        "form": "volatile",
+        "ipa": "/ˈvɒlətaɪl/",
+        "pos": "adj.",
+        "meaning": "变化无常的，动荡不定的",
+        "definition": "(of a situation) likely to change suddenly; easily becoming dangerous",
+        "zh": "变化无常的，动荡不定的"
+      },
+      {
+        "form": "introductory",
+        "ipa": "/ˌɪntrəˈdʌktəri/",
+        "pos": "adj.",
+        "meaning": "入门的，基础的，介绍性的",
+        "definition": "intended as an introduction to a subject or an activity for people who have never done it before",
+        "zh": "入门的，基础的，介绍性的"
+      },
+      {
+        "form": "torque",
+        "ipa": "/tɔːk/",
+        "pos": "n.",
+        "meaning": "扭矩，转动力矩",
+        "definition": "(specialist) a twisting force that causes machines, etc. to rotate",
+        "zh": "扭矩，转动力矩"
+      },
+      {
+        "form": "axle",
+        "ipa": "/ˈæksl/",
+        "pos": "n.",
+        "meaning": "车轴，轮轴",
+        "definition": "a long straight piece of metal that connects a pair of wheels on a vehicle",
+        "zh": "车轴，轮轴"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to praise sb./sth. very much",
+      "giving pleasure and making you feel satisfied"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “The quantity and complexity of the mental work expected of successful students and professionals have mounted; we’ve responded by pushing ever harder on that lump of gray matter in our heads.”?",
+    "exerciseChoiceMarked": [
+      "mounted"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "He mounted the platform and addressed the crowd.",
+        "marked": [
+          "mounted"
+        ],
+        "zh": "他登上讲台，向人群发表了讲话。"
+      },
+      {
+        "label": "B",
+        "text": "Speculation is mounting about a second economic crisis.",
+        "marked": [
+          "mounting"
+        ],
+        "zh": "关于第二次经济危机的猜测越来越多。"
+      },
+      {
+        "label": "C",
+        "text": "The report mounts a withering attack on the food industry.",
+        "marked": [
+          "mounts"
+        ],
+        "zh": "这份报告对食品行业进行了严厉的批评。"
+      },
+      {
+        "label": "D",
+        "text": "The staff will mount all parts in place before the official test starts.",
+        "marked": [
+          "mount"
+        ],
+        "zh": "在正式测试开始之前，工作人员会将所有部件安装到位。"
+      }
+    ],
+    "exerciseTranslationPrompt": "大脑在记忆能力、注意力容量、理解抽象与反直觉概念的能力上，都有着明确的界限；而我们当下所处的社会环境，却频频突破这些界限。",
+    "answerVocabularyList": [
+      "extol",
+      "gratifying"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "The brain has firm limits—on its ability to remember, its capacity to pay attention, its facility with abstract and nonintuitive concepts—and the culture we have created for ourselves now regularly exceeds these limits."
+  },
+  {
     "key": "apr0427",
     "date": "2026.04.27",
     "period": "2026年04月",
@@ -3689,6 +5493,340 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "hustled"
     ]
+  },
+  {
+    "key": "may0506",
+    "date": "2026.05.06",
+    "period": "2026年5月",
+    "folder": "0506迈克尔·杰克逊的最新传记电影未能讲述的真相",
+    "titleZh": "迈克尔·杰克逊的最新传记电影未能讲述的真相",
+    "title": "“Michael”: A Sanitized Bio-Pic That’s All Business",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Richard Brody, The New Yorker, Published April 23, 2026",
+    "paragraphs": [
+      "The new movie details the backstage maneuvers that catapulted Michael Jackson to stardom but leaves his personal life out of the picture.",
+      "Let’s start with the elephant that’s not in the room. The new bio-pic “Michael” includes no mention that its protagonist, the late pop star Michael Jackson, faced multiple accusations of child sexual abuse. The allegations (which Jackson denied) were addressed in an earlier cut of the film. But the relevant scenes were reportedly removed at the insistence of Jackson’s estate, on the grounds that its settlement with an accuser prohibited it from depicting or mentioning him. This dismaying course of events reflects a major problem with bio-pics: that the involvement of interested parties risks distorting a life story by sanitizing it, leaving out events that would make the subject look bad. This dilemma is even more pronounced for bio-pics of musicians, which depend upon rights holders granting use of the subject’s music.",
+      "When it comes to a story as well known as Jackson’s, the sanitizing hardly seems worth it, because the absence of the accusations is as conspicuous as their presence would have been. Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it were a work of fiction about a fictitious character, “Michael” still counts as only a modestly noteworthy achievement, enjoyable yet flawed—because it contains other, artistic blind spots that keep the drama thin and narrow.“Michael” explores the practicalities by which an artist’s raw talent is refined, a group of local performers reaches the big spotlight, and famous figures are transformed into global phenomena. The movie offers catchy narrative anecdotes that form a coherent and poignant portrait, but it fails to fill out its themes with much insight into the artistic consciousness.",
+      "The story starts one evening in 1966, in the living room of the Jackson family, in their home town of Gary, Indiana. There, the patriarch, Joseph presses the child Michael and four of Michael’s older brothers into rehearsal. Joseph is a steel-mill worker, and he exerts authoritarian power over the kids in the hope of making them successful performers and thus freeing them from the world of manual labor in which he’s stuck. At first, he commands them with a mere tone of menace. Then one night, after the group returns home late from a local gig, he demands that they rehearse; when his wife and the kids’ mother, Katherine, says that Michael is too tired, Joseph beats him with a belt. The act of physical brutality also serves as a warning to Katherine that she can’t protect the children from him.",
+      "In bed afterward, recovering from his father’s assault, Michael reads an illustrated Peter Pan book in which a drawing of the villainous Captain Hook is hand-labelled “Joseph”—a blatantforeshadowing of Michael’s refuge in a fantasy version of childhood. Soon, his real childhood is overtaken by his career, when Joseph pulls the group—now called the Jackson Five—out of school for a Chicago gig. The movie doesn’t take its time: cut to Los Angeles, where the Jackson Five is recording for Motown, under the guidance of its founder, Berry Gordy. Gordy coaches Michael through the vocals of “I Want You Back” and, in the process, initiates him in the technical art of making records. He also offers a form of mentorship altogether different from Joseph’s reign of terror. As the lead singer and the prime personality of the Jackson Five, Michael is propelled into stardom and the compromises that come with it, starting when Gordy advises him to lie about his age. One compromise that weighs heavily on him is the fact that he has no friends, and the depiction of him as an isolated, idiosyncratic young adolescent stokes pathos simply and plainly. To fill his solitude, he buys animals (a snake, a rat, a llama; eventually, a chimpanzee and even a giraffe). Human peers, he laments, only gawk at him and want a photo.",
+      "With this plethora of behind-the-scenes incidents, “Michael” becomes a vigorously effective business movie. Unfortunately, it’s far less detailed or effective in its portrayal of the title character, and the trouble starts with the script, which omits many matters of incontrovertible interest even beyond the allegations of child abuse. For starters, there’s nothing of the eternal triangle of sex, politics, and money. The story is filled with dealmaking, but just how rich the Jackson family, and Michael himself, get from their success goes unspoken, unsuggested—except that it’s plenty. As for politics, a TV report about gang violence inspires Michael to head into Los Angeles (accompanied by his bodyguard and driver) to meet some streetwise young people in the hope of using dance to bring peace, but his awareness of the world seems to go no further. Sex, meanwhile, is simply not a part of Michael’s life in any way, nor is its absence acknowledged—is he naïve, shy, asexual, repressed? Even Michael’s social life is left blank, far beyond his adolescent solitudes."
+    ],
+    "paragraphTranslations": [
+      "这部新电影详细描述了让迈克尔·杰克逊成为明星背后的种种运作，但并未提及他的私人生活。",
+      "让我们从那个“房间里没有的大象”开始讲起。这部新的传记电影《迈克尔》中完全没有提及，其主角、已故流行音乐明星迈克尔·杰克逊曾面临多项儿童性虐待的指控。这些指控（杰克逊予以否认）在电影的早期版本中已有提及。但据报道，由于杰克逊的遗产管理方的要求，这些相关场景被删除了，理由是他们与原告之间的协议禁止在电影中描绘或提及杰克逊。这一令人失望的情况反映了传记电影的一个主要问题：相关方的介入可能会扭曲历史事实，因为他们会选择性地忽略那些可能让主角显得不光彩的事件。对于音乐家的传记电影来说，这一困境更为明显，因为这类电影需要得到版权持有者的许可才能使用相关音乐。",
+      "对于像《迈克尔》这样广为人知的作品来说，删减某些内容似乎并不值得，因为那些被省略的情节片段同样明显，就像那些原本应该存在的情节一样。不过，抛开这种令人遗憾的省略不谈，考虑到这部电影并非基于已有的事实而创作，它更像是一部关于虚构角色的虚构作品。尽管如此，《迈克尔》仍然算得上是一次相当不错的成就——虽然它仍然存在许多缺陷，但依然具有观赏性。不过，这部电影在艺术表现上仍有许多不足之处，这些不足使得剧情显得单薄而狭隘。《迈克尔》探讨了艺术家如何通过实践来提升自己的才华，一群当地表演者如何成为焦点人物，以及著名人物如何转变为全球性的现象。这部电影提供了一些引人入胜的叙事片段，这些片段构成了一幅连贯而富有感染力的画面，但它在对艺术本质的理解上却缺乏深度。",
+      "这个故事发生在1966年的一个傍晚，地点是印第安纳州加里市，杰克逊一家居住的客厅里。父亲约瑟夫把小迈克尔和他的四个哥哥们叫到一边进行排练。约瑟夫是一名钢铁工厂的工人，他对孩子们拥有绝对的权威，希望他们能成为成功的表演者，从而摆脱他所处的体力劳动工作。起初，他用一种充满威胁的语气命令孩子们排练。后来，有一天晚上，当孩子们从当地的演出活动回来后，他要求他们继续排练；当他的妻子以及孩子们的母亲凯瑟琳说迈克尔太累了时，约瑟夫就用皮带打了他。这种身体上的暴力行为也向凯瑟琳发出了一个警告，即她无法保护孩子们免受他的伤害。",
+      "在床上休息时，迈克尔从父亲的攻击中恢复过来，他读了一本配有插图的《彼得·潘》书籍。书中有一幅描绘反派角色胡克船长的插图，标题被故意标为“约瑟夫”——这显然是对迈克尔在幻想般的童年时期的避风港的暗示。不久之后，他的真实童年就被他的职业生涯所取代，当时约瑟夫带领着这个现在被称为“杰克逊五兄弟”的团体离开学校，去芝加哥参加演出。电影没有浪费时间：镜头立刻转到了洛杉矶，杰克逊五兄弟在Berry Gordy的指导下为Motown唱片公司录制歌曲。Gordy通过指导迈克尔演唱《I Want You Back》来传授他录制唱片的技术。他还提供了一种与约瑟夫的恐怖统治完全不同的指导方式。作为杰克逊五兄弟的主唱和核心人物，迈克尔迅速成名，但同时也不得不接受各种妥协。从那时起，戈迪就建议他虚报年龄。其中一个让他倍感压力的妥协是，他没有朋友。而将他描绘成一个孤独、古怪的少年形象，无疑会加剧这种孤独感。为了填补自己的孤独感，他养了各种动物——一条蛇、一只老鼠、一只骆驼；后来还养了黑猩猩，甚至还有长颈鹿。他感叹，人类的同龄人只会对他投以好奇的目光，甚至想要和他合影。",
+      "在如此众多幕后事件的影响下，《迈克尔》成为了一部非常成功的商业电影。不幸的是，它在对主角形象的刻画上却远不如人意，而问题始于剧本——剧本中遗漏了许多即使不考虑儿童虐待指控也至关重要的事情。首先，影片中完全没有涉及那些常见的性、政治与金钱之间的三角关系。故事充满了商业交易的内容，但杰克逊家族以及迈克尔本人从他们的成功中获得了多少财富，这一点并未被提及——只是说他们确实很富有。至于政治方面，一篇关于帮派暴力的新闻报道促使迈克尔前往洛杉矶，与一些街头青年会面，希望利用舞蹈来促进和平，但他对这个世界的了解似乎仅限于此而已。与此同时，性完全不是迈克尔生活的一部分，甚至没有人承认这一点——他是天真、害羞、无性恋者还是受压抑的人呢？就连迈克尔的社交生活也完全被忽略了，远远超出了他青少年时期那种孤独的生活方式。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Sanitized",
+        "ipa": "/ˈsænɪtaɪz/",
+        "pos": "v.",
+        "meaning": "去除…中使人不快的内容；净化",
+        "definition": "to remove the parts of something that could be considered unpleasant",
+        "zh": "去除…中使人不快的内容；净化"
+      },
+      {
+        "form": "Bio-Pic",
+        "ipa": "/ˈbaɪəʊpɪk/",
+        "pos": "n.",
+        "meaning": "传记片",
+        "definition": "a film about the life of a particular person",
+        "zh": "传记片"
+      },
+      {
+        "form": "maneuvers",
+        "ipa": "/məˈnuːvər/",
+        "pos": "n.",
+        "meaning": "灵巧的动作；巧妙的策略；聪明的手段",
+        "definition": "a clever or skillful action or movement",
+        "zh": "灵巧的动作；巧妙的策略；聪明的手段"
+      },
+      {
+        "form": "catapulted",
+        "ipa": "/ˈkætəpʌlt/",
+        "pos": "v.",
+        "meaning": "（被）猛掷，猛扔",
+        "definition": "to throw somebody / something suddenly and violently through the air; to be thrown suddenly and violently through the air",
+        "zh": "（被）猛掷，猛扔"
+      },
+      {
+        "form": "stardom",
+        "ipa": "/ˈstɑːdəm/",
+        "pos": "n.",
+        "meaning": "明星的地位（或身份）",
+        "definition": "the state of being famous as an actor, a singer, etc.",
+        "zh": "明星的地位（或身份）"
+      },
+      {
+        "form": "protagonist",
+        "ipa": "/prəˈtæɡənɪst/",
+        "pos": "n.",
+        "meaning": "（小说、戏剧、电影等的）主人公，主角",
+        "definition": "the main character in a novel, play, movie, etc.",
+        "zh": "（小说、戏剧、电影等的）主人公，主角"
+      },
+      {
+        "form": "allegations",
+        "ipa": "/ˌæləˈɡeɪʃn/",
+        "pos": "n.",
+        "meaning": "（无证据的）说法，指控",
+        "definition": "a public statement that is made without giving proof, accusing somebody of doing something that is wrong or illegal",
+        "zh": "（无证据的）说法，指控"
+      },
+      {
+        "form": "dismaying",
+        "ipa": "/dɪsˈmeɪɪŋ/",
+        "pos": "adj.",
+        "meaning": "令人不快的；使人气馁的；让人绝望的",
+        "definition": "making you feel unhappy and disappointed",
+        "zh": "令人不快的；使人气馁的；让人绝望的"
+      },
+      {
+        "form": "distorting",
+        "ipa": "/dɪˈstɔːt/",
+        "pos": "v.",
+        "meaning": "歪曲；曲解",
+        "definition": "to change facts, ideas, etc. so that they are no longer correct or true",
+        "zh": "歪曲；曲解"
+      },
+      {
+        "form": "pronounced",
+        "ipa": "/prəˈnaʊnst/",
+        "pos": "adj.",
+        "meaning": "显著的；很明显的；表达明确的",
+        "definition": "very obvious, easy to notice or strongly expressed",
+        "zh": "显著的；很明显的；表达明确的"
+      },
+      {
+        "form": "conspicuous",
+        "ipa": "/kənˈspɪkjuəs/",
+        "pos": "adj.",
+        "meaning": "易见的；明显的；惹人注意的",
+        "definition": "easy to see or notice; likely to attract attention",
+        "zh": "易见的；明显的；惹人注意的"
+      },
+      {
+        "form": "Setting aside",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "暂时不考虑（或放一放）",
+        "definition": "to not consider something, because other things are more important",
+        "zh": "暂时不考虑（或放一放）"
+      },
+      {
+        "form": "woeful",
+        "ipa": "/ˈwəʊfl/",
+        "pos": "adj.",
+        "meaning": "极坏的，糟透的；极严重的",
+        "definition": "very bad or serious",
+        "zh": "极坏的，糟透的；极严重的"
+      },
+      {
+        "form": "omission",
+        "ipa": "/əˈmɪʃn/",
+        "pos": "n.",
+        "meaning": "省略；删除；免除",
+        "definition": "the act of not including somebody / something or not doing something; the fact of not being included or done",
+        "zh": "省略；删除；免除"
+      },
+      {
+        "form": "noteworthy",
+        "ipa": "/ˈnəʊtwɜːði/",
+        "pos": "adj.",
+        "meaning": "值得注意的；显著的；重要的",
+        "definition": "deserving to be noticed or to receive attention because it is unusual, important or interesting",
+        "zh": "值得注意的；显著的；重要的"
+      },
+      {
+        "form": "poignant",
+        "ipa": "/ˈpɔɪnjənt/",
+        "pos": "adj.",
+        "meaning": "令人沉痛的；悲惨的；酸楚的",
+        "definition": "having a strong effect on your feelings, especially in a way that makes you feel sad",
+        "zh": "令人沉痛的；悲惨的；酸楚的"
+      },
+      {
+        "form": "patriarch",
+        "ipa": "/ˈpeɪtriɑːk/",
+        "pos": "n.",
+        "meaning": "（男性）家长，族长，政府首脑",
+        "definition": "a man who controls a family, group, or government",
+        "zh": "（男性）家长，族长，政府首脑"
+      },
+      {
+        "form": "steel-mill",
+        "ipa": "/ˈstiːl ˌmɪl/",
+        "pos": "n.",
+        "meaning": "炼钢厂，钢铁厂",
+        "definition": "a factory where steel is made",
+        "zh": "炼钢厂，钢铁厂"
+      },
+      {
+        "form": "exerts",
+        "ipa": "/ɪɡˈzɜːt/",
+        "pos": "v.",
+        "meaning": "运用；行使；施加",
+        "definition": "to use power or influence to affect somebody / something",
+        "zh": "运用；行使；施加"
+      },
+      {
+        "form": "authoritarian",
+        "ipa": "/ɔːˌθɒrɪˈteəriən/",
+        "pos": "adj.",
+        "meaning": "威权主义的；专制的",
+        "definition": "believing that people should obey authority and rules, even when these are unfair, and even if it means that they lose their personal freedom",
+        "zh": "威权主义的；专制的"
+      },
+      {
+        "form": "menace",
+        "ipa": "/ˈmenəs/",
+        "pos": "n.",
+        "meaning": "威胁；威吓",
+        "definition": "a dangerous quality that makes you think someone is going to do something bad",
+        "zh": "威胁；威吓"
+      },
+      {
+        "form": "villainous",
+        "ipa": "/ˈvɪlənəs/",
+        "pos": "adj.",
+        "meaning": "恶毒的；邪恶的",
+        "definition": "very bad or evil; wicked",
+        "zh": "恶毒的；邪恶的"
+      },
+      {
+        "form": "blatant",
+        "ipa": "/ˈbleɪtnt/",
+        "pos": "adj.",
+        "meaning": "明目张胆的；公然的",
+        "definition": "done in an obvious and open way without caring if people are shocked",
+        "zh": "明目张胆的；公然的"
+      },
+      {
+        "form": "foreshadowing",
+        "ipa": "/fɔːˈʃædəʊ/",
+        "pos": "v.",
+        "meaning": "预示；是…的预兆",
+        "definition": "to be a sign of something that will happen in the future",
+        "zh": "预示；是…的预兆"
+      },
+      {
+        "form": "refuge",
+        "ipa": "/ˈrefjuːdʒ/",
+        "pos": "n.",
+        "meaning": "避难（所）；庇护（所）；慰藉",
+        "definition": "(a place that gives) protection or shelter from danger, trouble, unhappiness, etc.",
+        "zh": "避难（所）；庇护（所）；慰藉"
+      },
+      {
+        "form": "idiosyncratic",
+        "ipa": "/ˌɪdiəsɪŋˈkrætɪk/",
+        "pos": "adj.",
+        "meaning": "有怪癖的，有不寻常特征的",
+        "definition": "having strange or unusual habits, ways of behaving, or features",
+        "zh": "有怪癖的，有不寻常特征的"
+      },
+      {
+        "form": "pathos",
+        "ipa": "/ˈpeɪθɒs/",
+        "pos": "n.",
+        "meaning": "感染力；令人产生悲悯共鸣的力量",
+        "definition": "the power of a performance, description, etc. to make you feel sympathy or be sad",
+        "zh": "感染力；令人产生悲悯共鸣的力量"
+      },
+      {
+        "form": "gawk",
+        "ipa": "/ɡɔːk/",
+        "pos": "v.",
+        "meaning": "无礼地瞪眼看；呆头呆脑地盯着",
+        "definition": "to stare at somebody / something in a rude or stupid way",
+        "zh": "无礼地瞪眼看；呆头呆脑地盯着"
+      },
+      {
+        "form": "plethora",
+        "ipa": "/ˈpleθərə/",
+        "pos": "n.",
+        "meaning": "过多；过量；过剩",
+        "definition": "an amount that is greater than is needed or can be used",
+        "zh": "过多；过量；过剩"
+      },
+      {
+        "form": "incontrovertible",
+        "ipa": "/ˌɪnkɒntrəˈvɜːtəbl/",
+        "pos": "adj.",
+        "meaning": "无可争辩的；不能否认的；无可置疑的",
+        "definition": "that is true and cannot be disagreed with or denied",
+        "zh": "无可争辩的；不能否认的；无可置疑的"
+      },
+      {
+        "form": "streetwise",
+        "ipa": "/ˈstriːtwaɪz/",
+        "pos": "adj.",
+        "meaning": "善于在街头营生的；适应都市环境的",
+        "definition": "having the knowledge needed to survive in difficult and dangerous places or situations in a city",
+        "zh": "善于在街头营生的；适应都市环境的"
+      },
+      {
+        "form": "asexual",
+        "ipa": "/ˌeɪˈsekʃuəl/",
+        "pos": "adj.",
+        "meaning": "性缺乏的；性冷淡的",
+        "definition": "not having sexual qualities; not interested in sex",
+        "zh": "性缺乏的；性冷淡的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a dangerous quality that makes you think someone is going to do something bad",
+      "having strange or unusual habits, ways of behaving, or features"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “The new movie details the backstage maneuvers that catapulted Michael Jackson to stardom but leaves his personal life out of the picture.”",
+    "exerciseChoiceMarked": [
+      "maneuvers"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "You will need to perform a series of maneuvers to get the car into the small parking space.",
+        "marked": [
+          "maneuvers"
+        ],
+        "zh": "您需要执行一系列操作，才能将汽车停进那个小的停车位。"
+      },
+      {
+        "label": "B",
+        "text": "The army is currently engaged in large-scale winter maneuvers in the mountains.",
+        "marked": [
+          "maneuvers"
+        ],
+        "zh": "目前，军队正在山区进行大规模的冬季演习。"
+      },
+      {
+        "label": "C",
+        "text": "Through a series of legal maneuvers, the company managed to avoid paying the tax.",
+        "marked": [
+          "maneuvers"
+        ],
+        "zh": "通过一系列的法律手段，该公司成功避免了缴纳税款。"
+      },
+      {
+        "label": "D",
+        "text": "The gymnast’s complex maneuvers on the bars earned her a perfect score.",
+        "marked": [
+          "maneuvers"
+        ],
+        "zh": "这位体操运动员在单杠上的复杂动作为她赢得了满分。"
+      }
+    ],
+    "exerciseTranslationPrompt": "这一令人沮丧的过程反映出传记片的一个重大问题：有利害关系的相关方一旦介入，就可能通过粉饰性处理扭曲一个人的生命故事，删去那些会损害传主形象的事件。",
+    "answerVocabularyList": [
+      "menace",
+      "idiosyncratic"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "This dismaying course of events reflects a major problem with bio-pics: that the involvement of interested parties risks distorting a life story by sanitizing it, leaving out events that would make the subject look bad."
   },
   {
     "key": "may0507",
@@ -5025,6 +7163,208 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "stall"
     ]
+  },
+  {
+    "key": "may0514",
+    "date": "2026.05.14",
+    "period": "2026年5月",
+    "folder": "0514国王的演讲：逐句解析查尔斯三世国会演讲",
+    "titleZh": "国王的演讲：逐句解析查尔斯三世国会演讲 2",
+    "title": "The King’s Address to the Joint Meeting of Congress in Washington",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By King Charles III, The Royal Family, Published 28 April 2026",
+    "paragraphs": [
+      "This is by no means my first visit to Washington, D.C. – the capital of this great Republic. It is in fact my 20th visit to the United States, and my first as King and Head of the Commonwealth. This is a city which symbolises a period in our shared history, or what Charles Dickens might have called ‘A Tale of Two Georges’: the first President, George Washington, and my five-times Great Grandfather, King George III. King George never set foot in America and, please rest assured, I am not here as part of some cunningrearguard action!",
+      "The Founding Fathers were bold and imaginative rebels with a cause. 250 years ago (or, as we say in the United Kingdom, just the other day….) they declared Independence. By balancing contending forces and drawing strength in diversity, they united thirteen disparate colonies to forge a Nation on the revolutionary idea of ‘life, liberty and the pursuit of happiness’. They carried with them, and carried forward, the great inheritance of the British Enlightenment – as well as the ideals which had an even deeper history in English Common Law and Magna Carta.",
+      "These roots run deep, and they are still vital. Our Declaration of Rights of 1689 was not only the foundation of our constitutional Monarchy, but also provided the source of so many of the principles reiterated – often verbatim – in the American Bill of Rights of 1791. And those roots go even further back in our history: the U.S. Supreme Court Historical Society has calculated that Magna Carta is cited in at least 160 Supreme Court cases since 1789, not least as the foundation of the principle that executive power is subject tochecks and balances. This is the reason why there stands a stone, by the River Thames at Runnymede where Magna Carta was signed in the year 1215. This stone records that an acre of that ancient and historic site was given to the U.S.A. by the people of the United Kingdom, to symbolise our shared resolve in support of liberty, and in memory of President John F. Kennedy.",
+      "Distinguished members of the 119th Congress, it is here in these very halls that this spirit of liberty and the promise of America’s Founders is present in every session and every vote cast. Not by the will of one, but by the deliberation of many, representing the living mosaic of the United States. In both of our countries, it is the very fact of our vibrant, diverse and free societies that gives us our collective strength, including to support victims of some of the ills that, so tragically, exist in both our societies today."
+    ],
+    "paragraphTranslations": [
+      "这绝不是我第一次访问华盛顿特区——这个伟大共和国的首都。实际上，这是我第20次访问美国，也是我作为国王和君主的首次访问。这座城市象征着我们共同历史中的一个重要时期，或者用查尔斯·狄更斯的话来说，就是“两个乔治的故事”：第一位总统乔治·华盛顿，以及我的高祖父、乔治三世国王。乔治三世国王从未踏上过美国的土地，请放心，我来到这里并非出于某种阴谋或诡计！",
+      "这些开国元勋们都是勇敢而富有想象力、有着明确目标的叛逆者。250年前（或者，就像在英国所说的那样，就在前几天……），他们宣布了独立。通过平衡各种力量，并借助多样性来凝聚力量，他们将十三个不同的殖民地联合起来，创建了一个国家，其核心理念是“生命、自由以及追求幸福”。他们携带着英国启蒙运动所留下的伟大遗产，以及那些在英国普通法和《大宪章》中拥有更深厚历史根基的理想，继续前行。",
+      "这些根源非常深远，至今仍然具有生命力。1689年我们颁布的《权利宣言》，不仅是我们君主立宪制的基础，也为许多原则提供了依据——这些原则在1791年颁布的《美国权利法案》中得到了反复重申，而且这些原则往往是以原封未动的文字形式出现的。而这些根源甚至可以追溯到我们的历史更早时期：美国最高法院历史学会计算出，《大宪章》自1789年以来至少被160次最高法院判决所引用，其中尤其被作为行政权力应受到制衡这一原则的基石。这就是为什么在泰晤士河畔的朗尼梅德，人们会立有一块石碑，那里正是1215年《大宪章》签署的地方。这块石碑记载着，那片古老而具有历史意义的土地被英国人民赠予美国，以象征我们共同支持自由的决心，同时也是为了纪念约翰·F·肯尼迪总统。",
+      "第119届国会的尊敬各位议员，正是在这些大厅里，这种自由的精神以及美国建国者所承诺的理想，在每一场会议和每一项投票中都能得到体现。这种精神并非由某一个人所决定，而是由众多代表美国多元文化的议员们共同商议而成。在我们两个国家，正是这些充满活力、多样化且自由的社会结构，为我们提供了集体力量，包括为那些在当今两个社会中存在的种种问题中的受害者提供支持。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Commonwealth",
+        "ipa": "/ˈkɒmənwelθ/",
+        "pos": "n.",
+        "meaning": "英联邦",
+        "definition": "an organization consisting of the United Kingdom and other countries, including most of the countries that used to be part of the British Empire",
+        "zh": "英联邦"
+      },
+      {
+        "form": "cunning",
+        "ipa": "/ˈkʌnɪŋ/",
+        "pos": "adj.",
+        "meaning": "狡猾的，狡诈的，诡计多端的",
+        "definition": "able to get what you want in a clever way, especially by tricking or cheating sb.",
+        "zh": "狡猾的，狡诈的，诡计多端的"
+      },
+      {
+        "form": "rearguard action",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "负隅顽抗，垂死挣扎，最后抗争",
+        "definition": "a struggle to change or stop something even when it is not likely that you will succeed",
+        "zh": "负隅顽抗，垂死挣扎，最后抗争"
+      },
+      {
+        "form": "bold",
+        "ipa": "/bəʊld/",
+        "pos": "adj.",
+        "meaning": "大胆的，勇敢的，无畏的",
+        "definition": "not afraid of taking risks or doing things that are new or difficult",
+        "zh": "大胆的，勇敢的，无畏的"
+      },
+      {
+        "form": "rebels",
+        "ipa": "/ˈrebəl/",
+        "pos": "n.",
+        "meaning": "反叛者，造反者，叛逆者",
+        "definition": "sb. who opposes or fights against people in authority",
+        "zh": "反叛者，造反者，叛逆者"
+      },
+      {
+        "form": "disparate",
+        "ipa": "/ˈdɪspərət/",
+        "pos": "adj.",
+        "meaning": "迥异的，全然不同的，各种各样的",
+        "definition": "(formal) consisting of things or people that are very different and not related to each other",
+        "zh": "迥异的，全然不同的，各种各样的"
+      },
+      {
+        "form": "run deep",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "根深蒂固，影响深远，（感情）强烈",
+        "definition": "(of emotions, beliefs, etc.) to be felt in a strong way, especially for a long time",
+        "zh": "根深蒂固，影响深远，（感情）强烈"
+      },
+      {
+        "form": "vital",
+        "ipa": "/ˈvaɪtl/",
+        "pos": "adj.",
+        "meaning": "至关重要的，必不可少的",
+        "definition": "extremely important and necessary for sth. to succeed or exist",
+        "zh": "至关重要的，必不可少的"
+      },
+      {
+        "form": "reiterated",
+        "ipa": "/riˈɪtəreɪt/",
+        "pos": "v.",
+        "meaning": "重申，反复说，一再强调",
+        "definition": "(formal) to repeat a statement or opinion in order to make your meaning as clear as possible",
+        "zh": "重申，反复说，一再强调"
+      },
+      {
+        "form": "is subject to",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "受……约束，服从于，受……影响",
+        "definition": "If sb. or sth. is subject to sth., especially sth. bad, it is possible or likely that they will be affected by it",
+        "zh": "受……约束，服从于，受……影响"
+      },
+      {
+        "form": "checks and balances",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "制衡机制，权力制衡",
+        "definition": "a system that prevents any one part of a government, organization, or system from having too much power or influence",
+        "zh": "制衡机制，权力制衡"
+      },
+      {
+        "form": "resolve",
+        "ipa": "/rɪˈzɒlv/",
+        "pos": "n.",
+        "meaning": "决心，坚定的意志",
+        "definition": "strong determination to succeed in doing sth.",
+        "zh": "决心，坚定的意志"
+      },
+      {
+        "form": "session",
+        "ipa": "/ˈseʃən/",
+        "pos": "n.",
+        "meaning": "会议，（议会的）开会期，会期",
+        "definition": "a formal meeting or group of meetings, especially of a law court or parliament",
+        "zh": "会议，（议会的）开会期，会期"
+      },
+      {
+        "form": "cast",
+        "ipa": "/kɑːst/",
+        "pos": "v.",
+        "meaning": "投（票）",
+        "definition": "to vote in an election",
+        "zh": "投（票）"
+      },
+      {
+        "form": "deliberation",
+        "ipa": "/dɪˌlɪbəˈreɪʃən/",
+        "pos": "n.",
+        "meaning": "审议，商议，深思熟虑",
+        "definition": "careful consideration or discussion of sth.",
+        "zh": "审议，商议，深思熟虑"
+      },
+      {
+        "form": "mosaic",
+        "ipa": "/məʊˈzeɪɪk/",
+        "pos": "n.",
+        "meaning": "马赛克，（多元素构成的）混合体，多彩画面",
+        "definition": "a group of different things that exist next to each other or together",
+        "zh": "马赛克，（多元素构成的）混合体，多彩画面"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "able to get what you want in a clever way, especially by tricking or cheating sb.",
+      "(of emotions, beliefs, etc.) to be felt in a strong way, especially for a long time"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “…it is here in these very halls that this spirit of liberty and the promise of America’s Founders is present in every session and every vote cast.”?",
+    "exerciseChoiceMarked": [
+      "session"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "After two late night session, the Security Council has failed to reach agreement.",
+        "marked": [
+          "session"
+        ],
+        "zh": "经过两场开到深夜的会议，安理会仍未达成一致。"
+      },
+      {
+        "label": "B",
+        "text": "The Euro slid sharply in the European trading session.",
+        "marked": [
+          "session"
+        ],
+        "zh": "欧元在欧洲交易时段大幅下跌。"
+      },
+      {
+        "label": "C",
+        "text": "After the opening session we run a series of workshops.",
+        "marked": [
+          "session"
+        ],
+        "zh": "在开幕式之后，我们会举办一系列研讨会。"
+      },
+      {
+        "label": "D",
+        "text": "The training session lasted for two hours.",
+        "marked": [
+          "session"
+        ],
+        "zh": "培训课程持续了两个小时。"
+      }
+    ],
+    "exerciseTranslationPrompt": "在我们两个国家里，正因为社会充满活力、多元而自由，我们才拥有了共同的力量，也才有能力去帮助那些不幸遭遇种种弊病的人，而这些弊病如今悲剧性地存在于我们两国社会之中。",
+    "answerVocabularyList": [
+      "cunning",
+      "run deep"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "In both of our countries, it is the very fact of our vibrant, diverse and free societies that gives us our collective strength, including to support victims of some of the ills that, so tragically, exist in both our societies today."
   },
   {
     "key": "may0515",
@@ -9460,6 +11800,626 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "jun0611",
+    "date": "2026.06.11",
+    "period": "2026年6月",
+    "folder": "0611 华为韬定律：超越炒作的硬核分析 3",
+    "titleZh": "华为韬定律：超越炒作的硬核分析 3",
+    "title": "Huawei’s Tau Scaling Law: A Technical Deep Dive Beyond the Hype",
+    "topicEn": "Science & Technology",
+    "topicZh": "科技",
+    "byline": "Global Semi Research, Published May 25, 2026",
+    "paragraphs": [
+      "In Kirin 2026, this method brought tangible benefits:",
+      "Transistor density jumped from 155 MTr/mm² to 238 MTr/mm², a 55% increase. This magnitude would require three years and two process nodes to achieve in the traditional geometric scaling era.",
+      "Performance core energy efficiency improved by 41%, frequency increased by 13%, reaching 3.1 GHz.",
+      "SRAM operating frequency increased by over 40%, because bit lines and word lines were significantly shortened.",
+      "In a representative processor core, the number of clock buffers decreased by 50%, clock skew decreased by 25%, and routing length decreased by 30%.",
+      "Behind these numbers is a key fact: all these improvements were achieved at a fixed process node. No progression from 7nm to 5nm, no introduction of new lithography technology — just through reorganizing circuits in three-dimensional space, performance gains approaching one process node were achieved.",
+      "For LogicFolding to work, the “gear ratio” between hybrid bonding pitch and top metal layer pitch needs to be controlled below 3, ideally close to 1. Kirin 2026’s hybrid bonding pitch is 1.5 micrometers, while the top metal layer pitch is about 720 nanometers, giving a gear ratio of approximately 2. When this ratio approaches 1, the routing overhead at the bonding interface nearly disappears, and the two wafer layers truly behave as a continuous circuit fabric.",
+      "This requires coordination across the entire supply chain: TSV (through-silicon via) diameter and pitch must shrink to below 1.5 micrometers and 6 micrometers respectively, alignment accuracy must reach within 0.5 micrometers, and yield must approach 100% through intelligent redundancy design. This is a multi-year process development effort involving coordination among foundries, packaging houses, and equipment suppliers.",
+      "Manufacturing Implementation of LogicFolding",
+      "Understanding LogicFolding’s manufacturing process requires distinguishing between two levels: chip fabrication and packaging integration.",
+      "From the chip fabrication perspective, LogicFolding requires manufacturing two complete chip wafers. The manufacturing process for each wafer is identical to traditional single-layer designs, using the same process node and going through the same lithography steps. The 7nm node requires 60-70 mask layers, and this number doesn’t change because the chip will subsequently be used for vertical stacking. So from a single-chip perspective, process complexity hasn’t increased—it just requires manufacturing two wafers instead of one.",
+      "The real technical challenges and innovations are in the packaging integration stage. This involves several key processes:",
+      "First is manufacturing the hybrid bonding interface.",
+      "Second is TSV (through-silicon via) manufacturing.",
+      "Third is wafer thinning.",
+      "Fourth is pre-bonding surface treatment.",
+      "Finally is alignment bonding itself.",
+      "The characteristic of these packaging processes is that their feature sizes are all at the micrometer level, far larger than the nanometer-level sizes of advanced logic chips, so they can be completed with DUV (deep ultraviolet) lithography machines without requiring EUV. However, they have high requirements for process control, particularly in alignment accuracy, surface quality, and yield control.",
+      "Kirin 2026 achieved near 100% yield (through intelligent redundancy design), with TSV failure rates controlled below 100 ppm and repair rates reaching 99.9%. These numbers indicate that after years of process development, LogicFolding’s manufacturing technology has reached production-ready levels. From a cost perspective, LogicFolding’s additional costs mainly come from three areas: manufacturing two chips instead of one, new packaging process steps, and higher yield control requirements. These cost increases are acceptable because the performance improvements they bring (frequency +13%, energy efficiency +41%, density +55%) and product competitiveness gains are sufficient to support this business model."
+    ],
+    "paragraphTranslations": [
+      "在麒麟 2026 芯片中，这种方法带来了切实的效益：",
+      "晶体管密度从155 MTr/mm²增加到238 MTr/mm²，增幅为55%。在传统的几何缩放时代，要达到这样的密度水平需要三年时间，并且需要两个工艺节点才能实现。",
+      "性能核心的能效提升了41%，频率提高了13%，目前达到3.1吉赫。",
+      "SRAM的运行频率提高了40%以上，这是因为位线和字线的长度显著缩短。",
+      "在典型的处理器核心中，时钟缓冲器的数量减少了50%，时钟偏差减少了25%，而布线长度则减少了30%。",
+      "这些改进背后的关键事实是：所有这些改进都是在固定的工艺节点上实现的。没有从7纳米到5纳米的进展，也没有引入新的光刻技术——只是通过在三维空间中重新组织电路结构，才实现了接近一个工艺节点的性能提升。",
+      "为了使LogicFolding能够正常工作，混合键合间距与顶层金属层间距之间的“齿轮比”需要控制在3以下，理想情况下接近1。Kirin 2026的混合键合间距为1.5微米，而顶层金属层的间距约为720纳米，因此齿轮比大约为2。当这个比值接近1时，键合接口处的布线工作量几乎可以忽略不计，两层晶圆可以真正表现为连续的电路结构。",
+      "这需要整个供应链的协调合作：硅通孔的直径和间距必须分别缩小到1.5微米以下和6微米以下；对准精度必须控制在0.5微米以内；通过智能冗余设计，产量必须达到100%。这是一个需要多年时间进行开发的过程，涉及铸造厂、包装设备制造商以及设备供应商之间的协调合作。",
+      "逻辑折叠技术的实现方式",
+      "理解逻辑：Folding的制造过程需要区分两个层次：芯片制造和封装集成。",
+      "从芯片制造的角度来看，LogicFolding需要制造两个完整的芯片晶圆。每个晶圆的制造过程与传统的单层设计相同，采用相同的工艺节点，并经过相同的光刻步骤。7纳米工艺节点需要60-70层掩模，这个数字不会发生变化，因为后续芯片将用于垂直堆叠。因此，从单芯片的角度来看，工艺复杂性并没有增加——只是需要制造两个晶圆而不是一个。",
+      "真正的技术挑战和创新都集中在包装整合阶段。这涉及几个关键工序：",
+      "首先，需要制造出混合式连接接口。",
+      "其次就是TSV（硅通孔）的制造工艺。",
+      "第三是晶圆薄化技术。",
+      "第四是预粘合表面处理。",
+      "最后，对齐过程正在进行中。",
+      "这些封装工艺的特点是其特征尺寸都在微米级别，远大于先进逻辑芯片的纳米级别尺寸。因此，使用深紫外光刻机即可完成这些工艺，无需使用EUV光刻机。不过，这些工艺对工艺控制的要求很高，特别是在对准精度、表面质量和产量控制方面。",
+      "Kirin 2026实现了接近100%的成品率（通过智能冗余设计实现），TSV的故障率控制在每百万份中低于100份，而修复率达到了99.9%。这些数字表明，经过多年的工艺开发，LogicFolding的制造技术已经达到了可以投入生产的水平。从成本角度来看，LogicFolding的额外成本主要来自三个方面：需要制造两个芯片而不是一个芯片，需要新的封装工艺步骤，以及更高的成品率控制要求。这些成本增加是可以接受的，因为所带来的性能提升（频率提高13%，能效提高41%，密度提高55%）以及产品竞争力提升足以支撑这种商业模式。"
+    ],
+    "vocabulary": [
+      {
+        "form": "tangible",
+        "ipa": "/ˈtændʒəbəl/",
+        "pos": "adj.",
+        "meaning": "可感知的，实实在在的，切实的",
+        "definition": "clear enough or definite enough to be easily seen or noticed",
+        "zh": "可感知的，实实在在的，切实的"
+      },
+      {
+        "form": "density",
+        "ipa": "/ˈdensəti/",
+        "pos": "n.",
+        "meaning": "密度，浓度，稠密度",
+        "definition": "the quality of being dense; the degree to which sth. is dense",
+        "zh": "密度，浓度，稠密度"
+      },
+      {
+        "form": "magnitude",
+        "ipa": "/ˈmæɡnɪtjuːd/",
+        "pos": "n.",
+        "meaning": "规模，程度，重要性，数量级；震级",
+        "definition": "the great size or importance of sth.; the degree to which sth. is large or important",
+        "zh": "规模，程度，重要性，数量级；震级"
+      },
+      {
+        "form": "representative",
+        "ipa": "/ˌreprɪˈzentətɪv/",
+        "pos": "adj.",
+        "meaning": "典型的，代表性的，有代表性的",
+        "definition": "typical of a particular group of people; that is a typical example of sth.",
+        "zh": "典型的，代表性的，有代表性的"
+      },
+      {
+        "form": "buffers",
+        "ipa": "/ˈbʌfə(r)/, /ˈbʌfər/",
+        "pos": "n.",
+        "meaning": "缓冲器，缓冲区，缓冲",
+        "definition": "(computing) a place in a computer’s memory for storing information temporarily",
+        "zh": "缓冲器，缓冲区，缓冲"
+      },
+      {
+        "form": "clock skew",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "时钟偏斜，时钟偏移",
+        "definition": "the difference in arrival time of the same clock signal at different parts of a circuit",
+        "zh": "时钟偏斜，时钟偏移"
+      },
+      {
+        "form": "gear ratio",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "齿轮比，传动比，比例关系",
+        "definition": "the ratio between the speeds of rotation of two gears that are connected together",
+        "zh": "齿轮比，传动比，比例关系"
+      },
+      {
+        "form": "overhead",
+        "ipa": "/ˈəʊvəhed/",
+        "pos": "n.",
+        "meaning": "经营开销，运营成本",
+        "definition": "money spent regularly on rent, insurance, electricity, and other things that are needed to keep a business operating",
+        "zh": "经营开销，运营成本"
+      },
+      {
+        "form": "interface",
+        "ipa": "/ˈɪntəfeɪs/, /ˈɪntərfeɪs/",
+        "pos": "n.",
+        "meaning": "接口，界面，交互界面",
+        "definition": "the way in which you see the information from a computer program on a screen, or how you type information into the program",
+        "zh": "接口，界面，交互界面"
+      },
+      {
+        "form": "fabric",
+        "ipa": "/ˈfæbrɪk/",
+        "pos": "n.",
+        "meaning": "结构，体系，织物",
+        "definition": "(formal) the basic structure of a society, an organization, etc. that enables it to function successfully",
+        "zh": "结构，体系，织物"
+      },
+      {
+        "form": "respectively",
+        "ipa": "/rɪˈspektɪvli/",
+        "pos": "adv.",
+        "meaning": "分别地，各自地，依次地",
+        "definition": "in the same order as the people or things already mentioned",
+        "zh": "分别地，各自地，依次地"
+      },
+      {
+        "form": "alignment",
+        "ipa": "/əˈlaɪnmənt/",
+        "pos": "n.",
+        "meaning": "对准，校准，对齐",
+        "definition": "the state of being arranged in a line with sth. or parallel to sth.",
+        "zh": "对准，校准，对齐"
+      },
+      {
+        "form": "yield",
+        "ipa": "/jiːld/",
+        "pos": "n.",
+        "meaning": "良率，产出率",
+        "definition": "the amount of profits, crops, etc., that sth. produces",
+        "zh": "良率，产出率"
+      },
+      {
+        "form": "redundancy",
+        "ipa": "/rɪˈdʌndənsi/",
+        "pos": "n.",
+        "meaning": "冗余，多余，重复",
+        "definition": "when sth. is not used because sth. similar or the same already exists",
+        "zh": "冗余，多余，重复"
+      },
+      {
+        "form": "distinguishing",
+        "ipa": "/dɪˈstɪŋɡwɪʃ/",
+        "pos": "v.",
+        "meaning": "区分，辨别，辨认",
+        "definition": "to recognize and understand the difference between two or more things or people",
+        "zh": "区分，辨别，辨认"
+      },
+      {
+        "form": "fabrication",
+        "ipa": "/ˌfæbrɪˈkeɪʃən/",
+        "pos": "n.",
+        "meaning": "制造，制作，加工",
+        "definition": "the process of making or producing sth.",
+        "zh": "制造，制作，加工"
+      },
+      {
+        "form": "identical",
+        "ipa": "/aɪˈdentɪkəl/",
+        "pos": "adj.",
+        "meaning": "完全相同的，一模一样的，同一的",
+        "definition": "exactly the same, or very similar",
+        "zh": "完全相同的，一模一样的，同一的"
+      },
+      {
+        "form": "complexity",
+        "ipa": "/kəmˈpleksɪti/",
+        "pos": "n.",
+        "meaning": "复杂性，复杂程度，复杂情况",
+        "definition": "the state of being complicated and difficult to understand or deal with",
+        "zh": "复杂性，复杂程度，复杂情况"
+      },
+      {
+        "form": "integration",
+        "ipa": "/ˌɪntɪˈɡreɪʃən/",
+        "pos": "n.",
+        "meaning": "整合，集成，一体化",
+        "definition": "the process of combining two or more things so that they work together effectively",
+        "zh": "整合，集成，一体化"
+      },
+      {
+        "form": "bonding",
+        "ipa": "/ˈbɒndɪŋ/",
+        "pos": "n.",
+        "meaning": "结合，连接，键合",
+        "definition": "the joining of two surfaces or materials together using a chemical substance, heat, or pressure",
+        "zh": "结合，连接，键合"
+      },
+      {
+        "form": "sufficient",
+        "ipa": "/səˈfɪʃənt/",
+        "pos": "adj.",
+        "meaning": "足够的，充分的，足量的",
+        "definition": "enough for a particular purpose",
+        "zh": "足够的，充分的，足量的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "the quality of being dense; the degree to which sth. is dense",
+      "the amount of profits, crops, etc., that sth. produces"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “When this ratio approaches 1, the routing overhead at the bonding interface nearly disappears, and the two wafer layers truly behave as a continuous circuit fabric.”?",
+    "exerciseChoiceMarked": [
+      "fabric"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The curtains were made from a soft cotton fabric.",
+        "marked": [
+          "fabric"
+        ],
+        "zh": "窗帘是用柔软的棉质布料制成的。"
+      },
+      {
+        "label": "B",
+        "text": "This design forms a robust circuit fabric across the wafer.",
+        "marked": [
+          "fabric"
+        ],
+        "zh": "这种设计在晶圆上形成了一个坚固的电路结构。"
+      },
+      {
+        "label": "C",
+        "text": "The city’s social fabric began to weaken after years of conflict.",
+        "marked": [
+          "fabric"
+        ],
+        "zh": "在多年的冲突之后，这座城市的社会结构开始逐渐瓦解。"
+      },
+      {
+        "label": "D",
+        "text": "The tailor carefully chose a matching fabric for the suit.",
+        "marked": [
+          "fabric"
+        ],
+        "zh": "裁缝仔细挑选了与西装相配的布料。"
+      }
+    ],
+    "exerciseTranslationPrompt": "放在传统几何缩放时代，这样的幅度通常得靠 3 年和 2 个制程节点才能做到。",
+    "answerVocabularyList": [
+      "density",
+      "yield"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "This magnitude would require three years and two process nodes to achieve in the traditional geometric scaling era."
+  },
+  {
+    "key": "jun0612",
+    "date": "2026.06.12",
+    "period": "2026年6月",
+    "folder": "0612 访朝背后：金同志是如何逆袭的？13",
+    "titleZh": "访朝背后：金同志是如何逆袭的？ 1",
+    "title": "How North Korea Won",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Jung H. Pak, Foreign Affairs, Published April 21, 2026",
+    "paragraphs": [
+      "The Strange Triumph of Kim Jong Un",
+      "The 75th anniversary of the Korean Workers Party in October 2020 was not the festive affair that North Korean leader Kim Jong Un wanted it to be. Despite the fireworks, military flyover, and procession of new intercontinental missiles, Kim appeared to wipe away tears when he approached the lectern and apologized to the crowd: “My efforts and sincerity have not been sufficient enough to rid our people of the difficulties in their lives.” The COVID-19 pandemic had been tough for most countries, but it seemed especially portentous for North Korea, which was largely food-insecure, home to a notoriously dilapidated public health-care system, and struggling with a battered economy. Kim himself was humiliated and isolated, both domestically and internationally, after failing to deliver much-needed sanctions relief in some heady high-profile summitry with the leaders of the United States, South Korea, China, and Russia. It was arguably the lowest moment in the Democratic People’s Republic of North Korea’s 78-year history.",
+      "And yet, just five years later, in September 2025, Kim was beaming at a different military parade—in Beijing, where he stood with Chinese leader X and Russian leader Vladimir Putin. North Korean soldiers were now fighting alongside Russian troops in Ukraine, North Korean trade with China had reached healthy pre-pandemic levels, and Kim had been welcomed into a unified cohort of leaders countering U.S. and Western influence. In a stunningreversal of fortune, North Korea today is ascendant in ways not even the most imaginative analyst could have predicted. Kim, whose grip on power has never been stronger, has transformed himself from a global pariah into a global power player in record time.",
+      "This metamorphosis is the product of both circumstance and skill. The dawn of a new era of great-power competition has been an unwelcome development for many small countries and middle powers, but North Korea has fared better than most by leveraging its nuclear arsenal to avoid getting trampled by bigger players. Kim has also proved uniquely adept at exploiting the opportunities and navigating the currents of this new geopolitics. In approaching relations with China and Russia, he has taken surprising risks, such as fighting a war in Europe and escalating nuclear weapons development, that have paid off.",
+      "As a result, his ability to shape regional dynamics is now greater than ever. In the past, Washington has been able to work with Beijing and Moscow, albeit to a limited extent, to restrain North Korea and prevent a military confrontation. But today, the North Korea challenge is both more formidable and more durable. The confluence of U.S.-Chinese tension, Russia’s war in Ukraine, and U.S. allies’ growing distrust of Washington’s intentions and commitment has made for an unpredictable and volatile global situation. North Korea is thus a preview of the obstacles the United States will face as this new order takes shape."
+    ],
+    "paragraphTranslations": [
+      "金正恩的奇袭胜利",
+      "2020年10月，朝鲜劳动党成立75周年纪念活动并没有像朝鲜领导人金正恩所期望的那样热闹非凡。尽管有烟花表演、军事飞行表演，以及新型洲际导弹的展示，金正恩在走向讲台时似乎流下了眼泪，并向民众道歉：“我的努力和诚意显然不足以消除我们人民生活中的种种困难。”新冠疫情对大多数国家来说都是一场严峻的考验，但对朝鲜来说则显得尤为严重——该国粮食供应不稳定，公共卫生体系极其落后，经济也状况不佳。金正恩本人也因未能在与美国、韩国、中国和俄罗斯领导人的几次重要峰会上实现预期的制裁缓解措施而受到国内外的羞辱和孤立。这可以说是朝鲜民主人民共和国78年历史上最糟糕的时刻。",
+      "然而，仅仅五年后的2025年9月，金正恩出现在另一场军事阅兵式上——在北京，他与中国领导人习近平和俄罗斯领导人弗拉基米尔·普京一同出席。朝鲜士兵现在与俄罗斯军队一起在乌克兰作战；朝鲜对中国的贸易额已恢复到疫情前的健康水平；金正恩也被接纳为共同对抗美国及西方影响力的领导人团体的一员。命运的逆转令人震惊：今天的朝鲜正以连最富有想象力的分析师都难以预测的方式取得进步。金正恩对权力的掌控力从未如此强大过，他在极短的时间内便从一个被世界遗忘的国家转变为一个全球性的强国。",
+      "这种转变既是环境的产物，也是能力的体现。在大国竞争的新时代到来之际，这对许多小国和中等强国来说并非好事，但朝鲜却通过利用自己的核武库来避免被更强大的对手压制，因此表现相对较好。金正日还表现出非凡的才能，能够充分利用这一新的地缘政治形势带来的机遇。在与中国和俄罗斯的关系方面，他采取了一些令人惊讶的冒险行动，比如在欧洲发动战争以及加速核武器的发展，而这些行动最终带来了回报。",
+      "因此，美国在塑造地区局势方面的能力比以往任何时候都要强。过去，华盛顿能够与北京和莫斯科合作，以有限的方式遏制朝鲜，避免军事冲突。但如今，朝鲜问题既更为严峻，也更为持久。美国与中国的紧张关系、俄罗斯的乌克兰战争，以及美国盟友对华盛顿意图和承诺的不信任，都使得全球局势变得难以预测且充满不确定性。因此，朝鲜问题实际上预示了美国在构建新秩序过程中将面临的诸多挑战。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Triumph",
+        "ipa": "/ˈtraɪʌmf/",
+        "pos": "n.",
+        "meaning": "成功，大胜利，重大成就",
+        "definition": "a great success, achievement, or victory",
+        "zh": "成功，大胜利，重大成就"
+      },
+      {
+        "form": "festive",
+        "ipa": "/ˈfestɪv/",
+        "pos": "adj.",
+        "meaning": "节日的，欢庆的，喜庆的",
+        "definition": "looking or feeling bright and cheerful in a way that seems suitable for celebrating sth.",
+        "zh": "节日的，欢庆的，喜庆的"
+      },
+      {
+        "form": "flyover",
+        "ipa": "/ˈflaɪəʊvə(r)/",
+        "pos": "n.",
+        "meaning": "（军机）飞越，编队飞越，飞行表演",
+        "definition": "an occasion when aircraft fly over a particular place, especially as part of a ceremony or public event",
+        "zh": "（军机）飞越，编队飞越，飞行表演"
+      },
+      {
+        "form": "procession",
+        "ipa": "/prəˈseʃn/",
+        "pos": "n.",
+        "meaning": "游行展示，队列行进，列队展示",
+        "definition": "a line of people, vehicles, etc. moving slowly forward as part of a ceremony or public event",
+        "zh": "游行展示，队列行进，列队展示"
+      },
+      {
+        "form": "lecterns",
+        "ipa": "/ˈlektən/",
+        "pos": "n.",
+        "meaning": "讲台，诵经台",
+        "definition": "a stand for holding a book, notes, computer, etc. when you are reading in church, giving a talk, etc.",
+        "zh": "讲台，诵经台"
+      },
+      {
+        "form": "portentous",
+        "ipa": "/pɔːˈtentəs/",
+        "pos": "adj.",
+        "meaning": "不祥的，预示灾祸的",
+        "definition": "showing that sth. important is going to happen, especially sth. bad",
+        "zh": "不祥的，预示灾祸的"
+      },
+      {
+        "form": "dilapidated",
+        "ipa": "/dɪˈlæpɪdeɪtɪd/",
+        "pos": "adj.",
+        "meaning": "破败的，年久失修的",
+        "definition": "old and in poor condition",
+        "zh": "破败的，年久失修的"
+      },
+      {
+        "form": "battered",
+        "ipa": "/ˈbætəd/",
+        "pos": "adj.",
+        "meaning": "破旧的，受严重损坏的，饱受打击的",
+        "definition": "old, used a lot, and not in very good condition",
+        "zh": "破旧的，受严重损坏的，饱受打击的"
+      },
+      {
+        "form": "humiliated",
+        "ipa": "/hjuːˈmɪlieɪt/",
+        "pos": "v.",
+        "meaning": "使蒙羞，使丢脸，羞辱",
+        "definition": "to make sb. feel ashamed or stupid and lose the respect of other people",
+        "zh": "使蒙羞，使丢脸，羞辱"
+      },
+      {
+        "form": "sanctions",
+        "ipa": "/ˈsæŋkʃən/",
+        "pos": "n.",
+        "meaning": "制裁，处罚",
+        "definition": "an official order that limits trade, contact, etc. with a particular country, in order to make it obey international law",
+        "zh": "制裁，处罚"
+      },
+      {
+        "form": "heady",
+        "ipa": "/ˈhedi/",
+        "pos": "adj.",
+        "meaning": "上头的，冒失的，冲动的；使人兴奋的，振奋的",
+        "definition": "(of a person) excited in a way that makes you do things without worrying about the possible results",
+        "zh": "上头的，冒失的，冲动的；使人兴奋的，振奋的"
+      },
+      {
+        "form": "summitry",
+        "ipa": "/ˈsʌmɪtri/",
+        "pos": "n.",
+        "meaning": "峰会外交，首脑会晤政治",
+        "definition": "the use of a summit conference for international negotiation",
+        "zh": "峰会外交，首脑会晤政治"
+      },
+      {
+        "form": "beaming",
+        "ipa": "/ˈbiːm/",
+        "pos": "v.",
+        "meaning": "笑容满面，眉开眼笑",
+        "definition": "to have a big happy smile on your face",
+        "zh": "笑容满面，眉开眼笑"
+      },
+      {
+        "form": "cohort",
+        "ipa": "/ˈkəʊhɔːt/",
+        "pos": "n.",
+        "meaning": "一批人，同类群体",
+        "definition": "a group of people who share a common feature or aspect of behaviour",
+        "zh": "一批人，同类群体"
+      },
+      {
+        "form": "countering",
+        "ipa": "/ˈkaʊntə(r)/",
+        "pos": "v.",
+        "meaning": "对抗，反制",
+        "definition": "to do sth. to reduce or prevent the bad effects of sth.",
+        "zh": "对抗，反制"
+      },
+      {
+        "form": "stunning",
+        "ipa": "/ˈstʌnɪŋ/",
+        "pos": "adj.",
+        "meaning": "惊人的，非常吸引人的",
+        "definition": "extremely attractive or impressive",
+        "zh": "惊人的，非常吸引人的"
+      },
+      {
+        "form": "reversal",
+        "ipa": "/rɪˈvɜːsl/",
+        "pos": "n.",
+        "meaning": "逆转，彻底转变，完全改变",
+        "definition": "a complete change of a situation so that it is the opposite of what it was before",
+        "zh": "逆转，彻底转变，完全改变"
+      },
+      {
+        "form": "ascendant",
+        "ipa": "/əˈsendənt/",
+        "pos": "adj.",
+        "meaning": "占上风的，更强势的，上升中的；n. 增长的势头",
+        "definition": "becoming more powerful or successful; having increasing influence or control",
+        "zh": "占上风的，更强势的，上升中的；n. 增长的势头"
+      },
+      {
+        "form": "pariahs",
+        "ipa": "/pəˈraɪə/",
+        "pos": "n.",
+        "meaning": "被排斥的人，社会弃儿",
+        "definition": "sb. who everyone hates and avoids",
+        "zh": "被排斥的人，社会弃儿"
+      },
+      {
+        "form": "metamorphosis",
+        "ipa": "/ˌmetəˈmɔːfəsɪs/",
+        "pos": "n.",
+        "meaning": "蜕变，彻底转变，变形",
+        "definition": "a complete change in sb. or sth. from one form to another, or a great change in appearance, character, or circumstances",
+        "zh": "蜕变，彻底转变，变形"
+      },
+      {
+        "form": "fared",
+        "ipa": "/feə(r)/",
+        "pos": "v.",
+        "meaning": "取得成功/失败",
+        "definition": "to be successful or unsuccessful in a particular situation",
+        "zh": "取得成功/失败"
+      },
+      {
+        "form": "leveraging",
+        "ipa": "/ˈlɛvərɪdʒ/",
+        "pos": "v.",
+        "meaning": "用杠杆撬动，利用，以小搏大",
+        "definition": "to get as much advantage or profit as possible from sth. that you have",
+        "zh": "用杠杆撬动，利用，以小搏大"
+      },
+      {
+        "form": "arsenal",
+        "ipa": "/ˈɑːsənl/",
+        "pos": "n.",
+        "meaning": "武器库，军火库，武器储备",
+        "definition": "a collection of weapons such as guns and explosives",
+        "zh": "武器库，军火库，武器储备"
+      },
+      {
+        "form": "trampled",
+        "ipa": "/ˈtræmpl/",
+        "pos": "v.",
+        "meaning": "踩踏，践踏，无视",
+        "definition": "to step heavily on sth., so that you crush it with your feet",
+        "zh": "踩踏，践踏，无视"
+      },
+      {
+        "form": "adept",
+        "ipa": "/əˈdept/",
+        "pos": "adj.",
+        "meaning": "熟练的，擅长的，精于……的",
+        "definition": "very skilled or good at doing sth.",
+        "zh": "熟练的，擅长的，精于……的"
+      },
+      {
+        "form": "navigating",
+        "ipa": "/ˈnævɪɡeɪt/",
+        "pos": "v.",
+        "meaning": "导航，驾驭，应对",
+        "definition": "to find your position and the direction you need to go in, for example by using a map",
+        "zh": "导航，驾驭，应对"
+      },
+      {
+        "form": "escalating",
+        "ipa": "/ˈeskəleɪt/",
+        "pos": "v.",
+        "meaning": "升级，加剧，恶化",
+        "definition": "to become greater, worse, or more serious; to make sth. do so",
+        "zh": "升级，加剧，恶化"
+      },
+      {
+        "form": "paid off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "取得成功，得到回报，获得成效",
+        "definition": "to be successful or give a good result after a lot of effort, work, or investment",
+        "zh": "取得成功，得到回报，获得成效"
+      },
+      {
+        "form": "dynamics",
+        "ipa": "/daɪˈnæmɪks/",
+        "pos": "n.",
+        "meaning": "形势，态势，力量变化关系",
+        "definition": "the way in which people or things behave and react to each other within a particular situation or system",
+        "zh": "形势，态势，力量变化关系"
+      },
+      {
+        "form": "albeit",
+        "ipa": "/ˌɔːlˈbiːɪt/",
+        "pos": "conj.",
+        "meaning": "虽然，尽管",
+        "definition": "(formal) although",
+        "zh": "虽然，尽管"
+      },
+      {
+        "form": "confrontation",
+        "ipa": "/ˌkɒnfrʌnˈteɪʃn/",
+        "pos": "n.",
+        "meaning": "对抗，冲突，对峙",
+        "definition": "a situation in which there is anger between people or groups who disagree because they have different opinions",
+        "zh": "对抗，冲突，对峙"
+      },
+      {
+        "form": "formidable",
+        "ipa": "/ˈfɔːmɪdəbl/",
+        "pos": "adj.",
+        "meaning": "强大的，令人敬畏的，棘手的",
+        "definition": "If people, things, or situations are formidable, you feel fear and/or respect for them, because they are impressive or powerful, or because they seem very difficult.",
+        "zh": "强大的，令人敬畏的，棘手的"
+      },
+      {
+        "form": "confluence",
+        "ipa": "/ˈkɒnfluəns/",
+        "pos": "n.",
+        "meaning": "汇合处，汇合，交汇",
+        "definition": "the place where two rivers flow together and become one; the fact of two or more things becoming one",
+        "zh": "汇合处，汇合，交汇"
+      },
+      {
+        "form": "volatile",
+        "ipa": "/ˈvɒlətaɪl/",
+        "pos": "adj.",
+        "meaning": "不稳定的，易变的，动荡的",
+        "definition": "likely to change suddenly; easily becoming dangerous",
+        "zh": "不稳定的，易变的，动荡的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "looking or feeling bright and cheerful in a way that seems suitable for celebrating sth.",
+      "showing that sth. important is going to happen, especially sth. bad"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Kim himself was humiliated and isolated, both domestically and internationally, after failing to deliver much-needed sanctions relief in some heady high-profile summitry with the leaders of the US…”?",
+    "exerciseChoiceMarked": [
+      "heady"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The country enjoyed a few heady months after winning the World Cup, with celebrations continuing across the nation.",
+        "marked": [
+          "heady"
+        ],
+        "zh": "赢得世界杯后，这个国家度过了几个令人兴奋的月份，全国范围内持续着庆祝活动。"
+      },
+      {
+        "label": "B",
+        "text": "In a heady rush of confidence, he quit his job without having another one lined up.",
+        "marked": [
+          "heady"
+        ],
+        "zh": "在极度自信的驱使下，他没有再寻找新的工作，就直接辞去了原来的工作。"
+      },
+      {
+        "label": "C",
+        "text": "Their heady decision to invest all their savings in a single startup worried their friends.",
+        "marked": [
+          "heady"
+        ],
+        "zh": "他们冲动地决定将所有积蓄投资于一家初创企业，这一决定让他们的朋友感到担忧。"
+      },
+      {
+        "label": "D",
+        "text": "The senator was criticized for making a series of heady promises without considering the costs.",
+        "marked": [
+          "heady"
+        ],
+        "zh": "这位参议员因在不考虑成本的情况下做出一系列承诺而受到批评。"
+      }
+    ],
+    "exerciseTranslationPrompt": "命运骤然翻转之下，今天的朝鲜强势崛起，其程度甚至连最富想象力的分析人士都未必能预见。",
+    "answerVocabularyList": [
+      "festive",
+      "portentous"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "In a stunning reversal of fortune, North Korea today is ascendant in ways not even the most imaginative analyst could have predicted."
+  },
+  {
     "key": "jun0615",
     "date": "2026.06.15",
     "period": "2026年06月",
@@ -10162,6 +13122,368 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "lifting"
     ]
+  },
+  {
+    "key": "jun0618",
+    "date": "2026.06.18",
+    "period": "2026年6月",
+    "folder": "0618 成为父亲：人类父亲的奇妙之处 1",
+    "titleZh": "成为父亲：人类父亲的奇妙之处 1",
+    "title": "The marvel of the human dad",
+    "topicEn": "Psychology",
+    "topicZh": "心理",
+    "byline": "By Anna Machin, Aeon, Published January 17, 2019",
+    "paragraphs": [
+      "What separates us from our fellow apes is a question that, rightly or wrongly, distracts anthropologists periodically. Their discussions generally focus on language, tool use, creativity or our remarkable abilities to innovate, and it is certainly the case that two decades ago these answers would have been top of the ‘exclusively human’ list. But as our knowledge of the cognitive and behavioural abilities of our primate cousins increases, the dividing line between us and them becomes more blurred, being about the extent and complexity of—rather than the presence or absence of—a behaviour. Take tool production and use. Chimps are adept at selecting and modifying grass stalks to use as ‘fishing rods‘ when dipping for termites, but their ability to innovate is limited, so there’s no rapid forward momentum in tool development as would be the case with humans.",
+      "However, there is one aspect of human behaviour that is unique to us but is rarely the focus of these discussions. So necessary is this trait to the survival of our species that it is underpinned by an extensive, interrelated web of biological, psychological and behavioural systems that evolved over the past half a million years. Yet, until 10 years ago, we had neglected to try to understand this trait, due to the misguided assumption that it was of no significance—indeed, that it was dispensable. This trait is human fatherhood, and the fact that it doesn’t immediately spring to mind is symptomatic of the overwhelming neglect of this key figure in our society. When I began researching fathers 10 years ago, the belief was that they contributed little to the lives of their children and even less to our society, and that any parenting behaviour a man might display was the result of learning rather than any innate fathering skill. Stories of fathers in the media centred on their absence and the consequences of this for our society in terms of antisocial behaviour and drug addiction, particularly among sons. There was little recognition that the majority of men, co-resident or not, were invested in their children’s lives. It was a given that fathers did not develop the profound bonds with their children that mothers did, because their role was confined to that of a secondary parent who existed, as a consequence of work, at a slight distance from the family. The lack of breadth in the literature and its sweeping generalisations and stereotypes was truly shocking. As an anthropologist, I struggled to accept this portrayal for two reasons.",
+      "In the first instance, as someone who began her graduate career as a primatologist, I knew that fathers who stick around, rather than hot-footing it as soon as copulation is complete, are vanishingly rare in the primate world, limited to a few South American monkey species and completely absent from the apes, with the exception of ourselves. Indeed, we are among the only 5 per cent of mammals who have investing fathers. I knew that, given the parsimonious nature of evolution, human fatherhood —with its complex anatomical, neural, physiological and behavioural changes—would not have emerged unless the investment that fathers make in their children is vital for the survival of our species.",
+      "Secondly, as an anthropologist whose training encompassed the societal structures and practices that are so fundamental to an understanding of our species, I was surprised to learn how little time we had spent placing this key figure under the microscope of our analysis. Ethnography after ethnography focused on the family and the role of the mother, and duly acknowledged the cooperative nature of childrearing, but very rarely was dad the particular subject of observation. How could we truly call ourselves human scientists when there was such a glaring gap in our knowledge of our own species? As a consequence, and driven partly by my own recent parenthood, I embarked on a research programme based around two very broad and open questions: who is the human father, and what is he for?",
+      "To understand the role of the father, we must first understand why it evolved in our species of ape and no other. The answer inevitably lies in our unique anatomy and life history. As any parent knows, human babies are startlingly dependent when they are born. This is due to the combination of a narrowed birth canal—the consequence of our bipedality—and our unusually large brains, which are six times larger than they should be for a mammal of our body size.",
+      "Without dad’s input, the threat to the survival of his child, and hence his genetic heritage, was such that, on balance, it made sense to stick around. Dad was incentivised to commit to one female and one family while rejecting those potential matings with other females, where his paternity was less well-assured. As time ticked on and the complexity of human life increased, another stage of human life-history evolved: the adolescent. This was a period of learning and exploration before the distractions that accompany sexual maturity start to emerge. With this individual, fathers truly came into their own. For there was much to teach an adolescent about the rules of cooperation, the skills of the hunt, the production of tools, and the knowledge of the landscape and its inhabitants. Mothers, still focused on the production of the next child, would be restricted in the amount of hands-on life experience they could give their teenagers, so it was dad who became the teacher.",
+      "This still rings true for the fathers whom my colleagues and I research, across the globe, today. In all cultures, regardless of their economic model, fathers teach their children the vital skills to survive in their particular environment. Among the Kipsigis tribe in Kenya, fathers teach their sons about the practical and economic aspects of tea farming. From the age of nine or 10, boys are taken into the fields to learn the necessary practical skills of producing a viable crop, but in addition—and perhaps more vitally—they are allowed to join their fathers at the male-only social events where the deals are made, ensuring that they also have the negotiation skills and the necessary relationships that are vital to success in this tough, marginal habitat.",
+      "In contrast, children of the Aka tribe of both sexes join their fathers in the net hunts that take place daily in the forests of the Democratic Republic of Congo. The Aka men are arguably the most hands-on fathers in the world, spending nearly half their waking time in actual physical contact with their children. This enables them to pass on the complex stalking and catching skills of the net hunt, but also teaches sons about their role as co-parent to any future children."
+    ],
+    "paragraphTranslations": [
+      "将我们与别的猿类区分开来的问题，无论对错，都一直是人类学家们不断探讨的话题。他们的讨论通常集中在语言、工具使用、创造力以及我们非凡的创新能力上。的确，二十年前，这些因素绝对会位居“人类独有的能力”清单的首位。但随着我们对灵长类动物认知能力和行为能力的了解不断加深，我们与它们之间的界限变得模糊起来——这种模糊更多地体现在行为的范围和复杂性上，而非行为的存在与否。以工具的生产和使用为例：黑猩猩在捕捉白蚁时，能够熟练地选择并改造草茎作为“钓竿”，但它们的创新能力有限，因此工具使用的创新过程并不像人类那样具有快速的发展势头。",
+      "然而，人类行为中有一个特点是我们所独有的，但很少成为这些讨论的焦点。这一特点对我们物种的生存至关重要，它由一系列相互关联的生物学、心理学和行为学系统构成，这些系统是在过去五十万年里逐渐演变而来的。然而，直到十年前，我们都没有努力去理解这一特点，因为人们错误地认为这一特点并不重要——实际上，他们认为这一特点是可以被忽视的。这一特点就是人类作为父亲的行为。这一特点没有立即浮现在我们的脑海中，恰恰反映了我们社会对这一关键问题的严重忽视。10年前我开始研究父亲这一主题时，人们普遍认为，父亲对子女的生活贡献甚微，甚至对社会的贡献也微乎其微。人们还认为，男性所表现出的任何育儿行为，都是后天学习的结果，而非与生俱来的父亲角色。媒体中的父亲故事往往聚焦于父亲的“缺席”现象，以及这一现象对我们社会的负面影响，尤其是对社会中反社会行为和药物成瘾问题的影响，尤其是针对儿子们而言。人们几乎没有意识到，大多数男性，无论是否与子女同住，都投入了大量的时间和精力来照顾他们的生活。人们理所当然地认为，父亲无法像母亲那样与子女建立深厚的情感联系，因为他们的角色只是作为次要的家长，由于工作原因，他们与家庭保持着一定的距离。相关文献中缺乏对这些问题的深入探讨，以及其中的概括性和刻板印象，实在令人震惊。作为一名人类学家，我之所以难以接受这种描述，有两个原因。",
+      "首先，作为一名以灵长类动物学为研究方向的研究生，我知道在灵长类动物中，那些会持续陪伴孩子、而不是在交配完成后立即离开的父亲的群体非常稀少。这种现象主要出现在南美洲的一些猴子物种中，而在类人猿中则完全不存在，只有人类例外。事实上，人类属于哺乳动物中仅有的5%具有“投资型父亲”特征的物种。我知道，鉴于进化的局限性，人类这种具有复杂解剖学、神经学、生理学以及行为学特征的家庭模式，只有在父亲对子女的投入对物种生存至关重要的条件下，才会出现。",
+      "其次，作为一名研究人类社会结构与习俗的人类学家，这些内容与理解人类本质至关重要。我惊讶地发现，我们很少将父亲这一重要角色作为研究对象来进行分析。在众多关于家庭与母亲角色的研究中，确实提到了育儿过程中的合作性，但父亲作为研究对象的案例却极为罕见。当我们在对自己物种的认知上存在如此明显的空白时，我们如何能真正称自己为人类科学家呢？因此，受自身最近成为父母的经历所驱动，我开始了一项基于两个非常广泛且重要问题的研究：人类父亲究竟是谁？他究竟扮演着怎样的角色？",
+      "要理解父亲在人类社会中的角色，我们必须先了解为什么这种角色会在我们的猿类中出现，而在其他物种中则不会出现。答案必然与我们的独特解剖结构和生活史有关。任何一位父母都明白，人类婴儿在刚出生时都极其依赖父母。这一现象是由于我们双足行走的习性导致的骨盆狭窄，以及我们异常庞大的大脑——与我们体型相符的哺乳动物相比，我们的大脑体积要大六倍。",
+      "没有父亲的参与，以及对孩子，进而对家族遗传血脉的威胁，总的来说，继续留在父亲身边是明智的选择。父亲被激励去专注于与一个女性、一个家庭建立关系，而拒绝与其他女性建立关系，因为那样一来，他作为父亲的身份就不那么可靠了。随着时间的推移，人类生活的复杂性逐渐增加，人类生命历程也出现了另一个阶段：青春期。这是一段学习和探索的时期，在性成熟带来的各种干扰出现之前，父亲们真正发挥了自己的作用。因为对于青春期前的孩子来说，有很多东西需要学习，比如合作的规则、狩猎技巧、工具的制作方法，以及关于当地环境及其居民的知识。母亲们仍然专注于下一代孩子的生育工作，因此她们能够给予青少年的生活经验就会受到限制。所以，成为老师的角色就落在了父亲身上。",
+      "这一点对于我们同事在全球范围内研究的那些父亲们来说仍然适用。在所有文化中，无论经济模式如何，父亲都会教导子女在特定环境中生存所需的基本技能。在肯尼亚的基普西吉斯部落中，父亲们会教导儿子们有关茶叶种植的实际与经济方面的知识。从九、十岁开始，男孩们就会被带到田里，学习生产可食用作物所需的实用技能。此外，他们还有机会参加只有男性才能参加的社交活动，在这些活动中他们会参与交易，从而掌握谈判技巧以及建立必要的人际关系，这对于在如此艰难、边缘化的环境中取得成功至关重要。",
+      "相比之下，阿卡部落的男女儿童会与他们的父亲一起在刚果民主共和国的森林中开展日常性的网捕活动。可以说，阿卡族男性是世界上最投入的父亲，他们几乎一半的清醒时间都用于与孩子的身体接触。这不仅使他们能够传授复杂的网捕技巧，还能让儿子们了解自己作为共同抚养者的责任，从而能够妥善照顾未来的孩子。"
+    ],
+    "vocabulary": [
+      {
+        "form": "periodically",
+        "ipa": "/ˌpɪəriˈɒdɪkli/",
+        "pos": "adv.",
+        "meaning": "定期地，周期性地，时不时",
+        "definition": "in a way that happens fairly often and regularly",
+        "zh": "定期地，周期性地，时不时"
+      },
+      {
+        "form": "exclusively",
+        "ipa": "/ɪkˈskluːsɪvli/",
+        "pos": "adv.",
+        "meaning": "专有地，专门地",
+        "definition": "for only one particular person, group or use",
+        "zh": "专有地，专门地"
+      },
+      {
+        "form": "primate",
+        "ipa": "/ˈpraɪmeɪt/",
+        "pos": "n.",
+        "meaning": "灵长目动物",
+        "definition": "any animal that belongs to the group of mammals that includes humans, apes and monkeys",
+        "zh": "灵长目动物"
+      },
+      {
+        "form": "blurred",
+        "ipa": "/blɜːd/",
+        "pos": "adj.",
+        "meaning": "模糊不清的，界限混淆的",
+        "definition": "difficult to recognize, so differences are not clear",
+        "zh": "模糊不清的，界限混淆的"
+      },
+      {
+        "form": "adept",
+        "ipa": "/əˈdept/",
+        "pos": "adj.",
+        "meaning": "擅长的，熟练的，精通的",
+        "definition": "good at doing sth. that is quite difficult",
+        "zh": "擅长的，熟练的，精通的"
+      },
+      {
+        "form": "stalks",
+        "ipa": "/stɔːk/",
+        "pos": "n.",
+        "meaning": "（花、叶、果实与植株相连的）柄，梗；v. 悄悄跟踪，潜行靠近",
+        "definition": "a thin stem that supports a leaf, flower or fruit and joins it to another part of the plant or tree; the main stem of a plant",
+        "zh": "（花、叶、果实与植株相连的）柄，梗；v. 悄悄跟踪，潜行靠近"
+      },
+      {
+        "form": "fishing rods",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "鱼竿，钓竿",
+        "definition": "a long wooden or plastic stick with a fishing line and hook attached, used for catching fish",
+        "zh": "鱼竿，钓竿"
+      },
+      {
+        "form": "termites",
+        "ipa": "/ˈtɜːmaɪt/",
+        "pos": "n.",
+        "meaning": "白蚁",
+        "definition": "an insect that lives in organized groups, mainly in hot countries. Termites do a lot of damage by eating the wood of trees and buildings.",
+        "zh": "白蚁"
+      },
+      {
+        "form": "underpinned",
+        "ipa": "/ˌʌndəˈpɪn/",
+        "pos": "v.",
+        "meaning": "为（论点、主张、理论等）提供支撑，构成……的基础",
+        "definition": "(formal) to support or form the basis of an argument, a claim, etc.",
+        "zh": "为（论点、主张、理论等）提供支撑，构成……的基础"
+      },
+      {
+        "form": "misguided",
+        "ipa": "/ˌmɪsˈɡaɪdɪd/",
+        "pos": "adj.",
+        "meaning": "被误导的",
+        "definition": "wrong because you have understood or judged a situation badly",
+        "zh": "被误导的"
+      },
+      {
+        "form": "dispensable",
+        "ipa": "/dɪˈspensəbl/",
+        "pos": "adj.",
+        "meaning": "不必要的，可有可无的",
+        "definition": "not necessary; that can be got rid of",
+        "zh": "不必要的，可有可无的"
+      },
+      {
+        "form": "spring to mind",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "突然浮现在脑海，一下子想到",
+        "definition": "if sth. springs to mind, you suddenly remember or think of it",
+        "zh": "突然浮现在脑海，一下子想到"
+      },
+      {
+        "form": "symptomatic",
+        "ipa": "/ˌsɪmptəˈmætɪk/",
+        "pos": "adj.",
+        "meaning": "作为征兆的",
+        "definition": "being a sign of an illness or a problem",
+        "zh": "作为征兆的"
+      },
+      {
+        "form": "overwhelming",
+        "ipa": "/ˌəʊvəˈwelmɪŋ/",
+        "pos": "adj.",
+        "meaning": "极其强烈的，势不可挡的，令人难以承受的",
+        "definition": "very great or very strong; so powerful that you cannot resist it or decide how to react",
+        "zh": "极其强烈的，势不可挡的，令人难以承受的"
+      },
+      {
+        "form": "innate",
+        "ipa": "/ɪˈneɪt/",
+        "pos": "adj.",
+        "meaning": "与生俱来的，先天的，天生的",
+        "definition": "(of a quality, feeling, etc.) that you have when you are born",
+        "zh": "与生俱来的，先天的，天生的"
+      },
+      {
+        "form": "invested",
+        "ipa": "/ɪnˈvest/",
+        "pos": "v.",
+        "meaning": "投入（时间、精力等）",
+        "definition": "to spend time, energy, effort, etc. on sth. that you think is good or useful",
+        "zh": "投入（时间、精力等）"
+      },
+      {
+        "form": "breadth",
+        "ipa": "/bredθ/",
+        "pos": "n.",
+        "meaning": "广度，涉猎范围",
+        "definition": "a wide range (of knowledge, interests, etc.)",
+        "zh": "广度，涉猎范围"
+      },
+      {
+        "form": "sweeping",
+        "ipa": "/ˈswiːpɪŋ/",
+        "pos": "adj.",
+        "meaning": "笼统一概而论的，以偏概全的",
+        "definition": "(disapproving) too general and failing to think about or understand particular examples",
+        "zh": "笼统一概而论的，以偏概全的"
+      },
+      {
+        "form": "primatologist",
+        "ipa": "/ˌpraɪməˈtɒlədʒɪst/",
+        "pos": "n.",
+        "meaning": "灵长类动物学家",
+        "definition": "a scientist who studies primates (monkeys, apes and humans)",
+        "zh": "灵长类动物学家"
+      },
+      {
+        "form": "stick around",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "留在原地等候",
+        "definition": "(informal) to stay in a place, waiting for sth. to happen or for sb. to arrive",
+        "zh": "留在原地等候"
+      },
+      {
+        "form": "hot-footing it",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "火速赶往，快步、快跑离开",
+        "definition": "(informal) to walk or run somewhere quickly",
+        "zh": "火速赶往，快步、快跑离开"
+      },
+      {
+        "form": "copulation",
+        "ipa": "/ˌkɒpjuˈleɪʃn/",
+        "pos": "n.",
+        "meaning": "动物交配行为",
+        "definition": "(specialist) the act of having sex",
+        "zh": "动物交配行为"
+      },
+      {
+        "form": "parsimonious",
+        "ipa": "/ˌpɑːsɪˈməʊniəs/",
+        "pos": "adj.",
+        "meaning": "吝啬的，小气的",
+        "definition": "(formal) extremely unwilling to spend money",
+        "zh": "吝啬的，小气的"
+      },
+      {
+        "form": "encompassed",
+        "ipa": "/ɪnˈkʌmpəs/",
+        "pos": "v.",
+        "meaning": "包含，涵盖",
+        "definition": "(formal) to include a large number or range of things",
+        "zh": "包含，涵盖"
+      },
+      {
+        "form": "Ethnography",
+        "ipa": "/eθˈnɒɡrəfi/",
+        "pos": "n.",
+        "meaning": "人种志，民族志",
+        "definition": "the scientific description of different peoples and cultures, with their customs, habits and differences",
+        "zh": "人种志，民族志"
+      },
+      {
+        "form": "duly",
+        "ipa": "/ˈdjuːli/",
+        "pos": "adv.",
+        "meaning": "适当地，恰当地",
+        "definition": "(formal) in the correct or expected manner",
+        "zh": "适当地，恰当地"
+      },
+      {
+        "form": "glaring",
+        "ipa": "/ˈɡleərɪŋ/",
+        "pos": "adj.",
+        "meaning": "显眼的，昭然若揭的，显而易见的",
+        "definition": "(of something bad) very easily seen",
+        "zh": "显眼的，昭然若揭的，显而易见的"
+      },
+      {
+        "form": "embarked on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "着手，开启",
+        "definition": "(formal) to start to do something new or difficult",
+        "zh": "着手，开启"
+      },
+      {
+        "form": "startlingly",
+        "ipa": "/ˈstɑːtlɪŋli/",
+        "pos": "adv.",
+        "meaning": "惊人地，令人意外地",
+        "definition": "in a way that is extremely unusual and surprising",
+        "zh": "惊人地，令人意外地"
+      },
+      {
+        "form": "bipedality",
+        "ipa": "/ˌbaɪpɪˈdæləti/",
+        "pos": "n.",
+        "meaning": "双足行走，两足直立行走",
+        "definition": "the ability to walk on two feet",
+        "zh": "双足行走，两足直立行走"
+      },
+      {
+        "form": "paternity",
+        "ipa": "/pəˈtɜːnəti/",
+        "pos": "n.",
+        "meaning": "父亲身份",
+        "definition": "the fact of being the father of a child",
+        "zh": "父亲身份"
+      },
+      {
+        "form": "hands-on",
+        "ipa": "/ˌhændz ˈɒn/",
+        "pos": "adj.",
+        "meaning": "实操的，亲身参与的，动手实践的",
+        "definition": "doing sth. rather than just talking about it",
+        "zh": "实操的，亲身参与的，动手实践的"
+      },
+      {
+        "form": "rings true",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "听起来真实可信",
+        "definition": "to give the impression of being sincere/true",
+        "zh": "听起来真实可信"
+      },
+      {
+        "form": "viable",
+        "ipa": "/ˈvaɪəbl/",
+        "pos": "adj.",
+        "meaning": "可行的，能成功的",
+        "definition": "that can be done; that will be successful",
+        "zh": "可行的，能成功的"
+      },
+      {
+        "form": "marginal",
+        "ipa": "/ˈmɑːdʒɪnl/",
+        "pos": "adj.",
+        "meaning": "贫瘠的，低产的",
+        "definition": "(of land) that cannot produce enough good crops to make a profit",
+        "zh": "贫瘠的，低产的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "not necessary; that can be got rid of",
+      "being a sign of an illness or a problem"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “The lack of breadth in the literature and its sweeping generalisations and stereotypes was truly shocking.”?",
+    "exerciseChoiceMarked": [
+      "sweeping"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The villa had a sweeping staircase and marble columns.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "别墅里有一座弧形大楼梯和几根大理石柱。"
+      },
+      {
+        "label": "B",
+        "text": "The candidate failed to win the sweeping victory he expected.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "这位候选人未能取得他期望中的压倒性胜利。"
+      },
+      {
+        "label": "C",
+        "text": "It is far too early to make sweeping statements about gene therapy.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "现在就对基因治疗下笼统的判断还为时过早。"
+      },
+      {
+        "label": "D",
+        "text": "The new government has started to make sweeping changes in the economy.",
+        "marked": [
+          "sweeping"
+        ],
+        "zh": "新政府已经开始在经济领域进行全面的改革。"
+      }
+    ],
+    "exerciseTranslationPrompt": "人们理所当然地认为，父亲无法像母亲那样与孩子建立深厚的情感联结，因为他们的角色被限定为次要的照顾者，受工作所限，与家庭始终保持着些许距离。",
+    "answerVocabularyList": [
+      "dispensable",
+      "symptomatic"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "It was a given that fathers did not develop the profound bonds with their children that mothers did, because their role was confined to that of a secondary parent who existed, as a consequence of work, at a slight distance from the family."
   },
   {
     "key": "jun0622",
@@ -11240,6 +14562,284 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "jun0629",
+    "date": "2026.06.29",
+    "period": "2026年6月",
+    "folder": "0629 在美国建国 250 周年时重读《独立宣言》",
+    "titleZh": "在美国建国 250 周年时重读《独立宣言》",
+    "title": "The Words That Made America",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Walter Isaacson, TIME, Published Jun 25, 2026",
+    "paragraphs": [
+      "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. ” These simple words made America.",
+      "At the Second Continental Congress of the American colonies, meeting in Philadelphia, Richard Henry Lee of Virginia proposed a motion on June 7, 1776, that proclaimed, These United Colonies are, and of right ought to be, free and independent states.” As the congress prepared to vote on that question, it appointed a committee to draft a declaration explaining the decision. Because John Adams, perhaps the most zealous member of the committee, thought a Virginian author was essential, Jefferson, at 33, got the not entirely welcome honor of drafting the document, which he did in a rented second-floor room on Market Street, just a block from Franklin’s home and the statehouse that would later be known as Independence Hall.",
+      "Jefferson’s writing style was graced with rolling cadences and mellifluous phrases, powerful beneath their polish. He echoed both the language and the grand theories of English and Scottish Enlightenment thinkers, most notably the concept of natural rights propounded by John Locke, whose Second Treatise on Government he had read at least three times. He also borrowed freely from the Declaration of Rights in the new Virginia constitution that had just been drafted a few weeks earlier by his fellow planter George Mason. When he finished his first draft, Jefferson sent it to Franklin on the morning of Friday, June 21. Will Doctor Franklin be so good as to peruse it,” he wrote in his cover note, and suggest such alterations as his more enlarged view of the subject will dictate?” For the next 10 days, the committee made edits and tweaks.",
+      "Most notable was the crafting of the soaring second sentence. Other nations had been born out of conquests and rebellions, usually based on tribal or religious identities. But the United States was born out of an ideal, which the final version proclaimed in the memorable words: We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. It may be the greatest sentence ever crafted, and each word has special meaning and resonance. The first word of the sentence is also the first word in our Constitution, drafted 11 years later, which begins We the people …” The use of the word we signifies that our governance is based not on the divine right of kings or the power imposed by emperors and conquerors. It is based on a compact, a social contract, that we the people have entered into. Jefferson went on to write, We hold these truths to be sacred …” Franklin crossed out sacred, using the heavy backslash marks he had often employed as a printer, and wrote in self-evident. Their declaration, he believed, was intended to herald a new type of nation, one in which our rights are based on reason, not the dictates or dogma of religion.",
+      "But let’s be honest. Labeling their assertions of these truths” as self-evident” was not entirely correct. They were, in fact, quite controversial, even revolutionary. Jefferson went on to use the phrase all men. That seems, on the surface, to be very inclusive. And so it was, in theory. But in practice it was, in fact, very restrictive, and its eventual expansion, in fits and starts, is a key element in the narrative of America. The lengthy passage in Jefferson’s draft of the Declaration denouncing the slave trade was edited out by the delegates before it was approved. Of the 56 signers, 41 owned slaves. When independence was declared, all 13 of the rebellious colonies permitted slavery. At a cost of close to 700,000 lives, including 7,058 buried in the cemetery he dedicated that day in Gettysburg, the Civil War brought an end to slavery.",
+      "The sentence culminates with the resounding famous phrase life, liberty and the pursuit of happiness. In John Locke’s original development of his contract theory, he identifies three fundamental rights: life, liberty, and property. Jefferson’s formulation the pursuit of happiness” is just a more aspirational, expansive, and breathing way to say all of that. It is your right— and your opportunity—to seek fulfillment, meaning, and well-being however you personally see fit. In other words, it defines what became known as the American Dream. We must all hang together.” Franklin replied, alluding to what would happen to them if their revolution failed, Yes, we must, indeed, all hang together, or most assuredly we shall all hang separately.” As Franklin pointed out, our life-or-death challenge as a nation, whether it be in 1776 or 2026, is this: When there are so many forces dedicated to dividing us, how can we best hang together?"
+    ],
+    "paragraphTranslations": [
+      "我们认为以下这些真理是显而易见的：所有的人都是平等的；造物主赋予了他们一些不可剥夺的权利，这些权利包括生命、自由和追求幸福的权利。正是这些简单的理念塑造了美国。",
+      "在费城举行的第二次美洲殖民地代表大会上，来自弗吉尼亚州的理查德·亨利·李在1776年6月7日提出了一项决议，其中宣称：“这些联合殖民地本来应该是自由且独立的州。”在会议准备对这项决议进行投票时，会议任命了一个委员会来起草一份解释该决定的宣言。由于约翰·亚当斯，或许是该委员会中最热情的支持者，认为有一位弗吉尼亚州的作家非常关键，因此33岁的杰斐逊被委以起草这份文件的责任，尽管这一任务并不受欢迎。杰斐逊在市场街的一间租用的二楼房间里完成了这份文件，那里距离富兰克林的住宅以及后来被称为独立大厅的州议会大厦仅有一个街区之遥。",
+      "杰斐逊的写作风格以流畅的节奏和优美的话语为特点，这些文字虽然简洁明了，但内涵却十分深刻。他的文风既借鉴了英国和苏格兰启蒙时代思想家们的语言风格，也借鉴了他们提出的自然权利概念，尤其是约翰·洛克在《政府论》第二篇中提出的这一理念。杰斐逊至少已经阅读了那本著作三遍。他还大量借鉴了新弗吉尼亚宪法中的《权利宣言》内容，这份宪法是几周前由他的同胞种植园主乔治·梅森起草的。当杰斐逊完成初稿后，他在6月21日星期五的早晨将稿子寄给了富兰克林。他在封面注释中写道：“请富兰克林先生仔细审阅这份文件，并提出他认为必要的修改建议吧。”在接下来的10天里，委员会对这份稿子进行了多次修改和润色。",
+      "最引人注目的是那句篇幅较长的第二句话的撰写方式。其他国家都是通过在征服和叛乱中建立起来的，其建国基础通常基于部落或宗教认同。但美国则是基于一种理想而建立起来的。最终版本中这样宣告了这一理念：“我们认为以下这些真理是显而易见的：所有人类都是平等的；造物主赋予他们一些不可剥夺的权利，这些权利包括生命、自由和追求幸福的权利。”这或许是有史以来最精彩的句子创作，其中的每一个词都具有特殊的意义和深远的影响。这句话的第一个词，也是11年后起草的《宪法》中的第一个词，开头是“我们人民……”使用“我们”这个词，意味着我们的治理不是基于君权神授或皇帝与征服者所施加的权力。这是基于一项简朴的、具有契约性质的协议，我们人民已经签署了这一协议。杰斐逊接着写道：“我们认为这些真理是神圣不可侵犯的……”富兰克林用他常用的重笔划删去了“神圣”一词，并改为“不言而喻”。他认为，他们的宣言旨在宣告一种新型国家的诞生——在这种国家里，我们的权利是建立在理性之上，而非宗教的教条或束缚。",
+      "但让我们坦诚地说。将他们关于这些真理的断言称为“不言而喻的”并不完全准确。实际上，这些主张颇具争议性，甚至可以说是具有革命性的。杰斐逊后来使用了“所有人”这一表述。从表面上看，这似乎非常包容。在理论上确实如此。但实际上，这种表述却非常具有局限性。杰斐逊在《独立宣言》草案中详细谴责了奴隶贸易的内容，但在该文件最终获得批准之前，这部分内容被删除了。在56位签署者中，有41人拥有奴隶。当独立宣言被宣布时，所有13个叛乱的殖民地都允许奴隶制。在内战期间，约有70万人的生命丧失，其中包括7,058名在葛蒂斯堡被埋葬的奴隶。这场内战最终结束了奴隶制。",
+      "这句话以著名的“生命、自由与追求幸福”这一表述作为结尾。在约翰·洛克最初提出契约理论时，他区分了三种基本权利：生命、自由和财产。杰斐逊将“追求幸福”这一表述，实际上是一种更具理想主义色彩、更为宽泛的表述方式。这是一种权利——也是你的机会——去追求你认为合适的满足感、意义感和幸福感。换句话说，这定义了后来被称为“美国梦”的概念。我们必须团结一致。富兰克林回应道，如果他们的革命失败，他们将会面临什么？是的，我们确实必须团结一致，否则我们肯定都会各自为营。正如富兰克林所指出的，作为一个国家，无论是在1776年还是2026年，我们面临的生死挑战就是：当有许多力量试图分裂我们时，我们该如何更好地团结在一起呢？"
+    ],
+    "vocabulary": [
+      {
+        "form": "endowed",
+        "ipa": "/ɪnˈdaʊ/",
+        "pos": "v.",
+        "meaning": "使天生赋有；使生来具有",
+        "definition": "to freely or naturally provide (someone or something) with something",
+        "zh": "使天生赋有；使生来具有"
+      },
+      {
+        "form": "unalienable",
+        "ipa": "/ʌnˈeɪliənəbl/",
+        "pos": "adj.",
+        "meaning": "不可剥夺（或分割）的",
+        "definition": "that cannot be taken away from you",
+        "zh": "不可剥夺（或分割）的"
+      },
+      {
+        "form": "motion",
+        "ipa": "/ˈməʊʃn/",
+        "pos": "n.",
+        "meaning": "动议；提议",
+        "definition": "a formal proposal that is discussed and voted on at a meeting",
+        "zh": "动议；提议"
+      },
+      {
+        "form": "zealous",
+        "ipa": "/ˈzeləs/",
+        "pos": "adj.",
+        "meaning": "热情的；热烈的；充满激情的",
+        "definition": "showing great energy and enthusiasm for something, especially because you feel strongly about it",
+        "zh": "热情的；热烈的；充满激情的"
+      },
+      {
+        "form": "cadences",
+        "ipa": "/ˈkeɪdns/",
+        "pos": "n.",
+        "meaning": "（说话时语调的）抑扬顿挫，起落",
+        "definition": "the rise and fall of the voice in speaking",
+        "zh": "（说话时语调的）抑扬顿挫，起落"
+      },
+      {
+        "form": "mellifluous",
+        "ipa": "/meˈlɪfluəs/",
+        "pos": "adj.",
+        "meaning": "甜美流畅的；悦耳动听的",
+        "definition": "sounding sweet and smooth; very pleasant to listen to",
+        "zh": "甜美流畅的；悦耳动听的"
+      },
+      {
+        "form": "polish",
+        "ipa": "/ˈpɒlɪʃ/",
+        "pos": "n.",
+        "meaning": "优美；高雅；精致；完善",
+        "definition": "a high level of skill or style in the way someone performs, writes, or behaves",
+        "zh": "优美；高雅；精致；完善"
+      },
+      {
+        "form": "propounded",
+        "ipa": "/prəˈpaʊnd/",
+        "pos": "v.",
+        "meaning": "提出（主意或解释）供考虑",
+        "definition": "to suggest an idea or explanation of something for people to consider",
+        "zh": "提出（主意或解释）供考虑"
+      },
+      {
+        "form": "peruse",
+        "ipa": "/pəˈruːz/",
+        "pos": "v.",
+        "meaning": "细读；研读",
+        "definition": "to read something, especially in a careful way",
+        "zh": "细读；研读"
+      },
+      {
+        "form": "alterations",
+        "ipa": "/ˌɔːltəˈreɪʃn/",
+        "pos": "n.",
+        "meaning": "变更；改变",
+        "definition": "the act, process, or result of changing or altering something",
+        "zh": "变更；改变"
+      },
+      {
+        "form": "dictate",
+        "ipa": "/dɪkˈteɪt/",
+        "pos": "v.",
+        "meaning": "支配；摆布；决定",
+        "definition": "to control or influence how something happens",
+        "zh": "支配；摆布；决定"
+      },
+      {
+        "form": "tweaks",
+        "ipa": "/twiːk/",
+        "pos": "n.",
+        "meaning": "微调；稍微调整",
+        "definition": "a small change made in order to improve something",
+        "zh": "微调；稍微调整"
+      },
+      {
+        "form": "resonance",
+        "ipa": "/ˈrezənəns/",
+        "pos": "n.",
+        "meaning": "（因与亲身经历有关而产生的）共鸣",
+        "definition": "the special meaning or importance that something has for you because it relates to your own experiences",
+        "zh": "（因与亲身经历有关而产生的）共鸣"
+      },
+      {
+        "form": "imposed",
+        "ipa": "/ɪmˈpəʊz/",
+        "pos": "v.",
+        "meaning": "迫使；把…强加于",
+        "definition": "to force somebody / something to have to deal with something that is difficult or unpleasant",
+        "zh": "迫使；把…强加于"
+      },
+      {
+        "form": "compact",
+        "ipa": "/ˈkɒmpækt/",
+        "pos": "n.",
+        "meaning": "协定；协议；契约；合约",
+        "definition": "a formal agreement between two or more people or countries",
+        "zh": "协定；协议；契约；合约"
+      },
+      {
+        "form": "crossed out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "删去；删掉",
+        "definition": "to draw a line through (something) to show that it is wrong",
+        "zh": "删去；删掉"
+      },
+      {
+        "form": "herald",
+        "ipa": "/ˈherəld/",
+        "pos": "v.",
+        "meaning": "是（某事）的前兆；预示",
+        "definition": "to be a sign that something is going to happen",
+        "zh": "是（某事）的前兆；预示"
+      },
+      {
+        "form": "dogma",
+        "ipa": "/ˈdɒɡmə/",
+        "pos": "n.",
+        "meaning": "教义；教理；信条；教条",
+        "definition": "a belief or set of beliefs held by a group or organization that others are expected to accept without argument",
+        "zh": "教义；教理；信条；教条"
+      },
+      {
+        "form": "assertions",
+        "ipa": "/əˈsɜːʃn/",
+        "pos": "n.",
+        "meaning": "断言，声明，主张",
+        "definition": "something that you say or write that you strongly believe",
+        "zh": "断言，声明，主张"
+      },
+      {
+        "form": "restrictive",
+        "ipa": "/rɪˈstrɪktɪv/",
+        "pos": "adj.",
+        "meaning": "限制性的；约束的",
+        "definition": "preventing people from doing what they want",
+        "zh": "限制性的；约束的"
+      },
+      {
+        "form": "in fits and starts",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "间歇地；一阵一阵地",
+        "definition": "frequently starting and stopping again; not continuously",
+        "zh": "间歇地；一阵一阵地"
+      },
+      {
+        "form": "denouncing",
+        "ipa": "/dɪˈnaʊns/",
+        "pos": "v.",
+        "meaning": "谴责；指责；斥责",
+        "definition": "to strongly criticize somebody / something that you think is wrong, illegal, etc.",
+        "zh": "谴责；指责；斥责"
+      },
+      {
+        "form": "culminates",
+        "ipa": "/ˈkʌlmɪneɪt/",
+        "pos": "v.",
+        "meaning": "（以某种结果）告终；（在某一点）结束",
+        "definition": "to end with a particular result, or at a particular point",
+        "zh": "（以某种结果）告终；（在某一点）结束"
+      },
+      {
+        "form": "resounding",
+        "ipa": "/rɪˈzaʊndɪŋ/",
+        "pos": "adj.",
+        "meaning": "明白无误的，明显的；令人瞩目的",
+        "definition": "unmistakable; emphatic",
+        "zh": "明白无误的，明显的；令人瞩目的"
+      },
+      {
+        "form": "alluding to",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "间接提到；暗指；影射",
+        "definition": "to mention something in an indirect way",
+        "zh": "间接提到；暗指；影射"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "sounding sweet and smooth; very pleasant to listen to",
+      "frequently starting and stopping again; not continuously"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “It is based on a compact, a social contract, that we the people have entered into.”",
+    "exerciseChoiceMarked": [
+      "compact"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The two countries signed a non-aggression compact to maintain peace in the region.",
+        "marked": [
+          "compact"
+        ],
+        "zh": "两国签署了互不侵犯条约，以维护该地区的和平。"
+      },
+      {
+        "label": "B",
+        "text": "To save space in her suitcase, she bought a very compact umbrella.",
+        "marked": [
+          "compact"
+        ],
+        "zh": "为了节省行李箱的空间，她买了一把非常小巧的雨伞。"
+      },
+      {
+        "label": "C",
+        "text": "She opened her powder compact to touch up her makeup before the meeting.",
+        "marked": [
+          "compact"
+        ],
+        "zh": "在会议之前，她打开粉底液来修整妆容。"
+      },
+      {
+        "label": "D",
+        "text": "My new car is a compact, which makes it much easier to park in the crowded city.",
+        "marked": [
+          "compact"
+        ],
+        "zh": "我的新车是紧凑型车型，这样在拥挤的城市里停车会容易得多。"
+      }
+    ],
+    "exerciseTranslationPrompt": "其他国家多源于征服与叛乱，且往往基于部落或宗教认同。但美国却诞生于一种理想，最终版本以这样的著名措辞宣告：“我们认为下列真理不言而喻 : 人人生而平等，造物者赋予其若干不可剥夺的权利，包括生命权、自由权和追求幸福的权利。”",
+    "answerVocabularyList": [
+      "mellifluous",
+      "in fits and starts"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "Other nations had been born out of conquests and rebellions, usually based on tribal or religious identities. But the United States was born out of an ideal, which the final version proclaimed in the memorable words: We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+  },
+  {
     "key": "jun0630",
     "date": "2026.06.30",
     "period": "2026年06月",
@@ -12050,6 +15650,648 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "wrecks"
     ]
+  },
+  {
+    "key": "jul0706",
+    "date": "2026.07.06",
+    "period": "2026年7月",
+    "folder": "0706脱欧公投十年，英国梦醒时分",
+    "titleZh": "脱欧公投十年，英国梦醒时分",
+    "title": "What Have Ten Years of Brexit Wrought?",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Ishaan Tharoor, The New Yorker, Published June 25, 2026",
+    "paragraphs": [
+      "It hasn’t done what its supporters promised—but it has reshaped politics not only in the U.K. but across Europe and in the United States.",
+      "Ten years on, little of what Johnson and the others envisioned has come to pass. Britain has experienced major blows to investment and productivity, a historic surge in annual net migration, and—shorn of the diplomatic heft of a united Europe and subject to the whims of a bullying Trump—a geopolitical humbling. More than half of voters in the 2016 referendum opted to leave; a poll this month revealed that only about a third of Britons still think that it was a good idea to have quit the E.U. Still, the move toward Brexit channelledpopulist passions that now shape politics on both sides of the Atlantic: a contempt for experts and mainstream institutions; a hatred of liberal cosmopolitan idealism; a shameless embrace and proliferation of misinformation by political opportunists; and agendas anchored more in antipathy for a perceived enemy than in a positive vision for everyone. Trump, early on, understood the British referendum’s significance for his own journey to power: “They will soon be calling me MR. BREXIT!” he tweeted in August, 2016, ahead of a Presidential election that few thought he would win. Brexit confirmed the end of the “end of history,” the political philosopher Francis Fukuyama’s oft-cited thesis that imagined Western capitalist, liberal democracy as the “final form of human government”; Brexit showed how voters in a major Western democracy could break with liberalism—in Britain’s case, with the values inherent in the project of European integration, and, in the case of Trump’s victory, with the very principles that grounded the postwar order. Brexit prefigured further crises of confidence in Western democracies that have led to the steady advance of the far right. Even after finalizing the divorce, Johnson and other Leavers have little to celebrate: the British economy has taken a six-to-eight-per-cent hit in lost growth owing to the effects of Brexit. Britain’s G.D.P. per capita languishes behind those of most of its northern European peers, while new trade deals that Britain has negotiated have failed to offset the losses incurred by leaving the bloc. Taxation levels are approaching those seen during the Second World War, while beloved and vital state institutions such as the National Health Service are struggling after years of austerity cuts and budget squeezes. A decade after the referendum, though, Brexit is the statusquo, and many in Britain have stopped blaming their problems on the E.U. And so the conversation in Britain is shifting to what can be done to reverse the damage caused by Brexit. Starmer’s resignation led to the postponement of a summit between Britain and the E.U. to consider measures to bring the former member closer to the bloc’s economy, with new agreements on agrobusiness, emissionstrading, and work visas for young people.",
+      "At the time of the referendum, there were fears that Britain was just the first domino in a series of European “exits.” But the mess that followed the vote offered a caution: there’s far less talk among the Dutch now of a “Nexit,” or of a “Frexit” in France, while the clamor for accession into the European Union has grown louder; a crowded queue, including Montenegro, Moldova, and countries in the western Balkans, hopes to enter the bloc. After Russia invaded Ukraine in 2022, Johnson came out as one of the most vocal defenders of Ukrainian freedom, making trips to Kyiv even after he left office, later that year, while advocating robust military support. Despite leading his country out of the E.U., he has been supportive of Ukraine going in, recognizing the role that membership would have in guaranteeing its postwar future. Between joining the E.U. and joining NATO, the former is more likely for Ukraine, not least because there’s no American veto to stop it.",
+      "The E.U.’s allure has not diminished in the aftermath of Brexit, but its politics have changed. Ultranationalist factions, once allied with Britain’s Euroskeptics, have come to the fore across the Continent. In 2027, elections in France could result in a far-right candidate finally winning a Presidential runoff after some two decades of defeat. Both Germany and the U.K. must hold elections before the end of 2029. In the former, the far-right Alternative for Germany, which is already the largest opposition party in the Bundestag, could conceivably shoulder its way into a ruling coalition. Britain, meanwhile, could see its own far-right takeover in the form of the Reform Party of Nigel Farage, an inveterate Brexiteer and close Trump ally, who, instead of campaigning on Brexit, is, like Trump, vowing more deregulation, more deportations, and more anti-establishment theatrics."
+    ],
+    "paragraphTranslations": [
+      "它虽然没有实现其支持者们的承诺，但确实改变了政治格局，这种改变不仅发生在英国，也发生在整个欧洲和美国。",
+      "十年过去了，约翰逊等人所设想的目标几乎没有实现。英国在投资和生产力方面遭受了重大打击，年度净移民人数出现了历史性增长。由于欧洲一体化的外交目标被放弃，且受到霸道的特朗普的操控，英国的地缘政治地位也受到了削弱。在2016年的公投中，超过一半的选民选择退出欧盟；本月的一项民意调查显示，只有大约三分之一的英国人仍然认为退出欧盟是个好主意。然而，走向脱欧的进程却激发了民粹主义情绪，这种情绪现在正在大西洋两岸的政治中占据主导地位：对专家和主流机构的蔑视；对自由派理想主义的厌恶；政治机会主义者无耻地传播错误信息；以及以对“敌人”的敌意为基础，而非以对全体人民的积极愿景为基础来制定政策。早在早期，特朗普就意识到了英国公投对他自身权力斗争的重要性：“人们很快就会称我为‘脱欧先生’！”他在2016年8月发推文说道。当时距离总统选举还有一段时间，但几乎没有人认为他会获胜。脱欧事件证实了政治哲学家弗朗西斯·福山所提出的“历史的终结”理论——即西方资本主义自由民主制度作为“人类政治制度的终极形式”的观点——被彻底打破了。脱欧事件表明，西方主要民主国家的选民能够打破自由主义模式——在英国的情况下，这意味着放弃欧洲一体化所固有的价值观；而在特朗普获胜的情况下，这意味着放弃那些支撑战后秩序的基本原则。脱欧事件预示着西方民主国家将出现更多信心危机，而这些问题最终导致了极右势力的稳步崛起。即使在完成离婚手续之后，约翰逊和其他“脱欧派”人士也几乎没有值得庆祝的事情：由于“脱欧”的影响，英国的经济增长损失了6%到8%。英国的人均GDP仍然落后于大多数北欧国家的水平，而英国所谈判的新贸易协议也未能弥补因脱离欧盟而造成的损失。税收水平正接近第二次世界大战时期的水平，而那些备受重视且至关重要的国家机构，如国家卫生服务系统，在经历了多年的紧缩政策和预算削减后，也面临着巨大的挑战。不过，在公投结束十年后，脱欧已成为现实，许多英国人不再将问题归咎于欧盟。因此，英国国内的讨论焦点已经转向如何扭转“脱欧”带来的负面影响。斯塔默的辞职导致英国与欧盟之间的峰会被推迟。此次峰会的目的是讨论如何让英国更接近欧盟的经济体系，包括就农业商业、排放交易以及年轻人工作签证等问题签订新的协议。",
+      "在公投期间，人们担心英国可能只是欧洲“退出”进程中的第一个例子。但公投结果带来的混乱表明：现在荷兰人很少谈论“荷兰退出”或“法国退出”的问题，相反，加入欧盟的呼声越来越高。黑山、摩尔多瓦以及西巴尔干地区的国家都希望加入欧盟。2022年俄罗斯入侵乌克兰后，约翰逊成为乌克兰自由事业最坚定的支持者之一，即使在卸任后，他仍多次前往基辅，并呼吁提供强有力的军事支持。尽管他带领自己的国家脱离欧盟，但他仍然支持乌克兰加入欧盟，认为加入欧盟对于确保乌克兰的战后未来至关重要。在加入欧盟和北约之间，乌克兰更有可能选择加入欧盟，至少因为没有美国的否决权可以阻止这一决定。",
+      "在脱欧之后，欧盟的吸引力并未减弱，但其政治格局已经发生了变化。那些曾经与英国的欧洲怀疑派结盟的极端民族主义派别，现在在欧洲大陆崭露头角。到2027年，法国的选举结果可能导致一个极右翼候选人最终在经历了二十年的失败之后赢得总统选举。德国和英国都必须在2029年底之前举行选举。在德国，极右翼的“德国替代党”已经成为联邦议院中最大的反对党，他们有可能成功组建执政联盟。与此同时，英国可能会出现类似的极右翼势力崛起，比如尼杰尔·法拉奇领导的改革党。法拉奇是坚定的脱欧派，也是特朗普的亲密盟友。与主张脱欧的立场不同，他主张进一步放松管制、实施更多驱逐出境的措施，并制造更多反体制的闹剧。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Wrought",
+        "ipa": "/rɔːt/",
+        "pos": "v.",
+        "meaning": "（work 在旧时的过去式和过去分词）使发生了，造成了（尤指变化）",
+        "definition": "caused something to happen, especially a change",
+        "zh": "（work 在旧时的过去式和过去分词）使发生了，造成了（尤指变化）"
+      },
+      {
+        "form": "envisioned",
+        "ipa": "/ɪnˈvɪʒn/",
+        "pos": "v.",
+        "meaning": "展望；想象",
+        "definition": "to imagine what a situation will be like in the future, especially a situation you intend to work towards",
+        "zh": "展望；想象"
+      },
+      {
+        "form": "shorn of",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "被剥夺；被褫夺",
+        "definition": "to have something important taken away from you",
+        "zh": "被剥夺；被褫夺"
+      },
+      {
+        "form": "heft",
+        "ipa": "/heft/",
+        "pos": "n.",
+        "meaning": "重要性；影响力",
+        "definition": "importance or influence",
+        "zh": "重要性；影响力"
+      },
+      {
+        "form": "whims",
+        "ipa": "/wɪm/",
+        "pos": "n.",
+        "meaning": "心血来潮；一时的兴致；突发的奇想",
+        "definition": "a sudden wish to do or have something, especially when it is something unusual or unnecessary",
+        "zh": "心血来潮；一时的兴致；突发的奇想"
+      },
+      {
+        "form": "referendum",
+        "ipa": "/ˌrefəˈrendəm/",
+        "pos": "n.",
+        "meaning": "全民公投；全民公决",
+        "definition": "an occasion when all the people of a country can vote on an important issue",
+        "zh": "全民公投；全民公决"
+      },
+      {
+        "form": "channelled",
+        "ipa": "/ˈtʃænl/",
+        "pos": "v.",
+        "meaning": "为…引资；引导；贯注",
+        "definition": "to direct money, feelings, ideas, etc. towards a particular thing or purpose",
+        "zh": "为…引资；引导；贯注"
+      },
+      {
+        "form": "populist",
+        "ipa": "/ˈpɒpjəlɪst/",
+        "pos": "adj.",
+        "meaning": "相信或者支持民粹主义的",
+        "definition": "believing in or supporting populism (= a type of politics that claims to represent the opinions and wishes of ordinary people)",
+        "zh": "相信或者支持民粹主义的"
+      },
+      {
+        "form": "contempt",
+        "ipa": "/kənˈtempt/",
+        "pos": "n.",
+        "meaning": "蔑视；轻蔑；鄙视",
+        "definition": "the feeling that somebody/something is without value and deserves no respect at all",
+        "zh": "蔑视；轻蔑；鄙视"
+      },
+      {
+        "form": "cosmopolitan",
+        "ipa": "/ˌkɑːzməˈpɑːlɪtən/",
+        "pos": "adj.",
+        "meaning": "世界性的；全球各国的；有各国人的；受各国文化影响的",
+        "definition": "containing people of different types or from different countries, and influenced by their culture",
+        "zh": "世界性的；全球各国的；有各国人的；受各国文化影响的"
+      },
+      {
+        "form": "proliferation",
+        "ipa": "/prəˌlɪfəˈreɪʃn/",
+        "pos": "n.",
+        "meaning": "激增；增殖；增生；大量的事物",
+        "definition": "the sudden increase in the number or amount of something; a large number of a particular thing",
+        "zh": "激增；增殖；增生；大量的事物"
+      },
+      {
+        "form": "antipathy",
+        "ipa": "/ænˈtɪpəθi/",
+        "pos": "n.",
+        "meaning": "厌恶；反感",
+        "definition": "a strong feeling of dislike",
+        "zh": "厌恶；反感"
+      },
+      {
+        "form": "inherent",
+        "ipa": "/ɪnˈhɪrənt/",
+        "pos": "adj.",
+        "meaning": "固有的；内在的",
+        "definition": "that is a basic or permanent part of somebody / something and that cannot be removed",
+        "zh": "固有的；内在的"
+      },
+      {
+        "form": "prefigured",
+        "ipa": "/ˌpriːˈfɪɡjər/",
+        "pos": "v.",
+        "meaning": "预示；预兆",
+        "definition": "to suggest or show something that will happen in the future",
+        "zh": "预示；预兆"
+      },
+      {
+        "form": "Leavers",
+        "ipa": "/ˈliːvə(r)/",
+        "pos": "n.",
+        "meaning": "离去者",
+        "definition": "a person believing that the UK should leave the European Union and so supporting Brexit",
+        "zh": "离去者"
+      },
+      {
+        "form": "languishes",
+        "ipa": "/ˈlæŋɡwɪʃ/",
+        "pos": "v.",
+        "meaning": "变得衰弱；未能取得进展",
+        "definition": "to become weaker or fail to make progress",
+        "zh": "变得衰弱；未能取得进展"
+      },
+      {
+        "form": "offset",
+        "ipa": "/ˌɔːfˈset/",
+        "pos": "v.",
+        "meaning": "抵消；弥补；补偿",
+        "definition": "to use one cost, payment or situation in order to cancel or reduce the effect of another",
+        "zh": "抵消；弥补；补偿"
+      },
+      {
+        "form": "incurred",
+        "ipa": "/ɪnˈkɜːr/",
+        "pos": "v.",
+        "meaning": "招致；遭受；引起",
+        "definition": "If you incur something unpleasant, you are in a situation in which you have to deal with it.",
+        "zh": "招致；遭受；引起"
+      },
+      {
+        "form": "austerity",
+        "ipa": "/ɔːˈsterəti/",
+        "pos": "n.",
+        "meaning": "（经济的）紧缩；严格节制消费",
+        "definition": "difficult economic conditions created by government policies aimed at cutting public spending",
+        "zh": "（经济的）紧缩；严格节制消费"
+      },
+      {
+        "form": "status quo",
+        "ipa": "/ˌsteɪtəs ˈkwoʊ/",
+        "pos": "n.",
+        "meaning": "现状；原来的状况",
+        "definition": "the situation as it is now, or as it was before a recent change",
+        "zh": "现状；原来的状况"
+      },
+      {
+        "form": "emissions trading",
+        "ipa": "/ɪˈmɪʃnz treɪdɪŋ/",
+        "pos": "n.",
+        "meaning": "碳排放权交易；碳交易",
+        "definition": "a system that gives countries and organizations the right to produce a particular amount of carbon dioxide and other gases that cause global warming, and allows them to sell this right",
+        "zh": "碳排放权交易；碳交易"
+      },
+      {
+        "form": "clamor",
+        "ipa": "/ˈklæmər/",
+        "pos": "n.",
+        "meaning": "民众的要求",
+        "definition": "a demand for something made by a lot of people",
+        "zh": "民众的要求"
+      },
+      {
+        "form": "accession",
+        "ipa": "/ækˈseʃn/",
+        "pos": "n.",
+        "meaning": "正式加入（国际组织）",
+        "definition": "the act of becoming part of an international organization",
+        "zh": "正式加入（国际组织）"
+      },
+      {
+        "form": "allure",
+        "ipa": "/əˈlʊr/",
+        "pos": "n.",
+        "meaning": "诱惑力；引诱力；吸引力",
+        "definition": "the quality of being attractive and exciting",
+        "zh": "诱惑力；引诱力；吸引力"
+      },
+      {
+        "form": "come to the fore",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "变得重要（或突出）；起重要作用",
+        "definition": "to be / become important and noticed by people; to play an important part",
+        "zh": "变得重要（或突出）；起重要作用"
+      },
+      {
+        "form": "runoff",
+        "ipa": "/ˈrʌn ɒf/",
+        "pos": "n.",
+        "meaning": "（平分后的）附加赛；（未分出胜负后的）决胜选举",
+        "definition": "an additional race, contest, or election that is held because an earlier one has not resulted in a winner",
+        "zh": "（平分后的）附加赛；（未分出胜负后的）决胜选举"
+      },
+      {
+        "form": "inveterate",
+        "ipa": "/ɪnˈvetərət/",
+        "pos": "adj.",
+        "meaning": "根深蒂固的，顽固不化的",
+        "definition": "having a particular habit, activity, or interest that is long-established and unlikely to change",
+        "zh": "根深蒂固的，顽固不化的"
+      },
+      {
+        "form": "theatrics",
+        "ipa": "/θiˈætrɪks/",
+        "pos": "n.",
+        "meaning": "戏剧化动作；矫揉造作",
+        "definition": "behaviour that is exaggerated and emotional in order to attract attention",
+        "zh": "戏剧化动作；矫揉造作"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "importance or influence",
+      "a demand for something made by a lot of people"
+    ],
+    "exerciseChoicePrompt": "Which of the following uses of the underlined word is CLOSEST in meaning to the one in the sentence “and agendas anchored more in antipathy for a perceived enemy than in a positive vision for everyone.”",
+    "exerciseChoiceMarked": [
+      "anchored"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The captain decided to anchor the ship in the sheltered bay to ride out the coming storm.",
+        "marked": [
+          "anchor"
+        ],
+        "zh": "船长决定将船只停泊在避风的海湾里，以等待即将到来的风暴过去。"
+      },
+      {
+        "label": "B",
+        "text": "The veteran journalist was chosen to anchor the network’s live coverage of the presidential election.",
+        "marked": [
+          "anchor"
+        ],
+        "zh": "这位经验丰富的记者被选中担任该电视台对总统选举的直播报道主持人。"
+      },
+      {
+        "label": "C",
+        "text": "It is crucial to anchor the heavy bookshelf to the wall so that it doesn’t tip over during an earthquake.",
+        "marked": [
+          "anchor"
+        ],
+        "zh": "将那个沉重的书架固定到墙上非常重要，这样在地震发生时它就不会倾倒了。"
+      },
+      {
+        "label": "D",
+        "text": "The country’s modern legal system is firmly anchored in the principles of equality and human rights.",
+        "marked": [
+          "anchored"
+        ],
+        "zh": "该国的现代法律体系严格遵循平等和人权原则。"
+      }
+    ],
+    "exerciseTranslationPrompt": "英国的人均 GDP 长期落后于大多数北欧国家；英国后来达成的各项新贸易协定，也未能弥补退出欧盟所带来的经济损失。",
+    "answerVocabularyList": [
+      "heft",
+      "clamor"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "Britain’s G.D.P. per capita languishes behind those of most of its northern European peers, while new trade deals that Britain has negotiated have failed to offset the losses incurred by leaving the bloc."
+  },
+  {
+    "key": "jul0707",
+    "date": "2026.07.07",
+    "period": "2026年7月",
+    "folder": "0707保护孩子，还是拆散家庭？美国儿童保护制度的争议",
+    "titleZh": "保护孩子，还是拆散家庭？美国儿童保护制度的争议",
+    "title": "When Should a Child Be Taken from His Parents?",
+    "topicEn": "Society",
+    "topicZh": "社会",
+    "byline": "By Larissa MacFarquhar, The New Yorker, Published July 31, 2017",
+    "paragraphs": [
+      "In family court, judges must decide whether the risks at home outweigh the risks of separating a family.",
+      "What should you do if child-protective services comes to your house?",
+      "You will hear a knock on the door, often late at night. You don’t have to open it, but if you don’t the caseworker outside may come back with the police. The caseworker will tell you you’re being investigated for abusing or neglecting your children. She will tell you to wake them up and tell them to take clothes off so she can check their bodies for bruises and marks. She will interview you and your kids separately, so you can’t hear what she’s asking them or what they’re saying. She opens your fridge and your cabinets, checking to see if you have food, and what kind of food. She looks around for unsafe conditions, for dirt, for mess, for bugs or rats. She takes notes. You must be as calm and deferential as possible.",
+      "However disrespectful and invasive she is, whatever awful things she accuses you of, you must remember that child protection has the power to remove your kids at any time if it believes them to be in danger. You can tell her the charges are not true, but she’s required to investigate them anyway. If you get angry, your anger may be taken as a sign of mental instability, especially if the caseworker herself feels threatened. She has to consider the possibility that you may be hurting your kids, that you may even kill one of them.",
+      "You may never find out who reported you. If your child has been hurt, his teacher or doctor may have called the state child-abuse hotline, not wanting to assume, as she might in a richer neighborhood, that it was an accident. But it could also have been a neighbor who heard yelling, or an ex-boyfriend who wants to get back at you, or someone who thinks you drink too much or simply doesn’t like you. People know that a call to the hotline is an easy way to blow up your life. If the caseworker believes your kids are in imminent danger, she may take them. You may not be allowed to say goodbye. It is terrifying for them to be taken from their home by a stranger, but this experience has repercussions far beyond the terror of that night. Your children may hear accusations against you—you’re using drugs, your apartment is filthy, you fail to get them to school, you hit them—and even if they don’t believe these things they will remember. And, after your children see that you are powerless to protect them, this will permanently change things between you. Whatever happens later—whether the kids come back the next week, or in six months, or don’t come back at all—that moment can never be undone.",
+      "The caseworker has sixty days to investigate the charges against you. She will want you to admit to your faults as a parent, and you should, because this tells her you have insight into your problems and that you have a sincere desire to accept her help and change your life. But you should admit only so much, because she is not just there to help you: she is also there to evaluate and report on you, so anything you say may be used against you in court. The Administration for Children’s Services —A.C.S., as child-protective services is known in New York City— has to prove its allegations against you only by “preponderance of the evidence.” It can bring in virtually anything as evidence—an old drug habit, even if you’ve been clean for years; a D.U.I.; a diagnosis of depression. While the court case is proceeding, you may be asked to submit to drug testing or a mental-health evaluation, to attend parenting classes or anger-management classes or domestic-violence classes and some kind of therapy. These services are intended to help you, but, if you want to get your kids back, they are not really voluntary, even though they may be so time-consuming and inflexibly scheduled that you lose your job. The more obedient you are, the better things will go for you. Even if you are innocent and can prove it, it could be more than a year before you get a hearing, and during those crucial months your compliance and deference are the currency that buys you visits with your children.",
+      "This is how Mercedes describes what happened. She was running a bath for her children. It was 2009, so Leslie was eleven months old and Camron was two. (To protect her kids’ privacy, Mercedes provided pseudonyms.) She plugged in her curling iron, because she was planning to curl and wrap her hair while they were in the tub. The kids were playing with toys in the living room. She left the curling iron on the side of the sink and went to fetch towels. She heard crying and, running back to the bathroom, she saw that Leslie had pulled the hot curling iron off the sink by its danglingcord, and it had fallen on her legs and burned them. She looked at the burns and they weren’t blistering, so she figured they were O.K. The next day, at her cousin’s house, she saw that the burns had blistered, and announced that she was going to take Leslie to the E.R., but her aunt told her, Do not go to the E.R. If they see those burns, child services will take your kids. So she didn’t. The next day, she went to her mother’s house. She and her mother started fighting, as they usually did, and she left the apartment with Leslie and sat with her outside. It was a warm night. She saw two women she didn’t know walk past her and into the building. Her mother called her phone and told her to come upstairs. The two women were in her mother’s apartment; they told her they were from A.C.S., and had come to see what happened to the baby.",
+      "She answered a few questions, growing increasingly outraged, and then, guessing her mother had called A.C.S. to get back at her, began cursing at her and screaming that she would never see her grandchildren again. She started putting on Leslie’s clothes to leave, but the A.C.S. women told her that first they had to take photographs of Leslie’s burns. Mercedes said no, she was going, and one of the women said, Miss, you are making me real nervous right now. The women left, but a few minutes later they came back, accompanied by a couple of policemen.",
+      "Mercedes sat on the floor crying, holding Camron and Leslie and begging the women, Don’t take my kids, please don’t take my kids. But her mother, believing it was best to comply, picked up Camron and then Leslie and gave them to the women, both kids wailing, and the women took them away.",
+      "She was permitted to see her children each week in a room at the foster-care agency, but she came to dread these visits, because they were so short and saying goodbye was awful for everyone, and because someone from the agency would watch them, taking notes on how she and the kids behaved together. But mostly she dreaded them because the kids had started saying things about her. They said that their foster mother had told them that Mercedes was bad, that she was a drug addict, that she didn’t want them back. Mercedes started coming late to visits, and sometimes she wouldn’t show up at all, and the kids would get very upset. The foster agency warned the foster mother not to disparage Mercedes in front of the children, but she continued to do it. (A.C.S., Judge Sherman, and the foster agency all have a policy of not discussing open cases.)",
+      "“The reckless destruction of American families in pursuit of the goal of protecting children is as serious a problem as the failure to protect children,” Martin Guggenheim, Sherman’s former colleague, says. “We need to understand that destroying the parent-child relationship is among the highest forms of state violence. It should be cabined and guarded like a nuclear weapon. You use it when you must.” He believes the tide is turning in his direction—nine thousand children in foster care in New York City compared with fifty thousand, changing views on drugs—but each time a child is murdered by a parent some gain is lost. After the death of Zymere Perkins, last year, Mayor de Blasio spoke on the radio about the case.“Our mission is to save every child,” he said. “Unlike pretty much any other area in government—we do not set a standard for perfection in policing or so many other areas—in this case we do set a standard of perfection.” He said, “Our job is to get there first and intervene and stop it.”"
+    ],
+    "paragraphTranslations": [
+      "在家庭法庭上，法官必须判断家庭中的风险是否超过了离婚带来的风险。",
+      "如果儿童保护服务机构来到你家，你应该怎么做？",
+      "你会听到敲门声，通常是在深夜。你不必开门，但如果不开门的话，外面的工作人员可能会带着警察回来。这位工作人员会告诉你，他们正在调查你是否虐待或忽视了自己的孩子。她会要求你叫醒孩子们，并让他们脱掉衣服，以便她能检查他们的身体是否有伤痕或痕迹。她会分别询问你和孩子们，这样你就无法听到她询问的内容或孩子们回答的问题。她会打开你的冰箱和橱柜，检查你是否有食物，以及食物的种类。她还会检查周围环境是否安全，是否有污垢、混乱或害虫。她会做记录。你必须尽可能保持冷静和顺从。",
+      "无论她多么无礼、多么侵扰，无论她指责你什么可怕的事情，你都必须记住，如果儿童保护机构认为你的孩子有危险，他们随时都有权将孩子带走。你可以告诉她这些指控并不属实，但无论如何，他们仍然需要调查这些指控。如果你发怒，可能会被视为精神不稳定的表现，尤其是当儿童保护机构工作人员本身也感到受到威胁的时候。他们必须考虑到你可能会伤害自己的孩子，甚至可能会杀害其中一个孩子。",
+      "你可能永远无法查明是谁举报了你。如果你的孩子受伤了，可能是老师的老师或医生联系了州级儿童虐待热线，他们不想像在富裕社区那样，认为这是意外事件。但也可能有邻居听到喊叫声而报警，或者是一个前男友想要报复你，又或者有人认为你饮酒过量，或者根本就不喜欢你。人们都知道，拨打热线电话会轻易地破坏你的生活。如果工作人员认为你的孩子处于危险之中，他们可能会将他们带走。你可能无法告别你的孩子。被陌生人从家中带走对孩子们来说是非常可怕的经历，但这种经历带来的后果远远超出了那个夜晚的恐惧。您的孩子可能会听到针对您的指责——比如您使用毒品、公寓脏乱不堪、未能送孩子上学、打孩子等等。即使他们并不相信这些事情，他们也会记住。而一旦您的孩子看到您无力保护他们，这种伤害将永远改变你们之间的关系。无论之后发生什么——无论是下周、六个月后，还是完全不再回来——那个时刻永远无法挽回。",
+      "该工作人员有60天的时间来调查针对你的指控。她希望你能承认自己作为父母所犯的错误，你确实应该这样做，因为这表明你能够认识到自己的问题，并且真心希望接受她的帮助并改变自己的生活。不过，你只能承认那些自己确实犯下的错误，因为她不仅仅是来帮助你，她还要对你进行评估和调查，所以你所说的任何话都可能被用作法庭上的证据。在纽约市，负责保护儿童权益的机构——即A.C.S.机构——只有根据“证据优势”才能证明对你们的指控。他们可以提出几乎任何东西作为证据——比如你多年的药物依赖问题、家庭纠纷，甚至是抑郁症的诊断结果。在法庭审理期间，你可能会被要求接受药物检测或心理健康评估，参加育儿课程、情绪管理课程或家庭暴力相关课程，以及某种形式的心理治疗。这些服务旨在帮助你，但如果你想要重新获得孩子的监护权，这些服务其实并非自愿的——尽管这些活动的安排可能非常繁琐且时间固定，以至于你可能会因此失去工作。你越是顺从，事情就越好办。即使你是无辜的，并且能够证明这一点，也可能需要超过一年的时间才能听到法庭的判决结果。而在那关键的几个月里，你的顺从和配合才是你能够与孩子见面的唯一途径。",
+      "梅赛德斯这样描述了发生的事情：当时她正在为孩子们准备洗澡水。那是2009年，当时莱斯利才11个月大，卡姆伦则只有2岁。（为保护孩子们的隐私，梅赛德斯使用了化名。）她插上了卷发器，因为她打算在孩子们泡澡时用它来卷曲并包裹他们的头发。孩子们正在客厅里玩玩具。她把卷发器放在洗手台旁边，然后去拿毛巾。她听到哭声，跑回浴室后，发现莱斯利把热着的卷发器从洗手台上扯下来，导致卷发器掉在了她的腿上，烫伤了她的皮肤。她检查了一下烫伤的痕迹，发现并没有出现水泡，所以认为伤势并不严重。第二天，在表妹家，她发现烧伤处已经开始发炎，于是决定带莱斯利去急诊室。但她的姑妈告诉她不要去急诊室，如果医生看到那些烧伤，儿童保护机构就会带走她的孩子。因此她没有去。第二天，她去了母亲的房子。她和母亲像往常一样开始争吵，然后她带着莱斯利离开了公寓，坐在外面。那是一个温暖的夜晚。她看到两个她不认识的女人从她身边走过，走进了那栋建筑里。她的母亲打电话给她，让她上楼去。那两个女人就在她母亲的公寓里；她们告诉她，她们是来自A.C.S.机构的人，来查看婴儿的情况。",
+      "她回答了一些问题，但情绪越来越愤怒。接着，她猜测她的母亲打电话给A.C.S.是为了报复她，于是开始咒骂她，并尖叫着说她永远都不会再见到自己的孙辈了。她开始穿上莱斯利的衣服准备离开，但A.C.S.的工作人员告诉她，他们必须先为莱斯利的烧伤部位拍照。梅赛德斯拒绝，她决定离开。其中一名女性说：“小姐，你现在的行为让我非常紧张。”那些女性离开了，但几分钟后，她们带着几名警察回来了。",
+      "梅赛德斯坐在地板上哭泣，抱着卡姆伦和莱斯利，恳求那些女人：“请不要带走我的孩子，求你们不要带走我的孩子。”但她的母亲认为，最好的做法是将卡姆伦和莱斯利交给那些女人，于是她把两个孩子交给了那些女人，两个孩子哭声不断，而那些女人则带着他们离开了。",
+      "她每周都被允许在寄养机构的一个房间里与孩子们见面，但她非常害怕这些会面，因为会面时间很短，而告别环节对每个人来说都非常痛苦。此外，寄养机构的人会全程观察她与孩子们之间的互动，并记录下他们的行为。但最让她害怕的是，孩子们开始谈论关于她的负面事情。他们说，寄养母亲告诉他们，梅赛德斯很糟糕，是个吸毒成瘾者，不想让他们回到她身边。梅赛德斯开始迟到，有时甚至完全不出现，这让孩子们非常难过。寄养机构警告寄养母亲不要在孩子们面前贬低梅赛德斯，但她还是继续这样做。（A.C.S.、谢尔曼法官以及寄养机构都有不公开案件相关信息的政策。）",
+      "“为了保护儿童而肆意破坏美国家庭的行为，与未能保护儿童一样，都是严重的问题，”谢尔曼的前同事马丁·古根海姆说。“我们需要认识到，破坏亲子关系的行为属于最严重的国家暴力行为之一。这种行为应该像核武器一样被严格限制和监控。只有在必要时才使用这种手段。”他认为，情况正在向他的方向转变——纽约市的寄养儿童数量从五万人减少到了九千人，人们对毒品问题的看法也有所改变。但是，每当有儿童被父母杀害时，总有一些东西失去了。去年，泽梅尔·珀金斯去世后，市长德布拉西奥在广播中谈到了这起案件。他说：“我们的使命是拯救每一个孩子。”“与政府中的几乎任何其他领域不同——我们在警务或许多其他领域并不设定完美的标准。但在这种情况下，我们确实设定了完美的标准。”他说：“我们的任务就是首先达到那个标准，然后介入并阻止一切不良现象的发生。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "outweigh",
+        "ipa": "/ˌaʊtˈweɪ/",
+        "pos": "v.",
+        "meaning": "超过，胜过，比……更重要",
+        "definition": "to be greater or more important than sth.",
+        "zh": "超过，胜过，比……更重要"
+      },
+      {
+        "form": "caseworker",
+        "ipa": "/ˈkeɪswɜːkə(r)/",
+        "pos": "n.",
+        "meaning": "个案工作者",
+        "definition": "a social worker who helps a particular person or family in the community with special needs",
+        "zh": "个案工作者"
+      },
+      {
+        "form": "bruises",
+        "ipa": "/bruːz/",
+        "pos": "n.",
+        "meaning": "青一块紫一块的瘀伤，淤青",
+        "definition": "a blue, brown or purple mark that appears on the skin after sb. has fallen, been hit, etc.",
+        "zh": "青一块紫一块的瘀伤，淤青"
+      },
+      {
+        "form": "deferential",
+        "ipa": "/ˌdefəˈrenʃl/",
+        "pos": "adj.",
+        "meaning": "恭敬的，谦卑顺从的",
+        "definition": "showing that you respect sb./sth., especially sb. older or more senior than you",
+        "zh": "恭敬的，谦卑顺从的"
+      },
+      {
+        "form": "disrespectful",
+        "ipa": "/ˌdɪsrɪˈspektfl/",
+        "pos": "adj.",
+        "meaning": "无礼的，不敬的，不尊重人的",
+        "definition": "showing a lack of respect for sb./sth.",
+        "zh": "无礼的，不敬的，不尊重人的"
+      },
+      {
+        "form": "invasive",
+        "ipa": "/ɪnˈveɪsɪv/",
+        "pos": "adj.",
+        "meaning": "侵扰他人思绪的，侵犯隐私的",
+        "definition": "affecting sb.’s thoughts or privacy",
+        "zh": "侵扰他人思绪的，侵犯隐私的"
+      },
+      {
+        "form": "reported",
+        "ipa": "/rɪˈpɔːt/",
+        "pos": "v.",
+        "meaning": "举报，上报",
+        "definition": "to tell a person in authority about a crime, an accident, an illness, etc. or about something bad that sb. has done",
+        "zh": "举报，上报"
+      },
+      {
+        "form": "get back at",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "报复某人",
+        "definition": "(informal) to do sth. bad to sb. who has done sth. bad to you; to get revenge on sb.",
+        "zh": "报复某人"
+      },
+      {
+        "form": "imminent",
+        "ipa": "/ˈɪmɪnənt/",
+        "pos": "adj.",
+        "meaning": "即将发生的，迫在眉睫的，临近的",
+        "definition": "(especially of sth. unpleasant) likely to happen very soon",
+        "zh": "即将发生的，迫在眉睫的，临近的"
+      },
+      {
+        "form": "repercussions",
+        "ipa": "/ˌriːpəˈkʌʃn/",
+        "pos": "n.",
+        "meaning": "（某事所产生的）持续不良影响",
+        "definition": "an indirect and usually bad result of an action or event that may happen some time afterwards",
+        "zh": "（某事所产生的）持续不良影响"
+      },
+      {
+        "form": "filthy",
+        "ipa": "/ˈfɪlθi/",
+        "pos": "adj.",
+        "meaning": "肮脏不堪的",
+        "definition": "very dirty and unpleasant",
+        "zh": "肮脏不堪的"
+      },
+      {
+        "form": "undone",
+        "ipa": "/ʌnˈduː/",
+        "pos": "v.",
+        "meaning": "消除，挽回，抵消（已造成的不良影响或已发生的结果）",
+        "definition": "to try to remove the bad effects of sth. you have done",
+        "zh": "消除，挽回，抵消（已造成的不良影响或已发生的结果）"
+      },
+      {
+        "form": "preponderance",
+        "ipa": "/prɪˈpɒndərəns/",
+        "pos": "n.",
+        "meaning": "占多数，优势，压倒性数量",
+        "definition": "(formal) if there is a preponderance of one type of people or things in a group, there are more of them than others",
+        "zh": "占多数，优势，压倒性数量"
+      },
+      {
+        "form": "virtually",
+        "ipa": "/ˈvɜːtʃuəli/",
+        "pos": "adv.",
+        "meaning": "几乎，差不多，实际上",
+        "definition": "almost or very nearly, so that any slight difference is not important",
+        "zh": "几乎，差不多，实际上"
+      },
+      {
+        "form": "clean",
+        "ipa": "/kliːn/",
+        "pos": "adj.",
+        "meaning": "无违法记录的，清白的",
+        "definition": "not showing or having any record of doing sth. that is against the law",
+        "zh": "无违法记录的，清白的"
+      },
+      {
+        "form": "proceeding",
+        "ipa": "/prəˈsiːd/",
+        "pos": "v.",
+        "meaning": "继续进行",
+        "definition": "to continue doing sth. that has already been started; to continue being done",
+        "zh": "继续进行"
+      },
+      {
+        "form": "obedient",
+        "ipa": "/əˈbiːdiənt/",
+        "pos": "adj.",
+        "meaning": "顺从的，听话的，唯命是从的",
+        "definition": "doing what you are told to do; willing to obey",
+        "zh": "顺从的，听话的，唯命是从的"
+      },
+      {
+        "form": "compliance",
+        "ipa": "/kəmˈplaɪəns/",
+        "pos": "n.",
+        "meaning": "服从，合规，遵从",
+        "definition": "the practice of obeying rules or requests made by people in authority",
+        "zh": "服从，合规，遵从"
+      },
+      {
+        "form": "deference",
+        "ipa": "/ˈdefərəns/",
+        "pos": "n.",
+        "meaning": "恭敬，顺从，尊重",
+        "definition": "behaviour that shows that you respect sb./sth.",
+        "zh": "恭敬，顺从，尊重"
+      },
+      {
+        "form": "curling iron",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "卷发棒",
+        "definition": "A curling iron is a metal device, resembling scissors, that you heat and use to form curls in your hair.",
+        "zh": "卷发棒"
+      },
+      {
+        "form": "fetch",
+        "ipa": "/fetʃ/",
+        "pos": "v.",
+        "meaning": "取来，拿来，接回",
+        "definition": "to go to where sb./sth. is and bring them/it back",
+        "zh": "取来，拿来，接回"
+      },
+      {
+        "form": "dangling",
+        "ipa": "/ˈdæŋɡl/",
+        "pos": "v.",
+        "meaning": "悬垂，摇晃地悬挂",
+        "definition": "to hang or move freely; to hold sth. so that it hangs or moves freely",
+        "zh": "悬垂，摇晃地悬挂"
+      },
+      {
+        "form": "cord",
+        "ipa": "/kɔːd/",
+        "pos": "n.",
+        "meaning": "电线",
+        "definition": "Cord is wire covered in rubber or plastic which connects",
+        "zh": "电线"
+      },
+      {
+        "form": "blistering",
+        "ipa": "/ˈblɪstə(r)/",
+        "pos": "v.",
+        "meaning": "（皮肤）起水泡，使……起泡",
+        "definition": "to form blisters; to make sth. form blisters",
+        "zh": "（皮肤）起水泡，使……起泡"
+      },
+      {
+        "form": "outraged",
+        "ipa": "/ˈaʊtreɪdʒ/",
+        "pos": "v.",
+        "meaning": "激怒，使震怒",
+        "definition": "to make sb. very shocked and angry",
+        "zh": "激怒，使震怒"
+      },
+      {
+        "form": "cursing",
+        "ipa": "/kɜːs/",
+        "pos": "v.",
+        "meaning": "咒骂（某人）",
+        "definition": "If you curse sb., you say insulting things to them because you are angry with them.",
+        "zh": "咒骂（某人）"
+      },
+      {
+        "form": "comply",
+        "ipa": "/kəmˈplaɪ/",
+        "pos": "v.",
+        "meaning": "遵守，遵从，符合",
+        "definition": "to obey a rule, an order, etc.; to meet particular standards",
+        "zh": "遵守，遵从，符合"
+      },
+      {
+        "form": "wailing",
+        "ipa": "/weɪl/",
+        "pos": "v.",
+        "meaning": "放声痛哭，哀嚎",
+        "definition": "to make a long, loud, high noise because you are sad or in pain",
+        "zh": "放声痛哭，哀嚎"
+      },
+      {
+        "form": "dread",
+        "ipa": "/dred/",
+        "pos": "v.",
+        "meaning": "极为害怕，担忧",
+        "definition": "to be very afraid of sth.; to fear that sth. bad is going to happen",
+        "zh": "极为害怕，担忧"
+      },
+      {
+        "form": "disparage",
+        "ipa": "/dɪˈspærɪdʒ/",
+        "pos": "v.",
+        "meaning": "贬低，诋毁，轻视，贬损",
+        "definition": "(formal) to suggest that sb./sth. is not important or valuable",
+        "zh": "贬低，诋毁，轻视，贬损"
+      },
+      {
+        "form": "reckless",
+        "ipa": "/ˈrekləs/",
+        "pos": "adj.",
+        "meaning": "鲁莽的，不计后果的，胆大妄为的",
+        "definition": "showing a lack of care about danger and the possible results of your actions",
+        "zh": "鲁莽的，不计后果的，胆大妄为的"
+      },
+      {
+        "form": "cabined",
+        "ipa": "/ˈkæbɪn/",
+        "pos": "v.",
+        "meaning": "限制，禁锢",
+        "definition": "to confine; enclose tightly",
+        "zh": "限制，禁锢"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "affecting sb.’s thoughts or privacy",
+      "an indirect and usually bad result of an action or event that may happen some time afterwards"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “You may never find out who reported you. If your child has been hurt, his teacher or doctor may have called the state child-abuse hotline…”?",
+    "exerciseChoiceMarked": [
+      "reported"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "All visitors must report to the reception desk on arrival.",
+        "marked": [
+          "report"
+        ],
+        "zh": "所有访客在到达时都必须向接待处报到。"
+      },
+      {
+        "label": "B",
+        "text": "The TV news reported that several people had been arrested.",
+        "marked": [
+          "reported"
+        ],
+        "zh": "电视新闻报道说，有几个人被逮捕了。"
+      },
+      {
+        "label": "C",
+        "text": "The crash happened seconds after the pilot reported engine trouble.",
+        "marked": [
+          "reported"
+        ],
+        "zh": "事故发生在飞行员报告发动机故障后的几秒钟内。"
+      },
+      {
+        "label": "D",
+        "text": "She was reported for speeding twice on the same road within a week.",
+        "marked": [
+          "reported"
+        ],
+        "zh": "她一周内两次在同一条路上超速，都被人举报了。"
+      }
+    ],
+    "exerciseTranslationPrompt": "你越服从，事情对你就越有利。即使你是无辜的，而且能够证明这一点，你也可能要等上一年多才会得到一次听证；而在这些至关重要的月份里，你的配合和恭顺，就是用来换取探视孩子机会的货币。",
+    "answerVocabularyList": [
+      "invasive",
+      "repercussion"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "The more obedient you are, the better things will go for you. Even if you are innocent and can prove it, it could be more than a year before you get a hearing, and during those crucial months your compliance and deference are the currency that buys you visits with your children."
   },
   {
     "key": "jul0708",
@@ -13310,6 +17552,252 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "jul0716",
+    "date": "2026.07.16",
+    "period": "2026年7月",
+    "folder": "0716佛得角，什么来头？",
+    "titleZh": "佛得角，什么来头？",
+    "title": "Cape Verde’s World Cup success reflects a nation that has repeatedly defied the odds",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Aleida Borges, The Conversation, Published July 1, 2026",
+    "paragraphs": [
+      "For decades, the west African island nation of Cape Verde was perhaps best known for the music of late singer Cesária Évora. This summer, however, the Atlantic archipelago has gained fame for a different reason: football. As one of the surprise stories of the 2026 Fifa World Cup, Cape Verde has captured the imagination of fans worldwide.",
+      "The team has qualified for the knockout stages after a run that included a 0-0 draw with the reigning European champions, Spain. The Cape Verde goalkeeper, Vozinha, has also become one of the most recognisable faces of the tournament. His follower count on Instagram increased from around 50,000 before the Spain match to over 17.4 million by the end of June. With a population of just over 500,000 people spread across ten islands (nine inhabited), Cape Verde is used to defying the odds. The arrival of the Portuguese in the 1460s made the archipelago a strategic hub in the making of the Atlantic world. On Santiago Island, they founded the oldest European settlement south of the Sahara Desert, Ribeira Grande. This city, which is now called Cidade Velha, became a hub linking continents through maritime trade, migration and, tragically, the transatlantic slave trade.",
+      "Resource deprived and plagued by frequent droughts, the end of the slave trade in the mid-19th century marked a period of decline. This period continued until the archipelago gained independence in 1975 through a joint liberation struggle with Guinea-Bissau.",
+      "A key figure in this movement was Amilcar Cabral, who was born in Guinea-Bissau to Cape Verdean parents and was educated in Cape Verde. He emerged as one of Africa’s most influential leaders in the anti-colonial struggle and gained widespread support across European countries thanks to his diplomatic skills.",
+      "After attaining independence, Cape Verde was declared an “unviable” state by the then US secretary of state, Henry Kissinger, and thereafter by some international financial institutions. They saw it as too small and resource-poor to survive on its own. Yet 50 years later, the nation has transformed itself from one of the poorest countries in the world to an upper-middle-income state.",
+      "Political stability enabled Cape Verde to introduce pioneering democratic reforms in the 1990s. After 15 years of single-party rule, the country’s first election in 1991 saw the incumbent African Party for the Independence of Guinea and Cape Verde peacefully transfer power to the newly founded opposition Movement for Democracy.",
+      "In a country where football is deeply woven into everyday life, a broad commitment to human development has been complemented by sustained investment in youth football and talent development by Fifa that has boosted sporting infrastructure. With one of the highest migration rates in the world, the Cape Verdean diaspora is another key aspect of the archipelago’s success story. Often called Cape Verde’s “11th island”, the emigrant population is estimated to be larger than the resident population. Migrant remittances constitute much bigger financial flows to the country than foreign aid or foreign direct investment. This was particularly relevant during the COVID pandemic. The World Bank and Cape Verde’s central bank reported a record increase in remittances of over 30% for 2021 as emigrants responded to the socioeconomic shocks caused by pandemic restrictions.",
+      "The Cape Verdean football federation has tapped into this diaspora for the national team. From 2002, players developed abroad have been recruited to represent the archipelago. These include players based in Portugal, France, the Netherlands and even Ireland.",
+      "Cape Verde’s story is not one of perfection. The vast majority of the population is aged under 35 and many young people there face unemployment, precarious work and limited opportunities. This is prompting many to seek better futures abroad. Despite the progress achieved through the passing of the Parity Law in 2019, which requires that neither women or men hold less than 40% or more than 60% of positions in electoral lists, women’s political representation and gender equality also remain a significant challenge for the nation.",
+      "If Cape Verde pulls off another upset in their match against Argentina on July 3, it would be a fitting tribute to a nation that has spent the last 50 years proving that size need never define ambition."
+    ],
+    "paragraphTranslations": [
+      "几十年来，西非的岛国佛得角可能最著名的还是著名歌手塞萨里娅·埃沃拉的音乐作品。然而，今年夏天，这个大西洋群岛因另一个原因而声名鹊起：足球。作为2026年国际足联世界杯上的一个惊喜，佛得角已经吸引了全球球迷的注意力。",
+      "该队在经历了一系列比赛后，成功晋级淘汰赛阶段。在这些比赛中，他们以0-0战平了欧洲冠军西班牙队。佛得角的守门员沃津哈也成为了本届赛事中最为人们所熟知的球员之一。在西班牙比赛之前，他在Instagram上的粉丝数量约为50,000人，到6月底时已增至超过1740万人。佛得角的人口仅略超过50万，这个国家分布在十个岛屿上（其中九个岛屿有人居住），但佛得角一直擅长挑战困难。16世纪40年代，葡萄牙人来到这里，使这个群岛成为大西洋世界建设中的重要枢纽。在圣扬岛，他们建立了撒哈拉沙漠以南最古老的欧洲定居点——里贝拉格兰德。这座城市现在被称为“老城”，它通过海上贸易、人口迁移，以及悲剧性的跨大西洋奴隶贸易，成为连接各大洲的枢纽。",
+      "由于资源匮乏且频繁遭受干旱的困扰，19世纪中叶奴隶贸易的终结标志着该地区的衰落时期。这一时期一直持续到1975年，当时该群岛通过与几内亚比绍的共同斗争赢得了独立。",
+      "这一运动中的关键人物是阿米尔卡尔·卡布拉尔，他出生于几内亚比绍，父母来自佛得角，并在佛得角接受教育。他成为非洲反殖民斗争中最有影响力的领导人之一，凭借其外交才能，获得了欧洲各国的广泛支持。",
+      "在获得独立后，佛得角被当时的美国国务卿亨利·基辛格认定为“无法独立生存”的国家，随后一些国际金融机构也持相同看法。他们认为佛得角面积太小、资源匮乏，无法独立生存。然而50年后，这个国家已经从世界上最贫穷的国家之一转变为中上收入国家。",
+      "政治稳定使得佛得角在20世纪90年代能够推行具有开创性的民主改革。在单一政党统治了15年后，1991年举行的首次选举中，执政的非洲几内亚和佛得角独立党和平地将权力移交给新成立的反对派民主运动。",
+      "在一个足球深深融入日常生活的国家，国际足联对青少年足球和人才发展的持续投入，促进了体育基础设施的建设，从而推动了人类发展的进程。由于科特迪瓦的移民率在全球范围内名列前茅，科特迪瓦的侨民群体也是该群岛国家成功的关键因素之一。这些移民通常被称为科特迪瓦的“第11个岛屿”，他们的数量估计超过了当地居民的数量。移民带来的汇款，对该国的经济贡献远远超过外国援助或外国直接投资。在COVID疫情期间，这一点尤为明显。世界银行和科特迪瓦中央银行报告称，2021年移民汇款额增长了30%以上，这反映出移民们在应对疫情带来的社会经济冲击时做出的反应。",
+      "佛得角足球联合会通过这一海外侨民群体为国家队选拔球员。自2002年以来，越来越多的在海外生活的球员被招募来代表这个岛国。这些球员来自葡萄牙、法国、荷兰，甚至爱尔兰等地。",
+      "佛得角的现状并不完美。绝大多数人口年龄都在35岁以下，许多年轻人面临着失业、不稳定的工作以及有限的就业机会。这促使许多人寻求在国外发展更好的未来。尽管在2019年通过了《平等法》，该法律要求选举名单中的职位分配不应低于40%或高于60%分配给女性，但女性的政治参与权和性别平等问题仍然是该国的重大挑战。",
+      "如果佛得角能够在7月3日与阿根廷的比赛中实现另一场冷门结果，那将是对一个国家的恰当致敬——这个国家在过去50年里证明了，规模并不一定是衡量雄心的标准。"
+    ],
+    "vocabulary": [
+      {
+        "form": "defied",
+        "ipa": "/dɪˈfaɪ/",
+        "pos": "v.",
+        "meaning": "经受住，顶住",
+        "definition": "to successfully resist sth. to a very unusual degree",
+        "zh": "经受住，顶住"
+      },
+      {
+        "form": "odds",
+        "ipa": "/ɒdz/",
+        "pos": "n.",
+        "meaning": "困难，不利条件",
+        "definition": "sth. that makes it seem impossible to do or achieve sth.",
+        "zh": "困难，不利条件"
+      },
+      {
+        "form": "archipelago",
+        "ipa": "/ˌɑːkɪˈpeləɡəʊ/",
+        "pos": "n.",
+        "meaning": "群岛，列岛",
+        "definition": "a group of islands and the sea surrounding them",
+        "zh": "群岛，列岛"
+      },
+      {
+        "form": "knockout",
+        "ipa": "/ˈnɒkaʊt/",
+        "pos": "n.",
+        "meaning": "淘汰赛",
+        "definition": "a competition in which the winning player/team at each stage competes in the next stage and the losing one no longer takes part in the competition",
+        "zh": "淘汰赛"
+      },
+      {
+        "form": "draw",
+        "ipa": "/drɔː/",
+        "pos": "n.",
+        "meaning": "平局，和局",
+        "definition": "a game in which both teams or players finish with the same number of points",
+        "zh": "平局，和局"
+      },
+      {
+        "form": "reigning",
+        "ipa": "/reɪn/",
+        "pos": "v.",
+        "meaning": "在某一领域、赛场中占据顶尖、主导地位",
+        "definition": "to be the best or most important in a particular situation or area of skill",
+        "zh": "在某一领域、赛场中占据顶尖、主导地位"
+      },
+      {
+        "form": "inhabited",
+        "ipa": "/ɪnˈhæbɪtɪd/",
+        "pos": "adj.",
+        "meaning": "有人（或动物）居住的",
+        "definition": "with people or animals living there",
+        "zh": "有人（或动物）居住的"
+      },
+      {
+        "form": "maritime",
+        "ipa": "/ˈmærɪtaɪm/",
+        "pos": "adj.",
+        "meaning": "海洋的，航海的",
+        "definition": "connected with the sea or ships",
+        "zh": "海洋的，航海的"
+      },
+      {
+        "form": "transatlantic",
+        "ipa": "/ˌtrænzətˈlæntɪk/",
+        "pos": "adj.",
+        "meaning": "横渡大西洋的；横跨大西洋的，大西洋两岸的",
+        "definition": "crossing the Atlantic Ocean",
+        "zh": "横渡大西洋的；横跨大西洋的，大西洋两岸的"
+      },
+      {
+        "form": "deprived",
+        "ipa": "/dɪˈpraɪvd/",
+        "pos": "adj.",
+        "meaning": "贫困匮乏的，缺少基本生活保障的",
+        "definition": "without enough food, education, and all the things that are necessary for people to live a happy and comfortable life",
+        "zh": "贫困匮乏的，缺少基本生活保障的"
+      },
+      {
+        "form": "plagued",
+        "ipa": "/pleɪɡ/",
+        "pos": "v.",
+        "meaning": "长期困扰，折磨",
+        "definition": "to cause pain or trouble to sb./sth. over a period of time",
+        "zh": "长期困扰，折磨"
+      },
+      {
+        "form": "unviable",
+        "ipa": "/ˌʌnˈvaɪəbl/",
+        "pos": "adj.",
+        "meaning": "行不通的，无法维持的，不具备可行性的",
+        "definition": "that cannot be done; that is not capable of working successfully",
+        "zh": "行不通的，无法维持的，不具备可行性的"
+      },
+      {
+        "form": "incumbent",
+        "ipa": "/ɪnˈkʌmbənt/",
+        "pos": "adj.",
+        "meaning": "现任的，在职的",
+        "definition": "having an official position",
+        "zh": "现任的，在职的"
+      },
+      {
+        "form": "diaspora",
+        "ipa": "/daɪˈæspərə/",
+        "pos": "n.",
+        "meaning": "海外侨民群体，侨民迁徙",
+        "definition": "(formal) the movement of people from any nation or group away from their own country; people who have moved away from their own country",
+        "zh": "海外侨民群体，侨民迁徙"
+      },
+      {
+        "form": "remittances",
+        "ipa": "/rɪˈmɪtns/",
+        "pos": "n.",
+        "meaning": "汇款，汇出的款项",
+        "definition": "(formal) a sum of money that is sent to sb. in order to pay for sth.",
+        "zh": "汇款，汇出的款项"
+      },
+      {
+        "form": "relevant",
+        "ipa": "/ˈreləvənt/",
+        "pos": "adj.",
+        "meaning": "有现实意义的，贴合当下需求的",
+        "definition": "the fact of being valuable and useful to people in their lives and work",
+        "zh": "有现实意义的，贴合当下需求的"
+      },
+      {
+        "form": "tapped",
+        "ipa": "/tæp/",
+        "pos": "v.",
+        "meaning": "发掘，利用",
+        "definition": "to make use of a source of energy, knowledge, etc. that already exists",
+        "zh": "发掘，利用"
+      },
+      {
+        "form": "Parity",
+        "ipa": "/ˈpærəti/",
+        "pos": "n.",
+        "meaning": "同等",
+        "definition": "(formal) the state of being equal, especially the state of having equal pay or status",
+        "zh": "同等"
+      },
+      {
+        "form": "pulls off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "成功完成难事，做成棘手的事",
+        "definition": "(informal) to succeed in doing sth. difficult",
+        "zh": "成功完成难事，做成棘手的事"
+      },
+      {
+        "form": "upset",
+        "ipa": "/ˈʌpset/",
+        "pos": "n.",
+        "meaning": "爆冷",
+        "definition": "(in a competition) a situation in which a person or team beats the person or team that was expected to win",
+        "zh": "爆冷"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to be the best or most important in a particular situation or area of skill",
+      "that cannot be done; that is not capable of working successfully"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “With a population of just over 500,000 people spread across ten islands (nine inhabited), Cape Verde is used to defying the odds.”?",
+    "exerciseChoiceMarked": [
+      "defying"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The beauty of the mountain lake defies simple description.",
+        "marked": [
+          "defies"
+        ],
+        "zh": "这座山间湖泊的美丽难以用简单的语言来形容。"
+      },
+      {
+        "label": "B",
+        "text": "Hundreds of people today defied the ban on political gatherings.",
+        "marked": [
+          "defied"
+        ],
+        "zh": "今天，有数百人违抗了关于禁止政治集会的禁令。"
+      },
+      {
+        "label": "C",
+        "text": "The small company defied the odds and survived the economic crisis.",
+        "marked": [
+          "defied"
+        ],
+        "zh": "这家小公司克服了种种困难，成功度过了经济危机。"
+      },
+      {
+        "label": "D",
+        "text": "I defy you to come up with one major accomplishment of the current president.",
+        "marked": [
+          "defy"
+        ],
+        "zh": "你倒是说出现任总统哪怕一项重大成就来。"
+      }
+    ],
+    "exerciseTranslationPrompt": "他们认为这个国家面积太小、资源太少，无法独立发展。然而，50 年后的今天，佛得角已经从世界上最贫穷的国家之一，转变为一个中高收入国家。",
+    "answerVocabularyList": [
+      "reign",
+      "unviable"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "They saw it as too small and resource-poor to survive on its own. Yet 50 years later, the nation has transformed itself from one of the poorest countries in the world to an upper-middle-income state."
+  },
+  {
     "key": "jul0717",
     "date": "2026.07.17",
     "period": "2026年07月",
@@ -14194,6 +18682,456 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "recedes"
     ]
+  },
+  {
+    "key": "jul0723",
+    "date": "2026.07.23",
+    "period": "2026年7月",
+    "folder": "0723 这届世界杯，到底办的怎么样？22",
+    "titleZh": "这届世界杯，到底办得怎么样？ 2",
+    "title": "How the U.S. Lost the World Cup—and Won Over the World",
+    "topicEn": "Sports",
+    "topicZh": "体育",
+    "byline": "By Joshua Robinson and Jonathan Clegg, The Wall Street Journal, Updated July 17, 2026",
+    "paragraphs": [
+      "Back when the U.S. bid to co-host this tournament, alongside Mexico and Canada, President Trump was in his first term and no one could have imagined what the next eight years would bring —a standoff with Russia, a global pandemic, a war with Iran—or that Trump would be president again when the World Cup finally arrived. By the time the whole thing kicked off, the primary host was actively bombing one of the countries in Group G. Sure enough, though, the longer the show went on, the more all the concerns about the cost, about geopolitics, and the sweltering conditions in Florida in July just melted away. FIFA, soccer’s world governing body, grew so confident that this World Cup would be a hit that internally, it upped its revenue projections on television rights, ticket sales and merchandise from $11 billion to $15 billion.",
+      "Yes, it was expensive—ludicrously expensive. And yes, it was hot —until you entered the multibillion-dollar, air-conditioned cathedrals of the NFL in places like Dallas, Atlanta and Los Angeles.",
+      "For the purists, there were soccer-specific venues in Toronto and Mexico City, which wouldn’t have looked out of place in Europe. But this wasn’t a World Cup for the purists—or for anyone convinced that air conditioning gives you colds. This was a planetary event for America to prove that its cultural hegemony could absorb the world’s most popular sport.",
+      "“You are speaking about the biggest power in the world,” FIFA president Gianni Infantino said the day before the World Cup started. “Of course, there are certain things that need to be taken into account.”",
+      "Even so, the experience of visiting fans was different from the xenophobic country they had been led to believe they were coming to. Here they found that their game-day traditions and rituals weren’t merely celebrated. In many cases, fans were treated better than at games in Europe or South America. Back home, soccer fans are often dismissed as violent thugs who require police escorts and can’t possibly be allowed to mix. At this World Cup, authorities didn’t bother segregating them, including at the potentially fractious semifinal between ancient enemies England and Argentina.",
+      "The United Kingdom Football Policing Unit, which works with local law enforcement, even praised America’s handling of England fans, whose history of hooliganism has routinely seen them viewed as troublemakers long after abandoning their fighting ways.",
+      "“It is great to see…the fans being policed according to their behavior, not an outdated reputation,” said chief constable Mark Roberts, head of the UKFPU.",
+      "In that sense, America earned its stripes as a soccer country— albeit one that still gets plenty of the terminology wrong. Never mind that a Gallup poll before the tournament found that more Americans consider themselves fans of figure skating than professional soccer. Within weeks, the ratings for the World Cup had shattered every record for soccer in this country.",
+      "The irony of America celebrating its 250th birthday with a gigantic soccerfest wasn’t lost on anyone who still considered the game more foreign than a bottle of rosé at lunch. But in many ways, the World Cup did a better job of highlighting what the world loves about America than any military flyover ever could.",
+      "While the 250th was a fraught celebration for those who see an insular, inward-looking nation sharply divided by politics and culture wars, the World Cup showed that these polarizing politics don’t always need to define America.",
+      "That’s not to say politics were completely absent. Though Trump kept himself conspicuously absent from the first 103 games of the tournament, he managed to make his presence felt in the unlikely arena of World Cup disciplinary matters. After the round of 32, his personal call to Infantino urging FIFA to review a one-match ban for Team USA’s top scorer, Folarin Balogun, after he received a red card, came across like ringing customer service.",
+      "Belgium’s outrage ahead of its match against the Americans verged on disbelief. “The federation does not defend itself, it does not defend the national team,” Belgium coach Rudi Garcia said at the time. “It defends football in general.”",
+      "Team USA’s 4-1 defeat soon ended that debate. But even if the country’s worst impulses still bubbled up, U.S. midfielder Tyler Adams described a sentiment around his team that might as well have summed up the whole tournament.",
+      "“The support was unbelievable,” he said. “In this moment, we let them down. But I think altogether people gravitated toward the team because we were relatable—we represented exactly what the U.S. was today.”"
+    ],
+    "paragraphTranslations": [
+      "在美國试图与墨西哥和加拿大共同举办这项赛事的时候，特朗普总统还只是执政初期，没人能预想到接下来的八年将会发生什么——与俄罗斯的僵局、全球性的疫情、与伊朗的战争……更没人能想象到，当世界杯最终到来时，特朗普还会再次成为总统。当比赛真正开始的时候，主要主办国正在对G组的某个国家进行轰炸。不过，随着时间的推移，所有关于成本、地缘政治问题的担忧，以及7月份佛罗里达州酷热的天气等问题的担忧都逐渐消失了。国际足联，作为足球世界的管理机构，对这次世界杯的受欢迎程度非常有信心，因此他们内部将电视转播权、门票销售和周边产品的收入预测从110亿美元提高到了150亿美元。",
+      "是的，那确实非常昂贵——高得离谱。而且，确实很热——直到你走进达拉斯、亚特兰大和洛杉矶等城市里那些拥有数十亿美元投资、配备空调的NFL体育场。",
+      "对于那些极端保守的人来说，多伦多和墨西哥城确实有专门的足球场馆，这样的场馆在欧洲也是再合适不过的。但这次世界杯并非为极端保守的人而设——或者，对于那些认为空调会让人容易感冒的人来说，这次世界杯也不是他们能参与的赛事。这次世界杯是给全人类准备的，目的是让美国证明自己的文化霸权能够接纳这项全球最受欢迎的体育项目。",
+      "“你谈论的是世界上最大的权力机构，”世界杯开幕前一天，国际足联主席詹尼·因弗蒂诺这样说道。“当然，有一些事情是需要被考虑在内的。”",
+      "尽管如此，球迷们的体验与他们所认为的那个排外、仇外的国家却大不相同。在这里，球迷们发现他们的比赛日传统和仪式并不仅仅被当作一种庆祝活动来对待。在许多情况下，球迷们受到的待遇比在欧洲或南美洲的比赛时还要好。在祖国，足球迷常常被当作暴力暴徒来对待，需要警方的护送，甚至不被允许与异性交往。而在这次世界杯上，当局并没有刻意将球迷们分开，包括在那场可能充满冲突的半决赛中，对手英格兰和阿根廷的球迷们也被允许一起观看比赛。",
+      "与当地执法部门合作的英国足球执法部门，甚至对美国的处理方式表示赞赏。在英格兰，球迷的暴力行为历史已久，人们通常认为他们都是麻烦制造者，但一旦他们放弃暴力行为，就会被视为无害的人。",
+      "“看到根据行为而不是过时的评价标准来监管粉丝，真是太好了，”英国粉丝保护机构负责人、首席警长马克·罗伯茨说道。",
+      "在这方面，美国确实算得上一个足球强国——尽管在相关术语的使用上仍然存在很多错误。不过，Gallup在比赛前进行的民意调查显示，与专业足球相比，更多的美国人认为自己是花样滑冰的爱好者。短短几周内，世界杯的收视率就打破了该国家足球赛事的所有纪录。",
+      "具有讽刺意味的是，美国以一场盛大的足球盛宴来庆祝其250周年纪念，但那些仍然认为足球这种运动比午餐时喝一瓶桃红葡萄酒更“异国风情”的人显然没有注意到这一点。不过，从许多方面来看，世界杯确实比任何军事飞行表演都能更好地展现出美国所吸引人的特质。",
+      "对于那些认为美国是一个因政治和文化冲突而分裂、封闭内向的国家的人来说，2005年的世界杯比赛显然是一场充满挑战的庆典。但这次比赛表明，这种两极分化的政治氛围并不一定意味着美国就一定是这样的。",
+      "这并不是说政治活动完全消失了。虽然特朗普在比赛的前103场比赛中明显没有露面，但他还是在世界杯的纪律问题这一领域展现了自己的影响力。在32强赛之后，他向INFANTINO发出呼吁，要求国际足联重新考虑对美国队最佳射手Folarin Balogun的禁赛处罚，因为他在红牌罚下后仍然继续比赛。这一呼吁看起来就像是对客户服务的直接干预。",
+      "比利时在迎战美国队的比赛前的表现令人难以置信。“联邦政府没有保护好自己，也没有保护好国家足球队，”当时的比利时教练鲁迪·加西亚说道。“它只是维护足球运动而已。”",
+      "美国队的4-1胜利很快终结了这种争论。不过，即使球队中那些最糟糕的情绪仍然在涌动，美国队的中场球员泰勒·亚当斯描述了一种情绪，这种情绪几乎可以概括整个比赛的情况。",
+      "“这种支持真是难以置信，”他说。“在那一刻，我们让那些人失望了。但我认为，总的来说，人们都倾向于支持我们，因为我们能够引起他们的共鸣——我们代表了美国今天的真实面貌。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "kicked off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "开始，启动，拉开序幕",
+        "definition": "If a meeting, event, or a football game kicks off, it starts.",
+        "zh": "开始，启动，拉开序幕"
+      },
+      {
+        "form": "sweltering",
+        "ipa": "/ˈsweltərɪŋ/",
+        "pos": "adj.",
+        "meaning": "酷热的，闷热难耐的，热得令人不适的",
+        "definition": "very hot in a way that makes you feel uncomfortable",
+        "zh": "酷热的，闷热难耐的，热得令人不适的"
+      },
+      {
+        "form": "ludicrously",
+        "ipa": "/ˈluːdɪkrəsli/",
+        "pos": "adv.",
+        "meaning": "荒唐地，可笑地",
+        "definition": "in a way that is unreasonable and impossible to take seriously",
+        "zh": "荒唐地，可笑地"
+      },
+      {
+        "form": "planetary",
+        "ipa": "/ˈplænətri/",
+        "pos": "adj.",
+        "meaning": "全球性的，世界范围的，行星的",
+        "definition": "relating to the whole world rather than just a particular country or group of countries",
+        "zh": "全球性的，世界范围的，行星的"
+      },
+      {
+        "form": "hegemony",
+        "ipa": "/hɪˈdʒeməni/, /ˈhedʒɪməni/",
+        "pos": "n.",
+        "meaning": "霸权，支配地位，主导权",
+        "definition": "(formal) control by one country, organization, etc. over others within a particular group",
+        "zh": "霸权，支配地位，主导权"
+      },
+      {
+        "form": "xenophobic",
+        "ipa": "/ˌzenəˈfəʊbɪk/",
+        "pos": "adj.",
+        "meaning": "排外的，仇外的，惧怕外国人的",
+        "definition": "feeling or showing dislike or fear of people from other countries",
+        "zh": "排外的，仇外的，惧怕外国人的"
+      },
+      {
+        "form": "rituals",
+        "ipa": "/ˈrɪtʃuəl/",
+        "pos": "n.",
+        "meaning": "惯常仪式，固定规矩，例行做法",
+        "definition": "sth. that is done regularly and always in the same way",
+        "zh": "惯常仪式，固定规矩，例行做法"
+      },
+      {
+        "form": "escorts",
+        "ipa": "/ˈeskɔːt/",
+        "pos": "n.",
+        "meaning": "护送人员，警卫，护卫队",
+        "definition": "a person or group that travels with sb./sth. to protect or guard them",
+        "zh": "护送人员，警卫，护卫队"
+      },
+      {
+        "form": "segregating",
+        "ipa": "/ˈseɡrɪɡeɪt/",
+        "pos": "v.",
+        "meaning": "隔离，分开，分隔",
+        "definition": "(formal) to separate one group of people or things from others",
+        "zh": "隔离，分开，分隔"
+      },
+      {
+        "form": "fractious",
+        "ipa": "/ˈfrækʃəs/",
+        "pos": "adj.",
+        "meaning": "易起冲突的，难以驾驭的，动辄争执的",
+        "definition": "making trouble and complaining",
+        "zh": "易起冲突的，难以驾驭的，动辄争执的"
+      },
+      {
+        "form": "hooliganism",
+        "ipa": "/ˈhuːlɪɡənɪzəm/",
+        "pos": "n.",
+        "meaning": "流氓行为，滋事行为，暴力闹事",
+        "definition": "noisy and violent behaviour by a group of people in public",
+        "zh": "流氓行为，滋事行为，暴力闹事"
+      },
+      {
+        "form": "constable",
+        "ipa": "/ˈkʌnstəbl/, /ˈkɑːnstəbl/",
+        "pos": "n.",
+        "meaning": "警员，警察，警官",
+        "definition": "a police officer of the lowest rank",
+        "zh": "警员，警察，警官"
+      },
+      {
+        "form": "stripes",
+        "ipa": "/straɪp/",
+        "pos": "n.",
+        "meaning": "条纹，条带，纹路",
+        "definition": "a long narrow line of colour that is a different colour from the areas next to it",
+        "zh": "条纹，条带，纹路"
+      },
+      {
+        "form": "shattered",
+        "ipa": "/ˈʃætə(r)/",
+        "pos": "v.",
+        "meaning": "打破纪录，刷新纪录，大幅突破",
+        "definition": "to beat an existing record easily",
+        "zh": "打破纪录，刷新纪录，大幅突破"
+      },
+      {
+        "form": "insular",
+        "ipa": "/ˈɪnsjələ(r)/",
+        "pos": "adj.",
+        "meaning": "狭隘的，封闭的，孤立保守的",
+        "definition": "only interested in your own country, ideas, etc. and not in those from outside",
+        "zh": "狭隘的，封闭的，孤立保守的"
+      },
+      {
+        "form": "conspicuous",
+        "ipa": "/kənˈspɪkjuəs/",
+        "pos": "adj.",
+        "meaning": "明显的，引人注目的，显眼的",
+        "definition": "easy to see or notice",
+        "zh": "明显的，引人注目的，显眼的"
+      },
+      {
+        "form": "bubbled up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "浮现，涌现，冒出来",
+        "definition": "(of a feeling) to be felt strongly by a person or to become noticeable in a situation",
+        "zh": "浮现，涌现，冒出来"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "control by one country, organization, etc. over others within a particular group",
+      "making trouble and complaining"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Within weeks, the ratings for the World Cup had shattered every record for soccer in this country.”?",
+    "exerciseChoiceMarked": [
+      "shattered"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The glass window was completely shattered by the strong wind.",
+        "marked": [
+          "shattered"
+        ],
+        "zh": "那扇玻璃窗被强风彻底吹碎了。"
+      },
+      {
+        "label": "B",
+        "text": "The unexpected news shattered his confidence and changed his attitude completely.",
+        "marked": [
+          "shattered"
+        ],
+        "zh": "这个突如其来的消息彻底摧毁了他的信心，并完全改变了他的态度。"
+      },
+      {
+        "label": "C",
+        "text": "The athlete shattered the previous world record by several seconds.",
+        "marked": [
+          "shattered"
+        ],
+        "zh": "这位运动员将之前的世界纪录提高了几秒。"
+      },
+      {
+        "label": "D",
+        "text": "The company’s reputation was shattered after the scandal became public.",
+        "marked": [
+          "shattered"
+        ],
+        "zh": "丑闻曝光后，该公司的声誉受到了严重损害。"
+      }
+    ],
+    "exerciseTranslationPrompt": "美国以盛大的足球盛宴庆祝建国 250 周年，这种讽刺意味对于那些仍然认为足球比午餐时喝瓶桃红葡萄酒还要陌生的人来说，自然不言而喻。",
+    "answerVocabularyList": [
+      "hegemony",
+      "fractious"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "The irony of America celebrating its 250th birthday with a gigantic soccerfest wasn’t lost on anyone who still considered the game more foreign than a bottle of rosé at lunch."
+  },
+  {
+    "key": "jul0724",
+    "date": "2026.07.24",
+    "period": "2026年7月",
+    "folder": "0724 十年换七个首相，英国究竟怎么了？",
+    "titleZh": "十年换七个首相，英国究竟怎么了？",
+    "title": "Why Britain devours its prime ministers",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Ben Worthy, Al Jazeera, Published June 25, 2026",
+    "paragraphs": [
+      "For much of the post-war era, Britain was known for prime ministers who lasted. Once a leader reached Downing Street, they were expected to stay there. The dominance of two established parties, relatively disciplined parliamentary blocs and a first-past-the-post electoral system that often turned votes into workable Commons majorities all helped give prime ministers a stable base. Margaret Thatcher and Tony Blair both got something that now seems almost unimaginable: a decade in power.",
+      "But British prime ministers are now coming and going in quick succession. The country is on course for its seventh prime minister in a decade. Theresa May and Boris Johnson each lasted just over three years. Liz Truss’s tenure was only 49 days. Keir Starmer was supposed to be different: he entered Downing Street after Labour won a landslide majority in 2024. Yet he, too, is now leaving after barely two years. Why has Britain’s famed stability given way so quickly to political chaos?",
+      "There are several obvious explanations, but none is enough on its own. Has social media helped harden political divisions? Almost certainly. But Britain is hardly the only country with the internet. Has Brexit made the country harder to govern? Yes. It cut across party lines, deepened political identities and left prime ministers managing not just policy disputes but rival ideas of what the country should be. Yet, as academics have pointed out, Brexit did not create Britain’s instability out of nowhere. It accelerated pressures that were already building inside the political system.",
+      "Could it simply be that Britain has had a run of bad leaders? As I like to remind my students, some people are just no good at the top job. For some recent prime ministers, the problem was competence. Theresa May could not get her Brexit deal through Parliament, while Liz Truss’s radical economic experiment collapsed almost as soon as it began. For others, it was judgement and ethics. Boris Johnson broke the rules while asking the country to follow them, then damaged himself further by denying what had happened. Keir Starmer managed to blur the categories: his government was marked by policy indecision, but also by serious errors of judgement, most notably the appointment of Peter Mandelson.",
+      "But bad leadership only takes us so far. Britain has had plenty of poor and failed politicians before. The deeper problem lies in the changing relationship between prime ministers and their own MPs. Any prime minister needs their parliamentary party to vote through their programme and defend them when trouble comes. For much of the post-war era, that relationship was more reliable. Since the 1970s, however, MPs have become more willing to rebel against their own parties, challenge their leaders and, when necessary, help remove them. To borrow the political scientist George Jones’s famous image, a prime minister’s power is like an elastic band. It can stretch, but only so far.",
+      "The fraying relationship between MPs and prime ministers is behind many of the major events in British politics since the 1990s. Iraq badly damaged Blair’s authority with much of his own party. In 2003, so many Labour MPs rebelled against his Iraq policy that Blair and those around him feared it could cost him his premiership. The rebellion failed, but the war and its consequences drove a lasting wedge between Blair and many of his MPs. David Cameron held a Brexit referendum because his own rebellious MPs, long hostile to Europe, kept pushing the issue. When voters chose Leave, he resigned. Boris Johnson’s Partygate lies proved fatal when his own MPs refused to back him. Keir Starmer’s welfare cuts and harsh immigration policies forced his own Labour MPs to decide between loyalty and principle.",
+      "This fraying has made MPs more willing to move against their leaders. Removing prime ministers between general elections is now a modern British habit. The last prime minister both to enter Downing Street after winning a general election and to leave after losing one was Edward Heath in 1974. Since then, leaders have more often been brought down by internal party pressure, scandal, resignation or succession than by voters directly ending their premiership at the ballot box. The habit is speeding up. Of the last five prime ministers, four have left after pressure from inside their own parties, while only Rishi Sunak was removed by voters in a general election.",
+      "One final factor has added to the chaos: voters are changing. Britain is no longer a strong two-party system. In England, voters are now splitting between several parties, not lining up behind Labour and the Conservatives as reliably as they once did. In Scotland, the divide over independence still shapes politics. In Northern Ireland, elections follow a different party system, shaped by unionism, nationalism and the growing centre ground. In Wales, Labour now faces a stronger challenge from Plaid Cymru and Reform.",
+      "Taken together, weak leaders, restless MPs and fragmenting voting patterns have created a self-reinforcing cycle. Each failed premiership makes the next one harder. A new prime minister arrives promising a reset, but inherits the same deep problems, the same anxious MPs and even less patience from the public. Instead of restoring stability, each change of leader makes the next prime minister easier to bring down."
+    ],
+    "paragraphTranslations": [
+      "在战后时期，英国以那些能够长期执政的首相而闻名。一旦一位领导人登上唐宁街10号，人们就期望他能继续执政下去。两大执政党的主导地位、相对严格的议会联盟结构，以及那种能够将选民投票转化为可实现的议会多数票的选举制度，都使得首相们能够拥有稳定的支持基础。玛格丽特·撒切尔和托尼·布莱尔都成功地在任内执政了十年之久——这一成就现在看来几乎难以想象。",
+      "但是，英国的首相们现在纷纷更替，节奏非常快。在十年时间里，英国已经出现了七位首相。特蕾莎·梅和鲍里斯·约翰逊两位首相的任期都只有三年多。莉兹·特拉斯的任期则只有49天。凯尔·斯塔默本应与众不同：他在2024年工党赢得压倒性多数席位后就任首相。然而，他也只执政了两年多便离开了职位。为什么英国著名的稳定状态如此迅速地转变为政治混乱呢？",
+      "有几种显而易见的解释，但单独来看都不足以解释一切。社交媒体是否加剧了政治上的分歧？几乎可以肯定是这样。但英国并非唯一拥有互联网的国家。英国脱欧是否使得该国更难治理？是的。这一变革打破了党派界限，加深了政治认同，并使首相们不仅要处理政策上的分歧，还要面对关于国家应该如何发展的不同观点。然而，正如学者们所指出的，英国的不稳定并非凭空出现。这种不稳定其实是政治体系内部已经存在的压力所加剧的。",
+      "难道只是因为英国历届领导人都很糟糕？正如我常提醒我的学生，有些人根本就不适合担任最高领导职务。对于一些近来的首相来说，问题在于他们的能力不足。特蕾莎·梅无法让她的脱欧方案通过议会审议，而莉兹·特拉斯的激进经济政策在刚实施不久就失败了。对于其他人来说，问题在于他们的判断力和道德观念。鲍里斯·约翰逊违反了规则，同时要求国家遵守这些规则，结果还因否认事实而进一步损害了自己的形象。凯尔·斯塔默则试图模糊这些界限：他的政府因政策上的犹豫不决以及严重的判断错误而陷入混乱，其中最严重的就是任命了彼得·曼德尔森。",
+      "但是，糟糕的领导方式只能带我们走这么远而已。英国以前也出现过许多无能且失败的政客。更深层次的问题在于首相与他们的议会议员之间的关系发生了变化。任何一位首相都需要议会中的议员们通过投票来支持他们的政策，并在遇到困难时为他们撑腰。在战后的大部分时间里，这种关系还是相对可靠的。然而，自20世纪70年代以来，议员们变得更加倾向于反抗自己的政党，挑战党的领导层，并在必要时帮助罢免他们。借用政治学家乔治·琼斯的著名比喻来说，首相的权力就像橡皮筋一样——它可以拉伸，但只能拉伸到一定的程度而已。",
+      "自20世纪90年代以来，英国政坛上许多重大事件都源于议员与首相之间日益紧张的关系。伊拉克战争严重削弱了布莱尔的权威，其背后的主要推动者是布莱尔自己的政党成员。2003年，许多工党议员强烈反对布莱尔在伊拉克问题上的政策，这使得布莱尔及其周围的人担心这一政策可能会让他失去首相职位。虽然这次抗议活动最终没有成功，但战争及其后果却让布莱尔与许多工党议员之间的关系变得愈发紧张。大卫·卡梅伦通过举行脱欧公投来摆脱困境，因为那些长期反对欧洲的工党议员一直在推动这一议题。当选民选择“脱欧”时，卡梅伦便辞职了。鲍里斯·约翰逊的“党门”丑闻最终导致了他的失败，因为他的工党议员拒绝支持他。凯尔·斯特默对福利政策的削减以及严格的移民政策，迫使他的工党议员在忠诚与原则之间做出选择。",
+      "这种破坏性的行为使得议员们更愿意反对他们的领导人。在大选之间罢免首相已成为英国现代的一种惯例。上一次在大选获胜后进入唐宁街、并在大选失利后离开唐宁街的首相，是1974年的爱德华·希思。从那时起，领导人更经常是由于党内内部的压力、丑闻、辞职或继任而离职，而不是因为选民通过投票直接罢免他们的首相职位。这种趋势正在加速发展。在最近五位首相中，有四位是在党内内部压力的情况下离职的，而只有里希·萨纳克是在大选中被选民罢免的。",
+      "最后一个因素也加剧了混乱：选民群体正在发生变化。英国已不再是一个稳定的两党制国家。在英格兰，选民现在会分散在多个政党之间，不再像过去那样只支持工党和保守党。在苏格兰，对独立的立场分歧仍然影响着政治走向。在北爱尔兰，选举制度受到联合主义、民族主义以及不断壮大的中间力量的影响。在威尔士，工党现在面临着来自威尔士民族党和改革党的强大挑战。",
+      "总体而言，领导力的不足、不安定的议员以及分散的投票模式共同构成了一个自我强化的循环。每次总理任期的失败都会让下一个总理的处境更加艰难。新的总理上任时承诺要重新出发，但实际上却继承了同样严重的問題、同样不安定的议员群体，以及更少的公众耐心。每一次领导人的更迭，非但未能恢复稳定，反而使得下一个总理更容易被罢免。"
+    ],
+    "vocabulary": [
+      {
+        "form": "devours",
+        "ipa": "/dɪˈvaʊə(r)/",
+        "pos": "v.",
+        "meaning": "狼吞虎咽地吃光（尤因十分饥饿）；毁灭，吞噬",
+        "definition": "to eat all of sth. quickly, especially because you are very hungry",
+        "zh": "狼吞虎咽地吃光（尤因十分饥饿）；毁灭，吞噬"
+      },
+      {
+        "form": "established",
+        "ipa": "/ɪˈstæblɪʃt/",
+        "pos": "adj.",
+        "meaning": "公认的，老牌的，地位稳固的，确立已久的",
+        "definition": "respected or given official status because it has existed or been used for a long time",
+        "zh": "公认的，老牌的，地位稳固的，确立已久的"
+      },
+      {
+        "form": "disciplined",
+        "ipa": "/ˈdɪsəplɪnd/",
+        "pos": "adj.",
+        "meaning": "遵守纪律的，自律的，训练有素的",
+        "definition": "trained to obey rules and orders and behave in a way that shows control",
+        "zh": "遵守纪律的，自律的，训练有素的"
+      },
+      {
+        "form": "first-past-the-post",
+        "ipa": "/ˌfɜːst ˌpɑːst ðə ˈpəʊst/",
+        "pos": "adj.",
+        "meaning": "简单多数制",
+        "definition": "(of a system of elections) in which only the person who gets the most votes is elected",
+        "zh": "简单多数制"
+      },
+      {
+        "form": "workable",
+        "ipa": "/ˈwɜːkəbl/",
+        "pos": "adj.",
+        "meaning": "可行的，行得通的，可实施的",
+        "definition": "(of a system, an idea, etc.) that can be used successfully and effectively",
+        "zh": "可行的，行得通的，可实施的"
+      },
+      {
+        "form": "succession",
+        "ipa": "/səkˈseʃn/",
+        "pos": "n.",
+        "meaning": "接连发生",
+        "definition": "a number of people or things that follow each other in time or order",
+        "zh": "接连发生"
+      },
+      {
+        "form": "on course for",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "有望达成，即将迎来",
+        "definition": "likely to achieve or do sth. because you have already started to do it",
+        "zh": "有望达成，即将迎来"
+      },
+      {
+        "form": "landslide",
+        "ipa": "/ˈlændslaɪd/",
+        "pos": "n.",
+        "meaning": "（选举）压倒性大胜，压倒性胜利",
+        "definition": "an election in which one person or party gets very many more votes than the other people or parties",
+        "zh": "（选举）压倒性大胜，压倒性胜利"
+      },
+      {
+        "form": "given way so quickly to",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "被……取代，让位于",
+        "definition": "to be replaced by sth.",
+        "zh": "被……取代，让位于"
+      },
+      {
+        "form": "blur",
+        "ipa": "/blɜː(r)/",
+        "pos": "v.",
+        "meaning": "使界限模糊，难以分清两者的差别",
+        "definition": "to become or make it become difficult to recognize a clear difference between things",
+        "zh": "使界限模糊，难以分清两者的差别"
+      },
+      {
+        "form": "elastic band",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "橡皮筋",
+        "definition": "a thin round piece of rubber used for holding things together",
+        "zh": "橡皮筋"
+      },
+      {
+        "form": "fraying",
+        "ipa": "/freɪ/",
+        "pos": "v.",
+        "meaning": "（情绪、耐心、关系）逐渐变得紧张，开始焦躁，恶化",
+        "definition": "If sb.’s nerves or temper frays or sth. frays them, the person starts to get annoyed.",
+        "zh": "（情绪、耐心、关系）逐渐变得紧张，开始焦躁，恶化"
+      },
+      {
+        "form": "premiership",
+        "ipa": "/ˈpremiəʃɪp/",
+        "pos": "n.",
+        "meaning": "首相职位，首相任期",
+        "definition": "the period or position of being prime minister",
+        "zh": "首相职位，首相任期"
+      },
+      {
+        "form": "referendum",
+        "ipa": "/ˌrefəˈrendəm/",
+        "pos": "n.",
+        "meaning": "全民公投，公投",
+        "definition": "an occasion when all the people of a country can vote on an important issue",
+        "zh": "全民公投，公投"
+      },
+      {
+        "form": "brought down",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "使下台，扳倒，使垮台",
+        "definition": "to make sb. lose power or be defeated",
+        "zh": "使下台，扳倒，使垮台"
+      },
+      {
+        "form": "the ballot box",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "选举制度，选票，民众投票抉择",
+        "definition": "the system of voting in an election",
+        "zh": "选举制度，选票，民众投票抉择"
+      },
+      {
+        "form": "splitting",
+        "ipa": "/splɪt/",
+        "pos": "v.",
+        "meaning": "（使）分裂，（使）产生分歧",
+        "definition": "to divide, or to make a group of people divide, into smaller groups that have very different opinions",
+        "zh": "（使）分裂，（使）产生分歧"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "an election in which one person or party gets very many more votes than the other people or parties",
+      "to become or make it become difficult to recognize a clear difference between things"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “In England, voters are now splitting between several parties, not lining up behind Labour and the Conservatives as reliably as they once did.”?",
+    "exerciseChoiceMarked": [
+      "splitting"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "They accused both radicals and conservatives of trying to provoke a split in the party.",
+        "marked": [
+          "split"
+        ],
+        "zh": "他们指责激进分子和保守派都试图挑拨党内的分裂。"
+      },
+      {
+        "label": "B",
+        "text": "Yet it is feared the Republican leadership could split over the agreement.",
+        "marked": [
+          "split"
+        ],
+        "zh": "然而，人们担心共和党领导层可能会因这项协议而分裂。"
+      },
+      {
+        "label": "C",
+        "text": "The seat of his grey trousers split.",
+        "marked": [
+          "split"
+        ],
+        "zh": "他的灰色裤子有裂缝。"
+      },
+      {
+        "label": "D",
+        "text": "I would rather pay for a meal than watch nine friends pick over and split a bill.",
+        "marked": [
+          "split"
+        ],
+        "zh": "我宁愿自己付钱吃饭，也不愿看着九个朋友来分摊并分配账单。"
+      }
+    ],
+    "exerciseTranslationPrompt": "两大老牌政党占据主导地位、议会党团纪律相对严明，再加上简单多数选举制往往能把选票转化为有效的下议院多数席位，共同为首相构筑了稳固的执政根基。",
+    "answerVocabularyList": [
+      "landslide",
+      "blur"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "The dominance of two established parties, relatively disciplined parliamentary blocs and a first-past-the-post electoral system that often turned votes into workable Commons majorities all helped give prime ministers a stable base."
   },
   {
     "key": "jul0728",
@@ -16076,6 +21014,332 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "aug0807",
+    "date": "2026.08.07",
+    "period": "2026年8月",
+    "folder": "0807剑桥，你的原则呢？",
+    "titleZh": "剑桥，你的原则呢？",
+    "title": "Cambridge is coming out very badly from the Jason Arday affair",
+    "topicEn": "Education",
+    "topicZh": "教育",
+    "byline": "By Andrew Tettenborn, The Spectator Australia, Published July 30, 2026",
+    "paragraphs": [
+      "I’ve never met Professor Jason Arday. I don’t know whether he has genuinely run 600 miles in six days. I also genuinely don’t know the truth about the remarkable similarities between parts of his doctoral thesis at Liverpool John Moores, which helped propel him rocket-like up the academic greasy pole to a chair at Cambridge, and passages in a dissertation written six years earlier by someone at Brunel.",
+      "It is undoubtedly possible that this is nothing more than an honest, if rather careless, omission to acknowledge earlier work: academics are, after all, proverbially absent-minded, and writing theses is stressful. On the other hand, the passages may indeed have been copied as an intellectual labour-saving device in the assumption that no one would be any the wiser. This happens; and frankly, if you do it in a provincial university you’re probably safe. Turgid post-modernist theses on social education theory normally sink lead-like into the intellectual mire as soon as the degree is granted: the chances that an examiner in Liverpool will have chosen to read an obscure thesis written years earlier for intellectual stimulation are pretty thin. On this the jury’s out: we must await the verdict.",
+      "But all this is a side-issue. Whether Professor Arday is saint or sinner, the outfit that comes incredibly badly out of the whole affair is Cambridge University, and to some extent senior UK academia as a whole.",
+      "Take first the process of his appointment. It’s one thing for examiners in Liverpool to take at face value a doctoral thesis couched in well-worn academic jargon presented for a run-of-the-mill PhD. It’s not the same when the same document is put forward by a 37-year-old with an unorthodox academic career, who has on his own admission been illiterate until 18, applying for a pinnacle professorial position in Cambridge. Did it never strike either Cambridge University or some member of the academically distinguished electors who made up the appointment board for his chair to suggest an elementary piece of due diligence? Something like that done, without any difficulty, by academic enfant terrible Nathan Cofnas after the event?",
+      "There is of course a more Machiavellian possibility. No one can doubt that Cambridge knew all along that, if hired, Prof Arday would tick every DEI box imaginable: poverty, race, neurodiversity, unorthodox upbringing, you name it. Indeed there is an interesting question about whether he was discreetly put up to apply. (It happens.) Consciously or unconsciously, one does wonder whether the appointing committee actually wanted the election to sail through, and might have been less willing to apply the kind of scrutiny they might have given to a more ordinary candidate. Unfortunately, we’ll never know: the board’s discussions will doubtless bear a seal a bit like that of the confessional, so we can but speculate. That’s certainly Cambridge’s view: quite apart from its foolish diversionary reference this week to a ‘vile campaign’ to undermine Prof Arday, its line is that, as a senior Cambridge academic gushed shortly after the election, he was simply the ‘best in the world’. It he is, we might not worry too much about his appointment.",
+      "I’m not an expert here. But faced with a claim that this is not only sound scholarship but the best around, the intellectual public could be forgiven for a degree of scepticism. Put bluntly, if this is the world’s best when it comes to scholarship on education, sociology and race, we should be grateful we don’t have to read the worst."
+    ],
+    "paragraphTranslations": [
+      "我从未见过杰森·阿达伊教授。我不知道他是否真的能够在六天内跑完600英里。我也真的不知道关于他的一些细节的真相——比如他在利物浦约翰·穆尔斯大学攻读博士学位期间的研究成果，这些成果帮助他迅速晋升为剑桥大学的教授。此外，我还了解到他在六年前由布鲁内尔大学某位学者撰写的论文中的某些内容，也与他之前的研究成果有着惊人的相似性。",
+      "毫无疑问，这很可能只是一种出于疏忽而未能承认之前研究成果的行为：毕竟，学者们向来以健忘著称，而撰写论文的过程本身就非常紧张。另一方面，这些段落可能被当作一种节省时间的手段而抄袭，因为人们认为没人会注意到这一点。这种情况确实会发生；坦率地说，如果你在地方大学工作，那么你的处境可能还算安全。那些关于社会教育理论的陈腐的后现代主义论文，通常在获得学位后就会被束之高阁——在利物浦，考官选择阅读那些多年前撰写的、晦涩难懂的论文的可能性微乎其微。这一点还不得而知，我们必须等待进一步的判断。",
+      "但这一切都只是次要问题。无论阿达伊教授是圣人还是罪人，整个事件最受影响的就是剑桥大学，而在某种程度上，整个英国学术界也受到了影响。",
+      "首先，来谈谈他的任命过程。对于利物浦的评审员来说，如果是一篇用陈旧的学术术语写成的博士论文，并且是出于普通博士的任命目的，那么接受这样的论文并不困难。但是，如果这份文件是由一位37岁的、学术生涯并不寻常的人提交的，而且他承认自己直到18岁时还是个文盲，却要申请剑桥大学的顶级教授职位，这种情况就不一样了。难道剑桥大学或那些组成任命委员会的、在学术上享有声望的评审人员没有采取一些基本的审查措施吗？在事件发生后，学术界的丑闻制造者内森·科夫纳斯难道没有毫无困难地做到这一点吗？",
+      "当然，还有另一种更阴险的可能性。没人会怀疑，剑桥大学早就知道，如果聘请阿达伊教授，他完全符合所有与DEI相关的标准：贫困背景、种族因素、神经多样性、非传统的成长经历等等。确实，有一个有趣的问题：是否有人故意推荐他来担任这个职位呢？（这种情况确实会发生。）无论是有意还是无意，人们都会好奇，任命委员会是否真的希望这次选举能够顺利进行，因此他们可能并不愿意像对待普通候选人那样对这个人进行严格的审查。遗憾的是，我们永远无法得知真相：董事会的讨论记录无疑会像忏悔录一样被保密，所以我们只能进行推测而已。这无疑是剑桥大学的立场：除了本周他们试图通过一场“恶毒的宣传活动”来诋毁阿达伊教授之外，他们的观点是，正如一位剑桥大学的资深学者在选举后不久所说的那样，阿达伊教授只是“世界上最优秀的人”。如果真是如此，我们就不必太担心他的任命了。",
+      "我并非这方面的专家。但面对这样一个观点，即这本书不仅学术严谨，而且堪称最佳之作，那些有见识的读者自然会对它持一定的怀疑态度。坦率地说，如果这真的是世界上在教育、社会学和种族研究领域的顶级著作，那我们就不应该抱怨自己不必阅读那些质量最差的作品了。"
+    ],
+    "vocabulary": [
+      {
+        "form": "genuinely",
+        "ipa": "/ˈdʒenjuɪnli/",
+        "pos": "adv.",
+        "meaning": "真诚地，真正地，真心的",
+        "definition": "in a genuine, honest, and sincere way",
+        "zh": "真诚地，真正地，真心的"
+      },
+      {
+        "form": "propel",
+        "ipa": "/prəˈpel/",
+        "pos": "v.",
+        "meaning": "推动，促使（推进，驱动，助推）",
+        "definition": "to move, drive, or push sth. forward",
+        "zh": "推动，促使（推进，驱动，助推）"
+      },
+      {
+        "form": "greasy",
+        "ipa": "/ˈɡriːsi/",
+        "pos": "adj.",
+        "meaning": "圆滑的，油腔滑调的，谄媚讨好的",
+        "definition": "(disapproving) behaving in a way that is unpleasantly polite because you want sb. to like you or to get sth. from them",
+        "zh": "圆滑的，油腔滑调的，谄媚讨好的"
+      },
+      {
+        "form": "dissertation",
+        "ipa": "/ˌdɪsəˈteɪʃn/",
+        "pos": "n.",
+        "meaning": "（尤指博士）学位论文",
+        "definition": "a long piece of writing on a particular subject, especially one that is done for a university degree",
+        "zh": "（尤指博士）学位论文"
+      },
+      {
+        "form": "omission",
+        "ipa": "/əˈmɪʃn/",
+        "pos": "n.",
+        "meaning": "遗漏，疏忽（省略，遗漏之处）",
+        "definition": "sth. that has not been included or done, or the act of not including or doing sth.",
+        "zh": "遗漏，疏忽（省略，遗漏之处）"
+      },
+      {
+        "form": "provincial",
+        "ipa": "/prəˈvɪnʃl/",
+        "pos": "adj.",
+        "meaning": "外省的，地方的，非首都的",
+        "definition": "connected with the parts of a country that do not include its capital city",
+        "zh": "外省的，地方的，非首都的"
+      },
+      {
+        "form": "Turgid",
+        "ipa": "/ˈtɜːdʒɪd/",
+        "pos": "adj.",
+        "meaning": "浮夸的，晦涩难懂的",
+        "definition": "(of writing or speech) sounding important or impressive but not clear or interesting",
+        "zh": "浮夸的，晦涩难懂的"
+      },
+      {
+        "form": "mire",
+        "ipa": "/ˈmaɪə(r)/",
+        "pos": "n.",
+        "meaning": "困境，泥沼，困局",
+        "definition": "a difficult situation that is hard to escape from",
+        "zh": "困境，泥沼，困局"
+      },
+      {
+        "form": "stimulation",
+        "ipa": "/ˌstɪmjuˈleɪʃn/",
+        "pos": "n.",
+        "meaning": "激励，启发，鼓舞",
+        "definition": "the act of making sth. more active, or the state of being made more active",
+        "zh": "激励，启发，鼓舞"
+      },
+      {
+        "form": "jury’s out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "尚无定论，仍未确定",
+        "definition": "used to say that no decision has yet been made about sth.",
+        "zh": "尚无定论，仍未确定"
+      },
+      {
+        "form": "verdict",
+        "ipa": "/ˈvɜːdɪkt/",
+        "pos": "n.",
+        "meaning": "定论，结论，裁决，判决",
+        "definition": "an opinion that you form or a decision that you make after testing sth. or thinking about it",
+        "zh": "定论，结论，裁决，判决"
+      },
+      {
+        "form": "outfit",
+        "ipa": "/ˈaʊtfɪt/",
+        "pos": "n.",
+        "meaning": "机构，团体，组织，单位",
+        "definition": "(informal) a group of people who work together as a team, business, etc.",
+        "zh": "机构，团体，组织，单位"
+      },
+      {
+        "form": "take at face value",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "相信……的表面意思，照字面理解，不加质疑地接受",
+        "definition": "to accept sth. as it appears to be, without examining it more closely",
+        "zh": "相信……的表面意思，照字面理解，不加质疑地接受"
+      },
+      {
+        "form": "couched",
+        "ipa": "/kaʊtʃ/",
+        "pos": "v.",
+        "meaning": "措辞，表述，遣词造句",
+        "definition": "to say or write words in a particular style or manner",
+        "zh": "措辞，表述，遣词造句"
+      },
+      {
+        "form": "jargon",
+        "ipa": "/ˈdʒɑːɡən/",
+        "pos": "n.",
+        "meaning": "行话，术语",
+        "definition": "(disapproving) special words and expressions that are used by a particular profession or group and are difficult for other people to understand",
+        "zh": "行话，术语"
+      },
+      {
+        "form": "run-of-the-mill",
+        "ipa": "/ˌrʌn əv ðə ˈmɪl/",
+        "pos": "adj.",
+        "meaning": "普普通通的，平庸的，不出众的",
+        "definition": "ordinary, with no special or interesting qualities",
+        "zh": "普普通通的，平庸的，不出众的"
+      },
+      {
+        "form": "unorthodox",
+        "ipa": "/ʌnˈɔːθədɒks/",
+        "pos": "adj.",
+        "meaning": "非正统的，非常规的",
+        "definition": "different from what is usual or from the generally accepted ideas, methods, etc.",
+        "zh": "非正统的，非常规的"
+      },
+      {
+        "form": "illiterate",
+        "ipa": "/ɪˈlɪtərət/",
+        "pos": "adj.",
+        "meaning": "不识字的，文盲的",
+        "definition": "not able to read or write",
+        "zh": "不识字的，文盲的"
+      },
+      {
+        "form": "pinnacle",
+        "ipa": "/ˈpɪnəkl/",
+        "pos": "n.",
+        "meaning": "顶峰，巅峰，高潮",
+        "definition": "the most successful point of sth. such as a career",
+        "zh": "顶峰，巅峰，高潮"
+      },
+      {
+        "form": "diligence",
+        "ipa": "/ˈdɪlɪdʒəns/",
+        "pos": "n.",
+        "meaning": "尽职调查，审慎核查",
+        "definition": "careful and thorough investigation carried out before entering into an agreement or business deal with another party",
+        "zh": "尽职调查，审慎核查"
+      },
+      {
+        "form": "enfant terrible",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "惊世骇俗的人，离经叛道者（语出惊人的人，特立独行的人物）",
+        "definition": "a person whose ideas or behaviour shock or embarrass other people",
+        "zh": "惊世骇俗的人，离经叛道者（语出惊人的人，特立独行的人物）"
+      },
+      {
+        "form": "upbringing",
+        "ipa": "/ˈʌpbrɪŋɪŋ/",
+        "pos": "n.",
+        "meaning": "成长经历，教养，家教",
+        "definition": "the way in which a child is cared for and taught how to behave while it is growing up",
+        "zh": "成长经历，教养，家教"
+      },
+      {
+        "form": "put up to",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "怂恿，唆使（某人做某事）",
+        "definition": "(informal) to persuade sb. to do sth., especially sth. bad or silly",
+        "zh": "怂恿，唆使（某人做某事）"
+      },
+      {
+        "form": "sail through",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "顺利通过，轻松成功，毫不费力地通过",
+        "definition": "to succeed very easily in sth., especially a test or exam",
+        "zh": "顺利通过，轻松成功，毫不费力地通过"
+      },
+      {
+        "form": "scrutiny",
+        "ipa": "/ˈskruːtəni/",
+        "pos": "n.",
+        "meaning": "详细审查，仔细审视",
+        "definition": "careful and thorough examination of sb./sth.",
+        "zh": "详细审查，仔细审视"
+      },
+      {
+        "form": "confessional",
+        "ipa": "/kənˈfeʃənl/",
+        "pos": "n.",
+        "meaning": "（天主教的）忏悔室，告解室",
+        "definition": "a small enclosed space in a church where a priest hears people’s confessions",
+        "zh": "（天主教的）忏悔室，告解室"
+      },
+      {
+        "form": "speculate",
+        "ipa": "/ˈspekjuleɪt/",
+        "pos": "v.",
+        "meaning": "推测，猜测，猜想",
+        "definition": "to guess possible answers to a question when you do not have enough information to be certain",
+        "zh": "推测，猜测，猜想"
+      },
+      {
+        "form": "diversionary",
+        "ipa": "/daɪˈvɜːʃənəri/",
+        "pos": "adj.",
+        "meaning": "转移注意力的，用于分散视线的，声东击西的",
+        "definition": "intended to take people’s attention away from sth.",
+        "zh": "转移注意力的，用于分散视线的，声东击西的"
+      },
+      {
+        "form": "vile",
+        "ipa": "/vaɪl/",
+        "pos": "adj.",
+        "meaning": "可恶的，令人厌恶的，邪恶的",
+        "definition": "extremely unpleasant or bad",
+        "zh": "可恶的，令人厌恶的，邪恶的"
+      },
+      {
+        "form": "gushed",
+        "ipa": "/ɡʌʃ/",
+        "pos": "v.",
+        "meaning": "滔滔不绝地说，过分热情地表达",
+        "definition": "to express your feelings or praise in a way that shows too much enthusiasm, so that it does not sound sincere",
+        "zh": "滔滔不绝地说，过分热情地表达"
+      },
+      {
+        "form": "bluntly",
+        "ipa": "/ˈblʌntli/",
+        "pos": "adv.",
+        "meaning": "直率地，直言不讳地",
+        "definition": "in a very direct way that may upset or offend people",
+        "zh": "直率地，直言不讳地"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "behaving in a way that is unpleasantly polite because you want sb. to like you or to get sth. from them",
+      "a difficult situation that is hard to escape from"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Did it never strike either Cambridge University or some member of the academically distinguished electors who made up the appointment board for his chair to suggest an elementary piece of due diligence?”?",
+    "exerciseChoiceMarked": [
+      "due diligence"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The scientist’s diligence in collecting and analyzing data contributed to the success of the experiment.",
+        "marked": [
+          "diligence"
+        ],
+        "zh": "这位科学家在数据收集与分析方面的勤奋工作，为实验的成功做出了贡献。"
+      },
+      {
+        "label": "B",
+        "text": "The company conducted extensive diligence before signing the contract with its new partner.",
+        "marked": [
+          "diligence"
+        ],
+        "zh": "公司在与新的合作伙伴签订合同之前，进行了广泛的调查与审查。"
+      },
+      {
+        "label": "C",
+        "text": "The manager praised her diligence in completing every task ahead of schedule.",
+        "marked": [
+          "diligence"
+        ],
+        "zh": "经理对她提前完成所有任务的勤奋工作给予了表扬。"
+      },
+      {
+        "label": "D",
+        "text": "His diligence and determination helped him achieve excellent results in his studies.",
+        "marked": [
+          "diligence"
+        ],
+        "zh": "他的勤奋和决心帮助他在学习中取得了优异的成绩。"
+      }
+    ],
+    "exerciseTranslationPrompt": "毫无疑问，这件事也可能只是一次诚实但相当粗心的疏漏，没有注明前人的研究成果。",
+    "answerVocabularyList": [
+      "greasy",
+      "mire"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "It is undoubtedly possible that this is nothing more than an honest, if rather careless, omission to acknowledge earlier work. ×"
+  },
+  {
     "key": "aug0810",
     "date": "2026.08.10",
     "period": "2026年08月",
@@ -16808,6 +22072,840 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "aug0813",
+    "date": "2026.08.13",
+    "period": "2026年8月",
+    "folder": "0813 中国人为什么喜欢听慢歌？ 2",
+    "titleZh": "中国人为什么喜欢听慢歌？ 2",
+    "title": "Why China’s Biggest Hits Are Still Ballads",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Tiffany Ap, Bloomberg, Published July 9, 2026",
+    "paragraphs": [
+      "This musical divide is further deepened by language. Because Chinese languages are tonal, they naturally benefit from longer phrasing that gives words room to breathe. The written characters also pack in an extraordinary amount of meaning and literary allusion. Unlike English, where syllables are often just components of a larger word, in Chinese they have standalone meaning — giving it a poetic density that English needs longer phrases to match. To properly appreciate the writing, the music has to slow down.",
+      "“It’s not like we don’t have Bob Dylan and Leonard Cohen,” says Taggart, referencing two Western lyrical masters. “But a ballad is a great way to showcase lyrics, singing ability and melody, the things that Chinese music culture tends to care about.”",
+      "The West, he explains, has narrowed its focus over time onto hooks — those earworm moments engineered for radio and algorithms. Chinese music has been able to better resist this shift thanks to its lyrical depth and what Taggart characterizes as “elaborate, somewhat flowery, almost academic, poetic writing.”",
+      "The most celebrated Chinese ballads aren’t built around plainspoken lines like “Give your all to me, I’ll give my all to you” (John Legend) or “I’ll hold you tight, baby all through the night” (Boyz II Men). They function, and are received, as a form of high art.",
+      "The partnership between Mandopop king Jay Chou and lyricist Vincent Fang, for instance, is legendary. Fang’s lyrics are so layered and literary they’ve been used in reading-comprehension questions on university entrance exams in Taiwan and mainland China.",
+      "In English, heartbreak tends to sound like Bruno Mars: “I should have bought you flowers and held your hand.” Fang, working in the same emotional territory, writes:",
+      "“Chrysanthemums withered, sorrow covers the ground, your smile has already turned yellow.”",
+      "Fang’s most frequently cited peer is Lin Xi, a prolific writer who has penned more than 3,000 songs across four decades for singing icons such as Faye Wong and Jacky Cheung. Lin’s specialty is Buddhist-inflected meditations on love and loss that carry a direct lineage to 11th century Song dynasty poetry. Imagine a Lewis Capaldi serenade containing a through line to Chaucer, and you’d have an English equivalent.",
+      "There’s also Wyman Wong, whose razor-sharp confessions bring a more modern, urban edge to the form. His influence is so profound that in 2012, the industry staged Concert YY, a six-night series at the Hong Kong Coliseum that assembled more than 40 of Cantonese pop’s biggest stars — including Eason Chan, Sammi Cheng, Miriam Yeung and Denise Ho — to pay tribute to his lyricism. In this part of the world, the wordsmith can be just as big a headliner as the singer.",
+      "Wyman Wong attends the Burberry show during London Fashion Week in February 2025.",
+      "Christopher Chak is sitting at the Sony Music Publishing studios in Hung Hom, Hong Kong. Tall, lean and casually dressed in a baseball cap and khakis, he’s a picture of easygoing affability — and looks like an unlikely source of some of the most challenging melodies in Chinese pop. He’s a longtime collaborator with Lin Xi, working with him on almost 30 songs over the past two decades, including the 2006 Cantonese hit “Under Mount Fuji” sung by Eason Chan.",
+      "A year later, the track was retooled for the Mandarin market as “Love Transfer,” with new lyrics by Lin. Its release coincided with a seismic shift as the spotlight swung from Hong Kong’s Cantopop scene to the much larger Mandopop market, helping transform Chan from a respected local singer into a regional superstar.",
+      "Chak, who has a master’s degree in psychology, works mainly as a psychologist and composes on the side, insulating him from commercial pressures. The same forces that have reshaped Western pop — streaming algorithms, social media optimization and artificial-intelligence-generated tunes — are also transforming Chinese music, but Chak has no need to churn out predictable streaming fodder. He’s free to build the complex, uncompromising musical architectures that have become his signature.",
+      "His melodies tend to sound like an unbroken stream of water, with syllables and notes packed so tightly together that singers have to hunt for split-second windows just to inhale. For lyricists, they are a sprawling canvas on which to write complex philosophical essays instead of simple love cliches.",
+      "Chak says balladry can be about raw release, just as it is in the West, but believes it carries a deeper Confucian dimension in Chinese culture. While Western music often emphasizes emotional self-expression, Chinese pop draws listeners toward reflection. “The songs connect people,” he says, “but connect them together to be more contemplative, not get too extreme about emotions.”",
+      "This sense of balance is evident in the very structure of traditional Chinese music. The pentatonic scale strips out the dissonant intervals found in the West’s seven-note system, creating a sound that feels smoother and more harmonious. “I’m a big fan of Adele,” Chak says, but her approach — intensely emotional, melodramatic, expressive — reflects a Western inclination. Chak’s work intentionally denies that big, explosive vocal payoff. Instead, the tension hangs in the air, trapping the listener inside a loop of unresolved longing.",
+      "This preference for restraint runs through much of Chinese pop. There are still powerhouse vocalists like GEM, who started out covering Whitney Houston, or Singapore’s JJ Lin. But many of the genre’s biggest stars captivate audiences with styles that challenge Western expectations. Faye Wong’s delivery is famously icy and ethereal, and Jay Chou has topped the charts for a quarter-century with a nasal low-register murmur. In each case, emotional nuance matters more than vocal fireworks."
+    ],
+    "paragraphTranslations": [
+      "这种音乐上的差异还因语言本身而进一步加深。由于汉语具有声调特征，较长的句子结构自然能够让词语有更充分的表达空间。汉字在书写中也能蕴含大量的意义与文学意味。与英语不同，在英语中音节往往只是整个单词的组成部分，而在汉语中，每个音节都有其独立的意义——这种诗意性的表达强度，需要英语中的长句来与之匹配。要真正欣赏这种文字表达，音乐就必须放慢节奏。",
+      "“我们不是没有鲍勃·迪伦和伦纳德·科恩这样的歌手，”塔加特说，他提到了两位西方抒情音乐大师。“不过，民谣是一种很好的方式来展示歌词、演唱能力和旋律，而这些正是中国音乐文化所关注的方面。”",
+      "他解释说，西方的音乐创作随着时间的推移，越来越注重那些能够吸引听众注意力的元素——也就是那些专为广播和算法设计的、容易让人记住的旋律。而中国的音乐则因为其歌词的深刻性，以及塔加特所描述的“复杂、富有诗意、近乎学术性的写作风格”，因此更能抵抗这种趋势的影响。",
+      "最著名的中国民谣并非像约翰·莱吉德的那首《请为我付出一切，我也会为你付出一切》或男孩组合《我会紧紧握住你的手，直到深夜》那样，以简单直接的歌词为特点的作品。这些民谣被当作一种高级艺术形式来创作和欣赏。",
+      "例如，台湾流行音乐天王周杰明与词曲作者方文锦的合作非常出色。方文锦的词作具有丰富的层次感且充满文学气息，甚至被用于台湾和中国大陆的大学入学考试中的阅读理解题目。",
+      "在英语中，心碎的感觉往往类似于布鲁诺·玛尔斯的歌曲：“我本应该给你买花，并握着你的手。”方在同样的情感领域里创作，他写道：",
+      "菊花凋谢了，悲伤笼罩大地，你的笑容已经变得憔悴不堪。",
+      "方最常引用的同人作家是林熙，她是一位多产的作家，在四十多年间为费雯·罗克和张学礼等歌手创作了超过3000首歌曲。林熙擅长以佛教思想为基调，表达关于爱与失去的主题，其创作风格直接源于11世纪宋朝的诗歌传统。如果你想象一下林熙为路易斯·卡帕尔迪创作的歌曲，并加入一段对乔叟的引用，那么这就形成了一种具有英式风格的诗歌形式。",
+      "还有Wyman Wong，他犀利深刻的歌词创作为这种音乐形式带来了更现代、更具都市气息的风格。他的影响力非常深远，以至于在2012年，主办方在香港体育馆举办了一场为期六晚的“Concert YY”活动，活动上聚集了40多位粤语流行音乐界的巨星——包括Eason Chan、Sammi Cheng、Miriam Yeung和Denise Ho——共同向他致敬。在这个时代，词作者同样可以成为与歌手一样重要的明星人物。",
+      "Wyman Wong在2025年2月的伦敦时装周上参加了Burberry的时装秀。",
+      "克里斯托弗·查克坐在香港红磡地区的索尼音乐出版工作室里。他身材高挑、体型瘦削，穿着棒球帽和卡其裤，看起来非常随和友善——而且他似乎正是一些最具挑战性的中国流行音乐旋律的创作者。他与林熙有着长期的合作关系，在过去二十年里，他们合作创作了近30首歌曲，其中包括2006年广受欢迎的粤语歌曲《富士山之下》，这首歌由叶振环演唱。",
+      "一年后，这首歌被重新编曲，以“Love Transfer”为名发行，歌词由林宇峰创作。这首歌的发布恰逢一个重要的转折点——人们的关注从香港的粤语流行音乐领域转移到了规模更大的台湾流行音乐市场。这一转变使得陈慧嫻从一位受尊敬的本地歌手，一举成为地区性的超级明星。",
+      "查克拥有心理学硕士学位，主要担任心理学家的工作，同时也会进行音乐创作。这些因素——即那些重塑了西方流行音乐的流媒体算法、社交媒体优化以及由人工智能生成的音乐风格——同样也在改变中国的音乐产业。不过，查克并不需要去创作那些可以预测的音乐作品。他可以自由地构建那些复杂而富有创意的音乐作品，这些作品正是他独特的风格特点。",
+      "他的旋律听起来就像不断流淌的流水，音节和音符紧密地交织在一起，以至于歌手们必须仔细寻找恰当的时机才能正确演唱。对于词作者来说，这些旋律则像是一块广阔的画布，可以在上面创作出复杂的哲学性作品，而非简单的爱情主题曲。",
+      "查克认为，民谣可以表达内心的情感，就像在西方一样。但他也指出，在中国文化中，民谣具有更深刻的儒家色彩。虽然西方音乐往往强调情感的表达，但中国流行音乐则引导听众进行沉思。“这些歌曲能够连接人们，”他说，“但它们将人们联系在一起，让他们更加沉思，而不是让情感过于极端。”",
+      "这种平衡感在传统中国音乐的结构中表现得非常明显。五声音阶摒弃了西方七音体系中的不和谐音程，从而创造出更加柔和、和谐的声音。Chak说：“我是阿德莱的忠实粉丝”，但她的演唱风格——充满情感、戏剧性强、富有表现力——却体现了西方的音乐风格。Chak的作品刻意避免了那种强烈、爆发性的声乐效果。相反，音乐中的紧张感持续存在，让听众陷入一种未解的情感困境之中。",
+      "这种对柔和音色的偏好在大部分中国流行音乐中都很明显。仍然有一些实力强大的歌手，比如GEM，他们最初模仿的是惠特妮·休斯顿或新加坡的JJ Lin的演唱风格。但该流派中的许多顶尖歌手则以其打破西方预期的音乐风格吸引听众。黄莺的演唱风格以冷峻而空灵著称，而周杰伦则凭借他那低沉而富有磁性的嗓音，连续四分之一世纪一直位居排行榜榜首。在每一种情况下，情感上的细腻表现都比声音的强烈效果更为重要。"
+    ],
+    "vocabulary": [
+      {
+        "form": "tonal",
+        "ipa": "/ˈtəʊnl/",
+        "pos": "adj.",
+        "meaning": "声调的，音调的，语调的",
+        "definition": "relating to the tones (= sound levels) of a language",
+        "zh": "声调的，音调的，语调的"
+      },
+      {
+        "form": "phrasing",
+        "ipa": "/ˈfreɪzɪŋ/",
+        "pos": "n.",
+        "meaning": "措辞，措句方式，遣词造句",
+        "definition": "the way in which words, phrases, etc. are chosen and arranged in order to express sth.",
+        "zh": "措辞，措句方式，遣词造句"
+      },
+      {
+        "form": "pack in",
+        "ipa": "/pæk ɪn/",
+        "pos": "v.",
+        "meaning": "塞入，容纳大量，包含丰富内容",
+        "definition": "to fit a large amount of sth. into a limited space or period",
+        "zh": "塞入，容纳大量，包含丰富内容"
+      },
+      {
+        "form": "allusion",
+        "ipa": "/əˈluːʒn/",
+        "pos": "n.",
+        "meaning": "暗指，影射，典故",
+        "definition": "sth. that is said or written that refers to or mentions another subject, person, event, etc. in an indirect way",
+        "zh": "暗指，影射，典故"
+      },
+      {
+        "form": "standalone",
+        "ipa": "/ˈstændəˌləʊn/",
+        "pos": "adj.",
+        "meaning": "独立的，单独存在的，自成一体的",
+        "definition": "(of a computer, machine, etc.) able to work by itself without needing to be connected to a network or to another piece of equipment",
+        "zh": "独立的，单独存在的，自成一体的"
+      },
+      {
+        "form": "density",
+        "ipa": "/ˈdensəti/",
+        "pos": "n.",
+        "meaning": "密度，密集度，稠密度",
+        "definition": "the amount of information, activity, etc. that is contained within a particular area or thing",
+        "zh": "密度，密集度，稠密度"
+      },
+      {
+        "form": "hooks",
+        "ipa": "/hʊk/",
+        "pos": "n.",
+        "meaning": "记忆点，钩子乐句，重复乐句",
+        "definition": "a part of a song, especially the chorus, that is very easy to remember",
+        "zh": "记忆点，钩子乐句，重复乐句"
+      },
+      {
+        "form": "earworm",
+        "ipa": "/ˈɪəwɜːm/",
+        "pos": "n.",
+        "meaning": "洗脑神曲，萦绕脑海的旋律，挥之不去的曲调",
+        "definition": "a song or tune that keeps repeating in your mind",
+        "zh": "洗脑神曲，萦绕脑海的旋律，挥之不去的曲调"
+      },
+      {
+        "form": "algorithms",
+        "ipa": "/ˈælɡərɪðəm/",
+        "pos": "n.",
+        "meaning": "算法，运算法则，计算程序",
+        "definition": "a set of rules that must be followed when solving a particular problem",
+        "zh": "算法，运算法则，计算程序"
+      },
+      {
+        "form": "resist",
+        "ipa": "/rɪˈzɪst/",
+        "pos": "v.",
+        "meaning": "抵制，抗拒，抵抗",
+        "definition": "to refuse to accept sth. and try to stop it happening",
+        "zh": "抵制，抗拒，抵抗"
+      },
+      {
+        "form": "flowery",
+        "ipa": "/ˈflaʊəri/",
+        "pos": "adj.",
+        "meaning": "辞藻华丽的，花哨的，修饰过度的",
+        "definition": "(of language) using long and complicated words and phrases, especially in an attempt to be impressive",
+        "zh": "辞藻华丽的，花哨的，修饰过度的"
+      },
+      {
+        "form": "plainspoken",
+        "ipa": "/ˌpleɪnˈspəʊkən/",
+        "pos": "adj.",
+        "meaning": "直言不讳的，坦率的，朴实无华的",
+        "definition": "saying exactly what you think, in a very honest and direct way",
+        "zh": "直言不讳的，坦率的，朴实无华的"
+      },
+      {
+        "form": "legendary",
+        "ipa": "/ˈledʒəndəri/",
+        "pos": "adj.",
+        "meaning": "传奇性的，著名的，久负盛名的",
+        "definition": "very famous, especially in a way that people admire",
+        "zh": "传奇性的，著名的，久负盛名的"
+      },
+      {
+        "form": "layered",
+        "ipa": "/ˈleɪəd/",
+        "pos": "adj.",
+        "meaning": "层次丰富的，有多层含义的，有深度的",
+        "definition": "having many layers or levels, especially of meaning",
+        "zh": "层次丰富的，有多层含义的，有深度的"
+      },
+      {
+        "form": "Chrysanthemums",
+        "ipa": "/krɪˈsænθəməm/",
+        "pos": "n.",
+        "meaning": "菊花",
+        "definition": "a garden plant with brightly colored flowers that are like balls, or the flower of this plant",
+        "zh": "菊花"
+      },
+      {
+        "form": "withered",
+        "ipa": "/ˈwɪðə(r)/",
+        "pos": "v.",
+        "meaning": "枯萎，凋谢，凋零",
+        "definition": "if a plant withers, or if sth. withers it, it becomes dry and dies",
+        "zh": "枯萎，凋谢，凋零"
+      },
+      {
+        "form": "prolific",
+        "ipa": "/prəˈlɪfɪk/",
+        "pos": "adj.",
+        "meaning": "多产的，创作丰富的，创作力旺盛的",
+        "definition": "producing a lot of sth.",
+        "zh": "多产的，创作丰富的，创作力旺盛的"
+      },
+      {
+        "form": "icons",
+        "ipa": "/ˈaɪkɒn/",
+        "pos": "n.",
+        "meaning": "偶像，标志性人物，象征",
+        "definition": "a famous person or thing that people admire and see as a symbol of a particular idea, way of life, etc.",
+        "zh": "偶像，标志性人物，象征"
+      },
+      {
+        "form": "specialty",
+        "ipa": "/ˈspeʃəlti/",
+        "pos": "n.",
+        "meaning": "专长，强项，拿手好戏",
+        "definition": "a particular subject or skill that sb. specializes in, or a product that a person or place is famous for",
+        "zh": "专长，强项，拿手好戏"
+      },
+      {
+        "form": "meditations",
+        "ipa": "/ˌmedɪˈteɪʃn/",
+        "pos": "n.",
+        "meaning": "沉思，冥想，深思",
+        "definition": "a piece of writing or a work of art that shows the results of serious thought about a particular subject",
+        "zh": "沉思，冥想，深思"
+      },
+      {
+        "form": "lineage",
+        "ipa": "/ˈlɪniɪdʒ/",
+        "pos": "n.",
+        "meaning": "传承脉络，渊源，世系",
+        "definition": "(formal) the series of families that sb. comes from originally",
+        "zh": "传承脉络，渊源，世系"
+      },
+      {
+        "form": "serenade",
+        "ipa": "/ˌserəˈneɪd/",
+        "pos": "n.",
+        "meaning": "小夜曲，情歌，示爱之歌",
+        "definition": "a song or piece of music performed at night, especially by a man under the window of the woman he loves",
+        "zh": "小夜曲，情歌，示爱之歌"
+      },
+      {
+        "form": "equivalent",
+        "ipa": "/ɪˈkwɪvələnt/",
+        "pos": "n.",
+        "meaning": "相当之物，对应物，对等物",
+        "definition": "a thing that has the same function, purpose, etc. as sth. else, especially in a different country or system",
+        "zh": "相当之物，对应物，对等物"
+      },
+      {
+        "form": "razor-sharp",
+        "ipa": "/ˈreɪzə ʃɑːp/",
+        "pos": "adj.",
+        "meaning": "极其敏锐的，尖锐的，犀利的",
+        "definition": "showing that sb. is extremely intelligent",
+        "zh": "极其敏锐的，尖锐的，犀利的"
+      },
+      {
+        "form": "confessions",
+        "ipa": "/kənˈfeʃn/",
+        "pos": "n.",
+        "meaning": "坦白，自白，倾诉",
+        "definition": "a statement in which you admit that you have done sth. wrong or embarrassing",
+        "zh": "坦白，自白，倾诉"
+      },
+      {
+        "form": "assembled",
+        "ipa": "/əˈsembl/",
+        "pos": "v.",
+        "meaning": "聚集，召集，汇集",
+        "definition": "to gather together in one place for a particular purpose",
+        "zh": "聚集，召集，汇集"
+      },
+      {
+        "form": "wordsmith",
+        "ipa": "/ˈwɜːdsmɪθ/",
+        "pos": "n.",
+        "meaning": "文字大师，词作高手，文字工匠",
+        "definition": "a person who uses words skillfully, especially as a writer",
+        "zh": "文字大师，词作高手，文字工匠"
+      },
+      {
+        "form": "headliner",
+        "ipa": "/ˈhedlaɪnə(r)/",
+        "pos": "n.",
+        "meaning": "主角，压轴演出者，头牌",
+        "definition": "the main performer or performers at a concert, festival, etc.",
+        "zh": "主角，压轴演出者，头牌"
+      },
+      {
+        "form": "affability",
+        "ipa": "/ˌæfəˈbɪləti/",
+        "pos": "n.",
+        "meaning": "和蔼可亲，友善，平易近人",
+        "definition": "the quality of being friendly and easy to talk to",
+        "zh": "和蔼可亲，友善，平易近人"
+      },
+      {
+        "form": "track",
+        "ipa": "/træk/",
+        "pos": "n.",
+        "meaning": "唱片或专辑中的一首歌曲，曲目，录音曲目",
+        "definition": "one of the songs or pieces of music on a record, CD, etc.",
+        "zh": "唱片或专辑中的一首歌曲，曲目，录音曲目"
+      },
+      {
+        "form": "retooled",
+        "ipa": "/ˌriːˈtuːl/",
+        "pos": "v.",
+        "meaning": "重新改造，调整，改编",
+        "definition": "to change or adapt sth. so that it can be used in a different way",
+        "zh": "重新改造，调整，改编"
+      },
+      {
+        "form": "seismic",
+        "ipa": "/ˈsaɪzmɪk/",
+        "pos": "adj.",
+        "meaning": "巨大的，影响深远的，翻天覆地的",
+        "definition": "very great in effect; having a huge impact",
+        "zh": "巨大的，影响深远的，翻天覆地的"
+      },
+      {
+        "form": "spotlight",
+        "ipa": "/ˈspɒtlaɪt/",
+        "pos": "n.",
+        "meaning": "公众关注，聚光灯，焦点",
+        "definition": "the attention of the public, newspapers, etc.",
+        "zh": "公众关注，聚光灯，焦点"
+      },
+      {
+        "form": "composes",
+        "ipa": "/kəmˈpəʊz/",
+        "pos": "v.",
+        "meaning": "创作音乐，谱写，谱曲",
+        "definition": "to write music",
+        "zh": "创作音乐，谱写，谱曲"
+      },
+      {
+        "form": "on the side",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "作为副业，兼职，利用业余时间",
+        "definition": "in addition to one’s main job or activity",
+        "zh": "作为副业，兼职，利用业余时间"
+      },
+      {
+        "form": "insulating",
+        "ipa": "/ˈɪnsjuleɪt/",
+        "pos": "v.",
+        "meaning": "使隔离，保护，使免受影响",
+        "definition": "to protect sb./sth. from unpleasant experiences or effects",
+        "zh": "使隔离，保护，使免受影响"
+      },
+      {
+        "form": "churn out",
+        "ipa": "/tʃɜːn aʊt/",
+        "pos": "phr.",
+        "meaning": "大量生产，批量炮制",
+        "definition": "(informal) to produce large numbers or amounts of sth., especially without thinking about it much",
+        "zh": "大量生产，批量炮制"
+      },
+      {
+        "form": "fodder",
+        "ipa": "/ˈfɒdə(r)/",
+        "pos": "n.",
+        "meaning": "素材，原材料，题材",
+        "definition": "people or things that are used to satisfy a particular need or demand",
+        "zh": "素材，原材料，题材"
+      },
+      {
+        "form": "inhale",
+        "ipa": "/ɪnˈheɪl/",
+        "pos": "v.",
+        "meaning": "吸气，吸入，呼吸",
+        "definition": "to breathe in air, smoke, gas, etc.",
+        "zh": "吸气，吸入，呼吸"
+      },
+      {
+        "form": "sprawling",
+        "ipa": "/ˈsprɔːlɪŋ/",
+        "pos": "adj.",
+        "meaning": "蔓延的，伸展开的，铺展的",
+        "definition": "spreading in an untidy way",
+        "zh": "蔓延的，伸展开的，铺展的"
+      },
+      {
+        "form": "canvas",
+        "ipa": "/ˈkænvəs/",
+        "pos": "n.",
+        "meaning": "创作的画布，题材范围，创作空间",
+        "definition": "a subject, situation, or setting that provides scope for creative work",
+        "zh": "创作的画布，题材范围，创作空间"
+      },
+      {
+        "form": "cliches",
+        "ipa": "/ˈkliːʃeɪ/",
+        "pos": "n.",
+        "meaning": "陈词滥调，老套的说法，老生常谈",
+        "definition": "a phrase or idea that has been used so much that it is no longer interesting or meaningful",
+        "zh": "陈词滥调，老套的说法，老生常谈"
+      },
+      {
+        "form": "contemplative",
+        "ipa": "/kənˈtemplətɪv/",
+        "pos": "adj.",
+        "meaning": "沉思的，冥想的，若有所思的",
+        "definition": "thinking deeply about sth.",
+        "zh": "沉思的，冥想的，若有所思的"
+      },
+      {
+        "form": "pentatonic",
+        "ipa": "/ˌpentəˈtɒnɪk/",
+        "pos": "adj.",
+        "meaning": "五声音阶的",
+        "definition": "(of a scale in music) having five notes in each octave",
+        "zh": "五声音阶的"
+      },
+      {
+        "form": "strips out",
+        "ipa": "/strɪp aʊt/",
+        "pos": "phr.",
+        "meaning": "去除，剔除",
+        "definition": "to remove sth. completely from sth.",
+        "zh": "去除，剔除"
+      },
+      {
+        "form": "dissonant",
+        "ipa": "/ˈdɪsənənt/",
+        "pos": "adj.",
+        "meaning": "不和谐的，不协调的，刺耳的",
+        "definition": "(of sounds) not pleasant to listen to because the notes seem to be wrong together",
+        "zh": "不和谐的，不协调的，刺耳的"
+      },
+      {
+        "form": "intervals",
+        "ipa": "/ˈɪntəvl/",
+        "pos": "n.",
+        "meaning": "音乐中的音程",
+        "definition": "the difference in pitch between two musical notes",
+        "zh": "音乐中的音程"
+      },
+      {
+        "form": "melodramatic",
+        "ipa": "/ˌmelədrəˈmætɪk/",
+        "pos": "adj.",
+        "meaning": "情感夸张的，戏剧化的，夸张煽情的",
+        "definition": "showing more emotion than is necessary, in a way that seems exaggerated",
+        "zh": "情感夸张的，戏剧化的，夸张煽情的"
+      },
+      {
+        "form": "inclination",
+        "ipa": "/ˌɪnklɪˈneɪʃn/",
+        "pos": "n.",
+        "meaning": "倾向，爱好，偏好",
+        "definition": "a tendency to behave in a particular way or to like a particular thing",
+        "zh": "倾向，爱好，偏好"
+      },
+      {
+        "form": "payoff",
+        "ipa": "/ˈpeɪɒf/",
+        "pos": "n.",
+        "meaning": "回报，回馈，收获",
+        "definition": "the good result that you get from sth. you have done",
+        "zh": "回报，回馈，收获"
+      },
+      {
+        "form": "unresolved",
+        "ipa": "/ˌʌnrɪˈzɒlvd/",
+        "pos": "adj.",
+        "meaning": "未解决的，悬而未决的，未化解的",
+        "definition": "not settled or dealt with",
+        "zh": "未解决的，悬而未决的，未化解的"
+      },
+      {
+        "form": "restraint",
+        "ipa": "/rɪˈstreɪnt/",
+        "pos": "n.",
+        "meaning": "克制，自我约束，节制",
+        "definition": "calm and controlled behavior; the quality of not showing your feelings, or not doing sth. that you would like to do",
+        "zh": "克制，自我约束，节制"
+      },
+      {
+        "form": "powerhouse",
+        "ipa": "/ˈpaʊəhaʊs/",
+        "pos": "n.",
+        "meaning": "实力强劲的人，精力充沛的人，强者",
+        "definition": "a person who is very strong and full of energy",
+        "zh": "实力强劲的人，精力充沛的人，强者"
+      },
+      {
+        "form": "vocalists",
+        "ipa": "/ˈvəʊkəlɪst/",
+        "pos": "n.",
+        "meaning": "歌手，流行乐歌手，乐队歌手",
+        "definition": "a singer, especially in a pop, rock or jazz band",
+        "zh": "歌手，流行乐歌手，乐队歌手"
+      },
+      {
+        "form": "captivate",
+        "ipa": "/ˈkæptɪveɪt/",
+        "pos": "v.",
+        "meaning": "迷住，吸引，迷倒",
+        "definition": "to attract and hold the interest and attention of sb.",
+        "zh": "迷住，吸引，迷倒"
+      },
+      {
+        "form": "delivery",
+        "ipa": "/dɪˈlɪvəri/",
+        "pos": "n.",
+        "meaning": "演唱方式，表达方式，呈现方式",
+        "definition": "the way in which sb. speaks, sings a song, etc. in public",
+        "zh": "演唱方式，表达方式，呈现方式"
+      },
+      {
+        "form": "ethereal",
+        "ipa": "/ɪˈθɪəriəl/",
+        "pos": "adj.",
+        "meaning": "空灵的，飘渺的，超凡脱俗的",
+        "definition": "extremely delicate and light in a way that seems too perfect for this world",
+        "zh": "空灵的，飘渺的，超凡脱俗的"
+      },
+      {
+        "form": "nasal",
+        "ipa": "/ˈneɪzl/",
+        "pos": "adj.",
+        "meaning": "鼻音的，带鼻音的，鼻腔发声的",
+        "definition": "(of a person’s voice) sounding as if the person is speaking through their nose",
+        "zh": "鼻音的，带鼻音的，鼻腔发声的"
+      },
+      {
+        "form": "low-register",
+        "ipa": "/ˌləʊ ˈredʒɪstə(r)/",
+        "pos": "adj.",
+        "meaning": "低音区的，低声区的，音域偏低的",
+        "definition": "produced or performed in the lower part of a voice’s or instrument’s range",
+        "zh": "低音区的，低声区的，音域偏低的"
+      },
+      {
+        "form": "murmur",
+        "ipa": "/ˈmɜːmə(r)/",
+        "pos": "n.",
+        "meaning": "低语，喃喃低音，呢喃",
+        "definition": "a soft, quiet sound made by a voice",
+        "zh": "低语，喃喃低音，呢喃"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "using long and complicated words and phrases, especially in an attempt to be impressive",
+      "a person who uses words skillfully, especially as a writer"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “There’s also Wyman Wong, whose razor-sharp confessions bring a more modern, urban edge to the form.” ?",
+    "exerciseChoiceMarked": [
+      "razor-sharp"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Be careful—the knife has a razor-sharp blade.",
+        "marked": [
+          "razor-sharp"
+        ],
+        "zh": "小心点——那把刀的刀刃非常锋利。"
+      },
+      {
+        "label": "B",
+        "text": "Her razor-sharp commentary exposed the contradictions in his argument.",
+        "marked": [
+          "razor-sharp"
+        ],
+        "zh": "她尖锐的评论揭示了他论点中的矛盾之处。"
+      },
+      {
+        "label": "C",
+        "text": "The new television produces razor-sharp images.",
+        "marked": [
+          "razor-sharp"
+        ],
+        "zh": "新的电视机能够生成非常清晰的图像。"
+      },
+      {
+        "label": "D",
+        "text": "The goalkeeper relied on his razor-sharp reflexes to block the shot.",
+        "marked": [
+          "razor-sharp"
+        ],
+        "zh": "守门员凭借极其敏锐的反应挡下了这脚射门。"
+      }
+    ],
+    "exerciseTranslationPrompt": "不同于英语中音节往往只是一个更长单词的组成部分，汉语音节本身就具有独立意义，因此形成了一种高度凝练的诗性表达，而英语需要更长的短语才能达到类似效果。",
+    "answerVocabularyList": [
+      "flowery",
+      "wordsmith"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Unlike English, where syllables are often just components of a larger word, in Chinese they have standalone meaning — giving it a poetic density that English needs longer phrases to match."
+  },
+  {
+    "key": "aug0814",
+    "date": "2026.08.14",
+    "period": "2026年8月",
+    "folder": "0814Esther Perel：爱和欲望的平衡艺术",
+    "titleZh": "Esther Perel：爱和欲望的平衡艺术",
+    "title": "Too Scared for Sex",
+    "topicEn": "Psychology",
+    "topicZh": "心理",
+    "byline": "By Faith Hill, The Atlantic, Published July 24, 2026",
+    "paragraphs": [
+      "A little more than 20 years ago, Esther Perel was not yet an author or a podcast host. She was definitely not a household name. She was simply a psychotherapist with an observation: Many of her clients were in loving, supportive romantic relationships—and they weren’t having good sex, or any at all. At the time, the prevailing wisdom among psychologists was that a couple’s sex life was a reflection of their bond. Cultivate closeness, the thinking went, and you will feel safe to explore and to shed inhibitions. But Perel kept noticing the opposite: Emotional intimacy and desire seemed often to be at odds. That idea is fairly commonplace now—but that’s because Perel helped popularize it. In her 2006 book, Mating in Captivity, she described a kind of Greek tragedy that can thwart couples. Two people in heady early love, fearing uncertainty and aloneness, rush to get closer. But in doing so, they smother the spark of mystery that made the other person so desirable in the first place. Her book was a massive best seller, translated into more than 30 languages. Now she speaks in sold-out concert venues. Perel has covered plenty of other subjects over the years. Still, her initial thesis has only gained relevance. Two decades after the book’s release, American culture is in a bit of a sensual drought—and people want to know why. According to some data, the average married couple have less sex now. Young adults are entering partnerships later and less often, and a striking number of them don’t even want to see sex on TV. But Perel has said she doesn’t want to focus on statistics. The endless measurement of sex—how often people are having it, with how many partners, starting at what age—strikes her as part of the problem: It’s a distinctly unsexy and terribly narrow way to understand desire. She’s interested, instead, in eroticism. Perel’s “erotic” can entail sex, but it doesn’t have to. It’s a state one enters into when they’re playful, intrigued, open to the unknown. And because it means venturing away from security, it always involves some risk.",
+      "Perhaps the “sex recession,” then, is merely a symptom of something bigger: an eroticism shortage, resulting from a great discomfort with uncertainty. If so, the stakes would be much higher than they were in 2006. It would mean that people aren’t just falling out of lust with their partner but struggling to connect, to feel deeply, and to be present for their own life. “Today, the question is not so much How do you sustain desire in the long haul,” Perel told me, “but How do we ignite it in the first place?“ Eroticism, as Perel sees it, can begin only when one has achieved a baseline sense of safety. She has said she came to this understanding in part because of her husband’s career as a psychologist working with torture survivors. Once, she asked him how he knows when someone has truly come back—when they’ve gone from being not dead to alive. He told her it’s when they can be creative. In order to explore, to be open to new ideas and experiences—all core to eroticism, in Perel’s view— people have to feel stable enough to let their guard down. They have to unclench.",
+      "One doesn’t need to be a torture survivor to be in the habit of clenching: scanning for danger rather than being silly or raunchy or mischievous. “If you are in a state of vigilance,” Perel said, “you cannot be playful.”",
+      "Americans do seem more vigilant than playful these days. According to one 2025 poll from Marquette University Law School, 66 percent of 18-to-29-year olds and 60 percent of 30-to-44-year olds agreed that “most people can’t be trusted.” Rates of avoidant attachment style—the tendency to keep distant, essentially—have been rising. Political priorities have become dominated by a yearning for security: protection against financial instability, crime, replacement. And politicians are rushing to acknowledge (or exploit) those fears. These are not the conditions in which eroticism thrives.",
+      "The result is that while readers have continued lapping up Mating in Captivity, Americans have broadly become worse at taking Perel’s advice. The central premise of the book is that partners can keep the erotic alive by accepting that they will never know each other completely. But the average couple have arguably become more intertwined. For a recent story on Americans’ particularly intense disdain for infidelity, I spoke with a sociologist who said that many people are disturbed by the idea that their partner could have needs and fantasies they don’t know about. Cheating is so despised, she argued, because it’s a reminder that no matter how much of yourself you share and how close you are to your partner, you’ll never be inside their mind.",
+      "Maybe that’s the path forward for couples and single people alike: to lean into the precarity, not because it’s easier or more pleasant but because they’re interested in where that will lead. Perel tells partners that they don’t need to try creating distance or adding novelty to their relationships; all they need to do is accept that it already exists. In fact, they should revel in the fact that they’ll always have more to discover about each other. And what if single people started treating dates as adventures— opportunities to get to know someone new and do something different? Her advice, regardless of relationship status, is essentially this: Never give yourself over to numbness."
+    ],
+    "paragraphTranslations": [
+      "20多年前，埃丝特·佩雷尔还不是什么作家或播客主持人。她绝对不是什么家喻户晓的人物。她只是一个拥有以下观察结果的心理治疗师：她的许多客户都处于充满爱意和支持的浪漫关系中——但他们并没有享受良好的性生活，甚至根本就没有性生活。当时，心理学家普遍认为，夫妻间的性生活是他们关系紧密程度的体现。他们认为，通过培养亲密关系，人们会感到安全，从而愿意放下顾虑，探索新的可能性。但佩雷尔却发现了一个相反的情况：情感上的亲密与欲望似乎常常是相互矛盾的。这个观点现在已经相当普遍了——但这是因为佩雷尔帮助推广了这一理念。在2006年出版的《囚禁中的交配》一书中，她描述了一种可能破坏夫妻关系的希腊式悲剧。两个人在初恋阶段，害怕不确定性和孤独感，因此急于靠近彼此。但这样做，他们却扼杀了最初让那个人如此吸引人的那种神秘感。她的书是一本畅销书，被翻译成30多种语言。现在，她在演出场所的门票总是售罄。多年来，佩雷尔还研究过许多其他主题。不过，她最初提出的观点至今仍然具有现实意义。在这本书出版二十年后，美国文化出现了一种“性冷淡”现象——人们想要了解原因。根据一些数据，现在平均每个已婚夫妇的性生活次数减少了。年轻人进入伴侣关系的时间更晚，而且频率也更低，相当一部分年轻人甚至不想在电视上看到与性相关的内容。但佩雷尔表示，她不想只关注统计数据。对性的无休止的量化——人们进行性行为的频率、与多少个伴侣发生关系、从什么年龄开始——在她看来都是问题的一部分：这是一种明显缺乏趣味且极其狭隘的理解方式。相反，她更感兴趣的是情欲。佩雷尔所说的“情欲”可以包括性行为，但未必一定如此。情欲是一种在人们充满趣味、充满好奇、对未知事物持开放态度时才会出现的状态。而因为情欲意味着要远离安全感，所以它总是伴随着一定的风险。",
+      "或许，所谓的“性冷淡”现象，其实只是更大问题的一种表现：一种与不确定性相关的情感缺失。如果是这样的话，那么问题的严重性将远远超过2006年的时候。这意味着人们不再只是与伴侣之间缺乏性欲上的联系，而是更难以建立情感上的连接，难以感受到深刻的情感，也难以真正活在当下。“今天，问题并不在于如何长期维持性欲，”佩雷尔告诉我，“而在于我们如何首先激发这种欲望。”佩雷尔认为，只有当人们拥有基本的安全感之后，才能开始追求情感上的满足。她说，她之所以能得出这样的结论，部分原因是她的丈夫是一名心理学家，曾与遭受折磨的幸存者一起工作。有一次，她问丈夫，他是如何判断一个人是否真正从生死边缘走出来——即从“非死状态”转变为“活着状态”的。他告诉她，这种状态是当人们能够发挥创造力的时候。为了探索、为了接纳新的想法和体验——在佩雷尔看来，这些都是情爱的核心要素——人们必须保持足够的稳定性，才能放松警惕。他们必须解除戒备。",
+      "不需要成为那种经历过折磨的人，才能养成紧咬牙的习惯——这种习惯是为了预防危险，而不是为了耍滑头或做出一些不适当的行为。佩雷尔说：“如果你处于警戒状态，你就不可能再保持嬉戏的态度了。”",
+      "如今，美国人似乎更加警惕，而非喜欢嬉闹。根据马凯特大学法学院在2025年进行的一项调查，66%的18至29岁人群以及60%的30至44岁人群认为“大多数人不可信任”。回避型依恋风格的比例一直在上升——这种类型的人倾向于保持距离，避免与他人接触。政治上的优先事项则更多地集中在对安全的渴望上：对财务不稳定、犯罪以及替代性问题的担忧。而政客们则急于承认（或利用）这些恐惧情绪。这些环境显然并不适合发展出浪漫关系。",
+      "结果是，尽管读者们仍然喜欢阅读《被囚禁的恋人》，但美国人却越来越不擅长接受佩雷尔的建议。这本书的核心观点是，伴侣可以通过接受“永远无法完全了解对方”这一事实，来保持爱情的激情。不过，平均而言，现在的夫妻关系反而更加紧密了。最近有一篇关于美国人对不忠行为极度厌恶的报道，我与一位社会学家进行了交谈，她表示，许多人对于伴侣可能有自己不知道的欲望和幻想这一想法感到不安。她指出，人们如此厌恶不忠行为，是因为它提醒人们：无论你分享了多少自己的隐私，无论你和伴侣有多亲密，你永远无法真正了解对方的思维。",
+      "也许，无论是情侣还是单身人士，都应该选择接受这种不确定性，而不是试图创造一种更轻松、更舒适的关系。佩雷尔告诉伴侣们，他们无需刻意去创造距离或增添新鲜感；他们只需要接受这种不确定性。事实上，他们应该享受能够不断发现彼此更多的可能性。如果单身人士能够将约会视为一种冒险——一个了解新人和尝试不同事物的机会，那该有多好呢？无论关系状态如何，她的建议归根结底就是：永远不要让自己陷入麻木状态。"
+    ],
+    "vocabulary": [
+      {
+        "form": "household name",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "家喻户晓的人，家喻户晓的名字，众所周知的人",
+        "definition": "a person, thing or name that has become very well known",
+        "zh": "家喻户晓的人，家喻户晓的名字，众所周知的人"
+      },
+      {
+        "form": "prevailing",
+        "ipa": "/prɪˈveɪlɪŋ/",
+        "pos": "adj.",
+        "meaning": "普遍存在的，盛行的，主流的",
+        "definition": "existing or most common at a particular time",
+        "zh": "普遍存在的，盛行的，主流的"
+      },
+      {
+        "form": "shed",
+        "ipa": "/ʃed/",
+        "pos": "v.",
+        "meaning": "摆脱，去除",
+        "definition": "to get rid of sth. that is no longer wanted",
+        "zh": "摆脱，去除"
+      },
+      {
+        "form": "be at odds",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "与……不一致，与……相矛盾，与……相冲突",
+        "definition": "to be different from sth., when the two things should be the same",
+        "zh": "与……不一致，与……相矛盾，与……相冲突"
+      },
+      {
+        "form": "commonplace",
+        "ipa": "/ˈkɒmənpleɪs/",
+        "pos": "adj.",
+        "meaning": "常见的，普遍存在的，司空见惯的",
+        "definition": "done very often, or existing in many places, and therefore not unusual",
+        "zh": "常见的，普遍存在的，司空见惯的"
+      },
+      {
+        "form": "Captivity",
+        "ipa": "/kæpˈtɪvəti/",
+        "pos": "n.",
+        "meaning": "被囚禁的状态，拘禁，圈养",
+        "definition": "the state of being kept as a prisoner or in a space that you cannot escape from",
+        "zh": "被囚禁的状态，拘禁，圈养"
+      },
+      {
+        "form": "thwart",
+        "ipa": "/θwɔːt/",
+        "pos": "v.",
+        "meaning": "阻挠，阻止，使……无法实现",
+        "definition": "(formal) to prevent sb. from doing what they want to do",
+        "zh": "阻挠，阻止，使……无法实现"
+      },
+      {
+        "form": "heady",
+        "ipa": "/ˈhedi/",
+        "pos": "adj.",
+        "meaning": "令人陶醉的，令人兴奋的，强烈刺激感官或情绪的",
+        "definition": "having a strong effect on your senses; making you feel excited and confident",
+        "zh": "令人陶醉的，令人兴奋的，强烈刺激感官或情绪的"
+      },
+      {
+        "form": "smother",
+        "ipa": "/ˈsmʌðə(r)/",
+        "pos": "v.",
+        "meaning": "扑灭，闷熄（火焰）",
+        "definition": "to make a fire stop burning by covering it with sth.",
+        "zh": "扑灭，闷熄（火焰）"
+      },
+      {
+        "form": "striking",
+        "ipa": "/ˈstraɪkɪŋ/",
+        "pos": "adj.",
+        "meaning": "引人注目的，显著的，非常突出的",
+        "definition": "interesting and unusual enough to attract attention",
+        "zh": "引人注目的，显著的，非常突出的"
+      },
+      {
+        "form": "distinctly",
+        "ipa": "/dɪˈstɪŋktli/",
+        "pos": "adv.",
+        "meaning": "明显地，显然地",
+        "definition": "definitely or extremely",
+        "zh": "明显地，显然地"
+      },
+      {
+        "form": "intrigued",
+        "ipa": "/ɪnˈtriːɡd/",
+        "pos": "adj.",
+        "meaning": "十分好奇的，饶有兴致的",
+        "definition": "very interested in sth./sb. and wanting to know more about it/them",
+        "zh": "十分好奇的，饶有兴致的"
+      },
+      {
+        "form": "lust",
+        "ipa": "/lʌst/",
+        "pos": "n.",
+        "meaning": "强烈的性欲，欲望",
+        "definition": "very strong sexual desire, especially when love is not involved",
+        "zh": "强烈的性欲，欲望"
+      },
+      {
+        "form": "in the long haul",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "从长远来看，长期而言，在漫长过程中",
+        "definition": "over a long period of time, especially one that involves difficulty or effort",
+        "zh": "从长远来看，长期而言，在漫长过程中"
+      },
+      {
+        "form": "torture",
+        "ipa": "/ˈtɔːtʃə(r)/",
+        "pos": "n.",
+        "meaning": "酷刑，折磨",
+        "definition": "the act of causing sb. severe pain in order to punish them or make them say or do sth.",
+        "zh": "酷刑，折磨"
+      },
+      {
+        "form": "unclench",
+        "ipa": "/ʌnˈklentʃ/",
+        "pos": "v.",
+        "meaning": "松开，放松（紧握的手、拳头等）",
+        "definition": "to stop holding sth. tightly",
+        "zh": "松开，放松（紧握的手、拳头等）"
+      },
+      {
+        "form": "raunchy",
+        "ipa": "/ˈrɔːntʃi/",
+        "pos": "adj.",
+        "meaning": "性感露骨的，带有性意味的",
+        "definition": "(informal) intended to be sexually exciting",
+        "zh": "性感露骨的，带有性意味的"
+      },
+      {
+        "form": "mischievous",
+        "ipa": "/ˈmɪstʃɪvəs/",
+        "pos": "adj.",
+        "meaning": "调皮的，淘气的，恶作剧的",
+        "definition": "enjoying playing tricks and annoying people",
+        "zh": "调皮的，淘气的，恶作剧的"
+      },
+      {
+        "form": "vigilance",
+        "ipa": "/ˈvɪdʒɪləns/",
+        "pos": "n.",
+        "meaning": "警惕，警戒，保持警觉",
+        "definition": "(formal) great care that is taken to notice any signs of danger or trouble",
+        "zh": "警惕，警戒，保持警觉"
+      },
+      {
+        "form": "lapping up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "欣然接受，照单全收",
+        "definition": "(informal) to accept or receive sth. with great pleasure, without thinking about whether it is good, true or sincere",
+        "zh": "欣然接受，照单全收"
+      },
+      {
+        "form": "precarity",
+        "ipa": "/prɪˈkeərəti/",
+        "pos": "n.",
+        "meaning": "不稳定，不确定，不安全的状态",
+        "definition": "the state of not being safe or certain",
+        "zh": "不稳定，不确定，不安全的状态"
+      },
+      {
+        "form": "revel in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "陶醉于，纵情享受，从……中获得极大快乐",
+        "definition": "to enjoy sth. very much",
+        "zh": "陶醉于，纵情享受，从……中获得极大快乐"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "existing or most common at a particular time",
+      "to prevent sb. from doing what they want to do"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “At the time, the prevailing wisdom among psychologists was that a couple’s sex life was a reflection of their bond. Cultivate closeness, the thinking went, and you will feel safe to explore and to shed inhibitions.”?",
+    "exerciseChoiceMarked": [
+      "shed"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She shed no tears when she heard he was dead.",
+        "marked": [
+          "shed"
+        ],
+        "zh": "当她听到他去世的消息时，她没有流一滴眼泪。"
+      },
+      {
+        "label": "B",
+        "text": "How much blood will be shed before the fighting ends?",
+        "marked": [
+          "shed"
+        ],
+        "zh": "在战斗结束之前，还会流掉多少鲜血呢？"
+      },
+      {
+        "label": "C",
+        "text": "Museums have been trying hard to shed their stuffy image.",
+        "marked": [
+          "shed"
+        ],
+        "zh": "博物馆一直在努力摆脱古板的形象。"
+      },
+      {
+        "label": "D",
+        "text": "Recent research has shed new light on the causes of the disease.",
+        "marked": [
+          "shed"
+        ],
+        "zh": "最近的研究为这种疾病的成因提供了新的见解。"
+      }
+    ],
+    "exerciseTranslationPrompt": "无休止地量化性爱——人们发生性行为的频率、伴侣数量、初次体验的年龄——在她看来，这本身就是问题的一部分：用这种方式理解欲望，既毫无情欲色彩，视角又极度狭隘。",
+    "answerVocabularyList": [
+      "prevailing",
+      "thwart"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "The endless measurement of sex—how often people are having it, with how many partners, starting at what age—strikes her as part of the problem: It’s a distinctly unsexy and terribly narrow way to understand desire."
+  },
+  {
     "key": "aug0817",
     "date": "2026.08.17",
     "period": "2026年08月",
@@ -17494,6 +23592,194 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "ripe"
     ]
+  },
+  {
+    "key": "aug0821",
+    "date": "2026.08.21",
+    "period": "2026年8月",
+    "folder": "0821《纽约时报》讣闻：他把中国推向了市场经济 2",
+    "titleZh": "《纽约时报》讣闻：他把中国推向了市场经济 2",
+    "title": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Keith Bradsher, The New York Times, Published August 12, 2026",
+    "paragraphs": [
+      "Driving Debt",
+      "As vice premier and then premier, Mr. Zhu also oversaw many domestic policies aimed at making China more efficient and competitive. The two most important policies involved the privatization of thousands of inefficient state-owned enterprises and a far-reaching tax overhaul.",
+      "Tens of millions of workers lost their jobs during the privatization drive, with many forced into retirement in their 40s. Mr. Zhu softened the blow by enacting an overhaul of the housing market. A vast number of state-owned apartments were transferred to current and retired employees at a nominal cost. State-owned banks issued mortgages at low interest rates for new homes.",
+      "Apartment prices soared as much as twentyfold in many Chinese cities from the 1990s until around 2021. That gave many older workers a sizable nest egg, as well as protection from homelessness.",
+      "Under Mr. Zhu’s tax overhaul in 1994, the central government seized a much larger share of taxes collected by local governments. The money bankrolled costly initiatives like broad industrial subsidies and a considerable military buildup.",
+      "“If we don’t suitably centralize revenues and strengthen the central government’s finances, we won’t be able to get by,” Mr. Zhu said during a 1993 visit to Guangzhou. “And in the end, the entire country will suffer and be unable to carry on.”",
+      "Beijing let local governments borrow more money from banks and financial markets in exchange for transferring a larger share of their tax revenues to the national government. Beijing also lifted restrictions that previously limited how local governments could spend money. And Beijing granted greater discretion to local governments to sell long-term leases on state-owned land to developers.",
+      "Local governments proceeded to borrow heavily and sell land leases to raise money for new roads, rail lines and ports.",
+      "Mr. Zhu’s “grand bargain” with local governments cleared the way for towns, cities and provinces to gorge on debt and become highly dependent on ever-rising revenues from selling land leases. When China’s real estate market fell into a deep slump in 2021, many developers defaulted on loans and stopped buying land leases. This left many local governments with little money to cover their debts."
+    ],
+    "paragraphTranslations": [
+      "增加债务",
+      "作为副总理，后来又担任总理的朱镕基先生还负责了许多旨在提高中国效率和竞争力的国内政策。其中两项最重要的政策就是对数千个效率低下国有企业的私有化改革，以及一项具有深远意义的税收改革。",
+      "在私有化过程中，数以千万计的工人失去了工作，许多人在40多岁时被迫退休。朱先生通过改革住房市场来减轻这一冲击。大量国有公寓以较低的成本转给现任和退休的员工。国有银行以低利率发放了新住宅的抵押贷款。",
+      "自20世纪90年代以来，许多中国城市的公寓价格上涨了20倍左右。这一变化为许多老年工人提供了可观的储蓄，同时也使他们免受无家可归的困扰。",
+      "在朱先生于1994年提出的税收改革方案下，中央政府掌握了地方政府所征收的税收中的更大份额。这些资金被用于支持各种昂贵的计划，比如大规模的工业补贴以及大规模的军事建设。",
+      "“如果我们不能适当地将税收集中起来，并加强中央政府的财政实力，我们就无法继续发展下去，”朱先生在1993年访问广州时说道。“最终，整个国家都将受到损失，无法继续发展下去。”",
+      "北京允许地方政府从银行和金融市场借款，以换取将更多的税收收入上缴给中央政府。北京还取消了此前限制地方政府资金使用的限制措施。此外，北京还给予地方政府更大的自主权，允许他们将国有土地的长期租赁权出售给开发商。",
+      "地方政府大量举债，并出售土地租赁权，以筹集资金用于建设新的道路、铁路线和港口设施。",
+      "朱先生的“大交易”使得各城镇和省份能够大量举债，并严重依赖通过出售土地租赁所获得的不断增长的收入。当中国的房地产市场在2021年陷入严重低迷时，许多开发商无法按时偿还贷款，从而停止了土地租赁的购买行为。这导致许多地方政府几乎没有资金来偿还债务。"
+    ],
+    "vocabulary": [
+      {
+        "form": "far-reaching",
+        "ipa": "/ˌfɑːˈriːtʃɪŋ/",
+        "pos": "adj.",
+        "meaning": "深远的，影响广泛的",
+        "definition": "likely to have a lot of influence or many effects",
+        "zh": "深远的，影响广泛的"
+      },
+      {
+        "form": "overhaul",
+        "ipa": "/ˈəʊvəhɔːl/",
+        "pos": "n.",
+        "meaning": "彻底改革，全面整顿，大规模调整",
+        "definition": "an examination of a machine or system, including doing repairs on it or making changes to it",
+        "zh": "彻底改革，全面整顿，大规模调整"
+      },
+      {
+        "form": "nominal",
+        "ipa": "/ˈnɒmɪnəl/, /ˈnɑːmɪnl/",
+        "pos": "adj.",
+        "meaning": "名义上的，象征性的",
+        "definition": "being something in name only, and not in reality",
+        "zh": "名义上的，象征性的"
+      },
+      {
+        "form": "mortgages",
+        "ipa": "/ˈmɔːɡɪdʒ/",
+        "pos": "n.",
+        "meaning": "按揭贷款，抵押贷款，房贷",
+        "definition": "a legal agreement by which a bank or similar organization lends you money to buy a house, etc., and you pay the money back over a particular number of years",
+        "zh": "按揭贷款，抵押贷款，房贷"
+      },
+      {
+        "form": "sizable",
+        "ipa": "/ˈsaɪzəbəl/",
+        "pos": "adj.",
+        "meaning": "相当大的，可观的",
+        "definition": "fairly large",
+        "zh": "相当大的，可观的"
+      },
+      {
+        "form": "nest egg",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "可供未来使用的积蓄，储备金",
+        "definition": "(informal) a sum of money that you save to use in the future",
+        "zh": "可供未来使用的积蓄，储备金"
+      },
+      {
+        "form": "bankrolled",
+        "ipa": "/ˈbæŋkrəʊl/",
+        "pos": "v.",
+        "meaning": "资助，提供资金",
+        "definition": "(informal) to support sb./sth. by giving money",
+        "zh": "资助，提供资金"
+      },
+      {
+        "form": "get by",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "勉强维持，设法应付，勉强过活",
+        "definition": "to manage to live or do a particular thing using the money, knowledge, equipment, etc. that you have",
+        "zh": "勉强维持，设法应付，勉强过活"
+      },
+      {
+        "form": "discretion",
+        "ipa": "/dɪˈskreʃən/",
+        "pos": "n.",
+        "meaning": "自主决定权，判断力",
+        "definition": "(idioms) the freedom or power to decide what should be done in a particular situation",
+        "zh": "自主决定权，判断力"
+      },
+      {
+        "form": "gorge",
+        "ipa": "/ɡɔːdʒ/",
+        "pos": "v.",
+        "meaning": "狼吞虎咽，大量摄取，贪婪吞食",
+        "definition": "to eat so much food that you cannot eat anything else",
+        "zh": "狼吞虎咽，大量摄取，贪婪吞食"
+      },
+      {
+        "form": "leases",
+        "ipa": "/liːs/",
+        "pos": "n.",
+        "meaning": "租约，租赁协议，租赁权",
+        "definition": "a legal agreement that allows you to use a building, a piece of equipment or some land for a period of time, usually in return for rent",
+        "zh": "租约，租赁协议，租赁权"
+      },
+      {
+        "form": "slump",
+        "ipa": "/slʌmp/",
+        "pos": "n.",
+        "meaning": "暴跌，低迷，衰退",
+        "definition": "a period when an economy or business is doing very badly",
+        "zh": "暴跌，低迷，衰退"
+      },
+      {
+        "form": "defaulted",
+        "ipa": "/dɪˈfɔːlt/",
+        "pos": "v.",
+        "meaning": "违约，未履行债务",
+        "definition": "to fail to do sth. that you legally have to do, especially by not paying a debt",
+        "zh": "违约，未履行债务"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to support sb./sth. by giving money",
+      "to fail to do sth. that you legally have to do, especially by not paying a debt"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “When China’s real estate market fell into a deep slump in 2021, many developers defaulted on loans and stopped buying land leases.” ?",
+    "exerciseChoiceMarked": [
+      "slump"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The company suffered a severe slump in profits after losing its biggest customer.",
+        "marked": [
+          "slump"
+        ],
+        "zh": "这家公司失去了最大的客户后，利润出现了严重下滑。"
+      },
+      {
+        "label": "B",
+        "text": "The sudden slump of the old tree was caused by years of damage to its roots.",
+        "marked": [
+          "slump"
+        ],
+        "zh": "这棵老树的突然枯死是由于多年根部受损所导致的。"
+      },
+      {
+        "label": "C",
+        "text": "There was a temporary slump in his confidence after he failed the exam.",
+        "marked": [
+          "slump"
+        ],
+        "zh": "考试失败后，他的自信心暂时受到了打击。"
+      },
+      {
+        "label": "D",
+        "text": "The athlete experienced a physical slump during the final stage of the competition.",
+        "marked": [
+          "slump"
+        ],
+        "zh": "这位运动员在比赛的最后阶段出现了身体状态下滑的情况。"
+      }
+    ],
+    "exerciseTranslationPrompt": "朱镕基与地方政府达成的这场“重大交易”，为乡镇、城市和省级政府大举负债打开了大门，也使它们越来越依赖持续增长的土地出让收入。",
+    "answerVocabularyList": [
+      "bankroll",
+      "default"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "Mr. Zhu’s “grand bargain” with local governments cleared the way for towns, cities and provinces to gorge on debt and become highly dependent on ever-rising revenues from selling land leases."
   },
   {
     "key": "aug0824",
@@ -18682,6 +24968,742 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "sep0903",
+    "date": "2026.09.03",
+    "period": "2026年9月",
+    "folder": "0903《奥德赛》背后的未知世界 13",
+    "titleZh": "《奥德赛》背后的未知世界 1",
+    "title": "The Unexpected World of the Odyssey",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By The Editors, Archaeology Magazine, Published May/June 2026",
+    "paragraphs": [
+      "Discovering the surprising inspirations behind Homer’s great tales of the Trojan War",
+      "So speaks a royal host to the hero Odysseus as he tries to coax his famous guest to recount the events immortalized in the Iliad and the Odyssey, two of the greatest epic poems of the ancient Greek world, both said to be the works of the blind poet Homer. The Iliad is set in the last year of the Trojan War, a grueling decade-long conflict. This contest between the Trojans, led by their champion Hector, and a Greek army commanded by heroes such as Achilles, was incited by the abduction of the Greek queen Helen by Hector’s brother Paris. The Odyssey takes place after the war’s end and follows the circuitous journey of Odysseus from Troy to his home on the island of Ithaca, where his wife Penelope, son Telemachus, and dog Argos have awaited his return for 20 years. “While myth is the basis of the epics,” says archaeologist Kim Shelton of the University of California, Berkeley, “they include elements of historical memory as well.”",
+      "Texts unearthed at Hattusha, the capital of the Hittite Empire (ca. 1680–1200 B.C.), which was based in Anatolia, tell of a series of wars that took place in western Anatolia sometime between 1400 and 1200 B.C., during the Late Bronze Age. This is the period in which, according to the epics, the events of the Trojan War unfolded. “We can trace two hundred years of conflict involving a variety of opponents,” says University of Pennsylvania archaeologist C. Brian Rose. Beginning around 1200 B.C., bards sang of the exploits of these wars’ heroes from memory, preserving their stories through a dynamic oral tradition until they were compiled and written down in the late eighth century B.C. “At some point between 1200 and 800 B.C., this multitude of wars had crystallized into a single war lasting ten years between two primary sides,” says Rose. By the sixth century B.C., ancient writers had come to regard the two epics as the work of Homer. Though most modern scholars doubt a single poet wrote the works, they still refer to Homer as the embodiment of the complex oral tradition that produced the Iliad and the Odyssey.",
+      "Both epics contain a mix of place-names, linguistic forms, and vocabulary that reflects the gradual process by which they were created beginning in the Late Bronze Age (ca. 1600–1200 B.C.) and continuing into the Iron Age (ca. 1200–700 B.C.).",
+      "Some locales that appear in the Iliad, such as Mycenae, are known to have been great powers in Bronze Age Greece, while other places mentioned in the text flourished much later. For instance, Phrygia, the home of Hecuba, wife of the Trojan king Priam, was an unimportant kingdom in the Bronze Age. “By the eighth century B.C., when the Iliad was written down, Phrygia was the most powerful kingdom in Anatolia,” says Rose. Moreover, Greek names ending in “-eus” were highly unusual by the Iron Age. Thus, the moniker Odysseus was an anachronism by the time the poems were written down. Armor and weaponry described in the epics also represent an amalgam of types used throughout the Bronze and Iron Ages. What Homer calls tower shields, which covered a warrior’s entire body, were used in the Bronze Age, but were no longer part of an Iron Age warrior’s battle dress. On the other hand, the iron weapons wielded by the epics’ heroes were introduced long after the events supposedly took place.",
+      "By the seventh century B.C., a mound in the western Anatolian town of Ilium, where Bronze Age fortification walls were still visible, had been identified as the site of Troy. Following Ilium’s rediscovery in the mid-nineteenth century, German archaeologist Heinrich Schliemann—with the Iliad in hand— began excavations there, searching for the places where heroes fell. Research at the site continues to this day, although archaeologists no longer follow Schliemann’s example. Instead, they compare the material evidence they unearth with the text. “There are clearly important parts of the poems, especially for the Bronze Age, whether language, names, or objects described, that inform us about the process of creating the written stories,” says Shelton.",
+      "Such was the reach and influence of the epics that researchers find tantalizing links to the stories at archaeological sites throughout the ancient Greek and Roman world. From mosaics depicting alternative versions of the Iliad, to tablets hinting at events described in the Odyssey, the archaeological record is as rich a source of knowledge of the realm of the Homeric heroes as the epics themselves.",
+      "Birth of Spring",
+      "By Daniel Weiss, Archaeology Magazine, Published May/June 2026 The Homeric Hymns are a set of several dozen ancient Greek poems praising the deities of the Olympian pantheon, such as Apollo and Aphrodite. In antiquity, the works were generally attributed to Homer, though modern scholars believe they date to at least a century after the epics were compiled in the eighth century B.C. Nevertheless, the poems have clear similarities to the Homeric epics, including the same poetic meter and the use of stock phrases. They also provide backstories for the divinities who play key parts in shaping the course of events in the Iliad and the Odyssey.",
+      "Classicist Jenny Strauss Clay of the University of Virginia observes that, in the epics, the roles of the Greek gods are settled, whereas in the longer narrative hymns, the deities are still finding their place in the pantheon. For example, the “Hymn to Demeter” narrates how Demeter’s daughter, Persephone, becomes queen of the underworld and goddess of spring. After Persephone is abducted by Hades, Demeter, the goddess of agriculture, prevents all crops from growing until her daughter is allowed to return. Hades lets Persephone go but requires her to spend a third of each year as his wife in the underworld, initiating the seasonal cycle of growth, dormancy, and regrowth. At the end of the hymn, Demeter founds the Eleusinian Mysteries, a cult dedicated to her and Persephone that promises followers a better afterlife.",
+      "Clay points to a vase made in Athens dated to the mid-fifth century B.C. that illustrates the far-reaching consequences of these events. On one side, Persephone emerges from the ground while Demeter and another goddess, Hecate, look on, and the god Hermes stares at the viewer. On the other side, a woman standing between two men holds an oinochoe, or wine jug, poised to pour its contents toward the viewer. “The painter is representing a world-shaking, cosmic event,” says Clay. “Persephone returns from the underworld, and that means the land becomes fertile again and we have seasons. Hermes is looking at us, drawing us in, and making us feel that the return of Persephone has changed our lives. The three figures on the other side are pouring a libation to a divinity. They are the worshippers in Demeter’s cult—they are the ones who have gotten the message of this story.”",
+      "Left: Vase depicting (left to right) Persephone, Hermes, Hecate, and Demeter; Right: The other side of the vase portraying worshippers of the Eleusinian Mysteries",
+      "The Archer’s Tomb",
+      "By Eric A. Powell, Archaeology Magazine, Published May/June 2026 The heroes of the Iliad are consumed with honoring the fallen dead with proper burials. Indeed, the poem ends with the long-delayed burial of the Trojan hero Hector and describes in great detail the funeral games held to celebrate Achilles’ companion Patroclus. In 1981, archaeologists excavating the site of Lefkandi on the Greek island of Euboea unearthed the tenth-century B.C. tomb of an Iron Age prince that closely parallels the Iliad‘s description of Patroclus’ burial mound. The discovery suggested that the funerary practices related by Homer inspired rites honoring Greek heroes who died at least 200 years after the earliest versions of the poem were performed. Recently, New York University archaeologist Antonis Kotsonas studied grave goods from another rich tomb dating to around 1100 B.C. that was excavated some 50 years ago in Knossos, on the island of Crete. He found that weapons and armor buried in the tomb closely resemble those of a Cretan hero named Meriones celebrated in the Iliad. The Knossos grave goods include a boar-tusk helmet of a type common in the Late Bronze Age that had gone out of fashion by the time of the burial. The man’s grave also contained arrowheads and what was likely a quiver. In the Iliad, Meriones is described as a skilled archer, a rarity among the Greek warriors at Troy, who preferred close combat with spears and swords. In book 10 of the epic, Odysseus conducts a nighttime raid across Trojan lines. Before the mission begins, Meriones gives his bow and quiver to Odysseus and places a boar-tusk helmet on the hero’s head, the only time such a helmet is mentioned in either epic.",
+      "Bronze Age boar-tusk helmet found in Mycenae, Greece Scholars have suggested that book 10, which describes a surreptitious raid instead of a heroic battle, is an oddity in the narrative, and might have originally been part of an earlier tale. “We know the Homeric poems were brought together from older stories from different parts of the Greek world to create these masterpieces,” says Kotsonas. He notes that a phrase Homer uses to describe Meriones—”peer of the man-slaying war god”—is linguistically antiquated compared with the language Homer typically uses. The hero’s name itself might be derived from the Bronze Age Near Eastern term maryannu, meaning elite charioteer, a word no longer in use by the Iron Age. Kotsonas suggests poems about a famed archer named Meriones may have circulated on Crete before the tales of the Iliad were first recited. “It’s possible this man’s kin orchestrated a funeral that promoted the association of the deceased with the poetic persona of Meriones,” he says. Or, perhaps, suggests Kotsonas, the man buried at Knossos was a renowned figure in his lifetime whose deeds would later find their way into the Iliad. “He might have been a prominent warrior who distinguished himself by his military prowess,” he says. “Perhaps he inspired stories that could have been performed at his funeral that immortalized this distinguished individual and that later filtered into the Homeric epic.”"
+    ],
+    "paragraphTranslations": [
+      "发现荷马关于特洛伊战争伟大故事背后的惊人灵感",
+      "这是一位王室使者对英雄奥德修斯说的话。奥德修斯试图说服这位著名的客人讲述那些被记载在《伊利亚特》和《奥德赛》中的故事。这两部作品都是古希腊世界最伟大的史诗，据说是盲诗人荷马所创作。《伊利亚特》的故事发生在特洛伊战争的最后一年，那是一场持续了十年之久的残酷战争。特洛伊人由他们的领袖赫克托耳领导，而希腊军队则由像阿喀琉斯这样的英雄们指挥。这场战争的起因是赫克托耳的兄弟帕里斯绑架了希腊女王海伦。而《奥德赛》的故事则发生在战争结束后，讲述了奥德修斯从特洛伊出发，历经漫长旅程回到位于伊萨卡岛的家的故事。他的妻子佩内洛克、儿子忒勒马科斯以及狗阿尔戈斯已经等待他的归来二十年了。“虽然神话是史诗的基础，”加州大学伯克利分校的考古学家金·谢尔顿说，“但史诗中也包含了历史记忆的要素。”",
+      "在赫特鲁西帝国（位于安纳托利亚地区，统治时期约为公元前1680年至1200年）的都城哈图沙出土的文献记载了在公元前1400年至1200年间的青铜时代晚期，在安纳托利亚西部发生的一系列战争。根据史诗记载，特洛伊战争便发生在这一时期。“我们可以追溯到长达两百年的冲突，这些冲突涉及众多对手，”宾夕法尼亚大学的考古学家C. 布赖恩·罗斯说。大约从公元前1200年开始，吟游诗人便以记忆中的方式吟唱着这些战争英雄的英勇事迹，这些故事通过口口相传的方式流传下来，直到公元前8世纪末被整理成文。“在公元前1200年至800年之间的某个阶段，这些战争逐渐汇聚成一场持续了十年的战争，这场战争由两个主要势力共同发动，”罗斯说道。到公元前六世纪时，古代作家们已经将这两部史诗视为荷马的杰作。尽管大多数现代学者认为这些作品并非由一位诗人创作，但他们仍然将荷马视为这一复杂口头传统的化身，而这一传统正是《伊利亚特》和《奥德赛》的源泉。",
+      "这两部史诗都包含了许多地名、语言形式以及词汇，这些元素反映了这些文献从青铜时代晚期（约公元前1600-1200年）开始，一直延续到铁器时代（约公元前1200-700年）期间，逐渐形成的演变过程。",
+      "在《伊利亚特》中出现的某些地名，如迈锡尼，已知在青铜时代的希腊是一个重要的势力中心；而文本中提到的其他地名则出现在更晚的时期。例如，弗里吉亚——特洛伊国王普里阿姆的妻子赫卡柏的故乡——在青铜时代只是一个不重要的王国。“到公元前8世纪，《伊利亚特》被记录下来时，弗里吉亚已经是安纳托利亚最强大的王国，”罗丝说。此外，在铁器时代，以“-eus”结尾的希腊名字已经非常罕见了。因此，在诗歌被记录下来时，“奥德修斯”这个绰号已经过时了。史诗中对盔甲和武器的描述也反映了青铜时代和铁器时代普遍使用的各种武器类型的融合。荷马所描述的那种覆盖战士全身的盾牌，在青铜时代确实存在，但在铁器时代的战士作战服装中已不再使用。另一方面，那些被史诗中的英雄们使用的铁制武器，是在据说发生这些事件很久之后才被引入的。",
+      "到公元前7世纪时，位于安纳托利亚西部的伊利昂镇上，有一座土丘被认定为特洛伊的遗址。这座土丘在青铜时代时仍有防御工事遗迹。19世纪中叶，德国考古学家海因里希·施利曼在查阅《伊利亚特》后，开始在该遗址进行挖掘，试图找到英雄们牺牲的地方。尽管考古学家不再遵循施利曼的方法，但对该遗址的研究至今仍在继续。谢尔顿说：“《伊利亚特》中的许多内容显然对理解这些书面故事的形成过程非常重要，无论是语言、人物名字还是所描述的事物，都提供了重要的线索。”",
+      "这些史诗的影响范围之广，以至于研究人员发现，在古希腊和罗马世界的许多考古遗址中，都能找到与这些故事相关的线索。从描绘《伊利亚特》不同版本的马赛克画，到那些暗示《奥德赛》中描述的事件的泥板，考古发现为我们提供了丰富的信息，让我们能够更深入地了解荷马英雄们所生活的世界。",
+      "春之诞生",
+      "作者：丹尼尔·魏斯，《考古学杂志》，2026年5/6月刊《荷马颂歌》是一系列由数十首古希腊诗歌组成的作品，这些诗歌赞美了奥林匹斯神殿中的诸神，如阿波罗和阿芙罗狄忒等。在古代，这些作品通常被认为是荷马所写，不过现代学者认为，这些诗歌的创作时间至少要晚于公元前8世纪这些史诗的编纂时间。尽管如此，这些诗歌与荷马史诗有着明显的相似之处，包括相同的诗歌韵律以及使用相同的惯用表达。这些诗歌还为那些在《伊利亚特》和《奥德赛》中扮演关键角色的神祇提供了背景故事。",
+      "弗吉尼亚大学的古典学家珍妮·斯特劳斯·克莱指出，在史诗著作中，希腊诸神的地位已经固定下来，而在那些较长的叙事赞美诗中，这些神祇仍在众神体系中占据着一定的位置。例如，《德墨忒尔赞美诗》讲述了德墨忒尔的女儿珀尔塞福涅如何成为冥界的女王以及春季女神的故事。当珀尔塞福涅被哈德斯绑架后，农业女神德墨忒尔阻止了任何农作物的生长，直到她的女儿能够归来。哈德斯放走了珀尔塞福涅，但要求她每年在冥界与自己的丈夫共同生活三分之一的时间，从而启动了生长、休眠和再生的季节循环。在赞美诗的结尾，德墨忒尔创立了埃琉西斯神秘仪式，这是一个以她和珀尔塞福涅为信仰的宗教团体，该仪式承诺为信徒带来更美好的来世。",
+      "克莱指出，有一件制作于雅典的陶器，其年代可追溯到公元前5世纪中期。这件陶器展示了这些事件的深远影响。一侧，珀尔塞福涅从地面上升起，而德墨忒尔和另一位女神赫卡忒则在一旁观看；赫尔墨斯则注视着观众。另一侧，一个女人站在两个男人之间，手持酒壶，准备将酒倒入观众面前。“这位画家描绘的是一场具有世界意义的、宇宙级的事件，”克莱说。“珀尔塞福涅从冥界归来，这意味着土地再次变得肥沃，季节也重新出现。赫尔墨斯注视着我们，吸引着我们，让我们感受到珀尔塞福涅的归来确实改变了我们的生活。另一侧的三个人物正在向一位女神献上祭品。他们就是德墨忒尔教派中的信徒——他们就是那些接受了这个故事信息的人。”",
+      "左图：花瓶中的图案，从左到右依次为珀尔塞福涅、赫耳墨斯、赫卡忒和德墨忒尔；右图：花瓶的另一侧，描绘的是埃琉西斯秘仪的信徒们",
+      "弓箭手的坟墓",
+      "作者：埃里克·A·鲍威尔，《考古学杂志》2026年5/6月刊《伊利亚特》中的英雄们非常注重为逝去的战友提供适当的葬礼。的确，这首诗以特洛伊英雄赫克托耳的葬礼场景为结尾，并详细描述了为庆祝阿喀琉斯的同伴帕特罗克洛斯的葬礼而举行的仪式。1981年，考古学家在希腊欧波亚岛的莱夫坎迪遗址发掘出一座公元前10世纪的铁器时代王子的墓葬，该墓葬与《伊利亚特》中对帕特罗克洛斯葬礼的描述非常相似。这一发现表明，荷马所描述的葬礼习俗对后来人们纪念那些在诗歌版本创作至少200年后去世的希腊英雄们的仪式产生了影响。最近，纽约大学的考古学家安东尼斯·科特索纳斯研究了另一个约公元前1100年、位于克里特岛克诺索斯遗址的富丽堂皇墓葬中的陪葬品。他发现，埋在坟墓中的武器和盔甲与《伊利亚特》中描述的一位名为梅里奥德斯的克里特英雄所使用的武器非常相似。克诺索斯墓葬中的陪葬品包括一顶属于青铜时代晚期常见类型的野猪牙头盔，这种头盔在墓葬发生时已经不再流行。该男子的坟墓中还发现了箭头，以及很可能是一个箭筒。在《伊利亚特》中，梅里奥德斯被描述为一个技艺高超的弓箭手，这在特洛伊的希腊战士中是非常罕见的，因为他们更喜欢用长矛和剑进行近身战斗。在这部史诗的第十卷中，奥德修斯在夜间对特洛伊城发动了袭击。在任务开始之前，梅里奥德斯将他的弓和箭筒交给了奥德修斯，并给这位英雄戴上了野猪牙头盔。这是唯一一次在史诗中提到这种头盔的情况。",
+      "在希腊迈锡尼发现了一顶青铜时代的野猪角头盔。学者们认为，第十卷中描述的是一次隐秘的袭击，而非一场英勇的战斗，这一描述在叙事中显得有些奇怪，可能原本是某个更早的故事的一部分。“我们知道，荷马史诗是从希腊世界的各个地方收集来的古老故事，然后被整理成这些杰作，”科特索纳斯说。他指出，荷马在描述“杀戮战神”梅里奥涅斯时使用的表达方式，与荷马通常使用的语言相比，显得有些过时。梅里奥涅斯的名字本身可能源自青铜时代的近东地区词汇“maryannu”，意为精英战车驾驶员，这个词在铁器时代已经不再使用。科特索纳斯推测，关于这位著名弓箭手的诗歌可能在《伊利亚特》的故事被首次吟唱之前，就已经在克里特岛流传了。“有可能这个人的亲属精心策划了一次葬礼，旨在将逝者与梅里奥涅斯的诗歌形象联系起来，”他说。或者，正如科特索纳斯所提出的，被埋葬在克诺索斯的这个男人，在他生前可能是一个著名人物，他的事迹后来被写入了《伊利亚特》中。“他可能是一个以军事才能而闻名的杰出战士，”他说。“也许他激发了人们创作一些故事，这些故事可能在他的葬礼上被表演出来，从而将这位杰出人物的事迹永久地记录下来，并最终融入了荷马的史诗之中。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "coax",
+        "ipa": "/kəʊks/",
+        "pos": "v.",
+        "meaning": "巧妙地劝诱，哄劝",
+        "definition": "to persuade sb. to do sth. by talking to them in a kind and gentle way",
+        "zh": "巧妙地劝诱，哄劝"
+      },
+      {
+        "form": "immortalized",
+        "ipa": "/ɪˈmɔːtəlaɪz/",
+        "pos": "v.",
+        "meaning": "使……不朽，使…… 永恒铭记",
+        "definition": "to prevent sb./sth. from being forgotten in the future, especially by mentioning them in literature, making films about them, painting them, etc.",
+        "zh": "使……不朽，使…… 永恒铭记"
+      },
+      {
+        "form": "grueling",
+        "ipa": "/ˈɡruːəlɪŋ/",
+        "pos": "adj.",
+        "meaning": "极繁重疲劳的，艰难卓绝的",
+        "definition": "very difficult and making you very tired, needing great effort for a long time",
+        "zh": "极繁重疲劳的，艰难卓绝的"
+      },
+      {
+        "form": "incited",
+        "ipa": "/ɪnˈsaɪt/",
+        "pos": "v.",
+        "meaning": "煽动，诱发",
+        "definition": "to encourage sb. to do sth. violent, illegal or unpleasant, especially by making them angry or excited",
+        "zh": "煽动，诱发"
+      },
+      {
+        "form": "abduction",
+        "ipa": "/æbˈdʌkʃn/",
+        "pos": "n.",
+        "meaning": "绑架，劫持",
+        "definition": "the act of taking sb. away illegally, especially using force",
+        "zh": "绑架，劫持"
+      },
+      {
+        "form": "circuitous",
+        "ipa": "/səˈkjuːɪtəs/",
+        "pos": "adj.",
+        "meaning": "迂回的，曲折的",
+        "definition": "(of a route or journey) long and not direct",
+        "zh": "迂回的，曲折的"
+      },
+      {
+        "form": "bards",
+        "ipa": "/bɑːd/",
+        "pos": "n.",
+        "meaning": "吟游诗人",
+        "definition": "(literary) a person who writes poems",
+        "zh": "吟游诗人"
+      },
+      {
+        "form": "crystallized",
+        "ipa": "/ˈkrɪstəlaɪz/",
+        "pos": "v.",
+        "meaning": "（想法、计划、信念等）变得明确、确定，使……明确、确定",
+        "definition": "(of thoughts, plans, beliefs, etc.) to become clear and fixed; to make thoughts, beliefs, etc. clear and fixed",
+        "zh": "（想法、计划、信念等）变得明确、确定，使……明确、确定"
+      },
+      {
+        "form": "embodiment",
+        "ipa": "/ɪmˈbɒdimənt/",
+        "pos": "n.",
+        "meaning": "体现，化身，典型代表",
+        "definition": "(formal) a person or thing that represents or is a typical example of an idea or a quality",
+        "zh": "体现，化身，典型代表"
+      },
+      {
+        "form": "locales",
+        "ipa": "/ləʊˈkɑːl/",
+        "pos": "n.",
+        "meaning": "地点，场所，所在地",
+        "definition": "(specialist or formal) a place where sth. happens",
+        "zh": "地点，场所，所在地"
+      },
+      {
+        "form": "moniker",
+        "ipa": "/ˈmɒnɪkə(r)/",
+        "pos": "n.",
+        "meaning": "名字，绰号，别称",
+        "definition": "a name or a nickname that a person, place, or thing uses or is known by",
+        "zh": "名字，绰号，别称"
+      },
+      {
+        "form": "anachronism",
+        "ipa": "/əˈnækrənɪzəm/",
+        "pos": "n.",
+        "meaning": "时代错误，时代错置，不合时宜的人（或事物）",
+        "definition": "a person, a custom or an idea that seems old-fashioned and does not belong to the present",
+        "zh": "时代错误，时代错置，不合时宜的人（或事物）"
+      },
+      {
+        "form": "amalgam",
+        "ipa": "/əˈmælɡəm/",
+        "pos": "n.",
+        "meaning": "混合物，混合体，融合体",
+        "definition": "(formal) a mixture or combination of things",
+        "zh": "混合物，混合体，融合体"
+      },
+      {
+        "form": "mound",
+        "ipa": "/maʊnd/",
+        "pos": "n.",
+        "meaning": "土墩，土丘，小山丘，（古代的）坟冢",
+        "definition": "a large pile of earth or stones; a small hill",
+        "zh": "土墩，土丘，小山丘，（古代的）坟冢"
+      },
+      {
+        "form": "fortification",
+        "ipa": "/ˌfɔːtɪfɪˈkeɪʃn/",
+        "pos": "n.",
+        "meaning": "防御工事，防御设施，防御工事建筑",
+        "definition": "a tower, wall, gun position, etc. built to defend a place against attack",
+        "zh": "防御工事，防御设施，防御工事建筑"
+      },
+      {
+        "form": "excavations",
+        "ipa": "/ˌekskəˈveɪʃn/",
+        "pos": "n.",
+        "meaning": "挖掘，发掘，考古发掘",
+        "definition": "the activity of digging in the ground to look for old buildings or objects that have been buried for a long time",
+        "zh": "挖掘，发掘，考古发掘"
+      },
+      {
+        "form": "tantalizing",
+        "ipa": "/ˈtæntəlaɪzɪŋ/",
+        "pos": "adj.",
+        "meaning": "诱人的，令人垂涎的，勾起欲望却又得不到的",
+        "definition": "making you want sth. that you cannot have or do",
+        "zh": "诱人的，令人垂涎的，勾起欲望却又得不到的"
+      },
+      {
+        "form": "Hymns",
+        "ipa": "/hɪm/",
+        "pos": "n.",
+        "meaning": "赞美诗，圣歌",
+        "definition": "a religious song of praise to God or a god, especially one sung by Christians in church",
+        "zh": "赞美诗，圣歌"
+      },
+      {
+        "form": "pantheon",
+        "ipa": "/ˈpænθiən/",
+        "pos": "n.",
+        "meaning": "众神，万神殿，诸神体系",
+        "definition": "(specialist) all the gods of a nation or people",
+        "zh": "众神，万神殿，诸神体系"
+      },
+      {
+        "form": "antiquity",
+        "ipa": "/ænˈtɪkwəti/",
+        "pos": "n.",
+        "meaning": "古代，古代时期，古老时代",
+        "definition": "the ancient past, especially the times of the Greeks and Romans",
+        "zh": "古代，古代时期，古老时代"
+      },
+      {
+        "form": "stock",
+        "ipa": "/stɒk/",
+        "pos": "adj.",
+        "meaning": "惯用的，老一套的",
+        "definition": "(disapproving) a stock excuse, answer, etc. is one that is often used because it is easy and convenient, but that is not very original",
+        "zh": "惯用的，老一套的"
+      },
+      {
+        "form": "dormancy",
+        "ipa": "/ˈdɔːmənsi/",
+        "pos": "n.",
+        "meaning": "休眠，休眠状态，蛰伏状态",
+        "definition": "the fact of being not active or growing now but able to become active or to grow in the future",
+        "zh": "休眠，休眠状态，蛰伏状态"
+      },
+      {
+        "form": "oinochoe",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "（古希腊、古罗马）酒壶，葡萄酒壶",
+        "definition": "(in Greek and Roman antiquity) a wine pitcher or jug, characterized by a curved handle extending from the lip to the shoulder, and a round or trefoil mouth",
+        "zh": "（古希腊、古罗马）酒壶，葡萄酒壶"
+      },
+      {
+        "form": "libation",
+        "ipa": "/laɪˈbeɪʃn/",
+        "pos": "n.",
+        "meaning": "奠酒，献酒，（向神献的）酒祭",
+        "definition": "(in the past) a gift of wine to a god",
+        "zh": "奠酒，献酒，（向神献的）酒祭"
+      },
+      {
+        "form": "funerary",
+        "ipa": "/ˈfjuːnərəri/",
+        "pos": "adj.",
+        "meaning": "葬礼的，丧葬的，与葬仪有关的",
+        "definition": "connected with a funeral (= ceremony for a dead person) or remembering the dead",
+        "zh": "葬礼的，丧葬的，与葬仪有关的"
+      },
+      {
+        "form": "boar-tusk",
+        "ipa": "/bɔː(r)/",
+        "pos": "n.",
+        "meaning": "野猪",
+        "definition": "a wild pig",
+        "zh": "野猪"
+      },
+      {
+        "form": "quiver",
+        "ipa": "/ˈkwɪvə(r)/",
+        "pos": "n.",
+        "meaning": "箭袋，箭囊",
+        "definition": "a case for carrying arrows",
+        "zh": "箭袋，箭囊"
+      },
+      {
+        "form": "surreptitious",
+        "ipa": "/ˌsʌrəpˈtɪʃəs/",
+        "pos": "adj.",
+        "meaning": "偷偷的，暗中进行的，鬼鬼祟祟的",
+        "definition": "done secretly or quickly, in the hope that other people will not notice",
+        "zh": "偷偷的，暗中进行的，鬼鬼祟祟的"
+      },
+      {
+        "form": "oddity",
+        "ipa": "/ˈɒdəti/",
+        "pos": "n.",
+        "meaning": "怪事，奇特之物，古怪的人 / 事，不寻常之处",
+        "definition": "a person or thing that is strange or unusual",
+        "zh": "怪事，奇特之物，古怪的人 / 事，不寻常之处"
+      },
+      {
+        "form": "man-slaying",
+        "ipa": "/sleɪ/",
+        "pos": "v.",
+        "meaning": "（尤指战争或搏斗中）杀死，杀害，斩杀",
+        "definition": "(old-fashioned or literary) to kill sb./sth. in a war or a fight",
+        "zh": "（尤指战争或搏斗中）杀死，杀害，斩杀"
+      },
+      {
+        "form": "antiquated",
+        "ipa": "/ˈæntɪkweɪtɪd/",
+        "pos": "adj.",
+        "meaning": "陈旧的，过时的",
+        "definition": "(of things or ideas) old-fashioned and no longer suitable for modern conditions",
+        "zh": "陈旧的，过时的"
+      },
+      {
+        "form": "charioteer",
+        "ipa": "/ˌtʃæriəˈtɪə(r)/",
+        "pos": "n.",
+        "meaning": "战车驾驶员",
+        "definition": "the driver of a chariot",
+        "zh": "战车驾驶员"
+      },
+      {
+        "form": "orchestrated",
+        "ipa": "/ˈɔːkɪstreɪt/",
+        "pos": "v.",
+        "meaning": "精心策划，周密组织，暗中安排",
+        "definition": "to organize a complicated plan or event very carefully or secretly",
+        "zh": "精心策划，周密组织，暗中安排"
+      },
+      {
+        "form": "prowess",
+        "ipa": "/ˈpraʊəs/",
+        "pos": "n.",
+        "meaning": "高超的技艺，非凡的能力，卓越的本领",
+        "definition": "(formal) great skill at doing sth.",
+        "zh": "高超的技艺，非凡的能力，卓越的本领"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "very difficult and making you very tired, needing great effort for a long time",
+      "(of thoughts, plans, beliefs, etc.) to become clear and fixed; to make thoughts, beliefs, etc. clear and fixed"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “Nevertheless, the poems have clear similarities to the Homeric epics, including the same poetic meter and the use of stock phrases.”?",
+    "exerciseChoiceMarked": [
+      "stock"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Our delivery times on stock items is 2-3 days.",
+        "marked": [
+          "stock"
+        ],
+        "zh": "库存商品的配送时间为2-3天。"
+      },
+      {
+        "label": "B",
+        "text": "“Once upon a time” is a stock expression in fairy tales.",
+        "marked": [
+          "stock"
+        ],
+        "zh": "“从前”是童话故事中的常用表达。"
+      },
+      {
+        "label": "C",
+        "text": "The article was accompanied by two stock photographs.",
+        "marked": [
+          "stock"
+        ],
+        "zh": "这篇文章用了两张图库照片作配图。"
+      },
+      {
+        "label": "D",
+        "text": "The rancher needs a strong stock horse to work with cattle.",
+        "marked": [
+          "stock"
+        ],
+        "zh": "牧场主需要一匹强壮的役马来放牧牛群。"
+      }
+    ],
+    "exerciseTranslationPrompt": "大约公元前 1200 年起，吟游诗人们凭借记忆传唱这些战争中英雄的事迹，依靠动态的口头传统保存故事，直到公元前 8 世纪晚期，这些故事才被整理成文。",
+    "answerVocabularyList": [
+      "grueling",
+      "crystallize"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "Beginning around 1200 B.C., bards sang of the exploits of these wars’ heroes from memory, preserving their stories through a dynamic oral tradition until they were compiled and written down in the late eighth century B.C."
+  },
+  {
+    "key": "sep0904",
+    "date": "2026.09.04",
+    "period": "2026年9月",
+    "folder": "0904胰腺癌新药获批上市，攻克“癌中之王”还有多远？22",
+    "titleZh": "胰腺癌新药获批上市，攻克“癌中之王”还有多远？ 2",
+    "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer",
+    "topicEn": "Health",
+    "topicZh": "健康",
+    "byline": "By Gina Kolata, Rebecca Robbins and Carolyn Y. Johnson, The New York Times, Published August 26, 2026",
+    "paragraphs": [
+      "The pancreas, a gland deep in the abdomen, helps regulate blood sugar and digestion. Pancreatic cancer kills more than 50,000 people in the United States a year. Only 3 percent of patients whose pancreatic cancer has spread to distant parts of their body live for five years after being diagnosed. The few available treatment options, typically grueling chemotherapy, do little to extend life. For years researchers had despaired of even finding a more effective treatment for this cancer.",
+      "So at a cancer meeting in May, oncologists stood up and applauded—and, according to people in the room, some wept —when the clinical trial data was presented showing a doubling in survival times.",
+      "The researcher who gave that presentation and led the key study, Dr. Brian Wolpin of the Dana-Farber Cancer Institute in Boston, said in an interview that he was stunned by the trial results when he was finally allowed to see them.",
+      "“I have not seen anything like that before in trials we have run in pancreatic cancer,” he said. “I just kept repeating, ‘Wow.'” Nearly all pancreatic cancers, as well as many lung and colon cancers, are fed by a mutated cellular protein called KRAS. Without it they die. But there seemed to be no toehold for a drug to attack the smooth-surfaced KRAS protein and block it. For that reason, the longstanding conventional wisdom in the field was that it would be impossible to develop a drug that homes in on KRAS.",
+      "But over decades, a series of scientific advances upended that dogma. Daraxonrasib’s success showed that KRAS could be conquered. It uses a novel approach that glues molecules together to grab and shut down KRAS. Kevan Shokat, a scientist at the University of California, San Francisco, made a key discovery published in 2013 that began to overturn the idea that it would be impossible to develop a drug targeting KRAS. He later joined Revolution Medicines as an academic co-founder and adviser.",
+      "On Wednesday, Dr. Shokat’s phone started buzzing with congratulatory messages during a morning workout. It took him a moment to sort out what the messages were about, but once he learned daraxonrasib had been approved, he was overcome. “I’m just so thrilled,” Dr. Shokat said.",
+      "Daraxonrasib often causes side effects like rash, diarrhea, fatigue and nausea. Several patients who took the drug in clinical trials said that the side effects could be harsh. Some said that extending lives by 13 months was not enough—they wanted years, decades even, with their families. But over the past few years, daraxonrasib studies began reporting such promising early results that patients around the world scrambled for spots in clinical trials that were testing it. Dr. Nilofer Azad, a pancreatic specialist at Johns Hopkins, said in an interview this spring that she was getting emails every day from people around the world who were trying to get into a study to receive the drug.",
+      "The most high-profile clinical trial participant on the drug is former Senator Ben Sasse of Nebraska, who announced last December that he had been diagnosed with metastatic pancreatic cancer. He has credited the drug with extending his life, saying that tumor markers in his blood have plummeted since he started it.",
+      "Oncologists say daraxonrasib is only the beginning of what they see as a new era in treating pancreatic cancer and other cancers fueled by KRAS. Revolution Medicines and other companies are testing dozens of similar KRAS drugs in clinical trials. The drugs are being tested alone, in combination and along with chemotherapy and immunotherapy. They also are being tested as initial therapies for pancreatic cancer.",
+      "The hope now is that as treatments evolve and improve, most patients might be able to keep their cancers in check for years, or even indefinitely.",
+      "Yet so many questions remain, said Dr. Mark Goldsmith, the chief executive at Revolution Medicines, in a recent webinar. “Why do tumors take so much time to shrink?” he asked. “Why don’t they shrink instantly? What’s left after a tumor is getting crushed by a drug?”",
+      "And why are some rare patients able to clear the tumors from their bodies when they take daraxonrasib?",
+      "One such patient is Jerry Simonson, 79, who lives near Salt Lake City.",
+      "He found out he had pancreatic cancer after seeing a doctor in 2017 for a shoulder infection. The cancer had already spread to his lymph nodes.",
+      "Mr. Simonson thought he was doomed. “I just said to myself, ‘Two months,'” he recalled. “I knew two other people when they were diagnosed. They only had two months left.”",
+      "But he enrolled in a clinical trial of daraxonrasib in late 2022, and his tumor started to shrink. Today, it cannot be seen on scans. He says he feels fine—he walks two miles every day and is learning to play pickleball. His side effects have been minor—a mild rash on his face and chest that he controlled with a steroid cream, and some constipation and diarrhea.",
+      "He added that he didn’t realize until recently how revolutionary his drug was. “It was just another doctor, another pill,” Mr. Simonson said.",
+      "Then, in May, he was watching television and saw coverage of the cancer meeting where oncologists gave daraxonrasib a standing ovation.",
+      "“That’s when it really hit home,” Mr. Simonson said."
+    ],
+    "paragraphTranslations": [
+      "胰腺是一个位于腹部深处的腺体，负责调节血糖和消化过程。胰腺癌每年在美国导致超过5万人死亡。在诊断出胰腺癌后，只有3%的患者能够存活五年。目前可用的治疗方法，通常是痛苦的化疗，几乎无法延长患者的生命。多年来，研究人员甚至未能找到更有效的治疗方法来应对这种癌症。",
+      "在五月份的一次癌症会议上，肿瘤学家们站起来鼓掌庆祝——据在场的人说，有些人甚至流泪了——当时展示的临床试验数据表明，患者的生存时间延长了一倍。",
+      "进行该研究并担任主要研究负责人的研究人员，来自波士顿达纳-法伯癌症研究所的布莱恩·沃尔平博士，在采访中表示，当他最终能够看到试验结果时，他非常惊讶。",
+      "“在我们对胰腺癌的临床试验中，从未见过类似的情况，”他说。“我只是不停地重复着‘哇’。”几乎所有的胰腺癌病例，以及许多肺癌和结肠癌病例，都是由一种名为KRAS的突变细胞蛋白所引发的。没有这种蛋白质，这些肿瘤就无法存活。但似乎没有哪种药物能够针对表面光滑的KRAS蛋白进行攻击并使其失效。因此，在该领域，长期以来的传统观点是，要开发出能够针对KRAS的蛋白质的药物是不可能的。",
+      "但在几十年的时间里，一系列科学突破彻底颠覆了这种观念。Daraxonrasib的成功表明，KRAS基因可以被攻克。这种方法采用了一种创新的技术，通过将分子粘合在一起，从而能够锁定并抑制KRAS基因。加州大学旧金山分校的科学家Kevan Shokat在2013年取得了关键发现，这一发现开始打破“无法研发针对KRAS基因的药物”这一观念。后来，他加入了Revolution Medicines公司，担任学术联合创始人及顾问。",
+      "星期三，在晨练时，肖卡特医生的手机开始响个不停，接满了许多祝贺信息。他花了一会儿时间才弄清楚这些消息的含义，但一旦他得知“daraxonrasib”这一方案已被批准，他顿时欣喜若狂。“我真是太高兴了，”肖卡特医生说道。",
+      "达罗克桑瑞布通常会导致皮疹、腹泻、疲劳和恶心等副作用。在临床试验中服用该药物的几名患者表示，这些副作用相当严重。有些人认为，虽然该药物使寿命延长了13个月，但这还不够——他们希望能与家人共度数年甚至数十年的时光。但在过去几年里，关于达罗克桑瑞布的研究开始显示出一些令人期待的早期成果，因此全球各地的患者都争相参加该药物的临床试验。约翰霍普金斯大学的胰腺疾病专家尼洛弗·阿扎德博士在今年春季接受采访时说，她每天都会收到来自世界各地的电子邮件，这些邮件来自那些试图参加这项研究以接受该药物的人。",
+      "该药物的最大受关注临床试验参与者是内布拉斯加州的前参议员本·萨斯。去年12月，他宣布自己被诊断出患有转移性胰腺癌。他将这种药物视为自己寿命延长的关键，并表示自从开始使用这种药物后，他血液中的肿瘤标志物水平显著下降。",
+      "肿瘤学家表示，Daraxonrasib只是他们所设想的一个新时代的开端，这个时代将彻底改变胰腺癌以及其他由KRAS基因异常引发的癌症的治疗方式。Revolution Medicines及其他公司正在临床试验中测试数十种类似的KRAS基因相关药物。这些药物正在单独使用、联合使用，以及与化疗和免疫疗法联合使用的情况下进行试验。它们还被作为胰腺癌的初步治疗方案进行测试。",
+      "现在的希望是，随着治疗方法的发展和改进，大多数患者可能能够长期控制癌症的发展，甚至可以无限期地保持这种状态。",
+      "然而，仍有许多问题尚未得到解答，革命药物公司的首席执行官马克·戈德史密斯博士在最近的一次网络研讨会上说道。“为什么肿瘤需要这么长的时间才能缩小呢？”他问道，“为什么肿瘤不会立即缩小呢？在肿瘤被药物摧毁后，还剩下什么？”",
+      "那么，为什么有些罕见的患者在服用Daraxonrasib后能够清除体内的肿瘤呢？",
+      "其中一位患者是79岁的杰里·西蒙森，他居住在盐湖城附近。",
+      "他在2017年因肩部感染就医时，发现自己患有胰腺癌。此时，癌症已经扩散到了淋巴结。",
+      "西蒙森先生觉得自己已经没救了。他回忆说：“我当时对自己说，‘只有两个月了。’我知道还有另外两个人也被诊断出患有这种疾病，但他们所剩的时间只有两个月而已。”",
+      "但在2022年末，他参加了达罗克索里斯布的实验性治疗，结果他的肿瘤开始缩小。如今，肿瘤在影像检查中已无法被观察到。他说自己感觉良好——每天可以步行两英里，并且开始学习打 pickleball 运动。他的副作用比较轻微——脸上和胸部有一些轻微的皮疹，通过使用类固醇药膏可以控制住；此外还有轻微的便秘和腹泻症状。",
+      "他还表示，直到最近他才意识到这种药物具有多么革命性的效果。“它不过就是另一种药物而已，”西蒙森先生说。",
+      "然后，在五月，他正在看电视，看到了关于癌症会议的报道，在那次会议上，肿瘤学家们对达罗克桑里斯布这种药物给予了热烈的掌声。",
+      "“就在那时，这件事才真正引起了我们的重视，”西蒙森先生说。"
+    ],
+    "vocabulary": [
+      {
+        "form": "pancreas",
+        "ipa": "/ˈpæŋkriəs/",
+        "pos": "n.",
+        "meaning": "胰腺，胰脏",
+        "definition": "an organ near the stomach that produces insulin and a liquid that helps the body to digest food",
+        "zh": "胰腺，胰脏"
+      },
+      {
+        "form": "gland",
+        "ipa": "/ɡlænd/",
+        "pos": "n.",
+        "meaning": "腺，腺体，分泌腺",
+        "definition": "an organ in a person’s or an animal’s body that produces a substance for the body to use; a part in the body that is similar to this, especially a lymph node",
+        "zh": "腺，腺体，分泌腺"
+      },
+      {
+        "form": "abdomen",
+        "ipa": "/ˈæbdəmən/",
+        "pos": "n.",
+        "meaning": "腹部，腹腔，肚子",
+        "definition": "the part of the body below the chest that contains the stomach, bowels, etc.",
+        "zh": "腹部，腹腔，肚子"
+      },
+      {
+        "form": "grueling",
+        "ipa": "/ˈɡruːəlɪŋ/",
+        "pos": "adj.",
+        "meaning": "艰苦的，令人筋疲力尽的，极其费力的",
+        "definition": "very difficult and making you very tired, needing great effort for a long time",
+        "zh": "艰苦的，令人筋疲力尽的，极其费力的"
+      },
+      {
+        "form": "despaired",
+        "ipa": "/dɪˈspeə(r)/",
+        "pos": "v.",
+        "meaning": "绝望，丧失希望，不抱希望",
+        "definition": "to stop having any hope that a situation will change or improve",
+        "zh": "绝望，丧失希望，不抱希望"
+      },
+      {
+        "form": "oncologist",
+        "ipa": "/ɒŋˈkɒlədʒɪst/",
+        "pos": "n.",
+        "meaning": "肿瘤科医生，肿瘤专家，肿瘤学家",
+        "definition": "a doctor who studies and treats tumours in the body",
+        "zh": "肿瘤科医生，肿瘤专家，肿瘤学家"
+      },
+      {
+        "form": "wept",
+        "ipa": "/wiːp/",
+        "pos": "v.",
+        "meaning": "哭泣，流泪，落泪",
+        "definition": "to cry, especially because you feel very sad",
+        "zh": "哭泣，流泪，落泪"
+      },
+      {
+        "form": "stunned",
+        "ipa": "/stʌn/",
+        "pos": "v.",
+        "meaning": "使震惊，使惊愕，使目瞪口呆",
+        "definition": "to surprise or shock sb. so much that they cannot think clearly or speak",
+        "zh": "使震惊，使惊愕，使目瞪口呆"
+      },
+      {
+        "form": "mutated",
+        "ipa": "/mjuːˈteɪt/",
+        "pos": "v.",
+        "meaning": "突变，发生变异，使发生基因变化",
+        "definition": "to develop or make sth. develop a new form or structure, because of a genetic change",
+        "zh": "突变，发生变异，使发生基因变化"
+      },
+      {
+        "form": "cellular",
+        "ipa": "/ˈseljələ(r)/",
+        "pos": "adj.",
+        "meaning": "细胞的，由细胞组成的，与细胞有关的",
+        "definition": "connected with or consisting of the cells of plants or animals",
+        "zh": "细胞的，由细胞组成的，与细胞有关的"
+      },
+      {
+        "form": "toehold",
+        "ipa": "/ˈtəʊhəʊld/",
+        "pos": "n.",
+        "meaning": "立足点，突破口",
+        "definition": "a position in a place or an activity that you hope will lead to more power or success",
+        "zh": "立足点，突破口"
+      },
+      {
+        "form": "upended",
+        "ipa": "/ʌpˈend/",
+        "pos": "v.",
+        "meaning": "颠覆，彻底改变，推翻",
+        "definition": "to turn sb./sth. the wrong way up or onto one end",
+        "zh": "颠覆，彻底改变，推翻"
+      },
+      {
+        "form": "dogma",
+        "ipa": "/ˈdɒɡmə/",
+        "pos": "n.",
+        "meaning": "教条，信条，固有观念",
+        "definition": "a belief or set of beliefs held by a group or organization that others are expected to accept without argument",
+        "zh": "教条，信条，固有观念"
+      },
+      {
+        "form": "molecules",
+        "ipa": "/ˈmɒlɪkjuːl/",
+        "pos": "n.",
+        "meaning": "分子，微粒，分子单位",
+        "definition": "a group of atoms that forms the smallest unit that a substance can be divided into without a change in its chemical nature",
+        "zh": "分子，微粒，分子单位"
+      },
+      {
+        "form": "buzzing",
+        "ipa": "/bʌz/",
+        "pos": "v.",
+        "meaning": "发出嗡嗡声，发出蜂鸣声，嗡嗡作响",
+        "definition": "to make a continuous low sound like the sound of a bee",
+        "zh": "发出嗡嗡声，发出蜂鸣声，嗡嗡作响"
+      },
+      {
+        "form": "sort out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "弄清楚，理清，解决",
+        "definition": "to deal successfully with a problem, a situation, or a person who is having difficulties",
+        "zh": "弄清楚，理清，解决"
+      },
+      {
+        "form": "rash",
+        "ipa": "/ræʃ/",
+        "pos": "n.",
+        "meaning": "皮疹，疹子，皮肤红疹",
+        "definition": "an area of red spots on a person’s skin, caused by an illness or a reaction to sth",
+        "zh": "皮疹，疹子，皮肤红疹"
+      },
+      {
+        "form": "diarrhea",
+        "ipa": "/ˌdaɪəˈrɪə/",
+        "pos": "n.",
+        "meaning": "腹泻，拉肚子",
+        "definition": "an illness in which waste matter is emptied from the bowels much more frequently than normal, and in liquid form",
+        "zh": "腹泻，拉肚子"
+      },
+      {
+        "form": "fatigue",
+        "ipa": "/fəˈtiːɡ/",
+        "pos": "n.",
+        "meaning": "疲劳，疲惫，极度劳累",
+        "definition": "a feeling of being extremely tired, usually because of hard work or exercise",
+        "zh": "疲劳，疲惫，极度劳累"
+      },
+      {
+        "form": "nausea",
+        "ipa": "/ˈnɔːziə/",
+        "pos": "n.",
+        "meaning": "恶心，反胃，想吐",
+        "definition": "the feeling that you have when you want to vomit, for example because you are sick or are shocked or frightened by sth.",
+        "zh": "恶心，反胃，想吐"
+      },
+      {
+        "form": "scrambled",
+        "ipa": "/ˈskræmbl/",
+        "pos": "v.",
+        "meaning": "争抢，争夺，争相获取",
+        "definition": "to push, fight or compete with others in order to get or to reach sth.",
+        "zh": "争抢，争夺，争相获取"
+      },
+      {
+        "form": "metastatic",
+        "ipa": "/ˌmetəˈstætɪk/",
+        "pos": "adj.",
+        "meaning": "转移性的，发生转移的，扩散性的",
+        "definition": "involving the development of tumours in different parts of the body as a result of cancer that has started in another part of the body",
+        "zh": "转移性的，发生转移的，扩散性的"
+      },
+      {
+        "form": "plummeted",
+        "ipa": "/ˈplʌmɪt/",
+        "pos": "v.",
+        "meaning": "暴跌，骤降，急剧下降",
+        "definition": "to fall suddenly and quickly from a high level or position",
+        "zh": "暴跌，骤降，急剧下降"
+      },
+      {
+        "form": "immunotherapy",
+        "ipa": "/ˌɪmjʊnəʊˈθerəpi/",
+        "pos": "n.",
+        "meaning": "免疫疗法，免疫治疗，免疫治疗法",
+        "definition": "the treatment of disease by stimulating or suppressing the body’s immune system",
+        "zh": "免疫疗法，免疫治疗，免疫治疗法"
+      },
+      {
+        "form": "webinar",
+        "ipa": "/ˈwebɪnɑː(r)/",
+        "pos": "n.",
+        "meaning": "网络研讨会，线上研讨会，网络讲座",
+        "definition": "a presentation or seminar that is conducted over the internet",
+        "zh": "网络研讨会，线上研讨会，网络讲座"
+      },
+      {
+        "form": "tumors",
+        "ipa": "/ˈtjuːmə(r)/",
+        "pos": "n.",
+        "meaning": "肿瘤，肿块，赘生物",
+        "definition": "a mass of cells growing in or on a part of the body where they should not, usually causing medical problems",
+        "zh": "肿瘤，肿块，赘生物"
+      },
+      {
+        "form": "lymph",
+        "ipa": "/lɪmf/",
+        "pos": "n.",
+        "meaning": "淋巴液，淋巴，淋巴液体",
+        "definition": "a clear liquid containing white blood cells that helps to clean the tissues of the body and helps to prevent infections from spreading",
+        "zh": "淋巴液，淋巴，淋巴液体"
+      },
+      {
+        "form": "doomed",
+        "ipa": "/duːm/",
+        "pos": "v.",
+        "meaning": "注定失败，使遭厄运，使陷入绝境",
+        "definition": "to make sb./sth. certain to fail, suffer, die, etc.",
+        "zh": "注定失败，使遭厄运，使陷入绝境"
+      },
+      {
+        "form": "enrolled",
+        "ipa": "/ɪnˈrəʊl/",
+        "pos": "v.",
+        "meaning": "加入，注册，报名参加",
+        "definition": "to arrange for yourself or for sb. else to officially join a course, school, etc.",
+        "zh": "加入，注册，报名参加"
+      },
+      {
+        "form": "tumor",
+        "ipa": "/ˈtjuːmə(r)/",
+        "pos": "n.",
+        "meaning": "肿瘤，肿块，赘生物",
+        "definition": "a mass of cells growing in or on a part of the body where they should not, usually causing medical problems",
+        "zh": "肿瘤，肿块，赘生物"
+      },
+      {
+        "form": "steroid",
+        "ipa": "/ˈsterɔɪd/, /ˈstɪərɔɪd/",
+        "pos": "n.",
+        "meaning": "类固醇，甾体，类固醇药物",
+        "definition": "a chemical substance produced naturally in the body; steroids can also be used to treat various diseases",
+        "zh": "类固醇，甾体，类固醇药物"
+      },
+      {
+        "form": "ovation",
+        "ipa": "/əʊˈveɪʃn/",
+        "pos": "n.",
+        "meaning": "热烈欢迎，热烈鼓掌，欢呼致意",
+        "definition": "an enthusiastic public welcome or expression of approval",
+        "zh": "热烈欢迎，热烈鼓掌，欢呼致意"
+      },
+      {
+        "form": "hit home",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "使人真正意识到，使深受触动，使充分认识到",
+        "definition": "to make sb. realize how important or serious sth. is",
+        "zh": "使人真正意识到，使深受触动，使充分认识到"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "to turn sb./sth. the wrong way up or onto one end",
+      "ta feeling of being extremely tired, usually because of hard work or exercise"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The researcher who gave that presentation and led the key study, Dr. Brian Wolpin of the Dana-Farber Cancer Institute in Boston, said in an interview that he was stunned by the trial results when he was finally allowed to see them.” ?",
+    "exerciseChoiceMarked": [
+      "stunned"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The fall stunned him for a few seconds, but he soon got back on his feet.",
+        "marked": [
+          "stunned"
+        ],
+        "zh": "这一跤让他晕了几秒，但他很快站了起来。"
+      },
+      {
+        "label": "B",
+        "text": "The news of her sudden resignation stunned everyone in the office.",
+        "marked": [
+          "stunned"
+        ],
+        "zh": "她突然辞职的消息让办公室里的所有人都措手不及。"
+      },
+      {
+        "label": "C",
+        "text": "The boxer stunned his opponent with a powerful blow to the head.",
+        "marked": [
+          "stunned"
+        ],
+        "zh": "拳击手一记重拳击中对手的头部，把对手打得晕头转向。"
+      },
+      {
+        "label": "D",
+        "text": "The police used a device to stun the animal before moving it.",
+        "marked": [
+          "stun"
+        ],
+        "zh": "警察使用一种装置来使动物昏迷，然后再将其移走。"
+      }
+    ],
+    "exerciseTranslationPrompt": "但 KRAS 蛋白表面十分光滑，似乎没有可供药物“下手”的位置，因此很难对其发起攻击并将其阻断。",
+    "answerVocabularyList": [
+      "upend",
+      "fatigue"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "But there seemed to be no toehold for a drug to attack the smooth-surfaced KRAS protein and block it."
+  },
+  {
     "key": "sep0907",
     "date": "2026.09.07",
     "period": "2026年09月",
@@ -19616,6 +26638,218 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "sep0911",
+    "date": "2026.09.11",
+    "period": "2026年9月",
+    "folder": "0911纽约时报讣闻：回顾他89载人生也是在回顾这座城往事 1",
+    "titleZh": "纽约时报讣闻：回顾他89载人生也是在回顾这座城往事 1",
+    "title": "Tung Chee-hwa, Who Led HK After Its Return to China, Dies at 89",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Austin Ramzy and Keith Bradsher, The New York Times, Published September 8, 2026",
+    "paragraphs": [
+      "As the first leader of the former British colony after its handover, he balanced the demands of Beijing and HKers, making it clear that Beijing was now in charge.",
+      "Tung Chee-hwa, a shipping tycoon who became HK’s first leader after the transfer of power from British to Chinese control in 1997 and resigned eight years later after the city had been battered by the Asian financial crisis, the SARS epidemic and mass protests, has died at 89.",
+      "His death on Tuesday was announced by his office, but no other details were immediately available.",
+      "The 1997 handover officially returned HK to Chinese rule under a “one country, two systems” arrangement that promised HK a high degree of autonomy and allowed it to keep its capitalist system and many of its freedoms.",
+      "Much of the implementation of that policy was left to Mr. Tung. He had to carve out a path between two masters—the Chinese government and the people of HK—but his administration left no doubt that the Communist Party in Beijing was the ultimate authority, fueling public discontent in a city that cherished its civil liberties.",
+      "As a relative unknown outside the world of shipping, Mr. Tung was seen as a long shot to become HK’s first Chinese leader after more than 150 years of British colonial rule.",
+      "He served on the Chinese government’s top advisory body and in the cabinet of the last British governor, Chris Patten, who considered him a polite but unrelenting advocate of China’s interests.",
+      "In HK, he was far less popular than the handful of top officials seen as favorites for the chief executive post, but the choice was Beijing’s to make.",
+      "Beijing signaled its preference in early 1996, when China’s leader, Jiang, singled out Mr. Tung among a delegation from HK and shook his hand, an interaction that was shown prominently in mainland state media. He dominated a tightly controlled selection process later that year and took office when the territory was handed over to Chinese sovereignty on July 1, 1997."
+    ],
+    "paragraphTranslations": [
+      "作为前英国殖民地移交后首位领导人，他平衡了北京和香港居民的需求，明确表示北京现在处于主导地位。",
+      "董建華，一位航运业巨头，在1997年英国对香港的统治结束、香港由英国统治转向中国统治后，成为香港的首位领导人。然而，在亚洲金融危机、非典疫情以及大规模抗议活动的影响下，香港遭受了严重打击，董建華于89岁时去世。",
+      "他的死亡消息由他的办公室宣布，但其他细节并未立即公布。",
+      "1997年的移交仪式正式将香港归还给中国，采用“一国两制”的政策。这一政策承诺给予香港高度的自治权，并允许其保持资本主义制度及许多自由。",
+      "该政策的实施工作大部分由董先生负责。他必须在中国政府与香港人民这两股力量之间找到平衡点。不过，他的政府明确表示，北京的共产党才是最终的权威，而香港则崇尚公民自由，这种矛盾关系引发了民众的不满情绪。",
+      "在航运界并不为人所熟知，董先生被视为在英国殖民统治超过150年后，成为香港首位华人领导人的有力竞争者。",
+      "他曾担任中国政府的最高咨询机构成员，并曾在最后一任英国总督克里斯·帕滕的内阁中任职。帕滕认为，他是一位态度礼貌但立场坚定的中国利益捍卫者。",
+      "在香港，他的知名度远不如那些被视为最有可能担任行政长官职位的少数几位高级官员。不过，最终的选择权还是在北京方面。",
+      "1996年初，北京明确表示了其对董长的青睐。当时，中国的领导人江泽民在香港代表团中特别提到了董长，并与他握手。这一互动被大陆媒体广泛报道。同年，董长经过严格选拔后被任命，并于1997年7月1日该地区正式归附中国主权时正式就任。"
+    ],
+    "vocabulary": [
+      {
+        "form": "colony",
+        "ipa": "/ˈkɒləni/, /ˈkɑːləni/",
+        "pos": "n.",
+        "meaning": "殖民地",
+        "definition": "a country or an area that is governed by people from another, more powerful, country",
+        "zh": "殖民地"
+      },
+      {
+        "form": "tycoon",
+        "ipa": "/taɪˈkuːn/",
+        "pos": "n.",
+        "meaning": "大亨，巨头，富商",
+        "definition": "a person who is successful in business or industry and has become rich and powerful",
+        "zh": "大亨，巨头，富商"
+      },
+      {
+        "form": "resigned",
+        "ipa": "/rɪˈzaɪn/",
+        "pos": "v.",
+        "meaning": "辞职，辞去，离职",
+        "definition": "to officially tell sb. that you are leaving your job, an organization, etc.",
+        "zh": "辞职，辞去，离职"
+      },
+      {
+        "form": "battered",
+        "ipa": "/ˈbætə(r)/",
+        "pos": "v.",
+        "meaning": "猛击，重创，猛烈袭击",
+        "definition": "to hit sb./sth. hard many times, especially in a way that causes serious damage",
+        "zh": "猛击，重创，猛烈袭击"
+      },
+      {
+        "form": "carve",
+        "ipa": "/kɑːv/, /kɑːrv/",
+        "pos": "v.",
+        "meaning": "开辟，创造，开创",
+        "definition": "(idioms) to make objects, patterns, etc. by cutting away material from a piece of wood or stone, or another hard material",
+        "zh": "开辟，创造，开创"
+      },
+      {
+        "form": "fueling",
+        "ipa": "/ˈfjuːəl/",
+        "pos": "v.",
+        "meaning": "加剧，助长，激化",
+        "definition": "to increase something; to make something stronger",
+        "zh": "加剧，助长，激化"
+      },
+      {
+        "form": "discontent",
+        "ipa": "/ˌdɪskənˈtent/",
+        "pos": "n.",
+        "meaning": "不满，不平，不满意",
+        "definition": "a feeling of being unhappy because you are not satisfied with a particular situation",
+        "zh": "不满，不平，不满意"
+      },
+      {
+        "form": "long shot",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "希望渺茫的尝试，成功可能性很小的事",
+        "definition": "an attempt or a guess that is not likely to be successful but is worth trying",
+        "zh": "希望渺茫的尝试，成功可能性很小的事"
+      },
+      {
+        "form": "colonial",
+        "ipa": "/kəˈləʊniəl/",
+        "pos": "adj.",
+        "meaning": "殖民的，殖民统治的，殖民地的",
+        "definition": "connected with or belonging to a country that controls another country",
+        "zh": "殖民的，殖民统治的，殖民地的"
+      },
+      {
+        "form": "served",
+        "ipa": "/sɜːv/",
+        "pos": "v.",
+        "meaning": "为某人、机构、国家等工作 / 履行职责，任职（一段时间）",
+        "definition": "to work or perform duties for a person, an organization, a country, etc.; to spend a period of time in a particular job",
+        "zh": "为某人、机构、国家等工作 / 履行职责，任职（一段时间）"
+      },
+      {
+        "form": "cabinet",
+        "ipa": "/ˈkæbɪnət/",
+        "pos": "n.",
+        "meaning": "内阁，政府内阁，阁僚",
+        "definition": "(usually the Cabinet) a group of senior members of a government that is responsible for advising and deciding on government policy",
+        "zh": "内阁，政府内阁，阁僚"
+      },
+      {
+        "form": "unrelenting",
+        "ipa": "/ˌʌnrɪˈlentɪŋ/",
+        "pos": "adj.",
+        "meaning": "不妥协的，不松懈的，坚定不移的",
+        "definition": "if a person is unrelenting, they continue with sth. without considering the feelings of other people",
+        "zh": "不妥协的，不松懈的，坚定不移的"
+      },
+      {
+        "form": "advocate",
+        "ipa": "/ˈædvəkət/",
+        "pos": "n.",
+        "meaning": "拥护者，支持者，提倡者",
+        "definition": "(formal) a person who supports or speaks in favour of somebody or of a public plan or action",
+        "zh": "拥护者，支持者，提倡者"
+      },
+      {
+        "form": "singled out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "挑出，单独选中，特别关注",
+        "definition": "to choose sb./sth. from a group for special attention",
+        "zh": "挑出，单独选中，特别关注"
+      },
+      {
+        "form": "delegation",
+        "ipa": "/ˌdelɪˈɡeɪʃn/",
+        "pos": "n.",
+        "meaning": "代表团，代表队，代表团体",
+        "definition": "a group of people who represent the views of an organization, a country, etc.",
+        "zh": "代表团，代表队，代表团体"
+      },
+      {
+        "form": "sovereignty",
+        "ipa": "/ˈsɒvrənti/",
+        "pos": "n.",
+        "meaning": "主权，最高统治权，国家自主权",
+        "definition": "complete power to govern a country",
+        "zh": "主权，最高统治权，国家自主权"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a person who is successful in business or industry and has become rich and powerful",
+      "to hit sb./sth. hard many times, especially in a way that causes serious damage"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “He served on the Chinese government’s top advisory body and in the cabinet of the last British governor.” ?",
+    "exerciseChoiceMarked": [
+      "served"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The restaurant serves traditional Chinese food.",
+        "marked": [
+          "serves"
+        ],
+        "zh": "这家餐厅提供传统中国美食。"
+      },
+      {
+        "label": "B",
+        "text": "She served as a judge for many years.",
+        "marked": [
+          "served"
+        ],
+        "zh": "她担任法官多年。"
+      },
+      {
+        "label": "C",
+        "text": "The tennis player served the ball across the court.",
+        "marked": [
+          "served"
+        ],
+        "zh": "那名网球运动员把球发过了球网。"
+      },
+      {
+        "label": "D",
+        "text": "The new machine serves an important purpose in the factory.",
+        "marked": [
+          "serves"
+        ],
+        "zh": "这台新机器在工厂中发挥着重要作用。"
+      }
+    ],
+    "exerciseTranslationPrompt": "他不得不在 ZG 政府与 HK 市民之间寻求平衡，但其施政明确无误地表明，BJ 才是最高权威，这在珍视公民自由的 HK 引发了公众不满。",
+    "answerVocabularyList": [
+      "tycoon",
+      "batter"
+    ],
+    "answerChoice": "B",
+    "answerTranslation": "He had to carve out a path between two masters—the Chinese government and the people of HK—but his administration left no doubt that the Communist Party in Beijing was the ultimate authority, fueling public discontent in a city that cherished its civil liberties."
+  },
+  {
     "key": "sep0913",
     "date": "2026.09.13",
     "period": "2026年09月",
@@ -20294,6 +27528,868 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "liability"
     ]
+  },
+  {
+    "key": "sep0916",
+    "date": "2026.09.16",
+    "period": "2026年9月",
+    "folder": "0916 《纽约时报》讣闻：董其人，懂其城 2",
+    "titleZh": "《纽约时报》讣闻：董其人，懂其城 2",
+    "title": "Tung Chee-hwa, Who Led HK After Its Return to China, Dies at 89",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Austin Ramzy and Keith Bradsher, The New York Times, Published September 8, 2026",
+    "paragraphs": [
+      "Almost immediately, Mr. Tung faced tumult. The Asian financial crisis began the day after he took office, when Thailand devalued its currency, and led to precipitous stock sell-offs, attacks on HK’s currency and the bursting of a speculative bubble in HK apartment prices. The HK government bought billions of dollars’ worth of shares in local companies in August 1998 to support the stock market and punish speculators. The economy began to recover, but housing prices fell for more than six years. By 2003, more than one in five apartments in HK was worth less than the mortgage on it.",
+      "In the spring of 2003, HK was battered by the SARS virus outbreak; the reported death toll of 299 accounted for nearly 40 percent of the worldwide deaths from the disease. The city also recorded some of the earliest documented human cases of H5N1 avian influenza.",
+      "Political unrest broke out that summer. Hundreds of thousands of residents joined protests against a government effort to pass a package of security laws. Among other provisions, the laws would have allowed HK to ban any organization linked to an organization outlawed by Beijing, a threat that struck fear among the city’s Catholic and Protestant leaders.",
+      "The government ultimately abandoned the bill, but the protests emboldened an active opposition movement. The movement remained a powerful force until a sweeping crackdown began in 2020, when China imposed its own tough security law on HK.",
+      "Mr. Tung, his popularity badly wounded by the protests, stepped down in 2005, two years before the end of his second five-year term in office. He cited the effects of working long hours on his health.",
+      "“These have been turbulent times, full of hardship for HK people,” he said. “I have done my best to serve the people and have always worked hard.”"
+    ],
+    "paragraphTranslations": [
+      "几乎立刻，董先生就面临着动荡的局势。亚洲金融危机在他上任后的第二天就开始了，当时泰国贬值了其货币，这导致了股票市场的剧烈抛售，香港的货币体系也受到了冲击，此外，香港公寓价格的投机泡沫也破裂了。1998年8月，香港政府购买了数十亿美元的本地公司股票，以支撑股市并惩罚那些投机者。经济开始复苏，但房价却持续下跌了六年多。到2003年，香港超过五分之一的公寓的价值低于其抵押贷款金额。",
+      "2003年春季，香港遭受了SARS病毒的袭击；据报道，该疾病的死亡人数达到299人，占全球因该疾病死亡人数的近40%。该城市还记录了一些最早的人类H5N1禽流感病例。",
+      "那年夏天爆发了政治动荡。数十万居民参加了抗议活动，反对政府试图通过一系列安全相关法律。这些法律的内容之一是允许香港禁止任何与北京所禁止的组织有联系的组织，这一威胁让香港的天主教和新教领袖们感到恐惧。",
+      "政府最终放弃了这项法案。但这些抗议活动激发了一股强大的反对力量。这一运动一直都很活跃，直到2020年，中国对香港实施了严格的安保法律，才导致这次抗议活动被彻底镇压。",
+      "董先生因抗议活动而声望大损，于2005年辞职，这比他第二个五年任期结束的时间早了两年。他提到长时间工作对他的健康造成了影响。",
+      "“这些时期非常动荡，香港人民经历了许多苦难，”他说。“我尽我所能为民众服务，始终辛勤工作。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "tumult",
+        "ipa": "/ˈtjuːmʌlt/",
+        "pos": "n.",
+        "meaning": "动荡，混乱，骚动",
+        "definition": "a confused situation in which there is usually a lot of noise and excitement",
+        "zh": "动荡，混乱，骚动"
+      },
+      {
+        "form": "devalued",
+        "ipa": "/ˌdiːˈvæljuː/",
+        "pos": "v.",
+        "meaning": "（使货币）贬值，降低币值，调低汇率",
+        "definition": "to reduce in value when it is exchanged for the money of another country",
+        "zh": "（使货币）贬值，降低币值，调低汇率"
+      },
+      {
+        "form": "precipitous",
+        "ipa": "/prɪˈsɪpɪtəs/",
+        "pos": "adj.",
+        "meaning": "急剧的，骤然的，大幅度的",
+        "definition": "sudden and great",
+        "zh": "急剧的，骤然的，大幅度的"
+      },
+      {
+        "form": "sell-offs",
+        "ipa": "/ˈsel ɒf/",
+        "pos": "n.",
+        "meaning": "大规模抛售，集中抛售，急售",
+        "definition": "the sale of a large number of stocks and shares, after which their value usually falls",
+        "zh": "大规模抛售，集中抛售，急售"
+      },
+      {
+        "form": "bursting",
+        "ipa": "/bɜːst/",
+        "pos": "v.",
+        "meaning": "破裂，爆裂，突然破掉",
+        "definition": "to break open or apart, especially because of pressure from inside",
+        "zh": "破裂，爆裂，突然破掉"
+      },
+      {
+        "form": "speculative",
+        "ipa": "/ˈspekjələtɪv/",
+        "pos": "adj.",
+        "meaning": "投机性的，冒险逐利的，高风险的",
+        "definition": "done in the hope of making a profit but involving the risk of losing money",
+        "zh": "投机性的，冒险逐利的，高风险的"
+      },
+      {
+        "form": "mortgage",
+        "ipa": "/ˈmɔːɡɪdʒ/",
+        "pos": "n.",
+        "meaning": "按揭贷款，抵押贷款，房贷",
+        "definition": "a legal agreement in which you borrow money to buy a house, etc. and pay it back over a period of years",
+        "zh": "按揭贷款，抵押贷款，房贷"
+      },
+      {
+        "form": "avian",
+        "ipa": "/ˈeɪviən/",
+        "pos": "adj.",
+        "meaning": "鸟类的，禽类的，与鸟有关的",
+        "definition": "of or connected with birds",
+        "zh": "鸟类的，禽类的，与鸟有关的"
+      },
+      {
+        "form": "unrest",
+        "ipa": "/ʌnˈrest/",
+        "pos": "n.",
+        "meaning": "动乱，骚乱，社会不安",
+        "definition": "a political situation in which people are angry and likely to protest or fight",
+        "zh": "动乱，骚乱，社会不安"
+      },
+      {
+        "form": "provisions",
+        "ipa": "/prəˈvɪʒn/",
+        "pos": "n.",
+        "meaning": "条款，规定，条文",
+        "definition": "a condition or an arrangement in a legal document",
+        "zh": "条款，规定，条文"
+      },
+      {
+        "form": "outlawed",
+        "ipa": "/ˈaʊtlɔː/",
+        "pos": "v.",
+        "meaning": "宣布……违法，取缔，禁止",
+        "definition": "to make sth. illegal",
+        "zh": "宣布……违法，取缔，禁止"
+      },
+      {
+        "form": "struck fear",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "使……害怕，使……恐惧，令人胆寒",
+        "definition": "(formal) to make sb. be afraid",
+        "zh": "使……害怕，使……恐惧，令人胆寒"
+      },
+      {
+        "form": "emboldened",
+        "ipa": "/ɪmˈbəʊldən/",
+        "pos": "v.",
+        "meaning": "给……壮胆，鼓舞，使更有信心",
+        "definition": "to make sb. feel braver or more confident",
+        "zh": "给……壮胆，鼓舞，使更有信心"
+      },
+      {
+        "form": "wounded",
+        "ipa": "/wuːnd/",
+        "pos": "v.",
+        "meaning": "伤害，使受伤，使受损",
+        "definition": "to injure sb. physically, especially by making a cut or hole in their skin",
+        "zh": "伤害，使受伤，使受损"
+      },
+      {
+        "form": "turbulent",
+        "ipa": "/ˈtɜːbjələnt/",
+        "pos": "adj.",
+        "meaning": "动荡的，混乱的，风云变幻的",
+        "definition": "in which there is a lot of sudden change, trouble, argument and sometimes violence",
+        "zh": "动荡的，混乱的，风云变幻的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a confused situation in which there is usually a lot of noise and excitement",
+      "a condition or an arrangement in a legal document"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “The Asian financial crisis began the day after he took office, when Thailand devalued its currency, and led to precipitous stock sell-offs, attacks on HK’s currency and the bursting of a speculative bubble in HK apartment prices.” ?",
+    "exerciseChoiceMarked": [
+      "bursting"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The balloon burst when the child accidentally sat on it.",
+        "marked": [
+          "burst"
+        ],
+        "zh": "气球因为孩子不小心坐上去而爆裂了。"
+      },
+      {
+        "label": "B",
+        "text": "She burst into tears after hearing the tragic news.",
+        "marked": [
+          "burst"
+        ],
+        "zh": "听到这个悲惨的消息后，她突然大哭起来。"
+      },
+      {
+        "label": "C",
+        "text": "The soldiers burst through the door and entered the room.",
+        "marked": [
+          "burst"
+        ],
+        "zh": "士兵们冲进房间。"
+      },
+      {
+        "label": "D",
+        "text": "The garden was bursting with colourful flowers in spring.",
+        "marked": [
+          "bursting"
+        ],
+        "zh": "春天时，花园里开满了色彩鲜艳的花朵。"
+      }
+    ],
+    "exerciseTranslationPrompt": "抗议让 Dong JH 的公众声望大受打击。2005 年，在他第二个五年任期还剩两年时，他以长期超时工作损害健康为由提前请辞。",
+    "answerVocabularyList": [
+      "tumult",
+      "provision"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "Mr. Tung, his popularity badly wounded by the protests, stepped down in 2005, two years before the end of his second five-year term in office. He cited the effects of working long hours on his health."
+  },
+  {
+    "key": "sep0917",
+    "date": "2026.09.17",
+    "period": "2026年9月",
+    "folder": "0917 当一个顽固酒鬼决定戒酒 1",
+    "titleZh": "当一个顽固酒鬼决定戒酒 1",
+    "title": "A Diehard Drinker Accidentally Quits",
+    "topicEn": "Psychology",
+    "topicZh": "心理",
+    "byline": "By Sarah Miller, The New Yorker, Published June 20, 2026",
+    "paragraphs": [
+      "A few years ago, I noticed that drinking alcohol had fallen out of favor with young people. I was annoyed. Yes, some people drank so much that they got fired and hit on random people and drove drunk—those people should obviously quit. But being able to drink reasonably and quitting anyway was, I believed, a rude refusal to have fun with others. We lived in a world where everything had become a kiosk or an effluent pond, or was owned by individuals so rich that the category “human being” ceased to apply. How could anyone not drink in a world where the most flourishing partnerships seemed to be the ones between climate collapse and state-sponsored violence? I believed in things like the fact that the oceans were getting hot, and that a lot of Palestinians were dead, and that I, an American, had been obligated to help finance both. So I drank, daily, sometimes with some moderation, but often enough with none. Not drinking seemed to me synonymous with a hatred of pleasure, a fascist quest for purity. Quitting alcohol was counter-revolutionary, enshittification posing as maturity. Those of us who could drink and maintain a decent life had a responsibility to keep it up.",
+      "I started drinking when I was around seven. My father played basketball every Sunday night, and when he came home he’d have two bottles of Molson Export Ale. On those evenings, he’d allow me a sip. I’d often take a large gulp instead. This made him mad, but he wouldn’t stay mad for long. He could see that I liked drinking, and he couldn’t exactly tell me that I was wrong. Urban living in my twenties made me a champion drinker. I hesitate to even describe the pleasures of it, because I feel like everyone must on some level agree: Is there anything better than partying in a big, beautiful city? Whether sitting on the bougainvillea-shadedpatios of Los Angeles or in the dark booths of New York, admiring the Rome sunset between sips of Peroni or rolling my eyes at the thimblefuls of Chasselas dispensed in Geneva, city of watches and light pours, I found that drinking in a city, with friends, or alone, always left me overwhelmed with happiness that I was no longer a kid living in a strict household in a small town. After the first sip of alcohol I would say to myself, “You’re an adult now,” and that feeling never really went away. One might think that saying to oneself “I’m an adult now” at the age of fifty might alert one to the possibility that something had gone awry in one’s development. But again, I was under the influence. After just a few sips of alcohol I felt prettier, smarter, older (and then, eventually, younger). I felt powerful. The fact that it happened so quickly, that intoxication came so easily, I took as proof that I wasn’t a true alcoholic. Wouldn’t I have built up a tolerance if I were? Even when I was drinking almost every day, the quantity was seldom extraordinary. Seven out of ten times, I had only two or three drinks. Two out of ten times I drank enough to give myself a significant but not debilitatinghangover. Maybe I drove over the legal blood-alcohol limit. Maybe I was mildly rude, inappropriate, unkind, or all three. One out of ten times, I got wasted. I threw up. I had hangovers that lasted for two days. One night in L.A. I called one of my closest friends a fucking bitch. I didn’t remember this afterward, but at least ten other people did. I sent my friend an expensive bouquet of flowers and told myself that I’d never drink again if she forgave me. She did forgive me. To celebrate, I drank.",
+      "In my mid-thirties, I tried Alcoholics Anonymous for the first time and stopped drinking for more than six months, but I spent much of that time asking myself if I was really an alcoholic. Most of what we see of addiction is spectacular: Richard Pryor lighting himself on fire, John Mulaney pawning his Rolex for half its worth to buy drugs, someone who can’t make it through a meal without nodding off. I just drank more than I wanted to. The only person who was critical of my drinking was me. The recovery community talks about “high-bottom drinkers”: alcoholics who don’t lose their jobs, marriages, or social standing, and so they can’t tap into the sense of urgency needed to quit. But I couldn’t yet see that this was me. In the end, that first stint in A.A. only offered me more proof that alcoholics were people who drank more than I did.",
+      "So soon enough I resumed drinking, and not long afterward I met a man who drank more than anyone I’d ever met, and with all deliberate speed made him my boyfriend. Then, because I knew that I should leave him, and felt that I couldn’t without outside help, I joined Al-Anon, a program for friends and families of alcoholics. Al-Anon taught me to stop trying to solve my boyfriend’s problems. It also taught me that paying attention to another person more than you pay attention to yourself makes you just as sick and addicted as they are. Finally, it afforded me the opportunity to become an expert in alcoholism, a disease that I obviously didn’t have, because my boyfriend was the alcoholic, not me. I got healthy enough to leave him, but not so healthy as to understand that I was no better.",
+      "Even if you’ve never been to A.A., you might have heard a famous line from the Big Book: “Remember that we deal with alcohol—cunning, baffling, powerful!” I had bizarre notions about my drinking, but I want to make clear to anyone who isn’t a student of the A.A. literature that my rationalizations were were pretty textbook. I thought that my drunkenness was a rare, unpleasant variation on my generally controlled drinking, and that it was just a matter of time before I figured out how to cease doing the not-fun part of drinking so that I could continue doing the fun part. Giving it up altogether was not an option; the idea of going out to dinner and not drinking seemed like going to a pool that had no water in it and just walking back and forth along the bottom instead of swimming. So there was a lot at stake in figuring out how to do it right.",
+      "Meanwhile, the cultural discourse around giving up alcohol rendered me less and less likely to consider doing so. It seemed that there was a veritablecrusade to make drinking seem every bit as dangerous as smoking cigarettes.",
+      "The Times regularly published headlines like “Even a Little Alcohol Can Harm Your Health.” A narrative about the dangers for women, in particular, had also emerged. I have no idea whether the best-selling book “Quit Like a Woman” is any good, because I was never going to read a book with that title, especially given that Miranda drunk-ordered it and got sober in the ludicrous “And Just Like That…” The idea that quitting drinking could happen in a gendered way made me determined that it would happen to me in no way. I wasn’t going to be one of those women who simply chose not to drink, like Blake Lively, or the women I met at parties who drank seltzer and bragged about how great not drinking was for their skin. Instagram had invented a non-alcoholic spirit called Seedlip. No one would ever be able to force me to drink a non-alcoholic spirit called Seedlip, but if I quit alcohol someone might offer it to me, and that would be bad enough.",
+      "I did read and enjoy Leslie Jamison’s excellent drinking memoir, “The Recovering,” thinking the whole time, Wow, this person drinks a lot. I could never be like this! Only later did I understand that Jamison had simply crammed into ten years all the alcohol that I had painstakingly, and with no less sickness, titrated out over thirty. The Big Book says, in its “Doctor’s Opinion,” that it is not the amount we drink but the phenomenon of our craving that makes us alcoholics. (I would bet my life that there’s a passage about this in “Quit Like a Woman”; fortunately, I will never know, and I can’t be accused of having plagiarized it.) My friend Brandon quit drinking two years ago. She had drunk the same way as me, with bouts of moderation and occasional excess, and she helped me understand the thinking behind this pattern. She described, for instance, how she would allot herself no more than half a bottle of wine at a time. Sometimes she’d just give up and drink the whole thing—an obvious sign that she had a problem—but later, in her sobriety, she understood that obsessively attempting to restrict herself was equal evidence of her addiction.“Sometimes it seemed like a better idea to drink it than to fixate on not drinking it,” she said. Either way, alcohol was the focus of all her thoughts.",
+      "I might have remained a high-bottom drinker forever. But then, the man I’d been dating for about six months, my first serious boyfriend since the end of a twelve-year relationship, abruptly stopped speaking to me. I am easily upset and often anxious, but I don’t think I’ve ever been so upset or so anxious in my life. A friend from Al-Anon, whose meetings I still attended, suggested that I stop drinking for a time, because alcohol worsens anxiety. “I’m not saying you’re an alcoholic,” she said. “But it does seem like every time I ask you to hang out, you can’t, because you’re going to a bar.”",
+      "“But I’m going to the beach with a bunch of friends in, like, two weeks,” I said sniffling. “I have to drink then. I can’t go to the beach with my friends and not drink.” She assured me that I could drink at the beach as much as I wanted, and just try giving up drinking in the meantime."
+    ],
+    "paragraphTranslations": [
+      "几年前，我注意到年轻人中饮酒的行为逐渐减少，这让我很恼火。没错，有些人饮酒过度，结果被解雇，还经常袭击无辜的人，甚至酒后驾车——这些人显然应该停止这种行为。不过，能够适度饮酒并且不做出这种行为，在我看来，是一种对与他人一起享受生活的不敬行为。我们生活在一个一切都变成了商业化的商品，或者属于那些极其富有的人的世界里，以至于“人类”这个身份已经不再适用了。在一个最繁荣的合作关系似乎都是与气候崩溃和国家支持的暴力行为相结合的世界里，人们怎么可能不饮酒呢？我相信，海洋正在变暖，许多巴勒斯坦人已经去世，而我，作为一个美国人，也有责任为这两件事提供资金支持。所以我每天都喝酒，有时会适量饮用，但大多数时候根本不喝酒。对我来说，不喝酒似乎意味着对享乐的厌恶，是一种对纯洁的极端追求。戒酒其实是一种反革命的行为，而继续饮酒则是一种表现成熟的伪装。我们这些能够喝酒且仍能维持正常生活的人，就有责任保持这种习惯。",
+      "我七岁左右就开始喝酒了。父亲每个周日晚上都会打篮球，打完后他会喝两瓶莫尔森出口麦芽酒。那些晚上，他会允许我喝一小口。不过我通常都会喝得比较多。这让他很生气，但他不会一直生气太久。他能够看出我喜欢喝酒，但他又不能直接告诉我我这样做是错的。在二十多岁时开始在城市生活，让我成了个酒鬼。我甚至都不敢描述那种喝酒的快感，因为我觉得每个人在某个层面上都会认同这一点：有什么比在一个又大又美丽的城市里狂欢更令人愉快的事情呢？无论是在洛杉矶那些被藤本植物遮荫的露台上，还是在纽约那些昏暗的亭子内，在喝着Peroni啤酒的同时欣赏罗马的日落美景，或者看着在日内瓦分发的大量Chasselas葡萄酒，这座城市充满了钟表与灯光的光芒，我发现，与朋友或独自一人一起在城市中饮酒时，总是会感到无比的幸福——因为我不再是一个生活在一个小城市、受到严格管束的家庭中的孩子。喝下第一口酒精饮料后，我会对自己说：“你现在是个成年人了。”这种感觉从未真正消失过。人们可能会认为，在五十岁的时候对自己说“我现在是个成年人了”会让人意识到自己的成长过程中可能出现了一些问题。但再次强调，我当时正处于酒精的影响之下。仅仅几口酒精饮料之后，我就感觉自己更漂亮、更聪明、更成熟了（最终，还感觉自己更年轻了）。我感到自己变得强大起来。事情发生得如此迅速，酒精中毒也如此轻易地降临，这让我意识到自己并非真正的酗酒者。如果真的如此，我应该已经对酒精产生了耐受性了吧？即使我几乎每天都喝酒，但每次饮酒的量也很少。十次中有七次，我只喝了两三杯酒。有两次，我喝的酒量足以让自己宿醉，但程度还不严重。也许我超过了法定的血液酒精含量限制。也许我的行为有些粗鲁、不适当、不友善，或者同时具备这三种特点。有十次，我喝得酩酊尽兴，结果呕吐了。还有一次宿醉持续了两天。在洛杉矶的一个晚上，我骂了一个我最亲密的朋友为“该死的贱人”。事后我并不记得这件事，但至少还有十个人记得。我送给朋友一束昂贵的花，并告诉自己如果她原谅我，我就不会再喝酒了。她确实原谅了我。为了庆祝，我喝了起来。",
+      "在我三十多岁的时候，我第一次尝试加入戒酒互助会，并且停止了饮酒六个月多。但在这段时间里，我一直在问自己：我真的属于酗酒者吗？我们所看到的酗酒现象往往都是极端且令人震惊的例子：比如理查德·普赖尔自焚，约翰·穆拉尼以极低的价格出售他的劳力士来购买毒品，还有那些无法吃完一顿饭就睡着的人。我只是比自己想要喝的还要多喝酒而已。唯一批评我饮酒的人就是我自己。康复团体常提到“低度饮酒者”——那些不会失去工作、婚姻或社会地位，因此无法感受到戒烟所需的紧迫感的人。但直到最后，我才意识到，这其实就是我自己。最终，在戒酒互助会中的那段经历，只是再次证明了：酗酒者就是那些比我喝得更多的人。",
+      "不久之后，我又开始喝酒。没过多久，我遇到了一个酗酒的男人，他的饮酒量比我见过的任何人都多。我故意迅速地将他变成了我的男朋友。然而，因为我知道自己必须离开他，而且我觉得没有外界的帮助是无法做到这一点的，所以我加入了“Al-Anon”计划——这是一个为酗酒者的亲友提供的互助项目。这个计划让我明白，不必试图解决我男朋友的问题。它还让我意识到，如果过于关注他人而忽视了自己的需求，那么自己也会像他们一样陷入酗酒的困境。最后，这个计划还让我有机会成为酗酒问题的专家——显然，我并没有这个问题，因为酗酒的其实是我的男朋友，而不是我。我变得足够健康，可以离开他，但还没有健康到能够意识到自己其实并没有好转。",
+      "即使你从未参加过戒酒互助会，你也可能会听到《戒酒圣经》中的一句话：“请记住，我们面对的是酒精——它既狡猾又难以控制，而且威力巨大！”我对自己的饮酒行为有一些奇怪的想法，但我想向那些不了解戒酒互助会相关文献的人明确说明：我的各种合理化解释其实都符合教科书上的标准。我认为自己酗酒的情况是一种罕见且令人不悦的例外情况，只是时间问题，我终会找到办法，不再去做那些不愉快的事情，而是继续享受那些有趣的事情。完全放弃饮酒显然不是一个可行的选择；即使不喝酒去吃晚餐，那感觉就像走进一个没有水的游泳池，只能沿着池底来回走动，而不是游泳。因此，如何正确地应对这个问题，确实非常重要。",
+      "与此同时，关于戒酒的文化讨论让我越来越不愿意尝试戒酒。似乎有一种真正的“运动”在努力让饮酒看起来和吸烟一样危险。",
+      "《时代报》经常刊登诸如“即使是少量酒精也会损害健康”这样的标题。还有关于女性面临的危险的报道。我不知道这本畅销书《像女人一样戒掉酒瘾》是否真的有价值，因为我根本不会去读这样的书，尤其是考虑到米兰达是酒后才购买这本书的，而且是在那个荒唐的“就这样……”节目中才戒酒的。认为可以通过性别差异来戒酒的想法让我决心绝不会这样做。我绝不会成为那些像布莱克·利弗利那样选择不喝酒的女性，或者那些在派对上喝苏打水并夸耀不喝酒对皮肤有多好的女性。Instagram上还有一款名为Seedlip的无酒精烈酒。没人能强迫我喝一种名为Seedlip的无酒精烈酒。但如果我戒酒了，也许会有人提供这种酒给我，那样就太糟糕了。",
+      "我确实读过莱斯利·詹姆森的这本关于戒酒的精彩回忆录《康复之路》，读的时候一直在想：哇，这个人竟然酗酒成性。我绝对不可能有这种状况！直到后来我才明白，詹姆森只是把我在三十多年时间里逐渐戒除的酒精摄入量，都集中在这十年里了。在《医生意见》一章中提到，让我们成为酗酒者的是我们的饮酒习惯，而不是饮酒量。（我敢打赌，《像女人一样戒酒》这本书里肯定有关于这一点的内容；不过幸运的是，我永远无法得知这一点，也不会被指责抄袭。）我的朋友布兰登两年前戒酒了。她的饮酒方式和我一样，有节制也有偶尔的放纵，她帮助我理解了这种饮酒习惯背后的心理原因。她描述了自己如何控制自己每次只喝半瓶酒。有时她会干脆把整瓶酒都喝光——这显然是她有问题的表现。但后来，在戒酒之后，她意识到那种过度限制自己的行为其实也是她成瘾的一个表现。“有时候，我觉得喝酒比不喝酒要好一些，”她说。无论如何，酒精始终都是她所有思绪的焦点。",
+      "我可能永远都会是个重度饮酒者。然而，那个和我交往了大约六个月的男人，自十二年的恋情结束以来，是我第一个真正的男朋友，突然间就停止了和我联系。我很容易感到不安和焦虑，但我觉得自己从未如此痛苦或焦虑过。一位参加Al-Anon互助会的朋友建议我暂时停止饮酒，因为酒精会加剧我的焦虑情绪。她说：“我不是说你是个酒鬼，但每次我邀请你一起出去玩时，你总是无法参加，因为你总是要去酒吧。”",
+      "“但是，我会在两周后和一群朋友一起去海滩，”我哭着说。“那段时间我必须喝酒。我不能和朋友一起去海滩却不喝酒。”她安慰我说，我可以在海滩上随心所欲地喝酒，同时也可以尝试戒酒。"
+    ],
+    "vocabulary": [
+      {
+        "form": "Diehard",
+        "ipa": "/ˈdaɪhɑːd/",
+        "pos": "adj.",
+        "meaning": "顽固的，死硬的，坚决反对改变和新思想的；n. 死硬派，顽固分子，顽固反对者",
+        "definition": "strongly opposing change and new ideas",
+        "zh": "顽固的，死硬的，坚决反对改变和新思想的；n. 死硬派，顽固分子，顽固反对者"
+      },
+      {
+        "form": "out of favor with",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "不受某人的喜欢，不受某人的支持，失宠于某人",
+        "definition": "If sb. or sth. is out of favor with sb., they do not like or support that person or thing",
+        "zh": "不受某人的喜欢，不受某人的支持，失宠于某人"
+      },
+      {
+        "form": "hit on",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "向某人搭讪",
+        "definition": "(slang) to start talking to sb. to show them that you are sexually attracted to them",
+        "zh": "向某人搭讪"
+      },
+      {
+        "form": "kiosk",
+        "ipa": "/ˈkiːɒsk/",
+        "pos": "n.",
+        "meaning": "小亭，报刊亭，售货亭",
+        "definition": "a small shop, open at the front, where newspapers, drinks, etc. are sold. In some countries kiosks also sell food and things used in the home.",
+        "zh": "小亭，报刊亭，售货亭"
+      },
+      {
+        "form": "effluent",
+        "ipa": "/ˈefluənt/",
+        "pos": "n.",
+        "meaning": "废液，废水，污水",
+        "definition": "(formal) liquid waste, especially chemicals produced by factories, or sewage",
+        "zh": "废液，废水，污水"
+      },
+      {
+        "form": "synonymous",
+        "ipa": "/sɪˈnɒnɪməs/",
+        "pos": "adj.",
+        "meaning": "等同的，同义的，密切相关而可视为一回事的",
+        "definition": "(synonymous with sth.) so closely connected with sth. that the two things appear to be the same",
+        "zh": "等同的，同义的，密切相关而可视为一回事的"
+      },
+      {
+        "form": "quest",
+        "ipa": "/kwest/",
+        "pos": "n.",
+        "meaning": "追求，探寻，苦苦求索",
+        "definition": "(formal or literary) a long search for sth., especially for some quality such as happiness",
+        "zh": "追求，探寻，苦苦求索"
+      },
+      {
+        "form": "enshittification",
+        "ipa": "/ɪnˌʃɪtɪfɪˈkeɪʃn/",
+        "pos": "n.",
+        "meaning": "平台劣化，平台垃圾化，也可以更广泛地指任何逐渐恶化、变糟的状态",
+        "definition": "Enshittification is an informal word used to criticize the degradation in the quality and experience of online platforms over time, due to an increase in advertisements, costs, or features. It can also refer more generally to any state of",
+        "zh": "平台劣化，平台垃圾化，也可以更广泛地指任何逐渐恶化、变糟的状态"
+      },
+      {
+        "form": "gulp",
+        "ipa": "/ɡʌlp/",
+        "pos": "n.",
+        "meaning": "一大口",
+        "definition": "an amount of sth. that you swallow or drink quickly",
+        "zh": "一大口"
+      },
+      {
+        "form": "bougainvillea-shaded",
+        "ipa": "/ˌbuːɡənˈvɪliə/",
+        "pos": "n.",
+        "meaning": "三角梅",
+        "definition": "a tropical climbing plant with red, purple, white or pink flowers",
+        "zh": "三角梅"
+      },
+      {
+        "form": "patios",
+        "ipa": "/ˈpætiəʊ/",
+        "pos": "n.",
+        "meaning": "户外露台",
+        "definition": "a flat hard area outside, and usually behind, a house where people can sit",
+        "zh": "户外露台"
+      },
+      {
+        "form": "booths",
+        "ipa": "/buːð/",
+        "pos": "n.",
+        "meaning": "隔开的用餐区（固定的长座围绕着餐桌）",
+        "definition": "A booth in a restaurant or café consists of a table with long fixed seats on two or sometimes three sides of it.",
+        "zh": "隔开的用餐区（固定的长座围绕着餐桌）"
+      },
+      {
+        "form": "thimblefuls",
+        "ipa": "/ˈθɪmblfʊl/",
+        "pos": "n.",
+        "meaning": "极少量，一丁点（尤指酒精饮料）",
+        "definition": "a very small amount of a liquid, especially alcohol",
+        "zh": "极少量，一丁点（尤指酒精饮料）"
+      },
+      {
+        "form": "intoxication",
+        "ipa": "/ɪnˌtɒksɪˈkeɪʃn/",
+        "pos": "n.",
+        "meaning": "醉酒，受酒精或毒品影响的状态",
+        "definition": "(formal) the state of being under the influence of alcohol or drugs",
+        "zh": "醉酒，受酒精或毒品影响的状态"
+      },
+      {
+        "form": "debilitating",
+        "ipa": "/dɪˈbɪlɪteɪtɪŋ/",
+        "pos": "adj.",
+        "meaning": "使人虚弱的，令人精疲力竭的，使身心受损的",
+        "definition": "making sb.’s body or mind weaker",
+        "zh": "使人虚弱的，令人精疲力竭的，使身心受损的"
+      },
+      {
+        "form": "hangover",
+        "ipa": "/ˈhæŋəʊvə(r)/",
+        "pos": "n.",
+        "meaning": "宿醉，酒后不适",
+        "definition": "the headache and sick feeling that you have the day after drinking too much alcohol",
+        "zh": "宿醉，酒后不适"
+      },
+      {
+        "form": "wasted",
+        "ipa": "/ˈweɪstɪd/",
+        "pos": "adj.",
+        "meaning": "烂醉的，醉得不省人事的",
+        "definition": "(slang) strongly affected by alcohol or drugs",
+        "zh": "烂醉的，醉得不省人事的"
+      },
+      {
+        "form": "bouquet",
+        "ipa": "/buˈkeɪ/",
+        "pos": "n.",
+        "meaning": "花束",
+        "definition": "a bunch of flowers arranged in an attractive way so that it can be carried in a ceremony or presented as a gift",
+        "zh": "花束"
+      },
+      {
+        "form": "spectacular",
+        "ipa": "/spekˈtækjələ(r)/",
+        "pos": "adj.",
+        "meaning": "壮观的，惊人的，令人赞叹的",
+        "definition": "very impressive",
+        "zh": "壮观的，惊人的，令人赞叹的"
+      },
+      {
+        "form": "pawning",
+        "ipa": "/pɔːn/",
+        "pos": "v.",
+        "meaning": "典当，抵押",
+        "definition": "to leave an object with a pawnbroker in exchange for money. The object is returned to the owner if they pay back the money",
+        "zh": "典当，抵押"
+      },
+      {
+        "form": "nodding off",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "打瞌睡，打盹",
+        "definition": "(informal) to fall asleep for a short time while you are sitting in a chair",
+        "zh": "打瞌睡，打盹"
+      },
+      {
+        "form": "tap into",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "利用，开发，发掘（某种资源、能力、潜力等）",
+        "definition": "to manage to use sth. in a way that brings good results",
+        "zh": "利用，开发，发掘（某种资源、能力、潜力等）"
+      },
+      {
+        "form": "stint",
+        "ipa": "/stɪnt/",
+        "pos": "n.",
+        "meaning": "一段时期，一段工作或活动经历",
+        "definition": "a period of time that you spend working somewhere or doing a particular activity",
+        "zh": "一段时期，一段工作或活动经历"
+      },
+      {
+        "form": "resumed",
+        "ipa": "/rɪˈzjuːm/",
+        "pos": "v.",
+        "meaning": "恢复，重新开始，继续",
+        "definition": "(formal) if you resume an activity, or if it resumes, it begins again or continues after being interrupted",
+        "zh": "恢复，重新开始，继续"
+      },
+      {
+        "form": "cunning",
+        "ipa": "/ˈkʌnɪŋ/",
+        "pos": "adj.",
+        "meaning": "狡猾的，诡计多端的",
+        "definition": "(disapproving) able to get what you want in a clever way, especially by tricking or cheating sb.",
+        "zh": "狡猾的，诡计多端的"
+      },
+      {
+        "form": "baffling",
+        "ipa": "/ˈbæflɪŋ/",
+        "pos": "adj.",
+        "meaning": "令人困惑的，令人费解的，让人摸不着头脑的",
+        "definition": "causing you to feel completely confused and unable to understand",
+        "zh": "令人困惑的，令人费解的，让人摸不着头脑的"
+      },
+      {
+        "form": "at stake",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "面临危险，关系到……的成败，有可能得失",
+        "definition": "that can be won or lost, depending on the success of a particular action",
+        "zh": "面临危险，关系到……的成败，有可能得失"
+      },
+      {
+        "form": "discourse",
+        "ipa": "/ˈdɪskɔːs/",
+        "pos": "n.",
+        "meaning": "论述，讨论，谈论",
+        "definition": "(formal) a long and serious treatment or discussion of a subject in speech or writing",
+        "zh": "论述，讨论，谈论"
+      },
+      {
+        "form": "rendered",
+        "ipa": "/ˈrendə(r)/",
+        "pos": "v.",
+        "meaning": "使某人 / 某物处于某种状态或情况",
+        "definition": "(formal) to cause sb./sth. to be in a particular state or condition",
+        "zh": "使某人 / 某物处于某种状态或情况"
+      },
+      {
+        "form": "veritable",
+        "ipa": "/ˈverɪtəbl/",
+        "pos": "adj.",
+        "meaning": "名副其实的，真正的，十足的",
+        "definition": "(formal or humorous) a word used to emphasize that sb./sth. can be compared to sb./sth. else that is more exciting, more impressive, etc.",
+        "zh": "名副其实的，真正的，十足的"
+      },
+      {
+        "form": "crusade",
+        "ipa": "/kruːˈseɪd/",
+        "pos": "n.",
+        "meaning": "长期而坚定的努力，（为正义或正确的事情而进行的）斗争，运动",
+        "definition": "a long and determined effort to achieve sth. that you believe to be right or to stop sth. that you believe to be wrong",
+        "zh": "长期而坚定的努力，（为正义或正确的事情而进行的）斗争，运动"
+      },
+      {
+        "form": "ludicrous",
+        "ipa": "/ˈluːdɪkrəs/",
+        "pos": "adj.",
+        "meaning": "荒谬的，可笑的，不合理的",
+        "definition": "unreasonable; that you cannot take seriously",
+        "zh": "荒谬的，可笑的，不合理的"
+      },
+      {
+        "form": "seltzer",
+        "ipa": "/ˈseltsə(r)/",
+        "pos": "n.",
+        "meaning": "苏打水，气泡水",
+        "definition": "fizzy water (= with bubbles), usually containing minerals, used as a drink",
+        "zh": "苏打水，气泡水"
+      },
+      {
+        "form": "painstakingly",
+        "ipa": "/ˈpeɪnzteɪkɪŋli/",
+        "pos": "adv.",
+        "meaning": "煞费苦心地，精心地，仔细认真地",
+        "definition": "in a way that takes a lot of care, effort and attention to detail",
+        "zh": "煞费苦心地，精心地，仔细认真地"
+      },
+      {
+        "form": "plagiarized",
+        "ipa": "/ˈpleɪdʒəraɪz/",
+        "pos": "v.",
+        "meaning": "剽窃，抄袭",
+        "definition": "(disapproving) to copy another person’s ideas, words or work and pretend that they are your own",
+        "zh": "剽窃，抄袭"
+      },
+      {
+        "form": "bouts",
+        "ipa": "/baʊt/",
+        "pos": "n.",
+        "meaning": "一阵，一段时间，一番（通常指短暂而强烈的活动或某种不愉快的事情）",
+        "definition": "a short period of great activity; a short period during which there is a lot of a particular thing, usually sth. unpleasant",
+        "zh": "一阵，一段时间，一番（通常指短暂而强烈的活动或某种不愉快的事情）"
+      },
+      {
+        "form": "allot",
+        "ipa": "/əˈlɒt/",
+        "pos": "v.",
+        "meaning": "分配，分派，拨给",
+        "definition": "to give time, money, tasks, etc. to sb./sth. as a share of what is available",
+        "zh": "分配，分派，拨给"
+      },
+      {
+        "form": "fixate",
+        "ipa": "/ˈfɪkseɪt/",
+        "pos": "v.",
+        "meaning": "过度关注，执着于，对……念念不忘",
+        "definition": "to think about sth. too much and find it difficult to stop",
+        "zh": "过度关注，执着于，对……念念不忘"
+      },
+      {
+        "form": "sniffling",
+        "ipa": "/ˈsnɪfl/",
+        "pos": "v.",
+        "meaning": "抽鼻子，吸鼻子",
+        "definition": "to sniff or keep sniffing, especially because you are crying or have a cold",
+        "zh": "抽鼻子，吸鼻子"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a period of time that you spend working somewhere or doing a particular activity",
+      "causing you to feel completely confused and unable to understand"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “Meanwhile, the cultural discourse around giving up alcohol rendered me less and less likely to consider doing so.”?",
+    "exerciseChoiceMarked": [
+      "rendered"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Poetic language is hard to render into another tongue.",
+        "marked": [
+          "render"
+        ],
+        "zh": "诗歌语言很难用其他语言来表达。"
+      },
+      {
+        "label": "B",
+        "text": "The artist has rendered the stormy sea in dark greens and browns.",
+        "marked": [
+          "rendered"
+        ],
+        "zh": "艺术家用深绿色和棕色描绘了汹涌的海面。"
+      },
+      {
+        "label": "C",
+        "text": "The blow to his head was strong enough to render him unconscious.",
+        "marked": [
+          "render"
+        ],
+        "zh": "他头部受到的撞击非常严重，导致他昏迷不醒。"
+      },
+      {
+        "label": "D",
+        "text": "It is unlikely that the court will render an opinion before November 5.",
+        "marked": [
+          "render"
+        ],
+        "zh": "法院不太可能在 11 月 5 日之前发表判决意见。"
+      }
+    ],
+    "exerciseTranslationPrompt": "戒酒圈子里有个概念叫“高底线饮酒者”：这类酒鬼没有丢掉工作、婚姻，社会地位也完好无损，因此无法生出必须戒酒的紧迫感。",
+    "answerVocabularyList": [
+      "stint",
+      "baffling"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "The recovery community talks about “high-bottom drinkers”: alcoholics who don’t lose their jobs, marriages, or social standing, and so they can’t tap into the sense of urgency needed to quit."
+  },
+  {
+    "key": "sep0918",
+    "date": "2026.09.18",
+    "period": "2026年9月",
+    "folder": "0918 《纽约时报》讣闻：董其人，懂其城 3",
+    "titleZh": "《纽约时报》讣闻：董其人，懂其城 3",
+    "title": "Tung Chee-hwa, Who Led HK After Its Return to China, Dies at 89",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Austin Ramzy and Keith Bradsher, The New York Times, Published September 8, 2026",
+    "paragraphs": [
+      "Tung Chee-hwa was born in Shanghai on July 7, 1937. His father, Tung Chao-yung, was a shipping magnate who turned a single tramp steamer into one of the world’s largest shipping fleets, Orient Overseas International. The family fled to HK in 1949 as Mao and the Communist Party took control of China.",
+      "In HK, Mr. Tung’s family lived in the wealthy Kowloon Tong neighborhood, and he attended an international school in the expectation he would study abroad. To The South China Morning Post in 2017, he recalled his father telling him he did not have the “intellect” to attend the city’s premier school, the University of HK.",
+      "Instead, Mr. Tung went to England and studied engineering at the University of Liverpool. After graduation, he worked in Boston, New York and San Francisco, first for General Electric and then for his father’s shipping firm.",
+      "In 1961, he married his teenage sweetheart, Betty Chiu, a nurse and daughter of a HK developer. They had three children, Alan, Andrew and Audrey Slighton Tung. A complete list of survivors was not immediately available.",
+      "Mr. Tung’s father, who died in 1982, left the shipping business to his two sons, Tung Chee-hwa and Tung Chee-chen.",
+      "During a global recession in the early 1980s, the business ran up more than $2.6 billion in debt. Mainland companies put up a significant portion of a $120 million bailout.",
+      "The rescue fueled concerns, when Tung Chee-hwa became HK’s chief executive, that he would be unduly influenced by Beijing, a charge he rejected. In 2017, Cosco Shipping, a Chinese state-owned conglomerate, purchased Orient Overseas for $6.3 billion, with the Tung family receiving more than $4 billion. Mr. Tung, who was stoutly built and had close-cropped hair, was socially conservative and spoke often about the need to maintain social order and respect for authority. He endorsed a suggestion by Mahathir Mohamad, the Malaysian prime minister and another champion of “Asian values,” that the U.N. Declaration on Human Rights be revised to emphasize livelihood issues over civil and political liberties, which both leaders saw as Western values unsuited to Asia.",
+      "Before taking office, Mr. Tung called for unity in HK. “Our society has become too politicized in recent years,” he said after his selection in 1996.",
+      "But division and discontent grew during his tenure.",
+      "Mr. Tung became the focal point of public anger over the government’s unmet promises to expand direct elections. A plan to build more housing fed a glut that depressed prices, angering homeowners. Later governments were so spooked by the mess that they severely restricted home building, driving apartment prices beyond the reach of most residents.",
+      "Mr. Patten described Mr. Tung as “not at all a bad man” but one who was “too malleable” to the wishes of Beijing. “He combined a curious mix of indecision and stubbornness,” Mr. Patten wrote in his 2022 book, The Hong Kong Diaries. “He was also politically tone deaf,” he added, noting Mr. Tung’s effort to push through the security bill that he was forced to withdraw. Mr. Tung’s supporters described him as the victim of difficult times, troubled by problems largely not of his own making. The Asian financial crisis, avian flu and SARS were not his fault, said Regina Ip, who as secretary for security under Mr. Tung led the failed security law initiative in 2003. She praised his attempt to increase housing construction as well as his establishment of a high-tech hub in the city.",
+      "“He was just unlucky,” she said. “All of his initiatives were the right ones.”"
+    ],
+    "paragraphTranslations": [
+      "董建华于1937年7月7日出生于上海。他的父亲董浩云是一位航运业巨头，他将一艘单桅帆船改造成了世界上最大的航运舰队之一——东方海外国际航运公司。1949年，随着毛泽东和共产党接管中国，这个家庭逃往香港。",
+      "在香港，董先生一家居住在富裕的九龙塘社区。他就读于一所国际学校，期望能够出国留学。2017年，他向《华南早报》回忆说，他的父亲曾告诉他，自己没有“足够的智力”来就读香港大学这所香港顶尖学校。",
+      "相反，董先生去了英国，在利物浦大学学习工程学。毕业后，他在波士顿、纽约和旧金山工作，先是在通用电气公司工作，后来又在父亲经营的航运公司工作。",
+      "1961年，他与自己的恋人赵洪娉结婚。贝蒂是一名护士，也是香港某房地产开发商的女儿。他们有三个孩子，分别是艾伦、安德鲁和奥黛丽·斯莱顿·董。关于仍在世的亲属名单，当时并未能立即获得。",
+      "董先生的父亲在1982年去世，他将航运业务交给了他的两个儿子：董建华和董建成。",
+      "在20世纪80年代初的全球经济衰退期间，这家企业背上了超过26亿美元的外债。大陆地区的公司承担了1.2亿美元救助资金中的大部分份额。",
+      "当董建华成为香港行政长官后，外界对他会受到北京的过度影响表示担忧，但他否认了这种指控。2017年，中国国有企业中国远洋海运集团以63亿美元收购了东方海外，而董氏家族则获得了超过40 亿美元。董建华身材魁梧，留着极短的发型，在社会议题上持保守立场，经常强调维护社会秩序和尊重权威的重要性。他赞同马来西亚总理马哈蒂尔·穆罕默德的建议，即应修改《联合国人权宣言》，将重点放在民生问题上，而非公民和政治自由上。两位领导人都认为，这些西方价值观并不适合亚洲。",
+      "在就任之前，董先生呼吁香港的团结。“近年来，我们的社会变得过于政治化，”他在1996年当选后说道。",
+      "但在他的任期内，不满和冲突不断加剧。",
+      "董先生成为了公众愤怒的焦点，因为政府未能履行关于扩大直接选举的承诺。为了增加住房供应，政府采取了一些措施，但这一举措导致了住房供应过剩，从而使房价下跌，进一步激怒了房主们。后来的政府因为这种混乱局面而变得非常谨慎，他们严重限制了住房建设，导致公寓价格变得高得让大多数居民难以承受。",
+      "帕顿先生将董先生描述为“并非坏人”，只是他“过于顺从”北京方面的意愿。帕顿先生在2022年出版的《香港日记》一书中写道：“他表现出一种奇怪的犹豫与固执并存的特点。他还缺乏政治敏感度，”他补充说，董先生试图通过一项安全法案，但最终不得不放弃这一计划。董先生的支持者认为他是时局的受害者，所面临的困难并非他造成的。亚洲金融危机、禽流感和SARS等事件并非他的责任，2003年负责安全事务的董先生的秘书雷吉娜·伊普如此说道。她赞扬了董先生增加住房建设的努力，以及他在城市中建立高科技产业中心的成就。",
+      "“他只是运气不好而已，”她说。“他的所有努力都是正确的。”"
+    ],
+    "vocabulary": [
+      {
+        "form": "magnate",
+        "ipa": "/ˈmæɡneɪt/",
+        "pos": "n.",
+        "meaning": "巨头，大亨，富商",
+        "definition": "a person who is rich, powerful and successful, especially in business",
+        "zh": "巨头，大亨，富商"
+      },
+      {
+        "form": "tramp steamer",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "不定期货轮，无固定航线货船，流动货船",
+        "definition": "a cargo vessel that carries goods among many different ports rather than sailing a fixed route",
+        "zh": "不定期货轮，无固定航线货船，流动货船"
+      },
+      {
+        "form": "fleets",
+        "ipa": "/fliːt/",
+        "pos": "n.",
+        "meaning": "船队，舰队，船舶群",
+        "definition": "a group of ships travelling together or belonging to the same organization",
+        "zh": "船队，舰队，船舶群"
+      },
+      {
+        "form": "fled",
+        "ipa": "/fliː/",
+        "pos": "v.",
+        "meaning": "逃离，逃往，逃跑",
+        "definition": "to leave a person or place very quickly, especially because you are afraid of possible danger",
+        "zh": "逃离，逃往，逃跑"
+      },
+      {
+        "form": "intellect",
+        "ipa": "/ˈɪntəlekt/",
+        "pos": "n.",
+        "meaning": "智力，才智",
+        "definition": "the ability to think in an intelligent way and understand things, especially difficult or complicated ideas",
+        "zh": "智力，才智"
+      },
+      {
+        "form": "recession",
+        "ipa": "/rɪˈseʃn/",
+        "pos": "n.",
+        "meaning": "经济衰退，经济萧条，经济低迷",
+        "definition": "a difficult time for the economy of a country, when there is less trade and industrial activity than usual and more people are unemployed",
+        "zh": "经济衰退，经济萧条，经济低迷"
+      },
+      {
+        "form": "run up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "累积，积欠，使（债务、账单等）增加",
+        "definition": "to allow a bill, debt, etc. to reach a large total",
+        "zh": "累积，积欠，使（债务、账单等）增加"
+      },
+      {
+        "form": "put up",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "提供，拿出，筹措（资金）",
+        "definition": "to provide or lend money",
+        "zh": "提供，拿出，筹措（资金）"
+      },
+      {
+        "form": "bailout",
+        "ipa": "/ˈbeɪlaʊt/",
+        "pos": "n.",
+        "meaning": "紧急援助，财政纾困，救助",
+        "definition": "an act of giving money to a company, a foreign country, etc. that has very serious financial problems",
+        "zh": "紧急援助，财政纾困，救助"
+      },
+      {
+        "form": "unduly",
+        "ipa": "/ˌʌnˈdjuːli/",
+        "pos": "adv.",
+        "meaning": "过度地，过分地，不适当地",
+        "definition": "(formal) more than you think is reasonable or necessary",
+        "zh": "过度地，过分地，不适当地"
+      },
+      {
+        "form": "conglomerate",
+        "ipa": "/kənˈɡlɒmərət/",
+        "pos": "n.",
+        "meaning": "企业集团，联合企业，大型综合公司",
+        "definition": "a large company formed by joining together different firms",
+        "zh": "企业集团，联合企业，大型综合公司"
+      },
+      {
+        "form": "stout",
+        "ipa": "/staʊt/",
+        "pos": "adj.",
+        "meaning": "肥壮的，敦实的，粗壮的",
+        "definition": "rather fat",
+        "zh": "肥壮的，敦实的，粗壮的"
+      },
+      {
+        "form": "close-cropped",
+        "ipa": "/ˌkləʊs ˈkrɒpt/",
+        "pos": "adj.",
+        "meaning": "剪得很短的，贴头皮修剪的，短短的",
+        "definition": "cut very short",
+        "zh": "剪得很短的，贴头皮修剪的，短短的"
+      },
+      {
+        "form": "endorsed",
+        "ipa": "/ɪnˈdɔːs/",
+        "pos": "v.",
+        "meaning": "赞同，支持，认可",
+        "definition": "to say publicly that you support a person, statement or course of action",
+        "zh": "赞同，支持，认可"
+      },
+      {
+        "form": "champion",
+        "ipa": "/ˈtʃæmpiən/",
+        "pos": "n.",
+        "meaning": "拥护者，倡导者，支持者",
+        "definition": "a person who fights for, or speaks in support of, a group of people or a belief",
+        "zh": "拥护者，倡导者，支持者"
+      },
+      {
+        "form": "tenure",
+        "ipa": "/ˈtenjə(r)/",
+        "pos": "n.",
+        "meaning": "任期，任职期间，在职期",
+        "definition": "the period of time when sb. holds an important job, especially a political one",
+        "zh": "任期，任职期间，在职期"
+      },
+      {
+        "form": "focal point",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "焦点，中心，关注重点",
+        "definition": "a thing or person that is the centre of interest or activity",
+        "zh": "焦点，中心，关注重点"
+      },
+      {
+        "form": "unmet",
+        "ipa": "/ˌʌnˈmet/",
+        "pos": "adj.",
+        "meaning": "未满足的，未实现的，未兑现的",
+        "definition": "(formal) not satisfied",
+        "zh": "未满足的，未实现的，未兑现的"
+      },
+      {
+        "form": "glut",
+        "ipa": "/ɡlʌt/",
+        "pos": "n.",
+        "meaning": "供过于求，过剩，充斥",
+        "definition": "a situation in which there is more of sth. than is needed or can be used",
+        "zh": "供过于求，过剩，充斥"
+      },
+      {
+        "form": "spooked",
+        "ipa": "/spuːk/",
+        "pos": "v.",
+        "meaning": "使惊慌，使害怕，使受到惊吓",
+        "definition": "(informal) to frighten a person or an animal; to become frightened",
+        "zh": "使惊慌，使害怕，使受到惊吓"
+      },
+      {
+        "form": "malleable",
+        "ipa": "/ˈmæliəbl/",
+        "pos": "adj.",
+        "meaning": "易受影响的，容易改变的，易被左右的",
+        "definition": "easily influenced or changed",
+        "zh": "易受影响的，容易改变的，易被左右的"
+      },
+      {
+        "form": "tone-deaf",
+        "ipa": "/ˌtəʊn ˈdef/",
+        "pos": "adj.",
+        "meaning": "缺乏敏感度的，不体察他人感受的，不合时宜的",
+        "definition": "not noticing or understanding the feelings or opinions of other people",
+        "zh": "缺乏敏感度的，不体察他人感受的，不合时宜的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "more than you think is reasonable or necessary",
+      "a person who fights for, or speaks in support of, a group of people or a belief"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “He endorsed a suggestion by Mahathir Mohamad, the Malaysian prime minister and another champion of “Asian values,” that the U.N. Declaration on Human Rights be revised to emphasize livelihood issues over civil and political liberties, which both leaders saw as Western values unsuited to Asia.” ?",
+    "exerciseChoiceMarked": [
+      "endorsed"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "Several leading scientists endorsed the new climate policy.",
+        "marked": [
+          "endorsed"
+        ],
+        "zh": "几位著名的科学家支持这项新的气候政策。"
+      },
+      {
+        "label": "B",
+        "text": "Please endorse the cheque before depositing it.",
+        "marked": [
+          "endorse"
+        ],
+        "zh": "请先在支票背面签字，再存入银行。"
+      },
+      {
+        "label": "C",
+        "text": "The celebrity endorsed a new brand of sportswear.",
+        "marked": [
+          "endorsed"
+        ],
+        "zh": "那位名人代言了一个新的运动服装品牌。"
+      },
+      {
+        "label": "D",
+        "text": "The driving instructor endorsed his licence with penalty points.",
+        "marked": [
+          "endorsed"
+        ],
+        "zh": "驾驶教练在他的驾照上记了违规扣分。"
+      }
+    ],
+    "exerciseTranslationPrompt": "留着短发、身材魁梧的 Dong JH 秉持保守的社会观念，常强调维护社会秩序和尊崇权威的必要性。",
+    "answerVocabularyList": [
+      "unduly",
+      "champion"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "Mr. Tung, who was stoutly built and had close-cropped hair, was socially conservative and spoke often about the need to maintain social order and respect for authority."
   },
   {
     "key": "sep0920",
@@ -21268,6 +29364,476 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     ]
   },
   {
+    "key": "sep0924",
+    "date": "2026.09.24",
+    "period": "2026年9月",
+    "folder": "0924《龙餐馆》讲的是中国式外交之精髓",
+    "titleZh": "《龙餐馆》讲的是中国式外交之精髓",
+    "title": "In film and in life, China pursues dragon-restaurant diplomacy",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By The Economist, Published August 31, 2026",
+    "paragraphs": [
+      "It is full of contradictions but welcomed by many as an alternative to Western power",
+      "“WELCOME TO Dragon Restaurant”, a new Chinese box-office hit set in a thinly disguised Iraq, will not win any Oscars. The plot is outlandish, many characters cartoonish. Yet people outside China should still watch it. For one thing, it depicts the American invasion of 2003 from an unfamiliar vantage: not the green-tinged light show beamed into Western homes, but the shriek and crash of bombs slamming into a slumbering city, shocking and awful.",
+      "In following a Chinese chef who profits from the war until it turns on him, the film also carries political significance. It sheds light on China’s self-image and its positioning in the Middle East and beyond. If it seems absurd to read so much into a movie, remember that commentators have used another one, “Wolf Warrior”, as shorthand for China’s aggressive diplomatic stance over the past decade.",
+      "Dragon-restaurant diplomacy reflects a different style—and a better approximation of Chinese foreign policy in the round. Its organising principle is to be friends to all people, motivated more by mercantilism than political ideology. The approach, both in the film and on the ground, is often superficial and contradictory. Yet it would be a mistake to ignore its appeal to countries tired of overweening Westerners.",
+      "The hero of the film (which in English is officially called “Once Upon a Time in the Middle East”) is Xu Fu. He moves to a fictionalised Baghdad in the hope of making more money from his cooking. When war starts, he discovers the lucrative “green zone” that houses the American forces. Western soldiers and, ahem, journalists like his food and love his booze. He rakes it in, until a suicide-bomber strikes. His former business partner is implicated, so Xu spends time in an American jail. Later, Islamic militants capture him. Chinese state media and intellectuals have heralded the film as a parable of what China offers a world wrecked by America. Yet there is more to the film, not all of it flattering to China.",
+      "A central conceit is that China wants to be liked by everyone. Xu Fu is a paragon for any good, nimble Chinese diplomat. His local partner is an official in the pre-war regime; Xu stays loyal to him even after he loses power. American soldiers also grow fond of him and, especially, his cooking. So does the terrorist mastermind who seizes him. Through it all, Xu sees their common humanity. The film, to its credit, is not blind to the tensions. “Your partner was the perpetrator. Your friend was the victim. You really think you’ve got nothing to do with this war?” an American soldier asks him. That might prompt self-reflection in Chinese officials who protest neutrality in the Russia-Ukraine war and are peeved when Westerners point out that China’s supplies and cash keep the Russian forces going. You really think you’ve got nothing to do with this war? Xu’s motivation also rings true. He is both candid and shameless at the outset in his desire to make a quick buck to pay off debts. As his Chinese partner reflects, profiting from war is a stroke of luck. It is a small example of the opportunistic commercialism that drives much Chinese activity overseas. It sounds grubby. But for countries on the receiving end, it is often welcome—a contrast to the perception that Western funds come with strings attached. Ren Zhengfei, founder of Huawei, a technology giant, has made it his maxim: “In business, speak only of business.” Tuning out politics is partly why China manages to straddle antagonistic divides in the Middle East and beyond. Think of Iran versus the Gulf monarchies, Algeria versus Morocco, Egypt versus Ethiopia—most countries pick a side in these squabbles. Not China. In many countries, those doing business with it happily go along with the idea, however illusory, that politics takes a back seat to business.",
+      "Another characteristic of dragon-restaurant diplomacy is its thinness. Later in the film, Xu is imbued with humanitarian aims, working to save orphans. Yet he is a reluctant saviour. At one point a friend tells him: “You should have stayed out of it. These are not your children.” In the end, he takes this counsel, returning to China and leaving it all behind. The film’s anti-war message, in Xu’s words, is to “eat well and raise your children well”. Not much to disagree with there. But it speaks to the limits of Chinese support for partners abroad. China is wary of entanglements, especially of the military variety. Iran and Venezuela learned that this year. “It is a matter of managing expectations,” says Karim Alwadi, an expert in Sino-Arab relations. “China is not interested in being a security guarantor.”",
+      "The chef’s special",
+      "For Westerners who were disturbed by China’s wolf-warrior turn, the rise of dragon-restaurant diplomacy may seem a big improvement. Sprawling across so much ground, it may appear toothless, even naive. In reality, it is a formidable challenge. For all its contradictions, it appeals more to other countries than trying to tariff or, worse, bomb them into submission. And investment dollars, when they materialise, beat morality lectures.",
+      "Yet China risks being seduced by its own cooking. One real-life inspiration for the film was Liu Lei, who quit his tech job and moved to Baghdad in 2003 to open a restaurant. In his co-authored memoir, Making Money at Death’s Feet, it was a young Japanese anti-war campaigner, not Mr Liu, who was the real humanitarian. She worked as a waitress in his restaurant and every afternoon collected leftovers to bring to an orphanage. That plotline would have struggled to get past a Chinese censor. In trying to be friends to all, China makes one glaring exception: Japan. X accuses the country of reviving its militarism. He cannot accept that Japan might want peace as much as China professes to. In dragon-restaurant diplomacy, China decides which truths to serve."
+    ],
+    "paragraphTranslations": [
+      "它充满了矛盾，但作为西方权力的替代方案，却受到了许多人的欢迎。",
+      "《欢迎来到龙餐厅》是一部以伊拉克为背景的新华语电影，虽然剧情夸张，角色形象也显得很夸张，但即便如此，中国以外的观众仍然应该观看这部电影。因为，它从一种陌生的角度描绘了2003年美国的入侵事件：不是通过那些充满幻想色彩的光影效果，而是通过炸弹在沉睡的城市中爆炸的惊心动魄的场景来呈现这一事件，画面十分震撼且令人毛骨悚然。",
+      "这部电影记录了一位中国厨师的故事，他从战争中获利，最终却因此陷入困境。这部电影还具有政治意义，它揭示了中国的自我形象以及中国在中东地区及其他地区的地位。如果试图从这部电影中解读太多内容似乎有些荒谬，那么请记住：评论人士曾用另一部电影《狼族之战》来概括过去十年中国激进的外交政策。",
+      "龙餐厅外交体现了一种不同的风格——并且更接近于中国对外政策的本质。其组织原则是与所有国家建立友好关系，这种理念更多是由商业利益驱动，而非政治意识形态。无论是在电影中还是在实际生活中，这种态度往往都是表面化的，而且充满矛盾。然而，忽视这种对那些厌倦了傲慢的西方人的吸引力，无疑是一种错误。",
+      "这部电影的主角名叫徐福。他搬到了一个虚构的巴格达地区，希望通过烹饪来赚取更多的钱。当战争爆发时，他发现了一个利润丰厚的“绿色区域”，那里驻扎着美国军队。西方士兵和记者们非常喜欢他的食物，也喜欢他的酒。他因此赚得盆满钵满，直到一名自杀式炸弹袭击者将他炸死。他的前商业伙伴因此受到牵连，最终被关进美国监狱。后来，伊斯兰武装分子俘虏了他。中国的官方媒体和知识分子将这部电影视为中国为遭受美国破坏的世界所提供的一个象征。然而，这部电影背后还有更多故事，并非所有内容都是对中国的赞美之词。",
+      "一个核心概念是，中国希望得到所有人的喜爱。徐福是任何优秀、机智的中国外交官的典范。他的当地合作伙伴是战前政权的官员；即使这位官员失去权力后，徐福仍然对他保持忠诚。美国士兵也喜欢他，尤其是他的厨艺。抓住他的恐怖组织头目也是如此。尽管如此，徐福仍然看到了他们之间的共同人性。值得称赞的是，这部电影并没有忽视这些紧张关系。“你的合作伙伴就是实施犯罪的人，你的朋友则是受害者。你真的认为自己与这场战争没有任何关系吗？”一个美国士兵问他。这可能会促使那些在俄罗斯-乌克兰战争中抗议保持中立的中国官员进行自我反思，尤其是当西方人指出，中国的物资和资金一直支持着俄罗斯军队时。你真的认为自己与这场战争没有任何关系吗？徐福的动机也显得很真实。他从一开始就显得既坦率又无耻，一心只想快速获利以偿还债务。正如他的中国合作伙伴所说，从战争中获利真是幸运之举。这只是机会主义商业行为的典型例子，这种行为驱动着许多中国企业在海外的发展。这听起来很卑劣。但对那些接受这种商业行为的国家来说，这种商业行为往往受到欢迎——这与西方资金附带条件的印象形成了鲜明对比。华为的创始人任正非曾将“在商业活动中，只谈论商业问题”作为自己的座右铭。不关心政治，部分原因就是中国能够在中东乃至其他地区跨越对立的界限。想想伊朗与海湾君主国、阿尔及利亚与摩洛哥、埃及与埃塞俄比亚之间的冲突——大多数国家在这些争端中都会选择一方立场。但中国则不会。在许多国家，那些与政界打交道的人，都欣然接受这样一种观念——尽管这种观念非常虚幻——即政治应该让位于商业利益。",
+      "龙餐厅外交的另一个特点是其虚伪性。在影片的后期，徐被赋予了人道主义的目标，努力拯救孤儿。然而，他其实并不情愿成为救世主。有朋友曾对他说：“你不应该介入这件事。这些孩子并不是你的孩子。”最终，他接受了这个建议，回到了中国，离开了这一切。用徐的话来说，这部电影的反战主题就是“吃得健康，让孩子健康成长”。这一点确实没有争议。但这也反映了中国对海外合作伙伴的支持是有限的。中国非常警惕卷入军事冲突。伊朗和委内瑞拉今年就明白了这一点。“这涉及到如何管理预期，”中国-阿拉伯关系专家卡里姆·阿尔瓦迪说。“中国并不愿意成为安全保证。”",
+      "厨师的特制菜",
+      "对于那些对中国转向“狼族外交”政策感到不安的西方人来说，龙形餐厅外交的兴起似乎是一种巨大的进步。这种外交方式虽然遍布各地，但可能看起来有些无力，甚至有些天真。但实际上，它却是一种强大的挑战。尽管这种外交方式存在许多矛盾之处，但它比其他方式更能吸引其他国家——比如通过关税手段，或者更糟糕的是，用炸弹来迫使它们屈服。而当投资资金真正到来时，它比道德说教更有说服力。",
+      "然而，中国有可能被自己的政策所误导。这部电影的一个真实灵感来自刘蕾——她在2003年辞掉技术工作，前往巴格达开了一家餐厅。在她的回忆录《在死亡之足的注视下赚钱》中，书中提到的真正的人道主义者并不是刘蕾，而是那位年轻的日本反战活动家。她曾在刘蕾的餐厅当服务员，每天下午都会收集剩余的饭菜带去孤儿院。这样的情节显然难以被中国的审查制度所接受。在试图与所有人成为朋友的过程中，中国却有一个明显的例外：日本。X指责日本重新恢复了军国主义倾向。他无法接受，日本可能同样渴望和平，就像中国所宣称的那样。在“龙餐厅外交”中，中国决定要呈现哪些真相。"
+    ],
+    "vocabulary": [
+      {
+        "form": "diplomacy",
+        "ipa": "/dɪˈpləʊməsi/",
+        "pos": "n.",
+        "meaning": "外交，外交手腕，外交活动",
+        "definition": "the activity of managing relations between different countries; the skill in doing this",
+        "zh": "外交，外交手腕，外交活动"
+      },
+      {
+        "form": "alternative",
+        "ipa": "/ɔːlˈtɜːnətɪv/",
+        "pos": "n.",
+        "meaning": "替代方案，可供选择的事物，另一种选择",
+        "definition": "a thing that you can choose to do or have out of two or more possibilities",
+        "zh": "替代方案，可供选择的事物，另一种选择"
+      },
+      {
+        "form": "disguised",
+        "ipa": "/dɪsˈɡaɪz/",
+        "pos": "v.",
+        "meaning": "掩饰，伪装，隐藏",
+        "definition": "to hide sth. or change it, so that it cannot be recognized",
+        "zh": "掩饰，伪装，隐藏"
+      },
+      {
+        "form": "outlandish",
+        "ipa": "/aʊtˈlændɪʃ/",
+        "pos": "adj.",
+        "meaning": "古怪的，离奇的，异乎寻常的",
+        "definition": "strange or extremely unusual",
+        "zh": "古怪的，离奇的，异乎寻常的"
+      },
+      {
+        "form": "cartoonish",
+        "ipa": "/kɑːˈtuːnɪʃ/",
+        "pos": "adj.",
+        "meaning": "滑稽的，漫画式的",
+        "definition": "very silly or exaggerated, often in a way that is not appropriate",
+        "zh": "滑稽的，漫画式的"
+      },
+      {
+        "form": "depicts",
+        "ipa": "/dɪˈpɪkt/",
+        "pos": "v.",
+        "meaning": "描绘，描写，刻画",
+        "definition": "to describe sth. in words, or give an impression of sth. in words or with a picture",
+        "zh": "描绘，描写，刻画"
+      },
+      {
+        "form": "vantage",
+        "ipa": "/ˈvɑːntɪdʒ/, /ˈvæntɪdʒ/",
+        "pos": "n.",
+        "meaning": "有利位置，观察位置，观察角度",
+        "definition": "a position from which you watch sth.; a situation from which you consider sth.",
+        "zh": "有利位置，观察位置，观察角度"
+      },
+      {
+        "form": "green-tinged",
+        "ipa": "/tɪndʒ/",
+        "pos": "v.",
+        "meaning": "略微染上，带有淡淡的色彩，使略带……色",
+        "definition": "to add a small amount of colour to sth.",
+        "zh": "略微染上，带有淡淡的色彩，使略带……色"
+      },
+      {
+        "form": "beamed",
+        "ipa": "/biːm/",
+        "pos": "v.",
+        "meaning": "传送，播送，发送",
+        "definition": "to send radio or television signals over long distances using electronic equipment",
+        "zh": "传送，播送，发送"
+      },
+      {
+        "form": "shriek",
+        "ipa": "/ʃriːk/",
+        "pos": "n.",
+        "meaning": "尖叫声，尖锐的叫声，刺耳声",
+        "definition": "a loud high shout, for example one that you make when you are excited, frightened or in pain",
+        "zh": "尖叫声，尖锐的叫声，刺耳声"
+      },
+      {
+        "form": "slamming",
+        "ipa": "/slæm/",
+        "pos": "v.",
+        "meaning": "猛撞，猛砸，重重撞击",
+        "definition": "to hit or crash into sth. with a lot of force",
+        "zh": "猛撞，猛砸，重重撞击"
+      },
+      {
+        "form": "slumbering",
+        "ipa": "/ˈslʌmbə(r)/",
+        "pos": "v.",
+        "meaning": "睡觉，沉睡，安睡",
+        "definition": "(literary) to sleep",
+        "zh": "睡觉，沉睡，安睡"
+      },
+      {
+        "form": "absurd",
+        "ipa": "/əbˈsɜːd/",
+        "pos": "adj.",
+        "meaning": "荒谬的，荒唐的，不合逻辑的",
+        "definition": "extremely silly; not logical and sensible",
+        "zh": "荒谬的，荒唐的，不合逻辑的"
+      },
+      {
+        "form": "shorthand",
+        "ipa": "/ˈʃɔːthænd/",
+        "pos": "n.",
+        "meaning": "简称，简略说法，代称",
+        "definition": "a shorter way of saying or referring to sth., which may not be as accurate as the more complicated way of saying it",
+        "zh": "简称，简略说法，代称"
+      },
+      {
+        "form": "aggressive",
+        "ipa": "/əˈɡresɪv/",
+        "pos": "adj.",
+        "meaning": "咄咄逼人的，强硬的，攻击性的",
+        "definition": "angry, and behaving in a threatening way; ready to attack",
+        "zh": "咄咄逼人的，强硬的，攻击性的"
+      },
+      {
+        "form": "stance",
+        "ipa": "/stæns/",
+        "pos": "n.",
+        "meaning": "立场，态度，观点",
+        "definition": "the opinions that sb. has about sth. and expresses publicly",
+        "zh": "立场，态度，观点"
+      },
+      {
+        "form": "approximation",
+        "ipa": "/əˌprɒksɪˈmeɪʃn/",
+        "pos": "n.",
+        "meaning": "近似，近似值，大致相当的事物",
+        "definition": "something that is similar to another thing but is not exactly the same",
+        "zh": "近似，近似值，大致相当的事物"
+      },
+      {
+        "form": "mercantilism",
+        "ipa": "/ˈmɜːkəntɪlɪzəm/, /mɜːˈkæntɪlɪzəm/",
+        "pos": "n.",
+        "meaning": "重商主义，重商政策",
+        "definition": "the economic theory that trade increases wealth",
+        "zh": "重商主义，重商政策"
+      },
+      {
+        "form": "overweening",
+        "ipa": "/ˌəʊvəˈwiːnɪŋ/",
+        "pos": "adj.",
+        "meaning": "自负的，傲慢的，过度自信的",
+        "definition": "(formal) showing that you are too confident or proud",
+        "zh": "自负的，傲慢的，过度自信的"
+      },
+      {
+        "form": "lucrative",
+        "ipa": "/ˈluːkrətɪv/",
+        "pos": "adj.",
+        "meaning": "赚钱的，利润丰厚的，获利颇丰的",
+        "definition": "producing a large amount of money; making a large profit",
+        "zh": "赚钱的，利润丰厚的，获利颇丰的"
+      },
+      {
+        "form": "rakes it in",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "赚大钱，财源滚滚，大把赚钱",
+        "definition": "(informal) to earn a lot of money, especially when it is done easily",
+        "zh": "赚大钱，财源滚滚，大把赚钱"
+      },
+      {
+        "form": "strikes",
+        "ipa": "/straɪk/",
+        "pos": "v.",
+        "meaning": "袭击，攻击，突然下手",
+        "definition": "to attack sb. or sth., especially suddenly",
+        "zh": "袭击，攻击，突然下手"
+      },
+      {
+        "form": "implicated",
+        "ipa": "/ˈɪmplɪkeɪt/",
+        "pos": "v.",
+        "meaning": "牵连，牵涉，使卷入",
+        "definition": "to show or suggest that sb. is involved in sth. bad or criminal",
+        "zh": "牵连，牵涉，使卷入"
+      },
+      {
+        "form": "heralded",
+        "ipa": "/ˈherəld/",
+        "pos": "v.",
+        "meaning": "称颂，誉为，公开宣称……重要",
+        "definition": "to say in public that sb./sth. is good or important",
+        "zh": "称颂，誉为，公开宣称……重要"
+      },
+      {
+        "form": "parable",
+        "ipa": "/ˈpærəbl/",
+        "pos": "n.",
+        "meaning": "寓言，寓言故事，具有寓意的故事",
+        "definition": "a short story that teaches a moral or spiritual lesson",
+        "zh": "寓言，寓言故事，具有寓意的故事"
+      },
+      {
+        "form": "conceit",
+        "ipa": "/kənˈsiːt/",
+        "pos": "n.",
+        "meaning": "构思，巧思，创作手法",
+        "definition": "an artistic effect or device, especially one that is very clever or tries to be very clever but does not succeed",
+        "zh": "构思，巧思，创作手法"
+      },
+      {
+        "form": "paragon",
+        "ipa": "/ˈpærəɡən/",
+        "pos": "n.",
+        "meaning": "典范，楷模，完美榜样",
+        "definition": "a person who is perfect or who is a perfect example of a particular good quality",
+        "zh": "典范，楷模，完美榜样"
+      },
+      {
+        "form": "nimble",
+        "ipa": "/ˈnɪmbl/",
+        "pos": "adj.",
+        "meaning": "敏捷的，灵活的，应变迅速的",
+        "definition": "able to think, react and adapt quickly",
+        "zh": "敏捷的，灵活的，应变迅速的"
+      },
+      {
+        "form": "perpetrator",
+        "ipa": "/ˈpɜːpətreɪtə(r)/, /ˈpɜːpɪtreɪtə(r)/",
+        "pos": "n.",
+        "meaning": "作恶者，犯罪者，施害者",
+        "definition": "sb. who does sth. morally wrong or illegal",
+        "zh": "作恶者，犯罪者，施害者"
+      },
+      {
+        "form": "peeved",
+        "ipa": "/piːvd/",
+        "pos": "adj.",
+        "meaning": "恼火的，不高兴的，生气的",
+        "definition": "(informal) annoyed",
+        "zh": "恼火的，不高兴的，生气的"
+      },
+      {
+        "form": "make a quick buck",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "迅速赚钱，捞快钱，赚轻松钱",
+        "definition": "(informal) to earn money quickly and easily",
+        "zh": "迅速赚钱，捞快钱，赚轻松钱"
+      },
+      {
+        "form": "grubby",
+        "ipa": "/ˈɡrʌbi/",
+        "pos": "adj.",
+        "meaning": "不光彩的，肮脏的，卑劣的",
+        "definition": "unpleasant because it involves activities that are not honest or moral",
+        "zh": "不光彩的，肮脏的，卑劣的"
+      },
+      {
+        "form": "maxim",
+        "ipa": "/ˈmæksɪm/",
+        "pos": "n.",
+        "meaning": "格言，箴言，准则",
+        "definition": "a well-known phrase that expresses sth. that is usually true or that people think is a rule for sensible behaviour",
+        "zh": "格言，箴言，准则"
+      },
+      {
+        "form": "Tuning out",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "不理会，不关注，充耳不闻",
+        "definition": "to stop listening to or paying attention to sth.",
+        "zh": "不理会，不关注，充耳不闻"
+      },
+      {
+        "form": "straddle",
+        "ipa": "/ˈstrædl/",
+        "pos": "v.",
+        "meaning": "横跨，兼跨，同时涉及",
+        "definition": "to exist within, or include, different periods of time, activities or groups of people",
+        "zh": "横跨，兼跨，同时涉及"
+      },
+      {
+        "form": "antagonistic",
+        "ipa": "/ænˌtæɡəˈnɪstɪk/",
+        "pos": "adj.",
+        "meaning": "对立的，敌对的，对抗性的",
+        "definition": "(formal) showing or feeling opposition",
+        "zh": "对立的，敌对的，对抗性的"
+      },
+      {
+        "form": "squabbles",
+        "ipa": "/ˈskwɒbl/",
+        "pos": "n.",
+        "meaning": "争吵，口角，小争执",
+        "definition": "a noisy argument about sth. that is not very important",
+        "zh": "争吵，口角，小争执"
+      },
+      {
+        "form": "illusory",
+        "ipa": "/ɪˈluːsəri/",
+        "pos": "adj.",
+        "meaning": "虚幻的，虚假的，貌似真实的",
+        "definition": "(formal) false but seeming to be real or true",
+        "zh": "虚幻的，虚假的，貌似真实的"
+      },
+      {
+        "form": "imbued",
+        "ipa": "/ɪmˈbjuː/",
+        "pos": "v.",
+        "meaning": "使充满，灌输，使富有",
+        "definition": "(formal) to fill sb./sth. with strong feelings, opinions or values",
+        "zh": "使充满，灌输，使富有"
+      },
+      {
+        "form": "humanitarian",
+        "ipa": "/hjuːˌmænɪˈteəriən/",
+        "pos": "adj.",
+        "meaning": "人道主义的，人道救援的，改善民生的",
+        "definition": "connected with helping people who are suffering and improving the conditions that they are living in",
+        "zh": "人道主义的，人道救援的，改善民生的"
+      },
+      {
+        "form": "counsel",
+        "ipa": "/ˈkaʊnsl/",
+        "pos": "n.",
+        "meaning": "劝告，忠告，建议",
+        "definition": "(formal) advice, especially given by older people or experts; a piece of advice",
+        "zh": "劝告，忠告，建议"
+      },
+      {
+        "form": "entanglements",
+        "ipa": "/ɪnˈtæŋɡlmənt/",
+        "pos": "n.",
+        "meaning": "纠葛，牵连，复杂关系",
+        "definition": "a difficult or complicated relationship with another person or country",
+        "zh": "纠葛，牵连，复杂关系"
+      },
+      {
+        "form": "Sprawling",
+        "ipa": "/ˈsprɔːlɪŋ/",
+        "pos": "adj.",
+        "meaning": "蔓延的，杂乱扩展的，范围广大的",
+        "definition": "spreading over a wide area in an untidy or unattractive way",
+        "zh": "蔓延的，杂乱扩展的，范围广大的"
+      },
+      {
+        "form": "toothless",
+        "ipa": "/ˈtuːθləs/",
+        "pos": "adj.",
+        "meaning": "无实权的，无力的，软弱无效的",
+        "definition": "having no power or authority",
+        "zh": "无实权的，无力的，软弱无效的"
+      },
+      {
+        "form": "formidable",
+        "ipa": "/fəˈmɪdəbl/, /ˈfɔːmɪdəbl/",
+        "pos": "adj.",
+        "meaning": "强大的，令人敬畏的，难以应付的",
+        "definition": "impressive or powerful, or seeming very difficult, so that you feel fear and/or respect",
+        "zh": "强大的，令人敬畏的，难以应付的"
+      },
+      {
+        "form": "tariff",
+        "ipa": "/ˈtærɪf/",
+        "pos": "n.",
+        "meaning": "关税，进口税，出口税",
+        "definition": "a tax that is paid on goods coming into or going out of a country",
+        "zh": "关税，进口税，出口税"
+      },
+      {
+        "form": "seduced",
+        "ipa": "/sɪˈdjuːs/",
+        "pos": "v.",
+        "meaning": "诱使，引诱，诱惑",
+        "definition": "to persuade sb. to do sth. that they would not usually agree to do by making it seem very attractive",
+        "zh": "诱使，引诱，诱惑"
+      },
+      {
+        "form": "glaring",
+        "ipa": "/ˈɡleərɪŋ/",
+        "pos": "adj.",
+        "meaning": "显而易见的，极其明显的，刺眼突出的",
+        "definition": "very bad and very noticeable",
+        "zh": "显而易见的，极其明显的，刺眼突出的"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a thing that you can choose to do or have out of two or more possibilities",
+      "showing that you are too confident or proud"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined words is closest in meaning to the one in the sentence “He rakes it in, until a suicide-bomber strikes.”?",
+    "exerciseChoiceMarked": [
+      "strikes"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The snake suddenly struck at his hand.",
+        "marked": [
+          "struck"
+        ],
+        "zh": "那条蛇突然朝他的手扑了过来。"
+      },
+      {
+        "label": "B",
+        "text": "She struck a match and lit the candle.",
+        "marked": [
+          "struck"
+        ],
+        "zh": "她点燃了火柴，点起了蜡烛。"
+      },
+      {
+        "label": "C",
+        "text": "The clock struck twelve at midnight.",
+        "marked": [
+          "struck"
+        ],
+        "zh": "午夜时分，钟声敲响了十二点。"
+      },
+      {
+        "label": "D",
+        "text": "It suddenly struck me that I had left my keys at home.",
+        "marked": [
+          "struck"
+        ],
+        "zh": "突然我意识到我把钥匙忘在家里了。"
+      }
+    ],
+    "exerciseTranslationPrompt": "原因之一是，它从一种西方观众并不熟悉的视角呈现了 2003 年美国入侵伊拉克的场景：不再是西方家庭电视屏幕上泛着绿光的战争画面，而是炸弹呼啸着砸向一座沉睡的城市，令人惊恐，也令人震撼。",
+    "answerVocabularyList": [
+      "alternative",
+      "overweening"
+    ],
+    "answerChoice": "A",
+    "answerTranslation": "For one thing, it depicts the American invasion of 2003 from an unfamiliar vantage: not the green-tinged light show beamed into Western homes, but the shriek and crash of bombs slamming into a slumbering city, shocking and awful."
+  },
+  {
     "key": "sep0928",
     "date": "2026.09.28",
     "period": "2026年09月",
@@ -21506,5 +30072,529 @@ export const aprilSeptemberMoreArticles: readonly JanuaryMoreArticle[] = [
     "exerciseChoiceMarked": [
       "state"
     ]
-  }
+  },
+  {
+    "key": "sep0929",
+    "date": "2026.09.29",
+    "period": "2026年9月",
+    "folder": "0929 一个非洲共和国的王位之争",
+    "titleZh": "一个非洲共和国的王位之争",
+    "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+    "topicEn": "Politics",
+    "topicZh": "政治",
+    "byline": "By Wycliffe Muia and Alfred Lasteck, BBC, Published September 10, 2026",
+    "paragraphs": [
+      "A bitter succession dispute has erupted in one of Uganda’s traditional kingdoms, days before the burial of its late king, who until his death had been the world’s youngest reigning monarch.",
+      "King Oyo Nyimba Kabamba Iguru Rukidi IV, who ruled the Tooro Kingdom for more than three decades, was undergoing cancer treatment in the US when he died last month aged 34.",
+      "Royal clan elders have named popular TV news presenter Prince Edward Rukidi Kijanangoma, 56, as the next monarch, but this has been rejected by Oyo’s close family.",
+      "His sister, Princess Ruth Komuntale, said the late king had left a will written in 2022 naming his young son, whose identity has never been disclosed, as his successor.",
+      "“My brother did leave behind an heir to the throne, and that was very clearly stated,” she said, accusing those behind the announcement on Wednesday night of creating “confusion and turmoil” while the family was still grieving.",
+      "Meanwhile the late king’s mother, Queen Best Kemigisa, has said royal guards have been withdrawn from the palace and soldiers deployed, restricting the royal family’s movement and their ability to receive visitors, describing the situation as “house arrest“.",
+      "She appealed to the army’s leadership and President Yoweri Museveni to allow the family to mourn and bury Oyo in peace on Saturday.",
+      "“I appeal to those fighting over the throne: please, there will be time for all of that,” she said. “Let us grieve and bury my son King Oyo.”",
+      "Thousands of mourners are expected to attend the burial at the royal tombs near the palace in Fort Portal in western Uganda. His body was returned to Uganda from the US on Friday, and preparations for the funeral are under way.",
+      "The existence of Oyo’s son was first publicly revealed in the days after the king’s death by President Museveni, who said he had been told about the young boy by the queen mother.",
+      "No other details have officially been disclosed, and he had not previously been presented as Oyo’s heir.",
+      "The disagreement has exposed the complicated way in which succession works in Tooro.",
+      "Unlike Britain’s monarchy, where the crown passes according to an established line of succession, Tooro’s monarch is chosen from the Babiito, the royal dynastic clan.",
+      "At a press conference in the kingdom’s capital of Fort Portal, the royal clan’s succession committee announced Kijanangoma, Oyo’s cousin and a news presenter at the state-run broadcaster UBC, as monarch.",
+      "The clan elders said they had the customary authority to choose a suitable prince to become “the Omukama”—the local title for the king of Tooro.",
+      "The succession panel said it had carried out “due diligence, consultation and adequate consideration” before selecting Kijanangoma, with 19 members signing the resolution.",
+      "Kijanangoma is the son of Prince Christopher Paul Kijanangoma and a grandson of former Tooro king George David Rukidi III. Another contender had been Prince George Desmond Kamurasi —a footballer for one of the best-known amateur clubs in the UK. According to the succession committee, the South East Dons captain and goalkeeper declined the offer of the throne, citing other responsibilities.",
+      "It is not yet clear when the enthronement will take place, but the committee said it would be conducted in accordance with the traditions and customs of the Tooro kingdom."
+    ],
+    "paragraphTranslations": [
+      "在乌干达的一个传统王国中，一场激烈的王位继承纠纷爆发了。这场纠纷发生在该王国的已故国王的葬礼之前。这位国王在去世前一直是世界上在位年龄最小的君主。",
+      "奥约·尼姆巴·卡班巴·伊古鲁·鲁基迪四世，这位曾统治托罗王国超过三十年的君主，在因癌症接受治疗期间于上个月去世，享年34岁。",
+      "皇家家族的长老们将著名的电视新闻主持人、56岁的爱德华·鲁基迪·基贾南戈马指定为下一任君主，但这一提议遭到了奥约家族亲族的反对。",
+      "他的妹妹，鲁斯·科穆塔莱公主表示，已故国王在2022年留下了一份遗嘱，指定他的小儿子为继承人。不过，这位小儿子的身份从未被公开过。",
+      "“我的兄弟确实留下了王位继承人，这一点已经明确说明过了，”她说，指责那些在周三晚上宣布这一消息的人，在家族还在悲痛之中时制造了“混乱和动荡”。",
+      "与此同时，已故国王的母亲贝斯特·凯米吉萨女王表示，皇家卫队已从宫殿撤出，士兵们被部署在宫殿周围，这限制了王室的行动自由以及他们接待访客的能力，她将这种情况描述为“软禁”。",
+      "她向军队领导层和约韦里·穆塞维尼总统呼吁，允许该家庭在周六平静地哀悼并安葬奥约。",
+      "“我呼吁那些争夺王位的人：请，之后还有时间处理那些事情，”她说。“让我们为我的儿子奥约国王哀悼吧。”",
+      "数千名哀悼者将参加在乌干达西部波塔尔堡宫殿附近的皇家陵墓举行的葬礼。他的遗体于周五从美国返回乌干达，葬礼的准备工作正在顺利进行中。",
+      "奥约之子的存在，最初是在国王去世后的几天里，由穆塞维尼总统公开宣布的。他说，太后曾向他透露过这个年轻人的存在。",
+      "没有其他细节被正式公开，而且他之前并未被宣布为奥约的继承人。",
+      "这一分歧揭示了托罗在继承制度方面的复杂运作方式。",
+      "与英国的君主制不同，英国的王位是通过既定的继承顺序来传递的，而托罗的君主则是从巴比伊托家族，即王室血统中选拔出来的。",
+      "在王国首都波塔尔堡举行的新闻发布会上，王室继承委员会宣布，奥约的表兄、在国有广播机构UBC工作的新闻节目主持人基贾南戈马将成为新的君主。",
+      "族长们表示，他们拥有传统上的权力，可以选出一位合适的王子来担任“Omukama”——这是托罗地区对国王的称呼。",
+      "继任委员会表示，在选择基贾南戈马之前，已经进行了“充分的调查、咨询和考虑”，有19名成员签署了这项决议。",
+      "基贾南戈马是克里斯托弗·保罗·基贾南戈马的儿子，也是前托罗国王乔治·大卫·鲁基迪三世的孙子。另一位候选人曾是乔治·德斯蒙德·卡穆拉西，他是一名足球运动员，效力于英国一家著名的业余足球俱乐部。根据继承委员会的说法，这位来自东南唐斯队的队长和守门员以有其他责任为由，拒绝了这一王位继承的提议。",
+      "目前还不清楚加冕仪式的具体时间，但委员会表示，仪式将按照托罗王国的传统和习俗进行。"
+    ],
+    "vocabulary": [
+      {
+        "form": "rift",
+        "ipa": "/rɪft/",
+        "pos": "n.",
+        "meaning": "（人与人、机构之间）关系的严重破裂，裂痕，分歧",
+        "definition": "a serious break in the relationship between people or organizations",
+        "zh": "（人与人、机构之间）关系的严重破裂，裂痕，分歧"
+      },
+      {
+        "form": "presenter",
+        "ipa": "/prɪˈzentə(r)/",
+        "pos": "n.",
+        "meaning": "（电视或广播节目的）主持人",
+        "definition": "a person who introduces the different sections of a radio or television programme",
+        "zh": "（电视或广播节目的）主持人"
+      },
+      {
+        "form": "succeed",
+        "ipa": "/səkˈsiːd/",
+        "pos": "v.",
+        "meaning": "接替，继任，紧随……之后",
+        "definition": "to come next after sb./sth. and take their/its place or position",
+        "zh": "接替，继任，紧随……之后"
+      },
+      {
+        "form": "bitter",
+        "ipa": "/ˈbɪtə(r)/",
+        "pos": "adj.",
+        "meaning": "（争论、分歧等）激烈的，剑拔弩张的，充满愤怒与敌意的",
+        "definition": "(of arguments, disagreements, etc.) very serious and unpleasant, with a lot of anger and hate involved",
+        "zh": "（争论、分歧等）激烈的，剑拔弩张的，充满愤怒与敌意的"
+      },
+      {
+        "form": "reigning",
+        "ipa": "/reɪn/",
+        "pos": "v.",
+        "meaning": "统治，当政",
+        "definition": "to rule as king, queen, emperor, etc.",
+        "zh": "统治，当政"
+      },
+      {
+        "form": "monarch",
+        "ipa": "/ˈmɒnək/",
+        "pos": "n.",
+        "meaning": "君主，国王，女王",
+        "definition": "a person who rules a country, for example a king or a queen",
+        "zh": "君主，国王，女王"
+      },
+      {
+        "form": "undergoing",
+        "ipa": "/ˌʌndəˈɡəʊ/",
+        "pos": "v.",
+        "meaning": "经历，经受（尤指某种变化或者令人不快的事）",
+        "definition": "to experience sth., especially a change or sth. unpleasant",
+        "zh": "经历，经受（尤指某种变化或者令人不快的事）"
+      },
+      {
+        "form": "clan",
+        "ipa": "/klæn/",
+        "pos": "n.",
+        "meaning": "宗族，氏族，家族",
+        "definition": "a group of families who are related to each other, especially in Scotland",
+        "zh": "宗族，氏族，家族"
+      },
+      {
+        "form": "disclosed",
+        "ipa": "/dɪsˈkləʊz/",
+        "pos": "v.",
+        "meaning": "透露，披露，公开",
+        "definition": "(formal) to give sb. information about sth., especially sth. that was previously secret",
+        "zh": "透露，披露，公开"
+      },
+      {
+        "form": "grieving",
+        "ipa": "/ɡriːv/",
+        "pos": "v.",
+        "meaning": "悲痛，哀伤，（尤指因某人离世而）哀悼",
+        "definition": "to feel very sad, especially because sb. has died",
+        "zh": "悲痛，哀伤，（尤指因某人离世而）哀悼"
+      },
+      {
+        "form": "house arrest",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "软禁",
+        "definition": "the state of being a prisoner in your own house rather than in a prison",
+        "zh": "软禁"
+      },
+      {
+        "form": "customary",
+        "ipa": "/ˈkʌstəməri/",
+        "pos": "adj.",
+        "meaning": "习俗的，惯例的，习惯上的",
+        "definition": "if sth. is customary, it is what people usually do in a particular place or situation",
+        "zh": "习俗的，惯例的，习惯上的"
+      },
+      {
+        "form": "panel",
+        "ipa": "/ˈpænl/",
+        "pos": "n.",
+        "meaning": "专家小组，专题讨论小组",
+        "definition": "a group of specialists who give their advice or opinion about sth.; a group of people who discuss topics of interest on television or radio",
+        "zh": "专家小组，专题讨论小组"
+      },
+      {
+        "form": "due diligence",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "尽职调查，审慎核查",
+        "definition": "careful checking and investigation that is required before making an important decision",
+        "zh": "尽职调查，审慎核查"
+      },
+      {
+        "form": "resolution",
+        "ipa": "/ˌrezəˈluːʃn/",
+        "pos": "n.",
+        "meaning": "决议，正式决定",
+        "definition": "a formal statement of an opinion agreed on by a committee or a council, especially by means of a vote",
+        "zh": "决议，正式决定"
+      },
+      {
+        "form": "contender",
+        "ipa": "/kənˈtendə(r)/",
+        "pos": "n.",
+        "meaning": "竞争者，角逐者，有望获胜的选手（或队伍）",
+        "definition": "a person or team with a chance of winning a competition",
+        "zh": "竞争者，角逐者，有望获胜的选手（或队伍）"
+      },
+      {
+        "form": "enthronement",
+        "ipa": "/ɪnˈθrəʊnmənt/",
+        "pos": "n.",
+        "meaning": "登基典礼",
+        "definition": "a ceremony to mark the beginning of the rule of a new king, queen or an important member of the Church, during which they sit on a throne",
+        "zh": "登基典礼"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a serious break in the relationship between people or organizations",
+      "to experience sth., especially a change or sth. unpleasant"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “A bitter succession dispute has erupted in one of Uganda’s traditional kingdoms, days before the burial of its late king, who until his death had been the world’s youngest reigning monarch.”?",
+    "exerciseChoiceMarked": [
+      "bitter"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "The company sounds pretty bitter about the experience.",
+        "marked": [
+          "bitter"
+        ],
+        "zh": "公司对这次经历的反应似乎相当不满。"
+      },
+      {
+        "label": "B",
+        "text": "A bitter wind was blowing as we walked along the street.",
+        "marked": [
+          "bitter"
+        ],
+        "zh": "我们沿着街道行走时，一阵刺骨的寒风正在吹拂。"
+      },
+      {
+        "label": "C",
+        "text": "Losing the match was a bitter disappointment for the team.",
+        "marked": [
+          "bitter"
+        ],
+        "zh": "输掉比赛让球队感到非常失望。"
+      },
+      {
+        "label": "D",
+        "text": "They are locked in a bitter custody battle over their three children.",
+        "marked": [
+          "bitter"
+        ],
+        "zh": "他们正为三个孩子的抚养权展开激烈争夺。"
+      }
+    ],
+    "exerciseTranslationPrompt": "目前尚不清楚登基典礼何时举行，但委员会表示，登基典礼将严格遵循托罗王国的传统与习俗举办。",
+    "answerVocabularyList": [
+      "rift",
+      "undergo"
+    ],
+    "answerChoice": "D",
+    "answerTranslation": "It is not yet clear when the enthronement will take place, but the committee said it would be conducted in accordance with the traditions and customs of the Tooro kingdom."
+  },
+  {
+    "key": "sep0930",
+    "date": "2026.09.30",
+    "period": "2026年9月",
+    "folder": "0930古罗马的日常市集与采购",
+    "titleZh": "古罗马的日常市集与采购",
+    "title": "Grocery shopping in ancient Rome Food on the table",
+    "topicEn": "Culture",
+    "topicZh": "文化",
+    "byline": "By Philip Matyszak, Ancient History 56, Published 2025",
+    "paragraphs": [
+      "While we hear much of sumptuous Roman diner parties, these were far from the norm, apart from with the very top echelon of Roman society. The average Roman dined with some ordinary fare on the plate. Yet whatever Romans had for dinner, it could be acquired at the many markets and shops of Rome. In densely populated urban areas, many Romans habitually ate their meals in snack bar taverns called popinae, where ready-cooked meals were offered at low prices. Those planning to eat at home might call on thermopolia, establishments with stone counters facing the street with large jars filled with hot stew, cooked lentils, olives, and other essentials which could be quickly assembled into a meal at home. However, in areas where there was less of a fire hazard from close-packed tenement buildings, roman households did their own cooking. In a world without refrigeration, this meant regular trips to buy groceries.",
+      "Everyday essentials",
+      "Those looking for basic items would first head for that staple of civilization, the baker, and obtain a loaf of bread and perhaps some rolls. Roman loaves were not designed to be cut into slices but were generally circular and baked with the deep grooves in the top allowing the loaf to be broken into wedges. These were used to dip into stews or eaten with olives or baked vegetables. As for fresh vegetables, people would head for street markets, which were known as a nundinae because they were held every nine days. Farmers living close to the city might load a cart and sell their produce at these markets. Farmers living further from the city often sold their produce to specialist wholesalers who purchased particular items—for instance, beans, apples or cabbages—and then sold them to nundinum stallholders. Such farmers also tended to produce items with a longer shelf-life. Dried beans, smoked hams, and a large variety of cheeses were all produced and sold in large quantities.",
+      "While nundinae were enough for many smaller towns, large cities also had dedicated market halls called macella. These indoor grocery malls offered a superior shopping experience— probably with the prices to match—and were accordingly situated in the areas of Rome where the denizens had deeper pockets. Poorer types had to make their way to the Forum Holitorium, which translates to Forum of the Vegetable Sellers. Roman markets also sold goods from beyond the empire. Cherries were supposedly introduced to Rome by Lucius Licinius Lucullus in the first century BC, while lemons became available in the imperial period. Rice, which was considered a luxury food especially suited to those with delicate stomachs, was shipped from india. Wheat, although not a rare product from far away, was also imported to Rome in huge quantities. Italy did have substantial wheat fields in the Po valley, but most of its grain came from Sicily, north Africa, and Egypt. The olives often eaten with that bread were also imported, again in large quantities, from estates in North Africa. Another North African imported was figs, both dried and fresh. Cato the Elder famously demonstrated to the Roman senate the closeness of their rival Carthage by showing fresh figs which he claimed had been on the branches of North African trees less than a week before. Another common grocery product which made its way to Rome from overseas was the fish sauce with which the Romans liked to smother their food. Many Roman recipes required liquamen or garum, and while it was available in small vials for shoppers, the product originally arrived in amphorae from Spain.",
+      "Special occasions",
+      "Meat only made an appearance on the average Roman table on special occasions. As Horace has a household remark, “I never over-indulge on week-days. Vegetables are enough, or if a friend or neighbour is visiting, a leg of ham, a chicken or a kid“. While farm animals provided some of the meat Romans ate at dinner, their tastes were eclectic. A gourmet shopper might look for giant African snails, dormice, sea urchins or the lampreys found in abundance where roman sewers entered the Tiber. Even the exotic animals killed in the arena during the Roman games were thriftily recycled as steaks. An abundance of game could be found close to Rome, and pheasants and hares could be found in markets, as well a variety of wild birds—thrushes were especially popular."
+    ],
+    "paragraphTranslations": [
+      "虽然我们常常听到关于罗马人享用豪华晚餐的报道，但实际上，除了罗马社会最上层的人之外，大多数罗马人的晚餐都是非常简单的。不过，无论罗马人吃的是什么食物，都可以在罗马的许多市场和商店买到。在人口密集的城市地区，许多罗马人习惯在名为“popinae”的小餐馆里用餐，那里提供价格低廉的即食菜肴。那些打算在家吃饭的人可以前往“thermopolia”这种餐馆，这些餐馆的石制柜台面向街道，里面放着装满热汤、煮熟的扁豆、橄榄等食物的大罐子，这些食材可以很快加工成一顿美味的饭菜。不过，在那些没有拥挤的公寓建筑所带来的火灾风险较低的地区，罗马家庭则自己做饭。在没有冷藏技术的时代，这意味着需要定期去商店购买食物。",
+      "日常必需品",
+      "那些想要购买基本食品的人，首先会去那些提供基本食品的商贩那里，购买一条面包，或许还有一些小面包。罗马时期的面包并不是为了切成小片而设计的，而是呈圆形，并且通过特殊的模具烘烤，使得面包可以切成小块。这些面包可以用来蘸汤吃，或者与橄榄或烤蔬菜一起食用。至于新鲜蔬菜，人们通常会去街市购买，这些街市被称为“nundinae”，因为它们每九天就会举办一次。居住在城市附近的农民可能会把他们的农产品装进马车，在街市出售。而居住在离城市较远的农民，则通常会将他们的农产品卖给专门的批发商，批发商会购买特定的商品，比如豆类、苹果或卷心菜，然后再将这些商品卖给街市的摊贩。这些农民通常也会生产保质期较长的商品。人们大量生产并销售了干豆、熏肉以及各种奶酪。",
+      "虽然对于许多较小的城镇来说，普通的集市就足够了，但大型城市也有专门的集市，称为“macella”。这些室内商业区提供了更好的购物体验——价格也可能相应更高——因此这些集市通常位于罗马那些购买力较强的地区。较贫穷的人则不得不去“蔬菜商集市”那里购物。罗马的集市还销售来自帝国以外的商品。据说，樱桃是在公元前1世纪由卢基乌斯·利基尼乌斯·卢卡卢斯引入罗马的，而柠檬则在帝国时期开始上市。大米是一种被认为适合肠胃脆弱的人享用的奢侈品，是从印度进口的。小麦虽然并非来自遥远地区的稀有商品，但也会大量进口到罗马。意大利的波河谷地区确实有大量的小麦田，但大部分粮食都来自西西里、北非和埃及。通常与面包一起食用的橄榄也是从北非的农场大量进口的。另一个从北非进口的农产品是无花果，包括干无花果和新鲜无花果。老加图曾向罗马元老院展示，迦太基这个竞争对手的地理位置非常接近北非，他展示了一些无花果，声称这些无花果是来自北非树木的，而且这些无花果的采摘时间还不到一周。另一种从海外传入罗马的常见商品是鱼露，罗马人喜欢用这种调料来调味食物。许多罗马食谱都需要使用鱼露，虽然这种调料以小瓶形式出售给消费者，但最初这种产品是通过安菲尔罐从西班牙运来的。",
+      "特殊场合",
+      "在罗马，肉类通常只在特殊场合才出现在人们的餐桌上。贺拉斯曾说过：“在平日里，我从不过量食用肉类。蔬菜就足够了，或者如果朋友或邻居来访的话，可以尝尝火腿、鸡肉或野味。”虽然罗马人食用的肉类中有一些来自农场动物，但他们的饮食口味相当多样化。那些喜欢美食的人可能会寻找那些在罗马的排水沟中发现的巨大非洲蜗牛、睡鼠、海刺猬或七鳃鳗等异国珍馐。甚至在罗马竞技场上被杀死的动物，也会被回收利用，制成肉排。在罗马附近，可以找到大量的野味，市场上有野鸡、野兔以及各种野生鸟类，其中鹪鹩尤其受欢迎。"
+    ],
+    "vocabulary": [
+      {
+        "form": "sumptuous",
+        "ipa": "/ˈsʌmptʃuəs/",
+        "pos": "adj.",
+        "meaning": "豪华的，奢华的，丰盛的",
+        "definition": "very expensive and looking very impressive",
+        "zh": "豪华的，奢华的，丰盛的"
+      },
+      {
+        "form": "echelon",
+        "ipa": "/ˈeʃəlɒn/",
+        "pos": "n.",
+        "meaning": "阶层，梯次",
+        "definition": "a particular level or rank within an organization, a company, society, or a military formation",
+        "zh": "阶层，梯次"
+      },
+      {
+        "form": "fare",
+        "ipa": "/feə(r)/",
+        "pos": "n.",
+        "meaning": "饭菜，食物，餐食",
+        "definition": "food that is offered as a meal",
+        "zh": "饭菜，食物，餐食"
+      },
+      {
+        "form": "habitually",
+        "ipa": "/həˈbɪtʃuəli/",
+        "pos": "adv.",
+        "meaning": "习惯性地，惯常地，经常地",
+        "definition": "in a way that is usual for or typical of sb. or sth.",
+        "zh": "习惯性地，惯常地，经常地"
+      },
+      {
+        "form": "hazard",
+        "ipa": "/ˈhæzəd/",
+        "pos": "n.",
+        "meaning": "隐患，危险，风险",
+        "definition": "sth. that can be dangerous or cause damage",
+        "zh": "隐患，危险，风险"
+      },
+      {
+        "form": "tenement",
+        "ipa": "/ˈtenəmənt/",
+        "pos": "n.",
+        "meaning": "廉价公寓楼，多户住宅，拥挤的出租住宅",
+        "definition": "a large building divided into flats, especially in a poor area of a city",
+        "zh": "廉价公寓楼，多户住宅，拥挤的出租住宅"
+      },
+      {
+        "form": "staple",
+        "ipa": "/ˈsteɪpl/",
+        "pos": "n.",
+        "meaning": "主要食物，基本食品，日常必需品",
+        "definition": "a basic type of food that is used a lot",
+        "zh": "主要食物，基本食品，日常必需品"
+      },
+      {
+        "form": "grooves",
+        "ipa": "/ɡruːv/",
+        "pos": "n.",
+        "meaning": "凹槽，沟槽，槽纹",
+        "definition": "a long narrow cut in the surface of sth. hard",
+        "zh": "凹槽，沟槽，槽纹"
+      },
+      {
+        "form": "wedges",
+        "ipa": "/wedʒ/",
+        "pos": "n.",
+        "meaning": "楔形物，楔形的一块",
+        "definition": "sth. that is like a wedge in shape",
+        "zh": "楔形物，楔形的一块"
+      },
+      {
+        "form": "shelf life",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "保质期，可储存期限",
+        "definition": "the length of time that food, etc. can be kept before it is too old to be sold",
+        "zh": "保质期，可储存期限"
+      },
+      {
+        "form": "denizens",
+        "ipa": "/ˈdenɪzn/",
+        "pos": "n.",
+        "meaning": "居民，常客，栖居者",
+        "definition": "a person, an animal or a plant that lives, grows or is often found in a particular place",
+        "zh": "居民，常客，栖居者"
+      },
+      {
+        "form": "delicate",
+        "ipa": "/ˈdelɪkət/",
+        "pos": "adj.",
+        "meaning": "易碎的；脆弱的；娇美的；淡薄的",
+        "definition": "easily broken or damaged",
+        "zh": "易碎的；脆弱的；娇美的；淡薄的"
+      },
+      {
+        "form": "substantial",
+        "ipa": "/səbˈstænʃl/",
+        "pos": "adj.",
+        "meaning": "大量的，可观的",
+        "definition": "large in amount, value or importance",
+        "zh": "大量的，可观的"
+      },
+      {
+        "form": "estates",
+        "ipa": "/ɪˈsteɪt/",
+        "pos": "n.",
+        "meaning": "大片地产",
+        "definition": "a large area of land, usually in the country, that is owned by one person or family",
+        "zh": "大片地产"
+      },
+      {
+        "form": "smother",
+        "ipa": "/ˈsmʌðə(r)/",
+        "pos": "v.",
+        "meaning": "闷死；捂住；淹没，闷盖",
+        "definition": "to kill someone by covering their face so that they cannot breathe; to stop a fire from burning by covering it to prevent air from reaching it; to make someone feel suffocated or restricted by too much love or attentionto cover sth. or sb. thickly or with too much of sth.",
+        "zh": "闷死；捂住；淹没，闷盖"
+      },
+      {
+        "form": "kid",
+        "ipa": "/kɪd/",
+        "pos": "n.",
+        "meaning": "小山羊，山羊羔",
+        "definition": "a young goat",
+        "zh": "小山羊，山羊羔"
+      },
+      {
+        "form": "eclectic",
+        "ipa": "/ɪˈklektɪk/",
+        "pos": "adj.",
+        "meaning": "不拘一格的，兼收并蓄的，多元的",
+        "definition": "not following one style or set of ideas but choosing from or using a wide variety",
+        "zh": "不拘一格的，兼收并蓄的，多元的"
+      },
+      {
+        "form": "gourmet",
+        "ipa": "/ˈɡʊəmeɪ/",
+        "pos": "n.",
+        "meaning": "美食家，美食鉴赏家",
+        "definition": "a person who knows a lot about good food and drink and who enjoys choosing, eating and drinking them",
+        "zh": "美食家，美食鉴赏家"
+      },
+      {
+        "form": "dormice",
+        "ipa": "/ˈdɔːmaʊs/",
+        "pos": "n.",
+        "meaning": "睡鼠",
+        "definition": "a small animal like a mouse, with a tail covered in fur",
+        "zh": "睡鼠"
+      },
+      {
+        "form": "sea urchins",
+        "ipa": "",
+        "pos": "phr.",
+        "meaning": "海胆",
+        "definition": "a small sea creature with a round shell that is covered with spikes",
+        "zh": "海胆"
+      },
+      {
+        "form": "lampreys",
+        "ipa": "/ˈlæmpri/",
+        "pos": "n.",
+        "meaning": "七鳃鳗",
+        "definition": "primitive, jawless fish with a round, sucking mouth lined with teeth, often living as parasites that attach to other fish to feed on their blood",
+        "zh": "七鳃鳗"
+      },
+      {
+        "form": "abundance",
+        "ipa": "/əˈbʌndəns/",
+        "pos": "n.",
+        "meaning": "大量，丰富，充足",
+        "definition": "a large quantity that is more than enough",
+        "zh": "大量，丰富，充足"
+      },
+      {
+        "form": "game",
+        "ipa": "/ɡeɪm/",
+        "pos": "n.",
+        "meaning": "猎物，供捕猎的野生动物或鸟类",
+        "definition": "wild animals or birds that people hunt for sport or food",
+        "zh": "猎物，供捕猎的野生动物或鸟类"
+      },
+      {
+        "form": "pheasants",
+        "ipa": "/ˈfeznt/",
+        "pos": "n.",
+        "meaning": "雉，野鸡，雉鸡肉",
+        "definition": "a large bird with a long tail, the male of which is brightly coloured; the bird is sometimes hunted for sport or food",
+        "zh": "雉，野鸡，雉鸡肉"
+      },
+      {
+        "form": "hares",
+        "ipa": "/heə(r)/",
+        "pos": "n.",
+        "meaning": "野兔",
+        "definition": "an animal like a large rabbit with very strong back legs that can run very fast",
+        "zh": "野兔"
+      },
+      {
+        "form": "thrushes",
+        "ipa": "/θrʌʃ/",
+        "pos": "n.",
+        "meaning": "鸫，鸫鸟（一种背部为褐色、胸部有褐色斑点的鸟，画眉鸟这一类的鸣禽）",
+        "definition": "small-to-medium-sized brown singing birds belonging to the thrush family (Turdidae), characterized by spotted breasts and melodic songs",
+        "zh": "鸫，鸫鸟（一种背部为褐色、胸部有褐色斑点的鸟，画眉鸟这一类的鸣禽）"
+      }
+    ],
+    "exerciseVocabularyPrompts": [
+      "a large area of land, usually in the country, that is owned by one person or family",
+      "not following one style or set of ideas but choosing from or using a wide variety"
+    ],
+    "exerciseChoicePrompt": "Which of the following underlined word is closest in meaning to the one in the sentence “Another common grocery product which made its way to Rome from overseas was the fish sauce with which the Romans liked to smother their food.”?",
+    "exerciseChoiceMarked": [
+      "smother"
+    ],
+    "exerciseOptions": [
+      {
+        "label": "A",
+        "text": "She smothered the small fire with a wet towel.",
+        "marked": [
+          "smothered"
+        ],
+        "zh": "她用湿毛巾扑灭火焰。"
+      },
+      {
+        "label": "B",
+        "text": "The government tried to smother public criticism of the new policy.",
+        "marked": [
+          "smother"
+        ],
+        "zh": "政府试图压制公众对新政策的批评意见。"
+      },
+      {
+        "label": "C",
+        "text": "The hills were smothered in thick fog by early morning.",
+        "marked": [
+          "smothered"
+        ],
+        "zh": "清晨时分，山丘被浓重的雾气笼罩，看不清其轮廓。"
+      },
+      {
+        "label": "D",
+        "text": "The mother smothered her child with kisses when he returned home.",
+        "marked": [
+          "smothered"
+        ],
+        "zh": "孩子一回家，母亲就抱住他亲个不停。"
+      }
+    ],
+    "exerciseTranslationPrompt": "虽然我们经常听到关于古罗马奢华晚宴的种种传说，但这种纸醉金迷的派对绝非常态，只有站在罗马社会权力金字塔最顶端的极少数人才有资格和财力享受这一切。",
+    "answerVocabularyList": [
+      "estate",
+      "eclectic"
+    ],
+    "answerChoice": "C",
+    "answerTranslation": "While we hear much of sumptuous Roman diner parties, these were far from the norm, apart from with the very top echelon of Roman society."
+  },
 ];
