@@ -1,7 +1,7 @@
 "use client";
 import { article01ReadingLesson } from "./article01Structure";
 
-import { CSSProperties, Fragment, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { CSSProperties, Fragment, useEffect, useMemo, useRef, useState, type PointerEvent, type ReactNode } from "react";
 import { taylorCommencementArticle } from "./taylor-commencement";
 import { TaylorVocabularyArticleBody } from "./TaylorVocabularyNotes";
 import { BrooksVocabularyArticleBody, VocabularyArticleBody, type VocabularyNoteTerm } from "./BrooksVocabularyNotes";
@@ -801,6 +801,10 @@ const moreReadingTopics: MoreReadingTopic[] = allMoreArticles.map((article) => (
   articleZh: article.titleZh,
 }));
 
+const moreArchiveYears = ["2020", "2021", "2022", "2023", "2024", "2025", "2026"];
+const periodKeyForTopic = (topic: MoreReadingTopic) => topic.date.slice(0, 7).replace(".", "");
+const availableMorePeriods = Array.from(new Set(moreReadingTopics.map(periodKeyForTopic))).sort();
+
 const commencementArticle = {
   title: "A Commencement Address Too Honest to Deliver in Person",
   byline: "By David Brooks, The Atlantic, Published May 13, 2020",
@@ -845,20 +849,23 @@ const readingIsAViceArticle: InquireFeatureArticle = {
 
 function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; onHome: () => void }) {
   const [selected, setSelected] = useState(0);
-  const [selectedQuestion, setSelectedQuestion] = useState<number | null>(0);
+  const [frontQuestion, setFrontQuestion] = useState(0);
+  const [selectedQuestion, setSelectedQuestion] = useState<number | null>(null);
   const [selectedResource, setSelectedResource] = useState<number | null>(null);
-  const [selectedMorePeriod, setSelectedMorePeriod] = useState(false);
-  const [selectedMorePeriodKey, setSelectedMorePeriodKey] = useState<string | null>(null);
+  const [selectedMoreArchiveKey, setSelectedMoreArchiveKey] = useState<string | null>(null);
   const [selectedMoreArticle, setSelectedMoreArticle] = useState<InquireFeatureArticle | null>(null);
   const [selectedJanuaryArticle, setSelectedJanuaryArticle] = useState<JanuaryMoreArticle | null>(null);
   const [selectedMoreArticleUrl, setSelectedMoreArticleUrl] = useState<string | null>(null);
-  const [jumpToPublication, setJumpToPublication] = useState(false);
+  const [readingTarget, setReadingTarget] = useState<string | null>(null);
   const januaryArticleFor = (key: MoreReadingKey) => allMoreArticles.find((article) => article.key === key);
-  const periodKeyForArticle = (article: JanuaryMoreArticle) => article.date.slice(0, 7).replace(".", "");
-  const periodKeyForTopic = (topic: MoreReadingTopic) => topic.date.slice(0, 7).replace(".", "");
-  const periodLabel = (periodKey: string | null) => periodKey ? `${periodKey.slice(0, 4)}年${periodKey.slice(4)}月` : "";
-  const periodTopics = selectedMorePeriodKey ? moreReadingTopics.filter((topic) => periodKeyForTopic(topic) === selectedMorePeriodKey) : [];
-  const availableMorePeriods = Array.from(new Set(moreReadingTopics.map(periodKeyForTopic))).sort();
+  const selectedMorePeriod = selectedMoreArchiveKey !== null;
+  const selectedMoreYear = selectedMoreArchiveKey?.slice(0, 4);
+  const yearPeriods = availableMorePeriods.filter((key) => key.slice(0, 4) === selectedMoreYear);
+  const selectedMorePeriodKey = selectedMoreArchiveKey?.length === 6 ? selectedMoreArchiveKey : yearPeriods[0] ?? null;
+  const periodLabel = selectedMorePeriodKey
+    ? `${selectedMorePeriodKey.slice(0, 4)}年${selectedMorePeriodKey.slice(4)}月`
+    : `${selectedMoreYear}年`;
+  const periodTopics = moreReadingTopics.filter((topic) => periodKeyForTopic(topic) === selectedMorePeriodKey);
   const featureArticleFor = (article: JanuaryMoreArticle): InquireFeatureArticle => ({
     title: article.title,
     byline: article.byline,
@@ -867,32 +874,32 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
     paragraphs: article.paragraphs,
   });
   useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const moreKey = params.get("more");
-    const moreTopic = moreReadingTopics.find((topic) => topic.key === moreKey);
-    const requestedPeriod = moreKey && /^2026(?:0[1-9]|1[0-2])$/.test(moreKey) ? moreKey : moreTopic ? periodKeyForTopic(moreTopic) : null;
-    if (params.get("open") === "inquire" && requestedPeriod) {
-      setSelectedMorePeriod(true);
-      setSelectedMorePeriodKey(requestedPeriod);
-      if (moreTopic) {
-        const moreArticle = januaryArticleFor(moreTopic.key);
-        if (moreArticle) {
-          setSelectedJanuaryArticle(moreArticle);
-          setSelectedMoreArticle(featureArticleFor(moreArticle));
-          setSelectedMoreArticleUrl(moreTopic.url ?? null);
-        }
+    function restoreArchive() {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("open") !== "inquire") return;
+      const moreKey = params.get("more");
+      const topic = moreReadingTopics.find((item) => item.key === moreKey);
+      const article = topic && januaryArticleFor(topic.key);
+      const isArchive = moreKey && moreArchiveYears.includes(moreKey.slice(0, 4))
+        && (moreKey.length === 4 || /^\d{4}(?:0[1-9]|1[0-2])$/.test(moreKey));
+      setSelectedMoreArchiveKey(topic ? periodKeyForTopic(topic) : isArchive ? moreKey : null);
+      setSelectedJanuaryArticle(article ?? null);
+      setSelectedMoreArticle(article ? featureArticleFor(article) : null);
+      setSelectedMoreArticleUrl(topic?.url ?? null);
+      if (article) setReadingTarget("inquire-reading");
+      if (!isArchive && !topic && params.get("task") === "travel") {
+        setSelected(8);
+        setSelectedQuestion(1);
       }
-      setJumpToPublication(true);
-      return;
     }
-    if (params.get("open") === "inquire" && params.get("task") === "travel") {
-      setSelected(8);
-      setSelectedQuestion(1);
-    }
+    restoreArchive();
+    window.addEventListener("popstate", restoreArchive);
+    return () => window.removeEventListener("popstate", restoreArchive);
   }, []);
   const isTaskTopic = selected >= 5;
   const questions = inquirySets[selected] ?? [];
   const activeQuestion = selectedQuestion === null ? null : questions[selectedQuestion];
+  const frontQuestionIndex = selectedQuestion ?? frontQuestion;
   const selectedResourceData = selectedResource === null ? undefined : activeQuestion?.resources[selectedResource];
   const isTaylorArticle = !selectedMoreArticle && selected === 0 && selectedQuestion === 0 && selectedResource === 0;
   const isCommencementArticle = !selectedMoreArticle && selected === 0 && selectedQuestion === 0 && selectedResource === 1;
@@ -967,8 +974,7 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
                                 : undefined;
   const selectedFeatureArticle = selectedMorePeriod ? selectedMoreArticle : (selectedMoreArticle ?? mappedFeatureArticle);
   const clearMoreReading = () => {
-    setSelectedMorePeriod(false);
-    setSelectedMorePeriodKey(null);
+    setSelectedMoreArchiveKey(null);
     setSelectedMoreArticle(null);
     setSelectedJanuaryArticle(null);
     setSelectedMoreArticleUrl(null);
@@ -978,51 +984,65 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
       window.history.replaceState({}, "", url.toString());
     }
   };
-  const openMorePeriod = (periodKey = "202601") => {
-    setSelectedMorePeriod(true);
-    setSelectedMorePeriodKey(periodKey);
+  const swayReadingPhoto = (event: PointerEvent<HTMLButtonElement>) => {
+    if (event.pointerType !== "mouse" || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const photo = event.currentTarget;
+    const bounds = photo.getBoundingClientRect();
+    const direction = event.clientX < bounds.left + bounds.width / 2 ? -1 : 1;
+    photo.getAnimations().find((animation) => animation.id === "inquire-wind")?.cancel();
+    const swing = photo.animate([0, 8, -5.5, 3, -1.5, 0].map((angle) => ({
+      transform: `rotate(${angle * direction}deg)`,
+      easing: "ease-in-out",
+    })), { duration: 920 });
+    swing.id = "inquire-wind";
+  };
+  const selectReadingPath = (index: number) => {
+    if (selected === index && selectedResource === null) return;
+    clearMoreReading();
+    setSelected(index);
+    setFrontQuestion(0);
+    setSelectedQuestion(null);
+    setSelectedResource(null);
+  };
+  const openMoreArchive = (archiveKey: string) => {
+    setSelectedMoreArchiveKey(archiveKey);
     setSelectedResource(null);
     setSelectedMoreArticle(null);
     setSelectedJanuaryArticle(null);
     setSelectedMoreArticleUrl(null);
     const url = new URL(window.location.href);
     url.searchParams.set("open", "inquire");
-    url.searchParams.set("more", periodKey);
-    window.history.replaceState({}, "", url.toString());
-    setJumpToPublication(true);
-  };
-  const backToMorePeriod = () => {
-    setSelectedMoreArticle(null);
-    setSelectedJanuaryArticle(null);
-    setSelectedMoreArticleUrl(null);
-    const url = new URL(window.location.href);
-    url.searchParams.set("open", "inquire");
-    url.searchParams.set("more", selectedMorePeriodKey ?? "202601");
-    window.history.replaceState({}, "", url.toString());
+    url.searchParams.set("more", archiveKey);
+    if (url.href !== window.location.href) window.history.pushState(window.history.state, "", url);
+    window.scrollTo({ top: 0 });
   };
   const openMoreReading = (topic: MoreReadingTopic) => {
     const moreArticle = januaryArticleFor(topic.key);
     if (!moreArticle) return;
-    setSelectedMorePeriod(true);
-    setSelectedMorePeriodKey(periodKeyForTopic(topic));
+    setSelectedMoreArchiveKey(periodKeyForTopic(topic));
     setSelectedJanuaryArticle(moreArticle);
     setSelectedMoreArticle(featureArticleFor(moreArticle));
     setSelectedMoreArticleUrl(topic.url ?? null);
     const url = new URL(window.location.href);
     url.searchParams.set("open", "inquire");
     url.searchParams.set("more", topic.key);
-    window.history.replaceState({}, "", url.toString());
-    setJumpToPublication(true);
+    if (url.href !== window.location.href) window.history.pushState(window.history.state, "", url);
+    setReadingTarget("inquire-reading");
   };
   useEffect(() => {
-    if (!jumpToPublication) return;
+    if (!readingTarget) return;
     const frame = window.requestAnimationFrame(() => {
-      document.getElementById("inquire-reading")?.scrollIntoView({ behavior: "smooth", block: "start" });
-      setJumpToPublication(false);
+      const target = document.getElementById(readingTarget);
+      if (target instanceof HTMLElement) {
+        target.focus({ preventScroll: true });
+        target.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+      setReadingTarget(null);
     });
     return () => window.cancelAnimationFrame(frame);
-  }, [jumpToPublication]);
+  }, [readingTarget]);
   const isCommencementStyle = isTaylorArticle || isCommencementArticle || Boolean(selectedFeatureArticle);
+  const isArchiveOverview = Boolean(selectedMorePeriod && !selectedFeatureArticle);
   const opensPublication = Boolean(selectedMorePeriod || (selectedResourceData && !selectedResourceData.referenceOnly && (isTaylorArticle || selectedFeatureArticle || isTaskTopic || !["YouTube", "TED Talk", "TV series", "Film"].includes(selectedResourceData.source))));
   const resourceImages: Record<string, string> = {
     "0-0-0": "https://assets.negentropylearning.com.cn/media/inquire-taylor.png", "0-0-1": "https://assets.negentropylearning.com.cn/media/inquire-clock.png", "0-1-0": "https://assets.negentropylearning.com.cn/media/inquire-individualism.png", "0-2-0": "https://assets.negentropylearning.com.cn/media/inquire-harvard.png", "0-2-1": "https://assets.negentropylearning.com.cn/media/inquire-columbia.png",
@@ -1047,38 +1067,82 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
     "9-2-0": "/inquire-assets/09-silent-spring-cover.png", "9-2-1": "/inquire-assets/09-americans-and-the-land-cover.png", "9-2-2": "/inquire-assets/09-walden-cover.png", "9-2-3": "/inquire-assets/09-china-climate-leader.jpg",
   };
 
+  const renderQuestionResources = (questionIndex: number, hidden = false) => (
+    <div id={`inquire-resources-${questionIndex + 1}`} className="inquire-materials" role="group" hidden={hidden}
+      aria-label={`Supplementary readings for ${isTaskTopic ? "task" : "question"} ${questionIndex + 1}`}>
+      {!hidden && questions[questionIndex].resources.map((resource, index) => {
+        const image = resourceImages[`${selected}-${questionIndex}-${index}`];
+        const isBookCover = (selected === 5 && questionIndex < 2) || (selected === 6 && questionIndex === 2) || (selected === 7 && questionIndex === 1 && index === 0) || (selected === 9 && (questionIndex === 0 || (questionIndex === 1 && index === 0) || (questionIndex === 2 && (index === 0 || index === 2))));
+        const isWideBookCover = selected === 9 && ((questionIndex === 0 && index === 1) || (questionIndex === 1 && index > 0) || (questionIndex === 2 && (index === 1 || index === 3)));
+        const isCurrentResource = selectedQuestion === questionIndex && selectedResource === index;
+        const imageClass = `inquire-resource-image${isBookCover ? " is-book-cover" : ""}${isWideBookCover ? " is-wide-book-cover" : ""}`;
+        return (
+          <button type="button" key={resource.title} className={`inquire-external-card${isCurrentResource ? " is-selected" : ""}`}
+            aria-pressed={isCurrentResource} onClick={() => {
+              setSelectedQuestion(questionIndex);
+              setSelectedResource(index);
+              setReadingTarget("inquire-publication");
+            }}>
+            {image ? <img className={imageClass} src={image} alt={isBookCover ? `Cover of ${resource.title}` : ""} loading="lazy" />
+              : <span className="inquire-resource-image is-placeholder" aria-hidden="true" />}
+            <span>EXTERNAL {String(index + 1).padStart(2, "0")}</span>
+            <strong>{resource.title}</strong>
+            <em>{resource.source}</em>
+          </button>
+        );
+      })}
+      {!hidden && questions[questionIndex].resources.length === 0 && (
+        <p className="inquire-empty-materials">No supplementary reading has been assigned yet.</p>
+      )}
+    </div>
+  );
+
   return (
     <main className={`inquire-page${selectedMorePeriod ? " is-more-page" : ""}`}>
       <Header view="guide" onNavigate={onNavigate} onHome={onHome} />
-      {!selectedMorePeriod && <section className="inquire-picker" aria-labelledby="inquire-picker-title">
-        <div className="inquire-picker-label">
-          <p className="eyebrow" id="inquire-picker-title">SUPPLEMENTARY READING</p>
-          <span>{activeQuestion ? `Resources for the selected ${isTaskTopic ? "task" : "question"}.` : `Choose a ${isTaskTopic ? "task" : "discussion question"} to reveal resources.`}</span>
-          <div className="inquire-more-inline">
-            <p className="eyebrow">MORE</p>
-            <div className="inquire-more-period-links" aria-label="More monthly external reading archives">
-              {availableMorePeriods.map((periodKey) => <button type="button" className="inquire-more-period-link" key={periodKey} onClick={() => openMorePeriod(periodKey)}>
-                <strong>{periodKey}</strong>
-              </button>)}
-            </div>
+      {!selectedMorePeriod && <section className="inquire-picker" aria-label="Inquire Lab resources">
+        <nav className="inquire-more-inline" aria-labelledby="inquire-more-title">
+          <p className="eyebrow" id="inquire-more-title">MORE</p>
+          <div className="inquire-more-period-links">
+            {moreArchiveYears.map((year) => <button type="button" className="inquire-more-period-link" key={year} onClick={() => openMoreArchive(year)}>{year}</button>)}
           </div>
-        </div>
-        <div className={`inquire-materials${selected === 7 && selectedQuestion === 1 ? " is-eight-task-two" : ""}${selected === 9 && selectedQuestion === 2 ? " is-climate-2x2" : ""}`} aria-live="polite" aria-label="Supplementary reading resources">
-          {activeQuestion?.resources.map((resource, index) => {
-            const image = selectedQuestion === null ? undefined : resourceImages[`${selected}-${selectedQuestion}-${index}`];
-            const isBookCover = (selected === 5 && (selectedQuestion === 0 || selectedQuestion === 1)) || (selected === 6 && selectedQuestion === 2) || (selected === 7 && selectedQuestion === 1 && index === 0) || (selected === 9 && selectedQuestion === 0) || (selected === 9 && selectedQuestion === 1 && index === 0) || (selected === 9 && selectedQuestion === 2 && (index === 0 || index === 2));
-            const isWideBookCover = (selected === 9 && selectedQuestion === 0 && index === 1) || (selected === 9 && selectedQuestion === 1 && (index === 1 || index === 2)) || (selected === 9 && selectedQuestion === 2 && (index === 1 || index === 3));
-            const thumbnail = image ? <img className={`inquire-resource-image${isBookCover ? " is-book-cover" : ""}${isWideBookCover ? " is-wide-book-cover" : ""}`} src={image} alt={isBookCover ? `Cover of ${resource.title}` : ""} /> : <span className="inquire-resource-image is-placeholder" aria-hidden="true" />;
-            return <button type="button" className={`inquire-external-card${selectedResource === index ? " is-selected" : ""}`} aria-pressed={selectedResource === index} onClick={() => { clearMoreReading(); setSelectedResource(index); }} key={resource.title}>{thumbnail}<span>EXTERNAL {String(index + 1).padStart(2, "0")}</span><strong>{resource.title}</strong><em>{resource.source}</em></button>;
-          })}
-          {activeQuestion && !activeQuestion.resources.length && <p className="inquire-empty-materials">No supplementary reading has been assigned to this {isTaskTopic ? "task" : "question"} yet.</p>}
-          {!activeQuestion && <p className="inquire-empty-materials">Select a {isTaskTopic ? "task" : "question"} on the right to reveal its supplementary readings.</p>}
-        </div>
+        </nav>
+        <nav className="inquire-path" aria-labelledby="inquire-path-title">
+          <div className="inquire-path-heading">
+            <p className="eyebrow" id="inquire-path-title">The Reading Path</p>
+            <button type="button" className="inquire-path-jump" onClick={() => setReadingTarget("inquire-reading")}>
+              {opensPublication ? "Continue reading" : isTaskTopic ? "View tasks" : "View questions"} <span aria-hidden="true">↓</span>
+            </button>
+          </div>
+          <div className="inquire-photo-scroll">
+            <ol className="inquire-photo-line">
+              {articles.map((article, index) => (
+                <li key={article.number} className={selected === index ? "is-current" : undefined}>
+                  <button type="button" className="inquire-path-card" aria-current={selected === index ? "true" : undefined}
+                    aria-label={`Unit ${article.number}, ${article.theme}. ${article.title}`}
+                    onPointerEnter={swayReadingPhoto} onClick={() => selectReadingPath(index)}>
+                    <img className="inquire-path-cover" src={article.image} alt="" loading="lazy" draggable={false} />
+                    <span className="inquire-path-topic">{article.theme === "Family Bonds" ? "Family" : article.theme}</span>
+                    <span className="inquire-path-unit">{article.number}</span>
+                    <strong className="inquire-path-title">{article.title}</strong>
+                  </button>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </nav>
       </section>}
 
       <section className={`inquire-workspace${selectedMorePeriod ? " is-more-publication" : ""}`} aria-label={selectedMorePeriod ? "More external reading" : "Inquire Lab workspace"}>
-        {selectedMorePeriod && <aside className="inquire-more-periods" aria-label={`${periodLabel(selectedMorePeriodKey)}外刊导航`}>
-          <button type="button" className="inquire-more-nav-back" onClick={clearMoreReading}>← BACK TO SUPPLEMENTARY READING</button>
+        {selectedMorePeriod && <nav className="inquire-more-navigation" aria-label="More archive navigation">
+          <button type="button" className="inquire-more-back" onClick={() => { clearMoreReading(); window.scrollTo({ top: 0 }); }}>← BACK TO INQUIRE LAB</button>
+          {yearPeriods.length > 0 && <div className="inquire-more-period-links" aria-label={`${selectedMoreYear}年月份导航`}>
+            {yearPeriods.map((periodKey) => <button type="button" className="inquire-more-period-link" key={periodKey}
+              aria-current={selectedMorePeriodKey === periodKey ? "date" : undefined}
+              onClick={() => openMoreArchive(periodKey)}>{periodKey}</button>)}
+          </div>}
+        </nav>}
+        {selectedMorePeriod && periodTopics.length > 0 && <aside className="inquire-more-periods" aria-label={`${periodLabel}外刊导航`}>
           <p className="eyebrow">{selectedMorePeriodKey}</p>
           <ol>
             {periodTopics.map((topic) => <li key={topic.key} className={selectedJanuaryArticle?.key === topic.key ? "is-current" : undefined}>
@@ -1089,16 +1153,21 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
             </li>)}
           </ol>
         </aside>}
-        {!selectedMorePeriod && <aside className="inquire-path" aria-label="Archive articles">
-          <p className="eyebrow">THE READING PATH</p>
-          <ol>
-            {articles.map((article, index) => <li key={article.number} className={selected === index ? "is-current" : ""}><button onClick={() => { clearMoreReading(); setSelected(index); setSelectedQuestion(null); setSelectedResource(null); }}><span>{article.number}</span><strong>{article.theme}</strong><em>{article.title}</em></button></li>)}
-          </ol>
-        </aside>}
+        {!selectedMorePeriod && opensPublication && selectedQuestion !== null && (
+          <div className="inquire-resource-rail">
+            {renderQuestionResources(selectedQuestion)}
+          </div>
+        )}
 
-        <aside id="inquire-reading" className={`inquire-prompts${opensPublication ? " is-reading-publication" : ""}${isCommencementStyle ? " is-commencement-article" : ""}`} aria-labelledby="prompt-title">
+        <aside id="inquire-reading" tabIndex={-1} className={`inquire-prompts${opensPublication ? " is-reading-publication" : " is-question-panel"}`} aria-label={opensPublication ? "External reading" : isTaskTopic ? "Tasks" : "Guiding questions"}>
           {opensPublication ? (
-            <article className={`inquire-publication${isCommencementStyle ? " is-commencement-style" : ""}`}>
+            <article id="inquire-publication" tabIndex={-1} className={`inquire-publication${isArchiveOverview ? "" : " is-reading-detail"}${isCommencementStyle ? " is-commencement-style" : ""}`}>
+              {!selectedMorePeriod && selectedQuestion !== null && (
+                <button type="button" className="inquire-more-back" onClick={() => {
+                  setSelectedResource(null);
+                  setReadingTarget(`inquire-question-${selectedQuestion + 1}`);
+                }}>← BACK TO {isTaskTopic ? "TASKS" : "QUESTIONS"}</button>
+              )}
               {isTaylorArticle ? <>
                 <p className="eyebrow">EXTERNAL READING · NEW YORK UNIVERSITY</p>
                 <h1><a href={selectedResourceData?.url} target="_blank" rel="noreferrer">{taylorCommencementArticle.title}</a></h1>
@@ -1110,10 +1179,10 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
                 <p className="inquire-publication-byline">{commencementArticle.byline}</p>
                 <p className="inquire-publication-dek">{commencementArticle.dek}</p>
                 <BrooksVocabularyArticleBody paragraphs={commencementArticle.paragraphs} />
-              </> : selectedMorePeriod && !selectedFeatureArticle ? <>
-                <p className="eyebrow">MORE EXTERNAL READINGS</p>
-                <h1>{selectedMorePeriodKey}</h1>
-                <div className="inquire-more-topics" aria-label={`${periodLabel(selectedMorePeriodKey)}外刊文章`}>
+              </> : isArchiveOverview ? <>
+                <h1>{selectedMorePeriodKey ?? selectedMoreYear}</h1>
+                <div className="inquire-more-topics" aria-label={`${periodLabel}外刊文章`}>
+                  {periodTopics.length === 0 && <p className="inquire-more-empty">No readings have been added for this {selectedMorePeriodKey ? "month" : "year"} yet.</p>}
                   {periodTopics.map((topic) => <button type="button" className="inquire-more-topic" key={topic.key} onClick={() => openMoreReading(topic)}>
                     <small>{topic.en}</small>
                     <time dateTime={topic.date}>{topic.date}</time>
@@ -1122,7 +1191,7 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
                   </button>)}
                 </div>
               </> : selectedFeatureArticle ? <>
-                {selectedMorePeriod && <button type="button" className="inquire-more-back" onClick={backToMorePeriod}>← {selectedMorePeriodKey}</button>}
+                {selectedMorePeriodKey && <button type="button" className="inquire-more-back" onClick={() => openMoreArchive(selectedMorePeriodKey)}>← {selectedMorePeriodKey}</button>}
                 <p className="eyebrow">{selectedFeatureArticle.eyebrow}</p>
                 <h1>{selectedJanuaryArticle && !selectedMoreArticleUrl ? selectedFeatureArticle.title : <a href={selectedMoreArticleUrl ?? selectedResourceData?.url} target="_blank" rel="noreferrer">{selectedFeatureArticle.title}</a>}</h1>
                 <p className="inquire-publication-byline">{selectedFeatureArticle.byline}</p>
@@ -1136,8 +1205,45 @@ function InquireLab({ onNavigate, onHome }: { onNavigate: (view: View) => void; 
               </>}
             </article>
           ) : <>
-            <p className="eyebrow" id="prompt-title">{isTaskTopic ? "TASKS" : "GUIDING QUESTIONS"}</p>
-            {questions.map((question, index) => <button className={`inquire-question${selectedQuestion === index ? " is-selected" : ""}`} key={question.en} onClick={() => { clearMoreReading(); setSelectedQuestion(index); setSelectedResource(null); }}><span>{isTaskTopic ? `0${index + 1}` : String(index + 1).padStart(2, "0")}</span><div><h2>{question.en}</h2><p className="inquire-question-translation">{question.zh}</p>{question.details && <ul className="inquire-task-details">{question.details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}</div></button>)}
+            <div className="inquire-question-deck">
+              {questions.map((question, index) => {
+                const relativeIndex = (index - frontQuestionIndex + questions.length) % questions.length;
+                const position = relativeIndex === 0 ? "front" : relativeIndex === 1 ? "right" : "left";
+                return (
+                  <button type="button" key={question.en} id={`inquire-question-${index + 1}`}
+                    className="inquire-question" data-position={position}
+                    aria-expanded={selectedQuestion === index} aria-controls={`inquire-resources-${index + 1}`}
+                    onKeyDown={(event) => {
+                      if (position !== "front" || !["ArrowDown", "ArrowUp"].includes(event.key)) return;
+                      const copy = event.currentTarget.querySelector(".inquire-question-copy");
+                      if (!copy) return;
+                      const step = event.key === "ArrowDown" ? 32 : -32;
+                      const last = copy.scrollHeight - copy.clientHeight;
+                      const next = Math.max(0, Math.min(last, copy.scrollTop + step));
+                      if (next !== copy.scrollTop) {
+                        event.preventDefault();
+                        copy.scrollTo({ top: next, behavior: "instant" });
+                      }
+                    }}
+                    onClick={() => {
+                      setFrontQuestion(index);
+                      setSelectedQuestion(selectedQuestion === index ? null : index);
+                      setSelectedResource(null);
+                    }}>
+                    <span className="inquire-question-number">{String(index + 1).padStart(2, "0")}</span>
+                    <div className="inquire-question-copy">
+                      <h2>{question.en}</h2>
+                      <p className="inquire-question-translation" lang="zh-CN">{question.zh}</p>
+                      {question.details && <ul className="inquire-task-details">{question.details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}
+                    </div>
+                    <span className="inquire-question-toggle" aria-hidden="true" />
+                  </button>
+                );
+              })}
+            </div>
+            <div className="inquire-deck-readings">
+              {questions.map((question, index) => <Fragment key={question.en}>{renderQuestionResources(index, selectedQuestion !== index)}</Fragment>)}
+            </div>
           </>}
         </aside>
       </section>
