@@ -5,20 +5,27 @@ set -Eeuo pipefail
 bundle_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
 base=/opt/learningwithrachel
 current="$base/current"
-[[ -L "$current" && -d "$bundle_dir/server" && -d "$bundle_dir/public" ]] || {
-  echo 'Existing deployment or new release files are missing.' >&2; exit 1;
-}
+[[ -L "$current" ]] || { echo 'Existing deployment is missing.' >&2; exit 1; }
+exec 9>"$base/.deploy.lock"
+flock -n 9 || { echo 'Another release is in progress.' >&2; exit 1; }
 systemctl is-active --quiet learningwithrachel
 systemctl is-active --quiet nginx
 nginx -t
 previous=$(readlink -f "$current")
 release_dir="$base/releases/$(date -u +%Y%m%dT%H%M%SZ)"
 [[ ! -e "$release_dir" ]] || { echo "Release already exists: $release_dir" >&2; exit 1; }
-install -d -m 0755 "$release_dir"
-cp -a "$bundle_dir/server" "$bundle_dir/public" "$release_dir/"
-if [[ -f "$bundle_dir/deployment.json" ]]; then cp -a "$bundle_dir/deployment.json" "$release_dir/"; fi
-chown -R root:root "$release_dir"
-chmod -R u=rwX,go=rX "$release_dir"
+if [[ -f "$bundle_dir/incremental.json" ]]; then
+  node "$bundle_dir/incremental-release.mjs" "$bundle_dir" "$previous" "$release_dir"
+else
+  [[ -d "$bundle_dir/server" && -d "$bundle_dir/public" ]] || {
+    echo 'New release files are missing.' >&2; exit 1;
+  }
+  install -d -m 0755 "$release_dir"
+  cp -a "$bundle_dir/server" "$bundle_dir/public" "$release_dir/"
+  if [[ -f "$bundle_dir/deployment.json" ]]; then cp -a "$bundle_dir/deployment.json" "$release_dir/"; fi
+  chown -R root:root "$release_dir"
+  chmod -R u=rwX,go=rX "$release_dir"
+fi
 switched=0
 rollback() {
   if [[ "$switched" == 1 ]]; then

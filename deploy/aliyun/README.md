@@ -34,6 +34,28 @@ ALIYUN_TEST_URL=http://127.0.0.1:8080 node scripts/verify-aliyun-routes.mjs
 
 ## Updating an existing deployment
 
+For routine changes, build as above and use the release manifest of the version currently running on ECS. For the first incremental update, use that version's saved full archive in place of the JSON file.
+
+```sh
+node scripts/package-aliyun.mjs --base dist/aliyun-manifests/<active-source-commit>.json
+```
+
+Use the actual full commit in the manifest filename. Keep the generated manifest for each version deployed successfully. The incremental archive contains updated files, a manifest, and the same release updater. It reuses unchanged files on the server using hard links, so the previous version remains available for rollback. The updater checks the active commit and its file hashes before switching the site. Use a full release if the active files no longer match the saved baseline.
+
+Upload the incremental archive and verify it against the generated SHA-256. Use a fresh temporary directory and remove it automatically after the updater completes, including when an update fails.
+
+```bash
+(
+  set -euo pipefail
+  cd /root
+  sha256sum -c SHA256SUMS
+  stage=$(mktemp -d /tmp/rachel-release.XXXXXX)
+  trap 'rm -rf -- "$stage"' EXIT
+  tar -xzf /root/learningwithrachel-incremental.tar.gz -C "$stage"
+  bash "$stage/learningwithrachel/update-release.sh"
+)
+```
+
 Build and package a new release, transfer the archive to the ECS instance, verify its SHA-256, then extract it and run `bash learningwithrachel/update-release.sh` as root. The updater requires an existing healthy deployment. It copies the new release into a dated directory, switches the `current` symlink, restarts the application, and checks the local preview and both HTTPS production hostnames. If a check fails, it restores the previous release and restarts the application. It does not change DNS, TLS certificates, Nginx configuration, or R2 objects. Keep the previous release until the public site has been checked from outside the server.
 
 ## Public preview after local readiness
